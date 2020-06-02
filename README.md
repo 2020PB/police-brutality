@@ -42,8 +42,9 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Tennessee](./Tennessee.md)
   * [Texas](./Texas.md)
   * [Utah](./Utah.md)
-  * [Virginia ](./Virginia.md)
-  * [Washington ](./Washington.md)
+  * [Virginia](./Virginia.md)
+  * [Washington](./Washington.md)
+  * [Washington D.C.](./Washington-DC.md)
   * [New York State](./New-York-State.md)
-  * [Unknown Locations](./Unknown-Locations.md)
+  * [Unknown Location](./Unknown-Location.md)
 
