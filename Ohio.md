@@ -51,3 +51,15 @@ Democratic Rep. Joyce Beatty was pepper sprayed by Columbus, Ohio, police during
 * https://twitter.com/politico/status/1266866982919516160
 * https://twitter.com/TimWCBD/status/1266787064735043591
 * https://twitter.com/KRobPhoto/status/1266796191469252610
+
+### Police push and pepper spray reporters from The Lantern newspaper | June 1st
+
+Location: Starbucks at the intersection of Lane Avenue and North High Street
+
+Three reporters repeatedly tell police that they are members of the press and show their passes. Reporters are exempt from curfew but the police instruct them to leave regardless, then spray the Lantern reporters with pepper spray.
+
+**Links**
+
+* https://www.thelantern.com/2020/06/columbus-mayor-police-chief-address-protest-policing-pepper-spray-of-lantern-journalists/
+* https://twitter.com/TheLantern/status/1267644471317090305
+* https://twitter.com/maevewalsh27/status/1267646128289447939
