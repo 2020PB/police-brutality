@@ -17,7 +17,7 @@ A FWPD Officer fired a tear gas cannister on protestors face. He went on to rupt
 
 * https://i.redd.it/4qzvp2gd54251.jpg
 
-### Toddler tear gassed by police
+### Toddler teargassed by police | May 30th
 
 A toddler and her mother were driving through downtown and had to leave their car due to tear gas in the road. The toddler was then teargassed twice about ten minutes apart.
 
