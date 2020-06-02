@@ -2,7 +2,7 @@
 
 ### Police shove and scream at men walking down the street | May 30th
 
-Police screamed at men walking away from them to move and violently shoved one to the ground when they were not satisfied with his speed.
+Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
 **Links**
 
