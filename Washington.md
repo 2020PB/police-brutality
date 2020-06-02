@@ -24,3 +24,9 @@ Police pepper sprays a young child who is seen crying, while protesters pour mil
 **Links**
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
+
+### Police initiate violence | June 1
+
+Police pepper spray peacefully protesting crowd
+
+* https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
