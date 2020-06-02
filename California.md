@@ -1,3 +1,14 @@
+## Compton
+
+### Police beat person on the ground | (believed to be) June 1st
+
+Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person.
+
+[This Reddit comment](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/) asserts these police are members of the LASD.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
 
 ## La Mesa
 
