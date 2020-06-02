@@ -1,0 +1,82 @@
+
+## La Mesa
+
+### Police shoot woman in the face | May 31st
+
+It is clearly seen that the woman was shot in the face, and was bleeding profusely
+
+**Links**
+
+* https://mobile.twitter.com/etpartipredsct1/status/1266935860865298432
+
+
+## Los Angeles
+
+### Police intimidate person filming them by shooting at apartment building | May 30th
+
+The police are seen to threaten and try to scare the residents of the apartment building, the POV of the video is from. At 0:45 a shot is fired by the police, in order to get the residents of the apartments, off their balconies and into their homes.
+
+**Links**
+
+* https://mobile.twitter.com/Sarah_Mojarad/status/1266633046591078400?s=09
+
+### Police fire rubber/pepper bullets at innocent protestors | May 31st
+
+The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them. Blatant disregard for the individuals' safety.
+
+**Links**
+
+* https://twitter.com/MatthewSantoro/status/1266916709304201216
+
+### Police officer puts his knee on a protesters neck, is pulled off | May 31st
+
+A police officer has his knee on a woman's neck, who already had 3 police officers on her. A different officer had to pull him away. 
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gturig/cop_has_his_knee_on_a_womans_neck_even_though/
+
+## Oakland
+
+### Officer runs down protesters with police cruiser | Believed to be May 30th
+
+A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
+
+## Sacramento
+
+### Police shoot protester in the head | May 31st
+
+A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
+
+**Links**
+* https://twitter.com/xotrevonantonio/status/1266994330054479874
+* https://youtu.be/pRmBO34aXME
+
+
+## San Jose
+
+### Police shoot a projectile at a protestor | May 31st
+
+A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests. 
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gtksgq/cop_decides_to_shoot_at_protestor_who_hurt_his/
+* https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
+
+
+
+## Santa Ana
+
+### Police open fire on protestors | May 31st
+
+The individual recording the video is trying his best to save his fellow protestor, however his cries are upon deaf ears, the police continue to shoot at them around 0:16
+
+**Links**
+
+* https://twitter.com/YourAnonCentral/status/1266991237355069442
+
