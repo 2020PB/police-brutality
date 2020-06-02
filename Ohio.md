@@ -43,3 +43,15 @@ Police drive their car towards protestors in order to disperse them
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
+
+### Police push and pepper spray reporters from The Lantern newspaper | June 1st
+
+Location: Starbucks at the intersection of Lane Avenue and North High Street
+
+Three reporters repeatedly tell police that they are members of the press and show their passes. Reporters are exempt from curfew but the police instruct them to leave regardless, then spray the Lantern reporters with pepper spray.
+
+**Links**
+
+* https://www.thelantern.com/2020/06/columbus-mayor-police-chief-address-protest-policing-pepper-spray-of-lantern-journalists/
+* https://twitter.com/TheLantern/status/1267644471317090305
+* https://twitter.com/maevewalsh27/status/1267646128289447939
