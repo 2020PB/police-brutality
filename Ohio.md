@@ -52,7 +52,7 @@ Democratic Rep. Joyce Beatty was pepper sprayed by Columbus, Ohio, police during
 * https://twitter.com/TimWCBD/status/1266787064735043591
 * https://twitter.com/KRobPhoto/status/1266796191469252610
 
-### Police push a pepper spray reporters from The Lantern newspaper | June 1st
+### Police push and pepper spray reporters from The Lantern newspaper | June 1st
 
 Location: Starbucks at the intersection of Lane Avenue and North High Street
 
