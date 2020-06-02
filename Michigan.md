@@ -27,10 +27,12 @@ Police teargassed and shot rubber bullets at reporters, despite clearly identify
 
 ## Grand Rapids
 
-### Cops fire flare at a man’s face. | May 31st.
+### Cops fire flare at a man’s face | May 31st
+
+A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face.  The man turns away, and then a fire flare is shot by a different officer directly into the man's head. 
 
 **Links**
 
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/gub8fx/police_shoot_protestor_point_blank_in_the_face/
-
 * https://www.fox17online.com/news/local-news/grand-rapids/grpd-conducting-internal-investigation-after-viral-video-of-man-being-pepper-sprayed
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gv3xuu/police_in_grand_rapids_michigan_spray_a_man/
