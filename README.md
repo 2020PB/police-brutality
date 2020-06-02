@@ -15,6 +15,15 @@ It is clearly seen that the woman was shot in the face, and was bleeding profuse
 
 * https://mobile.twitter.com/etpartipredsct1/status/1266935860865298432
 
+## Long Beach
+
+### Reporter shot in neck by rubber bullet
+
+Photo shows large bruise the reporter got from a rubber bullet
+
+**Links**
+
+* https://laist.com/2020/05/31/reporters_injured_protests_police.php
 
 ## Los Angeles
 
@@ -118,6 +127,23 @@ Police shoot some pepper balls at a car with a prenant woman inside. The driver 
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gumff6/denver_police_fire_pepper_balls_at_a_car_with_a/
 
+### Reporter shot with multiple pepper balls
+
+He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
+
+**Links**
+
+* https://www.denverpost.com/2020/05/29/denver-post-photographer-pepper-balls-george-floyd-protest/
+
+# District of Columbia
+
+### Riot Police rams shield into reporter
+
+The video shows the officer running straight at the reporter with his shield out in front of him
+
+**Links**
+
+* https://twitter.com/AleemMaqbool/status/1267319521486004225?s=20
 
 # Florida
 
@@ -244,6 +270,23 @@ Police screamed at a couple of men to move and violently shoved him to the groun
 **Links**
 
 * https://twitter.com/AkramG03/status/1266876680142049282
+
+### Police pepperspray reporter holding up media badge | May 30th
+
+Detroit Police pepperspray a reporter in the face while he holds up a media badge
+
+**Links**
+
+* https://twitter.com/DetroitReporter/status/1266957225114861568
+* https://www.freep.com/story/news/local/michigan/detroit/2020/06/01/journalists-targeted-police-protests-detroit/5302659002/
+
+### Police shoot rubber bullets at reporters | May 30th
+
+Police teargassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
+
+**Links**
+
+* https://twitter.com/reporterdavidj/status/1266966021077962752
 
 ## Grand Rapids
 
@@ -409,6 +452,128 @@ Police were seen walking a detained man down the sidewalk before shoving him to 
 * https://twitter.com/LasVegasLocally/status/1267210841595604992
 * https://www.instagram.com/p/CA14rooHIC6/?utm_source=ig_web_copy_link
 
+# New York State
+
+## Rochestor
+
+### Police shoot at people filming | May 31st
+
+Police are seen to shoot at individuals who were recording an incedent
+
+**Links**
+* https://twitter.com/bleeezyy_/status/1266894195865931778
+
+
+## New York City
+
+### Police pull off protesters mask to pepper spray him | May 31st
+
+A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened. 
+
+**Links**
+
+* https://twitter.com/_doreenpt/status/1266994439039455232
+
+
+### NYPD beat people with batons | May 30th
+
+The NYPD Squad are seen beating protestors with batons and pushing them around. 
+
+**Links**
+
+* https://twitter.com/j0ncampbell/status/1266514356071735296
+
+### Cop shoves a guy into a metal fence | May 30th
+
+A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
+
+**Links**
+
+* https://twitter.com/ZachReports/status/1266557305107202049
+
+### Cop shoving a person to the ground towards metal trash bins | May 30th
+
+An NYPD officer pushes a civilian down towards trash cans. 
+
+**Links**
+
+* https://twitter.com/crankberries/status/1266584559245803522
+
+### NYPD rams protesters | May 31st
+
+A NYPD squad car is driven into civilians, ramming them out of its path. 
+
+
+**Links**
+
+* https://twitter.com/pgarapon/status/1266885414016688134
+* https://twitter.com/mkultranews/status/1266893237450498048
+
+### Police assault protesters | May 31st 
+
+Police officers are seen beating and assaulting men and women for standing around peacefully. 
+
+**Links**
+
+* https://twitter.com/theactivistTati/status/1266889419858075649
+
+### Police shove woman to the ground, inducing a seizure | May 30th
+
+Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
+
+**Links**
+
+* https://twitter.com/whitney_hu/status/1266540710188195843
+
+### Police chase down and assault protesters | May 30th
+
+Policement beat and shove protestors to the ground.
+
+**Links**
+
+* https://twitter.com/BTSsavedmylife9/status/1266754310161006594
+
+### Police drive by man and hit him with car door | May 30th
+
+Policeman deliberately opens car door to knock an individual down to the ground.
+
+**Links**
+
+* https://twitter.com/DriveWendys/status/1266555286678048770
+
+### Officer shoves woman to the ground, calls her a "stupid bitch" | May 30th
+
+The officer pushes a woman down, and screams at her that she is a stupid bitch.
+
+**Links**
+
+* https://twitter.com/JasonLemon/status/1266529475757510656
+
+### State senator pepper sprayed | May 31st
+
+Image shows the senator with pepper spray in his eyes.
+
+**Links**
+
+* https://twitter.com/zellnor4ny/status/1266802303807500288
+
+### Protesters with hands up assaulted by police | May 31st
+
+Protestors had their hands up, yet were pepper sprayed in the face
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gu2u28/more_documented_aggression_in_flatbush_brooklyn/
+
+### Huffpost reporter is arrested by NYPD | May 30th
+
+Despite clearly identifying himself, the reporter was taken into custody during a protest
+
+**Links**
+
+* https://twitter.com/HuffPost/status/1266936484692725766
+* https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
+
 # Ohio
 
 ## Cincinnati
@@ -517,10 +682,6 @@ The journalist was trying to get a closer look at the police, while they were be
 **Links**
 
 * https://twitter.com/mkultranews/status/1267305587206807553
-
-### Philadepphia Police Trap Protesters on Highway, Then Tear Gas Them
-**Links**
-* https://www.reddit.com/r/PublicFreakout/comments/guve5f/philadelphia_police_traps_protesters_on_highway/
 
 # Tennessee
 
@@ -678,119 +839,6 @@ Police pepper sprays a young child who is seen crying, while protesters pour mil
 **Links**
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
-
-# New York State
-
-## Rochestor
-
-### Police shoot at people filming | May 31st
-
-Police are seen to shoot at individuals who were recording an incedent
-
-**Links**
-* https://twitter.com/bleeezyy_/status/1266894195865931778
-
-
-## New York City
-
-### Police pull off protesters mask to pepper spray him | May 31st
-
-A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened. 
-
-**Links**
-
-* https://twitter.com/_doreenpt/status/1266994439039455232
-
-
-### NYPD beat people with batons | May 30th
-
-The NYPD Squad are seen beating protestors with batons and pushing them around. 
-
-**Links**
-
-* https://twitter.com/j0ncampbell/status/1266514356071735296
-
-### Cop shoves a guy into a metal fence | May 30th
-
-A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
-
-**Links**
-
-* https://twitter.com/ZachReports/status/1266557305107202049
-
-### Cop shoving a person to the ground towards metal trash bins | May 30th
-
-An NYPD officer pushes a civilian down towards trash cans. 
-
-**Links**
-
-* https://twitter.com/crankberries/status/1266584559245803522
-
-### NYPD rams protesters | May 31st
-
-A NYPD squad car is driven into civilians, ramming them out of its path. 
-
-
-**Links**
-
-* https://twitter.com/pgarapon/status/1266885414016688134
-* https://twitter.com/mkultranews/status/1266893237450498048
-
-### Police assault protesters | May 31st 
-
-Police officers are seen beating and assaulting men and women for standing around peacefully. 
-
-**Links**
-
-* https://twitter.com/theactivistTati/status/1266889419858075649
-
-### Police shove woman to the ground, inducing a seizure | May 30th
-
-Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
-
-**Links**
-
-* https://twitter.com/whitney_hu/status/1266540710188195843
-
-### Police chase down and assault protesters | May 30th
-
-Policement beat and shove protestors to the ground.
-
-**Links**
-
-* https://twitter.com/BTSsavedmylife9/status/1266754310161006594
-
-### Police drive by man and hit him with car door | May 30th
-
-Policeman deliberately opens car door to knock an individual down to the ground.
-
-**Links**
-
-* https://twitter.com/DriveWendys/status/1266555286678048770
-
-### Officer shoves woman to the ground, calls her a "stupid bitch" | May 30th
-
-The officer pushes a woman down, and screams at her that she is a stupid bitch.
-
-**Links**
-
-* https://twitter.com/JasonLemon/status/1266529475757510656
-
-### State senator pepper sprayed | May 31st
-
-Image shows the senator with pepper spray in his eyes.
-
-**Links**
-
-* https://twitter.com/zellnor4ny/status/1266802303807500288
-
-### Protesters with hands up assaulted by police | May 31st
-
-Protestors had their hands up, yet were pepper sprayed in the face
-
-**Links**
-
-* https://www.reddit.com/r/2020PoliceBrutality/comments/gu2u28/more_documented_aggression_in_flatbush_brooklyn/
 
 
 # Unknown Locations 
