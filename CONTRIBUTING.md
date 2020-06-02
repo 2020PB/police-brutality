@@ -6,16 +6,16 @@ We will document examples of excessive force being used by law enforcement offic
 
 Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
 
-### [Frequently Asked Questions](#Frequently-Asked-Questions)
-### [Code of Conduct](#Code-of-Conduct)
-### [How to Contribute](#How-to-Contribute)
-### [Incident Report Guidelines](#Incident-Report-Guidelines)
+* ### [Frequently Asked Questions](#Frequently-Asked-Questions-1)
+* ### [Code of Conduct](#Code-of-Conduct-1)
+* ### [How to Contribute](#How-to-Contribute-1)
+* ### [Incident Report Guidelines](#Incident-Report-Guidelines-1)
 
 ## Frequently Asked Questions
 
 ### How can I help?
 
-Check out [How to Contribute](#How-to-Contribute).
+Check out [How to Contribute](#How-to-Contribute-1).
 
 ### Where can I find evidence?
 
@@ -68,9 +68,9 @@ If you are here to bring awareness to what you see as inexcusable behavior by th
 
 There are many ways you can contribute to this effort.
 
-We need people to identify and research incidents, ensure that the current repository abides by the [incident report guidelines](#Incident-Report-Guidelines) and share the evidence accumulated here.
+We need people to identify and research incidents, ensure that the current repository abides by the [incident report guidelines](#Incident-Report-Guidelines-1) and share the evidence accumulated here.
 
-Before you start, please read our [code of conduct](#Code-of-Conduct).
+Before you start, please read our [code of conduct](#Code-of-Conduct-1).
 
 ### Adding & Updating Incident Reports
 
@@ -102,7 +102,7 @@ If you find the same incident in this repository, check the following:
 
 **If the incident has not been reported**
 
-If you have identified a new incident, ensure that it meets our [content standards](#Incident-Report-Guidelines).
+If you have identified a new incident, ensure that it meets our [content standards](#Incident-Report-Guidelines-1).
 
 #### 3. Share it!
 
@@ -111,7 +111,7 @@ Send it to your friends and bring attention to what you find.
 
 ### Maintaining the Repository
 
-If you would like to help maintain the repository, please read our [incident report guidelines](#Incident-Report-Guidelines).
+If you would like to help maintain the repository, please read our [incident report guidelines](#Incident-Report-Guidelines-1).
 
 #### Cleanup misinformation and poorly documented reports
 
