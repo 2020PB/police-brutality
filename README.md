@@ -14,11 +14,10 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 
 ## Background
 
-On May 25, 2020 an African American man named George Floyd was murdered by police officer Derek Chauvin in Minneapolis, a city with a police department [known for its use of excessive force](https://www.nytimes.com/2020/05/27/us/minneapolis-police.html). George Floyd's murder sparked a wave of protests across the nation as citizens became outraged by another example of police misconduct in the midst of a historic financial and public health crisis caused by the Coronavirus pandemic.
+On May 25, 2020 an African American man named George Floyd was murdered by police officer Derek Chauvin in Minneapolis, a city with a police department [known for its use of excessive force](https://www.nytimes.com/2020/05/27/us/minneapolis-police.html). George Floyd's murder sparked a wave of protests across the nation as citizens became outraged by another example of police misconduct in the midst of an historic financial and public health crisis caused by the Coronavirus pandemic.
 
-On the first day of these protests, numerous police departments violently cracked down on peaceful demonstrations and drastically escalated confrontations. As videos of these crack-downs circulated on social media over the following hours and days, the protests escalated nationally and every major city in the country saw mass protests, with some experiencing riots that resulted in mass property destruction and saw buildings burned down.
-
-During these protests, hundreds of incidents have been recorded where police engaged in unprovoked violent assaults, outright police brutality and unprovoked arrests and harassment.
+In response to the burgeoning civil unrest, numerous police departments violently cracked down on peaceful demonstrations and drastically escalated confrontations with otherwise non-aggressive protesters. As videos of these crack-downs circulated on social media over the following hours and days, the protests escalated nationally and every major city in the country saw mass protests, with some experiencing riots that resulted in mass property destruction and saw buildings burned down.
+As these protests have continued, hundreds of incidents have been recorded where police engaged in unprovoked violent assaults, outright police brutality and unprovoked arrests and harassment.
 
 ## Table of Contents
 
