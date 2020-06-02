@@ -24,3 +24,13 @@ A toddler and her mother were driving through downtown and had to leave their ca
 **Links**
 
 * https://wpta21.com/2020/05/31/toddler-tear-gassed-photo-goes-viral/#.XtUVqwf8OnF.facebook
+
+## Indianapolis
+
+### Police confiscate medical supplies from medical station | May 29th
+
+Police confiscate medical supplies from a medical station at Monument Circle.
+
+**Links**
+
+* https://www.facebook.com/AlexandraIndy/videos/10219444419838711
