@@ -39,7 +39,7 @@ A single man walks down a street towards a line of police.  The man stops to tal
 
 ## Kalamazoo
 
-### Police fire tear gas at prone protesters | June 2nd
+### Police fire tear gas at prone protesters | June 1st
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
