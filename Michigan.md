@@ -2,7 +2,7 @@
 
 ### Police shove and scream at men walking down the street | May 30th
 
-Police screamed at a couple of men to move and violently shoved him to the ground when they were not satisfied with his speed.
+Police screamed at men walking away from them to move and violently shoved one to the ground when they were not satisfied with his speed.
 
 **Links**
 
@@ -29,7 +29,7 @@ Police teargassed and shot rubber bullets at reporters, despite clearly identify
 
 ### Cops fire flare at a man’s face | May 31st
 
-A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face.  The man turns away, and then a fire flare is shot by a different officer directly into the man's head. 
+A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a fire flare is shot by a different officer directly into the man's head. 
 
 **Links**
 
