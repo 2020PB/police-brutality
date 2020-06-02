@@ -80,7 +80,7 @@ Policeman deliberately opens car door to knock an individual down to the ground.
 
 ### State senator pepper sprayed | May 31st
 
-Image shows the senator with pepper spray in his eyes.
+Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
 **Links**
 
