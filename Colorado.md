@@ -26,3 +26,11 @@ Police shoot some pepper balls at a car with a prenant woman inside. The driver 
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gumff6/denver_police_fire_pepper_balls_at_a_car_with_a/
+
+### Reporter shot with multiple pepper balls
+
+He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
+
+**Links**
+
+* https://www.denverpost.com/2020/05/29/denver-post-photographer-pepper-balls-george-floyd-protest/
