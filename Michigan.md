@@ -8,6 +8,23 @@ Police screamed at a couple of men to move and violently shoved him to the groun
 
 * https://twitter.com/AkramG03/status/1266876680142049282
 
+### Police pepperspray reporter holding up media badge | May 30th
+
+Detroit Police pepperspray a reporter in the face while he holds up a media badge
+
+**Links**
+
+* https://twitter.com/DetroitReporter/status/1266957225114861568
+* https://www.freep.com/story/news/local/michigan/detroit/2020/06/01/journalists-targeted-police-protests-detroit/5302659002/
+
+### Police shoot rubber bullets at reporters | May 30th
+
+Police teargassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
+
+**Links**
+
+* https://twitter.com/reporterdavidj/status/1266966021077962752
+
 ## Grand Rapids
 
 ### Cops fire flare at a man’s face. | May 31st.
