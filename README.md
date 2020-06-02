@@ -44,6 +44,6 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Utah](./Utah.md)
   * [Virginia ](./Virginia.md)
   * [Washington ](./Washington.md)
-  * [New York State](./New-York-State.md)
+  * [New York State](./New%20York.md)
   * [Unknown Locations](./Unknown-Locations.md)
 
