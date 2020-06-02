@@ -21,11 +21,13 @@ Check out [How to Contribute](#How-to-Contribute-1).
 
 Check out the [gather evidence](#1-Gather-evidence) section.
 
-### How do I make a pull request / what is a pull request?
+### <a name="make-pr"></a> How do I make a pull request / what is a pull request?
 
 A pull request is a feature of the git version control system which allows you to directly propose an edit to the maintainers of a repository.
 
-Check out [this tutorial](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) about making pull requests on Github.
+For major changes, check out [this tutorial](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to learn how to fork github repositories and make pull requests.
+
+For minor changes and file edits, check the [Submission Guide](#Submission-Guide) to learn how to directly propose edits using Github's text editor.
 
 ### How do I report bad information if I don't want to make a PR?
 
@@ -54,9 +56,9 @@ Share the evidence accumulated here with concerned citizens, congress members, a
 
 If people ask how to contribute, send them tutorials for using Github and provide sources they can use to find new evidence. Send them to this page!
 
-If you see a mistake in the incident reports, [make a Pull Request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to fix it.
+If you see a mistake in the incident reports, [make a Pull Request](#make-pr) to fix it.
 
-If you notice a lack of information from specific locations or need assistance finding information about a particular event, [post an issue](https://github.com/2020PB/police-brutality/issues/new).
+If you notice a lack of information from specific locations or need assistance finding information about a particular event, [post an issue](https://github.com/2020PB/police-brutality/issues/new) or use the [subreddit](https://www.reddit.com/r/2020PoliceBrutality).
 
 **5. Be objective**
 
@@ -68,12 +70,9 @@ If you are here to bring awareness to what you see as inexcusable behavior by th
 
 There are many ways you can contribute to this effort.
 
-We need people to identify and research incidents, ensure that the current repository abides by the [incident report guidelines](#Incident-Report-Guidelines-1) and share the evidence accumulated here.
-
-Before you start, please read our [code of conduct](#Code-of-Conduct-1).
+We need people to identify and research incidents and ensure that the current reports abide by the [code of conduct](#Code-of-Conduct-1) and meet the [content standards](#Content-Standards).
 
 ### Adding & Updating Incident Reports
-
 
 #### 1. Gather evidence
 
@@ -98,11 +97,11 @@ If you find the same incident in this repository, check the following:
   - If so, do not add duplicate evidence.
   - If not, add it as a source.
 - **Does your post add context or change the interpretation of other evidence?**
-  - If so, update the existing description with the new information.
+  - If so, [update the existing description](#Submission-Guide) with the new information.
 
 **If the incident has not been reported**
 
-If you have identified a new incident, ensure that it meets our [content standards](#Incident-Report-Guidelines-1).
+If you have identified a new incident, ensure that it meets our [content standards](#Content-Standards) and follow the [Submission Guide](#Submission-Guide) to add it to the repo.
 
 #### 3. Share it!
 
@@ -111,7 +110,7 @@ Send it to your friends and bring attention to what you find.
 
 ### Maintaining the Repository
 
-If you would like to help maintain the repository, please read our [incident report guidelines](#Incident-Report-Guidelines-1).
+If you would like to help maintain the repository, please read our [incident report guidelines](#Incident-Report-Guidelines-1) which contain information about editing the repo and content standards.
 
 #### Cleanup misinformation and poorly documented reports
 
@@ -121,17 +120,19 @@ You can ensure this remains a source of quality evidence by looking through the 
 
 You can also help maintain this repository by looking for additional context surrounding the incidents covered by existing reports. Use the research guidelines listed above and include search terms related to the incident in question to find more information.
 
-#### Contribute to this!
+#### Contribute to this document!
 
-Make guides to help others contribute.
+Make guides to help others contribute or update the contribution guidelines.
 
-Find additional quality sources that can be used to find evidence and add them to [gather evidence](#1-Gather-evidence) section, then make a PR.
+Find additional quality sources that can be used to find evidence and add them to the [gather evidence](#1-Gather-evidence) section.
 
 #### Make suggestions
 
-If you think we should update this repository, change the guidelines, add new content or really do anything differently, let us know about it! [Post an issue](https://github.com/2020PB/police-brutality/issues/new) with specific requests.
+If you think we should update this repository, change the guidelines, add new content or really do anything differently, let us know about it! [Post an issue](https://github.com/2020PB/police-brutality/issues/new) with your suggestions!
 
 ## Incident Report Guidelines
+
+### Content Standards
 
 **1. Only events related to the 2020 George Floyd protests in the United States.**
   - No old events or events not related to the protests.
@@ -163,7 +164,38 @@ Pretend that you're an AI telling a human exactly what the evidence shows and th
 
 It is important to keep this repository organized with contextual information, both to assist researchers looking for more information and to provide an accurate record of these historic events.
 
-**5. Use the following format:**
+
+### Submission Guide
+
+Please make sure you have read the [Content Standards](#Content-Standards) and [Code of Conduct](#Code-of-Conduct) before submitting any edits.
+
+**1. Locate the file for the state the incident occurred in**
+
+Files are named as `State.md`. Identify the correct file or make a new one if you do not already see a file for the right state.
+
+**2. Open the text editor**
+
+Click the edit icon on the top right of the file preview.
+
+![Image of the edit button on a text file](https://i.imgur.com/bwVpyBI.png)
+
+**3. Add your changes**
+
+Add your incident report or edit an existing one, ensuring that you stick to the [Incident Report Format](#Incident-Report-Format).
+
+**4. Summarize your changes**
+
+On the bottom of the editor, write a title and a brief description of your changes.
+
+![Image of the commit summary form](https://i.imgur.com/mkXAeZm.png)
+
+**5. Commit!**
+
+Click "Propose file change" and you're done!
+
+#### Incident Report Format
+
+Use the following format for all incident reports.
 
 ```
 // State.md
