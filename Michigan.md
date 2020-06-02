@@ -36,3 +36,14 @@ A single man walks down a street towards a line of police.  The man stops to tal
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/gub8fx/police_shoot_protestor_point_blank_in_the_face/
 * https://www.fox17online.com/news/local-news/grand-rapids/grpd-conducting-internal-investigation-after-viral-video-of-man-being-pepper-sprayed
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gv3xuu/police_in_grand_rapids_michigan_spray_a_man/
+
+## Kalamazoo
+
+### Police fire tear gas at prone protesters | June 1st
+
+A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
+
+**Links**
+
+* https://twitter.com/i/status/1267677463850745858
+* Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
