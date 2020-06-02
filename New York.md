@@ -11,6 +11,15 @@ Police are seen to shoot at individuals who were recording an incedent
 
 ## New York City
 
+### NYPD police radio broadcast calls officers to run over and shoot protestors | June 1st
+
+On a recording of the NYPD police radio we here officers say they are being blocked by protestors. Other voices say "run them over" and another says "shoot those motherfuckers".
+
+**Links**
+
+* https://www.tmz.com/2020/06/02/nypd-police-scanner-broadcast-calls-violence-against-protesters-cops-investigating-shoot-run-over/
+* https://www.reddit.com/r/PublicFreakout/comments/gvg5d1/nypd_scanner_broadcasts_calls_to_shoot_run_over/
+
 ### Police pull off protesters mask to pepper spray him | May 31st
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened. 
