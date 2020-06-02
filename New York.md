@@ -1,9 +1,9 @@
 
-## Rochester
+## Rochestor
 
 ### Police shoot at people filming | May 31st
 
-Police are seen to shoot at individuals who were recording an incedent
+Police are seen shooting at individuals who were recording an incident.
 
 **Links**
 * https://twitter.com/bleeezyy_/status/1266894195865931778
@@ -35,6 +35,7 @@ A police officer shoves a man repeatedly off the road and into a metal fence by 
 **Links**
 
 * https://twitter.com/ZachReports/status/1266557305107202049
+* https://twitter.com/BTSsavedmylife9/status/1266754310161006594
 
 ### Cop shoving a person to the ground towards metal trash bins | May 30th
 
@@ -47,7 +48,6 @@ An NYPD officer pushes a civilian down towards trash cans.
 ### NYPD rams protesters | May 31st
 
 A NYPD squad car is driven into civilians, ramming them out of its path. 
-
 
 **Links**
 
@@ -70,14 +70,6 @@ Woman was sent to the ER due to seizure caused by policeman flinging her to the 
 
 * https://twitter.com/whitney_hu/status/1266540710188195843
 
-### Police chase down and assault protesters | May 30th
-
-Policement beat and shove protestors to the ground.
-
-**Links**
-
-* https://twitter.com/BTSsavedmylife9/status/1266754310161006594
-
 ### Police drive by man and hit him with car door | May 30th
 
 Policeman deliberately opens car door to knock an individual down to the ground.
@@ -85,14 +77,6 @@ Policeman deliberately opens car door to knock an individual down to the ground.
 **Links**
 
 * https://twitter.com/DriveWendys/status/1266555286678048770
-
-### Officer shoves woman to the ground, calls her a "stupid bitch" | May 30th
-
-The officer pushes a woman down, and screams at her that she is a stupid bitch.
-
-**Links**
-
-* https://twitter.com/JasonLemon/status/1266529475757510656
 
 ### State senator pepper sprayed | May 31st
 
@@ -104,7 +88,7 @@ Image shows the senator with pepper spray in his eyes.
 
 ### Protesters with hands up assaulted by police | May 31st
 
-Protestors had their hands up, yet were pepper sprayed in the face
+Protestors had their hands up, yet were pepper sprayed in the face.
 
 **Links**
 
@@ -112,7 +96,7 @@ Protestors had their hands up, yet were pepper sprayed in the face
 
 ### Huffpost reporter is arrested by NYPD | May 30th
 
-Despite clearly identifying himself, the reporter was taken into custody during a protest
+Despite clearly identifying himself, the reporter was taken into custody during a protest.
 
 **Links**
 
