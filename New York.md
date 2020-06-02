@@ -102,3 +102,11 @@ Despite clearly identifying himself, the reporter was taken into custody during 
 
 * https://twitter.com/HuffPost/status/1266936484692725766
 * https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
+
+### Member of the New York State Assembly pepper-sprayed
+
+Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays Centre.
+
+**Links**
+
+* https://twitter.com/GwynneFitz/status/1266522692326428672
