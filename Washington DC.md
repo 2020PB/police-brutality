@@ -15,5 +15,7 @@ Protestors and an Australian reporter and cameraman were attacked by police whil
 * https://7news.com.au/sunrise/on-the-show/scary-moment-as-sunrise-reporter-caught-up-in-us-violence-c-1073136
 * https://www.abc.net.au/news/2020-06-02/channel-7-journalists-assaulted-police-george-floyd-protesters/12312056
 * https://twitter.com/ASB_Breaking/status/1267596043870486528
+* https://twitter.com/i/status/1267597024096137217
+* https://twitter.com/i/status/1267606685767667712
 * Alternate footage: https://v.redd.it/qf9vf0hdrd251
 * Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
