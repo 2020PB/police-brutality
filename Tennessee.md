@@ -3,7 +3,7 @@
 
 ### Police swarm a woman without provocation | May 31st 
 
-A group of police officers swarmed a man and pushed him to the ground and used excessive force on him.
+A group of police officers targeted and swarmed a woman and pushed her to the ground, using excessive force. 
 
 **Links**
 

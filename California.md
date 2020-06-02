@@ -45,6 +45,15 @@ A police officer has his knee on a woman's neck, who already had 3 police office
 
 * https://www.reddit.com/r/PublicFreakout/comments/gturig/cop_has_his_knee_on_a_womans_neck_even_though/
 
+### Police strike protestors with batons | June 1st
+
+Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
+
+**Links**
+
+* https://streamable.com/ja2fw6 (with audio)
+* https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
