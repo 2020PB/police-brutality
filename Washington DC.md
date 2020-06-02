@@ -6,7 +6,7 @@ The video shows the officer running straight at the reporter with his shield out
 
 * https://twitter.com/AleemMaqbool/status/1267319521486004225?s=20
 
-### Australian Reporter attacked by police |June 1st
+### Australian Reporter attacked by police | June 1st
 
 An Australian reporter and cameraman were attacked by police while reporting on protests in DC.
 
