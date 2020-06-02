@@ -6,7 +6,7 @@ We will document examples of excessive force being used by law enforcement offic
 
 Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
 
-### [Frequently Asked Questions](Frequently-Asked-Questions)
+### [Frequently Asked Questions](#Frequently-Asked-Questions)
 ### [Code of Conduct](#Code-of-Conduct)
 ### [How to Contribute](#How-to-Contribute)
 ### [Incident Report Guidelines](#Incident-Report-Guidelines)
