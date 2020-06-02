@@ -109,3 +109,12 @@ Protestors had their hands up, yet were pepper sprayed in the face
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gu2u28/more_documented_aggression_in_flatbush_brooklyn/
+
+### Huffpost reporter is arrested by NYPD | May 30th
+
+Despite clearly identifying himself, the reporter was taken into custody during a protest
+
+**Links**
+
+* https://twitter.com/HuffPost/status/1266936484692725766
+* https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
