@@ -411,7 +411,25 @@ Police were seen walking a detained man down the sidewalk before shoving him to 
 
 # Ohio
 
+## Cincinnati
+
+### Police disperse peaceful protest with tear gas, flash bangs and pepper bullets | May 30th
+
+A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
+
+**Links**
+
+* https://mobile.twitter.com/kodyfishertv/status/1266901735198638082
+
 ## Columbus
+
+### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | May 30th
+
+CNN reports that Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
+
+**Links**
+
+* https://www.cnn.com/2020/05/30/politics/joyce-beatty-ohio-pepper-sprayed-columbus-protest/index.html
 
 ### Police pepper-spray a medic | May 31st
 
