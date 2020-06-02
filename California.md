@@ -9,6 +9,15 @@ It is clearly seen that the woman was shot in the face, and was bleeding profuse
 
 * https://mobile.twitter.com/etpartipredsct1/status/1266935860865298432
 
+## Long Beach
+
+### Reporter shot in neck by rubber bullet
+
+Photo shows large bruise the reporter got from a rubber bullet
+
+**Links**
+
+* https://laist.com/2020/05/31/reporters_injured_protests_police.php
 
 ## Los Angeles
 
