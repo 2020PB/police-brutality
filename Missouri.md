@@ -12,3 +12,10 @@ Video shows the police tear gassing an entire park, including one baby in Kansas
 **Links**
 
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
+
+### Police pull protester out of crowd to the ground, and teargas nearby protestors | June 1st
+
+Video shows multiple police pulling a man out of a crowd, teargas nearby protestors, and pin the man to the floor. 
+
+**Links**
+* https://twitter.com/weslyinfinity/status/1267321172309544960 
