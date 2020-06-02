@@ -51,11 +51,12 @@ The woman proceeds to tell the story of what she faced while trying to get foota
 * https://mobile.twitter.com/mollyhf/status/1266911382613692422
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
-### Individual shares his experience | May 31st
+### Reporter shares his experience | May 31st
 
-The individual, Ryan Faircloth describes his experience of the police shooting his car's window.
+The reporter, Ryan Faircloth describes his experience of the police shooting his car's window.
 
 **Links**
+
 * https://twitter.com/JaredGoyette/status/1266961243476299778
 
 ### Police slashes tires | May 31st
