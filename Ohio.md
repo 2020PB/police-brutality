@@ -29,7 +29,7 @@ Police point blank pepper spray a medic who was tending to a protestor
 
 ### Police mace an innocent woman | May 31st
 
-Police manage to pepper spray a woman who was walking away from the confrontation
+Police pepper spray a woman who was walking away from the confrontation
 
 **Links**
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
