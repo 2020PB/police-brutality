@@ -13,11 +13,14 @@ A peaceful protest was dispersed with tear gas and flash bangs, with police shoo
 
 ### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | May 30th
 
-CNN reports that Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
+Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
 
 **Links**
 
 * https://www.cnn.com/2020/05/30/politics/joyce-beatty-ohio-pepper-sprayed-columbus-protest/index.html
+* https://twitter.com/politico/status/1266866982919516160
+* https://twitter.com/TimWCBD/status/1266787064735043591
+* https://twitter.com/KRobPhoto/status/1266796191469252610
 
 ### Police pepper-spray a medic | May 31st
 
@@ -40,14 +43,3 @@ Police drive their car towards protestors in order to disperse them
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
-
-
-### Police pepper spray Congresswoman | May 31st
-
-Democratic Rep. Joyce Beatty was pepper sprayed by Columbus, Ohio, police during protests
-
-**Links**
-
-* https://twitter.com/politico/status/1266866982919516160
-* https://twitter.com/TimWCBD/status/1266787064735043591
-* https://twitter.com/KRobPhoto/status/1266796191469252610
