@@ -11,6 +11,14 @@ Police are seen to shoot at individuals who were recording an incedent
 
 ## New York City
 
+### Police shoot and kill suspect they are trying to detain | May 31st 
+
+A man police are attempting to detain is shot and killed on the ground.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gvcn12/warning_murder_nypd_shoot_and_kill_suspect_they/
+
 ### Police pull off protesters mask to pepper spray him | May 31st
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened. 
