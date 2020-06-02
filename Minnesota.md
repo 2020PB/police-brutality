@@ -29,7 +29,7 @@ While sitting in their cars, the policemen proceed to pepperspray the protestors
 
 ### CNN Reporter arrested | May 30th
 
-At around 0:46, the police are seen to surround, and subsequently violently arrest the reporter.
+Police arrest fully cooperating CNN press team after refusing to give them information on where to relocate.  
 
 **Links**
 
@@ -42,13 +42,6 @@ Tom Aviles, while trying to capture footage of the police shooting, gets warned,
 **Links**
 
 * https://www.youtube.com/watch?v=wmpic2NU1RM&feature=youtu.be
-
-### Police shoot at CBS reporter | May 31st
-
-Despite having press-passes in the air, they get shot at.
-
-**Links** 
-* https://twitter.com/MichaelAdams317/status/1266945268567678976
 
 ### LA-Times employee recounts getting shot | May 31st
 
