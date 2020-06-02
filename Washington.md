@@ -29,4 +29,5 @@ Police pepper sprays a young child who is seen crying, while protesters pour mil
 
 Police pepper spray peacefully protesting crowd
 
-* https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
+* [Rooftop view](https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/)
+* [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
