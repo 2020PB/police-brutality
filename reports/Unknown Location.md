@@ -23,3 +23,12 @@ Person on the sidewalk appears to say something to an officer on a bike. The off
 **Links**
 
 * https://twitter.com/EDDIFUL/status/1267338642617364481
+
+### Peaceful protestor preaching peace and love is arrested | June 1st
+
+Police arrest protestor kneeling calling out to them with messages of love and shared humanity.
+
+**Links**
+
+* https://www.reddit.com/r/iamatotalpieceofshit/comments/gugrfa/man_reaches_out_with_love_to_the_cops_and_they/
+* https://www.reddit.com/r/PublicFreakout/comments/guxm5o/police_arresting_a_peaceful_protestor_for_simply/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
