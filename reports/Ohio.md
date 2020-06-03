@@ -90,7 +90,7 @@ Photographer being sprayed while seemingly calmly standing 10 feet away from the
 
 ### Woman holding a sign is shot with rubber bullets | May 31st
 
-A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by othe protestors.
+A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
 
 **Links**
 
