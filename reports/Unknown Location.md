@@ -22,4 +22,4 @@ Person on the sidewalk appears to say something to an officer on a bike. The off
 
 **Links**
 
-* https://twitter.com/samjwc/status/1267355060666654720
+* https://twitter.com/EDDIFUL/status/1267338642617364481
