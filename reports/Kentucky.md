@@ -24,7 +24,9 @@ While the prison transport vehicle was being pushed around, the police open fire
 
 * https://www.reddit.com/r/PublicFreakout/comments/gsp9yq/police_shoot_7_protesters_in_louisville_kentucky/
 
-### Louisville police swarm and beat a man screaming on the ground. 
+### Louisville police swarm and beat a man screaming on the ground.
+
+Man holding a leafblower is pulled to the ground and beaten by police.
 
 **Links**
 
