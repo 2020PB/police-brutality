@@ -15,3 +15,11 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 **Links**
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
+
+### Officers threaten bystanders with pepper=spray while another officer beats a protestor on the ground |
+
+An officer can be seen punching a protestor pinned to the ground in the face while his colleagues threaten everyone watching with pepper spray.
+
+**Links**
+
+* https://twitter.com/samjwc/status/1267355060666654720
