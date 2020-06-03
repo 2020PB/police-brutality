@@ -36,9 +36,9 @@ Police arrest fully cooperating CNN press team after refusing to give them infor
 
 * https://www.youtube.com/watch?v=aNuzzVpDZTY
 
-### Tom Aviles arrested | May 30th
+### WCCO photjournalist arrested | May 30th
 
-Tom Aviles, while trying to capture footage of the police shooting, gets warned, and then arrested by an officer.
+While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
 **Links**
 
