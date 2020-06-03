@@ -1,7 +1,7 @@
 
 ## Seattle 
 
-### Officer pins protestor by pushing his knee into his neck | 30th May
+### Officer pins protestor by pushing his knee into his neck | May 30th
 
 Officer pins protestor with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
 
@@ -12,7 +12,7 @@ Officer pins protestor with his knee on his neck. His partner intervenes and mov
 
 ### Police beat unarmed man on the ground | May 31st
 
-Couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned. 
+A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned. 
 
 **Links**
 
@@ -36,9 +36,9 @@ Police pepper sprays a young child who is seen crying, while protesters pour mil
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
 * Seattle OPA Case 2020OPA-0322
 
-### Police initiate violence | June 1
+### Police initiate violence | June 1st
 
-Police pepper spray peacefully protesting crowd
+Police pepper spray peacefully protesting crowd.
 
 * [Rooftop view](https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/)
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
