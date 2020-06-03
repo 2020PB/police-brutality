@@ -18,7 +18,7 @@ A group of protesters waving signs in front of a group of police officers was su
 
 ### Police shoot non-violent protestor in the head | May 30th
 
-Here, a non-violent protestor ([reportedly](https://www.instagram.com/p/CA6TCIGnuWm/) named Brad Levi Ayala) can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
+Here, a non-violent protestor can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
 
 In the aftermath other protestors help the victim who is bleeding from a large head wound.
 
