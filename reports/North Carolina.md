@@ -2,7 +2,7 @@
 
 ### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | June 2nd
 
-Law enforcement close on protesters from both sides with fire pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
+Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
 
 **Links**
 
