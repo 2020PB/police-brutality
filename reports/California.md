@@ -71,7 +71,7 @@ A police officer has his knee on a woman's neck, who already had 3 police office
 
 ### Police shoot rubber bullets at protesters | May 31st
 
-After a driver forces their way through a crowd, the police start shooting rubbet bullets at the people nearby. 
+After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby. 
 
 **Links**
 
