@@ -18,7 +18,7 @@ It is clearly seen that the woman was shot in the face, and was bleeding profuse
 
 **Links**
 
-* https://mobile.twitter.com/etpartipredsct1/status/1266935860865298432
+* https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 
 ## Long Beach
 
