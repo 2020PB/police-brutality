@@ -19,3 +19,11 @@ Tear gas canisters were launched by police at peaceful protesters around Robert 
 * https://twitter.com/i/status/1267613150112858116
 * https://twitter.com/i/status/1267601158534815745
 * [Drone footage of Event](https://www.youtube.com/watch?v=LG_HMghyQZc)
+
+### Police pepper-spray small group walking by and man watching from his apartment window | May 31st
+
+3 minutes into the video below, officers pepper-spray a group of people walking past them, and then spray someone filming from a first-floor apartment. 
+
+**Links**
+
+* https://m.facebook.com/story.php?story_fbid=1123349158037544&id=100010874104187
