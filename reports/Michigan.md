@@ -55,3 +55,12 @@ A group of protesters lie on the ground with arms outstretched in front of a gro
 
 * https://twitter.com/i/status/1267677463850745858
 * Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
+
+### Police fire tear gas at peaceful protesters | June 2nd ~7:30pm EDT
+
+A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. Assistant Police Chief Vernon Coakley knelt with protest organizers momentarily for a photo op before standing up and ordering the crowd tear gassed over a radio. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
+
+**Links**
+
+* WOODTV8 live crew: https://streamable.com/xvlky1
+* Kalamazoo Gazette via Facebook Live: https://streamable.com/0wfiu3
