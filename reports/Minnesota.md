@@ -120,6 +120,13 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
 
+### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
+
+CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1266962631887224837
 
 ### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
 
@@ -154,4 +161,3 @@ South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepp
 
 * https://twitter.com/edouphoto/status/1267958349477249024
 * https://www.facebook.com/356074941105769/posts/3020200918026478/ 
-
