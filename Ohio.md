@@ -3,7 +3,7 @@
 
 ### Police disperse peaceful protest with tear gas, flash bangs and pepper bullets | May 30th
 
-A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets and pepper-spraying someone who has already been knocked to the ground.
+A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
 
 **Links**
 
@@ -43,6 +43,17 @@ Police drive their car towards protestors in order to disperse them
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
+
+### Police pepper spray two kneeling protesters | May 31st
+
+Location:  Intersection of E Broad Street and S Grant Avenue
+
+Two protesters are kneeling in a crosswalk across the intersection from a line of police. A police officer walks over and pepper sprays them.
+
+**Links**
+
+* https://twitter.com/DabinDhillo/status/1266892095702392832
+* https://twitter.com/taesvangogh/status/1266907922308558848
 
 ### Police push and pepper spray reporters from The Lantern newspaper | June 1st
 
