@@ -115,3 +115,11 @@ Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays 
 **Links**
 
 * https://twitter.com/GwynneFitz/status/1266522692326428672
+
+### Officer threatens protestors with what appears to be a handgun | June 1st
+
+Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
+
+**Links**
+
+* https://mobile.twitter.com/jangelooff/status/1267308341660979200
