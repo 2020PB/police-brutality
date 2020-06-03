@@ -21,7 +21,7 @@ Despite the woman showing resistance, the policeman grabs her and pulls her out 
 
 ## Lawrenceville
 
-### Man tased in back for speaking up after man on ground is punched in face by cop | May 30th
+### Man tased in back for speaking up after man on ground is punched in face by cop | May 31st
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
 
