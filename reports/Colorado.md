@@ -51,25 +51,26 @@ An officer peppersprays someone recording the capitol building through his sun r
 
 * https://twitter.com/greg_doucette/status/1266758227930333188
 
-### Denver law enforcement shoot at reporters.  | May 29th
+### Denver law enforcement shoot at reporters | May 29th
 
-Denver law enforcement shoot at reporters, destroy camera lens.
+A reporter from Denver 7 news tweeted a photo showing one of their cameramen holding their camera with a bullet hole through its lens.  The caption states "Police just fired off paintballs and tear gas. Our photographer got hit four time and our camera got hit."
 
 **Links**
 
 * https://twitter.com/AdiGTV/status/1266554320717099008
 
-### Denver law enforcement spray man recording form his car.  | DATE
+### Denver law enforcement spray man recording from his car | May 30th
 
-Denver law enforcement spray man recording form his car as well as portesters outside.
+Denver law enforcement spray a man recording from his car as well as protesters outside. Repetitive thud sounds, possibly someone being beaten, can be heard but not seen as the car drives away.
 
 **Links**
 
+* https://twitter.com/Dizzle14Double/status/1266615473816260609
 * https://twitter.com/SaltMagazine_/status/1266634027257098240
 
-### Denver law enforcement shoot at reporter standing on the sidewalk.  | May 30th
+### Denver law enforcement shoot at reporter standing on the sidewalk | May 30th
 
-Denver law enforcement shoot at reporter standing on the sidewalk, didn't ask any questoins.
+A member of the press is filming from an empty sidewalk. Law enforcement shoot at him, and he yells "I'm media, we're press, we're press, don't shoot at us".
 
 **Links**
 
