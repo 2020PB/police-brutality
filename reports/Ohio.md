@@ -7,7 +7,15 @@ A peaceful protest was dispersed with tear gas and flash bangs, with police shoo
 
 **Links**
 
-* https://mobile.twitter.com/kodyfishertv/status/1266901735198638082
+* https://twitter.com/kodyfishertv/status/1266901735198638082
+
+## Cleveland
+
+### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
+
+Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back.
+
+* https://twitter.com/greg_doucette/status/1267114065819770880
 
 ## Columbus
 
@@ -70,6 +78,7 @@ Three reporters repeatedly tell police that they are members of the press and sh
 
 
 ### Police pepper spray African-American photographer | May 31st.
+
 Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
 
 **Links**
@@ -77,3 +86,11 @@ Photographer being sprayed while seemingly calmly standing 10 feet away from the
 * https://i.redd.it/4ix8f3j6dy151.jpg
 * https://old.reddit.com/r/Columbus/comments/gtk192/photographer_being_pepper_sprayed_by_police/
 * https://www.instagram.com/p/CA03DsTByLn/
+
+### Woman holding a sign is shot with rubber bullets | May 31st
+
+A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by othe protestors.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267113315613806592
