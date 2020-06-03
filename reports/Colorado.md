@@ -42,3 +42,11 @@ This officer and fires a pepper pellet directly at someone filming.
 **Links**
 
 * https://twitter.com/heyydnae/status/1267139396278661121?s=21
+
+### Police pepperspray people trying to record | May 29th
+
+An officer peppersprays someone recording the capitol building through his sun roof as well as a second person recording in front of the car.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1266758227930333188
