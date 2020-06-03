@@ -117,3 +117,11 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 **Links**
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
+
+### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
+
+Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267118696960528386
