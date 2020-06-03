@@ -24,11 +24,12 @@ Law enforcement arrest people walking, you can hear on the radio “You should n
 
 ### Police shoot woman in the face | May 31st
 
-It is clearly seen that the woman was shot in the face, and was bleeding profusely
+La Mesa PD shoot a woman in the face with a rubber bullet.
 
 **Links**
 
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
+* https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
 
 ## Long Beach
 
