@@ -94,6 +94,14 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
 
+### LAPD respond to request for help against looters, immediately arrest African-American store owners |
+
+In this video, two store owners who asked the police for help against looters are arrested. A bystander informs the officers that they are arresting the wrong people.
+
+**Links*
+
+* https://www.reddit.com/r/PublicFreakout/comments/guyz9v/lapd_show_up_to_a_store_that_requested_help/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
