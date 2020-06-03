@@ -146,3 +146,12 @@ A PCA who was treating someone with a rubber bullet wound reports that officers 
 
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
 
+### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
+
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol" 
+
+**Links**
+
+* https://twitter.com/edouphoto/status/1267958349477249024
+* https://www.facebook.com/356074941105769/posts/3020200918026478/ 
+
