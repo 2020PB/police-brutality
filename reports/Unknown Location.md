@@ -15,3 +15,10 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 **Links**
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
+
+
+### Policemen assault and choke a man because they thought he was holding a gun.Turns out it was just his cellphone.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvi7zn/policemen_assault_and_choke_a_man_because_they/
