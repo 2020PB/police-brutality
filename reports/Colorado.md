@@ -8,7 +8,7 @@ Elisabeth Epps, Use of Force committee member for Denver Police, shot in back wi
 
 * https://www.reddit.com/r/Denver/comments/gvhqs2/elisabeth_epps_use_of_force_committee_member_for/
 
-### Police throw reporter into fire | May 31st
+### Police throw reporter into fire | May 30th
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
 
@@ -18,7 +18,7 @@ Policemen throw a reporter into the fire for trying to take images of the scene.
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gunfut/denver_officer_pushed_a_photographer_into_a_fire/
 * https://www.youtube.com/watch?v=zhIWohJsRyM&feature=youtu.be&t=4225
 
-### Police tear gas and shoot protestors | May 31st
+### Police tear gas and shoot protestors | May 30th
 
 Policemen turned off their body cams and started unnecessary firing of tear gas.
 
@@ -35,7 +35,7 @@ Police shoot some pepper balls at a car with a prenant woman inside. The driver 
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gumff6/denver_police_fire_pepper_balls_at_a_car_with_a/
 
-### Reporter shot with multiple pepper balls
+### Reporter shot with multiple pepper balls | May 28th
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
 
