@@ -16,6 +16,15 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
 
+
+### Police shove a person to the ground and put a weapon into their hand | (Believed) May 31st
+
+Police shove a person to the ground and put a weapon into their hand.  The person is already on the ground, and three officers continue to restrain them.
+
+**Links**
+
+* [https://twitter.com/BrutumF/status/1267575655509577728](https://twitter.com/BrutumF/status/1267575655509577728)
+
 ### Officer grabs bystander by the neck | June 1st
 
 Person on the sidewalk appears to say something to an officer on a bike. The officer grabs him by the neck and forces him to the ground.
@@ -23,3 +32,4 @@ Person on the sidewalk appears to say something to an officer on a bike. The off
 **Links**
 
 * https://twitter.com/EDDIFUL/status/1267338642617364481
+
