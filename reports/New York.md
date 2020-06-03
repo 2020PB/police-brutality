@@ -115,3 +115,11 @@ Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays 
 **Links**
 
 * https://twitter.com/GwynneFitz/status/1266522692326428672
+
+### VICE News correspondent pepper-sprayed in the face while prone on the ground | May 30th or 31st
+
+Michael Adams films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267005812444037122
