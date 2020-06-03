@@ -45,6 +45,14 @@ Officer pins protestor with his knee on his neck. His partner intervenes and mov
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
 * 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested" (possibly)
 
+### Officers deploy flashbangs and pepper spray peaceful protesters | 3rd June
+
+Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spay indescriminently into the crowd. Recorder has to close their window as the spray is reaching their apartment.  
+
+**Links**
+
+* https://twitter.com/catsayshello/status/1268073344814866432
+
 ### Additional Seattle OPA Case Numbers
 
 * 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"
