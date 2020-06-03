@@ -37,7 +37,7 @@ Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them
 
 * https://www.youtube.com/watch?v=aNuzzVpDZTY
 
-### WCCO photjournalist arrested | May 30th
+### WCCO photojournalist arrested | May 30th
 
 While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
