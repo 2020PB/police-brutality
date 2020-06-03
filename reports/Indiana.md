@@ -1,5 +1,13 @@
 ## Fort Wayne
 
+### Police pepper spray protesters attempting to record them | May 29th
+
+A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1266745200656990208
+
 ### Police tear gas peaceful protesters | May 30th
 
 Police officers dressed in swat gear threw a tear gas container at peaceful protestors. 
@@ -7,16 +15,6 @@ Police officers dressed in swat gear threw a tear gas container at peaceful prot
 **Links**
 
 * https://twitter.com/blazedyukhei/status/1266533569029177346
-
-
-### Protester hit in the face with a gas cannister | May 31st
-
-A FWPD Officer fired a tear gas cannister on protestors face. He went on to rupture his eye.
-
-**Links**
-
-* https://i.redd.it/4qzvp2gd54251.jpg
-* https://twitter.com/notbalin/status/1266972999296704513
 
 ### Toddler teargassed by police | May 30th
 
@@ -26,13 +24,14 @@ A toddler and her mother were driving through downtown and had to leave their ca
 
 * https://wpta21.com/2020/05/31/toddler-tear-gassed-photo-goes-viral/#.XtUVqwf8OnF.facebook
 
-### Police pepper spray protesters attempting to record them | May 29th
+### Protester hit in the face with a gas cannister | May 31st
 
-A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
+A FWPD Officer fired a tear gas cannister on protestors face. He went on to rupture his eye.
 
 **Links**
 
-* https://twitter.com/greg_doucette/status/1266745200656990208
+* https://i.redd.it/4qzvp2gd54251.jpg
+* https://twitter.com/notbalin/status/1266972999296704513
 
 ## Indianapolis
 
