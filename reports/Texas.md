@@ -79,6 +79,14 @@ The video shows a certain individual trying to escape, what seems to be loud exp
 
 * https://twitter.com/xtranai/status/1266898175568338945
 
+### Protestor shot in the eye with a wooden round |
+
+Images of a protestor bleeding from the eye after being shot by what was allegedly a wooden round. This incident apparently took place just seconds before the video of officers chanting "America, f-ck yeah!", which has now been deleted.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267261398481920000
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
