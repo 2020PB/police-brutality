@@ -59,6 +59,7 @@ A woman who says she was simply walking home with groceries was shot in the face
 **Links**
 
 * https://mobile.twitter.com/KevinRKrause/status/1266898396339675137
+* https://i.redd.it/ns0uj557x0251.jpg
 
 ### Police use flashbangs and tear gas on protestors | May 31st
 
