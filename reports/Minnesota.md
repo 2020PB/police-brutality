@@ -117,3 +117,11 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 **Links**
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
+
+### Patient care assistant reports being shot with rubber bullets while treating injured protestors | May 31st
+
+A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
+
+**Linke**
+
+* https://mobile.twitter.com/chadloder/status/1266957030285127687
