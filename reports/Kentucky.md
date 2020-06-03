@@ -14,7 +14,7 @@ Policemen point their guns and shoot at press.
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gt69qe/police_start_shooting_press_with_some_kinda/
-
+* https://twitter.com/greg_doucette/status/1266557059606163456
 
 ### Police shoot 7 protestors | May 30th
 
