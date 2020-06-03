@@ -1,4 +1,4 @@
-## Louisville
+;## Louisville
 
 ### Police smashing water bottles | May 31st
 
@@ -47,5 +47,5 @@ During protests, shots were fired by an unknown shooter. Police returned fire, s
 
 * [Information on the shooting](https://edition.cnn.com/2020/06/02/us/david-mcatee-louisville-what-we-know-trnd/index.html)
 * [Chief of police resigns](https://edition.cnn.com/2020/06/01/us/louisville-protests-man-shot-dead/index.html)
-* [Police-released CCTV footage of the incident](https://mobile.twitter.com/chadloder/status/1267555717751296000)
+* [Police-released CCTV footage of the incident](https://youtu.be/wDg9fev67lw)
 * [Video taken nearby during the shooting](https://mobile.twitter.com/chadloder/status/1267555717751296000)
