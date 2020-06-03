@@ -67,3 +67,13 @@ Three reporters repeatedly tell police that they are members of the press and sh
 * https://www.thelantern.com/2020/06/columbus-mayor-police-chief-address-protest-policing-pepper-spray-of-lantern-journalists/
 * https://twitter.com/TheLantern/status/1267644471317090305
 * https://twitter.com/maevewalsh27/status/1267646128289447939
+
+
+### Police pepper spray African-American photographer | May 31st.
+Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
+
+**Links**
+
+* https://i.redd.it/4ix8f3j6dy151.jpg
+* https://old.reddit.com/r/Columbus/comments/gtk192/photographer_being_pepper_sprayed_by_police/
+* https://www.instagram.com/p/CA03DsTByLn/
