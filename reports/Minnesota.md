@@ -2,7 +2,7 @@
 
 #### Please note: These are all believed to be from Minneapolis, if not please contact the moderator immediately
 
-### Police storm gas station, attacking reporters who show press badges | May 31st
+### Police storm gas station, attacking reporters who show press badges | May 30th
 
 Michael Adams films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
@@ -10,6 +10,7 @@ Michael Adams films officers entering a parking lot. He cooperates, laying on th
 
 * https://twitter.com/MichaelAdams317/status/1266945268567678976
 * https://twitter.com/rsdaza/status/1267200011659554824
+* https://twitter.com/MichaelAdams317/status/1267203751913422849
 
 ### Police shoot at a woman on her porch | May 31st
 
