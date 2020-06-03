@@ -18,4 +18,13 @@ Video shows the police tear gassing an entire park, including one baby in Kansas
 Video shows multiple police pulling a man out of a crowd, teargas nearby protestors, and pin the man to the floor. 
 
 **Links**
+
 * https://twitter.com/weslyinfinity/status/1267321172309544960 
+
+### Police arrest man for criticising their methods, pepper-spray the crowd |
+
+A protestor is arrested while criticising the police. He and the people around are pepper sprayed, he is dragged to the floor, and the crowd is repeatedly pepper-sprayed afterwards.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/guom2g/im_sure_theyll_say_he_was_inviting_violence/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
