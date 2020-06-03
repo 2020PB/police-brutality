@@ -1,5 +1,7 @@
 # Police Brutality During the 2020 George Floyd Protests
 
+[Web App](http://www.2020policebrutality.com/)
+
 [Table of Contents](#Table-of-Contents)
 
 This repository exists to accumulate and contextualize evidence of police brutality during the 2020 George Floyd protests.
