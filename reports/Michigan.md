@@ -25,6 +25,14 @@ Police teargassed and shot rubber bullets at reporters, despite clearly identify
 
 * https://twitter.com/reporterdavidj/status/1266966021077962752
 
+### Officer charges through other officers to attack a protestor who is backing away | May 29th
+
+At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
+
+**Links**
+
+* https://twitter.com/joeguillen/status/1266563974658744321
+
 ## Grand Rapids
 
 ### Cops fire flare at a man’s face | May 31st
