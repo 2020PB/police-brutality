@@ -86,3 +86,11 @@ A woman standing alone holding a sign is shot with rubber bullets. She falls to 
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267113315613806592
+
+### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours |
+
+A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
