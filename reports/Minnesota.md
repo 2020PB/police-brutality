@@ -117,3 +117,11 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 **Links**
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
+
+### CNN crew shot at with rubber bullets and tear gas while live on air | May 31st
+
+CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1266962631887224837
