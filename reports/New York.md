@@ -1,5 +1,5 @@
 
-## Rochestor
+## Rochester
 
 ### Police shoot at people filming | May 31st
 
