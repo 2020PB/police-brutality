@@ -36,6 +36,7 @@ Police pepper spray a woman who was walking away from the confrontation
 
 **Links**
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
+* https://twitter.com/MarioLeUgly/status/1266933807929798656
 
 ### Police intimidating campus protesters by driving car towards them | May 31st
 
