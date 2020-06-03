@@ -114,8 +114,8 @@ A police cruiser in Oakland was seen driving erratically and chasing down protes
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
 **Links**
-* https://twitter.com/xotrevonantonio/status/1266994330054479874
 * https://youtu.be/pRmBO34aXME
+* https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
 
 ## San Jose
