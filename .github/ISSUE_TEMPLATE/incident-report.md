@@ -7,18 +7,20 @@ assignees: ''
 
 ---
 
+Instructions: Add the key information about the incident under the headings (Location, Date, etc.) below and then click the green "Submit new issue" button. If you are unsure about any details then just write "Unknown" under that heading.
+
 ## Location
 
-*e.g. Compton, California (also include this in the title field above)*
+e.g. Compton, California (also include this in the title field above)
 
 ## Date
 
-*e.g. June 3rd*
+e.g. June 3rd
 
 ## Description
 
-*Please provide a brief description of the incident here*
+e.g. Police pepper spray kneeling protestors
 
 ## Link(s)
 
-*List links to videos or other resources here*
+e.g. https://www.reddit.com/r/.../...
