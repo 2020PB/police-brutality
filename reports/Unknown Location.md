@@ -15,3 +15,11 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 **Links**
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
+
+### Officer grabs bystander by the neck | June 1st
+
+Person on the sidewalk appears to say something to an officer on a bike. The officer grabs him by the neck and forces him to the ground.
+
+**Links**
+
+* https://twitter.com/EDDIFUL/status/1267338642617364481

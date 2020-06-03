@@ -16,6 +16,7 @@ A FWPD Officer fired a tear gas cannister on protestors face. He went on to rupt
 **Links**
 
 * https://i.redd.it/4qzvp2gd54251.jpg
+* https://twitter.com/notbalin/status/1266972999296704513
 
 ### Toddler teargassed by police | May 30th
 
