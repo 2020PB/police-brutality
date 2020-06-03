@@ -20,6 +20,16 @@ It is clearly seen that the woman was shot in the face, and was bleeding profuse
 
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 
+## La Mesa 
+
+### Law enforcement shoot and throw tear gas at protesters. | MAy 30th
+
+Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
+
+**Links**
+
+* https://twitter.com/mamitbh/status/1267030342243778561
+
 ## Long Beach
 
 ### Reporter shot in neck by rubber bullet
