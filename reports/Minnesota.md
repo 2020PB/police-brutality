@@ -26,7 +26,6 @@ While sitting in their cars, the policemen proceed to pepperspray the protestors
 **Links**
 
 * https://www.youtube.com/watch?v=O3qj4cfsd7g
-* https://twitter.com/stribrooks/status/1266186985041022976
 
 ### CNN Reporter arrested | May 30th
 
@@ -109,3 +108,11 @@ German reporter for DW News is shot at by Minneapolis police, who then threaten 
 **Links**
 
 * https://www.youtube.com/watch?v=NN8ISwuiX68
+
+## Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
+
+Police on the rooftop of the 3rd precinct fire flashbang grenades into a crowd of peaceful protesters.
+
+**Links**
+
+* https://www.facebook.com/1462345700/posts/10220863688809651
