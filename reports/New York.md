@@ -44,6 +44,7 @@ An NYPD officer pushes a civilian down towards trash cans.
 **Links**
 
 * https://twitter.com/crankberries/status/1266584559245803522
+* https://twitter.com/greg_doucette/status/1266850004720812032
 
 ### NYPD rams protesters | May 31st
 
