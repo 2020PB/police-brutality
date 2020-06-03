@@ -116,6 +116,14 @@ Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays 
 
 * https://twitter.com/GwynneFitz/status/1266522692326428672
 
+### Officer threatens protestors with what appears to be a handgun | June 1st
+
+Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
+
+**Links**
+
+* https://mobile.twitter.com/jangelooff/status/1267308341660979200
+
 ### VICE News correspondent pepper-sprayed in the face while prone on the ground | May 30th or 31st
 
 Michael Adams films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.

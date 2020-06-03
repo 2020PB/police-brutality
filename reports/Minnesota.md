@@ -54,7 +54,7 @@ The woman proceeds to tell the story of what she faced while trying to get foota
 
 ### Reporter shares his experience | May 31st
 
-The reporter, Ryan Faircloth describes his experience of the police shooting his car's window.
+Ryan Faircloth, reporter for Star Tribune, describes his experience of the police shooting his car's window.
 
 **Links**
 
@@ -103,7 +103,7 @@ The article given below shows that the Reuters crew was hit with rubber bullets
 
 * https://www.reuters.com/article/us-minneapolis-police-protest-update/reuters-cameraman-hit-by-rubber-bullets-as-police-disperse-protesters-idUSKBN237050
 
-## Police shoot at, threaten to arrest reporter | May 31st
+### Police shoot at, threaten to arrest reporter | May 31st
 
 German reporter for DW News is shot at by Minneapolis police, who then threaten to arrest him.
 
@@ -111,7 +111,7 @@ German reporter for DW News is shot at by Minneapolis police, who then threaten 
 
 * https://www.youtube.com/watch?v=NN8ISwuiX68
 
-## Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
+### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
@@ -119,10 +119,29 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
 
+
+### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
+
+Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267118696960528386
+
+
+### Police stop SUV to driveby pepperspray protesters through window | May 31st
+
+Police responding to a medical emergency – a tanker truck deliberately running over protestors – stop to pepperspray folks from their SUV
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267283198163255297
+
 ### Patient care assistant reports being shot with rubber bullets while treating injured protestors | May 31st
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
-**Linke**
+**Links**
 
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
+
