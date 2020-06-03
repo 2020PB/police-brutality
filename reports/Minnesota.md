@@ -26,6 +26,7 @@ While sitting in their cars, the policemen proceed to pepperspray the protestors
 **Links**
 
 * https://www.youtube.com/watch?v=O3qj4cfsd7g
+* https://twitter.com/stribrooks/status/1266186985041022976
 
 ### CNN Reporter arrested | May 30th
 
