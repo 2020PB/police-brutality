@@ -18,3 +18,10 @@ Tear gas canisters were launched by police at peaceful protesters around Robert 
 * https://twitter.com/i/status/1267613150112858116
 * https://twitter.com/i/status/1267601158534815745
 
+### Police Officer Spits on/near Detained Protestor | June 1st
+
+Officer spits multiple times on or near a detained protestor in the midst of the pandemic downtown Richmond
+
+**Links**
+
+* [Video of Event](https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a)
