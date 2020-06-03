@@ -34,3 +34,11 @@ He states the officer aimed at him, and the pepper balls broke his press badge a
 **Links**
 
 * https://www.denverpost.com/2020/05/29/denver-post-photographer-pepper-balls-george-floyd-protest/
+
+### Police officer fires at protestor while driving away | May 31st
+
+This officer and fires a pepper pellet directly at someone filming.
+
+**Links**
+
+* https://twitter.com/heyydnae/status/1267139396278661121?s=21
