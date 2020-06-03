@@ -115,6 +115,7 @@ A crowd of protesters demonstrating in front of a line of police officers was fi
 
 **Links**
 * https://youtu.be/pRmBO34aXME
+* https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
 
 ## San Jose
