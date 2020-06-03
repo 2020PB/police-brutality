@@ -75,6 +75,15 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://streamable.com/ja2fw6 (with audio)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
+### LAPD SUV drives into protesters, speeds away | May 31st
+
+ LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protestors, then throws it in reverse and speeds away
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267277826354556928
+* https://twitter.com/SophiaLeeHyun/status/1267216604388978689
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
