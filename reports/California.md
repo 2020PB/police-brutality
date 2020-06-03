@@ -75,6 +75,14 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://streamable.com/ja2fw6 (with audio)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
+### LAPD vehicle ramming protestors |
+
+A police vehicle is seen here ramming into individual protestors.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267314138428014594
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
