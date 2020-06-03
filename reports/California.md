@@ -84,6 +84,14 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://twitter.com/greg_doucette/status/1267277826354556928
 * https://twitter.com/SophiaLeeHyun/status/1267216604388978689
 
+### Police shoot rubber bullets at two peaceful protestors | June 1st
+
+Two peaceful protestors are standing in an empty street.  Dozens of police officers move forward and the protestors are shot by rubber bullets fired from officers.
+
+**Links**
+
+* [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
