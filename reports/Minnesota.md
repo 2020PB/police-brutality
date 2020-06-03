@@ -117,3 +117,11 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 **Links**
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
+
+### Police deliberatly target CBS journalism crew with rubber bullets | believed to be May 30th
+
+Police deliberately target a CBS crew, shooting the sound engineer with a rubber bullet while they are visibly nowhere near protesters.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267119659532378113
