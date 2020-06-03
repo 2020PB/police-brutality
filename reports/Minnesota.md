@@ -54,7 +54,7 @@ The woman proceeds to tell the story of what she faced while trying to get foota
 
 ### Reporter shares his experience | May 31st
 
-The reporter, Ryan Faircloth describes his experience of the police shooting his car's window.
+Ryan Faircloth, reporter for Star Tribune, describes his experience of the police shooting his car's window.
 
 **Links**
 
