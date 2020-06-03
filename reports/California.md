@@ -119,3 +119,13 @@ The individual recording the video is trying his best to save his fellow protest
 
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
 
+## Santas Monica
+
+### Police fire pepper bullets into apartment | June 1st
+
+Live on TV, police fire multiple pepper bullets at an apartment window.
+
+**Links**
+
+* https://twitter.com/GIFsZP/status/1267241803750813703
+
