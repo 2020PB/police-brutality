@@ -24,11 +24,13 @@ Law enforcement arrest people walking, you can hear on the radio “You should n
 
 ### Police shoot woman in the face | May 31st
 
-It is clearly seen that the woman was shot in the face, and was bleeding profusely
+La Mesa PD shoot a woman in the face with a rubber bullet.
 
 **Links**
 
+* At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
+* https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
 
 ## Long Beach
 
@@ -75,6 +77,23 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://streamable.com/ja2fw6 (with audio)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
+### LAPD SUV drives into protesters, speeds away | May 31st
+
+ LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protestors, then throws it in reverse and speeds away
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267277826354556928
+* https://twitter.com/SophiaLeeHyun/status/1267216604388978689
+
+### Police shoot rubber bullets at two peaceful protestors | June 1st
+
+Two peaceful protestors are standing in an empty street.  Dozens of police officers move forward and the protestors are shot by rubber bullets fired from officers.
+
+**Links**
+
+* [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
@@ -118,4 +137,14 @@ The individual recording the video is trying his best to save his fellow protest
 **Links**
 
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
+
+## Santa Monica
+
+### Police fire pepper bullets into apartment | May 31st
+
+Live on TV, police fire multiple pepper bullets at an apartment window.
+
+**Links**
+
+* https://twitter.com/GIFsZP/status/1267241803750813703
 
