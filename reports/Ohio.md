@@ -9,6 +9,14 @@ A peaceful protest was dispersed with tear gas and flash bangs, with police shoo
 
 * https://twitter.com/kodyfishertv/status/1266901735198638082
 
+### First hand account of police violently dispersing crowds | May 31st
+
+This account describes police firing teargas at protestors and beating them 30 minutes before curfew.
+
+**Links**
+
+* https://touch.facebook.com/story.php?story_fbid=10157718199384132&id=697759131&ref=bookmarks
+
 ## Cleveland
 
 ### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
