@@ -26,12 +26,13 @@ A toddler and her mother were driving through downtown and had to leave their ca
 
 ### Protester hit in the face with a gas cannister | May 31st
 
-A FWPD Officer fired a tear gas cannister on protestors face. He went on to rupture his eye.
+A FWPD Officer fired a tear gas cannister on protestors face. He has allegedly been permanently blinded in that eye.
 
 **Links**
 
 * https://i.redd.it/4qzvp2gd54251.jpg
 * https://twitter.com/notbalin/status/1266972999296704513
+* https://mobile.twitter.com/chadloder/status/1267279165230743553/photo/2
 
 ## Indianapolis
 
