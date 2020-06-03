@@ -50,3 +50,27 @@ An officer peppersprays someone recording the capitol building through his sun r
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266758227930333188
+
+### Denver law enforcement shoot at reporters.  | May 29th
+
+Denver law enforcement shoot at reporters, destroy camera lens.
+
+**Links**
+
+* https://twitter.com/AdiGTV/status/1266554320717099008
+
+### Denver law enforcement spray man recording form his car.  | DATE
+
+Denver law enforcement spray man recording form his car as well as portesters outside.
+
+**Links**
+
+* https://twitter.com/SaltMagazine_/status/1266634027257098240
+
+### Denver law enforcement shoot at reporter standing on the sidewalk.  | May 30th
+
+Denver law enforcement shoot at reporter standing on the sidewalk, didn't ask any questoins.
+
+**Links**
+
+* https://youtu.be/xNLZ7exVxq4?t=110
