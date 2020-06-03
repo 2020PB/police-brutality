@@ -33,5 +33,15 @@ The journalist was trying to get a closer look at the police, while they were be
 * https://twitter.com/mkultranews/status/1267305587206807553
 
 ### Philadepphia Police Trap Protesters on Highway, Then Tear Gas Them
+
 **Links**
+
 * https://www.reddit.com/r/PublicFreakout/comments/guve5f/philadelphia_police_traps_protesters_on_highway/
+
+### Police officer pepper-sprays three people on their knees
+
+Three protestors kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
+
+**Links**
+
+* https://mobile.twitter.com/d0wnrrrrr/status/1267691766188310528
