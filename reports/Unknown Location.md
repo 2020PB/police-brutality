@@ -15,9 +15,3 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 **Links**
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
-
-### Police pepper spray African-American photographer
-
-**Links**
-
-* https://i.redd.it/4ix8f3j6dy151.jpg
