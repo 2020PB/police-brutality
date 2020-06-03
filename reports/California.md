@@ -24,11 +24,13 @@ Law enforcement arrest people walking, you can hear on the radio “You should n
 
 ### Police shoot woman in the face | May 31st
 
-It is clearly seen that the woman was shot in the face, and was bleeding profusely
+During a peaceful protest, a woman is shot in the face with a rubber bullet, which becomes lodged in the wound.
 
 **Links**
 
+* At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
+* https://i.redd.it/ixf91miplj251.jpg
 
 ## Long Beach
 
