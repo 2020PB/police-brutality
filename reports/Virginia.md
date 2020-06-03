@@ -27,4 +27,4 @@ A police officer spits on a detained protestor who is restrained and sitting on 
 
 **Links**
 
-* https://twitter.com/michaelsaoma/status/1267637436605227008
+* https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
