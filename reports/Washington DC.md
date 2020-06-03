@@ -31,3 +31,11 @@ The protestors were given no warning to leave, resulting in forceful removal and
 * https://www.wusa9.com/article/news/local/dc/lafayette-square-washington-dc-protests-st-johns-church/65-f76d9753-8d99-42df-b02d-99d11a427595
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpqoz/nsfl_hit_by_riot_shield_blood_gushes_out_of_guys/
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpgpz/found_both_videos_of_the_dc_event_i_know_people/
+
+### Officer fires tear gas cannister at protestor's head |
+
+DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267377374066167808
