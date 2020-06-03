@@ -41,3 +41,8 @@ At the beginning of this video, an officer can be seen punching a protestor in t
 
 * https://twitter.com/samjwc/status/1267355060666654720
 
+### Woman bleeding from her head is dragged away by police |
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gv8pcq/protests_wont_stop_until_police_brutality_does/
