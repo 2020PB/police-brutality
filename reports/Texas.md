@@ -14,6 +14,7 @@ Here, a non-violent protestor can be seen standing perfectly still when he is hi
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guwc4y/austin_tx_nonviolent_protestor_shot_in_the_head/
+* https://streamable.com/o1uqgy
 
 ### Police use tear gas & rubber bullets on protesters | May 30th @ ~3pm
 
@@ -68,8 +69,9 @@ A woman who says she was simply walking home with groceries was shot in the face
 
 **Links**
 
-* https://mobile.twitter.com/KevinRKrause/status/1266898396339675137
+* https://twitter.com/KevinRKrause/status/1266898396339675137
 * https://i.redd.it/ns0uj557x0251.jpg
+* https://twitter.com/greg_doucette/status/1267109272342736896
 
 ### Police use flashbangs and tear gas on protestors | May 31st
 
