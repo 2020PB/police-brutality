@@ -68,6 +68,15 @@ A police officer has his knee on a woman's neck, who already had 3 police office
 
 * https://www.reddit.com/r/PublicFreakout/comments/gturig/cop_has_his_knee_on_a_womans_neck_even_though/
 
+
+### Police shoot rubber bullets at protesters | May 31st
+
+After a driver forces their way through a crowd, the police start shooting rubbet bullets at the people nearby. 
+
+**Links**
+
+* https://twitter.com/SUNDAYLOVERBOY/status/1266890947888996352
+
 ### Police strike protestors with batons | June 1st
 
 Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
