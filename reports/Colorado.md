@@ -1,5 +1,13 @@
 ## Denver
 
+### Police shoot protester from behind with tear gas canister | June 2nd
+
+Elisabeth Epps, Use of Force committee member for Denver Police, shot in back with tear gas canisters.
+
+**Links**
+
+* https://www.reddit.com/r/Denver/comments/gvhqs2/elisabeth_epps_use_of_force_committee_member_for/
+
 ### Police throw reporter into fire | May 31st
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
