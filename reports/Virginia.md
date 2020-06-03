@@ -21,3 +21,10 @@ Tear gas canisters were launched by police at peaceful protesters around Robert 
 * https://twitter.com/i/status/1267601158534815745
 * [Drone footage of Event](https://www.youtube.com/watch?v=LG_HMghyQZc)
 
+### Officer spits on detained protestor | June 1st
+
+A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera.
+
+**Links**
+
+* https://twitter.com/michaelsaoma/status/1267637436605227008
