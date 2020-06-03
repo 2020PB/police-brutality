@@ -3,7 +3,7 @@
 
 ### Police disperse peaceful protest with tear gas, flash bangs and pepper bullets | May 30th
 
-A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
+A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets and pepper-spraying someone who has already been knocked to the ground.
 
 **Links**
 
