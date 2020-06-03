@@ -62,13 +62,17 @@ Police officers are seen beating and assaulting men and women for standing aroun
 
 * https://twitter.com/theactivistTati/status/1266889419858075649
 
-### Police shove woman to the ground, inducing a seizure | May 30th
+### Police shove woman to the ground, inducing a seizure | May 29th
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
 **Links**
 
 * https://twitter.com/whitney_hu/status/1266540710188195843
+
+* https://twitter.com/JasonLemon/status/1266529475757510656
+
+* https://twitter.com/zayer_dounya/status/1266581597760831489
 
 ### Police drive by man and hit him with car door | May 30th
 
