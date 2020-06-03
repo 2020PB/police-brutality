@@ -9,7 +9,7 @@ Police officer is seen shoving two women off onto the side with his bicycle.
 
 * https://twitter.com/ava/status/1266797973834395648?s=20
 
-### Cops pull people out of their car, taze them | May 31st
+### Cops pull people out of their car, taze them | May 30th
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to taze her.
 
