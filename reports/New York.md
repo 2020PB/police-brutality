@@ -37,13 +37,14 @@ A police officer shoves a man repeatedly off the road and into a metal fence by 
 * https://twitter.com/ZachReports/status/1266557305107202049
 * https://twitter.com/BTSsavedmylife9/status/1266754310161006594
 
-### Cop shoving a person to the ground towards metal trash bins | May 30th
+###  | May 30th
 
 An NYPD officer pushes a civilian down towards trash cans. 
 
 **Links**
 
 * https://twitter.com/crankberries/status/1266584559245803522
+* https://twitter.com/greg_doucette/status/1266850004720812032
 
 ### NYPD rams protesters | May 31st
 
