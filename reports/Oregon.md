@@ -16,3 +16,11 @@ Actual deployment of tear-gas not shown. Video shows what appears to be a cloud 
 **Links**
 
 * https://twitter.com/AstuteAF/status/1268125169890938882
+
+### Officer pepper-sprays protestor | May 30th
+
+An officer shoves and pepper-sprays a protestor standing on the other side of a barrier.
+
+**Links**
+
+* https://www.youtube.com/watch?v=01oWE24O9Zw&feature=emb_title
