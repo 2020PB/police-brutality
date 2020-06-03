@@ -50,3 +50,11 @@ An officer peppersprays someone recording the capitol building through his sun r
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266758227930333188
+
+### Officer threatens protestors with assault if they stay out after curfew |
+
+An officer tells a protestor "at 8, we're gonna start beating the f-ck out of you".
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/guygva/denver_pd_after_8_curfew_were_gonna_start_beating/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
