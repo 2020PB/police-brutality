@@ -13,3 +13,11 @@ Police are seen attacking a car and pulling people, including an old woman, out 
 
 **Links**
 * https://twitter.com/cruzzzyc/status/1267185423333199874
+
+### Police pepperspray reporter for recording | May 31st
+
+Police pepperspray reporter holding press pass and yelling press.
+
+**Links**
+
+* https://twitter.com/JCB_Journo/status/1266897672545480706
