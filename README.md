@@ -43,6 +43,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Nebraska ](./reports/Nebraska.md)
   * [Nevada](./reports/Nevada.md)
   * [New York](./reports/New%20York.md)
+  * [North Carolina](./reports/North%20Carolina.md)
   * [Ohio](./reports/Ohio.md)
   * [Oregon](./reports/Oregon.md)
   * [Pennsylvania](./reports/Pennsylvania.md)
@@ -53,4 +54,5 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Virginia](./reports/Virginia.md)
   * [Washington](./reports/Washington.md)
   * [Washington D.C.](./reports/Washington%20DC.md)
+  * [Wisconsin](./reports/Wisconsin.md)
   * [Unknown Location](./reports/Unknown%20Location.md)
