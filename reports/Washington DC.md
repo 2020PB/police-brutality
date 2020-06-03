@@ -39,3 +39,11 @@ DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267377374066167808
+
+### Police violence outside the White House | June 1st
+
+MSNBC captures Police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
