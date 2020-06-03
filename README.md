@@ -43,6 +43,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Ohio](./reports/Ohio.md)
   * [Oregon](./reports/Oregon.md)
   * [Pennsylvania](./reports/Pennsylvania.md)
+  * [South Carolina](./reports/South%20Carolina.md)
   * [Tennessee](./reports/Tennessee.md)
   * [Texas](./reports/Texas.md)
   * [Utah](./reports/Utah.md)
