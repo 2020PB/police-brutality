@@ -85,6 +85,7 @@ Multiple police officers begin striking protestors with their batons. The video 
 
 * https://twitter.com/greg_doucette/status/1267277826354556928
 * https://twitter.com/SophiaLeeHyun/status/1267216604388978689
+* https://twitter.com/chadloder/status/1267314138428014594
 * https://v.redd.it/9aiytt50g6251/DASH_1080#mp4
 * https://old.reddit.com/r/PublicFreakout/comments/gu8mqp/police_drives_into_protestors_in_los_angeles/
 
