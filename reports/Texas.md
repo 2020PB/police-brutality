@@ -7,6 +7,14 @@ A group of protesters waving signs in front of a group of police officers was su
 
 * https://gfycat.com/tautimaginativedore
 
+### Police shoot non-violent protestor in the head
+
+Here, a non-violent protestor can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/guwc4y/austin_tx_nonviolent_protestor_shot_in_the_head/
+
 ### Police use tear gas & rubber bullets on protesters | May 30th @ ~3pm
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
