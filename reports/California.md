@@ -228,3 +228,13 @@ Law enforcement fire on crowd with their arms up chanting.
 **Links**
 
 * https://twitter.com/ma7dz/status/1267697838244298752
+
+## San Francisco 
+
+### San Francisco law enforcement shove man off the sidewalk onto the ground.  | May 31st
+
+San Francisco law enforcement shove man off the sidewalk onto the ground. 
+
+**Links**
+
+* https://twitter.com/caseylc9/status/1267285516262596608
