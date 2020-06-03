@@ -18,6 +18,7 @@ In the aftermath other protestors help the victim who is bleeding from a large h
 * https://www.reddit.com/r/PublicFreakout/comments/guwc4y/austin_tx_nonviolent_protestor_shot_in_the_head/
 * https://www.instagram.com/p/CA6TCIGnuWm/
 * https://www.youtube.com/watch?v=-BGyTi-KdKc (aftermath)
+* https://cbsaustin.com/news/local/austin-teen-hospitalized-with-head-injury-after-police-shoot-him-with-bean-bags-at-protest
 
 ### Police use tear gas & rubber bullets on protesters | May 30th @ ~3pm
 
