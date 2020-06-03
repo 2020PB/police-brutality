@@ -29,3 +29,12 @@ While the prison transport vehicle was being pushed around, the police open fire
 **Links**
 
 * https://old.reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/
+
+### Young woman shot in the head by a rubber bullet | May 30th
+
+A young woman was injured by a rubber bullet she took to the head.
+
+**Links**
+
+* https://twitter.com/shannynsharyse/status/1267015577266249728
+* https://twitter.com/shannynsharyse/status/1266631722239766528?s=21
