@@ -1,4 +1,4 @@
-;## Louisville
+## Louisville
 
 ### Police smashing water bottles | May 31st
 
