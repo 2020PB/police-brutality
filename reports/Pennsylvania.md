@@ -22,7 +22,7 @@ Protesters try to help someone stand up; police wait until the person is halfway
 
 ## Philadelphia
 
-### Police beat down man | May 31st
+### Police beat down man | May 30th
 
 The journalist was trying to get a closer look at the police, while they were beating an individual.
 
@@ -66,10 +66,4 @@ Three protestors kneeling on the ground with their hands on their heads/covering
 
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
-### Police swat reporter with baton | May 30th
 
-Police pin young black man to the ground with their knees, swat UR reporter with a baton for filming the scene.
-
-**Links**
-
-* https://twitter.com/UR_Ninja/status/1266913490301792257
