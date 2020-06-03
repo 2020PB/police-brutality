@@ -16,3 +16,12 @@ Actual deployment of tear-gas not shown. Video shows what appears to be a cloud 
 **Links**
 
 * https://twitter.com/AstuteAF/status/1268125169890938882
+
+
+### Police deploy shoot teargas/flashbang grenade into a crowd | June 2nd
+
+Police shoot about a dozen teargas or flashbang grenades into a crowd from quite a distance, and drag a person with a bicycle out of the road.
+
+**Links**
+
+* https://twitter.com/matcha_chai/status/1268043556913987584
