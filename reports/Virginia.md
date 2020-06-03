@@ -8,6 +8,7 @@ A police officer pepper sprayed a man watching from his second floor apartment a
 
 * https://www.reddit.com/r/rva/comments/gtwdzi/someone_got_pepper_sprayed_from_his_second_floor/
 * https://twitter.com/ADeliciousBear/status/1268048506247405568
+* [Full video](https://m.facebook.com/story.php?story_fbid=1123349158037544&id=100010874104187)
 
 ### Tear gas fired at peaceful protest | June 1st
 
@@ -20,10 +21,3 @@ Tear gas canisters were launched by police at peaceful protesters around Robert 
 * https://twitter.com/i/status/1267601158534815745
 * [Drone footage of Event](https://www.youtube.com/watch?v=LG_HMghyQZc)
 
-### Police pepper-spray small group walking by and man watching from his apartment window | May 31st
-
-3 minutes into the video below, officers pepper-spray a group of people walking past them, and then spray someone filming from a first-floor apartment. 
-
-**Links**
-
-* https://m.facebook.com/story.php?story_fbid=1123349158037544&id=100010874104187
