@@ -10,6 +10,16 @@ The individual was sitting on the ground peacefully, yet the police maced her, a
 
 * https://twitter.com/the7goonies/status/1266989439160590336
 
+## Harrisburg
+
+### Police pepperspray protesters helping someone stand up | May 30th
+
+Protesters try to help someone stand up; police wait until the person is halfway up before pepper-spraying the helpers.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1266862623041167362
+
 ## Philadelphia
 
 ### Police beat down man | May 31st
