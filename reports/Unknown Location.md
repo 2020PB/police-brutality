@@ -15,3 +15,11 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 **Links**
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
+
+### Police pepper-spray small group walking by and man watching from his apartment window | May 31st
+
+3 mins into the video, officers pepper-spray a group of people walking past them, and then spray someone filming from a first-floor apartment. Seems to take place in Richmond, but unknown which Richmond.
+
+**Links**
+
+* https://m.facebook.com/story.php?story_fbid=1123349158037544&id=100010874104187
