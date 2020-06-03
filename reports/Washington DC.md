@@ -19,6 +19,7 @@ Protestors and an Australian reporter and cameraman were attacked by police whil
 * https://twitter.com/i/status/1267606685767667712
 * Alternate footage: https://v.redd.it/qf9vf0hdrd251
 * Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
+* CW: Blood: https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/
 
 ### Protestors are quickly and violently pushed out of Lafayette Square | June 1
 
