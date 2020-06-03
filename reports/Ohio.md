@@ -77,3 +77,11 @@ Photographer being sprayed while seemingly calmly standing 10 feet away from the
 * https://i.redd.it/4ix8f3j6dy151.jpg
 * https://old.reddit.com/r/Columbus/comments/gtk192/photographer_being_pepper_sprayed_by_police/
 * https://www.instagram.com/p/CA03DsTByLn/
+
+### Police shoot peaceful woman holding sign with rubber bullets | believed to be May 30th
+
+A peaceful woman stands still holding a sign, quite a distance from police, as a man holds his bike in front of her to shield her while police shoot rubber bullets at her.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267122343454953472
