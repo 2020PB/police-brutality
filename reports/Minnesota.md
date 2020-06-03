@@ -30,7 +30,7 @@ While sitting in their cars, the policemen proceed to pepperspray the protestors
 
 ### CNN Reporter arrested | May 30th
 
-Police arrest fully cooperating CNN press team after refusing to give them information on where to relocate.  
+Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them information on where to relocate.  
 
 **Links**
 
