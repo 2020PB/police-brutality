@@ -75,6 +75,14 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://streamable.com/ja2fw6 (with audio)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
+### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
+
+LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267095100166987778
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
