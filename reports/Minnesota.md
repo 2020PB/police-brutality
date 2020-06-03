@@ -103,7 +103,7 @@ The article given below shows that the Reuters crew was hit with rubber bullets
 
 * https://www.reuters.com/article/us-minneapolis-police-protest-update/reuters-cameraman-hit-by-rubber-bullets-as-police-disperse-protesters-idUSKBN237050
 
-## Police shoot at, threaten to arrest reporter | May 31st
+### Police shoot at, threaten to arrest reporter | May 31st
 
 German reporter for DW News is shot at by Minneapolis police, who then threaten to arrest him.
 
@@ -111,7 +111,7 @@ German reporter for DW News is shot at by Minneapolis police, who then threaten 
 
 * https://www.youtube.com/watch?v=NN8ISwuiX68
 
-## Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
+### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
