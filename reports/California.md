@@ -28,6 +28,7 @@ La Mesa PD shoot a woman in the face with a rubber bullet.
 
 **Links**
 
+* At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
 
