@@ -20,3 +20,10 @@ A line of police stand well apart from a crowd of protestors, one of whom is spe
 **Links**
 
 * https://twitter.com/weslyinfinity/status/1267321172309544960?
+
+### Police pepper spray and arrest protestor holding sign | May 30th
+
+**Links**
+
+* https://www.kansascity.com/news/local/article243188436.html
+* https://www.facebook.com/KuhlPics/photos/a.467614509924515/3214027235283215/?type=3&theater
