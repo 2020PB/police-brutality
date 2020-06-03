@@ -99,3 +99,11 @@ The article given below shows that the Reuters crew was hit with rubber bullets
 **Links**
 
 * https://www.reuters.com/article/us-minneapolis-police-protest-update/reuters-cameraman-hit-by-rubber-bullets-as-police-disperse-protesters-idUSKBN237050
+
+## Police shoot at, threaten to arrest reporter | May 31st
+
+German reporter for DW News is shot at by Minneapolis police, who then threaten to arrest him.
+
+**Links**
+
+* https://www.youtube.com/watch?v=NN8ISwuiX68
