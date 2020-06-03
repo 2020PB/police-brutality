@@ -86,3 +86,11 @@ Unarmed protestors peacefully chanting when officers start randomly peppersprayi
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266878189537824772
+
+### Police pepperspray sitting protesters | May 31st
+
+Police pepperspraying peaceful unarmed protestors as they sit on the ground.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267102580070592512
