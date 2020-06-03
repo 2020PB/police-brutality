@@ -7,3 +7,12 @@ A bunch of protesters peacefully sitting on the ground were shot at and maced. A
 **Links**
 
 * https://twitter.com/XruthxNthr/status/1266903223220097024
+
+
+### Peaceful protestors arrested for breaking curfew | June 1
+
+Omaha law enforcement officer kicks protester already on the ground. Another officer carries a reporter away from the scene. 
+
+**Links**
+
+* https://twitter.com/reecereports/status/1267629669093978117
