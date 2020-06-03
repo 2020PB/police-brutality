@@ -21,7 +21,9 @@ The journalist was trying to get a closer look at the police, while they were be
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Police drag cooperating man from car and beat him with clubs
+### Police drag cooperating man from car and punch him in the face
+
+A black SUV stops while at least a dozen police on bicycles pull up to it. The police open the vehicle's front doors. The passenger is pulled to the ground and then cuffed by several officers. The driver is pushed against the side of the vehicle and cuffed. As both are led to an area behind the vehicle, one officer yells inches away from the passenger's face, then punches him in the face. After the passenger is led away, the same officer walks back up to the passenger, grabs his shirt, and yells at him at close distance.
 
 **Links**
 
@@ -30,11 +32,15 @@ The journalist was trying to get a closer look at the police, while they were be
 
 ### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
 
+A man is being held on the ground by a police officer, who forces the man's hand onto a baton. Another officer joins in to force the man flat on the ground, kneeling on either the man's head or neck. The second officer then begins to strike the man on the head. A third officer joins in and grabs the man's arms. The police yell at witnesses to "back off", while someone yells "he can't breathe".
+
 **Links**
 
 * https://twitter.com/mkultranews/status/1267305587206807553
 
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them
+
+Over 30 protesters are standing in the grassy area beside a highway. Police on the highway throw tear gas canisters into the crowd of protesters. Some protesters try to throw the canisters back. A woman says "I can't breathe".
 
 **Links**
 
