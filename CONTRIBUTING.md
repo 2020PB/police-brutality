@@ -191,7 +191,7 @@ On the bottom of the editor, write a title and a brief description of your chang
 
 **5. Commit!**
 
-Click "Propose file change" and you're done!
+Click "Propose file change" then "Create pull request" and you're done!
 
 #### Incident Report Format
 
