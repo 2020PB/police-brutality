@@ -1,5 +1,3 @@
-from rich.traceback import install
-install()
 # Compile the reports from all over into easily-accessible databases in SqLite, JSON, and CSV
 # Create 3 files: reports.[json|csv|db], one for each format
 #
