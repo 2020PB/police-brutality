@@ -8,6 +8,8 @@ The individual was sitting on the ground peacefully, yet the police maced her, a
 
 * https://twitter.com/ItsKadynC/status/1266967646345613317
 
+* https://twitter.com/the7goonies/status/1266989439160590336
+
 ## Philadelphia
 
 ### Police beat down man | May 31st
