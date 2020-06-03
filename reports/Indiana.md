@@ -34,3 +34,11 @@ Police confiscate medical supplies from a medical station at Monument Circle.
 **Links**
 
 * https://www.facebook.com/AlexandraIndy/videos/10219444419838711
+
+### Police beating, shoving, and shooting two women | June 1st
+
+One woman struggled against the officer restraining her, so she and her friend were beaten with batons, shot with rubber bullets, and shoved to the ground.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/guffju/indianapolis_police_on_women_rights/
