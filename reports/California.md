@@ -10,6 +10,16 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
 
+## Hollywood 
+
+### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. 
+
+Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it's still looks to be light outside.
+
+**Links**
+
+* https://twitter.com/AdoreDelano/status/1267688320735166465
+
 ## La Mesa
 
 ### Police shoot woman in the face | May 31st
