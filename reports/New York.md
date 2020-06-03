@@ -75,7 +75,7 @@ Woman was sent to the ER due to seizure caused by policeman flinging her to the 
 
 * https://twitter.com/zayer_dounya/status/1266581597760831489
 
-### Police drive by man and hit him with car door | May 30th
+### Police drive by man and hit him with car door | May 29th
 
 Policeman deliberately opens car door to knock an individual down to the ground.
 
