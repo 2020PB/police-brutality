@@ -16,3 +16,11 @@ Actual deployment of tear-gas not shown. Video shows what appears to be a cloud 
 **Links**
 
 * https://twitter.com/AstuteAF/status/1268125169890938882
+
+### Police teargas into a crowd | June 2nd
+
+Police deploy flashbangs and teargas into a crowd
+
+**Links**
+
+* https://twitter.com/MrAndyNgo/status/1268224547272003585
