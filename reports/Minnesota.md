@@ -70,12 +70,13 @@ Pictures depict slashed tires, and the owner of the tweet says it could have bee
 * https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
 * https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
 
-### Bruises from rubber bullets | May 31st
+### CBS news crew shot with rubber bullets | May 31st
 
-The picture shows bruises from rubber bullets on a journalist's arm.
+While filming, Mike George's CBS news crew is shot with rubber bullets.
 
 **Links**
 
+* https://mobile.twitter.com/chadloder/status/1266971884001693696
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
 
 ### Police throw flashbangs at reporter | May 31st
