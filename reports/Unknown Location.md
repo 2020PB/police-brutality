@@ -16,7 +16,9 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
 
-### Police shove a woman to the ground and force a weapon into her hand to create false evidence
+### Police shove a woman to the ground and force a weapon into her hand | (Believed) May 31st
+
+Police shove a woman to the ground and force a weapon into her hand to create false evidence.  The women is already on the ground, and three officers aggressively restrain her.
 
 **Links**
 
