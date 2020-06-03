@@ -27,6 +27,8 @@ Police were seen firing multiple shots of what were allegedly rubber bullets int
 
 ### Police spray a man in the face while he stands still ~3 feet away from them.
 
+A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face. 
+
 **Links**
 
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/guhgfq/please_let_others_see_this_this_guy_did_not/
