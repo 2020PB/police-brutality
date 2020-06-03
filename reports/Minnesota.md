@@ -4,7 +4,7 @@
 
 ### Police storm gas station, attacking reporters who show press badges | May 31st
 
-Reporter was pushed to the ground and pepper sprayed in the eyes.
+Michael Adams films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
 **Links**
 
