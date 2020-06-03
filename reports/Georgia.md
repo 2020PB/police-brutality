@@ -17,5 +17,4 @@ Despite the woman showing resistance, the policeman grabs her and pulls her out 
 
 * https://twitter.com/danielvankirk/status/1266947767840063489
 * https://www.instagram.com/p/CA27quMhqJA/
-* https://twitter.com/danielvankirk/status/1266947767840063489
 * https://twitter.com/SarahBaska/status/1267308455225774080?s=20
