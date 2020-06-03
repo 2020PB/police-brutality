@@ -36,6 +36,14 @@ Police pepper spray peacefully protesting crowd
 * Seattle OPD Case 2020OPA-0334
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
+### Police arrest a protestor using knee-on-neck technique used to murder George Floyd | May 30th
+
+A police officer can be seen using his knee to pin a protester down while he is being arrested. Other protesters yell at the officer, the other officer moves the officer's knee.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267110620471664641
+
 ### Additional Seattle OPA Case Numbers
 
 * 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"
