@@ -87,6 +87,7 @@ Photographer being sprayed while seemingly calmly standing 10 feet away from the
 * https://old.reddit.com/r/Columbus/comments/gtk192/photographer_being_pepper_sprayed_by_police/
 * https://www.instagram.com/p/CA03DsTByLn/
 
+
 ### Woman holding a sign is shot with rubber bullets | May 31st
 
 A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by othe protestors.
@@ -94,3 +95,6 @@ A woman standing alone holding a sign is shot with rubber bullets. She falls to 
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267113315613806592
+
+* https://twitter.com/greg_doucette/status/1267122343454953472
+
