@@ -25,6 +25,14 @@ A toddler and her mother were driving through downtown and had to leave their ca
 
 * https://wpta21.com/2020/05/31/toddler-tear-gassed-photo-goes-viral/#.XtUVqwf8OnF.facebook
 
+### Police pepper spray protesters attempting to record them | May 29th
+
+A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1266745200656990208
+
 ## Indianapolis
 
 ### Police confiscate medical supplies from medical station | May 29th
