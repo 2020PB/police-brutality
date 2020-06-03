@@ -30,6 +30,14 @@ Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace
 * https://twitter.com/TimWCBD/status/1266787064735043591
 * https://twitter.com/KRobPhoto/status/1266796191469252610
 
+### Peaceful protester sprayed in the face with mace | May 30th
+
+Seemingly without warning a protester simply holding a sign was maced in the face. 
+
+**Links**
+
+* https://twitter.com/rottenstrwbry/status/1266805467990446081
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
