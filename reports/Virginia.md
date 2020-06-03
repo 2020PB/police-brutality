@@ -2,11 +2,12 @@
 
 ### Officer sprays a man watching from his balcony | May 31st
 
-A police officer pepper sprayed a man watching from his second floor apartment. 
+A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
 
 **Links**
 
 * https://www.reddit.com/r/rva/comments/gtwdzi/someone_got_pepper_sprayed_from_his_second_floor/
+* https://twitter.com/ADeliciousBear/status/1268048506247405568
 
 ### Tear gas fired at peaceful protest | June 1st
 
