@@ -1,6 +1,6 @@
 ### Riot Police rams shield into BBC Cameraman | May 31
 
-The video shows the officer running straight at a BBC cameraman with his shield out in front of him
+A BBC cameraman was charged at by riot police and hit with their shield 
 
 **Links**
 
