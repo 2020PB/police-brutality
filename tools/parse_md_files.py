@@ -19,6 +19,10 @@ date_regex = re.compile(
     "Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|"
     "Dec(ember)?)\s+\d{1,2}")
 
+url_regex = re.compile(
+    "(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))"
+    "([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?")
+
 
 def title_to_name_date(line):
     parts = line.split('|')
@@ -93,7 +97,11 @@ def parse_state(state, text):
             entry["date"] = date
             entry["date_text"] = date_text
         if starts_with == '*':
-            entry["links"].append(line.strip())
+            link = url_regex.search(line)
+            if link:
+                entry["links"].append(link.group())
+            else:
+                print(f"Failed link parse '{line}'")
 
     if entry and entry["links"]:
         yield entry
