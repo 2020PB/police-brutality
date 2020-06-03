@@ -15,3 +15,9 @@ A couple of police officers kneed and beat a man who was peacefully standing wit
 **Links**
 
 * https://twitter.com/BenjaminPDixon/status/1266577416950079494
+
+### Police shove a woman to the ground and force a weapon into her hand to create false evidence
+
+**Links**
+
+* [https://twitter.com/BrutumF/status/1267575655509577728](https://twitter.com/BrutumF/status/1267575655509577728)
