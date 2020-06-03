@@ -115,3 +115,11 @@ Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays 
 **Links**
 
 * https://twitter.com/GwynneFitz/status/1266522692326428672
+
+### Medic pinned and arrested | May 31st
+
+A medic wearing a red cross repeatedly says "I'm a medic!" while an officer pins him to the grouns and arrests him.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267118313466822656
