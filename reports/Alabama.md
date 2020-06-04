@@ -11,16 +11,16 @@ Law enforcement officer woman to the ground then try to move while she's on the 
 
 ### Police officer pepper sprays protestors for no reason | June 3rd
 
-Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason
+Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason.
 
 **Links**
 
 *  https://twitter.com/bitchthot420/status/1268350308398268416
 
 
-### Police tear gas reporters, prevent them from leaving | June 3rd
+### Police tear gas reporters | June 3rd
 
-Police use tear gas on reporters and protestors, who are then blocked from leaving the area by other officers
+Police use tear gas on reporters and protestors, who are then initially blocked from leaving the area by other officers.
 
 **Links**
 
