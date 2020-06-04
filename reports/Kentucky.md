@@ -34,6 +34,14 @@ A young woman was injured by a rubber bullet she took to the head.
 * [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
 
+### Police shoot at cars in traffic from overpass | June 1st?
+
+Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
+
+**Links**
+
+* [Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
+
 ### Restaurant owner shot and killed | June 1st
 
 During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a resaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
