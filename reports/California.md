@@ -57,9 +57,9 @@ Photo shows large bruise the reporter got from a rubber bullet
 
 ## Los Angeles
 
-### LAPD drive by shootings at fleeing people announcing "This is an Illegal Assembly" | June 2
+### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2
 
-The police are captured driving in an SUV shooting at fleeing protestors and parked vehicles from various twitter users.
+The police are seen shooting at fleeing protestors and parked vehicles.
 
 **Links**
 
