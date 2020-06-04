@@ -228,6 +228,13 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
+### Police shoot crowd of unarmed protestors with rubber bullets |
+
+A crowd of protestors chanting are shot with rubber bullets by a line of officers.
+
+**Links**
+
+* https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
 ## Oakland
 
