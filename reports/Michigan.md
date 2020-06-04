@@ -64,3 +64,5 @@ A crowd of peaceful protesters downtown refused to disperse upon curfew taking e
 
 * WOODTV8 live crew: https://streamable.com/xvlky1
 * Kalamazoo Gazette via Facebook Live: https://streamable.com/0wfiu3
+* MLive article: https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html
+* IBB image backup of Asst. Chief and City Manager kneeling: https://ibb.co/Fgrwqkj
