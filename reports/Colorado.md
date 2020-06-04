@@ -1,3 +1,15 @@
+## Colorado Springs
+
+
+### Multiple cops pin man to ground while repeatedly punching him | June 1st
+
+At least 5 cops pin man to the ground. Several of them punch him even though he appears to not be resisting. According to the person that posted the video he was shot by rubber bullets before this took place.
+
+**Links**
+
+* https://www.facebook.com/Shawn.R.Russ/videos/10221345617964005/
+* https://www.kktv.com/content/news/Colorado-Springs-police-issue-statement-following-use-of-force-arrest-during-protest-570969681.html
+
 ## Denver
 
 
