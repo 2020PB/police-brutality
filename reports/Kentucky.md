@@ -44,3 +44,11 @@ During protests, shots were fired by an unknown shooter. Police returned fire, s
 * [Chief of police resigns](https://edition.cnn.com/2020/06/01/us/louisville-protests-man-shot-dead/index.html)
 * [Police-released CCTV footage of the incident](https://youtu.be/wDg9fev67lw)
 * [Video taken nearby during the shooting](https://mobile.twitter.com/chadloder/status/1267555717751296000)
+
+### Protestors in St. Matthews shot with pepper rounds | June 3rd
+
+Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews
+
+**Links**
+
+* [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
