@@ -10,6 +10,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
 
+
 ## Hollywood 
 
 ### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. 
@@ -19,6 +20,7 @@ Law enforcement arrest people walking, you can hear on the radio “You should n
 **Links**
 
 * https://twitter.com/AdoreDelano/status/1267688320735166465
+
 
 ## La Mesa
 
@@ -32,6 +34,7 @@ La Mesa PD shoot a woman in the face with a rubber bullet.
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
 
+
 ## Long Beach
 
 ### Reporter shot in neck by rubber bullet
@@ -41,6 +44,7 @@ Photo shows large bruise the reporter got from a rubber bullet
 **Links**
 
 * https://laist.com/2020/05/31/reporters_injured_protests_police.php
+
 
 ## Los Angeles
 
@@ -86,6 +90,14 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://streamable.com/ja2fw6 (with audio)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
+### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
+
+LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267095100166987778
+
 ### LAPD SUV drives into protesters, speeds away | May 31st
 
  LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protestors, then throws it in reverse and speeds away
@@ -105,6 +117,8 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 **Links**
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+* https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
+
 
 ## Oakland
 
@@ -115,6 +129,7 @@ A police cruiser in Oakland was seen driving erratically and chasing down protes
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
+
 
 ## Sacramento
 
@@ -137,7 +152,6 @@ A police officer shoots a projectile at a protestor for yelling out profanities.
 
 * https://www.reddit.com/r/PublicFreakout/comments/gtksgq/cop_decides_to_shoot_at_protestor_who_hurt_his/
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
-
 
 
 ## Santa Ana
