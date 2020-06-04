@@ -34,4 +34,3 @@ A Huntsville PD Lieutenant stated that they used tear gas on protestors before v
 **Links**
 
 *  https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
-*  https://twitter.com/ByChipBrownlee/status/1268389790430498817
