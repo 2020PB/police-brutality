@@ -103,8 +103,15 @@ A woman standing alone holding a sign is shot with rubber bullets. She falls to 
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267113315613806592
-
 * https://twitter.com/greg_doucette/status/1267122343454953472
+
+### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours |
+
+A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
 
 ### Officer refuses to give diabetic arestee her insulin back |
 
@@ -115,3 +122,4 @@ Protesters are trying to leave at curfew and are offered a ride. They get into a
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+
