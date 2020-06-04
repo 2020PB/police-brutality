@@ -179,6 +179,14 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
+### LAPD drive-bys and shoots at civilians running away | Believed to be June 2nd
+
+An LAPD vehicle pulls up to a group of black men and fires at them as they run away. The officers then seemingly pursue them.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gvmxvl/guess_lapd_is_doing_drivebys_now/
+* https://www.facebook.com/permalink.php?id=1815414492043315&story_fbid=2605054773079279
 
 ## Oakland
 
