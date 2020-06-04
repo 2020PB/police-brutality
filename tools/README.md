@@ -1,6 +1,6 @@
 # Tools
 
-* `parse_md_files.py` Script converting .md formatted reports to .csv and .json data.
+* `data_builder.py` Script converting .md formatted reports to .csv and .json data.
 
 ## Requirements
 
