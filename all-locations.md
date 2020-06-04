@@ -931,6 +931,14 @@ A line of police stand well apart from a crowd of protestors, one of whom is spe
 
 * https://twitter.com/weslyinfinity/status/1267321172309544960?
 
+### Police pullaway protestor and pepper sprays others | June 1st
+
+A police officer pulls away a protestor standing still. When others come to the protestor's aid they are pepper sprayed.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gut8n1/in_kansas_city/
+
 ### Police pepper spray and arrest protestor holding sign | May 30th
 
 **Links**
