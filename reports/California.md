@@ -10,6 +10,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
 
+
 ## Hollywood 
 
 ### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. 
@@ -19,6 +20,7 @@ Law enforcement arrest people walking, you can hear on the radio “You should n
 **Links**
 
 * https://twitter.com/AdoreDelano/status/1267688320735166465
+
 
 ## La Mesa
 
@@ -32,6 +34,15 @@ La Mesa PD shoot a woman in the face with a rubber bullet.
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
 
+### Law enforcement shoot and throw tear gas at protesters | May 30th
+
+Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
+
+**Links**
+
+* https://twitter.com/mamitbh/status/1267030342243778561
+
+
 ## Long Beach
 
 ### Reporter shot in neck by rubber bullet
@@ -41,6 +52,8 @@ Photo shows large bruise the reporter got from a rubber bullet
 **Links**
 
 * https://laist.com/2020/05/31/reporters_injured_protests_police.php
+* https://twitter.com/AGuzmanLopez/status/1267269781805137920
+
 
 ## Los Angeles
 
@@ -50,11 +63,36 @@ The police are seen to threaten and try to scare the residents of the apartment 
 
 **Links**
 
-* https://mobile.twitter.com/Sarah_Mojarad/status/1266633046591078400?s=09
+* https://twitter.com/Sarah_Mojarad/status/1266633046591078400?s=09
+
+### Los Angeles law enforcement harass a man and swing at his bike | May 30th
+
+Actor John Cusack has a confrontation with police where they continuously shout at him to move as he's doing so and hitting his bike with batons.  
+
+**Links**
+
+* https://twitter.com/johncusack/status/1266953514242228229
+
+### Los Angeles law enforcement beat protesters with batons | May 30th
+
+Los Angeles law enforcement beat several protesters with batons.
+
+**Links**
+
+* https://twitter.com/larryprincxpark/status/1266883515431505920
+* https://twitter.com/kendrick38/status/1266997131430133761
+
+### ABC7 reporters are hit by tear gas | May 30th
+
+ABC7 reporters are hit by a cloud of tear gas after protesters were gassed up the street by Los Angeles law enforcement, as reported in this news coverage. 
+
+**Links**
+
+* https://twitter.com/GMA/status/1266934049098121216
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
-The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them. Blatant disregard for the individuals' safety.
+The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
 **Links**
 
@@ -68,7 +106,6 @@ A police officer has his knee on a woman's neck, who already had 3 police office
 
 * https://www.reddit.com/r/PublicFreakout/comments/gturig/cop_has_his_knee_on_a_womans_neck_even_though/
 
-
 ### Police shoot rubber bullets at protesters | May 31st
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby. 
@@ -77,14 +114,31 @@ After a driver forces their way through a crowd, the police start shooting rubbe
 
 * https://twitter.com/SUNDAYLOVERBOY/status/1266890947888996352
 
-### Police strike protestors with batons | June 1st
+### Man shot in the head with deterrent rounds, is sent to hospital | May 31st
 
-Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
+Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head.
 
 **Links**
 
-* https://streamable.com/ja2fw6 (with audio)
-* https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
+* https://twitter.com/LowkeySinistra/status/1267109420955086848
+* https://twitter.com/LowkeySinistra/status/1267871561714790401
+
+### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
+
+Los Angeles law enforcement beat protesters for no apparent reason.
+
+**Links**
+
+* https://twitter.com/MattMcGorry/status/1267217360894562306
+
+### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
+
+LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267095100166987778
+* https://twitter.com/sleepydayhana/status/1266930544811671552
 
 ### LAPD SUV drives into protesters, speeds away | May 31st
 
@@ -97,6 +151,24 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://twitter.com/chadloder/status/1267314138428014594
 * https://v.redd.it/9aiytt50g6251/DASH_1080#mp4
 * https://old.reddit.com/r/PublicFreakout/comments/gu8mqp/police_drives_into_protestors_in_los_angeles/
+* https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/
+
+### Police strike protestors with batons | June 1st
+
+Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
+
+**Links**
+
+* https://streamable.com/ja2fw6 (with audio)
+* https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
+
+### Los Angeles law enforcement shot at a man on his own balcony | June 1st
+
+Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
+
+**Links**
+
+* https://twitter.com/cwellborn3/status/1267318753571811329
 
 ### Police shoot rubber bullets at two peaceful protestors | June 1st
 
@@ -105,6 +177,8 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 **Links**
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+* https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
+
 
 ## Oakland
 
@@ -116,6 +190,27 @@ A police cruiser in Oakland was seen driving erratically and chasing down protes
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
 
+### Oakland law enforcement shoot a reporter | May 31st
+
+A reporter films a street with a few protesters walking around.  In the distance, a line of Oakland law enforcement is standing. The law enforcement officers shoot the reporter.
+
+**Links**
+
+* https://twitter.com/SarahBelleLin/status/1266980899301683200
+
+
+## Riverside 
+
+### Law enforcement break a car window for no apparent reason | June 2nd
+
+A line of law enforcement officers are walking down the street.  When they approach a parked vehicle, law enforcement break the vehicle's window for no apparent reason.
+
+**Links**
+
+* https://old.reddit.com/r/PublicFreakout/comments/gv2lku/news_chopper_pans_out_as_riverside_county_sheriff/
+
+
+
 ## Sacramento
 
 ### Police shoot protester in the head | May 31st
@@ -126,6 +221,13 @@ A crowd of protesters demonstrating in front of a line of police officers was fi
 * https://youtu.be/pRmBO34aXME
 * https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
+### Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful. | June 1st
+
+Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful.
+
+**Links**
+
+* https://www.facebook.com/danny.garza.167/videos/10222535335080905/
 
 ## San Jose
 
@@ -139,7 +241,6 @@ A police officer shoots a projectile at a protestor for yelling out profanities.
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
 
 
-
 ## Santa Ana
 
 ### Police open fire on protestors | May 31st
@@ -150,13 +251,43 @@ The individual recording the video is trying his best to save his fellow protest
 
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
 
+## San Luis Obispo 
+
+### Law enforcement fire on crowd with their arms up chanting | June 1st
+
+Protesters standing with their arms raised are chanting "This is what democracy looks like".  Law enforcement fire on the crowd and gas can be seen.
+
+**Links**
+
+* https://twitter.com/ma7dz/status/1267697838244298752
+
+## San Francisco 
+
+### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
+
+A police SUV is attempting to drive through a crowd.  A law enforcement officer shoves the man from behind off the sidewalk onto the ground in front of the vehicle. 
+
+**Links**
+
+* https://twitter.com/caseylc9/status/1267285516262596608
+
 ## Santa Monica
 
 ### Police fire pepper bullets into apartment | May 31st
 
-Live on TV, police fire multiple pepper bullets at an apartment window.
+Live on TV, police fire multiple pepper bullets at a second-story apartment window from the street below.
 
 **Links**
 
 * https://twitter.com/GIFsZP/status/1267241803750813703
+
+## Walnut Creek
+
+### Armored law enforcement vehicle threatens protestors | June 2nd
+
+In this video, an armored law enforcement vehicle tells protestors over megaphone "if you do not move, you will be dead."
+
+**Links**
+
+* https://www.instagram.com/p/CA7KMc9pX5S/
 
