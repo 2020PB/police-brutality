@@ -18,23 +18,6 @@ import (
 	"go.uber.org/zap"
 )
 
-/*
-This file is used to download all media contained in the police brutality "all-locations.csv" file.
-
-Some of the names of the videos however are larger than the maximum number of characters permitted in a file path on the file system,
-therefore  filenames of the videos are instead the ID of the video as determined by youtube-dl, alongwith a unique number appended to the end, so the template is:
-	[YOUTUBE-DL-VIDEO-ID].[UNIQUE-VIDEO-NUMBER].[EXTENSION]
-
-After downloading, a CSV file is generated to make it easy to determine which file belongs to what video, and what url.
-To get the corresponding URL, and Video name simply take the "UNIQUE-VIDEO-NUMBER", and look up the last row of the CSV file (unique_video_number),
-and it will give you the video name, along with the URL used to retrieve the video
-
-For example if we have the following row in the CSV file:
-	"LAPD SUV drives into protesters, speeds away",https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/,48
-it's corresponding filename would be id.48.ext
-										^------ unique video number
-*/
-
 const (
 	/* rows of csv file for easy reference
 	0    , 1     , 2  , 3  , 4  , 5       , 6    , 7    ,  8   , 9    , 10   , 11  ,  12   , 13
