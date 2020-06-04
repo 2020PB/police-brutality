@@ -38,6 +38,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Iowa](./reports/Iowa.md)
   * [Kansas](./reports/Kansas.md)
   * [Kentucky](./reports/Kentucky.md)
+  * [Louisiana](./reports/Louisiana.md)
   * [Michigan](./reports/Michigan.md)
   * [Minnesota](./reports/Minnesota.md)
   * [Missouri](./reports/Missouri.md)
