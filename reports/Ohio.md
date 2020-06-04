@@ -106,3 +106,12 @@ A woman standing alone holding a sign is shot with rubber bullets. She falls to 
 
 * https://twitter.com/greg_doucette/status/1267122343454953472
 
+### Officer refuses to give diabetic arestee her insulin back |
+
+Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
+* Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
+* Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
