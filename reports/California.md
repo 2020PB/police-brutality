@@ -67,14 +67,6 @@ The police are captured driving in an SUV shooting at fleeing protestors and par
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
 
-### Police intimidate person filming them by shooting at apartment building | May 30th
-
-The police are seen to threaten and try to scare the residents of the apartment building, the POV of the video is from. At 0:45 a shot is fired by the police, in order to get the residents of the apartments, off their balconies and into their homes.
-
-**Links**
-
-* https://twitter.com/Sarah_Mojarad/status/1266633046591078400?s=09
-
 ### Los Angeles law enforcement harass a man and swing at his bike | May 30th
 
 Actor John Cusack has a confrontation with police where they continuously shout at him to move as he's doing so and hitting his bike with batons.  
