@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/panjf2000/ants/v2 v2.4.1
+	github.com/pkg/errors v0.8.1
 	github.com/urfave/cli/v2 v2.2.0
 	go.bobheadxi.dev/zapx/zapx v0.6.8
 	go.uber.org/atomic v1.6.0

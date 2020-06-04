@@ -5,21 +5,42 @@ import (
 	"encoding/csv"
 	"fmt"
 	"io"
-	"log"
 	"net/http"
 	"os"
 	"os/exec"
+	"sync"
 	"time"
 
 	"github.com/panjf2000/ants/v2"
+	"github.com/pkg/errors"
 	"go.bobheadxi.dev/zapx/zapx"
 	"go.uber.org/atomic"
 	"go.uber.org/zap"
 )
 
+/*
+This file is used to download all media contained in the police brutality "all-locations.csv" file.
+
+Some of the names of the videos however are larger than the maximum number of characters permitted in a file path on the file system,
+therefore  filenames of the videos are instead the ID of the video as determined by youtube-dl, alongwith a unique number appended to the end, so the template is:
+	[YOUTUBE-DL-VIDEO-ID].[UNIQUE-VIDEO-NUMBER].[EXTENSION]
+
+After downloading, a CSV file is generated to make it easy to determine which file belongs to what video, and what url.
+To get the corresponding URL, and Video name simply take the "UNIQUE-VIDEO-NUMBER", and look up the last row of the CSV file (unique_video_number),
+and it will give you the video name, along with the URL used to retrieve the video
+
+For example if we have the following row in the CSV file:
+	"LAPD SUV drives into protesters, speeds away",https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/,48
+it's corresponding filename would be id.48.ext
+										^------ unique video number
+*/
+
 const (
-	// URL is the path to the CSV file
-	URL = "https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.csv"
+	/* rows of csv file for easy reference
+	0    , 1     , 2  , 3  , 4  , 5       , 6    , 7    ,  8   , 9    , 10   , 11  ,  12   , 13
+	state,edit_at,city,name,date,date_text,Link 1,Link 2,Link 3,Link 4,Link 5,Link 6,Link 7,Link 8
+	*/
+	url = "https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.csv"
 )
 
 // Downloader downloads the media contained in the csv file
@@ -49,87 +70,120 @@ func New(logFile, path string, concurrency int) *Downloader {
 	return &Downloader{path, logger, wp, atomic.NewInt64(0)}
 }
 
-// Run starts the download process
-func (d *Downloader) Run(timeout time.Duration) error {
-	resp, err := http.Get(URL)
+// Run starts the download process, note that maxDownloads doesn't necessarily equate to number of videos
+// it really means the maximum number of entries in the csv to download, and some entries in the csv may have more than 1 associated video
+func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
+	resp, err := http.Get(url)
 	if err != nil {
 		return err
 	}
 	defer resp.Body.Close()
-	reader := csv.NewReader(resp.Body)
-	/* rows:
-	0    , 1     , 2  , 3  , 4  , 5       , 6    , 7    ,  8   , 9    , 10   , 11  ,  12   , 13
-	state,edit_at,city,name,date,date_text,Link 1,Link 2,Link 3,Link 4,Link 5,Link 6,Link 7,Link 8
-	*/
-	i := 0
-	for {
+	var (
+		results []struct {
+			name  string
+			link  string
+			count int64
+		}
+		mux    = &sync.Mutex{}
+		wg     = &sync.WaitGroup{}
+		reader = csv.NewReader(resp.Body)
+	)
+	for i := 0; i < maxDownloads && maxDownloads != 0; i++ {
 		// read the next record
 		record, err := reader.Read()
 		if err != nil && err != io.EOF {
 			return err
 		} else if err == io.EOF {
 			d.logger.Info("finished downloading videos")
-			return nil
+			break
 		}
-		// skip the first row which are the headers
-		if i == 0 {
-			i++
+		// skip the first row as it contains column names OR
+		// skip if the row has less than 7 elements as the 7th element is the start of the video links
+		if i == 0 || len(record) < 7 {
 			continue
 		}
-		// this row contains no video(s)
-		// as it has less than 7 elements, and the 7th element is the start of the video links
-		if len(record) < 7 {
-			continue
-		}
-		// submit to the worker pool, allowing concurrently downloading multiple videos
+		wg.Add(1)
 		d.wp.Submit(func() {
+			defer wg.Done()
+			// gets the last column so we dont get an out of range panic
 			max := len(record) - 1
-			for i := 6; i < max; i++ {
+			for ii := 6; ii < max; ii++ {
 				// this column is empty, and has no data
-				if record[i] == "" {
+				if record[ii] == "" {
 					continue
 				}
-				d.logger.Info("downloading video", zap.String("name", record[3]), zap.String("url", record[i]))
-				download := func() {
-					var errbuf bytes.Buffer
-					// use an atomically increasing counter to prevent any possible chacne of filename conflics when running many concurrent downloaders
-					//	cmd := exec.Command("youtube-dl", "-o", d.path+"/%(title)s.%(id).%(ext)s.%(id)s-"+fmt.Sprint(d.count.Inc()), record[i])
-					cmd := exec.Command("youtube-dl", "-o", d.getName(), record[i])
-					// enables capturing the stderr output for easier debugging
-					cmd.Stderr = &errbuf
-					// if this fails, then it means youtube-dl wasn't able to process the video
-					if err := cmd.Start(); err != nil {
-						d.logger.Error("failed to start command", zap.Error(err), zap.String("name", record[3]), zap.String("url", record[i]))
-						return
-					}
-					// this prevents a stalled download, or transient network issues from stalling the entire download process
-					done := make(chan error)
-					go func() { done <- cmd.Wait() }()
-					select {
-					case err := <-done:
-						if err != nil {
-							d.logger.Error("failed to run command", zap.Error(err), zap.String("command.error", errbuf.String()), zap.String("name", record[3]), zap.String("url", record[i]))
-							log.Println("failed to run command: ", err)
-							return
-						}
-					case <-time.After(timeout):
-						// TODO(bonedaddy): decide if we need this
-						// it's menat to prevent any possible issue with cmd having a nil process when this is called
-						defer recover()
-						// kill the process
-						if cmd.Process != nil {
-							cmd.Process.Kill()
-						}
-						d.logger.Warn("download stalled, skipping", zap.String("video", record[3]), zap.String("link", record[i]))
-						return
-					}
+				count := d.count.Inc()
+				d.logger.Info("downloading video", zap.String("name", record[3]), zap.String("url", record[ii]))
+				download := func() error {
+					cmd := exec.Command("youtube-dl", "-o", d.getName(count), record[ii])
+					return d.runCommand(cmd, timeout)
 				}
-				download()
+				if err := download(); err != nil {
+					d.logger.Error("failed to run command", zap.Error(err), zap.String("name", record[3]), zap.String("url", record[ii]))
+				} else {
+					// if the command run succeeded, then update the results for processing after all downloads are done
+					mux.Lock()
+					results = append(results, struct {
+						name  string
+						link  string
+						count int64
+					}{
+						name:  record[3],
+						link:  record[ii],
+						count: count,
+					})
+					mux.Unlock()
+				}
 			}
 		})
 	}
+	// wait for pending download operations to finish
+	wg.Wait()
+	// open csv file to store mappings
+	fh, err := os.Create("name_mapping.csv")
+	if err != nil {
+		return err
+	}
+	writer := csv.NewWriter(fh)
+	// write the csv file headers
+	writer.Write([]string{"name", "link", "unique_video_number"})
+	mux.Lock()
+	// iterate over all results and add to csv
+	for _, v := range results {
+		writer.Write([]string{v.name, v.link, fmt.Sprint(v.count)})
+	}
+	mux.Unlock()
+	// flush csv, writing to disk
+	writer.Flush()
+	return fh.Close()
 }
 
-func (d *Downloader) getName() string {
-	return d.path + "/%(title)s.%(id)s." + fmt.Sprint(d.count.Inc()) + ".%(ext)s"
+func (d *Downloader) runCommand(cmd *exec.Cmd, timeout time.Duration) error {
+	var errbuf bytes.Buffer
+	cmd.Stderr = &errbuf
+	if err := cmd.Start(); err != nil {
+		return errors.Wrap(err, "failed to start command")
+	}
+	done := make(chan error)
+	go func() { done <- cmd.Wait() }()
+	select {
+	case err := <-done:
+		if err != nil {
+			return errors.Wrapf(err, "command execution encountered failure: %s", errbuf.String())
+		}
+	case <-time.After(timeout):
+		// this is meant to prevent any possible issue with cmd having a nil process when this is called
+		defer recover()
+		// kill the process
+		if cmd.Process != nil {
+			cmd.Process.Kill()
+		}
+		return errors.New("download stalled, skipping")
+	}
+	return nil
+}
+
+// uses an atomically increasing counter to prevent any possible chance of filename conflics when running many concurrent downloaders
+func (d *Downloader) getName(count int64) string {
+	return d.path + "/%(id)s." + fmt.Sprint(count) + ".%(ext)s"
 }

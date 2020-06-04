@@ -30,6 +30,11 @@ func main() {
 			Value:   1,
 			Usage:   "enables concurrent download of videos",
 		},
+		&cli.IntFlag{
+			Name:    "max.downloads",
+			Aliases: []string{"md"},
+			Usage:   "maximum number of of incidents to download, 0 indicates all of them",
+		},
 		&cli.DurationFlag{
 			Name:    "timeout",
 			Aliases: []string{"t"},
@@ -43,7 +48,7 @@ func main() {
 			Usage: "starts the downloader",
 			Action: func(c *cli.Context) error {
 				dl := New(c.String("log.file"), c.String("directory"), c.Int("concurrency"))
-				return dl.Run(c.Duration("timeout"))
+				return dl.Run(c.Duration("timeout"), c.Int("max.downloads"))
 			},
 		},
 	}
