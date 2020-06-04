@@ -76,3 +76,13 @@ A woman in East Liberty gets onto her knees and puts her hands in the air, while
 **Links**
 
 * https://www.youtube.com/watch?v=TxHxU6nhzzQ
+
+### Police fire tear gas and rubber bullets on peaceful assembly | June 1st
+
+Police declare a peaceful protest an unlawful assembly. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
+
+**Links**
+
+* https://www.reddit.com/r/pittsburgh/comments/guzshz/police_declaring_an_unlawful_assembly_against_a/
+* https://www.facebook.com/BenjaminKFerris/posts/3091613010894973
+* https://twitter.com/gautamyadav818/status/1267606317893550080
