@@ -59,9 +59,19 @@ def read_all_md_files(base_dir):
 
 def parse_state(state, text):
     source_link = f"https://github.com/2020PB/police-brutality/blob/master/reports/{state}.md"
-    clean_entry = {"links": [], "state": state, "edit_at": source_link}
+    city = ''
+    if state == 'Washington DC':
+        city = 'DC'
+    if state == 'Unknown Location':
+        city = ''
+
+    clean_entry = {
+        "links": [],
+        "state": state,
+        "edit_at": source_link,
+        "city": city,
+    }
     entry = copy.deepcopy(clean_entry)
-    last_entry = entry
 
     for line in text.splitlines():
         line = line.strip()
@@ -78,16 +88,13 @@ def parse_state(state, text):
         if entry["links"] and '#' in starts_with:
             # We found a new city name so we must finish this `entry`
             # and start a fresh new one
-            if state == 'Unknown Location':
-                entry["city"] = ''
-            if state == 'Washington DC':
-                entry["city"] = 'DC'
-            if "city" not in entry:
-                entry["city"] = last_entry["city"]
-            # print(entry)
-            last_entry = entry
+            # Let the outer loop have this completed entry
             yield entry
+
+            # Start a new entry
             entry = copy.deepcopy(clean_entry)
+            # If we already parsed a city, keep it in there
+            entry["city"] = city
 
         # remove the prefix
         line = line[len(starts_with):]
@@ -95,7 +102,8 @@ def parse_state(state, text):
         # if starts_with == '#':
         #   entry["state"] = line.strip()
         if starts_with == '##':
-            entry["city"] = line.strip()
+            city = line.strip()
+            entry["city"] = city
         if starts_with == '###':
             name, date, date_text = title_to_name_date(line.strip())
             # print(name, date)
