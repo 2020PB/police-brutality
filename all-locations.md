@@ -1137,6 +1137,15 @@ Police are seen here beating a man trying to escape, hitting him multiple times 
 * https://www.reddit.com/r/PublicFreakout/comments/gv43ar/police_beat_man_without_even_attempting_to_arrest/
 
 
+### Man walking his bike beaten by officers with batons | June 3rd
+
+A man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
+
+**Links**
+
+* https://twitter.com/joshfoxfilm/status/1268366550475603969
+
+
 
 
 # North Carolina
