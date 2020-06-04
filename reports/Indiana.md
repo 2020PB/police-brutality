@@ -54,7 +54,7 @@ One woman struggled against the officer restraining her, so she and her friend w
 
 ## Lafayette
 
-### Officer drops tear gas into peaceful protest without warning |
+### Officer drops tear gas into peaceful protest without warning | Possibly May 31st
 
 In this video, protestors are chanting peacefully when an officer drops tear gas on them with no warning.
 
@@ -62,4 +62,4 @@ In this video, protestors are chanting peacefully when an officer drops tear gas
 
 * https://www.facebook.com/ctchoula/videos/10163707272210302/
 
-* [Image of a tear gas cannister used in this incident](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101254362_755196441884833_7192544661301362688_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=wjDZM1x0RLYAX9sKPft&_nc_ht=scontent-ort2-2.xx&oh=606a9dbf10d30a680c5dcb2c8ae8d7ce&oe=5EFD314B).
+* [Image of a tear gas canister used in this incident](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101254362_755196441884833_7192544661301362688_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=wjDZM1x0RLYAX9sKPft&_nc_ht=scontent-ort2-2.xx&oh=606a9dbf10d30a680c5dcb2c8ae8d7ce&oe=5EFD314B).
