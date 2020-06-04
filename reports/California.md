@@ -22,7 +22,7 @@ It is clearly seen that the woman was shot in the face, and was bleeding profuse
 
 ## La Mesa 
 
-### Law enforcement shoot and throw tear gas at protesters. | MAy 30th
+### Law enforcement shoot and throw tear gas at protesters | May 30th
 
 Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
 
