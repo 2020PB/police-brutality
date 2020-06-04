@@ -1,3 +1,13 @@
+## Buffalo
+
+### Police tackle man giving interview | June 1st
+
+Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
+
+**Links**
+* https://twitter.com/secretlaith/status/1268421002997968896
+* https://www.launchgood.com/project/legal_fund_for_myles_carter_peaceful_protestor_arrested_by_police_1#!/
+
 
 ## Rochester
 
