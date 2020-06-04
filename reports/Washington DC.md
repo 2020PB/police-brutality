@@ -1,10 +1,11 @@
-### Riot Police rams shield into reporter | May 31
+### Riot Police rams shield into BBC cameraman | May 31
 
-The video shows the officer running straight at the reporter with his shield out in front of him
+A BBC cameraman was charged at by police and hit with a shield.
 
 **Links**
 
 * https://twitter.com/AleemMaqbool/status/1267319521486004225?s=20
+* https://www.bbc.co.uk/news/av/world-us-canada-52884888/george-floyd-protests-police-charge-at-bbc-cameraman-near-white-house
 
 ### Australian news crew and protestors attacked by police | June 1st
 
