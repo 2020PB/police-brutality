@@ -38,6 +38,14 @@ Seemingly without warning a protester simply holding a sign was maced in the fac
 
 * https://twitter.com/rottenstrwbry/status/1266805467990446081
 
+### Police pepperspray protesters for chanting | May 30th
+
+Unarmed protestors peacefully chanting when an officer starts randomly pepperspraying them.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1266878189537824772
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
@@ -72,6 +80,42 @@ Two protesters are kneeling in a crosswalk across the intersection from a line o
 * https://twitter.com/DabinDhillo/status/1266892095702392832
 * https://twitter.com/taesvangogh/status/1266907922308558848
 
+### Police pepper spray African-American photographer | May 31st
+
+Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
+
+**Links**
+
+* https://i.redd.it/4ix8f3j6dy151.jpg
+* https://old.reddit.com/r/Columbus/comments/gtk192/photographer_being_pepper_sprayed_by_police/
+* https://www.instagram.com/p/CA03DsTByLn/
+
+### Police pepperspray sitting protesters | May 31st
+
+Police pepperspraying peaceful unarmed protestors as they sit on the ground.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267102580070592512
+
+### Woman holding a sign is shot with rubber bullets | May 31st
+
+A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267113315613806592
+* https://twitter.com/greg_doucette/status/1267122343454953472
+
+### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours | May 31st-June 1st
+
+A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+* https://i.imgur.com/mECPaWe.jpg
+
 ### Police push and pepper spray reporters from The Lantern newspaper | June 1st
 
 Location: Starbucks at the intersection of Lane Avenue and North High Street
@@ -84,36 +128,7 @@ Three reporters repeatedly tell police that they are members of the press and sh
 * https://twitter.com/TheLantern/status/1267644471317090305
 * https://twitter.com/maevewalsh27/status/1267646128289447939
 
-
-### Police pepper spray African-American photographer | May 31st.
-
-Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
-
-**Links**
-
-* https://i.redd.it/4ix8f3j6dy151.jpg
-* https://old.reddit.com/r/Columbus/comments/gtk192/photographer_being_pepper_sprayed_by_police/
-* https://www.instagram.com/p/CA03DsTByLn/
-
-
-### Woman holding a sign is shot with rubber bullets | May 31st
-
-A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
-
-**Links**
-
-* https://mobile.twitter.com/chadloder/status/1267113315613806592
-* https://twitter.com/greg_doucette/status/1267122343454953472
-
-### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours |
-
-A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
-
-### Officer refuses to give diabetic arestee her insulin back |
+### Officer refuses to give diabetic arrestee her insulin back | June 2nd
 
 Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
 
