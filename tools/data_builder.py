@@ -3,6 +3,7 @@ import glob
 import json
 import os
 import re
+import copy
 
 from dateutil.parser import parse
 
@@ -56,7 +57,9 @@ def read_all_md_files(base_dir):
 
 
 def parse_state(state, text):
-    entry = {"links": [], "state": state}
+    source_link = f"https://github.com/2020PB/police-brutality/blob/master/reports/{state}.md"
+    clean_entry = {"links": [], "state": state, "edit_at": source_link}
+    entry = clean_entry.copy()
     last_entry = entry
 
     for line in text.splitlines():
@@ -84,7 +87,8 @@ def parse_state(state, text):
             # print(entry)
             last_entry = entry
             yield entry
-            entry = {"links": [], "state": state, "city": last_entry["city"]}
+            entry = copy.deepcopy(clean_entry)
+            entry["city"] = last_entry["city"]
 
         # remove the prefix
         line = line[len(starts_with):]
@@ -118,11 +122,23 @@ def process_md_texts(md_texts):
             data.append(entry)
     return data
 
+md_header = '''
+GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
+
+'''
+
+md_out_format = '''
+# {location}
+
+{text}
+
+'''
 
 def to_merged_md_file(md_texts, target_path):
     with open(target_path, 'wb') as fout:
+        fout.write(md_header.encode("utf-8"))
         for location, text in sorted(md_texts.items()):
-            out_text = '# ' + location + '\n\n' + text + '\n\n\n\n'
+            out_text = md_out_format.format(location=location, text=text)
             fout.write(out_text.encode('utf-8'))
     print(f"Written merged .md data to {target_path}")
 
@@ -152,8 +168,13 @@ def to_csv_file(data, target_path):
 
 
 def to_json_file(data, target_path):
+    data_with_meta = {
+        "edit_at": "https://github.com/2020PB/police-brutality",
+        "help": "ask @ubershmekel on twitter",
+        "data": data,
+    }
     with open(target_path, 'w') as f:
-        json.dump(data, f)
+        json.dump(data_with_meta, f)
     print(f"Written .json data to {target_path}")
 
 
