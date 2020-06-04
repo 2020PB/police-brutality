@@ -48,6 +48,16 @@ Police were seen firing multiple shots of what were allegedly rubber bullets int
 
 * https://twitter.com/ironfront7/status/1267133400156196870
 
+### Police open fire on crowd after a protester throws water on them | May 30th
+
+Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gwfu8e/apd_gets_water_splashed_on_them_and_immediately/
+* [Mirror 1](https://tuckbot.tv/#/watch/gwfu8e)
+* [Mirror 2](https://peertube.live/videos/watch/320ea302-9806-44c0-843e-49d8486c423f)
+
 ### Police spray a man in the face while he stands still ~3 feet away from them.
 
 A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face. 
