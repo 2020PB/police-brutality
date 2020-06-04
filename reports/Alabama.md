@@ -11,7 +11,7 @@ Law enforcement officer woman to the ground then try to move while she's on the 
 
 ### Police officer pepper sprays protestors for no reason | June 3rd
 
-Police officer exits his vehicle and begins pepper spraying protestors with no apparent reason
+Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason
 
 **Links**
 
