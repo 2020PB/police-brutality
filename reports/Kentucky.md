@@ -2,7 +2,7 @@
 
 ### Police smashing water bottles | May 31st
 
-Policemen are throwing water bottles and smashing many of them
+Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back. 
 
 **Links**
 * https://twitter.com/WFPLNews/status/1266923468102262784
@@ -10,25 +10,20 @@ Policemen are throwing water bottles and smashing many of them
 
 ### Police shoot rubber bullets at reporter | May 30th
 
-Policemen point their guns and shoot at press.
+A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gt69qe/police_start_shooting_press_with_some_kinda/
 * https://twitter.com/greg_doucette/status/1266557059606163456
+* https://twitter.com/KaitlinRustWAVE/status/1268218653104693248
 
-### Police shoot 7 protestors | May 30th
+### Louisville police swarm and beat a man screaming on the ground | Believed to be June 1st
 
-While the prison transport vehicle was being pushed around, the police open fire at the protestors
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/gsp9yq/police_shoot_7_protesters_in_louisville_kentucky/
-
-### Louisville police swarm and beat a man screaming on the ground. 
+A man was using a leafblower to clear teargas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
 **Links**
 
-* https://old.reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/
+* https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/
 
 ### Young woman shot in the head by a rubber bullet | May 30th
 
