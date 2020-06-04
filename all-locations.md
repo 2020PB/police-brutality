@@ -1235,6 +1235,7 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 **Links**
 
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
+* https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
 
 
