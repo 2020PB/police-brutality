@@ -7,3 +7,13 @@ Police use or threaten to use pepper-spray in what appears to be a private resid
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
+
+## Iowa City
+
+### Police shoot tear gas at peaceful protestors who have their hands up | June 3rd
+
+Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
+
+**Links**
+
+* https://twitter.com/DJPAIMON/status/1268399580753858561
