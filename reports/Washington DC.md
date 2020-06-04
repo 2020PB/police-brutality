@@ -6,7 +6,6 @@ A BBC cameraman was charged at by police and hit with a shield.
 
 * https://twitter.com/AleemMaqbool/status/1267319521486004225?s=20
 * https://www.bbc.co.uk/news/av/world-us-canada-52884888/george-floyd-protests-police-charge-at-bbc-cameraman-near-white-house
-* https://www.independent.co.uk/news/world/americas/george-floyd-protests-white-house-attack-bbc-cameraman-journalists-a9542696.html
 
 ### Australian news crew and protestors attacked by police | June 1st
 
