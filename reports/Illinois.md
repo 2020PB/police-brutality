@@ -22,3 +22,14 @@ Police pepperspray reporter holding press pass and yelling press.
 **Links**
 
 * https://twitter.com/JCB_Journo/status/1266897672545480706
+
+
+### Video showing CPD officer punching protester in Uptown under investigation | June 1st
+
+CPD officer chasing down and punching a protestor who was walking away
+
+**Links**
+
+* https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
+
+* https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
