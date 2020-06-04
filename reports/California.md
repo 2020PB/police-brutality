@@ -74,7 +74,7 @@ The police are seen to threaten and try to scare the residents of the apartment 
 
 **Links**
 
-* https://twitter.com/Sarah_Mojarad/status/1266633046591078400?s=09
+* https://peertube.slat.org/videos/watch/2dcae21d-6502-41f4-bdf2-9ae40c8e8cee
 
 ### Los Angeles law enforcement harass a man and swing at his bike | May 30th
 
