@@ -1,3 +1,7 @@
+
+GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
+
+
 # Alabama
 
 ## Huntsville 
@@ -9,7 +13,6 @@ Law enforcement officer woman to the ground then try to move while she's on the 
 **Links**
 
 *  https://twitter.com/ETfonehome97/status/1267657232411435008
-
 
 
 
@@ -29,7 +32,6 @@ Article says crowd started throwing water bottles and firecrackers. Sherif's off
 * https://twitter.com/yagirlbrookie09/status/1267647898365427714
 
 * https://www.4029tv.com/article/bentonville-police-deploy-tear-gas-on-protesters/32736629#
-
 
 
 
@@ -331,7 +333,6 @@ In this video, an armored law enforcement vehicle tells protestors over megaphon
 
 
 
-
 # Colorado
 
 ## Colorado Springs
@@ -435,7 +436,6 @@ Use of Force committee member for Denver Police, shot in back with tear gas cani
 
 
 
-
 # Florida
 
 ## Fort Lauderdale
@@ -447,7 +447,6 @@ It is seen in the video that while the people were protesting, a few cops tried 
 **Links**
 
 * https://twitter.com/thickliljawn/status/1267239498083110913
-
 
 
 
@@ -487,7 +486,6 @@ One video shows the man on ground being punched in the face. The other shows tha
 
 
 
-
 # Illinois
 
 ## Chicago
@@ -514,7 +512,6 @@ Police pepperspray reporter holding press pass and yelling press.
 **Links**
 
 * https://twitter.com/JCB_Journo/status/1266897672545480706
-
 
 
 
@@ -588,7 +585,6 @@ In this video, protestors are chanting peacefully when an officer drops tear gas
 
 
 
-
 # Iowa
 
 ## Des Moines
@@ -603,11 +599,9 @@ Police use or threaten to use pepper-spray in what appears to be a private resid
 
 
 
-
 # Kansas
 
 (no entries yet)
-
 
 
 
@@ -667,7 +661,6 @@ During protests, shots were fired by an unknown shooter. Police returned fire, s
 
 
 
-
 # Louisiana
 
 ## New Orleans
@@ -680,7 +673,6 @@ Police throw tear-gas at protestors that are on the Crescent City Connection bri
 * https://twitter.com/misaacstein/status/1268381797081022464
 * https://twitter.com/ckm_news/status/1268382403367763970
 * https://twitter.com/brynstole/status/1268381340073971713
-
 
 
 
@@ -743,7 +735,6 @@ A group of protesters lie on the ground with arms outstretched in front of a gro
 
 * https://twitter.com/i/status/1267677463850745858
 * Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
-
 
 
 
@@ -915,7 +906,6 @@ South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepp
 
 
 
-
 # Missouri
 
 ## Kansas City
@@ -950,7 +940,6 @@ A line of police stand well apart from a crowd of protestors, one of whom is spe
 
 
 
-
 # Nebraska
 
 ## Omaha
@@ -974,7 +963,6 @@ Omaha law enforcement officer kicks protester already on the ground. Another off
 
 
 
-
 # Nevada
 
 ## Las Vegas
@@ -995,7 +983,6 @@ LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminat
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267168204863926274
-
 
 
 
@@ -1147,7 +1134,6 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 
 
 
-
 # North Carolina
 
 ## Charlotte 
@@ -1172,7 +1158,6 @@ Police destroy supplies, including food and water, at a medical station. Medics 
 *  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
 *  https://twitter.com/daveth89/status/1267974555332685824
 *  https://i.redd.it/wofh339sqr251.png
-
 
 
 
@@ -1321,7 +1306,6 @@ Protesters are trying to leave at curfew and are offered a ride. They get into a
 
 
 
-
 # Oregon
 
 ## Portland
@@ -1366,7 +1350,6 @@ Police deploy flashbangs and teargas into a crowd.
 **Links**
 
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
-
 
 
 
@@ -1454,7 +1437,6 @@ A woman in East Liberty gets onto her knees and puts her hands in the air, while
 
 
 
-
 # South Carolina
 
 ## Charleston
@@ -1479,7 +1461,6 @@ A man is arrested by police, who force him on the ground and begin punching him 
 
 
 
-
 # Tennessee
 
 
@@ -1492,7 +1473,6 @@ A group of police officers targeted and swarmed a woman and pushed her to the gr
 **Links**
 
 * https://twitter.com/Desi_Stennett/status/1266996885824380929
-
 
 
 
@@ -1608,7 +1588,6 @@ A man was filming police walking down the street and making comments like "that 
 
 
 
-
 # Unknown Location
 
 
@@ -1657,7 +1636,6 @@ At the beginning of this video, an officer can be seen punching a protestor in t
 
 
 
-
 # Utah
 
 ## Salt Lake City
@@ -1694,7 +1672,6 @@ Man standing in a crowd of protestors was struck with a tear gas canister.
 * https://twitter.com/greg_doucette/status/1268333029526843392
 
 
-
 # Virginia
 
 ## Richmond
@@ -1727,7 +1704,6 @@ A police officer spits on a detained protestor who is restrained and sitting on 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
-
 
 
 
@@ -1802,7 +1778,6 @@ Video shows officers deploying flashbangs into a crowd of peaceful protesters, a
 
 
 
-
 # Washington DC
 
 ### Riot Police rams shield into reporter | May 31
@@ -1858,7 +1833,6 @@ MSNBC captures Police using flashbangs on peaceful protestors outside the White 
 
 
 
-
 # Wisconsin
 
 ## Madison
@@ -1870,7 +1844,5 @@ Ten seconds into the video, in the bottom-left corner, an officer pepper-sprays 
 **Links**
 
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
-
-
 
 
