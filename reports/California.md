@@ -70,7 +70,7 @@ The police are seen shooting at fleeing protestors and parked vehicles.
 
 ### Police intimidate person filming them by shooting at apartment building | May 30th
 
-The police are seen to threaten and try to scare the residents of the apartment building, the POV of the video is from. At 0:45 a shot is fired by the police, in order to get the residents of the apartments, off their balconies and into their homes.
+The police are seen to threaten and try to scare the residents of the apartment building from which video is taken. At 0:45 a shot is fired by the police in order to get the residents of the apartments off their balconies and into their homes.
 
 **Links**
 
