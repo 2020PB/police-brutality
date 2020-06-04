@@ -2,26 +2,29 @@ import csv
 import glob
 import json
 import os
-import pathlib
 import re
 
 from dateutil.parser import parse
 
 
-src_dir = pathlib.Path(__file__).parent.absolute()
+src_dir = os.path.relpath(os.path.dirname(__file__))
 md_dir = os.path.join(src_dir, '..', 'reports')
-combined_fpath = os.path.join(src_dir, '..', "all-locations.md")
-csv_fpath = os.path.join(src_dir, '..', 'all-locations.csv')
-json_fpath = os.path.join(src_dir, '..', 'all-locations.json')
+out_dir = os.path.join(src_dir, 'data_build')
+combined_fpath = os.path.join(out_dir, "all-locations.md")
+csv_fpath = os.path.join(out_dir, 'all-locations.csv')
+json_fpath = os.path.join(out_dir, 'all-locations.json')
+
+if not os.path.exists(out_dir):
+    os.mkdir(out_dir)
 
 date_regex = re.compile(
-    "(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|"
-    "Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|"
-    "Dec(ember)?)\s+\d{1,2}")
+    r"(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|"
+    r"Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|"
+    r"Dec(ember)?)\s+\d{1,2}")
 
 url_regex = re.compile(
-    "(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))"
-    "([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?")
+    r"(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))"
+    r"([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?")
 
 
 def title_to_name_date(line):
@@ -34,8 +37,8 @@ def title_to_name_date(line):
     try:
         date_found = date_regex.search(date_text).group()
         date = parse(date_found).strftime('%Y-%m-%d')
-    except ValueError:
-        print(f"Failed date parse '{parts[1]}'")
+    except (ValueError, AttributeError) as err:
+        print(f"Failed date parse '{parts[1]}': {err}")
         date = ''
     return name, date, date_text
 
@@ -81,7 +84,7 @@ def parse_state(state, text):
             # print(entry)
             last_entry = entry
             yield entry
-            entry = {"links": [], "state": state}
+            entry = {"links": [], "state": state, "city": last_entry["city"]}
 
         # remove the prefix
         line = line[len(starts_with):]

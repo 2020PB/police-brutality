@@ -14,5 +14,5 @@
 pip install -r requirements.txt
 
 # Run script
-python parse_md_files.py
+python data_builder.py
 ```
