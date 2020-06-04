@@ -3,7 +3,7 @@
 ### Law enforcement gas a crowd chanting “we want peace” right after exiting the building. | June 1st
 
 Law enforcement gas a crowd chanting “we want peace” right after exiting the building, in the video there was no order to disperse, the crowd seemed to be peacefully chanting. 
-Article says crowd started throwing water bottles and firecrackers. Sherif's office claims rocks were thrown.
+Article says crowd started throwing water bottles and firecrackers. Sheriff's office claims rocks were thrown.
 
 **Links**
 
