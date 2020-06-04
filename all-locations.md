@@ -1016,6 +1016,15 @@ LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminat
 
 # New York
 
+## Buffalo
+
+### Police tackle man giving interview | June 1st
+
+Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
+
+**Links**
+* https://twitter.com/secretlaith/status/1268251322467450880
+
 
 ## Rochester
 
