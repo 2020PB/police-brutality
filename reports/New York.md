@@ -1,5 +1,5 @@
 
-## Rochestor
+## Rochester
 
 ### Police shoot at people filming | May 31st
 
@@ -115,3 +115,20 @@ Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays 
 **Links**
 
 * https://twitter.com/GwynneFitz/status/1266522692326428672
+
+### Officer threatens protestors with what appears to be a handgun | June 1st
+
+Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
+
+**Links**
+
+* https://mobile.twitter.com/jangelooff/status/1267308341660979200
+
+### Officers beat man with batons
+
+Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
+
+**Links**
+
+* https://www.reddit.com/r/newyorkcity/comments/gv8aft/police_beat_man_without_even_attempting_to_arrest/
+* https://www.reddit.com/r/PublicFreakout/comments/gv43ar/police_beat_man_without_even_attempting_to_arrest/
