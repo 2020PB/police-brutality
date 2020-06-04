@@ -67,3 +67,12 @@ Three protestors kneeling on the ground with their hands on their heads/covering
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
 
+## Pittsburgh
+
+### Officer pepper-sprays a woman who is on her knees with her hands up
+
+A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her.
+
+**Links**
+
+* https://www.youtube.com/watch?v=TxHxU6nhzzQ
