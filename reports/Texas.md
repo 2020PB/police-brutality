@@ -48,7 +48,7 @@ Police were seen firing multiple shots of what were allegedly rubber bullets int
 
 * https://twitter.com/ironfront7/status/1267133400156196870
 
-### Police open fire on crowd after a protester throws water on them | May 30th
+### Police open fire on crowd after a protester throws water on them | May 31st
 
 Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
 
