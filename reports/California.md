@@ -13,7 +13,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 ## Hollywood 
 
-### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. 
+### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
 
 Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it still looks to be light outside.
 
@@ -45,7 +45,7 @@ Law enforcement stand off with protesters, seemingly without provocaton they sta
 
 ## Long Beach
 
-### Reporter shot in neck by rubber bullet
+### Reporter shot in neck by rubber bullet | May 31st
 
 Photo shows large bruise the reporter got from a rubber bullet
 
