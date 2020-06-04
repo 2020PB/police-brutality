@@ -58,13 +58,14 @@ Police are seen firing multiple shots of what were allegedly rubber bullets into
 * [Mirror 1](https://tuckbot.tv/#/watch/gwfu8e)
 * [Mirror 2](https://peertube.live/videos/watch/320ea302-9806-44c0-843e-49d8486c423f)
 
-### Police spray a man in the face while he stands still ~3 feet away from them.
+### Police spray a man in the face while he stands still ~3 feet away from them. | May 31st
 
 A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face. 
 
 **Links**
 
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/guhgfq/please_let_others_see_this_this_guy_did_not/
+* https://twitter.com/Grits4Breakfast/status/1267128210455588865
 
 ### Police fire upon protesters seeking medical help | June 2nd
 
