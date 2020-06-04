@@ -7,7 +7,15 @@ A peaceful protest was dispersed with tear gas and flash bangs, with police shoo
 
 **Links**
 
-* https://mobile.twitter.com/kodyfishertv/status/1266901735198638082
+* https://twitter.com/kodyfishertv/status/1266901735198638082
+
+## Cleveland
+
+### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
+
+Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back.
+
+* https://twitter.com/greg_doucette/status/1267114065819770880
 
 ## Columbus
 
@@ -21,6 +29,14 @@ Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace
 * https://twitter.com/politico/status/1266866982919516160
 * https://twitter.com/TimWCBD/status/1266787064735043591
 * https://twitter.com/KRobPhoto/status/1266796191469252610
+
+### Peaceful protester sprayed in the face with mace | May 30th
+
+Seemingly without warning a protester simply holding a sign was maced in the face. 
+
+**Links**
+
+* https://twitter.com/rottenstrwbry/status/1266805467990446081
 
 ### Police pepper-spray a medic | May 31st
 
@@ -79,13 +95,15 @@ Photographer being sprayed while seemingly calmly standing 10 feet away from the
 * https://old.reddit.com/r/Columbus/comments/gtk192/photographer_being_pepper_sprayed_by_police/
 * https://www.instagram.com/p/CA03DsTByLn/
 
+
 ### Woman holding a sign is shot with rubber bullets | May 31st
 
-A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by othe protestors.
+A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
 
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267113315613806592
+* https://twitter.com/greg_doucette/status/1267122343454953472
 
 ### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours |
 
@@ -94,3 +112,14 @@ A protestor describes being forced to wear handcuffs, kept in a courtyard for ni
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+### Officer refuses to give diabetic arestee her insulin back |
+
+Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
+* Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
+* Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+

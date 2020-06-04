@@ -35,9 +35,9 @@ At roughly 0:13 in the video, an officer can be seen charging and punching a pro
 
 ## Grand Rapids
 
-### Cops fire flare at a man’s face | May 31st
+### Police spray unarmed man with pepperspray and shoot him in the face with a teargas canister | May 31st
 
-A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a fire flare is shot by a different officer directly into the man's head. 
+A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a teargas canister is shot by a different officer directly into the man's head. 
 
 **Links**
 

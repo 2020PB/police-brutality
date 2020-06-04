@@ -19,6 +19,7 @@ Protestors and an Australian reporter and cameraman were attacked by police whil
 * https://twitter.com/i/status/1267606685767667712
 * Alternate footage: https://v.redd.it/qf9vf0hdrd251
 * Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
+* CW: Blood: https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/
 
 ### Protestors are quickly and violently pushed out of Lafayette Square | June 1
 
@@ -39,3 +40,11 @@ DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267377374066167808
+
+### Police violence outside the White House | June 1st
+
+MSNBC captures Police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf

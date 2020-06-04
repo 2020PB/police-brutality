@@ -2,14 +2,15 @@
 
 #### Please note: These are all believed to be from Minneapolis, if not please contact the moderator immediately
 
-### Police storm gas station, attacking reporters who show press badges | May 31st
+### Police storm gas station, attacking reporters who show press badges | May 30th
 
-Reporter was pushed to the ground and pepper sprayed in the eyes.
+Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
 **Links**
 
 * https://twitter.com/MichaelAdams317/status/1266945268567678976
 * https://twitter.com/rsdaza/status/1267200011659554824
+* https://twitter.com/MichaelAdams317/status/1267203751913422849
 
 ### Police shoot at a woman on her porch | May 31st
 
@@ -36,7 +37,7 @@ Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them
 
 * https://www.youtube.com/watch?v=aNuzzVpDZTY
 
-### WCCO photjournalist arrested | May 30th
+### WCCO photojournalist arrested | May 30th
 
 While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
@@ -119,10 +120,44 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
 
+### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
+
+CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1266962631887224837
+
+### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
+
+Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267118696960528386
+
+
+### Police stop SUV to driveby pepperspray protesters through window | May 31st
+
+Police responding to a medical emergency – a tanker truck deliberately running over protestors – stop to pepperspray folks from their SUV
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267283198163255297
+
 ### Patient care assistant reports being shot with rubber bullets while treating injured protestors | May 31st
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
-**Linke**
+**Links**
 
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
+
+### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
+
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol" 
+
+**Links**
+
+* https://twitter.com/edouphoto/status/1267958349477249024
+* https://www.facebook.com/356074941105769/posts/3020200918026478/ 

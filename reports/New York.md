@@ -1,5 +1,5 @@
 
-## Rochestor
+## Rochester
 
 ### Police shoot at people filming | May 31st
 
@@ -116,10 +116,19 @@ Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays 
 
 * https://twitter.com/GwynneFitz/status/1266522692326428672
 
-### VICE News correspondent pepper-sprayed in the face while prone on the ground | May 30th or 31st
+### Officer threatens protestors with what appears to be a handgun | June 1st
 
-Michael Adams films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
+Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
 
 **Links**
 
-* https://mobile.twitter.com/chadloder/status/1267005812444037122
+* https://mobile.twitter.com/jangelooff/status/1267308341660979200
+
+### Officers beat man with batons
+
+Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
+
+**Links**
+
+* https://www.reddit.com/r/newyorkcity/comments/gv8aft/police_beat_man_without_even_attempting_to_arrest/
+* https://www.reddit.com/r/PublicFreakout/comments/gv43ar/police_beat_man_without_even_attempting_to_arrest/

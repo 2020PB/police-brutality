@@ -1,5 +1,14 @@
 ## Austin
 
+### Police critically injure 20 year old black protester during protests against police violence | May 30th
+
+A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds.
+
+**Links**
+
+* https://www.texastribune.org/2020/06/01/austin-police-george-floyd-mike-ramos/
+* https://www.kvue.com/article/news/local/austin-protester-police-struck-by-less-lethal-bean-bag-round/269-430f90a2-b6c1-4ee3-9d9c-639faf132100
+
 ### Police assault protesters | (believed to be) May 30th
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
 
@@ -9,7 +18,7 @@ A group of protesters waving signs in front of a group of police officers was su
 
 ### Police shoot non-violent protestor in the head | May 30th
 
-Here, a non-violent protestor ([reportedly](https://www.instagram.com/p/CA6TCIGnuWm/) named Brad Levi Ayala) can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
+Here, a non-violent protestor can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
 
 In the aftermath other protestors help the victim who is bleeding from a large head wound.
 
@@ -18,6 +27,7 @@ In the aftermath other protestors help the victim who is bleeding from a large h
 * https://www.reddit.com/r/PublicFreakout/comments/guwc4y/austin_tx_nonviolent_protestor_shot_in_the_head/
 * https://www.instagram.com/p/CA6TCIGnuWm/
 * https://www.youtube.com/watch?v=-BGyTi-KdKc (aftermath)
+* https://streamable.com/o1uqgy (aftermath)
 * https://cbsaustin.com/news/local/austin-teen-hospitalized-with-head-injury-after-police-shoot-him-with-bean-bags-at-protest
 
 ### Police use tear gas & rubber bullets on protesters | May 30th @ ~3pm
@@ -73,8 +83,9 @@ A woman who says she was simply walking home with groceries was shot in the face
 
 **Links**
 
-* https://mobile.twitter.com/KevinRKrause/status/1266898396339675137
+* https://twitter.com/KevinRKrause/status/1266898396339675137
 * https://i.redd.it/ns0uj557x0251.jpg
+* https://twitter.com/greg_doucette/status/1267109272342736896
 
 ### Police use flashbangs and tear gas on protestors | May 31st
 
