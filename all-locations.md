@@ -720,7 +720,7 @@ During protests, shots were fired by an unknown shooter. Police returned fire, s
 
 ## New Orleans
 
-### Police throw tear-gas at protestors on a bridge.
+### Police throw tear-gas at protestors on a bridge. | June 3rd
 
 Police throw tear-gas at protestors that are on the Crescent City Connection bridge and cannot easily disperse
 
