@@ -30,6 +30,14 @@ Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace
 * https://twitter.com/TimWCBD/status/1266787064735043591
 * https://twitter.com/KRobPhoto/status/1266796191469252610
 
+### Peaceful protester sprayed in the face with mace | May 30th
+
+Seemingly without warning a protester simply holding a sign was maced in the face. 
+
+**Links**
+
+* https://twitter.com/rottenstrwbry/status/1266805467990446081
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
@@ -95,6 +103,23 @@ A woman standing alone holding a sign is shot with rubber bullets. She falls to 
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267113315613806592
-
 * https://twitter.com/greg_doucette/status/1267122343454953472
+
+### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours |
+
+A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+### Officer refuses to give diabetic arestee her insulin back |
+
+Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
+* Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
+* Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
 
