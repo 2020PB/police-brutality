@@ -66,6 +66,7 @@ The police are captured driving in an SUV shooting at fleeing protestors and par
 * https://twitter.com/balleralert/status/1268014113105555456
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
+* https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/
 
 ### Police intimidate person filming them by shooting at apartment building | May 30th
 
