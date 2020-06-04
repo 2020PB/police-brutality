@@ -105,3 +105,11 @@ Use of Force committee member for Denver Police, shot in back with tear gas cani
 **Links**
 
 * https://www.reddit.com/r/Denver/comments/gvhqs2/elisabeth_epps_use_of_force_committee_member_for/
+
+### Police tackle group of peaceful protesters | June 4th
+
+Denver SWAT unit tackles group of peaceful protesters who were walking and chanting (around 12:20am).
+
+**Links**
+
+* https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
