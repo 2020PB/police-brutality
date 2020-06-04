@@ -32,7 +32,7 @@ A young woman was injured by a rubber bullet she took to the head.
 **Links**
 
 * [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
-* [Photo of Victim. Warning: Gore](https://twitter.com/shannynsharyse/status/1266631722239766528)
+* [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
 
 ### Restaurant owner shot and killed | June 1st
 
