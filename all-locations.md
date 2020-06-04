@@ -1572,6 +1572,27 @@ A man wearing glasses and with his hands in his pockets stands still approximate
 
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/guhgfq/please_let_others_see_this_this_guy_did_not/
 
+### Police fire upon protesters seeking medical help | June 2nd
+
+Volunteer medics were advised to bring a critically wounded protestor to the police line for medical attention and were subsequently fired upon.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gvjjwg/volunteer_medics_advised_by_police_to_bring_a/
+* https://www.reddit.com/r/PublicFreakout/comments/gwbbjs/protestor_is_shot_in_head_with_rubber_bullet/
+* http://www.thebatt.com/opinion/opinion-his-name-is-justin-howell/article_93a79c44-a5b6-11ea-aa54-ebc0da33cc35.html?fbclid=IwAR11FqXr9dRCKo-ohfeBoO9FdYFRG2uon0nqAkxKO5gZuL_-4EzgukAGcBs
+
+
+## Baytown
+
+### Police officer tackles and knees man on the ground | June 2nd
+
+Cop in Baytown Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gw2dpw/cop_in_baytown_tx_pulls_over_black_man_white_man/
+* https://www.facebook.com/isaiah.benavides.94/videos/2811815772219886/
 
 ## Houston
 
