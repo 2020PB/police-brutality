@@ -117,6 +117,7 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 **Links**
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+* https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
 ## Oakland
