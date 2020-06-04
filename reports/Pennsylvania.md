@@ -22,7 +22,7 @@ Protesters try to help someone stand up; police wait until the person is halfway
 
 ## Philadelphia
 
-### Police beat down man | May 31st
+### Police beat down man | May 30th
 
 The journalist was trying to get a closer look at the police, while they were beating an individual.
 
@@ -48,7 +48,7 @@ A man is being held on the ground by a police officer, who forces the man's hand
 
 * https://twitter.com/mkultranews/status/1267305587206807553
 
-### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them
+### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them | June 1st
 
 Over 30 protesters are standing in the grassy area beside a highway. Police on the highway throw tear gas canisters into the crowd of protesters. Some protesters try to throw the canisters back. A woman says "I can't breathe".
 
@@ -58,10 +58,12 @@ Over 30 protesters are standing in the grassy area beside a highway. Police on t
 
 * https://twitter.com/bbcease/status/1267582823428501508
 
-### Police officer pepper-sprays three people on their knees
+### Police officer pepper-sprays three people on their knees | believed to be June 1st
 
 Three protestors kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
 
 **Links**
 
-* https://mobile.twitter.com/d0wnrrrrr/status/1267691766188310528
+* https://twitter.com/d0wnrrrrr/status/1267691766188310528
+
+

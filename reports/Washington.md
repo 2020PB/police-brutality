@@ -36,6 +36,23 @@ Police pepper spray peacefully protesting crowd
 * Seattle OPD Case 2020OPA-0334
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
+### Officer pins protestor by pushing his knee into his neck | May 30th
+
+Officer pins protestor with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267011092045115392
+* 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested" (possibly)
+
+### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
+
+Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spay indescriminently into the crowd. Recorder has to close their window as the spray is reaching their apartment.  
+
+**Links**
+
+* https://twitter.com/catsayshello/status/1268073344814866432
+
 ### Additional Seattle OPA Case Numbers
 
 * 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"

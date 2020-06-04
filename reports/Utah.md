@@ -1,6 +1,6 @@
 ## Salt Lake City
 
-### Police shove an old man with a cane to the ground | May 31st
+### Police shove an old man with a cane to the ground | May 30th
 
 The old man was shoved and pushed by the police, which led him to hit the railing and collapse
 
