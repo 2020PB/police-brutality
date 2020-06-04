@@ -89,6 +89,15 @@ This officer and fires a pepper pellet directly at someone filming.
 
 * https://twitter.com/heyydnae/status/1267139396278661121?s=21
 
+### Police pepper sprays peaceful protestor and fires tear gas on crowd | Believed to be May 31st or June 1st
+
+Police officer snatches away protestor's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gvhisl/police_rip_sign_out_of_peaceful_protesters_hands/
+* https://www.tiktok.com/@yazzdazzz/video/6832896487207243014
+
 ### Police shoot protester from behind with tear gas canister | June 2nd
 
 Use of Force committee member for Denver Police, shot in back with tear gas canisters.
