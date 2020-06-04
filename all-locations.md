@@ -1762,6 +1762,12 @@ Police pepper spray peacefully protesting crowd.
 * [Rooftop view](https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/)
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
 * Seattle OPD Case 2020OPA-0334
+
+### Police strike active newscrew with flashbang | June 1st
+
+Police strike a journalist, Jo-Ling Kent, live on air with a flashbang.
+
+* [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
 ### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
