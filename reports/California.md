@@ -35,6 +35,16 @@ La Mesa PD shoot a woman in the face with a rubber bullet.
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
 
 
+## La Mesa 
+
+### Law enforcement shoot and throw tear gas at protesters | May 30th
+
+Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
+
+**Links**
+
+* https://twitter.com/mamitbh/status/1267030342243778561
+
 ## Long Beach
 
 ### Reporter shot in neck by rubber bullet
