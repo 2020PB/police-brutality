@@ -14,3 +14,11 @@ The man on the ground was shot with a beanbag, resulting in heavy damage
 **Links**
 
 * https://www.reddit.com/r/nextfuckinglevel/comments/gtv4co/downtown_salt_lake_city_may_30th_2020_unarmed/
+
+### Police shoot tear gas canister at man from close range, striking him in the chest | Uknown Date
+
+Man standing in a crowd of protestors was struck with a tear gas canister.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268333029526843392
