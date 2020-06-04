@@ -45,6 +45,15 @@ Police pepper spray peacefully protesting crowd.
 * Seattle OPD Case 2020OPA-0334
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
+### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
+
+Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
+
+**Links**
+
+* https://twitter.com/catsayshello/status/1268073344814866432
+
+
 ### Additional Seattle OPA Case Numbers
 
 * 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"

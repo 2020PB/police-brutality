@@ -4,7 +4,7 @@
 
 ### Police storm gas station, attacking reporters who show press badges | May 30th
 
-Michael Adams films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
+Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
 **Links**
 
@@ -120,6 +120,13 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
 
+### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
+
+CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1266962631887224837
 
 ### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
 
@@ -146,3 +153,11 @@ A PCA who was treating someone with a rubber bullet wound reports that officers 
 
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
 
+### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
+
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol" 
+
+**Links**
+
+* https://twitter.com/edouphoto/status/1267958349477249024
+* https://www.facebook.com/356074941105769/posts/3020200918026478/ 
