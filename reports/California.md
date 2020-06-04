@@ -162,7 +162,7 @@ Live on TV, police fire multiple pepper bullets at an apartment window.
 
 ## Walnut Creek
 
-### Armored law enforcement vehicle threatens protestors |
+### Armored law enforcement vehicle threatens protestors | June 2nd
 
 In this video, an armored law enforcement vehicle tells protestors over megaphone "if you do not move, you will be dead."
 
