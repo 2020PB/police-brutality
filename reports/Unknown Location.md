@@ -33,3 +33,11 @@ Person on the sidewalk appears to say something to an officer on a bike. The off
 
 * https://twitter.com/EDDIFUL/status/1267338642617364481
 
+### Officer beats a protestor while pinning him on the ground |
+
+At the beginning of this video, an officer can be seen punching a protestor in the head while pinning him to the ground.
+
+**Links**
+
+* https://twitter.com/samjwc/status/1267355060666654720
+
