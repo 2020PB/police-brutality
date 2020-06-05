@@ -69,7 +69,7 @@ Three protestors kneeling on the ground with their hands on their heads/covering
 
 ### Philadelphia Police disperse crowd with batons | June 1st
 
-Police officers strike several unarmed protesters and one parked vehicle with batons.
+Police officers strike several unarmed protesters and one parked vehicle with batons. A particularly aggressive policeman (fat, white shirt) strikes a young woman hard in the head with his baton and then tackles her to the ground with another policeman.
 
 **Links**
 
