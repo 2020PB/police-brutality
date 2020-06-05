@@ -1680,19 +1680,13 @@ At least 6 officers surround a handcuffed man who says "I can't breathe". Office
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
 
-### Police shove protestors and strike woman across the face with a baton
+### Police shove protestors and strike woman across the face with a baton | June 1st
 
-Police shove a group of protestors. One officer in a white shirt runs and shoves someone and is then approached by a woman who he strikes across the face with a baton before jumping on her and cuffing her.
+Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young woman who he strikes with his baton, at full strength, in the head before jumping on her and cuffing her with assistance from another officer.
 
 **Links**
+
 * https://twitter.com/greg_doucette/status/1268766216161763328
-
-### Philadelphia Police disperse crowd with batons | June 1st
-
-Police officers strike several unarmed protesters and one parked vehicle with batons. A particularly aggressive policeman (fat, white shirt) strikes a young woman hard in the head with his baton and then tackles her to the ground with another policeman.
-
-**Links**
-
 * https://twitter.com/Peopledelphia/status/1267588991655784448
 
 
