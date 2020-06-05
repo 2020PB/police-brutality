@@ -67,6 +67,15 @@ Three protestors kneeling on the ground with their hands on their heads/covering
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
 
+### Philadelphia Police disperse crowd with batons | June 1st
+
+Police officers strike several unarmed protesters and one parked vehicle with batons.
+
+**Links**
+
+* https://twitter.com/Peopledelphia/status/1267588991655784448
+
+
 ## Pittsburgh
 
 ### Officer pepper-sprays a woman who is on her knees with her hands up
