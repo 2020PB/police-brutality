@@ -1150,6 +1150,15 @@ Police are seen shooting at individuals who were recording an incident.
 
 ## New York City
 
+### Police officer throws man against police car | May 30th
+
+A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
+
+**Links**
+
+* https://twitter.com/Stoney_Holiday/status/1266616250685444096
+* https://www.instagram.com/p/CAzSOtGlKQY/
+
 ### Police pull off protesters mask to pepper spray him | May 31st
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened. 
