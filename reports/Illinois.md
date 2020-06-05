@@ -14,6 +14,7 @@ Police are seen attacking a car and pulling two black women out of a car and sho
 **Links**
 * https://twitter.com/cruzzzyc/status/1267185423333199874
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
+* https://chicago.cbslocal.com/2020/06/03/police-drag-women-out-of-car-outside-brickyard-mall-woman-says-officer-put-knee-on-neck/
 
 ### Police pepperspray reporter for recording | May 31st
 
