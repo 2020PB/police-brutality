@@ -23,8 +23,10 @@ Police destroy supplies, including food and water, at a medical station. Medics 
 
 ## Raleigh
 
-### Law enforcement fire on business owner handing out water and first aid supplies | June 2nd
+### Police shoot to intimidate a business owner on his property | June 2nd
+
+A group of police approach a man who was apparently not a protestor, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
 **Links**
 
-* https://www.instagram.com/p/CA51AJxH7S9
+* https://www.instagram.com/p/CA51AJxH7S9 (on the sixth page)
