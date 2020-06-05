@@ -1,11 +1,11 @@
 {
     "cluster": {
-      "peername": "2020pb-dataset",
-      "secret": "7ea8e27fabf85dda89da620d61d8701b34649fce1e83e22a72dea60e5dd262b5",
+      "peername": "2020pb-trusted-1",
+      "secret": "91125f520ba285491b9bd1b62e26f784f8fd9577e5348171382d7c72127168f2",
       "leave_on_shutdown": false,
       "listen_multiaddress": [
-        "/ip4/0.0.0.0/tcp/9096",
-        "/ip4/0.0.0.0/udp/9096/quic"
+        "/ip4/0.0.0.0/tcp/9097",
+        "/ip4/0.0.0.0/udp/9097/quic"
       ],
       "enable_relay_hop": true,
       "connection_manager": {
@@ -25,15 +25,15 @@
     },
     "consensus": {
       "crdt": {
-        "cluster_name": "cord19-dataset",
+        "cluster_name": "2020pb-dataset",
         "trusted_peers": [
-          "12D3KooWPT1tJCyZ1zW35Zt7gMRYwTP2J3hmTpCV6a4m7SjmwNUo"
+          "12D3KooWLREvKqLLefpzADz6tHW1kSEUsdGpq8jJkLtCbQ5Srauh"
         ]
       }
     },
     "api": {
       "ipfsproxy": {
-        "listen_multiaddress": "/ip4/127.0.0.1/tcp/9095",
+        "listen_multiaddress": "/ip4/127.0.0.1/tcp/9099",
         "node_multiaddress": "/ip4/127.0.0.1/tcp/5001",
         "log_file": "",
         "read_timeout": "0s",
@@ -43,7 +43,7 @@
         "max_header_bytes": 4096
       },
       "restapi": {
-        "http_listen_multiaddress": "/ip4/127.0.0.1/tcp/9094",
+        "http_listen_multiaddress": "/ip4/127.0.0.1/tcp/9098",
         "read_timeout": "0s",
         "read_header_timeout": "5s",
         "write_timeout": "0s",

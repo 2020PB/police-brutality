@@ -1,138 +1,103 @@
 {
-    "cluster": {
-      "peername": "2020pb-dataset",
-      "secret": "7ea8e27fabf85dda89da620d61d8701b34649fce1e83e22a72dea60e5dd262b5",
-      "leave_on_shutdown": false,
-      "listen_multiaddress": [
-        "/ip4/0.0.0.0/tcp/9096",
-        "/ip4/0.0.0.0/udp/9096/quic"
-      ],
-      "enable_relay_hop": true,
-      "connection_manager": {
-        "high_water": 400,
-        "low_water": 100,
-        "grace_period": "2m0s"
-      },
-      "state_sync_interval": "5m0s",
-      "pin_recover_interval": "12m0s",
-      "replication_factor_min": -1,
-      "replication_factor_max": -1,
-      "monitor_ping_interval": "15s",
-      "peer_watch_interval": "5s",
-      "mdns_interval": "10s",
-      "disable_repinning": false,
-      "peer_addresses": []
+  "cluster": {
+    "follower_mode": true,
+    "peername": "2020pb-follower",
+    "secret": "91125f520ba285491b9bd1b62e26f784f8fd9577e5348171382d7c72127168f2",
+    "leave_on_shutdown": false,
+    "listen_multiaddress": [
+      "/ip4/0.0.0.0/tcp/9096",
+      "/ip4/0.0.0.0/udp/9096/quic"
+    ],
+    "enable_relay_hop": true,
+    "connection_manager": {
+      "high_water": 400,
+      "low_water": 100,
+      "grace_period": "2m0s"
     },
-    "consensus": {
-      "crdt": {
-        "cluster_name": "cord19-dataset",
-        "trusted_peers": [
-          "12D3KooWPT1tJCyZ1zW35Zt7gMRYwTP2J3hmTpCV6a4m7SjmwNUo"
-        ]
-      }
+    "state_sync_interval": "5m0s",
+    "pin_recover_interval": "12m0s",
+    "replication_factor_min": -1,
+    "replication_factor_max": -1,
+    "monitor_ping_interval": "15s",
+    "peer_watch_interval": "5s",
+    "mdns_interval": "10s",
+    "disable_repinning": false,
+    "peer_addresses": [
+    	"/ip4/207.6.222.55/tcp/9097/p2p/12D3KooWLREvKqLLefpzADz6tHW1kSEUsdGpq8jJkLtCbQ5Srauh"
+    ]
+  },
+  "consensus": {
+    "crdt": {
+      "cluster_name": "2020pb-dataset",
+      "trusted_peers": [
+        "12D3KooWLREvKqLLefpzADz6tHW1kSEUsdGpq8jJkLtCbQ5Srauh"
+      ]
+    }
+  },
+  "ipfs_connector": {
+    "ipfshttp": {
+      "node_multiaddress": "/ip4/127.0.0.1/tcp/5001",
+      "connect_swarms_delay": "30s",
+      "ipfs_request_timeout": "5m0s",
+      "pin_timeout": "24h0m0s",
+      "unpin_timeout": "3h0m0s",
+      "repogc_timeout": "24h0m0s"
+    }
+  },
+  "pin_tracker": {
+    "stateless": {
+      "concurrent_pins": 10
+    }
+  },
+  "monitor": {
+    "pubsubmon": {
+      "check_interval": "15s",
+      "failure_threshold": 3
+    }
+  },
+  "informer": {
+    "disk": {
+      "metric_ttl": "30s",
+      "metric_type": "freespace"
+    }
+  },
+  "observations": {
+    "metrics": {
+      "enable_stats": false,
+      "prometheus_endpoint": "/ip4/127.0.0.1/tcp/8888",
+      "reporting_interval": "2s"
     },
-    "api": {
-      "ipfsproxy": {
-        "listen_multiaddress": "/ip4/127.0.0.1/tcp/9095",
-        "node_multiaddress": "/ip4/127.0.0.1/tcp/5001",
-        "log_file": "",
-        "read_timeout": "0s",
-        "read_header_timeout": "5s",
-        "write_timeout": "0s",
-        "idle_timeout": "1m0s",
-        "max_header_bytes": 4096
-      },
-      "restapi": {
-        "http_listen_multiaddress": "/ip4/127.0.0.1/tcp/9094",
-        "read_timeout": "0s",
-        "read_header_timeout": "5s",
-        "write_timeout": "0s",
-        "idle_timeout": "2m0s",
-        "max_header_bytes": 4096,
-        "basic_auth_credentials": null,
-        "http_log_file": "",
-        "headers": {},
-        "cors_allowed_origins": [
-          "*"
-        ],
-        "cors_allowed_methods": [
-          "GET"
-        ],
-        "cors_allowed_headers": [],
-        "cors_exposed_headers": [
-          "Content-Type",
-          "X-Stream-Output",
-          "X-Chunked-Output",
-          "X-Content-Length"
-        ],
-        "cors_allow_credentials": true,
-        "cors_max_age": "0s"
-      }
-    },
-    "ipfs_connector": {
-      "ipfshttp": {
-        "node_multiaddress": "/ip4/127.0.0.1/tcp/5001",
-        "connect_swarms_delay": "30s",
-        "ipfs_request_timeout": "5m0s",
-        "pin_timeout": "24h0m0s",
-        "unpin_timeout": "3h0m0s",
-        "repogc_timeout": "24h0m0s"
-      }
-    },
-    "pin_tracker": {
-      "stateless": {
-        "concurrent_pins": 10
-      }
-    },
-    "monitor": {
-      "pubsubmon": {
-        "check_interval": "15s",
-        "failure_threshold": 3
-      }
-    },
-    "informer": {
-      "disk": {
-        "metric_ttl": "30s",
-        "metric_type": "freespace"
-      }
-    },
-    "observations": {
-      "metrics": {
-        "enable_stats": false,
-        "prometheus_endpoint": "/ip4/127.0.0.1/tcp/8888",
-        "reporting_interval": "2s"
-      },
-      "tracing": {
-        "enable_tracing": false,
-        "jaeger_agent_endpoint": "/ip4/0.0.0.0/udp/6831",
-        "sampling_prob": 0.3,
-        "service_name": "cluster-daemon"
-      }
-    },
-    "datastore": {
-      "badger": {
-        "badger_options": {
-          "dir": "",
-          "value_dir": "",
-          "sync_writes": true,
-          "table_loading_mode": 2,
-          "value_log_loading_mode": 2,
-          "num_versions_to_keep": 1,
-          "max_table_size": 67108864,
-          "level_size_multiplier": 10,
-          "max_levels": 7,
-          "value_threshold": 32,
-          "num_memtables": 5,
-          "num_level_zero_tables": 5,
-          "num_level_zero_tables_stall": 10,
-          "level_one_size": 268435456,
-          "value_log_file_size": 1073741823,
-          "value_log_max_entries": 1000000,
-          "num_compactors": 2,
-          "compact_l_0_on_close": false,
-          "read_only": false,
-          "truncate": false
-        }
+    "tracing": {
+      "enable_tracing": false,
+      "jaeger_agent_endpoint": "/ip4/0.0.0.0/udp/6831",
+      "sampling_prob": 0.3,
+      "service_name": "cluster-daemon"
+    }
+  },
+  "datastore": {
+    "badger": {
+      "badger_options": {
+        "dir": "",
+        "value_dir": "",
+        "sync_writes": true,
+        "table_loading_mode": 0,
+        "value_log_loading_mode": 0,
+        "num_versions_to_keep": 1,
+        "max_table_size": 67108864,
+        "level_size_multiplier": 10,
+        "max_levels": 7,
+        "value_threshold": 32,
+        "num_memtables": 5,
+        "num_level_zero_tables": 5,
+        "num_level_zero_tables_stall": 10,
+        "level_one_size": 268435456,
+        "value_log_file_size": 1073741823,
+        "value_log_max_entries": 1000000,
+        "num_compactors": 2,
+        "compact_l_0_on_close": false,
+        "read_only": false,
+        "truncate": false
       }
     }
   }
+}

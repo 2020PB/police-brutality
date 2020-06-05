@@ -22,3 +22,30 @@ $> install_cluster_linux.sh linux-64bit
 # usage
 
 This folder contains the needed files and configurations for anyone to start a follow peer, or run their own follow cluster acting as a trusted peer. The trusted peer setup is a little more difficult, and requires running both go-ipfs and ipfs-cluster. 
+
+## trusted peer
+
+> [for more information click this link](https://cluster.ipfs.io/documentation/collaborative/setup/)
+
+If using a fresh install of IPFS cluster, you will want to run the following two commands which which initialize the configuration and start the daemon for the first time. This will print some important information that you should note, namely:
+
+  * Generated cluster secret
+  * Peer ID to use as a trusted peer
+  * The multiaddress on which it will be reachable by others
+
+First ensure that you have a valid go-ipfs instance up and running on the machine you are going to use, and run the following two commands:
+
+```shell
+$> ipfs-cluster-service init --consensus crdt
+$> ipfs-cluster-service daemon
+```
+
+## follow peer
+
+First ensure that you valid a valid go-ipfs instance up and running on the machine you are rusing, and run the following command:
+
+```shell
+$> ipfs-cluster-follow 2020pb-dataset run --init 2020pb.temporal.cloud
+```
+
+This will start the cluster follow peer and being replicating the cluster data

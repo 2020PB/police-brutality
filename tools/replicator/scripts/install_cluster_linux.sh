@@ -17,6 +17,8 @@ case "$1" in
         (cd ipfs-cluster-service && sudo cp ipfs-cluster-service /usr/local/bin)
         (cd ipfs-cluster-ctl && sudo cp ipfs-cluster-ctl /usr/local/bin)
         (cd ipfs-cluster-follow && sudo cp ipfs-cluster-follow /usr/local/bin)
+        rm *.tar.gz
+        rm -rf ipfs-cluster-service ipfs-cluster-ctl ipfs-cluster-follow
         ;;
     *)
         echo "unsupported os"
