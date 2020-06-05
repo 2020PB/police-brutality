@@ -171,3 +171,9 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
+
+### NYPD Officers hit and knock down a protestor and a journalist | June 5th
+
+**Links**
+
+* https://twitter.com/johnknefel/status/1268736946031001607
