@@ -32,14 +32,14 @@ Police are seen shooting at individuals who were recording an incident.
 ## New York City
 
 
-### Police officer body slams standing protestor | June 2nd
+### Police officer body slams protestor | June 2nd
 
-A police officer comes from behind protestor and lifts him over shoulders and slams him into the ground head first. 
+A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first. 
 
 **Links**
 
-* https://twitter.com/jhermann/status/1268043720399691776?s=20
-* https://twitter.com/altochulo/status/1268018561571840000?s=20
+* https://twitter.com/jhermann/status/1268043720399691776
+* https://twitter.com/altochulo/status/1268018561571840000
 
 
 ### Police officer throws man against police car | May 30th
