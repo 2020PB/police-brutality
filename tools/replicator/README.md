@@ -2,7 +2,7 @@
 
 > **WARNING**: If you value your privacy, and anonymity do not participate in this cluster. Participating in this cluster, **even** if coming behind an anonymization tool like Tor, or a VPN will likely lead to your real life identity being revealed, as IPFS is incredibly self-doxxing. If you want to participate in this cluster, and value your privacy and anonymity, do so from a cloud based VPS, ideally paid for via anonymous crypto.
 
-The `replicator` tool allows anyone to easily mirror a public set of data on IPFS. It consists of spinning up lightweight an IPFS node, along with a lightweight IPFS Cluster client that follows a CRDT topic publish to by a set of trusted peers that are responsible for updating the "follow list" which is a set of IPFS CIDs that are replicated by the cluster. Anyone following this cluster will pin the data in the follow list locally.
+The `replicator` tool allows anyone to easily mirror a public set of data on IPFS. It consists of spinning up an IPFS node, along with a lightweight IPFS Cluster follower client that follows a CRDT topic published to by a set of trusted peers that are responsible for updating the "follow list" which is a set of IPFS CIDs that are replicated by the cluster. Anyone following this cluster will pin the data in the follow list locally.
 
 # install
 
