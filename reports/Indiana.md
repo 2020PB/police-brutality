@@ -44,7 +44,7 @@ Police confiscate medical supplies from a medical station at Monument Circle.
 
 * https://www.facebook.com/AlexandraIndy/videos/10219444419838711
 
-### Police beat one woman with batons and shoot her with pepper balls, and shove another to the ground | June 1st
+### Police beat woman with batons and shoot pepper balls, shove another to the ground | June 1st
 
 A woman is seen being restrained by a police officer, who at one point moves his hand near her chest (it is unclear for what purpose, possibly to get a better hold, but the tweet alleges that it is evidence of sexual assault). She immediately struggles with the officer and breaks free, after which she is repeatedly beaten on the thighs with batons and shot with what appear to be pepper balls by officers shouting "Get on the ground!" while she is standing still. Another woman walks towards the officers with her hands out, seeming to plead for restraint but not directly interfering. An officer yells at her to "Back up!" and then violently shoves her to the ground.
 
