@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-05T23:36:20.466941+00:00
+UPDATED AT: 2020-06-05T23:42:15.777255+00:00
 
 
 # Alabama
@@ -1237,6 +1237,17 @@ Police are seen shooting at individuals who were recording an incident.
 
 
 ## New York City
+
+
+### Police officer body slams protestor | June 2nd
+
+A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first. 
+
+**Links**
+
+* https://twitter.com/jhermann/status/1268043720399691776
+* https://twitter.com/altochulo/status/1268018561571840000
+
 
 ### Police officer throws man against police car | May 30th
 
