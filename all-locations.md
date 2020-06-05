@@ -242,6 +242,14 @@ LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately 
 * https://old.reddit.com/r/PublicFreakout/comments/gu8mqp/police_drives_into_protestors_in_los_angeles/
 * https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/
 
+### Los Angeles law enforcement shot at a man on his own balcony | May 31st
+
+Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
+
+**Links**
+
+* https://twitter.com/cwellborn3/status/1267318753571811329
+
 ### Police strike protestors with batons | June 1st
 
 Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
@@ -251,13 +259,6 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://streamable.com/ja2fw6 (with audio)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
-### Los Angeles law enforcement shot at a man on his own balcony | June 1st
-
-Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
-
-**Links**
-
-* https://twitter.com/cwellborn3/status/1267318753571811329
 
 ### Police shoot rubber bullets at two peaceful protestors | June 1st
 
@@ -268,7 +269,7 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
-### Police shoot crowd of unarmed protestors with rubber bullets |
+### Police shoot crowd of unarmed protestors with rubber bullets | Believed to be May 31st
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
@@ -316,7 +317,6 @@ A line of law enforcement officers are walking down the street.  When they appro
 **Links**
 
 * https://old.reddit.com/r/PublicFreakout/comments/gv2lku/news_chopper_pans_out_as_riverside_county_sheriff/
-
 
 
 ## Sacramento
