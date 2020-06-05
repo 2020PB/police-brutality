@@ -1,8 +1,13 @@
-package main
+package pkg
 
 import (
 	ipfsapi "github.com/RTradeLtd/go-ipfs-api/v3"
 )
+
+// Uploader specifies the interface for an uploader client
+type Uploader interface {
+	Upload(path string) (string, error)
+}
 
 // IPFSUploader allows uploading videos to an ipfs endpoint
 type IPFSUploader struct {
@@ -11,7 +16,7 @@ type IPFSUploader struct {
 
 // NewIPFSUploader returns an IPFS uploader, authenticated with a JWT if required
 // JWT authentication is only very useful for third-party endpoitns
-func NewIPFSUploader(endpoint, authToken string) (*IPFSUploader, error) {
+func NewIPFSUploader(endpoint, authToken string) (Uploader, error) {
 	sh := ipfsapi.NewDirectShell(endpoint)
 	if authToken != "" {
 		sh = sh.WithAuthorization(authToken, nil)

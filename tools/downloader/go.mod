@@ -1,4 +1,4 @@
-module downloader
+module github.com/2020PB/police-brutality
 
 go 1.14
 

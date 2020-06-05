@@ -5,6 +5,7 @@ import (
 	"os"
 	"time"
 
+	. "github.com/2020PB/police-brutality/pkg"
 	"github.com/urfave/cli/v2"
 )
 

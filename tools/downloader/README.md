@@ -18,6 +18,8 @@ Given the row in the CSV file, the corresponding video would be `126765313796962
 
 # usage
 
+## cli
+
 To download all videos one by one:
 
 ```shell
@@ -72,3 +74,7 @@ OPTIONS:
    --help, -h                                  show help (default: false)
    
 ```
+
+## package
+
+Alternatively you can use this library as a package, to do so use `import github.com/2020PB/police-brutality/pkg`. See the `main.go` file for examples on how to use this as a library
