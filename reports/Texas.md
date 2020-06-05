@@ -6,6 +6,7 @@ A 20-year-old black man is hospitalized in critical condition after police shot 
 
 **Links**
 
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
 * https://www.texastribune.org/2020/06/01/austin-police-george-floyd-mike-ramos/
 * https://www.kvue.com/article/news/local/austin-protester-police-struck-by-less-lethal-bean-bag-round/269-430f90a2-b6c1-4ee3-9d9c-639faf132100
 
@@ -48,13 +49,24 @@ Police were seen firing multiple shots of what were allegedly rubber bullets int
 
 * https://twitter.com/ironfront7/status/1267133400156196870
 
-### Police spray a man in the face while he stands still ~3 feet away from them.
+### Police open fire on crowd after a protester throws water on them | May 31st
+
+Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gwfu8e/apd_gets_water_splashed_on_them_and_immediately/
+* [Mirror 1](https://tuckbot.tv/#/watch/gwfu8e)
+* [Mirror 2](https://peertube.live/videos/watch/320ea302-9806-44c0-843e-49d8486c423f)
+
+### Police spray a man in the face while he stands still ~3 feet away from them. | May 31st
 
 A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face. 
 
 **Links**
 
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/guhgfq/please_let_others_see_this_this_guy_did_not/
+* https://twitter.com/Grits4Breakfast/status/1267128210455588865
 
 ### Police fire upon protesters seeking medical help | June 2nd
 

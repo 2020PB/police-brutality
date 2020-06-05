@@ -23,10 +23,11 @@ Police seemingly single out a person that is being the most vocal, push and tack
 
 * https://v.redd.it/fl4y919v1q251
 
-### Police shoot tear gas canister at man from close range, striking him in the chest | Uknown Date
+### Police shoot tear gas canister at man from close range, striking him in the chest | May 30th
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268333029526843392
+* https://www.instagram.com/p/CA148-0B14t6mQZqJZYzwq25KdoPzZ5CJmV3oQ0/

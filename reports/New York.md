@@ -7,6 +7,17 @@ Three police officers run over to and tackle man with hands raised giving an int
 **Links**
 * https://twitter.com/secretlaith/status/1268251322467450880
 
+### Police shove elderly man, causing him to fall on the back of his head | June 4th
+
+Two police officers shove an unarmed, elderly man, who falls backwards and strikes his head on the concrete sidewalk. He appears to be bleeding. 
+Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident.
+Location: Niagara Square
+
+**Links**
+* https://twitter.com/WBFO/status/1268712530358292484?s=20
+* https://news.wbfo.org/post/graphic-video-buffalo-police-officers-violently-shove-man-ground
+* https://twitter.com/secretlaith/status/1268251322467450880
+* https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 
 ## Rochester
 
@@ -19,6 +30,15 @@ Police are seen shooting at individuals who were recording an incident.
 
 
 ## New York City
+
+### Police officer throws man against police car | May 30th
+
+A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
+
+**Links**
+
+* https://twitter.com/Stoney_Holiday/status/1266616250685444096
+* https://www.instagram.com/p/CAzSOtGlKQY/
 
 ### Police pull off protesters mask to pepper spray him | May 31st
 
@@ -150,3 +170,4 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 **Links**
 
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
+* https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html

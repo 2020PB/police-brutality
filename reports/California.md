@@ -13,7 +13,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 ## Hollywood 
 
-### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. 
+### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
 
 Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it still looks to be light outside.
 
@@ -45,7 +45,7 @@ Law enforcement stand off with protesters, seemingly without provocaton they sta
 
 ## Long Beach
 
-### Reporter shot in neck by rubber bullet
+### Reporter shot in neck by rubber bullet | May 31st
 
 Photo shows large bruise the reporter got from a rubber bullet
 
@@ -246,6 +246,15 @@ Sacramento law enforcement shoot shoot protesters and then announce their assemb
 **Links**
 
 * https://www.facebook.com/danny.garza.167/videos/10222535335080905/
+
+### Police choke man and push woman filming event to the ground | June 1st
+
+Two to three police officers choke a black man on the ground. The woman documenting this on video is then pushed away/over.
+
+**Links**
+
+* [From perspective of woman pushed, where we see man being choked](https://twitter.com/greg_doucette/status/1268334584443342850)
+* [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
 
 ## San Jose
 
