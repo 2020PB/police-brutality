@@ -200,6 +200,16 @@ A crowd of protestors chanting are shot with rubber bullets by a line of officer
 
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
+### Police shoot man confined to wheelchair in eye | June 3rd
+
+A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye.
+
+**Links**
+
+* https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/
+* https://www.instagram.com/p/CBCiZXOlno4/
+* https://twitter.com/Terminal_Redux/status/1268870944615026690
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
