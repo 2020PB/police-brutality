@@ -31,6 +31,17 @@ Police are seen shooting at individuals who were recording an incident.
 
 ## New York City
 
+
+### Police officer body slams standing protestor | June 2nd
+
+A police officer comes from behind protestor and lifts him over shoulders and slams him into the ground head first. 
+
+**Links**
+
+* https://twitter.com/jhermann/status/1268043720399691776?s=20
+* https://twitter.com/altochulo/status/1268018561571840000?s=20
+
+
 ### Police officer throws man against police car | May 30th
 
 A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
