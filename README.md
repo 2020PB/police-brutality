@@ -61,3 +61,20 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Washington D.C.](./reports/Washington%20DC.md)
   * [Wisconsin](./reports/Wisconsin.md)
   * [Unknown Location](./reports/Unknown%20Location.md)
+
+# TODOs
+
+*This is a list of proposed TODOs, a set of ideas for those who own this codebase and have contributed to it this far, and in hopes of sparking further discussion  from any technical folk joining this project.*
+
+I believe the focus needs to be: What are the most critical things to be accomplised to make this project as successful as possible in the shortest time-frame as possible. I think a few things:
+- I think there is a need to collect as much illegal activity by the authorities in the shortest time frame possible.  To that end, I would propose a few things:
+  - A generalized, true API for submitting abuses.
+  - A submission service that stores descriptions of abuses and their assets in a modern data storage system
+  - A UI to allow users on desktop/mobile to submit links by hand
+  - A Twitter bot that people can @ / mention to easily submit abuses via social media. I think twitter is the most productive platform to target.
+
+Additionally, I see a need for a more robust API to delivery the content collected. The easier it is for people to consume the data, the faster people make cool things with it, like that fantastic Front-End that was made for this project.
+
+Strike while the iron is hot, as I see it. This data is ephemeral, as each day goes by, it's harder to backtrack to find the worst abuses that maybe didn't get the spotlot as others.
+
+I have many other thoughts on infrastructure, deployment, et cetera.
