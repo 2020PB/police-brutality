@@ -78,6 +78,8 @@ We need people to identify and research incidents and ensure that the current re
 
 To contribute to the incident reports, you will need to identify events where police used excessive force or abused their power during the George Floyd protests.
 
+**Note:** We do not doxx anyone, including police officers, unless it's linking to a news article with officially recognized information. If you'd like to give us doxxing information, message the mods of the reddit and we'll file that information which we can provide privately to relevant parties. We want to avoid being the cause of a witch hunt.
+
 People have been regularly posting evidence to the following sources:
 - [our subreddit /r/2020PoliceBrutality](https://www.reddit.com/r/2020PoliceBrutality/)
 - [/r/Bad_Cop_No_Donut subreddit](https://www.reddit.com/r/Bad_Cop_No_Donut/)
