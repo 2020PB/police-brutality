@@ -2,3 +2,7 @@
 all-locations.md
 all-locations.csv
 all-locations.json
+
+# Node
+web/build
+**/node_modules
