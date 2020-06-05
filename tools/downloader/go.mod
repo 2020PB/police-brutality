@@ -3,6 +3,7 @@ module downloader
 go 1.14
 
 require (
+	github.com/RTradeLtd/go-ipfs-api/v3 v3.0.0
 	github.com/panjf2000/ants/v2 v2.4.1
 	github.com/pkg/errors v0.8.1
 	github.com/urfave/cli/v2 v2.2.0

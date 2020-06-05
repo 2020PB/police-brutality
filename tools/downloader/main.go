@@ -1,6 +1,7 @@
 package main
 
 import (
+	"log"
 	"os"
 	"time"
 
@@ -17,7 +18,21 @@ func main() {
 			Usage: "starts the downloader",
 			Action: func(c *cli.Context) error {
 				dl := New(c.String("log.file"), c.String("directory"), c.Int("concurrency"))
-				return dl.Run(c.Duration("timeout"), c.Int("max.downloads"))
+				if err := dl.Run(c.Duration("timeout"), c.Int("max.downloads")); err != nil {
+					return err
+				}
+				if c.Bool("upload.to_ipfs") {
+					uploader, err := NewIPFSUploader(c.String("ipfs.endpoint"), c.String("ipfs.auth_token"))
+					if err != nil {
+						return err
+					}
+					hash, err := uploader.Upload(c.String("directory"))
+					if err != nil {
+						return err
+					}
+					log.Println("ipfs hash of directory: ", hash)
+				}
+				return nil
 			},
 			Flags: []cli.Flag{
 				&cli.StringFlag{
@@ -31,6 +46,18 @@ func main() {
 					Aliases: []string{"lf", "l"},
 					Value:   "downloader.log",
 					Usage:   "where to store log data",
+				},
+				&cli.StringFlag{
+					Name:    "ipfs.endpoint",
+					Aliases: []string{"ie"},
+					Usage:   "endpoint to upload videos to if ipfs uploading is enabled",
+					Value:   "localhost:5001",
+				},
+				&cli.StringFlag{
+					Name:    "ipfs.auth_token",
+					Aliases: []string{"iat"},
+					Usage:   "jwt to use with authentication to an ipfs http api endpoint",
+					EnvVars: []string{"IPFS_AUTH_TOKEN"},
 				},
 				&cli.IntFlag{
 					Name:    "concurrency",
@@ -49,6 +76,12 @@ func main() {
 					Aliases: []string{"t"},
 					Value:   time.Minute * 3,
 					Usage:   "timeout to quit a download, you may need to adjust depending on your connection",
+				},
+				&cli.BoolFlag{
+					Name:    "upload.to_ipfs",
+					Aliases: []string{"uti"},
+					Usage:   "enables uploading the video data to any ipfs endpoint",
+					Value:   false,
 				},
 			},
 		},
