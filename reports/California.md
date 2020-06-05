@@ -61,7 +61,7 @@ Photo shows large bruise the reporter got from a rubber bullet
 
 ### Police shoot a man in a wheelchair in the head with less than lethal projectile | June 4
 
-On Broadway & 5th St police shot an unarmed man in a wheelchair who was not protesting in the head with less than lethal rounds, causing part of his forhead to burst.
+On Broadway & 5th St police shot an unarmed man in a wheelchair who was not protesting in the head with less than lethal rounds, causing part of his forehead to burst.
 
 ***Links***
 * https://www.instagram.com/p/CBCiZXOlno4/
