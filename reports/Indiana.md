@@ -51,7 +51,7 @@ One woman struggled against the officer restraining her, so she and her friend w
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guffju/indianapolis_police_on_women_rights/
-* https://twitter.com/greg_doucette/status/1268391718086422528 - Angle shows unambiguous sexual assault against first woman by police officer
+* https://twitter.com/greg_doucette/status/1268391718086422528
 
 ## Lafayette
 
