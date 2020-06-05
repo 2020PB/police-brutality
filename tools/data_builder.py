@@ -39,6 +39,7 @@ def title_to_name_date(line):
 
     try:
         date_found = date_regex.search(date_text).group()
+        # print(date_found)
         date = parse(date_found).strftime('%Y-%m-%d')
     except (ValueError, AttributeError) as err:
         print(f"Failed date parse '{parts[1]}': {err}")
