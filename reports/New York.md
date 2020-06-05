@@ -19,7 +19,7 @@ Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/
 
 * https://twitter.com/WBFO/status/1268712530358292484
 * https://news.wbfo.org/post/graphic-video-buffalo-police-officers-violently-shove-man-ground
-* https://twitter.com/WKBW/status/1268721546081832962
+* https://www.facebook.com/watch/?ref=external&v=2489206818056597
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 * https://www.reddit.com/r/PublicFreakout/comments/gwv7k4/just_about_an_hour_ago_police_officers_shove_man/fsxfeb3/
 
