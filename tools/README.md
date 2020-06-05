@@ -16,3 +16,16 @@ pip install -r requirements.txt
 # Run script
 python data_builder.py
 ```
+
+## Tests
+
+Tests use the [pytest](https://docs.pytest.org/) framework
+
+### Adding tests
+- For getting started with Pytest, see [official docs](https://docs.pytest.org/en/stable/getting-started.html)
+- Prefix test names with `test_`
+- All test names must be unique
+
+### Running tests
+
+- From inside of the `tools` folder, run `pytest` (this will pick up tests in all files named `test_*.py` or `*_test.py`)
