@@ -34,7 +34,7 @@ A young woman was injured by a rubber bullet she took to the head.
 * [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
 
-### Police shoot at cars in traffic from overpass | June 1st?
+### Police shoot at cars in traffic from overpass | May 31st
 
 Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
 
