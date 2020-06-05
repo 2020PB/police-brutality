@@ -10,14 +10,12 @@ Three police officers run over to and tackle man with hands raised giving an int
 ### Police shove elderly man, causing him to fall on the back of his head | June 4th
 
 Two police officers shove an unarmed, elderly man, who falls backwards and strikes his head on the concrete sidewalk. He appears to be bleeding. 
-One of the officers who pushed him (the cop on the right, from the camera's perspective) has initials A.T. Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident.
+Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident.
 Location: Niagara Square
 
 **Links**
 * https://twitter.com/WBFO/status/1268712530358292484?s=20
 * https://news.wbfo.org/post/graphic-video-buffalo-police-officers-violently-shove-man-ground
-* https://twitter.com/DeathMetaIHippy/status/1268718692600295430?s=20
-* https://twitter.com/DeathMetaIHippy/status/1268719319220916226?s=20
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 
 ## Rochester
