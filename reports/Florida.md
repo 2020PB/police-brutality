@@ -16,6 +16,7 @@ A line of police officers are standing in front of a building with shields, and 
 
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
 
+
 ## Miami
 
 ### Man tackled to ground after speaking to police | May 31st
@@ -26,3 +27,13 @@ Police are in a van. A man walking on the sidewalk with another man begins to sp
 
 * https://twitter.com/BillyCorben/status/1267644127178563588
 
+
+## Orlando
+
+### Police use excessive force during an arrest | June 2nd
+
+A police officer grabs a protestor from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
+
+**Links**
+
+* https://twitter.com/ewcfilms/status/1268003421786906627
