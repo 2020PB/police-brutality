@@ -4,8 +4,6 @@
 
 Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person.
 
-[Location determined via Google Streetview](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
-
 [This Reddit comment](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/) asserts these police are members of the LASD.
 
 **Links**
@@ -58,6 +56,14 @@ Photo shows large bruise the reporter got from a rubber bullet
 
 
 ## Los Angeles
+
+### Police shoot a man in a wheelchair in the head with less than lethal projectile | June 4
+
+On Broadway & 5th St police shot an unarmed man in a wheelchair who was not protesting in the head with less than lethal rounds, causing part of his forhead to burst.
+
+***Links***
+* https://www.instagram.com/p/CBCiZXOlno4/
+* https://twitter.com/Terminal_Redux/status/1268870944615026690
 
 ### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2
 
