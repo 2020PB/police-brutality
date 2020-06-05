@@ -1645,6 +1645,7 @@ A 20-year-old black man is hospitalized in critical condition after police shot 
 
 **Links**
 
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
 * https://www.texastribune.org/2020/06/01/austin-police-george-floyd-mike-ramos/
 * https://www.kvue.com/article/news/local/austin-protester-police-struck-by-less-lethal-bean-bag-round/269-430f90a2-b6c1-4ee3-9d9c-639faf132100
 
