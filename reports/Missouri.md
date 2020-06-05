@@ -35,3 +35,12 @@ A police officer pulls away a protestor standing still. When others come to the 
 
 * https://www.kansascity.com/news/local/article243188436.html
 * https://www.facebook.com/KuhlPics/photos/a.467614509924515/3214027235283215/?type=3&theater
+
+### Police pepper spray protestors walking away and later arrest one of them | May 31st
+
+A video linked shows the police pepper spraying some protestors who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
+
+**Links**
+
+* https://twitter.com/RayVaca/status/1266959833753890816
+* https://twitter.com/whoareyoujudy_/status/1266968858159702017
