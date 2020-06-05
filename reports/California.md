@@ -13,7 +13,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 ## Hollywood 
 
-### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. 
+### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
 
 Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it still looks to be light outside.
 
@@ -45,7 +45,7 @@ Law enforcement stand off with protesters, seemingly without provocaton they sta
 
 ## Long Beach
 
-### Reporter shot in neck by rubber bullet
+### Reporter shot in neck by rubber bullet | May 31st
 
 Photo shows large bruise the reporter got from a rubber bullet
 
@@ -66,11 +66,11 @@ The police are seen shooting at fleeing protestors and parked vehicles.
 * https://twitter.com/balleralert/status/1268014113105555456
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
-* https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/
+* [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 ### Police intimidate person filming them by shooting at apartment building | May 30th
 
-The police are seen to threaten and try to scare the residents of the apartment building, the POV of the video is from. At 0:45 a shot is fired by the police, in order to get the residents of the apartments, off their balconies and into their homes.
+The police are seen to threaten and try to scare the residents of the apartment building from which video is taken. At 0:45 a shot is fired by the police in order to get the residents of the apartments off their balconies and into their homes.
 
 **Links**
 
@@ -246,6 +246,15 @@ Sacramento law enforcement shoot shoot protesters and then announce their assemb
 **Links**
 
 * https://www.facebook.com/danny.garza.167/videos/10222535335080905/
+
+### Police choke man and push woman filming event to the ground | June 1st
+
+Two to three police officers choke a black man on the ground. The woman documenting this on video is then pushed away/over.
+
+**Links**
+
+* [From perspective of woman pushed, where we see man being choked](https://twitter.com/greg_doucette/status/1268334584443342850)
+* [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
 
 ## San Jose
 

@@ -12,7 +12,7 @@ For more information on contributing to this repository please consult the [cont
 
 ---
 
-* [Web app](http://www.2020policebrutality.com/) to visually view posts
+* [Web app](https://2020policebrutality.netlify.app/) to visually view posts
 * [Data API](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) to build your own front end
 
 [Table of Contents](#Table-of-Contents)
@@ -52,6 +52,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Kansas](./reports/Kansas.md)
   * [Kentucky](./reports/Kentucky.md)
   * [Louisiana](./reports/Louisiana.md)
+  * [Massachusetts](./reports/Massachusetts.md)
   * [Michigan](./reports/Michigan.md)
   * [Minnesota](./reports/Minnesota.md)
   * [Missouri](./reports/Missouri.md)
@@ -66,6 +67,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Tennessee](./reports/Tennessee.md)
   * [Texas](./reports/Texas.md)
   * [Utah](./reports/Utah.md)
+  * [Vermont](./reports/Vermont.md)
   * [Virginia](./reports/Virginia.md)
   * [Washington](./reports/Washington.md)
   * [Washington D.C.](./reports/Washington%20DC.md)

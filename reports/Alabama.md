@@ -1,8 +1,8 @@
 ## Huntsville 
 
-### Law enforcement shove woman and she is seemingly trampled | June 1st
+### Protester falls and is stepped on | June 1st
 
-Law enforcement officer woman to the ground then try to move while she's on the ground, not letting her get up, seemingly trampling her.
+During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
 
 **Links**
 
