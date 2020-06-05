@@ -7,8 +7,8 @@ The individual was sitting on the ground peacefully, yet the police maced her, a
 **Links**
 
 * https://twitter.com/ItsKadynC/status/1266967646345613317
-
 * https://twitter.com/the7goonies/status/1266989439160590336
+* [Article on the event from PAPost](https://papost.org/2020/05/31/erie-woman-who-was-kicked-by-police-officer-saysi-was-100-percent-peaceful/)
 
 ## Harrisburg
 
@@ -66,16 +66,35 @@ Three protestors kneeling on the ground with their hands on their heads/covering
 
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
+### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
+
+At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268200800649707526
+
+### Police shove protestors and strike woman across the face with a baton | June 1st
+
+Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young woman who he strikes with his baton, at full strength, in the head before jumping on her and cuffing her with assistance from another officer.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268766216161763328
+* https://twitter.com/Peopledelphia/status/1267588991655784448
+
 
 ## Pittsburgh
 
 ### Officer pepper-sprays a woman who is on her knees with her hands up
 
-A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her.
+A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board  
 
 **Links**
 
-* https://www.youtube.com/watch?v=TxHxU6nhzzQ
+* [Video of the incident](https://www.youtube.com/watch?v=TxHxU6nhzzQ)
+* [Twitter link alleging intimidation](https://twitter.com/PaulaReedWard/status/1268547369618026503)
+* [Post Gazette article about alleged police intimidation](https://www.post-gazette.com/news/crime-courts/2020/06/03/East-Liberty-protest-Abigail-Rubio-says-Pittsburgh-police-intimidated-video/stories/202006030158)
 
 ### Police fire tear gas and rubber bullets on peaceful assembly | June 1st
 
@@ -86,3 +105,5 @@ Police declare a peaceful protest an unlawful assembly. They then escalate the s
 * https://www.reddit.com/r/pittsburgh/comments/guzshz/police_declaring_an_unlawful_assembly_against_a/
 * https://www.facebook.com/BenjaminKFerris/posts/3091613010894973
 * https://twitter.com/gautamyadav818/status/1267606317893550080
+
+

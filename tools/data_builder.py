@@ -6,6 +6,7 @@ import re
 import copy
 
 from dateutil.parser import parse
+from datetime import datetime, timezone
 
 
 src_dir = os.path.relpath(os.path.dirname(__file__))
@@ -128,8 +129,12 @@ def process_md_texts(md_texts):
             data.append(entry)
     return data
 
-md_header = '''
+updated_at = datetime.now(timezone.utc).isoformat()
+
+md_header = f'''
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
+
+UPDATED AT: {updated_at}
 
 '''
 
@@ -177,7 +182,8 @@ def to_json_file(data, target_path):
     data_with_meta = {
         "edit_at": "https://github.com/2020PB/police-brutality",
         "help": "ask @ubershmekel on twitter",
-        "data": data,
+        "updated_at": updated_at,
+        "data": data
     }
     with open(target_path, 'w') as f:
         json.dump(data_with_meta, f)

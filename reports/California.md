@@ -4,6 +4,8 @@
 
 Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person.
 
+[Location determined via Google Streetview](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
+
 [This Reddit comment](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/) asserts these police are members of the LASD.
 
 **Links**
@@ -164,6 +166,14 @@ LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately 
 * https://old.reddit.com/r/PublicFreakout/comments/gu8mqp/police_drives_into_protestors_in_los_angeles/
 * https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/
 
+### Los Angeles law enforcement shot at a man on his own balcony | May 31st
+
+Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
+
+**Links**
+
+* https://twitter.com/cwellborn3/status/1267318753571811329
+
 ### Police strike protestors with batons | June 1st
 
 Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
@@ -173,13 +183,6 @@ Multiple police officers begin striking protestors with their batons. The video 
 * https://streamable.com/ja2fw6 (with audio)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
-### Los Angeles law enforcement shot at a man on his own balcony | June 1st
-
-Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
-
-**Links**
-
-* https://twitter.com/cwellborn3/status/1267318753571811329
 
 ### Police shoot rubber bullets at two peaceful protestors | June 1st
 
@@ -190,13 +193,25 @@ Two peaceful protestors are standing in an empty street.  Dozens of police offic
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
-### Police shoot crowd of unarmed protestors with rubber bullets |
+### Police shoot crowd of unarmed protestors with rubber bullets | Believed to be May 31st
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
 **Links**
 
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
+
+### Police shoot unarmed man in a wheelchair in the face | June 3rd
+
+A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. 
+
+**Links**
+
+* https://www.reddit.com/r/LosAngeles/comments/gwzgn8/lapd_shoots_less_than_lethal_rounds_directly_at/
+* https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/
+* https://www.instagram.com/p/CBCiZXOlno4/
+* https://twitter.com/Terminal_Redux/status/1268870944615026690
+
 
 ## Oakland
 
@@ -226,7 +241,6 @@ A line of law enforcement officers are walking down the street.  When they appro
 **Links**
 
 * https://old.reddit.com/r/PublicFreakout/comments/gv2lku/news_chopper_pans_out_as_riverside_county_sheriff/
-
 
 
 ## Sacramento
@@ -317,4 +331,14 @@ In this video, an armored law enforcement vehicle tells protestors over megaphon
 **Links**
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
+
+## Vallejo
+
+### Police fatally shoot unarmed 22 year old | June 1st
+
+"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family."
+
+**Links**
+
+* https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
 
