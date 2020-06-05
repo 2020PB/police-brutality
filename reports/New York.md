@@ -7,17 +7,21 @@ Three police officers run over to and tackle man with hands raised giving an int
 **Links**
 * https://twitter.com/secretlaith/status/1268251322467450880
 
-### Police shove elderly man, causing him to fall on the back of his head | June 4th
+### Police shove elderly man, causing him to fall and hit the back of his head | June 4th
 
-Two police officers shove an unarmed, elderly man, who falls backwards and strikes his head on the concrete sidewalk. He appears to be bleeding. 
-Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident.
-Location: Niagara Square
+Two police officers shove an unarmed, elderly man ([reportedly 75 years old](https://twitter.com/HannahBuehler/status/1268742666210226177)), who falls backwards and strikes his head on the concrete sidewalk. He appears to begin bleeding from his ear and passes out.
+
+Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved.
+
+Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
 
 **Links**
+
 * https://twitter.com/WBFO/status/1268712530358292484?s=20
 * https://news.wbfo.org/post/graphic-video-buffalo-police-officers-violently-shove-man-ground
 * https://twitter.com/secretlaith/status/1268251322467450880
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
+* https://www.reddit.com/r/PublicFreakout/comments/gwv7k4/just_about_an_hour_ago_police_officers_shove_man/fsxfeb3/
 
 ## Rochester
 
