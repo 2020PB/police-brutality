@@ -23,7 +23,7 @@ Police destroy supplies, including food and water, at a medical station. Medics 
 
 ## Raleigh
 
-### Law enforcement fire on business owner handing out water and first aid supplies
+### Law enforcement fire on business owner handing out water and first aid supplies | June 2nd
 
 **Links**
 
