@@ -6,9 +6,8 @@ import re
 import copy
 
 from dateutil.parser import parse
-from datetime import datetime
+from datetime import datetime, timezone
 
-# test change
 
 src_dir = os.path.relpath(os.path.dirname(__file__))
 md_dir = os.path.join(src_dir, '..', 'reports')
@@ -130,9 +129,12 @@ def process_md_texts(md_texts):
             data.append(entry)
     return data
 
-md_header_format = '''
+updated_at = datetime.now(timezone.utc).isoformat()
+
+md_header = f'''
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
-UPDATED: {timestamp}
+
+UPDATED AT: {updated_at}
 
 '''
 
@@ -145,8 +147,6 @@ md_out_format = '''
 
 def to_merged_md_file(md_texts, target_path):
     with open(target_path, 'wb') as fout:
-        md_header = md_header_format.format(timestamp=str(datetime.now()))
-        
         fout.write(md_header.encode("utf-8"))
         for location, text in sorted(md_texts.items()):
             out_text = md_out_format.format(location=location, text=text)
@@ -182,7 +182,7 @@ def to_json_file(data, target_path):
     data_with_meta = {
         "edit_at": "https://github.com/2020PB/police-brutality",
         "help": "ask @ubershmekel on twitter",
-        "timestamp": str(datetime.now()),
+        "updated_at": updated_at,
         "data": data
     }
     with open(target_path, 'w') as f:
