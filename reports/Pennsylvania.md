@@ -57,6 +57,9 @@ Over 30 protesters are standing in the grassy area beside a highway. Police on t
 * https://www.reddit.com/r/PublicFreakout/comments/guve5f/philadelphia_police_traps_protesters_on_highway/
 * https://twitter.com/bbcease/status/1267582823428501508
 * https://www.youtube.com/watch?v=cXzWicPCNQg
+* https://youtu.be/oCVe8mXOU94
+* https://vimeo.com/425235774
+* https://youtu.be/srC5l--cn14
 
 ### Police officer pepper-sprays three people on their knees | believed to be June 1st
 
