@@ -20,3 +20,11 @@ Police destroy supplies, including food and water, at a medical station. Medics 
 *  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
 *  https://twitter.com/daveth89/status/1267974555332685824
 *  https://i.redd.it/wofh339sqr251.png
+
+## Raleigh
+
+### Law enforcement fire on business owner handing out water and first aid supplies
+
+**Links**
+
+* https://www.instagram.com/p/CA51AJxH7S9
