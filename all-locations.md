@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-05T23:35:22.762326+00:00
+UPDATED AT: 2020-06-05T23:36:20.466941+00:00
 
 
 # Alabama
@@ -455,6 +455,8 @@ An officer peppersprays someone recording the capitol building through his sun r
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266758227930333188
+* https://twitter.com/Dizzle14Double/status/1266615473816260609
+* https://twitter.com/SaltMagazine_/status/1266634027257098240
 
 ### Denver law enforcement shoot at reporters | May 29th
 
@@ -491,14 +493,9 @@ Policemen turned off their body cams and started unnecessary firing of tear gas.
 
 * https://twitter.com/moneyroe99/status/1266956171409346566
 
-### Denver law enforcement spray man recording from his car | May 30th
 
-Denver law enforcement spray a man recording from his car as well as protesters outside. Repetitive thud sounds, possibly someone being beaten, can be heard but not seen as the car drives away.
 
-**Links**
 
-* https://twitter.com/Dizzle14Double/status/1266615473816260609
-* https://twitter.com/SaltMagazine_/status/1266634027257098240
 
 ### Denver law enforcement shoot at reporter standing on the sidewalk | May 30th
 
