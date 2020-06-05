@@ -7,3 +7,13 @@ It is seen in the video that while the people were protesting, a few cops tried 
 **Links**
 
 * https://twitter.com/thickliljawn/status/1267239498083110913
+
+## Orlando
+
+### Police throw down several peaceful protesters| June 2nd
+
+As seen in the video, the police go after several individuals using excessive force to detail them.
+
+**Links**
+
+* https://twitter.com/ewcfilms/status/1268003421786906627?s=21
