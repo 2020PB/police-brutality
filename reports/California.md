@@ -198,6 +198,15 @@ A crowd of protestors chanting are shot with rubber bullets by a line of officer
 
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
+### Police shoot unarmed homeless man in the head | June 3rd
+
+A homeless man in a wheelchair is shot in the head with a rubber bullet by the LAPD. He was not armed or participating in the protests.
+
+**Links**
+
+* https://www.facebook.com/FWDSET/posts/2831883253587789
+* https://www.reddit.com/r/LosAngeles/comments/gwzgn8/lapd_shoots_less_than_lethal_rounds_directly_at/?utm_source=reddit&utm_medium=usertext&utm_name=pics&utm_content=t1_fsybel2
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | Believed to be May 30th
