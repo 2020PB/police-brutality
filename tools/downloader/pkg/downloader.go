@@ -71,7 +71,10 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		wg     = &sync.WaitGroup{}
 		reader = csv.NewReader(resp.Body)
 	)
-	for i := 0; maxDownloads != 0 && i < maxDownloads; i++ {
+	for i := 0; ; i++ {
+		if maxDownloads != 0 && i >= maxDownloads {
+			break
+		}
 		// read the next record
 		record, err := reader.Read()
 		if err != nil && err != io.EOF {
