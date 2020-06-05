@@ -1610,8 +1610,8 @@ The individual was sitting on the ground peacefully, yet the police maced her, a
 **Links**
 
 * https://twitter.com/ItsKadynC/status/1266967646345613317
-
 * https://twitter.com/the7goonies/status/1266989439160590336
+* [Article on the event from PAPost](https://papost.org/2020/05/31/erie-woman-who-was-kicked-by-police-officer-saysi-was-100-percent-peaceful/)
 
 ## Harrisburg
 
