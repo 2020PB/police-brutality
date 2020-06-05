@@ -1,6 +1,6 @@
 # Police Brutality During the 2020 George Floyd Protests
 
-* [Web app](http://www.2020policebrutality.com/) to visually view posts
+* [Web app](https://2020policebrutality.netlify.app/) to visually view posts
 * [Data API](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) to build your own front end
 
 [Table of Contents](#Table-of-Contents)
