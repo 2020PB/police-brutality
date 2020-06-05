@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-05T23:48:45.635988+00:00
+UPDATED AT: 2020-06-05T23:54:20.425158+00:00
 
 
 # Alabama
@@ -347,6 +347,16 @@ Two to three police officers choke a black man on the ground. The woman document
 
 * [From perspective of woman pushed, where we see man being choked](https://twitter.com/greg_doucette/status/1268334584443342850)
 * [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
+
+## San Diego
+
+### Police abduct woman in unmarked van | June 4th
+
+A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
+
+**Links**
+
+* [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
 
 ## San Jose
 
