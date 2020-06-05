@@ -16,6 +16,7 @@ Location: Niagara Square
 **Links**
 * https://twitter.com/WBFO/status/1268712530358292484?s=20
 * https://news.wbfo.org/post/graphic-video-buffalo-police-officers-violently-shove-man-ground
+* https://twitter.com/secretlaith/status/1268251322467450880
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 
 ## Rochester
