@@ -30,10 +30,10 @@ Police are in a van. A man walking on the sidewalk with another man begins to sp
 
 ## Orlando
 
-### Police throw down several peaceful protesters| June 2nd
+### Police use excessive force during an arrest | June 2nd
 
-As seen in the video, the police go after several individuals using excessive force to detail them.
+A police officer grabs a protestor from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
 
 **Links**
 
-* https://twitter.com/ewcfilms/status/1268003421786906627?s=21
+* https://twitter.com/ewcfilms/status/1268003421786906627
