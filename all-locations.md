@@ -1,6 +1,8 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
+UPDATED AT: 2020-06-05T23:02:00.073681+00:00
+
 
 # Alabama
 
