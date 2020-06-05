@@ -329,3 +329,13 @@ In this video, an armored law enforcement vehicle tells protestors over megaphon
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
 
+## Vallejo
+
+### Police fatally shoot unarmed 22 year old | June 1st
+
+"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family."
+
+**Links**
+
+* https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
+
