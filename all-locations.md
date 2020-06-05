@@ -778,6 +778,7 @@ During protests, shots were fired by an unknown shooter. Police returned fire, s
 * [Chief of police resigns](https://edition.cnn.com/2020/06/01/us/louisville-protests-man-shot-dead/index.html)
 * [Police-released CCTV footage of the incident](https://youtu.be/wDg9fev67lw)
 * [Video taken nearby during the shooting](https://mobile.twitter.com/chadloder/status/1267555717751296000)
+* [New York Times video showing four videos synchronized to show the full sequence of events](https://www.nytimes.com/video/us/100000007175316/the-david-mcatee-shooting-did-aggressive-policing-lead-to-a-fatal-outcome.html)
 
 ### Protestors in St. Matthews shot with pepper rounds | June 3rd
 
