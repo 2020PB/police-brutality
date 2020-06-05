@@ -39,7 +39,7 @@ A reporter from Denver 7 news tweeted a photo showing one of their cameramen hol
 
 ### Denver SWAT shoot at woman trying to stop armored car | May 29th
 
-A woman stops an armored SWAT car (number: APC01?) on the corner of Lincoln and 14th. 
+A woman stops an armored SWAT car (number: APC01?) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z). 
 Three armored police get out from back of armored car, one walks around the side and shoots at the woman from what looks like a paintball gun.
 
 **Links**
