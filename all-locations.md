@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-05T23:02:00.073681+00:00
+UPDATED AT: 2020-06-05T23:13:28.679770+00:00
 
 
 # Alabama
@@ -691,14 +691,14 @@ Police confiscate medical supplies from a medical station at Monument Circle.
 
 * https://www.facebook.com/AlexandraIndy/videos/10219444419838711
 
-### Police beating, shoving, and shooting two women | June 1st
+### Police beat woman with batons and shoot pepper balls, shove another to the ground | June 1st
 
-One woman struggled against the officer restraining her, so she and her friend were beaten with batons, shot with rubber bullets, and shoved to the ground.
+A woman is seen being restrained by a police officer who stands behind her with his arms around her torso. She struggles with the officer and breaks free, after which she is repeatedly beaten on the thighs with batons and shot with what appear to be pepper balls by officers shouting "Get on the ground!" while she is standing still. Another woman walks towards the officers with her hands out, seeming to plead for restraint but not directly interfering. An officer yells at her to "Back up!" and then violently shoves her to the ground.
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guffju/indianapolis_police_on_women_rights/
-* https://twitter.com/greg_doucette/status/1268391718086422528 - Angle shows unambiguous sexual assault against first woman by police officer
+* https://twitter.com/greg_doucette/status/1268391718086422528
 
 ## Lafayette
 
