@@ -323,6 +323,15 @@ Sacramento law enforcement shoot shoot protesters and then announce their assemb
 
 * https://www.facebook.com/danny.garza.167/videos/10222535335080905/
 
+### Police choke man and push woman filming event to the ground | June 1st
+
+Two to three police officers choke a black man on the ground. The woman documenting this on video is then pushed away/over.
+
+**Links**
+
+* [From perspective of woman pushed, where we see man being choked](https://twitter.com/greg_doucette/status/1268334584443342850)
+* [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
+
 ## San Jose
 
 ### Police shoot a projectile at a protestor | May 31st
