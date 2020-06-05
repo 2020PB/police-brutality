@@ -37,6 +37,15 @@ A reporter from Denver 7 news tweeted a photo showing one of their cameramen hol
 
 * https://twitter.com/AdiGTV/status/1266554320717099008
 
+### Denver SWAT shoot at woman trying to stop armored car | May 29th
+
+A woman stops an armored SWAT car (number: APC01?) on the corner of Lincoln and 14th. 
+Three armored police get out from back of armored car, one walks around the side and shoots at the woman from what looks like a paintball gun.
+
+**Links**
+
+* https://twitter.com/DoughertyKMGH/status/1266560264918491138/video/1
+
 ### Police throw reporter into fire | May 30th
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
