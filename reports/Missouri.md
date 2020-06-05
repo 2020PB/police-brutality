@@ -35,3 +35,9 @@ A police officer pulls away a protestor standing still. When others come to the 
 
 * https://www.kansascity.com/news/local/article243188436.html
 * https://www.facebook.com/KuhlPics/photos/a.467614509924515/3214027235283215/?type=3&theater
+
+### Police spray protestors walking away and arrest one sprayed in eyes for trying to leave | May 31st
+
+**Links**
+* https://twitter.com/RayVaca/status/1266959833753890816
+* https://twitter.com/whoareyoujudy_/status/1266968858159702017
