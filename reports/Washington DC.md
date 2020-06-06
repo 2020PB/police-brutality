@@ -49,3 +49,11 @@ MSNBC captures Police using flashbangs on peaceful protestors outside the White 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+### Police fire rubber bullets at crowd shaking a fence | June 3rd
+
+In this video, some of the protestors in a crowd can be seen shaking a piece of temporary fencing. In response, police fire rubber bullets into the crowd. 
+
+**Links**
+
+* https://twitter.com/MarkIronsMedia/status/1268046417865715713
