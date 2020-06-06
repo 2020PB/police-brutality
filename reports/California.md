@@ -70,6 +70,15 @@ The police are seen shooting at fleeing protestors and parked vehicles.
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
+### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
+
+An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxf4vn/officer_hwang_of_the_lapd_during_saturdays/
+
+
 ### Police intimidate person filming them by shooting at apartment building | May 30th
 
 The police are seen to threaten and try to scare the residents of the apartment building from which video is taken. At 0:45 a shot is fired by the police in order to get the residents of the apartments off their balconies and into their homes.
@@ -345,4 +354,3 @@ In this video, an armored law enforcement vehicle tells protestors over megaphon
 **Links**
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
-
