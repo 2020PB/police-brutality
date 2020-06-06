@@ -34,3 +34,11 @@ id: va-richmond-3
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
+
+### Officers pepper-spray Virginia state delegate peacefully protesting |
+
+In this video, delegate Lee Carter asks officers questions about their methods in the protests. He is pushed to the ground by an advancing line of law enforcement officers at 1:30 and pepper-sprayed at 2:27.
+
+**Links**
+
+* https://twitter.com/tristanshields/status/1266994214878932993
