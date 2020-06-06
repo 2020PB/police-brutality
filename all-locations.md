@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T17:32:39.201610+00:00
+UPDATED AT: 2020-06-06T17:37:43.015600+00:00
 
 
 # Alabama
@@ -1480,6 +1480,14 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 **Links**
 
 * https://twitter.com/johnknefel/status/1268736946031001607
+
+### Police injure journalist | May 31st
+
+Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
+
+**Links**
+
+* https://twitter.com/tylergabriel_/status/1267287516345925632
 
 ### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
 
