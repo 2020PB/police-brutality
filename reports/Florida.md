@@ -45,7 +45,7 @@ Police open fire on protesters outside of city hall with teargas, flashbands, an
 
 **Links**
 
-*  https://twitter.com/greg_doucette/status/1269017349727928320
+* https://twitter.com/greg_doucette/status/1269017349727928320
 
 
 ### Police box in protesters before curfew for mass arrest | June 3rd
@@ -53,4 +53,5 @@ Police open fire on protesters outside of city hall with teargas, flashbands, an
 Police form barricades using bicycles to trap protesters leaving before curfew. 
 
 **Links**
-*  https://twitter.com/filfranca/status/1268343603832774659
+
+* https://twitter.com/filfranca/status/1268343603832774659
