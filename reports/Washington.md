@@ -1,9 +1,10 @@
-
-## Seattle 
+## Seattle
 
 ### Officer pins protestor by pushing his knee into his neck | May 30th
 
 Officer pins protestor with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
+
+id: wa-seattle-1
 
 **Links**
 
@@ -12,7 +13,9 @@ Officer pins protestor with his knee on his neck. His partner intervenes and mov
 
 ### Police beat unarmed man on the ground | May 31st
 
-A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned. 
+A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned.
+
+id: wa-seattle-2
 
 **Links**
 
@@ -21,7 +24,9 @@ A couple of police officers are seen beating and manhandling an unarmed man. The
 
 ### Police indiscriminately pepper spray peaceful protesters | May 31st
 
-A police officer randomly and indiscriminately pepper sprays civilians walking around, which then went on to spark a riot. 
+A police officer randomly and indiscriminately pepper sprays civilians walking around, which then went on to spark a riot.
+
+id: wa-seattle-3
 
 **Links**
 
@@ -29,7 +34,9 @@ A police officer randomly and indiscriminately pepper sprays civilians walking a
 
 ### Police pepper spray young child | May 31st
 
-Police pepper sprays a young child who is seen crying, while protesters pour milk on the distressed girl. 
+Police pepper sprays a young child who is seen crying, while protesters pour milk on the distressed girl.
+
+id: wa-seattle-4
 
 **Links**
 
@@ -55,6 +62,8 @@ Police strike a journalist, Jo-Ling Kent, live on air with a flashbang.
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
+id: wa-seattle-5
+
 **Links**
 
 * https://twitter.com/catsayshello/status/1268073344814866432
@@ -67,13 +76,15 @@ Video shows officers deploying flashbangs into a crowd of peaceful protesters, a
 * 2020OPA-0326 - May 30 - "Pepper spraying peaceful protesters"
 * 2020OPA-0328 - May 30 - "The use of flashbangs, including causing a significant thumb injury"
 * 2020OPA-0332 - June 1 - "A confrontation between an officer and a male"
-* 2020OPA-0335 - June 1 - "Homeless man hit by an SPD flashbang while sleeping" 
+* 2020OPA-0335 - June 1 - "Homeless man hit by an SPD flashbang while sleeping"
 
 [Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)
 
 ### Police officer pulls protestor to the ground unprovoked | May 31
 
 An officer on a bike pulls down a protestor walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
+
+id: wa-seattle-6
 
 **Links**
 

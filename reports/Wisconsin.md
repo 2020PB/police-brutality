@@ -4,6 +4,8 @@
 
 Ten seconds into the video, in the bottom-left corner, an officer pepper-sprays a protestor who is walking backwards with his arms raised.
 
+id: wi-madison-1
+
 **Links**
 
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20

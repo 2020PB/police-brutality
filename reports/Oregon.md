@@ -6,6 +6,8 @@ An officer shoots a projectile out of a moving vehicle, striking pedestrian near
 
 This incident took place at in Eugene, OR. Specific area not identified.
 
+id: or-eugene-1
+
 **Links**
 
 * https://www.reddit.com/r/Eugene/comments/gurr9r/police_shoot_projectile_from_moving_vehicle_hit/
@@ -17,6 +19,8 @@ This incident took place at in Eugene, OR. Specific area not identified.
 
 The Police try to break up the peaceful protest by resorting to hitting individuals with batons.
 
+id: or-portland-2
+
 **Links**
 
 * https://twitter.com/IwriteOK/status/1266907719635632129 Timestamp: 18:46
@@ -26,6 +30,8 @@ The Police try to break up the peaceful protest by resorting to hitting individu
 
 An officer shoves and pepper-sprays a protestor standing on the other side of a barrier.
 
+id: or-portland-3
+
 **Links**
 
 * https://www.youtube.com/watch?v=01oWE24O9Zw&feature=emb_title
@@ -33,6 +39,8 @@ An officer shoves and pepper-sprays a protestor standing on the other side of a 
 ### Police appear to tear-gas a homeless camp | June 2nd
 
 Actual deployment of tear-gas not shown. Video shows what appears to be a cloud of tear-gas over several tents. The camera thens pans to show 5 cops walking away
+
+id: or-portland-4
 
 **Links**
 
@@ -42,6 +50,8 @@ Actual deployment of tear-gas not shown. Video shows what appears to be a cloud 
 
 Police shoot about a dozen teargas or flashbang grenades into a crowd from quite a distance.
 
+id: or-portland-5
+
 **Links**
 
 * https://twitter.com/matcha_chai/status/1268043556913987584
@@ -50,7 +60,8 @@ Police shoot about a dozen teargas or flashbang grenades into a crowd from quite
 
 Police deploy flashbangs and teargas into a crowd.
 
+id: or-portland-6
+
 **Links**
 
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
-
