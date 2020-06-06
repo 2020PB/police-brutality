@@ -1,3 +1,15 @@
+## Eugene
+
+### Officer shoots projectile from moving vehicle | June 1st
+
+An officer shoots a projectile out of a moving vehicle, striking pedestrian near eyeball.
+
+This incident took place at in Eugene, OR. Specific area not identified.
+
+**Links**
+
+* https://www.reddit.com/r/Eugene/comments/gurr9r/police_shoot_projectile_from_moving_vehicle_hit/
+
 ## Portland
 
 ### Police violently break up peaceful protest | May 30th
