@@ -12,6 +12,14 @@ Michael Adams, correspondent for VICE News, films officers entering a parking lo
 * https://twitter.com/rsdaza/status/1267200011659554824
 * https://twitter.com/MichaelAdams317/status/1267203751913422849
 
+### Continuation of gas station event, Awaijane family told to go inside gas station, they comply and seek shelter inside, the event is then followed by police shooting rubber bullets and tear gas inside the building | May 30th
+
+The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
+
+**Links**
+
+* https://youtu.be/46qWpv-yFE8?t=268
+
 ### Police shoot at a woman on her porch | May 31st
 
 In an attempt to move residents inside, the police fire shots at them.
