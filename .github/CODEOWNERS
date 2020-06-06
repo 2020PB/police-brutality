@@ -1,0 +1,4 @@
+# Order is important; the last matching pattern takes the most precedence
+
+# ubershmekel owns the files related to the data_builder script, but not the files in the downloader directory
+tools/*     @ubershmekel
