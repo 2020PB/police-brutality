@@ -10,7 +10,7 @@ Ten seconds into the video, in the bottom-left corner, an officer pepper-sprays 
 
 ### Police restrain man using knee on neck | June 2nd
 
-Officers restrain a protester by placing a knee on his neck. Article explains incident occurred after two officers collided with each other on bicycles, after which they began striking protesters. 
+Officers restrain a protester by placing a knee on his neck. Article explains incident occurred after two officers collided with each other on bicycles, after which they began striking protesters. Occurred at N. 6th and W. Vliet Streets.
 
 **Links**
 *  http://www.milwaukeeindependent.com/articles/milwaukee-common-council-calls-investigation-use-knee-police-restrain-protestor/
