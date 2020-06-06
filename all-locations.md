@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T00:12:36.282221+00:00
+UPDATED AT: 2020-06-06T00:15:28.805389+00:00
 
 
 # Alabama
@@ -818,6 +818,14 @@ A young woman was injured by a rubber bullet she took to the head.
 
 * [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
+
+### Police shoot at cars in traffic from overpass | May 31st
+
+Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
+
+**Links**
+
+* [Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
 
 ### Restaurant owner shot and killed | June 1st
 
