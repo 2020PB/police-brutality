@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T18:33:24.014769+00:00
+UPDATED AT: 2020-06-06T18:41:02.396610+00:00
 
 
 # Alabama
@@ -702,13 +702,21 @@ One video shows the man on ground being punched in the face. The other shows tha
 
 ## Chicago
 
+### Police pull down and assault a protestor | May 30th
+
+A protestor was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
+
+**Links**
+
+https://twitter.com/alyssa_taylor45
+
 ### Protester shot in head with rubber bullet | May 30th
 
 Images of a protester who was shot with a rubber bullet in the head. 
 
 **Links**
-*  https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
+*  https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 ### Police harass and assault John Cusack | May 31st
 
