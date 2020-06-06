@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T21:16:24.017427+00:00
+UPDATED AT: 2020-06-06T21:56:00.426277+00:00
 
 
 # Alabama
@@ -2839,6 +2839,14 @@ id: dc-dc-5
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+#### Police charge peaceful crowd, beat them with shields |
+
+Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
+
+**Links**
+
+* https://twitter.com/WestofHereFox/status/1267615709791731713
 
 
 
