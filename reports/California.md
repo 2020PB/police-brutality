@@ -70,6 +70,15 @@ The police are seen shooting at fleeing protestors and parked vehicles.
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
+### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
+
+An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxf4vn/officer_hwang_of_the_lapd_during_saturdays/
+
+
 ### Police intimidate person filming them by shooting at apartment building | May 30th
 
 The police are seen to threaten and try to scare the residents of the apartment building from which video is taken. At 0:45 a shot is fired by the police in order to get the residents of the apartments off their balconies and into their homes.
@@ -77,14 +86,6 @@ The police are seen to threaten and try to scare the residents of the apartment 
 **Links**
 
 * https://peertube.slat.org/videos/watch/2dcae21d-6502-41f4-bdf2-9ae40c8e8cee
-
-### Los Angeles law enforcement harass a man and swing at his bike | May 30th
-
-Actor John Cusack has a confrontation with police where they continuously shout at him to move as he's doing so and hitting his bike with batons.  
-
-**Links**
-
-* https://twitter.com/johncusack/status/1266953514242228229
 
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
@@ -102,6 +103,14 @@ ABC7 reporters are hit by a cloud of tear gas after protesters were gassed up th
 **Links**
 
 * https://twitter.com/GMA/status/1266934049098121216
+
+### Police beat protesters with batons | May 30th
+
+In the video, protesters can be seen kneeling. Police swing batons at several protesters pressed against the side of a building.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
@@ -284,14 +293,17 @@ A group of police officers carry a woman into an unmarked van. They state they w
 
 ## San Jose
 
-### Police shoot a projectile at a protestor | May 31st
+### Police shoot a projectile at a protestor | May 29th
 
-A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests. 
+A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests yelling "let's get this motherfucker".
 
 **Links**
 
+* https://twitter.com/junkieanteater/status/1266603252839141377
 * https://www.reddit.com/r/PublicFreakout/comments/gtksgq/cop_decides_to_shoot_at_protestor_who_hurt_his/
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
+* https://twitter.com/bowiezamudio/status/1266598285206106113
+* https://twitter.com/kakimeows/status/1266982771005616128
 
 
 ## Santa Ana
@@ -353,4 +365,3 @@ In this video, an armored law enforcement vehicle tells protestors over megaphon
 **Links**
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
-

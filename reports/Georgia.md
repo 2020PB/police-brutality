@@ -1,6 +1,14 @@
 
 ## Atlanta
 
+### Officer body slams woman onto ground | May 29th
+
+On May 29th, an officer slams a woman on to the ground, breaking her clavicle. The incident took place near Lenox Square mall in the Buckhead area of Atlanta.
+
+**Links**
+
+* https://www.cnn.com/2020/06/05/us/atlanta-police-body-slam-woman/index.html
+
 ### Officer shoves a woman with his bike | May 30th
 
 Police officer is seen shoving two women off onto the side with his bicycle. 
@@ -18,6 +26,8 @@ Despite the woman showing no resistance, the policeman grabs her and pulls her o
 * https://twitter.com/danielvankirk/status/1266947767840063489
 * https://www.instagram.com/p/CA27quMhqJA/
 * https://twitter.com/SarahBaska/status/1267308455225774080?s=20
+* [News Report, The Evening Standard](https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0)
+
 
 ## Lawrenceville
 
