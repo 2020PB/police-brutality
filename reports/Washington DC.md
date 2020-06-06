@@ -49,3 +49,12 @@ MSNBC captures Police using flashbangs on peaceful protestors outside the White 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+### Law enforcement officers throw stinger grenades at peaceful protestors | Junes 3rd
+
+In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268297598856765441
+* https://twitter.com/greg_doucette/status/1268297598856765441
