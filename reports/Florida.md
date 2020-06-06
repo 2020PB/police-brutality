@@ -8,6 +8,7 @@ It is seen in the video that while the people were protesting, a few cops tried 
 
 * https://twitter.com/thickliljawn/status/1267239498083110913
 
+
 ### Law enforcement shoot a woman in the head | May 31st
 
 A line of police officers are standing in front of a building with shields, and protesters can be seen filming them with phones. A shot is heard, and a woman collapses. A news report indicates that she was hit with a foam rubber bullet in her head just above the right eye, fracturing her eye socket.
@@ -37,6 +38,16 @@ A police officer grabs a protestor from behind (light grey hoodie), pull him out
 **Links**
 
 * https://twitter.com/ewcfilms/status/1268003421786906627
+
+### Police fire on protesters outside city hall | Date unknown
+
+Police open fire on protesters outside of city hall with teargas, flashbands, and apparently rubber bullets.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269017349727928320
+* [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
+
 
 ## Tampa
 

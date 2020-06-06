@@ -98,7 +98,8 @@ A mounted police officer in Houston trampled a woman with his horse. It appeared
 
 **Links**
 
-* https://twitter.com/vikthewild/status/1266538354939756544
+* [Video of trampling](https://twitter.com/vikthewild/status/1266538354939756544)
+* [abc13 article](https://abc13.com/hpd-uns-over-girl-police-on-horse-tramples-protester-george-floyd/6223240/)
 
 ### Officers shove a woman to the pavement | May 29th
 
@@ -135,6 +136,15 @@ These two images show the injuries of an individual who had been shot in the eye
 **Links**
 
 * https://imgur.com/a/IOuyzHE
+
+### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
+
+On June 2nd, protestors are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
+* [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
 
 ## San Antonio
 
