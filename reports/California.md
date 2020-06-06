@@ -276,14 +276,17 @@ A group of police officers carry a woman into an unmarked van. They state they w
 
 ## San Jose
 
-### Police shoot a projectile at a protestor | May 31st
+### Police shoot a projectile at a protestor | May 29th
 
-A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests. 
+A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests yelling "let's get this motherfucker".
 
 **Links**
 
+* https://twitter.com/junkieanteater/status/1266603252839141377
 * https://www.reddit.com/r/PublicFreakout/comments/gtksgq/cop_decides_to_shoot_at_protestor_who_hurt_his/
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
+* https://twitter.com/bowiezamudio/status/1266598285206106113
+* https://twitter.com/kakimeows/status/1266982771005616128
 
 
 ## Santa Ana
