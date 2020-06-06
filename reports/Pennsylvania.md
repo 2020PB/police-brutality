@@ -52,6 +52,8 @@ A man is being held on the ground by a police officer, who forces the man's hand
 
 An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
 
+Location: [Interstate 676 between N 20th/21st St](https://www.google.com/maps/place/2053+Vine+St,+Philadelphia,+PA+19103,+USA/@39.9595383,-75.1746173,18z/data=!3m1!4b1!4m5!3m4!1s0x89c6c634c7345f49:0x40d2e85b82db34fb!8m2!3d39.9595362!4d-75.173523)
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guve5f/philadelphia_police_traps_protesters_on_highway/
