@@ -122,7 +122,7 @@ A woman who says she was simply walking home with groceries was shot in the face
 
 ### Police use flashbangs and tear gas on protestors | May 31st
 
-The video shows an individual trying to escape, what seems to be loud explosions.
+The first-person video shows an individual running away from what seem to be loud explosions.
 
 **Links**
 
