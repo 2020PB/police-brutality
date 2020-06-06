@@ -9,12 +9,13 @@ id: mo-kansascity-1
 **Links**
 * https://twitter.com/imunoz03/status/1266908372881768448
 
-### Kansas City police attempt to arrest a man leading the protest then spray the crowd.
+### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
 
 id: mo-kansascity-2
 
 **Links**
 
+* https://twitter.com/Elise_Villa/status/1267310319526989824
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
 
 ### Police arrest man for speaking and teargas nearby protestors | June 1st
