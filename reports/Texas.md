@@ -128,6 +128,14 @@ The video shows a certain individual trying to escape, what seems to be loud exp
 
 * https://twitter.com/xtranai/status/1266898175568338945
 
+### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
+
+On June 2nd, protestors are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
