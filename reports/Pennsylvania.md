@@ -48,9 +48,9 @@ A man is being held on the ground by a police officer, who forces the man's hand
 
 * https://twitter.com/mkultranews/status/1267305587206807553
 
-### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them | June 1st
+### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
 
-Over 30 protesters are standing in the grassy area beside a highway. Police on the highway throw tear gas canisters into the crowd of protesters. Some protesters try to throw the canisters back. A woman says "I can't breathe".
+An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
 
 **Links**
 
