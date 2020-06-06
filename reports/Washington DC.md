@@ -49,3 +49,9 @@ MSNBC captures Police using flashbangs on peaceful protestors outside the White 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+### Law enforcement uses tear gas and flash grenades to clear peaceful protestors | June 1st
+
+**Links**
+
+* https://twitter.com/nytimes/status/1267638330654625794
