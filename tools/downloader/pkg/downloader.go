@@ -5,9 +5,11 @@ import (
 	"encoding/csv"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"net/http"
 	"os"
 	"os/exec"
+	"strings"
 	"sync"
 	"time"
 
@@ -128,6 +130,19 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 	}
 	// wait for pending download operations to finish
 	wg.Wait()
+	// read download dir to check for any file artifacts
+	infos, err := ioutil.ReadDir(d.path)
+	if err != nil {
+		return err
+	}
+	for _, info := range infos {
+		// this was an incorrectly downloaded piece of data, remove
+		if strings.HasSuffix(info.Name(), ".part") {
+			if err := os.Remove(d.path + "/" + info.Name()); err != nil {
+				d.logger.Error("failed to remove file part", zap.String("file", info.Name()), zap.Error(err))
+			}
+		}
+	}
 	// open csv file to store mappings
 	fh, err := os.Create("name_mapping.csv")
 	if err != nil {
