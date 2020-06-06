@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T18:11:20.998956+00:00
+UPDATED AT: 2020-06-06T18:13:45.782753+00:00
 
 
 # Alabama
@@ -1472,6 +1472,14 @@ Officer is seen here brandishing what appears to be a handgun and pointing it at
 **Links**
 
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
+
+### Police beat protesters leaving Stonewall Inn solidarity protest | June 2nd
+
+Police beat protesters leaving Stonewall Inn after a demonstration honoring queer and people of color who died at hands of police, in solidarity with George Floyd. One man had his arm broken and required multiple staples to close wounds on his head.
+
+**Links**
+
+* https://www.lgbtqnation.com/2020/06/cops-beat-lgbtq-protestors-leaving-demonstration-stonewall-inn/
 
 ### Officers beat man with batons
 
