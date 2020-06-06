@@ -78,14 +78,6 @@ The police are seen to threaten and try to scare the residents of the apartment 
 
 * https://peertube.slat.org/videos/watch/2dcae21d-6502-41f4-bdf2-9ae40c8e8cee
 
-### Los Angeles law enforcement harass a man and swing at his bike | May 30th
-
-Actor John Cusack has a confrontation with police where they continuously shout at him to move as he's doing so and hitting his bike with batons.  
-
-**Links**
-
-* https://twitter.com/johncusack/status/1266953514242228229
-
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
 Los Angeles law enforcement beat several protesters with batons.
