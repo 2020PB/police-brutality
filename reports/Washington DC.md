@@ -49,3 +49,13 @@ MSNBC captures Police using flashbangs on peaceful protestors outside the White 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protestor and CNN crew | 3rd June
+
+In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
+
+**Links**
+
+* https://twitter.com/MarkIronsMedia/status/1268046417865715713
+* https://twitter.com/MarkIronsMedia/status/1268062053182443522
+* https://twitter.com/gifdsports/status/1268041853196275712
