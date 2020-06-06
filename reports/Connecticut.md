@@ -9,7 +9,7 @@ Officer forces man into cop car and wrestles with woman on her phone.
 
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
 
-### Cops tackle protestors | May 31st
+### Police tackle and detain 6 protestors | May 31st
 
 Waterbury police have detained at least 6 people. Police had warned several times that those who remained on Wolcott St. would be subject to arrest.  #NBCCT
 
