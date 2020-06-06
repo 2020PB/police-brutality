@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T17:37:43.015600+00:00
+UPDATED AT: 2020-06-06T17:40:44.485115+00:00
 
 
 # Alabama
@@ -719,6 +719,15 @@ Police pepperspray reporter holding press pass and yelling press.
 
 * https://twitter.com/JCB_Journo/status/1266897672545480706
 
+### Cops hit Chicago Police Board President | May 31st
+
+Cops struck Ghian Foreman, the Chicago Police Board President, five times in the legs with batons. He has filed a complaint with the Citizens Office of Police Accountability.
+
+Location: Hyde Park
+
+**Links**
+
+* https://news.wttw.com/2020/06/05/police-board-president-officers-struck-me-5-times-their-batons-during-protest
 
 ### Video showing CPD officer punching protester in Uptown under investigation | June 1st
 
