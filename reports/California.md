@@ -72,7 +72,7 @@ The police are seen shooting at fleeing protestors and parked vehicles.
 
 ### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
 
-An officer, who was identified as Officer Hwang by an eye-witness who filmed the incident on their chest mounted GoPro camera, is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
+An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
 **Links**
 
@@ -350,4 +350,3 @@ In this video, an armored law enforcement vehicle tells protestors over megaphon
 **Links**
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
-
