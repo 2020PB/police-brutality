@@ -72,7 +72,10 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		reader = csv.NewReader(resp.Body)
 	)
 	for i := 0; ; i++ {
-		if maxDownloads != 0 && i >= maxDownloads {
+		// the first read from the CSV file will be the header
+		// so we need to make sure that we factor that in when
+		// counting max downloads
+		if maxDownloads != 0 && i >= maxDownloads+1 {
 			break
 		}
 		// read the next record
