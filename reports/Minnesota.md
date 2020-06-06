@@ -11,6 +11,7 @@ Michael Adams, correspondent for VICE News, films officers entering a parking lo
 * https://twitter.com/MichaelAdams317/status/1266945268567678976
 * https://twitter.com/rsdaza/status/1267200011659554824
 * https://twitter.com/MichaelAdams317/status/1267203751913422849
+* https://www.vice.com/en_us/article/y3zd7g/i-told-riot-cops-im-a-journalist-they-forced-me-to-the-ground-and-pepper-sprayed-me-in-the-face
 
 ### Police shoot at a woman on her porch | May 31st
 
