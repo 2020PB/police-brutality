@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T18:41:02.396610+00:00
+UPDATED AT: 2020-06-06T18:42:39.703721+00:00
 
 
 # Alabama
@@ -386,14 +386,17 @@ A group of police officers carry a woman into an unmarked van. They state they w
 
 ## San Jose
 
-### Police shoot a projectile at a protestor | May 31st
+### Police shoot a projectile at a protestor | May 29th
 
-A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests. 
+A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests yelling "let's get this motherfucker".
 
 **Links**
 
+* https://twitter.com/junkieanteater/status/1266603252839141377
 * https://www.reddit.com/r/PublicFreakout/comments/gtksgq/cop_decides_to_shoot_at_protestor_who_hurt_his/
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
+* https://twitter.com/bowiezamudio/status/1266598285206106113
+* https://twitter.com/kakimeows/status/1266982771005616128
 
 
 ## Santa Ana
