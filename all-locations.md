@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T18:42:39.703721+00:00
+UPDATED AT: 2020-06-06T18:49:29.846500+00:00
 
 
 # Alabama
@@ -51,7 +51,7 @@ A Huntsville PD Lieutenant stated that they used tear gas on protestors before v
 
 ### Officer tackles and arrests person walking home from protest | May 30th
 
-An officer tackles a protestor that is walking home. The officer screams "put your heands behind your head" twice and then "stop resisting" twice, the protestor responds "I'm not". The officer yells "put your heands behind your head" several times, and the protestor responds "I'm trying". 
+An officer tackles a protestor that is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice, the protestor responds "I'm not". The officer yells "put your hands behind your head" several times, and the protestor responds "I'm trying". 
 
 **Links**
 
