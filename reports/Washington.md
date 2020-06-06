@@ -91,3 +91,13 @@ id: wa-seattle-6
 * https://twitter.com/EDDIFUL/status/1267338642617364481
 * https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
+
+## Spokane
+
+### Law enforcement officers fire on kneeling protestors | Jne 5th
+
+In this video, officers shoot rubber bullets at a group protestors kneeling with their hands up.
+
+**Links**
+
+* https://twitter.com/nytimes/status/1267638330654625794
