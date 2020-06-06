@@ -28,6 +28,8 @@ Police pepperspray reporter holding press pass and yelling press.
 
 Cops struck Ghian Foreman, the Chicago Police Board President, five times in the legs with batons. He has filed a complaint with the Citizens Office of Police Accountability.
 
+Location: Hyde Park
+
 **Links**
 
 * https://news.wttw.com/2020/06/05/police-board-president-officers-struck-me-5-times-their-batons-during-protest
