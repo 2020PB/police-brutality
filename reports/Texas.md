@@ -4,6 +4,8 @@
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds.
 
+pb-id: tx-austin-1
+
 **Links**
 
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
@@ -12,6 +14,8 @@ A 20-year-old black man is hospitalized in critical condition after police shot 
 
 ### Police assault protesters | (believed to be) May 30th
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
+
+pb-id: tx-austin-2
 
 **Links**
 
@@ -22,6 +26,8 @@ A group of protesters waving signs in front of a group of police officers was su
 Here, a non-violent protestor can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
 
 In the aftermath other protestors help the victim who is bleeding from a large head wound.
+
+pb-id: tx-austin-3
 
 **Links**
 
@@ -35,6 +41,8 @@ In the aftermath other protestors help the victim who is bleeding from a large h
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
 
+pb-id: tx-austin-4
+
 **Links**
 
 * https://twitter.com/highsettler/status/1266876480929349633
@@ -45,6 +53,8 @@ Protesters and Austin police squared off at the protest on I-35. Officers were s
 
 Police were seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters downtown. Current source videos are from a distance of about 100-200 feet and it is unclear what exactly caused the officers to begin firing.
 
+pb-id: tx-austin-5
+
 **Links**
 
 * https://twitter.com/ironfront7/status/1267133400156196870
@@ -52,6 +62,8 @@ Police were seen firing multiple shots of what were allegedly rubber bullets int
 ### Police open fire on crowd after a protester throws water on them | May 31st
 
 Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
+
+pb-id: tx-austin-6
 
 **Links**
 
@@ -61,7 +73,9 @@ Police are seen firing multiple shots of what were allegedly rubber bullets into
 
 ### Police spray a man in the face while he stands still ~3 feet away from them. | May 31st
 
-A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face. 
+A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face.
+
+pb-id: tx-austin-7
 
 **Links**
 
@@ -71,6 +85,8 @@ A man wearing glasses and with his hands in his pockets stands still approximate
 ### Police fire upon protesters seeking medical help | June 2nd
 
 Volunteer medics were advised to bring a critically wounded protestor to the police line for medical attention and were subsequently fired upon.
+
+pb-id: tx-austin-8
 
 **Links**
 
@@ -85,6 +101,8 @@ Volunteer medics were advised to bring a critically wounded protestor to the pol
 
 Cop in Baytown Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
 
+pb-id: tx-baytown-9
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gw2dpw/cop_in_baytown_tx_pulls_over_black_man_white_man/
@@ -96,6 +114,8 @@ Cop in Baytown Texas pulls over a black man. A white man is on the phone talking
 
 A mounted police officer in Houston trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
 
+pb-id: tx-houston-10
+
 **Links**
 
 * https://twitter.com/vikthewild/status/1266538354939756544
@@ -103,6 +123,8 @@ A mounted police officer in Houston trampled a woman with his horse. It appeared
 ### Officers shove a woman to the pavement | May 29th
 
 A large group of police officers were walking down the street when a woman standing near them was forcefully shoved to the ground by a police officer.
+
+pb-id: tx-houston-11
 
 **Links**
 
@@ -114,6 +136,8 @@ A large group of police officers were walking down the street when a woman stand
 
 A woman who says she was simply walking home with groceries was shot in the face with a rubber bullet by Dallas police. She was seen bleeding profusely and some officers attempted to help her immediately afterwards.
 
+pb-id: tx-dallas-12
+
 **Links**
 
 * https://twitter.com/KevinRKrause/status/1266898396339675137
@@ -124,6 +148,8 @@ A woman who says she was simply walking home with groceries was shot in the face
 
 The video shows a certain individual trying to escape, what seems to be loud explosions. These loud explosions could be attributed to the tear gas and flashbangs that the police were using.
 
+pb-id: tx-dallas-13
+
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
@@ -133,6 +159,8 @@ The video shows a certain individual trying to escape, what seems to be loud exp
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
 
 A man was filming police walking down the street and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
+
+pb-id: tx-sanantonio-14
 
 **Links**
 

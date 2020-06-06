@@ -3,6 +3,8 @@
 ### Police Individually Target Peaceful Protestor and Arrest Him | May 31st
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
+pb-id: sc-charleston-1
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guxm5o/police_arresting_a_peaceful_protestor_for_simply/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
@@ -13,7 +15,7 @@ A man in Charleston peacefully leading a protest is suddenly singled out, brough
 ## Location Unknown
 
 ### Police Assault Suspect on Ground During Arrest | June 3rd
-A man is arrested by police, who force him on the ground and begin punching him for over a minute. 
+A man is arrested by police, who force him on the ground and begin punching him for over a minute.
 
 **Link**
 *   https://twitter.com/track4life_bry/status/1268313958479532034

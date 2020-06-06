@@ -4,6 +4,8 @@
 
 Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
 
+pb-id: ny-buffalo-1
+
 **Links**
 * https://twitter.com/secretlaith/status/1268251322467450880
 
@@ -14,6 +16,8 @@ Two police officers shove an unarmed, elderly man ([reportedly 75 years old](htt
 Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved.
 
 Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
+
+pb-id: ny-buffalo-2
 
 **Links**
 
@@ -29,6 +33,8 @@ Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/
 
 Police are seen shooting at individuals who were recording an incident.
 
+pb-id: ny-rochester-3
+
 **Links**
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
@@ -38,7 +44,9 @@ Police are seen shooting at individuals who were recording an incident.
 
 ### Police officer body slams protestor | June 2nd
 
-A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first. 
+A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first.
+
+pb-id: ny-newyorkcity-4
 
 **Links**
 
@@ -50,6 +58,8 @@ A police officer comes from behind a protestor, lifts him over shoulder height a
 
 A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
 
+pb-id: ny-newyorkcity-5
+
 **Links**
 
 * https://twitter.com/Stoney_Holiday/status/1266616250685444096
@@ -57,7 +67,9 @@ A police officer flings a man against the side of a police car, knocking him unc
 
 ### Police pull off protesters mask to pepper spray him | May 31st
 
-A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened. 
+A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened.
+
+pb-id: ny-newyorkcity-6
 
 **Links**
 
@@ -66,7 +78,9 @@ A police officer forcefully pulls off a protestors face mask and pepper sprays h
 
 ### NYPD beat people with batons | May 30th
 
-The NYPD Squad are seen beating protestors with batons and pushing them around. 
+The NYPD Squad are seen beating protestors with batons and pushing them around.
+
+pb-id: ny-newyorkcity-7
 
 **Links**
 
@@ -76,6 +90,8 @@ The NYPD Squad are seen beating protestors with batons and pushing them around.
 
 A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
 
+pb-id: ny-newyorkcity-8
+
 **Links**
 
 * https://twitter.com/ZachReports/status/1266557305107202049
@@ -83,7 +99,9 @@ A police officer shoves a man repeatedly off the road and into a metal fence by 
 
 ### Cop shoving a person to the ground towards metal trash bins | May 30th
 
-An NYPD officer pushes a civilian down towards trash cans. 
+An NYPD officer pushes a civilian down towards trash cans.
+
+pb-id: ny-newyorkcity-9
 
 **Links**
 
@@ -92,16 +110,20 @@ An NYPD officer pushes a civilian down towards trash cans.
 
 ### NYPD rams protesters | May 31st
 
-A NYPD squad car is driven into civilians, ramming them out of its path. 
+A NYPD squad car is driven into civilians, ramming them out of its path.
+
+pb-id: ny-newyorkcity-10
 
 **Links**
 
 * https://twitter.com/pgarapon/status/1266885414016688134
 * https://twitter.com/mkultranews/status/1266893237450498048
 
-### Police assault protesters | May 31st 
+### Police assault protesters | May 31st
 
-Police officers are seen beating and assaulting men and women for standing around peacefully. 
+Police officers are seen beating and assaulting men and women for standing around peacefully.
+
+pb-id: ny-newyorkcity-11
 
 **Links**
 
@@ -110,6 +132,8 @@ Police officers are seen beating and assaulting men and women for standing aroun
 ### Police shove woman to the ground, inducing a seizure | May 29th
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
+
+pb-id: ny-newyorkcity-12
 
 **Links**
 
@@ -123,6 +147,8 @@ Woman was sent to the ER due to seizure caused by policeman flinging her to the 
 
 Policeman deliberately opens car door to knock an individual down to the ground.
 
+pb-id: ny-newyorkcity-13
+
 **Links**
 
 * https://twitter.com/DriveWendys/status/1266555286678048770
@@ -130,6 +156,8 @@ Policeman deliberately opens car door to knock an individual down to the ground.
 ### State senator pepper sprayed | May 31st
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
+
+pb-id: ny-newyorkcity-14
 
 **Links**
 
@@ -139,6 +167,8 @@ Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
 Protestors had their hands up, yet were pepper sprayed in the face.
 
+pb-id: ny-newyorkcity-15
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gu2u28/more_documented_aggression_in_flatbush_brooklyn/
@@ -146,6 +176,8 @@ Protestors had their hands up, yet were pepper sprayed in the face.
 ### Huffpost reporter is arrested by NYPD | May 30th
 
 Despite clearly identifying himself, the reporter was taken into custody during a protest.
+
+pb-id: ny-newyorkcity-16
 
 **Links**
 
@@ -156,6 +188,8 @@ Despite clearly identifying himself, the reporter was taken into custody during 
 
 Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays Centre.
 
+pb-id: ny-newyorkcity-17
+
 **Links**
 
 * https://twitter.com/GwynneFitz/status/1266522692326428672
@@ -164,6 +198,8 @@ Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays 
 
 Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
 
+pb-id: ny-newyorkcity-18
+
 **Links**
 
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
@@ -171,6 +207,8 @@ Officer is seen here brandishing what appears to be a handgun and pointing it at
 ### Officers beat man with batons
 
 Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
+
+pb-id: ny-newyorkcity-19
 
 **Links**
 
@@ -182,12 +220,16 @@ Police are seen here beating a man trying to escape, hitting him multiple times 
 
 A man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
+pb-id: ny-newyorkcity-20
+
 **Links**
 
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
+
+pb-id: ny-newyorkcity-21
 
 **Links**
 

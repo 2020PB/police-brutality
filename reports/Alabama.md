@@ -1,8 +1,10 @@
-## Huntsville 
+## Huntsville
 
 ### Protester falls and is stepped on | June 1st
 
 During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
+
+pb-id: al-huntsville-1
 
 **Links**
 
@@ -13,6 +15,8 @@ During an altercation with protesters, a woman falls to the ground and other pro
 
 Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason.
 
+pb-id: al-huntsville-2
+
 **Links**
 
 *  https://twitter.com/bitchthot420/status/1268350308398268416
@@ -22,6 +26,8 @@ Police officer exits his vehicle and begins pepper spraying protestors for no ap
 
 Police use tear gas on reporters and protestors, who are then initially blocked from leaving the area by other officers.
 
+pb-id: al-huntsville-3
+
 **Links**
 
 *  https://twitter.com/greg_doucette/status/1268397070563414016
@@ -30,6 +36,8 @@ Police use tear gas on reporters and protestors, who are then initially blocked 
 ### Police preemptively tear gas peaceful protestors | June 3rd
 
 A Huntsville PD Lieutenant stated that they used tear gas on protestors before violence occurred, adding that "they weren't going to roll the dice".
+
+pb-id: al-huntsville-4
 
 **Links**
 

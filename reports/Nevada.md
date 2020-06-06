@@ -4,6 +4,8 @@
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
 
+pb-id: nv-lasvegas-1
+
 **Links**
 
 * https://twitter.com/LasVegasLocally/status/1267210841595604992
@@ -12,6 +14,8 @@ Police were seen walking a detained man down the sidewalk before grabbing a man 
 ### Police charge into peaceful crowd shouting "grab anybody" | June 1st
 
 LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
+
+pb-id: nv-lasvegas-2
 
 **Links**
 

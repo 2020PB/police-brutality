@@ -3,7 +3,9 @@
 
 ### Officer shoves a woman with his bike | May 30th
 
-Police officer is seen shoving two women off onto the side with his bicycle. 
+Police officer is seen shoving two women off onto the side with his bicycle.
+
+pb-id: ga-atlanta-1
 
 **Links**
 
@@ -12,6 +14,8 @@ Police officer is seen shoving two women off onto the side with his bicycle.
 ### Cops pull people out of their car, taze them | May 30th
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to taze her.
+
+pb-id: ga-atlanta-2
 
 **Links**
 
@@ -25,6 +29,8 @@ Despite the woman showing no resistance, the policeman grabs her and pulls her o
 ### Man tased in back for speaking up after man on ground is punched in face by cop | May 30th
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
+
+pb-id: ga-lawrenceville-3
 
 **Links**
 

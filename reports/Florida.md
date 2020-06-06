@@ -4,6 +4,8 @@
 
 It is seen in the video that while the people were protesting, a few cops tried dispersing them, and shoved a woman to her knees, and later hit her on the head.
 
+pb-id: fl-fortlauderdale-1
+
 **Links**
 
 * https://twitter.com/thickliljawn/status/1267239498083110913
@@ -11,6 +13,8 @@ It is seen in the video that while the people were protesting, a few cops tried 
 ### Law enforcement shoot a woman in the head | May 31st
 
 A line of police officers are standing in front of a building with shields, and protesters can be seen filming them with phones. A shot is heard, and a woman collapses. A news report indicates that she was hit with a foam rubber bullet in her head just above the right eye, fracturing her eye socket.
+
+pb-id: fl-fortlauderdale-2
 
 **Links**
 
@@ -23,6 +27,8 @@ A line of police officers are standing in front of a building with shields, and 
 
 Police are in a van. A man walking on the sidewalk with another man begins to speak to them. An officer exits the van and grabs the first man. Other officers standing nearby tackle the man to the ground and then chase after the second man. The video then cuts to the first man being led away in restraints by two officers.
 
+pb-id: fl-miami-3
+
 **Links**
 
 * https://twitter.com/BillyCorben/status/1267644127178563588
@@ -34,6 +40,8 @@ Police are in a van. A man walking on the sidewalk with another man begins to sp
 
 A police officer grabs a protestor from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
 
+pb-id: fl-orlando-4
+
 **Links**
 
 * https://twitter.com/ewcfilms/status/1268003421786906627
@@ -43,6 +51,8 @@ A police officer grabs a protestor from behind (light grey hoodie), pull him out
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
 
 Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer.
+
+pb-id: fl-tampa-5
 
 **Links**
 

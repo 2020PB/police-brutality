@@ -4,12 +4,16 @@
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him.
 
+pb-id: il-chicago-1
+
 **Links**
 * https://twitter.com/johncusack/status/1266938983575101441
 
 ### Police pull black women out of the car and throw them to the ground | May 31st
 
 Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive).
+
+pb-id: il-chicago-2
 
 **Links**
 * https://twitter.com/cruzzzyc/status/1267185423333199874
@@ -20,6 +24,8 @@ Police are seen attacking a car and pulling two black women out of a car and sho
 
 Police pepperspray reporter holding press pass and yelling press.
 
+pb-id: il-chicago-3
+
 **Links**
 
 * https://twitter.com/JCB_Journo/status/1266897672545480706
@@ -28,6 +34,8 @@ Police pepperspray reporter holding press pass and yelling press.
 ### Video showing CPD officer punching protester in Uptown under investigation | June 1st
 
 CPD officer chasing down and punching a protestor who was walking away
+
+pb-id: il-chicago-4
 
 **Links**
 

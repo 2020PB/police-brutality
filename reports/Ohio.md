@@ -5,6 +5,8 @@
 
 A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
 
+pb-id: oh-cincinnati-1
+
 **Links**
 
 * https://twitter.com/kodyfishertv/status/1266901735198638082
@@ -12,6 +14,8 @@ A peaceful protest was dispersed with tear gas and flash bangs, with police shoo
 ### First hand account of police violently dispersing crowds | May 31st
 
 This account describes police firing teargas at protestors and beating them 30 minutes before curfew.
+
+pb-id: oh-cincinnati-2
 
 **Links**
 
@@ -31,6 +35,8 @@ Police are seen arresting a protester while an officer wildly swings his baton a
 
 Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
 
+pb-id: oh-columbus-3
+
 **Links**
 
 * https://www.cnn.com/2020/05/30/politics/joyce-beatty-ohio-pepper-sprayed-columbus-protest/index.html
@@ -40,7 +46,9 @@ Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace
 
 ### Peaceful protester sprayed in the face with mace | May 30th
 
-Seemingly without warning a protester simply holding a sign was maced in the face. 
+Seemingly without warning a protester simply holding a sign was maced in the face.
+
+pb-id: oh-columbus-4
 
 **Links**
 
@@ -50,6 +58,8 @@ Seemingly without warning a protester simply holding a sign was maced in the fac
 
 Unarmed protestors peacefully chanting when an officer starts randomly pepperspraying them.
 
+pb-id: oh-columbus-5
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266878189537824772
@@ -57,6 +67,8 @@ Unarmed protestors peacefully chanting when an officer starts randomly pepperspr
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
+
+pb-id: oh-columbus-6
 
 **Links**
 * https://twitter.com/Katy38105157/status/1266816739444166656
@@ -66,6 +78,8 @@ Police point blank pepper spray a medic who was tending to a protestor
 
 Police pepper spray a woman who was walking away from the confrontation
 
+pb-id: oh-columbus-7
+
 **Links**
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
 * https://twitter.com/MarioLeUgly/status/1266933807929798656
@@ -73,6 +87,8 @@ Police pepper spray a woman who was walking away from the confrontation
 ### Police intimidating campus protesters by driving car towards them | May 31st
 
 Police drive their car towards protestors in order to disperse them
+
+pb-id: oh-columbus-8
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
@@ -83,6 +99,8 @@ Location:  Intersection of E Broad Street and S Grant Avenue
 
 Two protesters are kneeling in a crosswalk across the intersection from a line of police. A police officer walks over and pepper sprays them.
 
+pb-id: oh-columbus-9
+
 **Links**
 
 * https://twitter.com/DabinDhillo/status/1266892095702392832
@@ -91,6 +109,8 @@ Two protesters are kneeling in a crosswalk across the intersection from a line o
 ### Police pepper spray African-American photographer | May 31st
 
 Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
+
+pb-id: oh-columbus-10
 
 **Links**
 
@@ -102,6 +122,8 @@ Photographer being sprayed while seemingly calmly standing 10 feet away from the
 
 Police pepperspraying peaceful unarmed protestors as they sit on the ground.
 
+pb-id: oh-columbus-11
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267102580070592512
@@ -109,6 +131,8 @@ Police pepperspraying peaceful unarmed protestors as they sit on the ground.
 ### Woman holding a sign is shot with rubber bullets | May 31st
 
 A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
+
+pb-id: oh-columbus-12
 
 **Links**
 
@@ -118,6 +142,8 @@ A woman standing alone holding a sign is shot with rubber bullets. She falls to 
 ### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours | May 31st-June 1st
 
 A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
+
+pb-id: oh-columbus-13
 
 **Links**
 
@@ -130,6 +156,8 @@ Location: Starbucks at the intersection of Lane Avenue and North High Street
 
 Three reporters repeatedly tell police that they are members of the press and show their passes. Reporters are exempt from curfew but the police instruct them to leave regardless, then spray the Lantern reporters with pepper spray.
 
+pb-id: oh-columbus-14
+
 **Links**
 
 * https://www.thelantern.com/2020/06/columbus-mayor-police-chief-address-protest-policing-pepper-spray-of-lantern-journalists/
@@ -140,9 +168,10 @@ Three reporters repeatedly tell police that they are members of the press and sh
 
 Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
 
+pb-id: oh-columbus-15
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
-
