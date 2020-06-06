@@ -1,5 +1,13 @@
 ## Chicago
 
+### Police pull down and assault a protestor | May 30th
+
+A protestor was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
+
+**Links**
+
+https://twitter.com/alyssa_taylor45
+
 ### Police harass and assault John Cusack | May 31st
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him.
