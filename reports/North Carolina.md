@@ -23,10 +23,11 @@ Police destroy supplies, including food and water, at a medical station. Medics 
 
 ## Raleigh
 
-### Police shoot to intimidate a business owner on his property | June 2nd
+### Police shoot to intimidate owner of LGBTQ bar | June 2nd
 
-A group of police approach a man who was apparently not a protestor, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
+A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protestor himself, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
 **Links**
 
 * https://www.instagram.com/p/CA51AJxH7S9 (on the sixth page)
+* https://www.newsobserver.com/news/local/article243202416.html
