@@ -13,8 +13,8 @@
 # Install python dependencies first
 pip install -r requirements.txt
 
-# Run script
-python data_builder.py
+# Run script from within root directory of project
+python tools/data_builder.py
 ```
 
 ## Tests

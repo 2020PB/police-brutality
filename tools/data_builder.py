@@ -34,15 +34,17 @@ def title_to_name_date(line):
     parts = line.split('|')
     name = parts[0].strip()
     if len(parts) == 1:
+        print(f"Failed date parse: missing date for {line}")
         return line.strip(), '', ''
+    if len(name) == 0:
+        print(f"Failed name parse: missing name for {line}")
     date_text = parts[1].strip()
 
     try:
         date_found = date_regex.search(date_text).group()
-        # print(date_found)
         date = parse(date_found).strftime('%Y-%m-%d')
     except (ValueError, AttributeError) as err:
-        print(f"Failed date parse '{parts[1]}': {err}")
+        print(f"Failed date format parse for title '{name}' and date '{date_text}': {err}")
         date = ''
     return name, date, date_text
 
@@ -124,6 +126,8 @@ def parse_state(state, text):
 
     if entry and entry["links"]:
         yield entry
+    else:
+        print(f"Failed links parse: missing links for {entry}")
 
 
 def process_md_texts(md_texts):
@@ -148,6 +152,7 @@ md_out_format = '''
 {text}
 
 '''
+
 
 def to_merged_md_file(md_texts, target_path):
     with open(target_path, 'wb') as fout:
