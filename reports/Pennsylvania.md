@@ -48,6 +48,15 @@ A man is being held on the ground by a police officer, who forces the man's hand
 
 * https://twitter.com/mkultranews/status/1267305587206807553
 
+### Cops beat Temple University student | May 31st
+
+An officer beat a Temple University engineering student with a baton, including near his head, and tackled him. Another officer pressed the student's face to the pavement using his knee on his neck. The student required medical treatment.
+
+**Links**
+
+* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
+* https://whyy.org/articles/philly-police-commander-videotaped-beating-protesters-linked-to-narcotics-scandal-misconduct/
+
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them | June 1st
 
 Over 30 protesters are standing in the grassy area beside a highway. Police on the highway throw tear gas canisters into the crowd of protesters. Some protesters try to throw the canisters back. A woman says "I can't breathe".
