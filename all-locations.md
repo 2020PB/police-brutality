@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T06:05:51.591509+00:00
+UPDATED AT: 2020-06-06T06:06:34.223777+00:00
 
 
 # Alabama
@@ -640,6 +640,7 @@ Despite the woman showing no resistance, the policeman grabs her and pulls her o
 * https://twitter.com/danielvankirk/status/1266947767840063489
 * https://www.instagram.com/p/CA27quMhqJA/
 * https://twitter.com/SarahBaska/status/1267308455225774080?s=20
+* [News Report, The Evening Standard](https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0)
 
 ## Lawrenceville
 
