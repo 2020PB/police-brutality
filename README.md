@@ -1,5 +1,17 @@
 # Police Brutality During the 2020 George Floyd Protests
 
+---
+
+**New to GitHub? Just want to report an incident?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👇🏽 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👇🏾<br/>
+👉🏿 **[Report it here!](https://github.com/2020PB/police-brutality/issues/new?assignees=&labels=Incident+report&template=incident-report.md&title=Incident+in+CITY%2C+STATE)** 👈🏻<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👆🏼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+For more information on contributing to this repository please consult the [contribution guidelines](./CONTRIBUTING.md).
+
+---
+
 * [Web app](https://2020policebrutality.netlify.app/) to visually view posts
 * [Data API](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) to build your own front end
 
