@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T17:32:13.947401+00:00
+UPDATED AT: 2020-06-06T17:32:39.201610+00:00
 
 
 # Alabama
@@ -1150,6 +1150,15 @@ Police shoot rubber bullets and teargas at a reporter and his crew, as they're b
 
 * https://twitter.com/greg_doucette/status/1267118696960528386
 
+### Swiss journalists shot at with rubber bullets by police | May 30th
+
+In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them. 
+
+**Links**
+
+* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
+* [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
+* [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 ### Police stop SUV to driveby pepperspray protesters through window | May 31st
 
