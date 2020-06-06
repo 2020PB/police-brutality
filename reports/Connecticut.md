@@ -1,7 +1,7 @@
 ## Waterbury
 
 
-### Cop | June 3rd
+### Officer forces women into car and wrestles with another | June 3rd
 
 Officer forces man into cop car and wrestles with woman on her phone.
 
@@ -18,4 +18,3 @@ Waterbury police have detained at least 6 people. Police had warned several time
 * https://twitter.com/mattaustinTV/status/1267189278691528706
 * https://twitter.com/RACCEWtby/status/1268173057375514624
 * https://twitter.com/Calibud_Art/status/1268274760250777600
-
