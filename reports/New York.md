@@ -168,6 +168,14 @@ Officer is seen here brandishing what appears to be a handgun and pointing it at
 
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
 
+### Police beat protesters leaving Stonewall Inn solidarity protest | June 2nd
+
+Police beat protesters leaving Stonewall Inn after a demonstration honoring queer and people of color who died at hands of police, in solidarity with George Floyd. One man had his arm broken and required multiple staples to close wounds on his head.
+
+**Links**
+
+* https://www.lgbtqnation.com/2020/06/cops-beat-lgbtq-protestors-leaving-demonstration-stonewall-inn/
+
 ### Officers beat man with batons
 
 Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
