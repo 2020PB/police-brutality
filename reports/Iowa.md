@@ -4,7 +4,7 @@
 
 Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
 
-pb-id: ia-desmoines-1
+id: ia-desmoines-1
 
 **Links**
 
@@ -16,7 +16,7 @@ pb-id: ia-desmoines-1
 
 Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
 
-pb-id: ia-iowacity-2
+id: ia-iowacity-2
 
 **Links**
 

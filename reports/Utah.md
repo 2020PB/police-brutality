@@ -4,7 +4,7 @@
 
 The old man was shoved and pushed by the police, which led him to hit the railing and collapse
 
-pb-id: ut-saltlakecity-1
+id: ut-saltlakecity-1
 
 **Links**
 * https://twitter.com/bubbaprog/status/1266908354821206016
@@ -13,7 +13,7 @@ pb-id: ut-saltlakecity-1
 
 The man on the ground was shot with a beanbag, resulting in heavy damage
 
-pb-id: ut-saltlakecity-2
+id: ut-saltlakecity-2
 
 **Links**
 
@@ -23,7 +23,7 @@ pb-id: ut-saltlakecity-2
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
-pb-id: ut-saltlakecity-3
+id: ut-saltlakecity-3
 
 **Links**
 
@@ -33,7 +33,7 @@ pb-id: ut-saltlakecity-3
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
 
-pb-id: ut-saltlakecity-4
+id: ut-saltlakecity-4
 
 **Links**
 

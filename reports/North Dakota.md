@@ -4,7 +4,7 @@
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
 
-pb-id: nd-fargo-1
+id: nd-fargo-1
 
 **Links**
 

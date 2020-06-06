@@ -4,7 +4,7 @@
 
 Police shove a protesting woman down a set of concrete steps.
 
-pb-id: vt-stjohnsbury-1
+id: vt-stjohnsbury-1
 
 **Links**
 

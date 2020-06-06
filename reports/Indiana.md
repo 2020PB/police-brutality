@@ -4,7 +4,7 @@
 
 A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
 
-pb-id: in-fortwayne-1
+id: in-fortwayne-1
 
 **Links**
 
@@ -14,7 +14,7 @@ pb-id: in-fortwayne-1
 
 Police officers dressed in swat gear threw a tear gas container at peaceful protestors.
 
-pb-id: in-fortwayne-2
+id: in-fortwayne-2
 
 **Links**
 
@@ -24,7 +24,7 @@ pb-id: in-fortwayne-2
 
 A toddler and her mother were driving through downtown and had to leave their car due to tear gas in the road. The toddler was then teargassed twice about ten minutes apart.
 
-pb-id: in-fortwayne-3
+id: in-fortwayne-3
 
 **Links**
 
@@ -34,7 +34,7 @@ pb-id: in-fortwayne-3
 
 A FWPD Officer fired a tear gas cannister on protestors face. He has allegedly been permanently blinded in that eye.
 
-pb-id: in-fortwayne-4
+id: in-fortwayne-4
 
 **Links**
 
@@ -48,7 +48,7 @@ pb-id: in-fortwayne-4
 
 Police confiscate medical supplies from a medical station at Monument Circle.
 
-pb-id: in-indianapolis-5
+id: in-indianapolis-5
 
 **Links**
 
@@ -58,7 +58,7 @@ pb-id: in-indianapolis-5
 
 A woman is seen being restrained by a police officer who stands behind her with his arms around her torso. She struggles with the officer and breaks free, after which she is repeatedly beaten on the thighs with batons and shot with what appear to be pepper balls by officers shouting "Get on the ground!" while she is standing still. Another woman walks towards the officers with her hands out, seeming to plead for restraint but not directly interfering. An officer yells at her to "Back up!" and then violently shoves her to the ground.
 
-pb-id: in-indianapolis-6
+id: in-indianapolis-6
 
 **Links**
 
@@ -71,7 +71,7 @@ pb-id: in-indianapolis-6
 
 In this video, protestors are chanting peacefully when an officer drops tear gas on them with no warning.
 
-pb-id: in-lafayette-7
+id: in-lafayette-7
 
 **Links**
 

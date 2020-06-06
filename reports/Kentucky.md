@@ -4,7 +4,7 @@
 
 Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
 
-pb-id: ky-louisville-1
+id: ky-louisville-1
 
 **Links**
 * [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
@@ -14,7 +14,7 @@ pb-id: ky-louisville-1
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
-pb-id: ky-louisville-2
+id: ky-louisville-2
 
 **Links**
 * [Video](https://www.reddit.com/r/PublicFreakout/comments/gt69qe/police_start_shooting_press_with_some_kinda/)
@@ -25,7 +25,7 @@ pb-id: ky-louisville-2
 
 A man was using a leafblower to clear teargas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
-pb-id: ky-louisville-3
+id: ky-louisville-3
 
 **Links**
 
@@ -35,7 +35,7 @@ pb-id: ky-louisville-3
 
 A young woman was injured by a rubber bullet she took to the head.
 
-pb-id: ky-louisville-4
+id: ky-louisville-4
 
 **Links**
 
@@ -46,7 +46,7 @@ pb-id: ky-louisville-4
 
 Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
 
-pb-id: ky-louisville-5
+id: ky-louisville-5
 
 **Links**
 
@@ -56,7 +56,7 @@ pb-id: ky-louisville-5
 
 During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a resaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
 
-pb-id: ky-louisville-6
+id: ky-louisville-6
 
 **Links**
 
@@ -70,7 +70,7 @@ pb-id: ky-louisville-6
 
 Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews
 
-pb-id: ky-louisville-7
+id: ky-louisville-7
 
 **Links**
 

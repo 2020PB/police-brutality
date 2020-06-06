@@ -4,7 +4,7 @@
 
 Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
 
-pb-id: ny-buffalo-1
+id: ny-buffalo-1
 
 **Links**
 * https://twitter.com/secretlaith/status/1268251322467450880
@@ -17,7 +17,7 @@ Buffalo P.D. released an official statement saying that he "tripped and fell." T
 
 Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
 
-pb-id: ny-buffalo-2
+id: ny-buffalo-2
 
 **Links**
 
@@ -33,7 +33,7 @@ pb-id: ny-buffalo-2
 
 Police are seen shooting at individuals who were recording an incident.
 
-pb-id: ny-rochester-3
+id: ny-rochester-3
 
 **Links**
 * https://twitter.com/bleeezyy_/status/1266894195865931778
@@ -46,7 +46,7 @@ pb-id: ny-rochester-3
 
 A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first.
 
-pb-id: ny-newyorkcity-4
+id: ny-newyorkcity-4
 
 **Links**
 
@@ -58,7 +58,7 @@ pb-id: ny-newyorkcity-4
 
 A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
 
-pb-id: ny-newyorkcity-5
+id: ny-newyorkcity-5
 
 **Links**
 
@@ -69,7 +69,7 @@ pb-id: ny-newyorkcity-5
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened.
 
-pb-id: ny-newyorkcity-6
+id: ny-newyorkcity-6
 
 **Links**
 
@@ -80,7 +80,7 @@ pb-id: ny-newyorkcity-6
 
 The NYPD Squad are seen beating protestors with batons and pushing them around.
 
-pb-id: ny-newyorkcity-7
+id: ny-newyorkcity-7
 
 **Links**
 
@@ -90,7 +90,7 @@ pb-id: ny-newyorkcity-7
 
 A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
 
-pb-id: ny-newyorkcity-8
+id: ny-newyorkcity-8
 
 **Links**
 
@@ -101,7 +101,7 @@ pb-id: ny-newyorkcity-8
 
 An NYPD officer pushes a civilian down towards trash cans.
 
-pb-id: ny-newyorkcity-9
+id: ny-newyorkcity-9
 
 **Links**
 
@@ -112,7 +112,7 @@ pb-id: ny-newyorkcity-9
 
 A NYPD squad car is driven into civilians, ramming them out of its path.
 
-pb-id: ny-newyorkcity-10
+id: ny-newyorkcity-10
 
 **Links**
 
@@ -123,7 +123,7 @@ pb-id: ny-newyorkcity-10
 
 Police officers are seen beating and assaulting men and women for standing around peacefully.
 
-pb-id: ny-newyorkcity-11
+id: ny-newyorkcity-11
 
 **Links**
 
@@ -133,7 +133,7 @@ pb-id: ny-newyorkcity-11
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
-pb-id: ny-newyorkcity-12
+id: ny-newyorkcity-12
 
 **Links**
 
@@ -147,7 +147,7 @@ pb-id: ny-newyorkcity-12
 
 Policeman deliberately opens car door to knock an individual down to the ground.
 
-pb-id: ny-newyorkcity-13
+id: ny-newyorkcity-13
 
 **Links**
 
@@ -157,7 +157,7 @@ pb-id: ny-newyorkcity-13
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
-pb-id: ny-newyorkcity-14
+id: ny-newyorkcity-14
 
 **Links**
 
@@ -167,7 +167,7 @@ pb-id: ny-newyorkcity-14
 
 Protestors had their hands up, yet were pepper sprayed in the face.
 
-pb-id: ny-newyorkcity-15
+id: ny-newyorkcity-15
 
 **Links**
 
@@ -177,18 +177,18 @@ pb-id: ny-newyorkcity-15
 
 Despite clearly identifying himself, the reporter was taken into custody during a protest.
 
-pb-id: ny-newyorkcity-16
+id: ny-newyorkcity-16
 
 **Links**
 
 * https://twitter.com/HuffPost/status/1266936484692725766
 * https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
 
-### Member of the New York State Assembly pepper-sprayed
+### Member of the New York State Assembly pepper-sprayed | May 29th
 
 Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays Centre.
 
-pb-id: ny-newyorkcity-17
+id: ny-newyorkcity-17
 
 **Links**
 
@@ -198,17 +198,27 @@ pb-id: ny-newyorkcity-17
 
 Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
 
-pb-id: ny-newyorkcity-18
+id: ny-newyorkcity-18
 
 **Links**
 
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
 
+### Police beat protesters leaving Stonewall Inn solidarity protest | June 2nd
+
+Police beat protesters leaving Stonewall Inn after a demonstration honoring queer and people of color who died at hands of police, in solidarity with George Floyd. One man had his arm broken and required multiple staples to close wounds on his head.
+
+id: ny-newyorkcity-19
+
+**Links**
+
+* https://www.lgbtqnation.com/2020/06/cops-beat-lgbtq-protestors-leaving-demonstration-stonewall-inn/
+
 ### Officers beat man with batons
 
 Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
 
-pb-id: ny-newyorkcity-19
+id: ny-newyorkcity-20
 
 **Links**
 
@@ -220,7 +230,7 @@ pb-id: ny-newyorkcity-19
 
 A man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
-pb-id: ny-newyorkcity-20
+id: ny-newyorkcity-21
 
 **Links**
 
@@ -229,8 +239,38 @@ pb-id: ny-newyorkcity-20
 
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
 
-pb-id: ny-newyorkcity-21
+id: ny-newyorkcity-22
 
 **Links**
 
 * https://twitter.com/johnknefel/status/1268736946031001607
+
+### NYPD pushes crowd into tight space and attacks several with batons | June 5th
+
+At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepperspray and batons.
+
+id: ny-newyorkcity-23
+
+**Links**
+
+* https://twitter.com/AndomForNY/status/1269065176814358529
+
+### Police injure journalist | May 31st
+
+Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
+
+id: ny-newyorkcity-24
+
+**Links**
+
+* https://twitter.com/tylergabriel_/status/1267287516345925632
+
+### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
+
+Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
+
+id: ny-newyorkcity-25
+
+**Links**
+
+* https://twitter.com/sa0un/status/1268933117827571714

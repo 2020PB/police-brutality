@@ -4,14 +4,14 @@
 
 Video shows the police tear gassing an entire park, including one baby in Kansas City.
 
-pb-id: mo-kansascity-1
+id: mo-kansascity-1
 
 **Links**
 * https://twitter.com/imunoz03/status/1266908372881768448
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd.
 
-pb-id: mo-kansascity-2
+id: mo-kansascity-2
 
 **Links**
 
@@ -21,7 +21,7 @@ pb-id: mo-kansascity-2
 
 A line of police stand well apart from a crowd of protestors, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
 
-pb-id: mo-kansascity-3
+id: mo-kansascity-3
 
 **Links**
 
@@ -31,7 +31,7 @@ pb-id: mo-kansascity-3
 
 A police officer pulls away a protestor standing still. When others come to the protestor's aid they are pepper sprayed.
 
-pb-id: mo-kansascity-4
+id: mo-kansascity-4
 
 **Links**
 
@@ -39,7 +39,7 @@ pb-id: mo-kansascity-4
 
 ### Police pepper spray and arrest protestor holding sign | May 30th
 
-pb-id: mo-kansascity-5
+id: mo-kansascity-5
 
 **Links**
 
@@ -50,7 +50,7 @@ pb-id: mo-kansascity-5
 
 A video linked shows the police pepper spraying some protestors who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
 
-pb-id: mo-kansascity-6
+id: mo-kansascity-6
 
 **Links**
 

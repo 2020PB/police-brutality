@@ -4,7 +4,7 @@
 
 Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
 
-pb-id: nc-charlotte-1
+id: nc-charlotte-1
 
 **Links**
 
@@ -16,7 +16,7 @@ pb-id: nc-charlotte-1
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
 
-pb-id: nc-asheville-2
+id: nc-asheville-2
 
 **Links**
 
@@ -31,7 +31,7 @@ pb-id: nc-asheville-2
 
 A group of police approach a man who was apparently not a protestor, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
-pb-id: nc-raleigh-3
+id: nc-raleigh-3
 
 **Links**
 

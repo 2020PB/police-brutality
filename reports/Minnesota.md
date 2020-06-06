@@ -6,7 +6,7 @@
 
 Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
-pb-id: mn-minneapolis-1
+id: mn-minneapolis-1
 
 **Links**
 
@@ -18,7 +18,7 @@ pb-id: mn-minneapolis-1
 
 In an attempt to move residents inside, the police fire shots at them.
 
-pb-id: mn-minneapolis-2
+id: mn-minneapolis-2
 
 **Links**
 
@@ -28,7 +28,7 @@ pb-id: mn-minneapolis-2
 
 While sitting in their cars, the policemen proceed to pepperspray the protestors in a drive-by fashion
 
-pb-id: mn-minneapolis-3
+id: mn-minneapolis-3
 
 **Links**
 
@@ -39,7 +39,7 @@ pb-id: mn-minneapolis-3
 
 Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them information on where to relocate.
 
-pb-id: mn-minneapolis-4
+id: mn-minneapolis-4
 
 **Links**
 
@@ -49,7 +49,7 @@ pb-id: mn-minneapolis-4
 
 While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
-pb-id: mn-minneapolis-5
+id: mn-minneapolis-5
 
 **Links**
 
@@ -59,7 +59,7 @@ pb-id: mn-minneapolis-5
 
 The woman proceeds to tell the story of what she faced while trying to get footage.
 
-pb-id: mn-minneapolis-6
+id: mn-minneapolis-6
 
 **Links**
 * https://mobile.twitter.com/mollyhf/status/1266911382613692422
@@ -69,7 +69,7 @@ pb-id: mn-minneapolis-6
 
 Ryan Faircloth, reporter for Star Tribune, describes his experience of the police shooting his car's window.
 
-pb-id: mn-minneapolis-7
+id: mn-minneapolis-7
 
 **Links**
 
@@ -79,7 +79,7 @@ pb-id: mn-minneapolis-7
 
 Pictures depict slashed tires, and the owner of the tweet says it could have been the police
 
-pb-id: mn-minneapolis-8
+id: mn-minneapolis-8
 
 **Links**
 
@@ -91,7 +91,7 @@ pb-id: mn-minneapolis-8
 
 While filming, Mike George's CBS news crew is shot with rubber bullets.
 
-pb-id: mn-minneapolis-9
+id: mn-minneapolis-9
 
 **Links**
 
@@ -102,7 +102,7 @@ pb-id: mn-minneapolis-9
 
 MSNBC reporters were just almost hit with some sort of explosive device by law enforcement officers in Minneapolis.
 
-pb-id: mn-minneapolis-10
+id: mn-minneapolis-10
 
 **Links**
 
@@ -112,7 +112,7 @@ pb-id: mn-minneapolis-10
 
 The picture shows the reporter's eye has been damaged, and potentially blinded.
 
-pb-id: mn-minneapolis-11
+id: mn-minneapolis-11
 
 **Links**
 
@@ -122,7 +122,7 @@ pb-id: mn-minneapolis-11
 
 The article given below shows that the Reuters crew was hit with rubber bullets
 
-pb-id: mn-minneapolis-12
+id: mn-minneapolis-12
 
 **Links**
 
@@ -132,7 +132,7 @@ pb-id: mn-minneapolis-12
 
 German reporter for DW News is shot at by Minneapolis police, who then threaten to arrest him.
 
-pb-id: mn-minneapolis-13
+id: mn-minneapolis-13
 
 **Links**
 
@@ -142,7 +142,7 @@ pb-id: mn-minneapolis-13
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-pb-id: mn-minneapolis-14
+id: mn-minneapolis-14
 
 **Links**
 
@@ -152,7 +152,7 @@ pb-id: mn-minneapolis-14
 
 CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
 
-pb-id: mn-minneapolis-15
+id: mn-minneapolis-15
 
 **Links**
 
@@ -162,18 +162,29 @@ pb-id: mn-minneapolis-15
 
 Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
 
-pb-id: mn-minneapolis-16
+id: mn-minneapolis-16
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267118696960528386
 
+### Swiss journalists shot at with rubber bullets by police | May 30th
+
+In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
+
+id: mn-minneapolis-17
+
+**Links**
+
+* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
+* [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
+* [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 ### Police stop SUV to driveby pepperspray protesters through window | May 31st
 
 Police responding to a medical emergency – a tanker truck deliberately running over protestors – stop to pepperspray folks from their SUV
 
-pb-id: mn-minneapolis-17
+id: mn-minneapolis-18
 
 **Links**
 
@@ -183,7 +194,7 @@ pb-id: mn-minneapolis-17
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
-pb-id: mn-minneapolis-18
+id: mn-minneapolis-19
 
 **Links**
 
@@ -193,7 +204,7 @@ pb-id: mn-minneapolis-18
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol"
 
-pb-id: mn-minneapolis-19
+id: mn-minneapolis-20
 
 **Links**
 

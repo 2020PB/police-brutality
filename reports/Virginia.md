@@ -4,7 +4,7 @@
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
 
-pb-id: va-richmond-1
+id: va-richmond-1
 
 **Links**
 
@@ -16,7 +16,7 @@ pb-id: va-richmond-1
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM.
 
-pb-id: va-richmond-2
+id: va-richmond-2
 
 **Links**
 
@@ -29,7 +29,7 @@ pb-id: va-richmond-2
 
 A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera.
 
-pb-id: va-richmond-3
+id: va-richmond-3
 
 **Links**
 

@@ -3,7 +3,7 @@
 ### Police Individually Target Peaceful Protestor and Arrest Him | May 31st
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
-pb-id: sc-charleston-1
+id: sc-charleston-1
 
 **Links**
 

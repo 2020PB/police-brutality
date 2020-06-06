@@ -4,7 +4,7 @@
 
 During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
 
-pb-id: al-huntsville-1
+id: al-huntsville-1
 
 **Links**
 
@@ -15,7 +15,7 @@ pb-id: al-huntsville-1
 
 Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason.
 
-pb-id: al-huntsville-2
+id: al-huntsville-2
 
 **Links**
 
@@ -26,7 +26,7 @@ pb-id: al-huntsville-2
 
 Police use tear gas on reporters and protestors, who are then initially blocked from leaving the area by other officers.
 
-pb-id: al-huntsville-3
+id: al-huntsville-3
 
 **Links**
 
@@ -37,7 +37,7 @@ pb-id: al-huntsville-3
 
 A Huntsville PD Lieutenant stated that they used tear gas on protestors before violence occurred, adding that "they weren't going to roll the dice".
 
-pb-id: al-huntsville-4
+id: al-huntsville-4
 
 **Links**
 

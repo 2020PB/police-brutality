@@ -1,11 +1,10 @@
-
 ## Seattle
 
 ### Officer pins protestor by pushing his knee into his neck | May 30th
 
 Officer pins protestor with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
 
-pb-id: wa-seattle-1
+id: wa-seattle-1
 
 **Links**
 
@@ -16,7 +15,7 @@ pb-id: wa-seattle-1
 
 A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned.
 
-pb-id: wa-seattle-2
+id: wa-seattle-2
 
 **Links**
 
@@ -27,7 +26,7 @@ pb-id: wa-seattle-2
 
 A police officer randomly and indiscriminately pepper sprays civilians walking around, which then went on to spark a riot.
 
-pb-id: wa-seattle-3
+id: wa-seattle-3
 
 **Links**
 
@@ -37,7 +36,7 @@ pb-id: wa-seattle-3
 
 Police pepper sprays a young child who is seen crying, while protesters pour milk on the distressed girl.
 
-pb-id: wa-seattle-4
+id: wa-seattle-4
 
 **Links**
 
@@ -63,7 +62,7 @@ Police strike a journalist, Jo-Ling Kent, live on air with a flashbang.
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
-pb-id: wa-seattle-5
+id: wa-seattle-5
 
 **Links**
 
@@ -81,13 +80,14 @@ pb-id: wa-seattle-5
 
 [Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)
 
-### Police officer pulls protestor to the ground unprovoked | June 2nd
+### Police officer pulls protestor to the ground unprovoked | May 31
 
 An officer on a bike pulls down a protestor walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
 
-pb-id: wa-seattle-6
+id: wa-seattle-6
 
 **Links**
 
+* https://twitter.com/EDDIFUL/status/1267338642617364481
 * https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7

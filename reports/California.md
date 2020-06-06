@@ -8,7 +8,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 [This Reddit comment](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/) asserts these police are members of the LASD.
 
-pb-id: ca-compton-1
+id: ca-compton-1
 
 **Links**
 
@@ -21,7 +21,7 @@ pb-id: ca-compton-1
 
 Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it still looks to be light outside.
 
-pb-id: ca-hollywood-2
+id: ca-hollywood-2
 
 **Links**
 
@@ -34,7 +34,7 @@ pb-id: ca-hollywood-2
 
 La Mesa PD shoot a woman in the face with a rubber bullet.
 
-pb-id: ca-lamesa-3
+id: ca-lamesa-3
 
 **Links**
 
@@ -46,7 +46,7 @@ pb-id: ca-lamesa-3
 
 Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
 
-pb-id: ca-lamesa-4
+id: ca-lamesa-4
 
 **Links**
 
@@ -59,7 +59,7 @@ pb-id: ca-lamesa-4
 
 Photo shows large bruise the reporter got from a rubber bullet
 
-pb-id: ca-longbeach-5
+id: ca-longbeach-5
 
 **Links**
 
@@ -73,7 +73,7 @@ pb-id: ca-longbeach-5
 
 The police are seen shooting at fleeing protestors and parked vehicles.
 
-pb-id: ca-losangeles-6
+id: ca-losangeles-6
 
 **Links**
 
@@ -82,11 +82,22 @@ pb-id: ca-losangeles-6
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
+### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
+
+An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
+
+id: ca-losangeles-7
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxf4vn/officer_hwang_of_the_lapd_during_saturdays/
+
+
 ### Police intimidate person filming them by shooting at apartment building | May 30th
 
 The police are seen to threaten and try to scare the residents of the apartment building from which video is taken. At 0:45 a shot is fired by the police in order to get the residents of the apartments off their balconies and into their homes.
 
-pb-id: ca-losangeles-7
+id: ca-losangeles-8
 
 **Links**
 
@@ -96,7 +107,7 @@ pb-id: ca-losangeles-7
 
 Los Angeles law enforcement beat several protesters with batons.
 
-pb-id: ca-losangeles-8
+id: ca-losangeles-9
 
 **Links**
 
@@ -107,17 +118,27 @@ pb-id: ca-losangeles-8
 
 ABC7 reporters are hit by a cloud of tear gas after protesters were gassed up the street by Los Angeles law enforcement, as reported in this news coverage.
 
-pb-id: ca-losangeles-9
+id: ca-losangeles-10
 
 **Links**
 
 * https://twitter.com/GMA/status/1266934049098121216
 
+### Police beat protesters with batons | May 30th
+
+In the video, protesters can be seen kneeling. Police swing batons at several protesters pressed against the side of a building.
+
+id: ca-losangeles-11
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
+
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
-pb-id: ca-losangeles-10
+id: ca-losangeles-12
 
 **Links**
 
@@ -127,7 +148,7 @@ pb-id: ca-losangeles-10
 
 A police officer has his knee on a woman's neck, who already had 3 police officers on her. A different officer had to pull him away.
 
-pb-id: ca-losangeles-11
+id: ca-losangeles-13
 
 **Links**
 
@@ -137,7 +158,7 @@ pb-id: ca-losangeles-11
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby.
 
-pb-id: ca-losangeles-12
+id: ca-losangeles-14
 
 **Links**
 
@@ -147,7 +168,7 @@ pb-id: ca-losangeles-12
 
 Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head.
 
-pb-id: ca-losangeles-13
+id: ca-losangeles-15
 
 **Links**
 
@@ -158,7 +179,7 @@ pb-id: ca-losangeles-13
 
 Los Angeles law enforcement beat protesters for no apparent reason.
 
-pb-id: ca-losangeles-14
+id: ca-losangeles-16
 
 **Links**
 
@@ -168,7 +189,7 @@ pb-id: ca-losangeles-14
 
 LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
 
-pb-id: ca-losangeles-15
+id: ca-losangeles-17
 
 **Links**
 
@@ -179,7 +200,7 @@ pb-id: ca-losangeles-15
 
 LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protestors, then throws it in reverse and speeds away
 
-pb-id: ca-losangeles-16
+id: ca-losangeles-18
 
 **Links**
 
@@ -194,7 +215,7 @@ pb-id: ca-losangeles-16
 
 Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
 
-pb-id: ca-losangeles-17
+id: ca-losangeles-19
 
 **Links**
 
@@ -204,7 +225,7 @@ pb-id: ca-losangeles-17
 
 Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
 
-pb-id: ca-losangeles-18
+id: ca-losangeles-20
 
 **Links**
 
@@ -216,7 +237,7 @@ pb-id: ca-losangeles-18
 
 Two peaceful protestors are standing in an empty street.  Dozens of police officers move forward and the protestors are shot by rubber bullets fired from officers.
 
-pb-id: ca-losangeles-19
+id: ca-losangeles-21
 
 **Links**
 
@@ -227,7 +248,7 @@ pb-id: ca-losangeles-19
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
-pb-id: ca-losangeles-20
+id: ca-losangeles-22
 
 **Links**
 
@@ -239,7 +260,7 @@ A man confined to a wheelchair is shot in the eye with a rubber bullet causing h
 
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
-pb-id: ca-losangeles-21
+id: ca-losangeles-23
 
 **Links**
 
@@ -255,7 +276,7 @@ pb-id: ca-losangeles-21
 
 A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
 
-pb-id: ca-oakland-22
+id: ca-oakland-24
 
 **Links**
 
@@ -265,7 +286,7 @@ pb-id: ca-oakland-22
 
 A reporter films a street with a few protesters walking around.  In the distance, a line of Oakland law enforcement is standing. The law enforcement officers shoot the reporter.
 
-pb-id: ca-oakland-23
+id: ca-oakland-25
 
 **Links**
 
@@ -278,7 +299,7 @@ pb-id: ca-oakland-23
 
 A line of law enforcement officers are walking down the street.  When they approach a parked vehicle, law enforcement break the vehicle's window for no apparent reason.
 
-pb-id: ca-riverside-24
+id: ca-riverside-26
 
 **Links**
 
@@ -291,7 +312,7 @@ pb-id: ca-riverside-24
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
-pb-id: ca-sacramento-25
+id: ca-sacramento-27
 
 **Links**
 * https://youtu.be/pRmBO34aXME
@@ -301,7 +322,7 @@ pb-id: ca-sacramento-25
 
 Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful.
 
-pb-id: ca-sacramento-26
+id: ca-sacramento-28
 
 **Links**
 
@@ -311,7 +332,7 @@ pb-id: ca-sacramento-26
 
 Two to three police officers choke a black man on the ground. The woman documenting this on video is then pushed away/over.
 
-pb-id: ca-sacramento-27
+id: ca-sacramento-29
 
 **Links**
 
@@ -324,7 +345,7 @@ pb-id: ca-sacramento-27
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
 
-pb-id: ca-sandiego-28
+id: ca-sandiego-30
 
 **Links**
 
@@ -332,16 +353,19 @@ pb-id: ca-sandiego-28
 
 ## San Jose
 
-### Police shoot a projectile at a protestor | May 31st
+### Police shoot a projectile at a protestor | May 29th
 
-A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests.
+A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests yelling "let's get this motherfucker".
 
-pb-id: ca-sanjose-29
+id: ca-sanjose-31
 
 **Links**
 
+* https://twitter.com/junkieanteater/status/1266603252839141377
 * https://www.reddit.com/r/PublicFreakout/comments/gtksgq/cop_decides_to_shoot_at_protestor_who_hurt_his/
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
+* https://twitter.com/bowiezamudio/status/1266598285206106113
+* https://twitter.com/kakimeows/status/1266982771005616128
 
 
 ## Santa Ana
@@ -350,7 +374,7 @@ pb-id: ca-sanjose-29
 
 The individual recording the video is trying his best to save his fellow protestor, however his cries are upon deaf ears, the police continue to shoot at them around 0:16
 
-pb-id: ca-santaana-30
+id: ca-santaana-32
 
 **Links**
 
@@ -362,7 +386,7 @@ pb-id: ca-santaana-30
 
 Protesters standing with their arms raised are chanting "This is what democracy looks like".  Law enforcement fire on the crowd and gas can be seen.
 
-pb-id: ca-sanluisobispo-31
+id: ca-sanluisobispo-33
 
 **Links**
 
@@ -374,7 +398,7 @@ pb-id: ca-sanluisobispo-31
 
 A police SUV is attempting to drive through a crowd.  A law enforcement officer shoves the man from behind off the sidewalk onto the ground in front of the vehicle.
 
-pb-id: ca-sanfrancisco-32
+id: ca-sanfrancisco-34
 
 **Links**
 
@@ -386,7 +410,7 @@ pb-id: ca-sanfrancisco-32
 
 Live on TV, police fire multiple pepper bullets at a second-story apartment window from the street below.
 
-pb-id: ca-santamonica-33
+id: ca-santamonica-35
 
 **Links**
 
@@ -398,7 +422,7 @@ pb-id: ca-santamonica-33
 
 In this video, an armored law enforcement vehicle tells protestors over megaphone "if you do not move, you will be dead."
 
-pb-id: ca-walnutcreek-34
+id: ca-walnutcreek-36
 
 **Links**
 
@@ -410,7 +434,7 @@ pb-id: ca-walnutcreek-34
 
 "Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family."
 
-pb-id: ca-vallejo-35
+id: ca-vallejo-37
 
 **Links**
 

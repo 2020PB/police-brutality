@@ -4,7 +4,7 @@
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds.
 
-pb-id: tx-austin-1
+id: tx-austin-1
 
 **Links**
 
@@ -15,7 +15,7 @@ pb-id: tx-austin-1
 ### Police assault protesters | (believed to be) May 30th
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
 
-pb-id: tx-austin-2
+id: tx-austin-2
 
 **Links**
 
@@ -27,7 +27,7 @@ Here, a non-violent protestor can be seen standing perfectly still when he is hi
 
 In the aftermath other protestors help the victim who is bleeding from a large head wound.
 
-pb-id: tx-austin-3
+id: tx-austin-3
 
 **Links**
 
@@ -41,7 +41,7 @@ pb-id: tx-austin-3
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
 
-pb-id: tx-austin-4
+id: tx-austin-4
 
 **Links**
 
@@ -53,7 +53,7 @@ pb-id: tx-austin-4
 
 Police were seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters downtown. Current source videos are from a distance of about 100-200 feet and it is unclear what exactly caused the officers to begin firing.
 
-pb-id: tx-austin-5
+id: tx-austin-5
 
 **Links**
 
@@ -63,7 +63,7 @@ pb-id: tx-austin-5
 
 Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
 
-pb-id: tx-austin-6
+id: tx-austin-6
 
 **Links**
 
@@ -75,7 +75,7 @@ pb-id: tx-austin-6
 
 A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face.
 
-pb-id: tx-austin-7
+id: tx-austin-7
 
 **Links**
 
@@ -86,7 +86,7 @@ pb-id: tx-austin-7
 
 Volunteer medics were advised to bring a critically wounded protestor to the police line for medical attention and were subsequently fired upon.
 
-pb-id: tx-austin-8
+id: tx-austin-8
 
 **Links**
 
@@ -101,7 +101,7 @@ pb-id: tx-austin-8
 
 Cop in Baytown Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
 
-pb-id: tx-baytown-9
+id: tx-baytown-9
 
 **Links**
 
@@ -114,17 +114,18 @@ pb-id: tx-baytown-9
 
 A mounted police officer in Houston trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
 
-pb-id: tx-houston-10
+id: tx-houston-10
 
 **Links**
 
-* https://twitter.com/vikthewild/status/1266538354939756544
+* [Video of trampling](https://twitter.com/vikthewild/status/1266538354939756544)
+* [abc13 article](https://abc13.com/hpd-uns-over-girl-police-on-horse-tramples-protester-george-floyd/6223240/)
 
 ### Officers shove a woman to the pavement | May 29th
 
 A large group of police officers were walking down the street when a woman standing near them was forcefully shoved to the ground by a police officer.
 
-pb-id: tx-houston-11
+id: tx-houston-11
 
 **Links**
 
@@ -136,7 +137,7 @@ pb-id: tx-houston-11
 
 A woman who says she was simply walking home with groceries was shot in the face with a rubber bullet by Dallas police. She was seen bleeding profusely and some officers attempted to help her immediately afterwards.
 
-pb-id: tx-dallas-12
+id: tx-dallas-12
 
 **Links**
 
@@ -148,11 +149,22 @@ pb-id: tx-dallas-12
 
 The video shows a certain individual trying to escape, what seems to be loud explosions. These loud explosions could be attributed to the tear gas and flashbangs that the police were using.
 
-pb-id: tx-dallas-13
+id: tx-dallas-13
 
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+
+### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
+
+On June 2nd, protestors are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
+
+id: tx-dallas-14
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
+* [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
 
 ## San Antonio
 
@@ -160,7 +172,7 @@ pb-id: tx-dallas-13
 
 A man was filming police walking down the street and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
 
-pb-id: tx-sanantonio-14
+id: tx-sanantonio-15
 
 **Links**
 

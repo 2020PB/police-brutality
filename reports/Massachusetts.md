@@ -4,7 +4,7 @@
 
 Police beat an innocent man crossing the street with batons.
 
-pb-id: ma-boston-1
+id: ma-boston-1
 
 **Links**
 

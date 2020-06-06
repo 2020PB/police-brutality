@@ -2,7 +2,7 @@
 
 A BBC cameraman was charged at by police and hit with a shield.
 
-pb-id: dc-dc-1
+id: dc-dc-1
 
 **Links**
 
@@ -13,7 +13,7 @@ pb-id: dc-dc-1
 
 Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC.
 
-pb-id: dc-dc-2
+id: dc-dc-2
 
 **Links**
 
@@ -30,7 +30,7 @@ pb-id: dc-dc-2
 
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors
 
-pb-id: dc-dc-3
+id: dc-dc-3
 
 **Links**
 
@@ -44,7 +44,7 @@ pb-id: dc-dc-3
 
 DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
 
-pb-id: dc-dc-4
+id: dc-dc-4
 
 **Links**
 
@@ -54,7 +54,7 @@ pb-id: dc-dc-4
 
 MSNBC captures Police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
 
-pb-id: dc-dc-5
+id: dc-dc-5
 
 **Links**
 

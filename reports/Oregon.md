@@ -1,10 +1,25 @@
+## Eugene
+
+### Officer shoots projectile from moving vehicle | June 1st
+
+An officer shoots a projectile out of a moving vehicle, striking pedestrian near eyeball.
+
+This incident took place at in Eugene, OR. Specific area not identified.
+
+id: or-eugene-1
+
+**Links**
+
+* https://www.reddit.com/r/Eugene/comments/gurr9r/police_shoot_projectile_from_moving_vehicle_hit/
+* [Direct link to video](https://streamable.com/9h2tk3)
+
 ## Portland
 
 ### Police violently break up peaceful protest | May 30th
 
 The Police try to break up the peaceful protest by resorting to hitting individuals with batons.
 
-pb-id: or-portland-1
+id: or-portland-2
 
 **Links**
 
@@ -15,7 +30,7 @@ pb-id: or-portland-1
 
 An officer shoves and pepper-sprays a protestor standing on the other side of a barrier.
 
-pb-id: or-portland-2
+id: or-portland-3
 
 **Links**
 
@@ -25,7 +40,7 @@ pb-id: or-portland-2
 
 Actual deployment of tear-gas not shown. Video shows what appears to be a cloud of tear-gas over several tents. The camera thens pans to show 5 cops walking away
 
-pb-id: or-portland-3
+id: or-portland-4
 
 **Links**
 
@@ -35,7 +50,7 @@ pb-id: or-portland-3
 
 Police shoot about a dozen teargas or flashbang grenades into a crowd from quite a distance.
 
-pb-id: or-portland-4
+id: or-portland-5
 
 **Links**
 
@@ -45,7 +60,7 @@ pb-id: or-portland-4
 
 Police deploy flashbangs and teargas into a crowd.
 
-pb-id: or-portland-5
+id: or-portland-6
 
 **Links**
 

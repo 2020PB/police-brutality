@@ -4,7 +4,7 @@
 
 A bunch of protesters peacefully sitting on the ground were shot at and maced. A group of police officers pushed these civilians on to the ground and hit them.
 
-pb-id: ne-omaha-1
+id: ne-omaha-1
 
 **Links**
 
@@ -15,7 +15,7 @@ pb-id: ne-omaha-1
 
 Omaha law enforcement officer kicks protester already on the ground. Another officer carries a reporter away from the scene.
 
-pb-id: ne-omaha-2
+id: ne-omaha-2
 
 **Links**
 

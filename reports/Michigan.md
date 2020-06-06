@@ -4,7 +4,7 @@
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
-pb-id: mi-detroit-1
+id: mi-detroit-1
 
 **Links**
 
@@ -14,7 +14,7 @@ pb-id: mi-detroit-1
 
 Detroit Police pepperspray a reporter in the face while he holds up a media badge
 
-pb-id: mi-detroit-2
+id: mi-detroit-2
 
 **Links**
 
@@ -25,7 +25,7 @@ pb-id: mi-detroit-2
 
 Police teargassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
 
-pb-id: mi-detroit-3
+id: mi-detroit-3
 
 **Links**
 
@@ -35,7 +35,7 @@ pb-id: mi-detroit-3
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
-pb-id: mi-detroit-4
+id: mi-detroit-4
 
 **Links**
 
@@ -47,7 +47,7 @@ pb-id: mi-detroit-4
 
 A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a teargas canister is shot by a different officer directly into the man's head.
 
-pb-id: mi-grandrapids-5
+id: mi-grandrapids-5
 
 **Links**
 
@@ -61,7 +61,7 @@ pb-id: mi-grandrapids-5
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
-pb-id: mi-kalamazoo-6
+id: mi-kalamazoo-6
 
 **Links**
 
@@ -72,7 +72,7 @@ pb-id: mi-kalamazoo-6
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 
-pb-id: mi-kalamazoo-7
+id: mi-kalamazoo-7
 
 **Links**
 

@@ -4,7 +4,7 @@
 
 Police throw tear-gas at protestors that are on the Crescent City Connection bridge and cannot easily disperse
 
-pb-id: la-neworleans-1
+id: la-neworleans-1
 
 **Links**
 * https://twitter.com/misaacstein/status/1268381797081022464

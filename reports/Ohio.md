@@ -1,11 +1,10 @@
-
 ## Cincinnati
 
 ### Police disperse peaceful protest with tear gas, flash bangs and pepper bullets | May 30th
 
 A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
 
-pb-id: oh-cincinnati-1
+id: oh-cincinnati-1
 
 **Links**
 
@@ -15,7 +14,7 @@ pb-id: oh-cincinnati-1
 
 This account describes police firing teargas at protestors and beating them 30 minutes before curfew.
 
-pb-id: oh-cincinnati-2
+id: oh-cincinnati-2
 
 **Links**
 
@@ -31,11 +30,21 @@ Police are seen arresting a protester while an officer wildly swings his baton a
 
 ## Columbus
 
+### Cop hits a protestor in the face, escalates to whole crowd being pepper sprayed | May 29th
+
+A cop hits a protestor in the face. Then a different cop pepper-sprays the person hit and the people around them. It escalates to a lot of cops pepper-spraying the larger surronding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
+
+id: oh-columbus-3
+
+**Links**
+
+* https://www.facebook.com/story.php?story_fbid=1137997739900780&id=100010716946743
+
 ### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | May 30th
 
 Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
 
-pb-id: oh-columbus-3
+id: oh-columbus-4
 
 **Links**
 
@@ -48,7 +57,7 @@ pb-id: oh-columbus-3
 
 Seemingly without warning a protester simply holding a sign was maced in the face.
 
-pb-id: oh-columbus-4
+id: oh-columbus-5
 
 **Links**
 
@@ -58,7 +67,7 @@ pb-id: oh-columbus-4
 
 Unarmed protestors peacefully chanting when an officer starts randomly pepperspraying them.
 
-pb-id: oh-columbus-5
+id: oh-columbus-6
 
 **Links**
 
@@ -68,7 +77,7 @@ pb-id: oh-columbus-5
 
 Police point blank pepper spray a medic who was tending to a protestor
 
-pb-id: oh-columbus-6
+id: oh-columbus-7
 
 **Links**
 * https://twitter.com/Katy38105157/status/1266816739444166656
@@ -78,7 +87,7 @@ pb-id: oh-columbus-6
 
 Police pepper spray a woman who was walking away from the confrontation
 
-pb-id: oh-columbus-7
+id: oh-columbus-8
 
 **Links**
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
@@ -88,7 +97,7 @@ pb-id: oh-columbus-7
 
 Police drive their car towards protestors in order to disperse them
 
-pb-id: oh-columbus-8
+id: oh-columbus-9
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
@@ -99,7 +108,7 @@ Location:  Intersection of E Broad Street and S Grant Avenue
 
 Two protesters are kneeling in a crosswalk across the intersection from a line of police. A police officer walks over and pepper sprays them.
 
-pb-id: oh-columbus-9
+id: oh-columbus-10
 
 **Links**
 
@@ -110,7 +119,7 @@ pb-id: oh-columbus-9
 
 Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
 
-pb-id: oh-columbus-10
+id: oh-columbus-11
 
 **Links**
 
@@ -122,7 +131,7 @@ pb-id: oh-columbus-10
 
 Police pepperspraying peaceful unarmed protestors as they sit on the ground.
 
-pb-id: oh-columbus-11
+id: oh-columbus-12
 
 **Links**
 
@@ -132,7 +141,7 @@ pb-id: oh-columbus-11
 
 A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
 
-pb-id: oh-columbus-12
+id: oh-columbus-13
 
 **Links**
 
@@ -143,7 +152,7 @@ pb-id: oh-columbus-12
 
 A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
 
-pb-id: oh-columbus-13
+id: oh-columbus-14
 
 **Links**
 
@@ -156,7 +165,7 @@ Location: Starbucks at the intersection of Lane Avenue and North High Street
 
 Three reporters repeatedly tell police that they are members of the press and show their passes. Reporters are exempt from curfew but the police instruct them to leave regardless, then spray the Lantern reporters with pepper spray.
 
-pb-id: oh-columbus-14
+id: oh-columbus-15
 
 **Links**
 
@@ -168,7 +177,7 @@ pb-id: oh-columbus-14
 
 Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
 
-pb-id: oh-columbus-15
+id: oh-columbus-16
 
 **Links**
 

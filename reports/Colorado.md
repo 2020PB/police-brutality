@@ -5,7 +5,7 @@
 
 At least 5 cops pin man to the ground. Several of them punch him even though he appears to not be resisting. According to the person that posted the video he was shot by rubber bullets before this took place.
 
-pb-id: co-coloradosprings-1
+id: co-coloradosprings-1
 
 **Links**
 
@@ -19,7 +19,7 @@ pb-id: co-coloradosprings-1
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
 
-pb-id: co-denver-2
+id: co-denver-2
 
 **Links**
 
@@ -29,7 +29,7 @@ pb-id: co-denver-2
 
 An officer peppersprays someone recording the capitol building through his sun roof as well as a second person recording in front of the car.
 
-pb-id: co-denver-3
+id: co-denver-3
 
 **Links**
 
@@ -41,7 +41,7 @@ pb-id: co-denver-3
 
 A reporter from Denver 7 news tweeted a photo showing one of their cameramen holding their camera with a bullet hole through its lens.  The caption states "Police just fired off paintballs and tear gas. Our photographer got hit four time and our camera got hit."
 
-pb-id: co-denver-4
+id: co-denver-4
 
 **Links**
 
@@ -52,7 +52,7 @@ pb-id: co-denver-4
 A woman stops an armored SWAT car (number: APC01?) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
 Three armored police get out from back of armored car, one walks around the side and shoots at the woman from what looks like a paintball gun.
 
-pb-id: co-denver-5
+id: co-denver-5
 
 **Links**
 
@@ -62,7 +62,7 @@ pb-id: co-denver-5
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
 
-pb-id: co-denver-6
+id: co-denver-6
 
 **Links**
 
@@ -74,7 +74,7 @@ pb-id: co-denver-6
 
 Policemen turned off their body cams and started unnecessary firing of tear gas.
 
-pb-id: co-denver-7
+id: co-denver-7
 
 **Links**
 
@@ -88,7 +88,7 @@ pb-id: co-denver-7
 
 A member of the press is filming from an empty sidewalk. Law enforcement shoot at him, and he yells "I'm media, we're press, we're press, don't shoot at us".
 
-pb-id: co-denver-8
+id: co-denver-8
 
 **Links**
 
@@ -99,7 +99,7 @@ pb-id: co-denver-8
 
 Police shoot some pepper balls at a car with a prenant woman inside. The driver steps out telling them there is a pregnant woman, after a few seconds multiple officers light up the car with even more shots
 
-pb-id: co-denver-9
+id: co-denver-9
 
 **Links**
 
@@ -109,7 +109,7 @@ pb-id: co-denver-9
 
 This officer and fires a pepper pellet directly at someone filming.
 
-pb-id: co-denver-10
+id: co-denver-10
 
 **Links**
 
@@ -119,7 +119,7 @@ pb-id: co-denver-10
 
 Police officer snatches away protestor's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
-pb-id: co-denver-11
+id: co-denver-11
 
 **Links**
 
@@ -130,7 +130,7 @@ pb-id: co-denver-11
 
 Use of Force committee member for Denver Police, shot in back with tear gas canisters.
 
-pb-id: co-denver-12
+id: co-denver-12
 
 **Links**
 
@@ -140,7 +140,7 @@ pb-id: co-denver-12
 
 Denver SWAT unit tackles group of peaceful protesters who were walking and chanting (around 12:20am).
 
-pb-id: co-denver-13
+id: co-denver-13
 
 **Links**
 
