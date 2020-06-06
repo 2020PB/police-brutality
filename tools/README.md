@@ -29,3 +29,8 @@ Tests use the [pytest](https://docs.pytest.org/) framework
 ### Running tests
 
 - From inside of the `tools` folder, run `pytest` (this will pick up tests in all files named `test_*.py` or `*_test.py`)
+
+### Checking test coverage report
+
+- From inside of the `tools` folder, run `pytest --cov=. --cov-report=html`
+- Run `open htmlcov/index.html` to open the interactive html coverage report

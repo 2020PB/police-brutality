@@ -6,5 +6,6 @@ __pycache__
 .coverage
 *.pytest_cache
 .python-version
+htmlcov
 
 .DS_Store
