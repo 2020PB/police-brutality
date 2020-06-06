@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T18:05:31.106628+00:00
+UPDATED AT: 2020-06-06T18:11:20.998956+00:00
 
 
 # Alabama
@@ -1731,6 +1731,19 @@ Protesters are trying to leave at curfew and are offered a ride. They get into a
 
 
 # Oregon
+
+## Eugene
+
+### Officer shoots projectile from moving vehicle | June 1st
+
+An officer shoots a projectile out of a moving vehicle, striking pedestrian near eyeball.
+
+This incident took place at in Eugene, OR. Specific area not identified.
+
+**Links**
+
+* https://www.reddit.com/r/Eugene/comments/gurr9r/police_shoot_projectile_from_moving_vehicle_hit/
+* [Direct link to video](https://streamable.com/9h2tk3)
 
 ## Portland
 
