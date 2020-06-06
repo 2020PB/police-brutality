@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T20:14:47.385594+00:00
+UPDATED AT: 2020-06-06T21:16:24.017427+00:00
 
 
 # Alabama
@@ -2516,7 +2516,7 @@ id: tx-dallas-12
 
 ### Police use flashbangs and tear gas on protestors | May 31st
 
-The video shows a certain individual trying to escape, what seems to be loud explosions. These loud explosions could be attributed to the tear gas and flashbangs that the police were using.
+The first-person video shows an individual running away from what seem to be loud explosions.
 
 id: tx-dallas-13
 
