@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T17:07:03.540993+00:00
+UPDATED AT: 2020-06-06T17:26:11.667471+00:00
 
 
 # Alabama
@@ -1762,6 +1762,7 @@ A man is being held on the ground by a police officer, who forces the man's hand
 
 **Links**
 
+* https://metro.co.uk/2020/06/01/cop-put-baton-george-floyd-protesters-hand-put-knee-neck-12789427/
 * https://twitter.com/mkultranews/status/1267305587206807553
 
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them | June 1st
