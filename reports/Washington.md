@@ -71,11 +71,12 @@ Video shows officers deploying flashbangs into a crowd of peaceful protesters, a
 
 [Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)
 
-### Police officer pulls protestor to the ground unprovoked | June 2nd
+### Police officer pulls protestor to the ground unprovoked | May 31
 
 An officer on a bike pulls down a protestor walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
 
 **Links**
 
+* https://twitter.com/EDDIFUL/status/1267338642617364481
 * https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
