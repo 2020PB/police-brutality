@@ -70,14 +70,6 @@ The police are seen shooting at fleeing protestors and parked vehicles.
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
-### Police intimidate person filming them by shooting at apartment building | May 30th
-
-The police are seen to threaten and try to scare the residents of the apartment building from which video is taken. At 0:45 a shot is fired by the police in order to get the residents of the apartments off their balconies and into their homes.
-
-**Links**
-
-* https://peertube.slat.org/videos/watch/2dcae21d-6502-41f4-bdf2-9ae40c8e8cee
-
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
 Los Angeles law enforcement beat several protesters with batons.
