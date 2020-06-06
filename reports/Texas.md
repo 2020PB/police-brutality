@@ -128,6 +128,14 @@ The video shows a certain individual trying to escape, what seems to be loud exp
 
 * https://twitter.com/xtranai/status/1266898175568338945
 
+### Aftermath of man shot in eye by non-lethal rounds |
+
+These two images show the injuries of an individual who had been shot in the eye by officers.
+
+**Links**
+
+* https://imgur.com/a/IOuyzHE
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
