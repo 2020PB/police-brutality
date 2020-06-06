@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-05T23:54:20.425158+00:00
+UPDATED AT: 2020-06-06T00:12:36.282221+00:00
 
 
 # Alabama
@@ -1970,14 +1970,6 @@ Police officers are seen pushing around and even driving into crowds of people. 
 **Links**
 
 * https://twitter.com/perfectlyg0lden/status/1267014293628870656
-
-### Police shove a person to the ground and put a weapon into their hand | (Believed) May 31st
-
-Police shove a person to the ground and put a weapon into their hand.  The person is already on the ground, and three officers continue to restrain them.
-
-**Links**
-
-* [https://twitter.com/BrutumF/status/1267575655509577728](https://twitter.com/BrutumF/status/1267575655509577728)
 
 ### Officer grabs bystander by the neck | June 1st
 
