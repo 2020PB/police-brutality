@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T08:35:46.021695+00:00
+UPDATED AT: 2020-06-06T10:35:46.054104+00:00
 
 
 # Alabama
@@ -2012,14 +2012,6 @@ Police officers are seen pushing around and even driving into crowds of people. 
 **Links**
 
 * https://twitter.com/perfectlyg0lden/status/1267014293628870656
-
-### Officer grabs bystander by the neck | June 1st
-
-Person on the sidewalk appears to say something to an officer on a bike. The officer grabs him by the neck and forces him to the ground.
-
-**Links**
-
-* https://twitter.com/EDDIFUL/status/1267338642617364481
 
 ### Officer beats a protestor while pinning him on the ground |
 
