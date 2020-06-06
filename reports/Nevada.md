@@ -1,5 +1,16 @@
 ## Las Vegas
 
+### Multiple instances of officers rushing protesters and arresting them
+
+Videos show officers rushing peaceful protesters, pushing them over and arresting them.
+
+**Links**
+*  https://twitter.com/chlvphoto/status/1266581893866086406
+*  https://twitter.com/itsraiialex/status/1266770032719040513
+*  https://twitter.com/chlvphoto/status/1266614067587723265
+*  https://twitter.com/ImResilientFR/status/1268605020770938882
+
+
 ### Police shove and drag man through the street | May 31st
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
