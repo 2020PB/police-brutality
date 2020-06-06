@@ -192,3 +192,11 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 **Links**
 
 * https://twitter.com/johnknefel/status/1268736946031001607
+
+### NYPD pushes crowd into tight space and attacks several with batons | June 5th
+
+At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepperspray and batons.
+
+**Links**
+
+* https://twitter.com/AndomForNY/status/1269065176814358529
