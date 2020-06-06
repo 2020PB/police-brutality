@@ -9,3 +9,13 @@ id: wi-madison-1
 **Links**
 
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
+
+## Milwaukee
+
+### Officers punch pinned protestor | June 2nd
+
+Law enforcement officers punch and kneel on a pinned protestor.
+
+**Links**
+
+* https://giphy.com/gifs/protest-milwaukee-blm-IzjGA5w04kTJTeP7Dz/fullscreen
