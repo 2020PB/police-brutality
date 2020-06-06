@@ -50,6 +50,7 @@ A woman is seen being restrained by a police officer who stands behind her with 
 
 **Links**
 
+* [Washington Post Story, 2nd video in article](https://www.washingtonpost.com/national/protests-police-brutality-video/2020/06/05/a9e66568-a768-11ea-b473-04905b1af82b_story.html)
 * https://www.reddit.com/r/PublicFreakout/comments/guffju/indianapolis_police_on_women_rights/
 * https://twitter.com/greg_doucette/status/1268391718086422528
 
@@ -62,5 +63,4 @@ In this video, protestors are chanting peacefully when an officer drops tear gas
 **Links**
 
 * https://www.facebook.com/ctchoula/videos/10163707272210302/
-
 * [Image of a tear gas canister used in this incident](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101254362_755196441884833_7192544661301362688_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=wjDZM1x0RLYAX9sKPft&_nc_ht=scontent-ort2-2.xx&oh=606a9dbf10d30a680c5dcb2c8ae8d7ce&oe=5EFD314B).
