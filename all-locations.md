@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T06:49:03.146439+00:00
+UPDATED AT: 2020-06-06T08:35:14.553347+00:00
 
 
 # Alabama
@@ -1507,6 +1507,14 @@ Police are seen arresting a protester while an officer wildly swings his baton a
 * https://twitter.com/greg_doucette/status/1267114065819770880
 
 ## Columbus
+
+### Cop hits a protestor in the face, escalates to whole crowd being pepper sprayed | May 29th
+
+A cop hits a protestor in the face. Then a different cop pepper-sprays the person hit and the people around them. It escalates to a lot of cops pepper-spraying the larger surronding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
+
+**Links**
+
+* https://www.facebook.com/story.php?story_fbid=1137997739900780&id=100010716946743
 
 ### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | May 30th
 
