@@ -103,6 +103,14 @@ ABC7 reporters are hit by a cloud of tear gas after protesters were gassed up th
 
 * https://twitter.com/GMA/status/1266934049098121216
 
+### Police beat protesters with batons | May 30th
+
+In the video, protesters can be seen kneeling. Police swing batons at several protesters pressed against the side of a building.
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxf4vn/officer_hwang_of_the_lapd_during_saturdays/; includes more in-depth eye-witness account from the person filming.
+
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
