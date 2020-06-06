@@ -59,6 +59,15 @@ Photo shows large bruise the reporter got from a rubber bullet
 
 ## Los Angeles
 
+### Photograph documents aftermath of LAPD firing non-lethal round at face of homeless man in wheelchair | June 2
+
+Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless main in a wheelchair.
+
+**Links**
+* https://www.instagram.com/p/CBCiZXOlno4/
+* https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
+* https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
+
 ### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2
 
 The police are seen shooting at fleeing protestors and parked vehicles.
