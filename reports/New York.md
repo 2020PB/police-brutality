@@ -193,6 +193,14 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 
 * https://twitter.com/johnknefel/status/1268736946031001607
 
+### Police injure journalist | May 31st
+
+Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
+
+**Links**
+
+* https://twitter.com/tylergabriel_/status/1267287516345925632
+
 ### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
 
 Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
