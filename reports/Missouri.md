@@ -19,6 +19,7 @@ A line of police stand well apart from a crowd of protestors, one of whom is spe
 
 **Links**
 
+* [CNN Report](https://www.cnn.com/2020/06/02/us/kansas-city-police-spray-protester-who-yelled/index.html)
 * https://twitter.com/weslyinfinity/status/1267321172309544960?
 
 ### Police pullaway protestor and pepper sprays others | June 1st
