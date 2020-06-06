@@ -36,6 +36,14 @@ Police pepper sprays a young child who is seen crying, while protesters pour mil
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
 * Seattle OPA Case 2020OPA-0322
 
+### Police throw tear gas at peaceful protestors | May 31st
+
+A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
+
+**Links** 
+
+* https://www.reddit.com/r/Seattle/comments/gu3qq1/cop_just_casually_tosses_tear_gas_at_my_feet_like/
+
 ### Police initiate violence | June 1st
 
 Police pepper spray peacefully protesting crowd.
