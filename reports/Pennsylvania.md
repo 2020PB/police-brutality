@@ -80,7 +80,7 @@ At least 6 officers surround a handcuffed man who says "I can't breathe". Office
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
 
-### Police shove protestors and strike man across the face with a baton | May 31st
+### Police shove protestors and strike man across the face with a baton | Jun 1st
 
 Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
