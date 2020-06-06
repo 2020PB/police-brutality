@@ -37,3 +37,16 @@ A police officer grabs a protestor from behind (light grey hoodie), pull him out
 **Links**
 
 * https://twitter.com/ewcfilms/status/1268003421786906627
+
+## Tampa
+
+### One woman is pinned to the ground and another is pepper-sprayed | June 4th
+
+Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer.
+
+**Links**
+
+* https://twitter.com/walkin_da_talk/status/1268718193679499266
+* https://twitter.com/jamiebullockk/status/1268658254806163460
+* https://twitter.com/InesseC/status/1268912900565094401
+* [Location on Google Street View](https://www.google.com/maps/@27.9563654,-82.4569108,3a,75y,255.48h,92.17t/data=!3m6!1e1!3m4!1sVIFVQFp3QMX517HfhvNfbg!2e0!7i16384!8i8192)
