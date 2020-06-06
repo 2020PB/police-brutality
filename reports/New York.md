@@ -152,7 +152,7 @@ Despite clearly identifying himself, the reporter was taken into custody during 
 * https://twitter.com/HuffPost/status/1266936484692725766
 * https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
 
-### Member of the New York State Assembly pepper-sprayed
+### Member of the New York State Assembly pepper-sprayed | May 29th
 
 Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays Centre.
 
@@ -200,3 +200,11 @@ Police hit an African American journalist for the WSJ in the face multiple times
 **Links**
 
 * https://twitter.com/tylergabriel_/status/1267287516345925632
+
+### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
+
+Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
+
+**Links**
+
+* https://twitter.com/sa0un/status/1268933117827571714
