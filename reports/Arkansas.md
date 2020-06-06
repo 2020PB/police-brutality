@@ -10,9 +10,8 @@ id: ar-bentonville-1
 **Links**
 
 * https://twitter.com/courtenay_roche/status/1267653137969623040
-
 * https://twitter.com/yagirlbrookie09/status/1267647898365427714
-
+* https://twitter.com/peyjobe/status/1267656498525753344
 * https://www.4029tv.com/article/bentonville-police-deploy-tear-gas-on-protesters/32736629#
 
 ## Little Rock
