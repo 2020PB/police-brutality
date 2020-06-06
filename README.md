@@ -41,6 +41,7 @@ As these protests have continued, hundreds of incidents have been recorded where
 * [Raw Video Archive](https://github.com/pb-files/pb-videos)
 * **Incident Reports**
   * [Alabama](./reports/Alabama.md)
+  * [Arizona](./reports/Arizona.md)
   * [Arkansas](./reports/Arkansas.md)
   * [California](./reports/California.md)
   * [Colorado](./reports/Colorado.md)
