@@ -109,7 +109,7 @@ In the video, protesters can be seen kneeling. Police swing batons at several pr
 
 **Links**
 
-* https://www.reddit.com/r/2020PoliceBrutality/comments/gxf4vn/officer_hwang_of_the_lapd_during_saturdays/; includes more in-depth eye-witness account from the person filming.
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
