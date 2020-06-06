@@ -2,3 +2,4 @@
 
 # ubershmekel owns the files related to the data_builder script, but not the files in the downloader directory
 tools/*     @ubershmekel
+tools/downloader/ @bonedaddy 
