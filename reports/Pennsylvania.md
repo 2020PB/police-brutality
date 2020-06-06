@@ -49,15 +49,6 @@ A man is being held on the ground by a police officer, who forces the man's hand
 * https://metro.co.uk/2020/06/01/cop-put-baton-george-floyd-protesters-hand-put-knee-neck-12789427/
 * https://twitter.com/mkultranews/status/1267305587206807553
 
-### Cops beat Temple University student | May 31st
-
-An officer beat a Temple University engineering student with a baton, including near his head, and tackled him. Another officer pressed the student's face to the pavement using his knee on his neck. The student required medical treatment.
-
-**Links**
-
-* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
-* https://whyy.org/articles/philly-police-commander-videotaped-beating-protesters-linked-to-narcotics-scandal-misconduct/
-
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
 
 An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
@@ -89,15 +80,16 @@ At least 6 officers surround a handcuffed man who says "I can't breathe". Office
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
 
-### Police shove protestors and strike woman across the face with a baton | June 1st
+### Police shove protestors and strike man across the face with a baton | May 31st
 
-Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young woman who he strikes with his baton, at full strength, in the head before jumping on her and cuffing her with assistance from another officer.
+Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268766216161763328
 * https://twitter.com/Peopledelphia/status/1267588991655784448
-
+* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
+* https://whyy.org/articles/philly-police-commander-videotaped-beating-protesters-linked-to-narcotics-scandal-misconduct/
 
 ## Pittsburgh
 
