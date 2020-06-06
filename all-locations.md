@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T00:24:32.812409+00:00
+UPDATED AT: 2020-06-06T00:24:43.886629+00:00
 
 
 # Alabama
@@ -281,7 +281,9 @@ A crowd of protestors chanting are shot with rubber bullets by a line of officer
 
 ### Police shoot unarmed man in a wheelchair in the face | June 3rd
 
-A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. 
+A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting.
+
+This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
 **Links**
 
