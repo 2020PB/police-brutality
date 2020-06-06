@@ -98,7 +98,8 @@ A mounted police officer in Houston trampled a woman with his horse. It appeared
 
 **Links**
 
-* https://twitter.com/vikthewild/status/1266538354939756544
+* [Video of trampling](https://twitter.com/vikthewild/status/1266538354939756544)
+* [abc13 article](https://abc13.com/hpd-uns-over-girl-police-on-horse-tramples-protester-george-floyd/6223240/)
 
 ### Officers shove a woman to the pavement | May 29th
 
