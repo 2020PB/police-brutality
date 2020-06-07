@@ -105,6 +105,12 @@ id: wa-seattle-5
 
 * https://twitter.com/catsayshello/status/1268073344814866432
 
+### Officers track protester down and drag her out of car | June 6th
+
+Video shows Seattle PD dragging a woman out of her car's backseat. They can be overheard saying that she assaulted the speaker and another officer at an earlier protest. 
+
+**Links**
+*  https://twitter.com/daeshikjr/status/1269326575180214272
 
 ### Additional Seattle OPA Case Numbers
 
