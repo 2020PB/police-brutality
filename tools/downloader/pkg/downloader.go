@@ -22,8 +22,8 @@ import (
 
 const (
 	/* rows of csv file for easy reference
-	0    , 1     , 2  , 3  , 4  , 5       , 6    , 7    ,  8   , 9    , 10   , 11  ,  12   , 13
-	state,edit_at,city,name,date,date_text,Link 1,Link 2,Link 3,Link 4,Link 5,Link 6,Link 7,Link 8
+	0    , 1     , 2  , 3  , 4  , 5       , 6, 7    , 8    , 9    , 10  , 11    , 12   , 13   ,  14
+	state,edit_at,city,name,date,date_text,id,Link 1,Link 2,Link 3,Link 4,Link 5,Link 6,Link 7,Link 8
 	*/
 	url = "https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.csv"
 )
@@ -89,8 +89,8 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 			break
 		}
 		// skip the first row as it contains column names OR
-		// skip if the row has less than 7 elements as the 7th element is the start of the video links
-		if i == 0 || len(record) < 7 {
+		// skip if the row has less than 8 elements as the 8th element is the start of the video links
+		if i == 0 || len(record) < 8 {
 			continue
 		}
 		wg.Add(1)
