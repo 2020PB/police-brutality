@@ -102,7 +102,7 @@ id: oh-columbus-9
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
 
-### Police pepper spray two kneeling protesters | May 31st
+### Police pepper spray two kneeling protesters | May 31st (DEAD LINKS)
 
 Location:  Intersection of E Broad Street and S Grant Avenue
 
