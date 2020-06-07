@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T13:59:38.822573+00:00
+UPDATED AT: 2020-06-07T14:16:28.370861+00:00
 
 
 # Alabama
@@ -2241,6 +2241,16 @@ id: or-portland-6
 **Links**
 
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
+
+### Officer attacks photographer with baton and pepper sprays him | June 6th
+
+A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.
+
+id: or-portland-7
+
+**Links**
+
+*  https://twitter.com/chadloder/status/1269526243138928642
 
 
 
