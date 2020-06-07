@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T03:12:42.174180+00:00
+UPDATED AT: 2020-06-07T03:13:48.787872+00:00
 
 
 # Alabama
@@ -2648,16 +2648,6 @@ id: ut-saltlakecity-2
 
 * https://www.reddit.com/r/nextfuckinglevel/comments/gtv4co/downtown_salt_lake_city_may_30th_2020_unarmed/
 
-### Police push and tackle man that is being vocal | June 1st
-
-Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
-
-id: ut-saltlakecity-3
-
-**Links**
-
-* https://v.redd.it/fl4y919v1q251
-
 ### Police shoot tear gas canister at man from close range, striking him in the chest | May 30th
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
@@ -2668,6 +2658,18 @@ id: ut-saltlakecity-4
 
 * https://twitter.com/greg_doucette/status/1268333029526843392
 * https://www.instagram.com/p/CA148-0B14t6mQZqJZYzwq25KdoPzZ5CJmV3oQ0/
+
+### Police push and tackle man that is being vocal | June 1st
+
+Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
+
+id: ut-saltlakecity-3
+
+**Links**
+
+* https://v.redd.it/fl4y919v1q251
+
+
 
 
 
