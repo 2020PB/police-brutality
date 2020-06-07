@@ -4,6 +4,8 @@
 
 Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
+id: nv-las-vegas-1
+
 **Links**
 
 *  https://twitter.com/itsraiialex/status/1266770032719040513
@@ -12,6 +14,8 @@ Officer line moves protesters back and as protesters comply they attempt to arre
 ### Police shove and drag man through the street | May 31st
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
+
+id: nv-las-vegas-1
 
 **Links**
 
