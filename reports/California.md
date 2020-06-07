@@ -290,6 +290,7 @@ Police zip-tied protesters' hands behind their backs and lock them into small ca
 **Links**
 *  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
 *  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
+*  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
 
 
 ## Oakland
