@@ -105,6 +105,11 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 				if record[ii] == "" {
 					continue
 				}
+				// if the file already exists, dont redownload
+				_, err := os.Stat(d.getName(pbid, count))
+				if os.IsExist(err) {
+					continue
+				}
 				d.logger.Info("downloading video", zap.String("name", record[3]), zap.String("url", record[ii]))
 				download := func() error {
 					cmd := exec.Command("youtube-dl", "-o", d.getName(pbid, count), record[ii])
@@ -144,6 +149,13 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 			if err := os.Remove(d.path + "/" + info.Name()); err != nil {
 				d.logger.Error("failed to remove file part", zap.String("file", info.Name()), zap.Error(err))
 			}
+		}
+	}
+	if data, err := ioutil.ReadFile(d.path + "/name_mapping.csv"); err != nil {
+		d.logger.Error("failed to read previous name mapping file, likely doesn't exist", zap.Error(err))
+	} else {
+		if len(data) > 0 {
+			ioutil.WriteFile(fmt.Sprintf("%s/name_mapping-%v.csv", d.path, time.Now().UnixNano()), data, os.FileMode(0640))
 		}
 	}
 	// open csv file to store mappings
