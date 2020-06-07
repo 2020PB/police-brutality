@@ -1,6 +1,6 @@
 ## Clayton
 
-### Law enforcement gas teenagers at a park.
+### Law enforcement gas teenagers at a park | June 2nd
 
 Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
 
@@ -29,11 +29,11 @@ id: ca-compton-1
 
 ## Costa Mesa
 
-### Law enforcement concealing badge.
-
-id: ca-costa-mesa-1
+### Law enforcement concealing badge | June 3rd
 
 Law enforcement officer can be seen without a badge or name tag.
+
+id: ca-costa-mesa-1
 
 **Links**
 
@@ -55,6 +55,16 @@ id: ca-hollywood-2
 
 ## La Mesa
 
+### Law enforcement shoot and throw tear gas at protesters | May 30th
+
+Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
+
+id: ca-lamesa-4
+
+**Links**
+
+* https://twitter.com/mamitbh/status/1267030342243778561
+
 ### Police shoot woman in the face | May 31st
 
 La Mesa PD shoot a woman in the face with a rubber bullet.
@@ -66,17 +76,6 @@ id: ca-lamesa-3
 * At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
-
-### Law enforcement shoot and throw tear gas at protesters | May 30th
-
-Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
-
-id: ca-lamesa-4
-
-**Links**
-
-* https://twitter.com/mamitbh/status/1267030342243778561
-
 
 ## Long Beach
 
@@ -93,19 +92,6 @@ id: ca-longbeach-5
 
 
 ## Los Angeles
-
-### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2
-
-The police are seen shooting at fleeing protestors and parked vehicles.
-
-id: ca-losangeles-6
-
-**Links**
-
-* https://twitter.com/balleralert/status/1268014113105555456
-* https://twitter.com/theweirdingwayy/status/1268048483920928768
-* https://twitter.com/EarvinD/status/1268087279458775040
-* [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 ### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
 
@@ -235,6 +221,16 @@ id: ca-losangeles-19
 
 * https://twitter.com/cwellborn3/status/1267318753571811329
 
+### Police shoot crowd of unarmed protestors with rubber bullets | Believed to be May 31st
+
+A crowd of protestors chanting are shot with rubber bullets by a line of officers.
+
+id: ca-losangeles-22
+
+**Links**
+
+* https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
+
 ### Police strike protestors with batons | June 1st
 
 Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
@@ -258,15 +254,18 @@ id: ca-losangeles-21
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
-### Police shoot crowd of unarmed protestors with rubber bullets | Believed to be May 31st
+### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2nd
 
-A crowd of protestors chanting are shot with rubber bullets by a line of officers.
+The police are seen shooting at fleeing protestors and parked vehicles.
 
-id: ca-losangeles-22
+id: ca-losangeles-6
 
 **Links**
 
-* https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
+* https://twitter.com/balleralert/status/1268014113105555456
+* https://twitter.com/theweirdingwayy/status/1268048483920928768
+* https://twitter.com/EarvinD/status/1268087279458775040
+* [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 ### Police shoot unarmed man in a wheelchair in the face | June 3rd
 
@@ -332,7 +331,7 @@ id: ca-sacramento-27
 * https://youtu.be/pRmBO34aXME
 * https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
-### Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful. | June 1st
+### Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful | June 1st
 
 Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful.
 
@@ -430,6 +429,18 @@ id: ca-santamonica-35
 
 * https://twitter.com/GIFsZP/status/1267241803750813703
 
+## Vallejo
+
+### Police fatally shoot unarmed 22 year old | June 1st
+
+"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family."
+
+id: ca-vallejo-37
+
+**Links**
+
+* https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
+
 ## Walnut Creek
 
 ### Armored law enforcement vehicle threatens protestors | June 2nd
@@ -442,14 +453,3 @@ id: ca-walnutcreek-36
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
 
-## Vallejo
-
-### Police fatally shoot unarmed 22 year old | June 1st
-
-"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family."
-
-id: ca-vallejo-37
-
-**Links**
-
-* https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
