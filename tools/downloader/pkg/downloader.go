@@ -67,6 +67,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		results []struct {
 			name  string
 			link  string
+			pbid  string
 			count int64
 		}
 		mux    = &sync.Mutex{}
@@ -96,6 +97,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		wg.Add(1)
 		d.wp.Submit(func() {
 			defer wg.Done()
+			pbid := record[6]
 			// gets the last column so we dont get an out of range panic
 			max := len(record) - 1
 			for ii := 7; ii < max; ii++ {
@@ -106,7 +108,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 				count := d.count.Inc()
 				d.logger.Info("downloading video", zap.String("name", record[3]), zap.String("url", record[ii]))
 				download := func() error {
-					cmd := exec.Command("youtube-dl", "-o", d.getName(count), record[ii])
+					cmd := exec.Command("youtube-dl", "-o", d.getName(pbid, count), record[ii])
 					return d.runCommand(cmd, timeout)
 				}
 				if err := download(); err != nil {
@@ -117,10 +119,12 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 					results = append(results, struct {
 						name  string
 						link  string
+						pbid  string
 						count int64
 					}{
 						name:  record[3],
 						link:  record[ii],
+						pbid:  pbid,
 						count: count,
 					})
 					mux.Unlock()
@@ -144,17 +148,17 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		}
 	}
 	// open csv file to store mappings
-	fh, err := os.Create("name_mapping.csv")
+	fh, err := os.Create(d.path + "/name_mapping.csv")
 	if err != nil {
 		return err
 	}
 	writer := csv.NewWriter(fh)
 	// write the csv file headers
-	writer.Write([]string{"name", "link", "unique_video_number"})
+	writer.Write([]string{"name", "link", "pbid", "link_number"})
 	mux.Lock()
 	// iterate over all results and add to csv
 	for _, v := range results {
-		writer.Write([]string{v.name, v.link, fmt.Sprint(v.count)})
+		writer.Write([]string{v.name, v.link, v.pbid, fmt.Sprint(v.count)})
 	}
 	mux.Unlock()
 	// flush csv, writing to disk
@@ -188,6 +192,10 @@ func (d *Downloader) runCommand(cmd *exec.Cmd, timeout time.Duration) error {
 }
 
 // uses an atomically increasing counter to prevent any possible chance of filename conflics when running many concurrent downloaders
-func (d *Downloader) getName(count int64) string {
-	return d.path + "/%(id)s." + fmt.Sprint(count) + ".%(ext)s"
+func (d *Downloader) getName(id string, count int64) string {
+	// fallback to youtube id
+	if id == "" {
+		id = "%(id)s"
+	}
+	return d.path + "/" + id + "." + fmt.Sprint(count) + ".%(ext)s"
 }
