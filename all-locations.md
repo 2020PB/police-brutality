@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:33:07.124217+00:00
+UPDATED AT: 2020-06-07T02:35:26.561131+00:00
 
 
 # Alabama
@@ -1898,6 +1898,15 @@ id: ny-newyorkcity-25
 **Links**
 
 * https://twitter.com/sa0un/status/1268933117827571714
+
+### Officers beat man until his face and belongings are bloody | May 31
+
+Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
+
+**Links**
+
+* https://wapo.st/2Mx7WY6
+* https://www.washingtonpost.com/national/protests-police-brutality-video/2020/06/05/a9e66568-a768-11ea-b473-04905b1af82b_story.html
 
 
 
