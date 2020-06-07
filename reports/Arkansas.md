@@ -1,9 +1,11 @@
-## Bentonville 
+## Bentonville
 
 ### Law enforcement gas a crowd chanting “we want peace” right after exiting the building. | June 1st
 
-Law enforcement gas a crowd chanting “we want peace” right after exiting the building, in the video there was no order to disperse, the crowd seemed to be peacefully chanting. 
+Law enforcement gas a crowd chanting “we want peace” right after exiting the building, in the video there was no order to disperse, the crowd seemed to be peacefully chanting.
 Article says crowd started throwing water bottles and firecrackers. Sheriff's office claims rocks were thrown.
+
+id: ar-bentonville-1
 
 **Links**
 
@@ -13,12 +15,15 @@ Article says crowd started throwing water bottles and firecrackers. Sheriff's of
 
 * https://www.4029tv.com/article/bentonville-police-deploy-tear-gas-on-protesters/32736629#
 
-## Little Rock 
+## Little Rock
 
 ### Peaceful protestors kneeling are shot with an explosive projectile. | May 31st
 
 Peaceful protestors kneeling are shot with an explosive projectile.
 
+id: ar-littlerock-2
+
 **Links**
 
 * https://twitter.com/KATVShelby/status/1267554421019475972?s=20
+* https://twitter.com/KATVNews/status/1267509911954440194
