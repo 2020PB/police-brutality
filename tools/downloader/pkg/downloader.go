@@ -98,7 +98,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 			defer wg.Done()
 			// gets the last column so we dont get an out of range panic
 			max := len(record) - 1
-			for ii := 6; ii < max; ii++ {
+			for ii := 7; ii < max; ii++ {
 				// this column is empty, and has no data
 				if record[ii] == "" {
 					continue
