@@ -1,3 +1,16 @@
+## Clayton
+
+### Law enforcement gas teenagers at a park.
+
+Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
+
+id: ca-clayton-1
+
+**Links**
+
+* https://twitter.com/CorinneAllen20/status/1268000716884283393
+* https://twitter.com/CliffBraun/status/1268038070667849728
+
 ## Compton
 
 ### Police beat person on the ground | (believed to be) June 1st
