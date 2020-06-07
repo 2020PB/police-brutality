@@ -211,7 +211,7 @@ Two women with bikes are being questioned by officers. One woman is cuffed and a
 
 ### Officers beat man until his face and belongings are bloody | May 31
 
-Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.e.g. Police pepper spray kneeling protestors
+Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
 **Links**
 
