@@ -1,14 +1,12 @@
 ## Las Vegas
 
-### Multiple instances of officers rushing protesters and arresting them
+### Police arrest a man for speaking at them from a distance. | May 29th.
 
-Videos show officers rushing peaceful protesters, pushing them over and arresting them.
+Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
 **Links**
-*  https://twitter.com/chlvphoto/status/1266581893866086406
+
 *  https://twitter.com/itsraiialex/status/1266770032719040513
-*  https://twitter.com/chlvphoto/status/1266614067587723265
-*  https://twitter.com/ImResilientFR/status/1268605020770938882
 
 
 ### Police shove and drag man through the street | May 31st
