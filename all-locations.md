@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:23:39.394601+00:00
+UPDATED AT: 2020-06-07T02:27:47.881650+00:00
 
 
 # Alabama
@@ -1275,6 +1275,7 @@ id: mn-minneapolis-1
 * https://twitter.com/MichaelAdams317/status/1266945268567678976
 * https://twitter.com/rsdaza/status/1267200011659554824
 * https://twitter.com/MichaelAdams317/status/1267203751913422849
+* https://www.vice.com/en_us/article/y3zd7g/i-told-riot-cops-im-a-journalist-they-forced-me-to-the-ground-and-pepper-sprayed-me-in-the-face
 
 ### Police shoot at a woman on her porch | May 31st
 
