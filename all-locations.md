@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:27:58.954254+00:00
+UPDATED AT: 2020-06-07T02:31:41.285776+00:00
 
 
 # Alabama
@@ -104,6 +104,19 @@ id: ar-littlerock-2
 
 
 # California
+
+## Clayton
+
+### Law enforcement gas teenagers at a park.
+
+Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
+
+id: ca-clayton-1
+
+**Links**
+
+* https://twitter.com/CorinneAllen20/status/1268000716884283393
+* https://twitter.com/CliffBraun/status/1268038070667849728
 
 ## Compton
 
