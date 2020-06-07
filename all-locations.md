@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T12:57:00.821798+00:00
+UPDATED AT: 2020-06-07T13:59:38.822573+00:00
 
 
 # Alabama
@@ -2006,6 +2006,10 @@ id: oh-cincinnati-2
 ### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
 
 Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back.
+
+id: oh-cleveland-1
+
+**Links**
 
 * https://twitter.com/greg_doucette/status/1267114065819770880
 
