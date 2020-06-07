@@ -151,6 +151,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 			}
 		}
 	}
+	// backup the previous csv if it exists for posterity
 	if data, err := ioutil.ReadFile(d.path + "/name_mapping.csv"); err != nil {
 		d.logger.Error("failed to read previous name mapping file, likely doesn't exist", zap.Error(err))
 	} else {
@@ -158,14 +159,40 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 			ioutil.WriteFile(fmt.Sprintf("%s/name_mapping-%v.csv", d.path, time.Now().UnixNano()), data, os.FileMode(0640))
 		}
 	}
-	// open csv file to store mappings
-	fh, err := os.Create(d.path + "/name_mapping.csv")
-	if err != nil {
-		return err
+	var (
+		fh      *os.File
+		records [][]string
+	)
+	// addd the headers to write to the csv
+	records = append(records, []string{"name", "link", "pbid", "link_number"})
+	if _, err := os.Stat(d.path + "/name_mapping.csv"); err == nil {
+		fh, err = os.Open(d.path + "/name_mapping.csv")
+		if err != nil {
+			// fallback to default
+			d.logger.Error("failed to open existing csv", zap.Error(err))
+		}
+		// file exists, remove the headers as they will be read
+		records = [][]string{}
+		for {
+			record, err := csv.NewReader(fh).Read()
+			if err != nil && err == io.EOF {
+				break
+			}
+			records = append(records, record)
+		}
+	} else {
+		// open csv file to store mappings
+		fh, err = os.Create(d.path + "/name_mapping.csv")
+		if err != nil {
+			return err
+		}
 	}
 	writer := csv.NewWriter(fh)
-	// write the csv file headers
-	writer.Write([]string{"name", "link", "pbid", "link_number"})
+	// write the previous csv file to disk
+	// if no previous mapping exists, this will just write the headers
+	for _, record := range records {
+		writer.Write(record)
+	}
 	mux.Lock()
 	// iterate over all results and add to csv
 	for _, v := range results {
