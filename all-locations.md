@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:35:26.561131+00:00
+UPDATED AT: 2020-06-07T02:44:23.769313+00:00
 
 
 # Alabama
@@ -2689,6 +2689,18 @@ id: vt-stjohnsbury-1
 
 
 # Virginia
+
+## Manassas
+
+### Officers pepper-spray Virginia state delegate peacefully protesting |
+
+In this video, delegate Lee Carter asks officers questions about their methods in the protests. He is pushed to the ground by an advancing line of law enforcement officers at 1:30 and pepper-sprayed at 2:27.
+
+id: va-manassas-1
+
+**Links**
+
+* https://twitter.com/tristanshields/status/1266994214878932993
 
 ## Richmond
 
