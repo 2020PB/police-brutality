@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:31:41.285776+00:00
+UPDATED AT: 2020-06-07T02:32:22.697431+00:00
 
 
 # Alabama
@@ -133,6 +133,18 @@ id: ca-compton-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
+
+## Costa Mesa
+
+### Law enforcement concealing badge.
+
+id: ca-costa-mesa-1
+
+Law enforcement officer can be seen without a badge or name tag.
+
+**Links**
+
+* https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
 
 
 ## Hollywood
