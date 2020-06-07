@@ -32,7 +32,7 @@ func capture(url string, name string) error {
 	}
 
 	// capture entire browser viewport, returning png with quality=90
-	if err := chromedp.Run(ctx, fullScreenshot(url, 10, &buf)); err != nil {
+	if err := chromedp.Run(ctx, fullScreenshot(url, 90, &buf)); err != nil {
 		return err
 	}
 	if err := ioutil.WriteFile(name+"-fullScreenshot.png", buf, 0644); err != nil {
