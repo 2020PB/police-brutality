@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:44:23.769313+00:00
+UPDATED AT: 2020-06-07T03:12:42.174180+00:00
 
 
 # Alabama
@@ -2793,14 +2793,40 @@ id: wa-seattle-4
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
 
+id:  wa-seattle-8
+
 **Links** 
 
 * https://www.reddit.com/r/Seattle/comments/gu3qq1/cop_just_casually_tosses_tear_gas_at_my_feet_like/
 * [Location via Google Street View](https://www.google.ca/maps/@47.6117535,-122.3363867,3a,75y,340.76h,98.03t/data=!3m7!1e1!3m5!1s3_dezBzQDIEjlJ1L0qu2QA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3D3_dezBzQDIEjlJ1L0qu2QA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D141.4241%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
 
+### Police officer pulls protestor to the ground unprovoked | May 31st
+
+An officer on a bike pulls down a protestor walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
+
+id: wa-seattle-6
+
+**Links**
+
+* https://twitter.com/EDDIFUL/status/1267338642617364481
+* https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
+* https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
+
+### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
+
+Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
+
+id: wa-seattle-7
+
+**Links**
+
+* https://twitter.com/The_Stepover/status/1267237940184231936
+
 ### Police initiate violence | June 1st
 
 Police pepper spray peacefully protesting crowd.
+
+id: wa-seattle-9
 
 * [Rooftop view](https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/)
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
@@ -2809,6 +2835,8 @@ Police pepper spray peacefully protesting crowd.
 ### Police strike active newscrew with flashbang | June 1st
 
 Police strike a journalist, Jo-Ling Kent, live on air with a flashbang.
+
+id: wa-seattle-10
 
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
@@ -2834,28 +2862,6 @@ id: wa-seattle-5
 * 2020OPA-0335 - June 1 - "Homeless man hit by an SPD flashbang while sleeping"
 
 [Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)
-
-### Police officer pulls protestor to the ground unprovoked | May 31
-
-An officer on a bike pulls down a protestor walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
-
-id: wa-seattle-6
-
-**Links**
-
-* https://twitter.com/EDDIFUL/status/1267338642617364481
-* https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
-* https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
-
-### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
-
-Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
-
-id: wa-seattle-7
-
-**Links**
-
-* https://twitter.com/The_Stepover/status/1267237940184231936
 
 
 
