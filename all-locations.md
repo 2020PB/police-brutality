@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T03:29:58.369308+00:00
+UPDATED AT: 2020-06-07T03:31:41.635631+00:00
 
 
 # Alabama
@@ -1201,6 +1201,16 @@ id: ma-boston-1
 
 ## Detroit
 
+### Officer charges through other officers to attack a protestor who is backing away | May 29th
+
+At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
+
+id: mi-detroit-4
+
+**Links**
+
+* https://twitter.com/joeguillen/status/1266563974658744321
+
 ### Police shove and scream at men walking down the street | May 30th
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
@@ -1231,16 +1241,6 @@ id: mi-detroit-3
 **Links**
 
 * https://twitter.com/reporterdavidj/status/1266966021077962752
-
-### Officer charges through other officers to attack a protestor who is backing away | May 29th
-
-At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
-
-id: mi-detroit-4
-
-**Links**
-
-* https://twitter.com/joeguillen/status/1266563974658744321
 
 ## Grand Rapids
 
