@@ -8,4 +8,6 @@ __pycache__
 .python-version
 htmlcov
 
+.cache
+
 .DS_Store
