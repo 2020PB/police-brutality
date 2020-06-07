@@ -100,3 +100,11 @@ id: wa-seattle-6
 * https://twitter.com/EDDIFUL/status/1267338642617364481
 * https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
+
+### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
+
+Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
+
+**Links**
+
+* https://twitter.com/The_Stepover/status/1267237940184231936
