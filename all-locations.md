@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T06:26:58.878534+00:00
+UPDATED AT: 2020-06-07T12:57:00.821798+00:00
 
 
 # Alabama
@@ -1596,6 +1596,17 @@ id: ne-omaha-2
 # Nevada
 
 ## Las Vegas
+
+### Police arrest a man for speaking at them from a distance. | May 29th.
+
+Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
+
+id: nv-lasvegas-3
+
+**Links**
+
+*  https://twitter.com/itsraiialex/status/1266770032719040513
+
 
 ### Police shove and drag man through the street | May 31st
 
