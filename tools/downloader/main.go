@@ -88,6 +88,7 @@ func main() {
 					Name:    "capture.screenshot",
 					Aliases: []string{"cs"},
 					Usage:   "enables optional capturing of the webpage we download media from for additional archiving",
+					Value:   false,
 				},
 			},
 		},

@@ -106,8 +106,7 @@ func (d *Downloader) Run(takeScreenshots bool, timeout time.Duration, maxDownloa
 					continue
 				}
 				// if the file already exists, dont redownload
-				_, err := os.Stat(d.getName(pbid, count))
-				if os.IsExist(err) {
+				if _, err := os.Stat(d.getName(pbid, count)); err == nil {
 					continue
 				}
 				d.logger.Info("downloading video", zap.String("name", record[3]), zap.String("url", record[ii]))
