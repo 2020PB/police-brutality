@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T01:50:58.080639+00:00
+UPDATED AT: 2020-06-07T02:00:07.157966+00:00
 
 
 # Alabama
@@ -2872,6 +2872,15 @@ id: dc-dc-5
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+### Man who sheltered protestors discusses law enforcement officers shooting tear gas into his house | June 1st
+
+A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
+
+**Links**
+
+* https://twitter.com/suckmyunicornD/status/1267767217392934917
+* https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
 #### Police charge peaceful crowd, beat them with shields |
 
