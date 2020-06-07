@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-06T21:56:00.426277+00:00
+UPDATED AT: 2020-06-07T00:53:35.777583+00:00
 
 
 # Alabama
@@ -697,6 +697,31 @@ id: co-denver-13
 **Links**
 
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
+
+
+
+# Connecticut
+
+## Waterbury
+
+
+### Officer forces women into car and wrestles with another | June 3rd
+
+Officer forces man into cop car and wrestles with woman on her phone.
+
+**Links**
+
+* https://twitter.com/Youbeenafannn/status/1268253924471037959
+
+### Police tackle and detain 6 protestors | May 31st
+
+Waterbury police have detained at least 6 people. Police had warned several times that those who remained on Wolcott St. would be subject to arrest.  #NBCCT
+
+**Links**
+
+* https://twitter.com/mattaustinTV/status/1267189278691528706
+* https://twitter.com/RACCEWtby/status/1268173057375514624
+* https://twitter.com/Calibud_Art/status/1268274760250777600
 
 
 
