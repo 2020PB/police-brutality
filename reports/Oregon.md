@@ -66,9 +66,11 @@ id: or-portland-6
 
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
 
-### Officer attacks photographer with baton and pepper sprays him | Believed to be June 6th
+### Officer attacks photographer with baton and pepper sprays him | June 6th
 
 A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.
+
+id: or-portland-7
 
 **Links**
 
