@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T01:50:20.242858+00:00
+UPDATED AT: 2020-06-07T01:50:38.163522+00:00
 
 
 # Alabama
@@ -2748,6 +2748,15 @@ id: wa-seattle-4
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
 * Seattle OPA Case 2020OPA-0322
+
+### Police throw tear gas at peaceful protestors | May 31st
+
+A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
+
+**Links** 
+
+* https://www.reddit.com/r/Seattle/comments/gu3qq1/cop_just_casually_tosses_tear_gas_at_my_feet_like/
+* [Location via Google Street View](https://www.google.ca/maps/@47.6117535,-122.3363867,3a,75y,340.76h,98.03t/data=!3m7!1e1!3m5!1s3_dezBzQDIEjlJ1L0qu2QA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3D3_dezBzQDIEjlJ1L0qu2QA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D141.4241%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
 
 ### Police initiate violence | June 1st
 
