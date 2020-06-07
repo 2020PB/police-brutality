@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:07:31.155867+00:00
+UPDATED AT: 2020-06-07T02:19:44.664218+00:00
 
 
 # Alabama
@@ -1782,12 +1782,13 @@ id: ny-newyorkcity-16
 
 ### Member of the New York State Assembly pepper-sprayed | May 29th
 
-Assemblywoman Diana Richardson takls about being pepper-sprayed at the Barclays Centre.
+Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Centre.
 
 id: ny-newyorkcity-17
 
 **Links**
 
+* https://www.cityandstateny.com/articles/politics/news-politics/even-black-lawmakers-get-pepper-sprayed.html
 * https://twitter.com/GwynneFitz/status/1266522692326428672
 
 ### Officer threatens protestors with what appears to be a handgun | June 1st
