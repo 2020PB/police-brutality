@@ -68,3 +68,5 @@ id: mo-stlouis-1
 **Links**
 
 * https://www.ksdk.com/article/news/local/video-shows-florissant-officer-in-unmarked-car-hit-man-who-appears-to-be-running-away/63-5db688ff-2f31-4e55-9d24-0707ecdb677f
+
+* https://www.facebook.com/realstlnews/videos/2610967669219012/
