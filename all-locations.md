@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T21:18:27.683310+00:00
+UPDATED AT: 2020-06-07T21:21:40.114730+00:00
 
 
 # Alabama
@@ -2363,6 +2363,7 @@ id: pa-philadelphia-9
 
 **Links**
 
+* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-evan-gorski-protest-20200604.html
 * https://twitter.com/greg_doucette/status/1268766216161763328
 * https://twitter.com/Peopledelphia/status/1267588991655784448
 * https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
