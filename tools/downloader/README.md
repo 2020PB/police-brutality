@@ -1,11 +1,11 @@
 # downloader
 
-`downloader` is a CLI tool that allows parsing over the all-locations csv file, and downloading all the videos referenced in the CSV file, and can  concurrently download multiples videos. Because some of the videos have file names that are longer than the maximum permitted characters in a file path, the videos are not saved under their name, but instead using the videoID as determined by youtube-dl, along with a unique number. This information is then stored in a final CSV file which contains the video name, the link used to download video, as well as the unique number so you can easily determine what video belongs to what incident. Additionally it allows uploading the video data to an IPFS HTTP API endpoint
+`downloader` is a CLI tool that allows parsing over the all-locations csv file, and downloading all the videos referenced in the CSV file, and can  concurrently download multiples videos. Because some of the videos have file names that are longer than the maximum permitted characters in a file path, the videos are not saved under their name, but instead using a combination of their corresponding pb-id, the link number, and their extension. For posterity sake, there is a file called `name_mapping.csv` stored in the directory containing the video, which maps the name, link, pbid, and link number.
 
-The template for names of videos saved on disk is `[YOUTUBE-DL-VIDEO-ID].[UNIQUE-VIDEO-NUMBER].[EXTENSION]`, and the CSV file has the rows `name,link,unique_video_number`. So for example we have the following entry in the CSV file `Law enforcement gas a crowd chanting “we want peace” right after exiting the building.,https://twitter.com/courtenay_roche/status/1267653137969623040,1`, and two files we have downloaded: 
+The template for names of videos saved on disk is `[PB-ID].[LINK-NUMBER].[EXTENSION]`, and the CSV file has the rows `name,link,pbid,unique_video_number`. So for example we have the following entry in the CSV file `Law enforcement gas a crowd chanting “we want peace” right after exiting the building.,https://twitter.com/courtenay_roche/status/1267653137969623040,1`, and two files we have downloaded: 
 
-* `1267647898365427714.2.mp4`
-* `1267653137969623040.1.mp4`
+* `ar-bentonville-1.2.mp4`
+* `ar-bentonville-1.1.mp4`
 
 Given the row in the CSV file, the corresponding video would be `1267653137969623040.1.mp4`.
 
