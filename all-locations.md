@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T14:16:28.370861+00:00
+UPDATED AT: 2020-06-07T21:09:25.460816+00:00
 
 
 # Alabama
@@ -2873,6 +2873,17 @@ id: wa-seattle-5
 **Links**
 
 * https://twitter.com/catsayshello/status/1268073344814866432
+
+### Officer chokes and places knee on neck of woman | June 6th
+
+Video shows officer on back of woman laying face down. Officer has the woman in a choke hold. Officer then moves to place both
+knees on back during arrest, one knee on middle of the back and the other behind the neck of the woman. Officer is reported to work for Bellvue Police Department. Arrest made over what twitter user @_SJPeace_ described as a title transfer.
+
+id: wa-seattle-11
+
+**Links**
+
+* https://twitter.com/i/status/1269352173663592449
 
 
 ### Additional Seattle OPA Case Numbers
