@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:32:22.697431+00:00
+UPDATED AT: 2020-06-07T02:33:07.124217+00:00
 
 
 # Alabama
@@ -2829,6 +2829,8 @@ id: wa-seattle-6
 ### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
 
 Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
+
+id: wa-seattle-7
 
 **Links**
 
