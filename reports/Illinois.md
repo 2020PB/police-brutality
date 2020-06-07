@@ -8,7 +8,7 @@ id: il-chicago-1
 
 **Links**
 
-https://twitter.com/alyssa_taylor45
+https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
 
 ### Protester shot in head with rubber bullet | May 30th
 
