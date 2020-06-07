@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T02:27:47.881650+00:00
+UPDATED AT: 2020-06-07T02:27:58.954254+00:00
 
 
 # Alabama
@@ -99,6 +99,7 @@ id: ar-littlerock-2
 **Links**
 
 * https://twitter.com/KATVShelby/status/1267554421019475972?s=20
+* https://twitter.com/KATVNews/status/1267509911954440194
 
 
 
