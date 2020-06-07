@@ -90,8 +90,7 @@ id: ca-losangeles-7
 
 **Links**
 
-* https://www.reddit.com/r/2020PoliceBrutality/comments/gxf4vn/officer_hwang_of_the_lapd_during_saturdays/
-
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
 ### Police intimidate person filming them by shooting at apartment building | May 30th
 
