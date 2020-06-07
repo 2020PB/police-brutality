@@ -2,6 +2,16 @@
 
 #### Please note: These are all believed to be from Minneapolis, if not please contact the moderator immediately
 
+### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
+
+Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
+
+id: mn-minneapolis-14
+
+**Links**
+
+* https://www.facebook.com/1462345700/posts/10220863688809651
+
 ### Police storm gas station, attacking reporters who show press badges | May 30th
 
 Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
@@ -14,16 +24,6 @@ id: mn-minneapolis-1
 * https://twitter.com/rsdaza/status/1267200011659554824
 * https://twitter.com/MichaelAdams317/status/1267203751913422849
 * https://www.vice.com/en_us/article/y3zd7g/i-told-riot-cops-im-a-journalist-they-forced-me-to-the-ground-and-pepper-sprayed-me-in-the-face
-
-### Police shoot at a woman on her porch | May 31st
-
-In an attempt to move residents inside, the police fire shots at them.
-
-id: mn-minneapolis-2
-
-**Links**
-
-* https://twitter.com/tkerssen/status/1266921821653385225
 
 ### Police drive by spraying | May 30th
 
@@ -55,6 +55,48 @@ id: mn-minneapolis-5
 **Links**
 
 * https://www.youtube.com/watch?v=wmpic2NU1RM&feature=youtu.be
+
+### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
+
+CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
+
+id: mn-minneapolis-15
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1266962631887224837
+
+### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
+
+Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
+
+id: mn-minneapolis-16
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267118696960528386
+
+### Swiss journalists shot at with rubber bullets by police | May 30th
+
+In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
+
+id: mn-minneapolis-17
+
+**Links**
+
+* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
+* [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
+* [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
+
+### Police shoot at a woman on her porch | May 31st
+
+In an attempt to move residents inside, the police fire shots at them.
+
+id: mn-minneapolis-2
+
+**Links**
+
+* https://twitter.com/tkerssen/status/1266921821653385225
 
 ### LA-Times employee recounts getting shot | May 31st
 
@@ -139,47 +181,6 @@ id: mn-minneapolis-13
 
 * https://www.youtube.com/watch?v=NN8ISwuiX68
 
-### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
-
-Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
-
-id: mn-minneapolis-14
-
-**Links**
-
-* https://www.facebook.com/1462345700/posts/10220863688809651
-
-### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
-
-CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
-
-id: mn-minneapolis-15
-
-**Links**
-
-* https://mobile.twitter.com/chadloder/status/1266962631887224837
-
-### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
-
-Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
-
-id: mn-minneapolis-16
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1267118696960528386
-
-### Swiss journalists shot at with rubber bullets by police | May 30th
-
-In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
-
-id: mn-minneapolis-17
-
-**Links**
-
-* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
-* [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
-* [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 ### Police stop SUV to driveby pepperspray protesters through window | May 31st
 
