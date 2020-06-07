@@ -184,3 +184,13 @@ id: oh-columbus-16
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+
+### Woman dies after reportely being hit with chemical agents | May 30th
+
+OSU grad Sarah Grossman suffered from complications that lead to her death after reportedly getting tear gassed at a protest.
+
+**Links**
+
+* https://www.thelantern.com/2020/06/columbus-looks-into-death-of-ohio-state-grad-who-attended-downtown-protests/
+* https://twitter.com/ColumbusGov/status/1268295227921641480
+* https://www.instagram.com/p/CA8WmS0H86_/?utm_source=ig_embed
