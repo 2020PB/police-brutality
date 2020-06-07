@@ -26,3 +26,4 @@ id: ar-littlerock-2
 **Links**
 
 * https://twitter.com/KATVShelby/status/1267554421019475972?s=20
+* https://twitter.com/KATVNews/status/1267509911954440194

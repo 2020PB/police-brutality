@@ -1,3 +1,15 @@
+## Manassas
+
+### Officers pepper-spray Virginia state delegate peacefully protesting |
+
+In this video, delegate Lee Carter asks officers questions about their methods in the protests. He is pushed to the ground by an advancing line of law enforcement officers at 1:30 and pepper-sprayed at 2:27.
+
+id: va-manassas-1
+
+**Links**
+
+* https://twitter.com/tristanshields/status/1266994214878932993
+
 ## Richmond
 
 ### Officer sprays a man watching from his balcony | May 31st
@@ -23,6 +35,7 @@ id: va-richmond-2
 * https://twitter.com/i/status/1267650345947271176
 * https://twitter.com/i/status/1267613150112858116
 * https://twitter.com/i/status/1267601158534815745
+* https://twitter.com/myVPM/status/1267605983641075712
 * [Drone footage of Event](https://www.youtube.com/watch?v=LG_HMghyQZc)
 
 ### Officer spits on detained protestor | June 1st
