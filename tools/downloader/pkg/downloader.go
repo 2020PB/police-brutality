@@ -55,7 +55,7 @@ func New(logFile, path string, concurrency int) *Downloader {
 
 // Run starts the download process, note that maxDownloads doesn't necessarily equate to number of videos
 // it really means the maximum number of entries in the csv to download, and some entries in the csv may have more than 1 associated video
-func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
+func (d *Downloader) Run(takeScreenshots bool, timeout time.Duration, maxDownloads int) error {
 	resp, err := http.Get(url)
 	if err != nil {
 		return err
@@ -132,6 +132,13 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 						count: count,
 					})
 					mux.Unlock()
+				}
+				// download the screenshot if specified
+				// TODO(bonedaddy): enable adding this to the csv, for now it exists alongside everything else
+				if takeScreenshots {
+					if err := capture(d.getName(pbid, count), record[ii]); err != nil {
+						d.logger.Error("failed to capture screenshot", zap.Error(err), zap.String("url", record[ii]))
+					}
 				}
 			}
 		})

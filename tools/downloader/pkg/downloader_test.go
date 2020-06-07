@@ -21,7 +21,7 @@ func TestDownloader(t *testing.T) {
 	if _, err := os.Create(path + "/thisisatestfilethatweareusingtotestremovaloffileswith.part"); err != nil {
 		t.Fatal(err)
 	}
-	if err := dl.Run(time.Minute, 2); err != nil {
+	if err := dl.Run(false, time.Minute, 2); err != nil {
 		t.Fatal(err)
 	}
 	infos, err := ioutil.ReadDir(path)

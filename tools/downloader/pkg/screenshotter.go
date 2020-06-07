@@ -6,7 +6,6 @@ package pkg
 import (
 	"context"
 	"io/ioutil"
-	"log"
 	"math"
 
 	"github.com/chromedp/cdproto/emulation"
@@ -18,7 +17,7 @@ import (
 copied from and modified from https://github.com/chromedp/examples/blob/master/screenshot/main.go
 */
 
-func capture(url string, name string) {
+func capture(url string, name string) error {
 	// create context
 	ctx, cancel := chromedp.NewContext(context.Background())
 	defer cancel()
@@ -26,19 +25,20 @@ func capture(url string, name string) {
 	// capture screenshot of an element
 	var buf []byte
 	if err := chromedp.Run(ctx, elementScreenshot(url, `#main`, &buf)); err != nil {
-		log.Fatal(err)
+		return err
 	}
 	if err := ioutil.WriteFile(name+"-elementScreenshot.png", buf, 0644); err != nil {
-		log.Fatal(err)
+		return err
 	}
 
 	// capture entire browser viewport, returning png with quality=90
 	if err := chromedp.Run(ctx, fullScreenshot(url, 10, &buf)); err != nil {
-		log.Fatal(err)
+		return err
 	}
 	if err := ioutil.WriteFile(name+"-fullScreenshot.png", buf, 0644); err != nil {
-		log.Fatal(err)
+		return err
 	}
+	return nil
 }
 
 // elementScreenshot takes a screenshot of a specific element.

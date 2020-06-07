@@ -19,7 +19,7 @@ func main() {
 			Usage: "starts the downloader",
 			Action: func(c *cli.Context) error {
 				dl := New(c.String("log.file"), c.String("directory"), c.Int("concurrency"))
-				if err := dl.Run(c.Duration("timeout"), c.Int("max.downloads")); err != nil {
+				if err := dl.Run(c.Bool("capture.screenshot"), c.Duration("timeout"), c.Int("max.downloads")); err != nil {
 					return err
 				}
 				if c.Bool("upload.to_ipfs") {
@@ -83,6 +83,11 @@ func main() {
 					Aliases: []string{"uti"},
 					Usage:   "enables uploading the video data to any ipfs endpoint",
 					Value:   false,
+				},
+				&cli.BoolFlag{
+					Name:    "capture.screenshot",
+					Aliases: []string{"cs"},
+					Usage:   "enables optional capturing of the webpage we download media from for additional archiving",
 				},
 			},
 		},
