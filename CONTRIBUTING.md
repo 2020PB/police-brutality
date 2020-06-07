@@ -86,6 +86,7 @@ People have been regularly posting evidence to the following sources:
 - [#JusticeForGeorgeFloyd](https://twitter.com/hashtag/JusticeForGeorgeFloyd) on Twitter
 - [#PoliceBrutality](https://twitter.com/hashtag/PoliceBrutality) on Twitter
 - [#[CityName]riots](https://twitter.com/hashtag/austinriots) & [#[CityName]protest(s)](https://twitter.com/search?q=%23AtlantaProtests) on Twitter
+- this [extensive google spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA#) - here is a [current CSV backup](https://github.com/jnny/policebrutality/blob/master/PBlistComplete.csv)
 
 #### 2. Add it to the repo
 
