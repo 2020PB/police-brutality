@@ -16,7 +16,6 @@ import (
 	"github.com/panjf2000/ants/v2"
 	"github.com/pkg/errors"
 	"go.bobheadxi.dev/zapx/zapx"
-	"go.uber.org/atomic"
 	"go.uber.org/zap"
 )
 
@@ -33,8 +32,7 @@ type Downloader struct {
 	path   string
 	logger *zap.Logger
 	// enables running concurrent downloads
-	wp    *ants.Pool
-	count *atomic.Int64
+	wp *ants.Pool
 }
 
 // New returns a new downloader
@@ -52,7 +50,7 @@ func New(logFile, path string, concurrency int) *Downloader {
 	if err != nil {
 		panic(err)
 	}
-	return &Downloader{path, logger, wp, atomic.NewInt64(0)}
+	return &Downloader{path, logger, wp}
 }
 
 // Run starts the download process, note that maxDownloads doesn't necessarily equate to number of videos
@@ -100,12 +98,13 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 			pbid := record[6]
 			// gets the last column so we dont get an out of range panic
 			max := len(record) - 1
+			var count int64 = 0
 			for ii := 7; ii < max; ii++ {
+				count++
 				// this column is empty, and has no data
 				if record[ii] == "" {
 					continue
 				}
-				count := d.count.Inc()
 				d.logger.Info("downloading video", zap.String("name", record[3]), zap.String("url", record[ii]))
 				download := func() error {
 					cmd := exec.Command("youtube-dl", "-o", d.getName(pbid, count), record[ii])
