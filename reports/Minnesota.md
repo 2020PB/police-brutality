@@ -184,13 +184,13 @@ id: mn-minneapolis-13
 
 ### Police stop SUV to driveby pepperspray protesters through window | May 31st
 
-Police responding to a medical emergency – a tanker truck deliberately running over protestors – stop to pepperspray folks from their SUV
+Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepperspray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08 in first video) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
 id: mn-minneapolis-18
 
 **Links**
 
-* https://twitter.com/greg_doucette/status/1267283198163255297
+* https://twitter.com/keycodez/status/1267235529311113216/video/1
 
 ### Patient care assistant reports being shot with rubber bullets while treating injured protestors | May 31st
 
