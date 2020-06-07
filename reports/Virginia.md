@@ -4,6 +4,8 @@
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
 
+id: va-richmond-1
+
 **Links**
 
 * https://www.reddit.com/r/rva/comments/gtwdzi/someone_got_pepper_sprayed_from_his_second_floor/
@@ -13,6 +15,8 @@ A police officer pepper sprayed a man watching from his second floor apartment a
 ### Tear gas fired at peaceful protest | June 1st
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM.
+
+id: va-richmond-2
 
 **Links**
 
@@ -24,6 +28,8 @@ Tear gas canisters were launched by police at peaceful protesters around Robert 
 ### Officer spits on detained protestor | June 1st
 
 A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera.
+
+id: va-richmond-3
 
 **Links**
 

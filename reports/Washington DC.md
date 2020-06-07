@@ -2,6 +2,8 @@
 
 A BBC cameraman was charged at by police and hit with a shield.
 
+id: dc-dc-1
+
 **Links**
 
 * https://twitter.com/AleemMaqbool/status/1267319521486004225?s=20
@@ -10,6 +12,8 @@ A BBC cameraman was charged at by police and hit with a shield.
 ### Australian news crew and protestors attacked by police | June 1st
 
 Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC.
+
+id: dc-dc-2
 
 **Links**
 
@@ -26,6 +30,8 @@ Protestors and an Australian reporter and cameraman were attacked by police whil
 
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors
 
+id: dc-dc-3
+
 **Links**
 
 * https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html
@@ -38,6 +44,8 @@ The protestors were given no warning to leave, resulting in forceful removal and
 
 DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
 
+id: dc-dc-4
+
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267377374066167808
@@ -45,6 +53,8 @@ DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
 ### Police violence outside the White House | June 1st
 
 MSNBC captures Police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
+
+id: dc-dc-5
 
 **Links**
 
@@ -58,3 +68,11 @@ A DC resident discusses being accosted by officers when trying to enter his home
 
 * https://twitter.com/suckmyunicornD/status/1267767217392934917
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
+
+#### Police charge peaceful crowd, beat them with shields |
+
+Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
+
+**Links**
+
+* https://twitter.com/WestofHereFox/status/1267615709791731713
