@@ -61,7 +61,7 @@ id: va-richmond-4
 
 ## Fairfax
 
-### Officer repeatedly uses stun gun on suspect who said he couldn't breath | June 5th
+### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
 
 Incident: Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breath".  
 
