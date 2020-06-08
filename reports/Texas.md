@@ -147,13 +147,22 @@ id: tx-dallas-12
 
 ### Police use flashbangs and tear gas on protestors | May 31st
 
-The video shows a certain individual trying to escape, what seems to be loud explosions. These loud explosions could be attributed to the tear gas and flashbangs that the police were using.
+The first-person video shows an individual running away from what seem to be loud explosions.
 
 id: tx-dallas-13
 
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+
+### Man shot in the eye | May 30th
+
+Man at the protests had been shot in the eye by officers.
+
+**Links**
+
+* https://twitter.com/HERCGTH/status/1266870616570900480
+* https://www.wfaa.com/article/news/local/dallas-county/dallas-police-investigating-possible-use-of-force-incidents-saturday/287-1d3851d2-656c-4d40-8eac-7deac44ddf2d
 
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
 

@@ -104,6 +104,7 @@ id: pa-philadelphia-9
 
 **Links**
 
+* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-evan-gorski-protest-20200604.html
 * https://twitter.com/greg_doucette/status/1268766216161763328
 * https://twitter.com/Peopledelphia/status/1267588991655784448
 * https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
