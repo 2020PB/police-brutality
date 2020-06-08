@@ -383,7 +383,7 @@ id: ca-sacramento-29
 
 Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
 
-id ca-sandiego-39
+id: ca-sandiego-39
 
 **Links**
 

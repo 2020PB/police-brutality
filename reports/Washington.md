@@ -47,7 +47,7 @@ id: wa-seattle-4
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
 
-id:  wa-seattle-8
+id: wa-seattle-8
 
 **Links** 
 
