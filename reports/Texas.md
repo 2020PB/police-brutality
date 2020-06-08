@@ -4,7 +4,7 @@
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
 
-Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claim that he was not the intended target for the projectile. 
+Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
 
 id: tx-austin-1
 
