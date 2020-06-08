@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T01:21:34.213846+00:00
+UPDATED AT: 2020-06-08T01:24:30.089297+00:00
 
 
 # Alabama
@@ -2995,7 +2995,7 @@ id: dc-dc-6
 * https://twitter.com/suckmyunicornD/status/1267767217392934917
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
-#### Police charge peaceful crowd, beat them with shields |
+### Police charge peaceful crowd, beat them with shields |
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
