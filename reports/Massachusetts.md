@@ -55,14 +55,6 @@ id: ma-worcester-5
 
 * [Riot police firing on fleeing protestors](https://twitter.com/sebishop99/status/1267913459938844673)
 
-### Riot police punch protester | June 1st
-
-id: ma-worcester-6
-
-**Links**
-
-
-
 ### Numerous eyewitness report being tackled by police officers | June 1st
 
 Eyewitness reports seeing her boyfriend punched by police officers.
@@ -71,7 +63,7 @@ Eyewitness reports seeing numerous people tackled.
 
 Eyewitness reports being slammed from behind after obeying police order to raise hands and disperse. He and his sister report police kneeled on the man's neck "in the same manner as George Floyd."
 
-id: ma-worcester-7
+id: ma-worcester-6
 
 **Links**
 * [Eyewitness reports Worcester PD punching her boyfriend](https://twitter.com/sebishop99/status/1267948306182922245)
