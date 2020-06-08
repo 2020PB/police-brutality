@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T21:13:15.155386+00:00
+UPDATED AT: 2020-06-08T21:15:50.411809+00:00
 
 
 # Alabama
@@ -304,6 +304,7 @@ id: ca-losangeles-16
 **Links**
 
 * https://twitter.com/MattMcGorry/status/1267217360894562306
+* https://abc7.com/6231194/
 
 ### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
 
