@@ -103,3 +103,13 @@ id: dc-dc-7
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
 
+### Police tear gas protesters outside of Lafayette Square | May 31st
+
+Tear gas is shot on ground near protesters. One protester is depicted needing water for eye wash. Calls for water and medics are heard.
+
+id: dc-dc-9
+
+**Links**
+
+* https://twitter.com/i/status/1267298316141899780
+* https://twitter.com/i/status/1267283580474085378
