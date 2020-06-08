@@ -83,3 +83,15 @@ id: il-chicago-8
 
 **Links**
 *  https://twitter.com/BLMChi/status/1267486699321544704
+
+## Joliet
+
+### A cop grabs someone by the neck then more cops pile on | May 31st
+
+Protestors arrested as they're leaving, including one grabbed by the neck and dogpiled by at least 3 cops
+
+id: il-joliet-1
+
+**Links**
+
+* https://www.youtube.com/watch?v=rllO2sdj1Ek
