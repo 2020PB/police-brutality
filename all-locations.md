@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T02:08:37.372340+00:00
+UPDATED AT: 2020-06-08T02:37:29.370968+00:00
 
 
 # Alabama
@@ -2989,6 +2989,16 @@ id: dc-dc-5
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
 
+
+### Law enforcement officers throw stinger grenades at peaceful protestors | Junes 3rd
+
+In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268297598856765441
+* https://twitter.com/greg_doucette/status/1268297598856765441
+
 ### Man who sheltered protestors discusses law enforcement officers shooting tear gas into his house | June 1st
 
 A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
@@ -3009,6 +3019,7 @@ id: dc-dc-7
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
+
 
 
 
