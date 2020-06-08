@@ -33,6 +33,7 @@ The protestors were given no warning to leave, resulting in forceful removal and
 * https://www.wusa9.com/article/news/local/dc/lafayette-square-washington-dc-protests-st-johns-church/65-f76d9753-8d99-42df-b02d-99d11a427595
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpqoz/nsfl_hit_by_riot_shield_blood_gushes_out_of_guys/
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpgpz/found_both_videos_of_the_dc_event_i_know_people/
+* https://twitter.com/nytimes/status/1267638330654625794
 
 ### Officer fires tear gas cannister at protestor's head |
 
@@ -49,9 +50,3 @@ MSNBC captures Police using flashbangs on peaceful protestors outside the White 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
-
-### Law enforcement uses tear gas and flash grenades to clear peaceful protestors | June 1st
-
-**Links**
-
-* https://twitter.com/nytimes/status/1267638330654625794
