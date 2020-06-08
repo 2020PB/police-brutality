@@ -399,6 +399,13 @@ id: ca-sanjose-31
 * https://twitter.com/bowiezamudio/status/1266598285206106113
 * https://twitter.com/kakimeows/status/1266982771005616128
 
+### Officer puts knee on neck of protester | May 29th
+
+A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
+
+**Links**
+
+*  https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 ## Santa Ana
 
