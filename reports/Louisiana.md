@@ -4,7 +4,7 @@
 
 Police throw tear-gas at protestors that are on the Crescent City Connection bridge and cannot easily disperse.
 
-Additional images show a protestor bleeding after being struck in the head by a tear gas canister. A Twitter user claiming to be the woman's child says the woman was taken to the hospital for treatment.
+Additional images show a protestor bleeding after allegedly being struck in the head by a tear gas canister. A Twitter user claiming to be the woman's child says the woman was taken to the hospital for treatment.
 
 id: la-neworleans-1
 
