@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T20:24:44.263438+00:00
+UPDATED AT: 2020-06-08T21:04:40.907041+00:00
 
 
 # Alabama
@@ -293,6 +293,7 @@ id: ca-losangeles-15
 
 * https://twitter.com/LowkeySinistra/status/1267109420955086848
 * https://twitter.com/LowkeySinistra/status/1267871561714790401
+* https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
 
 ### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
 
