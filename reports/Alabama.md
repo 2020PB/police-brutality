@@ -53,4 +53,4 @@ id: al-huntsville-5
 
 **Links**
 
-* https://www.reddit.com/r/2020PoliceBrutality/comments/gyo2fh/huntsville_al_woman_documents_herself_struggling/?utm_source=share&utm_medium=web2x
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gyo2fh/huntsville_al_woman_documents_herself_struggling/
