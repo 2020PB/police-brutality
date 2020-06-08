@@ -120,12 +120,14 @@ id: mn-minneapolis-7
 
 ### Police slashes tires | May 31st
 
-Pictures depict slashed tires, and the owner of the tweet says it could have been the police
+In the *Mother Jones* article linked below, video footage shows police slashing tires of vehicles on a highway overpass. Additional tweets indicate possible police slashing of cars in a Kmart parking lot.
 
 id: mn-minneapolis-8
 
 **Links**
 
+* https://www.motherjones.com/anti-racism-police-protest/2020/06/videos-show-cops-slashing-car-tires-at-protests-in-minneapolis/
+* https://youtu.be/sP7hM_sdpkQ?t=4209
 * https://twitter.com/val_ebertz/status/1266975058230235137
 * https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
 * https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
