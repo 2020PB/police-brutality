@@ -67,7 +67,8 @@ id: wa-seattle-5
 **Links**
 
 * https://twitter.com/catsayshello/status/1268073344814866432
-
+* https://www.instagram.com/tv/CA63KMnlVvu/?igshid=hfp3uoaqe23p
+* https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
 
 ### Additional Seattle OPA Case Numbers
 
@@ -92,11 +93,3 @@ id: wa-seattle-6
 * https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
 
-### Law enforcement officers use pepper-spray and flashbangs on a peaceful crowd |
-
-In these videos, officers initiate violence against peaceful protestors standing behind a barrier. At 1:51 in the first video, an officer is captured taking a protestor's umbrella to stop her using it to block any oncoming pepper-spray.
-
-**Links**
-
-* https://www.instagram.com/tv/CA63KMnlVvu/?igshid=hfp3uoaqe23p
-* https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
