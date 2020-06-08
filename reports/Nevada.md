@@ -1,5 +1,16 @@
 ## Las Vegas
 
+### Police arrest a man for speaking at them from a distance. | May 29th.
+
+Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
+
+id: nv-lasvegas-3
+
+**Links**
+
+*  https://twitter.com/itsraiialex/status/1266770032719040513
+
+
 ### Police shove and drag man through the street | May 31st
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
