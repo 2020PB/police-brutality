@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T22:43:19.557566+00:00
+UPDATED AT: 2020-06-08T23:34:48.123965+00:00
 
 
 # Alabama
@@ -1366,6 +1366,16 @@ id: mi-detroit-4
 
 * https://twitter.com/joeguillen/status/1266563974658744321
 
+### Riot police charge peaceful protestors | May 29th
+
+Riot police charge peaceful protestors without warning. The filming protestor and numerous others are beaten with riot shields.
+
+id: mi-detroit-8
+
+**Links**
+
+* https://twitter.com/julietmariaa/status/1266568356976635904
+
 ### Police shove and scream at men walking down the street | May 30th
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
@@ -1396,6 +1406,16 @@ id: mi-detroit-3
 **Links**
 
 * https://twitter.com/reporterdavidj/status/1266966021077962752
+
+### Woman is charged by police and thrown to the ground | May 30th
+
+Police charge protestors. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
+
+id: mi-detroit-9
+
+**Links**
+
+* https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 ## Grand Rapids
 
