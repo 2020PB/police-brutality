@@ -86,6 +86,30 @@ id: pa-philadelphia-7
 
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
+### Police shove protestors and strike man across the face with a baton | Jun 1st
+
+Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
+
+id: pa-philadelphia-9
+
+**Links**
+
+* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-evan-gorski-protest-20200604.html
+* https://twitter.com/greg_doucette/status/1268766216161763328
+* https://twitter.com/Peopledelphia/status/1267588991655784448
+* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
+* https://whyy.org/articles/philly-police-commander-videotaped-beating-protesters-linked-to-narcotics-scandal-misconduct/
+
+### Officer attacks woman for no apparent reason | June 1st
+
+An officer (fat, white shirt) is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer. 
+
+id: pa-philadelphia-12
+
+**Links**
+
+*  https://twitter.com/tippedminimum/status/1268001268406136832
+
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
@@ -96,18 +120,6 @@ id: pa-philadelphia-8
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
 
-### Police shove protestors and strike man across the face with a baton | Jun 1st
-
-Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
-
-id: pa-philadelphia-9
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268766216161763328
-* https://twitter.com/Peopledelphia/status/1267588991655784448
-* https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
-* https://whyy.org/articles/philly-police-commander-videotaped-beating-protesters-linked-to-narcotics-scandal-misconduct/
 
 ## Pittsburgh
 

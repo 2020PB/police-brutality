@@ -34,14 +34,17 @@ def title_to_name_date(line):
     parts = line.split('|')
     name = parts[0].strip()
     if len(parts) == 1:
+        print(f"Failed date parse: missing date for {line}")
         return line.strip(), '', ''
+    if len(name) == 0:
+        print(f"Failed name parse: missing name for {line}")
     date_text = parts[1].strip()
 
     try:
         date_found = date_regex.search(date_text).group()
         date = parse(date_found).strftime('%Y-%m-%d')
     except (ValueError, AttributeError) as err:
-        print(f"Failed date parse '{parts[1]}': {err}")
+        print(f"Failed date format parse for title '{name}' and date '{date_text}': {err}")
         date = ''
     return name, date, date_text
 
@@ -98,28 +101,33 @@ def parse_state(state, text):
             entry["city"] = city
 
         # remove the prefix
-        line = line[len(starts_with):]
+        line = line[len(starts_with):].strip()
 
-        # if starts_with == '#':
-        #   entry["state"] = line.strip()
         if starts_with == '##':
-            city = line.strip()
+            city = line
             entry["city"] = city
-        if starts_with == '###':
-            name, date, date_text = title_to_name_date(line.strip())
+        elif starts_with == '###':
+            name, date, date_text = title_to_name_date(line)
             # print(name, date)
             entry["name"] = name
             entry["date"] = date
             entry["date_text"] = date_text
-        if starts_with == '*':
+        elif starts_with == '*':
             link = url_regex.search(line)
             if link:
                 entry["links"].append(link.group())
             else:
                 print(f"Failed link parse '{line}'")
+        else:
+            # Text without a markdown marker, this might be the description or metadata
+            id_prefix = 'id: '
+            if line.startswith(id_prefix):
+                entry["id"] = line[len(id_prefix):].strip()
 
     if entry and entry["links"]:
         yield entry
+    else:
+        print(f"Failed links parse: missing links for {entry}")
 
 
 def process_md_texts(md_texts):
@@ -144,6 +152,7 @@ md_out_format = '''
 {text}
 
 '''
+
 
 def to_merged_md_file(md_texts, target_path):
     with open(target_path, 'wb') as fout:

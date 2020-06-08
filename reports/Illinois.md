@@ -8,7 +8,7 @@ id: il-chicago-1
 
 **Links**
 
-https://twitter.com/alyssa_taylor45
+https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
 
 ### Protester shot in head with rubber bullet | May 30th
 
@@ -66,7 +66,7 @@ id: il-chicago-6
 
 ### Video showing CPD officer punching protester in Uptown under investigation | June 1st
 
-CPD officer chasing down and punching a protestor who was walking away
+CPD officer chasing down and punching a protestor who was walking away.
 
 id: il-chicago-7
 
@@ -77,9 +77,21 @@ id: il-chicago-7
 
 ### CPD chase down protester on TV | June 1st
 
-Police chase protester and attack him on the ground while on live TV
+Police chase protester and attack him on the ground while on live TV.
 
 id: il-chicago-8
 
 **Links**
 *  https://twitter.com/BLMChi/status/1267486699321544704
+
+## Joliet
+
+### Officers grabs someone by the neck then more cops pile on | May 31st
+
+Protestors arrested as they're leaving, including one grabbed by the neck and dogpiled by at least 3 police officers.
+
+id: il-joliet-1
+
+**Links**
+
+* https://www.youtube.com/watch?v=rllO2sdj1Ek
