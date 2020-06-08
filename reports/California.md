@@ -174,6 +174,7 @@ id: ca-losangeles-15
 
 * https://twitter.com/LowkeySinistra/status/1267109420955086848
 * https://twitter.com/LowkeySinistra/status/1267871561714790401
+* https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
 
 ### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
 
