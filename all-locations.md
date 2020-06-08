@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-07T21:21:40.114730+00:00
+UPDATED AT: 2020-06-08T00:50:59.137950+00:00
 
 
 # Alabama
@@ -2597,6 +2597,15 @@ id: tx-dallas-13
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+
+### Man shot in the eye | May 30th
+
+Man at the protests had been shot in the eye by officers.
+
+**Links**
+
+* https://twitter.com/HERCGTH/status/1266870616570900480
+* https://www.wfaa.com/article/news/local/dallas-county/dallas-police-investigating-possible-use-of-force-incidents-saturday/287-1d3851d2-656c-4d40-8eac-7deac44ddf2d
 
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
 
