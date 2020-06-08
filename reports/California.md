@@ -399,16 +399,15 @@ id: ca-sanjose-31
 * https://twitter.com/bowiezamudio/status/1266598285206106113
 * https://twitter.com/kakimeows/status/1266982771005616128
 
-### Police officer kneels on protestor's neck. | Unknown date
+### Officer puts knee on neck of protester | May 29th
 
-Police officer Jared Yuen pushes another police officer off a protestor who is pinned on the ground in order to kneel on the protestor's neck.
+A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
 
 id: ca-sanjose-38
 
 **Links**
 
-* https://twitter.com/DeadByDawn101/status/1268825100385521665
-
+*  https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 ### Police fire on community activist | May 29th
 
