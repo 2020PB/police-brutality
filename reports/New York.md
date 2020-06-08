@@ -194,6 +194,8 @@ id: ny-newyorkcity-24
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
+id: ny-newyorkcity-26
+
 **Links**
 
 * https://wapo.st/2Mx7WY6
@@ -283,6 +285,8 @@ id: ny-newyorkcity-23
 ### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
 
 Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
+
+id: ny-newyorkcity-27
 
 **Links**
 
