@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T17:22:56.339772+00:00
+UPDATED AT: 2020-06-08T17:23:19.579631+00:00
 
 
 # Alabama
@@ -826,7 +826,7 @@ id: fl-orlando-5
 
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
 
-Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer.
+Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer. They end up using tear-gas on the crowd.
 
 id: fl-tampa-6
 
