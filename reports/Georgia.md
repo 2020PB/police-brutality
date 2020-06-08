@@ -33,6 +33,13 @@ id: ga-atlanta-3
 * https://twitter.com/SarahBaska/status/1267308455225774080?s=20
 * [News Report, The Evening Standard](https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0)
 
+### Police shove and shoot protesters | May 31st
+
+Police shove and shoot protesters; one man shot in the head, he is seen being carried away unconscious.
+
+**Links**
+* https://www.facebook.com/onlettingo/videos/10157072617626056
+* https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
 
 ## Lawrenceville
 
