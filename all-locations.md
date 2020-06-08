@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T15:23:56.506827+00:00
+UPDATED AT: 2020-06-08T16:10:30.481042+00:00
 
 
 # Alabama
@@ -2844,6 +2844,18 @@ id: va-richmond-4
 **Links**
 
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
+
+## Fairfax
+
+### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
+
+Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breathe".  
+
+**Links**
+*  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
+*  https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
+*  [Full video](https://www.youtube.com/watch?v=MjFEDlTCKGE)
+*  https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
 
 
 
