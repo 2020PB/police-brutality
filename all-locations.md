@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T04:01:46.625296+00:00
+UPDATED AT: 2020-06-08T04:08:04.501014+00:00
 
 
 # Alabama
@@ -1222,6 +1222,15 @@ id: ma-boston-1
 **Links**
 
 * https://twitter.com/RimeAndTreason/status/1267268090351489024
+
+
+### A cop takes someone's protest sign and destroys it. | Unknown Date
+
+id: ma-boston-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=egvPF75vWOA
 
 
 
