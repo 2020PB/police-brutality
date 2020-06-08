@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T23:34:48.123965+00:00
+UPDATED AT: 2020-06-08T23:53:16.951366+00:00
 
 
 # Alabama
@@ -195,6 +195,7 @@ id: ca-lamesa-3
 * At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
+
 
 ## Long Beach
 
@@ -422,6 +423,16 @@ Police zip-tied protesters' hands behind their backs and lock them into small ca
 *  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
 *  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
 
+### Police fire projectiles at protesters and discharge teargas | June 5th
+
+In Lakewood, police fire projectiles at protesters and discharge teargas.
+
+**Links**
+* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&*  utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+ca-losangeles-40
 
 ## Oakland
 
