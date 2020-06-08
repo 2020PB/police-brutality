@@ -400,6 +400,18 @@ id: ca-sanjose-31
 * https://twitter.com/kakimeows/status/1266982771005616128
 
 
+### Police fire on community activist | May 29th
+
+A protestor and community activist, known for work anti-bias and community building work with the San Jose PD, is fired upon by police. Though he has his hands in the air, police fire on him numerous times, striking him once in the groin.
+
+id: ca-sanjose-37
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269267786792144898
+* https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
+* https://www.latimes.com/california/story/2020-06-06/community-organizer-shot-by-rubber-bullet-during-protest
+
 ## Santa Ana
 
 ### Police open fire on protestors | May 31st
