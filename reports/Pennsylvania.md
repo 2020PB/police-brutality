@@ -104,6 +104,8 @@ id: pa-philadelphia-9
 
 An officer (fat, white shirt) is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer. 
 
+id: pa-philadelphia-12
+
 **Links**
 
 *  https://twitter.com/tippedminimum/status/1268001268406136832
