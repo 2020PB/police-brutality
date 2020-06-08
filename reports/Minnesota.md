@@ -129,6 +129,7 @@ id: mn-minneapolis-8
 * https://twitter.com/val_ebertz/status/1266975058230235137
 * https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
 * https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
+* https://www.motherjones.com/anti-racism-police-protest/2020/06/videos-show-cops-slashing-car-tires-at-protests-in-minneapolis/
 
 ### CBS news crew shot with rubber bullets | May 31st
 
