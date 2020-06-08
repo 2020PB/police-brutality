@@ -129,7 +129,7 @@ id: wa-seattle-11
 
 ### Police kettle protesters to force them to disperse through tear-gas | June 6th
 
-Seattle Police told protesters disperse, but then mobilized bike cops to block exits. Forced them through tear-gas, mace, flashbangs. 
+Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs. 
 
 id: wa-seattle-13
 
