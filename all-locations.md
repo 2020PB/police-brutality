@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T02:39:42.570680+00:00
+UPDATED AT: 2020-06-08T02:47:42.477730+00:00
 
 
 # Alabama
@@ -388,6 +388,15 @@ id: ca-losangeles-23
 * https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://twitter.com/Terminal_Redux/status/1268870944615026690
+
+### Police zip tie protesters and lock them inside cages | June 3rd
+
+Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
+
+**Links**
+*  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
+*  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
+*  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
 
 
 ## Oakland
