@@ -58,6 +58,18 @@ id: co-denver-5
 
 * https://twitter.com/DoughertyKMGH/status/1266560264918491138/video/1
 
+
+### Police discharge tear gas into group of protesters | May 29th
+
+An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
+
+id: co-denver-14
+
+**Links**
+
+* https://www.reddit.com/r/Denver/comments/gslcxb/the_moment_the_cops_tear_gassed_the_protesters_at/
+
+
 ### Police throw reporter into fire | May 30th
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
@@ -79,9 +91,6 @@ id: co-denver-7
 **Links**
 
 * https://twitter.com/moneyroe99/status/1266956171409346566
-
-
-
 
 
 ### Denver law enforcement shoot at reporter standing on the sidewalk | May 30th
