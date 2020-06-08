@@ -129,9 +129,9 @@ The video shows a certain individual trying to escape, what seems to be loud exp
 
 * https://twitter.com/xtranai/status/1266898175568338945
 
-### Aftermath of man shot in eye by non-lethal rounds |
+### Man shot in the eye | May 30th
 
-These two images show the injuries of an individual who had been shot in the eye by officers.
+Man at the protests had been shot in the eye by officers.
 
 **Links**
 
