@@ -29,12 +29,13 @@ id: mo-kansascity-1
 **Links**
 * https://twitter.com/imunoz03/status/1266908372881768448
 
-### Kansas City police attempt to arrest a man leading the protest then spray the crowd | (Believed to be) June 1st
+### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
 
 id: mo-kansascity-2
 
 **Links**
 
+* https://twitter.com/Elise_Villa/status/1267310319526989824
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
 
 ### Police arrest man for speaking and teargas nearby protestors | June 1st
@@ -45,9 +46,10 @@ id: mo-kansascity-3
 
 **Links**
 
+* [CNN Report](https://www.cnn.com/2020/06/02/us/kansas-city-police-spray-protester-who-yelled/index.html)
 * https://twitter.com/weslyinfinity/status/1267321172309544960?
 
-### Police pullaway protestor and pepper sprays others | June 1st
+### Police pull away protestor and pepper sprays others | June 1st
 
 A police officer pulls away a protestor standing still. When others come to the protestor's aid they are pepper sprayed.
 
@@ -56,6 +58,7 @@ id: mo-kansascity-4
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gut8n1/in_kansas_city/
+* [Location via Google Street View](https://www.google.ca/maps/place/Giralda/@39.0425007,-94.5880276,3a,75y,208.49h,97.09t/data=!3m6!1e1!3m4!1sJzy4NglPGxJe3YarImT1Og!2e0!7i16384!8i8192!4m5!3m4!1s0x87c0efb6174d21e9:0xa50781025e9c6d35!8m2!3d39.0417847!4d-94.5879815)
 
 ## St. Louis
 
@@ -68,5 +71,5 @@ id: mo-stlouis-1
 **Links**
 
 * https://www.ksdk.com/article/news/local/video-shows-florissant-officer-in-unmarked-car-hit-man-who-appears-to-be-running-away/63-5db688ff-2f31-4e55-9d24-0707ecdb677f
-
 * https://www.facebook.com/realstlnews/videos/2610967669219012/
+

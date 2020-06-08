@@ -282,6 +282,15 @@ id: ca-losangeles-23
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://twitter.com/Terminal_Redux/status/1268870944615026690
 
+### Police zip tie protesters and lock them inside cages | June 3rd
+
+Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
+
+**Links**
+*  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
+*  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
+*  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
+
 
 ## Oakland
 
