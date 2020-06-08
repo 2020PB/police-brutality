@@ -13,8 +13,11 @@ The [structured dataset](https://github.com/2020PB/police-brutality/tree/data_bu
 * https://datastudio.google.com/s/oFSSsjw2kAY - a dashboard with stats on a state and city level.
 * http://api.policebrutality.io/v1/videos - a REST API that points to backed up video files. Managed at https://github.com/nickatnight/policebrutality.io
 * https://github.com/2020PB/police-brutality/tree/master/tools/downloader - a tool to back up videos from this database to your local computer.
+* https://codepen.io/949mac/pen/abdOggV - an example of using the API with jQuery
 
-# What will you build?
+# How to start building your own front end
+
+What will you build?
 
 * Go to https://github.com/2020PB/police-brutality/tree/data_build
 * Choose which API you'd like to consume from a markdown, CSV or JSON file.
