@@ -174,6 +174,7 @@ id: ca-losangeles-15
 
 * https://twitter.com/LowkeySinistra/status/1267109420955086848
 * https://twitter.com/LowkeySinistra/status/1267871561714790401
+* https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
 
 ### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
 
@@ -373,6 +374,17 @@ id: ca-sacramento-29
 
 ## San Diego
 
+### Police kettle and fire on fleeing protestors | May 31st
+
+Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
+
+id ca-sandiego-39
+
+**Links**
+
+* [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
+* [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
+
 ### Police abduct woman in unmarked van | June 4th
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
@@ -399,6 +411,27 @@ id: ca-sanjose-31
 * https://twitter.com/bowiezamudio/status/1266598285206106113
 * https://twitter.com/kakimeows/status/1266982771005616128
 
+### Officer puts knee on neck of protester | May 29th
+
+A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
+
+id: ca-sanjose-38
+
+**Links**
+
+*  https://twitter.com/DeadByDawn101/status/1268825100385521665
+
+### Police fire on community activist | May 29th
+
+A protestor and community activist, known for work anti-bias and community building work with the San Jose PD, is fired upon by police. Though he has his hands in the air, police fire on him numerous times, striking him once in the groin.
+
+id: ca-sanjose-37
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269267786792144898
+* https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
+* https://www.latimes.com/california/story/2020-06-06/community-organizer-shot-by-rubber-bullet-during-protest
 
 ## Santa Ana
 

@@ -86,6 +86,9 @@ People have been regularly posting evidence to the following sources:
 - [#JusticeForGeorgeFloyd](https://twitter.com/hashtag/JusticeForGeorgeFloyd) on Twitter
 - [#PoliceBrutality](https://twitter.com/hashtag/PoliceBrutality) on Twitter
 - [#[CityName]riots](https://twitter.com/hashtag/austinriots) & [#[CityName]protest(s)](https://twitter.com/search?q=%23AtlantaProtests) on Twitter
+- ["GeorgeFloyd Protest - police brutality videos on Twitter" spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA#) - [an CSV backup](https://github.com/jnny/policebrutality/blob/master/PBlistComplete.csv)
+- ["Police Abuse of Power and Brutality Instances" spreadsheet](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vQnoNTUx4HU09pNioKwh6SxgLyrJXJuXKt6IIejynkVq_JBBGQQwAMR0OGsgVilHhjUUdN1WEFpXwjo/pubhtml)
+- ["Pressing — Press Freedom Abuses During Protests" spreadsheet](https://docs.google.com/spreadsheets/d/1N9w2L79WCoqEfiIMBzd-HL-AH1vt-4xwa0TUpkpfBfg/edit#gid=0)
 
 #### 2. Add it to the repo
 
