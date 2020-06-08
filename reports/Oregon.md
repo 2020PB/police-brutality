@@ -75,3 +75,4 @@ id: or-portland-7
 **Links**
 
 *  https://twitter.com/chadloder/status/1269526243138928642
+*  https://twitter.com/DonovanFarley/status/1269701897377603584
