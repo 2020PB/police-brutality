@@ -399,6 +399,13 @@ id: ca-sanjose-31
 * https://twitter.com/bowiezamudio/status/1266598285206106113
 * https://twitter.com/kakimeows/status/1266982771005616128
 
+### Community activist shot by officers in groin | May 30th
+
+A community activist who worked with San Jose police for years was shot in the groin at a May 30th protest. He was fired upon without making any aggressive motions. 
+
+**Links**
+
+*  https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
 
 ## Santa Ana
 
