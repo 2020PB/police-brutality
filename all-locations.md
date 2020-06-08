@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T01:26:48.616341+00:00
+UPDATED AT: 2020-06-08T01:38:09.457718+00:00
 
 
 # Alabama
@@ -1553,9 +1553,10 @@ id: mo-kansascity-3
 
 **Links**
 
+* [CNN Report](https://www.cnn.com/2020/06/02/us/kansas-city-police-spray-protester-who-yelled/index.html)
 * https://twitter.com/weslyinfinity/status/1267321172309544960?
 
-### Police pullaway protestor and pepper sprays others | June 1st
+### Police pull away protestor and pepper sprays others | June 1st
 
 A police officer pulls away a protestor standing still. When others come to the protestor's aid they are pepper sprayed.
 
@@ -1564,6 +1565,7 @@ id: mo-kansascity-4
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gut8n1/in_kansas_city/
+* [Location via Google Street View](https://www.google.ca/maps/place/Giralda/@39.0425007,-94.5880276,3a,75y,208.49h,97.09t/data=!3m6!1e1!3m4!1sJzy4NglPGxJe3YarImT1Og!2e0!7i16384!8i8192!4m5!3m4!1s0x87c0efb6174d21e9:0xa50781025e9c6d35!8m2!3d39.0417847!4d-94.5879815)
 
 
 
