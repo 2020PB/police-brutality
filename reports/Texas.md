@@ -135,7 +135,8 @@ These two images show the injuries of an individual who had been shot in the eye
 
 **Links**
 
-* https://imgur.com/a/IOuyzHE
+* https://twitter.com/HERCGTH/status/1266870616570900480
+* https://www.wfaa.com/article/news/local/dallas-county/dallas-police-investigating-possible-use-of-force-incidents-saturday/287-1d3851d2-656c-4d40-8eac-7deac44ddf2d
 
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
 
