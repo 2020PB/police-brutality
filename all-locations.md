@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T18:35:50.818330+00:00
+UPDATED AT: 2020-06-08T18:41:09.124565+00:00
 
 
 # Alabama
@@ -518,16 +518,15 @@ id: ca-sanjose-31
 * https://twitter.com/bowiezamudio/status/1266598285206106113
 * https://twitter.com/kakimeows/status/1266982771005616128
 
-### Police officer kneels on protestor's neck. | Unknown date
+### Officer puts knee on neck of protester | May 29th
 
-Police officer Jared Yuen pushes another police officer off a protestor who is pinned on the ground in order to kneel on the protestor's neck.
+A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
 
 id: ca-sanjose-38
 
 **Links**
 
-* https://twitter.com/DeadByDawn101/status/1268825100385521665
-
+*  https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 ### Police fire on community activist | May 29th
 
