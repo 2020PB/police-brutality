@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T18:41:09.124565+00:00
+UPDATED AT: 2020-06-08T18:48:13.653934+00:00
 
 
 # Alabama
@@ -3177,6 +3177,17 @@ id: dc-dc-7
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
+
+### Police fire into crowd hitting one protester | June 1st
+
+Police fire into crowd outside of White House. Protester is hit and falls to the ground. The same protester is then hit again after standing. Projectile used is unknown.
+
+id: dc-dc-8
+
+**Links**
+
+* https://twitter.com/i/status/1269859559859871744
+
 
 
 
