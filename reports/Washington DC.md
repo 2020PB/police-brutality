@@ -64,6 +64,8 @@ id: dc-dc-5
 
 A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
+id: dc-dc-6
+
 **Links**
 
 * https://twitter.com/suckmyunicornD/status/1267767217392934917
@@ -72,6 +74,8 @@ A DC resident discusses being accosted by officers when trying to enter his home
 #### Police charge peaceful crowd, beat them with shields |
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
+
+id: dc-dc-7
 
 **Links**
 
