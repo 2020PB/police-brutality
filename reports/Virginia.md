@@ -35,6 +35,7 @@ id: va-richmond-2
 * https://twitter.com/i/status/1267650345947271176
 * https://twitter.com/i/status/1267613150112858116
 * https://twitter.com/i/status/1267601158534815745
+* https://twitter.com/LVozzella/status/1267603037532704769
 * https://twitter.com/myVPM/status/1267605983641075712
 * [Drone footage of Event](https://www.youtube.com/watch?v=LG_HMghyQZc)
 
