@@ -279,3 +279,11 @@ id: ny-newyorkcity-23
 **Links**
 
 * https://twitter.com/AndomForNY/status/1269065176814358529
+
+### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
+
+Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
+
+**Links**
+
+* https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
