@@ -127,7 +127,7 @@ id: wa-seattle-11
 
 * https://twitter.com/i/status/1269352173663592449
 
-### Police use tear gas on protestors | 
+### Police use tear gas on protestors | June 7th
 
 Teargas is seen being spread into group of protesters by police
 
