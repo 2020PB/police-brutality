@@ -63,15 +63,10 @@ id: va-richmond-4
 
 ### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
 
-Incident: Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breath".  
+Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breath".  
 
 **Links**
 *  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
 *  https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
 *  [Full video](https://www.youtube.com/watch?v=MjFEDlTCKGE)
-
-Accountability: Fairfax County police released the incident footage and an official statement. The officer in question faces three years in prison for three charges of assault and battery, while other officers at the scene were relieved of duty pending investigation.
-
-**Links**
-*  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
 *  https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
