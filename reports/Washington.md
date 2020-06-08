@@ -80,7 +80,7 @@ id: wa-seattle-5
 
 [Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)
 
-### Police officer pulls protestor to the ground unprovoked | May 31
+### Police officer pulls protestor to the ground unprovoked | May 31st
 
 An officer on a bike pulls down a protestor walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
 
@@ -92,10 +92,11 @@ id: wa-seattle-6
 * https://www.reddit.com/r/PublicFreakout/comments/gv9g5n/the_police_were_spotted_instigating_violence/
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
 
-### Law enforcement officer punches pinned protestor |
+### Law enforcement officer punches pinned protestor | May 31st
 
 In this video, officers wrestle with two protestors on the floor. One officer punches the protestor he has pinned at 0:15.
 
 **Links**
 
 * https://twitter.com/The_Stepover/status/1267236742278463488
+* https://twitter.com/eavu__/status/1267260549814870016
