@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T21:52:33.856769+00:00
+UPDATED AT: 2020-06-08T22:35:54.044477+00:00
 
 
 # Alabama
@@ -1994,6 +1994,8 @@ id: ny-newyorkcity-24
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
+id: ny-newyorkcity-26
+
 **Links**
 
 * https://wapo.st/2Mx7WY6
@@ -2079,6 +2081,16 @@ id: ny-newyorkcity-23
 **Links**
 
 * https://twitter.com/AndomForNY/status/1269065176814358529
+
+### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
+
+Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
+
+id: ny-newyorkcity-27
+
+**Links**
+
+* https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
 
 
 
