@@ -142,7 +142,7 @@ id: wa-seattle-13
 
 Teargas is seen being spread into group of protesters by police
 
-id: wa-seattle-12
+id: wa-seattle-15
 
 **Links**
 
