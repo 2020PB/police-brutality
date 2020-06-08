@@ -37,6 +37,8 @@ id: ga-atlanta-3
 
 Police shove and shoot protesters; one man shot in the head, he is seen being carried away unconscious.
 
+id: ga-atlanta-5
+
 **Links**
 * https://www.facebook.com/onlettingo/videos/10157072617626056
 * https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
