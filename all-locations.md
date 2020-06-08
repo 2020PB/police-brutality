@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T02:52:48.612633+00:00
+UPDATED AT: 2020-06-08T02:55:58.849898+00:00
 
 
 # Alabama
@@ -894,7 +894,7 @@ id: il-chicago-1
 
 **Links**
 
-https://twitter.com/alyssa_taylor45
+https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
 
 ### Protester shot in head with rubber bullet | May 30th
 
