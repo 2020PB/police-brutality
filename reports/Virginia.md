@@ -65,6 +65,8 @@ id: va-richmond-4
 
 Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breathe".  
 
+id: va-fairfax-1
+
 **Links**
 *  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
 *  https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/

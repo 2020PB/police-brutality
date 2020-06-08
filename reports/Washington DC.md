@@ -66,6 +66,8 @@ id: dc-dc-5
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
+id: dc-dc-9
+
 **Links**
 
 * https://twitter.com/MarkIronsMedia/status/1268046417865715713
@@ -76,6 +78,8 @@ In the first of these videos, a crowd can be seen shaking a piece of temporary f
 ### Law enforcement officers throw stinger grenades at peaceful protestors | Junes 3rd
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
+
+id: dc-dc-10
 
 **Links**
 

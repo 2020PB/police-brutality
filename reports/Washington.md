@@ -153,6 +153,8 @@ id: wa-seattle-12
 
 Medics attempt to treat "a young woman in her 20s who had taken a police projectile to her chest" as police throw flash bang grenades directly into the first aid center. There were several cycles of the victim no longer responding or breathing but becoming responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transported her by car to the ED where she was delivered with a pulse. The filmer, an editor at the local alt weekly The Stranger, reported in his twitter thread that the people in the office from where he was filming were having trouble breathing.
 
+id: wa-seattle-14
+
 **Links**
 
 * [Video showing individual getting hit with projectile, falling down, and becoming unresponsive. others drag them away from police.](https://twitter.com/chaseburnsy/status/1269889977363525634)
