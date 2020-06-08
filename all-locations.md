@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T03:15:12.945486+00:00
+UPDATED AT: 2020-06-08T03:28:21.434191+00:00
 
 
 # Alabama
@@ -3001,6 +3001,7 @@ id: dc-dc-3
 * https://www.wusa9.com/article/news/local/dc/lafayette-square-washington-dc-protests-st-johns-church/65-f76d9753-8d99-42df-b02d-99d11a427595
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpqoz/nsfl_hit_by_riot_shield_blood_gushes_out_of_guys/
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpgpz/found_both_videos_of_the_dc_event_i_know_people/
+* https://twitter.com/nytimes/status/1267638330654625794
 
 ### Officer fires tear gas cannister at protestor's head |
 
