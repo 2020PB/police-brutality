@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T01:19:44.371883+00:00
+UPDATED AT: 2020-06-08T01:21:34.213846+00:00
 
 
 # Alabama
@@ -2773,6 +2773,16 @@ id: va-richmond-3
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
+
+### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 4th
+
+In this video, an officer fires a tear gas cannister at a slow moving vehicle. It appears that he was unaware the vehicle belonged to the police.
+
+id: va-richmond-4
+
+**Links**
+
+* https://twitter.com/BeQueerDoCrime/status/1268648919623442432
 
 
 
