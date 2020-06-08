@@ -13,6 +13,7 @@ For more information on contributing to this repository please consult the [cont
 ---
 
 * [Web app](https://2020policebrutality.netlify.app/) to visually view posts
+* [Web app](https://policebrutality.me/) to visually view posts on map
 * [Data API](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) to build your own front end
 
 [Table of Contents](#Table-of-Contents)
