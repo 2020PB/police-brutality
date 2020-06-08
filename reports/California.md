@@ -143,11 +143,8 @@ id: ca-losangeles-24
 **Links**
 
 * https://twitter.com/LAist/status/1267006683596775424
-
 * https://twitter.com/jimw/status/1267666982544932866
-
 * https://twitter.com/MattHjourno/status/1267658943486017536
-
 * https://thesource.metro.net/2020/06/01/metro-explains-decision-to-suspend-service-saturday-night-and-law-enforcements-use-of-our-buses/
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
