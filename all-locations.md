@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T19:29:01.494691+00:00
+UPDATED AT: 2020-06-08T20:22:44.536411+00:00
 
 
 # Alabama
@@ -491,6 +491,17 @@ id: ca-sacramento-29
 * [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
 
 ## San Diego
+
+### Police kettle and fire on fleeing protestors | May 31st
+
+Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
+
+id ca-sandiego-39
+
+**Links**
+
+* [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
+* [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 ### Police abduct woman in unmarked van | June 4th
 
