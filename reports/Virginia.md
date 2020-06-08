@@ -39,6 +39,8 @@ id: va-richmond-3
 
 In this video, an officer fires a tear gas cannister at a slow moving vehicle. It appears that he was unaware the vehicle belonged to the police.
 
+id: va-richmond-4
+
 **Links**
 
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
