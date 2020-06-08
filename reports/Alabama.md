@@ -42,3 +42,15 @@ id: al-huntsville-4
 **Links**
 
 *  https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
+
+### Police fire rubber bullets on dispersing crowd | Believed to be June 5th
+
+After disperse order is given, protestors comply and begin to back away from the police line. Police fire rubber bullets at dispersing protestors and harrass woman (filmer) who has been shot in the leg and is unable to move quickly.
+
+June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
+
+id: al-huntsville-5
+
+**Links**
+
+*https://www.reddit.com/r/2020PoliceBrutality/comments/gyo2fh/huntsville_al_woman_documents_herself_struggling/?utm_source=share&utm_medium=web2x
