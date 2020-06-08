@@ -406,6 +406,7 @@ A community activist who worked with San Jose police for years was shot in the g
 **Links**
 
 *  https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
+*  https://twitter.com/greg_doucette/status/1269267786792144898
 
 ## Santa Ana
 
