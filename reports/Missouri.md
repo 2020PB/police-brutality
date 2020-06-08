@@ -59,3 +59,17 @@ id: mo-kansascity-4
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gut8n1/in_kansas_city/
 * [Location via Google Street View](https://www.google.ca/maps/place/Giralda/@39.0425007,-94.5880276,3a,75y,208.49h,97.09t/data=!3m6!1e1!3m4!1sJzy4NglPGxJe3YarImT1Og!2e0!7i16384!8i8192!4m5!3m4!1s0x87c0efb6174d21e9:0xa50781025e9c6d35!8m2!3d39.0417847!4d-94.5879815)
+
+## St. Louis
+
+### Florissant officer hits man with unmarked police vehicle | June 2nd
+
+A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm. 
+
+id: mo-stlouis-1
+
+**Links**
+
+* https://www.ksdk.com/article/news/local/video-shows-florissant-officer-in-unmarked-car-hit-man-who-appears-to-be-running-away/63-5db688ff-2f31-4e55-9d24-0707ecdb677f
+* https://www.facebook.com/realstlnews/videos/2610967669219012/
+
