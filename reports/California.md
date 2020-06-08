@@ -184,6 +184,7 @@ id: ca-losangeles-16
 **Links**
 
 * https://twitter.com/MattMcGorry/status/1267217360894562306
+* https://abc7.com/6231194/
 
 ### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
 
