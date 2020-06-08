@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T20:22:44.536411+00:00
+UPDATED AT: 2020-06-08T20:24:44.263438+00:00
 
 
 # Alabama
@@ -3068,6 +3068,15 @@ id: wa-seattle-12
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gycscp/cant_go_1_day_without_teargaslighting_us/?utm_source=share&utm_medium=web2x
 * https://www.forbes.com/sites/jemimamcevoy/2020/06/08/seattle-police-use-tear-gas-against-protestors-despite-city-ban/#7e98a1d5b4bc
+
+### Woman hit with police projectile resumes breathing after CPR, delivered to hospital | June 7th
+
+Medics attempt to treat "a young woman in her 20s who had taken a police projectile to her chest" as police throw flash bang grenades directly into the first aid center. There were several cycles of the victim no longer responding or breathing but becoming responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transported her by car to the ED where she was delivered with a pulse. The filmer, an editor at the local alt weekly The Stranger, reported in his twitter thread that the people in the office from where he was filming were having trouble breathing.
+
+**Links**
+
+* [Video showing individual getting hit with projectile, falling down, and becoming unresponsive. others drag them away from police.](https://twitter.com/chaseburnsy/status/1269889977363525634)
+* [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
 
 ### Additional Seattle OPA Case Numbers
 
