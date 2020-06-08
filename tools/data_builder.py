@@ -98,25 +98,28 @@ def parse_state(state, text):
             entry["city"] = city
 
         # remove the prefix
-        line = line[len(starts_with):]
+        line = line[len(starts_with):].strip()
 
-        # if starts_with == '#':
-        #   entry["state"] = line.strip()
         if starts_with == '##':
-            city = line.strip()
+            city = line
             entry["city"] = city
-        if starts_with == '###':
-            name, date, date_text = title_to_name_date(line.strip())
+        elif starts_with == '###':
+            name, date, date_text = title_to_name_date(line)
             # print(name, date)
             entry["name"] = name
             entry["date"] = date
             entry["date_text"] = date_text
-        if starts_with == '*':
+        elif starts_with == '*':
             link = url_regex.search(line)
             if link:
                 entry["links"].append(link.group())
             else:
                 print(f"Failed link parse '{line}'")
+        else:
+            # Text without a markdown marker, this might be the description or metadata
+            id_prefix = 'id: '
+            if line.startswith(id_prefix):
+                entry["id"] = line[len(id_prefix):].strip()
 
     if entry and entry["links"]:
         yield entry
