@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T01:24:30.089297+00:00
+UPDATED AT: 2020-06-08T01:26:48.616341+00:00
 
 
 # Alabama
@@ -2761,6 +2761,7 @@ id: va-richmond-2
 * https://twitter.com/i/status/1267650345947271176
 * https://twitter.com/i/status/1267613150112858116
 * https://twitter.com/i/status/1267601158534815745
+* https://twitter.com/LVozzella/status/1267603037532704769
 * https://twitter.com/myVPM/status/1267605983641075712
 * [Drone footage of Event](https://www.youtube.com/watch?v=LG_HMghyQZc)
 
