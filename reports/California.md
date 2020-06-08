@@ -313,6 +313,7 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&*  utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
 
+ca-losangeles-40
 
 ## Oakland
 
