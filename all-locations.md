@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T16:10:30.481042+00:00
+UPDATED AT: 2020-06-08T16:46:06.517210+00:00
 
 
 # Alabama
@@ -2990,6 +2990,17 @@ id: wa-seattle-11
 
 * https://twitter.com/i/status/1269352173663592449
 
+### Police use tear gas on protestors | June 7th
+
+Teargas is seen being spread into group of protesters by police
+
+id: wa-seattle-12
+
+**Links**
+
+https://www.reddit.com/r/2020PoliceBrutality/comments/gycscp/cant_go_1_day_without_teargaslighting_us/?utm_source=share&utm_medium=web2x
+
+https://www.forbes.com/sites/jemimamcevoy/2020/06/08/seattle-police-use-tear-gas-against-protestors-despite-city-ban/#7e98a1d5b4bc
 
 ### Additional Seattle OPA Case Numbers
 
@@ -3001,6 +3012,7 @@ id: wa-seattle-11
 * 2020OPA-0335 - June 1 - "Homeless man hit by an SPD flashbang while sleeping"
 
 [Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)
+
 
 
 # Washington DC
