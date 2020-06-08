@@ -63,7 +63,7 @@ id: fl-orlando-5
 
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
 
-Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer.
+Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer. They end up using tear-gas on the crowd.
 
 id: fl-tampa-6
 
