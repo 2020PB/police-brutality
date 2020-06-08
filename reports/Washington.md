@@ -155,6 +155,7 @@ Medics attempt to treat "a young woman in her 20s who had taken a police project
 
 **Links**
 
+* [Video showing individual getting hit with projectile, falling down, and becoming unresponsive. others drag them away from police.](https://twitter.com/chaseburnsy/status/1269889977363525634)
 * [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
 
 ### Additional Seattle OPA Case Numbers
