@@ -134,6 +134,22 @@ id: ca-losangeles-11
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
+### Police transport arrested protestors using public transportation | May 30th
+
+LAPD using Metro buses to transport arrested protestors after transit service shutdown. 
+
+id: ca-losangeles-24
+
+**Links**
+
+* https://twitter.com/LAist/status/1267006683596775424
+
+* https://twitter.com/jimw/status/1267666982544932866
+
+* https://twitter.com/MattHjourno/status/1267658943486017536
+
+* https://thesource.metro.net/2020/06/01/metro-explains-decision-to-suspend-service-saturday-night-and-law-enforcements-use-of-our-buses/
+
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
