@@ -74,7 +74,7 @@ https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0S
 
 Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
 
-id: ia-iowacity-2
+id: ia-iowacity-1
 
 **Links**
 
