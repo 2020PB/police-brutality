@@ -218,7 +218,7 @@ created a github repository on June 1st 2020 to compile evidence of police bruta
 and concerned citizens. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
-id: state_abriviation-city-number (ex: ca-los-angeles-1)
+id: state_abbreviation-city-number (ex: ca-losangeles-1)
 
 **Links**
 
