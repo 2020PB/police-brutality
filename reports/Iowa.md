@@ -21,6 +21,7 @@ id: ia-desmoines-2
 
 * https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301
 
+
 ### Police truck shoots at cars, hitting mother and breaking her finger | May 30th
 
 Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure"
@@ -33,6 +34,7 @@ id: ia-desmoines-3
 * https://www.tiktok.com/@jakegracey/video/6834936818799004934?source=h5_m
 * [Location via Google Street View](https://www.google.ca/maps/@41.6293563,-93.6988361,3a,75y,358.27h,68.85t/data=!3m6!1e1!3m4!1s5NdIPPqrW0kAv0Ge9xX4EQ!2e0!7i16384!8i8192)
 
+
 ### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | June 1st
 
 Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye. 
@@ -43,6 +45,7 @@ id: ia-desmoines-4
 
 * https://twitter.com/katie_akin/status/1267694434847731713
 * https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
+
 
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
 
@@ -56,6 +59,7 @@ id: ia-desmoines-5
 * http://iowainformer.com/politics/2020/06/des-moines-gay-bar-raided-amid-black-lives-matter-protests-as-pride-month-begins/
 * https://twitter.com/aaronpcalvin/status/1268708285517004801
 * [Location via Google Street View](https://www.google.ca/maps/place/The+Blazing+Saddle/@41.590306,-93.6114412,3a,75y,275.31h,90t/data=!3m7!1e1!3m5!1sysYseTIG29m9bjNYmZ71zQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DysYseTIG29m9bjNYmZ71zQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D275.31018%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m7!3m6!1s0x87ee99b1e2f004c9:0xf6f27ceb30ff9e27!8m2!3d41.5902914!4d-93.6115743!14m1!1BCgIgARICCAI)
+
 
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
 
