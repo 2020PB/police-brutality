@@ -61,7 +61,7 @@ id: ca-hollywood-1
 
 Law enforcement stand off with protesters, seemingly without provocaton they start gassing and shooting at the protesters.
 
-id: ca-lamesa-1
+id: ca-lamesa-2
 
 **Links**
 
@@ -72,7 +72,7 @@ id: ca-lamesa-1
 
 La Mesa PD shoot a woman in the face with a rubber bullet.
 
-id: ca-lamesa-2
+id: ca-lamesa-1
 
 **Links**
 
@@ -101,7 +101,7 @@ id: ca-longbeach-1
 
 An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
-id: ca-losangeles-1
+id: ca-losangeles-2
 
 **Links**
 
@@ -112,7 +112,7 @@ id: ca-losangeles-1
 
 Los Angeles law enforcement beat several protesters with batons.
 
-id: ca-losangeles-2
+id: ca-losangeles-3
 
 **Links**
 
@@ -124,7 +124,7 @@ id: ca-losangeles-2
 
 ABC7 reporters are hit by a cloud of tear gas after protesters were gassed up the street by Los Angeles law enforcement, as reported in this news coverage.
 
-id: ca-losangeles-3
+id: ca-losangeles-4
 
 **Links**
 
@@ -135,7 +135,7 @@ id: ca-losangeles-3
 
 In the video, protesters can be seen kneeling. Police swing batons at several protesters pressed against the side of a building.
 
-id: ca-losangeles-4
+id: ca-losangeles-5
 
 **Links**
 
@@ -146,7 +146,7 @@ id: ca-losangeles-4
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
-id: ca-losangeles-5
+id: ca-losangeles-6
 
 **Links**
 
@@ -157,7 +157,7 @@ id: ca-losangeles-5
 
 A police officer has his knee on a woman's neck, who already had 3 police officers on her. A different officer had to pull him away.
 
-id: ca-losangeles-6
+id: ca-losangeles-7
 
 **Links**
 
@@ -168,7 +168,7 @@ id: ca-losangeles-6
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby.
 
-id: ca-losangeles-7
+id: ca-losangeles-8
 
 **Links**
 
@@ -179,7 +179,7 @@ id: ca-losangeles-7
 
 Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head.
 
-id: ca-losangeles-8
+id: ca-losangeles-9
 
 **Links**
 
@@ -192,7 +192,7 @@ id: ca-losangeles-8
 
 Los Angeles law enforcement beat protesters for no apparent reason.
 
-id: ca-losangeles-9
+id: ca-losangeles-10
 
 **Links**
 
@@ -204,7 +204,7 @@ id: ca-losangeles-9
 
 LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
 
-id: ca-losangeles-10
+id: ca-losangeles-11
 
 **Links**
 
@@ -216,7 +216,7 @@ id: ca-losangeles-10
 
 LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protestors, then throws it in reverse and speeds away
 
-id: ca-losangeles-11
+id: ca-losangeles-12
 
 **Links**
 
@@ -232,7 +232,7 @@ id: ca-losangeles-11
 
 Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
 
-id: ca-losangeles-12
+id: ca-losangeles-13
 
 **Links**
 
@@ -243,7 +243,7 @@ id: ca-losangeles-12
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
-id: ca-losangeles-13
+id: ca-losangeles-16
 
 **Links**
 
@@ -278,7 +278,7 @@ id: ca-losangeles-15
 
 The police are seen shooting at fleeing protestors and parked vehicles.
 
-id: ca-losangeles-16
+id: ca-losangeles-1
 
 **Links**
 
@@ -292,7 +292,7 @@ id: ca-losangeles-16
 
 Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless main in a wheelchair.
 
-id: ca-losangeles-17
+id: ca-losangeles-18
 
 **Links**
 * https://www.instagram.com/p/CBCiZXOlno4/
@@ -306,7 +306,7 @@ A man confined to a wheelchair is shot in the eye with a rubber bullet causing h
 
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
-id: ca-losangeles-18
+id: ca-losangeles-17
 
 **Links**
 
@@ -420,7 +420,7 @@ id: ca-sacramento-3
 
 Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
 
-id: ca-sandiego-1
+id: ca-sandiego-2
 
 **Links**
 
@@ -432,11 +432,24 @@ id: ca-sandiego-1
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
 
-id: ca-sandiego-2
+id: ca-sandiego-1
 
 **Links**
 
 * [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
+
+
+## San Francisco
+
+### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
+
+A police SUV is attempting to drive through a crowd.  A law enforcement officer shoves the man from behind off the sidewalk onto the ground in front of the vehicle.
+
+id: ca-sanfrancisco-1
+
+**Links**
+
+* https://twitter.com/caseylc9/status/1267285516262596608
 
 
 ## San Jose
@@ -460,7 +473,7 @@ id: ca-sanjose-1
 
 A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
 
-id: ca-sanjose-2
+id: ca-sanjose-3
 
 **Links**
 
@@ -471,26 +484,13 @@ id: ca-sanjose-2
 
 A protestor and community activist, known for work anti-bias and community building work with the San Jose PD, is fired upon by police. Though he has his hands in the air, police fire on him numerous times, striking him once in the groin.
 
-id: ca-sanjose-3
+id: ca-sanjose-2
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269267786792144898
 * https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
 * https://www.latimes.com/california/story/2020-06-06/community-organizer-shot-by-rubber-bullet-during-protest
-
-
-## Santa Ana
-
-### Police open fire on protestors | May 31st
-
-The individual recording the video is trying his best to save his fellow protestor, however his cries are upon deaf ears, the police continue to shoot at them around 0:16
-
-id: ca-santaana-1
-
-**Links**
-
-* https://twitter.com/YourAnonCentral/status/1266991237355069442
 
 
 ## San Luis Obispo
@@ -506,17 +506,17 @@ id: ca-sanluisobispo-1
 * https://twitter.com/ma7dz/status/1267697838244298752
 
 
-## San Francisco
+## Santa Ana
 
-### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
+### Police open fire on protestors | May 31st
 
-A police SUV is attempting to drive through a crowd.  A law enforcement officer shoves the man from behind off the sidewalk onto the ground in front of the vehicle.
+The individual recording the video is trying his best to save his fellow protestor, however his cries are upon deaf ears, the police continue to shoot at them around 0:16
 
-id: ca-sanfrancisco-1
+id: ca-santaana-1
 
 **Links**
 
-* https://twitter.com/caseylc9/status/1267285516262596608
+* https://twitter.com/YourAnonCentral/status/1266991237355069442
 
 
 ## Santa Monica
@@ -525,7 +525,7 @@ id: ca-sanfrancisco-1
 
 Live on TV, police fire multiple pepper bullets at a second-story apartment window from the street below.
 
-id: ca-santamonica-2
+id: ca-santamonica-1
 
 **Links**
 
