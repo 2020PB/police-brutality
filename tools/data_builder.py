@@ -74,6 +74,7 @@ def parse_state(state, text):
         "state": state,
         "edit_at": source_link,
         "city": city,
+        "description": "",
     }
     entry = copy.deepcopy(clean_entry)
 
@@ -118,11 +119,16 @@ def parse_state(state, text):
                 entry["links"].append(link.group())
             else:
                 print(f"Failed link parse '{line}'")
+        elif starts_with == '**':
+            # **links** line
+            pass
         else:
             # Text without a markdown marker, this might be the description or metadata
             id_prefix = 'id: '
             if line.startswith(id_prefix):
                 entry["id"] = line[len(id_prefix):].strip()
+            else:
+                entry["description"] += line + '\n'
 
     if entry and entry["links"]:
         yield entry
@@ -224,11 +230,14 @@ def to_readme(target_path):
     with open(target_path, 'w') as f:
         f.write(readme_text)
 
+def read_all_data():
+    md_texts = read_all_md_files(md_dir)
+    data = process_md_texts(md_texts)
+    return data
 
 if __name__ == '__main__':
     md_texts = read_all_md_files(md_dir)
     data = process_md_texts(md_texts)
-
     to_merged_md_file(md_texts, combined_fpath)
     to_csv_file(data, csv_fpath)
     to_json_file(data, json_fpath)
