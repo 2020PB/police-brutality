@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T18:20:56.301237+00:00
+UPDATED AT: 2020-06-09T19:05:39.545687+00:00
 
 
 # Alabama
@@ -3272,6 +3272,17 @@ id: tx-houston-2
 **Links**
 
 * https://twitter.com/AbkTrauma/status/1266511972524269569
+
+
+### Officer pushs protestor that is filming | Date Unknown
+
+A protestor is filming and asking "why?", referring to protestors being arrested. An officer then pushs the protestor that is filming, knocking the camera to the ground.
+
+id: tx-houston-3
+
+**Links**
+
+* https://twitter.com/DomSkyeRN/status/1270185401060294656
 
 
 ## San Antonio
