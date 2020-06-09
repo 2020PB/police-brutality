@@ -6,7 +6,7 @@
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-id: mn-minneapolis-1
+id: mn-minneapolis-14
 
 **Links**
 
@@ -17,7 +17,7 @@ id: mn-minneapolis-1
 
 Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
-id: mn-minneapolis-2
+id: mn-minneapolis-1
 
 **Links**
 
@@ -31,7 +31,7 @@ id: mn-minneapolis-2
 
 The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
 
-id: mn-minneapolis-3
+id: mn-minneapolis-21
 
 **Links**
 
@@ -42,7 +42,7 @@ id: mn-minneapolis-3
 
 While sitting in their cars, the policemen proceed to pepperspray the protestors in a drive-by fashion
 
-id: mn-minneapolis-4
+id: mn-minneapolis-3
 
 **Links**
 
@@ -54,7 +54,7 @@ id: mn-minneapolis-4
 
 Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them information on where to relocate.
 
-id: mn-minneapolis-5
+id: mn-minneapolis-4
 
 **Links**
 
@@ -65,7 +65,7 @@ id: mn-minneapolis-5
 
 While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
-id: mn-minneapolis-6
+id: mn-minneapolis-5
 
 **Links**
 
@@ -76,7 +76,7 @@ id: mn-minneapolis-6
 
 CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
 
-id: mn-minneapolis-7
+id: mn-minneapolis-15
 
 **Links**
 
@@ -87,7 +87,7 @@ id: mn-minneapolis-7
 
 Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
 
-id: mn-minneapolis-8
+id: mn-minneapolis-16
 
 **Links**
 
@@ -98,7 +98,7 @@ id: mn-minneapolis-8
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
-id: mn-minneapolis-9
+id: mn-minneapolis-17
 
 **Links**
 
@@ -111,7 +111,7 @@ id: mn-minneapolis-9
 
 In an attempt to move residents inside, the police fire shots at them.
 
-id: mn-minneapolis-10
+id: mn-minneapolis-2
 
 **Links**
 
@@ -122,7 +122,7 @@ id: mn-minneapolis-10
 
 The woman proceeds to tell the story of what she faced while trying to get footage.
 
-id: mn-minneapolis-11
+id: mn-minneapolis-6
 
 **Links**
 
@@ -134,7 +134,7 @@ id: mn-minneapolis-11
 
 Ryan Faircloth, reporter for Star Tribune, describes his experience of the police shooting his car's window.
 
-id: mn-minneapolis-12
+id: mn-minneapolis-7
 
 **Links**
 
@@ -145,7 +145,7 @@ id: mn-minneapolis-12
 
 In the *Mother Jones* article linked below, video footage shows police slashing tires of vehicles on a highway overpass. Additional tweets indicate possible police slashing of cars in a Kmart parking lot.
 
-id: mn-minneapolis-13
+id: mn-minneapolis-8
 
 **Links**
 
@@ -160,7 +160,7 @@ id: mn-minneapolis-13
 
 While filming, Mike George's CBS news crew is shot with rubber bullets.
 
-id: mn-minneapolis-14
+id: mn-minneapolis-9
 
 **Links**
 
@@ -172,7 +172,7 @@ id: mn-minneapolis-14
 
 MSNBC reporters were just almost hit with some sort of explosive device by law enforcement officers in Minneapolis.
 
-id: mn-minneapolis-15
+id: mn-minneapolis-10
 
 **Links**
 
@@ -183,7 +183,7 @@ id: mn-minneapolis-15
 
 The picture shows the reporter's eye has been damaged, and potentially blinded.
 
-id: mn-minneapolis-16
+id: mn-minneapolis-11
 
 **Links**
 
@@ -194,7 +194,7 @@ id: mn-minneapolis-16
 
 The article given below shows that the Reuters crew was hit with rubber bullets
 
-id: mn-minneapolis-17
+id: mn-minneapolis-12
 
 **Links**
 
@@ -205,7 +205,7 @@ id: mn-minneapolis-17
 
 German reporter for DW News is shot at by Minneapolis police, who then threaten to arrest him.
 
-id: mn-minneapolis-18
+id: mn-minneapolis-13
 
 **Links**
 
@@ -216,7 +216,7 @@ id: mn-minneapolis-18
 
 Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepperspray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08 in first video) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
-id: mn-minneapolis-19
+id: mn-minneapolis-18
 
 **Links**
 
@@ -227,7 +227,7 @@ id: mn-minneapolis-19
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
-id: mn-minneapolis-20
+id: mn-minneapolis-19
 
 **Links**
 
@@ -238,7 +238,7 @@ id: mn-minneapolis-20
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol"
 
-id: mn-minneapolis-21
+id: mn-minneapolis-20
 
 **Links**
 
