@@ -41,19 +41,6 @@ id: ny-buffalo-3
 *  https://twitter.com/PhotoJazzy/status/1269056626843099137
 
 
-## Rochester
-
-### Police shoot at people filming | May 31st
-
-Police are seen shooting at individuals who were recording an incident.
-
-id: ny-rochester-1
-
-**Links**
-
-* https://twitter.com/bleeezyy_/status/1266894195865931778
-
-
 ## New York City
 
 
@@ -329,3 +316,16 @@ id: ny-newyorkcity-26
 **Links**
 
 * https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
+
+
+## Rochester
+
+### Police shoot at people filming | May 31st
+
+Police are seen shooting at individuals who were recording an incident.
+
+id: ny-rochester-1
+
+**Links**
+
+* https://twitter.com/bleeezyy_/status/1266894195865931778
