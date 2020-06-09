@@ -32,12 +32,14 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 **Our webapps and visualizers:**
 * [Web app](https://2020policebrutality.netlify.app/) to visually view incident reports
 * [Interactive map](https://846policebrutality.com/) of incidents with video and social media browsers
+* [Collection of projects](https://pb2020gallery.netlify.app/) that use our APIs
 
 **Some external projects built using our API:**
 * [Searchable collection](https://too-many-incidents.netlify.app/) of incidents and related evidence
 * [List](https://policebrutality.netlify.app/) of incidents that you can filter by city and state
 * [Timeline](https://bread.codes/PoliceBrutality/) of police brutality events
 * [Dashboard](https://datastudio.google.com/s/oFSSsjw2kAY) with stats at the city and state levels
+* [Android app](https://github.com/andrewsnyder328/2020PoliceBrutalityApk/) to visually view posts
 
 ## Background
 
