@@ -12,11 +12,6 @@ For more information on contributing to this repository please consult the [cont
 
 ---
 
-* [Web app](https://2020policebrutality.netlify.app/) to visually view posts
-* [Data API](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) to build your own front end
-
-[Table of Contents](#Table-of-Contents)
-
 This repository exists to accumulate and contextualize evidence of police brutality during the 2020 George Floyd protests.
 
 Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
@@ -26,6 +21,23 @@ This was first started as a megathread on the subreddit [/r/2020PoliceBrutality]
 If you are here looking for evidence of police brutality, please refer to the table of contents for links to incident reports sorted by state.
 
 If you wish to contribute, please start by reading the [contribution guidelines](./CONTRIBUTING.md).
+
+## Links
+
+**Ways to use our incident files:**
+* [Data API](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) to build your own front end
+* [Data API](https://www.github.com/949mac/846-backend/) that includes geolocation data
+* [REST API](https://github.com/nickatnight/policebrutality.io) that points to backed-up video files
+
+**Our webapps and visualizers:**
+* [Web app](https://2020policebrutality.netlify.app/) to visually view incident reports
+* [Interactive map](https://846policebrutality.com/) of incidents with video and social media browsers
+
+**Some external projects built using our API:**
+* [Searchable collection](https://too-many-incidents.netlify.app/) of incidents and related evidence
+* [List](https://policebrutality.netlify.app/) of incidents that you can filter by city and state
+* [Timeline](https://bread.codes/PoliceBrutality/) of police brutality events
+* [Dashboard](https://datastudio.google.com/s/oFSSsjw2kAY) with stats at the city and state levels
 
 ## Background
 
@@ -37,7 +49,8 @@ As these protests have continued, hundreds of incidents have been recorded where
 ## Table of Contents
 
 * [Contribution Guidelines](./CONTRIBUTING.md)
-* [FAQ](./CONTRIBUTING.md#Frequently-Asked-Questions)
+* [Frequently Asked Questions](./CONTRIBUTING.md#Frequently-Asked-Questions)
+* [Building with the API](./docs/building-with-the-api.md)
 * [Raw Video Archive](https://github.com/pb-files/pb-videos)
 * [IPFS Archive](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud)
 * **Incident Reports**
