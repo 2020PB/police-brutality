@@ -96,7 +96,7 @@ id: mi-kalamazoo-1
 * Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
 
 
-### Police fire tear gas at peaceful protesters | June 2nd ~7:30pm EDT
+### Police fire tear gas at peaceful protesters | June 2nd
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 

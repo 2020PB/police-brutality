@@ -48,6 +48,17 @@ id: ia-desmoines-4
 * https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
 
 
+## Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | (believed to be) June 2nd
+
+Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
+
+id: ia-desmoines-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268235074580987906
+
+
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
@@ -57,17 +68,6 @@ id: ia-desmoines-6
 **Links**
 
 https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
-
-
-### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
-
-Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
-
-id: ia-desmoines-1
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268235074580987906
 
 
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
