@@ -51,7 +51,7 @@ id: wa-seattle-4
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
 
-id: wa-seattle-5
+id: wa-seattle-8
 
 **Links** 
 
@@ -76,7 +76,7 @@ id: wa-seattle-6
 
 In this video, officers wrestle with two protestors on the floor. One officer punches the protestor he has pinned at 0:15.
 
-id: wa-seattle-7
+id: wa-seattle-12
 
 **Links**
 
@@ -88,7 +88,7 @@ id: wa-seattle-7
 
 Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
 
-id: wa-seattle-8
+id: wa-seattle-7
 
 **Links**
 
@@ -120,7 +120,7 @@ id: wa-seattle-10
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
-id: wa-seattle-11
+id: wa-seattle-5
 
 **Links**
 
@@ -134,7 +134,7 @@ id: wa-seattle-11
 Video shows officer on back of woman laying face down. Officer has the woman in a choke hold. Officer then moves to place both
 knees on back during arrest, one knee on middle of the back and the other behind the neck of the woman. Officer is reported to work for Bellvue Police Department. Arrest made over what twitter user @_SJPeace_ described as a title transfer.
 
-id: wa-seattle-12
+id: wa-seattle-11
 
 **Links**
 
@@ -157,7 +157,7 @@ id: wa-seattle-13
 
 Teargas is seen being spread into group of protesters by police
 
-id: wa-seattle-14
+id: wa-seattle-15
 
 **Links**
 
@@ -169,12 +169,13 @@ id: wa-seattle-14
 
 Medics attempt to treat "a young woman in her 20s who had taken a police projectile to her chest" as police throw flash bang grenades directly into the first aid center. There were several cycles of the victim no longer responding or breathing but becoming responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transported her by car to the ED where she was delivered with a pulse. The filmer, an editor at the local alt weekly The Stranger, reported in his twitter thread that the people in the office from where he was filming were having trouble breathing.
 
-id: wa-seattle-15
+id: wa-seattle-14
 
 **Links**
 
 * [Video showing individual getting hit with projectile, falling down, and becoming unresponsive. others drag them away from police.](https://twitter.com/chaseburnsy/status/1269889977363525634)
 * [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
+
 
 ### Additional Seattle OPA Case Numbers
 
