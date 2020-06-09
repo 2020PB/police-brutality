@@ -25,7 +25,7 @@ id: ut-saltlakecity-2
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
 
-id: ut-saltlakecity-3
+id: ut-saltlakecity-4
 
 **Links**
 
@@ -37,7 +37,7 @@ id: ut-saltlakecity-3
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
-id: ut-saltlakecity-4
+id: ut-saltlakecity-3
 
 **Links**
 
