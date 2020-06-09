@@ -2,7 +2,7 @@
 
 **Mission Statement**
 
-We will document examples of excessive force and misconduct of law enforcement officers during the 2020 protests sparked by the death of George Floyd.
+We will document examples of the use of excessive force, as well as other misconduct, by law enforcement officers during the 2020 protests sparked by the death of George Floyd.
 
 Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
 
