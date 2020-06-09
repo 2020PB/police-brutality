@@ -1,4 +1,4 @@
-### Riot Police rams shield into BBC cameraman | May 31
+### Riot Police rams shield into BBC cameraman | May 31st
 
 A BBC cameraman was charged at by police and hit with a shield.
 
@@ -39,6 +39,7 @@ id: dc-dc-2
 * Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
 * CW: Blood: https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/
 
+
 ### Protestors are quickly and violently pushed out of Lafayette Square | June 1
 
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors
@@ -54,6 +55,7 @@ id: dc-dc-3
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpgpz/found_both_videos_of_the_dc_event_i_know_people/
 * https://twitter.com/nytimes/status/1267638330654625794
 
+
 ### Officer fires tear gas cannister at protestor's head |
 
 DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
@@ -63,6 +65,7 @@ id: dc-dc-4
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267377374066167808
+
 
 ### Police violence outside the White House | June 1st
 
@@ -86,7 +89,8 @@ id: dc-dc-6
 * https://twitter.com/suckmyunicornD/status/1267767217392934917
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
-### Police charge peaceful crowd, beat them with shields |
+
+### Police charge peaceful crowd, beat them with shields | 
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
@@ -95,6 +99,7 @@ id: dc-dc-7
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
+
 
 ### Police fire into crowd hitting one protester | June 1st
 
@@ -120,7 +125,7 @@ id: dc-dc-9
 * https://twitter.com/gifdsports/status/1268041853196275712
 
 
-### Law enforcement officers throw stinger grenades at peaceful protestors | June 3rd
+### Law enforcement officers throw stinger grenades at peaceful protestors | June 3
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
 

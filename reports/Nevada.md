@@ -1,6 +1,6 @@
 ## Las Vegas
 
-### Police arrest a man for speaking at them from a distance. | May 29th.
+### Police arrest a man for speaking at them from a distance. | May 29th
 
 Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
@@ -21,6 +21,7 @@ id: nv-lasvegas-1
 
 * https://twitter.com/LasVegasLocally/status/1267210841595604992
 * https://www.instagram.com/p/CA14rooHIC6/?utm_source=ig_web_copy_link
+
 
 ### Police charge into peaceful crowd shouting "grab anybody" | June 1st
 
