@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T16:12:46.446861+00:00
+UPDATED AT: 2020-06-09T17:33:36.850970+00:00
 
 
 # Alabama
@@ -1724,6 +1724,17 @@ id: mi-kalamazoo-2
 ## Minneapolis
 
 #### Please note: These are all believed to be from Minneapolis, if not please contact the moderator immediately
+
+### Police hit press in neck and head with wooden baton | May 26th
+
+A group of cops start to approach a group of press taking photos and video. One press member repeats "we have our hands up and we have press passes". An officer walking by points in the direction of a photographer and says something indiscernable. The camera pans to show a cop hitting the photographer in the neck and head with a wooden baton.
+
+id: mn-minneapolis-22
+
+**Links**
+
+* https://youtu.be/XAa5xb6JitI?t=5982
+* https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
 
 ### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
