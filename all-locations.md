@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T02:28:40.731728+00:00
+UPDATED AT: 2020-06-09T02:36:31.929800+00:00
 
 
 # Alabama
@@ -1167,6 +1167,7 @@ id: in-fortwayne-1
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266745200656990208
+* https://twitter.com/_isabel_a/status/1266580681251000321
 
 ### Police tear gas peaceful protesters | May 30th
 
