@@ -1,20 +1,5 @@
 ## Austin
 
-### Police critically injure 20 year old black protester during protests against police violence | May 31st
-
-A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
-
-Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
-
-id: tx-austin-1
-
-**Links**
-
-* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
-* https://www.texastribune.org/2020/06/01/austin-police-george-floyd-mike-ramos/
-* https://www.kvue.com/article/news/local/austin-protester-police-struck-by-less-lethal-bean-bag-round/269-430f90a2-b6c1-4ee3-9d9c-639faf132100
-* https://www.cnn.com/2020/06/07/us/austin-texas-police-bean-bag-20-year-old-injured/index.html
-
 
 ### Police assault protesters | (believed to be) May 30th
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
@@ -43,7 +28,7 @@ id: tx-austin-3
 * https://cbsaustin.com/news/local/austin-teen-hospitalized-with-head-injury-after-police-shoot-him-with-bean-bags-at-protest
 
 
-### Police use tear gas & rubber bullets on protesters | May 30th @ ~3pm
+### Police use tear gas & rubber bullets on protesters | May 30th
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
 
@@ -65,6 +50,22 @@ id: tx-austin-5
 **Links**
 
 * https://twitter.com/ironfront7/status/1267133400156196870
+
+
+### Police critically injure 20 year old black protester during protests against police violence | May 31st
+
+A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
+
+Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
+
+id: tx-austin-1
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
+* https://www.texastribune.org/2020/06/01/austin-police-george-floyd-mike-ramos/
+* https://www.kvue.com/article/news/local/austin-protester-police-struck-by-less-lethal-bean-bag-round/269-430f90a2-b6c1-4ee3-9d9c-639faf132100
+* https://www.cnn.com/2020/06/07/us/austin-texas-police-bean-bag-20-year-old-injured/index.html
 
 
 ### Police open fire on crowd after a protester throws water on them | May 31st
@@ -134,17 +135,6 @@ id: tx-dallas-1
 * https://twitter.com/greg_doucette/status/1267109272342736896
 
 
-### Police use flashbangs and tear gas on protestors | May 31st
-
-The first-person video shows an individual running away from what seem to be loud explosions.
-
-id: tx-dallas-2
-
-**Links**
-
-* https://twitter.com/xtranai/status/1266898175568338945
-
-
 ### Man shot in the eye | May 30th
 
 Man at the protests had been shot in the eye by officers.
@@ -155,6 +145,17 @@ id: tx-dallas-4
 
 * https://twitter.com/HERCGTH/status/1266870616570900480
 * https://www.wfaa.com/article/news/local/dallas-county/dallas-police-investigating-possible-use-of-force-incidents-saturday/287-1d3851d2-656c-4d40-8eac-7deac44ddf2d
+
+
+### Police use flashbangs and tear gas on protestors | May 31st
+
+The first-person video shows an individual running away from what seem to be loud explosions.
+
+id: tx-dallas-2
+
+**Links**
+
+* https://twitter.com/xtranai/status/1266898175568338945
 
 
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
