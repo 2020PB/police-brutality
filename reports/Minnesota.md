@@ -151,6 +151,7 @@ id: mn-minneapolis-7
 **Links**
 
 * https://twitter.com/JaredGoyette/status/1266961243476299778
+* https://twitter.com/RyanFaircloth/status/1266967500383834114
 
 
 ### Police slashes tires | May 31st
