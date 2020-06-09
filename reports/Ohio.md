@@ -238,3 +238,12 @@ id: oh-columbus-15
 
 *  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
 *  https://twitter.com/julialwashere/status/1266730657436315649
+
+
+### Police pepper spray protestors | May 30th
+
+id: oh-columbus-16
+
+**Links**
+
+* https://twitter.com/sar_schroe/status/1266780049266610177
