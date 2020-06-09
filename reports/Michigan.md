@@ -4,7 +4,7 @@
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
-id: mi-detroit-1
+id: mi-detroit-4
 
 **Links**
 
@@ -15,7 +15,7 @@ id: mi-detroit-1
 
 Riot police charge peaceful protestors without warning. The filming protestor and numerous others are beaten with riot shields.
 
-id: mi-detroit-2
+id: mi-detroit-5
 
 **Links**
 
@@ -26,7 +26,7 @@ id: mi-detroit-2
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
-id: mi-detroit-3
+id: mi-detroit-1
 
 **Links**
 
@@ -37,7 +37,7 @@ id: mi-detroit-3
 
 Detroit Police pepperspray a reporter in the face while he holds up a media badge
 
-id: mi-detroit-4
+id: mi-detroit-2
 
 **Links**
 
@@ -49,7 +49,7 @@ id: mi-detroit-4
 
 Police teargassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
 
-id: mi-detroit-5
+id: mi-detroit-3
 
 **Links**
 
@@ -73,7 +73,7 @@ id: mi-detroit-6
 
 A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a teargas canister is shot by a different officer directly into the man's head.
 
-id: mi-grandrapids-51
+id: mi-grandrapids-1
 
 **Links**
 
