@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T23:34:53.582722+00:00
+UPDATED AT: 2020-06-09T23:35:52.162180+00:00
 
 
 # Alabama
@@ -1930,6 +1930,7 @@ id: mn-minneapolis-7
 **Links**
 
 * https://twitter.com/JaredGoyette/status/1266961243476299778
+* https://twitter.com/RyanFaircloth/status/1266967500383834114
 
 
 ### Police slashes tires | May 31st
