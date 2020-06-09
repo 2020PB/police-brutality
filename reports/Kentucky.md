@@ -4,7 +4,7 @@
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
-id: ky-louisville-1
+id: ky-louisville-2
 
 **Links**
 * [Video](https://www.reddit.com/r/PublicFreakout/comments/gt69qe/police_start_shooting_press_with_some_kinda/)
@@ -16,7 +16,7 @@ id: ky-louisville-1
 
 A young woman was injured by a rubber bullet she took to the head.
 
-id: ky-louisville-2
+id: ky-louisville-4
 
 **Links**
 
@@ -28,7 +28,7 @@ id: ky-louisville-2
 
 Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
 
-id: ky-louisville-3
+id: ky-louisville-1
 
 **Links**
 * [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
@@ -39,7 +39,7 @@ id: ky-louisville-3
 
 Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
 
-id: ky-louisville-4
+id: ky-louisville-5
 
 **Links**
 
@@ -50,7 +50,7 @@ id: ky-louisville-4
 
 A man was using a leafblower to clear teargas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
-id: ky-louisville-5
+id: ky-louisville-3
 
 **Links**
 
