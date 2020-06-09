@@ -115,6 +115,8 @@ id: wa-seattle-5
 **Links**
 
 * https://twitter.com/catsayshello/status/1268073344814866432
+* https://www.instagram.com/tv/CA63KMnlVvu/?igshid=hfp3uoaqe23p
+* https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
 
 ### Officer chokes and places knee on neck of woman | June 6th
 
