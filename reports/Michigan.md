@@ -82,6 +82,17 @@ id: mi-grandrapids-1
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gv3xuu/police_in_grand_rapids_michigan_spray_a_man/
 
 
+### Law enforcement push and shove a crowd of protesters.
+
+Peaceful protestrs push and shove a crowd of peaceful protesters with riot shields.
+
+id: mi-grandrapids-2
+
+**Links**
+
+* https://twitter.com/DJR2C2/status/1267006669583720448
+* https://twitter.com/sparrowsongs_/status/1266948928966139904
+
 ## Kalamazoo
 
 ### Police fire tear gas at prone protesters | June 1st
