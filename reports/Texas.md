@@ -195,6 +195,17 @@ id: tx-houston-2
 * https://twitter.com/AbkTrauma/status/1266511972524269569
 
 
+### Officer pushs protestor that is filming | Date Unknown
+
+A protestor is filming and asking "why?", referring to protestors being arrested. An officer then pushs the protestor that is filming, knocking the camera to the ground.
+
+id: tx-houston-3
+
+**Links**
+
+* https://twitter.com/DomSkyeRN/status/1270185401060294656
+
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
