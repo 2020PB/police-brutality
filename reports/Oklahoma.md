@@ -1,8 +1,8 @@
 ## Oklahoma City
 
-### Police fire projectile directly at the chest of someone standing with hands up  | May 30th
+### Person with hands up struck in chest by projectile | May 30th
 
-Police fire projectile directly at the chest of someone who is standing with hands up. You can see other projectiles being fired straight at other protestors.
+Person standing with hands up struck in chest by projectile; a second projectile is fired shortly after person is struck by the first.
 
 id: ok-oklahomacity-1
 
