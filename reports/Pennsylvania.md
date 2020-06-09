@@ -95,7 +95,7 @@ id: pa-philadelphia-5
 
 Police shove a group of protestors. A particularly aggressive police officer (fat, white shirt) runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
-id: pa-philadelphia-6
+id: pa-philadelphia-7
 
 **Links**
 
@@ -110,7 +110,7 @@ id: pa-philadelphia-6
 
 An officer (fat, white shirt) is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer. 
 
-id: pa-philadelphia-7
+id: pa-philadelphia-8
 
 **Links**
 
@@ -121,7 +121,7 @@ id: pa-philadelphia-7
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
-id: pa-philadelphia-8
+id: pa-philadelphia-6
 
 **Links**
 
