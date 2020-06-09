@@ -11,7 +11,7 @@ id: nv-lasvegas-3
 *  https://twitter.com/itsraiialex/status/1266770032719040513
 
 
-### Police shove numerous protestors to the group | May 29th
+### Police shove numerous protestors to the ground | May 29th
 
 Officer line begins to advance towards protestors, shoving numerous protestors to the ground as they do.
 
