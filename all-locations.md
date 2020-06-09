@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T14:27:03.287550+00:00
+UPDATED AT: 2020-06-09T14:30:01.405041+00:00
 
 
 # Alabama
@@ -1863,6 +1863,7 @@ id: mn-minneapolis-8
 * https://twitter.com/val_ebertz/status/1266975058230235137
 * https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
 * https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
+* https://lawandcrime.com/george-floyd-death/strategically-deflated-authorities-admit-to-slashing-tires-on-cars-belonging-to-protesters-and-journalists-in-minneapolis/
 
 
 ### CBS news crew shot with rubber bullets | May 31st
