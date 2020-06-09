@@ -84,7 +84,7 @@ id: mi-grandrapids-1
 
 ### Law enforcement push and shove a crowd of protesters.
 
-Peaceful protestrs push and shove a crowd of peaceful protesters with riot shields.
+Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
 id: mi-grandrapids-2
 
