@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T21:23:01.500161+00:00
+UPDATED AT: 2020-06-09T22:20:11.654680+00:00
 
 
 # Alabama
@@ -788,6 +788,18 @@ id: co-denver-7
 **Links**
 
 * https://youtu.be/xNLZ7exVxq4?t=110
+
+
+### Bystander claims police shoot him in the eye | May 30th
+
+Bystander claims law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, blinding him in one eye.
+
+id: co-denver-14
+
+**Links**
+
+* https://www.denverpost.com/2020/06/09/denver-protest-bystander-blinded/
+* https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
 ### Police fire pepper balls at car with pregnant woman | May 31st
