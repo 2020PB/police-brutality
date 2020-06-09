@@ -10,6 +10,7 @@ id: ia-desmoines-2
 
 * https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301
 
+
 ### Police truck shoots at cars, hitting mother and breaking her finger | May 30th
 
 Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure"
@@ -22,6 +23,7 @@ id: ia-desmoines-3
 * https://www.tiktok.com/@jakegracey/video/6834936818799004934?source=h5_m
 * [Location via Google Street View](https://www.google.ca/maps/@41.6293563,-93.6988361,3a,75y,358.27h,68.85t/data=!3m6!1e1!3m4!1s5NdIPPqrW0kAv0Ge9xX4EQ!2e0!7i16384!8i8192)
 
+
 ### Police detail Des Moines Register reporter while covering event | May 31st 
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
@@ -32,6 +34,7 @@ id: ia-desmoines-7
 
 * https://twitter.com/RachelSB/status/1267260438900867074
 * https://www.desmoinesregister.com/story/news/2020/05/31/register-reporter-arrested-while-covering-protest/5304560002/
+
 
 ### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | June 1st
 
@@ -44,15 +47,6 @@ id: ia-desmoines-4
 * https://twitter.com/katie_akin/status/1267694434847731713
 * https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
 
-### Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | (believed to be) June 2nd
-
-Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
-
-id: ia-desmoines-1
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268235074580987906
 
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
 
@@ -63,6 +57,18 @@ id: ia-desmoines-6
 **Links**
 
 https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
+
+
+### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
+
+Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
+
+id: ia-desmoines-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268235074580987906
+
 
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
 

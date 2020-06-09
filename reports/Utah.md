@@ -9,6 +9,7 @@ id: ut-saltlakecity-1
 **Links**
 * https://twitter.com/bubbaprog/status/1266908354821206016
 
+
 ### Police shoot man on the ground in the spine with a beanbag point-blank | May 30th
 
 The man on the ground was shot with a beanbag, resulting in heavy damage
@@ -18,6 +19,7 @@ id: ut-saltlakecity-2
 **Links**
 
 * https://www.reddit.com/r/nextfuckinglevel/comments/gtv4co/downtown_salt_lake_city_may_30th_2020_unarmed/
+
 
 ### Police shoot tear gas canister at man from close range, striking him in the chest | May 30th
 
@@ -29,6 +31,7 @@ id: ut-saltlakecity-4
 
 * https://twitter.com/greg_doucette/status/1268333029526843392
 * https://www.instagram.com/p/CA148-0B14t6mQZqJZYzwq25KdoPzZ5CJmV3oQ0/
+
 
 ### Police push and tackle man that is being vocal | June 1st
 
