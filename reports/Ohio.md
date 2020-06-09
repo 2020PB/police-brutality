@@ -106,6 +106,18 @@ id: oh-columbus-4
 * https://twitter.com/greg_doucette/status/1266878189537824772
 
 
+### Officer chases reporter and pepper sprays her | May 30th
+
+A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
+
+id: oh-columbus-15
+
+**Links**
+
+*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
+*  https://twitter.com/julialwashere/status/1266730657436315649
+
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
@@ -227,14 +239,3 @@ id: oh-columbus-14
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
 
-
-### Officer chases reporter and pepper sprays her | May 30th
-
-A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
-
-id: oh-columbus-15
-
-**Links**
-
-*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
-*  https://twitter.com/julialwashere/status/1266730657436315649
