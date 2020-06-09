@@ -8,8 +8,9 @@ import copy
 from dateutil.parser import parse
 from datetime import datetime, timezone
 
-
-src_dir = os.path.relpath(os.path.dirname(__file__))
+# `or '.'` because when you're in the same directory as this code
+# `ValueError: no path specified` gets thrown by `relpath` with empty input
+src_dir = os.path.relpath(os.path.dirname(__file__) or '.')
 md_dir = os.path.join(src_dir, '..', 'reports')
 out_dir = os.path.join(src_dir, 'data_build')
 combined_fpath = os.path.join(out_dir, "all-locations.md")
@@ -27,7 +28,7 @@ date_regex = re.compile(
 
 url_regex = re.compile(
     r"(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))"
-    r"([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?")
+    r"([\w\-\.,@?^=%&amp;:/~\+#\!]*[\w\-\@?^=%&amp;/~\+#\!])?")
 
 
 def title_to_name_date(line):
@@ -71,6 +72,7 @@ def parse_state(state, text):
 
     clean_entry = {
         "links": [],
+        "links_v2": [],
         "state": state,
         "edit_at": source_link,
         "city": city,
@@ -116,7 +118,13 @@ def parse_state(state, text):
         elif starts_with == '*':
             link = url_regex.search(line)
             if link:
-                entry["links"].append(link.group())
+                url = link.group()
+                entry["links"].append(url)
+                just_text = url_regex.sub('', line).strip('[] ()')
+                entry["links_v2"].append({
+                    "url": url,
+                    "text": just_text,
+                })
             else:
                 print(f"Failed link parse '{line}'")
         elif starts_with == '**':

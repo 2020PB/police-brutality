@@ -115,6 +115,13 @@ id: {id}
 {links_md}
 '''
 
+def markdown_link(link_obj):
+    url = link_obj["url"]
+    text = link_obj["text"]
+    if len(text) == 0:
+        return url
+    return f"[{text}]({url})"
+
 def gen_md_from_rows(state, rows):
     city = ''
     lines = []
@@ -125,7 +132,8 @@ def gen_md_from_rows(state, rows):
             city = row["city"]
         
         # convert links list to a links string
-        links_md = '\n'.join('* ' + it for it in row["links"])
+        #links_md = '\n'.join('* ' + it for it in row["links"])
+        links_md = '\n'.join('* ' + markdown_link(it) for it in row["links_v2"])
         row["links_md"] = links_md
 
         # Create this row's markdown
@@ -142,7 +150,7 @@ def add_missing_ids():
             row["id"] = gen_id(row)
             print("Added id: " + row["id"])
         if "name" not in row:
-            print("this row is broken with no name? (missing ###):")
+            print("---this row is broken with no name? (missing ###):")
             print(row)
             exit(1)
 
