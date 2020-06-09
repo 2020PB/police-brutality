@@ -88,10 +88,12 @@ id: il-chicago-8
 
 ### Officers grabs someone by the neck then more cops pile on | May 31st
 
-Protestors arrested as they're leaving, including one grabbed by the neck and dogpiled by at least 3 police officers.
+Protestors arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
 id: il-joliet-1
 
 **Links**
 
 * https://www.youtube.com/watch?v=rllO2sdj1Ek
+* https://twitter.com/OrozcoJustina/status/1268262843801010179
+* https://www.chicagotribune.com/news/breaking/ct-joliet-mayor-video-fallout-20200606-zeidd3u5xbadxfoedmfkp22akm-story.html
