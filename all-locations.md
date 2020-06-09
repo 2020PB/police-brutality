@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T02:20:45.048949+00:00
+UPDATED AT: 2020-06-09T02:20:45.306379+00:00
 
 
 # Alabama
@@ -2541,6 +2541,15 @@ id: oh-columbus-16
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+
+### Officer chases reporter and pepper sprays her | May 30th
+
+A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
+
+**Links**
+
+*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
+*  https://twitter.com/julialwashere/status/1266730657436315649
 
 
 
