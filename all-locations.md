@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T01:36:49.169427+00:00
+UPDATED AT: 2020-06-09T02:02:08.248351+00:00
 
 
 # Alabama
@@ -393,6 +393,8 @@ id: ca-losangeles-6
 
 Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless main in a wheelchair.
 
+id: ca-losangeles-24
+
 **Links**
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
@@ -417,6 +419,8 @@ id: ca-losangeles-23
 ### Police zip tie protesters and lock them inside cages | June 3rd
 
 Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
+
+id: ca-losangeles-25
 
 **Links**
 *  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
@@ -509,7 +513,7 @@ id: ca-sacramento-29
 
 Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
 
-id ca-sandiego-39
+id: ca-sandiego-39
 
 **Links**
 
@@ -809,6 +813,8 @@ id: co-denver-13
 
 Officer forces man into cop car and wrestles with woman on her phone.
 
+id: ct-waterbury-1
+
 **Links**
 
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
@@ -816,6 +822,8 @@ Officer forces man into cop car and wrestles with woman on her phone.
 ### Police tackle and detain 6 protestors | May 31st
 
 Waterbury police have detained at least 6 people. Police had warned several times that those who remained on Wolcott St. would be subject to arrest.  #NBCCT
+
+id: ct-waterbury-2
 
 **Links**
 
@@ -2717,6 +2725,8 @@ id: sc-charleston-1
 ### Police Assault Suspect on Ground During Arrest | June 3rd
 A man is arrested by police, who force him on the ground and begin punching him for over a minute.
 
+id: sc-unknown-1
+
 **Link**
 *   https://twitter.com/track4life_bry/status/1268313958479532034
 
@@ -2903,6 +2913,8 @@ id: tx-dallas-13
 ### Man shot in the eye | May 30th
 
 Man at the protests had been shot in the eye by officers.
+
+id: tx-dallas-16
 
 **Links**
 
@@ -3093,6 +3105,8 @@ id: va-richmond-4
 
 Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breathe".  
 
+id: va-fairfax-1
+
 **Links**
 *  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
 *  https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
@@ -3152,7 +3166,7 @@ id: wa-seattle-4
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
 
-id:  wa-seattle-8
+id: wa-seattle-8
 
 **Links** 
 
@@ -3249,7 +3263,7 @@ id: wa-seattle-13
 
 Teargas is seen being spread into group of protesters by police
 
-id: wa-seattle-12
+id: wa-seattle-15
 
 **Links**
 
@@ -3259,6 +3273,8 @@ id: wa-seattle-12
 ### Woman hit with police projectile resumes breathing after CPR, delivered to hospital | June 7th
 
 Medics attempt to treat "a young woman in her 20s who had taken a police projectile to her chest" as police throw flash bang grenades directly into the first aid center. There were several cycles of the victim no longer responding or breathing but becoming responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transported her by car to the ED where she was delivered with a pulse. The filmer, an editor at the local alt weekly The Stranger, reported in his twitter thread that the people in the office from where he was filming were having trouble breathing.
+
+id: wa-seattle-14
 
 **Links**
 
@@ -3348,6 +3364,8 @@ id: dc-dc-5
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
+id: dc-dc-9
+
 **Links**
 
 * https://twitter.com/MarkIronsMedia/status/1268046417865715713
@@ -3358,6 +3376,8 @@ In the first of these videos, a crowd can be seen shaking a piece of temporary f
 ### Law enforcement officers throw stinger grenades at peaceful protestors | Junes 3rd
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
+
+id: dc-dc-10
 
 **Links**
 
