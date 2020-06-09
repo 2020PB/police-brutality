@@ -9,6 +9,7 @@ id: dc-dc-1
 * https://twitter.com/AleemMaqbool/status/1267319521486004225?s=20
 * https://www.bbc.co.uk/news/av/world-us-canada-52884888/george-floyd-protests-police-charge-at-bbc-cameraman-near-white-house
 
+
 ### Australian news crew and protestors attacked by police | June 1st
 
 Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC.
@@ -26,6 +27,7 @@ id: dc-dc-2
 * Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
 * CW: Blood: https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/
 
+
 ### Protestors are quickly and violently pushed out of Lafayette Square | June 1
 
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors
@@ -41,6 +43,7 @@ id: dc-dc-3
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvpgpz/found_both_videos_of_the_dc_event_i_know_people/
 * https://twitter.com/nytimes/status/1267638330654625794
 
+
 ### Officer fires tear gas cannister at protestor's head |
 
 DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
@@ -50,6 +53,7 @@ id: dc-dc-4
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267377374066167808
+
 
 ### Police violence outside the White House | June 1st
 
@@ -86,6 +90,7 @@ id: dc-dc-10
 * https://twitter.com/greg_doucette/status/1268297598856765441
 * https://twitter.com/greg_doucette/status/1268297598856765441
 
+
 ### Man who sheltered protestors discusses law enforcement officers shooting tear gas into his house | June 1st
 
 A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
@@ -97,6 +102,7 @@ id: dc-dc-6
 * https://twitter.com/suckmyunicornD/status/1267767217392934917
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
+
 ### Police charge peaceful crowd, beat them with shields |
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
@@ -106,6 +112,7 @@ id: dc-dc-7
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
+
 
 ### Police fire into crowd hitting one protester | June 1st
 

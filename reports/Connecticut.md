@@ -1,6 +1,5 @@
 ## Waterbury
 
-
 ### Officer forces women into car and wrestles with another | June 3rd
 
 Officer forces man into cop car and wrestles with woman on her phone.
@@ -10,6 +9,7 @@ id: ct-waterbury-1
 **Links**
 
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
+
 
 ### Police tackle and detain 6 protestors | May 31st
 
