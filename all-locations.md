@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T00:49:09.250271+00:00
+UPDATED AT: 2020-06-09T01:36:49.169427+00:00
 
 
 # Alabama
@@ -1168,9 +1168,22 @@ id: ia-desmoines-1
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
 
+
+### Police repeatedly shoot tear gas into crowd, even after crowd has dispersed | May 29th
+
+Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown. 
+
+id: ia-desmoines-2
+
+**Links**
+
+* https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301
+
 ### Police truck shoots at cars, hitting mother and breaking her finger | May 30th
 
 Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure"
+
+id: ia-desmoines-3
 
 **Links**
 
@@ -1182,6 +1195,8 @@ Recorded from inside a car, camera pans to surroundings, a woman's hand in the c
 
 Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye. 
 
+id: ia-desmoines-4
+
 **Links**
 
 * https://twitter.com/katie_akin/status/1267694434847731713
@@ -1190,6 +1205,8 @@ Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Regist
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
 
 "Des Moines police approached The Blazing Saddle, a gay bar in Des Moines’ East Village neighborhood, and searched the premises — apparently without a warrant. Video from a security camera made public on Facebook shows officers in riot gear converging suddenly on the bar at approximately 11:45 p.m. and detaining those gathered outside." - The Iowa Inquirer
+
+id: ia-desmoines-5
 
 **Links**
 
@@ -1202,9 +1219,12 @@ Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Regist
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
 
+id: ia-desmoines-6
+
 **Links**
 
 https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
+
 
 ## Iowa City
 
