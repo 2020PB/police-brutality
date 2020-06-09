@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👆🏼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Don't want to create a Github account?**
-Fill out the form here: https://police-brutality-submissions.herokuapp.com/
+[Fill out this anonymous reporting form.](https://https://police-brutality-submissions.herokuapp.com/)
 
 For more information on contributing to this repository please consult the [contribution guidelines](./CONTRIBUTING.md).
 
