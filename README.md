@@ -79,6 +79,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [North Carolina](./reports/North%20Carolina.md)
   * [North Dakota](./reports/North%20Dakota.md)
   * [Ohio](./reports/Ohio.md)
+  * [Oklahoma](./reports/Oklahoma.md)
   * [Oregon](./reports/Oregon.md)
   * [Pennsylvania](./reports/Pennsylvania.md)
   * [South Carolina](./reports/South%20Carolina.md)
