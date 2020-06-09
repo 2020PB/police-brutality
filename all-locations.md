@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T20:30:39.144261+00:00
+UPDATED AT: 2020-06-09T21:23:01.500161+00:00
 
 
 # Alabama
@@ -2780,6 +2780,22 @@ id: oh-columbus-14
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
 
+
+
+
+# Oklahoma
+
+## Oklahoma City
+
+### Person with hands up struck in chest by projectile | May 30th
+
+Person standing with hands up struck in chest by projectile; a second projectile is fired shortly after person is struck by the first.
+
+id: ok-oklahomacity-1
+
+**Links**
+
+* https://twitter.com/BruceBrownJr/status/1266979654499479552
 
 
 
