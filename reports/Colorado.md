@@ -107,9 +107,9 @@ id: co-denver-7
 * https://youtu.be/xNLZ7exVxq4?t=110
 
 
-### Police shoot bystander in eye | May 30th
+### Bystander claims police shoot him in the eye | May 30th
 
-Law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at bystander's face without warning and blinded him in one eye.
+Bystander claims law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, blinding him in one eye.
 
 id: co-denver-14
 
