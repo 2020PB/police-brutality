@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T02:20:45.306379+00:00
+UPDATED AT: 2020-06-09T02:22:30.160684+00:00
 
 
 # Alabama
@@ -2372,6 +2372,16 @@ id: oh-cincinnati-2
 **Links**
 
 * https://touch.facebook.com/story.php?story_fbid=10157718199384132&id=697759131&ref=bookmarks
+
+### Police arrest reporter and force him to ground, grab another reporter | June 1st
+
+Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well. 
+
+**Links**
+
+id: oh-cincinnati-3
+
+*  https://twitter.com/nswartsell/status/1267612155840528385
 
 ## Cleveland
 
