@@ -1,16 +1,3 @@
-## Charlotte
-
-### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | June 2nd
-
-Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
-
-id: nc-charlotte-1
-
-**Links**
-
-*  https://www.instagram.com/tv/CA9UOKAj7MC/
-
-
 ## Asheville
 
 ### Police surround approved medical station and destroy supplies | June 2nd
@@ -25,6 +12,19 @@ id: nc-asheville-1
 *  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
 *  https://twitter.com/daveth89/status/1267974555332685824
 *  https://i.redd.it/wofh339sqr251.png
+
+
+## Charlotte
+
+### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | June 2nd
+
+Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
+
+id: nc-charlotte-1
+
+**Links**
+
+*  https://www.instagram.com/tv/CA9UOKAj7MC/
 
 
 ## Raleigh
