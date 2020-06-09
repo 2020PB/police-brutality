@@ -46,6 +46,17 @@ id: oh-cleveland-1
 * https://twitter.com/greg_doucette/status/1267114065819770880
 
 
+### Police fire tear gas at peaceful protest | May 30th
+
+Without warning, police fire tear gas at peaceful protestors.
+
+id: oh-cleveland-2
+
+**Links**
+
+* https://twitter.com/rachelscotton/status/1266840734906318848
+
+
 ## Columbus
 
 ### Cop hits a protestor in the face, escalates to whole crowd being pepper sprayed | May 29th
