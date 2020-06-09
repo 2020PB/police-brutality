@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T02:09:14.785442+00:00
+UPDATED AT: 2020-06-09T02:09:34.119593+00:00
 
 
 # Alabama
@@ -431,12 +431,12 @@ id: ca-losangeles-25
 
 In Lakewood, police fire projectiles at protesters and discharge teargas.
 
+id: ca-los-angeles-40
+
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&*  utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
-
-ca-losangeles-40
 
 ## Oakland
 
