@@ -43,10 +43,25 @@ jobs:
         pytest
         cd ..
 
-    - name: Run python script
+    - name: Rewrite data, generate ids, commit
+      run: |
+        echo github_ref: ${{ github.ref }}
+        python tools/data_rewriter.py
+        git add reports
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "CI: Automated build push" -a | exit 0
+
+    - name: Push changes
+      if: github.ref == 'refs/heads/master'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create json csv md files
       run: python tools/data_builder.py
-      
-    # Deploy to local repo
+
+    # Deploy data to local repo
     - name: Deploy
       uses: s0/git-publish-subdir-action@master
       env:
@@ -54,4 +69,3 @@ jobs:
         BRANCH: data_build
         FOLDER: tools/data_build
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
