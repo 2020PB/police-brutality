@@ -10,13 +10,14 @@ id: wi-madison-1
 
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
 
+
 ## Milwaukee
 
 ### Police restrain man using knee on neck | June 2nd
 
 Officers restrain a protester by placing a knee on his neck. Article explains incident occurred after two officers collided with each other on bicycles, after which they began striking protesters.
 
-id: wi-milwaukee-2
+id: wi-milwaukee-1
 
 **Links**
 
