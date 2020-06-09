@@ -70,7 +70,7 @@ id: dc-dc-5
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
-id: dc-dc-6
+id: dc-dc-9
 
 **Links**
 
@@ -83,7 +83,7 @@ id: dc-dc-6
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
 
-id: dc-dc-7
+id: dc-dc-10
 
 **Links**
 
@@ -95,7 +95,7 @@ id: dc-dc-7
 
 A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
-id: dc-dc-8
+id: dc-dc-6
 
 **Links**
 
@@ -107,7 +107,7 @@ id: dc-dc-8
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
-id: dc-dc-9
+id: dc-dc-7
 
 **Links**
 
@@ -118,7 +118,7 @@ id: dc-dc-9
 
 Police fire into crowd outside of White House. Protester is hit and falls to the ground. The same protester is then hit again after standing. Projectile used is unknown.
 
-id: dc-dc-10
+id: dc-dc-8
 
 **Links**
 
