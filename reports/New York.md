@@ -139,6 +139,28 @@ id: ny-newyorkcity-8
 * https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
 
 
+### High-ranking NYPD officer shoves protestors with plastic barricade | May 30th
+
+An NYPD officer in a white shirt, denoting a rank of Lieutenant or higher, uses a plastic barricade to shove protestors back. He then topples the barricade and charges at protestors.
+
+id: ny-newyorkcity-27
+
+**Links**
+
+* https://twitter.com/letsgomathias/status/1266903135303450631
+
+
+### Street medic is arrested | May 30th
+
+An NYPD officer kneels on the back of a street medic to arrest him. Footage additionally shows the officer destroying medical supplies used to aid tear gas victims
+
+id: ny-newyorkcity-28
+
+**Links**
+
+* https://twitter.com/PNickCurran/status/1266966295653777408
+
+
 ### Police pull off protesters mask to pepper spray him | May 31st
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened.
@@ -206,7 +228,7 @@ id: ny-newyorkcity-16
 * https://twitter.com/tylergabriel_/status/1267287516345925632
 
 
-### Officers beat man until his face and belongings are bloody | May 31
+### Officers beat man until his face and belongings are bloody | May 31st
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
@@ -216,6 +238,17 @@ id: ny-newyorkcity-17
 
 * https://wapo.st/2Mx7WY6
 * https://www.washingtonpost.com/national/protests-police-brutality-video/2020/06/05/a9e66568-a768-11ea-b473-04905b1af82b_story.html
+
+
+### NYPD denies 6th amendment rights to protestors | May 31st
+
+Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
+
+id: ny-newyorkcity-27
+
+**Links**
+
+* https://twitter.com/GoodCallNYC/status/1267128759951523846
 
 
 ### Officer threatens protestors with what appears to be a handgun | June 1st

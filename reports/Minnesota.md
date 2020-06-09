@@ -22,6 +22,7 @@ id: mn-minneapolis-14
 **Links**
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
+* https://www.facebook.com/1462345700/posts/10220863812572745
 
 
 ### Police storm gas station, attacking reporters who show press badges | May 30th
@@ -200,6 +201,7 @@ id: mn-minneapolis-11
 **Links**
 
 * https://mobile.twitter.com/KillerMartinis/status/1266618525600399361?s=19
+* https://twitter.com/chadloder/status/1267059540190625792
 
 
 ### Police shoot Reuters reporters with rubber bullets | May 31st

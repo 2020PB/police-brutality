@@ -54,9 +54,9 @@ id: tx-austin-5
 
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
-A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
+A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
 
-Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
+Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile.
 
 id: tx-austin-1
 
@@ -145,6 +145,7 @@ id: tx-dallas-4
 
 * https://twitter.com/HERCGTH/status/1266870616570900480
 * https://www.wfaa.com/article/news/local/dallas-county/dallas-police-investigating-possible-use-of-force-incidents-saturday/287-1d3851d2-656c-4d40-8eac-7deac44ddf2d
+* https://twitter.com/chadloder/status/1267261398481920000
 
 
 ### Police use flashbangs and tear gas on protestors | May 31st
@@ -156,6 +157,18 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+
+
+### Police fire rubber bullet on peaceful protestor | June 1st
+
+Without warning, police shoot protestor with rubber bullet. Protestor falls limp to the ground. Later image shows the protestor helped to their feet and able to walk away
+
+id: tx-dallas-5
+
+**Links**
+
+* https://twitter.com/bubbaprog/status/1267542878118727680
+* https://twitter.com/elias_valverde/status/1267550636876447747
 
 
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
@@ -207,3 +220,4 @@ id: tx-sanantonio-2
 
 * https://www.reddit.com/r/PublicFreakout/comments/gu3s6j/police_shoots_protestor_for_no_reason/
 * [Mirror](https://tuckbot.tv/#/watch/gu3s6j)
+* https://twitter.com/chadloder/status/1267124991809609728

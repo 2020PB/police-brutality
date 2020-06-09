@@ -11,6 +11,17 @@ id: nv-lasvegas-3
 *  https://twitter.com/itsraiialex/status/1266770032719040513
 
 
+### Police shove numerous protestors to the group | May 29th
+
+Officer line begins to advance towards protestors, shoving numerous protestors to the ground as they do.
+
+id: nv-lasvegas-4
+
+**Links**
+
+* https://twitter.com/bridgetkbennett/status/1266561128185819136
+
+
 ### Police shove and drag man through the street | May 31st
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
