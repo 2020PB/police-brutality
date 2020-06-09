@@ -107,6 +107,18 @@ id: co-denver-7
 * https://youtu.be/xNLZ7exVxq4?t=110
 
 
+### Police shoot bystander in eye | May 30th
+
+Law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at bystander's face without warning and blinded him in one eye.
+
+id: co-denver-14
+
+**Links**
+
+* https://www.denverpost.com/2020/06/09/denver-protest-bystander-blinded/
+* https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
+
+
 ### Police fire pepper balls at car with pregnant woman | May 31st
 
 Police shoot some pepper balls at a car with a prenant woman inside. The driver steps out telling them there is a pregnant woman, after a few seconds multiple officers light up the car with even more shots
