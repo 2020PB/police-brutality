@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T14:21:56.733689+00:00
+UPDATED AT: 2020-06-09T14:27:03.287550+00:00
 
 
 # Alabama
@@ -2556,6 +2556,17 @@ id: oh-cleveland-1
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267114065819770880
+
+
+### Police fire tear gas at peaceful protest | May 30th
+
+Without warning, police fire tear gas at peaceful protestors.
+
+id: oh-cleveland-2
+
+**Links**
+
+* https://twitter.com/rachelscotton/status/1266840734906318848
 
 
 ## Columbus
