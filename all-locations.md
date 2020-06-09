@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T14:37:47.710405+00:00
+UPDATED AT: 2020-06-09T16:12:46.446861+00:00
 
 
 # Alabama
@@ -851,17 +851,6 @@ id: co-denver-12
 
 ## Waterbury
 
-### Officer forces women into car and wrestles with another | June 3rd
-
-Officer forces man into cop car and wrestles with woman on her phone.
-
-id: ct-waterbury-1
-
-**Links**
-
-* https://twitter.com/Youbeenafannn/status/1268253924471037959
-
-
 ### Police tackle and detain 6 protestors | May 31st
 
 Waterbury police have detained at least 6 people. Police had warned several times that those who remained on Wolcott St. would be subject to arrest.  #NBCCT
@@ -873,6 +862,19 @@ id: ct-waterbury-2
 * https://twitter.com/mattaustinTV/status/1267189278691528706
 * https://twitter.com/RACCEWtby/status/1268173057375514624
 * https://twitter.com/Calibud_Art/status/1268274760250777600
+
+
+### Officer forces women into car and wrestles with another | June 3rd
+
+Officer forces man into cop car and wrestles with woman on her phone.
+
+id: ct-waterbury-1
+
+**Links**
+
+* https://twitter.com/Youbeenafannn/status/1268253924471037959
+
+
 
 
 
@@ -1361,6 +1363,17 @@ id: ia-desmoines-4
 * https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
 
 
+## Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | (believed to be) June 2nd
+
+Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
+
+id: ia-desmoines-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268235074580987906
+
+
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
@@ -1370,17 +1383,6 @@ id: ia-desmoines-6
 **Links**
 
 https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
-
-
-### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
-
-Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
-
-id: ia-desmoines-1
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268235074580987906
 
 
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
@@ -1702,7 +1704,7 @@ id: mi-kalamazoo-1
 * Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
 
 
-### Police fire tear gas at peaceful protesters | June 2nd ~7:30pm EDT
+### Police fire tear gas at peaceful protesters | June 2nd
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 
@@ -2631,6 +2633,18 @@ id: oh-columbus-4
 * https://twitter.com/greg_doucette/status/1266878189537824772
 
 
+### Officer chases reporter and pepper sprays her | May 30th
+
+A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
+
+id: oh-columbus-15
+
+**Links**
+
+*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
+*  https://twitter.com/julialwashere/status/1266730657436315649
+
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
@@ -2752,17 +2766,6 @@ id: oh-columbus-14
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
 
-
-### Officer chases reporter and pepper sprays her | May 30th
-
-A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
-
-id: oh-columbus-15
-
-**Links**
-
-*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
-*  https://twitter.com/julialwashere/status/1266730657436315649
 
 
 
@@ -3065,21 +3068,6 @@ id: tn-memphis-1
 
 ## Austin
 
-### Police critically injure 20 year old black protester during protests against police violence | May 31st
-
-A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
-
-Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
-
-id: tx-austin-1
-
-**Links**
-
-* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
-* https://www.texastribune.org/2020/06/01/austin-police-george-floyd-mike-ramos/
-* https://www.kvue.com/article/news/local/austin-protester-police-struck-by-less-lethal-bean-bag-round/269-430f90a2-b6c1-4ee3-9d9c-639faf132100
-* https://www.cnn.com/2020/06/07/us/austin-texas-police-bean-bag-20-year-old-injured/index.html
-
 
 ### Police assault protesters | (believed to be) May 30th
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
@@ -3108,7 +3096,7 @@ id: tx-austin-3
 * https://cbsaustin.com/news/local/austin-teen-hospitalized-with-head-injury-after-police-shoot-him-with-bean-bags-at-protest
 
 
-### Police use tear gas & rubber bullets on protesters | May 30th @ ~3pm
+### Police use tear gas & rubber bullets on protesters | May 30th
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
 
@@ -3130,6 +3118,22 @@ id: tx-austin-5
 **Links**
 
 * https://twitter.com/ironfront7/status/1267133400156196870
+
+
+### Police critically injure 20 year old black protester during protests against police violence | May 31st
+
+A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
+
+Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
+
+id: tx-austin-1
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
+* https://www.texastribune.org/2020/06/01/austin-police-george-floyd-mike-ramos/
+* https://www.kvue.com/article/news/local/austin-protester-police-struck-by-less-lethal-bean-bag-round/269-430f90a2-b6c1-4ee3-9d9c-639faf132100
+* https://www.cnn.com/2020/06/07/us/austin-texas-police-bean-bag-20-year-old-injured/index.html
 
 
 ### Police open fire on crowd after a protester throws water on them | May 31st
@@ -3199,17 +3203,6 @@ id: tx-dallas-1
 * https://twitter.com/greg_doucette/status/1267109272342736896
 
 
-### Police use flashbangs and tear gas on protestors | May 31st
-
-The first-person video shows an individual running away from what seem to be loud explosions.
-
-id: tx-dallas-2
-
-**Links**
-
-* https://twitter.com/xtranai/status/1266898175568338945
-
-
 ### Man shot in the eye | May 30th
 
 Man at the protests had been shot in the eye by officers.
@@ -3220,6 +3213,17 @@ id: tx-dallas-4
 
 * https://twitter.com/HERCGTH/status/1266870616570900480
 * https://www.wfaa.com/article/news/local/dallas-county/dallas-police-investigating-possible-use-of-force-incidents-saturday/287-1d3851d2-656c-4d40-8eac-7deac44ddf2d
+
+
+### Police use flashbangs and tear gas on protestors | May 31st
+
+The first-person video shows an individual running away from what seem to be loud explosions.
+
+id: tx-dallas-2
+
+**Links**
+
+* https://twitter.com/xtranai/status/1266898175568338945
 
 
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
