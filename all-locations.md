@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T17:38:27.639617+00:00
+UPDATED AT: 2020-06-09T18:20:56.301237+00:00
 
 
 # Alabama
@@ -3647,6 +3647,7 @@ id: wa-seattle-14
 
 * [Video showing individual getting hit with projectile (0:11), falling down, and becoming unresponsive. Medics carry them away from police.](https://twitter.com/chaseburnsy/status/1269890344331571201)
 * [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
+* https://imgur.com/a/fWkU0SA
 
 
 ### Additional Seattle OPA Case Numbers
