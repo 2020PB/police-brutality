@@ -312,12 +312,12 @@ id: ca-losangeles-25
 
 In Lakewood, police fire projectiles at protesters and discharge teargas.
 
+id: ca-los-angeles-40
+
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&*  utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
-
-ca-losangeles-40
 
 ## Oakland
 
