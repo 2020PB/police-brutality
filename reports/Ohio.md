@@ -188,3 +188,11 @@ id: oh-columbus-16
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+
+### Officers shoot reporter | May 31st
+
+A reporter was grazed in the head by a projectile while taking photos of a protest. Source claims he was fired upon by dozens of other officers shortly after. 
+
+**Links**
+
+*  https://twitter.com/DeanNarciso/status/1267495644073283585
