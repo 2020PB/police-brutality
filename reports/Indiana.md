@@ -9,6 +9,7 @@ id: in-fortwayne-1
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266745200656990208
+* https://twitter.com/_isabel_a/status/1266580681251000321
 
 ### Police tear gas peaceful protesters | May 30th
 
