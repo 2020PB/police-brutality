@@ -7,6 +7,7 @@ Three police officers run over to and tackle man with hands raised giving an int
 id: ny-buffalo-1
 
 **Links**
+
 * https://twitter.com/secretlaith/status/1268251322467450880
 
 ### Police shove elderly man, causing him to fall and hit the back of his head | June 4th
@@ -31,7 +32,10 @@ id: ny-buffalo-2
 
 Reporter shot at over a dozen times at close range and arrested, despite identifying himself. Was told his 1st Amendment rights did not matter.
 
+id: ny-buffalo-28
+
 **Links**
+
 *  https://twitter.com/PhotoJazzy/status/1269056626843099137
 
 ## Rochester
@@ -43,6 +47,7 @@ Police are seen shooting at individuals who were recording an incident.
 id: ny-rochester-3
 
 **Links**
+
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
 
