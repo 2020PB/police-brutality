@@ -17,5 +17,7 @@ id: sc-charleston-1
 ### Police Assault Suspect on Ground During Arrest | June 3rd
 A man is arrested by police, who force him on the ground and begin punching him for over a minute.
 
+id: sc-unknown-1
+
 **Link**
 *   https://twitter.com/track4life_bry/status/1268313958479532034

@@ -10,10 +10,9 @@ id: ar-bentonville-1
 **Links**
 
 * https://twitter.com/courtenay_roche/status/1267653137969623040
-
 * https://twitter.com/yagirlbrookie09/status/1267647898365427714
-
 * https://www.4029tv.com/article/bentonville-police-deploy-tear-gas-on-protesters/32736629#
+
 
 ## Little Rock
 
@@ -21,7 +20,7 @@ id: ar-bentonville-1
 
 Peaceful protestors kneeling are shot with an explosive projectile.
 
-id: ar-littlerock-2
+id: ar-littlerock-1
 
 **Links**
 

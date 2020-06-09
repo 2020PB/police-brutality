@@ -1,3 +1,19 @@
+## Asheville
+
+### Police surround approved medical station and destroy supplies | June 2nd
+
+Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
+
+id: nc-asheville-1
+
+**Links**
+
+*  https://twitter.com/AngelaMWilhelm/status/1268056986102444033
+*  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
+*  https://twitter.com/daveth89/status/1267974555332685824
+*  https://i.redd.it/wofh339sqr251.png
+
+
 ## Charlotte
 
 ### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | June 2nd
@@ -10,20 +26,6 @@ id: nc-charlotte-1
 
 *  https://www.instagram.com/tv/CA9UOKAj7MC/
 
-## Asheville
-
-### Police surround approved medical station and destroy supplies | June 2nd
-
-Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
-
-id: nc-asheville-2
-
-**Links**
-
-*  https://twitter.com/AngelaMWilhelm/status/1268056986102444033
-*  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
-*  https://twitter.com/daveth89/status/1267974555332685824
-*  https://i.redd.it/wofh339sqr251.png
 
 ## Raleigh
 
@@ -31,7 +33,7 @@ id: nc-asheville-2
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protestor himself, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
-id: nc-raleigh-3
+id: nc-raleigh-1
 
 **Links**
 

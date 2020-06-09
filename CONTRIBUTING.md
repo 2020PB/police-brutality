@@ -2,7 +2,7 @@
 
 **Mission Statement**
 
-We will document examples of excessive force being used by law enforcement officers during the 2020 protests sparked by the death of George Floyd.
+We will document examples of the use of excessive force, as well as other misconduct, by law enforcement officers during the 2020 protests sparked by the death of George Floyd.
 
 Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
 
@@ -86,6 +86,9 @@ People have been regularly posting evidence to the following sources:
 - [#JusticeForGeorgeFloyd](https://twitter.com/hashtag/JusticeForGeorgeFloyd) on Twitter
 - [#PoliceBrutality](https://twitter.com/hashtag/PoliceBrutality) on Twitter
 - [#[CityName]riots](https://twitter.com/hashtag/austinriots) & [#[CityName]protest(s)](https://twitter.com/search?q=%23AtlantaProtests) on Twitter
+- ["GeorgeFloyd Protest - police brutality videos on Twitter" spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA#) - [an CSV backup](https://github.com/jnny/policebrutality/blob/master/PBlistComplete.csv)
+- ["Police Abuse of Power and Brutality Instances" spreadsheet](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vQnoNTUx4HU09pNioKwh6SxgLyrJXJuXKt6IIejynkVq_JBBGQQwAMR0OGsgVilHhjUUdN1WEFpXwjo/pubhtml)
+- ["Pressing — Press Freedom Abuses During Protests" spreadsheet](https://docs.google.com/spreadsheets/d/1N9w2L79WCoqEfiIMBzd-HL-AH1vt-4xwa0TUpkpfBfg/edit#gid=0)
 
 #### 2. Add it to the repo
 
@@ -215,8 +218,10 @@ created a github repository on June 1st 2020 to compile evidence of police bruta
 and concerned citizens. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
+id: state_abbreviation-city-number (ex: ca-losangeles-1)
+
 **Links**
 
-* [Github repository](https://github.com/2020PB/police-brutality)
-* [Subreddit with description of motives in sidebar](https://www.reddit.com/r/2020PoliceBrutality)
+* https://github.com/2020PB/police-brutality
+* https://www.reddit.com/r/2020PoliceBrutality
 ```
