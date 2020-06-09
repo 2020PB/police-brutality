@@ -15,7 +15,8 @@ id: ia-desmoines-1
 Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown. 
 
 **Links**
-* https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301 (First video at bottom of article, first canister thrown around 4:15, second round at 6:15, continues rest of video)
+
+* https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301
 
 ## Iowa City
 
