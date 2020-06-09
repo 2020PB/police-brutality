@@ -274,6 +274,8 @@ id: ca-losangeles-6
 
 Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless main in a wheelchair.
 
+id: ca-losangeles-24
+
 **Links**
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
@@ -298,6 +300,8 @@ id: ca-losangeles-23
 ### Police zip tie protesters and lock them inside cages | June 3rd
 
 Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
+
+id: ca-losangeles-25
 
 **Links**
 *  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
@@ -390,7 +394,7 @@ id: ca-sacramento-29
 
 Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
 
-id ca-sandiego-39
+id: ca-sandiego-39
 
 **Links**
 

@@ -162,6 +162,8 @@ id: tx-dallas-13
 
 Man at the protests had been shot in the eye by officers.
 
+id: tx-dallas-16
+
 **Links**
 
 * https://twitter.com/HERCGTH/status/1266870616570900480
