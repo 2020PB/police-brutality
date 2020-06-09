@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T20:29:22.707452+00:00
+UPDATED AT: 2020-06-09T20:30:39.144261+00:00
 
 
 # Alabama
@@ -1363,7 +1363,7 @@ id: ia-desmoines-4
 * https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
 
 
-## Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | (believed to be) June 2nd
+### Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | (believed to be) June 2nd
 
 Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
 
