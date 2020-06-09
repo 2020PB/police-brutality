@@ -40,6 +40,7 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 * [Timeline](https://bread.codes/PoliceBrutality/) of police brutality events
 * [Dashboard](https://datastudio.google.com/s/oFSSsjw2kAY) with stats at the city and state levels
 * [Android app](https://github.com/andrewsnyder328/2020PoliceBrutalityApk/) to visually view posts
+* [Android app](https://github.com/amardeshbd/android-police-brutality-incidents) to view all incidents by location _(open-source)_
 
 ## Background
 
