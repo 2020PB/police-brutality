@@ -26,6 +26,8 @@ Video shows multiple police seizing a reporter and forcing him to the ground. Th
 
 **Links**
 
+id: oh-cincinnati-3
+
 *  https://twitter.com/nswartsell/status/1267612155840528385
 
 ## Cleveland
