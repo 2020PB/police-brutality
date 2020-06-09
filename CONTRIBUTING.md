@@ -218,8 +218,10 @@ created a github repository on June 1st 2020 to compile evidence of police bruta
 and concerned citizens. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
+id: state_abbreviation-city-number (ex: ca-losangeles-1)
+
 **Links**
 
-* [Github repository](https://github.com/2020PB/police-brutality)
-* [Subreddit with description of motives in sidebar](https://www.reddit.com/r/2020PoliceBrutality)
+* https://github.com/2020PB/police-brutality
+* https://www.reddit.com/r/2020PoliceBrutality
 ```
