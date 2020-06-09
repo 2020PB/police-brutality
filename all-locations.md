@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T02:28:13.677319+00:00
+UPDATED AT: 2020-06-09T02:28:40.731728+00:00
 
 
 # Alabama
@@ -1317,7 +1317,7 @@ https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0S
 
 Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
 
-id: ia-iowacity-2
+id: ia-iowacity-1
 
 **Links**
 
