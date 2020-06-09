@@ -81,6 +81,7 @@ id: mn-minneapolis-15
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1266962631887224837
+* https://twitter.com/bubbaprog/status/1266912774833287169
 
 
 ### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
@@ -232,7 +233,7 @@ id: mn-minneapolis-19
 
 **Links**
 
-* https://mobile.twitter.com/chadloder/status/1266957030285127687
+* https://twitter.com/cjzero/status/1266923493284773889
 
 
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
