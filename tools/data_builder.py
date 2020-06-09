@@ -128,6 +128,9 @@ def parse_state(state, text):
             if line.startswith(id_prefix):
                 entry["id"] = line[len(id_prefix):].strip()
             else:
+                # Add a line to the description, but make sure there are no extra
+                # new lines surrounding it.
+                #entry["description"] = (entry["description"] + '\n' + line).strip()
                 entry["description"] += line + '\n'
 
     if entry and entry["links"]:
