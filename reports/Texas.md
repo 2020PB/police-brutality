@@ -119,31 +119,6 @@ id: tx-baytown-1
 * https://www.facebook.com/isaiah.benavides.94/videos/2811815772219886/
 
 
-## Houston
-
-### Police trample protester with horse | May 29th
-
-A mounted police officer in Houston trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
-
-id: tx-houston-1
-
-**Links**
-
-* [Video of trampling](https://twitter.com/vikthewild/status/1266538354939756544)
-* [abc13 article](https://abc13.com/hpd-uns-over-girl-police-on-horse-tramples-protester-george-floyd/6223240/)
-
-
-### Officers shove a woman to the pavement | May 29th
-
-A large group of police officers were walking down the street when a woman standing near them was forcefully shoved to the ground by a police officer.
-
-id: tx-houston-2
-
-**Links**
-
-* https://twitter.com/AbkTrauma/status/1266511972524269569
-
-
 ## Dallas
 
 ### Police shoot unarmed woman in the face with a rubber bullet | May 30th
@@ -174,7 +149,7 @@ id: tx-dallas-2
 
 Man at the protests had been shot in the eye by officers.
 
-id: tx-dallas-3
+id: tx-dallas-4
 
 **Links**
 
@@ -186,12 +161,37 @@ id: tx-dallas-3
 
 On June 2nd, protestors are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
 
-id: tx-dallas-4
+id: tx-dallas-3
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
 * [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
+
+
+## Houston
+
+### Police trample protester with horse | May 29th
+
+A mounted police officer in Houston trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
+
+id: tx-houston-1
+
+**Links**
+
+* [Video of trampling](https://twitter.com/vikthewild/status/1266538354939756544)
+* [abc13 article](https://abc13.com/hpd-uns-over-girl-police-on-horse-tramples-protester-george-floyd/6223240/)
+
+
+### Officers shove a woman to the pavement | May 29th
+
+A large group of police officers were walking down the street when a woman standing near them was forcefully shoved to the ground by a police officer.
+
+id: tx-houston-2
+
+**Links**
+
+* https://twitter.com/AbkTrauma/status/1266511972524269569
 
 
 ## San Antonio
