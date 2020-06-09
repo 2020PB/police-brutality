@@ -20,6 +20,14 @@ id: oh-cincinnati-2
 
 * https://touch.facebook.com/story.php?story_fbid=10157718199384132&id=697759131&ref=bookmarks
 
+### Police arrest reporter and force him to ground, grab another reporter | June 1st
+
+Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well. 
+
+**Links**
+
+*  https://twitter.com/nswartsell/status/1267612155840528385
+
 ## Cleveland
 
 ### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
