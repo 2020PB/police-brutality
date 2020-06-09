@@ -26,7 +26,7 @@ id: il-chicago-2
 
 Police pepperspray reporter holding press pass and yelling press.
 
-id: il-chicago-3
+id: il-chicago-5
 
 **Links**
 
@@ -37,7 +37,7 @@ id: il-chicago-3
 
 The video shows fficers standing in line, all missing the badges from their uniforms. The video poster, in the comments of the post, states that the officers took off their badges and then pushed protesters down the stairs and swung batons at them.
 
-id: il-chicago-4
+id: il-chicago-11
 
 **Links**
 
@@ -48,7 +48,7 @@ id: il-chicago-4
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
-id: il-chicago-5
+id: il-chicago-3
 
 **Links**
 
@@ -59,7 +59,7 @@ id: il-chicago-5
 
 Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive).
 
-id: il-chicago-6
+id: il-chicago-4
 
 **Links**
 * https://twitter.com/cruzzzyc/status/1267185423333199874
@@ -74,7 +74,7 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
-id: il-chicago-7
+id: il-chicago-6
 
 **Links**
 
@@ -85,7 +85,7 @@ id: il-chicago-7
 
 In this still photo, the officer's ID number on their vest is covered with duct tape.
 
-id: il-chicago-8
+id: il-chicago-10
 
 **Links**
 
@@ -96,7 +96,7 @@ id: il-chicago-8
 
 Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
 
-id: il-chicago-9
+id: il-chicago-13
 
 **Links**
 
@@ -109,7 +109,7 @@ id: il-chicago-9
 
 CPD officer chasing down and punching a protestor who was walking away.
 
-id: il-chicago-10
+id: il-chicago-7
 
 **Links**
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
@@ -120,7 +120,7 @@ id: il-chicago-10
 
 Police chase protester and attack him on the ground while on live TV.
 
-id: il-chicago-11
+id: il-chicago-8
 
 **Links**
 
@@ -142,7 +142,7 @@ id: il-chicago-12
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
 
-id: il-chicago-13
+id: il-chicago-9
 
 **Links**
 
