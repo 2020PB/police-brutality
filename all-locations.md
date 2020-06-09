@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T00:38:48.596279+00:00
+UPDATED AT: 2020-06-09T00:40:34.979310+00:00
 
 
 # Alabama
@@ -1498,6 +1498,16 @@ id: mn-minneapolis-1
 * https://twitter.com/rsdaza/status/1267200011659554824
 * https://twitter.com/MichaelAdams317/status/1267203751913422849
 * https://www.vice.com/en_us/article/y3zd7g/i-told-riot-cops-im-a-journalist-they-forced-me-to-the-ground-and-pepper-sprayed-me-in-the-face
+
+### Continuation of gas station event; Awaijane family told to go inside gas station, they comply and seek shelter inside, police then shoot rubber bullets and tear gas inside the building | May 30th
+
+The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
+
+id: mn-minneapolis-21
+
+**Links**
+
+* https://youtu.be/46qWpv-yFE8?t=268
 
 ### Police drive by spraying | May 30th
 
