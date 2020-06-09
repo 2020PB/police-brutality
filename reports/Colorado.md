@@ -65,7 +65,7 @@ id: co-denver-4
 
 An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
 
-id: co-denver-5
+id: co-denver-13
 
 **Links**
 
@@ -76,7 +76,7 @@ id: co-denver-5
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
 
-id: co-denver-6
+id: co-denver-5
 
 **Links**
 
@@ -89,7 +89,7 @@ id: co-denver-6
 
 Policemen turned off their body cams and started unnecessary firing of tear gas.
 
-id: co-denver-7
+id: co-denver-6
 
 **Links**
 
@@ -100,7 +100,7 @@ id: co-denver-7
 
 A member of the press is filming from an empty sidewalk. Law enforcement shoot at him, and he yells "I'm media, we're press, we're press, don't shoot at us".
 
-id: co-denver-8
+id: co-denver-7
 
 **Links**
 
@@ -111,7 +111,7 @@ id: co-denver-8
 
 Police shoot some pepper balls at a car with a prenant woman inside. The driver steps out telling them there is a pregnant woman, after a few seconds multiple officers light up the car with even more shots
 
-id: co-denver-9
+id: co-denver-8
 
 **Links**
 
@@ -122,7 +122,7 @@ id: co-denver-9
 
 This officer and fires a pepper pellet directly at someone filming.
 
-id: co-denver-10
+id: co-denver-9
 
 **Links**
 
@@ -133,7 +133,7 @@ id: co-denver-10
 
 Police officer snatches away protestor's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
-id: co-denver-11
+id: co-denver-10
 
 **Links**
 
@@ -145,7 +145,7 @@ id: co-denver-11
 
 Use of Force committee member for Denver Police, shot in back with tear gas canisters.
 
-id: co-denver-12
+id: co-denver-11
 
 **Links**
 
@@ -156,7 +156,7 @@ id: co-denver-12
 
 Denver SWAT unit tackles group of peaceful protesters who were walking and chanting (around 12:20am).
 
-id: co-denver-13
+id: co-denver-12
 
 **Links**
 
