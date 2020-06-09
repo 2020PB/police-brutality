@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T23:28:42.475183+00:00
+UPDATED AT: 2020-06-09T23:34:53.582722+00:00
 
 
 # Alabama
@@ -237,6 +237,7 @@ id: ca-losangeles-3
 
 * https://twitter.com/larryprincxpark/status/1266883515431505920
 * https://twitter.com/kendrick38/status/1266997131430133761
+* https://twitter.com/ElieTWMayniac/status/1266914242885754880
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
@@ -438,7 +439,7 @@ id: ca-losangeles-17
 
 ### Police zip tie protesters and lock them inside cages | June 3rd
 
-Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
+Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners.
 
 id: ca-losangeles-19
 
@@ -547,6 +548,18 @@ id: ca-sandiego-2
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
+### Woman shot in the face with a rubber bullet | May 31st
+
+Footage of a woman bleeding profusely from the head. Poster says SDPB were using rubber bullets. The woman was taken to the hospital and was in stable condition as of May 31st
+
+id: ca-sandiego-3
+
+**Links**
+
+* https://twitter.com/chadloder/status/1267290221562871809
+* https://twitter.com/MarajYikes/status/1267030131563827200
+
+
 ### Police abduct woman in unmarked van | June 4th
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
@@ -590,7 +603,7 @@ id: ca-sanjose-1
 
 ### Officer puts knee on neck of protester | May 29th
 
-A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
+A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck.
 
 id: ca-sanjose-3
 
@@ -610,6 +623,19 @@ id: ca-sanjose-2
 * https://twitter.com/greg_doucette/status/1269267786792144898
 * https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
 * https://www.latimes.com/california/story/2020-06-06/community-organizer-shot-by-rubber-bullet-during-protest
+
+
+### Police knocks phone out of protestor's hand; riot control measures follow | May 29th
+
+A protestor can be seen filming SJPD officers' badge numbers. One officer swats the phone out of the protestor's hand. The camera angle shifts, but the protestor appears to retaliate by punching the officer.
+
+The riot police retaliate against the entire protest, firing rubber bullets and tear gas.
+
+id: ca-sanjose-4
+
+**Links**
+
+* https://twitter.com/itssdelilahh/status/1266575145537163269
 
 
 ## San Luis Obispo
@@ -898,11 +924,15 @@ id: ct-waterbury-1
 
 It is seen in the video that while the people were protesting, a few cops tried dispersing them, and shoved a woman to her knees, and later hit her on the head.
 
+Miami Herald later reports the officer has a history of drawing his weapon and using force. He has been suspended.
+
 id: fl-fortlauderdale-1
 
 **Links**
 
 * https://twitter.com/thickliljawn/status/1267239498083110913
+* https://www.reddit.com/r/PublicFreakout/comments/gubleh/officer_gets_confronted_by_another_officer_for/
+* https://www.miamiherald.com/news/local/crime/article243234261.html
 
 
 ### Law enforcement shoot a woman in the head | May 31st
@@ -1771,6 +1801,7 @@ id: mn-minneapolis-14
 **Links**
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
+* https://www.facebook.com/1462345700/posts/10220863812572745
 
 
 ### Police storm gas station, attacking reporters who show press badges | May 30th
@@ -1949,6 +1980,7 @@ id: mn-minneapolis-11
 **Links**
 
 * https://mobile.twitter.com/KillerMartinis/status/1266618525600399361?s=19
+* https://twitter.com/chadloder/status/1267059540190625792
 
 
 ### Police shoot Reuters reporters with rubber bullets | May 31st
@@ -2136,6 +2168,17 @@ id: nv-lasvegas-3
 *  https://twitter.com/itsraiialex/status/1266770032719040513
 
 
+### Police shove numerous protestors to the ground | May 29th
+
+Officer line begins to advance towards protestors, shoving numerous protestors to the ground as they do.
+
+id: nv-lasvegas-4
+
+**Links**
+
+* https://twitter.com/bridgetkbennett/status/1266561128185819136
+
+
 ### Police shove and drag man through the street | May 31st
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
@@ -2303,6 +2346,28 @@ id: ny-newyorkcity-8
 * https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
 
 
+### High-ranking NYPD officer shoves protestors with plastic barricade | May 30th
+
+An NYPD officer in a white shirt, denoting a rank of Lieutenant or higher, uses a plastic barricade to shove protestors back. He then topples the barricade and charges at protestors.
+
+id: ny-newyorkcity-27
+
+**Links**
+
+* https://twitter.com/letsgomathias/status/1266903135303450631
+
+
+### Street medic is arrested | May 30th
+
+An NYPD officer kneels on the back of a street medic to arrest him. Footage additionally shows the officer destroying medical supplies used to aid tear gas victims
+
+id: ny-newyorkcity-28
+
+**Links**
+
+* https://twitter.com/PNickCurran/status/1266966295653777408
+
+
 ### Police pull off protesters mask to pepper spray him | May 31st
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened.
@@ -2370,7 +2435,7 @@ id: ny-newyorkcity-16
 * https://twitter.com/tylergabriel_/status/1267287516345925632
 
 
-### Officers beat man until his face and belongings are bloody | May 31
+### Officers beat man until his face and belongings are bloody | May 31st
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
@@ -2380,6 +2445,17 @@ id: ny-newyorkcity-17
 
 * https://wapo.st/2Mx7WY6
 * https://www.washingtonpost.com/national/protests-police-brutality-video/2020/06/05/a9e66568-a768-11ea-b473-04905b1af82b_story.html
+
+
+### NYPD denies 6th amendment rights to protestors | May 31st
+
+Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
+
+id: ny-newyorkcity-27
+
+**Links**
+
+* https://twitter.com/GoodCallNYC/status/1267128759951523846
 
 
 ### Officer threatens protestors with what appears to be a handgun | June 1st
@@ -2588,7 +2664,7 @@ id: oh-cincinnati-2
 
 ### Police arrest reporter and force him to ground, grab another reporter | June 1st
 
-Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well. 
+Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
 
 **Links**
 
@@ -2619,6 +2695,21 @@ id: oh-cleveland-2
 **Links**
 
 * https://twitter.com/rachelscotton/status/1266840734906318848
+
+
+### Police injure numerous protestors with rubber bullets | May 30th
+
+Twitter user who relays Cleveland police scanner says transmission went over radio stating a protestor's "eye was dislodged" by a rubber bullet. Later reporting notes that an eyewitness say a man with his "eyeball dangling from his socket" and states that police waited several minutes to call EMS.
+
+Additional footage shows a street medic patching a wound in the back of a protestor. The description of this footage states that police were aiming at the crowd.
+
+id: oh-cleveland-3
+
+**Links**
+
+* https://twitter.com/NEO_Scan/status/1266848874163027970
+* https://www.cleveland.com/court-justice/2020/06/cleveland-police-gave-order-for-george-floyd-protesters-to-disperse-legal-observers-witnesses-said-no-one-heard-it.html
+* https://twitter.com/AntonioAlan216/status/1266877225707745280
 
 
 ## Columbus
@@ -2672,7 +2763,7 @@ id: oh-columbus-4
 
 ### Officer chases reporter and pepper sprays her | May 30th
 
-A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
+A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times.
 
 id: oh-columbus-15
 
@@ -3175,9 +3266,9 @@ id: tx-austin-5
 
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
-A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
+A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
 
-Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
+Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile.
 
 id: tx-austin-1
 
@@ -3266,6 +3357,7 @@ id: tx-dallas-4
 
 * https://twitter.com/HERCGTH/status/1266870616570900480
 * https://www.wfaa.com/article/news/local/dallas-county/dallas-police-investigating-possible-use-of-force-incidents-saturday/287-1d3851d2-656c-4d40-8eac-7deac44ddf2d
+* https://twitter.com/chadloder/status/1267261398481920000
 
 
 ### Police use flashbangs and tear gas on protestors | May 31st
@@ -3277,6 +3369,18 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+
+
+### Police fire rubber bullet on peaceful protestor | June 1st
+
+Without warning, police shoot protestor with rubber bullet. Protestor falls limp to the ground. Later image shows the protestor helped to their feet and able to walk away
+
+id: tx-dallas-5
+
+**Links**
+
+* https://twitter.com/bubbaprog/status/1267542878118727680
+* https://twitter.com/elias_valverde/status/1267550636876447747
 
 
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
@@ -3339,6 +3443,7 @@ id: tx-sanantonio-2
 
 * https://www.reddit.com/r/PublicFreakout/comments/gu3s6j/police_shoots_protestor_for_no_reason/
 * [Mirror](https://tuckbot.tv/#/watch/gu3s6j)
+* https://twitter.com/chadloder/status/1267124991809609728
 
 
 
@@ -3718,6 +3823,17 @@ id: wa-seattle-14
 
 # Washington DC
 
+### Riot police fire tear gas round at protestor | May 30th
+
+At short range, officer fires a tear gas round directly at a protestor. The round narrowly misses striking the protestor in the face.
+
+id: dc-dc-12
+
+**Links**
+
+* https://twitter.com/ALT_uscis/status/1266939755381633024
+
+
 ### Riot Police rams shield into BBC cameraman | May 31st
 
 A BBC cameraman was charged at by police and hit with a shield.
@@ -3810,7 +3926,7 @@ id: dc-dc-6
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
 
-### Police charge peaceful crowd, beat them with shields | 
+### Police charge peaceful crowd, beat them with shields |
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
