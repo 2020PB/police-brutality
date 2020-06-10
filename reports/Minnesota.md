@@ -118,6 +118,15 @@ id: mn-minneapolis-17
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
 * [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
+### Law enforcement call reporters “the entire problem”. | May 30th
+
+Reporters film officers after curfew and are told that: "You are part of the problem, if not the entire problem."
+
+id: mn-minneapolis-26
+
+**Links**
+
+* https://twitter.com/UR_Ninja/status/1267074770576838658
 
 ### Police shoot at a woman on her porch | May 31st
 
