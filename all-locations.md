@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T15:13:50.508769+00:00
+UPDATED AT: 2020-06-10T15:51:39.895447+00:00
 
 
 # Alabama
@@ -3094,6 +3094,18 @@ id: pa-philadelphia-3
 
 * https://metro.co.uk/2020/06/01/cop-put-baton-george-floyd-protesters-hand-put-knee-neck-12789427/
 * https://twitter.com/mkultranews/status/1267305587206807553
+
+
+### Police fire tear gas down empty streets | May 31st
+
+An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification
+
+id: pa-philadelphia-9
+
+**Links**
+
+* https://twitter.com/cynthiaschemmer/status/1267199590987714560
+* https://twitter.com/greg_doucette/status/1267859272639164416
 
 
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
