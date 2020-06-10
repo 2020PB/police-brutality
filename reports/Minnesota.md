@@ -12,7 +12,7 @@ id: mn-minneapolis-22
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
 
-id: mn-minneapolis-26
+id: mn-minneapolis-28
 
 **Links**
 
