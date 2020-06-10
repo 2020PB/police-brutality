@@ -24,7 +24,7 @@ id: oh-cincinnati-2
 
 ### Police arrest reporter and force him to ground, grab another reporter | June 1st
 
-Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well. 
+Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
 
 **Links**
 
@@ -55,6 +55,21 @@ id: oh-cleveland-2
 **Links**
 
 * https://twitter.com/rachelscotton/status/1266840734906318848
+
+
+### Police injure numerous protestors with rubber bullets | May 30th
+
+Twitter user who relays Cleveland police scanner says transmission went over radio stating a protestor's "eye was dislodged" by a rubber bullet. Later reporting notes that an eyewitness say a man with his "eyeball dangling from his socket" and states that police waited several minutes to call EMS.
+
+Additional footage shows a street medic patching a wound in the back of a protestor. The description of this footage states that police were aiming at the crowd.
+
+id: oh-cleveland-3
+
+**Links**
+
+* https://twitter.com/NEO_Scan/status/1266848874163027970
+* https://www.cleveland.com/court-justice/2020/06/cleveland-police-gave-order-for-george-floyd-protesters-to-disperse-legal-observers-witnesses-said-no-one-heard-it.html
+* https://twitter.com/AntonioAlan216/status/1266877225707745280
 
 
 ## Columbus
@@ -108,7 +123,7 @@ id: oh-columbus-4
 
 ### Officer chases reporter and pepper sprays her | May 30th
 
-A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
+A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times.
 
 id: oh-columbus-15
 

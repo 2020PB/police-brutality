@@ -4,11 +4,15 @@
 
 It is seen in the video that while the people were protesting, a few cops tried dispersing them, and shoved a woman to her knees, and later hit her on the head.
 
+Miami Herald later reports the officer has a history of drawing his weapon and using force. He has been suspended.
+
 id: fl-fortlauderdale-1
 
 **Links**
 
 * https://twitter.com/thickliljawn/status/1267239498083110913
+* https://www.reddit.com/r/PublicFreakout/comments/gubleh/officer_gets_confronted_by_another_officer_for/
+* https://www.miamiherald.com/news/local/crime/article243234261.html
 
 
 ### Law enforcement shoot a woman in the head | May 31st

@@ -2,6 +2,17 @@
 
 #### Please note: These are all believed to be from Minneapolis, if not please contact the moderator immediately
 
+### Police hit press in neck and head with wooden baton | May 26th
+
+A group of cops start to approach a group of press taking photos and video. One press member repeats "we have our hands up and we have press passes". An officer walking by points in the direction of a photographer and says something indiscernable. The camera pans to show a cop hitting the photographer in the neck and head with a wooden baton.
+
+id: mn-minneapolis-22
+
+**Links**
+
+* https://youtu.be/XAa5xb6JitI?t=5982
+* https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
+
 ### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
@@ -11,6 +22,7 @@ id: mn-minneapolis-14
 **Links**
 
 * https://www.facebook.com/1462345700/posts/10220863688809651
+* https://www.facebook.com/1462345700/posts/10220863812572745
 
 
 ### Police storm gas station, attacking reporters who show press badges | May 30th
@@ -139,6 +151,7 @@ id: mn-minneapolis-7
 **Links**
 
 * https://twitter.com/JaredGoyette/status/1266961243476299778
+* https://twitter.com/RyanFaircloth/status/1266967500383834114
 
 
 ### Police slashes tires | May 31st
@@ -189,6 +202,7 @@ id: mn-minneapolis-11
 **Links**
 
 * https://mobile.twitter.com/KillerMartinis/status/1266618525600399361?s=19
+* https://twitter.com/chadloder/status/1267059540190625792
 
 
 ### Police shoot Reuters reporters with rubber bullets | May 31st

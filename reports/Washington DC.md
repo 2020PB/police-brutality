@@ -1,3 +1,14 @@
+### Riot police fire tear gas round at protestor | May 30th
+
+At short range, officer fires a tear gas round directly at a protestor. The round narrowly misses striking the protestor in the face.
+
+id: dc-dc-12
+
+**Links**
+
+* https://twitter.com/ALT_uscis/status/1266939755381633024
+
+
 ### Riot Police rams shield into BBC cameraman | May 31st
 
 A BBC cameraman was charged at by police and hit with a shield.
@@ -90,7 +101,7 @@ id: dc-dc-6
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
 
-### Police charge peaceful crowd, beat them with shields | 
+### Police charge peaceful crowd, beat them with shields |
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 

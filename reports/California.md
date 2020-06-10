@@ -118,6 +118,7 @@ id: ca-losangeles-3
 
 * https://twitter.com/larryprincxpark/status/1266883515431505920
 * https://twitter.com/kendrick38/status/1266997131430133761
+* https://twitter.com/ElieTWMayniac/status/1266914242885754880
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
@@ -319,7 +320,7 @@ id: ca-losangeles-17
 
 ### Police zip tie protesters and lock them inside cages | June 3rd
 
-Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
+Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners.
 
 id: ca-losangeles-19
 
@@ -428,6 +429,18 @@ id: ca-sandiego-2
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
+### Woman shot in the face with a rubber bullet | May 31st
+
+Footage of a woman bleeding profusely from the head. Poster says SDPB were using rubber bullets. The woman was taken to the hospital and was in stable condition as of May 31st
+
+id: ca-sandiego-3
+
+**Links**
+
+* https://twitter.com/chadloder/status/1267290221562871809
+* https://twitter.com/MarajYikes/status/1267030131563827200
+
+
 ### Police abduct woman in unmarked van | June 4th
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
@@ -471,7 +484,7 @@ id: ca-sanjose-1
 
 ### Officer puts knee on neck of protester | May 29th
 
-A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
+A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck.
 
 id: ca-sanjose-3
 
@@ -491,6 +504,19 @@ id: ca-sanjose-2
 * https://twitter.com/greg_doucette/status/1269267786792144898
 * https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
 * https://www.latimes.com/california/story/2020-06-06/community-organizer-shot-by-rubber-bullet-during-protest
+
+
+### Police knocks phone out of protestor's hand; riot control measures follow | May 29th
+
+A protestor can be seen filming SJPD officers' badge numbers. One officer swats the phone out of the protestor's hand. The camera angle shifts, but the protestor appears to retaliate by punching the officer.
+
+The riot police retaliate against the entire protest, firing rubber bullets and tear gas.
+
+id: ca-sanjose-4
+
+**Links**
+
+* https://twitter.com/itssdelilahh/status/1266575145537163269
 
 
 ## San Luis Obispo
