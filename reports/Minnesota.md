@@ -249,6 +249,17 @@ id: mn-minneapolis-19
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
 
 
+### Medics talk about police destroying tent and slashing tires.
+
+Medicst set up a tent, police shot rubber bullets and gas at the facility. May be the same incident as above, but this one mentions that patients were transported while in the above one the fate of the patient wasn't clear.
+
+id: mn-minneapolis-25
+
+**Links**
+
+* https://www.youtube.com/watch?v=gfb_zJiMTFU
+
+
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol"
