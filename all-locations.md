@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T02:16:04.878762+00:00
+UPDATED AT: 2020-06-10T02:28:15.779791+00:00
 
 
 # Alabama
@@ -1889,7 +1889,17 @@ id: mn-minneapolis-16
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
-id: mn-minneapolis-17
+
+### Camera man shot by police.
+
+Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS. 
+
+id: mn-minneapolis-27
+
+**Links**
+
+* https://twitter.com/brianstelter/status/1266910826797113347
+
 
 **Links**
 
