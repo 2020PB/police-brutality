@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T14:59:20.318069+00:00
+UPDATED AT: 2020-06-10T15:13:50.508769+00:00
 
 
 # Alabama
@@ -639,7 +639,7 @@ id: ca-sanjose-4
 * https://twitter.com/itssdelilahh/status/1266575145537163269
 
 
-### Man struck by rubber bullet and explosive device | June 8th
+### Man struck by rubber bullet and explosive device | May 29th
 
 A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the ground. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
 
