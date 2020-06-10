@@ -31,7 +31,7 @@ id: nc-charlotte-1
 
 ### Police fire tear gas at peaceful protests | May 30th
 
-Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protestors surprised at the escalation and turning to flee, as well as multiple protestors hit directly by projectiles. The escalation did then incite some protestors to return fire with rocks, fireworks, and police tear gas canisters.
+Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protestors surprised at the escalation and turning to flee, as well as multiple protestors hit directly by projectiles. In addition, the article claims police targeted both protestors and journalists with rubber bullets. The escalation did then incite some protestors to return fire with rocks, fireworks, and police tear gas canisters.
 
 id: nc-raleigh-2
 
