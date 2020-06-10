@@ -24,6 +24,7 @@ id: fl-fortlauderdale-2
 **Links**
 
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
+* https://twitter.com/MrEvanRoss/status/1270440535518560256
 
 
 ## Miami
