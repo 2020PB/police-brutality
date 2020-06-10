@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T02:34:29.407215+00:00
+UPDATED AT: 2020-06-10T03:05:19.574726+00:00
 
 
 # Alabama
@@ -944,6 +944,7 @@ id: fl-fortlauderdale-2
 **Links**
 
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
+* https://twitter.com/MrEvanRoss/status/1270440535518560256
 
 
 ## Miami
