@@ -115,7 +115,7 @@ In the video, police can be seen in the distance and shots towards the camera ca
 
 Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS. 
 
-id: mn-minneapolis-25
+id: mn-minneapolis-27
 
 **Links**
 
