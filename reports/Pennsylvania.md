@@ -62,6 +62,18 @@ id: pa-philadelphia-3
 * https://twitter.com/mkultranews/status/1267305587206807553
 
 
+### Police fire tear gas down empty streets | May 31st
+
+An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification
+
+id: pa-philadelphia-9
+
+**Links**
+
+* https://twitter.com/cynthiaschemmer/status/1267199590987714560
+* https://twitter.com/greg_doucette/status/1267859272639164416
+
+
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
 
 An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
@@ -115,17 +127,6 @@ id: pa-philadelphia-8
 **Links**
 
 *  https://twitter.com/tippedminimum/status/1268001268406136832
-
-
-### Police fire tear gas down empty streets | June 2nd
-
-An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification
-
-id: pa-philadelphia-9
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1267859272639164416
 
 
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
