@@ -244,7 +244,7 @@ id: ny-newyorkcity-17
 
 Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
 
-id: ny-newyorkcity-27
+id: ny-newyorkcity-29
 
 **Links**
 
