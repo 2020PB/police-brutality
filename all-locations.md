@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T23:35:52.162180+00:00
+UPDATED AT: 2020-06-10T02:16:04.878762+00:00
 
 
 # Alabama
@@ -2911,6 +2911,19 @@ id: ok-oklahomacity-1
 **Links**
 
 * https://twitter.com/BruceBrownJr/status/1266979654499479552
+
+### Law enforcement uses tear-gas several times | May 30th
+
+Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protestors that are standing. 
+
+id: ok-oklahomacity-2
+
+**Links**
+
+* https://twitter.com/benfelder_okc/status/1266950330161532928
+* https://twitter.com/benfelder_okc/status/1266956993669017600
+* https://twitter.com/benfelder_okc/status/1266963119160594432
+* https://twitter.com/benfelder_okc/status/1266966743404236800
 
 
 
