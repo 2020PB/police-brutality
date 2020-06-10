@@ -218,6 +218,8 @@ created a github repository on June 1st 2020 to compile evidence of police bruta
 and concerned citizens. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
+tags: vehicle, celebrity, death (ex: check below)
+
 id: state_abbreviation-city-number (ex: ca-losangeles-1)
 
 **Links**
@@ -225,3 +227,5 @@ id: state_abbreviation-city-number (ex: ca-losangeles-1)
 * https://github.com/2020PB/police-brutality
 * https://www.reddit.com/r/2020PoliceBrutality
 ```
+
+Check the current list of `tags` are referenced from [MethodsList, WeaponsList](https://docs.google.com/spreadsheets/d/17-0dNOJLgomo8OojNT_CdRhsCzH1Mr3fOejwiJhIp8Y/edit#gid=226606151&range=AB1) and this issue for victim from this [issue](https://github.com/2020PB/police-brutality/issues/536)
