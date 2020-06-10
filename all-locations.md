@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T15:51:39.895447+00:00
+UPDATED AT: 2020-06-10T17:48:39.627713+00:00
 
 
 # Alabama
@@ -2630,6 +2630,20 @@ id: nc-raleigh-1
 * https://www.instagram.com/p/CA51AJxH7S9 (on the sixth page)
 * https://www.newsobserver.com/news/local/article243202416.html
 * [Location via Google Street View](https://www.google.ca/maps/place/Ruby+Deluxe/@35.7751916,-78.6399548,3a,75y,200h,110t/data=!3m8!1e1!3m6!1sAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf%3Dw203-h100-k-no-pi-20-ya200-ro0-fo100!7i13090!8i6545!4m14!1m6!3m5!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!2sRuby+Deluxe!8m2!3d35.7751916!4d-78.6399548!3m6!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!8m2!3d35.7751916!4d-78.6399548!14m1!1BCgIgARICCAI)
+
+
+## Wilmington
+
+### Police kneel to lure protestors closer before firing | June 3rd
+
+Police feign a show of support by kneeling and draw protestors closer. After protestors kneel, police begin firing tear gas rounds.
+
+id: nc-wilmington-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268047376008216576
+* https://twitter.com/greg_doucette/status/1268047092079112198
 
 
 
