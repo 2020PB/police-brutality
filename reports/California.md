@@ -520,6 +520,17 @@ id: ca-sanjose-4
 * https://twitter.com/itssdelilahh/status/1266575145537163269
 
 
+### Man struck by rubber bullet and explosive device | June 8th
+
+A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the ground. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
+
+id: ca-sanjose-5
+
+**Links**
+
+* https://www.youtube.com/watch?v=89mUHzu3480
+
+
 ## San Luis Obispo
 
 ### Law enforcement fire on crowd with their arms up chanting | June 1st
