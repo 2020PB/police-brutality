@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T05:42:17.521116+00:00
+UPDATED AT: 2020-06-10T12:20:52.266309+00:00
 
 
 # Alabama
@@ -2454,7 +2454,7 @@ id: ny-newyorkcity-17
 
 Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
 
-id: ny-newyorkcity-27
+id: ny-newyorkcity-29
 
 **Links**
 
