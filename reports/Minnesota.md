@@ -110,7 +110,17 @@ id: mn-minneapolis-16
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
-id: mn-minneapolis-17
+
+### Camera man shot by police.
+
+Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS. 
+
+id: mn-minneapolis-27
+
+**Links**
+
+* https://twitter.com/brianstelter/status/1266910826797113347
+
 
 **Links**
 
