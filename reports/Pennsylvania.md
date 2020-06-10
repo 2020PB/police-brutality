@@ -117,6 +117,17 @@ id: pa-philadelphia-8
 *  https://twitter.com/tippedminimum/status/1268001268406136832
 
 
+### Police fire tear gas down empty streets | June 2nd
+
+An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification
+
+id: pa-philadelphia-9
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267859272639164416
+
+
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
