@@ -7,7 +7,7 @@ Police tell protestors blocking road to disperse and then immediately use tear g
 id: oh-beavercreek-1
 
 **Links**
-* https://www.facebook.com/daytondailynews/videos/203371377358112 (tear gas used around 9:30)
+* [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
 
 ## Cincinnati
 
