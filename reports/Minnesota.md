@@ -8,6 +8,16 @@ A group of cops start to approach a group of press taking photos and video. One 
 
 id: mn-minneapolis-22
 
+### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights.
+
+Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
+
+id: mn-minneapolis-26
+
+**Links**
+
+* https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/?multi_permalinks=2673458852933816%2C2673043962975305%2C2672351053044596%2C2672352373044464%2C2672353659711002&notif_id=1590031733032682&notif_t=group_activity
+
 **Links**
 
 * https://youtu.be/XAa5xb6JitI?t=5982
