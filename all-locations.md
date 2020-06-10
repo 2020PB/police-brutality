@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T19:21:03.092196+00:00
+UPDATED AT: 2020-06-10T20:00:38.259968+00:00
 
 
 # Alabama
@@ -52,7 +52,7 @@ id: al-huntsville-4
 *  https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
 
 
-### Police fire rubber bullets on dispersing crowd | Believed to be June 5th
+### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
 
 After disperse order is given, protestors comply and begin to back away from the police line. Police fire rubber bullets at dispersing protestors and harrass woman (filmer) who has been shot in the leg and is unable to move quickly.
 
@@ -410,7 +410,7 @@ id: ca-losangeles-1
 
 ### Photograph documents aftermath of LAPD firing non-lethal round at face of homeless man in wheelchair | June 2
 
-Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless main in a wheelchair.
+Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless man in a wheelchair.
 
 id: ca-losangeles-18
 
@@ -463,7 +463,7 @@ id: ca-los-angeles-20
 
 ## Oakland
 
-### Officer runs down protesters with police cruiser | Believed to be May 30th
+### Officer runs down protesters with police cruiser | (believed to be) May 30th
 
 A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
 
@@ -511,9 +511,9 @@ id: ca-sacramento-1
 * https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
 
-### Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful | June 1st
+### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | June 1st
 
-Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful.
+Sacramento law enforcement shoot protesters and then announce their assembly is unlawful.
 
 id: ca-sacramento-2
 
