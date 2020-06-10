@@ -169,7 +169,8 @@ id: ny-newyorkcity-9
 
 **Links**
 
-* https://twitter.com/_doreenpt/status/1266994439039455232
+* [Original Post](https://twitter.com/ajrupchandani/status/1266889115288711168?s=21)
+* [Cross Post](https://twitter.com/_doreenpt/status/1266994439039455232)
 
 
 ### NYPD rams protesters | May 31st
