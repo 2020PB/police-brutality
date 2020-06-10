@@ -108,6 +108,17 @@ id: mn-minneapolis-16
 * [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 
+### Camera man shot by police | May 30th
+
+Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS. 
+
+id: mn-minneapolis-27
+
+**Links**
+
+* https://twitter.com/brianstelter/status/1266910826797113347
+
+
 ### Police shoot at a woman on her porch | May 31st
 
 In an attempt to move residents inside, the police fire shots at them.
