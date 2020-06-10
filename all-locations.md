@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T17:48:39.627713+00:00
+UPDATED AT: 2020-06-10T19:21:03.092196+00:00
 
 
 # Alabama
@@ -925,6 +925,23 @@ id: ct-waterbury-1
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
 
 
+
+
+
+# Delaware
+
+## Dover
+
+### USA Today journalist arrested | June 9th
+
+A journalist is filming and asking the police why protestors are being arrested. The police tackle the him and he states loudly "I'm with the press" multiple times. The video ends with an officer confiscating his press press and bag; another officer off camera is heard saying to the journalist "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest. 
+
+id: de-dover-1
+
+*Links*
+
+* https://www.usatoday.com/story/news/nation/2020/06/09/george-floyd-protests-usa-today-network-reporter-arrested-delaware/5331163002/
+* https://v.redd.it/u78faokca3451
 
 
 
