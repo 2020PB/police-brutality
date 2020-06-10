@@ -520,7 +520,7 @@ id: ca-sanjose-4
 * https://twitter.com/itssdelilahh/status/1266575145537163269
 
 
-### Man struck by rubber bullet and explosive device | June 8th
+### Man struck by rubber bullet and explosive device | May 29th
 
 A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the ground. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
 
