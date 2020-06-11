@@ -10,6 +10,7 @@ celebrity
 child
 choke
 conceal
+death
 drive
 elderly
 explosive
@@ -114,4 +115,10 @@ tackle
 taze
 threaten
 throw
+```
+
+### Misc
+
+```
+death
 ```
