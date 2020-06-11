@@ -43,7 +43,8 @@ id: al-huntsville-4
 
 *  https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
 
-### Police fire rubber bullets on dispersing crowd | Believed to be June 5th
+
+### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
 
 After disperse order is given, protestors comply and begin to back away from the police line. Police fire rubber bullets at dispersing protestors and harrass woman (filmer) who has been shot in the leg and is unable to move quickly.
 

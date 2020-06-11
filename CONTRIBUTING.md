@@ -2,7 +2,7 @@
 
 **Mission Statement**
 
-We will document examples of excessive force being used by law enforcement officers during the 2020 protests sparked by the death of George Floyd.
+We will document examples of the use of excessive force, as well as other misconduct, by law enforcement officers during the 2020 protests sparked by the death of George Floyd.
 
 Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
 
@@ -218,8 +218,14 @@ created a github repository on June 1st 2020 to compile evidence of police bruta
 and concerned citizens. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
+tags: vehicle, celebrity, death (ex: check below)
+
+id: state_abbreviation-city-number (ex: ca-losangeles-1)
+
 **Links**
 
-* [Github repository](https://github.com/2020PB/police-brutality)
-* [Subreddit with description of motives in sidebar](https://www.reddit.com/r/2020PoliceBrutality)
+* https://github.com/2020PB/police-brutality
+* https://www.reddit.com/r/2020PoliceBrutality
 ```
+
+Check the current list of [tags](docs/possible_tags.md)
