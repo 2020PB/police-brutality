@@ -2,15 +2,15 @@
 
 ```
 arrest
+baton
+beanbags
 beat
+bike
 celebrity
 child
 choke
 conceal
 drive
-baton
-beanbags
-bike
 elderly
 explosive
 flashbangs
@@ -19,10 +19,10 @@ headlock
 hide-badges
 horse
 inhumane-treatment
+journalist
 kick
 knee
 knee-on-kneck
-journalist
 mace
 marking-rounds
 medic
@@ -76,7 +76,7 @@ flashbangs
 headlock
 horse
 kick
-knee-on-kneck
+knee-on-neck
 mace
 marking-rounds
 pepper-ball
