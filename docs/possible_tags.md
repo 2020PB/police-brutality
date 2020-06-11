@@ -6,6 +6,7 @@ baton
 beanbags
 beat
 bike
+body-cam
 celebrity
 child
 choke
@@ -27,6 +28,7 @@ knee-on-kneck
 mace
 marking-rounds
 medic
+paintball
 pepper-ball
 pepper-spray
 policecar
@@ -121,5 +123,6 @@ throw
 ### Misc
 
 ```
+body-cam
 death
 ```
