@@ -61,6 +61,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Arkansas](./reports/Arkansas.md)
   * [California](./reports/California.md)
   * [Colorado](./reports/Colorado.md)
+  * [Connecticut](./reports/Connecticut.md)
   * [Delaware](./reports/Delaware.md)
   * [Florida](./reports/Florida.md)
   * [Georgia](./reports/Georgia.md)
