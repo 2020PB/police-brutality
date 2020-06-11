@@ -228,4 +228,4 @@ id: state_abbreviation-city-number (ex: ca-losangeles-1)
 * https://www.reddit.com/r/2020PoliceBrutality
 ```
 
-Check the current list of `tags` are referenced from [MethodsList, WeaponsList](https://docs.google.com/spreadsheets/d/17-0dNOJLgomo8OojNT_CdRhsCzH1Mr3fOejwiJhIp8Y/edit#gid=226606151&range=AB1) and this issue for victim from this [issue](https://github.com/2020PB/police-brutality/issues/536)
+Check the current list of [tags](docs/possible_tags.md)
