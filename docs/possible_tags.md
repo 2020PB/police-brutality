@@ -25,6 +25,7 @@ journalist
 kick
 knee
 knee-on-kneck
+lgbtq+
 mace
 marking-rounds
 medic
@@ -38,6 +39,7 @@ property-destruction
 projectiles
 push
 punch
+racial-profiling
 real-bullets
 rubber-bullets
 shield
@@ -63,9 +65,11 @@ celebrity
 child
 elderly
 journalist
+lgbtq+
 medic
 politician
 pregnant
+racial-profiling
 ```
 
 ### Weapon
