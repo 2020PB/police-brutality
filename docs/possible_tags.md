@@ -22,7 +22,7 @@ inhumane-treatment
 journalist
 kick
 knee
-knee-on-kneck
+knee-on-neck
 mace
 marking-rounds
 medic
@@ -41,6 +41,7 @@ shield
 shoot
 shove
 spray
+strike
 taser
 tackle
 taze
@@ -110,6 +111,7 @@ push
 shoot
 shove
 spray
+strike
 tackle
 taze
 threaten
