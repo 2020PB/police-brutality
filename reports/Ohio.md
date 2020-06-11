@@ -4,6 +4,8 @@
 
 Police tell protestors blocking road to disperse and then immediately use tear gas on them. 
 
+tags: tear-gas
+
 id: oh-beavercreek-1
 
 **Links**
@@ -14,6 +16,8 @@ id: oh-beavercreek-1
 ### Police spray mace, fire tear gas and flash bangers at protestors, even after they have dispersed | May 29th
 
 Police warn protestors blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flash bangers, and mace, even after protestors are out of the roadway. In part 2 of the video at 7:58, one of the used flash bang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
+
+tags: pepper-spray, flash-bangs, tear-gas
 
 id: oh-canton-1
 
@@ -284,6 +288,8 @@ id: oh-columbus-14
 
 Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protestors grabbed the cans and threw them back toward the police. The protestors mostly disperse, but once the gas clears they return. The police then fire more tear gas. 
 
+tags: tear-gas
+
 id: oh-dayton-1
 
 **Links**
@@ -294,6 +300,8 @@ id: oh-dayton-1
 ### Police use tear gas on protestors | May 30th
 
 Around 7:30pm, the police used tear gas on protestors after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protestors. Later, in the second video, the police use tear gas on the protestors shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
+
+tags: tear-gas, rubber-bullets
 
 id: oh-toledo-1
 
