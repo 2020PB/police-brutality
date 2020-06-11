@@ -40,7 +40,7 @@ id: dc-dc-11
 
 ### Australian news crew and protestors attacked by police | June 1st
 
-Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist, and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
+Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
 
 tags: journalist, punch, tear-gas, rubber-bullets, projectiles
 
