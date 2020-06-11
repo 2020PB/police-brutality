@@ -4,6 +4,8 @@
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
 
+tags: medic, property-destruction
+
 id: nc-asheville-1
 
 **Links**
@@ -20,6 +22,8 @@ id: nc-asheville-1
 
 Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
 
+tags: tear-gas, tear-gas-canister, pepper-ball, flashbangs
+
 id: nc-charlotte-1
 
 **Links**
@@ -33,15 +37,37 @@ id: nc-charlotte-1
 
 Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protestors surprised at the escalation and turning to flee, as well as multiple protestors hit directly by projectiles. In addition, the article claims police targeted both protestors and journalists with rubber bullets. The escalation did then incite some protestors to return fire with rocks, fireworks, and police tear gas canisters.
 
+tags: tear-gas, tear-gas-canister
+
 id: nc-raleigh-2
 
 **Links**
 
 * https://www.newsobserver.com/news/local/article243114301.html
 
+
+### Police use tear gas to clear road | May 31st
+
+Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful protestors gathered on the street before advancing across the intersection.
+
+Police later justified the use of force by stating that protestors were blocking the path of an EMS vehicle, although no vehicle can be seen in the footage.
+
+tags: tear-gas, tear-gas-canister
+
+id: nc-raleigh-4
+
+**Links**
+
+* https://twitter.com/KateMurphyNews/status/1267227888811741190
+* https://www.cbs17.com/news/local-news/wake-county-news/about-100-march-during-protest-in-downtown-raleigh-sunday-afternoon/
+* https://www.wral.com/raleigh-police-fire-tear-gas-again-on-second-day-of-downtown-protests/19123254/
+
+
 ### Police shoot to intimidate owner of LGBTQ bar | June 2nd
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protestor himself, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
+
+tags: threaten, projectiles
 
 id: nc-raleigh-1
 
@@ -60,6 +86,8 @@ In the early hours of the morning on June 5th, men in black, without visible bad
 
 Police scanner audio shows that Raleigh police officers were following him during protests later that day.
 
+tags: threaten, arrest, hide-badges
+
 id: nc-raleigh-3
 
 **Links**
@@ -74,6 +102,8 @@ id: nc-raleigh-3
 ### Police kneel to lure protestors closer before firing | June 3rd
 
 Police feign a show of support by kneeling and draw protestors closer. After protestors kneel, police begin firing tear gas rounds.
+
+tags: tear-gas, tear-gas-canister
 
 id: nc-wilmington-1
 
