@@ -210,7 +210,7 @@ id: ca-losangeles-7
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby.
 
-tags: car, rubber-bullets
+tags: vehicle, rubber-bullets
 
 id: ca-losangeles-8
 
@@ -266,7 +266,7 @@ id: ca-losangeles-11
 
 LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protestors, then throws it in reverse and speeds away
 
-tags: drive
+tags: vehicle, drive
 
 id: ca-losangeles-12
 
@@ -417,7 +417,7 @@ id: ca-los-angeles-20
 
 A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
 
-tags: drive
+tags: vehicle, drive
 
 id: ca-oakland-1
 
