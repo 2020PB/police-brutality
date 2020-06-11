@@ -81,7 +81,7 @@ id: fl-orlando-2
 
 Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer. They end up using tear-gas on the crowd.
 
-tags: tackle, shove, throw, kneel, kneel-on-kneck, pepper-spray, spray, tear-gas
+tags: tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas
 
 id: fl-tampa-1
 
