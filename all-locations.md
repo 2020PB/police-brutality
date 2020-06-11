@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-11T03:17:13.434710+00:00
+UPDATED AT: 2020-06-11T06:09:33.380707+00:00
 
 
 # Alabama
@@ -11,6 +11,8 @@ UPDATED AT: 2020-06-11T03:17:13.434710+00:00
 ### Protester falls and is stepped on | June 1st
 
 During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
+
+tags: baton, kick, beat, push, shove
 
 id: al-huntsville-1
 
@@ -23,6 +25,8 @@ id: al-huntsville-1
 
 Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason.
 
+tags: threaten, pepper-spray, spray
+
 id: al-huntsville-2
 
 **Links**
@@ -33,6 +37,8 @@ id: al-huntsville-2
 ### Police tear gas reporters | June 3rd
 
 Police use tear gas on reporters and protestors, who are then initially blocked from leaving the area by other officers.
+
+tags: tear-gas, tear-gas-canister, journalist
 
 id: al-huntsville-3
 
@@ -45,11 +51,17 @@ id: al-huntsville-3
 
 A Huntsville PD Lieutenant stated that they used tear gas on protestors before violence occurred, adding that "they weren't going to roll the dice".
 
+Footage taken of a protestor in a garage after shows bruises consistent with rubber bullet rounds.
+
+tags: tear-gas, tear-gas-canister, rubber-bullets, shoot
+
 id: al-huntsville-4
 
 **Links**
 
-*  https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
+* https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
+* https://twitter.com/IanHoppe/status/1268350756186460164
+* https://twitter.com/ByChipBrownlee/status/1268357881381957635
 
 
 ### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
@@ -57,6 +69,8 @@ id: al-huntsville-4
 After disperse order is given, protestors comply and begin to back away from the police line. Police fire rubber bullets at dispersing protestors and harrass woman (filmer) who has been shot in the leg and is unable to move quickly.
 
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
+
+tag: rubber-bullets, threaten
 
 id: al-huntsville-5
 
