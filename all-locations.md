@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-11T13:42:22.330780+00:00
+UPDATED AT: 2020-06-11T15:30:56.658930+00:00
 
 
 # Alabama
@@ -3160,6 +3160,7 @@ id: or-portland-6
 * https://twitter.com/chadloder/status/1269526243138928642
 * https://twitter.com/TVAyyyy/status/1269526590456643584
 * https://twitter.com/DonovanFarley/status/1269701897377603584
+* https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
 
 
 
