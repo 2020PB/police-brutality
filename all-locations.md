@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-11T02:36:20.920259+00:00
+UPDATED AT: 2020-06-11T02:55:39.076545+00:00
 
 
 # Alabama
@@ -73,6 +73,8 @@ id: al-huntsville-5
 ### Officer tackles and arrests person walking home from protest | May 30th
 
 An officer tackles a protestor that is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice, the protestor responds "I'm not". The officer yells "put your hands behind your head" several times, and the protestor responds "I'm trying".
+
+tags: beat, arrest, inhumane-treatment, threaten, tackle
 
 id: az-phoenix-1
 
