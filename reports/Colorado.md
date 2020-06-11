@@ -4,6 +4,8 @@
 
 At least 5 cops pin man to the ground. Several of them punch him even though he appears to not be resisting. According to the person that posted the video he was shot by rubber bullets before this took place.
 
+tags: arrest, punch, kneel, rubber-bullets
+
 id: co-coloradosprings-1
 
 **Links**
@@ -17,6 +19,8 @@ id: co-coloradosprings-1
 ### Reporter shot with multiple pepper balls | May 28th
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
+
+tags: journalist, shoot, pepper-ball
 
 id: co-denver-1
 
@@ -42,6 +46,8 @@ id: co-denver-2
 
 A reporter from Denver 7 news tweeted a photo showing one of their cameramen holding their camera with a bullet hole through its lens.  The caption states "Police just fired off paintballs and tear gas. Our photographer got hit four time and our camera got hit."
 
+tags: journalist, tear-gas, projectile, shoot, paintball
+
 id: co-denver-3
 
 **Links**
@@ -54,6 +60,8 @@ id: co-denver-3
 A woman stops an armored SWAT car (number: APC01?) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
 Three armored police get out from back of armored car, one walks around the side and shoots at the woman from what looks like a paintball gun.
 
+tags: shoot, paintball
+
 id: co-denver-4
 
 **Links**
@@ -65,6 +73,8 @@ id: co-denver-4
 
 An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
 
+tags: tear-gas, tear-gas-canister, shoot, projectile
+
 id: co-denver-13
 
 **Links**
@@ -75,6 +85,8 @@ id: co-denver-13
 ### Police throw reporter into fire | May 30th
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
+
+tags: push, shove, throw, journalist
 
 id: co-denver-5
 
@@ -89,6 +101,8 @@ id: co-denver-5
 
 Policemen turned off their body cams and started unnecessary firing of tear gas.
 
+tags: body-cam, tear-gas, shoot
+
 id: co-denver-6
 
 **Links**
@@ -100,6 +114,8 @@ id: co-denver-6
 
 A member of the press is filming from an empty sidewalk. Law enforcement shoot at him, and he yells "I'm media, we're press, we're press, don't shoot at us".
 
+tags: journalist, shoot
+
 id: co-denver-7
 
 **Links**
@@ -110,6 +126,9 @@ id: co-denver-7
 ### Bystander claims police shoot him in the eye | May 30th
 
 Bystander claims law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, blinding him in one eye.
+
+
+tags: shoot, projectile
 
 id: co-denver-14
 
@@ -123,6 +142,8 @@ id: co-denver-14
 
 Police shoot some pepper balls at a car with a prenant woman inside. The driver steps out telling them there is a pregnant woman, after a few seconds multiple officers light up the car with even more shots
 
+tags: pregnant, pepper-ball, shoot
+
 id: co-denver-8
 
 **Links**
@@ -134,6 +155,8 @@ id: co-denver-8
 
 This officer and fires a pepper pellet directly at someone filming.
 
+tags: shoot, pepper-ball
+
 id: co-denver-9
 
 **Links**
@@ -144,6 +167,8 @@ id: co-denver-9
 ### Police pepper sprays peaceful protestor and fires tear gas on crowd | Believed to be May 31st or June 1st
 
 Police officer snatches away protestor's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
+
+tags: property-destruction, pepper-spray, spray, tear-gas
 
 id: co-denver-10
 
@@ -157,6 +182,8 @@ id: co-denver-10
 
 Use of Force committee member for Denver Police, shot in back with tear gas canisters.
 
+tags: shoot, tear-gas, tear-gas-canister
+
 id: co-denver-11
 
 **Links**
@@ -167,6 +194,8 @@ id: co-denver-11
 ### Police tackle group of peaceful protesters | June 4th
 
 Denver SWAT unit tackles group of peaceful protesters who were walking and chanting (around 12:20am).
+
+tags: tackle, arrest
 
 id: co-denver-12
 
