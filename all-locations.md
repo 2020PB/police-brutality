@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-11T02:55:39.076545+00:00
+UPDATED AT: 2020-06-11T02:57:04.438555+00:00
 
 
 # Alabama
@@ -93,6 +93,8 @@ id: az-phoenix-1
 Law enforcement gas a crowd chanting “we want peace” right after exiting the building, in the video there was no order to disperse, the crowd seemed to be peacefully chanting.
 Article says crowd started throwing water bottles and firecrackers. Sheriff's office claims rocks were thrown.
 
+tags: tear-gas, tear-gas-canister
+
 id: ar-bentonville-1
 
 **Links**
@@ -108,11 +110,13 @@ id: ar-bentonville-1
 
 Peaceful protestors kneeling are shot with an explosive projectile.
 
+tags: explosive, projectiles
+
 id: ar-littlerock-1
 
 **Links**
 
-* https://twitter.com/KATVShelby/status/1267554421019475972?s=20
+* https://twitter.com/KATVShelby/status/1267554421019475972
 * https://twitter.com/KATVNews/status/1267509911954440194
 
 
