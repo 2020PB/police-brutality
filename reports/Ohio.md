@@ -1,3 +1,14 @@
+## Beavercreek
+
+### Police use tear gas on protestors peacefully blocking road | June 1st
+
+Police tell protestors blocking road to disperse and then immediately use tear gas on them. 
+
+id: oh-beavercreek-1
+
+**Links**
+* [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
+
 ## Canton
 
 ### Police spray mace, fire tear gas and flash bangers at protestors, even after they have dispersed | May 29th
