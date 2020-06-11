@@ -80,6 +80,7 @@ kick
 knee-on-neck
 mace
 marking-rounds
+paintball
 pepper-ball
 pepper-spray
 policecar
