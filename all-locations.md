@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-11T01:39:15.538699+00:00
+UPDATED AT: 2020-06-11T01:53:28.983601+00:00
 
 
 # Alabama
@@ -2696,6 +2696,17 @@ id: nd-fargo-1
 
 
 # Ohio
+
+## Beavercreek
+
+### Police use tear gas on protestors peacefully blocking road | June 1st
+
+Police tell protestors blocking road to disperse and then immediately use tear gas on them. 
+
+id: oh-beavercreek-1
+
+**Links**
+* [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
 
 ## Cincinnati
 
