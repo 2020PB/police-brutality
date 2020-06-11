@@ -679,7 +679,9 @@ id: ca-santamonica-1
 
 ### Police fatally shoot unarmed 22 year old | June 1st
 
-"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family."
+"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family. 
+
+Six officers fired 55 bullets in 3.5 seconds; police investigation determined this use of force 'reasonable.'
 
 tags: shoot, real-bullets, death
 
@@ -688,6 +690,7 @@ id: ca-vallejo-1
 **Links**
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
+* https://www.theguardian.com/us-news/2019/jun/12/willie-mccoy-shooting-vallejo-police-55-shots
 
 
 ## Walnut Creek
