@@ -1,3 +1,4 @@
+
 # Police Brutality During the 2020 George Floyd Protests
 
 ---
@@ -25,21 +26,19 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 ## Links
 
 **Ways to use our incident files:**
-* [Data API](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) to build your own front end
-* [Data API](https://www.github.com/949mac/846-backend/) that includes geolocation data
+* [JSON](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json) / [CSV](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.csv) / [MD](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.md) API to build your own front end
+* [RESTful API](https://www.github.com/949mac/846-backend/) which extends the official Data API through multiple end-points, including `/incidents` with geolocation data, `evidence` inclusion with direct-links to streamable mp4 videos, `/legislators` with House and Senate member contacts, and server-side filtering
 * [REST API](https://github.com/nickatnight/policebrutality.io) that points to backed-up video files
 
-**Our webapps and visualizers:**
-* [Web app](https://2020policebrutality.netlify.app/) to visually view incident reports
-* [Interactive map](https://846policebrutality.com/) of incidents with video and social media browsers
-* [Collection of projects](https://pb2020gallery.netlify.app/) that use our APIs
-
-**Some external projects built using our API:**
-* [Searchable collection](https://too-many-incidents.netlify.app/) of incidents and related evidence
+**Some projects built using our APIs**
+* [2020PoliceBrutality](https://2020policebrutality.netlify.app/) web app to visually view incident reports
+* [US Police Brutality Map](https://846policebrutality.com/) of incidents with video and social media browsers
+* [/r/2020PoliceBrutality data sites gallery](https://pb2020gallery.netlify.app/) that use our APIs
+* [Too Many Incidents - Searchable](https://too-many-incidents.netlify.app/) collection of incidents and related evidence
 * [Android app](https://github.com/amardeshbd/android-police-brutality-incidents) to view incidents sorted by location
 * [List of incidents](https://policebrutality.netlify.app/) that you can filter by city and state
-* [Timeline](https://bread.codes/PoliceBrutality/) of police brutality events
-* [Dashboard](https://datastudio.google.com/s/oFSSsjw2kAY) with stats at the city and state levels
+* [Pressure Them - Timeline](https://bread.codes/PoliceBrutality/) of police brutality events
+* [DataStudio - Dashboard](https://datastudio.google.com/s/oFSSsjw2kAY) with stats at the city and state levels
 * [Android app](https://github.com/andrewsnyder328/2020PoliceBrutalityApk/) to visually view posts
 
 ## Background
