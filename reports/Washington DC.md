@@ -2,6 +2,8 @@
 
 At short range, officer fires a tear gas round directly at a protestor. The round narrowly misses striking the protestor in the face.
 
+tags: tear-gas
+
 id: dc-dc-12
 
 **Links**
@@ -12,6 +14,8 @@ id: dc-dc-12
 ### Riot Police rams shield into BBC cameraman | May 31st
 
 A BBC cameraman was charged at by police and hit with a shield.
+
+tags: journalist, shield
 
 id: dc-dc-1
 
@@ -25,6 +29,7 @@ id: dc-dc-1
 
 Tear gas is shot on ground near protesters. One protester is depicted needing water for eye wash. Calls for water and medics are heard.
 
+tags: tear-gas, medic
 id: dc-dc-11
 
 **Links**
@@ -35,7 +40,9 @@ id: dc-dc-11
 
 ### Australian news crew and protestors attacked by police | June 1st
 
-Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC.
+Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist, and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
+
+tags: journalist, punch, tear-gas, rubber-bullets, projectiles
 
 id: dc-dc-2
 
@@ -53,8 +60,9 @@ id: dc-dc-2
 
 ### Protestors are quickly and violently pushed out of Lafayette Square | June 1
 
-The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors
+The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors via tear gas and flashbangs.
 
+tags: tear-gas, flashbangs
 id: dc-dc-3
 
 **Links**
@@ -71,6 +79,7 @@ id: dc-dc-3
 
 DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
 
+tags: tear-gas-canister, projectiles
 id: dc-dc-4
 
 **Links**
@@ -80,8 +89,9 @@ id: dc-dc-4
 
 ### Police violence outside the White House | June 1st
 
-MSNBC captures Police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
+MSNBC captures mounted and regular police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
 
+tags: flashbangs, horse
 id: dc-dc-5
 
 **Links**
@@ -93,6 +103,7 @@ id: dc-dc-5
 
 A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
+tags: threaten, tear-gas
 id: dc-dc-6
 
 **Links**
@@ -105,6 +116,7 @@ id: dc-dc-6
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
+tags: shield, beat, tackle
 id: dc-dc-7
 
 **Links**
@@ -116,6 +128,7 @@ id: dc-dc-7
 
 Police fire into crowd outside of White House. Protester is hit and falls to the ground. The same protester is then hit again after standing. Projectile used is unknown.
 
+tags: projectiles
 id: dc-dc-8
 
 **Links**
@@ -127,6 +140,7 @@ id: dc-dc-8
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
+tags: rubber-bullets, pepper-spray, journalist
 id: dc-dc-9
 
 **Links**
@@ -140,6 +154,7 @@ id: dc-dc-9
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
 
+tags: flashbangs
 id: dc-dc-10
 
 **Links**
