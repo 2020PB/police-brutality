@@ -2,7 +2,7 @@
 
 ### Police shove an old man with a cane to the ground | May 30th
 
-The old man was shoved and pushed by the police, which led him to hit the railing and collapse
+The old man was shoved and pushed by the police, which led him to hit the railing and collapse.
 
 tags: elderly, push, shove, shields
 
@@ -14,7 +14,7 @@ id: ut-saltlakecity-1
 
 ### Police shoot man on the ground in the spine with a beanbag point-blank | May 30th
 
-The man on the ground was shot with a beanbag, resulting in heavy damage
+The man on the ground was shot with a beanbag, resulting in heavy damage.
 
 tags: shot, beanbags
 
