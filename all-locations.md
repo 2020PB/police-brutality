@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:57:33.322943+00:00
+UPDATED AT: 2020-06-12T19:57:57.393461+00:00
 
 
 # Alabama
@@ -4298,6 +4298,8 @@ id: ut-saltlakecity-3
 ### Police shove a protesting woman down a set of concrete steps. | June 3rd
 
 Police shove a protesting woman down a set of concrete steps.
+
+tags: shove, arrest, push
 
 id: vt-stjohnsbury-1
 
