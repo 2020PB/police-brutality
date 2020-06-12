@@ -19,6 +19,7 @@ flashbangs
 gas
 headlock
 hide-badges
+homeless
 horse
 inhumane-treatment
 journalist
@@ -65,6 +66,7 @@ vehicle
 celebrity
 child
 elderly
+homeless
 journalist
 lgbtq+
 medic
