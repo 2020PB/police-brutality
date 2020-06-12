@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:36:51.829175+00:00
+UPDATED AT: 2020-06-12T19:40:29.625025+00:00
 
 
 # Alabama
@@ -1966,6 +1966,8 @@ id: ma-worcester-4
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
+tags: tackle, punch
+
 id: mi-detroit-4
 
 **Links**
@@ -1976,6 +1978,8 @@ id: mi-detroit-4
 ### Riot police charge peaceful protestors | May 29th
 
 Riot police charge peaceful protestors without warning. The filming protestor and numerous others are beaten with riot shields.
+
+tags: tackle, shield, beat
 
 id: mi-detroit-5
 
@@ -1988,6 +1992,8 @@ id: mi-detroit-5
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
+tags: threaten, shove
+
 id: mi-detroit-1
 
 **Links**
@@ -1995,9 +2001,11 @@ id: mi-detroit-1
 * https://twitter.com/AkramG03/status/1266876680142049282
 
 
-### Police pepperspray reporter holding up media badge | May 30th
+### Police pepper-spray reporter holding up media badge | May 30th
 
-Detroit Police pepperspray a reporter in the face while he holds up a media badge
+Detroit Police pepper-spray a reporter in the face while he holds up a media badge.
+
+tags: journalist, pepper-spray, spray
 
 id: mi-detroit-2
 
@@ -2009,7 +2017,9 @@ id: mi-detroit-2
 
 ### Police shoot rubber bullets at reporters | May 30th
 
-Police teargassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
+Police tear-gassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
+
+tags: journalist, tear-gas, rubber-bullets, shoot
 
 id: mi-detroit-3
 
@@ -2022,6 +2032,8 @@ id: mi-detroit-3
 
 Police charge protestors. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
 
+tags: throw, punch, knee, arrest
+
 id: mi-detroit-6
 
 **Links**
@@ -2031,9 +2043,11 @@ id: mi-detroit-6
 
 ## Grand Rapids
 
-### Police spray unarmed man with pepperspray and shoot him in the face with a teargas canister | May 31st
+### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
 
-A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a teargas canister is shot by a different officer directly into the man's head.
+A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a tear-gas canister is shot by a different officer directly into the man's head.
+
+tags: spray, shoot, pepper-spray, tear-gas, tear-gas-canister
 
 id: mi-grandrapids-1
 
@@ -2048,6 +2062,8 @@ id: mi-grandrapids-1
 
 Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
+tags: shove, push, shields
+
 id: mi-grandrapids-2
 
 **Links**
@@ -2061,6 +2077,8 @@ id: mi-grandrapids-2
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
+tags: shoot, pepper-ball, tear-gas, tear-gas-canister
+
 id: mi-kalamazoo-1
 
 **Links**
@@ -2072,6 +2090,8 @@ id: mi-kalamazoo-1
 ### Police fire tear gas at peaceful protesters | June 2nd
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
+
+tags: tear-gas, arrest
 
 id: mi-kalamazoo-2
 
