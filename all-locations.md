@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T02:18:54.055799+00:00
+UPDATED AT: 2020-06-12T02:20:46.772714+00:00
 
 
 # Alabama
@@ -1099,7 +1099,9 @@ id: ct-waterbury-1
 
 ### USA Today journalist arrested | June 9th
 
-A journalist is filming and asking the police why protestors are being arrested. The police tackle the him and he states loudly "I'm with the press" multiple times. The video ends with an officer confiscating his press press and bag; another officer off camera is heard saying to the journalist "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest. 
+A journalist is filming and asking the police why protestors are being arrested. The police tackle him and he states loudly, "I'm with the press" multiple times. The video ends with an officer confiscating his press badge and bag. Another officer off camera is heard saying to the journalist, "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest. 
+
+tags: journalist, arrest, tackle
 
 id: de-dover-1
 
