@@ -181,27 +181,15 @@ id: wa-seattle-13
 
 ### Police pepper spray protesters who can't move back | June 6th
 
-Police ask protesters to move back, but the crowd is too dense for them to do so. Police then start pepper-spraying protesters at the front of the crowd and launch flashbangs into and near the crowd. At 1:30, it appears a protester is hit with a projectile.
+In a series of videos, we see police asking protesters to move back, but the crowd is too dense for them to do so. Police then start pepper-spraying protesters at the front of the crowd and launch flashbangs into and near the crowd. At 1:30 in the first video, it appears a protester is hit with a projectile. In the subsequent clips, teargas is seen being spread into a group of protesters by police.
 
-tags: pepper-spray, flashbangs, projectiles
-
-id: wa-seattle-16
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1269479158998011906
-
-
-### Police use tear gas on protestors | June 7th
-
-Teargas is seen being spread into group of protesters by police
-
-tags: tear-gas
+tags: pepper-spray, flashbangs, projectiles, tear-gas
 
 id: wa-seattle-15
 
 **Links**
 
+* https://twitter.com/greg_doucette/status/1269479158998011906
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gycscp/cant_go_1_day_without_teargaslighting_us/?utm_source=share&utm_medium=web2x
 * https://www.forbes.com/sites/jemimamcevoy/2020/06/08/seattle-police-use-tear-gas-against-protestors-despite-city-ban/#7e98a1d5b4bc
 * https://twitter.com/greg_doucette/status/1269481868245819393
