@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:34:22.319479+00:00
+UPDATED AT: 2020-06-12T19:34:47.217217+00:00
 
 
 # Alabama
@@ -1853,6 +1853,8 @@ id: ky-louisville-7
 Police throw tear-gas at protestors that are on the Crescent City Connection bridge and cannot easily disperse.
 
 Additional images show a protestor bleeding after allegedly being struck in the head by a tear gas canister. A Twitter user claiming to be the woman's child says the woman was taken to the hospital for treatment.
+
+tags: tear-gas, tear-gas-canister
 
 id: la-neworleans-1
 
