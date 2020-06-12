@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:58:56.995194+00:00
+UPDATED AT: 2020-06-12T20:00:12.360468+00:00
 
 
 # Alabama
@@ -4324,7 +4324,11 @@ id: vt-stjohnsbury-1
 
 ### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
 
-Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breathe".  
+Bodycam footage shows an unarmed man walking around in the street. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".  
+
+This footage does not appear to be protest related, but demonstrates a sever escalation in force dealing with a man not in a fit mental state.
+
+tags: taser, strike, arrest, non-protest, neck, knee-on-neck
 
 id: va-fairfax-1
 
@@ -4342,6 +4346,8 @@ id: va-fairfax-1
 
 In this video, delegate Lee Carter asks officers questions about their methods in the protests. He is pushed to the ground by an advancing line of law enforcement officers at 1:30 and pepper-sprayed at 2:27.
 
+tags: politician, push, shove, pepper-spray, spray
+
 id: va-manassas-1
 
 **Links**
@@ -4355,6 +4361,8 @@ id: va-manassas-1
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
 
+tags: spray, pepper-spray
+
 id: va-richmond-1
 
 **Links**
@@ -4367,6 +4375,8 @@ id: va-richmond-1
 ### Tear gas fired at peaceful protest | June 1st
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM.
+
+tags: tear-gas, tear-gas-canister
 
 id: va-richmond-2
 
@@ -4384,6 +4394,8 @@ id: va-richmond-2
 
 A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera.
 
+tags: arrest, inhumane-treatment
+
 id: va-richmond-3
 
 **Links**
@@ -4393,7 +4405,9 @@ id: va-richmond-3
 
 ### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 4th
 
-In this video, an officer fires a tear gas cannister at a slow moving vehicle. It appears that he was unaware the vehicle belonged to the police.
+In this video, an officer fires a tear gas canister at a slow moving vehicle. It appears that he was unaware the vehicle belonged to the police.
+
+tags: tear-gas, tear-gas-canister
 
 id: va-richmond-4
 
