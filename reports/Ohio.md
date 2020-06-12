@@ -13,11 +13,11 @@ id: oh-beavercreek-1
 
 ## Canton
 
-### Police spray mace, fire tear gas and flash bangers at protestors, even after they have dispersed | May 29th
+### Police spray mace, fire tear gas and flashbangs at protestors, even after they have dispersed | May 29th
 
-Police warn protestors blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flash bangers, and mace, even after protestors are out of the roadway. In part 2 of the video at 7:58, one of the used flash bang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
+Police warn protestors blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flashbangs, and mace, even after protestors are out of the roadway. In part 2 of the video at 7:58, one of the used flashbang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
 
-tags: pepper-spray, flash-bangs, tear-gas
+tags: pepper-spray, flashbangs, tear-gas
 
 id: oh-canton-1
 
