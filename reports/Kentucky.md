@@ -69,7 +69,7 @@ id: ky-louisville-3
 
 ### Restaurant owner shot and killed | June 1st
 
-During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a resaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
+During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a restaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
 
 tags: death, body-cams, real-bullets, pepper-ball
 
