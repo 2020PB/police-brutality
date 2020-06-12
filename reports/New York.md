@@ -4,6 +4,8 @@
 
 Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
 
+tags: tackle, arrest
+
 id: ny-buffalo-1
 
 **Links**
@@ -21,6 +23,8 @@ The man suffered brain damage and has begun physical therapy.
 
 Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
 
+tags: shove, strike, push
+
 id: ny-buffalo-2
 
 **Links**
@@ -37,6 +41,8 @@ id: ny-buffalo-2
 
 Reporter shot at over a dozen times at close range and arrested, despite identifying himself. Was told his 1st Amendment rights did not matter.
 
+tags: journalist, shoot, threaten, projectile
+
 id: ny-buffalo-3
 
 **Links**
@@ -51,6 +57,8 @@ id: ny-buffalo-3
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
+tags: shove, throw
+
 id: ny-newyorkcity-1
 
 **Links**
@@ -64,6 +72,8 @@ id: ny-newyorkcity-1
 
 Policeman deliberately opens car door to knock an individual down to the ground.
 
+tags: vehicle, drive
+
 id: ny-newyorkcity-2
 
 **Links**
@@ -74,6 +84,8 @@ id: ny-newyorkcity-2
 ### Member of the New York State Assembly pepper-sprayed | May 29th
 
 Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Centre.
+
+tags: politician, pepper-spray, spray
 
 id: ny-newyorkcity-3
 
@@ -87,6 +99,8 @@ id: ny-newyorkcity-3
 
 A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
 
+tags: throw, shove, beat
+
 id: ny-newyorkcity-4
 
 **Links**
@@ -99,6 +113,8 @@ id: ny-newyorkcity-4
 
 The NYPD Squad are seen beating protestors with batons and pushing them around.
 
+tags: beat, batons, push, shove
+
 id: ny-newyorkcity-5
 
 **Links**
@@ -109,6 +125,8 @@ id: ny-newyorkcity-5
 ### Cop shoves a guy into a metal fence | May 30th
 
 A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
+
+tags: shove, push
 
 id: ny-newyorkcity-6
 
@@ -122,6 +140,8 @@ id: ny-newyorkcity-6
 
 An NYPD officer pushes a civilian down towards trash cans.
 
+tags: shove, push
+
 id: ny-newyorkcity-7
 
 **Links**
@@ -133,6 +153,8 @@ id: ny-newyorkcity-7
 ### Huffpost reporter is arrested by NYPD | May 30th
 
 Despite clearly identifying himself, the reporter was taken into custody during a protest.
+
+tags: journalist, arrest
 
 id: ny-newyorkcity-8
 
@@ -146,6 +168,8 @@ id: ny-newyorkcity-8
 
 An NYPD officer in a white shirt, denoting a rank of Lieutenant or higher, uses a plastic barricade to shove protestors back. He then topples the barricade and charges at protestors.
 
+tags: shove, push
+
 id: ny-newyorkcity-27
 
 **Links**
@@ -157,6 +181,8 @@ id: ny-newyorkcity-27
 
 An NYPD officer kneels on the back of a street medic to arrest him. Footage additionally shows the officer destroying medical supplies used to aid tear gas victims
 
+tags: medic, knee, property-destruction
+
 id: ny-newyorkcity-28
 
 **Links**
@@ -167,6 +193,8 @@ id: ny-newyorkcity-28
 ### Police pull off protesters mask to pepper spray him | May 31st
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened.
+
+tags: pepper-spray, spray, inhumane-treatment
 
 id: ny-newyorkcity-9
 
@@ -180,6 +208,8 @@ id: ny-newyorkcity-9
 
 A NYPD squad car is driven into civilians, ramming them out of its path.
 
+tags: vehicle, drive
+
 id: ny-newyorkcity-10
 
 **Links**
@@ -192,6 +222,8 @@ id: ny-newyorkcity-10
 
 Police officers are seen beating and assaulting men and women for standing around peacefully.
 
+tags: beat, shove, arrest, batons, knee
+
 id: ny-newyorkcity-11
 
 **Links**
@@ -202,6 +234,8 @@ id: ny-newyorkcity-11
 ### State senator pepper sprayed | May 31st
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
+
+tags: politician, pepper-spray, spray
 
 id: ny-newyorkcity-12
 
@@ -214,6 +248,8 @@ id: ny-newyorkcity-12
 
 Protestors had their hands up, yet were pepper sprayed in the face.
 
+tags: pepper-spray, spray
+
 id: ny-newyorkcity-15
 
 **Links**
@@ -225,6 +261,8 @@ id: ny-newyorkcity-15
 
 Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
 
+tags: journalist, property-destruction, strike, shields
+
 id: ny-newyorkcity-16
 
 **Links**
@@ -235,6 +273,8 @@ id: ny-newyorkcity-16
 ### Officers beat man until his face and belongings are bloody | May 31st
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
+
+tags: batons, beat, strike
 
 id: ny-newyorkcity-17
 
@@ -248,6 +288,8 @@ id: ny-newyorkcity-17
 
 Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
 
+tags: inhumane-treatment
+
 id: ny-newyorkcity-29
 
 **Links**
@@ -259,6 +301,8 @@ id: ny-newyorkcity-29
 
 Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
 
+tags: threaten, gun
+
 id: ny-newyorkcity-18
 
 **Links**
@@ -269,6 +313,8 @@ id: ny-newyorkcity-18
 ### Police officer body slams protestor | June 2nd
 
 A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first.
+
+tags: throw, strike, beat
 
 id: ny-newyorkcity-19
 
@@ -282,6 +328,8 @@ id: ny-newyorkcity-19
 
 Police beat protesters leaving Stonewall Inn after a demonstration honoring queer and people of color who died at hands of police, in solidarity with George Floyd. One man had his arm broken and required multiple staples to close wounds on his head.
 
+tags: beat, strike, lgbtq+
+
 id: ny-newyorkcity-20
 
 **Links**
@@ -292,6 +340,8 @@ id: ny-newyorkcity-20
 ### Officers beat man with batons | (Believed to be) June 2nd
 
 Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
+
+tags: beat, batons, strike, punch, kick, batons
 
 id: ny-newyorkcity-21
 
@@ -305,6 +355,8 @@ id: ny-newyorkcity-21
 
 A man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
+tags: beat, batons, strike
+
 id: ny-newyorkcity-22
 
 **Links**
@@ -314,6 +366,8 @@ id: ny-newyorkcity-22
 
 
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
+
+tags: journalist, shove, strike, throw, beat, arrest, batons
 
 id: ny-newyorkcity-23
 
@@ -326,6 +380,8 @@ id: ny-newyorkcity-23
 
 Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
 
+tags: arrest, strike, choke, neck, batons
+
 id: ny-newyorkcity-24
 
 **Links**
@@ -335,7 +391,9 @@ id: ny-newyorkcity-24
 
 ### NYPD pushes crowd into tight space and attacks several with batons | June 5th
 
-At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepperspray and batons.
+At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons.
+
+tags: pepper-spray, spray, batons, beat
 
 id: ny-newyorkcity-25
 
@@ -347,6 +405,8 @@ id: ny-newyorkcity-25
 ### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
 
 Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
+
+tags: tackle, punch, arrest, beat, strike
 
 id: ny-newyorkcity-26
 
@@ -360,6 +420,8 @@ id: ny-newyorkcity-26
 ### Police shoot at people filming | May 31st
 
 Police are seen shooting at individuals who were recording an incident.
+
+tags: shoot, rubber-bullets
 
 id: ny-rochester-1
 
