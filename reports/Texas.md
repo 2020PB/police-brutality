@@ -4,6 +4,8 @@
 ### Police assault protesters | (believed to be) May 30th
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
 
+tags: choke, threaten, gun, beat, punch, baton
+
 id: tx-austin-2
 
 **Links**
@@ -15,7 +17,9 @@ id: tx-austin-2
 
 Here, a non-violent protestor can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
 
-In the aftermath other protestors help the victim who is bleeding from a large head wound.
+In the aftermath other protestors help the victim who is bleeding from a large head wound. Further reports state the victim was hospitalized
+
+tags: child, shoot, rubber-bullet, bean-bag
 
 id: tx-austin-3
 
@@ -32,6 +36,8 @@ id: tx-austin-3
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
 
+tags: threaten, rubber-bullets, bean-bag, tear-gas, shoot
+
 id: tx-austin-4
 
 **Links**
@@ -45,6 +51,8 @@ id: tx-austin-4
 
 Police were seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters downtown. Current source videos are from a distance of about 100-200 feet and it is unclear what exactly caused the officers to begin firing.
 
+tags: rubber-bullets, shoot
+
 id: tx-austin-5
 
 **Links**
@@ -56,7 +64,11 @@ id: tx-austin-5
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
 
+Police continued to fire on the crowd as well as medics attempting to assist the man.
+
 Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile.
+
+tags: medic, bean-bag, shoot
 
 id: tx-austin-1
 
@@ -72,6 +84,8 @@ id: tx-austin-1
 
 Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
 
+tags: shoot, rubber-bullets
+
 id: tx-austin-6
 
 **Links**
@@ -85,6 +99,8 @@ id: tx-austin-6
 
 A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face.
 
+tags: pepper-spray, spray
+
 id: tx-austin-7
 
 **Links**
@@ -96,6 +112,8 @@ id: tx-austin-7
 ### Police fire upon protesters seeking medical help | June 2nd
 
 Volunteer medics were advised to bring a critically wounded protestor to the police line for medical attention and were subsequently fired upon.
+
+tags: medic, shoot
 
 id: tx-austin-8
 
@@ -112,6 +130,8 @@ id: tx-austin-8
 
 Cop in Baytown Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
 
+tags: tackle, arrest, knee
+
 id: tx-baytown-1
 
 **Links**
@@ -126,6 +146,8 @@ id: tx-baytown-1
 
 A woman who says she was simply walking home with groceries was shot in the face with a rubber bullet by Dallas police. She was seen bleeding profusely and some officers attempted to help her immediately afterwards.
 
+tags: shoot, rubber-bullets
+
 id: tx-dallas-1
 
 **Links**
@@ -138,6 +160,8 @@ id: tx-dallas-1
 ### Man shot in the eye | May 30th
 
 Man at the protests had been shot in the eye by officers.
+
+tags: shoot, projectile
 
 id: tx-dallas-4
 
@@ -152,6 +176,8 @@ id: tx-dallas-4
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
+tags: flashbangs, tear-gas
+
 id: tx-dallas-2
 
 **Links**
@@ -162,6 +188,8 @@ id: tx-dallas-2
 ### Police fire rubber bullet on peaceful protestor | June 1st
 
 Without warning, police shoot protestor with rubber bullet. Protestor falls limp to the ground. Later image shows the protestor helped to their feet and able to walk away
+
+tags: shoot, rubber-bullets
 
 id: tx-dallas-5
 
@@ -174,6 +202,8 @@ id: tx-dallas-5
 ### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
 
 On June 2nd, protestors are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
+
+tags: shoot, rubber-bullets, tear-gas
 
 id: tx-dallas-3
 
@@ -189,6 +219,8 @@ id: tx-dallas-3
 
 A mounted police officer in Houston trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
 
+tags: horse
+
 id: tx-houston-1
 
 **Links**
@@ -201,6 +233,8 @@ id: tx-houston-1
 
 A large group of police officers were walking down the street when a woman standing near them was forcefully shoved to the ground by a police officer.
 
+tags: shove, push
+
 id: tx-houston-2
 
 **Links**
@@ -211,6 +245,8 @@ id: tx-houston-2
 ### Officer pushs protestor that is filming | Date Unknown
 
 A protestor is filming and asking "why?", referring to protestors being arrested. An officer then pushs the protestor that is filming, knocking the camera to the ground.
+
+tags: shove, push, property-destruction, arrest
 
 id: tx-houston-3
 
@@ -224,6 +260,8 @@ id: tx-houston-3
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
 
 A man was filming police walking down the street and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
+
+tags: shoot, rubber-bullets
 
 id: tx-sanantonio-2
 
