@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:55:56.815420+00:00
+UPDATED AT: 2020-06-12T19:56:48.241107+00:00
 
 
 # Alabama
@@ -3923,6 +3923,8 @@ id: sc-unknown-1
 ### Police swarm a woman without provocation | May 31st
 
 A group of police officers targeted and swarmed a woman and pushed her to the ground, using excessive force.
+
+tags: beat, arrest, shields, batons, strike, shove
 
 id: tn-memphis-1
 
