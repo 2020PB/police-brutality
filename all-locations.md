@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:34:47.217217+00:00
+UPDATED AT: 2020-06-12T19:36:51.829175+00:00
 
 
 # Alabama
@@ -1874,6 +1874,8 @@ id: la-neworleans-1
 
 Police beat an innocent man crossing the street with batons.
 
+tags: beat, batons
+
 id: ma-boston-1
 
 **Links**
@@ -1882,6 +1884,8 @@ id: ma-boston-1
 
 
 ### A cop takes someone's protest sign and destroys it. | Unknown Date
+
+tags: property-destruction
 
 id: ma-boston-2
 
@@ -1893,6 +1897,8 @@ id: ma-boston-2
 ## Worcester
 
 ### Worcester police officers cover badge numbers during protest | June 1st
+
+tags: hide-badges
 
 id: ma-worcester-1
 
@@ -1909,6 +1915,8 @@ On video, protestors can be heard yelling "You feel big hitting a little woman l
 
 An additional angle provided by the girl's sister shows numerous officers lifting her off the ground and dragging her behind the police line, after which the line closes to obfuscate any view of her.
 
+tags: child, shove, arrest, throw
+
 id: ma-worcester-2
 
 **Links**
@@ -1921,6 +1929,8 @@ id: ma-worcester-2
 ### Riot police fire on protestors without provocation | June 1st
 
 Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protestors without warning. Police continue firing as protestors flee.
+
+tags: tear-gas, rubber-bullets, pepper-spray, spray, shoot
 
 id: ma-worcester-3
 
@@ -1936,6 +1946,8 @@ Eyewitness reports seeing her boyfriend punched by police officers.
 Eyewitness reports seeing numerous people tackled.
 
 Eyewitness reports being slammed from behind after obeying police order to raise hands and disperse. He and his sister report police kneeled on the man's neck "in the same manner as George Floyd."
+
+tags: arrest, punch, tackle, knee, knee-on-kneck, beat
 
 id: ma-worcester-4
 
