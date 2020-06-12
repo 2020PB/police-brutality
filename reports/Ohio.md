@@ -116,7 +116,7 @@ id: oh-columbus-1
 
 Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
 
-tags: celebrity, mace, pepper-spray, spray
+tags: politician, mace, pepper-spray, spray
 
 id: oh-columbus-2
 
