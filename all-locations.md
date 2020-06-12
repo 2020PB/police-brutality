@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:48:05.778194+00:00
+UPDATED AT: 2020-06-12T19:48:53.096244+00:00
 
 
 # Alabama
@@ -3177,6 +3177,8 @@ id: nc-wilmington-1
 ### Police using selective enforcement on black individuals | June 3rd
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
+
+tags: racial-profiling, arrest, shove, push
 
 id: nd-fargo-1
 
