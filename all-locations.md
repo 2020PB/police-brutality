@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T02:06:14.059877+00:00
+UPDATED AT: 2020-06-12T02:07:08.257905+00:00
 
 
 # Alabama
@@ -1064,7 +1064,9 @@ id: co-denver-12
 
 ### Police tackle and detain 6 protestors | May 31st
 
-Waterbury police have detained at least 6 people. Police had warned several times that those who remained on Wolcott St. would be subject to arrest.  #NBCCT
+Waterbury police have detained at least 6 people. Police had warned several times that those who remained on Wolcott St. would be subject to arrest.
+
+tags: tackle, arrest
 
 id: ct-waterbury-2
 
@@ -1075,9 +1077,11 @@ id: ct-waterbury-2
 * https://twitter.com/Calibud_Art/status/1268274760250777600
 
 
-### Officer forces women into car and wrestles with another | June 3rd
+### Officer forces man into car and wrestles with another | June 3rd
 
 Officer forces man into cop car and wrestles with woman on her phone.
+
+tags: arrest, shove, push
 
 id: ct-waterbury-1
 
