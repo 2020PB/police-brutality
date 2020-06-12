@@ -85,7 +85,7 @@ id: ny-newyorkcity-2
 
 Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Centre.
 
-tags: celebrity, pepper-spray, spray
+tags: politician, pepper-spray, spray
 
 id: ny-newyorkcity-3
 
@@ -235,7 +235,7 @@ id: ny-newyorkcity-11
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
-tags: celebrity, pepper-spray, spray
+tags: politician, pepper-spray, spray
 
 id: ny-newyorkcity-12
 
