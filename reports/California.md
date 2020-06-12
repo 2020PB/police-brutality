@@ -354,7 +354,7 @@ id: ca-losangeles-1
 
 Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless man in a wheelchair.
 
-tags: shoot, projectile
+tags: shoot, projectile, homeless
 
 id: ca-losangeles-18
 
@@ -370,7 +370,7 @@ A man confined to a wheelchair is shot in the eye with a rubber bullet causing h
 
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
-tags: shoot, projectile
+tags: shoot, projectile, homeless
 
 id: ca-losangeles-17
 
