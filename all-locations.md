@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T20:02:05.082185+00:00
+UPDATED AT: 2020-06-12T20:05:23.130079+00:00
 
 
 # Alabama
@@ -4326,7 +4326,7 @@ id: vt-stjohnsbury-1
 
 Bodycam footage shows an unarmed man walking around in the street. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".  
 
-This footage does not appear to be protest related, but demonstrates a sever escalation in force dealing with a man not in a fit mental state.
+This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
 
 tags: taser, strike, arrest, non-protest, neck, knee-on-neck
 
