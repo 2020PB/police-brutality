@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:33:34.911638+00:00
+UPDATED AT: 2020-06-12T19:34:22.319479+00:00
 
 
 # Alabama
@@ -1750,6 +1750,8 @@ id: ia-iowacity-1
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
+tags: journalist, rubber-bullets, pepper-ball
+
 id: ky-louisville-2
 
 **Links**
@@ -1761,6 +1763,8 @@ id: ky-louisville-2
 ### Young woman shot in the head by a rubber bullet | May 30th
 
 A young woman was injured by a rubber bullet she took to the head.
+
+tags: rubber-bullets
 
 id: ky-louisville-4
 
@@ -1774,6 +1778,8 @@ id: ky-louisville-4
 
 Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
 
+tags: property-destruction
+
 id: ky-louisville-1
 
 **Links**
@@ -1785,6 +1791,8 @@ id: ky-louisville-1
 
 Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
 
+tags: shoot, projectile, property-destruction
+
 id: ky-louisville-5
 
 **Links**
@@ -1794,7 +1802,9 @@ id: ky-louisville-5
 
 ### Louisville police swarm and beat a man screaming on the ground | Believed to be June 1st
 
-A man was using a leafblower to clear teargas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
+A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
+
+tags: tear-gas, beat, tackle
 
 id: ky-louisville-3
 
@@ -1805,7 +1815,9 @@ id: ky-louisville-3
 
 ### Restaurant owner shot and killed | June 1st
 
-During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a resaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
+During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a restaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
+
+tags: death, body-cams, real-bullets, pepper-ball
 
 id: ky-louisville-6
 
@@ -1820,7 +1832,9 @@ id: ky-louisville-6
 
 ### Protestors in St. Matthews shot with pepper rounds | June 3rd
 
-Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews
+Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews.
+
+tags: pepper-ball, shoot
 
 id: ky-louisville-7
 
