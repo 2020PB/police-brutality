@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:55:37.390176+00:00
+UPDATED AT: 2020-06-12T19:55:56.815420+00:00
 
 
 # Alabama
@@ -3891,6 +3891,8 @@ id: pa-pittsburgh-2
 ### Police Individually Target Peaceful Protestor and Arrest Him | May 31st
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
+tags: arrest
+
 id: sc-charleston-1
 
 **Links**
@@ -3904,6 +3906,8 @@ id: sc-charleston-1
 
 ### Police Assault Suspect on Ground During Arrest | June 3rd
 A man is arrested by police, who force him on the ground and begin punching him for over a minute.
+
+tags: arrest, shove, punch, beat
 
 id: sc-unknown-1
 
