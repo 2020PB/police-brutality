@@ -4,15 +4,21 @@
 
 A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
 
+tags: pepper-spray, spray
+
 id: in-fortwayne-1
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266745200656990208
+* https://twitter.com/_isabel_a/status/1266580681251000321
+
 
 ### Police tear gas peaceful protesters | May 30th
 
 Police officers dressed in swat gear threw a tear gas container at peaceful protestors.
+
+tags: tear-gas, pepper-spray
 
 id: in-fortwayne-2
 
@@ -20,9 +26,12 @@ id: in-fortwayne-2
 
 * https://twitter.com/blazedyukhei/status/1266533569029177346
 
-### Toddler teargassed by police | May 30th
 
-A toddler and her mother were driving through downtown and had to leave their car due to tear gas in the road. The toddler was then teargassed twice about ten minutes apart.
+### Toddler tear-gassed by police | May 30th
+
+A toddler and her mother were driving through downtown and had to leave their car due to tear gas in the road. The toddler was then tear-gassed twice about ten minutes apart.
+
+tags: tear-gas, child
 
 id: in-fortwayne-3
 
@@ -30,9 +39,12 @@ id: in-fortwayne-3
 
 * https://wpta21.com/2020/05/31/toddler-tear-gassed-photo-goes-viral/#.XtUVqwf8OnF.facebook
 
-### Protester hit in the face with a gas cannister | May 31st
 
-A FWPD Officer fired a tear gas cannister on protestors face. He has allegedly been permanently blinded in that eye.
+### Protester hit in the face with a gas canister | May 31st
+
+A FWPD Officer fired a tear gas canister on protestors face. He has allegedly been permanently blinded in that eye.
+
+tags: tear-gas, tear-gas-canister
 
 id: in-fortwayne-4
 
@@ -42,23 +54,29 @@ id: in-fortwayne-4
 * https://twitter.com/notbalin/status/1266972999296704513
 * https://mobile.twitter.com/chadloder/status/1267279165230743553/photo/2
 
+
 ## Indianapolis
 
 ### Police confiscate medical supplies from medical station | May 29th
 
 Police confiscate medical supplies from a medical station at Monument Circle.
 
-id: in-indianapolis-5
+tags: medic, property-destruction
+
+id: in-indianapolis-1
 
 **Links**
 
 * https://www.facebook.com/AlexandraIndy/videos/10219444419838711
 
+
 ### Police beat woman with batons and shoot pepper balls, shove another to the ground | June 1st
 
 A woman is seen being restrained by a police officer who stands behind her with his arms around her torso. She struggles with the officer and breaks free, after which she is repeatedly beaten on the thighs with batons and shot with what appear to be pepper balls by officers shouting "Get on the ground!" while she is standing still. Another woman walks towards the officers with her hands out, seeming to plead for restraint but not directly interfering. An officer yells at her to "Back up!" and then violently shoves her to the ground.
 
-id: in-indianapolis-6
+tags: beat, shot, strike, baton, pepper-ball, arrest, inhumane-treatment, shove
+
+id: in-indianapolis-2
 
 **Links**
 
@@ -66,13 +84,16 @@ id: in-indianapolis-6
 * https://www.reddit.com/r/PublicFreakout/comments/guffju/indianapolis_police_on_women_rights/
 * https://twitter.com/greg_doucette/status/1268391718086422528
 
+
 ## Lafayette
 
 ### Officer drops tear gas into peaceful protest without warning | Possibly May 31st
 
 In this video, protestors are chanting peacefully when an officer drops tear gas on them with no warning.
 
-id: in-lafayette-7
+tags: tear-gas, tear-gas-canister
+
+id: in-lafayette-1
 
 **Links**
 
