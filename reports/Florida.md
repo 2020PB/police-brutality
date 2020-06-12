@@ -117,19 +117,7 @@ id: fl-tampa-3
 
 **Links**
 
-* https://twitter.com/greg_doucette/status/1268765759783796736
-
-### Police kneel on protestor's neck to make arrest | June 5th
-
-Supercut video from June 5th shows police arresting a protestor while kneeling on the protestor's kneck. Other officers spray surrounding area with pepper spray.
-
-tags: pepper-spray, spray, arrest, knee, knee-on-neck
-
-id: fl-tampa-4
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268765759783796736
+* [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
 
 ### Police fire rubber bullets at protestors | June 5th
 
@@ -141,22 +129,22 @@ Video also includes a bleeding eyewitness describing events.
 
 tags: rubber-bullets, shoot
 
-id: fl-tampa-5
+id: fl-tampa-4
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268765546662805505
-* https://twitter.com/greg_doucette/status/1268765759783796736
+* [Timestamps: 00:00-00:30, 00:38-00:45](https://twitter.com/greg_doucette/status/1268765759783796736)
 
 ### Police fire on medic | June 5th
 
 Video shows a medic treating another woman for a bleeding wound to her head. The filmer says the medic is her sister and a nurse; the filmer claims to be an Air Force medic. She states that the injured woman was struck by a less-than-lethal round. At the end of the video, the filmer says, "Here they come." She and her sister hurry to move the injured woman as shots are heard.
 
-tags: shoot, projectile, rubber-bullets
+tags: shoot, projectile, rubber-bullets, medic
 
 id: fl-tampa-6
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1270491699832401920
-* https://twitter.com/greg_doucette/status/1268765759783796736
+* [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
