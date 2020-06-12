@@ -6,10 +6,12 @@ baton
 beanbags
 beat
 bike
+body-cam
 celebrity
 child
 choke
 conceal
+death
 drive
 elderly
 explosive
@@ -23,9 +25,11 @@ journalist
 kick
 knee
 knee-on-neck
+lgbtq+
 mace
 marking-rounds
 medic
+paintball
 pepper-ball
 pepper-spray
 policecar
@@ -35,6 +39,7 @@ property-destruction
 projectiles
 push
 punch
+racial-profiling
 real-bullets
 rubber-bullets
 shield
@@ -61,9 +66,11 @@ celebrity
 child
 elderly
 journalist
+lgbtq+
 medic
 politician
 pregnant
+racial-profiling
 ```
 
 ### Weapon
@@ -80,6 +87,7 @@ kick
 knee-on-neck
 mace
 marking-rounds
+paintball
 pepper-ball
 pepper-spray
 policecar
@@ -116,4 +124,11 @@ tackle
 taze
 threaten
 throw
+```
+
+### Misc
+
+```
+body-cam
+death
 ```
