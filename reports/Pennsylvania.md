@@ -123,7 +123,7 @@ id: pa-philadelphia-5
 
 Police shove a group of protestors. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
-tags: shove, batonm strike, beat
+tags: shove, baton, strike, beat
 
 id: pa-philadelphia-7
 
