@@ -4,6 +4,8 @@
 
 Person standing with hands up struck in chest by projectile; a second projectile is fired shortly after person is struck by the first.
 
+tags: projectile, shoot
+
 id: ok-oklahomacity-1
 
 **Links**
@@ -13,6 +15,8 @@ id: ok-oklahomacity-1
 ### Law enforcement uses tear-gas several times | May 30th
 
 Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protestors that are standing. 
+
+tags: tear-gas
 
 id: ok-oklahomacity-2
 
