@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:57:57.393461+00:00
+UPDATED AT: 2020-06-12T19:58:56.995194+00:00
 
 
 # Alabama
@@ -4246,7 +4246,9 @@ id: tbd-tbd-2
 
 ### Police shove an old man with a cane to the ground | May 30th
 
-The old man was shoved and pushed by the police, which led him to hit the railing and collapse
+The old man was shoved and pushed by the police, which led him to hit the railing and collapse.
+
+tags: elderly, push, shove, shields
 
 id: ut-saltlakecity-1
 
@@ -4256,7 +4258,9 @@ id: ut-saltlakecity-1
 
 ### Police shoot man on the ground in the spine with a beanbag point-blank | May 30th
 
-The man on the ground was shot with a beanbag, resulting in heavy damage
+The man on the ground was shot with a beanbag, resulting in heavy damage.
+
+tags: shot, beanbags
 
 id: ut-saltlakecity-2
 
@@ -4269,6 +4273,8 @@ id: ut-saltlakecity-2
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
 
+tags: tear-gas, shoot, tear-gas-canister
+
 id: ut-saltlakecity-4
 
 **Links**
@@ -4280,6 +4286,8 @@ id: ut-saltlakecity-4
 ### Police push and tackle man that is being vocal | June 1st
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
+
+tags: push, tackle, arrest, beat, knee
 
 id: ut-saltlakecity-3
 
