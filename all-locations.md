@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T20:00:12.360468+00:00
+UPDATED AT: 2020-06-12T20:02:05.082185+00:00
 
 
 # Alabama
@@ -1405,7 +1405,7 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
-tags: celebrity, beat, strike, batons
+tags: politician, beat, strike, batons
 
 id: il-chicago-6
 
