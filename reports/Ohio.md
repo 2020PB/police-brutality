@@ -28,9 +28,11 @@ id: oh-canton-1
 
 ## Cincinnati
 
-### Police disperse peaceful protest with tear gas, flash bangs and pepper bullets | May 30th
+### Police disperse peaceful protest with tear gas, flashbangs and pepper bullets | May 30th
 
-A peaceful protest was dispersed with tear gas and flash bangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
+A peaceful protest was dispersed with tear gas and flashbangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
+
+tags: pepper-bullet, tear-gas, flashbangs, shoot
 
 id: oh-cincinnati-1
 
@@ -41,7 +43,9 @@ id: oh-cincinnati-1
 
 ### First hand account of police violently dispersing crowds | May 31st
 
-This account describes police firing teargas at protestors and beating them 30 minutes before curfew.
+This account describes police firing tear gas at protestors and beating them 30 minutes before curfew.
+
+tags: tear-gas, beat
 
 id: oh-cincinnati-2
 
@@ -53,6 +57,8 @@ id: oh-cincinnati-2
 ### Police arrest reporter and force him to ground, grab another reporter | June 1st
 
 Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
+
+tags: journalist, arrest, shov, grab
 
 **Links**
 
@@ -67,6 +73,8 @@ id: oh-cincinnati-3
 
 Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back.
 
+tags: arrest, beat, baton
+
 id: oh-cleveland-1
 
 **Links**
@@ -77,6 +85,8 @@ id: oh-cleveland-1
 ### Police fire tear gas at peaceful protest | May 30th
 
 Without warning, police fire tear gas at peaceful protestors.
+
+tags: tear-gas
 
 id: oh-cleveland-2
 
@@ -91,6 +101,8 @@ Twitter user who relays Cleveland police scanner says transmission went over rad
 
 Additional footage shows a street medic patching a wound in the back of a protestor. The description of this footage states that police were aiming at the crowd.
 
+tags: medic, rubber-bullets, shoot
+
 id: oh-cleveland-3
 
 **Links**
@@ -104,7 +116,9 @@ id: oh-cleveland-3
 
 ### Cop hits a protestor in the face, escalates to whole crowd being pepper sprayed | May 29th
 
-A cop hits a protestor in the face. Then a different cop pepper-sprays the person hit and the people around them. It escalates to a lot of cops pepper-spraying the larger surronding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
+A cop hits a protestor in the face. Then a different cop pepper-sprays the person hit, as well as nerby protestors. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
+
+tags: strike, pepper-spray, spray, arrest
 
 id: oh-columbus-1
 
@@ -116,6 +130,8 @@ id: oh-columbus-1
 ### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | May 30th
 
 Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
+
+tags: politician, mace, pepper-spray, spray
 
 id: oh-columbus-2
 
@@ -129,7 +145,9 @@ id: oh-columbus-2
 
 ### Peaceful protester sprayed in the face with mace | May 30th
 
-Seemingly without warning a protester simply holding a sign was maced in the face.
+Seemingly without warning, a protester holding a sign was maced in the face.
+
+tags: mace, pepper-spray, spray
 
 id: oh-columbus-3
 
@@ -140,7 +158,9 @@ id: oh-columbus-3
 
 ### Police pepperspray protesters for chanting | May 30th
 
-Unarmed protestors peacefully chanting when an officer starts randomly pepperspraying them.
+Unarmed protestors peacefully chanting when an officer starts randomly pepper-spraying them.
+
+tags: pepper-spray, spray
 
 id: oh-columbus-4
 
@@ -152,6 +172,8 @@ id: oh-columbus-4
 ### Officer chases reporter and pepper sprays her | May 30th
 
 A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times.
+
+tags: journalist, threaten, pepper-spray, spray
 
 id: oh-columbus-15
 
@@ -165,6 +187,8 @@ id: oh-columbus-15
 
 Police point blank pepper spray a medic who was tending to a protestor
 
+tags: medic, pepper-spray, spray
+
 id: oh-columbus-5
 
 **Links**
@@ -176,6 +200,8 @@ id: oh-columbus-5
 
 Police pepper spray a woman who was walking away from the confrontation
 
+tags: mace, pepper-spray, spray
+
 id: oh-columbus-6
 
 **Links**
@@ -186,6 +212,8 @@ id: oh-columbus-6
 ### Police intimidating campus protesters by driving car towards them | May 31st
 
 Police drive their car towards protestors in order to disperse them
+
+tags: vehicle, drive
 
 id: oh-columbus-7
 
@@ -199,6 +227,8 @@ Location:  Intersection of E Broad Street and S Grant Avenue
 
 Two protesters are kneeling in a crosswalk across the intersection from a line of police. A police officer walks over and pepper sprays them.
 
+tags: pepper-spray, spray
+
 id: oh-columbus-8
 
 **Links**
@@ -211,6 +241,8 @@ id: oh-columbus-8
 
 Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
 
+tags: journalist, pepper-spray, spray
+
 id: oh-columbus-9
 
 **Links**
@@ -220,9 +252,11 @@ id: oh-columbus-9
 * https://www.instagram.com/p/CA03DsTByLn/
 
 
-### Police pepperspray sitting protesters | May 31st
+### Police pepper spray sitting protesters | May 31st
 
-Police pepperspraying peaceful unarmed protestors as they sit on the ground.
+Police pepper spraying peaceful unarmed protestors as they sit on the ground.
+
+tags: pepper-spray, spray
 
 id: oh-columbus-10
 
@@ -235,6 +269,8 @@ id: oh-columbus-10
 
 A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
 
+tags: rubber-bullets, shoot
+
 id: oh-columbus-11
 
 **Links**
@@ -246,6 +282,8 @@ id: oh-columbus-11
 ### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours | May 31st-June 1st
 
 A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
+
+tags: arrest, inhumane-treatment
 
 id: oh-columbus-12
 
@@ -261,6 +299,8 @@ Location: Starbucks at the intersection of Lane Avenue and North High Street
 
 Three reporters repeatedly tell police that they are members of the press and show their passes. Reporters are exempt from curfew but the police instruct them to leave regardless, then spray the Lantern reporters with pepper spray.
 
+tags: journalist, pepper-spray, spray, push, shove
+
 id: oh-columbus-13
 
 **Links**
@@ -273,6 +313,8 @@ id: oh-columbus-13
 ### Officer refuses to give diabetic arrestee her insulin back | June 2nd
 
 Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+
+tags: arrest, inhumane-treatment
 
 id: oh-columbus-14
 
