@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:51:15.735240+00:00
+UPDATED AT: 2020-06-12T19:51:37.483566+00:00
 
 
 # Alabama
@@ -3555,6 +3555,8 @@ id: oh-toledo-1
 
 Person standing with hands up struck in chest by projectile; a second projectile is fired shortly after person is struck by the first.
 
+tags: projectile, shoot
+
 id: ok-oklahomacity-1
 
 **Links**
@@ -3564,6 +3566,8 @@ id: ok-oklahomacity-1
 ### Law enforcement uses tear-gas several times | May 30th
 
 Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protestors that are standing. 
+
+tags: tear-gas
 
 id: ok-oklahomacity-2
 
