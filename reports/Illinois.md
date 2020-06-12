@@ -86,7 +86,7 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
-tags: celebrity, beat, strike, batons
+tags: politician, beat, strike, batons
 
 id: il-chicago-6
 
