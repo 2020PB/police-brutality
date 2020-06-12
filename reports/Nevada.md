@@ -4,6 +4,8 @@
 
 Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
+tags: arrest
+
 id: nv-lasvegas-3
 
 **Links**
@@ -14,6 +16,8 @@ id: nv-lasvegas-3
 ### Police shove numerous protestors to the ground | May 29th
 
 Officer line begins to advance towards protestors, shoving numerous protestors to the ground as they do.
+
+tags: shove, throw, strike
 
 id: nv-lasvegas-4
 
@@ -26,6 +30,8 @@ id: nv-lasvegas-4
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
 
+tags: arrest, inhumane-treatment
+
 id: nv-lasvegas-1
 
 **Links**
@@ -37,6 +43,8 @@ id: nv-lasvegas-1
 ### Police charge into peaceful crowd shouting "grab anybody" | June 1st
 
 LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
+
+tags: journalist, threaten, arrest, strike, shove, kick
 
 id: nv-lasvegas-2
 
