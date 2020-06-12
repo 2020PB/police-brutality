@@ -4,10 +4,27 @@
 
 Police tell protestors blocking road to disperse and then immediately use tear gas on them. 
 
+tags: tear-gas
+
 id: oh-beavercreek-1
 
 **Links**
 * [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
+
+## Canton
+
+### Police spray mace, fire tear gas and flashbangs at protestors, even after they have dispersed | May 29th
+
+Police warn protestors blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flashbangs, and mace, even after protestors are out of the roadway. In part 2 of the video at 7:58, one of the used flashbang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
+
+tags: pepper-spray, flashbangs, tear-gas
+
+id: oh-canton-1
+
+**Links**
+* [Part 1, starts around 37:00](https://www.facebook.com/dustin.j.teeters/videos/10157947506156001/)
+* [Part 2](https://www.facebook.com/dustin.j.teeters/videos/10157947685856001/)
+* [Images](https://twitter.com/lizardvacuum/status/1266549605128450048)
 
 ## Cincinnati
 
@@ -265,3 +282,30 @@ id: oh-columbus-14
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
 
+## Dayton
+
+### Police fire multiple cans of tear gas at protestors | May 30th
+
+Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protestors grabbed the cans and threw them back toward the police. The protestors mostly disperse, but once the gas clears they return. The police then fire more tear gas. 
+
+tags: tear-gas
+
+id: oh-dayton-1
+
+**Links**
+* [Tear gas at 18:20 and 34:00](https://www.facebook.com/daytondailynews/videos/276588847040795)
+
+## Toledo
+
+### Police use tear gas on protestors | May 30th
+
+Around 7:30pm, the police used tear gas on protestors after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protestors. Later, in the second video, the police use tear gas on the protestors shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
+
+tags: tear-gas, rubber-bullets
+
+id: oh-toledo-1
+
+**Links**
+* [Starts around 19:00](https://www.facebook.com/thetoledoblade/videos/2407373416227629)
+* [Starts at 11:15](https://www.facebook.com/thetoledoblade/videos/745938859545308)
+* [The Blade news article](https://www.toledoblade.com/local/community-events/2020/05/30/protests-in-toledo-over-george-floyd-s-death/stories/20200530079)
