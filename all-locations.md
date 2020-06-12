@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T02:10:45.046454+00:00
+UPDATED AT: 2020-06-12T02:11:34.303885+00:00
 
 
 # Alabama
@@ -2474,6 +2474,8 @@ Two police officers shove an unarmed, elderly man ([reportedly 75 years old](htt
 
 Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved.
 
+The man suffered brain damage and has begun physical therapy.
+
 Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
 
 id: ny-buffalo-2
@@ -2485,6 +2487,7 @@ id: ny-buffalo-2
 * https://www.facebook.com/watch/?ref=external&v=2489206818056597
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 * https://www.reddit.com/r/PublicFreakout/comments/gwv7k4/just_about_an_hour_ago_police_officers_shove_man/fsxfeb3/
+* https://www.nbcnewyork.com/news/local/75-year-old-buffalo-protester-hospitalized-after-cop-shove-suffered-brain-injury-lawyer/2457512/
 
 
 ### Reporter shot at after identifying himself | June 5th
