@@ -117,26 +117,17 @@ id: mn-minneapolis-17
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
 * [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
-### Photo of bruise on a reporter. | May 30th
-
-CBS reporter was shot with rubber bullets by police, linked photo shows a bruise on his arm.
-
-id: mn-minneapolis-23
-
-**Links** 
-
-* https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
-
-
 ### CBS crew fired upon by police. | May 30th
 
-A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters, police did not give even a warning.
+A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
 
-id: mn-minneapolis-24
+id: mn-minneapolis-23
 
 **Links**
 
 * https://twitter.com/MikeGeorgeCBS/status/1267087091122528256
+* https://twitter.com/MikeGeorgeCBS/status/1266919447970942986
+* https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
 
 
 ### Police shoot at a woman on her porch | May 31st
