@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:43:57.920003+00:00
+UPDATED AT: 2020-06-12T19:44:19.032631+00:00
 
 
 # Alabama
@@ -2536,6 +2536,8 @@ id: mo-stlouis-1
 
 A bunch of protesters peacefully sitting on the ground were shot at and maced. A group of police officers pushed these civilians on to the ground and hit them.
 
+tags: mace, spray, pepper-bullets
+
 id: ne-omaha-1
 
 **Links**
@@ -2546,6 +2548,8 @@ id: ne-omaha-1
 ### Peaceful protestors arrested for breaking curfew | June 1
 
 Omaha law enforcement officer kicks protester already on the ground. Another officer carries a reporter away from the scene.
+
+tags: journalist, kick, arrest
 
 id: ne-omaha-2
 
