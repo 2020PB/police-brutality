@@ -4,6 +4,8 @@
 
 The old man was shoved and pushed by the police, which led him to hit the railing and collapse
 
+tags: elderly, push, shove, shields
+
 id: ut-saltlakecity-1
 
 **Links**
@@ -13,6 +15,8 @@ id: ut-saltlakecity-1
 ### Police shoot man on the ground in the spine with a beanbag point-blank | May 30th
 
 The man on the ground was shot with a beanbag, resulting in heavy damage
+
+tags: shot, beanbags
 
 id: ut-saltlakecity-2
 
@@ -25,6 +29,8 @@ id: ut-saltlakecity-2
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
 
+tags: tear-gas, shoot, tear-gas-canister
+
 id: ut-saltlakecity-4
 
 **Links**
@@ -36,6 +42,8 @@ id: ut-saltlakecity-4
 ### Police push and tackle man that is being vocal | June 1st
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
+
+tags: push, tackle, arrest, beat, knee
 
 id: ut-saltlakecity-3
 
