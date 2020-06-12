@@ -4,6 +4,8 @@
 
 A protestor was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
 
+tags: arrest, beat, knee-on-neck
+
 id: il-chicago-1
 
 **Links**
@@ -15,6 +17,8 @@ id: il-chicago-1
 
 Images of a protester who was shot with a rubber bullet in the head.
 
+tags: rubber-bullets
+
 id: il-chicago-2
 
 **Links**
@@ -22,9 +26,11 @@ id: il-chicago-2
 *  https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
-### Police pepperspray reporter for recording | May 30th
+### Police pepper-spray reporter for recording | May 30th
 
-Police pepperspray reporter holding press pass and yelling press.
+Police pepper-spray reporter holding press pass and yelling press.
+
+tags: pepper-spray, spray, journalist
 
 id: il-chicago-5
 
@@ -37,6 +43,8 @@ id: il-chicago-5
 
 The video shows fficers standing in line, all missing the badges from their uniforms. The video poster, in the comments of the post, states that the officers took off their badges and then pushed protesters down the stairs and swung batons at them.
 
+tags: hide-badges, push, shove, batons
+
 id: il-chicago-11
 
 **Links**
@@ -48,6 +56,8 @@ id: il-chicago-11
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
+tags: celebrity, batons
+
 id: il-chicago-3
 
 **Links**
@@ -58,6 +68,8 @@ id: il-chicago-3
 ### Police pull black women out of the car and throw them to the ground | May 31st
 
 Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive).
+
+tags: shove
 
 id: il-chicago-4
 
@@ -74,6 +86,8 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
+tags: celebrity, beat, strike, batons
+
 id: il-chicago-6
 
 **Links**
@@ -85,6 +99,8 @@ id: il-chicago-6
 
 In this still photo, the officer's ID number on their vest is covered with duct tape.
 
+tags: hide-badges
+
 id: il-chicago-10
 
 **Links**
@@ -95,6 +111,8 @@ id: il-chicago-10
 ### Officers are missing badges | May 31st
 
 Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
+
+tags: hide-badges
 
 id: il-chicago-13
 
@@ -109,6 +127,8 @@ id: il-chicago-13
 
 CPD officer chasing down and punching a protestor who was walking away.
 
+tags: punch
+
 id: il-chicago-7
 
 **Links**
@@ -119,6 +139,8 @@ id: il-chicago-7
 ### CPD chase down protester on TV | June 1st
 
 Police chase protester and attack him on the ground while on live TV.
+
+tags: beat, shove, throw, batons
 
 id: il-chicago-8
 
@@ -131,6 +153,8 @@ id: il-chicago-8
 
 A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall.
 
+tags: shove, threaten
+
 id: il-chicago-12
 
 **Links**
@@ -141,6 +165,8 @@ id: il-chicago-12
 ### Police hit several protesters with batons | (Believed to be) June 3rd
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
+
+tags: shove, throw, punch, beat, baton
 
 id: il-chicago-9
 
@@ -154,6 +180,8 @@ id: il-chicago-9
 ### Officers grabs someone by the neck then more cops pile on | May 31st
 
 Protestors arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
+
+tags: beat, shove, throw, neck
 
 id: il-joliet-1
 
