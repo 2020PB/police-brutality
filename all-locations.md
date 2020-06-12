@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T19:42:04.659602+00:00
+UPDATED AT: 2020-06-12T19:43:57.920003+00:00
 
 
 # Alabama
@@ -2432,6 +2432,8 @@ id: mn-minneapolis-19
 
 ### Police pepper spray and arrest protestor holding sign | May 30th
 
+tags: pepper-spray, spray, arrest
+
 id: mo-kansascity-5
 
 **Links**
@@ -2443,6 +2445,8 @@ id: mo-kansascity-5
 ### Police pepper spray protestors walking away and later arrest one of them | May 31st
 
 A video linked shows the police pepper spraying some protestors who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
+
+tags: pepper-spray, spray, arrest
 
 id: mo-kansascity-6
 
@@ -2456,6 +2460,8 @@ id: mo-kansascity-6
 
 Video shows the police tear gassing an entire park, including one baby in Kansas City.
 
+tags: child, tear-gas
+
 id: mo-kansascity-1
 
 **Links**
@@ -2463,6 +2469,8 @@ id: mo-kansascity-1
 
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
+
+tags: arrest, tear-gas
 
 id: mo-kansascity-2
 
@@ -2472,9 +2480,11 @@ id: mo-kansascity-2
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
 
 
-### Police arrest man for speaking and teargas nearby protestors | June 1st
+### Police arrest man for speaking and tear-gas nearby protestors | June 1st
 
 A line of police stand well apart from a crowd of protestors, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
+
+tags: pepper-spray, spray, tear-gas, arrest, shove
 
 id: mo-kansascity-3
 
@@ -2487,6 +2497,8 @@ id: mo-kansascity-3
 ### Police pull away protestor and pepper sprays others | June 1st
 
 A police officer pulls away a protestor standing still. When others come to the protestor's aid they are pepper sprayed.
+
+tags: grab, spray, pepper-spray
 
 id: mo-kansascity-4
 
@@ -2501,6 +2513,10 @@ id: mo-kansascity-4
 ### Florissant officer hits man with unmarked police vehicle | June 2nd
 
 A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm. 
+
+Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time.
+
+tags: vehivle, drive, kick, strike, beat, body-cam
 
 id: mo-stlouis-1
 
