@@ -354,7 +354,7 @@ id: ca-losangeles-1
 
 Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless man in a wheelchair.
 
-tags: shoot, projectile
+tags: shoot, projectile, homeless
 
 id: ca-losangeles-18
 
