@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T02:11:34.303885+00:00
+UPDATED AT: 2020-06-12T02:18:29.859024+00:00
 
 
 # Alabama
@@ -1610,6 +1610,8 @@ id: in-lafayette-1
 
 Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown. 
 
+tags: tear-gas, mace, spray
+
 id: ia-desmoines-2
 
 **Links**
@@ -1619,7 +1621,9 @@ id: ia-desmoines-2
 
 ### Police truck shoots at cars, hitting mother and breaking her finger | May 30th
 
-Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure"
+Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure." A woman's phone is destroyed by a police round.
+
+tags: rubber-bullets, tear-gas, shoot, property-destruction
 
 id: ia-desmoines-3
 
@@ -1634,6 +1638,8 @@ id: ia-desmoines-3
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
+tags: journalist, arrest, pepper-spray, spray
+
 id: ia-desmoines-7
 
 **Links**
@@ -1645,6 +1651,8 @@ id: ia-desmoines-7
 ### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | June 1st
 
 Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye. 
+
+tags: journalist, pepper-spray, spray
 
 id: ia-desmoines-4
 
@@ -1658,6 +1666,8 @@ id: ia-desmoines-4
 
 Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
 
+tags: threaten, arrest, shove, pepper-spray, spray
+
 id: ia-desmoines-1
 
 **Links**
@@ -1669,6 +1679,8 @@ id: ia-desmoines-1
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
 
+tags: arrest, racial-profiling
+
 id: ia-desmoines-6
 
 **Links**
@@ -1679,6 +1691,8 @@ id: ia-desmoines-6
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
 
 "Des Moines police approached The Blazing Saddle, a gay bar in Des Moines’ East Village neighborhood, and searched the premises — apparently without a warrant. Video from a security camera made public on Facebook shows officers in riot gear converging suddenly on the bar at approximately 11:45 p.m. and detaining those gathered outside." - The Iowa Inquirer
+
+tags: arrest, lgbtq+
 
 id: ia-desmoines-5
 
@@ -1695,6 +1709,8 @@ id: ia-desmoines-5
 ### Police shoot tear gas at peaceful protestors who have their hands up | June 3rd
 
 Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
+
+tags: tear-gas
 
 id: ia-iowacity-1
 
