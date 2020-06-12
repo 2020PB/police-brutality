@@ -4,6 +4,8 @@
 
 On May 29th, an officer slams a woman on to the ground, breaking her clavicle. The incident took place near Lenox Square mall in the Buckhead area of Atlanta.
 
+tags: tackle, throw, shove
+
 id: ga-atlanta-1
 
 **Links**
@@ -15,6 +17,8 @@ id: ga-atlanta-1
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
+tags: shove
+
 id: ga-atlanta-2
 
 **Links**
@@ -23,9 +27,11 @@ id: ga-atlanta-2
 * https://twitter.com/Brittm_tv/status/1266497944796225538
 
 
-### Cops pull people out of their car, taze them | May 30th
+### Cops pull people out of their car, tase them | May 30th
 
-Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to taze her.
+Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
+
+tags: tase
 
 id: ga-atlanta-3
 
@@ -42,6 +48,8 @@ id: ga-atlanta-3
 
 Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
 
+tags: punch, strike, arrest, knee
+
 id: ga-atlanta-4
 
 **Links**
@@ -53,6 +61,8 @@ id: ga-atlanta-4
 
 A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.  
 
+tags: journalist, tackle, arrest
+
 id: ga-atlanta-5
 
 **Links**
@@ -63,7 +73,9 @@ id: ga-atlanta-5
 
 ### Police shove and shoot protesters | May 31st
 
-Police shove and shoot protesters; one man shot in the head, he is seen being carried away unconscious.
+Police shove and shoot protesters with rubber bullets. One man is shot in the head; he is seen being carried away unconscious.
+
+tags: shoot, shove, rubber-bullets
 
 id: ga-atlanta-6
 
@@ -77,6 +89,8 @@ id: ga-atlanta-6
 ### Man tased in back for speaking up after man on ground is punched in face by cop | May 30th
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
+
+tags: punch, tase
 
 id: ga-lawrenceville-1
 
