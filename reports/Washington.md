@@ -210,6 +210,7 @@ id: wa-seattle-14
 * https://imgur.com/a/fWkU0SA
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
 
+
 ### Additional Seattle OPA Case Numbers
 
 * 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"
