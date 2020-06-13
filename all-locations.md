@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-13T02:07:36.476017+00:00
+UPDATED AT: 2020-06-13T02:17:25.103110+00:00
 
 
 # Alabama
@@ -2174,6 +2174,16 @@ A group of cops start to approach a group of press taking photos and video. One 
 tags: journalist, baton, beat, strike
 
 id: mn-minneapolis-21
+
+### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | May 26th
+
+Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
+
+id: mn-minneapolis-28
+
+**Links**
+
+* https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/?multi_permalinks=2673458852933816%2C2673043962975305%2C2672351053044596%2C2672352373044464%2C2672353659711002&notif_id=1590031733032682&notif_t=group_activity
 
 **Links**
 
