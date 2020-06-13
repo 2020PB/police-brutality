@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-12T20:05:23.130079+00:00
+UPDATED AT: 2020-06-13T02:07:36.476017+00:00
 
 
 # Alabama
@@ -1197,7 +1197,9 @@ id: fl-orlando-2
 
 Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer. They end up using tear-gas on the crowd.
 
-tags: tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas
+Additional footage states the woman in a purple shirt is a minor.
+
+tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas
 
 id: fl-tampa-1
 
@@ -1207,6 +1209,61 @@ id: fl-tampa-1
 * https://twitter.com/jamiebullockk/status/1268658254806163460
 * https://twitter.com/InesseC/status/1268912900565094401
 * [Location on Google Street View](https://www.google.com/maps/@27.9563654,-82.4569108,3a,75y,255.48h,92.17t/data=!3m6!1e1!3m4!1sVIFVQFp3QMX517HfhvNfbg!2e0!7i16384!8i8192)
+* https://twitter.com/Psychedelicgigi/status/1268740374903894016
+* https://twitter.com/drewthehouse/status/1268713991230062593
+
+### Police fire tear gas at peaceful protest | June 4th
+
+Police fire tear gas at peaceful protestors, while simultaneously ordering protestors to lie down, forcing them to remain in the immediate area.
+
+tags: tear-gas, arrest
+
+id: fl-tampa-2
+
+**Links**
+* https://twitter.com/greg_doucette/status/1268694786485166081
+
+### Police pepper-spray police from protest | June 5th
+
+Supercut video from June 5th shows multiple incidents where police sprayed peaceful protestors, including protestors attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protestors before spraying
+
+tags: pepper-spray, spray
+
+id: fl-tampa-3
+
+**Links**
+
+* [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
+
+### Police fire rubber bullets at protestors | June 5th
+
+Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protestors.
+
+Incidents include firing at peaceful protestors, fleeing protestors and medics. 
+
+Video also includes a bleeding eyewitness describing events.
+
+tags: rubber-bullets, shoot
+
+id: fl-tampa-4
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268765546662805505
+* [Timestamps: 00:00-00:30, 00:38-00:45](https://twitter.com/greg_doucette/status/1268765759783796736)
+
+### Police fire on medic | June 5th
+
+Video shows a medic treating another woman for a bleeding wound to her head. The filmer says the medic is her sister and a nurse; the filmer claims to be an Air Force medic. She states that the injured woman was struck by a less-than-lethal round. At the end of the video, the filmer says, "Here they come." She and her sister hurry to move the injured woman as shots are heard.
+
+tags: shoot, projectile, rubber-bullets, medic
+
+id: fl-tampa-6
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1270491699832401920
+* [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
 
 
 
