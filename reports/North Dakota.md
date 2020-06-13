@@ -4,6 +4,8 @@
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
 
+tags: racial-profiling, arrest, shove, push
+
 id: nd-fargo-1
 
 **Links**

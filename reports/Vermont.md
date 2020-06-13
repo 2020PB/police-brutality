@@ -4,6 +4,8 @@
 
 Police shove a protesting woman down a set of concrete steps.
 
+tags: shove, arrest, push
+
 id: vt-stjohnsbury-1
 
 **Links**

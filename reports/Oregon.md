@@ -6,6 +6,8 @@ An officer shoots a projectile out of a moving vehicle, striking pedestrian near
 
 This incident took place at in Eugene, OR. Specific area not identified.
 
+tags: shoot, projectile, vehicle
+
 id: or-eugene-1
 
 **Links**
@@ -20,17 +22,21 @@ id: or-eugene-1
 
 The Police try to break up the peaceful protest by resorting to hitting individuals with batons.
 
+tags: beat, strike, baton
+
 id: or-portland-1
 
 **Links**
 
-* https://twitter.com/IwriteOK/status/1266907719635632129 Timestamp: 18:46
+* [Timestamp: 18:46](https://twitter.com/IwriteOK/status/1266907719635632129)
 * https://twitter.com/MrOlmos/status/1266916861267996673
 
 
 ### Officer pepper-sprays protestor | May 30th
 
 An officer shoves and pepper-sprays a protestor standing on the other side of a barrier.
+
+tags: shove, pepper-spray, spray
 
 id: or-portland-2
 
@@ -43,6 +49,8 @@ id: or-portland-2
 
 Actual deployment of tear-gas not shown. Video shows what appears to be a cloud of tear-gas over several tents. The camera thens pans to show 5 cops walking away
 
+tags: tear-gas, homeless
+
 id: or-portland-3
 
 **Links**
@@ -50,9 +58,11 @@ id: or-portland-3
 * https://twitter.com/AstuteAF/status/1268125169890938882
 
 
-### Police deploy shoot teargas/flashbang grenade into a crowd | June 2nd
+### Police shoot tear gas/flashbang grenade into a crowd | June 2nd
 
-Police shoot about a dozen teargas or flashbang grenades into a crowd from quite a distance.
+Police shoot about a dozen tear gas or flashbang grenades into a crowd from quite a distance.
+
+tags: tear-gas, flashbangs, shoot
 
 id: or-portland-4
 
@@ -61,9 +71,11 @@ id: or-portland-4
 * https://twitter.com/matcha_chai/status/1268043556913987584
 
 
-### Police launch teargas into a crowd | June 2nd
+### Police launch tear gas into a crowd | June 2nd
 
-Police deploy flashbangs and teargas into a crowd.
+Police deploy flashbangs and tear gas into a crowd.
+
+tags: tear-gas, flashbangs, shoot
 
 id: or-portland-5
 
@@ -76,6 +88,8 @@ id: or-portland-5
 
 A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.
 
+tags: baton, strike, beat, pepper-spray, spray
+
 id: or-portland-6
 
 **Links**
@@ -83,3 +97,4 @@ id: or-portland-6
 * https://twitter.com/chadloder/status/1269526243138928642
 * https://twitter.com/TVAyyyy/status/1269526590456643584
 * https://twitter.com/DonovanFarley/status/1269701897377603584
+* https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
