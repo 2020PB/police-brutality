@@ -50,6 +50,22 @@ id: ny-buffalo-3
 *  https://twitter.com/PhotoJazzy/status/1269056626843099137
 
 
+## East Meadow
+
+### Police officer stops abrubtly so protestor bumps into him; police arrest him after this | June 13th
+
+A protestor is seen walk side-by-side with an officer. The officer steps in front of him and stops such that the protestor lightly grazes the officer.
+
+Numerous police officers then throw the man to the ground and kneel on his neck to make the arrest.
+
+tags: arrest, shove, push, knee, knee-on-neck, throw, tackle
+
+id: ny-eastmeadow-1
+
+**Links**
+
+* https://twitter.com/RexChapman/status/1271832001364979716
+
 ## New York City
 
 
