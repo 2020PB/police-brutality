@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-14T01:14:28.033165+00:00
+UPDATED AT: 2020-06-14T03:12:16.963848+00:00
 
 
 # Alabama
@@ -3147,9 +3147,24 @@ id: ny-rochester-1
 
 ## Asheville
 
+### Police fire tear gas and rubber bullets at protestors | May 31st
+
+According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protestors attempted to shield them from harm.
+
+tags: child, tear-gas, rubber-bullets, shoot
+
+id: nc-asheville-2
+
+**Links**
+
+* https://www.wyff4.com/article/tear-gas-rubber-bullets-reported-at-asheville-protest/32725369
+* https://www.citizen-times.com/story/news/local/2020/05/31/bowen-bridge-shut-down-protesters-block-highway/5304001002/
+
 ### Police surround approved medical station and destroy supplies | June 2nd
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
+
+Additional investigation found the station was on private property and conducted with approval from the property owner.
 
 tags: medic, property-destruction
 
@@ -3161,6 +3176,21 @@ id: nc-asheville-1
 *  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
 *  https://twitter.com/daveth89/status/1267974555332685824
 *  https://i.redd.it/wofh339sqr251.png
+*  https://www.usatoday.com/story/news/factcheck/2020/06/03/george-floyd-protests-police-destroy-medic-station-asheville/3124847001/
+*  https://twitter.com/greg_doucette/status/1269071491892682752
+
+### Man shot in head with pepper ball | Date Unknown
+
+A man was shot in the head at close range with a pepper ball. Footage was uploaded on June 9th, but date of incident is unknown.
+
+tags: pepper-ball, shoot
+
+id: nc-asheville-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1270378392454672390
+* https://twitter.com/greg_doucette/status/1270378863219138561
 
 
 ## Charlotte
@@ -3169,13 +3199,35 @@ id: nc-asheville-1
 
 Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
 
-tags: tear-gas, tear-gas-canister, pepper-ball, flashbangs
+Jeff Jackson, an NC State senator whose district contains the Uptown Charlotte area, later posted a review of the incident on Medium.com, in which he decries the incident and states he has begun the process of opening an investigation with the Charlotte-Mecklenburg Police Department.
+
+tags: politician, tear-gas, tear-gas-canister, pepper-ball, flashbangs
 
 id: nc-charlotte-1
 
 **Links**
 
 *  https://www.instagram.com/tv/CA9UOKAj7MC/
+*  https://twitter.com/greg_doucette/status/1268030671706099717
+*  https://twitter.com/greg_doucette/status/1268030671706099717
+*  https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
+*  https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
+
+
+### Police arrest representative from The Bail Project | June 8th
+
+Video shows numerous police officers charging an individual, before throwing them to the ground and kneeling on them to make an arrest. As they walk the individual from the scene, she states her restraints are too tight, but police do not acknowledge her. Protestors nearby ask why she is being arrested; police say, "Watch the news video."
+
+Protestors identified this individual as a representative from The Bail Project who was slated to speak at a protest later that day.
+
+tags: arrest, knee, shove, throw, inhumane-treatment
+
+id: nc-charlotte-2
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1270185252665864193
+* https://twitter.com/kaitlinwa24/status/1270113046606864389
 
 
 ## Raleigh
@@ -3208,6 +3260,48 @@ id: nc-raleigh-4
 * https://twitter.com/KateMurphyNews/status/1267227888811741190
 * https://www.cbs17.com/news/local-news/wake-county-news/about-100-march-during-protest-in-downtown-raleigh-sunday-afternoon/
 * https://www.wral.com/raleigh-police-fire-tear-gas-again-on-second-day-of-downtown-protests/19123254/
+
+
+### Police shoot fleeing man at short range | May 31st
+
+Police fire repeatedly at man who is attempting to leave the protest with his hands up. After shooting several times, an officer runs up and strikes the man in the back of the head and throw him to the ground to make an arrest. Tear gas begins to fill the road as officers arrest him.
+
+tags: tear-gas, shoot, rubber-bullets, strike, beat, arrest, throw, shove
+
+id: nc-raleigh-5
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267295157885505537
+* https://twitter.com/greg_doucette/status/1267836827328819200
+
+
+### Police fire tear gas at peacful protestors | May 31st
+
+Police fire tear gas at protestors throughout protests on May 31st. Footage show police firing into a crowd.
+
+tags: tear-gas
+
+id: nc-raleigh-6
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1266951077183868928
+* https://youtu.be/hZsQY1XagKc
+
+
+### Police fire riot control rounds into protest | May 31st
+
+Footage shows a crowd protesting in place with hands up. Shots are heard and a protestor runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
+
+tags: pepper-balls, shoot
+
+id: nc-raleigh-7
+
+**Links**
+
+* https://twitter.com/LiamCurrie16/status/1266948510022320130
+* https://www.youtube.com/watch?v=_ciMl0fLcgY&feature=youtu.be
 
 
 ### Police shoot to intimidate owner of LGBTQ bar | June 2nd
