@@ -14,7 +14,7 @@ id: ky-louisville-2
 * [Victim's response](https://twitter.com/KaitlinRustWAVE/status/1268218653104693248)
 
 
-### Young woman shot in the head by a rubber bullet | May 30th
+### Police shoot young woman in the head with a rubber bullet | May 30th
 
 A young woman was injured by a rubber bullet she took to the head.
 
@@ -27,6 +27,18 @@ id: ky-louisville-4
 * [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
 
+### Police shoot man in the head with rubber bullet while he is walking away | May 30th
+
+Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights. 
+
+tags: rubber-bullets, projectiles, shoot
+
+id: ky-louisville-8
+
+**Links**
+
+* [Wave3 Article and Video](https://www.wave3.com/2020/06/12/protester-shot-head-files-lawsuit-against-law-enforcement/)
+* [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
 
 ### Police smashing water bottles | May 31st
 
@@ -45,13 +57,26 @@ id: ky-louisville-1
 
 Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
 
-tags: shoot, projectile, property-destruction
+tags: shoot, projectiles, property-destruction
 
 id: ky-louisville-5
 
 **Links**
 
 * [Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
+
+### 5 police officers use batons to beat protester | May 31st
+
+A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison. 
+
+tags: arrest, beat, baton, strike
+
+id: ky-louisville-9
+
+**Links**
+
+* [Image of wound](https://wfpl.org/wp-content/uploads/2020/06/File-169x300.jpg)
+* [Article and story](https://wfpl.org/protesters-say-they-were-assaulted-before-arrest-fear-covid-19-in-jail/)
 
 
 ### Louisville police swarm and beat a man screaming on the ground | Believed to be June 1st
@@ -65,7 +90,6 @@ id: ky-louisville-3
 **Links**
 
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
-
 
 ### Restaurant owner shot and killed | June 1st
 
