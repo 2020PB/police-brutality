@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-15T19:46:59.667041+00:00
+UPDATED AT: 2020-06-15T20:07:40.229245+00:00
 
 
 # Alabama
@@ -1945,6 +1945,8 @@ id: la-neworleans-1
 * https://twitter.com/ckm_news/status/1268382403367763970
 * https://twitter.com/brynstole/status/1268381340073971713
 * https://twitter.com/xxnthe/status/1268427759870775298
+* https://twitter.com/greg_doucette/status/1268520538391134208
+* https://www.wdsu.com/article/protesters-on-i-10-reach-top-of-crescent-city-connection/32761790
 
 
 
