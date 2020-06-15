@@ -30,6 +30,7 @@ lgbtq+
 mace
 marking-rounds
 medic
+misconduct
 paintball
 pepper-ball
 pepper-spray
@@ -133,4 +134,5 @@ throw
 ```
 body-cam
 death
+misconduct
 ```
