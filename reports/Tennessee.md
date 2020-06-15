@@ -26,4 +26,4 @@ id: tn-murfreesboro-1
 
 * [Police statement](https://twitter.com/mjhubbard1/status/1267253396245020674)
 * [Protestors blocking traffic](https://twitter.com/aConCitizen/status/1267251533655289860)
-* [Continued deployment of tear gas after protestors had moved](https://twitter.com/mjhubbard1/status/1267253396245020674)
+* [Continued deployment of tear gas after protestors had moved](https://twitter.com/joe_spears7/status/1267246919673434113)
