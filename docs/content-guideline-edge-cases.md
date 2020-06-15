@@ -25,7 +25,7 @@ Egregious selective enforcement will be in scope.
 
 ### Decision
 
-Agitation and incitement to riot will be in scope.pply the `incitement` tag to these reports.
+Agitation and incitement to riot will be in scope. Apply the `incitement` tag to these reports.
 
 
 ## No direct visual evidence
