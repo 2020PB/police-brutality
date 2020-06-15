@@ -13,6 +13,17 @@ id: ma-boston-1
 * https://twitter.com/RimeAndTreason/status/1267268090351489024
 
 
+### Police destroy their own vehicle | June 1st
+
+tags: property-destruction, misconduct
+
+id: ma-boston-3
+
+**Links**
+
+* https://twitter.com/HongPong/status/1267308401211645953
+
+
 ### A cop takes someone's protest sign and destroys it. | Unknown Date
 
 tags: property-destruction
