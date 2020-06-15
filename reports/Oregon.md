@@ -98,3 +98,20 @@ id: or-portland-6
 * https://twitter.com/TVAyyyy/status/1269526590456643584
 * https://twitter.com/DonovanFarley/status/1269701897377603584
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
+
+
+## Salem
+
+### Before firing tear gas, Salem PD warns Proud Boys | June 4th
+
+A police officer is seen warning members of the "Proud Boys," an SPLC-designated hate group, and other white supremacists that they are planning to fire tear gas, and that these members should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
+
+tags: tear-gas, inhumane-treatment
+
+id: or-salem-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268940700944605187
+* https://www.buzzfeednews.com/article/davidmack/salem-oregon-cop-warn-white-armed-men-playing-favorites
+* https://twitter.com/Satellit3Heart/status/1268863536299675648
