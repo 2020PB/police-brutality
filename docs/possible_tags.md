@@ -1,6 +1,7 @@
 ## All current tags
 
 ```
+abuse-of-power
 arrest
 baton
 beanbags
@@ -131,6 +132,7 @@ throw
 ### Misc
 
 ```
+abuse-of-power
 body-cam
 death
 ```

@@ -63,13 +63,18 @@ id: il-chicago-3
 **Links**
 
 * https://twitter.com/johncusack/status/1266938983575101441
+* https://www.youtube.com/watch?v=J4oRyvPJgnE&feature=youtu.be
 
 
 ### Police pull black women out of the car and throw them to the ground | May 31st
 
-Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive).
+Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive). Block Club Chicago states the victims were detained for disorderly conduct and that police drove off with one of the victims in the car, leaving the other two in the lot.
 
-tags: shove
+Victim states that officers kneeled on her neck, that shards of glass from her broken window lacerated her face, and that an officer called her "a f---- savage." In addition, she states she was not given access to an attorney and was not allowed a phone call for 6 hours.
+
+After release (with neither charges nor explanation), the victim attempted to file a complaint but was told the complaint line was unnaccesible.
+
+tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment
 
 id: il-chicago-4
 
@@ -78,6 +83,7 @@ id: il-chicago-4
 * https://twitter.com/AdrienneWrites/status/1267534983054254081
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
 * https://chicago.cbslocal.com/2020/06/03/police-drag-women-out-of-car-outside-brickyard-mall-woman-says-officer-put-knee-on-neck/
+* https://twitter.com/greg_doucette/status/1267594960955748352
 
 
 ### Cops hit Chicago Police Board President | May 31st
@@ -95,32 +101,22 @@ id: il-chicago-6
 * https://news.wttw.com/2020/06/05/police-board-president-officers-struck-me-5-times-their-batons-during-protest
 
 
-### Officer covers badge | May 31st
+### Officers cover badges and remove body cams | May 31st
 
-In this still photo, the officer's ID number on their vest is covered with duct tape.
+Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
 
-tags: hide-badges
+tags: hide-badges, body-cams
 
 id: il-chicago-10
 
 **Links**
 
 * https://twitter.com/KyleWilkins/status/1267268393809387520/photo/1
-
-
-### Officers are missing badges | May 31st
-
-Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
-
-tags: hide-badges
-
-id: il-chicago-13
-
-**Links**
-
 * https://twitter.com/CHICAGOCREATUR1/status/1268607315902697478
 * https://twitter.com/helllucinate/status/1267237866935136258
 * https://twitter.com/trashrascal/status/1268669040312147969
+* https://twitter.com/greg_doucette/status/1269088712735981568
+* https://twitter.com/greg_doucette/status/1269087986043564033
 
 
 ### Video showing CPD officer punching protester in Uptown under investigation | June 1st
@@ -133,6 +129,7 @@ id: il-chicago-7
 
 **Links**
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
+* https://twitter.com/greg_doucette/status/1268323060026937345
 * https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
 
 
