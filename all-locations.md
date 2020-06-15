@@ -1,10 +1,26 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-15T20:52:59.418270+00:00
+UPDATED AT: 2020-06-15T20:53:51.337031+00:00
 
 
 # Alabama
+
+## Hoover
+
+### Police make a series of violent arrests | May 31st
+
+During a peaceful protest, police corral protestors onto a hill. Officers snatch protestors at the edges and throw them to the ground to make arrests.
+
+tags: arrest, shove, throw, push, knee
+
+id: al-hoover-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269810926863163394
+* https://twitter.com/greg_doucette/status/1269812337696964608
+* https://twitter.com/mtvtacallya/status/1267318555604910081
 
 ## Huntsville
 
@@ -62,6 +78,7 @@ id: al-huntsville-4
 * https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
 * https://twitter.com/IanHoppe/status/1268350756186460164
 * https://twitter.com/ByChipBrownlee/status/1268357881381957635
+* https://twitter.com/Josh_Moon/status/1268589098404642817
 
 
 ### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
