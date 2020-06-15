@@ -187,18 +187,3 @@ id: il-joliet-1
 * https://www.youtube.com/watch?v=rllO2sdj1Ek
 * https://twitter.com/OrozcoJustina/status/1268262843801010179
 * https://www.chicagotribune.com/news/breaking/ct-joliet-mayor-video-fallout-20200606-zeidd3u5xbadxfoedmfkp22akm-story.html
-
-
-## Streamwood
-
-### Police show up at teen's house after posting about protest | June 4th
-
-Police show up at a teen's house to ask him questions about a protest planned for that night. The filmer states that he did not plan the protest, but was reposting it. At the end of the video, the officer begins to ask, "Who -" before the footage is cut off, suggesting the officer was trying to find the protest organizer.
-
-tags: threaten
-
-id: il-streamwood-1
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268649159952936962
