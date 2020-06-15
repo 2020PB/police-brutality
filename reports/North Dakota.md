@@ -8,7 +8,7 @@ At this protest, individuals were charged with inciting a riot; Osmundson was no
 
 Earlier that day, Osmundson appeared in uniform at protests, carrying a supportive sign.
 
-tags: misconduct
+tags: abuse-of-power, incitement
 
 id: nd-fargo-2
 
