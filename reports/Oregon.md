@@ -114,19 +114,3 @@ id: or-portland-7
 
 * [15:30, 17:50](https://twitter.com/45thabsurdist/status/1269882746656002049)
 * [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
-
-## Salem
-
-### Before firing tear gas, Salem PD warns Proud Boys | June 4th
-
-A police officer is seen warning members of the "Proud Boys," an SPLC-designated hate group, and other white supremacists that they are planning to fire tear gas, and that these members should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
-
-tags: tear-gas, inhumane-treatment
-
-id: or-salem-1
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268940700944605187
-* https://www.buzzfeednews.com/article/davidmack/salem-oregon-cop-warn-white-armed-men-playing-favorites
-* https://twitter.com/Satellit3Heart/status/1268863536299675648
