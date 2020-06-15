@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-15T20:15:58.593588+00:00
+UPDATED AT: 2020-06-15T20:21:44.387073+00:00
 
 
 # Alabama
@@ -3892,6 +3892,22 @@ id: or-portland-6
 * https://twitter.com/TVAyyyy/status/1269526590456643584
 * https://twitter.com/DonovanFarley/status/1269701897377603584
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
+
+
+### Officer forces press away from protest | June 8th
+
+A reporter with a press pass is told that his pass does not matter and press is not permitted at the scene. Later, a second officer states the same thing. After asking the second officer for his name, the officer lets the reporter film his badge number but does not give his name. After asking again, the officer threatens the journalist, saying: "Do you want to go to jail?" before grabbing the journalist and arresting them.
+
+Reports on the Portland curfew state explicitly that media are exempt from curfew restrictions.
+
+tags: journalist, threaten, arrest, grab
+
+id: or-portland-7
+
+**Links**
+
+* [15:30, 17:50](https://twitter.com/45thabsurdist/status/1269882746656002049)
+* [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
 
 
 
