@@ -189,19 +189,6 @@ id: il-joliet-1
 * https://www.chicagotribune.com/news/breaking/ct-joliet-mayor-video-fallout-20200606-zeidd3u5xbadxfoedmfkp22akm-story.html
 
 
-### DOJ files "using internet to incite riot" case against Peoria man | May 31st
-
-The U.S Department of Justice has brought federal charges against a Peoria man, Ca'Quintez Gibson for using the internet to incite a riot, apparently linking several incidents of looting to him through no more than general Facebook posts. If convicted, Gibson faces up to five years in prison, a fine of up to $250,000, and three years of supervised release following imprisonment.
-
-tags: arrest, inhumane-treatment
-
-id: il-peoria-1
-
-**Links**
-
-* https://www.justice.gov/usao-cdil/pr/federal-complaint-charges-peoria-man-using-internet-incite-rioting-peoria
-
-
 ## Streamwood
 
 ### Police show up at teen's house after posting about protest | June 4th
