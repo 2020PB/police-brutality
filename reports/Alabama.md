@@ -1,6 +1,6 @@
 ## Hoover
 
-### Police make a series of violent arrests | Date Unknown 
+### Police make a series of violent arrests | May 31st
 
 During a peaceful protest, police corral protestors onto a hill. Officers snatch protestors at the edges and throw them to the ground to make arrests.
 
@@ -12,6 +12,7 @@ id: al-hoover-1
 
 * https://twitter.com/greg_doucette/status/1269810926863163394
 * https://twitter.com/greg_doucette/status/1269812337696964608
+* https://twitter.com/mtvtacallya/status/1267318555604910081
 
 ## Huntsville
 
