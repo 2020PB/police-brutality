@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-15T20:53:51.337031+00:00
+UPDATED AT: 2020-06-15T21:01:35.223531+00:00
 
 
 # Alabama
@@ -3907,7 +3907,6 @@ id: or-portland-6
 * https://twitter.com/DonovanFarley/status/1269701897377603584
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
 
-
 ### Officer forces press away from protest | June 8th
 
 A reporter with a press pass is told that his pass does not matter and press is not permitted at the scene. Later, a second officer states the same thing. After asking the second officer for his name, the officer lets the reporter film his badge number but does not give his name. After asking again, the officer threatens the journalist, saying: "Do you want to go to jail?" before grabbing the journalist and arresting them.
@@ -3922,6 +3921,23 @@ id: or-portland-7
 
 * [15:30, 17:50](https://twitter.com/45thabsurdist/status/1269882746656002049)
 * [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
+
+
+## Salem
+
+### Before firing tear gas, Salem PD warns Proud Boys | June 4th
+
+A police officer is seen warning members of the "Proud Boys," an SPLC-designated hate group, and other white supremacists that they are planning to fire tear gas, and that these members should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
+
+tags: tear-gas, inhumane-treatment
+
+id: or-salem-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268940700944605187
+* https://www.buzzfeednews.com/article/davidmack/salem-oregon-cop-warn-white-armed-men-playing-favorites
+* https://twitter.com/Satellit3Heart/status/1268863536299675648
 
 
 
