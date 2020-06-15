@@ -1,6 +1,7 @@
 ## All current tags
 
 ```
+abuse-of-power
 arrest
 baton
 beanbags
@@ -30,7 +31,6 @@ lgbtq+
 mace
 marking-rounds
 medic
-misconduct
 paintball
 pepper-ball
 pepper-spray
@@ -132,7 +132,7 @@ throw
 ### Misc
 
 ```
+abuse-of-power
 body-cam
 death
-misconduct
 ```
