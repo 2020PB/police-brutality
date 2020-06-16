@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T22:32:02.116178+00:00
+UPDATED AT: 2020-06-16T22:34:28.493388+00:00
 
 
 # Alabama
@@ -2614,7 +2614,7 @@ id: mn-minneapolis-18
 
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
 
-South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol"
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
 
 tags: journalist, pepper-spray, batons, beat, tear-gas, shoot, projectiles, spray
 
@@ -2623,6 +2623,7 @@ id: mn-minneapolis-19
 **Links**
 
 * https://twitter.com/edouphoto/status/1267958349477249024
+* https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
 
 
