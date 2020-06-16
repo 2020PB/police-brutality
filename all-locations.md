@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T19:45:30.534477+00:00
+UPDATED AT: 2020-06-16T19:54:08.390334+00:00
 
 
 # Alabama
@@ -2780,7 +2780,7 @@ id: ny-buffalo-1
 
 Two police officers shove an unarmed, elderly man ([reportedly 75 years old](https://twitter.com/HannahBuehler/status/1268742666210226177)), who falls backwards and strikes his head on the concrete sidewalk. He appears to begin bleeding from his ear and passes out.
 
-Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved.
+Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved. In response to the suspension, the Buffalo Emergency Response Team [resigned from their posts](https://nypost.com/2020/06/05/buffalo-emergency-response-team-quits-in-solidarity-of-cops/)
 
 The man suffered brain damage and has begun physical therapy.
 
@@ -2813,12 +2813,48 @@ id: ny-buffalo-3
 *  https://twitter.com/PhotoJazzy/status/1269056626843099137
 
 
+## East Meadow
+
+### Police officer stops abrubtly so protestor bumps into him; police arrest him after this | June 13th
+
+A protestor is seen walk side-by-side with an officer. The officer steps in front of him and stops such that the protestor lightly grazes the officer.
+
+Numerous police officers then throw the man to the ground and kneel on his neck to make the arrest.
+
+tags: arrest, shove, push, knee, knee-on-neck, throw, tackle
+
+id: ny-eastmeadow-1
+
+**Links**
+
+* https://twitter.com/RexChapman/status/1271832001364979716
+
+
+## Merrick
+
+### Police charge and arrest peaceful protestors | June 6th
+
+A police contingent far outnumbering protestors shows up to block roads. Protestors are peaceful and the majority follow order to back away. Nonetheless, footage shows arrests and police charging at protestors.
+
+tags: arrest
+
+id: ny-merrick-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269477723644276738
+* https://twitter.com/j_king4424/status/1269400645385289728
+* https://twitter.com/j_king4424/status/1269401946751991808
+
+
 ## New York City
 
 
 ### Police shove woman to the ground, inducing a seizure | May 29th
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
+
+The NYP has suspended the officer involved.
 
 tags: shove, throw
 
@@ -2829,6 +2865,7 @@ id: ny-newyorkcity-1
 * https://twitter.com/whitney_hu/status/1266540710188195843
 * https://twitter.com/JasonLemon/status/1266529475757510656
 * https://twitter.com/zayer_dounya/status/1266581597760831489
+* https://twitter.com/AliVelshi/status/1269079615080890368
 * https://www.democracynow.org/2020/6/15/dounya_zayer_nypd_attack
 
 
@@ -2926,6 +2963,7 @@ id: ny-newyorkcity-8
 
 * https://twitter.com/HuffPost/status/1266936484692725766
 * https://www.huffpost.com/entry/huffpost-reporter-chris-mathias-arrested_n_5ed320d9c5b640cb8341c921
+* https://twitter.com/greg_doucette/status/1268205679292055552
 
 
 ### High-ranking NYPD officer shoves protestors with plastic barricade | May 30th
@@ -2954,9 +2992,51 @@ id: ny-newyorkcity-28
 * https://twitter.com/PNickCurran/status/1266966295653777408
 
 
+### Reporter is arrested and detained for 6 hours | May 30th
+
+CNN commentator, Keith Boykin, was arrested by the NYPD and detained for 6 hours. He was released with a summons for "walking on the highway," and for "disorderly conduct - blocking vehicle traffic." He claims traffic was already blocked by both police and protestors.
+
+tags: journalist, arrest, inhumane-treatment
+
+id: ny-newyorkcity-30
+
+**Links**
+
+* https://twitter.com/tylergabriel_/status/1267287516345925632
+
+
+### Police arrest woman on bike | May 30th
+
+A woman on a bike attempts to maneuver around a police van. An officer jumps out and yanks her from the bike. Another officer throws the bike to the side as several slam her against the van to arrest her.
+
+tags: arrest, push, shove, property-destruction
+
+id: ny-newyorkcity-33
+
+**Links**
+
+* https://twitter.com/orsification/status/1266909241820004353
+* https://twitter.com/greg_doucette/status/1268189319002537989
+
+
+### Police beat hospital employee walking home | May 31st
+
+Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples. 
+
+tags: medic, beat, strike, shove
+
+id: ny-newyorkcity-32
+
+**Links**
+
+* https://www.thedailybeast.com/even-medical-workers-fighting-covid-say-cops-are-attacking-them-at-george-floyd-protests?ref=home
+
+
 ### Police pull off protesters mask to pepper spray him | May 31st
 
 A police officer forcefully pulls off a protestors face mask and pepper sprays him. The protestor had his hands up in surrender when this happened.
+
+The officer involved has been suspended.
 
 tags: pepper-spray, spray, inhumane-treatment
 
@@ -2966,6 +3046,7 @@ id: ny-newyorkcity-9
 
 * [Original Post](https://twitter.com/ajrupchandani/status/1266889115288711168?s=21)
 * [Cross Post](https://twitter.com/_doreenpt/status/1266994439039455232)
+* https://twitter.com/AliVelshi/status/1269079615080890368
 
 
 ### NYPD rams protesters | May 31st
@@ -2980,6 +3061,7 @@ id: ny-newyorkcity-10
 
 * https://twitter.com/pgarapon/status/1266885414016688134
 * https://twitter.com/mkultranews/status/1266893237450498048
+* https://twitter.com/greg_doucette/status/1266903868295778310
 
 
 ### Police assault protesters | May 31st
@@ -3061,6 +3143,33 @@ id: ny-newyorkcity-29
 * https://twitter.com/GoodCallNYC/status/1267128759951523846
 
 
+### Police charge at peaceful crowd | May 31st
+
+Police charge at a peaceful protest, knocking protestors off bikes, throwing others to the ground, and making numerous arrests
+
+tags: shove, push, arrest, throw, strike
+
+id: ny-newyorkcity-31
+
+**Links**
+
+* https://twitter.com/drivenbyboredom/status/1267263490009546753
+
+
+### Multiple police officers assault woman | May 31st
+
+A woman is seeing moving another protestor from the scene in an apparent attempt at de-escalation. She is shoved by multiple officers. She appears to jerk her hand back from an officer, at which point, several officers pull her away, striking her with their fists, feet and batons.
+
+tags: arrest, kick, punch, strike, beat, baton
+
+id: ny-newyorkcity-32
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268025470764888066
+* https://www.tiktok.com/@skoodupcam1/video/6833172353724239109
+
+
 ### Officer threatens protestors with what appears to be a handgun | June 1st
 
 Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
@@ -3127,6 +3236,30 @@ id: ny-newyorkcity-22
 
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
+
+### NYPD officers beat woman | (Believed to be) June 3rd
+
+A woman is walking on the sidewalk with a peaceful protest. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
+
+tags: shove, beat, strike, bunch, arrest
+
+id: ny-newyorkcity-34
+
+**Links**
+
+* https://twitter.com/Add_Boy/status/1268264728989626368
+
+### Motorist honks in support of protest; Police stop her | June 3rd
+
+A motorist driving by the protest honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protestors intervene and distract the officers so the motorist is able to leave.
+
+tags: threaten
+
+id: ny-newyorkcity-35
+
+**Links**
+
+* https://twitter.com/NoahHurowitz/status/1268363104502657024
 
 
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
