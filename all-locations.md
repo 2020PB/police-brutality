@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T13:44:17.004559+00:00
+UPDATED AT: 2020-06-16T13:46:34.992974+00:00
 
 
 # Alabama
@@ -1640,6 +1640,20 @@ id: in-fortwayne-4
 * https://i.redd.it/4qzvp2gd54251.jpg
 * https://twitter.com/notbalin/status/1266972999296704513
 * https://mobile.twitter.com/chadloder/status/1267279165230743553/photo/2
+
+
+### Police break up a small protest and shoots at them as they leave | June 14th
+
+There is a very small protest of what appears to be no more than 15 people. Police arrive declaring it an unlawful assembly. Some of the protestors, including the person filming, go into a nearby restaurant because their car was in the direction of the police and they did not feel comfortable walking towards them. Two militarized police come into the restaurant and make them exit. The police tell them to run, motioning with their hands in the direction away from the protestor's car, despite the protestor trying to explain that they need to go in the other direction to actually leave. They run as they are told, and say they have their hands up. It then appears the police fire rubber bullets at them, the camera was facing away from the police but it picks up the sounds. The video is in two parts and includes further context via subtitles.
+
+tags: rubber-bullets, inhumane-treatment
+
+id: in-fortwayne-5
+
+**Links**
+
+* https://vm.tiktok.com/J1Vja3J/
+* https://vm.tiktok.com/J1bkxrf/
 
 
 ## Indianapolis
