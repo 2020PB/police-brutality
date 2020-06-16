@@ -365,6 +365,7 @@ id: ny-newyorkcity-17
 
 * https://wapo.st/2Mx7WY6
 * https://www.washingtonpost.com/national/protests-police-brutality-video/2020/06/05/a9e66568-a768-11ea-b473-04905b1af82b_story.html
+* https://twitter.com/greg_doucette/status/1268649158761689089
 
 
 ### NYPD denies 6th amendment rights to protestors | May 31st
@@ -418,6 +419,26 @@ id: ny-newyorkcity-18
 **Links**
 
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
+
+
+### Alleged looter pulled from car and beaten | June 1st
+
+Footage shows a cluster of NYPD officers striking a vehicle with batons and kicking it, before pulling the driver onto the street and arresting them. Footage shows police smashed several of the car's windows.
+
+Officers allege the driver and passenger were looters and had tried to run over police. 
+
+Officers additionally allege that the passenger attempted to jump to the driver's seat, run over an NYPD officer, and drive away. However, footage shows heavy traffic on all sides of the car and does not capture the alleged attempt by the passenger.
+
+The driver was charged with attempted murder, assault with intent to cause injury, criminal possession of stolen property, and obstructing government administration. The DA's office later downgraded the attempted murder charge to second-degree assault.
+
+tags: beat, property-destruction, arrest, baton, kick
+
+id: ny-newyorkcity-36
+
+**Links**
+
+* https://abc7ny.com/nyc-curfew-aftermath-looting-riots/6229025/
+* https://twitter.com/greg_doucette/status/1270020411443613696
 
 
 ### Police officer body slams protestor | June 2nd
@@ -523,6 +544,69 @@ id: ny-newyorkcity-24
 * https://twitter.com/sa0un/status/1268933117827571714
 
 
+### Protestors detained more than 24 hours by police; upheld by NY Judge | June 4th
+
+The Legal Aid Society, a law firm for low-income families and individuals, filed an emergency lawsuit after learning protestors had been detained for over 24 hours without arraignment, in violation of New York state law.
+
+A New York state judge rejected the appeal, allowing the NYPD to continue holding protestors, citing the virtual arraignments made necessary by the COVID-19 pandemic as a cause of slower processing. However, the Legal Aid Society states that conditions are not suitable for social distancing in the holding cells, thus risking an increased spread of COVID-19.
+
+The NY Daily News cited that as of Thursday, June 4th, 202 people had been detained for over 24 hours.
+
+tags: arrest, inhumane-treatment, abuse-of-power
+
+id: ny-newyorkcity-37
+
+**Links**
+
+* https://www.nydailynews.com/new-york/manhattan/ny-manhattan-judge-denies-writ-protestors-custody-20200604-cj67y2xoxjgrhk4es7vbyxkhcm-story.html
+* https://1010wins.radio.com/articles/judge-rules-nypd-can-keep-protest-detainees-over-24-hours
+* https://twitter.com/LegalAidNYC/status/1268680588753547265
+
+
+### Food delivery driver arrested | June 4th
+
+NYPD arrested a DoorDash/Caviar delivery person for violating the curfew, although food delivery workers are exempt from curfew restrictions.
+
+The worker is wearing a branded backpack designed for food delivery and is riding his bike. He offers to show officers his orders on his phone, but they do not allow him.
+
+A news report states the worker was leaving a delivery as a protest passed by.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-38
+
+**Links**
+
+* https://abc7ny.com/food-delivery-essential-workers-arrest-protesters-defy-curfew/6232911/
+* https://twitter.com/greg_doucette/status/1268767102623715329
+
+
+### Police break up neighborhood BBQ, beating and arresting partygoers | June 4th
+
+Police shut down a birthday party on private property. The party was occurring after curfew, but witnesses say police first claimed they wree responding to a noise complaint. Then allegedly stated the partygoers needed to go inside due to the curfew, the curfew restrictions did not apply to private property, which includes the building's stoop and yard. A partygoer states that he and others begain to clean up, but police then began forcing people back into the building before they had time to comply.
+
+Police continued shoving protestors already inside the building. Footage shows verbal altercation between police and partygoers before an officer forced his way past a door, shoving several partygoers. Police then began arresting partygoers and beating them with batons.
+
+Footage shows partygoers were beaten with batons and ziptied. 
+
+Three partygoers state officers used racial slurs while arresting them.
+
+Images show swollen hands from zip ties as well as bruises from batons. One partygoer states he suffered a severe sprain in his arm, and doctors could not determine from an X-Ray if it had been broken or not.
+
+tags: arrest, racial-profiling, inhumane-treatment, baton, beat
+
+id: ny-newyorkcity-39
+
+**Links**
+
+* https://www.buzzfeednews.com/article/amberjamieson/nypd-bbq-video-brooklyn-arrests
+* https://gothamist.com/news/videos-nypd-crown-heights-bbq-arrest-curfew
+* https://twitter.com/_40lucks/status/1268772390164746240
+* https://twitter.com/_40lucks/status/1268771676688441345
+* https://twitter.com/greg_doucette/status/1269787866797936640
+* https://twitter.com/greg_doucette/status/1269788200630996993
+
+
 ### NYPD pushes crowd into tight space and attacks several with batons | June 5th
 
 At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons.
@@ -547,6 +631,7 @@ id: ny-newyorkcity-26
 **Links**
 
 * https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
+* https://nyc.streetsblog.org/2020/06/08/see-it-police-beat-up-cyclist-during-black-lives-matter-protest/
 
 
 ## Rochester
