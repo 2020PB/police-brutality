@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T20:41:34.579949+00:00
+UPDATED AT: 2020-06-16T22:31:09.748080+00:00
 
 
 # Alabama
@@ -3892,6 +3892,18 @@ id: oh-columbus-15
 *  https://twitter.com/julialwashere/status/1266730657436315649
 
 
+### Police pepper spray protestors; rip mask off protestor | May 30th
+
+Police pepper spray protestors walking away from them. One protestor shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
+
+tags: pepper-spray, spray, shove
+
+id: oh-columbus-16
+
+**Links**
+
+* https://twitter.com/bwk1992/status/1266833971570237442
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
@@ -4000,6 +4012,20 @@ id: oh-columbus-12
 
 * https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
 * https://i.imgur.com/mECPaWe.jpg
+
+
+### Man pepper-sprayed at close range | (Believed to be) May 31st
+
+Image shows a police officer pepper-spraying a man with his hands up at a short distance. Exact date is unknown, but earliest appearance found on Twitter was May 31st.
+
+tags: pepper-spray, spray
+
+id: oh-columbus-17
+
+**Links**
+
+* https://twitter.com/snowmanonfire/status/1267122517614964743
+* https://twitter.com/greg_doucette/status/1269118992540749831
 
 
 ### Police push and pepper spray reporters from The Lantern newspaper | June 1st
