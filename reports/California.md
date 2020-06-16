@@ -509,6 +509,7 @@ id: ca-sandiego-2
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
+* [Youtube mirror](https://www.youtube.com/watch?v=dHji5Xrcbo8&feature=youtu.be)
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
