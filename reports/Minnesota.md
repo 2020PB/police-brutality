@@ -99,6 +99,8 @@ id: mn-minneapolis-4
 
 While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
+Additional footage shows police fired on the press crew as well.
+
 tags: journalist, arrest
 
 id: mn-minneapolis-5
@@ -106,6 +108,7 @@ id: mn-minneapolis-5
 **Links**
 
 * https://www.youtube.com/watch?v=wmpic2NU1RM&feature=youtu.be
+* https://twitter.com/greg_doucette/status/1266958068807544839
 
 
 ### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
