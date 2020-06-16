@@ -118,15 +118,20 @@ id: mn-minneapolis-17
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
 * [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
-### Law enforcement officers slash car tires.
+### Law enforcement officers slash car tires. | May 30th
 
 Law enforcement officers slash tires of car in a parking lot. Hard to see form a distance in this video but it's an established occurance so no reason to believe the people filming are lying.
+
+Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St. 
+
+tags: abuse-of-power, property-destruction.
 
 id: mn-minneapolis-29
 
 **Links**
 
 * https://twitter.com/val_ebertz/status/1266975058230235137
+* https://twitter.com/Jeff_Wagner4/status/1266933139303268353
 
 
 
