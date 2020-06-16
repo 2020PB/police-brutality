@@ -10,6 +10,8 @@ Another officer is heard saying, "Fuck him," before arresting the reporter.
 
 tags: journalist, arrest, shove, push, tackle
 
+id: nj-asburypark-1
+
 **Links**
 
 * https://www.northjersey.com/story/news/local/how-we-live/2020/06/01/app-reporter-apparently-arrested-asbury-park-george-floyd-protest/5314750002/
