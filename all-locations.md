@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T22:31:09.748080+00:00
+UPDATED AT: 2020-06-16T22:32:02.116178+00:00
 
 
 # Alabama
@@ -2483,6 +2483,7 @@ id: mn-minneapolis-6
 **Links**
 
 * https://mobile.twitter.com/mollyhf/status/1266911382613692422
+* https://twitter.com/mollyhf/status/1269003675063799810
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
 
