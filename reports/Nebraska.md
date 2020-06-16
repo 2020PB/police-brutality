@@ -1,16 +1,5 @@
 ## Lincoln
 
-### Police drive through crowd of protesters | May 30th
-
-As protestors cross a street - with no clear intent to block the street -, a police cruiser forces its way through the crowd.
-
-tags: drive, vehicle
-
-id: ne-lincoln-1
-
-**Links**
-
-* https://twitter.com/TheRyanSwanigan/status/1266674265635553284
 
 ### Police arrest protestors leaving scene | May 31st
 
@@ -18,7 +7,7 @@ A crowd gathers around a woman who is being arrested. After she is pulled away, 
 
 tags: arrest, shove, knee
 
-id: ne-lincoln-2
+id: ne-lincoln-1
 
 **Links**
 
@@ -31,7 +20,7 @@ A reporter posted a picture of a tear gas canister, allegedly used in Lincoln pr
 
 tags: journalist, tear-gas, tear-gas-canister
 
-id: ne-lincoln-3
+id: ne-lincoln-2
 
 **Links**
 
