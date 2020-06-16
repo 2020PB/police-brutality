@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T13:34:56.560714+00:00
+UPDATED AT: 2020-06-16T13:44:17.004559+00:00
 
 
 # Alabama
@@ -2339,7 +2339,6 @@ id: mn-minneapolis-16
 
 * [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
-* [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 
 ### Camera man shot by police | May 30th
