@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T19:54:08.390334+00:00
+UPDATED AT: 2020-06-16T20:23:00.103875+00:00
 
 
 # Alabama
@@ -1386,6 +1386,39 @@ id: ga-lawrenceville-1
 
 * https://twitter.com/ftn_shark/status/1266854056506667009?s=19
 * https://twitter.com/throneofmorac/status/1266870493858185217?s=09
+
+
+## Valdosta
+
+### Sheriff scuffles with protestor over "F\*ck Trump" sign | June 3rd
+
+Lowndes County sheriff, Ashley Paulk, confiscated a "F\*ck Trump" sign from a protestor, citing it as "evidence" for a crime not stated, in itself a violation of 1st Amendment rights. The woman attempted to grab the sign back and the sheriff choked her in response, before protestors separated the two.
+
+In a later statement, the sheriff said he would continue to charge protestors carrying posters with profanity with misdemeanor disorderly conduct, in violation of Supreme Court case [Cohen v. California](https://scholar.google.com/scholar_case?case=7398433541275578772&q=cohen+v.+california&hl=en&as_sdt=3,39) which ruled a man wearing a "Fuck the Draft" jacket could not be convicted for disturbing the peace. In addition, a [Georgia supreme court case](https://law.justia.com/cases/georgia/supreme-court/2017/s17a1040.html) cleared a man charged with disorderly conduct for raising his middle finger in a church. The sheriff cited a Georgia law allowing misdemeanor charges for profanity in the presence of an individual under 14 years of age. 
+
+In the background of the second clip, a police cruiser marked "Valdosta" can be seen, establishing the location.
+
+tags: abuse-of-power, choke
+
+id: ga-valdosta-1
+
+**Links**
+
+* https://twitter.com/airguitarsolos/status/1268357926739197952
+* https://twitter.com/wsingergrl/status/1268619104492990464
+* https://www.wctv.tv/content/news/Video-captures-Lowndes-sheriff-trying-to-take-sign-from-protestors-571016801.html
+
+
+### Sheriff arrests woman for sign containing profanity | June 4th
+
+In a continuation of events from June 3rd (ga-valdosta-1), sheriff Ashley Paulk arrested a woman carrying a sign suggestive of a "lewd act" between Paulk and Donald Trump, fulfilling his threat to arrest protestors carrying signs containing profanity. He cited a Georgia law allowing misdemeanor charges for profanity in the presence of an individual under 14 years of age, despite [U.S. Supreme Court cases](https://scholar.google.com/scholar_case?case=7398433541275578772&q=cohen+v.+california&hl=en&as_sdt=3,39) and [Georgia Supreme Court cases](https://law.justia.com/cases/georgia/supreme-court/2017/s17a1040.html) exonerating individuals charged with similar crimes.
+
+tags: abuse-of-power, arrest
+
+id: ga-valdosta-2
+
+**Links**
+* https://www.wctv.tv/content/news/Lowndes-County-arrests-protester-for-obscene-sign-571035091.html
 
 
 
