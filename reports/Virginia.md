@@ -101,6 +101,20 @@ id: va-richmond-4
 
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
 
+
+### Police SUV pushes through protesters, knocks over protester on bike | (believed to be) June 13th
+
+In this video, protestors on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protestors and knocks a protester off of their bike.
+
+tags: vehicle, drive
+
+id: va-richmond-6
+
+**Links**
+
+* https://twitter.com/BreRVA/status/1271982379180138502
+
+
 ### Police fire tear gas and rubber bullets at peaceful protest | June 15th
 
 Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Police Headquarters at some distance from the officers. Officers fired tear gas and rubber bullets at protestors.
