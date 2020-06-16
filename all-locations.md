@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T20:23:00.103875+00:00
+UPDATED AT: 2020-06-16T20:24:33.948148+00:00
 
 
 # Alabama
@@ -1162,13 +1162,32 @@ id: fl-fortlauderdale-2
 
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
 * https://twitter.com/MrEvanRoss/status/1270440535518560256
+* [CNN Interview](https://twitter.com/greg_doucette/status/1270479109982912514)
 
+
+## Jacksonville
+
+### Peaceful protestor tackled | May 30th
+
+A protestor in the street can be seen milling about before an officer charges them, tackling them to the ground to make an arrest. Filmer states that the officer pulled his gun on the individual as well.
+
+Filmer also states that tear gas was used against a peaceful protest.
+
+tags: tackle, arrest, shove, throw, gun, tear-gas
+
+id: fl-jacksonville-1
+
+**Links**
+
+* https://twitter.com/joiahhh/status/1266914558519775235
 
 ## Miami
 
 ### Man tackled to ground after speaking to police | May 31st
 
 Police are in a van. A man walking on the sidewalk with another man begins to speak to them. An officer exits the van and grabs the first man. Other officers standing nearby tackle the man to the ground and then chase after the second man. The video then cuts to the first man being led away in restraints by two officers.
+
+Miami PD states the man was arrested for breaking the 8pm curfew, but the poster states the arrest occurred around 5:45pm.
 
 tags: tackle, arrest
 
@@ -1192,6 +1211,33 @@ id: fl-orlando-1
 **Links**
 
 * https://twitter.com/ewcfilms/status/1268003421786906627
+
+
+### Police tackle injured man leaving protest | June 2nd
+
+A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protestor begs police not to hurt him.
+
+tags: tackle, arrest, knee
+
+id: fl-orlando-3
+
+**Links**
+
+* https://twitter.com/kailakerouac/status/1268010871797792773
+* https://twitter.com/kailakerouac/status/1268011180989337602
+
+
+### Police shove protestors with bikes | June 2nd
+
+A woman films a BLM protest in Orlando from a window. Protestors have gather around a police bike line blocking an intersection. Police begin shouting and shove protestors back with their bikes.
+
+tags: bike, shove
+
+id: fl-orlando-4
+
+**Links**
+
+* https://twitter.com/Flygirl4477/status/1267968890975522816
 
 
 ### Police fire on protesters outside city hall | Date unknown
