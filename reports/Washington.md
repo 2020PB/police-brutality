@@ -211,6 +211,17 @@ id: wa-seattle-14
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
 
 
+### Police pepper spray protesters standing in their way | June 11th
+
+Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're teargasing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
+
+tags: pepper-spray
+
+**Links**
+
+* [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
+
+
 ### Additional Seattle OPA Case Numbers
 
 * 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"
