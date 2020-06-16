@@ -119,6 +119,22 @@ id: mn-minneapolis-17
 * [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 
+
+### Medics talk about police destroying tent and slashing tires. | May 30th
+
+Medics set up a tent, police shot rubber bullets and gas at their facility in a Kmart parking lot at Nicollet and Lake St. Medics state they announced clearly their tent had only medics and wounded, but police and National Guard opened fire. After the medics left, officers destroyed their tent and prevented medics from returning. Medics also state police slashed tires.
+
+Medics state they were able to move everyone who needed help.
+
+tags: medic, property-destruction
+
+id: mn-minneapolis-25
+
+**Links**
+
+* https://www.youtube.com/watch?v=gfb_zJiMTFU
+
+
 ### Police shoot at a woman on her porch | May 31st
 
 In an attempt to move residents inside, the police fire shots at them.
@@ -247,17 +263,6 @@ id: mn-minneapolis-19
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
-
-
-### Medics talk about police destroying tent and slashing tires.
-
-Medicst set up a tent, police shot rubber bullets and gas at the facility. May be the same incident as above, but this one mentions that patients were transported while in the above one the fate of the patient wasn't clear.
-
-id: mn-minneapolis-25
-
-**Links**
-
-* https://www.youtube.com/watch?v=gfb_zJiMTFU
 
 
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
