@@ -1,6 +1,7 @@
 ## All current tags
 
 ```
+abuse-of-power
 arrest
 baton
 beanbags
@@ -21,6 +22,7 @@ headlock
 hide-badges
 homeless
 horse
+incitement
 inhumane-treatment
 journalist
 kick
@@ -131,6 +133,8 @@ throw
 ### Misc
 
 ```
+abuse-of-power
 body-cam
 death
+incitement
 ```

@@ -15,3 +15,5 @@ id: la-neworleans-1
 * https://twitter.com/ckm_news/status/1268382403367763970
 * https://twitter.com/brynstole/status/1268381340073971713
 * https://twitter.com/xxnthe/status/1268427759870775298
+* https://twitter.com/greg_doucette/status/1268520538391134208
+* https://www.wdsu.com/article/protesters-on-i-10-reach-top-of-crescent-city-connection/32761790

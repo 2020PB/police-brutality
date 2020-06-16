@@ -96,6 +96,7 @@ id: ia-desmoines-5
 * http://iowainformer.com/politics/2020/06/des-moines-gay-bar-raided-amid-black-lives-matter-protests-as-pride-month-begins/
 * https://twitter.com/aaronpcalvin/status/1268708285517004801
 * [Location via Google Street View](https://www.google.ca/maps/place/The+Blazing+Saddle/@41.590306,-93.6114412,3a,75y,275.31h,90t/data=!3m7!1e1!3m5!1sysYseTIG29m9bjNYmZ71zQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DysYseTIG29m9bjNYmZ71zQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D275.31018%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m7!3m6!1s0x87ee99b1e2f004c9:0xf6f27ceb30ff9e27!8m2!3d41.5902914!4d-93.6115743!14m1!1BCgIgARICCAI)
+* https://www.facebook.com/permalink.php?story_fbid=1182620968746799&id=100009967212544
 
 
 ## Iowa City
