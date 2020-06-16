@@ -254,6 +254,8 @@ id: mn-minneapolis-10
 
 The picture shows the reporter's eye has been damaged, and potentially blinded.
 
+Journalist updated that she was permanently blinded in her left eye and her doctor has stated she cannot work for at least 6 weeks.
+
 tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-11
@@ -262,6 +264,7 @@ id: mn-minneapolis-11
 
 * https://mobile.twitter.com/KillerMartinis/status/1266618525600399361?s=19
 * https://twitter.com/chadloder/status/1267059540190625792
+* https://twitter.com/KillerMartinis/status/1266786161143537669
 
 
 ### Police shoot Reuters reporters with rubber bullets | May 31st
