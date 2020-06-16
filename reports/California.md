@@ -63,6 +63,21 @@ id: ca-hollywood-1
 * https://twitter.com/AdoreDelano/status/1267688320735166465
 
 
+### Police fire into a crowd of peaceful protesters at short range | June 2nd
+
+Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
+
+Footage does not indicate that any protesters became violent with any officer before the shooting began.
+
+tags: shove, shoot, rubber-bullets
+
+id: ca-hollywood-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
