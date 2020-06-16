@@ -11,6 +11,24 @@ id: oh-beavercreek-1
 **Links**
 * [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
 
+
+## Bethel
+
+### Man struck by counter-protestor while police look on | June 14th
+
+During a BLM protest in Bethel, Ohio, protestors were met by a substantial counter-protest, which allegedly harrassed and assaulted them. In one particular video, a counter-protestor strikes a BLM protestor on the back of the head and walk away. There are police officers directly in front of and behind the incident. The man tells the officer he just got punched. The officer's response is difficult to hear above the crowd, but he appears to offer little help, instead telling the protestor he is not allowed to demonstrate there (on a public sidewalk).
+
+News report includes footage of counter-protestors using racial slurs, harassing protestors and rip signs out of protestor hands while police look on.
+
+tags: abuse-of-power
+
+id: oh-bethel-1
+
+**Links**
+* https://www.youtube.com/watch?v=6GVbOjgBUCc
+* https://www.youtube.com/watch?v=ltabht5GsL0
+
+
 ## Canton
 
 ### Police spray mace, fire tear gas and flashbangs at protestors, even after they have dispersed | May 29th
