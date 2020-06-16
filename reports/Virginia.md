@@ -93,3 +93,18 @@ id: va-richmond-4
 
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
 
+### Police fire tear gas and rubber bullets at peaceful protest | June 15th
+
+Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Police Headquarters at some distance from the officers. Officers fired tear gas and rubber bullets at protestors.
+
+Richmond was no longer under curfew restrictions at this time.
+
+tags: tear-gas, rubber-bullets, shoot
+
+id: va-richmond-5
+
+**Links**
+
+* https://twitter.com/ZyahnaB/status/1272716305813118976
+* https://twitter.com/ZyahnaB/status/1272716632541089792
+
