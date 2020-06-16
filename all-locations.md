@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T20:29:31.335144+00:00
+UPDATED AT: 2020-06-16T20:30:48.655085+00:00
 
 
 # Alabama
@@ -4060,6 +4060,21 @@ id: ok-oklahomacity-2
 * https://twitter.com/benfelder_okc/status/1266956993669017600
 * https://twitter.com/benfelder_okc/status/1266963119160594432
 * https://twitter.com/benfelder_okc/status/1266966743404236800
+
+
+## Tulsa
+
+### Reporters shot by pepper balls on air | June 1st
+
+When Tulsa Police opened fire on peaceful protestors, reporters for Tulsa's channel 8 were struck by pepper balls while reporting live. Reporter also stated that police threw a flashbang, and tear gas can be seen in the background.
+
+tags: journalist, shot, pepper-balls, flashbang, tear-gas
+
+id: ok-tulsa-1
+
+**Links**
+
+* https://twitter.com/KTULNews/status/1267388909937405952
 
 
 
