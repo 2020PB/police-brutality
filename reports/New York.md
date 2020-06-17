@@ -679,6 +679,20 @@ id: ny-newyorkcity-42
 * https://twitter.com/left_voice/status/1268897203508084736
 
 
+### Police shove multiple reporters | June 4th
+
+At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first. 
+
+tags: journalist, baton, strike, shove
+
+id: ny-newyorkcity-32
+
+**Links**
+
+* https://twitter.com/carolineha_/status/1268726970331906051
+* https://twitter.com/RosalindZAdams/status/1268729386213298180
+
+
 ### Police shove protestor off bike | June 5th
 
 Footage shoves a small crowd of protestors arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
