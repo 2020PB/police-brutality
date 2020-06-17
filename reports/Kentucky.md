@@ -131,3 +131,12 @@ id: ky-louisville-10
 **Links**
 
 * [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
+
+### Police shoot paintball at a bystander recording from inside a building behind a window
+
+id: ky-louisville-11
+
+**Links**
+
+* https://twitter.com/kenjiboijoi/status/1272708377349668864
+* https://www.reddit.com/r/PublicFreakout/comments/hapxha/cops_shoot_at_window_of_guy_recording_in/
