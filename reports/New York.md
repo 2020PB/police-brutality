@@ -642,8 +642,6 @@ id: ny-newyorkcity-40
 * https://www.youtube.com/watch?v=yuJWAEqfHO8&feature=emb_logo
 
 
-
-
 ### NYPD pushes crowd into tight space and makes violent mass arrests | June 4th
 
 At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons. Police then proceeded to make violent mass arrests. Footage shows use of batons and shields to strike protesters and police kneeling on protestors to make arrests.
@@ -663,6 +661,22 @@ id: ny-newyorkcity-25
 * https://twitter.com/AndomForNY/status/1269066762357805056
 * https://twitter.com/AndomForNY/status/1269067815752957953
 * https://twitter.com/ghouldisco/status/1268872802708357122
+
+
+### Police arrest hospital employee acting as medic | June 4th
+
+A crowd gathers around as a man in scrubs is arrested. 
+
+In a report after the fact, he says police laughed at them when they asked for masks during detainment. He also states that he was kept with 17 people in a warm room (he approximates 85 degrees).
+
+tags: medic, arrest, abuse-of-power, inhumane-treatment
+
+id: ny-newyorkcity-42
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269083492140408832
+* https://twitter.com/left_voice/status/1268897203508084736
 
 
 ### Police shove protestor off bike | June 5th
