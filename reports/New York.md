@@ -693,6 +693,19 @@ id: ny-newyorkcity-43
 * https://twitter.com/RosalindZAdams/status/1268729386213298180
 
 
+### Couple arrested on their stoop for cheering protestors | June 4th
+
+A woman states she was arrested on the stoop of her home (which is private property and exempt from curfew restrictions) after cheering on passing protestors. Her footage shows a man being arrested while police tell the others to go inside because of the curfew, despite the fact that their stoop is acceptable under curfew restrictions.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-44
+
+**Links**
+
+* https://twitter.com/shainataub/status/1268919620456665088
+
+
 ### Police shove protestor off bike | June 5th
 
 Footage shoves a small crowd of protestors arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
