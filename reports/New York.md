@@ -553,6 +553,8 @@ id: ny-newyorkcity-45
 
 Police strike a protestor with batons, before tackling him and arresting him. They shove other protestors with batons. Shortly after, police pin a man to the ground and kneel on him to make an arrest. A journalist identifies herself at the scene (link 3) and is credited with a first-person video (link 2) of the incident where she is shoved by police as she displays her press badge and films.
 
+Additional footage (link 4) from a journalist involved in the incident shows evidence of police shoving protestors and journalists throughout the night.
+
 tags: journalist, shove, strike, throw, beat, arrest, batons
 
 id: ny-newyorkcity-23
