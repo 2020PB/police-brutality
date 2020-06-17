@@ -683,7 +683,7 @@ id: ny-newyorkcity-25
 
 A crowd gathers around as a man in scrubs is arrested. 
 
-In a report after the fact, he says police laughed at them when they asked for masks during detainment. He also states that he was kept with 17 people in a warm room (he approximates 85 degrees).
+In a report after the fact, he says police laughed when he and other detained protestors requested masks. He also states that he was kept with 17 people in a small, warm room (he approximates 8'x10' and 85 degrees).
 
 tags: medic, arrest, abuse-of-power, inhumane-treatment
 
