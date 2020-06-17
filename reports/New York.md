@@ -720,6 +720,7 @@ id: ny-newyorkcity-44
 **Links**
 
 * https://twitter.com/shainataub/status/1268919620456665088
+* https://twitter.com/shainataub/status/1268920887467802625
 
 
 ### Police officer hides badge number and name | June 4th
