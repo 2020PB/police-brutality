@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T22:36:22.951922+00:00
+UPDATED AT: 2020-06-17T14:24:00.554003+00:00
 
 
 # Alabama
@@ -2030,6 +2030,18 @@ id: ky-louisville-7
 **Links**
 
 * [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
+
+### Police tackle protestor, then target witness | June 16th
+
+A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
+
+tags: rubber-bullets, shoot, tackle, beat, baton
+
+id: ky-louisville-10
+
+**Links**
+
+* [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
 
 
 
