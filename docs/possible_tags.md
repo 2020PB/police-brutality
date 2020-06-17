@@ -35,6 +35,7 @@ medic
 paintball
 pepper-ball
 pepper-spray
+person-with-disability
 policecar
 politician
 pregnant
@@ -72,6 +73,7 @@ homeless
 journalist
 lgbtq+
 medic
+person-with-disability
 politician
 pregnant
 racial-profiling
