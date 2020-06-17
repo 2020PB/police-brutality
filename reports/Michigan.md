@@ -37,6 +37,7 @@ id: mi-detroit-1
 **Links**
 
 * https://twitter.com/AkramG03/status/1266876680142049282
+* [Youtube mirror](https://youtu.be/yRoAXw8cGT4)
 
 
 ### Police pepper-spray reporter holding up media badge | May 30th
@@ -49,6 +50,7 @@ id: mi-detroit-2
 
 **Links**
 
+* https://twitter.com/jcreindl/status/1266925170192715782
 * https://twitter.com/DetroitReporter/status/1266957225114861568
 * https://www.freep.com/story/news/local/michigan/detroit/2020/06/01/journalists-targeted-police-protests-detroit/5302659002/
 
@@ -94,13 +96,16 @@ id: mi-grandrapids-1
 * https://old.reddit.com/r/Bad_Cop_No_Donut/comments/gub8fx/police_shoot_protestor_point_blank_in_the_face/
 * https://www.fox17online.com/news/local-news/grand-rapids/grpd-conducting-internal-investigation-after-viral-video-of-man-being-pepper-sprayed
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gv3xuu/police_in_grand_rapids_michigan_spray_a_man/
+* [Youtube mirror](https://www.youtube.com/watch?v=G_rWrQ6M6Q8&feature=youtu.be)
 
 
-### Law enforcement push and shove a crowd of protesters.
+### Law enforcement push and shove a crowd of protesters. | May 31st
 
 Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
-tags: shove, push, shields
+Footage shows police have hidden badge numbers and are not wearing body cams.
+
+tags: shove, push, shields, hide-badges, body-cams
 
 id: mi-grandrapids-2
 
@@ -122,7 +127,8 @@ id: mi-kalamazoo-1
 **Links**
 
 * https://twitter.com/i/status/1267677463850745858
-* Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
+* [Source, at 33:40](https://www.facebook.com/BlaineBurnett11/videos/963503949886/)
+* [Youtube mirror](https://youtu.be/2e3DR94wBx0)
 
 
 ### Police fire tear gas at peaceful protesters | June 2nd
