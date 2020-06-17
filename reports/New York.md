@@ -533,6 +533,22 @@ id: ny-newyorkcity-35
 * https://twitter.com/NoahHurowitz/status/1268363104502657024
 
 
+### Police confiscate protestor's bike | June 3rd
+
+Footage shows NYPD officer grabbing a protestor's bike and walking away with it, citing curfew restrictions as the reason for seizure. 
+
+A thread on Twitter from an alleged victim and member of the press who states that police stole their bike and roughed them up.
+
+tags: journalist, bike, abuse-of-power, property-destruction
+
+id: ny-newyorkcity-45
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268398967777308672
+* https://twitter.com/ArminRosen/status/1268353044896505867
+
+
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
 
 Police strike a protestor with batons, before tackling him and arresting him. They shove other protestors with batons. Shortly after, police pin a man to the ground and kneel on him to make an arrest. A journalist identifies herself at the scene (link 3) and is credited with a first-person video (link 2) of the incident where she is shoved by police as she displays her press badge and films.
