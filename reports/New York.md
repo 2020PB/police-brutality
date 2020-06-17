@@ -400,7 +400,7 @@ A woman is seeing moving another protestor from the scene in an apparent attempt
 
 tags: arrest, kick, punch, strike, beat, baton
 
-id: ny-newyorkcity-43
+id: ny-newyorkcity-32
 
 **Links**
 
@@ -685,7 +685,7 @@ At protests on the night of June 4th, multiple reporters share footage of police
 
 tags: journalist, baton, strike, shove
 
-id: ny-newyorkcity-32
+id: ny-newyorkcity-43
 
 **Links**
 
