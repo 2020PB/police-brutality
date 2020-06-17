@@ -400,7 +400,7 @@ A woman is seeing moving another protestor from the scene in an apparent attempt
 
 tags: arrest, kick, punch, strike, beat, baton
 
-id: ny-newyorkcity-32
+id: ny-newyorkcity-43
 
 **Links**
 
