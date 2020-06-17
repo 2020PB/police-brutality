@@ -722,6 +722,19 @@ id: ny-newyorkcity-44
 * https://twitter.com/shainataub/status/1268919620456665088
 
 
+### Police officer hides badge number and name | June 4th
+
+Video shows a police officer with a strip of tape covering his badge number. In addition, he has removed his name tag. He states he has received direct orders from above to do so.
+
+tags: hide-badges, abuse-of-power
+
+id: ny-newyorkcity-46
+
+**Links**
+
+* https://twitter.com/BreezeCrypto/status/1268595409733156868
+
+
 ### Police shove protestor off bike | June 5th
 
 Footage shoves a small crowd of protestors arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
