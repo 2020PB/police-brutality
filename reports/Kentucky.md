@@ -132,7 +132,7 @@ id: ky-louisville-10
 
 * [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
 
-### Police shoot paintball at a bystander recording from inside a building behind a window
+### Police shoot paintball at a bystander recording from inside a building behind a window | June 15th
 
 id: ky-louisville-11
 
