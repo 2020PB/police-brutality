@@ -119,3 +119,15 @@ id: ky-louisville-7
 **Links**
 
 * [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
+
+### Police dogpiling a protestor and then targets a witness | June 16th
+
+A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
+
+tags: rubber-bullets, shoot
+
+id: ky-louisville-10
+
+**Links**
+
+* [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
