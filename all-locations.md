@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-17T14:24:00.554003+00:00
+UPDATED AT: 2020-06-17T19:59:54.462529+00:00
 
 
 # Alabama
@@ -217,6 +217,21 @@ id: ca-hollywood-1
 **Links**
 
 * https://twitter.com/AdoreDelano/status/1267688320735166465
+
+
+### Police fire into a crowd of peaceful protesters at short range | June 2nd
+
+Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
+
+Footage does not indicate that any protesters became violent with any officer before the shooting began.
+
+tags: shove, shoot, rubber-bullets
+
+id: ca-hollywood-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
 
 
 ## La Mesa
@@ -665,6 +680,7 @@ id: ca-sandiego-2
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
+* [Youtube mirror](https://www.youtube.com/watch?v=dHji5Xrcbo8&feature=youtu.be)
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
@@ -2884,6 +2900,8 @@ Another officer is heard saying, "Fuck him," before arresting the reporter.
 
 tags: journalist, arrest, shove, push, tackle
 
+id: nj-asburypark-1
+
 **Links**
 
 * https://www.northjersey.com/story/news/local/how-we-live/2020/06/01/app-reporter-apparently-arrested-asbury-park-george-floyd-protest/5314750002/
@@ -3613,6 +3631,7 @@ id: nc-charlotte-1
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
+*  https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
 *  https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
 
 
@@ -5143,6 +5162,20 @@ id: va-richmond-4
 **Links**
 
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
+
+
+### Police SUV pushes through protesters, knocks over protester on bike | (believed to be) June 13th
+
+In this video, protestors on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protestors and knocks a protester off of their bike.
+
+tags: vehicle, drive
+
+id: va-richmond-6
+
+**Links**
+
+* https://twitter.com/BreRVA/status/1271982379180138502
+
 
 ### Police fire tear gas and rubber bullets at peaceful protest | June 15th
 
