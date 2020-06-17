@@ -64,6 +64,7 @@ id: nc-charlotte-1
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
+*  https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
 *  https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
 
 

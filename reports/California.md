@@ -63,6 +63,21 @@ id: ca-hollywood-1
 * https://twitter.com/AdoreDelano/status/1267688320735166465
 
 
+### Police fire into a crowd of peaceful protesters at short range | June 2nd
+
+Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
+
+Footage does not indicate that any protesters became violent with any officer before the shooting began.
+
+tags: shove, shoot, rubber-bullets
+
+id: ca-hollywood-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
@@ -509,6 +524,7 @@ id: ca-sandiego-2
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
+* [Youtube mirror](https://www.youtube.com/watch?v=dHji5Xrcbo8&feature=youtu.be)
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
