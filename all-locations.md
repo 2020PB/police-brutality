@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-17T21:23:42.263470+00:00
+UPDATED AT: 2020-06-17T21:24:48.094545+00:00
 
 
 # Alabama
@@ -1764,6 +1764,24 @@ id: in-indianapolis-1
 **Links**
 
 * https://www.facebook.com/AlexandraIndy/videos/10219444419838711
+
+
+### Police tear gas peaceful protest, including worshipping congregation | May 31st
+
+On Sunday May 31st at Monument Circle in Indianapolis, police state they, prior to curfew, were attempting to apprehend a man who allegedly was trying to spray-paint a statue. 
+
+To do so, police tear-gassed the entire group gathered, which included 50 members of Liberty Tabernacle, who had gathered to sing, pray and listen to speakers. A tear-gas canister landed at the feet of one member of the congregation who uses a wheelchair.
+
+At a news conference on June 1st, the Police chief stated: "My sincere apologies for anyone who was in this peaceful demonstration downtown that was impacted by the tear gas."
+
+tags: tear-gas, tear-gas-canister, person-with-disability
+
+id: in-indianapolis-3
+
+**Links**
+
+* https://www.theindychannel.com/news/local-news/police-apologize-after-non-violent-protesters-tear-gassed-on-monument-circle
+* https://twitter.com/greg_doucette/status/1268404518326276096
 
 
 ### Police beat woman with batons and shoot pepper balls, shove another to the ground | June 1st
