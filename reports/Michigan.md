@@ -97,6 +97,23 @@ id: mi-detroit-7
 * https://twitter.com/MCmuckraker/status/1268011179986870273
 
 
+### Police use LRAD (sound cannon) to disperse protestors | June 2nd
+
+Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm. 
+
+The use of LRADs is a subject of much contention, with frequent reports of permanent nerve and hearing damage caused by their use.
+
+The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests. 
+
+tags: lrad
+
+id: mi-detroit-8
+
+**Links**
+
+* https://twitter.com/MedvisJackson/status/1267984069905784832
+
+
 ## Grand Rapids
 
 ### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
