@@ -60,6 +60,7 @@ tear-gas-canister
 threaten
 throw
 vehicle
+wooden-bullets
 ```
 
 ## Broken down by type
@@ -108,6 +109,7 @@ taser
 tear-gas
 tear-gas-canister
 vehicle
+wooden-bullets
 ```
 
 ### Method
