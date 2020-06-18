@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-17T21:26:00.372422+00:00
+UPDATED AT: 2020-06-18T13:03:29.397413+00:00
 
 
 # Alabama
@@ -160,7 +160,7 @@ id: ar-littlerock-1
 
 Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
 
-tags: tear-gas
+tags: tear-gas, tear-gas-canister
 
 id: ca-clayton-1
 
@@ -180,7 +180,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 [This Reddit comment asserts these police are members of the LASD.](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/)
 
-tags: kneel-on-neck, kneel, punch, kick, threaten, inhumane-treatment
+tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment
 
 id: ca-compton-1
 
@@ -223,7 +223,7 @@ id: ca-hollywood-1
 
 Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
 
-Footage does not indicate that any protesters became violent with any officer before the shooting began.
+Footage does not indicate that any protesters were violent with any officer before the shooting began.
 
 tags: shove, shoot, rubber-bullets
 
@@ -238,9 +238,9 @@ id: ca-hollywood-2
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
 
-Law enforcement stand off with protesters, seemingly without provocation they start gassing and shooting at the protesters.
+Law enforcement stand off with protesters. Seemingly without provocation they start gassing and shooting at the protesters.
 
-tags: tear-gas
+tags: tear-gas, projectile, shoot
 
 id: ca-lamesa-2
 
@@ -249,7 +249,7 @@ id: ca-lamesa-2
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face | May 31st
+### Police shoot woman in the face with rubber bullet | May 31st
 
 La Mesa PD shoot a woman in the face with a rubber bullet.
 
@@ -270,7 +270,7 @@ id: ca-lamesa-1
 
 Photo shows large bruise the reporter got from a rubber bullet
 
-tags: rubber-bullets
+tags: shoot, rubber-bullets, journalist
 
 id: ca-longbeach-1
 
@@ -282,7 +282,7 @@ id: ca-longbeach-1
 
 ## Los Angeles
 
-### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
+### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
 
 An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
@@ -297,9 +297,9 @@ id: ca-losangeles-2
 
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
-Los Angeles law enforcement beat several protesters with batons.
+A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
 
-tags: beat, baton
+tags: beat, baton, shoot, rubber-bullets
 
 id: ca-losangeles-3
 
@@ -451,7 +451,7 @@ id: ca-losangeles-12
 * https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/
 
 
-### Los Angeles law enforcement shot at a man on his own balcony | May 31st
+### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
 
 Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
 
@@ -505,11 +505,11 @@ id: ca-losangeles-15
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
-### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2nd
+### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
-The police are seen shooting at fleeing protestors and parked vehicles.
+A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way. 
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, vehicle, drive
 
 id: ca-losangeles-1
 
@@ -521,27 +521,14 @@ id: ca-losangeles-1
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 
-### Photograph documents aftermath of LAPD firing non-lethal round at face of homeless man in wheelchair | June 2
-
-Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless man in a wheelchair.
-
-tags: shoot, projectile, homeless
-
-id: ca-losangeles-18
-
-**Links**
-* https://www.instagram.com/p/CBCiZXOlno4/
-* https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
-* https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
-
 
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
 
-A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting non-lethal round at the man.
+A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting less-than-lethal round at the man.
 
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
-tags: shoot, projectile, homeless
+tags: shoot, projectile, homeless, person-with-disability
 
 id: ca-losangeles-17
 
