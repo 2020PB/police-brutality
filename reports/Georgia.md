@@ -1,3 +1,25 @@
+## Athens
+
+### Police fire tear gas at peaceful protest | June 1st
+
+During a peaceful protest near University of Georgia (UGA), police began firing tear gas indiscriminately and with excess.
+
+One protestor can be seen with a firework, similar to a Roman candle, firing from considerable distance and into the air.
+
+Police fired a sustained barrage of tear gas for approximately one minute while protestors retreated.
+
+Later footage shows police continuing to fire tear gas down the street as students walk past with their hands up, obeying police orders.
+
+tags: tear-gas
+
+id: ga-athens-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267978682951491585
+* https://twitter.com/tmckenzie_photo/status/1267313794956562432
+
+
 ## Atlanta
 
 ### Officer body slams woman onto ground | May 29th
