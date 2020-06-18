@@ -14,9 +14,9 @@ id: az-phoenix-1
 
 ### Officers arrest dozens of people, fail to exhibit probable cause | May 30th
 
-Officers arrested 114 people on Saturday, May 30, most for rioting. The probable cause statements submitted to the court by police justifying the arrests of many defendants were identical from one defendant to another, and alleged only that a crowd of people had engaged in criminal activity, without alleging that the particular defendant arrested had engaged in criminal activity.
+Officers arrested 114 people on Saturday, May 30, most for rioting (a low-level felony). The probable cause statements submitted to the court by police justifying the arrests of many defendants were identical from one defendant to another, and alleged only that a crowd of people had engaged in criminal activity, without alleging that the particular defendant arrested had engaged in criminal activity. One defendant, a DACA recipient, was transferred to ICE custody despite a judge finding that her arrest lacked probable cause. She has since been released.
 
-tags: arrest
+tags: abuse-of-power, arrest
 
 id: az-phoenix-2
 
@@ -31,7 +31,7 @@ On May 31, police forced protesters who were out after curfew into the Garfield 
 
 Several other residents of the Garfield neighborhood have complained of police behavior that night, including one who says she passed out in her yard due to a tear-gas-induced asthma attack and awoke to find an officer handcuffing her. 
 
-tags: arrest, tackle
+tags: arrest, tackle, tear-gas
 
 id: az-phoenix-3
 
@@ -39,5 +39,5 @@ id: az-phoenix-3
 
 * [Local news report, with video](https://www.azcentral.com/story/news/local/phoenix/2020/06/01/residents-phoenix-garfield-neighborhood-say-police-not-protesters-were-problem-protest/5312347002/?utm_campaign=snd-autopilot&cid=twitter_azcentral)
 * [Google doc, allegedly containing complaints by Garfield neighborhood residents](https://docs.google.com/document/d/1BxK7bi8Iim-bOb_A03pUQ1ATFRZfcxAdbCCnowo2kbI/edit?fbclid=IwAR1ofant2QVqUhgOjy6OkB7SSURXA6Vik3i38Mm7X0hTgL1ZtCv7iHVzRVY#)
-* https://www.facebook.com/ABC15/videos/789994464864154/?v=789994464864154 (Mass arrests starting at around 1:03:00 probably, but not definitely, in the Garfield neighborhood)
+* [Mass arrests starting at around 1:03:00 probably, but not definitely, in the Garfield neighborhood](https://www.facebook.com/ABC15/videos/789994464864154/?v=789994464864154)
 * [Similar complaints from Reddit](https://www.reddit.com/r/phoenix/comments/gvdjhw/garfield_neighborhood_was_terrorized_sunday_may_31/)
