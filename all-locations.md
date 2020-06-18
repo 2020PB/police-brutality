@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-18T13:03:29.397413+00:00
+UPDATED AT: 2020-06-18T14:51:55.086443+00:00
 
 
 # Alabama
@@ -5315,6 +5315,7 @@ id: wa-seattle-12
 
 * https://twitter.com/The_Stepover/status/1267236742278463488
 * https://twitter.com/eavu__/status/1267260549814870016
+* https://twitter.com/samjwc/status/1267355060666654720
 
 
 ### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
