@@ -10,15 +10,3 @@ id: tbd-tbd-1
 
 * https://twitter.com/perfectlyg0lden/status/1267014293628870656
 
-
-### Officer beats a protestor while pinning him on the ground |
-
-At the beginning of this video, an officer can be seen punching a protestor in the head while pinning him to the ground.
-
-tags: punch, tackle
-
-id: tbd-tbd-2
-
-**Links**
-
-* https://twitter.com/samjwc/status/1267355060666654720
