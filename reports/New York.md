@@ -400,7 +400,7 @@ A woman is seeing moving another protestor from the scene in an apparent attempt
 
 tags: arrest, kick, punch, strike, beat, baton
 
-id: ny-newyorkcity-42
+id: ny-newyorkcity-48
 
 **Links**
 
@@ -414,7 +414,7 @@ Footage shows a man with his hands up backing away from a band of police officer
 
 tags: arrest, shove, beat, tackle
 
-id: ny-newyorkcity-41
+id: ny-newyorkcity-42
 
 **Links**
 
