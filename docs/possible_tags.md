@@ -29,6 +29,7 @@ kick
 knee
 knee-on-neck
 lgbtq+
+lrad
 mace
 marking-rounds
 medic
@@ -91,6 +92,7 @@ headlock
 horse
 kick
 knee-on-neck
+lrad
 mace
 marking-rounds
 paintball
