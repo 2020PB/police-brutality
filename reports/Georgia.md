@@ -17,7 +17,7 @@ id: ga-atlanta-1
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
-tags: shove
+tags: shove, bike
 
 id: ga-atlanta-2
 
@@ -31,7 +31,7 @@ id: ga-atlanta-2
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
 
-tags: tase
+tags: tase, vehicle, grab
 
 id: ga-atlanta-3
 
@@ -48,7 +48,7 @@ id: ga-atlanta-3
 
 Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
 
-tags: punch, strike, arrest, knee
+tags: punch, strike, arrest, knee, tackle
 
 id: ga-atlanta-4
 
