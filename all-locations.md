@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-18T14:51:55.086443+00:00
+UPDATED AT: 2020-06-18T14:51:59.525889+00:00
 
 
 # Alabama
@@ -4984,18 +4984,6 @@ id: tbd-tbd-1
 
 * https://twitter.com/perfectlyg0lden/status/1267014293628870656
 
-
-### Officer beats a protestor while pinning him on the ground |
-
-At the beginning of this video, an officer can be seen punching a protestor in the head while pinning him to the ground.
-
-tags: punch, tackle
-
-id: tbd-tbd-2
-
-**Links**
-
-* https://twitter.com/samjwc/status/1267355060666654720
 
 
 
