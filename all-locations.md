@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T01:51:37.818665+00:00
+UPDATED AT: 2020-06-19T01:53:00.946484+00:00
 
 
 # Alabama
@@ -262,6 +262,21 @@ id: ca-hollywood-2
 **Links**
 
 * https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
+
+
+## Huntington Beach
+
+### Police fire at protestors on ground | June 1st
+
+Protestors laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protestors began standing, police fired projectiles at protestors. Police continued to fire off and on for at least one minute while protestors obeyed order to retreat.
+
+tags: shoot, projectiles
+
+id: ca-hungtingtonbeach-1
+
+**Links**
+
+* https://twitter.com/Ricardo_4715/status/1267334754119999488
 
 
 ## La Mesa
