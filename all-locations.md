@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T01:56:11.596482+00:00
+UPDATED AT: 2020-06-19T01:56:46.677475+00:00
 
 
 # Alabama
@@ -4724,6 +4724,19 @@ id: or-portland-7
 
 * [15:30, 17:50](https://twitter.com/45thabsurdist/status/1269882746656002049)
 * [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
+
+
+### Police apply no-assembly order to journalists | June 15th
+
+Early in the morning on June 15th, a police car announces to a journalist walking home that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
+
+tags: journalist
+
+id: or-portland-8
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1272427882359353344
 
 
 ## Salem
