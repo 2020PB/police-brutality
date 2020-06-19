@@ -29,6 +29,7 @@ id: ky-louisville-4
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
 * [Reddit Thread](https://www.reddit.com/r/Louisville/comments/gtk5a1/police_aiming_rubber_bullets_at_protestors_heads/)
 
+
 ### Police shoot man in the head with rubber bullet while he is walking away | May 30th
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights. 
@@ -41,6 +42,7 @@ id: ky-louisville-8
 
 * [Wave3 Article and Video](https://www.wave3.com/2020/06/12/protester-shot-head-files-lawsuit-against-law-enforcement/)
 * [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
+
 
 ### Police smashing water bottles | May 31st
 
@@ -69,6 +71,7 @@ id: ky-louisville-5
 * [Twitter Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
 * [Reddit Thread](https://www.reddit.com/r/Louisville/comments/guxosk/lmpd_shooting_pepperballs_at_moving_vehicles_in/)
 
+
 ### 5 police officers use batons to beat protester | May 31st
 
 A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison. 
@@ -94,6 +97,7 @@ id: ky-louisville-3
 **Links**
 
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
+
 
 ### Restaurant owner shot and killed | June 1st
 
@@ -125,6 +129,7 @@ id: ky-louisville-7
 
 * [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
 
+
 ### Police shove woman and then fire pepper balls at people who try to help her | Believed to be June 15th
 
 Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
@@ -136,6 +141,7 @@ id: ky-louisville-11
 **Links**
 
 * [Video of the incident](https://twitter.com/JasonRileyWDRB/status/1272965516286705665)
+
 
 ### Police tackle protestor, then target witness | June 16th
 
