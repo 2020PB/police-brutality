@@ -18,6 +18,23 @@ id: va-fairfax-1
 *  https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
 
 
+## Fredericksburg
+
+### Police fire tear gas at peaceful protest | May 31st
+
+Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protestors are lying on the ground as tear gas canisters fall around them.
+
+tags: tear-gas
+
+id: va-fredericksburg-2
+
+**Links**
+
+* https://twitter.com/Dannyklein69/status/1267261733376229379
+* https://twitter.com/Dannyklein69/status/1267261914138267649
+* https://twitter.com/Dannyklein69/status/1267261377435099142
+* https://twitter.com/greg_doucette/status/1268398488783642625
+
 ## Manassas
 
 ### Officers pepper-spray Virginia state delegate peacefully protesting | May 30
