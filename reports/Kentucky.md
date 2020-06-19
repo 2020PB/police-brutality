@@ -44,19 +44,6 @@ id: ky-louisville-8
 * [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
 
 
-### Police smashing water bottles | May 31st
-
-Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
-
-tags: property-destruction
-
-id: ky-louisville-1
-
-**Links**
-* [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
-* [89.3 WFPL reporting the mayor's response](https://twitter.com/WFPLNews/status/1266923468102262784)
-
-
 ### Police shoot at cars in traffic from overpass | May 30th
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
@@ -70,6 +57,19 @@ id: ky-louisville-5
 * [Twitch Video](https://m.twitch.tv/tchcreigo/clip/GentleRelentlessWalrusPoooound)
 * [Twitter Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
 * [Reddit Thread](https://www.reddit.com/r/Louisville/comments/guxosk/lmpd_shooting_pepperballs_at_moving_vehicles_in/)
+
+
+### Police smashing water bottles | May 31st
+
+Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
+
+tags: property-destruction
+
+id: ky-louisville-1
+
+**Links**
+* [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
+* [89.3 WFPL reporting the mayor's response](https://twitter.com/WFPLNews/status/1266923468102262784)
 
 
 ### 5 police officers use batons to beat protester | May 31st
