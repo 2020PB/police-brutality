@@ -128,6 +128,7 @@ id: oh-cleveland-3
 * https://twitter.com/NEO_Scan/status/1266848874163027970
 * https://www.cleveland.com/court-justice/2020/06/cleveland-police-gave-order-for-george-floyd-protesters-to-disperse-legal-observers-witnesses-said-no-one-heard-it.html
 * https://twitter.com/AntonioAlan216/status/1266877225707745280
+* https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
 ## Columbus
