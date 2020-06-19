@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T12:39:16.067690+00:00
+UPDATED AT: 2020-06-19T12:40:57.728450+00:00
 
 
 # Alabama
@@ -901,15 +901,16 @@ id: ca-vallejo-1
 
 ### Armored law enforcement vehicle threatens protestors | June 2nd
 
-In this video, an armored law enforcement vehicle tells protestors over megaphone "if you do not move, you will be dead."
+In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas.
 
-tags: threaten
+tags: threaten, tear-gas, vehicle
 
 id: ca-walnutcreek-1
 
 **Links**
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
+* https://jalopnik.com/cop-in-armored-truck-tells-peaceful-protesters-if-you-1843886752
 
 
 ### Police fire tear gas at peaceful protestors | June 2nd
