@@ -96,6 +96,7 @@ id: wa-seattle-12
 
 * https://twitter.com/The_Stepover/status/1267236742278463488
 * https://twitter.com/eavu__/status/1267260549814870016
+* https://twitter.com/samjwc/status/1267355060666654720
 
 
 ### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
@@ -209,6 +210,17 @@ id: wa-seattle-14
 * [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
 * https://imgur.com/a/fWkU0SA
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
+
+
+### Police pepper spray protesters standing in their way | June 11th
+
+Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
+
+tags: pepper-spray
+
+**Links**
+
+* [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
 
 
 ### Additional Seattle OPA Case Numbers

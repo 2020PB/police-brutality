@@ -99,6 +99,8 @@ id: mn-minneapolis-4
 
 While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
+Additional footage shows police fired on the press crew as well.
+
 tags: journalist, arrest
 
 id: mn-minneapolis-5
@@ -106,6 +108,7 @@ id: mn-minneapolis-5
 **Links**
 
 * https://www.youtube.com/watch?v=wmpic2NU1RM&feature=youtu.be
+* https://twitter.com/greg_doucette/status/1266958068807544839
 
 
 ### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
@@ -133,7 +136,6 @@ id: mn-minneapolis-16
 
 * [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
-* [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 
 ### Camera man shot by police | May 30th
@@ -185,6 +187,7 @@ id: mn-minneapolis-6
 **Links**
 
 * https://mobile.twitter.com/mollyhf/status/1266911382613692422
+* https://twitter.com/mollyhf/status/1269003675063799810
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
 
@@ -251,6 +254,8 @@ id: mn-minneapolis-10
 
 The picture shows the reporter's eye has been damaged, and potentially blinded.
 
+Journalist updated that she was permanently blinded in her left eye and her doctor has stated she cannot work for at least 6 weeks.
+
 tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-11
@@ -259,6 +264,7 @@ id: mn-minneapolis-11
 
 * https://mobile.twitter.com/KillerMartinis/status/1266618525600399361?s=19
 * https://twitter.com/chadloder/status/1267059540190625792
+* https://twitter.com/KillerMartinis/status/1266786161143537669
 
 
 ### Police shoot Reuters reporters with rubber bullets | May 31st
@@ -315,7 +321,7 @@ id: mn-minneapolis-18
 
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
 
-South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol"
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
 
 tags: journalist, pepper-spray, batons, beat, tear-gas, shoot, projectiles, spray
 
@@ -324,4 +330,5 @@ id: mn-minneapolis-19
 **Links**
 
 * https://twitter.com/edouphoto/status/1267958349477249024
+* https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/

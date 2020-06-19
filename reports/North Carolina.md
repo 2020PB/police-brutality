@@ -64,6 +64,7 @@ id: nc-charlotte-1
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://twitter.com/greg_doucette/status/1268030671706099717
 *  https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
+*  https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
 *  https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
 
 
@@ -81,6 +82,21 @@ id: nc-charlotte-2
 
 * https://twitter.com/greg_doucette/status/1270185252665864193
 * https://twitter.com/kaitlinwa24/status/1270113046606864389
+
+
+### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | June 18th
+
+The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protestors. 
+
+Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to ziptie. In addition, a reporter filming was struck by an officer and threatened with arrest.
+
+tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten
+
+id: nc-charlotte-3
+
+**Links**
+
+* [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
 
 
 ## Raleigh
