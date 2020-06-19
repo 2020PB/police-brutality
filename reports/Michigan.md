@@ -81,6 +81,41 @@ id: mi-detroit-6
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 
+### Police charge protestors and press | June 2nd
+
+Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning. 
+
+The footage becomes blurry as it appears that police strike the reporter, who repeatedly states, "I am press," and is standing alongside several camera crews.
+
+The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted.
+
+tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-destruction
+
+id: mi-detroit-7
+
+**Links**
+
+* https://twitter.com/MCmuckraker/status/1267982859991728130
+* https://twitter.com/MCmuckraker/status/1268011179986870273
+
+
+### Police use LRAD (sound cannon) to disperse protestors | June 2nd
+
+Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm. 
+
+The use of LRADs is a subject of much contention, with frequent reports of permanent nerve and hearing damage caused by their use.
+
+The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests. 
+
+tags: lrad
+
+id: mi-detroit-8
+
+**Links**
+
+* https://twitter.com/MedvisJackson/status/1267984069905784832
+
+
 ## Grand Rapids
 
 ### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
