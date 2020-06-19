@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T01:22:09.565749+00:00
+UPDATED AT: 2020-06-19T01:47:27.764162+00:00
 
 
 # Alabama
@@ -4266,6 +4266,7 @@ id: oh-columbus-16
 
 * https://twitter.com/bwk1992/status/1266833971570237442
 
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
@@ -4418,8 +4419,27 @@ id: oh-columbus-14
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
-* Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
-* Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+* [Part 1](https://www.tiktok.com/@zestaz/video/6833912697436867845)
+* [Part 2](https://www.tiktok.com/@zestaz/video/6833913925231185158)
+
+
+### Bronze star veteran recounts injuries from police at protests  | June 5th
+
+In an article from the Columbus Dispatch, a veteran, Ryan McMullen, recounts injuries he sustained at police hands from the beginning of protests up to Friday, June 5th.
+
+He states that he was maced, hit by a police officer on a bicycle, struck by ricocheting tear gas canisters, and shot 6 times with wooden pellets.
+
+In the interview, he stated: "This is worse than anything I received in an actual war zone,” citing special forces and contractor work in Afghanistan and East Africa.
+
+tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shot, wooden-bullets
+
+id: oh-columbus-18
+
+**Links**
+
+* https://www.dispatch.com/news/20200607/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus
+* [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
+
 
 ## Dayton
 
