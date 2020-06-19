@@ -84,7 +84,7 @@ id: or-portland-5
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
 
 
-### Officer attacks photographer with baton and pepper sprays him | June 6th
+### <a name="or-portland-6"></a>Officer attacks photographer with baton and pepper sprays him | June 6th 
 
 A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.
 
@@ -126,6 +126,21 @@ id: or-portland-8
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
+
+
+### Evidence of badges being hidden during the June 6th incident | June 17th
+
+On June 6th, PNW Resistance reported that Portland Police was making a swap to Personal Identification Numbers, in attempt to curve "doxing of officers". This action lead to an incidents that are reported [here](#or-portland-6).
+
+On June 17th, a Portland Attorney submitted a Freedom of Information Act Request to the Portland Police and confirmed that all officers were issued by Commander Erica Hurley to cover their last names and use a "BHR Personnel Number" (PRN).
+
+tags: hide-badges
+
+id: or-portland-9
+
+**Links**
+
+* [Tweet on June 17th enclosed FIA Request by Portland Attorney](https://twitter.com/alankesslr/status/1273299640310325250)
 
 
 ## Salem
