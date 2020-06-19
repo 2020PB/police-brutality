@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T18:24:49.014152+00:00
+UPDATED AT: 2020-06-19T18:28:08.670068+00:00
 
 
 # Alabama
@@ -2137,7 +2137,7 @@ id: ky-louisville-3
 
 ### Restaurant owner shot and killed | June 1st
 
-During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a restaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
+LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams. 
 
 tags: death, body-cams, real-bullets, pepper-ball
 
@@ -2177,6 +2177,8 @@ id: ky-louisville-11
 **Links**
 
 * [Video of the incident](https://twitter.com/JasonRileyWDRB/status/1272965516286705665)
+* [First person video](https://twitter.com/greg_doucette/status/1273127612546678786)
+* [Victim's account](https://www.instagram.com/p/CBleLePnpR_/)
 
 
 ### Police tackle protestor, then target witness | June 16th
@@ -2190,6 +2192,8 @@ id: ky-louisville-10
 **Links**
 
 * [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
+* [Backup Video (original made private)](https://drive.google.com/file/d/1p6FDE2y_T9bi_D3iakcnzOkS9vQIex5k/view?usp=sharing)
+* [Police confirm it was an officer](https://www.buzzfeednews.com/article/amberjamieson/louisville-shot-fired-security-guard-video)
 
 
 
