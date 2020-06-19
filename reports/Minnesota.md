@@ -10,9 +10,16 @@ tags: journalist, baton, beat, strike
 
 id: mn-minneapolis-21
 
+**Links**
+
+* https://youtu.be/XAa5xb6JitI?t=5982
+* https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
+
 ### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | May 26th
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
+
+tags: abuse-of-power, arrest
 
 id: mn-minneapolis-28
 
@@ -20,16 +27,11 @@ id: mn-minneapolis-28
 
 * https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/?multi_permalinks=2673458852933816%2C2673043962975305%2C2672351053044596%2C2672352373044464%2C2672353659711002&notif_id=1590031733032682&notif_t=group_activity
 
-**Links**
-
-* https://youtu.be/XAa5xb6JitI?t=5982
-* https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
-
 ### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-tags: flashbangs
+tags: flashbangs, rubber-bullets, tear-gas
 
 id: mn-minneapolis-14
 
