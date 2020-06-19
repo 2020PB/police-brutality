@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T12:40:57.728450+00:00
+UPDATED AT: 2020-06-19T18:24:49.014152+00:00
 
 
 # Alabama
@@ -627,6 +627,7 @@ id: ca-oakland-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
+* https://tuckbot.tv/#/watch/gttdkj
 
 
 ### Oakland law enforcement shoot a reporter | May 31st
