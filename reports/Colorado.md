@@ -187,7 +187,7 @@ id: co-denver-10
 
 ### Police shoot protester from behind with tear gas canister | June 2nd
 
-An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the bacck with pepper balls as she retreated.
+An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
 
 tags: shoot, tear-gas, tear-gas-canister, pepper-ball
 
