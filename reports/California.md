@@ -441,6 +441,7 @@ id: ca-oakland-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
+* https://tuckbot.tv/#/watch/gttdkj
 
 
 ### Oakland law enforcement shoot a reporter | May 31st
