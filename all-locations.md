@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T00:43:52.862307+00:00
+UPDATED AT: 2020-06-19T01:22:09.565749+00:00
 
 
 # Alabama
@@ -2820,17 +2820,34 @@ id: mo-kansascity-4
 * [Location via Google Street View](https://www.google.ca/maps/place/Giralda/@39.0425007,-94.5880276,3a,75y,208.49h,97.09t/data=!3m6!1e1!3m4!1sJzy4NglPGxJe3YarImT1Og!2e0!7i16384!8i8192!4m5!3m4!1s0x87c0efb6174d21e9:0xa50781025e9c6d35!8m2!3d39.0417847!4d-94.5879815)
 
 
-## St. Louis
+### Couple pepper-sprayed; woman knocked unconscious; man blinded by rubber bullet | June 2nd
+
+A couple states that they attended a peaceful protest in the early afternoon with their dog. After seeing police allegedly beat a trumpeter, they took their dog home and returned.
+
+Around 9pm, one victim, Sean, states that police began pepper-spraying without warning. He states that police knocked his partner, Sydney, to the pavement and she fell unconscious. Sean dragged her away to a nearby park. Shortly after she awoke, a rubber bullet struck Sean in the face.
+
+After arriving at the hospital, Sean was told he would be permanently blind, but had been spared broken bones or death by a matter of inches.
+
+tags: pepper-spray, rubber-bullets, spray, shoot
+
+id: mo-kansascity-6
+
+**Links**
+
+* https://www.thepitchkc.com/showing-up-as-an-ally-i-didnt-expect-the-police-to-blind-me-forever-but-ive-mad-my-piece/
+
+
+## Florissant
 
 ### Florissant officer hits man with unmarked police vehicle | June 2nd
 
 A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm. 
 
-Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time.
+Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time. There is also no dash-cam footage.
 
-tags: vehivle, drive, kick, strike, beat, body-cam
+tags: vehivle, drive, kick, strike, beat, body-cam, non-protest
 
-id: mo-stlouis-1
+id: mo-florissant-1
 
 **Links**
 
