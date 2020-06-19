@@ -179,6 +179,7 @@ id: pa-pittsburgh-3
 * https://pittsburgh.cbslocal.com/2020/06/03/protester-hopes-cell-phone-video-clears-his-name/
 * https://twitter.com/greg_doucette/status/1270149233673469957
 
+
 ### Officer pepper-sprays a woman who is on her knees with her hands up | June 1st
 
 A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board
