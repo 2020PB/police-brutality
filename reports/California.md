@@ -726,6 +726,7 @@ id: ca-walnutcreek-1
 * https://www.instagram.com/p/CA7KMc9pX5S/
 * https://jalopnik.com/cop-in-armored-truck-tells-peaceful-protesters-if-you-1843886752
 
+
 ### Police fire tear gas at peaceful protestors | June 2nd
 
 A small number of peaceful protestors are scattered in the street. Someone shouts, "Get back," and protestors begin running. Shots can be heard and tear gas is fired into the crowd.
