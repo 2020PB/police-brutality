@@ -400,12 +400,25 @@ A woman is seeing moving another protestor from the scene in an apparent attempt
 
 tags: arrest, kick, punch, strike, beat, baton
 
-id: ny-newyorkcity-32
+id: ny-newyorkcity-48
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268025470764888066
 * https://www.tiktok.com/@skoodupcam1/video/6833172353724239109
+
+
+### Police chase and beat protestors | May 31st
+
+Footage shows a man with his hands up backing away from a band of police officers (approximately 10-20). As the man backs across an intersection, an officer charges up to shove him. Officers then chase him and several bystanders, before tackling the man to the ground and beating him.
+
+tags: arrest, shove, beat, tackle
+
+id: ny-newyorkcity-42
+
+**Links**
+
+* https://twitter.com/brandon212_/status/1267184037547986944
 
 
 ### Officer threatens protestors with what appears to be a handgun | June 1st
@@ -520,7 +533,27 @@ id: ny-newyorkcity-35
 * https://twitter.com/NoahHurowitz/status/1268363104502657024
 
 
+### Police confiscate protestor's bike | June 3rd
+
+Footage shows NYPD officer grabbing a protestor's bike and walking away with it, citing curfew restrictions as the reason for seizure. 
+
+A thread on Twitter from an alleged victim and member of the press who states that police stole their bike and roughed them up.
+
+tags: journalist, bike, abuse-of-power, property-destruction
+
+id: ny-newyorkcity-45
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268398967777308672
+* https://twitter.com/ArminRosen/status/1268353044896505867
+
+
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
+
+Police strike a protestor with batons, before tackling him and arresting him. They shove other protestors with batons. Shortly after, police pin a man to the ground and kneel on him to make an arrest. A journalist identifies herself at the scene (link 3) and is credited with a first-person video (link 2) of the incident where she is shoved by police as she displays her press badge and films.
+
+Additional footage (link 4) from a journalist involved in the incident shows evidence of police shoving protestors and journalists throughout the night.
 
 tags: journalist, shove, strike, throw, beat, arrest, batons
 
@@ -529,6 +562,9 @@ id: ny-newyorkcity-23
 **Links**
 
 * https://twitter.com/johnknefel/status/1268736946031001607
+* https://twitter.com/greg_doucette/status/1269115518574833664
+* https://twitter.com/sydneyp1234/status/1269110395165446149
+* https://twitter.com/greg_doucette/status/1269103085584093184
 
 
 ### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
@@ -607,17 +643,112 @@ id: ny-newyorkcity-39
 * https://twitter.com/greg_doucette/status/1269788200630996993
 
 
-### NYPD pushes crowd into tight space and attacks several with batons | June 5th
+### NYPD target non-protesting legal observers | June 4th
 
-At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons.
+A CUNY grad student working with the National Lawyers Guild (NLG), often identified by neon hats, states he was approached by eight officers emerging from an unmarked van. He states he told police he was working with the NLG and that the curfew had not yet begun.
 
-tags: pepper-spray, spray, batons, beat
+The student states police seized his notebook and accused him of "illegal counter-surveillance against police." He additionally states hearing a call over the radio: "A lot of LOs out tonight," where LO is an abbrevation for Legal Observer. Although the NYPD patrol guide acknowledges the observers' right to monitor police activity and record the names of arrestees, the student and at least 10 other observers were arrested.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-40
+
+**Links**
+
+* https://gothamist.com/news/round-green-hats-nypd-accused-deliberately-targeting-legal-observers-brutal-bronx-mass-arrest
+* https://www.youtube.com/watch?v=OLn2iy-ia24&feature=emb_logo
+* https://www.youtube.com/watch?v=yuJWAEqfHO8&feature=emb_logo
+
+
+### NYPD pushes crowd into tight space and makes violent mass arrests | June 4th
+
+At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons. Police then proceeded to make violent mass arrests. Footage shows use of batons and shields to strike protesters and police kneeling on protestors to make arrests.
+
+Footage additionally shows officers standing on cars to swing batons at protestors.
+
+One video additionally shows protestors shouting for a medic as a woman has gone into labor.
+
+tags: pepper-spray, spray, batons, beat, shield, strike, arrest, pregnant
 
 id: ny-newyorkcity-25
 
 **Links**
 
 * https://twitter.com/AndomForNY/status/1269065176814358529
+* [pregnant woman at 2:08](https://twitter.com/AndomForNY/status/1269065999048941569)
+* https://twitter.com/AndomForNY/status/1269066762357805056
+* https://twitter.com/AndomForNY/status/1269067815752957953
+* https://twitter.com/ghouldisco/status/1268872802708357122
+
+
+### Police arrest hospital employee acting as medic | June 4th
+
+A crowd gathers around as a man in scrubs is arrested. 
+
+In a report after the fact, he says police laughed when he and other detained protestors requested masks. He also states that he was kept with 17 people in a small, warm room (he approximates 8'x10' and 85 degrees).
+
+tags: medic, arrest, abuse-of-power, inhumane-treatment
+
+id: ny-newyorkcity-47
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269083492140408832
+* https://twitter.com/left_voice/status/1268897203508084736
+
+
+### Police shove multiple reporters | June 4th
+
+At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first. 
+
+tags: journalist, baton, strike, shove
+
+id: ny-newyorkcity-43
+
+**Links**
+
+* https://twitter.com/carolineha_/status/1268726970331906051
+* https://twitter.com/RosalindZAdams/status/1268729386213298180
+
+
+### Couple arrested on their stoop for cheering protestors | June 4th
+
+A woman states she was arrested on the stoop of her home (which is private property and exempt from curfew restrictions) after cheering on passing protestors. Her footage shows a man being arrested while police tell the others to go inside because of the curfew, despite the fact that their stoop is acceptable under curfew restrictions.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-44
+
+**Links**
+
+* https://twitter.com/shainataub/status/1268919620456665088
+* https://twitter.com/shainataub/status/1268920887467802625
+
+
+### Police officer hides badge number and name | June 4th
+
+Video shows a police officer with a strip of tape covering his badge number. In addition, he has removed his name tag. He states he has received direct orders from above to do so.
+
+tags: hide-badges, abuse-of-power
+
+id: ny-newyorkcity-46
+
+**Links**
+
+* https://twitter.com/BreezeCrypto/status/1268595409733156868
+
+
+### Police shove protestor off bike | June 5th
+
+Footage shoves a small crowd of protestors arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
+
+tags: bike, shove, push
+
+id: ny-newyorkcity-41
+
+**Links**
+
+* https://twitter.com/C_Sommerfeldt/status/1269110624132489217
 
 
 ### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
