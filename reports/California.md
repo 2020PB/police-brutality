@@ -78,6 +78,21 @@ id: ca-hollywood-2
 * https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
 
 
+## Huntington Beach
+
+### Police fire at protestors on ground | June 1st
+
+Protestors laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protestors began standing, police fired projectiles at protestors. Police continued to fire off and on for at least one minute while protestors obeyed order to retreat.
+
+tags: shoot, projectiles
+
+id: ca-hungtingtonbeach-1
+
+**Links**
+
+* https://twitter.com/Ricardo_4715/status/1267334754119999488
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
