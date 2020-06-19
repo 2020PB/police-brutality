@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T01:53:47.092172+00:00
+UPDATED AT: 2020-06-19T01:56:11.596482+00:00
 
 
 # Alabama
@@ -2035,8 +2035,11 @@ id: ky-louisville-4
 
 **Links**
 
-* [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
+* [Video including Context](https://i.imgur.com/1KGZsXW.mp4)
+* [Twitter Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
+* [Reddit Thread](https://www.reddit.com/r/Louisville/comments/gtk5a1/police_aiming_rubber_bullets_at_protestors_heads/)
+
 
 ### Police shoot man in the head with rubber bullet while he is walking away | May 30th
 
@@ -2051,6 +2054,22 @@ id: ky-louisville-8
 * [Wave3 Article and Video](https://www.wave3.com/2020/06/12/protester-shot-head-files-lawsuit-against-law-enforcement/)
 * [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
 
+
+### Police shoot at cars in traffic from overpass | May 30th
+
+Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
+
+tags: shoot, projectiles, property-destruction
+
+id: ky-louisville-5
+
+**Links**
+
+* [Twitch Video](https://m.twitch.tv/tchcreigo/clip/GentleRelentlessWalrusPoooound)
+* [Twitter Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
+* [Reddit Thread](https://www.reddit.com/r/Louisville/comments/guxosk/lmpd_shooting_pepperballs_at_moving_vehicles_in/)
+
+
 ### Police smashing water bottles | May 31st
 
 Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
@@ -2063,18 +2082,6 @@ id: ky-louisville-1
 * [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
 * [89.3 WFPL reporting the mayor's response](https://twitter.com/WFPLNews/status/1266923468102262784)
 
-
-### Police shoot at cars in traffic from overpass | May 31st
-
-Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
-
-tags: shoot, projectiles, property-destruction
-
-id: ky-louisville-5
-
-**Links**
-
-* [Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
 
 ### 5 police officers use batons to beat protester | May 31st
 
@@ -2102,6 +2109,7 @@ id: ky-louisville-3
 
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
 
+
 ### Restaurant owner shot and killed | June 1st
 
 During protests, shots were fired by an unknown shooter. Police returned fire, shooting and killing a restaurant owner. Their bodycams were switched off at the time, and as a result the Lousiville chief of police has resigned. Louisville metro police has released a CCTV video which they claim shows McAtee firing a gun, but no gun is visible in the video.
@@ -2117,6 +2125,7 @@ id: ky-louisville-6
 * [Police-released CCTV footage of the incident](https://youtu.be/wDg9fev67lw)
 * [Video taken nearby during the shooting](https://mobile.twitter.com/chadloder/status/1267555717751296000)
 * [New York Times video showing four videos synchronized to show the full sequence of events](https://www.nytimes.com/video/us/100000007175316/the-david-mcatee-shooting-did-aggressive-policing-lead-to-a-fatal-outcome.html)
+* [Facebook post by officer involved glorifying violence (prior to shooting)](https://i.imgur.com/wZUnHYi.jpg)
 
 
 ### Protestors in St. Matthews shot with pepper rounds | June 3rd
@@ -2131,6 +2140,20 @@ id: ky-louisville-7
 
 * [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
 
+
+### Police shove woman and then fire pepper balls at people who try to help her | Believed to be June 15th
+
+Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
+
+tags: pepper-ball, shoot, shove, baton, arrest
+
+id: ky-louisville-11
+
+**Links**
+
+* [Video of the incident](https://twitter.com/JasonRileyWDRB/status/1272965516286705665)
+
+
 ### Police tackle protestor, then target witness | June 16th
 
 A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
@@ -2142,6 +2165,7 @@ id: ky-louisville-10
 **Links**
 
 * [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
+
 
 
 
