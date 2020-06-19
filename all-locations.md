@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-19T01:50:04.379399+00:00
+UPDATED AT: 2020-06-19T01:51:37.818665+00:00
 
 
 # Alabama
@@ -896,6 +896,18 @@ id: ca-walnutcreek-1
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
 
+
+### Police fire tear gas at peaceful protestors | June 2nd
+
+A small number of peaceful protestors are scattered in the street. Someone shouts, "Get back," and protestors begin running. Shots can be heard and tear gas is fired into the crowd.
+
+tags: tear-gas
+
+id: ca-walnutcreek-2
+
+**Links**
+
+* https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
 
 
 
