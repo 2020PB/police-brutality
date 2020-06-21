@@ -164,7 +164,7 @@ id: pa-philadelphia-6
 
 ## Pittsburgh
 
-### Police tear-gas, shoot adn arrest protestor confused by contradicting police instructions | May 30th
+### Police tear-gas, shoot and arrest protestor confused by contradicting police instructions | May 30th
 
 John Connors, a protestor in Pittsburgh on Saturday, May 30th, was recording the protest on his phone, when police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
 
