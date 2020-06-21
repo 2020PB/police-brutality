@@ -263,10 +263,23 @@ A man was filming police walking down the street and making comments like "that 
 
 tags: shoot, rubber-bullets
 
-id: tx-sanantonio-2
+id: tx-sanantonio-1
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gu3s6j/police_shoots_protestor_for_no_reason/
 * [Mirror](https://tuckbot.tv/#/watch/gu3s6j)
 * https://twitter.com/chadloder/status/1267124991809609728
+
+
+### Police fire on protestors without warning | June 2nd
+
+Police are protestors are gathered several feet apart. Between the two lines, a protestor is seen telling other protestors to put their hands up. Police then fire as protestors scatter.
+
+tags: shoot, projectile
+
+id: tx-sanantonio-2
+
+**Links**
+
+* https://twitter.com/SanAntonioProbz/status/1268027491987468288
