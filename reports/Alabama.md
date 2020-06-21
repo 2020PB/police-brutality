@@ -12,6 +12,7 @@ id: al-birmingham-1
 
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
 
+
 ## Hoover
 
 ### Police make a series of violent arrests | May 31st
