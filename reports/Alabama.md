@@ -12,6 +12,24 @@ id: al-birmingham-1
 
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
 
+### Police arrest journalist Michael Harriot | June 4
+
+Journalist Michael Harriot was covering a protest. He left his press pass in the car as he feared he might be targeted by protesters, but he says he had a digital press pass on his phone. (There was a rumor that the Klan would be holding a rally; the klan never showed up but some Birmingham citizens appeared to counter-protest. Harriot references guidance from the Poynter institute which warns journalists that they should "have credentials easily available," but "think carefully about whether you display credentials openly when surrounded by demonstrators. Do not hang credentials on a lanyard around your neck.") Harriot was standing in a group of journalists. 
+
+A group of around six police officers arrested Harriot. AL.com claims that Harriot "was asked if he could show credentials but said he did not have any with him;" Harriot claims that "officers said they couldn’t let me have my phone to show my digital credentials." AL.com says that "the department’s public information officer, Sgt. Rod Mauldin, said he then asked him if there was anyway to make contact with his company to confirm he was media and Harriot said no;" Harriot says he "told them they could just call the mayor’s office to verify my media credentials; they did not attempt to verify it." 
+
+According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; the aid of a pocket knife was required in addition to the usual tool. Harriot was also interviewed by someone claiming to be from the FBI.
+
+tags: arrest, journalist
+
+id: al-birmingham-2
+
+**Links**
+
+* https://www.theroot.com/a-letter-not-from-a-birmingham-jail-1843926346
+* https://www.al.com/news/birmingham/2020/06/journalist-michael-harriot-arrested-after-birmingham-protest.html
+* [Video](https://www.youtube.com/watch?v=H308RU7jtM4)
+* [Poynter institute guidance for journalists](https://www.poynter.org/reporting-editing/2020/23-guidelines-for-journalists-to-safely-cover-protests-this-weekend/)
 
 ## Hoover
 
