@@ -1,3 +1,17 @@
+## Birmingham
+
+### Police arrest two reporters | June 3
+
+Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety.
+
+tags: arrest, journalist
+
+id: al-birmingham-1
+
+**Links**
+
+* https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
+
 ## Hoover
 
 ### Police make a series of violent arrests | May 31st
