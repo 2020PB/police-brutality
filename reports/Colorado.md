@@ -61,20 +61,6 @@ id: co-denver-3
 *	https://www.thedenverchannel.com/news/local-news/peaceful-protests-demanding-justice-for-george-floyd-in-denver-turn-violent-for-a-2nd-straight-day
 
 
-### Denver SWAT shoot at woman trying to stop armored car | May 29th
-
-A woman stops an armored SWAT car (marked APC01) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
-Three armored police get out from back of armored car. One walks around the side and shoots some projectile, hitting the ground in front of the woman.
-
-tags: shoot, projectile, vehicle
-
-id: co-denver-4
-
-**Links**
-
-* https://twitter.com/DoughertyKMGH/status/1266560264918491138/video/1
-
-
 ### Police discharge tear gas into group of protesters | May 29th
 
 An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
