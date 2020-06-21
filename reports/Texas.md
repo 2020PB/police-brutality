@@ -176,6 +176,8 @@ id: tx-dallas-4
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
+Additional footage shows a protest in the same vicinity. Police sound a siren and protestors begin to back away. Police then begin releasing tear gas.
+
 tags: flashbangs, tear-gas
 
 id: tx-dallas-2
@@ -183,6 +185,7 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+* https://twitter.com/calvinwatkins
 
 
 ### Police fire rubber bullet on peaceful protestor | June 1st
