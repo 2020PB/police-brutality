@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-22T21:18:10.795371+00:00
+UPDATED AT: 2020-06-22T21:18:55.097398+00:00
 
 
 # Alabama
@@ -5751,6 +5751,21 @@ id: va-richmond-5
 * https://twitter.com/ZyahnaB/status/1272716305813118976
 * https://twitter.com/ZyahnaB/status/1272716632541089792
 * https://twitter.com/GoadGatsby/status/1272701413169287175
+
+
+### Police pepper-spray journalist | June 21st
+
+First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately. 
+
+He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
+
+tags: pepper-spray, spray, shove, journalist
+
+id: va-richmond-7
+
+**Links**
+
+* https://twitter.com/aeringle/status/1274898298923606017
 
 
 
