@@ -391,9 +391,9 @@ id: oh-columbus-18
 
 ### Man maced by police | June 21st
 
-Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prostehtic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. 
+Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. 
 
-Additional footage appears to show the prostethics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
+Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
 
 Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protestor-provided footage.
 
