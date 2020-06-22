@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-22T21:18:55.097398+00:00
+UPDATED AT: 2020-06-22T21:21:55.163196+00:00
 
 
 # Alabama
@@ -419,7 +419,7 @@ LAPD using Metro buses to transport arrested protestors after transit service sh
 
 tags: inhumane-treatment
 
-id: ca-losangeles-24
+id: ca-losangeles-23
 
 **Links**
 
@@ -639,12 +639,42 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 
 tags: shoot, projectile, tear-gas
 
-id: ca-los-angeles-20
+id: ca-losangeles-20
 
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+### Police tear gas peaceful protest | June 21st
+
+Footage shows scattered protestors on pedestrian walkway with police firing tear gas around them. Additional footage shows protestors helping one another recover from the damage.
+
+A journalist states they were tear-gassed while holding up their press badge in plain view.
+
+tags: tear-gas, journalist
+
+id: ca-losangeles-21
+
+**Links**
+* https://twitter.com/josie_huang/status/1274859389921267713
+* https://twitter.com/josie_huang/status/1274860188898430976
+
+
+### Police fire less-lethal rounds at protestors | June 21st
+
+Footage shows police and protestors separated by a barricade. Protestors shout at police to put their guns down. Without verbal warning, police fire on protestors.
+
+In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-22
+
+**Links**
+* https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
+* https://twitter.com/josie_huang/status/1274863117004988416
 
 
 ## Oakland
