@@ -391,7 +391,11 @@ id: oh-columbus-18
 
 ### Man maced by police | June 21st
 
-Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prostehtic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. Additional footage appears to show the prostethics disconnect when the man was shoved by police.
+Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prostehtic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. 
+
+Additional footage appears to show the prostethics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
+
+Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protestor-provided footage.
 
 tags: mace, pepper-spray, spray, shove, person-with-disability
 
@@ -401,6 +405,7 @@ id: oh-columbus-19
 
 * https://www.reddit.com/r/Columbus/comments/hdf4hu/cpd_just_hit_and_maced_a_double_amputee_bravo_you/
 * [Man seen in background around 0:14](https://www.reddit.com/r/Columbus/comments/hddsqd/gotta_love_the_cop_dual_wielding_pepper_spray_cans/)
+* [Body cam footage](https://twitter.com/jessistarkey/status/1274869173206888448)
 
 
 ## Dayton
