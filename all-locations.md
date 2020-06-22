@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-22T21:21:55.163196+00:00
+UPDATED AT: 2020-06-22T21:22:17.717953+00:00
 
 
 # Alabama
@@ -5455,6 +5455,8 @@ id: tx-dallas-4
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
+Additional footage shows a protest in the same vicinity. Police sound a siren and protestors begin to back away. Police then begin releasing tear gas.
+
 tags: flashbangs, tear-gas
 
 id: tx-dallas-2
@@ -5462,6 +5464,7 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+* https://twitter.com/calvinwatkins
 
 
 ### Police fire rubber bullet on peaceful protestor | June 1st
