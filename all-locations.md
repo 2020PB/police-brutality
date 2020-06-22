@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-22T21:22:17.717953+00:00
+UPDATED AT: 2020-06-22T21:23:11.749889+00:00
 
 
 # Alabama
@@ -5337,6 +5337,22 @@ id: tx-austin-5
 **Links**
 
 * https://twitter.com/ironfront7/status/1267133400156196870
+
+
+### Pregnant woman shot with bean bags by police | May 30th
+
+A pregnant woman in Austin states she was sitting during a May 30th protest. As police began to pepper-spray the crowd, she stood to run. Police then shot her multiple times in the abdomen, back and head. The Austin Police Chief has stated the incident is under review.
+
+Fortunately, the woman did not suffer a miscarriage.
+
+tags: pregnant, bean-bags, shoot
+
+id: tx-austin-8
+
+**Links**
+
+* https://www.statesman.com/news/20200612/pregnant-woman-shot-with-beanbag-round-by-austin-police-wants-them-held-accountable
+* https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
 
 
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
