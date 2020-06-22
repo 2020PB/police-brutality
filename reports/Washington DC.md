@@ -203,7 +203,7 @@ tags: hide-badges, abuse-of-power
 
 id: dc-dc-14
 
-**Links**8
+**Links**
 
 * https://twitter.com/bdaviskc/status/1268401251978563585
 * https://www.nytimes.com/2020/06/04/us/politics/unidentified-police-protests.html
