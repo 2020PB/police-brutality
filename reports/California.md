@@ -200,7 +200,7 @@ LAPD using Metro buses to transport arrested protestors after transit service sh
 
 tags: inhumane-treatment
 
-id: ca-losangeles-24
+id: ca-losangeles-23
 
 **Links**
 
@@ -420,7 +420,7 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 
 tags: shoot, projectile, tear-gas
 
-id: ca-los-angeles-20
+id: ca-losangeles-20
 
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
@@ -436,7 +436,7 @@ A journalist states they were tear-gassed while holding up their press badge in 
 
 tags: tear-gas, journalist
 
-id: ca-los-angeles-21
+id: ca-losangeles-21
 
 **Links**
 * https://twitter.com/josie_huang/status/1274859389921267713
@@ -451,7 +451,7 @@ In footage from a journalist, a protestor wearing a U.S. military jacket shows o
 
 tags: shoot, projectiles
 
-id: ca-los-angeles-22
+id: ca-losangeles-22
 
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
