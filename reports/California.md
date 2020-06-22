@@ -443,7 +443,9 @@ id: ca-los-angeles-21
 * https://twitter.com/josie_huang/status/1274860188898430976
 
 
-### Protestor struck twice by less-lethal rounds | June 21st
+### Police fire less-lethal rounds at protestors | June 21st
+
+Footage shows police and protestors separated by a barricade. Protestors shout at police to put their guns down. Without verbal warning, police fire on protestors.
 
 In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
 
@@ -452,6 +454,7 @@ tags: shoot, projectiles
 id: ca-los-angeles-22
 
 **Links**
+* https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
 
 
