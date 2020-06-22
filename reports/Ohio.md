@@ -389,6 +389,20 @@ id: oh-columbus-18
 * [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
 
 
+### Man maced by police | June 21st
+
+Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prostehtic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. Additional footage appears to show the prostethics disconnect when the man was shoved by police.
+
+tags: mace, pepper-spray, spray, shove, person-with-disability
+
+id: oh-columbus-19
+
+**Links**
+
+* https://www.reddit.com/r/Columbus/comments/hdf4hu/cpd_just_hit_and_maced_a_double_amputee_bravo_you/
+* [Man seen in background around 0:14](https://www.reddit.com/r/Columbus/comments/hddsqd/gotta_love_the_cop_dual_wielding_pepper_spray_cans/)
+
+
 ## Dayton
 
 ### Police fire multiple cans of tear gas at protestors | May 30th
