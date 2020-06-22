@@ -180,6 +180,19 @@ id: mn-minneapolis-25
 
 * https://www.youtube.com/watch?v=gfb_zJiMTFU
 
+### Law enforcement officers slash car tires. | May 30th
+
+Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St. 
+
+tags: abuse-of-power, property-destruction.
+
+id: mn-minneapolis-29
+
+**Links**
+
+* https://twitter.com/val_ebertz/status/1266975058230235137
+* https://twitter.com/Jeff_Wagner4/status/1266933139303268353
+
 
 ### Police shoot at a woman on her porch | May 31st
 
