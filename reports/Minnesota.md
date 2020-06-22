@@ -165,6 +165,22 @@ id: mn-minneapolis-23
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
 
 
+
+### Medics talk about police destroying tent and slashing tires. | May 30th
+
+Medics set up a tent, police shot rubber bullets and gas at their facility in a Kmart parking lot at Nicollet and Lake St. Medics state they announced clearly their tent had only medics and wounded, but police and National Guard opened fire. After the medics left, officers destroyed their tent and prevented medics from returning. Medics also state police slashed tires.
+
+Medics state they were able to move everyone who needed help.
+
+tags: medic, property-destruction
+
+id: mn-minneapolis-25
+
+**Links**
+
+* https://www.youtube.com/watch?v=gfb_zJiMTFU
+
+
 ### Police shoot at a woman on her porch | May 31st
 
 In an attempt to move residents inside, the police fire shots at them.
