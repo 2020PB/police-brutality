@@ -93,6 +93,24 @@ id: ca-hungtingtonbeach-1
 * https://twitter.com/Ricardo_4715/status/1267334754119999488
 
 
+## Lakewood
+
+
+### Police fire projectiles at protesters and discharge teargas | June 5th
+
+In Lakewood, police fire projectiles at protesters and discharge teargas.
+
+tags: shoot, projectile, tear-gas
+
+id: ca-lakewood-1
+
+**Links**
+* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
@@ -412,20 +430,6 @@ id: ca-losangeles-19
 *  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
 *  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
 *  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
-
-
-### Police fire projectiles at protesters and discharge teargas | June 5th
-
-In Lakewood, police fire projectiles at protesters and discharge teargas.
-
-tags: shoot, projectile, tear-gas
-
-id: ca-losangeles-20
-
-**Links**
-* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
 
 
 ### Police tear gas peaceful protest | June 21st
