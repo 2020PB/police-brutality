@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T17:57:45.669693+00:00
+UPDATED AT: 2020-06-23T17:58:00.222755+00:00
 
 
 # Alabama
@@ -6259,12 +6259,12 @@ id: dc-dc-2
 * https://twitter.com/ASB_Breaking/status/1267596043870486528
 * https://twitter.com/i/status/1267597024096137217
 * https://twitter.com/i/status/1267606685767667712
-* Alternate footage: https://v.redd.it/qf9vf0hdrd251
-* Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
-* CW: Blood: https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/
+* [Alternate footage](https://v.redd.it/qf9vf0hdrd251)
+* [Mirror of alternate footage](https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484)
+* [CW: Blood](https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/)
 
 
-### Protestors are quickly and violently pushed out of Lafayette Square | June 1
+### Protestors are quickly and violently pushed out of Lafayette Square | June 1st
 
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors via tear gas and flashbangs.
 
@@ -6281,9 +6281,9 @@ id: dc-dc-3
 * https://twitter.com/nytimes/status/1267638330654625794
 
 
-### Officer fires tear gas cannister at protestor's head |
+### Officer fires tear gas canister at protestor's head | June 1st
 
-DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
+DCPD officer aims tear gas canister at protestor's head, narrowly misses.
 
 tags: tear-gas-canister, projectiles
 id: dc-dc-4
@@ -6318,7 +6318,7 @@ id: dc-dc-6
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
 
-### Police charge peaceful crowd, beat them with shields |
+### Police charge peaceful crowd, beat them with shields | June 1st
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
@@ -6342,7 +6342,36 @@ id: dc-dc-8
 * https://twitter.com/i/status/1269859559859871744
 
 
-### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protestor and CNN crew | June 3
+### Protestor bashed with riot shield, shoved and shot by police | June 1st
+
+Footage from Anderson Cooper 360 uploaded to Twitter on June 1st shows a protestor struck by an officer with a riot shield. Blood is seen coming from the protestor's face.
+
+Footage then shows the protestor shoved to the ground and shot. 
+
+tags: shield, beat, shoot, shove
+
+id: dc-dc-15
+
+**Links**
+
+* https://twitter.com/WestofHereFox/status/1267615709791731713
+
+
+### Unmarked federal agents aid police | June 2nd
+
+Armed men are seen supporting police efforts. When asked to identify themselves, they stated only that they work for the Department of Justice or "the federal government." They had no identifying names or numbers.
+
+tags: hide-badges, abuse-of-power
+
+id: dc-dc-13
+
+**Links**
+
+* https://twitter.com/dfriedman33/status/1267936203522932738
+* https://twitter.com/dfriedman33/status/1267936685536481280
+
+
+### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protestor and CNN crew | June 3rd
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
@@ -6354,9 +6383,10 @@ id: dc-dc-9
 * https://twitter.com/MarkIronsMedia/status/1268046417865715713
 * https://twitter.com/MarkIronsMedia/status/1268062053182443522
 * https://twitter.com/gifdsports/status/1268041853196275712
+* https://twitter.com/Joshrepp/status/1268204713939435521
 
 
-### Law enforcement officers throw stinger grenades at peaceful protestors | June 3
+### Law enforcement officers throw stinger grenades at peaceful protestors | June 3rd
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
 
@@ -6367,6 +6397,36 @@ id: dc-dc-10
 
 * https://twitter.com/greg_doucette/status/1268297598856765441
 * https://twitter.com/greg_doucette/status/1268297598856765441
+
+
+### Unknown federal agents aid police | June 4th
+
+Footage shows a line of agents wearing riot gear. They do not have names, badges or body cams. They allegedly refused to tell protestors what agency sent them.
+
+Additional reports suggest they are members of the federal Bureau of Prisons trained specifically for prison riots.
+
+tags: hide-badges, abuse-of-power
+
+id: dc-dc-14
+
+**Links**
+
+* https://twitter.com/bdaviskc/status/1268401251978563585
+* https://www.nytimes.com/2020/06/04/us/politics/unidentified-police-protests.html
+* https://www.businessinsider.com/officers-special-trained-prison-riots-face-off-with-dc-protesters-2020-6
+
+
+### Police violently arrest protestor | June 22nd
+
+During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protestor. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
+
+tags: beat, batons, arrest, knee
+
+id: dc-dc-16
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1275249479554400256
 
 
 
