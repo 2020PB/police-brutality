@@ -95,7 +95,7 @@ id: va-richmond-2
 
 ### Officer spits on detained protestor | June 1st
 
-A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera.
+A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera. Extended footage shows the officer continuing to spit on the protestor.
 
 tags: arrest, inhumane-treatment
 
@@ -104,6 +104,8 @@ id: va-richmond-3
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
+* [Extended Footage](https://twitter.com/greg_doucette/status/1269504306836799489)
+* [Youtube mirror of extended footage](https://www.youtube.com/watch?v=6hLCNhZC7Uo)
 
 
 ### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 4th
