@@ -208,3 +208,16 @@ id: dc-dc-14
 * https://twitter.com/bdaviskc/status/1268401251978563585
 * https://www.nytimes.com/2020/06/04/us/politics/unidentified-police-protests.html
 * https://www.businessinsider.com/officers-special-trained-prison-riots-face-off-with-dc-protesters-2020-6
+
+
+### Police violently arrest protestor | June 22nd
+
+During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protestor. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
+
+tags: beat, batons, arrest, knee
+
+id: dc-dc-16
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1275249479554400256
