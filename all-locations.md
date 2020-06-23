@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T17:58:49.664642+00:00
+UPDATED AT: 2020-06-23T17:58:57.402377+00:00
 
 
 # Alabama
@@ -704,6 +704,20 @@ id: ca-oakland-2
 **Links**
 
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
+
+
+### Water bottle tossed at police; police retaliate against crowd | June 2nd
+
+Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately. 
+
+tags: tear-gas
+
+id: ca-oakland-3
+
+**Links**
+
+* https://twitter.com/byjacobward/status/1267695808784199680
+* https://twitter.com/greg_doucette/status/1270490060287344642
 
 
 ## Riverside
