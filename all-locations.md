@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T17:58:04.532599+00:00
+UPDATED AT: 2020-06-23T17:58:49.664642+00:00
 
 
 # Alabama
@@ -6074,6 +6074,28 @@ id: wa-seattle-5
 * https://twitter.com/catsayshello/status/1268073344814866432
 * https://www.instagram.com/tv/CA63KMnlVvu/?igshid=hfp3uoaqe23p
 * https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
+
+
+### Protestor targeted days after protest | June 5th
+
+Footage and reports show approximately 30 police officers in 6-7 squad cars arrive to arrest a woman in a car with her 9 year old child.
+
+Officers arrived on the scene brandishing mace, alleging that the woman assaulted two police officers several days prior. She was dragged from her car and the car was towed from her home.
+
+Officers cited a Star Wars meme depicting a Landspeeder with a caption saying, "This machine kills facists," as intent to kill officers.
+
+The woman states she tried to help a friend who was being shot with rubber bullets. 
+
+tags: arrest, abuse-of-power
+
+id: wa-seattle-16
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269380431478173699
+* https://twitter.com/daeshikjr/status/1269328705752494081
+* https://twitter.com/Maoquai/status/1269116223658160129
+* https://twitter.com/greg_doucette/status/1269393375146446850
 
 
 ### Officer chokes and places knee on neck of woman | June 6th
