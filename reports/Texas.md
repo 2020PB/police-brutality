@@ -301,7 +301,7 @@ id: tx-sanantonio-2
 
 **Links**
 
-* https://twitter.com/SanAntonioProbz/status/126802749198746828
+* https://twitter.com/SanAntonioProbz/status/1268027491987468288
 
 ### Police gang up on protestors to beat them with batons. Then pepper spray man for recording | (believed to be) June 2nd
 
