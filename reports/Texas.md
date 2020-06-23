@@ -231,6 +231,20 @@ id: tx-dallas-3
 * https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
 * [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
 
+## El Paso
+
+### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protestors | (believed to be) May 31st
+
+Police fire teargas cannisters into peaceful crowd of unarmed protestors.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
+
+tags: tear-gas-canister, projectiles
+
+id: tx-elpaso-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267430869154902019
+
 
 ## Houston
 
@@ -274,6 +288,18 @@ id: tx-houston-3
 * https://twitter.com/DomSkyeRN/status/1270185401060294656
 
 
+### Police gang up on protestors to beat them with batons. Then pepper spray man for recording | (believed to be) June 2nd
+
+Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
+
+tags: baton, pepper-spray, punch
+
+id: tx-houston-4
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268392253665546245
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
@@ -302,32 +328,3 @@ id: tx-sanantonio-2
 **Links**
 
 * https://twitter.com/SanAntonioProbz/status/1268027491987468288
-
-### Police gang up on protestors to beat them with batons. Then pepper spray man for recording | (believed to be) June 2nd
-
-Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
-
-tags: baton, pepper-spray, punch
-
-id: tx-houston-3
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268392253665546245
-
-### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protestors | (believed to be) May 31st
-
-Police fire teargas cannisters into peaceful crowd of unarmed protestors.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
-
-tags: tear-gas-canister, projectiles
-
-id: tx-elpaso-1
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1267430869154902019
-
-
-
-
-
