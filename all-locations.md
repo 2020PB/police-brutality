@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T17:57:24.220710+00:00
+UPDATED AT: 2020-06-23T17:57:30.446785+00:00
 
 
 # Alabama
@@ -4931,6 +4931,19 @@ id: or-portland-5
 **Links**
 
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
+
+
+### Police shoot peaceful protestors on sidewalk | June 5th
+
+Footage shows a police van drive up on a small group of protestors on the sidewalk, walking away from the officers. Police jump off the van and immediately begin firing at protestors.
+
+tags: shoot, projectiles
+
+id: or-portland-9
+
+**Links**
+
+* https://twitter.com/bigpieceoftoast/status/1269393272570437632
 
 
 ### Officer attacks photographer with baton and pepper sprays him | June 6th
