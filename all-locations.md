@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T17:56:16.701408+00:00
+UPDATED AT: 2020-06-23T17:57:03.806916+00:00
 
 
 # Alabama
@@ -5146,6 +5146,28 @@ id: pa-philadelphia-8
 **Links**
 
 *  https://twitter.com/tippedminimum/status/1268001268406136832
+
+
+### Police selectively enforce curfew and dispersal orders | June 1st
+
+During protests, groups of men armed with guns, bats, and other blunt instruments roved around the Fishtown neighborhood of Philadelphia. They continued patrolling after curfew. Footage shows Philadelphia police warning militia to leave so they could enforce arrests of BLM protestors. In addition, images show police chatting and taking photos with the groups. One video taken by a gunman states that the police want to take pictures with them.
+
+Footage shows members of the groups threatening and shouting racial and homophobic slurs at protestors without police intervention. One journalist posted a picture of himself with a head wound, alleging that one of these groups beat him for filming them.
+
+tags: abuse-of-power
+
+id: pa-philadelphia-10
+
+**Links**
+
+* [Video in comments](https://www.facebook.com/groups/fishtownisawesome/permalink/2696046047166116/)
+* https://twitter.com/StreetsDept/status/1269031817253982215
+* https://twitter.com/DAZZLESTORM/status/1267621074457505792
+* https://twitter.com/DAZZLESTORM/status/1267621072352022535
+* https://twitter.com/jwehrens/status/1267621976379740170
+* https://twitter.com/jpegjoshua/status/1267634390496149506
+* https://twitter.com/jpegjoshua/status/1267636972404736000
+* https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
