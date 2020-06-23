@@ -153,7 +153,6 @@ id: ca-losangeles-2
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
-
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
@@ -378,6 +377,7 @@ id: ca-losangeles-1
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
+* https://twitter.com/ItsjustmeD_/status/1268596982966218752
 
 
 
@@ -457,6 +457,31 @@ id: ca-losangeles-22
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
 
+
+### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
+
+LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
+
+tags: shoot, projectiles, baton
+
+id: ca-losangeles-23
+
+**Links**
+
+* https://twitter.com/MattMcGorry/status/1267217360894562306
+* https://twitter.com/greg_doucette/status/1267605209745887233
+
+### LAPD destroy car to drag out occupants | (believed to be) June 1
+
+LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
+
+tags: property-destruction
+
+id: ca-losangeles-24
+
+**Links**
+
+* https://twitter.com/GadiNBC/status/1268016449320177665
 
 ## Oakland
 
