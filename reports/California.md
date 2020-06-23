@@ -589,6 +589,19 @@ id: ca-sandiego-3
 * https://twitter.com/MarajYikes/status/1267030131563827200
 
 
+### Police fire on dancing protestors | May 31st
+
+Footage shows protestors playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protestors then flee.
+
+tags: tear-gas, shoot, projectiles
+
+id: ca-sandiego-4
+
+**Links**
+
+* https://twitter.com/mariahalize3/status/1267225330093191168
+
+
 ### Police abduct woman in unmarked van | June 4th
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
