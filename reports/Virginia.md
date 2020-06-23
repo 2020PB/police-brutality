@@ -178,6 +178,8 @@ id: va-richmond-8
 
 **Links**
 
-* [Full timeline of events twitter thread](https://twitter.com/NotLevar/status/1275368795444588544), including a [tear gas](https://twitter.com/NotLevar/status/1275368797466243073) and [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
+* [Full timeline of events twitter thread](https://twitter.com/NotLevar/status/1275368795444588544)
+* [tear gas](https://twitter.com/NotLevar/status/1275368797466243073) 
+* [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
