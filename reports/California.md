@@ -487,6 +487,20 @@ id: ca-oakland-2
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
 
 
+### Water bottle tossed at police; police retaliate against crowd | June 2nd
+
+Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately. 
+
+tags: tear-gas
+
+id: ca-oakland-3
+
+**Links**
+
+* https://twitter.com/byjacobward/status/1267695808784199680
+* https://twitter.com/greg_doucette/status/1270490060287344642
+
+
 ## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
