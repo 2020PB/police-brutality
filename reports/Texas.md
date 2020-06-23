@@ -301,4 +301,33 @@ id: tx-sanantonio-2
 
 **Links**
 
-* https://twitter.com/SanAntonioProbz/status/1268027491987468288
+* https://twitter.com/SanAntonioProbz/status/126802749198746828
+
+### Police gang up on protestors to beat them with batons. Then pepper spray man for recording | (believed to be) June 2nd
+
+Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
+
+tags: baton, pepper-spray, punch
+
+id: tx-houston-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268392253665546245
+
+### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protestors | (believed to be) May 31st
+
+Police fire teargas cannisters into peaceful crowd of unarmed protestors.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
+
+tags: tear-gas-canister, projectiles
+
+id: tx-elpaso-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267430869154902019
+
+
+
+
+
