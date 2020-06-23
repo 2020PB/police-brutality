@@ -170,9 +170,9 @@ id: va-richmond-7
 
 ### Police escalate against protestors outside city hall | June 23rd
 
-Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man, tackle down a woman backing away behind umbrella.
+Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
-tags: shove, tear gas, shoot
+tags: shove, tear-gas, shoot
 
 id: va-richmond-8
 
