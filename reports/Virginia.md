@@ -168,12 +168,16 @@ id: va-richmond-7
 * https://twitter.com/aeringle/status/1274898298923606017
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
-### Police escale against protestors outside city hall | June 23rd
+### Police escalate against protestors outside city hall | June 23rd
 
-Officers quickly escale against a peaceful nighttime protest outside cite hall. Police shoot what looks like a gas canister into the head of one man, tackle down a woman backing away behind umbrella.
+Officers quickly escalate against a peaceful nighttime protest outside cite hall. Police shoot what looks like a gas canister into the head of one man, tackle down a woman backing away behind umbrella.
+
+tags: shove, tear gas, shoot
+
+id: va-richmond-8
 
 **Links**
 
-* [Full timeline of events twitter thread](https://twitter.com/NotLevar/status/1275368795444588544)
+* [Full timeline of events twitter thread](https://twitter.com/NotLevar/status/1275368795444588544), including a [tear gas](https://twitter.com/NotLevar/status/1275368797466243073) and [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
