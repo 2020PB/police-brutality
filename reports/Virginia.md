@@ -157,6 +157,8 @@ First-person footage from a journalist shows him shouting, "I'm press, I'm press
 
 He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
 
+Reddit link shows scuffle was instigated after a protestor beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
+
 tags: pepper-spray, spray, shove, journalist
 
 id: va-richmond-7
@@ -164,4 +166,4 @@ id: va-richmond-7
 **Links**
 
 * https://twitter.com/aeringle/status/1274898298923606017
-
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
