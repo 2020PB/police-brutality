@@ -288,7 +288,7 @@ id: tx-houston-3
 * https://twitter.com/DomSkyeRN/status/1270185401060294656
 
 
-### Police gang up on protestors to beat them with batons. Then pepper spray man for recording | (believed to be) June 2nd
+### Police beat protestor with batons, then pepper spray another man for recording | (believed to be) June 2nd
 
 Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
 
