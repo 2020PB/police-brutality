@@ -679,6 +679,37 @@ id: ca-sanjose-5
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
+### Police strike man with motorcylce | May 31st
+
+A man is seen run across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
+
+Officers allege he was seen attempting to break into a bank after curfew.
+
+tags: vehicle, arrest
+
+id: ca-sanjose-6
+
+**Links**
+
+* https://www.mercurynews.com/2020/06/03/video-of-police-motorcycle-hitting-man-brings-more-scrutiny-to-sjpd/
+
+
+### Police shoot small group of unarmed protestors | June 3rd
+
+Police give orders to disperse and subsequently to lay on the ground. Protestors attempt to flee and first-person footage states a protestor was tripped and shot at short range.
+
+Additional footage shows numerous officers corralling protestors into a small area before firing
+
+tags: shoot
+
+id: ca-sanjose-7
+
+**Links**
+
+* https://twitter.com/ex_Tesla/status/1268341102211297280
+* https://twitter.com/greg_doucette/status/1269985578474524673
+
+
 ## San Luis Obispo
 
 ### Law enforcement fire on crowd with their arms up chanting | June 1st
