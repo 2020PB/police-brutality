@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T17:58:57.402377+00:00
+UPDATED AT: 2020-06-23T17:59:22.998542+00:00
 
 
 # Alabama
@@ -806,6 +806,19 @@ id: ca-sandiego-3
 
 * https://twitter.com/chadloder/status/1267290221562871809
 * https://twitter.com/MarajYikes/status/1267030131563827200
+
+
+### Police fire on dancing protestors | May 31st
+
+Footage shows protestors playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protestors then flee.
+
+tags: tear-gas, shoot, projectiles
+
+id: ca-sandiego-4
+
+**Links**
+
+* https://twitter.com/mariahalize3/status/1267225330093191168
 
 
 ### Police abduct woman in unmarked van | June 4th
