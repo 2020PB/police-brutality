@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T17:57:30.446785+00:00
+UPDATED AT: 2020-06-23T17:57:45.669693+00:00
 
 
 # Alabama
@@ -6046,15 +6046,16 @@ id: wa-seattle-9
 * Seattle OPD Case 2020OPA-0334
 
 
-### Police strike active newscrew with flashbang | June 1st
+### Police strike active news crew with tear gas | June 1st
 
-Police strike a journalist, Jo-Ling Kent, live on air with a flashbang.
+Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
 
-tags: flashbang, journalist
+tags: tear-gas, tear-gas-canister, journalist
 
 id: wa-seattle-10
 
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
+* https://twitter.com/greg_doucette/status/1267694239028334592
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
 
@@ -6133,11 +6134,55 @@ id: wa-seattle-14
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
 
 
+### During arrests, man yells at police; police retaliate against crowd | June 7th
+
+Police surrounded a barricade in the street and began arresting protestors. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing. 
+
+Police then retaliate against the crowd, firing tear gas and spraying pepper spray indiscriminately. Police continue to do so well after protestors have moved to the sides.
+
+tags: arrest, tear-gas, pepper-spray
+
+id: wa-seattle-17
+
+**Links**
+
+* https://twitter.com/menilivne/status/1269831790799159302
+
+
+### Police shoot peaceful protestor | June 7th
+
+A protestor is seen off to the side of the protest, speaking with another protestor and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
+
+tags: shoot, rubber-bullets
+
+id: wa-seattle-18
+
+**Links**
+
+* https://twitter.com/RisingAnons/status/1269904786108887045
+
+
+### Police arrest homeless man | June 7th
+
+While deploying flashbangs and tear gas against protestors, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
+
+tags: homeless, arrest, strike, beat
+
+id: wa-seattle-19
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1270120873345728512
+* https://twitter.com/slydesilva/status/1270120960440459264
+
+
 ### Police pepper spray protesters standing in their way | June 11th
 
 Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
 
 tags: pepper-spray
+
+id: wa-seattle-16
 
 **Links**
 
