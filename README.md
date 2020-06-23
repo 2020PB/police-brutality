@@ -41,6 +41,7 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 * [DataStudio - Dashboard](https://datastudio.google.com/s/oFSSsjw2kAY) with stats at the city and state levels
 * [Android app](https://github.com/andrewsnyder328/2020PoliceBrutalityApk/) to visually view posts
 * [Brutality Visualizer](https://www.brutalityvisualizer.app/) that displays incidents as an interactive heatmap
+* [Defund Police](https://www.defund-police.org/) displays literature, essays, actionable petitions & donation links, as well as displaying police brutality incidents in a table
 
 ## Background
 
