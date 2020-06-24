@@ -41,3 +41,24 @@ id: az-phoenix-3
 * [Google doc, allegedly containing complaints by Garfield neighborhood residents](https://docs.google.com/document/d/1BxK7bi8Iim-bOb_A03pUQ1ATFRZfcxAdbCCnowo2kbI/edit?fbclid=IwAR1ofant2QVqUhgOjy6OkB7SSURXA6Vik3i38Mm7X0hTgL1ZtCv7iHVzRVY#)
 * [Mass arrests starting at around 1:03:00 probably, but not definitely, in the Garfield neighborhood](https://www.facebook.com/ABC15/videos/789994464864154/?v=789994464864154)
 * [Similar complaints from Reddit](https://www.reddit.com/r/phoenix/comments/gvdjhw/garfield_neighborhood_was_terrorized_sunday_may_31/)
+
+
+### Protests at Trump rally met with pepper spray | June 23rd
+
+Protestors gathered on the sidewalk and on a shut down street outside a Trump rally in Phoeniz, Arizona.
+
+Footage shows police declaring the assembly unlawful and telling protestors to get on the sidewalk even though the street has been shut down. Protestors comply, but later footage shows they are pepper-sprayed while on the sidewalk.
+
+Captions on Twitter and an NPR article state tear gas and flashbangs were deployed.
+
+tags: pepper-spray, tear-gas, flashbangs, spray
+
+id: az-phoenix-4
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1275585545499021313
+* https://twitter.com/gaminogabriel/status/1275573699622494208
+* https://twitter.com/gaminogabriel/status/1275572892508422146
+* https://www.npr.org/2020/06/23/881641178/after-disappointing-tulsa-rally-trump-campaign-moves-to-arizona
+* https://twitter.com/newsjunkyjimmy/status/1275578476871815169
