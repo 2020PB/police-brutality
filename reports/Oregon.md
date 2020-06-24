@@ -84,6 +84,19 @@ id: or-portland-5
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
 
 
+### Police shoot peaceful protestors on sidewalk | June 5th
+
+Footage shows a police van drive up on a small group of protestors on the sidewalk, walking away from the officers. Police jump off the van and immediately begin firing at protestors.
+
+tags: shoot, projectiles
+
+id: or-portland-9
+
+**Links**
+
+* https://twitter.com/bigpieceoftoast/status/1269393272570437632
+
+
 ### Officer attacks photographer with baton and pepper sprays him | June 6th
 
 A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.

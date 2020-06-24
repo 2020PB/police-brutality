@@ -144,6 +144,20 @@ id: co-denver-14
 * https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
+### Police spray two people who are backing away | (believed to be) May 30th
+
+A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
+
+tags: mace, spray
+
+id: co-denver-15
+
+**Links**
+
+* [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
+* [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
+
+
 ### Police fire pepper balls at car with pregnant woman | May 31st
 
 The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
@@ -185,6 +199,50 @@ id: co-denver-10
 * https://www.tiktok.com/@yazzdazzz/video/6832896487207243014
 
 
+### Officer threatens woman who asks what will happen at curfew | May 31st
+
+A woman films an interaction with an officer. She approaches the line and asks, "Can I ask you what's going to happen at 8, sir?" The officer replies: "What's going to happen is we're going to start beating the fuck out of you."
+
+tags: threaten, incitement
+
+id: co-denver-16
+
+**Links**
+
+* https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
+
+
+### Footage shows effect of less-lethal round | May 31st
+
+Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
+
+His sweatshirt is covered in blood and he has suffered a gash of 1-2 inches across his chin, with a chunk of his chin hanging off.
+
+tags: shoot, projectile
+
+id: co-denver-19
+
+**Links**
+
+* https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
+
+
+### Officer incites violence on social media | June 1st
+
+In a since-deleted post on Instagram featuring 3 DPD officers in riot gear, the poster captioned the image: "Let's start a riot."
+
+The officer has since been fired from the Denver Police Department.
+
+tags: incitement
+
+id: co-denver-17
+
+**Links**
+
+* https://twitter.com/DenverPolice/status/1267571824054775808
+* https://twitter.com/DenverPolice/status/1267933192805216256
+
+
 ### Police shoot protester from behind with tear gas canister | June 2nd
 
 An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
@@ -213,15 +271,18 @@ id: co-denver-12
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
 
 
-### Police spray two people who are backing away | (believed to be) May 30th
+### Protestor struck in head at short range with explosive projectile | (Believed to be) June 6th
 
-A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
+Footage shows protestors walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protestor in head. Protestor crumples to the ground. Title on Reddit states that the protestor suffered permanent hearing loss, but this has not been verified.
 
-tags: mace, spray
+It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protestors severely increased the risk of injury, as seen here.
 
-id: co-denver-15
+Footage was first posted on reddit.com/r/protest on June 6th.
+
+tags: shoot, projectile, explosive
+
+id: co-denver-18
 
 **Links**
 
-* [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
-* [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
+* https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/

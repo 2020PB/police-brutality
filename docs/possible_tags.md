@@ -29,6 +29,7 @@ kick
 knee
 knee-on-neck
 lgbtq+
+lrad
 mace
 marking-rounds
 medic
@@ -59,6 +60,7 @@ tear-gas-canister
 threaten
 throw
 vehicle
+wooden-bullets
 ```
 
 ## Broken down by type
@@ -91,6 +93,7 @@ headlock
 horse
 kick
 knee-on-neck
+lrad
 mace
 marking-rounds
 paintball
@@ -106,6 +109,7 @@ taser
 tear-gas
 tear-gas-canister
 vehicle
+wooden-bullets
 ```
 
 ### Method

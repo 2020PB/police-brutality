@@ -149,6 +149,28 @@ id: pa-philadelphia-8
 *  https://twitter.com/tippedminimum/status/1268001268406136832
 
 
+### Police selectively enforce curfew and dispersal orders | June 1st
+
+During protests, groups of men armed with guns, bats, and other blunt instruments roved around the Fishtown neighborhood of Philadelphia. They continued patrolling after curfew. Footage shows Philadelphia police warning militia to leave so they could enforce arrests of BLM protestors. In addition, images show police chatting and taking photos with the groups. One video taken by a gunman states that the police want to take pictures with them.
+
+Footage shows members of the groups threatening and shouting racial and homophobic slurs at protestors without police intervention. One journalist posted a picture of himself with a head wound, alleging that one of these groups beat him for filming them.
+
+tags: abuse-of-power
+
+id: pa-philadelphia-10
+
+**Links**
+
+* [Video in comments](https://www.facebook.com/groups/fishtownisawesome/permalink/2696046047166116/)
+* https://twitter.com/StreetsDept/status/1269031817253982215
+* https://twitter.com/DAZZLESTORM/status/1267621074457505792
+* https://twitter.com/DAZZLESTORM/status/1267621072352022535
+* https://twitter.com/jwehrens/status/1267621976379740170
+* https://twitter.com/jpegjoshua/status/1267634390496149506
+* https://twitter.com/jpegjoshua/status/1267636972404736000
+* https://twitter.com/jpegjoshua/status/1267599264257015816
+
+
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
@@ -164,7 +186,23 @@ id: pa-philadelphia-6
 
 ## Pittsburgh
 
-### Officer pepper-sprays a woman who is on her knees with her hands up
+### Police tear-gas, shoot and arrest protestor confused by contradicting police instructions | May 30th
+
+John Connors, a protestor in Pittsburgh on Saturday, May 30th, was recording the protest on his phone, when police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
+
+He asks an officer, "Are you guys police officers or are you guys cops?" The officer then release a tear gas canister at his feet and shoots him at short range. Police then arrest Connors. Connors admits his question was antagonizing, but states he did nothing to threaten officers or escalate to violence, which is supported by the footage.
+
+tags: tear-gas, tear-gas-canister, shoot, arrest, projectiles
+
+id: pa-pittsburgh-3
+
+**Links**
+
+* https://pittsburgh.cbslocal.com/2020/06/03/protester-hopes-cell-phone-video-clears-his-name/
+* https://twitter.com/greg_doucette/status/1270149233673469957
+
+
+### Officer pepper-sprays a woman who is on her knees with her hands up | June 1st
 
 A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board
 
@@ -192,3 +230,22 @@ id: pa-pittsburgh-2
 * https://www.reddit.com/r/pittsburgh/comments/guzshz/police_declaring_an_unlawful_assembly_against_a/
 * https://www.facebook.com/BenjaminKFerris/posts/3091613010894973
 * https://twitter.com/gautamyadav818/status/1267606317893550080
+* [Extended Facebook Live video; police begin firing at 9:00; phone is dropped at 10:53 and not recovered until the end](https://www.facebook.com/shawn.green.311/videos/2935858916468885/)
+
+
+### Police pepper spray two kneeling protestors | June 1st
+
+Two protestors kneel with their hands up 5-10 feet from police. One of the protestors appears to try to talk to the police. Police then pepper-spray the protestors, who then flee. 
+
+Users on Twitter allege the woman was a medic attempting to notify the police and/or provide aid to an injured person in a nearby parking garage.
+
+Footage was posted on Twitter as a reply to footage of another incident on June 1st.
+
+tags: pepper-spray, spray
+
+id: pa-pittsburgh-4
+
+**Links**
+
+* https://twitter.com/messiest_headd/status/1267816842413740034
+* https://twitter.com/stabpossum/status/1268203842174361600

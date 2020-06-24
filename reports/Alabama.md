@@ -1,3 +1,36 @@
+## Birmingham
+
+### Police arrest two reporters | June 3
+
+Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety.
+
+tags: arrest, journalist
+
+id: al-birmingham-1
+
+**Links**
+
+* https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
+
+### Police arrest journalist Michael Harriot | June 4
+
+Journalist Michael Harriot was covering a protest with a group of journalists; he was the only black journalist present. He left his press pass in the car for fear of being targeted by protesters, but he says he had a digital press pass on his phone.
+
+Around six officers arrested Harriot. Per AL.com, Harriot "was asked if he could show credentials but said he did not have any with him;" per Harriot, "officers said they couldn’t let me have my phone to show my digital credentials;" he "told them they could just call the mayor’s office to verify my media credentials; they did not attempt to." Per AL.com, "the department’s public information officer... said he \[asked Harriot\] if there was anyway \[_sic_\] to make contact with his company to confirm he was media and Harriot said no."
+
+According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; they had to use a pocket knife in addition to the usual tool. Harriot was also interviewed by two agents claiming to be from the FBI.
+
+tags: arrest, journalist, racial-profiling
+
+id: al-birmingham-2
+
+**Links**
+
+* https://www.theroot.com/a-letter-not-from-a-birmingham-jail-1843926346
+* https://www.al.com/news/birmingham/2020/06/journalist-michael-harriot-arrested-after-birmingham-protest.html
+* [Video](https://www.youtube.com/watch?v=H308RU7jtM4)
+* [Poynter institute guidance for journalists](https://www.poynter.org/reporting-editing/2020/23-guidelines-for-journalists-to-safely-cover-protests-this-weekend/)
+
 ## Hoover
 
 ### Police make a series of violent arrests | May 31st
