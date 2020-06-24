@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-24T15:29:01.608571+00:00
+UPDATED AT: 2020-06-24T15:29:19.389309+00:00
 
 
 # Alabama
@@ -5123,17 +5123,22 @@ id: pa-philadelphia-1
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Police drag cooperating man from car and punch him in the face
+### Protestor fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protestor, then arrest him, the driver and a passerby filming | 
 
-A black SUV stops while at least a dozen police on bicycles pull up to it. The police open the vehicle's front doors. The passenger is pulled to the ground and then cuffed by several officers. The driver is pushed against the side of the vehicle and cuffed. As both are led to an area behind the vehicle, one officer yells inches away from the passenger's face, then punches him in the face. After the passenger is led away, the same officer walks back up to the passenger, grabs his shirt, and yells at him at close distance.
+Two protestors run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protestor can enter. The driver then pulls over to the side of the road shortly after. 
 
-tags: arrest, shove, push, threaten, punch
+Police drag the protestor from the car and beat him with batons. After he is arrested, a police officer punches him in the face. 
+
+Police additionally arrest the driver and passerby filming the scene.
+
+tags: arrest, shove, push, threaten, punch, baton, beat, vehicle
 
 id: pa-philadelphia-2
 
 **Links**
 
 * https://youtu.be/QDcCFN_LQPA
+* [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)[https://twitter.com/greg_doucette/status/1269303637060325377]
 
 
 ### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
