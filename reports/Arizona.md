@@ -45,7 +45,7 @@ id: az-phoenix-3
 
 ### Protests at Trump rally met with pepper spray | June 23rd
 
-Protestors gathered on the sidewalk and on a shut down street outside a Trump rally in Phoeniz, Arizona.
+Protestors gathered on the sidewalk and on a shut down street outside a Trump rally in Phoenix, Arizona.
 
 Footage shows police declaring the assembly unlawful and telling protestors to get on the sidewalk even though the street has been shut down. Protestors comply, but later footage shows they are pepper-sprayed while on the sidewalk.
 
