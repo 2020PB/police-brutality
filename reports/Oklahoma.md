@@ -33,7 +33,7 @@ id: ok-oklahomacity-2
 
 Footage shows police approaching a small march. They arrest one woman holding a banner without incident. An officer then begins to walk away with one end of the banner. Protestors try to pull it back, and a scuffle follows where police attempt to arrest one protestor and a second appears to approach to stop it. The second protestor and the officer exchange pushes, then another officer charges the protestor from behind and shoves him. Police then shove several more protestors and kneel on one to make an arrest.
 
-tags: shove, arrest
+tags: shove, arrest, knee
 
 id: ok-oklahomacity-3
 
