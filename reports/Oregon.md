@@ -117,7 +117,7 @@ id: or-portland-6
 
 Body cam footage from a police officer shows police approaching person on a bike, believed to be a protestor leaving the protest. The two officers pull the protestor from the bike to make an arrest, throwing the bike aside. An officer then tells passersby at a convenience store to go home.
 
-tags: arrest, bike, shove
+tags: arrest, bike, shove, property-destruction
 
 id: or-portland-11
 
