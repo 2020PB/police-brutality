@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-24T14:41:30.340256+00:00
+UPDATED AT: 2020-06-24T14:50:28.638363+00:00
 
 
 # Alabama
@@ -4525,6 +4525,21 @@ id: oh-cincinnati-3
 *  https://twitter.com/nswartsell/status/1267612155840528385
 
 
+### Officer refuses to give diabetic arrestee her insulin back | June 2nd
+
+Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+
+tags: arrest, inhumane-treatment
+
+id: oh-cincinnati-4
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
+* [Part 1](https://www.tiktok.com/@zestaz/video/6833912697436867845)
+* [Part 2](https://www.tiktok.com/@zestaz/video/6833913925231185158)
+
+
 ## Cleveland
 
 ### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
@@ -4794,21 +4809,6 @@ id: oh-columbus-13
 * https://www.thelantern.com/2020/06/columbus-mayor-police-chief-address-protest-policing-pepper-spray-of-lantern-journalists/
 * https://twitter.com/TheLantern/status/1267644471317090305
 * https://twitter.com/maevewalsh27/status/1267646128289447939
-
-
-### Officer refuses to give diabetic arrestee her insulin back | June 2nd
-
-Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
-
-tags: arrest, inhumane-treatment
-
-id: oh-columbus-14
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
-* [Part 1](https://www.tiktok.com/@zestaz/video/6833912697436867845)
-* [Part 2](https://www.tiktok.com/@zestaz/video/6833913925231185158)
 
 
 ### Bronze star veteran recounts injuries from police at protests  | June 5th
