@@ -221,3 +221,40 @@ id: dc-dc-16
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1275249479554400256
+
+
+### Protestors attempt to vandalize Andrew Jackson statue; police escalate violence | June 22nd
+
+Prior to a much publicized attempt to tear down a statue of Andrew Jackson, police erected a chain-link fence around the statue.
+
+Protestors converged on the statue, pulled down the fence, and threw chains around the statue.
+
+Police met the protestors with immediate violence. An account states police encircled the protestors, preventing any exit, then beat protestors with shields and batons. Police pepper-sprayed protestors as well. The account additionally states police ripped off her friend's glasses and mask to pepper-spray her.
+
+tags: beat, batons, pepepr-spray, spray, shield
+
+id: dc-dc-17
+
+**Links**
+
+* https://twitter.com/Jsc_35/status/1275255059325030401
+* https://twitter.com/Jsc_35/status/1275270995415371776
+* https://twitter.com/Jsc_35/status/1275272881426006018
+
+
+### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23
+
+Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests. 
+
+Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
+
+tags: pepper-spray, spray, tear-gas, flashbangs
+
+id: dc-dc-18
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1275671784554221574
+* https://twitter.com/rawsmedia/status/1275673321959497729
+* https://twitter.com/rawsmedia/status/1275675725358600192
+* https://twitter.com/rawsmedia/status/1275688665486897152
