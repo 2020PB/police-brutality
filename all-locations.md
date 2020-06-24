@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-24T14:50:28.638363+00:00
+UPDATED AT: 2020-06-24T15:29:01.608571+00:00
 
 
 # Alabama
@@ -433,21 +433,6 @@ id: ca-losangeles-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
-
-### Police transport arrested protestors using public transportation | May 30th
-
-LAPD using Metro buses to transport arrested protestors after transit service shutdown. 
-
-tags: inhumane-treatment
-
-id: ca-losangeles-23
-
-**Links**
-
-* https://twitter.com/LAist/status/1267006683596775424
-* https://twitter.com/jimw/status/1267666982544932866
-* https://twitter.com/MattHjourno/status/1267658943486017536
-* https://thesource.metro.net/2020/06/01/metro-explains-decision-to-suspend-service-saturday-night-and-law-enforcements-use-of-our-buses/
 
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
