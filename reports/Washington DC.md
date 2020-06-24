@@ -240,3 +240,21 @@ id: dc-dc-17
 * https://twitter.com/Jsc_35/status/1275255059325030401
 * https://twitter.com/Jsc_35/status/1275270995415371776
 * https://twitter.com/Jsc_35/status/1275272881426006018
+
+
+### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23
+
+Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests. 
+
+Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
+
+tags: pepper-spray, spray, tear-gas, flashbangs
+
+id: dc-dc-18
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1275671784554221574
+* https://twitter.com/rawsmedia/status/1275673321959497729
+* https://twitter.com/rawsmedia/status/1275675725358600192
+* https://twitter.com/rawsmedia/status/1275688665486897152
