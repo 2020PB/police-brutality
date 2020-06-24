@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T22:09:03.056952+00:00
+UPDATED AT: 2020-06-24T13:35:01.126582+00:00
 
 
 # Alabama
@@ -3572,6 +3572,23 @@ id: ny-newyorkcity-8
 * https://twitter.com/greg_doucette/status/1268205679292055552
 
 
+### NYPD rams protesters | May 30th
+
+An NYPD SUV's path is blocked by a crowd of protesters. Protesters begin throwing things at the SUV. Another NYPD SUV drives up alongside the first, then drives through the crowd, forcing protesters out of its way. The first car then drives forward, ramming the dense crowd of civilians in front of it. NYPD's internal affairs bureau conducted a review and found no wrongdoing. The police commissioner said that "preliminarily we have an accounting of that incident where we have officers in a situation where they're essentially being penned in by protesters," but it seems from the video as though, throughout the incident, both cars have a clear route of escape behind them.
+
+tags: vehicle, drive
+
+id: ny-newyorkcity-10
+
+**Links**
+
+* https://twitter.com/pgarapon/status/1266885414016688134
+* https://twitter.com/mkultranews/status/1266893237450498048
+* https://twitter.com/greg_doucette/status/1266903868295778310
+* https://thehill.com/blogs/blog-briefing-room/news/500307-nypd-police-car-lurches-through-group-of-demonstrators
+* https://thehill.com/homenews/state-watch/503967-nypd-commissioner-officers-who-drove-into-protesters-did-not-violate-use?amp
+
+
 ### High-ranking NYPD officer shoves protestors with plastic barricade | May 30th
 
 An NYPD officer in a white shirt, denoting a rank of Lieutenant or higher, uses a plastic barricade to shove protestors back. He then topples the barricade and charges at protestors.
@@ -3653,21 +3670,6 @@ id: ny-newyorkcity-9
 * [Original Post](https://twitter.com/ajrupchandani/status/1266889115288711168?s=21)
 * [Cross Post](https://twitter.com/_doreenpt/status/1266994439039455232)
 * https://twitter.com/AliVelshi/status/1269079615080890368
-
-
-### NYPD rams protesters | May 31st
-
-A NYPD squad car is driven into civilians, ramming them out of its path.
-
-tags: vehicle, drive
-
-id: ny-newyorkcity-10
-
-**Links**
-
-* https://twitter.com/pgarapon/status/1266885414016688134
-* https://twitter.com/mkultranews/status/1266893237450498048
-* https://twitter.com/greg_doucette/status/1266903868295778310
 
 
 ### Police assault protesters | May 31st
