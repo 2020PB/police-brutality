@@ -6,6 +6,11 @@ Police arrested two AL.com journalists covering a protest at 7:35 on June 3. The
 
 tags: arrest, journalist
 
+
+zzz
+
+
+
 id: al-birmingham-1
 
 **Links**
