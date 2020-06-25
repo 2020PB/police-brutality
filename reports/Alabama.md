@@ -12,6 +12,8 @@ id: al-birmingham-1
 
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
 
+adkjfdakjfkea this is spellllled wrong
+
 ### Police arrest journalist Michael Harriot | June 4
 
 Journalist Michael Harriot was covering a protest with a group of journalists; he was the only black journalist present. He left his press pass in the car for fear of being targeted by protesters, but he says he had a digital press pass on his phone.
