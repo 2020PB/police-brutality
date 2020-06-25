@@ -21,5 +21,5 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - name: Check spelling
-      uses: check-spelling/check-spelling@0.0.16-alpha
+    - name: Github Spellcheck Action
+      uses: rojopolis/spellcheck-github-actions@0.5.0
