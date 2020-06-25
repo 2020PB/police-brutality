@@ -95,6 +95,10 @@ tags: tear-gas
 
 id: or-portland-22
 
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268190300209586177
+
 
 ### Protestors fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | June 2nd
 
@@ -121,6 +125,10 @@ A police SUV accelerates into the intersection, swerving towards protestors, whi
 tags: vehicle
 
 id: or-portland-23
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268317409095622658
 
 
 ### Police shoot peaceful protestors on sidewalk | June 5th
