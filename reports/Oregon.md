@@ -182,7 +182,7 @@ id: or-portland-16
 
 ### Police beat protestors in park | June 7th
 
-Footage shows protestors fleeing tear gas from park. Frames are captured that show protestors apparently struggling to breathe. Police can be seen ripping umbrellas from protestors and striking them.
+Footage shows protestors fleeing from tear gas or smoke in a park. Frames are captured that show protestors apparently struggling to breathe. Police can be seen ripping umbrellas from protestors and striking them.
 
 tags: tear-gas, strike, beat, property-destruction
 
