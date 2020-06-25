@@ -87,9 +87,9 @@ id: or-portland-5
 
 ### Tear gas fired across active street at protestors | (Believed to be) June 2nd
 
-In events occurring either late on June 2nd or in the early morning of June 3rd, police can be heard declaring unlawful assembly and seen firing tear gas across the street at gathered protestors. Some protestors do appear to throw tear gas canisters back.
+In events occurring either late on June 2nd or in the early morning of June 3rd, police can be heard declaring unlawful assembly and seen firing tear gas across the street at gathered protestors. Some protestors appear to throw tear gas canisters back.
 
-There are numerous passing cars that appear unrelated to the protest but are caught in the gas and struggle to maneuver around canisters & clouds of tear gas.
+There are numerous passing cars that appear unrelated to the protest but are caught in the gas. They struggle to maneuver around canisters & clouds of tear gas.
 
 tags: tear-gas
 
@@ -98,7 +98,7 @@ id: or-portland-22
 
 ### Protestors fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | June 2nd
 
-Protestors flee from tear gas and attempt to follow police dispersal order. As they turn a corner they are met by more officers. They ask these officers where to go, stating they just want to go home.
+Protestors flee from tear gas and attempt to follow police dispersal order. As they turn a corner, they are met by more officers. They ask these officers where to go, stating they just want to go home.
 
 The officers gesture with batons. One officer pepper-sprays a protestor. A second strikes the filmer with his baton. A third kicks a tear gas canister at protestors.
 
