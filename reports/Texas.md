@@ -60,6 +60,22 @@ id: tx-austin-5
 * https://twitter.com/ironfront7/status/1267133400156196870
 
 
+### Pregnant woman shot with bean bags by police | May 30th
+
+A pregnant woman in Austin states she was sitting during a May 30th protest. As police began to pepper-spray the crowd, she stood to run. Police then shot her multiple times in the abdomen, back and head. The Austin Police Chief has stated the incident is under review.
+
+Fortunately, the woman did not suffer a miscarriage.
+
+tags: pregnant, bean-bags, shoot
+
+id: tx-austin-8
+
+**Links**
+
+* https://www.statesman.com/news/20200612/pregnant-woman-shot-with-beanbag-round-by-austin-police-wants-them-held-accountable
+* https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
+
+
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
@@ -176,6 +192,8 @@ id: tx-dallas-4
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
+Additional footage shows a protest in the same vicinity. Police sound a siren and protestors begin to back away. Police then begin releasing tear gas.
+
 tags: flashbangs, tear-gas
 
 id: tx-dallas-2
@@ -183,6 +201,7 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+* https://twitter.com/calvinwatkins
 
 
 ### Police fire rubber bullet on peaceful protestor | June 1st
@@ -211,6 +230,20 @@ id: tx-dallas-3
 
 * https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
 * [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
+
+## El Paso
+
+### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protestors | (believed to be) May 31st
+
+Police fire teargas cannisters into peaceful crowd of unarmed protestors.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
+
+tags: tear-gas-canister, projectiles
+
+id: tx-elpaso-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267430869154902019
 
 
 ## Houston
@@ -255,6 +288,18 @@ id: tx-houston-3
 * https://twitter.com/DomSkyeRN/status/1270185401060294656
 
 
+### Police beat protestor with batons, then pepper spray another man for recording | (believed to be) June 2nd
+
+Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
+
+tags: baton, pepper-spray, punch
+
+id: tx-houston-4
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268392253665546245
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
@@ -263,10 +308,23 @@ A man was filming police walking down the street and making comments like "that 
 
 tags: shoot, rubber-bullets
 
-id: tx-sanantonio-2
+id: tx-sanantonio-1
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gu3s6j/police_shoots_protestor_for_no_reason/
 * [Mirror](https://tuckbot.tv/#/watch/gu3s6j)
 * https://twitter.com/chadloder/status/1267124991809609728
+
+
+### Police fire on protestors without warning | June 2nd
+
+Police are protestors are gathered several feet apart. Between the two lines, a protestor is seen telling other protestors to put their hands up. Police then fire as protestors scatter.
+
+tags: shoot, projectile
+
+id: tx-sanantonio-2
+
+**Links**
+
+* https://twitter.com/SanAntonioProbz/status/1268027491987468288

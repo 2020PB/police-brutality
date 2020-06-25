@@ -18,6 +18,23 @@ id: va-fairfax-1
 *  https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
 
 
+## Fredericksburg
+
+### Police fire tear gas at peaceful protest | May 31st
+
+Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protestors are lying on the ground as tear gas canisters fall around them.
+
+tags: tear-gas
+
+id: va-fredericksburg-2
+
+**Links**
+
+* https://twitter.com/Dannyklein69/status/1267261733376229379
+* https://twitter.com/Dannyklein69/status/1267261914138267649
+* https://twitter.com/Dannyklein69/status/1267261377435099142
+* https://twitter.com/greg_doucette/status/1268398488783642625
+
 ## Manassas
 
 ### Officers pepper-spray Virginia state delegate peacefully protesting | May 30
@@ -78,7 +95,7 @@ id: va-richmond-2
 
 ### Officer spits on detained protestor | June 1st
 
-A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera.
+A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera. Extended footage shows the officer continuing to spit on the protestor.
 
 tags: arrest, inhumane-treatment
 
@@ -87,6 +104,8 @@ id: va-richmond-3
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
+* [Extended Footage](https://twitter.com/greg_doucette/status/1269504306836799489)
+* [Youtube mirror of extended footage](https://www.youtube.com/watch?v=6hLCNhZC7Uo)
 
 
 ### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 4th
@@ -131,3 +150,36 @@ id: va-richmond-5
 * https://twitter.com/ZyahnaB/status/1272716632541089792
 * https://twitter.com/GoadGatsby/status/1272701413169287175
 
+
+### Police pepper-spray journalist | June 21st
+
+First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately. 
+
+He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
+
+Reddit link shows scuffle was instigated after a protestor beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
+
+tags: pepper-spray, spray, shove, journalist
+
+id: va-richmond-7
+
+**Links**
+
+* https://twitter.com/aeringle/status/1274898298923606017
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
+
+### Police escalate against protestors outside city hall | June 23rd
+
+Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
+
+tags: shove, tear-gas, shoot
+
+id: va-richmond-8
+
+**Links**
+
+* [Full timeline of events twitter thread](https://twitter.com/NotLevar/status/1275368795444588544)
+* [tear gas](https://twitter.com/NotLevar/status/1275368797466243073) 
+* [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
+* [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
+* [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
