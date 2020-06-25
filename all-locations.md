@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-25T15:08:26.520919+00:00
+UPDATED AT: 2020-06-25T15:08:42.189414+00:00
 
 
 # Alabama
@@ -6723,6 +6723,21 @@ id: dc-dc-17
 * https://twitter.com/Jsc_35/status/1275255059325030401
 * https://twitter.com/Jsc_35/status/1275270995415371776
 * https://twitter.com/Jsc_35/status/1275272881426006018
+
+
+### Unidentified man working alongside police hits protesters with baton | June 22nd
+
+Video shows police slowly advancing towards protesters, pushing them back. Alongside the police is a man conspicuously wearing "jeans and fatigue-colored ammo belt" wielding a baton. He has no police badge or other identification. He hits and shoves the individual filming. Neither he nor the officers answer when protesters demand to know who the man is and whether he is a cop or a vigilante. A second video in the same twitter thread shows the unidentified man striking a protester and talking with an officer. A third video in the thread shows the man assisting with an arrest. It is unclear whether the police were allowing a civilian without any authority to assault protesters, or whether they were protecting the identity of an officer from some special unit.
+
+tags: beat, batons
+
+id: dc-dc-19
+
+**Links**
+
+* https://twitter.com/JasonPatinkin/status/1275252759634329602
+* https://twitter.com/JasonPatinkin/status/1275294052372615169
+* https://twitter.com/JasonPatinkin/status/1275294840192974848
 
 
 ### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23
