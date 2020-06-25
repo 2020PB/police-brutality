@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-25T15:11:43.811934+00:00
+UPDATED AT: 2020-06-25T21:25:48.173508+00:00
 
 
 # Alabama
@@ -5011,6 +5011,53 @@ id: or-portland-5
 **Links**
 
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
+* https://twitter.com/greg_doucette/status/1268051560489193473
+
+
+### Tear gas fired across active street at protestors | (Believed to be) June 2nd
+
+In events occurring either late on June 2nd or in the early morning of June 3rd, police can be heard declaring unlawful assembly and seen firing tear gas across the street at gathered protestors. Some protestors appear to throw tear gas canisters back.
+
+There are numerous passing cars that appear unrelated to the protest but are caught in the gas. They struggle to maneuver around canisters & clouds of tear gas.
+
+tags: tear-gas
+
+id: or-portland-22
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268190300209586177
+
+
+### Protestors fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | June 2nd
+
+Protestors flee from tear gas and attempt to follow police dispersal order. As they turn a corner, they are met by more officers. They ask these officers where to go, stating they just want to go home.
+
+The officers gesture with batons. One officer pepper-sprays a protestor. A second strikes the filmer with his baton. A third kicks a tear gas canister at protestors.
+
+tags: tear-gas, tear-gas-canister, pepper-spray, spray, baton, strike
+
+id: or-portland-26
+
+**Links**
+
+* https://www.tiktok.com/@officersiggity/video/6834194381126323462
+* https://twitter.com/greg_doucette/status/1269082018542956545
+
+
+### Police SUV accelerates towards protestors | June 3rd
+
+In helicopter footage from KGW, protestors are seen moving police barricades and traffic cones on the street. It is unclear if protestors are attempting to clear the street or form a barricade. 
+
+A police SUV accelerates into the intersection, swerving towards protestors, which forces them to run out of the way. 
+
+tags: vehicle
+
+id: or-portland-23
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268317409095622658
 
 
 ### Police shoot peaceful protestors on sidewalk | June 5th
@@ -5024,6 +5071,19 @@ id: or-portland-9
 **Links**
 
 * https://twitter.com/bigpieceoftoast/status/1269393272570437632
+
+
+### Tear gas fired at fleeing protestors & passing cars | June 5th
+
+Footage from between 1 and 2 AM on June 5th shows police firing tear gas rounds at a group of protestors walking away from them. Several cars are stopped at traffic and/or passing through the intersection where canisters land.
+
+tags: tear-gas
+
+id: or-portland-21
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1268826151952121856
 
 
 ### Officer attacks photographer with baton and pepper sprays him | June 6th
@@ -5053,6 +5113,32 @@ id: or-portland-18
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269313407985033216
+
+
+### Police fire tear gas at fleeing protestors | June 6th
+
+Just after midnight on the morning of June 6th, footage from a KPTV reporter shows a crowd of protestors fleeing down the street. Police continue to fire tear gas as protestors run away.
+
+tags: tear-gas
+
+id: or-portland-24
+
+**Links**
+
+* https://twitter.com/BonnieSilkman/status/1269174980060696577
+
+
+### Police respond to thrown water bottle with excessive force | June 6th
+
+At the beginning of footage, it appears a water bottle is thrown. It bounces against a concrete barricade. Police respond with tear gas. When protestors run to the tear gas in an attempt to defuse it, police respond with rubber bullets.
+
+tags: tear-gas, rubber-bullets, shoot
+
+id: or-portland-20
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1269177830505512961
 
 
 ### Police pull departing protestor from bike to arrest them | June 7th
@@ -5155,6 +5241,19 @@ id: or-portland-10
 * https://twitter.com/MrOlmos/status/1271715330188967938Ω
 * https://twitter.com/MrOlmos/status/1271723400738648064
 * https://twitter.com/MrOlmos/status/1271715330188967938
+
+
+### Protestor shoved to ground and beaten | June 13th
+
+Protestors are following police directions to disperse. A man is seen falling onto the screen. The filmer says, "Aw he pushed him down." Officers kick the man and strike him with batons. Protestors who try to help him stand are similarly beaten. An explosive canister containing either smoke or tear gas explodes at the feet of the filmer.
+
+tags: strike, kick, beat, baton, explosive, projectile
+
+id: or-portland-25
+
+**Links**
+
+https://www.tiktok.com/@officersiggity/video/6838314162192485638
 
 
 ### Officer strikes journalist with baton | June 14th
