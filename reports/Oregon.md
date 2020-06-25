@@ -113,6 +113,19 @@ id: or-portland-6
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
 
 
+### Police push protest back, beating stragglers | (Believed to be) June 6th
+
+In what appears to be the early AM of June 6th, police walk protestors backwards across the park. Footage shows that straggling protestors are met with pushing, shoving and beatings with batons.
+
+tags: baton, shove, strike, push
+
+id: or-portland-18
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269313407985033216
+
+
 ### Police pull departing protestor from bike to arrest them | June 7th
 
 Body cam footage from a police officer shows police approaching person on a bike, believed to be a protestor leaving the protest. The two officers pull the protestor from the bike to make an arrest, throwing the bike aside. An officer then tells passersby at a convenience store to go home.
@@ -137,6 +150,47 @@ id: or-portland-12
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1269518318949380098
+
+
+### Police arrest people taking pictures, threaten to arrest press | June 7th
+
+Footage shows a squad car pulling up next to two individuals and a police officer on foot. One officer can be heard saying, "You were standing there taking photos," as he arrests the individuals. Another officer then shouts: "Leave the area or you will be arrested." The filmer states that he is press and the officer reiterates that he will be arrested if he remains.
+
+tags: journalist, arrest
+
+id: or-portland-13
+
+**Links**
+
+* https://twitter.com/AlexMilanTracy/status/1269577129265524736
+
+
+### Police beat protestors | June 7th
+
+Footage shows riot police chasing protestors onto sidewalk near Chapman Square. Tear gas and shots can be heard in the background throughout, as well as an announcement declaring unlawful assembly.
+
+A man filming says, "You are live, you are live." Police then beat him with batons and throw him to the ground to arrest him. Police then arrest another protestor while more officers push protestors back.
+
+tags: arrest, beat, batons, strike
+
+id: or-portland-16
+
+**Links**
+
+* https://twitter.com/AlexMilanTracy/status/1269557908863283200
+
+
+### Police beat protestors in park | June 7th
+
+Footage shows protestors fleeing from tear gas or smoke in a park. Frames are captured that show protestors apparently struggling to breathe. Police can be seen ripping umbrellas from protestors and striking them.
+
+tags: tear-gas, strike, beat, property-destruction
+
+id: or-portland-17
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269655789595213824
 
 
 ### Officer forces press away from protest | June 8th
@@ -174,6 +228,19 @@ id: or-portland-10
 * https://twitter.com/MrOlmos/status/1271715330188967938
 
 
+### Officer strikes journalist with baton | June 14th
+
+Footage depicts a journalist retreating from a charging police line. The journalist rounds the corner, chased by an officer. The officer strikes the journalist with his baton. The journalist shouts, "Media," and the officer replies, "I don't give a shit."
+
+tags: journalist, strike, baton
+
+id: or-portland-15
+
+**Links**
+
+* https://twitter.com/PDXzane/status/1272058454799028226
+
+
 ### Police apply no-assembly order to journalists | June 15th
 
 Early in the morning on June 15th, a police car announces to a journalist walking home that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
@@ -185,6 +252,19 @@ id: or-portland-8
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
+
+
+### Police disperse press, tell them to run | June 16th
+
+First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+
+tags: journalist, threaten
+
+id: or-portland-14
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1272796206071087105
 
 
 ## Salem
