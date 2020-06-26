@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-26T22:54:09.012444+00:00
+UPDATED AT: 2020-06-26T23:01:15.208020+00:00
 
 
 # Alabama
@@ -393,6 +393,7 @@ id: ca-losangeles-2
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
+
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
@@ -406,6 +407,8 @@ id: ca-losangeles-3
 * https://twitter.com/larryprincxpark/status/1266883515431505920
 * https://twitter.com/kendrick38/status/1266997131430133761
 * https://twitter.com/ElieTWMayniac/status/1266914242885754880
+* https://www.instagram.com/p/CA1hQ8WHLp1/?igshid=x4dnp455q05t
+* https://abc7.com/6231194/
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
@@ -432,6 +435,7 @@ id: ca-losangeles-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
+* https://twitter.com/greg_doucette/status/1269101214706421760
 
 
 ### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
@@ -448,7 +452,7 @@ id: ca-losangeles-24
 * https://twitter.com/greg_doucette/status/1267605209745887233
 
 
-### Police fire rubber/pepper bullets at innocent protestors | May 31st
+### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
@@ -500,20 +504,6 @@ id: ca-losangeles-9
 * https://twitter.com/LowkeySinistra/status/1267109420955086848
 * https://twitter.com/LowkeySinistra/status/1267871561714790401
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
-
-
-### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
-
-Los Angeles law enforcement beat protesters for no apparent reason.
-
-tags: beat, baton, projectile, shoot
-
-id: ca-losangeles-10
-
-**Links**
-
-* https://twitter.com/MattMcGorry/status/1267217360894562306
-* https://abc7.com/6231194/
 
 
 ### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
@@ -574,18 +564,17 @@ id: ca-losangeles-16
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
 
-### Police strike protestors with batons | June 1st
+### Police beat kneeling protestors | (Believed to be) May 31st
 
-Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
+Protestors kneeling in the street are approached by a line of police in riot gear. Police beat them with their shields, shove them, and appear to be arresting them when a riot round is fired and the camera moves.
 
-tags: baton, beat, projectile, tear-gas, tear-gas-canister
+tags: beat, shove, shield, arrest
 
-id: ca-losangeles-14
+id: ca-losangeles-28
 
 **Links**
 
-* https://streamable.com/ja2fw6 (with audio)
-* https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
+* https://twitter.com/jkishore/status/1267216022634999808
 
 
 ### Police shoot rubber bullets at two peaceful protestors | June 1st
@@ -602,7 +591,7 @@ id: ca-losangeles-15
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
-### LAPD destroy car to drag out occupants | (Believed to be) June 1
+### LAPD destroy car to drag out occupants | (Believed to be) June 1st
 
 LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
 
@@ -613,6 +602,22 @@ id: ca-losangeles-25
 **Links**
 
 * https://twitter.com/GadiNBC/status/1268016449320177665
+
+
+### Business owner flags down police for protection from looters; she is arrested | June 1st
+
+Alleged looters and the owner and employees at a liquor store stood off outside store. A crowd had assembled to help the employees. Seeing a police cruiser passing by, one black employee flagged down the officers to request help.
+
+The employee was arrested, along with her husband and others helping them, while the alleged looters ran off. The employee says she told police they had the wrong people and the criminals were getting away. She says the officer arresting her said, "I don't care about them." In addition, she says she was thrown against a wall when arrested.
+
+tags: racial-profiling, arrest, shove
+
+id: ca-losangeles-26
+
+**Links**
+
+* https://www.cbsnews.com/news/police-handcuff-good-samaritans-protect-store-looters/
+* https://twitter.com/bubbaprog/status/1267641851215036416
 
 
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
@@ -650,6 +655,36 @@ id: ca-losangeles-17
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://twitter.com/Terminal_Redux/status/1268870944615026690
 * https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
+
+
+### Police fire into backs of protestors | June 2nd
+
+A handful of protestors are seen walking away from police with their hands up. Police shoot at the protestors repeatedly for the duration of the video, about 40 seconds.
+
+tags: shoot, projectile
+
+id: ca-losangeles-27
+
+**Links**
+
+* https://twitter.com/MattMcGorry/status/1268455032032133122
+
+
+### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) June 2nd
+
+Footage shows police near a group of protestors. One officer walks across the line of protestors, shoving many of them with his baton. Another officer then shoves an individual in a wheelchair. A third officer then grabs the wheelchair and pushes that individual away, back behind the police line.
+
+Protestors become agitated and police begin firing riot rounds.
+
+After 50 seconds, footage cuts to various other incidents.
+
+tags: baton, strike, person-with-disability, shoot, shove
+
+id: ca-losangeles-31
+
+**Links**
+
+* https://twitter.com/ricci_sergienko/status/1267685230799777793
 
 
 ### Police zip tie protesters and lock them inside cages | June 3rd
@@ -708,6 +743,21 @@ id: ca-losangeles-22
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
+
+
+### Protestor shot in head | Date Unknown
+
+Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them.
+
+Caption states that the journalist who submitted the video says the protestor was shot in the head, then police gave a dispersal order.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-30
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268052132252602368
 
 
 ## Oakland
@@ -958,9 +1008,9 @@ id: ca-sanjose-5
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
-### Police strike man with motorcylce | May 31st
+### Police strike man with motorcycle | May 31st
 
-A man is seen run across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
+A man is seen running across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
 
 Officers allege he was seen attempting to break into a bank after curfew.
 
