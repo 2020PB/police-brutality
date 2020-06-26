@@ -381,6 +381,40 @@ id: or-portland-14
 * https://twitter.com/MrOlmos/status/1272796206071087105
 
 
+### Police tear gas fleeing protestors, pull individuals from cars | June 26th
+
+Tear gas can be seen fired at protestors fleeing after a standoff with police in which police alleged protestors started a dumpster fire. Protestors deny this. There are passing cars caught in the tear gas. Police flag down one vehicle and pull its occupants out, while continuing to fire tear gas in the immediate area.
+
+tags: tear-gas, vehicle, grab
+
+id: or-portland-27
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1276446115831803906
+
+
+### Police use flashbangs and tear gas to disperse protestors, catching lawyers and journalists in the fray | June 26th
+
+Footage shows police using tear gas and flashbangs to push already-fleeing protestors. The filmer, a journalist, states that he was struck by a ricocheting canister and that police targeted a group of lawyers. In addition, he states that police threw grenades under passing vehicles.
+
+Additional footage shows consistent use of tear gas throughout the night.
+
+Additional images show foam bullets & tear gas canisters used during protests. It should be noted that the mayor of Portland, with the backing of a federal judge, issued a restriction on tear gas: to be used only when a life is at risk.
+
+tags: tear-gas, flashbangs, journalist, projectile, foam-bullets, shoot
+
+id: or-portland-28
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1276454928823668738
+* https://twitter.com/hungrybowtie/status/1276453955476680706
+* https://twitter.com/DonovanFarley/status/1276447833244065793
+* https://twitter.com/ProudBulba/status/1276458402034548737
+* https://twitter.com/ghostmobpdx/status/1276462936941187074
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
