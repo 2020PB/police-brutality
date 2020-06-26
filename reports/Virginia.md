@@ -58,6 +58,19 @@ id: va-manassas-1
 
 ## Richmond
 
+### Police SUV jumps median toward protestors | May 30th
+
+Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protestors are gathered. Protestors are forced to run to avoid being hit.
+
+tags: vehicle
+
+id: va-richmond-9
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/heif6m/an_older_video_from_the_beginning_of_protests_in/
+
+
 ### Officer sprays a man watching from his balcony | May 31st
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
