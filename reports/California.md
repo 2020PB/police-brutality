@@ -209,6 +209,20 @@ id: ca-losangeles-23
 * https://thesource.metro.net/2020/06/01/metro-explains-decision-to-suspend-service-saturday-night-and-law-enforcements-use-of-our-buses/
 
 
+### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
+
+LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
+
+tags: shoot, projectiles, baton
+
+id: ca-losangeles-24
+
+**Links**
+
+* https://twitter.com/MattMcGorry/status/1267217360894562306
+* https://twitter.com/greg_doucette/status/1267605209745887233
+
+
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
@@ -322,7 +336,7 @@ id: ca-losangeles-13
 * https://twitter.com/cwellborn3/status/1267318753571811329
 
 
-### Police shoot crowd of unarmed protestors with rubber bullets | Believed to be May 31st
+### Police shoot crowd of unarmed protestors with rubber bullets | (Believed to be) May 31st
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
@@ -361,6 +375,19 @@ id: ca-losangeles-15
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
+
+
+### LAPD destroy car to drag out occupants | (Believed to be) June 1
+
+LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
+
+tags: property-destruction
+
+id: ca-losangeles-25
+
+**Links**
+
+* https://twitter.com/GadiNBC/status/1268016449320177665
 
 
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
@@ -457,31 +484,6 @@ id: ca-losangeles-22
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
 
-
-### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
-
-LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
-
-tags: shoot, projectiles, baton
-
-id: ca-losangeles-23
-
-**Links**
-
-* https://twitter.com/MattMcGorry/status/1267217360894562306
-* https://twitter.com/greg_doucette/status/1267605209745887233
-
-### LAPD destroy car to drag out occupants | (believed to be) June 1
-
-LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
-
-tags: property-destruction
-
-id: ca-losangeles-24
-
-**Links**
-
-* https://twitter.com/GadiNBC/status/1268016449320177665
 
 ## Oakland
 
