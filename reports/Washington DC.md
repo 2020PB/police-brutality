@@ -288,3 +288,16 @@ id: dc-dc-20
 **Links**
 
 * https://twitter.com/wyattreed13/status/1275623256406581251
+
+
+### Police pepper-spray peaceful protestors | June 23rd
+
+Police can be heard chanting, "Move back," while pushing protestors back through a park. Protestors obeying direction are still pepper sprayed.
+
+tags: pepper-spray, spray
+
+id: dc-dc-21
+
+**Links**
+
+* https://twitter.com/DotElection/status/1275289922740662275
