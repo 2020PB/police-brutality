@@ -67,7 +67,7 @@ id: nv-lasvegas-5
 * https://www.tiktok.com/@lord.vizi/video/6833963763486461190
 
 
-### Police charge and shove protestors | Date Unknown
+### Police charge and shove protestors | June 20th
 
 Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protestors. They can be seen throwing multiple individuals to the ground and kicking one.
 
@@ -78,3 +78,5 @@ id: nv-lasvegas-6
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hcfocc/cops_rush_protest_crowd_in_las_vegas/
+* https://twitter.com/SodASierra/status/1274719985416286209
+* https://www.youtube.com/watch?v=C5mj1JMCpvs
