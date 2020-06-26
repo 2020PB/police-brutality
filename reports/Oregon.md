@@ -396,7 +396,7 @@ id: or-portland-29
 
 ### Police tear gas fleeing protestors, pull individuals from cars | June 26th
 
-Tear gas can be seen fired at protestors fleeing after a standoff with police in which police alleged protestors started a dumpster fire. Protestors deny this. There are passing cars caught in the tear gas. Police flag down one vehicle and pull its occupants out, while continuing to fire tear gas in the immediate area.
+Tear gas can be seen fired at protestors fleeing after a standoff with police. Police alleged that protestors started a dumpster fire; protestors deny this. There are passing cars caught in the tear gas. Police flag down one vehicle and pull its occupants out, while continuing to fire tear gas in the immediate area.
 
 tags: tear-gas, vehicle, grab
 
