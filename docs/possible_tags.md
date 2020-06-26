@@ -17,6 +17,7 @@ drive
 elderly
 explosive
 flashbangs
+foam-bullets
 gas
 headlock
 hide-badges
@@ -88,6 +89,7 @@ baton
 beanbags
 bike
 explosive
+foam-bullets
 flashbangs
 headlock
 horse
