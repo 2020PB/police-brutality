@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-26T23:01:15.208020+00:00
+UPDATED AT: 2020-06-26T23:13:01.806995+00:00
 
 
 # Alabama
@@ -7006,7 +7006,7 @@ id: dc-dc-19
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
 
 
-### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23
+### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
 
 Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests. 
 
@@ -7022,6 +7022,34 @@ id: dc-dc-18
 * https://twitter.com/rawsmedia/status/1275673321959497729
 * https://twitter.com/rawsmedia/status/1275675725358600192
 * https://twitter.com/rawsmedia/status/1275688665486897152
+
+
+### Footage shows officer with tape over badge number | June 23rd
+
+Footage shows an argument between a protestor an officer. The protestor films close to the officer's face; the officer shines his flashlight in the protestor's eye.
+
+Notable, however, is the strip of black tape covering the officer's badge number.
+
+tags: hide-badges
+
+id: dc-dc-20
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1275623256406581251
+
+
+### Police pepper-spray peaceful protestors | June 23rd
+
+Police can be heard chanting, "Move back," while pushing protestors back through a park. Protestors obeying direction are still pepper sprayed.
+
+tags: pepper-spray, spray
+
+id: dc-dc-21
+
+**Links**
+
+* https://twitter.com/DotElection/status/1275289922740662275
 
 
 
