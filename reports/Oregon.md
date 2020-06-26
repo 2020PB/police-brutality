@@ -383,7 +383,7 @@ id: or-portland-19
 
 ### Protestor bleeding from head after he was shot by police | June 19th
 
-A screenshot of a Tweet shows a protestor bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protestors say the man was struck by a rubber bullet.
+A screenshot of a Tweet from @1misanthrophile shows a protestor bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protestors say the man was struck by a rubber bullet.
 
 tags: shoot, rubber-bullets
 
