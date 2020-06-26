@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-25T21:25:48.173508+00:00
+UPDATED AT: 2020-06-26T19:20:54.696401+00:00
 
 
 # Alabama
@@ -393,7 +393,6 @@ id: ca-losangeles-2
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
-
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
@@ -433,6 +432,20 @@ id: ca-losangeles-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
+
+
+### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
+
+LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
+
+tags: shoot, projectiles, baton
+
+id: ca-losangeles-24
+
+**Links**
+
+* https://twitter.com/MattMcGorry/status/1267217360894562306
+* https://twitter.com/greg_doucette/status/1267605209745887233
 
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
@@ -548,7 +561,7 @@ id: ca-losangeles-13
 * https://twitter.com/cwellborn3/status/1267318753571811329
 
 
-### Police shoot crowd of unarmed protestors with rubber bullets | Believed to be May 31st
+### Police shoot crowd of unarmed protestors with rubber bullets | (Believed to be) May 31st
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
@@ -589,6 +602,19 @@ id: ca-losangeles-15
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
+### LAPD destroy car to drag out occupants | (Believed to be) June 1
+
+LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
+
+tags: property-destruction
+
+id: ca-losangeles-25
+
+**Links**
+
+* https://twitter.com/GadiNBC/status/1268016449320177665
+
+
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
 A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way. 
@@ -603,6 +629,7 @@ id: ca-losangeles-1
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
+* https://twitter.com/ItsjustmeD_/status/1268596982966218752
 
 
 
