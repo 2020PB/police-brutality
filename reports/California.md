@@ -430,20 +430,6 @@ id: ca-losangeles-27
 * https://twitter.com/MattMcGorry/status/1268455032032133122
 
 
-### Police arrest passing motorists, allegedly for curfew violations | June 2nd
-
-Footage shows a police van pull up to an intersection, blocking one path. Several officers exit the van and approach a pickup truck stopped at the intersection. Officers order the driver and passengers to exit the car and lay on the ground. Officers then arrest them.
-
-tags: vehicle, arrest
-
-id: ca-losangeles-29
-
-**Links**
-
-* https://twitter.com/davidgallardo/status/1268029756722655232
-* https://twitter.com/greg_doucette/status/1268049956830695427
-
-
 ### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) June 2nd
 
 Footage shows police near a group of protestors. One officer walks across the line of protestors, shoving many of them with his baton. Another officer then shoves an individual in a wheelchair. A third officer then grabs the wheelchair and pushes that individual away, back behind the police line.
@@ -784,7 +770,7 @@ id: ca-sanjose-5
 
 ### Police strike man with motorcycle | May 31st
 
-A man is seen run across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
+A man is seen running across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
 
 Officers allege he was seen attempting to break into a bank after curfew.
 
