@@ -353,6 +353,19 @@ id: or-portland-8
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
 
 
+### Police disperse press, tell them to run | June 16th
+
+First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+
+tags: journalist, threaten
+
+id: or-portland-14
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1272796206071087105
+
+
 ### Evidence of badges being hidden during the June 6th incident | June 17th
 
 On June 6th, PNW Resistance reported that Portland Police was making a swap to Personal Identification Numbers, in attempt to curve "doxing of officers". This action lead to an incidents that are reported [here](#or-portland-6).
@@ -368,17 +381,51 @@ id: or-portland-19
 * [Tweet on June 17th enclosed FIA Request by Portland Attorney](https://twitter.com/alankesslr/status/1273299640310325250)
 
 
-### Police disperse press, tell them to run | June 16th
+### Protestor bleeding from head after he was shot by police | June 19th
 
-First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+A screenshot of a Tweet from @1misanthrophile shows a protestor bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protestors say the man was struck by a rubber bullet.
 
-tags: journalist, threaten
+tags: shoot, rubber-bullets
 
-id: or-portland-14
+id: or-portland-29
 
 **Links**
 
-* https://twitter.com/MrOlmos/status/1272796206071087105
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hchk22/portland_police_shot_a_protester_in_the_head/
+
+
+### Police tear gas fleeing protestors, pull individuals from cars | June 26th
+
+Tear gas can be seen fired at protestors fleeing after a standoff with police. Police alleged that protestors started a dumpster fire; protestors deny this. There are passing cars caught in the tear gas. Police flag down one vehicle and pull its occupants out, while continuing to fire tear gas in the immediate area.
+
+tags: tear-gas, vehicle, grab
+
+id: or-portland-27
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1276446115831803906
+
+
+### Police use flashbangs and tear gas to disperse protestors, catching lawyers and journalists in the fray | June 26th
+
+Footage shows police using tear gas and flashbangs to push already-fleeing protestors. The filmer, a journalist, states that he was struck by a ricocheting canister and that police targeted a group of lawyers. In addition, he states that police threw grenades under passing vehicles.
+
+Additional footage shows consistent use of tear gas throughout the night.
+
+Additional images show foam bullets & tear gas canisters used during protests. It should be noted that the mayor of Portland, with the backing of a federal judge, issued a restriction on tear gas: to be used only when a life is at risk.
+
+tags: tear-gas, flashbangs, journalist, projectile, foam-bullets, shoot
+
+id: or-portland-28
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1276454928823668738
+* https://twitter.com/hungrybowtie/status/1276453955476680706
+* https://twitter.com/DonovanFarley/status/1276447833244065793
+* https://twitter.com/ProudBulba/status/1276458402034548737
+* https://twitter.com/ghostmobpdx/status/1276462936941187074
 
 
 ## Salem
