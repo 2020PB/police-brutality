@@ -353,6 +353,19 @@ id: or-portland-8
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
 
 
+### Police disperse press, tell them to run | June 16th
+
+First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+
+tags: journalist, threaten
+
+id: or-portland-14
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1272796206071087105
+
+
 ### Evidence of badges being hidden during the June 6th incident | June 17th
 
 On June 6th, PNW Resistance reported that Portland Police was making a swap to Personal Identification Numbers, in attempt to curve "doxing of officers". This action lead to an incidents that are reported [here](#or-portland-6).
@@ -368,17 +381,17 @@ id: or-portland-19
 * [Tweet on June 17th enclosed FIA Request by Portland Attorney](https://twitter.com/alankesslr/status/1273299640310325250)
 
 
-### Police disperse press, tell them to run | June 16th
+### Protestor bleeding from head after he was shot by police | June 19th
 
-First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+A screenshot of a Tweet shows a protestor bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protestors say the man was struck by a rubber bullet.
 
-tags: journalist, threaten
+tags: shoot, rubber-bullets
 
-id: or-portland-14
+id: or-portland-29
 
 **Links**
 
-* https://twitter.com/MrOlmos/status/1272796206071087105
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hchk22/portland_police_shot_a_protester_in_the_head/
 
 
 ### Police tear gas fleeing protestors, pull individuals from cars | June 26th
