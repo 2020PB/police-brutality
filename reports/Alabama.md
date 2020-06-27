@@ -112,7 +112,7 @@ After disperse order is given, protestors comply and begin to back away from the
 
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
 
-tag: rubber-bullets, threaten
+tags: rubber-bullets, threaten
 
 id: al-huntsville-5
 
