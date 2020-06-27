@@ -324,7 +324,7 @@ id: or-portland-25
 
 **Links**
 
-https://www.tiktok.com/@officersiggity/video/6838314162192485638
+* https://www.tiktok.com/@officersiggity/video/6838314162192485638
 
 
 ### Officer strikes journalist with baton | June 14th
