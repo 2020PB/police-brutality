@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-26T23:13:01.806995+00:00
+UPDATED AT: 2020-06-27T01:39:35.578605+00:00
 
 
 # Alabama
@@ -1949,16 +1949,20 @@ Victim states that officers kneeled on her neck, that shards of glass from her b
 
 After release (with neither charges nor explanation), the victim attempted to file a complaint but was told the complaint line was unnaccesible.
 
+This was reported to have happened at "2600 N. Narragansett Ave.", but 2700 N seems slightly more accurate. Google Streetview at that address shows the same "Show Carnival" store seen in the video.
+
 tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment
 
 id: il-chicago-4
 
 **Links**
+
 * https://twitter.com/cruzzzyc/status/1267185423333199874
 * https://twitter.com/AdrienneWrites/status/1267534983054254081
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
 * https://chicago.cbslocal.com/2020/06/03/police-drag-women-out-of-car-outside-brickyard-mall-woman-says-officer-put-knee-on-neck/
 * https://twitter.com/greg_doucette/status/1267594960955748352
+* [Location in Google Maps](https://goo.gl/maps/2m2kHLCaQP8h51az8)
 
 
 ### Cops hit Chicago Police Board President | May 31st
