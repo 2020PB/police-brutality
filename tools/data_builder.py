@@ -14,8 +14,9 @@ src_dir = os.path.relpath(os.path.dirname(__file__) or '.')
 md_dir = os.path.join(src_dir, '..', 'reports')
 out_dir = os.path.join(src_dir, 'data_build')
 combined_fpath = os.path.join(out_dir, "all-locations.md")
-csv_fpath = os.path.join(out_dir, 'all-locations.csv')
-json_fpath = os.path.join(out_dir, 'all-locations.json')
+csv_fpath_v1 = os.path.join(out_dir, 'all-locations.csv')
+json_fpath_v1 = os.path.join(out_dir, 'all-locations.json')
+json_fpath_v2 = os.path.join(out_dir, 'all-locations-v2.json')
 readme_fpath = os.path.join(out_dir, 'README.md')
 
 if not os.path.exists(out_dir):
@@ -234,7 +235,7 @@ def to_merged_md_file(md_texts, target_path):
     print(f"Written merged .md data to {target_path}")
 
 
-def to_csv_file(data, target_path):
+def to_csv_file_v1(data, target_path):
     max_link_count = max(len(it["links"]) for it in data)
     flat_data = []
     for row in data:
@@ -258,7 +259,7 @@ def to_csv_file(data, target_path):
     print(f"Written .csv data to {target_path}")
 
 
-def to_json_file(data, target_path):
+def to_json_file_v1(data, target_path):
     data_with_meta = {
         "edit_at": "https://github.com/2020PB/police-brutality",
         "help": "ask @ubershmekel on twitter",
@@ -268,6 +269,24 @@ def to_json_file(data, target_path):
     with open(target_path, 'w') as f:
         json.dump(data_with_meta, f)
     print(f"Written .json data to {target_path}")
+
+def v2_only(item):
+    item = copy.deepcopy(item)
+    item['links'] = item['links_v2']
+    del item['links_v2']
+    return item
+
+def to_json_file_v2(data, target_path):
+    v2_data = [v2_only(item) for item in data]
+    data_with_meta = {
+        "edit_at": "https://github.com/2020PB/police-brutality",
+        "help": "ask @ubershmekel on twitter",
+        "updated_at": updated_at,
+        "data": v2_data
+    }
+    with open(target_path, 'w') as f:
+        json.dump(data_with_meta, f)
+    print(f"Written .json v2 data to {target_path}")
 
 
 readme_text ='''
@@ -300,12 +319,27 @@ def read_all_data():
     data = process_md_texts(md_texts)
     return data
 
+def v1_only(item):
+    # Deepcopy to avoid affecting the original data
+    item = copy.deepcopy(item)
+    v1_keys = set(['links', 'state', 'city', 'edit_at', 'name', 'date', 'date_text', 'id'])
+    # Cache keys to avoid errors for deleting while iterating
+    item_keys = list(item.keys())
+    for key in item_keys:
+        if key not in v1_keys:
+            del item[key]
+    return item
+
 if __name__ == '__main__':
     md_texts = read_all_md_files(md_dir)
     data = process_md_texts(md_texts)
     to_merged_md_file(md_texts, combined_fpath)
-    to_csv_file(data, csv_fpath)
-    to_json_file(data, json_fpath)
+
+    to_json_file_v2(data, json_fpath_v2)
+
+    v1_data = [v1_only(item) for item in data]
+    to_csv_file_v1(v1_data, csv_fpath_v1)
+    to_json_file_v1(v1_data, json_fpath_v1)
     to_readme(readme_fpath)
 
     print("Done!")
