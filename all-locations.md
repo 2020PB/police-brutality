@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T21:44:42.923777+00:00
+UPDATED AT: 2020-06-27T21:47:09.405585+00:00
 
 
 # Alabama
@@ -4994,6 +4994,34 @@ id: oh-columbus-19
 * https://www.reddit.com/r/Columbus/comments/hdf4hu/cpd_just_hit_and_maced_a_double_amputee_bravo_you/
 * [Man seen in background around 0:14](https://www.reddit.com/r/Columbus/comments/hddsqd/gotta_love_the_cop_dual_wielding_pepper_spray_cans/)
 * [Body cam footage](https://twitter.com/jessistarkey/status/1274869173206888448)
+
+
+### Protestor dragged into street, thrown to ground and arrested | June 21st
+
+Footage depicts multiple police officers grabbing a protestor. They drag the protestor into the street and one officer flips the protestor over his knee onto the ground. He then kneels on the protestor to arrest them while other officers form a barrier around him.
+
+Post title states the protestor is a medic, but visual evidence is unclear.
+
+tags: shove, grab, throw, knee, arrest
+
+id: oh-columbus-20
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hdj106/062120_columbus_ohio_police_dragging_medic_into/
+
+
+### Police shove protestors, ram them with bikes | June 21st
+
+In an apparent attempt to clear a street, police have formed a bike line. They shove protestors with shields and ram their bikes into the crowd. Protestors can be seen throwing water at officers. Officers then discharge pepper spray.
+
+tags: shove, bike, pepper-spray, spray
+
+id: oh-columbus-21
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hdwgfb/columbus_ohio_cops_ram_protesters_with_bikes/
 
 
 ## Dayton
