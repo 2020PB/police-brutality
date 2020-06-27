@@ -12,6 +12,7 @@ id: az-phoenix-1
 
 * https://twitter.com/PhxProtestLIVE/status/1268390978571825156?s=20
 
+
 ### Officers arrest dozens of people, fail to exhibit probable cause | May 30th
 
 Officers arrested 114 people on Saturday, May 30, most for rioting (a low-level felony). The probable cause statements submitted to the court by police justifying the arrests of many defendants were identical from one defendant to another, and alleged only that a crowd of people had engaged in criminal activity, without alleging that the particular defendant arrested had engaged in criminal activity. One defendant, a DACA recipient, was transferred to ICE custody despite a judge finding that her arrest lacked probable cause. She has since been released.
@@ -25,11 +26,12 @@ id: az-phoenix-2
 * [Local news coverage](https://www.abc15.com/news/local-news/investigations/phoenix-police-arrests-dozens-with-copy-and-paste-evidence)
 * [Video of the night's protests -- mostly peaceful until police disperse the crowd with flash bangs and tear gas around 1:08:40; shortly afterward the assembly turns violent.](https://www.youtube.com/watch?v=ecwUweozAXE&feature=emb_title)
 
+
 ### Officer arrests a woman on the sidewalk outside her home for curfew violation | May 31st
 
 On May 31, police forced protesters who were out after curfew into the Garfield neighborhood using tear gas and other means. Police then began arresting protesters in the Garfield neighborhood en masse. Officers approached Elizabeth Lemay, who was not part of the protests and was standing on the sidewalk outside her home. They tried to arrest her and tackled her in the process. She told the officers "I live here" and "I'm allowed to be on my own property;" the officer responded (in a cheerful tone of voice) "You're on the sidewalk. You guys think you know. You think you know everything."
 
-Several other residents of the Garfield neighborhood have complained of police behavior that night, including one who says she passed out in her yard due to a tear-gas-induced asthma attack and awoke to find an officer handcuffing her. 
+Several other residents of the Garfield neighborhood have complained of police behavior that night, including one who says she passed out in her yard due to a tear-gas-induced asthma attack and awoke to find an officer handcuffing her.
 
 tags: arrest, tackle, tear-gas
 
@@ -62,3 +64,4 @@ id: az-phoenix-4
 * https://twitter.com/gaminogabriel/status/1275572892508422146
 * https://www.npr.org/2020/06/23/881641178/after-disappointing-tulsa-rally-trump-campaign-moves-to-arizona
 * https://twitter.com/newsjunkyjimmy/status/1275578476871815169
+

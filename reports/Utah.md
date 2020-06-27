@@ -9,6 +9,7 @@ tags: elderly, push, shove, shields
 id: ut-saltlakecity-1
 
 **Links**
+
 * https://twitter.com/bubbaprog/status/1266908354821206016
 
 
@@ -50,5 +51,4 @@ id: ut-saltlakecity-3
 **Links**
 
 * https://v.redd.it/fl4y919v1q251
-
 

@@ -83,7 +83,7 @@ id: mi-detroit-6
 
 ### Police charge protestors and press | June 2nd
 
-Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning. 
+Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning.
 
 The footage becomes blurry as it appears that police strike the reporter, who repeatedly states, "I am press," and is standing alongside several camera crews.
 
@@ -101,11 +101,11 @@ id: mi-detroit-7
 
 ### Police use LRAD (sound cannon) to disperse protestors | June 2nd
 
-Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm. 
+Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm.
 
 The use of LRADs is a subject of much contention, with frequent reports of permanent nerve and hearing damage caused by their use.
 
-The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests. 
+The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests.
 
 tags: lrad
 
@@ -149,6 +149,7 @@ id: mi-grandrapids-2
 * https://twitter.com/DJR2C2/status/1267006669583720448
 * https://twitter.com/sparrowsongs_/status/1266948928966139904
 
+
 ## Kalamazoo
 
 ### Police fire tear gas at prone protesters | June 1st
@@ -180,3 +181,4 @@ id: mi-kalamazoo-2
 * Kalamazoo Gazette via Facebook Live: https://streamable.com/0wfiu3
 * MLive article: https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html
 * IBB image backup of Asst. Chief and City Manager kneeling: https://ibb.co/Fgrwqkj
+
