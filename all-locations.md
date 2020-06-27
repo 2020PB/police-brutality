@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T15:01:21.032627+00:00
+UPDATED AT: 2020-06-27T15:01:33.791422+00:00
 
 
 # Alabama
@@ -5535,7 +5535,7 @@ id: pa-philadelphia-2
 **Links**
 
 * https://youtu.be/QDcCFN_LQPA
-* [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)[https://twitter.com/greg_doucette/status/1269303637060325377]
+* [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)](https://twitter.com/greg_doucette/status/1269303637060325377)
 
 
 ### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
