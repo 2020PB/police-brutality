@@ -131,7 +131,7 @@ Volunteer medics were advised to bring a critically wounded protestor to the pol
 
 tags: medic, shoot
 
-id: tx-austin-8
+id: tx-austin-9
 
 **Links**
 

@@ -51,6 +51,11 @@ def title_to_name_date(line):
     return name, date, date_text
 
 
+def critical_exit(msg):
+    print(f"---CRITICAL FAILURE {msg}")
+    exit(2)
+
+
 def read_all_md_files(base_dir):
     md_texts = {}
     for md_file in glob.glob(base_dir + '/*.md'):
@@ -174,7 +179,8 @@ def parse_state(state, text):
                     "text": link_text,
                 })
             else:
-                print(f"Failed link parse '{line}'")
+                print("Data build failed, exiting")
+                critical_exit(f"Failed link parse '{line}' in state '{state}'")
         elif starts_with == '**':
             # **links** line
             pass
@@ -329,6 +335,8 @@ def v1_only(item):
         if key not in v1_keys:
             del item[key]
     return item
+
+
 
 if __name__ == '__main__':
     md_texts = read_all_md_files(md_dir)

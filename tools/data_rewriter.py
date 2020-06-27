@@ -2,7 +2,7 @@ import random
 import string
 
 import data_builder
-
+from data_builder import critical_exit
 
 unknown_location_acronym = 'tbd'
 
@@ -76,10 +76,13 @@ def gen_id(row):
     state_abbrev = us_state_to_abbrev[state].lower()
     city = row['city']
     city_abbrev = city.replace(' ', '').replace('.', '').lower()
-    if state_abbrev == unknown_location_acronym:
-        city_abbrev = unknown_location_acronym
-    if state_abbrev == 'dc':
-        city_abbrev = 'dc'
+    if len(city_abbrev) == 0:
+        if state_abbrev == unknown_location_acronym:
+            city_abbrev = unknown_location_acronym
+        elif state_abbrev == 'dc':
+            city_abbrev = 'dc'
+        else:
+            critical_exit("invalid city abbreviation, exiting")
 
     # id_line = f'id: {state_abbrev}-{city_abbrev}-{city_index}'
     return f"{state_abbrev}-{city_abbrev}-{random_chars(4)}"
@@ -92,14 +95,9 @@ def rewrite_data(data):
             state_to_rows[state] = []
         state_to_rows[state].append(row)
     
-    # We don't need to sort because we read these in the order of the markdown files
-    #for state, data_rows in state_to_rows.items():
-    #    data_rows.sort(key=lambda row: row["city"] + row["id"])
-
     for state, data_rows in state_to_rows.items():
         out_path = f"{data_builder.md_dir}/{state}.md"
-        #print(out_path)
-        # links, city, description, name, date_text, id
+        # We don't need to sort `data_rows` because we read these in the order of the markdown files
         new_md_text = gen_md_from_rows(state, data_rows)
         with open(out_path, "wb") as fout:
             fout.write(new_md_text.encode("utf-8"))
@@ -135,7 +133,6 @@ def gen_md_from_rows(state, rows):
             city = row["city"]
         
         # convert links list to a links string
-        #links_md = '\n'.join('* ' + it for it in row["links"])
         links_md = '\n'.join('* ' + markdown_link(it) for it in row["links_v2"])
         row["links_md"] = links_md
 
@@ -147,6 +144,15 @@ def gen_md_from_rows(state, rows):
     
     return '\n'.join(lines)
 
+def validate_ids_unique(data):
+    seen = set()
+    for row in data:
+        row_id = row["id"]
+        if row_id in seen:
+            print(row)
+            critical_exit(f"Duplicate id found {row_id}")
+        else:
+            seen.add(row_id)
 
 def add_missing_ids():
     data = data_builder.read_all_data()
@@ -156,9 +162,10 @@ def add_missing_ids():
             row["id"] = gen_id(row)
             print("Added id: " + row["id"])
         if "name" not in row:
-            print("---this row is broken with no name? (missing ###):")
             print(row)
-            exit(1)
+            critical_exit("this row is broken with no name? (missing ###):")
+
+    validate_ids_unique(data)
 
     rewrite_data(data)
 

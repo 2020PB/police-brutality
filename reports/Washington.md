@@ -287,7 +287,7 @@ Video shows several police officers attempting to make their way past the fence 
 
 tags: pepper-spray
 
-id: wa-seattle-16
+id: wa-seattle-20
 
 **Links**
 

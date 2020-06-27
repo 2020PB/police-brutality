@@ -93,7 +93,7 @@ After arriving at the hospital, Sean was told he would be permanently blind, but
 
 tags: pepper-spray, rubber-bullets, spray, shoot
 
-id: mo-kansascity-6
+id: mo-kansascity-7
 
 **Links**
 
