@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T21:43:02.004135+00:00
+UPDATED AT: 2020-06-27T21:44:42.923777+00:00
 
 
 # Alabama
@@ -7125,6 +7125,9 @@ id: dc-dc-17
 * https://twitter.com/Jsc_35/status/1275255059325030401
 * https://twitter.com/Jsc_35/status/1275270995415371776
 * https://twitter.com/Jsc_35/status/1275272881426006018
+* https://twitter.com/LiteraryMouse/status/1275235242165534721
+* https://twitter.com/LiteraryMouse/status/1275238230363975681
+* https://twitter.com/itsSweetThing/status/1275419611568226305
 
 
 ### Unidentified man working alongside police hits protesters with baton | June 22nd
@@ -7140,6 +7143,19 @@ id: dc-dc-19
 * https://twitter.com/JasonPatinkin/status/1275252759634329602
 * https://twitter.com/JasonPatinkin/status/1275294052372615169
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
+
+
+### Police pepper spray protestors with hands up | June 22nd
+
+Police line begins shouting, "Move back" and using their bikes to push protestors back across a street. Protestors with hands up who refuse to move are shoved and told to keep moving. Protestors near the filmer shout at police, saying, "What's wrong with you?" An officer behind the line of bikes steps forward and sprays pepper spray at protestors, including the filmer.
+
+tags: shove, pepper-spray, spray
+
+id: dc-dc-23
+
+**Links**
+
+* https://twitter.com/LiteraryMouse/status/1275228261140791299
 
 
 ### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
@@ -7186,6 +7202,25 @@ id: dc-dc-21
 **Links**
 
 * https://twitter.com/DotElection/status/1275289922740662275
+
+
+
+### Eyewitness reports police destroyed supplied and attacked medics | June 23rd 
+
+An eyewitness to protests reports that police pushed protestors away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
+
+He states that police stole all food and other supplies before forcing protestors out. He states that police beat and tear-gassed medics who were attempting to help protestors. In addition, he states that police beat "anyone they could find."
+
+He says that volunteer medics had permission from the church where they set up, but police ignored the permission and dispersed them regardless.
+
+tags: medic, tear-gas, beat, property-destruction
+
+id: dc-dc-22
+
+**Links**
+
+* https://twitter.com/maryamnayebyazd/status/1275493238619635714
+* https://twitter.com/maryamnayebyazd/status/1275493885188485120
 
 
 
