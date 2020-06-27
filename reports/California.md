@@ -410,7 +410,7 @@ id: ca-losangeles-19
 
 Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city. 
 
-One gender nonconforming arrestee describes being sexually harrassed by officers. Two other arrestees corroborate this account. All three mention that other arrestees were sexually harrassed as well. Two arrestees describe in similar terms police mocking a group of detainees and refusing to release them until they were "good girls" or "reasonable." One detainee says this was due to some detainees removing zip ties using lighters because the ties were dangerously tight. Another detainee says that it was due to detainees requesting medical attention and other improvements in their conditions, which would constitute first-amendment-protected speech. One arrestee allegedly should have been exempt from the curfew as they were returning home from work. 
+Several arrestees describe police sexually harassing/assaulting them; other arrestees corroborate these accounts. Two arrestees report that processing of arrestees on their bus was delayed because they requested medical attention and other improvements in their conditions, which would constitute first-amendment-protected speech. Four other arrestees report that processing of arrestees on their bus was delayed because some arrestees removed unsafely-tight zip ties using a lighter. All arrestees who have shared accounts mention officers behaving in a mocking, condescending, and unprofessional manner. One arrestee recalls asking officers to turn on bodycams, and officers refusing to do so. If true, this would be a clear violation of LAPD policy. One arrestee allegedly should have been exempt from the curfew as they were returning home from work. 
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
@@ -420,8 +420,9 @@ id: ca-losangeles-32
 
 **Links**
 * [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
+* [LATaco article, with audio](https://www.lataco.com/protest-arrests-horror-accounts/)
 * [Allegations by protester Kayla Soren](https://ips-dc.org/police-kneeled-with-me-then-they-drew-their-guns/)
-* [Allgations by protester Julia Dupuis](https://twitter.com/juliacdupuis/status/1268638919286861824)
+* [Allegations by protester Julia Dupuis](https://twitter.com/juliacdupuis/status/1268638919286861824)
 * https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
 
 
