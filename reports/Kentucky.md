@@ -9,6 +9,7 @@ tags: journalist, rubber-bullets, pepper-ball
 id: ky-louisville-2
 
 **Links**
+
 * [Video](https://www.reddit.com/r/PublicFreakout/comments/gt69qe/police_start_shooting_press_with_some_kinda/)
 * [Same video, different source](https://twitter.com/greg_doucette/status/1266557059606163456)
 * [Victim's response](https://twitter.com/KaitlinRustWAVE/status/1268218653104693248)
@@ -32,7 +33,7 @@ id: ky-louisville-4
 
 ### Police shoot man in the head with rubber bullet while he is walking away | May 30th
 
-Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights. 
+Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
 tags: rubber-bullets, projectiles, shoot
 
@@ -68,13 +69,14 @@ tags: property-destruction
 id: ky-louisville-1
 
 **Links**
+
 * [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
 * [89.3 WFPL reporting the mayor's response](https://twitter.com/WFPLNews/status/1266923468102262784)
 
 
 ### 5 police officers use batons to beat protester | May 31st
 
-A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison. 
+A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison.
 
 tags: arrest, beat, baton, strike
 
@@ -101,7 +103,7 @@ id: ky-louisville-3
 
 ### Restaurant owner shot and killed | June 1st
 
-LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams. 
+LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
 tags: death, body-cams, real-bullets, pepper-ball
 

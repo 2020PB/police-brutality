@@ -118,9 +118,9 @@ id: or-portland-26
 
 ### Police SUV accelerates towards protestors | June 3rd
 
-In helicopter footage from KGW, protestors are seen moving police barricades and traffic cones on the street. It is unclear if protestors are attempting to clear the street or form a barricade. 
+In helicopter footage from KGW, protestors are seen moving police barricades and traffic cones on the street. It is unclear if protestors are attempting to clear the street or form a barricade.
 
-A police SUV accelerates into the intersection, swerving towards protestors, which forces them to run out of the way. 
+A police SUV accelerates into the intersection, swerving towards protestors, which forces them to run out of the way.
 
 tags: vehicle
 
@@ -428,6 +428,20 @@ id: or-portland-28
 * https://twitter.com/ghostmobpdx/status/1276462936941187074
 
 
+### Police charge protestors, shoving them and beating them with batons | June 27th
+
+In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
+
+tags: beat, strike, shove, throw, batons
+
+id: or-portland-30
+
+**Links**
+
+* https://www.reddit.com/r/ThatsInsane/comments/hgr2ld/cops_gone_crazyportlandpolice_has_finally_lost/
+* https://www.youtube.com/watch?v=IGW5CpU2C6s
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
@@ -443,3 +457,4 @@ id: or-salem-1
 * https://twitter.com/greg_doucette/status/1268940700944605187
 * https://www.buzzfeednews.com/article/davidmack/salem-oregon-cop-warn-white-armed-men-playing-favorites
 * https://twitter.com/Satellit3Heart/status/1268863536299675648
+
