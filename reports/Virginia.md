@@ -181,6 +181,7 @@ id: va-richmond-7
 * https://twitter.com/aeringle/status/1274898298923606017
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
+
 ### Police escalate against protestors outside city hall | June 23rd
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
@@ -196,3 +197,42 @@ id: va-richmond-8
 * [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
+
+
+### Man struck in face by explosive round | June 26th
+
+Footage shows a group of scattered protestors some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
+
+tags: shoot, projectile, explosive
+
+id: va-richmond-10
+
+**Links**
+
+* https://twitter.com/woznyphoto/status/1276734657237864448
+
+
+### Police drag protestor off bike | June 26th
+
+Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protestors. He grabs a protestor on a bike, then proceeds to drag the protestor into the street and off the bike. Several officers aid the officer in arresting the protestor, while the original officer kneels on the protestor's back.
+
+tags: bike, grab, arrest, knee
+
+id: va-richmond-11
+
+**Links**
+
+* https://twitter.com/woznyphoto/status/1276727667979694081
+
+
+### Police shove and pepper-spray protestor | June 26th
+
+Footage shows a police officer shoving a protestor to the ground. The protestor scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protestors.
+
+tags: shove, pepper-spray, spray
+
+id: va-richmond-12
+
+**Links**
+
+* https://twitter.com/woznyphoto/status/1276865711835623424
