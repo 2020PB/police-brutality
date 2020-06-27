@@ -180,8 +180,8 @@ def parse_state(state, text):
             pass
         else:
             # Text without a markdown marker, this might be the description or metadata
-            id_prefix = 'id: '
-            tags_prefix = 'tags: '
+            id_prefix = 'id:'
+            tags_prefix = 'tags:'
             if line.startswith(id_prefix):
                 entry["id"] = line[len(id_prefix):].strip()
             elif line.startswith(tags_prefix):

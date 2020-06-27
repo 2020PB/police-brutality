@@ -2,7 +2,7 @@
 
 ### Police repeatedly shoot tear gas into crowd, even after crowd has dispersed | May 29th
 
-Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown. 
+Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown.
 
 tags: tear-gas, mace, spray
 
@@ -28,7 +28,7 @@ id: ia-desmoines-3
 * [Location via Google Street View](https://www.google.ca/maps/@41.6293563,-93.6988361,3a,75y,358.27h,68.85t/data=!3m6!1e1!3m4!1s5NdIPPqrW0kAv0Ge9xX4EQ!2e0!7i16384!8i8192)
 
 
-### Police detail Des Moines Register reporter while covering event | May 31st 
+### Police detail Des Moines Register reporter while covering event | May 31st
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
@@ -44,7 +44,7 @@ id: ia-desmoines-7
 
 ### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | June 1st
 
-Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye. 
+Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye.
 
 tags: journalist, pepper-spray, spray
 
@@ -82,7 +82,7 @@ id: ia-desmoines-6
 * https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
 
 
-### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
+### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th
 
 "Des Moines police approached The Blazing Saddle, a gay bar in Des Moines’ East Village neighborhood, and searched the premises — apparently without a warrant. Video from a security camera made public on Facebook shows officers in riot gear converging suddenly on the bar at approximately 11:45 p.m. and detaining those gathered outside." - The Iowa Inquirer
 
@@ -112,3 +112,4 @@ id: ia-iowacity-1
 **Links**
 
 * https://twitter.com/DJPAIMON/status/1268399580753858561
+

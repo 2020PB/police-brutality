@@ -15,7 +15,7 @@ id: ok-oklahomacity-1
 
 ### Law enforcement uses tear-gas several times | May 30th
 
-Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protestors that are standing. 
+Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protestors that are standing.
 
 tags: tear-gas
 
@@ -55,3 +55,4 @@ id: ok-tulsa-1
 **Links**
 
 * https://twitter.com/KTULNews/status/1267388909937405952
+

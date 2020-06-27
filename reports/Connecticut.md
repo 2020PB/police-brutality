@@ -33,6 +33,7 @@ tags: abuse-of-power, arrest, tackle
 id: ct-waterbury-3
 
 **Links**
+
 * [Most comprehensive video](https://www.facebook.com/lisha.watson/videos/vb.1314669862/10222859537459698/?type=2&video_source=user_video_tab)
 * https://twitter.com/Calibud_Art/status/1268274760250777600
 * https://twitter.com/IM22134/status/1268232740513755143
@@ -57,5 +58,4 @@ id: ct-waterbury-1
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
 * https://www.facebook.com/1810145782/videos/10213301759497738/
 * [Coverage in conservative-leaning local paper](https://www.rep-am.com/local/localnews/2020/06/04/video-shows-a-waterbury-police-officer-shoving-woman-into-cruiser-during-an-arrest/)
-
 

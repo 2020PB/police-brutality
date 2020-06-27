@@ -104,8 +104,7 @@ def rewrite_data(data):
         with open(out_path, "wb") as fout:
             fout.write(new_md_text.encode("utf-8"))
 
-row_format = '''
-### {name} | {date_text}
+row_format = '''### {name} | {date_text}
 
 {description}
 
@@ -132,7 +131,7 @@ def gen_md_from_rows(state, rows):
     for row in rows:
         if row["city"] and row["city"] != city:
             # new city, let everyone know
-            lines.append(f'## {row["city"]}')
+            lines.append(f'## {row["city"]}\n')
             city = row["city"]
         
         # convert links list to a links string

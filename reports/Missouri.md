@@ -2,6 +2,8 @@
 
 ### Police pepper spray and arrest protestor holding sign | May 30th
 
+
+
 tags: pepper-spray, spray, arrest
 
 id: mo-kansascity-5
@@ -35,10 +37,13 @@ tags: child, tear-gas
 id: mo-kansascity-1
 
 **Links**
+
 * https://twitter.com/imunoz03/status/1266908372881768448
 
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
+
+
 
 tags: arrest, tear-gas
 
@@ -99,7 +104,7 @@ id: mo-kansascity-6
 
 ### Florissant officer hits man with unmarked police vehicle | June 2nd
 
-A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm. 
+A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm.
 
 Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time. There is also no dash-cam footage.
 

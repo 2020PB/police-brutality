@@ -2,13 +2,14 @@
 
 ### Police use tear gas on protestors peacefully blocking road | June 1st
 
-Police tell protestors blocking road to disperse and then immediately use tear gas on them. 
+Police tell protestors blocking road to disperse and then immediately use tear gas on them.
 
 tags: tear-gas
 
 id: oh-beavercreek-1
 
 **Links**
+
 * [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
 
 
@@ -25,6 +26,7 @@ tags: abuse-of-power
 id: oh-bethel-1
 
 **Links**
+
 * https://www.youtube.com/watch?v=6GVbOjgBUCc
 * https://www.youtube.com/watch?v=ltabht5GsL0
 
@@ -40,9 +42,11 @@ tags: pepper-spray, flashbangs, tear-gas
 id: oh-canton-1
 
 **Links**
+
 * [Part 1, starts around 37:00](https://www.facebook.com/dustin.j.teeters/videos/10157947506156001/)
 * [Part 2](https://www.facebook.com/dustin.j.teeters/videos/10157947685856001/)
 * [Images](https://twitter.com/lizardvacuum/status/1266549605128450048)
+
 
 ## Cincinnati
 
@@ -78,11 +82,11 @@ Video shows multiple police seizing a reporter and forcing him to the ground. Th
 
 tags: journalist, arrest, shov, grab
 
-**Links**
-
 id: oh-cincinnati-3
 
-*  https://twitter.com/nswartsell/status/1267612155840528385
+**Links**
+
+* https://twitter.com/nswartsell/status/1267612155840528385
 
 
 ### Officer refuses to give diabetic arrestee her insulin back | June 2nd
@@ -213,8 +217,8 @@ id: oh-columbus-15
 
 **Links**
 
-*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
-*  https://twitter.com/julialwashere/status/1266730657436315649
+* https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
+* https://twitter.com/julialwashere/status/1266730657436315649
 
 
 ### Police pepper spray protestors; rip mask off protestor | May 30th
@@ -239,6 +243,7 @@ tags: medic, pepper-spray, spray
 id: oh-columbus-5
 
 **Links**
+
 * https://twitter.com/Katy38105157/status/1266816739444166656
 * https://twitter.com/SAColumbus/status/1266867613872857094
 
@@ -252,6 +257,7 @@ tags: mace, pepper-spray, spray
 id: oh-columbus-6
 
 **Links**
+
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
 * https://twitter.com/MarioLeUgly/status/1266933807929798656
 
@@ -265,6 +271,7 @@ tags: vehicle, drive
 id: oh-columbus-7
 
 **Links**
+
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
 
 
@@ -371,7 +378,7 @@ id: oh-columbus-13
 * https://twitter.com/maevewalsh27/status/1267646128289447939
 
 
-### Bronze star veteran recounts injuries from police at protests  | June 5th
+### Bronze star veteran recounts injuries from police at protests | June 5th
 
 In an article from the Columbus Dispatch, a veteran, Ryan McMullen, recounts injuries he sustained at police hands from the beginning of protests up to Friday, June 5th.
 
@@ -391,7 +398,7 @@ id: oh-columbus-18
 
 ### Man maced by police | June 21st
 
-Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. 
+Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
 
 Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
 
@@ -412,14 +419,16 @@ id: oh-columbus-19
 
 ### Police fire multiple cans of tear gas at protestors | May 30th
 
-Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protestors grabbed the cans and threw them back toward the police. The protestors mostly disperse, but once the gas clears they return. The police then fire more tear gas. 
+Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protestors grabbed the cans and threw them back toward the police. The protestors mostly disperse, but once the gas clears they return. The police then fire more tear gas.
 
 tags: tear-gas
 
 id: oh-dayton-1
 
 **Links**
+
 * [Tear gas at 18:20 and 34:00](https://www.facebook.com/daytondailynews/videos/276588847040795)
+
 
 ## Toledo
 
@@ -432,6 +441,8 @@ tags: tear-gas, rubber-bullets
 id: oh-toledo-1
 
 **Links**
+
 * [Starts around 19:00](https://www.facebook.com/thetoledoblade/videos/2407373416227629)
 * [Starts at 11:15](https://www.facebook.com/thetoledoblade/videos/745938859545308)
 * [The Blade news article](https://www.toledoblade.com/local/community-events/2020/05/30/protests-in-toledo-over-george-floyd-s-death/stories/20200530079)
+

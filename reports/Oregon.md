@@ -118,9 +118,9 @@ id: or-portland-26
 
 ### Police SUV accelerates towards protestors | June 3rd
 
-In helicopter footage from KGW, protestors are seen moving police barricades and traffic cones on the street. It is unclear if protestors are attempting to clear the street or form a barricade. 
+In helicopter footage from KGW, protestors are seen moving police barricades and traffic cones on the street. It is unclear if protestors are attempting to clear the street or form a barricade.
 
-A police SUV accelerates into the intersection, swerving towards protestors, which forces them to run out of the way. 
+A police SUV accelerates into the intersection, swerving towards protestors, which forces them to run out of the way.
 
 tags: vehicle
 
@@ -443,3 +443,4 @@ id: or-salem-1
 * https://twitter.com/greg_doucette/status/1268940700944605187
 * https://www.buzzfeednews.com/article/davidmack/salem-oregon-cop-warn-white-armed-men-playing-favorites
 * https://twitter.com/Satellit3Heart/status/1268863536299675648
+

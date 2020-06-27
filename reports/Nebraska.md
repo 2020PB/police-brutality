@@ -1,6 +1,5 @@
 ## Lincoln
 
-
 ### Police arrest protestors leaving scene | May 31st
 
 A crowd gathers around a woman who is being arrested. After she is pulled away, police give a dispersal order. Protestors comply, but appear to exchange words with officers while walking away. Police then shout that they are under arrest, shoving protestors to the ground and kneeling on them to make arrests.
@@ -13,6 +12,7 @@ id: ne-lincoln-1
 
 * https://journalstar.com/news/local/crime-and-courts/watch-now-arrested-lincoln-protester-felt-violated-we-did-nothing-wrong-but-exercise-our-constitutional/article_aa0216d0-b79b-524b-9b6a-5db44a2d49dc.html
 * https://twitter.com/greg_doucette/status/1268772480153460736
+
 
 ### Reporter shows tear gas canister fired at him by police | May 31st
 
@@ -57,3 +57,4 @@ id: ne-omaha-2
 
 * https://twitter.com/reecereports/status/1267629669093978117
 * https://twitter.com/greg_doucette/status/1267649720215834626
+
