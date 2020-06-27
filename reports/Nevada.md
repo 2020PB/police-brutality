@@ -10,7 +10,7 @@ id: nv-lasvegas-3
 
 **Links**
 
-*  https://twitter.com/itsraiialex/status/1266770032719040513
+* https://twitter.com/itsraiialex/status/1266770032719040513
 
 
 ### Police shove numerous protestors to the ground | May 29th
@@ -80,3 +80,4 @@ id: nv-lasvegas-6
 * https://www.reddit.com/r/PublicFreakout/comments/hcfocc/cops_rush_protest_crowd_in_las_vegas/
 * https://twitter.com/SodASierra/status/1274719985416286209
 * https://www.youtube.com/watch?v=C5mj1JMCpvs
+

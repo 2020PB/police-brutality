@@ -12,6 +12,7 @@ id: al-birmingham-1
 
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
 
+
 ### Police arrest journalist Michael Harriot | June 4
 
 Journalist Michael Harriot was covering a protest with a group of journalists; he was the only black journalist present. He left his press pass in the car for fear of being targeted by protesters, but he says he had a digital press pass on his phone.
@@ -31,6 +32,7 @@ id: al-birmingham-2
 * [Video](https://www.youtube.com/watch?v=H308RU7jtM4)
 * [Poynter institute guidance for journalists](https://www.poynter.org/reporting-editing/2020/23-guidelines-for-journalists-to-safely-cover-protests-this-weekend/)
 
+
 ## Hoover
 
 ### Police make a series of violent arrests | May 31st
@@ -47,6 +49,7 @@ id: al-hoover-1
 * https://twitter.com/greg_doucette/status/1269812337696964608
 * https://twitter.com/mtvtacallya/status/1267318555604910081
 
+
 ## Huntsville
 
 ### Protester falls and is stepped on | June 1st
@@ -59,7 +62,7 @@ id: al-huntsville-1
 
 **Links**
 
-*  https://twitter.com/ETfonehome97/status/1267657232411435008
+* https://twitter.com/ETfonehome97/status/1267657232411435008
 
 
 ### Police officer pepper sprays protestors for no reason | June 3rd
@@ -72,7 +75,7 @@ id: al-huntsville-2
 
 **Links**
 
-*  https://twitter.com/bitchthot420/status/1268350308398268416
+* https://twitter.com/bitchthot420/status/1268350308398268416
 
 
 ### Police tear gas reporters | June 3rd
@@ -85,7 +88,7 @@ id: al-huntsville-3
 
 **Links**
 
-*  https://twitter.com/greg_doucette/status/1268397070563414016
+* https://twitter.com/greg_doucette/status/1268397070563414016
 
 
 ### Police preemptively tear gas peaceful protestors | June 3rd
@@ -119,3 +122,4 @@ id: al-huntsville-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gyo2fh/huntsville_al_woman_documents_herself_struggling/
+

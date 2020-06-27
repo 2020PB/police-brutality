@@ -2,7 +2,7 @@
 
 ### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
 
-Bodycam footage shows an unarmed man walking around in the street. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".  
+Bodycam footage shows an unarmed man walking around in the street. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".
 
 This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
 
@@ -12,10 +12,10 @@ id: va-fairfax-1
 
 **Links**
 
-*  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
-*  https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
-*  [Full video](https://www.youtube.com/watch?v=MjFEDlTCKGE)
-*  https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
+* https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
+* https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
+* [Full video](https://www.youtube.com/watch?v=MjFEDlTCKGE)
+* https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
 
 
 ## Fredericksburg
@@ -34,6 +34,7 @@ id: va-fredericksburg-2
 * https://twitter.com/Dannyklein69/status/1267261914138267649
 * https://twitter.com/Dannyklein69/status/1267261377435099142
 * https://twitter.com/greg_doucette/status/1268398488783642625
+
 
 ## Manassas
 
@@ -166,7 +167,7 @@ id: va-richmond-5
 
 ### Police pepper-spray journalist | June 21st
 
-First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately. 
+First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately.
 
 He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
 
@@ -181,6 +182,7 @@ id: va-richmond-7
 * https://twitter.com/aeringle/status/1274898298923606017
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
+
 ### Police escalate against protestors outside city hall | June 23rd
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
@@ -192,7 +194,8 @@ id: va-richmond-8
 **Links**
 
 * [Full timeline of events twitter thread](https://twitter.com/NotLevar/status/1275368795444588544)
-* [tear gas](https://twitter.com/NotLevar/status/1275368797466243073) 
+* [tear gas](https://twitter.com/NotLevar/status/1275368797466243073)
 * [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
+

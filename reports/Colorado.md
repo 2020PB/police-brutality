@@ -57,8 +57,8 @@ id: co-denver-3
 **Links**
 
 * https://twitter.com/AdiGTV/status/1266554320717099008
-*	https://pressfreedomtracker.us/all-incidents/photojournalist-covering-denver-protests-hit-multiple-pepper-balls/
-*	https://www.thedenverchannel.com/news/local-news/peaceful-protests-demanding-justice-for-george-floyd-in-denver-turn-violent-for-a-2nd-straight-day
+* https://pressfreedomtracker.us/all-incidents/photojournalist-covering-denver-protests-hit-multiple-pepper-balls/
+* https://www.thedenverchannel.com/news/local-news/peaceful-protests-demanding-justice-for-george-floyd-in-denver-turn-violent-for-a-2nd-straight-day
 
 
 ### Denver SWAT shoot at woman trying to stop armored car | May 29th
@@ -77,7 +77,7 @@ id: co-denver-4
 
 ### Police discharge tear gas into group of protesters | May 29th
 
-An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
+An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge.
 
 tags: tear-gas, tear-gas-canister, shoot, projectile
 
@@ -132,7 +132,6 @@ id: co-denver-7
 ### Bystander claims police shoot him in the eye | May 30th
 
 A man was blinded in one eye in a manner consistent with a rubber bullet. He claims a law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, despite the fact that he wasn't provoking the officer (or even protesting) at the time, and didn't see anyone near him doing so.
-
 
 tags: shoot, projectile, rubber-bullet
 
@@ -286,3 +285,4 @@ id: co-denver-18
 **Links**
 
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
+

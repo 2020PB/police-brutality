@@ -1,7 +1,7 @@
 ## Austin
 
-
 ### Police assault protesters | (believed to be) May 30th
+
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
 
 tags: choke, threaten, gun, beat, punch, baton
@@ -131,7 +131,7 @@ Volunteer medics were advised to bring a critically wounded protestor to the pol
 
 tags: medic, shoot
 
-id: tx-austin-8
+id: tx-austin-9
 
 **Links**
 
@@ -231,6 +231,7 @@ id: tx-dallas-3
 * https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
 * [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
 
+
 ## El Paso
 
 ### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protestors | (believed to be) May 31st
@@ -300,6 +301,7 @@ id: tx-houston-4
 
 * https://twitter.com/greg_doucette/status/1268392253665546245
 
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
@@ -328,3 +330,4 @@ id: tx-sanantonio-2
 **Links**
 
 * https://twitter.com/SanAntonioProbz/status/1268027491987468288
+
