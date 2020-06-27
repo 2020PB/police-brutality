@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T21:47:09.405585+00:00
+UPDATED AT: 2020-06-27T21:48:34.684721+00:00
 
 
 # Alabama
@@ -4520,6 +4520,25 @@ id: nc-raleigh-3
 * https://indyweek.com/news/wake/conrad-james-raleigh-city-council-arrest/
 * https://twitter.com/LeighTauss/status/1269100075323662339
 * https://abc11.com/activist-who-made-demands-to-raleigh-leaders-arrested-for-unrelated-incident/6234238/
+
+
+### Raleigh police roughly arrest protestors | June 18th
+
+Footage shows violent arrests of 2 protestors. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protestors out of the way.
+
+One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor. 
+
+Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protestor was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
+
+tags: shove, push, arrest, child
+
+id: nc-raleigh-8
+
+**Links**
+
+* https://www.wral.com/two-arrested-after-n-c-born-protest-in-downtown-raleigh/19151333/
+* https://twitter.com/raleighpolice/status/1273786583913771009
+* https://www.wral.com/raleigh-police-drop-charge-against-protester-to-investigate-officers-actions/19152361/
 
 
 ## Wilmington
