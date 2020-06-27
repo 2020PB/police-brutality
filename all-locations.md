@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T21:27:29.929829+00:00
+UPDATED AT: 2020-06-27T21:41:33.577354+00:00
 
 
 # Alabama
@@ -6534,6 +6534,29 @@ id: va-richmond-8
 
 
 # Washington
+
+## Olympia
+
+### Police respond to broken windows with excessive force | May 31st
+
+Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop. 
+
+Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation. 
+
+Police fire tear gas and riot rounds at protestors during the arrests. Protestors become agitated.
+
+After police walk arrestee away, protestors continue to shout at police. Police respond with a second bout of tear gas and riot rounds.
+
+A racial slur can be heard shouted, although it is unsure who is shouting.
+
+tags: arrest, tear-gas, shoot, projectiles
+
+id: wa-olympia-1
+
+**Links**
+
+* https://www.youtube.com/watch?v=s7MM1VauRHo
+
 
 ## Seattle
 
