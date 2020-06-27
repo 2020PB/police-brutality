@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T01:39:35.578605+00:00
+UPDATED AT: 2020-06-27T15:01:01.400317+00:00
 
 
 # Alabama
@@ -5349,7 +5349,7 @@ id: or-portland-25
 
 **Links**
 
-https://www.tiktok.com/@officersiggity/video/6838314162192485638
+* https://www.tiktok.com/@officersiggity/video/6838314162192485638
 
 
 ### Officer strikes journalist with baton | June 14th
