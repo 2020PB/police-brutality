@@ -402,7 +402,6 @@ id: ca-losangeles-19
 * [First response by UCLA professors, containing further allegations of misconduct by LAPD and LASD](https://twitter.com/ananyaUCLA/status/1267985147225231360)
 * [Second response by UCLA professors](https://drive.google.com/file/d/157MdwMMCEebcUyesO9HMOYK9p21q3gpE/view)
 * https://www.reddit.com/r/LosAngeles/comments/gxi8b2/how_is_noone_talking_about_this_women_from/
-* https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/ft9so6j/?context=8&depth=9
 * https://abc7.com/uclas-jackie-robinson-stadium-used-as-field-jail-during-protests-/6229078/
 * https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
 
