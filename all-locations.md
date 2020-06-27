@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T15:01:01.400317+00:00
+UPDATED AT: 2020-06-27T15:01:21.032627+00:00
 
 
 # Alabama
@@ -1503,7 +1503,7 @@ tags: journalist, arrest, tackle
 
 id: de-dover-1
 
-*Links*
+**Links**
 
 * https://www.usatoday.com/story/news/nation/2020/06/09/george-floyd-protests-usa-today-network-reporter-arrested-delaware/5331163002/
 * https://v.redd.it/u78faokca3451
