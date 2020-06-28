@@ -2,9 +2,9 @@
 
 ### Police respond to broken windows with excessive force | May 31st
 
-Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop. 
+Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop.
 
-Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation. 
+Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation.
 
 Police fire tear gas and riot rounds at protestors during the arrests. Protestors become agitated.
 
