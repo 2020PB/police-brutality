@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-28T19:09:55.885640+00:00
+UPDATED AT: 2020-06-28T20:00:43.109086+00:00
 
 
 # Alabama
@@ -4581,7 +4581,7 @@ id: nc-raleigh-3
 
 Footage shows violent arrests of 2 protestors. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protestors out of the way.
 
-One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor. 
+One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor.
 
 Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protestor was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
 
@@ -5639,6 +5639,7 @@ id: or-portland-30
 
 * https://www.reddit.com/r/ThatsInsane/comments/hgr2ld/cops_gone_crazyportlandpolice_has_finally_lost/
 * https://www.youtube.com/watch?v=IGW5CpU2C6s
+* [Alternate angle](https://www.reddit.com/r/2020PoliceBrutality/comments/hhf7to/portlandpolice_attack_handful_of_protestors/)
 
 
 ## Salem
@@ -6694,9 +6695,9 @@ id: va-richmond-12
 
 ### Police respond to broken windows with excessive force | May 31st
 
-Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop. 
+Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop.
 
-Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation. 
+Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation.
 
 Police fire tear gas and riot rounds at protestors during the arrests. Protestors become agitated.
 
@@ -7345,8 +7346,7 @@ id: dc-dc-21
 * https://twitter.com/DotElection/status/1275289922740662275
 
 
-
-### Eyewitness reports police destroyed supplied and attacked medics | June 23rd 
+### Eyewitness reports police destroyed supplied and attacked medics | June 23rd
 
 An eyewitness to protests reports that police pushed protestors away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
 
