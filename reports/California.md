@@ -428,7 +428,7 @@ id: ca-losangeles-32
 
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
-A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way. 
+A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way.
 
 tags: shoot, pepper-ball, vehicle, drive
 
@@ -441,7 +441,6 @@ id: ca-losangeles-1
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 * https://twitter.com/ItsjustmeD_/status/1268596982966218752
-
 
 
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
@@ -502,6 +501,7 @@ tags: shoot, projectile, tear-gas
 id: ca-losangeles-20
 
 **Links**
+
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
@@ -518,6 +518,7 @@ tags: tear-gas, journalist
 id: ca-losangeles-21
 
 **Links**
+
 * https://twitter.com/josie_huang/status/1274859389921267713
 * https://twitter.com/josie_huang/status/1274860188898430976
 
@@ -533,6 +534,7 @@ tags: shoot, projectiles
 id: ca-losangeles-22
 
 **Links**
+
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
 
@@ -583,7 +585,7 @@ id: ca-oakland-2
 
 ### Water bottle tossed at police; police retaliate against crowd | June 2nd
 
-Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately. 
+Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately.
 
 tags: tear-gas
 
@@ -621,6 +623,7 @@ tags: shoot, projectile
 id: ca-sacramento-1
 
 **Links**
+
 * https://youtu.be/pRmBO34aXME
 * https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
@@ -753,7 +756,7 @@ id: ca-sanjose-3
 
 **Links**
 
-*  https://twitter.com/DeadByDawn101/status/1268825100385521665
+* https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 
 ### Police fire on community activist | May 29th
@@ -791,7 +794,7 @@ id: ca-sanjose-4
 
 A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the crowd. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
 
-tags: rubber-bullets, explosive, shoot, projectile 
+tags: rubber-bullets, explosive, shoot, projectile
 
 id: ca-sanjose-5
 
@@ -904,7 +907,7 @@ id: ca-santamonica-2
 
 ### Police fatally shoot unarmed 22 year old | June 1st
 
-"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family. 
+Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family.
 
 Six officers fired 55 bullets in 3.5 seconds; police investigation determined this use of force 'reasonable.'
 
@@ -945,3 +948,4 @@ id: ca-walnutcreek-2
 **Links**
 
 * https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
+

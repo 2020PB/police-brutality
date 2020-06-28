@@ -23,7 +23,7 @@ id: il-chicago-2
 
 **Links**
 
-*  https://twitter.com/LUVRGRLLANI/status/1266866301001179136
+* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
 ### Police pepper-spray reporter for recording | May 30th
@@ -132,6 +132,7 @@ tags: punch
 id: il-chicago-7
 
 **Links**
+
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
 * https://twitter.com/greg_doucette/status/1268323060026937345
 * https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
@@ -147,7 +148,7 @@ id: il-chicago-8
 
 **Links**
 
-*  https://twitter.com/BLMChi/status/1267486699321544704
+* https://twitter.com/BLMChi/status/1267486699321544704
 
 
 ### Police grab protester and throw into brick wall | June 2nd
@@ -191,3 +192,4 @@ id: il-joliet-1
 * https://www.youtube.com/watch?v=rllO2sdj1Ek
 * https://twitter.com/OrozcoJustina/status/1268262843801010179
 * https://www.chicagotribune.com/news/breaking/ct-joliet-mayor-video-fallout-20200606-zeidd3u5xbadxfoedmfkp22akm-story.html
+

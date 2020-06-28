@@ -47,7 +47,7 @@ id: ny-buffalo-3
 
 **Links**
 
-*  https://twitter.com/PhotoJazzy/status/1269056626843099137
+* https://twitter.com/PhotoJazzy/status/1269056626843099137
 
 
 ## East Meadow
@@ -85,7 +85,6 @@ id: ny-merrick-1
 
 
 ## New York City
-
 
 ### Police shove woman to the ground, inducing a seizure | May 29th
 
@@ -275,7 +274,7 @@ id: ny-newyorkcity-33
 
 ### Police beat hospital employee walking home | May 31st
 
-Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples. 
+Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples.
 
 tags: medic, beat, strike, shove
 
@@ -440,7 +439,7 @@ id: ny-newyorkcity-18
 
 Footage shows a cluster of NYPD officers striking a vehicle with batons and kicking it, before pulling the driver onto the street and arresting them. Footage shows police smashed several of the car's windows.
 
-Officers allege the driver and passenger were looters and had tried to run over police. 
+Officers allege the driver and passenger were looters and had tried to run over police.
 
 Officers additionally allege that the passenger attempted to jump to the driver's seat, run over an NYPD officer, and drive away. However, footage shows heavy traffic on all sides of the car and does not capture the alleged attempt by the passenger.
 
@@ -510,6 +509,7 @@ id: ny-newyorkcity-22
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
+
 ### NYPD officers beat woman | (Believed to be) June 3rd
 
 A woman is walking on the sidewalk with a peaceful protest. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
@@ -521,6 +521,7 @@ id: ny-newyorkcity-34
 **Links**
 
 * https://twitter.com/Add_Boy/status/1268264728989626368
+
 
 ### Motorist honks in support of protest; Police stop her | June 3rd
 
@@ -537,7 +538,7 @@ id: ny-newyorkcity-35
 
 ### Police confiscate protestor's bike | June 3rd
 
-Footage shows NYPD officer grabbing a protestor's bike and walking away with it, citing curfew restrictions as the reason for seizure. 
+Footage shows NYPD officer grabbing a protestor's bike and walking away with it, citing curfew restrictions as the reason for seizure.
 
 A thread on Twitter from an alleged victim and member of the press who states that police stole their bike and roughed them up.
 
@@ -625,7 +626,7 @@ Police shut down a birthday party on private property. The party was occurring a
 
 Police continued shoving protestors already inside the building. Footage shows verbal altercation between police and partygoers before an officer forced his way past a door, shoving several partygoers. Police then began arresting partygoers and beating them with batons.
 
-Footage shows partygoers were beaten with batons and ziptied. 
+Footage shows partygoers were beaten with batons and ziptied.
 
 Three partygoers state officers used racial slurs while arresting them.
 
@@ -685,7 +686,7 @@ id: ny-newyorkcity-25
 
 ### Police arrest hospital employee acting as medic | June 4th
 
-A crowd gathers around as a man in scrubs is arrested. 
+A crowd gathers around as a man in scrubs is arrested.
 
 In a report after the fact, he says police laughed when he and other detained protestors requested masks. He also states that he was kept with 17 people in a small, warm room (he approximates 8'x10' and 85 degrees).
 
@@ -701,7 +702,7 @@ id: ny-newyorkcity-47
 
 ### Police shove multiple reporters | June 4th
 
-At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first. 
+At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first.
 
 tags: journalist, baton, strike, shove
 
@@ -780,3 +781,4 @@ id: ny-rochester-1
 **Links**
 
 * https://twitter.com/bleeezyy_/status/1266894195865931778
+

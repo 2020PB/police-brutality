@@ -1,3 +1,5 @@
+## DC
+
 ### Riot police fire tear gas round at protestor | May 30th
 
 At short range, officer fires a tear gas round directly at a protestor. The round narrowly misses striking the protestor in the face.
@@ -30,6 +32,7 @@ id: dc-dc-1
 Tear gas is shot on ground near protesters. One protester is depicted needing water for eye wash. Calls for water and medics are heard.
 
 tags: tear-gas, medic
+
 id: dc-dc-11
 
 **Links**
@@ -63,6 +66,7 @@ id: dc-dc-2
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors via tear gas and flashbangs.
 
 tags: tear-gas, flashbangs
+
 id: dc-dc-3
 
 **Links**
@@ -80,6 +84,7 @@ id: dc-dc-3
 DCPD officer aims tear gas canister at protestor's head, narrowly misses.
 
 tags: tear-gas-canister, projectiles
+
 id: dc-dc-4
 
 **Links**
@@ -92,6 +97,7 @@ id: dc-dc-4
 MSNBC captures mounted and regular police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
 
 tags: flashbangs, horse
+
 id: dc-dc-5
 
 **Links**
@@ -104,6 +110,7 @@ id: dc-dc-5
 A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
 tags: threaten, tear-gas
+
 id: dc-dc-6
 
 **Links**
@@ -117,6 +124,7 @@ id: dc-dc-6
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
 tags: shield, beat, tackle
+
 id: dc-dc-7
 
 **Links**
@@ -129,6 +137,7 @@ id: dc-dc-7
 Police fire into crowd outside of White House. Protester is hit and falls to the ground. The same protester is then hit again after standing. Projectile used is unknown.
 
 tags: projectiles
+
 id: dc-dc-8
 
 **Links**
@@ -140,7 +149,7 @@ id: dc-dc-8
 
 Footage from Anderson Cooper 360 uploaded to Twitter on June 1st shows a protestor struck by an officer with a riot shield. Blood is seen coming from the protestor's face.
 
-Footage then shows the protestor shoved to the ground and shot. 
+Footage then shows the protestor shoved to the ground and shot.
 
 tags: shield, beat, shoot, shove
 
@@ -170,6 +179,7 @@ id: dc-dc-13
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
 tags: rubber-bullets, pepper-spray, journalist
+
 id: dc-dc-9
 
 **Links**
@@ -185,6 +195,7 @@ id: dc-dc-9
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
 
 tags: flashbangs
+
 id: dc-dc-10
 
 **Links**
@@ -240,6 +251,9 @@ id: dc-dc-17
 * https://twitter.com/Jsc_35/status/1275255059325030401
 * https://twitter.com/Jsc_35/status/1275270995415371776
 * https://twitter.com/Jsc_35/status/1275272881426006018
+* https://twitter.com/LiteraryMouse/status/1275235242165534721
+* https://twitter.com/LiteraryMouse/status/1275238230363975681
+* https://twitter.com/itsSweetThing/status/1275419611568226305
 
 
 ### Unidentified man working alongside police hits protesters with baton | June 22nd
@@ -257,9 +271,22 @@ id: dc-dc-19
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
 
 
+### Police pepper spray protestors with hands up | June 22nd
+
+Police line begins shouting, "Move back" and using their bikes to push protestors back across a street. Protestors with hands up who refuse to move are shoved and told to keep moving. Protestors near the filmer shout at police, saying, "What's wrong with you?" An officer behind the line of bikes steps forward and sprays pepper spray at protestors, including the filmer.
+
+tags: shove, pepper-spray, spray
+
+id: dc-dc-23
+
+**Links**
+
+* https://twitter.com/LiteraryMouse/status/1275228261140791299
+
+
 ### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
 
-Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests. 
+Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests.
 
 Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
 
@@ -301,3 +328,23 @@ id: dc-dc-21
 **Links**
 
 * https://twitter.com/DotElection/status/1275289922740662275
+
+
+
+### Eyewitness reports police destroyed supplied and attacked medics | June 23rd 
+
+An eyewitness to protests reports that police pushed protestors away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
+
+He states that police stole all food and other supplies before forcing protestors out. He states that police beat and tear-gassed medics who were attempting to help protestors. In addition, he states that police beat "anyone they could find."
+
+He says that volunteer medics had permission from the church where they set up, but police ignored the permission and dispersed them regardless.
+
+tags: medic, tear-gas, beat, property-destruction
+
+id: dc-dc-22
+
+**Links**
+
+* https://twitter.com/maryamnayebyazd/status/1275493238619635714
+* https://twitter.com/maryamnayebyazd/status/1275493885188485120
+

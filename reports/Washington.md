@@ -1,3 +1,26 @@
+## Olympia
+
+### Police respond to broken windows with excessive force | May 31st
+
+Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop. 
+
+Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation. 
+
+Police fire tear gas and riot rounds at protestors during the arrests. Protestors become agitated.
+
+After police walk arrestee away, protestors continue to shout at police. Police respond with a second bout of tear gas and riot rounds.
+
+A racial slur can be heard shouted, although it is unsure who is shouting.
+
+tags: arrest, tear-gas, shoot, projectiles
+
+id: wa-olympia-1
+
+**Links**
+
+* https://www.youtube.com/watch?v=s7MM1VauRHo
+
+
 ## Seattle
 
 ### Officer pins protestor by pushing his knee into his neck | May 30th
@@ -63,7 +86,7 @@ tags: tear-gas, tear-gas-canister
 
 id: wa-seattle-8
 
-**Links** 
+**Links**
 
 * https://www.reddit.com/r/Seattle/comments/gu3qq1/cop_just_casually_tosses_tear_gas_at_my_feet_like/
 * [Location via Google Street View](https://www.google.ca/maps/@47.6117535,-122.3363867,3a,75y,340.76h,98.03t/data=!3m7!1e1!3m5!1s3_dezBzQDIEjlJ1L0qu2QA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3D3_dezBzQDIEjlJ1L0qu2QA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D141.4241%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
@@ -120,6 +143,8 @@ tags: pepper-spray
 
 id: wa-seattle-9
 
+**Links**
+
 * [Rooftop view](https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/)
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
 * Seattle OPD Case 2020OPA-0334
@@ -132,6 +157,8 @@ Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
 tags: tear-gas, tear-gas-canister, journalist
 
 id: wa-seattle-10
+
+**Links**
 
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
 * https://twitter.com/greg_doucette/status/1267694239028334592
@@ -161,7 +188,7 @@ Officers arrived on the scene brandishing mace, alleging that the woman assaulte
 
 Officers cited a Star Wars meme depicting a Landspeeder with a caption saying, "This machine kills facists," as intent to kill officers.
 
-The woman states she tried to help a friend who was being shot with rubber bullets. 
+The woman states she tried to help a friend who was being shot with rubber bullets.
 
 tags: arrest, abuse-of-power
 
@@ -191,7 +218,7 @@ id: wa-seattle-11
 
 ### Police kettle protesters to force them to disperse through tear-gas | June 6th
 
-Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs. 
+Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs.
 
 tags: tear-gas, flashbangs, kettling
 
@@ -237,7 +264,7 @@ id: wa-seattle-14
 
 ### During arrests, man yells at police; police retaliate against crowd | June 7th
 
-Police surrounded a barricade in the street and began arresting protestors. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing. 
+Police surrounded a barricade in the street and began arresting protestors. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing.
 
 Police then retaliate against the crowd, firing tear gas and spraying pepper spray indiscriminately. Police continue to do so well after protestors have moved to the sides.
 
@@ -283,20 +310,9 @@ Video shows several police officers attempting to make their way past the fence 
 
 tags: pepper-spray
 
-id: wa-seattle-16
+id: wa-seattle-20
 
 **Links**
 
 * [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
 
-
-### Additional Seattle OPA Case Numbers
-
-* 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"
-* 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested"
-* 2020OPA-0326 - May 30 - "Pepper spraying peaceful protesters"
-* 2020OPA-0328 - May 30 - "The use of flashbangs, including causing a significant thumb injury"
-* 2020OPA-0332 - June 1 - "A confrontation between an officer and a male"
-* 2020OPA-0335 - June 1 - "Homeless man hit by an SPD flashbang while sleeping"
-
-[Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)

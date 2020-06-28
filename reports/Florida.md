@@ -48,6 +48,7 @@ id: fl-jacksonville-1
 
 * https://twitter.com/joiahhh/status/1266914558519775235
 
+
 ## Miami
 
 ### Man tackled to ground after speaking to police | May 31st
@@ -142,6 +143,7 @@ id: fl-tampa-1
 * https://twitter.com/Psychedelicgigi/status/1268740374903894016
 * https://twitter.com/drewthehouse/status/1268713991230062593
 
+
 ### Police fire tear gas at peaceful protest | June 4th
 
 Police fire tear gas at peaceful protestors, while simultaneously ordering protestors to lie down, forcing them to remain in the immediate area.
@@ -151,7 +153,9 @@ tags: tear-gas, arrest
 id: fl-tampa-2
 
 **Links**
+
 * https://twitter.com/greg_doucette/status/1268694786485166081
+
 
 ### Police pepper-spray police from protest | June 5th
 
@@ -165,11 +169,12 @@ id: fl-tampa-3
 
 * [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
 
+
 ### Police fire rubber bullets at protestors | June 5th
 
 Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protestors.
 
-Incidents include firing at peaceful protestors, fleeing protestors and medics. 
+Incidents include firing at peaceful protestors, fleeing protestors and medics.
 
 Video also includes a bleeding eyewitness describing events.
 
@@ -181,6 +186,7 @@ id: fl-tampa-4
 
 * https://twitter.com/greg_doucette/status/1268765546662805505
 * [Timestamps: 00:00-00:30, 00:38-00:45](https://twitter.com/greg_doucette/status/1268765759783796736)
+
 
 ### Police fire on medic | June 5th
 
@@ -194,3 +200,4 @@ id: fl-tampa-6
 
 * https://twitter.com/greg_doucette/status/1270491699832401920
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
+
