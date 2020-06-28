@@ -330,8 +330,7 @@ id: dc-dc-21
 * https://twitter.com/DotElection/status/1275289922740662275
 
 
-
-### Eyewitness reports police destroyed supplied and attacked medics | June 23rd 
+### Eyewitness reports police destroyed supplied and attacked medics | June 23rd
 
 An eyewitness to protests reports that police pushed protestors away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
 

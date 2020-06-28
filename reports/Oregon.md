@@ -440,6 +440,7 @@ id: or-portland-30
 
 * https://www.reddit.com/r/ThatsInsane/comments/hgr2ld/cops_gone_crazyportlandpolice_has_finally_lost/
 * https://www.youtube.com/watch?v=IGW5CpU2C6s
+* [Alternate angle](https://www.reddit.com/r/2020PoliceBrutality/comments/hhf7to/portlandpolice_attack_handful_of_protestors/)
 
 
 ## Salem
