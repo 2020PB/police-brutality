@@ -1,6 +1,6 @@
 ## Aurora
 
-### Aurora police violently disperse vigil | June 27th
+### Aurora police violently disperse violin vigil | June 27th
 
 On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain. Footage shows several violinists around a fountain and a small crowd of people scattered through the park, most sitting on picnic blankets or the grass.
 
