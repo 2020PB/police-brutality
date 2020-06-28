@@ -1,16 +1,17 @@
 ## Austin
 
-### Police assault protesters | (believed to be) May 30th
+### Police assault protesters | May 30th
 
-A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
+A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters. Another protestor shouts at an officer from several feet away; the officer immediately discharges pepper spray.
 
-tags: choke, threaten, gun, beat, punch, baton
+tags: choke, threaten, gun, beat, punch, baton, pepper-spray, spray
 
 id: tx-austin-2
 
 **Links**
 
 * https://gfycat.com/tautimaginativedore
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hhhbeh/5302020_austin/
 
 
 ### Police shoot non-violent protestor in the head | May 30th
