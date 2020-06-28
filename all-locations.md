@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T21:50:16.287857+00:00
+UPDATED AT: 2020-06-28T19:09:55.885640+00:00
 
 
 # Alabama
@@ -628,6 +628,52 @@ id: ca-losangeles-26
 * https://twitter.com/bubbaprog/status/1267641851215036416
 
 
+### Police arrest protesters en masse and detain them in poor conditions | June 1st
+
+Police arrested protesters en masse in downtown Los Angeles. Protesters hands were zip tied excessively tightly behind their backs and they were loaded onto buses and driven around the city. Some were taken to a temporary field jail at UCLA's Jackie Robinson stadium; UCLA claims it "failed to stop" LAPD from using the stadium as a "staging area," but was not told about the field jail until after the fact. Arestees were detained for long periods, still in excessively tight zip ties. Social distancing procedures were not observed. 
+
+Many protesters allege that conditions in the makeshift jails were poor -- detainees denied medical attention and permission to use the restroom, for instance -- and that they were released, many with dead phones, in unfamiliar places in the middle of the night with no way to get home. Two arrestees allege that police prevented them from leaving before the curfew went into effect, then arrested them for violating the curfew. One arrestee alleges that she was twice threatened with guns, that she was sexually assaulted by police, and that police mocked detainees having panic attacks. Police also allegedly arrested at least one homeless person (to whom the curfew was not supposed to apply) for a curfew violation. 
+
+A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
+
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten
+
+id: ca-losangeles-19
+
+**Links**
+* [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
+* [Allegations by protester Laura Montilla](https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a)
+* [Relevant video](https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t)
+* [Local news coverage mentioning the incident](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
+* [LA Times article mentioning both lawsuits](https://www.latimes.com/california/story/2020-06-22/complaints-lapd-abuses-mount-protest-lawsuit)
+* [UCLA disapproves of use of Jackie Robinson stadium for a field jail](https://twitter.com/UCLA/status/1268039753015812096)
+* [First response by UCLA professors, containing further allegations of misconduct by LAPD and LASD](https://twitter.com/ananyaUCLA/status/1267985147225231360)
+* [Second response by UCLA professors](https://drive.google.com/file/d/157MdwMMCEebcUyesO9HMOYK9p21q3gpE/view)
+* https://www.reddit.com/r/LosAngeles/comments/gxi8b2/how_is_noone_talking_about_this_women_from/
+* https://abc7.com/uclas-jackie-robinson-stadium-used-as-field-jail-during-protests-/6229078/
+* https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
+
+
+### Police arrest protesters en masse and detain them in poor conditions | June 2nd
+
+Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city. 
+
+Several arrestees describe police sexually harassing/assaulting them; other arrestees corroborate these accounts. Two arrestees report that processing of arrestees on their bus was delayed because they requested medical attention and other improvements in their conditions, which would constitute first-amendment-protected speech. Four other arrestees report that processing of arrestees on their bus was delayed because some arrestees removed unsafely-tight zip ties using a lighter. All arrestees who have shared accounts mention officers behaving in a mocking, condescending, and unprofessional manner. One arrestee recalls asking officers to turn on bodycams, and officers refusing to do so. If true, this would be a clear violation of LAPD policy. One arrestee allegedly should have been exempt from the curfew as they were returning home from work. 
+
+A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
+
+tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten
+
+id: ca-losangeles-32
+
+**Links**
+* [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
+* [LATaco article, with audio](https://www.lataco.com/protest-arrests-horror-accounts/)
+* [Allegations by protester Kayla Soren](https://ips-dc.org/police-kneeled-with-me-then-they-drew-their-guns/)
+* [Allegations by protester Julia Dupuis](https://twitter.com/juliacdupuis/status/1268638919286861824)
+* https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
+
+
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
 A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way.
@@ -692,21 +738,6 @@ id: ca-losangeles-31
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
-
-
-### Police zip tie protesters and lock them inside cages | June 3rd
-
-Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners.
-
-tags: arrest, inhumane-treatment
-
-id: ca-losangeles-19
-
-**Links**
-
-* https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
-* https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
-* https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
 
 
 ### Police fire projectiles at protesters and discharge teargas | June 5th
@@ -1094,6 +1125,30 @@ id: ca-santamonica-1
 **Links**
 
 * https://twitter.com/GIFsZP/status/1267241803750813703
+
+
+
+### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | May 31st
+
+On May 31st, police arrested numerous protesters for curfew violations. These protesters were zip tied and held for long periods, in tight quarters which did not permit social distancing, then released late at night with no way to get home. At least one detainee alleges that detainees were denied medical care and permission to use the restroom. 
+
+Zip ties were put on too tight. Police attempted to remove zip ties with a long knife (which is not the appropriate tool). This led to multiple protesters being injured, including one who required 21 stitches; it seems unlikely that the knife was appropriately sterilized between uses, raising the possibility of bloodborne pathogen transmission. 
+
+(See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
+
+tags: abuse-of-power, arrest, inhumane-treatment
+
+id: ca-santamonica-2
+
+**Links**
+
+* [Picture of one detainee's hand with stitches; description of what happened](https://www.instagram.com/p/CA88dZmFPPT/)
+* [Another detainee, apparently being injured as her zip ties are removed](https://www.instagram.com/p/CBB2mn6A8pi/)
+* [Images and video of police removing zip ties with a knife, cutting protesters](https://www.instagram.com/p/CBEFX7wlWFa/)
+* [Video of detainees zip tied on a bus. Also includes account of what happened.](https://www.instagram.com/p/CA53NtTAsGr/)
+* [News article, mentioning incident with comment from Santa Monica police](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
+* [Example of the appropriate tool to cut zip ties](https://www.lawmens.com/safety-cutter-for-disposable-restraints/?gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUtIsFPg0gSDXLSKkG__DPSoK1K2bQ5d6PZBn-rO3U5rdBEMotdtR18aAjYgEALw_wcB)
+* https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/?utm_source=share&utm_medium=web2x
 
 
 ## Vallejo
