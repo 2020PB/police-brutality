@@ -213,7 +213,7 @@ id: nc-raleigh-3
 
 Footage shows violent arrests of 2 protestors. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protestors out of the way.
 
-One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor. 
+One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor.
 
 Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protestor was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
 
