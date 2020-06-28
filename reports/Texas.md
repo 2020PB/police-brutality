@@ -76,6 +76,22 @@ id: tx-austin-8
 * https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
 
 
+### Police use horses as weapons | May 30th
+
+In an attempt to clear protestors blocking a road, mounted police began walking their horses into protestors. A handful of protestors refused to move. Rather than arresting the protestors and walking them away, police continued to push them with their horses. At one point, an officer pepper-sprays a protestor. After this protestors begin throwing things at police. The pepper-sprayed protestor swings his sign at the officer. The officer then grabs the protestor by the backpack and drags him down the road until other protestors intervene to free him. Another officer tramples one of these protestors. Protestors continue to shout at police for the duration of the footage.
+
+Charges were filed against the protestor for swinging his sign at police. Police say the sign had a wooden stick attached, but footage indicates it was only a piece of cardboard, cardstock, or similar paper material.
+
+tags: horse, shove, pepper-spray, spray
+
+id: tx-austin-10
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/h9wn2c/austin_police_used_horses_as_weapons/
+* https://www.fox7austin.com/news/man-arrested-for-striking-austin-police-horse-with-sign
+
+
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
@@ -138,6 +154,24 @@ id: tx-austin-9
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvjjwg/volunteer_medics_advised_by_police_to_bring_a/
 * https://www.reddit.com/r/PublicFreakout/comments/gwbbjs/protestor_is_shot_in_head_with_rubber_bullet/
 * http://www.thebatt.com/opinion/opinion-his-name-is-justin-howell/article_93a79c44-a5b6-11ea-aa54-ebc0da33cc35.html?fbclid=IwAR11FqXr9dRCKo-ohfeBoO9FdYFRG2uon0nqAkxKO5gZuL_-4EzgukAGcBs
+
+
+### Police kneel on man's neck to make arrest | June 12th
+
+Footage from a news report depicts multiple officers arresting a protestor outside Police Headquarters. The protestor made lewd gestures at police. Police then chased him and arrested him for obstructing a highway. In the arrest, footage clearly shows an officer kneeling on the protestor's neck.
+
+APD is investigating the incident.
+
+This appears to be the same protestor who was charged in tx-austin-10.
+
+tags: arrest, knee, knee-on-neck
+
+id: tx-austin-11
+
+**Links**
+
+* https://www.youtube.com/watch?v=Thrvojgme5I
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hc58jg/austin_police_are_investigating_a_use_of_force/
 
 
 ## Baytown
