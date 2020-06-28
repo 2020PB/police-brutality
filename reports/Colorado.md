@@ -1,3 +1,22 @@
+## Aurora
+
+### Aurora police violently disperse vigil | June 27th
+
+On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain. Footage shows several violinists around a fountain and a small crowd of people scattered through the park, most sitting on picnic blankets or the grass.
+
+Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
+
+tags: strike, beat, baton, pepper-spray, spray
+
+id: co-aurora-1
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hhfrh8/062820_musicians_in_aurora_colorado_honoring/ 
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hhh6fe/aurora_co_during_a_vigil_with_live_violinists_for/
+* https://twitter.com/jessiedesigngir/status/1277126019246260224
+
+
 ## Colorado Springs
 
 ### Multiple cops pin man to ground while repeatedly punching him | June 1st
