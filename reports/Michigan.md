@@ -116,6 +116,19 @@ id: mi-detroit-8
 * https://twitter.com/MedvisJackson/status/1267984069905784832
 
 
+### Police run over protestors | June 28th
+
+A police cruiser begins to drive into a line of protestors. Protestors continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protestor onto the hood, and drives away.
+
+tags: vehicle
+
+id: mi-detroit-9
+
+**Links**
+
+* https://twitter.com/DJEazyTwist/status/1277430912653950976
+
+
 ## Grand Rapids
 
 ### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
