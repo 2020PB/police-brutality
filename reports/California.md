@@ -151,7 +151,7 @@ id: ca-losangeles-30
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268052132252602368
-* https://twitter.com/chick_in_kiev/status/1266867554041188353
+* https://twitter.com/andrewcurryla/status/1266906677820833793
 * https://twitter.com/andrewcurryla/status/1266905784585052160
 * [Street View](https://www.google.com/maps/@34.071154,-118.3583053,3a,60y,332.25h,94.01t/data=!3m6!1e1!3m4!1sBMaXVOuAN0T9coL-PijVSA!2e0!7i16384!8i8192)
 
