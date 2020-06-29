@@ -175,6 +175,19 @@ id: tx-austin-11
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hc58jg/austin_police_are_investigating_a_use_of_force/
 
 
+### Police punch arrestee on ground | June 27th
+
+Police detained a protestor for allegedly striking a barricade with a skateboard. He is shown behind a police bike line with four officers holding him on the ground. One officer punches him repeatedly.
+
+tags: punch, strike, arrest, knee
+
+id: tx-austin-12
+
+**Links**
+
+* https://twitter.com/AltUniverseWash/status/1277104706222002177
+
+
 ## Baytown
 
 ### Police officer tackles and knees man on the ground | June 2nd
