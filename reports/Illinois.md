@@ -164,6 +164,20 @@ id: il-chicago-12
 * https://twitter.com/ChrisDitton/status/1267675836892708864
 
 
+### Police push protestor on bike, slap phone out of his hand | June 2nd
+
+Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
+
+tags: push, shove, property-destruction
+
+id: il-chicago-13
+
+**Links**
+
+* https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
+* https://www.reddit.com/r/PublicFreakout/comments/hbaove/philadelphia_police_threaten_unicorn_riot/
+
+
 ### Police hit several protesters with batons | (Believed to be) June 3rd
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
