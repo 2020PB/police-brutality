@@ -360,12 +360,3 @@ id: dc-dc-24
 
 * https://twitter.com/FordFischer/status/1277457274395676672
 
-
-### Police destroy supplies, escalate violence when protestors resist | June 27th
-
-Footage shows police dismantling a tent containing food, water and medical supplies for protestors. Some protestors refused to leave and attempted to hold on to their supplies. Police then deployed mace and made a series of violent arrests. One officer was maced by a fellow officer.
-
-tags: property-destruction, tackle, arrest, shove, mace, pepper-spray, spray
-
-id: dc-dc-25
-
