@@ -772,7 +772,7 @@ id: ny-newyorkcity-26
 
 The NYC queer liberation march occupied streets around Washington Square Park. Police arrived and forcefully moved protestors off the streets, beginning by shoving protestors and by striking them with batons. Police escalated to using pepper-spray. Police made several arrests.
 
-Additional footage shows police shoving protestors walking along both the street and sidewalk. 
+Additional footage shows police shoving protestors walking along both the street and sidewalk.
 
 Images of an arrest show multiple officers (including one white-shirted officer, denoting a rank of at least Sergeant) with black masking tape covering their badge numbers.
 
@@ -781,7 +781,6 @@ Footage also shows an officer who was pepper-sprayed by another officer. That fo
 tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badges, arrest, vehicle.
 
 id: ny-newyorkcity-49
-
 
 **Links**
 
