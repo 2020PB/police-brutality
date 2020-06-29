@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T17:22:08.781055+00:00
+UPDATED AT: 2020-06-29T17:22:16.206388+00:00
 
 
 # Alabama
@@ -2881,6 +2881,19 @@ id: mi-detroit-8
 **Links**
 
 * https://twitter.com/MedvisJackson/status/1267984069905784832
+
+
+### Police run over protestors | June 28th
+
+A police cruiser begins to drive into a line of protestors. Protestors continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protestor onto the hood, and drives away.
+
+tags: vehicle
+
+id: mi-detroit-9
+
+**Links**
+
+* https://twitter.com/DJEazyTwist/status/1277430912653950976
 
 
 ## Grand Rapids
