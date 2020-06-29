@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T12:44:35.427595+00:00
+UPDATED AT: 2020-06-29T17:15:42.437867+00:00
 
 
 # Alabama
@@ -648,9 +648,9 @@ id: ca-losangeles-26
 
 ### Police arrest protesters en masse and detain them in poor conditions | June 1st
 
-Police arrested protesters en masse in downtown Los Angeles. Protesters hands were zip tied excessively tightly behind their backs and they were loaded onto buses and driven around the city. Some were taken to a temporary field jail at UCLA's Jackie Robinson stadium; UCLA claims it "failed to stop" LAPD from using the stadium as a "staging area," but was not told about the field jail until after the fact. Arestees were detained for long periods, still in excessively tight zip ties. Social distancing procedures were not observed. 
+Police arrested protesters en masse in downtown Los Angeles. Protesters hands were zip tied excessively tightly behind their backs and they were loaded onto buses and driven around the city. Some were taken to a temporary field jail at UCLA's Jackie Robinson stadium; UCLA claims it "failed to stop" LAPD from using the stadium as a "staging area," but was not told about the field jail until after the fact. Arestees were detained for long periods, still in excessively tight zip ties. Social distancing procedures were not observed.
 
-Many protesters allege that conditions in the makeshift jails were poor -- detainees denied medical attention and permission to use the restroom, for instance -- and that they were released, many with dead phones, in unfamiliar places in the middle of the night with no way to get home. Two arrestees allege that police prevented them from leaving before the curfew went into effect, then arrested them for violating the curfew. One arrestee alleges that she was twice threatened with guns, that she was sexually assaulted by police, and that police mocked detainees having panic attacks. Police also allegedly arrested at least one homeless person (to whom the curfew was not supposed to apply) for a curfew violation. 
+Many protesters allege that conditions in the makeshift jails were poor -- detainees denied medical attention and permission to use the restroom, for instance -- and that they were released, many with dead phones, in unfamiliar places in the middle of the night with no way to get home. Two arrestees allege that police prevented them from leaving before the curfew went into effect, then arrested them for violating the curfew. One arrestee alleges that she was twice threatened with guns, that she was sexually assaulted by police, and that police mocked detainees having panic attacks. Police also allegedly arrested at least one homeless person (to whom the curfew was not supposed to apply) for a curfew violation.
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
@@ -659,6 +659,7 @@ tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten
 id: ca-losangeles-19
 
 **Links**
+
 * [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
 * [Allegations by protester Laura Montilla](https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a)
 * [Relevant video](https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t)
@@ -674,9 +675,9 @@ id: ca-losangeles-19
 
 ### Police arrest protesters en masse and detain them in poor conditions | June 2nd
 
-Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city. 
+Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city.
 
-Several arrestees describe police sexually harassing/assaulting them; other arrestees corroborate these accounts. Two arrestees report that processing of arrestees on their bus was delayed because they requested medical attention and other improvements in their conditions, which would constitute first-amendment-protected speech. Four other arrestees report that processing of arrestees on their bus was delayed because some arrestees removed unsafely-tight zip ties using a lighter. All arrestees who have shared accounts mention officers behaving in a mocking, condescending, and unprofessional manner. One arrestee recalls asking officers to turn on bodycams, and officers refusing to do so. If true, this would be a clear violation of LAPD policy. One arrestee allegedly should have been exempt from the curfew as they were returning home from work. 
+Several arrestees describe police sexually harassing/assaulting them; other arrestees corroborate these accounts. Two arrestees report that processing of arrestees on their bus was delayed because they requested medical attention and other improvements in their conditions, which would constitute first-amendment-protected speech. Four other arrestees report that processing of arrestees on their bus was delayed because some arrestees removed unsafely-tight zip ties using a lighter. All arrestees who have shared accounts mention officers behaving in a mocking, condescending, and unprofessional manner. One arrestee recalls asking officers to turn on bodycams, and officers refusing to do so. If true, this would be a clear violation of LAPD policy. One arrestee allegedly should have been exempt from the curfew as they were returning home from work.
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
@@ -685,6 +686,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten
 id: ca-losangeles-32
 
 **Links**
+
 * [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
 * [LATaco article, with audio](https://www.lataco.com/protest-arrests-horror-accounts/)
 * [Allegations by protester Kayla Soren](https://ips-dc.org/police-kneeled-with-me-then-they-drew-their-guns/)
@@ -1145,12 +1147,11 @@ id: ca-santamonica-1
 * https://twitter.com/GIFsZP/status/1267241803750813703
 
 
-
 ### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | May 31st
 
-On May 31st, police arrested numerous protesters for curfew violations. These protesters were zip tied and held for long periods, in tight quarters which did not permit social distancing, then released late at night with no way to get home. At least one detainee alleges that detainees were denied medical care and permission to use the restroom. 
+On May 31st, police arrested numerous protesters for curfew violations. These protesters were zip tied and held for long periods, in tight quarters which did not permit social distancing, then released late at night with no way to get home. At least one detainee alleges that detainees were denied medical care and permission to use the restroom.
 
-Zip ties were put on too tight. Police attempted to remove zip ties with a long knife (which is not the appropriate tool). This led to multiple protesters being injured, including one who required 21 stitches; it seems unlikely that the knife was appropriately sterilized between uses, raising the possibility of bloodborne pathogen transmission. 
+Zip ties were put on too tight. Police attempted to remove zip ties with a long knife (which is not the appropriate tool). This led to multiple protesters being injured, including one who required 21 stitches; it seems unlikely that the knife was appropriately sterilized between uses, raising the possibility of bloodborne pathogen transmission.
 
 (See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
 
@@ -5681,6 +5682,19 @@ id: or-portland-28
 * https://twitter.com/ghostmobpdx/status/1276462936941187074
 
 
+### Man shot in eye with stinger pellet | June 26th
+
+Images show aftermath of protestor who was shot in the eye with a Stinger rubber pellet. Additional screencap shows instruction for proper use state that it is necessary to keep trajectory low to avoid striking above the breast line - this suggests a misuse of riot rounds by officers.
+
+tags: shoot, rubber-bullets
+
+id: or-portland-31
+
+**Links**
+
+* https://twitter.com/chadloder/status/1277360969228771329
+
+
 ### Police charge protestors, shoving them and beating them with batons | June 27th
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
@@ -5694,6 +5708,63 @@ id: or-portland-30
 * https://www.reddit.com/r/ThatsInsane/comments/hgr2ld/cops_gone_crazyportlandpolice_has_finally_lost/
 * https://www.youtube.com/watch?v=IGW5CpU2C6s
 * [Alternate angle](https://www.reddit.com/r/2020PoliceBrutality/comments/hhf7to/portlandpolice_attack_handful_of_protestors/)
+
+
+### Police tear gas protestors for no evident reason | June 28th
+
+Footage shows police slowly retreating from protestors. Protestors remain in place. Police fire tear gas continually throughout their retreat.
+
+tags: tear-gas
+
+id: or-portland-35
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277125125934964736
+* https://twitter.com/hungrybowtie/status/1277125535483588609
+* https://twitter.com/hungrybowtie/status/1277125859040563200
+
+
+### Police beat wrong person for vandalism | June 28th
+
+Footage shows a protestor spray-painting a building. Another protestor with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protestor with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protestors intervene and push the officers back into the building.
+
+tags: beat, strike, property-destruction
+
+id: or-portland-32
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277156963449593856
+
+
+### Riot police charge, tackle and arrest protestors | June 28th
+
+Footage shows riot police charging at a handful of protestors walking away. Several of these protestors are shoved, thrown to the ground or tackled. Police arrest a handful of these protestors.
+
+tags: push, shove, throw, tackle, arrest
+
+id: or-portland-33
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277159562563317760
+* https://twitter.com/hungrybowtie/status/1277160091041447937
+* https://twitter.com/hungrybowtie/status/1277167952798691329
+* https://twitter.com/hungrybowtie/status/1277168538575204352
+
+
+### Police retaliate to thrown water bottle with excessive force | June 28th
+
+Footage shows three officers with riot guns outside a building. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protestors for a thrown water bottle.
+
+tags: shoot, projectile
+
+id: or-portland-34
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277169298000105473
 
 
 ## Salem
