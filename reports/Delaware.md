@@ -31,3 +31,4 @@ id: de-dover-2
 * https://dsp.delaware.gov/2020/06/10/delaware-state-police-investigating-disorderly-group-resulting-in-several-arrests-camden/
 * https://doverpolice.org/2020/06/10/dover-police-statement-regarding-june-9th-actions-with-delaware-state-police/
 * https://www.delawareonline.com/story/news/2020/06/10/delaware-officials-denounce-arrests-george-floyd-protesters-near-dover/5332891002/
+
