@@ -428,6 +428,19 @@ id: or-portland-28
 * https://twitter.com/ghostmobpdx/status/1276462936941187074
 
 
+### Man shot in eye with stinger pellet | June 26th
+
+Images show aftermath of protestor who was shot in the eye with a Stinger rubber pellet. Additional screencap shows instruction for proper use state that it is necessary to keep trajectory low to avoid striking above the breast line - this suggests a misuse of riot rounds by officers.
+
+tags: shoot, rubber-bullets
+
+id: or-portland-31
+
+**Links**
+
+* https://twitter.com/chadloder/status/1277360969228771329
+
+
 ### Police charge protestors, shoving them and beating them with batons | June 27th
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
@@ -441,6 +454,63 @@ id: or-portland-30
 * https://www.reddit.com/r/ThatsInsane/comments/hgr2ld/cops_gone_crazyportlandpolice_has_finally_lost/
 * https://www.youtube.com/watch?v=IGW5CpU2C6s
 * [Alternate angle](https://www.reddit.com/r/2020PoliceBrutality/comments/hhf7to/portlandpolice_attack_handful_of_protestors/)
+
+
+### Police tear gas protestors for no evident reason | June 28th
+
+Footage shows police slowly retreating from protestors. Protestors remain in place. Police fire tear gas continually throughout their retreat.
+
+tags: tear-gas
+
+id: or-portland-31
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277125125934964736
+* https://twitter.com/hungrybowtie/status/1277125535483588609
+* https://twitter.com/hungrybowtie/status/1277125859040563200
+
+
+### Police beat wrong person for vandalism | June 28th
+
+Footage shows a protestor spray-painting a building. Another protestor with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protestor with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protestors intervene and push the officers back into the building.
+
+tags: beat, strike, property-destruction
+
+id: or-portland-32
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277156963449593856
+
+
+### Riot police charge, tackle and arrest protestors | June 28th
+
+Footage shows riot police charging at a handful of protestors walking away. Several of these protestors are shoved, thrown to the ground or tackled. Police arrest a handful of these protestors.
+
+tags: push, shove, throw, tackle, arrest
+
+id: or-portland-33
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277159562563317760
+* https://twitter.com/hungrybowtie/status/1277160091041447937
+* https://twitter.com/hungrybowtie/status/1277167952798691329
+* https://twitter.com/hungrybowtie/status/1277168538575204352
+
+
+### Police retaliate to thrown water bottle with excessive force | June 28th
+
+Footage shows three officers with riot guns outside a building. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protestors for a thrown water bottle.
+
+tags: shoot, projectile
+
+id: or-portland-34
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1277168538575204352
 
 
 ## Salem
