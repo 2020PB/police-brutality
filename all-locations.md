@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T17:52:13.603537+00:00
+UPDATED AT: 2020-06-29T19:20:54.500857+00:00
 
 
 # Alabama
@@ -7655,6 +7655,19 @@ id: dc-dc-22
 
 * https://twitter.com/maryamnayebyazd/status/1275493238619635714
 * https://twitter.com/maryamnayebyazd/status/1275493885188485120
+
+
+### Police target protestor handing out water | June 27th
+
+Footage from late on June 27th, police charge a protestor walking away from them. She is grabbed by multiple officers, both on bike and on foot. The police then arrest her. She drops several water bottles out of her hands. Protestors state she was passing out water bottles to thirsty protesors.
+
+tags: arrest, abuse-of-power
+
+id: dc-dc-24
+
+**Links**
+
+* https://twitter.com/FordFischer/status/1277457274395676672
 
 
 
