@@ -108,17 +108,20 @@ id: fl-orlando-4
 * https://twitter.com/Flygirl4477/status/1267968890975522816
 
 
-### Police fire on protesters outside city hall | Date unknown
+### Police fire on protesters outside city hall | June 2nd
 
 Police open fire on protesters outside of city hall with tear gas, flashbangs, and apparently rubber bullets.
 
-tags: shoot, tear-gas, flashbangs, rubber-bullets
+Additional footage shows the incident was instigated when officers shoved a protestor. The protestor then fled. Officers tackled another protestor on the sidewalk, then began firing riot control rounds.
+
+tags: shoot, tear-gas, flashbangs, rubber-bullets, shove, push, tackle
 
 id: fl-orlando-2
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269017349727928320
+* https://twitter.com/Concerned407/status/1276277655545905152
 * [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
 
 
