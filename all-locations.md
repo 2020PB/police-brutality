@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T19:20:54.500857+00:00
+UPDATED AT: 2020-06-29T19:38:32.872039+00:00
 
 
 # Alabama
@@ -490,6 +490,19 @@ id: ca-losangeles-33
 * https://laist.com/2020/06/11/uninsured_protesters_free_medical_aid_la_doctor.php
 * https://losangeles.cbslocal.com/video/4578194-protester-deon-jones-describes-being-shot-with-rubber-bullet-by-police/
 * https://www.foxla.com/news/i-felt-like-i-was-on-the-timeline-to-my-death-local-man-speaks-out-after-weekend-protest-ends-in-violence
+
+
+### Riot police fire tear gas at peaceful protest, then use mace to corral protestors | May 30th
+
+Footage shows a peaceful protest opposite a police line. Around 50 seconds, police fire tear gas behind protestors, trapping them between tear gas and the police line. Police tell protestors to move, but protestors insist they cannot leave because of the gas behind them. Around 1:40, police then pepper spray protestors, forcing them to retreat into the tear gas.
+
+tags: tear-gas, mace, pepper-spray, spray
+
+id: ca-losangeles-34
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
 
 
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
