@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T17:41:36.983501+00:00
+UPDATED AT: 2020-06-29T17:52:13.603537+00:00
 
 
 # Alabama
@@ -385,6 +385,21 @@ id: ca-longbeach-1
 
 * https://laist.com/2020/05/31/reporters_injured_protests_police.php
 * https://twitter.com/AGuzmanLopez/status/1267269781805137920
+
+
+### Woman struck in finger by projectile; police quell crowd with tear gas | June 1st
+
+A crowd of protestors is chanting peacefully. A shot is fired offscreen and a woman screams. Footage shows the woman clutching her bleeding hand. The caption states her finger was "cut off." The crowd becomes agitated and police respond with tear gas.
+
+tags: shoot, projectile, tear-gas
+
+id: ca-longbeach-2
+
+**Links**
+
+* https://www.tiktok.com/@scottmbark/video/6833632749052628230
+* https://www.tiktok.com/@scottmbark/video/6833477841808657669
+* https://twitter.com/hagh_sadegh/status/1276177550339907585
 
 
 ## Los Angeles
