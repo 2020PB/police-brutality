@@ -166,7 +166,7 @@ id: il-chicago-12
 
 ### Police push protestor on bike, slap phone out of his hand | June 2nd
 
-Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
+Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
 
 tags: push, shove, property-destruction
 
