@@ -370,3 +370,15 @@ id: mn-minneapolis-19
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
 
+
+### Woman kicked in head | Date Unknown
+
+Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
+
+tags: kick
+
+id: mn-minneapolis-30
+
+**Links**
+
+* https://www.tiktok.com/@montygeer/video/6840314007954509062
