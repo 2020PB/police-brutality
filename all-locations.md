@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T17:15:42.437867+00:00
+UPDATED AT: 2020-06-29T17:17:58.756147+00:00
 
 
 # Alabama
@@ -4400,6 +4400,31 @@ id: ny-newyorkcity-26
 
 * https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
 * https://nyc.streetsblog.org/2020/06/08/see-it-police-beat-up-cyclist-during-black-lives-matter-protest/
+
+
+### Police escalate to violence at Queer Liberation March | June 28th
+
+The NYC queer liberation march occupied streets around Washington Square Park. Police arrived and forcefully moved protestors off the streets, beginning by shoving protestors and by striking them with batons. Police escalated to using pepper-spray. Police made several arrests.
+
+Additional footage shows police shoving protestors walking along both the street and sidewalk.
+
+Images of an arrest show multiple officers (including one white-shirted officer, denoting a rank of at least Sergeant) with black masking tape covering their badge numbers.
+
+Footage also shows an officer who was pepper-sprayed by another officer. That footage additionally shows officers on motorcycles forcing their way through the crowd.
+
+tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badges, arrest, vehicle.
+
+id: ny-newyorkcity-49
+
+**Links**
+
+* https://twitter.com/elielcruz/status/1277346244952817669
+* https://twitter.com/MartiGCummings/status/1277347982548111363
+* https://mobile.twitter.com/justinaflash/status/1277371937744916480
+* https://mobile.twitter.com/jonnaerikaaa/status/1277367208310685696
+* https://mobile.twitter.com/agrayphoto/status/1277362250920099840
+* [Covered badge](https://mobile.twitter.com/garrettmireles/status/1277371641996206089)
+* [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
 
 
 ## Rochester
