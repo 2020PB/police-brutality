@@ -14,6 +14,8 @@ id: co-aurora-1
 
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hhfrh8/062820_musicians_in_aurora_colorado_honoring/
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hhh6fe/aurora_co_during_a_vigil_with_live_violinists_for/
+* https://twitter.com/ekbates4/status/1277104647690280961
+* https://twitter.com/Ezret/status/1277451145418469376
 * https://twitter.com/jessiedesigngir/status/1277126019246260224
 
 
