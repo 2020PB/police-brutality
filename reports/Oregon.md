@@ -510,7 +510,7 @@ id: or-portland-34
 
 **Links**
 
-* https://twitter.com/hungrybowtie/status/1277168538575204352
+* https://twitter.com/hungrybowtie/status/1277169298000105473
 
 
 ## Salem
