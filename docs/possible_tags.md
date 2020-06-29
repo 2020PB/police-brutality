@@ -13,6 +13,7 @@ child
 choke
 conceal
 death
+dog
 drive
 elderly
 explosive
@@ -88,6 +89,7 @@ racial-profiling
 baton
 beanbags
 bike
+dog
 explosive
 foam-bullets
 flashbangs
