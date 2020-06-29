@@ -513,6 +513,32 @@ id: or-portland-34
 * https://twitter.com/hungrybowtie/status/1277169298000105473
 
 
+### Police charge crowd; shove multiple protestors | June 28th
+
+In footage from the night of June 28th, police charge protestors while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
+
+tags: strike, push, shove
+
+id: or-portland-35
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1277340069867601920
+
+
+### Police shove and mace protestor with hands up | June 28th
+
+Footage shows a police line advancing towards protestors. A protestor is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
+
+tags: push, shove, pepper-spray, spray, mace
+
+id: or-portland-36
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1277340069867601920
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
