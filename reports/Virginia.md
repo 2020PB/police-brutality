@@ -240,3 +240,23 @@ id: va-richmond-12
 * https://twitter.com/DomicoPhillips/status/1276723211879755777
 * https://twitter.com/nilsrva/status/1276752643528982530
 
+
+### Attorney arrested for photographing police staging area | June 26th
+
+Around midnight on June 26th, an attorney recounts his experience with Richmond police at a staging area in the parking lot of a Whole Foods. The attorney states the parking lot was open, there were no signs, and there was no trespassing order given.
+
+He states that he was told to leave. Then, when he tried to photograph the officer, he was yanked out of his car and arrested. Image shows marks left by zip ties. He states that eventually he was released with a summons.
+
+A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
+
+tags: arrest, abuse-of-power
+
+id: va-richmond-13
+
+**Links**
+
+* https://twitter.com/rva_charlie/status/1276739841951248384
+* https://twitter.com/rva_charlie/status/1276740854410027008
+* https://twitter.com/rva_charlie/status/1276740309171437568
+* https://twitter.com/rva_charlie/status/1276741883516071938
+* https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
