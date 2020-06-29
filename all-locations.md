@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T17:25:10.283690+00:00
+UPDATED AT: 2020-06-29T17:40:51.178780+00:00
 
 
 # Alabama
@@ -458,7 +458,6 @@ id: ca-losangeles-24
 
 * https://twitter.com/MattMcGorry/status/1267217360894562306
 * https://twitter.com/greg_doucette/status/1267605209745887233
-
 
 
 ### Los Angeles law enforcement hit protester in the face with rubber bullet | May 30th
@@ -1220,6 +1219,7 @@ id: ca-walnutcreek-3
 * https://www.mercurynews.com/2020/06/06/protester-recounts-getting-attacked-by-police-dogs-tear-gassed-at-walnut-creek-demonstration/
 * https://sanfrancisco.cbslocal.com/2020/06/17/walnut-creek-police-discuss-protest-response-critics-not-impressed/
 * https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
+
 
 ### Police fire tear gas at peaceful protestors | June 2nd
 
@@ -3457,7 +3457,7 @@ A resident's door bell camera captures a officer running over a man, who is hear
 
 Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time. There is also no dash-cam footage.
 
-tags: vehivle, drive, kick, strike, beat, body-cam, non-protest
+tags: vehicle, drive, kick, strike, beat, body-cam, non-protest
 
 id: mo-florissant-1
 
@@ -3465,6 +3465,28 @@ id: mo-florissant-1
 
 * https://www.ksdk.com/article/news/local/video-shows-florissant-officer-in-unmarked-car-hit-man-who-appears-to-be-running-away/63-5db688ff-2f31-4e55-9d24-0707ecdb677f
 * https://www.facebook.com/realstlnews/videos/2610967669219012/
+
+
+### Police push protestors off lawn | June 27th
+
+Protestors gathered in the parking lot of a Florissant police station. Officers declared the assembly unlawful and began to push protestors from the lawn into the parking lot. Officers used shields & batons to strike and shove protestors. Numerous protestors were arrested. Footage shows one arrested protestor hurled violently to the ground. Footage also shows police targeting individuals taking photos and video on the side of the protests; these individuals were pushed back among the protestors as well. Additionally, multiple witnesses state protestors with megaphones were targeted.
+
+Police continued to push protestors into the road. Filmers state that police maced them. Protestors responded by splashing police with water and throwing empty water bottles.
+
+Police continued to snag protestors and arrest them.
+
+tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, throw
+
+id: mo-florissant-2
+
+**Links**
+
+* https://twitter.com/NassimBnchabane/status/1277054826858323969
+* https://twitter.com/theMARCHstl/status/1277129811245359104
+* https://photos.google.com/share/AF1QipOr_banJbIy1zUzs7rrCC9y664etyqDFjDlxAEdtDNweyuf7CnEQQlMpUXA0aU-xw/photo/AF1QipNFR-GR4frZPlo3vhGFwO_4uPBljOgyllYce3GP?key=azVZQUNIakFDMFVtbDhCS3BPaTlMWXBjd1R0RzN3
+* https://twitter.com/search4swag/status/1277059423966507008
+* https://twitter.com/search4swag/status/1277059423966507008
+* https://twitter.com/NassimBnchabane/status/1277056390314541056
 
 
 
