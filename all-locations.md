@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T20:28:33.501335+00:00
+UPDATED AT: 2020-06-29T20:28:57.440986+00:00
 
 
 # Alabama
@@ -2223,6 +2223,19 @@ id: il-chicago-12
 * https://twitter.com/ChrisDitton/status/1267675836892708864
 
 
+### Police push protestor on bike, slap phone out of his hand | June 2nd
+
+Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
+
+tags: push, shove, property-destruction
+
+id: il-chicago-13
+
+**Links**
+
+* https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
+
+
 ### Police hit several protesters with batons | (Believed to be) June 3rd
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
@@ -2234,6 +2247,20 @@ id: il-chicago-9
 **Links**
 
 * https://twitter.com/TomSchuba/status/1268312957752160257
+
+
+### Police seen without badges | (Believed to be) June 4th
+
+Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
+
+tags: hide-badges, abuse-of-power
+
+id: il-chicago-14
+
+**Links**
+
+* https://www.tiktok.com/@sarahsoch/video/6834688359969918214
+* https://twitter.com/punishmegrant/status/1268966252707487745
 
 
 ## Joliet
