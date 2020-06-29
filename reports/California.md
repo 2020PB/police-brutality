@@ -16,13 +16,9 @@ id: ca-clayton-1
 
 ## Compton
 
-### Police beat person on the ground | (believed to be) June 1st
+### Police beat person on the ground | May 31st
 
-Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person.
-
-[Location determined via Google Streetview](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
-
-[This Reddit comment asserts these police are members of the LASD.](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/)
+Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person. The beating continues until a woman yells "why are y'all beating him?"
 
 tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment
 
@@ -31,6 +27,9 @@ id: ca-compton-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
+* https://laist.com/2020/06/10/los_angeles_deputies_compton_video_violent_arrest_dalvin_price.php
+* https://ktla.com/news/local-news/violent-arrest-caught-on-camera-in-compton/
+* [Street View](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
 
 
 ## Costa Mesa
@@ -140,6 +139,22 @@ id: ca-longbeach-1
 
 
 ## Los Angeles
+
+### Protestor shot in head | (believed to be) May 30th
+
+Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-30
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268052132252602368
+* https://twitter.com/chick_in_kiev/status/1266867554041188353
+* https://twitter.com/andrewcurryla/status/1266905784585052160
+* [Street View](https://www.google.com/maps/@34.071154,-118.3583053,3a,60y,332.25h,94.01t/data=!3m6!1e1!3m4!1sBMaXVOuAN0T9coL-PijVSA!2e0!7i16384!8i8192)
+
 
 ### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
 
@@ -555,21 +570,6 @@ id: ca-losangeles-22
 
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
-
-
-### Protestor shot in head | Date Unknown
-
-Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them.
-
-Caption states that the journalist who submitted the video says the protestor was shot in the head, then police gave a dispersal order.
-
-tags: shoot, projectiles
-
-id: ca-losangeles-30
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268052132252602368
 
 
 ## Oakland
