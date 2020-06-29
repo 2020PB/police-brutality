@@ -347,3 +347,25 @@ id: dc-dc-22
 * https://twitter.com/maryamnayebyazd/status/1275493238619635714
 * https://twitter.com/maryamnayebyazd/status/1275493885188485120
 
+
+### Police target protestor handing out water | June 27th
+
+Footage from late on June 27th, police charge a protestor walking away from them. She is grabbed by multiple officers, both on bike and on foot. The police then arrest her. She drops several water bottles out of her hands. Protestors state she was passing out water bottles to thirsty protesors.
+
+tags: arrest, abuse-of-power
+
+id: dc-dc-24
+
+**Links**
+
+* https://twitter.com/FordFischer/status/1277457274395676672
+
+
+### Police destroy supplies, escalate violence when protestors resist | June 27th
+
+Footage shows police dismantling a tent containing food, water and medical supplies for protestors. Some protestors refused to leave and attempted to hold on to their supplies. Police then deployed mace and made a series of violent arrests. One officer was maced by a fellow officer.
+
+tags: property-destruction, tackle, arrest, shove, mace, pepper-spray, spray
+
+id: dc-dc-25
+
