@@ -15,7 +15,7 @@ id: wi-madison-1
 
 ### Police pepper spray protestors with hands up | May 30th
 
-A group of protestors are standing on a road paved over for pedestrian-only traffic. The protestors have their hands up. Police approach and pepper spray the protestors. 
+A group of protestors are standing on a road paved over for pedestrian-only traffic. The protestors have their hands up. Police approach and pepper spray the protestors.
 
 The journalist filming is told he is not allowed to remain, despite identifying himself as press.
 
