@@ -519,7 +519,7 @@ In footage from the night of June 28th, police charge protestors while declaring
 
 tags: strike, push, shove
 
-id: or-portland-35
+id: or-portland-37
 
 **Links**
 
