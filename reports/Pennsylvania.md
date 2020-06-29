@@ -177,7 +177,7 @@ id: pa-philadelphia-10
 * https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
-### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
+### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
@@ -188,6 +188,27 @@ id: pa-philadelphia-6
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
+
+
+### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | June 13th
+
+A reporter from Unicorn Riot showed up at a pro-Columbus rally at a statue of Christopher Columbus in Philadelphia. He is harassed, threatened and assaulted by members of the rally. In addition, an article published by Unicorn Riot states that members of the rally slashed the journalist's tires.  After several minutes, police intervene to push protestors back, but make no arrests. They appear to say nothing more to members of the rally than, "Leave him alone."
+
+The reporter continues to film from a distance.
+
+Around 6:20, the journalist is assaulted again by a man who says he doesn't want the journalist to film.
+
+Shortly after, the journalist is told by the officer that he has been warned 3 times to leave. The journalist insists he is here to film. The officer states that the journalist is inciting a riot and should be mindful of the curfew time.
+
+tags: journalist, abuse-of-power
+
+id: pa-philadelphia-11
+
+**Links**
+
+* https://vimeo.com/428917635
+* https://www.reddit.com/r/PublicFreakout/comments/hbaove/philadelphia_police_threaten_unicorn_riot/
+* https://unicornriot.ninja/2020/philadelphia-police-threaten-unicorn-riot-reporter-after-vigilante-assault/
 
 
 ## Pittsburgh
