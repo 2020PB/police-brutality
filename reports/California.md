@@ -212,7 +212,6 @@ id: ca-losangeles-24
 * https://twitter.com/greg_doucette/status/1267605209745887233
 
 
-
 ### Los Angeles law enforcement hit protester in the face with rubber bullet | May 30th
 
 Activist and former White House and congressional staffer Deon Jones was hit in the face with a rubber bullet, fracturing two bones and nearly costing him one eye. Jones also alleges assorted other misconduct, reminiscent of incidents CA-LosAngeles-19, CA-LosAngeles32, and CA-SantaMonica-2
@@ -972,6 +971,7 @@ id: ca-walnutcreek-3
 * https://www.mercurynews.com/2020/06/06/protester-recounts-getting-attacked-by-police-dogs-tear-gassed-at-walnut-creek-demonstration/
 * https://sanfrancisco.cbslocal.com/2020/06/17/walnut-creek-police-discuss-protest-response-critics-not-impressed/
 * https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
+
 
 ### Police fire tear gas at peaceful protestors | June 2nd
 
