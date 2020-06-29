@@ -960,7 +960,7 @@ id: ca-walnutcreek-1
 
 ### Police arrest man using excessive force, dogs | June 1st
 
-Police threw tear gas at protesters blocking a roadway in an effort to disperse them. One protester, Joseph Malott, allegedly threw a tear gas cannister back at police. Police arrested him for (per Mercury News) “assaulting a police officer with a deadly weapon.” During the arrest, Malott was bitten and scratched repeatedly by a police dog, leaving bite marks and scratches all over his back and a wound on his leg which required 10 stitches. During the arrest, he says he was slammed against a fence then thrown to the ground, and recalls thinking “when are they going to take the dogs off me?”
+Police threw tear gas at protesters blocking a roadway in an effort to disperse them. One protester, Joseph Malott, allegedly threw a tear gas canister back at police. Police arrested him for (per Mercury News) “assaulting a police officer with a deadly weapon.” During the arrest, Malott was bitten and scratched repeatedly by a police dog, leaving bite marks and scratches all over his back and a wound on his leg which required 10 stitches. During the arrest, he says he was slammed against a fence then thrown to the ground, and recalls thinking “when are they going to take the dogs off me?”
 
 tags: arrest, tear-gas, tear-gas-canister, dog
 
