@@ -68,6 +68,20 @@ id: fl-miami-1
 
 ## Orlando
 
+### Police tackle & pepper spray peaceful protestors | June 1st
+
+Footage shows police charging at protestors and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protestor. Police continue to discharge pepper spray and force away protestors trying to aid victims.
+
+
+tags: tackle, pepper-spray, spray
+
+id: or-orlando-5
+
+**Links**
+
+* https://twitter.com/Concerned407/status/1268339148131307524
+
+
 ### Police use excessive force during an arrest | June 2nd
 
 A police officer grabs a protestor from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
