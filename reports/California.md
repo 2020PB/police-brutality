@@ -219,7 +219,7 @@ Activist and former White House and congressional staffer Deon Jones was hit in 
 
 tags: shoot, projectiles
 
-id: ca-losangeles-24
+id: ca-losangeles-33
 
 **Links**
 
