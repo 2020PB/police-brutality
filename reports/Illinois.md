@@ -191,6 +191,20 @@ id: il-chicago-9
 * https://twitter.com/TomSchuba/status/1268312957752160257
 
 
+### Police seen without badges | (Believed to be) June 4th
+
+Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
+
+tags: hide-badges, abuse-of-power
+
+id: il-chicago-14
+
+**Links**
+
+* https://www.tiktok.com/@sarahsoch/video/6834688359969918214
+* https://twitter.com/punishmegrant/status/1268966252707487745
+
+
 ## Joliet
 
 ### Officers grabs someone by the neck then more cops pile on | May 31st
