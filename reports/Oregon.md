@@ -536,7 +536,7 @@ id: or-portland-36
 
 **Links**
 
-* https://twitter.com/1misanthrophile/status/1277340069867601920
+* https://twitter.com/1misanthrophile/status/1277340657648984064
 
 
 ## Salem
