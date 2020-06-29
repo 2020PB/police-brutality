@@ -212,6 +212,24 @@ id: ca-losangeles-24
 * https://twitter.com/greg_doucette/status/1267605209745887233
 
 
+
+### Los Angeles law enforcement hit protester in the face with rubber bullet | May 30th
+
+Activist and former White House and congressional staffer Deon Jones was hit in the face with a rubber bullet, fracturing two bones and nearly costing him one eye. Jones also alleges assorted other misconduct, reminiscent of incidents CA-LosAngeles-19, CA-LosAngeles32, and CA-SantaMonica-2
+
+tags: shoot, projectiles
+
+id: ca-losangeles-24
+
+**Links**
+
+* https://www.instagram.com/p/CA20QYJgaU6/
+* https://www.instagram.com/p/CA1U9L9g_LD/
+* https://laist.com/2020/06/11/uninsured_protesters_free_medical_aid_la_doctor.php
+* https://losangeles.cbslocal.com/video/4578194-protester-deon-jones-describes-being-shot-with-rubber-bullet-by-police/
+* https://www.foxla.com/news/i-felt-like-i-was-on-the-timeline-to-my-death-local-man-speaks-out-after-weekend-protest-ends-in-violence
+
+
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
@@ -923,9 +941,9 @@ id: ca-vallejo-1
 
 ## Walnut Creek
 
-### Armored law enforcement vehicle threatens protestors | June 2nd
+### Armored law enforcement vehicle threatens protestors, deploys tear gas on highway | June 1st
 
-In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas.
+In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas, coating the highway in dense, opaque clouds of blinding fog. Vehicles are seen waiting to continue on their way; it is unclear whether these vehicles attempted to navigate the clouds of tear gas. (Note: Jalopnik reports that this happened on June 2; however, protests consistent with the video were only reported on June 1, and other sources place the video on June 1.)
 
 tags: threaten, tear-gas, vehicle
 
@@ -935,7 +953,24 @@ id: ca-walnutcreek-1
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
 * https://jalopnik.com/cop-in-armored-truck-tells-peaceful-protesters-if-you-1843886752
+* https://abc7news.com/walnut-creek-curfew-tonight-protest-in-today-looting-protests/6231856/
+* https://www.kron4.com/news/bay-area/as-protests-remain-mostly-peaceful-walnut-creek-considers-extending-curfew/
+* https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
 
+
+### Police arrest man using excessive force, dogs | June 1st
+
+Police threw tear gas at protesters blocking a roadway in an effort to disperse them. One protester, Joseph Malott, allegedly threw a tear gas cannister back at police. Police arrested him for (per Mercury News) “assaulting a police officer with a deadly weapon.” During the arrest, Malott was bitten and scratched repeatedly by a police dog, leaving bite marks and scratches all over his back and a wound on his leg which required 10 stitches. During the arrest, he says he was slammed against a fence then thrown to the ground, and recalls thinking “when are they going to take the dogs off me?”
+
+tags: arrest, tear-gas, tear-gas-canister
+
+id: ca-walnutcreek-3
+
+**Links**
+
+* https://www.mercurynews.com/2020/06/06/protester-recounts-getting-attacked-by-police-dogs-tear-gassed-at-walnut-creek-demonstration/
+* https://sanfrancisco.cbslocal.com/2020/06/17/walnut-creek-police-discuss-protest-response-critics-not-impressed/
+* https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
 
 ### Police fire tear gas at peaceful protestors | June 2nd
 
