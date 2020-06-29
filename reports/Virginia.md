@@ -237,4 +237,5 @@ id: va-richmond-12
 **Links**
 
 * https://twitter.com/woznyphoto/status/1276865711835623424
-
+* https://twitter.com/DomicoPhillips/status/1276723211879755777
+* https://twitter.com/nilsrva/status/1276752643528982530
