@@ -175,7 +175,6 @@ id: il-chicago-13
 **Links**
 
 * https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
-* https://www.reddit.com/r/PublicFreakout/comments/hbaove/philadelphia_police_threaten_unicorn_riot/
 
 
 ### Police hit several protesters with batons | (Believed to be) June 3rd
