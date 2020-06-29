@@ -6,7 +6,7 @@ On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain.
 
 Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
 
-tags: strike, beat, baton, pepper-spray, spray, tear-gas
+tags: strike, beat, baton, pepper-spray, spray
 
 id: co-aurora-1
 
