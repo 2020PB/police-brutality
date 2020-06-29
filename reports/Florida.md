@@ -72,7 +72,6 @@ id: fl-miami-1
 
 Footage shows police charging at protestors and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protestor. Police continue to discharge pepper spray and force away protestors trying to aid victims.
 
-
 tags: tackle, pepper-spray, spray
 
 id: or-orlando-5
