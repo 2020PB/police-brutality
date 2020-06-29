@@ -260,3 +260,4 @@ id: va-richmond-13
 * https://twitter.com/rva_charlie/status/1276740309171437568
 * https://twitter.com/rva_charlie/status/1276741883516071938
 * https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
+
