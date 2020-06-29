@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T21:12:19.242576+00:00
+UPDATED AT: 2020-06-29T21:47:19.584090+00:00
 
 
 # Alabama
@@ -7765,7 +7765,7 @@ id: dc-dc-24
 
 ## Madison
 
-### Officer pepper-sprays protestor walking backwards with arms raised | May 31st
+### Officer pepper-sprays protestor walking backwards with arms raised | May 30th
 
 Ten seconds into the video, in the bottom-left corner, an officer pepper-sprays a protestor who is walking backwards with his arms raised.
 
@@ -7776,6 +7776,22 @@ id: wi-madison-1
 **Links**
 
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
+
+
+### Police pepper spray protestors with hands up | May 30th
+
+A group of protestors are standing on a road paved over for pedestrian-only traffic. The protestors have their hands up. Police approach and pepper spray the protestors.
+
+The journalist filming is told he is not allowed to remain, despite identifying himself as press.
+
+tags: pepper-spray, journalist
+
+id: wi-madison02
+
+**Links**
+
+* https://www.tiktok.com/@michelle_but_not_obama/video/6833371052198857990
+* https://twitter.com/shadow_roses1/status/1268246561798205442
 
 
 ## Milwaukee
