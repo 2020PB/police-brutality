@@ -141,7 +141,7 @@ id: ca-longbeach-1
 
 ### Woman struck in finger by projectile; police quell crowd with tear gas | June 1st
 
-A crowd of protestors is peaceful chanting. A shot is fired offscreen and a woman screams. Footage shows the woman clutching her bleeding hand. The caption states her finger was "cut off." The crowd becomes agitated and police respond with tear gas.
+A crowd of protestors is chanting peacefully. A shot is fired offscreen and a woman screams. Footage shows the woman clutching her bleeding hand. The caption states her finger was "cut off." The crowd becomes agitated and police respond with tear gas.
 
 tags: shoot, projectile, tear-gas
 
