@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-30T15:18:37.335069+00:00
+UPDATED AT: 2020-06-30T17:00:38.875732+00:00
 
 
 # Alabama
@@ -5211,6 +5211,20 @@ id: oh-columbus-17
 
 * https://twitter.com/snowmanonfire/status/1267122517614964743
 * https://twitter.com/greg_doucette/status/1269118992540749831
+
+
+### Police casually pepper spray passers by | (believed to be) June 1st
+
+Two squad cars full of police arrive at an intersection, sirens wailing. Police get out and start pepper-spraying people. Notably, there are two people on a fire escape who look like they may be treating two others for pepper-spray or tear gas exposure. Police pepper-spray them. Police later pepper spray one a second time, as she's in the process of retreating and rinsing her eyes with milk due to the first pepper spray exposure.
+
+tags: pepper-spray, spray
+
+id: oh-columbus-22
+
+**Links**
+
+* https://twitter.com/aaron_rigg/status/1267814008859443202
+* https://twitter.com/aaron_rigg/status/1267649768668495878
 
 
 ### Police push and pepper spray reporters from The Lantern newspaper | June 1st
