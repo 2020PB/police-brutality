@@ -799,9 +799,9 @@ Hundreds of people have been camping out near NYC City Hall for the last week in
 
 In particular, police manhandle already zip-tied protestor. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
 
-The second clip shows arrest warning if protestors step on streets. 
+The second clip shows arrest warning if protestors step on streets.
 
-The third clip shows police shoving protestors on the sidewalk with their batons. 
+The third clip shows police shoving protestors on the sidewalk with their batons.
 
 In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
 
