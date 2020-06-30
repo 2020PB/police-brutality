@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-30T20:06:42.501355+00:00
+UPDATED AT: 2020-06-30T20:43:20.641625+00:00
 
 
 # Alabama
@@ -3433,19 +3433,6 @@ id: mn-minneapolis-19
 * https://twitter.com/edouphoto/status/1267958349477249024
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
-
-
-### Woman kicked in head | Date Unknown
-
-Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
-
-tags: kick
-
-id: mn-minneapolis-30
-
-**Links**
-
-* https://www.tiktok.com/@montygeer/video/6840314007954509062
 
 
 
