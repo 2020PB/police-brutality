@@ -558,7 +558,7 @@ id: or-portland-38
 
 Footage shows a handful of protestors talking to police on the sidewalk. After a few seconds, officers take down a protestor. Another officer charges across the street to tackle other protestors gathered on the sidewalk.
 
-Police then fan out across the street. Around 1:30, a protestor is seen lying on the ground behind the police line. A second protestor goes to help them up. Police shove this protestor to the ground. 
+Police then fan out across the street. Around 1:30, a protestor is seen lying on the ground behind the police line. A second protestor goes to help them up. Police shove this protestor to the ground.
 
 Protestors shout that at least one of these individuals is press.
 
