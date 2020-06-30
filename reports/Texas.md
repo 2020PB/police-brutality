@@ -142,6 +142,23 @@ id: tx-austin-7
 * https://twitter.com/Grits4Breakfast/status/1267128210455588865
 
 
+### Woman shot in face with bean bag | May 31st
+
+A protestor was shot in the face with a bean bag round on May 31st. She was hospitalized and underwent surgery. She states that she has suffered nerve damage in her face as a result.
+
+Footage in the third link shows the victim seated on the ground with a round stuck in her face. She is responsive and speaking with those around her. Several protest medics attend to her.
+
+tags: shoot, bean-bag
+
+id: tx-austin-13
+
+**Links**
+
+* https://twitter.com/randomjhovall/status/1267309502845669376
+* https://twitter.com/randomjhovall/status/1272076416348291072
+* https://twitter.com/greg_doucette/status/1272386250058727425
+
+
 ### Police fire upon protesters seeking medical help | June 2nd
 
 Volunteer medics were advised to bring a critically wounded protestor to the police line for medical attention and were subsequently fired upon.
@@ -155,6 +172,19 @@ id: tx-austin-9
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvjjwg/volunteer_medics_advised_by_police_to_bring_a/
 * https://www.reddit.com/r/PublicFreakout/comments/gwbbjs/protestor_is_shot_in_head_with_rubber_bullet/
 * http://www.thebatt.com/opinion/opinion-his-name-is-justin-howell/article_93a79c44-a5b6-11ea-aa54-ebc0da33cc35.html?fbclid=IwAR11FqXr9dRCKo-ohfeBoO9FdYFRG2uon0nqAkxKO5gZuL_-4EzgukAGcBs
+
+
+### Police violently arrest drummer | June 7th
+
+Footage shows police kicking aside musician's gear. He falls off his stool and is held to the ground. One officer kneels on him. He does not appear to resist at any point. Several protestors can be heard shouting, "Get your knee off his head," but the footage is obscured by the officers.
+
+tags: arrest, shove, property-destruction, knee, knee-on-kneck
+
+id: tx-austin-14
+
+**Links**
+
+* https://twitter.com/NacioMartinez/status/1269787142269607936
 
 
 ### Police kneel on man's neck to make arrest | June 12th
