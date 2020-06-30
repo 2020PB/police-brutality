@@ -421,6 +421,7 @@ id: oh-columbus-24
 **Links**
 
 * https://www.tiktok.com/@frecklesandstitches/video/6835226979596340485
+* https://twitter.com/TrekkieByBirth/status/1276719505528492033
 
 
 ### Man maced by police | June 21st
