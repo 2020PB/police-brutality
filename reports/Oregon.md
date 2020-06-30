@@ -560,15 +560,16 @@ Footage shows a handful of protestors talking to police on the sidewalk. After a
 
 Police then fan out across the street. Around 1:30, a protestor is seen lying on the ground behind the police line. A second protestor goes to help them up. Police shove this protestor to the ground.
 
-Protestors shout that at least one of these individuals is press.
+Protestors shout that at least one of these individuals is press. A later tweet by a journalist corroborates this charge.
 
-tags: shove, tackle, knee
+tags: shove, tackle, knee, journalist
 
 id: or-portland-39
 
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1277933736441479170
+* https://twitter.com/i/web/status/1277909390159306752
 
 
 ## Salem
