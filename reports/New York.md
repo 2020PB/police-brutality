@@ -793,6 +793,19 @@ id: ny-newyorkcity-49
 * [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
 
 
+### Police shove bicyclist to the ground | June 28th
+
+Footage shows a protestor with a bicycle standing behind a police van. An officer walks over and shoves him to the ground with his baton.
+
+tags: shove, baton, strike
+
+id: ny-newyorkcity-51
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277636698806116352
+
+
 ### Police violently arrest protestors camped out for budget vote | June 30th
 
 Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protestors. Footage shows violent arrests.
