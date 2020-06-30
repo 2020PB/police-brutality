@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-30T20:06:14.274885+00:00
+UPDATED AT: 2020-06-30T20:06:20.556265+00:00
 
 
 # Alabama
@@ -4555,6 +4555,29 @@ id: ny-newyorkcity-49
 * https://mobile.twitter.com/agrayphoto/status/1277362250920099840
 * [Covered badge](https://mobile.twitter.com/garrettmireles/status/1277371641996206089)
 * [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
+
+
+### Police violently arrest protestors camped out for budget vote | June 30th
+
+Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protestors. Footage shows violent arrests.
+
+In particular, police manhandle already zip-tied protestor. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
+
+The second clip shows arrest warning if protestors step on streets.
+
+The third clip shows police shoving protestors on the sidewalk with their batons.
+
+In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
+
+tags: shove, baton, strike, beat, arrest, choke, hide-badges
+
+id: ny-newyorkcity-50
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1277987893248655361
+* https://twitter.com/deanospameano/status/1277902165542043653
+* https://twitter.com/NelStamp/status/1277985126228557825
 
 
 ## Rochester
