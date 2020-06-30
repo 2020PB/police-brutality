@@ -810,7 +810,7 @@ id: ny-newyorkcity-51
 
 Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protestors. Footage shows violent arrests.
 
-In particular, police manhandle already zip-tied protestor. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
+In particular, police manhandle already zip-tied protestor. The protestor stumbles, apparently struggling to remain conscious. Protestors shout at police to seek medical treatment for him. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
 
 The second clip shows arrest warning if protestors step on streets.
 
