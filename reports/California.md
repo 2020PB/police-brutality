@@ -144,6 +144,8 @@ id: ca-longbeach-1
 
 Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
 
+Additional footage (link 3) shows other protestors with wounds from riot rounds.
+
 tags: shoot, projectiles
 
 id: ca-losangeles-30
