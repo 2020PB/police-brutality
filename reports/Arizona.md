@@ -66,15 +66,13 @@ id: az-phoenix-4
 * https://twitter.com/newsjunkyjimmy/status/1275578476871815169
 
 
-### Tempe
-
 ### Police pepper spray protestors on sidewalk | June 27th
 
-On June 27th, protestors gathered on the sidewalk for a 'chalk walk' protest. 
+On June 27th, protestors gathered on the sidewalk for a 'chalk walk' protest.
 
 Full footage from instagram shows police chasing, tackling, kneeling on and arresting a protestor. Police refused to answer when protestors asked why they were being arrested. From a comment made by the filmer at 2:20 in the instagram video, it appears that the protestor was also tased.
 
-Police then attempted to clear the protestors from the sidewalk into the lawn of a shopping center. One protestor remained seated and police manhandled her. 
+Police then attempted to clear the protestors from the sidewalk into the lawn of a shopping center. One protestor remained seated and police manhandled her.
 
 Several protestors, including the filmer, shouted at the police for treating the protestor roughly. The officer then told these protestors to back up. They obeyed. The officer then pepper sprayed them repeatedly as they walked away. Police continued to harass protestors, pushing them from the sidewalk to the lawn. It is unclear why police asserted the sidewalk was an unacceptable place to stand.
 
@@ -89,3 +87,4 @@ id: az-tempe-1
 * https://twitter.com/greg_doucette/status/1277432629353238535
 * https://www.instagram.com/tv/CB91jGvh25c/
 * https://www.azmirror.com/2020/06/28/tempe-pd-pepper-sprayed-demonstrators-at-saturday-chalk-walk-protest/
+
