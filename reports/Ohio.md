@@ -410,6 +410,19 @@ id: oh-columbus-18
 * [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
 
 
+### Police drive up to protestors, jump out and tackle them | (Believed to be) June 6th
+
+Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protestors and jump out of the car. Police from the vehicles and on the street charge protestors, tackle them, and arrest them. Police appear to kneel on protestors while making arrests.
+
+tags: vehicle, tackle, arrest, knee
+
+id: oh-columbus-24
+
+**Links**
+
+* https://www.tiktok.com/@frecklesandstitches/video/6835226979596340485
+
+
 ### Man maced by police | June 21st
 
 Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
