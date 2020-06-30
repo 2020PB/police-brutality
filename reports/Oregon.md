@@ -441,6 +441,19 @@ id: or-portland-31
 * https://twitter.com/chadloder/status/1277360969228771329
 
 
+### Police fire explosives from behind barricade | June 26th
+
+Footage shows protestors gathered outside a building with plywood walls erected. Filmer states that police have barricaded themselves behind the plywood walls. Around 30 seconds, a small window opens in the barricade. Police launch multiple explosives at the crowd from this window.
+
+tags: explosive, projectile
+
+id: or-portland-40
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277685523595788290
+
+
 ### Police charge protestors, shoving them and beating them with batons | June 27th
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
