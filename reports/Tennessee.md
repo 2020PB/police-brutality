@@ -30,9 +30,6 @@ id: tn-murfreesboro-1
 * [Continued deployment of tear gas after protestors had moved](https://twitter.com/joe_spears7/status/1267246919673434113)
 
 
-### Nashville
-
-
 ### Police confiscate protestor supplies | June 23rd
 
 Police shut down a protestor station on Capitol Hill in Nashville, confiscating food, water, medical supplies, personal belongings and signs. Caption states that police shoved protestors trying to keep hold of their belongings.
@@ -60,11 +57,12 @@ id: tn-nashville-2
 * https://twitter.com/brotherjones_/status/1276133377863749637
 * https://twitter.com/brotherjones_/status/1276139027612291073
 
+
 ### Police target activist leader | June 26th
 
-Justin Jones, a prominent activist in Nashville, was arrested on June 26th for taking a step too far on public property. Officers states at that point he was considered trespassing. 
+Justin Jones, a prominent activist in Nashville, was arrested on June 26th for taking a step too far on public property. Officers states at that point he was considered trespassing.
 
-He states he was charged with "criminal trespassing" and "inciting a riot," although the incitement charge was later dropped. 
+He states he was charged with "criminal trespassing" and "inciting a riot," although the incitement charge was later dropped.
 
 Protestors believe Jones was targeted because of his prominence in the protests.
 
