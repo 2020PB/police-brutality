@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-30T20:06:28.703151+00:00
+UPDATED AT: 2020-06-30T20:06:42.501355+00:00
 
 
 # Alabama
@@ -3435,6 +3435,19 @@ id: mn-minneapolis-19
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
 
 
+### Woman kicked in head | Date Unknown
+
+Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
+
+tags: kick
+
+id: mn-minneapolis-30
+
+**Links**
+
+* https://www.tiktok.com/@montygeer/video/6840314007954509062
+
+
 
 
 # Missouri
@@ -5983,6 +5996,39 @@ id: or-portland-36
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1277340657648984064
+
+
+### Journalist shot with foam round | June 29th
+
+After an empty water bottle was thrown, police fired foam rounds into a crowd, striking a journalist on the hip.
+
+tags: shoot, foam-bullets
+
+id: or-portland-38
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1277905587771039744
+* https://twitter.com/defendpdx/status/1277899405568339974
+* https://twitter.com/kmahoneylaw/status/1277906443094511616
+
+
+### Police shove, tackle and kneel on protestors | June 29th
+
+Footage shows a handful of protestors talking to police on the sidewalk. After a few seconds, officers take down a protestor. Another officer charges across the street to tackle other protestors gathered on the sidewalk.
+
+Police then fan out across the street. Around 1:30, a protestor is seen lying on the ground behind the police line. A second protestor goes to help them up. Police shove this protestor to the ground.
+
+Protestors shout that at least one of these individuals is press. A later tweet by a journalist corroborates this charge.
+
+tags: shove, tackle, knee, journalist
+
+id: or-portland-39
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1277933736441479170
+* https://twitter.com/i/web/status/1277909390159306752
 
 
 ## Salem
