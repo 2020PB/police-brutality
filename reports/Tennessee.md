@@ -39,7 +39,7 @@ Police shut down a protestor station on Capitol Hill in Nashville, confiscating 
 
 tags: property-destruction, abuse-of-power, threaten
 
-id: tn-nashville-3
+id: tn-nashville-1
 
 **Links**
 
@@ -53,7 +53,7 @@ In an early morning raid, Nashville police confiscated water, food and other sup
 
 tags: property-destruction, abuse-of-power, threaten
 
-id: tn-nashville-3
+id: tn-nashville-2
 
 **Links**
 
@@ -70,7 +70,7 @@ Protestors believe Jones was targeted because of his prominence in the protests.
 
 tags: arrest, abuse-of-power
 
-id: tn-nashville-2
+id: tn-nashville-3
 
 **Links**
 
@@ -88,7 +88,7 @@ He also shows footage of extremely tight zip-ties, stating that an arrestee has 
 
 tags: arrest, abuse-of-power
 
-id: tn-nashville-1
+id: tn-nashville-4
 
 **Links**
 
