@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T21:47:19.584090+00:00
+UPDATED AT: 2020-06-30T14:44:30.566298+00:00
 
 
 # Alabama
@@ -1285,6 +1285,7 @@ id: co-aurora-1
 * https://twitter.com/ekbates4/status/1277104647690280961
 * https://twitter.com/Ezret/status/1277451145418469376
 * https://twitter.com/jessiedesigngir/status/1277126019246260224
+* https://www.reddit.com/r/Denver/comments/hh5dbp/protestors_for_elijah_mcclain_threatened_with/
 
 
 ## Colorado Springs
