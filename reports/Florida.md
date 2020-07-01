@@ -6,6 +6,8 @@ It is seen in the video that while the people were protesting, a few cops tried 
 
 Miami Herald later reports the officer has a history of drawing his weapon and using force. He has been suspended.
 
+A more recent update states that the officer has been charged with battery.
+
 tags: shove
 
 id: fl-fortlauderdale-1
