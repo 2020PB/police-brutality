@@ -28,18 +28,3 @@ id: sc-charleston-2
 
 * https://twitter.com/greg_doucette/status/1267228530368229376
 
-
-## Location Unknown
-
-### Police Assault Suspect on Ground During Arrest | June 3rd
-
-A man is arrested by police, who force him on the ground and begin punching him for over a minute.
-
-tags: arrest, shove, punch, beat
-
-id: sc-unknown-1
-
-**Links**
-
-* https://twitter.com/track4life_bry/status/1268313958479532034
-
