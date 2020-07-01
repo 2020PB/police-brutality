@@ -632,6 +632,19 @@ id: or-portland-43
 * https://www.reddit.com/r/PublicFreakout/comments/hj42i3/portland_police_fire_cs_gas_at_protestors/
 
 
+### Police arrest journalist | June 30th
+
+Footage shows police arresting a member of the press. Her hands are cuffed behind her back. She coughs and vomits, allegedly from tear gas exposure. Police remove her press badge and search her. She states that police are taking cash from her back right pocket. Protestors shout that police are laughing, but it is not audible in the footage.
+
+tags: tear-gas, journalist, arrest, abuse-of-power
+
+id: or-portland-44
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
