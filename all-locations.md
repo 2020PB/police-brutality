@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-30T20:43:20.641625+00:00
+UPDATED AT: 2020-07-01T13:06:32.479203+00:00
 
 
 # Alabama
@@ -1696,6 +1696,8 @@ It is seen in the video that while the people were protesting, a few cops tried 
 
 Miami Herald later reports the officer has a history of drawing his weapon and using force. He has been suspended.
 
+A more recent update states that the officer has been charged with battery.
+
 tags: shove
 
 id: fl-fortlauderdale-1
@@ -1705,6 +1707,7 @@ id: fl-fortlauderdale-1
 * https://twitter.com/thickliljawn/status/1267239498083110913
 * https://www.reddit.com/r/PublicFreakout/comments/gubleh/officer_gets_confronted_by_another_officer_for/
 * https://www.miamiherald.com/news/local/crime/article243234261.html
+* https://www.nbcnews.com/news/us-news/fort-lauderdale-officer-who-pushed-over-kneeling-protester-video-charged-n1232606
 
 
 ### Law enforcement shoot a woman in the head | May 31st
@@ -3433,6 +3436,19 @@ id: mn-minneapolis-19
 * https://twitter.com/edouphoto/status/1267958349477249024
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
+
+
+### Woman kicked in head | Date Unknown
+
+Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
+
+tags: kick
+
+id: mn-minneapolis-30
+
+**Links**
+
+* https://www.tiktok.com/@montygeer/video/6840314007954509062
 
 
 
