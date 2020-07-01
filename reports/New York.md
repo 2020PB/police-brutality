@@ -806,6 +806,19 @@ id: ny-newyorkcity-51
 * https://twitter.com/greg_doucette/status/1277636698806116352
 
 
+### Police shove their way through crowd | June 28th
+
+At part of the Pride March, protestors gathered inside the park, a pedestrian & bike only zone. Footage shows crowd chanting "Shame" as 3 police officers make their way through the crowd. One officer appears to shove his way through. As he exits the crowd, he continues to shove protestors who are standing idly by. The other two officers walk him away, appearing to try and calm him down.
+
+tags: shove, push
+
+id: ny-newyorkcity-52
+
+**Links**
+
+* https://twitter.com/GaelicSteel/status/1277344251970494469
+
+
 ### Police violently arrest protestors camped out for budget vote | June 30th
 
 Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protestors. Footage shows violent arrests.
