@@ -585,16 +585,19 @@ id: or-portland-39
 * https://twitter.com/i/web/status/1277909390159306752
 
 
-### Police shoot protestors at point-blank during scuffle over banner | June 30th
+### Police pepper-spray, strike and shoot protestors at point-blank range | June 30th
 
-Footage shows police attempting to tear banner out of the hands of protestors obeying dispersal instructions. Another officer runs over and shoots protestors repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
+Full footage shows police pushing protestors east under dispersal order from LRAD speaker. Protestors move slowly and walk backwards. Two officers then shove protestors with their batons. Another protestor steps in between them and is pepper-sprayed.
 
-tags: shoot, projectile, property-destruction
+Footage then shows police attempting to tear banner out of the hands of protestors obeying dispersal instructions. Another officer runs over and shoots protestors repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
+
+tags: shoot, projectile, property-destruction, baton, shove, strike, pepper-spray, spray
 
 id: or-portland-41
 
 **Links**
 
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hjdh39/portland_or_police_mace_beat_and_shoot_rubber/
 * https://twitter.com/defendpdx/status/1278192323575218176
 
 
