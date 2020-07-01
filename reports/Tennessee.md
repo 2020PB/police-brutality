@@ -12,6 +12,8 @@ The fourth clip shows protestors attempt to recover their belongings while polic
 
 An article from the Chattanoogan states Sheriffs threw the tear gas, not Chattanooga police.
 
+tags: 
+
 id: tn-chattanooga-1
 
 **Links**
