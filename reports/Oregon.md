@@ -619,6 +619,19 @@ id: or-portland-42
 * https://www.reddit.com/r/Portland/comments/hj5m28/cory_elia_press_arrested_while_livestreaming_last/
 
 
+### Police fire tear gas at protestors | June 30th
+
+In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protestors. A handful of canisters are thrown back, but the vast majority of protestors flee as police continue to fire.
+
+tags: tear-gas
+
+id: or-portland-43
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hj42i3/portland_police_fire_cs_gas_at_protestors/
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
