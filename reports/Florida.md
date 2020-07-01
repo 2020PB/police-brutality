@@ -15,6 +15,7 @@ id: fl-fortlauderdale-1
 * https://twitter.com/thickliljawn/status/1267239498083110913
 * https://www.reddit.com/r/PublicFreakout/comments/gubleh/officer_gets_confronted_by_another_officer_for/
 * https://www.miamiherald.com/news/local/crime/article243234261.html
+* https://www.nbcnews.com/news/us-news/fort-lauderdale-officer-who-pushed-over-kneeling-protester-video-charged-n1232606
 
 
 ### Law enforcement shoot a woman in the head | May 31st
