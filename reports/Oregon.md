@@ -585,6 +585,40 @@ id: or-portland-39
 * https://twitter.com/i/web/status/1277909390159306752
 
 
+### Police shoot protestors at point-blank during scuffle over banner | June 30th
+
+Footage shows police attempting to tear banner out of the hands of protestors obeying dispersal instructions. Another officer runs over and shoots protestors repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
+
+tags: shoot, projectile, property-destruction
+
+id: or-portland-41
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1278192323575218176
+
+
+### Reporter arrested after identifying officer | June 30th
+
+Footage shows police pushing protestors east under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
+
+Then for several minutes, police argue with him about his presence and whether he as a journalist is allowed on the scene.
+
+At 5:20, the filmer asks an officer for his number. The officer shows the number on his helmet and the filmer then identifies him. The officer then ignores him. At 6:15, a second officer approaches. He and the recognized officer then arrest the journalist.
+
+He has allegedly been charged with assault of a police officer, interference with a police officer, resisting arrest and disorderly conduct. These charges have not been publicly verified by the Portland Police Bureau or the journalist.
+
+tags: journalist, threaten, arrest
+
+id: or-portland-42
+
+**Links**
+
+* https://www.pscp.tv/w/1lPKqLgBrBWxb
+* https://twitter.com/PNWResistance/status/1278247639708913664
+* https://www.reddit.com/r/Portland/comments/hj5m28/cory_elia_press_arrested_while_livestreaming_last/
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
