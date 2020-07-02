@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-02T16:03:33.313565+00:00
+UPDATED AT: 2020-07-02T18:04:23.604386+00:00
 
 
 # Alabama
@@ -1577,6 +1577,19 @@ id: co-denver-18
 **Links**
 
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
+
+
+### Police pepper spray protestor with hands up | (Believed to be) June 21st
+
+Footage shows a protestor following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protestor continues to ask. Another officer approaches and discharges pepper spray without warning.
+
+tags: pepper-spray, spray
+
+id: co-denver-20
+
+**Links**
+
+* https://twitter.com/wisenoons/status/1274743833410994176
 
 
 
