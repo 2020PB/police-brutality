@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-01T13:06:32.479203+00:00
+UPDATED AT: 2020-07-02T13:29:36.592995+00:00
 
 
 # Alabama
@@ -6368,22 +6368,6 @@ id: sc-charleston-2
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267228530368229376
-
-
-## Location Unknown
-
-### Police Assault Suspect on Ground During Arrest | June 3rd
-
-A man is arrested by police, who force him on the ground and begin punching him for over a minute.
-
-tags: arrest, shove, punch, beat
-
-id: sc-unknown-1
-
-**Links**
-
-* https://twitter.com/track4life_bry/status/1268313958479532034
-
 
 
 
