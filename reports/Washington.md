@@ -319,7 +319,7 @@ id: wa-seattle-20
 
 ### Police strike and pepper spray protestors while marching on 13th Precinct | July 1st
 
-Footage shows police line approaching scattered peaceful protestors. Police snatch and grab to make rough arrests. When protestors attempt to intervene they are shoved, struck with batons, and pepper sprayed. 
+Footage shows police line approaching scattered peaceful protestors. Police snatch and grab to make rough arrests. When protestors attempt to intervene they are shoved, struck with batons, and pepper sprayed.
 
 tags: arrest, pepper-spray, spray, shove, strike, baton
 
@@ -328,3 +328,4 @@ id: wa-seattle-21
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hjln90/seattle_police_department_retaking_the_13th/
+
