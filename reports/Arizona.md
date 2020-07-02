@@ -70,7 +70,7 @@ id: az-phoenix-4
 
 On June 27th, protestors gathered on the sidewalk for a 'chalk walk' protest.
 
-Full footage from instagram shows police chasing, tackling, kneeling on and arresting a protestor. Police refused to answer when protestors asked why they were being arrested. From a comment made by the filmer at 2:20 in the instagram video, it appears that the protestor was also tased.
+Full footage from instagram shows police chasing, tackling, kneeling on and arresting a protestor. Police refused to answer when protestors asked why they were being arrested. At 2:20 in the instagram video, the filmer asks why the protestor was tased, but this appears to be erroneous; the protestor was pepper-sprayed.
 
 Police then attempted to clear the protestors from the sidewalk into the lawn of a shopping center. One protestor remained seated and police manhandled her.
 
@@ -78,7 +78,7 @@ Several protestors, including the filmer, shouted at the police for treating the
 
 From an article in the Arizona Mirror, Tempe police are allowed to use pepper spray "against violent or non-compliant subjects, and on vicious animals." In addition, they must give verbal warning that they will escalate. No such warning was given.
 
-tags: shove, pepper-spray, spray, tackle, knee, arrest, taser, tase
+tags: shove, pepper-spray, spray, tackle, knee, arrest
 
 id: az-tempe-1
 
