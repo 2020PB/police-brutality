@@ -28,3 +28,21 @@ id: sc-charleston-2
 
 * https://twitter.com/greg_doucette/status/1267228530368229376
 
+
+### Police violently arrest protestor | June 22nd
+
+A protest and counter-protest between BLM supporters and statue supporters. Groups shouted at one another but stayed separate. After the protest, BLM supporters marched down the street followed by police.
+
+Footage shows violence during the arrest of a protestor as 3 police officers wearing hoods that resemble balaclavas. They tackle the protestor to the ground. One officer then kneels on his back to make the arrest. A fourth officer in a patrol uniform comes to assist. The man is seen bleeding from the face. The masked officers do not appear to be wearing badges.
+
+Police charged him with disobeying a lawful order and resisting arrest.
+
+tags: arrest, shove, strike, beat, tackle, hide-badges
+
+id: sc-charleston-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1275254514501799939
+* https://www.live5news.com/2020/06/23/police-make-one-arrest-during-monday-night-calhoun-statue-protests/
+
