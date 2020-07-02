@@ -603,6 +603,24 @@ id: ca-losangeles-22
 * https://twitter.com/josie_huang/status/1274863117004988416
 
 
+## Norco
+
+### Woman struck by white supremacist while police look on | June 29th
+
+A man wearing a shirt with two SS lightning bolts harasses a filming BLM protestor. He and another counter-protestor call her a bitch repeatedly, then slaps the phone out of her hand. Police state they did not see the incident, although the link shows clearly that an officer is standing next to them. The officer is joined by another. They stand between the groups of protestors and tell the BLM protestors to keep moving. The woman says she needs to find her phone and the officer says they have to come back for it later.
+
+In addition, the second link shows this individual having assaulted protestors on multiple occasions without repercussion.
+
+tags: abuse-of-power
+
+id: ca-norco-1
+
+**Links**
+
+* https://twitter.com/le_maria21/status/1277801107033481216
+* https://twitter.com/le_maria21/status/1277800993984413696
+
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | (believed to be) May 30th
