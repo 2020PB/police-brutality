@@ -609,7 +609,7 @@ Then for several minutes, police argue with him about his presence and whether h
 
 At 5:20, the filmer asks an officer for his number. The officer shows the number on his helmet and the filmer then identifies him. The officer then ignores him. At 6:15, a second officer approaches. He and the recognized officer then arrest the journalist.
 
-He has allegedly been charged with assault of a police officer, interference with a police officer, resisting arrest and disorderly conduct. These charges have not been publicly verified by the Portland Police Bureau or the journalist.
+He has allegedly been charged with assault of a police officer, interference with a police officer, resisting arrest and disorderly conduct. A screenshot of his charges is included in the 4th link.
 
 tags: journalist, threaten, arrest
 
@@ -620,6 +620,7 @@ id: or-portland-42
 * https://www.pscp.tv/w/1lPKqLgBrBWxb
 * https://twitter.com/PNWResistance/status/1278247639708913664
 * https://www.reddit.com/r/Portland/comments/hj5m28/cory_elia_press_arrested_while_livestreaming_last/
+* https://twitter.com/PredatorFiles/status/1278270595235344385
 
 
 ### Police fire tear gas at protestors | June 30th
@@ -646,6 +647,34 @@ id: or-portland-44
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
+
+
+### Police shoot protestors | July 2nd
+
+Around 2:30 in the morning on July 2nd, footage shows police shooting at protestors (off-screen). The filmer states that protestors are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
+
+tags: shoot, projectile
+
+id: or-portland-46
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1278578914613288961
+
+
+### Journalist shot by police | July 2nd
+
+Footage shows a streamer approaching the boarded-up justice center. Without warning, shots can be heard and the streamer, with a handful of other protestors, flees to the opposite side of the street. Police continue to fire.
+
+Journalist states they were hit by "some kind of pepper shrapnel," suggesting the police were firing pepper balls.
+
+tags: shoot, journalist, pepper-ball
+
+id: or-portland-45
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1278635513746870276
 
 
 ## Salem
