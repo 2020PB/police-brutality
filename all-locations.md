@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-02T13:29:36.592995+00:00
+UPDATED AT: 2020-07-02T16:03:33.313565+00:00
 
 
 # Alabama
@@ -6266,6 +6266,23 @@ id: pa-philadelphia-11
 * https://vimeo.com/428917635
 * https://www.reddit.com/r/PublicFreakout/comments/hbaove/philadelphia_police_threaten_unicorn_riot/
 * https://unicornriot.ninja/2020/philadelphia-police-threaten-unicorn-riot-reporter-after-vigilante-assault/
+
+
+### Counter-Terrorism Unit detains reporter | June 23rd
+
+A reporter recounts on Twitter that she was arrested despite telling an officer she was a reporter. She states she was zip-tied, mocked and then dragged backwards down two flights of stairs to a detention area. She states that later an officer came and asked, "Are you Samantha?" When she confirmed her name, she was released.
+
+Footage shows first-person video leading up to her arrest. It includes her clear identification, with press badge, as a reporter.
+
+tags: journalist, arrest, abuse-of-power
+
+id: pa-philadelphia-12
+
+**Links**
+
+* https://twitter.com/samanthamelamed/status/1275522909604372481
+* https://twitter.com/samanthamelamed/status/1275523337716973570
+* https://twitter.com/samanthamelamed/status/1275524750316535810
 
 
 ## Pittsburgh
