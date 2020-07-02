@@ -1,16 +1,17 @@
 ## Austin
 
+### Police assault protesters | May 30th
 
-### Police assault protesters | (believed to be) May 30th
-A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
+A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters. Another protestor shouts at an officer from several feet away; the officer immediately discharges pepper spray.
 
-tags: choke, threaten, gun, beat, punch, baton
+tags: choke, threaten, gun, beat, punch, baton, pepper-spray, spray
 
 id: tx-austin-2
 
 **Links**
 
 * https://gfycat.com/tautimaginativedore
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hhhbeh/5302020_austin/
 
 
 ### Police shoot non-violent protestor in the head | May 30th
@@ -76,6 +77,22 @@ id: tx-austin-8
 * https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
 
 
+### Police use horses as weapons | May 30th
+
+In an attempt to clear protestors blocking a road, mounted police began walking their horses into protestors. A handful of protestors refused to move. Rather than arresting the protestors and walking them away, police continued to push them with their horses. At one point, an officer pepper-sprays a protestor. After this protestors begin throwing things at police. The pepper-sprayed protestor swings his sign at the officer. The officer then grabs the protestor by the backpack and drags him down the road until other protestors intervene to free him. Another officer tramples one of these protestors. Protestors continue to shout at police for the duration of the footage.
+
+Charges were filed against the protestor for swinging his sign at police. Police say the sign had a wooden stick attached, but footage indicates it was only a piece of cardboard, cardstock, or similar paper material.
+
+tags: horse, shove, pepper-spray, spray
+
+id: tx-austin-10
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/h9wn2c/austin_police_used_horses_as_weapons/
+* https://www.fox7austin.com/news/man-arrested-for-striking-austin-police-horse-with-sign
+
+
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
@@ -125,19 +142,80 @@ id: tx-austin-7
 * https://twitter.com/Grits4Breakfast/status/1267128210455588865
 
 
+### Woman shot in face with bean bag | May 31st
+
+A protestor was shot in the face with a bean bag round on May 31st. She was hospitalized and underwent surgery. She states that she has suffered nerve damage in her face as a result.
+
+Footage in the third link shows the victim seated on the ground with a round stuck in her face. She is responsive and speaking with those around her. Several protest medics attend to her.
+
+tags: shoot, bean-bag
+
+id: tx-austin-13
+
+**Links**
+
+* https://twitter.com/randomjhovall/status/1267309502845669376
+* https://twitter.com/randomjhovall/status/1272076416348291072
+* https://twitter.com/greg_doucette/status/1272386250058727425
+
+
 ### Police fire upon protesters seeking medical help | June 2nd
 
 Volunteer medics were advised to bring a critically wounded protestor to the police line for medical attention and were subsequently fired upon.
 
 tags: medic, shoot
 
-id: tx-austin-8
+id: tx-austin-9
 
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvjjwg/volunteer_medics_advised_by_police_to_bring_a/
 * https://www.reddit.com/r/PublicFreakout/comments/gwbbjs/protestor_is_shot_in_head_with_rubber_bullet/
 * http://www.thebatt.com/opinion/opinion-his-name-is-justin-howell/article_93a79c44-a5b6-11ea-aa54-ebc0da33cc35.html?fbclid=IwAR11FqXr9dRCKo-ohfeBoO9FdYFRG2uon0nqAkxKO5gZuL_-4EzgukAGcBs
+
+
+### Police violently arrest drummer | June 7th
+
+Footage shows police kicking aside musician's gear. He falls off his stool and is held to the ground. One officer kneels on him. He does not appear to resist at any point. Several protestors can be heard shouting, "Get your knee off his head," but the footage is obscured by the officers.
+
+tags: arrest, shove, property-destruction, knee, knee-on-kneck
+
+id: tx-austin-14
+
+**Links**
+
+* https://twitter.com/NacioMartinez/status/1269787142269607936
+
+
+### Police kneel on man's neck to make arrest | June 12th
+
+Footage from a news report depicts multiple officers arresting a protestor outside Police Headquarters. The protestor made lewd gestures at police. Police then chased him and arrested him for obstructing a highway. In the arrest, footage clearly shows an officer kneeling on the protestor's neck.
+
+APD is investigating the incident.
+
+This appears to be the same protestor who was charged in tx-austin-10.
+
+tags: arrest, knee, knee-on-neck
+
+id: tx-austin-11
+
+**Links**
+
+* https://www.youtube.com/watch?v=Thrvojgme5I
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hc58jg/austin_police_are_investigating_a_use_of_force/
+
+
+### Police punch arrestee on ground | June 27th
+
+Police detained a protestor for allegedly striking a barricade with a skateboard. He is shown behind a police bike line with four officers holding him on the ground. One officer punches him repeatedly.
+
+tags: punch, strike, arrest, knee
+
+id: tx-austin-12
+
+**Links**
+
+* https://twitter.com/AltUniverseWash/status/1277104706222002177
 
 
 ## Baytown
@@ -231,6 +309,7 @@ id: tx-dallas-3
 * https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
 * [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
 
+
 ## El Paso
 
 ### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protestors | (believed to be) May 31st
@@ -300,6 +379,7 @@ id: tx-houston-4
 
 * https://twitter.com/greg_doucette/status/1268392253665546245
 
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
@@ -328,3 +408,4 @@ id: tx-sanantonio-2
 **Links**
 
 * https://twitter.com/SanAntonioProbz/status/1268027491987468288
+

@@ -86,7 +86,7 @@ id: in-indianapolis-1
 
 ### Police tear gas peaceful protest, including worshipping congregation | May 31st
 
-On Sunday May 31st at Monument Circle in Indianapolis, police state they, prior to curfew, were attempting to apprehend a man who allegedly was trying to spray-paint a statue. 
+On Sunday May 31st at Monument Circle in Indianapolis, police state they, prior to curfew, were attempting to apprehend a man who allegedly was trying to spray-paint a statue.
 
 To do so, police tear-gassed the entire group gathered, which included 50 members of Liberty Tabernacle, who had gathered to sing, pray and listen to speakers. A tear-gas canister landed at the feet of one member of the congregation who uses a wheelchair.
 
@@ -130,4 +130,5 @@ id: in-lafayette-1
 **Links**
 
 * https://www.facebook.com/ctchoula/videos/10163707272210302/
-* [Image of a tear gas canister used in this incident](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101254362_755196441884833_7192544661301362688_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=wjDZM1x0RLYAX9sKPft&_nc_ht=scontent-ort2-2.xx&oh=606a9dbf10d30a680c5dcb2c8ae8d7ce&oe=5EFD314B).
+* [Image of a tear gas canister used in this incident](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101254362_755196441884833_7192544661301362688_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=wjDZM1x0RLYAX9sKPft&_nc_ht=scontent-ort2-2.xx&oh=606a9dbf10d30a680c5dcb2c8ae8d7ce&oe=5EFD314B.)
+

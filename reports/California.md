@@ -16,13 +16,9 @@ id: ca-clayton-1
 
 ## Compton
 
-### Police beat person on the ground | (believed to be) June 1st
+### Police beat person on the ground | May 31st
 
-Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person.
-
-[Location determined via Google Streetview](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
-
-[This Reddit comment asserts these police are members of the LASD.](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/)
+Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person. The beating continues until a woman yells "why are y'all beating him?"
 
 tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment
 
@@ -31,6 +27,9 @@ id: ca-compton-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
+* https://laist.com/2020/06/10/los_angeles_deputies_compton_video_violent_arrest_dalvin_price.php
+* https://ktla.com/news/local-news/violent-arrest-caught-on-camera-in-compton/
+* [Street View](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
 
 
 ## Costa Mesa
@@ -139,7 +138,40 @@ id: ca-longbeach-1
 * https://twitter.com/AGuzmanLopez/status/1267269781805137920
 
 
+### Woman struck in finger by projectile; police quell crowd with tear gas | June 1st
+
+A crowd of protestors is chanting peacefully. A shot is fired offscreen and a woman screams. Footage shows the woman clutching her bleeding hand. The caption states her finger was "cut off." The crowd becomes agitated and police respond with tear gas.
+
+tags: shoot, projectile, tear-gas
+
+id: ca-longbeach-2
+
+**Links**
+
+* https://www.tiktok.com/@scottmbark/video/6833632749052628230
+* https://www.tiktok.com/@scottmbark/video/6833477841808657669
+* https://twitter.com/hagh_sadegh/status/1276177550339907585
+
+
 ## Los Angeles
+
+### Protestor shot in head | (believed to be) May 30th
+
+Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
+
+Additional footage (link 3) shows other protestors with wounds from riot rounds.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-30
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268052132252602368
+* https://twitter.com/andrewcurryla/status/1266906677820833793
+* https://twitter.com/andrewcurryla/status/1266905784585052160
+* [Street View](https://www.google.com/maps/@34.071154,-118.3583053,3a,60y,332.25h,94.01t/data=!3m6!1e1!3m4!1sBMaXVOuAN0T9coL-PijVSA!2e0!7i16384!8i8192)
+
 
 ### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
 
@@ -167,6 +199,8 @@ id: ca-losangeles-3
 * https://twitter.com/larryprincxpark/status/1266883515431505920
 * https://twitter.com/kendrick38/status/1266997131430133761
 * https://twitter.com/ElieTWMayniac/status/1266914242885754880
+* https://www.instagram.com/p/CA1hQ8WHLp1/?igshid=x4dnp455q05t
+* https://abc7.com/6231194/
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
@@ -193,9 +227,54 @@ id: ca-losangeles-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
+* https://twitter.com/greg_doucette/status/1269101214706421760
 
 
-### Police fire rubber/pepper bullets at innocent protestors | May 31st
+### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
+
+LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
+
+tags: shoot, projectiles, baton
+
+id: ca-losangeles-24
+
+**Links**
+
+* https://twitter.com/MattMcGorry/status/1267217360894562306
+* https://twitter.com/greg_doucette/status/1267605209745887233
+
+
+### Los Angeles law enforcement hit protester in the face with rubber bullet | May 30th
+
+Activist and former White House and congressional staffer Deon Jones was hit in the face with a rubber bullet, fracturing two bones and nearly costing him one eye. Jones also alleges assorted other misconduct, reminiscent of incidents CA-LosAngeles-19, CA-LosAngeles32, and CA-SantaMonica-2
+
+tags: shoot, projectiles
+
+id: ca-losangeles-33
+
+**Links**
+
+* https://www.instagram.com/p/CA20QYJgaU6/
+* https://www.instagram.com/p/CA1U9L9g_LD/
+* https://laist.com/2020/06/11/uninsured_protesters_free_medical_aid_la_doctor.php
+* https://losangeles.cbslocal.com/video/4578194-protester-deon-jones-describes-being-shot-with-rubber-bullet-by-police/
+* https://www.foxla.com/news/i-felt-like-i-was-on-the-timeline-to-my-death-local-man-speaks-out-after-weekend-protest-ends-in-violence
+
+
+### Riot police fire tear gas at peaceful protest, then use mace to corral protestors | May 30th
+
+Footage shows a peaceful protest opposite a police line. Around 50 seconds, police fire tear gas behind protestors, trapping them between tear gas and the police line. Police tell protestors to move, but protestors insist they cannot leave because of the gas behind them. Around 1:40, police then pepper spray protestors, forcing them to retreat into the tear gas.
+
+tags: tear-gas, mace, pepper-spray, spray
+
+id: ca-losangeles-34
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
+
+
+### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
@@ -249,20 +328,6 @@ id: ca-losangeles-9
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
 
 
-### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
-
-Los Angeles law enforcement beat protesters for no apparent reason.
-
-tags: beat, baton, projectile, shoot
-
-id: ca-losangeles-10
-
-**Links**
-
-* https://twitter.com/MattMcGorry/status/1267217360894562306
-* https://abc7.com/6231194/
-
-
 ### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
 
 LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
@@ -308,7 +373,7 @@ id: ca-losangeles-13
 * https://twitter.com/cwellborn3/status/1267318753571811329
 
 
-### Police shoot crowd of unarmed protestors with rubber bullets | Believed to be May 31st
+### Police shoot crowd of unarmed protestors with rubber bullets | (Believed to be) May 31st
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
@@ -321,18 +386,17 @@ id: ca-losangeles-16
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
 
-### Police strike protestors with batons | June 1st
+### Police beat kneeling protestors | (Believed to be) May 31st
 
-Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
+Protestors kneeling in the street are approached by a line of police in riot gear. Police beat them with their shields, shove them, and appear to be arresting them when a riot round is fired and the camera moves.
 
-tags: baton, beat, projectile, tear-gas, tear-gas-canister
+tags: beat, shove, shield, arrest
 
-id: ca-losangeles-14
+id: ca-losangeles-28
 
 **Links**
 
-* https://streamable.com/ja2fw6 (with audio)
-* https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
+* https://twitter.com/jkishore/status/1267216022634999808
 
 
 ### Police shoot rubber bullets at two peaceful protestors | June 1st
@@ -349,9 +413,86 @@ id: ca-losangeles-15
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
+### LAPD destroy car to drag out occupants | (Believed to be) June 1st
+
+LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
+
+tags: property-destruction
+
+id: ca-losangeles-25
+
+**Links**
+
+* https://twitter.com/GadiNBC/status/1268016449320177665
+
+
+### Business owner flags down police for protection from looters; she is arrested | June 1st
+
+Alleged looters and the owner and employees at a liquor store stood off outside store. A crowd had assembled to help the employees. Seeing a police cruiser passing by, one black employee flagged down the officers to request help.
+
+The employee was arrested, along with her husband and others helping them, while the alleged looters ran off. The employee says she told police they had the wrong people and the criminals were getting away. She says the officer arresting her said, "I don't care about them." In addition, she says she was thrown against a wall when arrested.
+
+tags: racial-profiling, arrest, shove
+
+id: ca-losangeles-26
+
+**Links**
+
+* https://www.cbsnews.com/news/police-handcuff-good-samaritans-protect-store-looters/
+* https://twitter.com/bubbaprog/status/1267641851215036416
+
+
+### Police arrest protesters en masse and detain them in poor conditions | June 1st
+
+Police arrested protesters en masse in downtown Los Angeles. Protesters hands were zip tied excessively tightly behind their backs and they were loaded onto buses and driven around the city. Some were taken to a temporary field jail at UCLA's Jackie Robinson stadium; UCLA claims it "failed to stop" LAPD from using the stadium as a "staging area," but was not told about the field jail until after the fact. Arestees were detained for long periods, still in excessively tight zip ties. Social distancing procedures were not observed.
+
+Many protesters allege that conditions in the makeshift jails were poor -- detainees denied medical attention and permission to use the restroom, for instance -- and that they were released, many with dead phones, in unfamiliar places in the middle of the night with no way to get home. Two arrestees allege that police prevented them from leaving before the curfew went into effect, then arrested them for violating the curfew. One arrestee alleges that she was twice threatened with guns, that she was sexually assaulted by police, and that police mocked detainees having panic attacks. Police also allegedly arrested at least one homeless person (to whom the curfew was not supposed to apply) for a curfew violation.
+
+A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
+
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten
+
+id: ca-losangeles-19
+
+**Links**
+
+* [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
+* [Allegations by protester Laura Montilla](https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a)
+* [Relevant video](https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t)
+* [Local news coverage mentioning the incident](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
+* [LA Times article mentioning both lawsuits](https://www.latimes.com/california/story/2020-06-22/complaints-lapd-abuses-mount-protest-lawsuit)
+* [UCLA disapproves of use of Jackie Robinson stadium for a field jail](https://twitter.com/UCLA/status/1268039753015812096)
+* [First response by UCLA professors, containing further allegations of misconduct by LAPD and LASD](https://twitter.com/ananyaUCLA/status/1267985147225231360)
+* [Second response by UCLA professors](https://drive.google.com/file/d/157MdwMMCEebcUyesO9HMOYK9p21q3gpE/view)
+* https://www.reddit.com/r/LosAngeles/comments/gxi8b2/how_is_noone_talking_about_this_women_from/
+* https://abc7.com/uclas-jackie-robinson-stadium-used-as-field-jail-during-protests-/6229078/
+* https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
+
+
+### Police arrest protesters en masse and detain them in poor conditions | June 2nd
+
+Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city.
+
+Several arrestees describe police sexually harassing/assaulting them; other arrestees corroborate these accounts. Two arrestees report that processing of arrestees on their bus was delayed because they requested medical attention and other improvements in their conditions, which would constitute first-amendment-protected speech. Four other arrestees report that processing of arrestees on their bus was delayed because some arrestees removed unsafely-tight zip ties using a lighter. All arrestees who have shared accounts mention officers behaving in a mocking, condescending, and unprofessional manner. One arrestee recalls asking officers to turn on bodycams, and officers refusing to do so. If true, this would be a clear violation of LAPD policy. One arrestee allegedly should have been exempt from the curfew as they were returning home from work.
+
+A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
+
+tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten
+
+id: ca-losangeles-32
+
+**Links**
+
+* [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
+* [LATaco article, with audio](https://www.lataco.com/protest-arrests-horror-accounts/)
+* [Allegations by protester Kayla Soren](https://ips-dc.org/police-kneeled-with-me-then-they-drew-their-guns/)
+* [Allegations by protester Julia Dupuis](https://twitter.com/juliacdupuis/status/1268638919286861824)
+* https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
+
+
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
-A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way. 
+A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way.
 
 tags: shoot, pepper-ball, vehicle, drive
 
@@ -363,7 +504,7 @@ id: ca-losangeles-1
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
-
+* https://twitter.com/ItsjustmeD_/status/1268596982966218752
 
 
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
@@ -385,18 +526,34 @@ id: ca-losangeles-17
 * https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
 
 
-### Police zip tie protesters and lock them inside cages | June 3rd
+### Police fire into backs of protestors | June 2nd
 
-Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners.
+A handful of protestors are seen walking away from police with their hands up. Police shoot at the protestors repeatedly for the duration of the video, about 40 seconds.
 
-tags: arrest, inhumane-treatment
+tags: shoot, projectile
 
-id: ca-losangeles-19
+id: ca-losangeles-27
 
 **Links**
-*  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
-*  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
-*  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
+
+* https://twitter.com/MattMcGorry/status/1268455032032133122
+
+
+### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) June 2nd
+
+Footage shows police near a group of protestors. One officer walks across the line of protestors, shoving many of them with his baton. Another officer then shoves an individual in a wheelchair. A third officer then grabs the wheelchair and pushes that individual away, back behind the police line.
+
+Protestors become agitated and police begin firing riot rounds.
+
+After 50 seconds, footage cuts to various other incidents.
+
+tags: baton, strike, person-with-disability, shoot, shove
+
+id: ca-losangeles-31
+
+**Links**
+
+* https://twitter.com/ricci_sergienko/status/1267685230799777793
 
 
 ### Police fire projectiles at protesters and discharge teargas | June 5th
@@ -408,6 +565,7 @@ tags: shoot, projectile, tear-gas
 id: ca-losangeles-20
 
 **Links**
+
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
@@ -424,6 +582,7 @@ tags: tear-gas, journalist
 id: ca-losangeles-21
 
 **Links**
+
 * https://twitter.com/josie_huang/status/1274859389921267713
 * https://twitter.com/josie_huang/status/1274860188898430976
 
@@ -439,6 +598,7 @@ tags: shoot, projectiles
 id: ca-losangeles-22
 
 **Links**
+
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
 
@@ -474,7 +634,7 @@ id: ca-oakland-2
 
 ### Water bottle tossed at police; police retaliate against crowd | June 2nd
 
-Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately. 
+Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately.
 
 tags: tear-gas
 
@@ -512,6 +672,7 @@ tags: shoot, projectile
 id: ca-sacramento-1
 
 **Links**
+
 * https://youtu.be/pRmBO34aXME
 * https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
@@ -644,7 +805,7 @@ id: ca-sanjose-3
 
 **Links**
 
-*  https://twitter.com/DeadByDawn101/status/1268825100385521665
+* https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 
 ### Police fire on community activist | May 29th
@@ -682,7 +843,7 @@ id: ca-sanjose-4
 
 A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the crowd. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
 
-tags: rubber-bullets, explosive, shoot, projectile 
+tags: rubber-bullets, explosive, shoot, projectile
 
 id: ca-sanjose-5
 
@@ -691,9 +852,9 @@ id: ca-sanjose-5
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
-### Police strike man with motorcylce | May 31st
+### Police strike man with motorcycle | May 31st
 
-A man is seen run across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
+A man is seen running across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
 
 Officers allege he was seen attempting to break into a bank after curfew.
 
@@ -767,11 +928,34 @@ id: ca-santamonica-1
 * https://twitter.com/GIFsZP/status/1267241803750813703
 
 
+### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | May 31st
+
+On May 31st, police arrested numerous protesters for curfew violations. These protesters were zip tied and held for long periods, in tight quarters which did not permit social distancing, then released late at night with no way to get home. At least one detainee alleges that detainees were denied medical care and permission to use the restroom.
+
+Zip ties were put on too tight. Police attempted to remove zip ties with a long knife (which is not the appropriate tool). This led to multiple protesters being injured, including one who required 21 stitches; it seems unlikely that the knife was appropriately sterilized between uses, raising the possibility of bloodborne pathogen transmission.
+
+(See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
+
+tags: abuse-of-power, arrest, inhumane-treatment
+
+id: ca-santamonica-2
+
+**Links**
+
+* [Picture of one detainee's hand with stitches; description of what happened](https://www.instagram.com/p/CA88dZmFPPT/)
+* [Another detainee, apparently being injured as her zip ties are removed](https://www.instagram.com/p/CBB2mn6A8pi/)
+* [Images and video of police removing zip ties with a knife, cutting protesters](https://www.instagram.com/p/CBEFX7wlWFa/)
+* [Video of detainees zip tied on a bus. Also includes account of what happened.](https://www.instagram.com/p/CA53NtTAsGr/)
+* [News article, mentioning incident with comment from Santa Monica police](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
+* [Example of the appropriate tool to cut zip ties](https://www.lawmens.com/safety-cutter-for-disposable-restraints/?gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUtIsFPg0gSDXLSKkG__DPSoK1K2bQ5d6PZBn-rO3U5rdBEMotdtR18aAjYgEALw_wcB)
+* https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/?utm_source=share&utm_medium=web2x
+
+
 ## Vallejo
 
 ### Police fatally shoot unarmed 22 year old | June 1st
 
-"Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family. 
+Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family.
 
 Six officers fired 55 bullets in 3.5 seconds; police investigation determined this use of force 'reasonable.'
 
@@ -787,9 +971,9 @@ id: ca-vallejo-1
 
 ## Walnut Creek
 
-### Armored law enforcement vehicle threatens protestors | June 2nd
+### Armored law enforcement vehicle threatens protestors, deploys tear gas on highway | June 1st
 
-In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas.
+In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas, coating the highway in dense, opaque clouds of blinding fog. Vehicles are seen waiting to continue on their way; it is unclear whether these vehicles attempted to navigate the clouds of tear gas. (Note: Jalopnik reports that this happened on June 2; however, protests consistent with the video were only reported on June 1, and other sources place the video on June 1.)
 
 tags: threaten, tear-gas, vehicle
 
@@ -799,6 +983,24 @@ id: ca-walnutcreek-1
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
 * https://jalopnik.com/cop-in-armored-truck-tells-peaceful-protesters-if-you-1843886752
+* https://abc7news.com/walnut-creek-curfew-tonight-protest-in-today-looting-protests/6231856/
+* https://www.kron4.com/news/bay-area/as-protests-remain-mostly-peaceful-walnut-creek-considers-extending-curfew/
+* https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
+
+
+### Police arrest man using excessive force, dogs | June 1st
+
+Police threw tear gas at protesters blocking a roadway in an effort to disperse them. One protester, Joseph Malott, allegedly threw a tear gas canister back at police. Police arrested him for (per Mercury News) “assaulting a police officer with a deadly weapon.” During the arrest, Malott was bitten and scratched repeatedly by a police dog, leaving bite marks and scratches all over his back and a wound on his leg which required 10 stitches. During the arrest, he says he was slammed against a fence then thrown to the ground, and recalls thinking “when are they going to take the dogs off me?”
+
+tags: arrest, tear-gas, tear-gas-canister, dog
+
+id: ca-walnutcreek-3
+
+**Links**
+
+* https://www.mercurynews.com/2020/06/06/protester-recounts-getting-attacked-by-police-dogs-tear-gassed-at-walnut-creek-demonstration/
+* https://sanfrancisco.cbslocal.com/2020/06/17/walnut-creek-police-discuss-protest-response-critics-not-impressed/
+* https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
 
 
 ### Police fire tear gas at peaceful protestors | June 2nd
@@ -812,3 +1014,4 @@ id: ca-walnutcreek-2
 **Links**
 
 * https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
+

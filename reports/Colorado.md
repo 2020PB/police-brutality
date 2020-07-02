@@ -1,3 +1,25 @@
+## Aurora
+
+### Aurora police violently disperse violin vigil | June 27th
+
+On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain. Footage shows several violinists around a fountain and a small crowd of people scattered through the park, most sitting on picnic blankets or the grass.
+
+Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
+
+tags: strike, beat, baton, pepper-spray, spray
+
+id: co-aurora-1
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hhfrh8/062820_musicians_in_aurora_colorado_honoring/
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hhh6fe/aurora_co_during_a_vigil_with_live_violinists_for/
+* https://twitter.com/ekbates4/status/1277104647690280961
+* https://twitter.com/Ezret/status/1277451145418469376
+* https://twitter.com/jessiedesigngir/status/1277126019246260224
+* https://www.reddit.com/r/Denver/comments/hh5dbp/protestors_for_elijah_mcclain_threatened_with/
+
+
 ## Colorado Springs
 
 ### Multiple cops pin man to ground while repeatedly punching him | June 1st
@@ -57,8 +79,8 @@ id: co-denver-3
 **Links**
 
 * https://twitter.com/AdiGTV/status/1266554320717099008
-*	https://pressfreedomtracker.us/all-incidents/photojournalist-covering-denver-protests-hit-multiple-pepper-balls/
-*	https://www.thedenverchannel.com/news/local-news/peaceful-protests-demanding-justice-for-george-floyd-in-denver-turn-violent-for-a-2nd-straight-day
+* https://pressfreedomtracker.us/all-incidents/photojournalist-covering-denver-protests-hit-multiple-pepper-balls/
+* https://www.thedenverchannel.com/news/local-news/peaceful-protests-demanding-justice-for-george-floyd-in-denver-turn-violent-for-a-2nd-straight-day
 
 
 ### Denver SWAT shoot at woman trying to stop armored car | May 29th
@@ -77,7 +99,7 @@ id: co-denver-4
 
 ### Police discharge tear gas into group of protesters | May 29th
 
-An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
+An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge.
 
 tags: tear-gas, tear-gas-canister, shoot, projectile
 
@@ -132,7 +154,6 @@ id: co-denver-7
 ### Bystander claims police shoot him in the eye | May 30th
 
 A man was blinded in one eye in a manner consistent with a rubber bullet. He claims a law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, despite the fact that he wasn't provoking the officer (or even protesting) at the time, and didn't see anyone near him doing so.
-
 
 tags: shoot, projectile, rubber-bullet
 
@@ -286,3 +307,4 @@ id: co-denver-18
 **Links**
 
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
+

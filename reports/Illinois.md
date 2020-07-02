@@ -23,7 +23,7 @@ id: il-chicago-2
 
 **Links**
 
-*  https://twitter.com/LUVRGRLLANI/status/1266866301001179136
+* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
 ### Police pepper-spray reporter for recording | May 30th
@@ -74,16 +74,20 @@ Victim states that officers kneeled on her neck, that shards of glass from her b
 
 After release (with neither charges nor explanation), the victim attempted to file a complaint but was told the complaint line was unnaccesible.
 
+This was reported to have happened at "2600 N. Narragansett Ave.", but 2700 N seems slightly more accurate. Google Streetview at that address shows the same "Show Carnival" store seen in the video.
+
 tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment
 
 id: il-chicago-4
 
 **Links**
+
 * https://twitter.com/cruzzzyc/status/1267185423333199874
 * https://twitter.com/AdrienneWrites/status/1267534983054254081
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
 * https://chicago.cbslocal.com/2020/06/03/police-drag-women-out-of-car-outside-brickyard-mall-woman-says-officer-put-knee-on-neck/
 * https://twitter.com/greg_doucette/status/1267594960955748352
+* [Location in Google Maps](https://goo.gl/maps/2m2kHLCaQP8h51az8)
 
 
 ### Cops hit Chicago Police Board President | May 31st
@@ -128,6 +132,7 @@ tags: punch
 id: il-chicago-7
 
 **Links**
+
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
 * https://twitter.com/greg_doucette/status/1268323060026937345
 * https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
@@ -143,7 +148,7 @@ id: il-chicago-8
 
 **Links**
 
-*  https://twitter.com/BLMChi/status/1267486699321544704
+* https://twitter.com/BLMChi/status/1267486699321544704
 
 
 ### Police grab protester and throw into brick wall | June 2nd
@@ -159,6 +164,19 @@ id: il-chicago-12
 * https://twitter.com/ChrisDitton/status/1267675836892708864
 
 
+### Police push protestor on bike, slap phone out of his hand | June 2nd
+
+Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
+
+tags: push, shove, property-destruction
+
+id: il-chicago-13
+
+**Links**
+
+* https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
+
+
 ### Police hit several protesters with batons | (Believed to be) June 3rd
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
@@ -170,6 +188,20 @@ id: il-chicago-9
 **Links**
 
 * https://twitter.com/TomSchuba/status/1268312957752160257
+
+
+### Police seen without badges | (Believed to be) June 4th
+
+Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
+
+tags: hide-badges, abuse-of-power
+
+id: il-chicago-14
+
+**Links**
+
+* https://www.tiktok.com/@sarahsoch/video/6834688359969918214
+* https://twitter.com/punishmegrant/status/1268966252707487745
 
 
 ## Joliet
@@ -187,3 +219,4 @@ id: il-joliet-1
 * https://www.youtube.com/watch?v=rllO2sdj1Ek
 * https://twitter.com/OrozcoJustina/status/1268262843801010179
 * https://www.chicagotribune.com/news/breaking/ct-joliet-mayor-video-fallout-20200606-zeidd3u5xbadxfoedmfkp22akm-story.html
+

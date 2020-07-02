@@ -79,9 +79,9 @@ id: ga-atlanta-4
 * https://twitter.com/ANGELCUCCl/status/1266939757252280321
 
 
-### Photographer tackled to the ground by four police officers | May 30th 
+### Photographer tackled to the ground by four police officers | May 30th
 
-A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.  
+A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.
 
 tags: journalist, tackle, arrest
 
@@ -102,6 +102,7 @@ tags: shoot, shove, rubber-bullets
 id: ga-atlanta-6
 
 **Links**
+
 * https://www.facebook.com/onlettingo/videos/10157072617626056
 * https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
 
@@ -128,7 +129,7 @@ id: ga-lawrenceville-1
 
 Lowndes County sheriff, Ashley Paulk, confiscated a "F\*ck Trump" sign from a protestor, citing it as "evidence" for a crime not stated, in itself a violation of 1st Amendment rights. The woman attempted to grab the sign back and the sheriff choked her in response, before protestors separated the two.
 
-In a later statement, the sheriff said he would continue to charge protestors carrying posters with profanity with misdemeanor disorderly conduct, in violation of Supreme Court case [Cohen v. California](https://scholar.google.com/scholar_case?case=7398433541275578772&q=cohen+v.+california&hl=en&as_sdt=3,39) which ruled a man wearing a "Fuck the Draft" jacket could not be convicted for disturbing the peace. In addition, a [Georgia supreme court case](https://law.justia.com/cases/georgia/supreme-court/2017/s17a1040.html) cleared a man charged with disorderly conduct for raising his middle finger in a church. The sheriff cited a Georgia law allowing misdemeanor charges for profanity in the presence of an individual under 14 years of age. 
+In a later statement, the sheriff said he would continue to charge protestors carrying posters with profanity with misdemeanor disorderly conduct, in violation of Supreme Court case [Cohen v. California](https://scholar.google.com/scholar_case?case=7398433541275578772&q=cohen+v.+california&hl=en&as_sdt=3,39) which ruled a man wearing a "Fuck the Draft" jacket could not be convicted for disturbing the peace. In addition, a [Georgia supreme court case](https://law.justia.com/cases/georgia/supreme-court/2017/s17a1040.html) cleared a man charged with disorderly conduct for raising his middle finger in a church. The sheriff cited a Georgia law allowing misdemeanor charges for profanity in the presence of an individual under 14 years of age.
 
 In the background of the second clip, a police cruiser marked "Valdosta" can be seen, establishing the location.
 
@@ -152,4 +153,6 @@ tags: abuse-of-power, arrest
 id: ga-valdosta-2
 
 **Links**
+
 * https://www.wctv.tv/content/news/Lowndes-County-arrests-protester-for-obscene-sign-571035091.html
+

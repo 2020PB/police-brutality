@@ -47,9 +47,9 @@ id: pa-philadelphia-1
 
 ### Protestor fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protestor, then arrest him, the driver and a passerby filming | 
 
-Two protestors run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protestor can enter. The driver then pulls over to the side of the road shortly after. 
+Two protestors run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protestor can enter. The driver then pulls over to the side of the road shortly after.
 
-Police drag the protestor from the car and beat him with batons. After he is arrested, a police officer punches him in the face. 
+Police drag the protestor from the car and beat him with batons. After he is arrested, a police officer punches him in the face.
 
 Police additionally arrest the driver and passerby filming the scene.
 
@@ -60,7 +60,7 @@ id: pa-philadelphia-2
 **Links**
 
 * https://youtu.be/QDcCFN_LQPA
-* [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)[https://twitter.com/greg_doucette/status/1269303637060325377]
+* [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)](https://twitter.com/greg_doucette/status/1269303637060325377)
 
 
 ### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
@@ -95,9 +95,10 @@ id: pa-philadelphia-9
 
 An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
 
-tags: tear-gas, rubber-bullets, shoot, tear-gas-canister
 
 Location: [Interstate 676 between N 20th/21st St](https://www.google.com/maps/place/2053+Vine+St,+Philadelphia,+PA+19103,+USA/@39.9595383,-75.1746173,18z/data=!3m1!4b1!4m5!3m4!1s0x89c6c634c7345f49:0x40d2e85b82db34fb!8m2!3d39.9595362!4d-75.173523)
+
+tags: tear-gas, rubber-bullets, shoot, tear-gas-canister
 
 id: pa-philadelphia-4
 
@@ -143,7 +144,7 @@ id: pa-philadelphia-7
 
 ### Officer attacks woman for no apparent reason | June 1st
 
-An officer in a white shirt is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer. 
+An officer in a white shirt is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer.
 
 tags: shove, arrest, push
 
@@ -151,7 +152,7 @@ id: pa-philadelphia-8
 
 **Links**
 
-*  https://twitter.com/tippedminimum/status/1268001268406136832
+* https://twitter.com/tippedminimum/status/1268001268406136832
 
 
 ### Police selectively enforce curfew and dispersal orders | June 1st
@@ -176,7 +177,7 @@ id: pa-philadelphia-10
 * https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
-### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
+### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
@@ -187,6 +188,44 @@ id: pa-philadelphia-6
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
+
+
+### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | June 13th
+
+A reporter from Unicorn Riot showed up at a pro-Columbus rally at a statue of Christopher Columbus in Philadelphia. He is harassed, threatened and assaulted by members of the rally. In addition, an article published by Unicorn Riot states that members of the rally slashed the journalist's tires.  After several minutes, police intervene to push protestors back, but make no arrests. They appear to say nothing more to members of the rally than, "Leave him alone."
+
+The reporter continues to film from a distance.
+
+Around 6:20, the journalist is assaulted again by a man who says he doesn't want the journalist to film.
+
+Shortly after, the journalist is told by the officer that he has been warned 3 times to leave. The journalist insists he is here to film. The officer states that the journalist is inciting a riot and should be mindful of the curfew time.
+
+tags: journalist, abuse-of-power
+
+id: pa-philadelphia-11
+
+**Links**
+
+* https://vimeo.com/428917635
+* https://www.reddit.com/r/PublicFreakout/comments/hbaove/philadelphia_police_threaten_unicorn_riot/
+* https://unicornriot.ninja/2020/philadelphia-police-threaten-unicorn-riot-reporter-after-vigilante-assault/
+
+
+### Counter-Terrorism Unit detains reporter | June 23rd
+
+A reporter recounts on Twitter that she was arrested despite telling an officer she was a reporter. She states she was zip-tied, mocked and then dragged backwards down two flights of stairs to a detention area. She states that later an officer came and asked, "Are you Samantha?" When she confirmed her name, she was released.
+
+Footage shows first-person video leading up to her arrest. It includes her clear identification, with press badge, as a reporter.
+
+tags: journalist, arrest, abuse-of-power
+
+id: pa-philadelphia-12
+
+**Links**
+
+* https://twitter.com/samanthamelamed/status/1275522909604372481
+* https://twitter.com/samanthamelamed/status/1275523337716973570
+* https://twitter.com/samanthamelamed/status/1275524750316535810
 
 
 ## Pittsburgh
@@ -240,7 +279,7 @@ id: pa-pittsburgh-2
 
 ### Police pepper spray two kneeling protestors | June 1st
 
-Two protestors kneel with their hands up 5-10 feet from police. One of the protestors appears to try to talk to the police. Police then pepper-spray the protestors, who then flee. 
+Two protestors kneel with their hands up 5-10 feet from police. One of the protestors appears to try to talk to the police. Police then pepper-spray the protestors, who then flee.
 
 Users on Twitter allege the woman was a medic attempting to notify the police and/or provide aid to an injured person in a nearby parking garage.
 
@@ -254,3 +293,4 @@ id: pa-pittsburgh-4
 
 * https://twitter.com/messiest_headd/status/1267816842413740034
 * https://twitter.com/stabpossum/status/1268203842174361600
+

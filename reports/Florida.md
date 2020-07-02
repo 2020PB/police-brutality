@@ -6,6 +6,8 @@ It is seen in the video that while the people were protesting, a few cops tried 
 
 Miami Herald later reports the officer has a history of drawing his weapon and using force. He has been suspended.
 
+A more recent update states that the officer has been charged with battery.
+
 tags: shove
 
 id: fl-fortlauderdale-1
@@ -15,6 +17,7 @@ id: fl-fortlauderdale-1
 * https://twitter.com/thickliljawn/status/1267239498083110913
 * https://www.reddit.com/r/PublicFreakout/comments/gubleh/officer_gets_confronted_by_another_officer_for/
 * https://www.miamiherald.com/news/local/crime/article243234261.html
+* https://www.nbcnews.com/news/us-news/fort-lauderdale-officer-who-pushed-over-kneeling-protester-video-charged-n1232606
 
 
 ### Law enforcement shoot a woman in the head | May 31st
@@ -48,6 +51,7 @@ id: fl-jacksonville-1
 
 * https://twitter.com/joiahhh/status/1266914558519775235
 
+
 ## Miami
 
 ### Man tackled to ground after speaking to police | May 31st
@@ -66,6 +70,19 @@ id: fl-miami-1
 
 
 ## Orlando
+
+### Police tackle & pepper spray peaceful protestors | June 1st
+
+Footage shows police charging at protestors and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protestor. Police continue to discharge pepper spray and force away protestors trying to aid victims.
+
+tags: tackle, pepper-spray, spray
+
+id: or-orlando-5
+
+**Links**
+
+* https://twitter.com/Concerned407/status/1268339148131307524
+
 
 ### Police use excessive force during an arrest | June 2nd
 
@@ -107,17 +124,20 @@ id: fl-orlando-4
 * https://twitter.com/Flygirl4477/status/1267968890975522816
 
 
-### Police fire on protesters outside city hall | Date unknown
+### Police fire on protesters outside city hall | June 2nd
 
 Police open fire on protesters outside of city hall with tear gas, flashbangs, and apparently rubber bullets.
 
-tags: shoot, tear-gas, flashbangs, rubber-bullets
+Additional footage shows the incident was instigated when officers shoved a protestor. The protestor then fled. Officers tackled another protestor on the sidewalk, then began firing riot control rounds.
+
+tags: shoot, tear-gas, flashbangs, rubber-bullets, shove, push, tackle
 
 id: fl-orlando-2
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269017349727928320
+* https://twitter.com/Concerned407/status/1276277655545905152
 * [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
 
 
@@ -142,6 +162,7 @@ id: fl-tampa-1
 * https://twitter.com/Psychedelicgigi/status/1268740374903894016
 * https://twitter.com/drewthehouse/status/1268713991230062593
 
+
 ### Police fire tear gas at peaceful protest | June 4th
 
 Police fire tear gas at peaceful protestors, while simultaneously ordering protestors to lie down, forcing them to remain in the immediate area.
@@ -151,7 +172,9 @@ tags: tear-gas, arrest
 id: fl-tampa-2
 
 **Links**
+
 * https://twitter.com/greg_doucette/status/1268694786485166081
+
 
 ### Police pepper-spray police from protest | June 5th
 
@@ -165,11 +188,12 @@ id: fl-tampa-3
 
 * [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
 
+
 ### Police fire rubber bullets at protestors | June 5th
 
 Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protestors.
 
-Incidents include firing at peaceful protestors, fleeing protestors and medics. 
+Incidents include firing at peaceful protestors, fleeing protestors and medics.
 
 Video also includes a bleeding eyewitness describing events.
 
@@ -181,6 +205,7 @@ id: fl-tampa-4
 
 * https://twitter.com/greg_doucette/status/1268765546662805505
 * [Timestamps: 00:00-00:30, 00:38-00:45](https://twitter.com/greg_doucette/status/1268765759783796736)
+
 
 ### Police fire on medic | June 5th
 
@@ -194,3 +219,4 @@ id: fl-tampa-6
 
 * https://twitter.com/greg_doucette/status/1270491699832401920
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
+

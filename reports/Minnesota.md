@@ -1,7 +1,5 @@
 ## Minneapolis
 
-#### Please note: These are all believed to be from Minneapolis, if not please contact the moderator immediately
-
 ### Police hit press in neck and head with wooden baton | May 26th
 
 A group of cops start to approach a group of press taking photos and video. One press member repeats "we have our hands up and we have press passes". An officer walking by points in the direction of a photographer and says something indiscernable. The camera pans to show a cop hitting the photographer in the neck and head with a wooden baton.
@@ -15,6 +13,7 @@ id: mn-minneapolis-21
 * https://youtu.be/XAa5xb6JitI?t=5982
 * https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
 
+
 ### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | May 26th
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
@@ -26,6 +25,7 @@ id: mn-minneapolis-28
 **Links**
 
 * https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/
+
 
 ### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
@@ -142,7 +142,7 @@ id: mn-minneapolis-16
 
 ### Camera man shot by police | May 30th
 
-Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS. 
+Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS.
 
 tags: journalist, shoot
 
@@ -152,9 +152,12 @@ id: mn-minneapolis-27
 
 * https://twitter.com/brianstelter/status/1266910826797113347
 
+
 ### CBS crew fired upon by police. | May 30th
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
+
+tags: 
 
 id: mn-minneapolis-23
 
@@ -163,7 +166,6 @@ id: mn-minneapolis-23
 * https://twitter.com/MikeGeorgeCBS/status/1267087091122528256
 * https://twitter.com/MikeGeorgeCBS/status/1266919447970942986
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
-
 
 
 ### Medics talk about police destroying tent and slashing tires. | May 30th
@@ -180,9 +182,10 @@ id: mn-minneapolis-25
 
 * https://www.youtube.com/watch?v=gfb_zJiMTFU
 
+
 ### Law enforcement officers slash car tires. | May 30th
 
-Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St. 
+Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St.
 
 tags: abuse-of-power, property-destruction.
 
@@ -366,3 +369,17 @@ id: mn-minneapolis-19
 * https://twitter.com/edouphoto/status/1267958349477249024
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
+
+
+### Woman kicked in head | Date Unknown
+
+Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
+
+tags: kick
+
+id: mn-minneapolis-30
+
+**Links**
+
+* https://www.tiktok.com/@montygeer/video/6840314007954509062
+

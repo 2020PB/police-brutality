@@ -10,7 +10,7 @@ id: nv-lasvegas-3
 
 **Links**
 
-*  https://twitter.com/itsraiialex/status/1266770032719040513
+* https://twitter.com/itsraiialex/status/1266770032719040513
 
 
 ### Police shove numerous protestors to the ground | May 29th
@@ -26,7 +26,7 @@ id: nv-lasvegas-4
 * https://twitter.com/bridgetkbennett/status/1266561128185819136
 
 
-### Police charge into peaceful crowd shouting "grab anybody" | June 1st
+### Police charge into peaceful crowd shouting "grab anybody" | May 31st
 
 LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
@@ -65,3 +65,19 @@ id: nv-lasvegas-5
 
 * https://www.tiktok.com/@lord.vizi/video/6833826921755741445
 * https://www.tiktok.com/@lord.vizi/video/6833963763486461190
+
+
+### Police charge and shove protestors | June 20th
+
+Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protestors. They can be seen throwing multiple individuals to the ground and kicking one.
+
+tags: shove, tackle, throw, kick
+
+id: nv-lasvegas-6
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hcfocc/cops_rush_protest_crowd_in_las_vegas/
+* https://twitter.com/SodASierra/status/1274719985416286209
+* https://www.youtube.com/watch?v=C5mj1JMCpvs
+

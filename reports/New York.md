@@ -47,7 +47,7 @@ id: ny-buffalo-3
 
 **Links**
 
-*  https://twitter.com/PhotoJazzy/status/1269056626843099137
+* https://twitter.com/PhotoJazzy/status/1269056626843099137
 
 
 ## East Meadow
@@ -85,7 +85,6 @@ id: ny-merrick-1
 
 
 ## New York City
-
 
 ### Police shove woman to the ground, inducing a seizure | May 29th
 
@@ -275,7 +274,7 @@ id: ny-newyorkcity-33
 
 ### Police beat hospital employee walking home | May 31st
 
-Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples. 
+Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples.
 
 tags: medic, beat, strike, shove
 
@@ -440,7 +439,7 @@ id: ny-newyorkcity-18
 
 Footage shows a cluster of NYPD officers striking a vehicle with batons and kicking it, before pulling the driver onto the street and arresting them. Footage shows police smashed several of the car's windows.
 
-Officers allege the driver and passenger were looters and had tried to run over police. 
+Officers allege the driver and passenger were looters and had tried to run over police.
 
 Officers additionally allege that the passenger attempted to jump to the driver's seat, run over an NYPD officer, and drive away. However, footage shows heavy traffic on all sides of the car and does not capture the alleged attempt by the passenger.
 
@@ -510,6 +509,7 @@ id: ny-newyorkcity-22
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
+
 ### NYPD officers beat woman | (Believed to be) June 3rd
 
 A woman is walking on the sidewalk with a peaceful protest. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
@@ -521,6 +521,7 @@ id: ny-newyorkcity-34
 **Links**
 
 * https://twitter.com/Add_Boy/status/1268264728989626368
+
 
 ### Motorist honks in support of protest; Police stop her | June 3rd
 
@@ -537,7 +538,7 @@ id: ny-newyorkcity-35
 
 ### Police confiscate protestor's bike | June 3rd
 
-Footage shows NYPD officer grabbing a protestor's bike and walking away with it, citing curfew restrictions as the reason for seizure. 
+Footage shows NYPD officer grabbing a protestor's bike and walking away with it, citing curfew restrictions as the reason for seizure.
 
 A thread on Twitter from an alleged victim and member of the press who states that police stole their bike and roughed them up.
 
@@ -625,7 +626,7 @@ Police shut down a birthday party on private property. The party was occurring a
 
 Police continued shoving protestors already inside the building. Footage shows verbal altercation between police and partygoers before an officer forced his way past a door, shoving several partygoers. Police then began arresting partygoers and beating them with batons.
 
-Footage shows partygoers were beaten with batons and ziptied. 
+Footage shows partygoers were beaten with batons and ziptied.
 
 Three partygoers state officers used racial slurs while arresting them.
 
@@ -685,7 +686,7 @@ id: ny-newyorkcity-25
 
 ### Police arrest hospital employee acting as medic | June 4th
 
-A crowd gathers around as a man in scrubs is arrested. 
+A crowd gathers around as a man in scrubs is arrested.
 
 In a report after the fact, he says police laughed when he and other detained protestors requested masks. He also states that he was kept with 17 people in a small, warm room (he approximates 8'x10' and 85 degrees).
 
@@ -701,7 +702,7 @@ id: ny-newyorkcity-47
 
 ### Police shove multiple reporters | June 4th
 
-At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first. 
+At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first.
 
 tags: journalist, baton, strike, shove
 
@@ -767,6 +768,54 @@ id: ny-newyorkcity-26
 * https://nyc.streetsblog.org/2020/06/08/see-it-police-beat-up-cyclist-during-black-lives-matter-protest/
 
 
+### Police escalate to violence at Queer Liberation March | June 28th
+
+The NYC queer liberation march occupied streets around Washington Square Park. Police arrived and forcefully moved protestors off the streets, beginning by shoving protestors and by striking them with batons. Police escalated to using pepper-spray. Police made several arrests.
+
+Additional footage shows police shoving protestors walking along both the street and sidewalk.
+
+Images of an arrest show multiple officers (including one white-shirted officer, denoting a rank of at least Sergeant) with black masking tape covering their badge numbers.
+
+Footage also shows an officer who was pepper-sprayed by another officer. That footage additionally shows officers on motorcycles forcing their way through the crowd.
+
+tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badges, arrest, vehicle.
+
+id: ny-newyorkcity-49
+
+**Links**
+
+* https://twitter.com/elielcruz/status/1277346244952817669
+* https://twitter.com/MartiGCummings/status/1277347982548111363
+* https://mobile.twitter.com/justinaflash/status/1277371937744916480
+* https://mobile.twitter.com/jonnaerikaaa/status/1277367208310685696
+* https://mobile.twitter.com/agrayphoto/status/1277362250920099840
+* [Covered badge](https://mobile.twitter.com/garrettmireles/status/1277371641996206089)
+* [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
+
+
+### Police violently arrest protestors camped out for budget vote | June 30th
+
+Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protestors. Footage shows violent arrests.
+
+In particular, police manhandle already zip-tied protestor. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
+
+The second clip shows arrest warning if protestors step on streets.
+
+The third clip shows police shoving protestors on the sidewalk with their batons.
+
+In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
+
+tags: shove, baton, strike, beat, arrest, choke, hide-badges
+
+id: ny-newyorkcity-50
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1277987893248655361
+* https://twitter.com/deanospameano/status/1277902165542043653
+* https://twitter.com/NelStamp/status/1277985126228557825
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
@@ -780,3 +829,4 @@ id: ny-rochester-1
 **Links**
 
 * https://twitter.com/bleeezyy_/status/1266894195865931778
+

@@ -13,6 +13,7 @@ id: nc-asheville-2
 * https://www.wyff4.com/article/tear-gas-rubber-bullets-reported-at-asheville-protest/32725369
 * https://www.citizen-times.com/story/news/local/2020/05/31/bowen-bridge-shut-down-protesters-block-highway/5304001002/
 
+
 ### Police surround approved medical station and destroy supplies | June 2nd
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
@@ -25,12 +26,13 @@ id: nc-asheville-1
 
 **Links**
 
-*  https://twitter.com/AngelaMWilhelm/status/1268056986102444033
-*  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
-*  https://twitter.com/daveth89/status/1267974555332685824
-*  https://i.redd.it/wofh339sqr251.png
-*  https://www.usatoday.com/story/news/factcheck/2020/06/03/george-floyd-protests-police-destroy-medic-station-asheville/3124847001/
-*  https://twitter.com/greg_doucette/status/1269071491892682752
+* https://twitter.com/AngelaMWilhelm/status/1268056986102444033
+* https://twitter.com/AngelaMWilhelm/status/1267974081577717762
+* https://twitter.com/daveth89/status/1267974555332685824
+* https://i.redd.it/wofh339sqr251.png
+* https://www.usatoday.com/story/news/factcheck/2020/06/03/george-floyd-protests-police-destroy-medic-station-asheville/3124847001/
+* https://twitter.com/greg_doucette/status/1269071491892682752
+
 
 ### Man shot in head with pepper ball | Date Unknown
 
@@ -60,12 +62,12 @@ id: nc-charlotte-1
 
 **Links**
 
-*  https://www.instagram.com/tv/CA9UOKAj7MC/
-*  https://twitter.com/greg_doucette/status/1268030671706099717
-*  https://twitter.com/greg_doucette/status/1268030671706099717
-*  https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
-*  https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
-*  https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
+* https://www.instagram.com/tv/CA9UOKAj7MC/
+* https://twitter.com/greg_doucette/status/1268030671706099717
+* https://twitter.com/greg_doucette/status/1268030671706099717
+* https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
+* https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
+* https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
 
 
 ### Police arrest representative from The Bail Project | June 8th
@@ -86,7 +88,7 @@ id: nc-charlotte-2
 
 ### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | June 18th
 
-The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protestors. 
+The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protestors.
 
 Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to ziptie. In addition, a reporter filming was struck by an officer and threatened with arrest.
 
@@ -207,6 +209,25 @@ id: nc-raleigh-3
 * https://abc11.com/activist-who-made-demands-to-raleigh-leaders-arrested-for-unrelated-incident/6234238/
 
 
+### Raleigh police roughly arrest protestors | June 18th
+
+Footage shows violent arrests of 2 protestors. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protestors out of the way.
+
+One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor.
+
+Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protestor was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
+
+tags: shove, push, arrest, child
+
+id: nc-raleigh-8
+
+**Links**
+
+* https://www.wral.com/two-arrested-after-n-c-born-protest-in-downtown-raleigh/19151333/
+* https://twitter.com/raleighpolice/status/1273786583913771009
+* https://www.wral.com/raleigh-police-drop-charge-against-protester-to-investigate-officers-actions/19152361/
+
+
 ## Wilmington
 
 ### Police kneel to lure protestors closer before firing | June 3rd
@@ -221,3 +242,4 @@ id: nc-wilmington-1
 
 * https://twitter.com/greg_doucette/status/1268047376008216576
 * https://twitter.com/greg_doucette/status/1268047092079112198
+

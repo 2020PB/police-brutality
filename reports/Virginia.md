@@ -2,7 +2,7 @@
 
 ### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
 
-Bodycam footage shows an unarmed man walking around in the street. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".  
+Bodycam footage shows an unarmed man walking around in the street. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".
 
 This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
 
@@ -12,10 +12,10 @@ id: va-fairfax-1
 
 **Links**
 
-*  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
-*  https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
-*  [Full video](https://www.youtube.com/watch?v=MjFEDlTCKGE)
-*  https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
+* https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
+* https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
+* [Full video](https://www.youtube.com/watch?v=MjFEDlTCKGE)
+* https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
 
 
 ## Fredericksburg
@@ -34,6 +34,7 @@ id: va-fredericksburg-2
 * https://twitter.com/Dannyklein69/status/1267261914138267649
 * https://twitter.com/Dannyklein69/status/1267261377435099142
 * https://twitter.com/greg_doucette/status/1268398488783642625
+
 
 ## Manassas
 
@@ -57,6 +58,19 @@ id: va-manassas-1
 
 
 ## Richmond
+
+### Police SUV jumps median toward protestors | May 30th
+
+Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protestors are gathered. Protestors are forced to run to avoid being hit.
+
+tags: vehicle
+
+id: va-richmond-9
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/heif6m/an_older_video_from_the_beginning_of_protests_in/
+
 
 ### Officer sprays a man watching from his balcony | May 31st
 
@@ -153,7 +167,7 @@ id: va-richmond-5
 
 ### Police pepper-spray journalist | June 21st
 
-First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately. 
+First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately.
 
 He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
 
@@ -168,6 +182,7 @@ id: va-richmond-7
 * https://twitter.com/aeringle/status/1274898298923606017
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
+
 ### Police escalate against protestors outside city hall | June 23rd
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
@@ -179,7 +194,70 @@ id: va-richmond-8
 **Links**
 
 * [Full timeline of events twitter thread](https://twitter.com/NotLevar/status/1275368795444588544)
-* [tear gas](https://twitter.com/NotLevar/status/1275368797466243073) 
+* [tear gas](https://twitter.com/NotLevar/status/1275368797466243073)
 * [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
+
+
+### Man struck in face by explosive round | June 26th
+
+Footage shows a group of scattered protestors some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
+
+tags: shoot, projectile, explosive
+
+id: va-richmond-10
+
+**Links**
+
+* https://twitter.com/woznyphoto/status/1276734657237864448
+
+
+### Police drag protestor off bike | June 26th
+
+Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protestors. He grabs a protestor on a bike, then proceeds to drag the protestor into the street and off the bike. Several officers aid the officer in arresting the protestor, while the original officer kneels on the protestor's back.
+
+tags: bike, grab, arrest, knee
+
+id: va-richmond-11
+
+**Links**
+
+* https://twitter.com/woznyphoto/status/1276727667979694081
+
+
+### Police shove and pepper-spray protestor | June 26th
+
+Footage shows a police officer shoving a protestor to the ground. The protestor scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protestors.
+
+tags: shove, pepper-spray, spray
+
+id: va-richmond-12
+
+**Links**
+
+* https://twitter.com/woznyphoto/status/1276865711835623424
+* https://twitter.com/DomicoPhillips/status/1276723211879755777
+* https://twitter.com/nilsrva/status/1276752643528982530
+
+
+### Attorney arrested for photographing police staging area | June 26th
+
+Around midnight on June 26th, an attorney recounts his experience with Richmond police at a staging area in the parking lot of a Whole Foods. The attorney states the parking lot was open, there were no signs, and there was no trespassing order given.
+
+He states that he was told to leave. Then, when he tried to photograph the officer, he was yanked out of his car and arrested. Image shows marks left by zip ties. He states that eventually he was released with a summons.
+
+A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
+
+tags: arrest, abuse-of-power
+
+id: va-richmond-13
+
+**Links**
+
+* https://twitter.com/rva_charlie/status/1276739841951248384
+* https://twitter.com/rva_charlie/status/1276740854410027008
+* https://twitter.com/rva_charlie/status/1276740309171437568
+* https://twitter.com/rva_charlie/status/1276741883516071938
+* https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
+

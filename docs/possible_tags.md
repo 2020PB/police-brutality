@@ -13,10 +13,12 @@ child
 choke
 conceal
 death
+dog
 drive
 elderly
 explosive
 flashbangs
+foam-bullets
 gas
 headlock
 hide-badges
@@ -87,7 +89,9 @@ racial-profiling
 baton
 beanbags
 bike
+dog
 explosive
+foam-bullets
 flashbangs
 headlock
 horse
