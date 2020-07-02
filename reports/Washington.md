@@ -331,7 +331,7 @@ id: wa-seattle-21
 * https://twitter.com/greg_doucette/status/1278565827747471361
 
 
-### Police arrest man for asking question | July 1st
+### Police arrest protestor during CHAZ/CHOP clearing | July 1st
 
 As police prepare to clear CHOP, a protestor asks a question. Police then target him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
 
