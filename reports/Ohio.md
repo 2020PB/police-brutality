@@ -486,6 +486,7 @@ id: oh-columbus-23
 * https://twitter.com/greg_doucette/status/1277660155354796033
 * https://www.instagram.com/tv/CCAZGCWjqG1
 
+
 ## Dayton
 
 ### Police fire multiple cans of tear gas at protestors | May 30th
