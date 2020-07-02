@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-02T18:35:16.972523+00:00
+UPDATED AT: 2020-07-02T18:46:51.896498+00:00
 
 
 # Alabama
@@ -5327,6 +5327,20 @@ id: oh-columbus-18
 * [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
 
 
+### Police drive up to protestors, jump out and tackle them | (Believed to be) June 6th
+
+Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protestors and jump out of the car. Police from the vehicles and on the street charge protestors, tackle them, and arrest them. Police appear to kneel on protestors while making arrests.
+
+tags: vehicle, tackle, arrest, knee
+
+id: oh-columbus-24
+
+**Links**
+
+* https://www.tiktok.com/@frecklesandstitches/video/6835226979596340485
+* https://twitter.com/TrekkieByBirth/status/1276719505528492033
+
+
 ### Man maced by police | June 21st
 
 Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
@@ -5372,6 +5386,22 @@ id: oh-columbus-21
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hdwgfb/columbus_ohio_cops_ram_protesters_with_bikes/
+
+
+### Police drag seated protestor, body slam a second | June 29th
+
+Footage shows a protestor seated on the edge of the road. An officer drags the protestor into the street and forces her to lay down to arrest. As other protestors express frustration, another officer runs over, lifts a protestor off the ground and slams her on her back. Police kneel on both protestors to make arrests.
+
+The second clip is a lengthy (53 minute) account from the original filmer.
+
+tags: arrest, push, shove, throw, knee
+
+id: oh-columbus-23
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277660155354796033
+* https://www.instagram.com/tv/CCAZGCWjqG1
 
 
 ## Dayton
