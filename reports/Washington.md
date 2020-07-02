@@ -330,3 +330,16 @@ id: wa-seattle-21
 * https://www.reddit.com/r/PublicFreakout/comments/hjln90/seattle_police_department_retaking_the_13th/
 * https://twitter.com/greg_doucette/status/1278565827747471361
 
+
+### Police arrest man for asking question | July 1st
+
+As police prepare to clear CHOP, a protestor asks a question. Police then target him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
+
+tags: arrest, tackle, knee, knee-on-kneck
+
+id: wa-seattle-22
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1278544686546911232
+* https://clips.twitch.tv/LittleProtectiveDillAsianGlow
