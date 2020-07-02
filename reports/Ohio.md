@@ -471,6 +471,21 @@ id: oh-columbus-21
 * https://www.reddit.com/r/PublicFreakout/comments/hdwgfb/columbus_ohio_cops_ram_protesters_with_bikes/
 
 
+### Police drag seated protestor, body slam a second | June 29th
+
+Footage shows a protestor seated on the edge of the road. An officer drags the protestor into the street and forces her to lay down to arrest. As other protestors express frustration, another officer runs over, lifts a protestor off the ground and slams her on her back. Police kneel on both protestors to make arrests.
+
+The second clip is a lengthy (53 minute) account from the original filmer.
+
+tags: arrest, push, shove, throw, knee
+
+id: oh-columbus-23
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277660155354796033
+* https://www.instagram.com/tv/CCAZGCWjqG1
+
 ## Dayton
 
 ### Police fire multiple cans of tear gas at protestors | May 30th
