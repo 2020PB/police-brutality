@@ -109,7 +109,7 @@ id: ia-desmoines-8
 
 **Links**
 
-* https://twitter.com/greg_doucette/status/1275643443277115395
+* https://twitter.com/greg_doucette/status/1275641933671673859
 
 
 ### Police push, shove and pepper-spray protestors | June 22nd
