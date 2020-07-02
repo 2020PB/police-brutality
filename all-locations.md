@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-02T20:55:02.308357+00:00
+UPDATED AT: 2020-07-02T20:55:13.867811+00:00
 
 
 # Alabama
@@ -1738,6 +1738,7 @@ id: fl-fortlauderdale-1
 * https://twitter.com/thickliljawn/status/1267239498083110913
 * https://www.reddit.com/r/PublicFreakout/comments/gubleh/officer_gets_confronted_by_another_officer_for/
 * https://www.miamiherald.com/news/local/crime/article243234261.html
+* https://www.sun-sentinel.com/local/broward/fort-lauderdale/fl-ne-officer-shoved-protestor-charged-battery-steven-pohorence-20200630-wqyatvgu6fc4hdtnsvmtlhe7be-story.html
 * https://www.nbcnews.com/news/us-news/fort-lauderdale-officer-who-pushed-over-kneeling-protester-video-charged-n1232606
 
 
@@ -1788,6 +1789,24 @@ id: fl-miami-1
 **Links**
 
 * https://twitter.com/BillyCorben/status/1267644127178563588
+
+
+### Police deployed two rounds of tear gas against peaceful protestors | June 27th
+
+A group of protestors blocked highway 395 in Miami. Police deployed tear gas at 9:00 pm and 9:09 PM to clear protestors.
+
+In the 9:00 PM round, the filmer can be heard saying, "They're smoke bombs. No, they're not. They're tear gas." The filmer then flees with other protestors. Footage then shows a woman screaming and in sufficient pain that another protestor is needed to carry her away quickly.
+
+Around 9:09 PM, protestors gathered on the highway on-ramp. Police then, without warning, fired another round of tear gas, forcing protestors to flee. The caption states multiple protestors were shot with rubber bullets, but no shots can be heard in this footage.
+
+tags: tear-gas
+
+id: fl-miami-2
+
+**Links**
+
+* [9:00 round](https://twitter.com/inaminorkey/status/1277070049518465032)
+* [9:09 round](https://twitter.com/inaminorkey/status/1277078077303132160)
 
 
 ## Orlando
