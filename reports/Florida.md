@@ -35,6 +35,20 @@ id: fl-fortlauderdale-2
 * [CNN Interview](https://twitter.com/greg_doucette/status/1270479109982912514)
 
 
+### Police laugh and joke while "indiscriminately firing" rubber bullets and tear gas | May 31st
+
+Bodycam video released by Fort Lauderdale PD on Youtube shows police laughing and joking when they believe their cams are in "standby" mode and not recording. At 2:55, a cop can be heard saying "if you need it, give me a target": the Miami Herald quotes a retired Lieutenant Colonel as saying "If you're not seeing a threat, why are you asking for a threat? That would almost lead you to believe that they were indiscriminately firing."
+
+tags: shoot, rubber-bullets, tear-gas
+
+id: fl-fortlauderdale-3
+
+**Links**
+
+* [Bodycam video released by FLPD](https://www.youtube.com/watch?v=JJx9NgTe8Ns)
+* https://www.miamiherald.com/news/local/community/broward/article243932047.html
+
+
 ## Jacksonville
 
 ### Peaceful protestor tackled | May 30th
