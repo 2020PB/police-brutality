@@ -328,4 +328,4 @@ id: wa-seattle-21
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hjln90/seattle_police_department_retaking_the_13th/
-
+* https://twitter.com/greg_doucette/status/1278565827747471361
