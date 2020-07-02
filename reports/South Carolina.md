@@ -45,3 +45,4 @@ id: sc-charleston-3
 
 * https://twitter.com/greg_doucette/status/1275254514501799939
 * https://www.live5news.com/2020/06/23/police-make-one-arrest-during-monday-night-calhoun-statue-protests/
+
