@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-02T18:50:13.323802+00:00
+UPDATED AT: 2020-07-02T19:57:24.230823+00:00
 
 
 # Alabama
@@ -4604,11 +4604,37 @@ id: ny-newyorkcity-49
 * [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
 
 
+### Police shove bicyclist to the ground | June 28th
+
+Footage shows a protestor with a bicycle standing behind a police van. An officer walks over and shoves him to the ground with his baton.
+
+tags: shove, baton, strike
+
+id: ny-newyorkcity-51
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277636698806116352
+
+
+### Police shove their way through crowd | June 28th
+
+At part of the Pride March, protestors gathered inside the park, a pedestrian & bike only zone. Footage shows crowd chanting "Shame" as 3 police officers make their way through the crowd. One officer appears to shove his way through. As he exits the crowd, he continues to shove protestors who are standing idly by. The other two officers walk him away, appearing to try and calm him down.
+
+tags: shove, push
+
+id: ny-newyorkcity-52
+
+**Links**
+
+* https://twitter.com/GaelicSteel/status/1277344251970494469
+
+
 ### Police violently arrest protestors camped out for budget vote | June 30th
 
 Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protestors. Footage shows violent arrests.
 
-In particular, police manhandle already zip-tied protestor. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
+In particular, police manhandle already zip-tied protestor. The protestor stumbles, apparently struggling to remain conscious. Protestors shout at police to seek medical treatment for him. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
 
 The second clip shows arrest warning if protestors step on streets.
 
