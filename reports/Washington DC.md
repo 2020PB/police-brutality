@@ -336,6 +336,8 @@ Multiple videos from Raws media show police use of pepper spray, flashbangs and 
 
 Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
 
+The second clip from Raws shows protestors attempting to treat a fellow protestor who as injured in the first round of violence.
+
 Additional footage posted on Youtube shows similar events. Around 4 minutes, this footage also shows police pushing a man on crutches and harassing him to move faster. Protestors attempting to help the man on crutches are assaulted.
 
 tags: pepper-spray, spray, tear-gas, flashbangs, shove, push, strike, person-with-disability
