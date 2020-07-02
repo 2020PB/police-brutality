@@ -45,19 +45,3 @@ id: sc-charleston-3
 
 * https://twitter.com/greg_doucette/status/1275254514501799939
 * https://www.live5news.com/2020/06/23/police-make-one-arrest-during-monday-night-calhoun-statue-protests/
-
-
-## Location Unknown
-
-### Police Assault Suspect on Ground During Arrest | June 3rd
-
-A man is arrested by police, who force him on the ground and begin punching him for over a minute.
-
-tags: arrest, shove, punch, beat
-
-id: sc-unknown-1
-
-**Links**
-
-* https://twitter.com/track4life_bry/status/1268313958479532034
-

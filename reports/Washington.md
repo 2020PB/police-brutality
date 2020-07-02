@@ -316,3 +316,31 @@ id: wa-seattle-20
 
 * [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
 
+
+### Police strike and pepper spray protestors while marching on 13th Precinct | July 1st
+
+Footage shows police line approaching scattered peaceful protestors. Police snatch and grab to make rough arrests. When protestors attempt to intervene they are shoved, struck with batons, and pepper sprayed.
+
+tags: arrest, pepper-spray, spray, shove, strike, baton
+
+id: wa-seattle-21
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hjln90/seattle_police_department_retaking_the_13th/
+* https://twitter.com/greg_doucette/status/1278565827747471361
+
+
+### Police arrest protestor during CHAZ/CHOP clearing | July 1st
+
+As police prepare to clear CHOP, a protestor asks a question. Police then target him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
+
+tags: arrest, tackle, knee, knee-on-kneck
+
+id: wa-seattle-22
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1278544686546911232
+* https://clips.twitch.tv/LittleProtectiveDillAsianGlow
+

@@ -1,3 +1,30 @@
+## Chattanooga
+
+### Sheriffs tear gas crowd after accidental vandalism | May 31st
+
+Footage from the first link shows two protestors attempting to remove a sign strung between two lampposts on a mezzanine. The lampposts fall over during this process. Then at 00:40, officers rush out of the building, seizing protestors.
+
+The second clip shows officers with rifles making arrests on the mezzanine. Officers then pull what appear to be service pistols and point them at protestors. More officers step out of the building onto the mezzanine and take the staircase. Protestors and police face each other at the foot of the stairs. Protestors begin chanting.
+
+The third clip shows police dropping tear gas canisters from the mezzanine. Protestors flee.
+
+The fourth clip shows protestors attempt to recover their belongings while police launch more tear gas. Protestors flee to the far sidewalk as police move into the street.
+
+An article from the Chattanoogan states Sheriffs threw the tear gas, not Chattanooga police.
+
+tags: 
+
+id: tn-chattanooga-1
+
+**Links**
+
+* https://www.youtube.com/watch?v=Jkj3EfktVkM
+* https://www.youtube.com/watch?v=MeIV1kSsPZg
+* https://www.youtube.com/watch?v=rq_2YSLn4FE
+* https://www.youtube.com/watch?v=-kuD_naCPzo
+* https://www.chattanoogan.com/2020/5/31/409849/Protestors-Face-Off-With-Law.aspx
+
+
 ## Memphis
 
 ### Police swarm a woman without provocation | May 31st
