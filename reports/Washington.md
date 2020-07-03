@@ -361,7 +361,7 @@ id: wa-seattle-23
 
 ### Violent arrests made at protests near CHOP | July 2nd
 
-Footage beginning at 14:00 shows police begin to advance on protestors without warning. They use their shields and batons to strike and shove protestors. When protestors become agitated, police tackle protestors and discharge pepper spray. Footage shows police kneeling on one protestor, applying pressure to his neck (allegedly with their forearm) to force him to release his bike. 
+Footage beginning at 14:00 shows police begin to advance on protestors without warning. They use their shields and batons to strike and shove protestors. When protestors become agitated, police tackle protestors and discharge pepper spray. Footage shows police kneeling on one protestor, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
 
 The second link shows a still of the bicyclist's arrest.
 
@@ -373,3 +373,4 @@ id: wa-seattle-24
 
 * https://www.facebook.com/joeywieser/videos/10158221953345491/
 * https://twitter.com/spekulation/status/1278593887410372608
+
