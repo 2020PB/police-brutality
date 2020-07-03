@@ -164,7 +164,7 @@ id: ky-louisville-10
 
 ### Protestor medic beaten and arrested | June 19th
 
-Louisville police clear protest medics, shoving them and striking them with batons. Medics clearly identify themselves. One medic is shoved to the ground; she states to officers numerous times that she has a disability. 
+Louisville police clear protest medics, shoving them and striking them with batons. Medics clearly identify themselves. One medic is shoved to the ground; she states to officers numerous times that she has a disability.
 
 She alleges that she was held without her meds, which led to a seizure.
 
@@ -192,3 +192,4 @@ id: ky-louisville-13
 
 * https://www.youtube.com/watch?v=Xfs8XJc1Rm0
 * https://www.reddit.com/r/Louisville/comments/hj3cqn/jason_downey_just_got_arrested_for_filming_the/
+
