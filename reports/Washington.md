@@ -344,3 +344,15 @@ id: wa-seattle-22
 * https://twitter.com/greg_doucette/status/1278544686546911232
 * https://clips.twitch.tv/LittleProtectiveDillAsianGlow
 
+
+### Bike cops tackle peaceful protestors | July 2nd
+
+Footage shows several officers on bicycles ride into a small crowd of protestors. They jump off the bikes and tackle protestors, arresting several. In at least one case, an officer kneeled on a protestor's neck. Several officers can be seen with black electrical tape covering their badge number.
+
+tags: arrest, tackle, knee, knee-on-kneck, bicycle, hide-badges
+
+id: wa-seattle-23
+
+**Links**
+
+* https://twitter.com/sre_li/status/1278856204018565120
