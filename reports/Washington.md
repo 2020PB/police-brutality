@@ -344,3 +344,16 @@ id: wa-seattle-22
 * https://twitter.com/greg_doucette/status/1278544686546911232
 * https://clips.twitch.tv/LittleProtectiveDillAsianGlow
 
+
+### Officer tackles protester and places knee on his neck | July 2nd
+
+Video shows bicycle cops fast approaching a group of protesters who are just outside an area cordoned off with police tape. It's unclear from the video what the provocation was, if any. There is a scuffle with the police in the crowd. Without warning, an officer singles out one particular individual who has backed away from the scuffle, tackling him to the ground and placing his knee on his neck. Another officer assists with handcuffing and arresting the individual. It is not clear whether this individual was singled out for a reason or if it was random.
+
+tags: arrest, tackle, knee, knee-on-kneck
+
+id: wa-seattle-23
+
+**Links**
+
+* https://twitter.com/sre_li/status/1278856204018565120
+
