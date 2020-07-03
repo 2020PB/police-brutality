@@ -677,6 +677,38 @@ id: or-portland-45
 * https://twitter.com/PredatorFiles/status/1278635513746870276
 
 
+### Police fire on gathered protestors from within Justice Center | July 3rd
+
+Prior to the incident below, where police charged protestors, police inside the Justic Center fired pepper balls at gathered protestors.
+
+tags: shoot, pepper-ball
+
+id: or-portland-47
+
+**Links**
+
+* https://mobile.twitter.com/Johnnthelefty/status/1278966824801931264
+
+
+### Local and Federal Police fire on protestors, shove journalist | July 3rd
+
+Footage shows local and federal police emerge quickly from a building, firing riot rounds and spraying pepper spray. Footage shows a man clearly taking pictures to the side being shoved to the ground.
+
+The second link shows police rushing out and tackling a protestor, punching him repeatedly to subdue him.
+
+A third link shows damage to a parked car by police pepper balls.
+
+tags: shoot, projectile, pepper-spray, spray, pepper-ball
+
+id: or-portland-48
+
+**Links**
+
+* https://mobile.twitter.com/KohzKah/status/1278944647151104000
+* https://mobile.twitter.com/Johnnthelefty/status/1278969777831079937
+* https://mobile.twitter.com/Johnnthelefty/status/1278989366816239619
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
