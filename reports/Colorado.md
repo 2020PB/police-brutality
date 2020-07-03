@@ -332,7 +332,6 @@ The fourth link shows another angle on the incident at 1:38:00. In addition, the
 
 tags: arrest, shove, strike, shoot, pepper-balls, baton, knee, tear-gas, pepper-spray, spray, medic
 
-
 id: co-denver-21
 
 **Links**
