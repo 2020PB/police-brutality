@@ -374,3 +374,19 @@ id: wa-seattle-24
 * https://www.facebook.com/joeywieser/videos/10158221953345491/
 * https://twitter.com/spekulation/status/1278593887410372608
 
+
+### Police make violent arrest | July 2nd
+
+Footage taken around midnight the morning of July 2nd shows multiple officers arresting a protestor, striking him with batons, punching him, and kneeling on his neck.
+
+The officer kneeling on the protestor's kneck has his badge covered.
+
+Protestor was allegedly arrested for crossing a street in the Capitol Hill neighborhood.
+
+tags: arrest, beat, strike, baton, punch, knee, knee-on-neck
+
+id: wa-seattle-25
+
+**Links**
+
+* https://twitter.com/own_the_libs_/status/1278765129752907777
