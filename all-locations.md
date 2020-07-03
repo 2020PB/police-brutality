@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-02T20:57:15.461037+00:00
+UPDATED AT: 2020-07-03T03:09:32.736326+00:00
 
 
 # Alabama
@@ -1755,6 +1755,20 @@ id: fl-fortlauderdale-2
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
 * https://twitter.com/MrEvanRoss/status/1270440535518560256
 * [CNN Interview](https://twitter.com/greg_doucette/status/1270479109982912514)
+
+
+### Police laugh and joke when they think their body cams are off | May 31st
+
+Body cam video released by Fort Lauderdale PD on Youtube shows police laughing and joking after shooting protesters with rubber bullets and tear gas. They are speaking candidly to one another because they mistakenly believe their cams are in "standby" mode and not recording. Policing experts who reviewed the footage say that the behavior is unprofessional and that the officers felt "comfortable about talking about turning the camera off." At 2:55, a cop can be heard saying "if you need it, give me a target." The Miami Herald quotes a retired Lieutenant Colonel as commenting, "If you're not seeing a threat, why are you asking for a threat? That would almost lead you to believe that they were indiscriminately firing."
+
+tags: shoot, rubber-bullets, tear-gas, abuse-of-power, body-cam, incitement
+
+id: fl-fortlauderdale-3
+
+**Links**
+
+* [Bodycam video released by FLPD](https://www.youtube.com/watch?v=JJx9NgTe8Ns)
+* https://www.miamiherald.com/news/local/community/broward/article243932047.html
 
 
 ## Jacksonville
