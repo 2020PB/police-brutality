@@ -111,10 +111,10 @@ id: ia-desmoines-8
 
 **Links**
 
-* https://twitter.com/shelbyfleig/status/1278399613683339265
-* https://www.desmoinesregister.com/story/news/2020/07/01/black-lives-matter-protest-state-capitol-results-arrests/5358305002/
-* https://www.kcrg.com/2020/07/01/arrests-made-at-state-capitol-during-black-lives-matter-protest/
-* https://www.kcci.com/article/des-moines-police-say-protesters-assaulted-officers-one-disarmed-an-officer/33031470
+* [Tweet by local reporter showing video of protesters getting pushed around by police](https://twitter.com/shelbyfleig/status/1278399613683339265)
+* [Local news report on the incident by Des Moines Register](https://www.desmoinesregister.com/story/news/2020/07/01/black-lives-matter-protest-state-capitol-results-arrests/5358305002/)
+* [Local new report on the incident by KCRG (Cedar Rapids, Iowa)](https://www.kcrg.com/2020/07/01/arrests-made-at-state-capitol-during-black-lives-matter-protest/)
+* [Local news report on the incident by KCCI (Des Moines, Iowa)](https://www.kcci.com/article/des-moines-police-say-protesters-assaulted-officers-one-disarmed-an-officer/33031470)
 
 
 ## Iowa City
