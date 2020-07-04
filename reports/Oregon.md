@@ -98,6 +98,7 @@ id: or-portland-22
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268190300209586177
+* https://www.pscp.tv/IwriteOK/1OyKAYjnPgrKb?t=52m23s
 
 
 ### Protestors fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | June 2nd
