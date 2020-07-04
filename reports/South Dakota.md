@@ -2,7 +2,7 @@
 
 ### Native protestors shot at and arrested on native land | July 3rd
 
-Native protestors in Keystone, South Dakota blocked a highway in anticipation of a Trump rally. Though blocking a highway is indeed illegal, the highway is also on unceded Indigenous land. 
+Native protestors in Keystone, South Dakota blocked a highway in anticipation of a Trump rally. Though blocking a highway is indeed illegal, the highway is also on unceded Indigenous land.
 
 Around 2:07:00, the police and National Guard line advances with shields. Protestors resist being pushed. National Guard falls back around 2:17:00. Around 2:20:00, the line reforms. Around 2:27:00, the National Guard fires pepper balls at gathered protestors. Some protestors had gathered on a nearby hill and were pushed off by police (2:36:00). Around 3:00:00, National Guard push past the protestor vans and begin the process of towing them.
 
