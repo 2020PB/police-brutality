@@ -649,6 +649,20 @@ id: or-portland-44
 * https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
 
 
+### Police tackle fleeing protestors | (Believed to be) June 30th
+
+Footage shows protestors fleeing while police give chase. Several protestors are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
+
+tags: arrest, strike, beat, baton, knee, knee-on-neck, tackle
+
+id: or-portland-49
+
+**Links**
+
+* https://www.tiktok.com/@dollface999/video/6845321520802467077
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hkv6fb/what_kind_of_dystopian_police_state_shit_is_this/
+
+
 ### Police shoot protestors | July 2nd
 
 Around 2:30 in the morning on July 2nd, footage shows police shooting at protestors (off-screen). The filmer states that protestors are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
