@@ -391,3 +391,15 @@ id: wa-seattle-25
 
 * https://twitter.com/own_the_libs_/status/1278765129752907777
 
+
+### Police harass man attempting to go to his apartment | July 3rd
+
+A man returning to his apartment is followed by a police officer. The officer asks the man where he lives. The man responds with his address. The officer is joined by a second and they ask the filmer for ID. The filmer states he does not have ID and that the Mayor said police should stop asking for ID. The police say that the order just came in to start asking for ID again. They give the filmer three options: leave the area, be arrested, or allow the police to escort him to his home. The filmer decides to leave the area.
+
+tags: abuse-of-power
+
+id: wa-seattle-26
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1279107834739736576
