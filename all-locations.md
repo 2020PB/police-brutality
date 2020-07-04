@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-03T14:43:19.510164+00:00
+UPDATED AT: 2020-07-04T22:44:30.863290+00:00
 
 
 # Alabama
@@ -2607,6 +2607,24 @@ id: ia-desmoines-5
 * https://twitter.com/aaronpcalvin/status/1268708285517004801
 * [Location via Google Street View](https://www.google.ca/maps/place/The+Blazing+Saddle/@41.590306,-93.6114412,3a,75y,275.31h,90t/data=!3m7!1e1!3m5!1sysYseTIG29m9bjNYmZ71zQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DysYseTIG29m9bjNYmZ71zQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D275.31018%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m7!3m6!1s0x87ee99b1e2f004c9:0xf6f27ceb30ff9e27!8m2!3d41.5902914!4d-93.6115743!14m1!1BCgIgARICCAI)
 * https://www.facebook.com/permalink.php?story_fbid=1182620968746799&id=100009967212544
+
+
+### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol  | July 1st
+
+Black Lives Matter advocates gathered at the Capitol to lobby for the governor to sign an executive order restoring felon voting rights by Saturday, July 4.
+
+White protestors were inside the Capitol, police identified some of them claimed to have vandalized police car in the past, and arrests were made inside the Capitol for those individuals. However, the arrested individuals declined the allegations. The protestors followed the police outside the Capitol, and one of the protestors blocked their path and later the crowd tried to pull the arrestees from the custody of the police officers. That is when more crowds and police started to get involved. Police used pepper spray to help disperse the crowd and arrested 17 people, including two juveniles.
+
+tags: spray, pepper-spray, tackle, beat, arrest, child
+
+id: ia-desmoines-8
+
+**Links**
+
+* [Tweet by local reporter showing video of protesters getting pushed around by police](https://twitter.com/shelbyfleig/status/1278399613683339265)
+* [Local news report on the incident by Des Moines Register](https://www.desmoinesregister.com/story/news/2020/07/01/black-lives-matter-protest-state-capitol-results-arrests/5358305002/)
+* [Local new report on the incident by KCRG (Cedar Rapids, Iowa)](https://www.kcrg.com/2020/07/01/arrests-made-at-state-capitol-during-black-lives-matter-protest/)
+* [Local news report on the incident by KCCI (Des Moines, Iowa)](https://www.kcci.com/article/des-moines-police-say-protesters-assaulted-officers-one-disarmed-an-officer/33031470)
 
 
 ## Iowa City
