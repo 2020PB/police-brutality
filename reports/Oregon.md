@@ -723,6 +723,22 @@ id: or-portland-48
 * https://mobile.twitter.com/Johnnthelefty/status/1278989366816239619
 
 
+### Police declare riot, fire pepper balls and tear gas | July 3rd
+
+Portland changed regulations so that police must declare a riot before using tear gas. Police did so and fired pepper balls and used tear gas against protestors. One journalist was shoved by police. She states that she was released after she started shouting her Twitter handle. Police then retreated into the Justice Center.
+
+tags: shoot, pepper-ball, tackle, journalist, tear-gas
+
+id: or-portland-50
+
+**Links**
+
+* https://mobile.twitter.com/LindseyPSmith7/status/1278947317740040192
+* https://mobile.twitter.com/LindseyPSmith7/status/1278949523939713024
+* https://mobile.twitter.com/LindseyPSmith7/status/1278956412102561793
+* https://mobile.twitter.com/LindseyPSmith7/status/1278957508460072960
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
