@@ -191,7 +191,6 @@ id: fl-orlando-6
 * https://www.wdbo.com/news/local/video-shows-orange-county-deputy-smashing-woman-window-after-refusing-leave/2JrFiuwJgtkVzGJqXrLS7I/
 
 
-
 ## Tampa
 
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
