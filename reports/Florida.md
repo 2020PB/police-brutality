@@ -174,7 +174,7 @@ id: fl-orlando-2
 * [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
 
 
-### Woman stopped by police while leaving protest; police break her car window | June 4d
+### Woman stopped by police while leaving protest; police break her car window | June 3rd
 
 A woman is in her car leaving a protest. Police stop her, stating she was blocking a roadway. The officer says she can exit the car or be removed. The woman says she doesn't believe she did anything wrong. The officer then reaches inside her window for the lock. He cannot, so the window is broken.
 
@@ -187,6 +187,9 @@ id: fl-orlando-6
 **Links**
 
 * https://twitter.com/edgarcomellas/status/1268555233065668608
+* https://www.orlandosentinel.com/news/crime/os-ne-orlando-george-floyd-protest-traffic-stop-deputy-breaks-window-20200604-y52jqcaogjfw5nzfcmu6tlgzhi-story.html
+* https://www.wdbo.com/news/local/video-shows-orange-county-deputy-smashing-woman-window-after-refusing-leave/2JrFiuwJgtkVzGJqXrLS7I/
+
 
 
 ## Tampa
