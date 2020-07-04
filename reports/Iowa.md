@@ -99,6 +99,24 @@ id: ia-desmoines-5
 * https://www.facebook.com/permalink.php?story_fbid=1182620968746799&id=100009967212544
 
 
+### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol  | July 1st
+
+Black Lives Matter advocates gathered at the Capitol to lobby for the governor to sign an executive order restoring felon voting rights by Saturday, July 4.
+
+White protestors were inside the Capitol, police identified some of them claimed to have vandalized police car in the past, and arrests were made inside the Capitol for those individuals. However, the arrested individuals declined the allegations. The matter got worse when protestors followed the police outside the Capitol, and one of the protestors blocked their path and later the crowd tried to pull the arrestees from the custody of the police officers. That is when more crowds and police started to get involved. Police used pepper spray to help disperse the crowd and arrested 17 people, including two juveniles.
+
+tags: spray, pepper-spray, tackle, beat, arrest
+
+id: ia-desmoines-8
+
+**Links**
+
+* https://twitter.com/shelbyfleig/status/1278399613683339265
+* https://www.desmoinesregister.com/story/news/2020/07/01/black-lives-matter-protest-state-capitol-results-arrests/5358305002/
+* https://www.kcrg.com/2020/07/01/arrests-made-at-state-capitol-during-black-lives-matter-protest/
+* https://www.kcci.com/article/des-moines-police-say-protesters-assaulted-officers-one-disarmed-an-officer/33031470
+
+
 ## Iowa City
 
 ### Police shoot tear gas at peaceful protestors who have their hands up | June 3rd
