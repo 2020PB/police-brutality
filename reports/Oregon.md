@@ -739,6 +739,46 @@ id: or-portland-50
 * https://mobile.twitter.com/LindseyPSmith7/status/1278957508460072960
 
 
+### Police slash tires of snack van | July 4th
+
+Footage taken around 11:30pm on July 4th, shows the "Snack Van" - a protestor van known to come to protests with food and water - driving slowly away from police. Officers rush up to the van and puncture its tires.
+
+tags: property-destruction, abuse-of-power
+
+id: or-portland-51
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1279676776310923266
+* [Alternate angle at 1:10:00](https://twitter.com/AbeReviate/status/1279666998809485312)
+
+
+### Police tear gas protestors from within Justice Center | July 5th
+
+Early on July 5th, protestors are gathered outside the Justic Center. Several windows in the boards open and tear gas is released. There are no police outside the building. All of the breakable glass windows have been covered with plywood. Some protestors throw the tear gas canisters back toward the building.
+
+tags: tear-gas, tear-gas-canister
+
+id: or-portland-52
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1279734884852891648
+
+
+### Unknown officers tear gas and shoot at protestors | July 5th
+
+A small group of officers is gathered on the sidewalk. Protestors have been referring to them habitually as an "unnamed Federal Terrorist militia." Protestors begin shouting at the group and approaching them. They respond by throwing tear gas and shooting at protestors.
+
+tags: tear-gas, shoot, projectile
+
+id: or-portland-53
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1279728186197065730
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
