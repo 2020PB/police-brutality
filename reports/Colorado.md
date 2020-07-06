@@ -336,7 +336,7 @@ id: co-denver-21
 
 **Links**
 
-* [Begins at 1:28:00; medica arrested at 1:34:00](https://www.youtube.com/watch?v=1OFDLRa9wFc&feature=youtu.be&t=5326)
+* [Begins at 1:28:00; medic arrested at 1:34:00](https://www.youtube.com/watch?v=1OFDLRa9wFc&feature=youtu.be&t=5326)
 * https://www.reddit.com/r/DenverProtests/comments/hjszf5/denver_police_uses_cs_gas_impact_irritants_pepper/
 * https://twitter.com/dulapalooza/status/1278684548100849664
 * https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
