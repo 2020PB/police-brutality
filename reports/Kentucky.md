@@ -161,3 +161,35 @@ id: ky-louisville-10
 * [Backup Video (original made private)](https://drive.google.com/file/d/1p6FDE2y_T9bi_D3iakcnzOkS9vQIex5k/view?usp=sharing)
 * [Police confirm it was an officer](https://www.buzzfeednews.com/article/amberjamieson/louisville-shot-fired-security-guard-video)
 
+
+### Protestor medic beaten and arrested | June 19th
+
+Louisville police clear protest medics, shoving them and striking them with batons. Medics clearly identify themselves. One medic is shoved to the ground; she states to officers numerous times that she has a disability.
+
+She alleges that she was held without her meds, which led to a seizure.
+
+tags: medic, baton, beat, shove, strike, arrest, inhumane-treatment, person-with-disability
+
+id: ky-louisville-12
+
+**Links**
+
+* https://mobile.twitter.com/martasmom98/status/1278231132753080321
+* https://mobile.twitter.com/martasmom98/status/1278231277649514496
+
+
+### Livestreamer arrested while filming protest | June 30th
+
+A livestreamer known by protestors in the Louisville area was arrested during a protest. Police gave a dispersal order and the journalist began backing up as the police line approached. An officer says, "You're under arrest," despite the fact that he obeys the order. Police then tackle him to the ground.
+
+It should be noted that he is not a credentialed reporter, but is well known by protestors in the area for his even-handed reporting, including his refusal to turn off his camera when protestors requested during a period of vandalism.
+
+tags: journalist, arrest, tackle
+
+id: ky-louisville-13
+
+**Links**
+
+* https://www.youtube.com/watch?v=Xfs8XJc1Rm0
+* https://www.reddit.com/r/Louisville/comments/hj3cqn/jason_downey_just_got_arrested_for_filming_the/
+
