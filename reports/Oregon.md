@@ -815,7 +815,7 @@ id: or-portland-55
 * [Tear gas](https://twitter.com/45thabsurdist/status/1280051607225262081)
 
 
-### Confirmed report of U.S. Federal agents kneeling on protestor
+### Confirmed report of U.S. Federal agents kneeling on protestor | 
 
 Footage shows 2 agents in fatigues, either DHS or U.S. Marshals, kneeling on a protestor to make an arrest. A journalist attempting to film is harassed and told to move faster by a third agent.
 
