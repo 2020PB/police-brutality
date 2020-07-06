@@ -792,13 +792,15 @@ id: or-portland-54
 * https://twitter.com/1misanthrophile/status/1279909934449061888
 
 
-### Badgeless federal agents deployed to Portland | July 5th
+### Badgeless federal agents deployed to Portland; tear gas protestors | July 5th
 
 Federal agents without any identification or badge numbers were deployed to Portland the night of July 5th. They appear to be carrying standard-issue weapons with live rounds.
 
-Protestors believe they are Department of Homeland Security agents and/or U.S. Marshals. There have been numerous unconfirmed reports of these agents using excessive force to make arrests.
+Protestors believe they are Department of Homeland Security agents and/or U.S. Marshals. 
 
-tags: hide-badges
+There have been numerous unconfirmed reports of these agents using excessive force to make arrests. The final link shows agents in military camouflage deploying tear gas and chasing protestors before retreating.
+
+tags: hide-badges, tear-gas
 
 id: or-portland-55
 
@@ -810,6 +812,7 @@ id: or-portland-55
 * https://twitter.com/tuckwoodstock/status/1280011729489899521
 * https://twitter.com/defendpdx/status/1280015792751259648
 * [Unconfirmed report of violence](https://twitter.com/PNWYLF/status/1280041643458977793)
+* [Tear gas](https://twitter.com/45thabsurdist/status/1280051607225262081)
 
 
 ## Salem
