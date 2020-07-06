@@ -792,6 +792,21 @@ id: or-portland-54
 * https://twitter.com/1misanthrophile/status/1279909934449061888
 
 
+### Police tear gas and shove protestors | July 5th
+
+Footage shows heavy tear gas usage as protestors flee. A protestor has fallen and other protestors rush to help them up; police charge in swinging batons at these protestors. A protestor can be heard saying, "There's homeless people here," assumed to mean in the vicinity of the tear gas.
+
+Footage also shows a reporter shoved by police, knocking the phone out of his hand.
+
+tags: journalist, homeless, tear-gas, strike, baton
+
+id: or-portland-57
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1279682872484347905
+
+
 ### Badgeless federal agents deployed to Portland; tear gas protestors | July 5th
 
 Federal agents without any identification or badge numbers were deployed to Portland the night of July 5th. They appear to be carrying standard-issue weapons with live rounds.
@@ -815,7 +830,7 @@ id: or-portland-55
 * [Tear gas](https://twitter.com/45thabsurdist/status/1280051607225262081)
 
 
-### Confirmed report of U.S. Federal agents kneeling on protestor | 
+### Confirmed report of U.S. Federal agents kneeling on protestor | July 6th
 
 Footage shows 2 agents in fatigues, either DHS or U.S. Marshals, kneeling on a protestor to make an arrest. A journalist attempting to film is harassed and told to move faster by a third agent.
 
