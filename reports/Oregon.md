@@ -693,7 +693,7 @@ id: or-portland-45
 
 ### Police fire on gathered protestors from within Justice Center | July 3rd
 
-Prior to the incident below, where police charged protestors, police inside the Justic Center fired pepper balls at gathered protestors.
+Prior to incident or-portland-48, where police charged protestors, police inside the Justic Center fired pepper balls at gathered protestors.
 
 tags: shoot, pepper-ball
 
@@ -706,13 +706,13 @@ id: or-portland-47
 
 ### Local and Federal Police fire on protestors, shove journalist | July 3rd
 
-Footage shows local and federal police emerge quickly from a building, firing riot rounds and spraying pepper spray. Footage shows a man clearly taking pictures to the side being shoved to the ground.
+Footage shows local and federal police emerge quickly from a building, firing riot rounds and spraying pepper spray. Footage shows police shoving a man clearly taking pictures.
 
 The second link shows police rushing out and tackling a protestor, punching him repeatedly to subdue him.
 
 A third link shows damage to a parked car by police pepper balls.
 
-tags: shoot, projectile, pepper-spray, spray, pepper-ball
+tags: shoot, projectile, pepper-spray, spray, pepper-ball, property-destruction
 
 id: or-portland-48
 
