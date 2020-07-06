@@ -139,7 +139,7 @@ id: ia-desmoines-9
 * [Reporter confirms pepper spray. States one victim was a minor](https://twitter.com/andreamsahouri/status/1275278920556974080)
 
 
-### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol  | July 1st
+### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol | July 1st
 
 Black Lives Matter advocates gathered at the Capitol to lobby for the governor to sign an executive order restoring felon voting rights by Saturday, July 4.
 
