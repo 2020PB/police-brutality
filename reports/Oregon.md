@@ -796,7 +796,7 @@ id: or-portland-54
 
 Federal agents without any identification or badge numbers were deployed to Portland the night of July 5th. They appear to be carrying standard-issue weapons with live rounds.
 
-Protestors believe they are Department of Homeland Security agents and/or U.S. Marshals. 
+Protestors believe they are Department of Homeland Security agents and/or U.S. Marshals.
 
 There have been numerous unconfirmed reports of these agents using excessive force to make arrests. The final link shows agents in military camouflage deploying tear gas and chasing protestors before retreating.
 
