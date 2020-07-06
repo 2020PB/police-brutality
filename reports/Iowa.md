@@ -99,7 +99,47 @@ id: ia-desmoines-5
 * https://www.facebook.com/permalink.php?story_fbid=1182620968746799&id=100009967212544
 
 
-### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol  | July 1st
+### Police make violent arrests & harass protestors filming | June 22nd
+
+Footage shows two protestors being arrested. Four police are making the arrests, two kneeling on each protestor. A woman filming is harassed by another officer.
+
+tags: arrest, knee, abuse-of-power
+
+id: ia-desmoines-10
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1275641933671673859
+
+
+### Police push, shove and pepper-spray protestors | June 22nd
+
+First person footage of a protest shows police forcing protestors down a sidewalk. It is unclear why police determined protestors could not continue to protest peacefully at the point of the sidewalk.
+
+Police use their shields to shove protestors along. Footage is dark and a little unclear, but it appears that around 2 minutes, the filmer and her sisters are pepper-sprayed. They scream in pain and the filmer states repeatedly that she cannot see. The filmer then loses track of her sisters. She finds one family member around 4 minutes, who shows clear signs of having been pepper sprayed.
+
+The filmer and her sister attempted to regroup and find their third family member, but police continued to shove them along.
+
+Around 4:15 a protestor is shoved to the ground. She can be heard screaming, "My leg, my leg."
+
+After this, footage cuts to a shot of the filmer turns the camera on herself and her eyes are watering, showing clear indication of pepper spray. It is unclear if this is from the first round of pepper spray or she has been sprayed a second time. Medics attempt to assist her but are forced to continue marching while doing so. Around 7 minutes, medics help her into a car. She is treated for the duration of the footage.
+
+Additional links from a reporter discuss the tactics used by police to intimidate and harass protestors. They also capture the aftermath of the pepper-spraying.
+
+tags: pepper-spray, spray, shove, shield, push, child
+
+id: ia-desmoines-9
+
+**Links**
+
+* https://www.instagram.com/tv/CBw5mKxjHPq/
+* https://www.desmoinesregister.com/story/news/crime-and-courts/2020/06/23/police-used-aggressive-kettling-tactics-des-moines-protesters-say/3241518001/
+* https://twitter.com/andreamsahouri/status/1275281913750618113
+* https://twitter.com/andreamsahouri/status/1275279366440837126
+* [Reporter confirms pepper spray. States one victim was a minor](https://twitter.com/andreamsahouri/status/1275278920556974080)
+
+
+### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol | July 1st
 
 Black Lives Matter advocates gathered at the Capitol to lobby for the governor to sign an executive order restoring felon voting rights by Saturday, July 4.
 
