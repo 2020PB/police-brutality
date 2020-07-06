@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-06T20:06:37.226846+00:00
+UPDATED AT: 2020-07-06T20:34:35.408506+00:00
 
 
 # Alabama
@@ -6373,6 +6373,20 @@ id: or-portland-44
 * https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
 
 
+### Police tackle fleeing protestors | (Believed to be) June 30th
+
+Footage shows protestors fleeing while police give chase. Several protestors are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
+
+tags: arrest, strike, beat, baton, knee, knee-on-neck, tackle
+
+id: or-portland-49
+
+**Links**
+
+* https://www.tiktok.com/@dollface999/video/6845321520802467077
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hkv6fb/what_kind_of_dystopian_police_state_shit_is_this/
+
+
 ### Police shoot protestors | July 2nd
 
 Around 2:30 in the morning on July 2nd, footage shows police shooting at protestors (off-screen). The filmer states that protestors are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
@@ -6399,6 +6413,158 @@ id: or-portland-45
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1278635513746870276
+
+
+### Police fire on gathered protestors from within Justice Center | July 3rd
+
+Prior to incident or-portland-48, where police charged protestors, police inside the Justic Center fired pepper balls at gathered protestors.
+
+tags: shoot, pepper-ball
+
+id: or-portland-47
+
+**Links**
+
+* https://mobile.twitter.com/Johnnthelefty/status/1278966824801931264
+
+
+### Local and Federal Police fire on protestors, shove journalist | July 3rd
+
+Footage shows local and federal police emerge quickly from a building, firing riot rounds and spraying pepper spray. Footage shows police shoving a man clearly taking pictures.
+
+The second link shows police rushing out and tackling a protestor, punching him repeatedly to subdue him.
+
+A third link shows damage to a parked car by police pepper balls.
+
+tags: shoot, projectile, pepper-spray, spray, pepper-ball, property-destruction
+
+id: or-portland-48
+
+**Links**
+
+* https://mobile.twitter.com/KohzKah/status/1278944647151104000
+* https://mobile.twitter.com/Johnnthelefty/status/1278969777831079937
+* https://mobile.twitter.com/Johnnthelefty/status/1278989366816239619
+
+
+### Police declare riot, fire pepper balls and tear gas | July 3rd
+
+Portland changed regulations so that police must declare a riot before using tear gas. Police did so and fired pepper balls and used tear gas against protestors. One journalist was shoved by police. She states that she was released after she started shouting her Twitter handle. Police then retreated into the Justice Center.
+
+tags: shoot, pepper-ball, tackle, journalist, tear-gas
+
+id: or-portland-50
+
+**Links**
+
+* https://mobile.twitter.com/LindseyPSmith7/status/1278947317740040192
+* https://mobile.twitter.com/LindseyPSmith7/status/1278949523939713024
+* https://mobile.twitter.com/LindseyPSmith7/status/1278956412102561793
+* https://mobile.twitter.com/LindseyPSmith7/status/1278957508460072960
+
+
+### Police slash tires of snack van | July 4th
+
+Footage taken around 11:30pm on July 4th, shows the "Snack Van" - a protestor van known to come to protests with food and water - driving slowly away from police. Officers rush up to the van and puncture its tires.
+
+tags: property-destruction, abuse-of-power
+
+id: or-portland-51
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1279676776310923266
+* [Alternate angle at 1:10:00](https://twitter.com/AbeReviate/status/1279666998809485312)
+
+
+### Police tear gas protestors from within Justice Center | July 5th
+
+Early on July 5th, protestors are gathered outside the Justic Center. Several windows in the boards open and tear gas is released. There are no police outside the building. All of the breakable glass windows have been covered with plywood. Some protestors throw the tear gas canisters back toward the building.
+
+tags: tear-gas, tear-gas-canister
+
+id: or-portland-52
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1279734884852891648
+
+
+### Unknown officers tear gas and shoot at protestors | July 5th
+
+A small group of officers is gathered on the sidewalk. Protestors have been referring to them habitually as an "unnamed Federal Terrorist militia." Protestors begin shouting at the group and approaching them. They respond by throwing tear gas and shooting at protestors.
+
+tags: tear-gas, shoot, projectile
+
+id: or-portland-53
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1279728186197065730
+
+
+### Violent arrests made by police | July 5th
+
+Footage shows police declaring the protest a riot. They fire tear gas at protestors. Protestors begin to retreat and police follow. Several officers then break from the line, brandishing pepper spray, and shove their way through the crowd. Protestors can be heard shouting, "That's press, that's press." Police throw several protestors to the ground (including the filmer). They then beat protestors with batons, punch them, and arrest them.
+
+tags: tear-gas, tackle, throw, journalist, shove, arrest
+
+id: or-portland-54
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1279909934449061888
+
+
+### Police tear gas and shove protestors | July 5th
+
+Footage shows heavy tear gas usage as protestors flee. A protestor has fallen and other protestors rush to help them up; police charge in swinging batons at these protestors. A protestor can be heard saying, "There's homeless people here," assumed to mean in the vicinity of the tear gas.
+
+Footage also shows a reporter shoved by police, knocking the phone out of his hand.
+
+tags: journalist, homeless, tear-gas, strike, baton
+
+id: or-portland-57
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1279682872484347905
+
+
+### Badgeless federal agents deployed to Portland; tear gas protestors | July 5th
+
+Federal agents without any identification or badge numbers were deployed to Portland the night of July 5th. They appear to be carrying standard-issue weapons with live rounds.
+
+Protestors believe they are Department of Homeland Security agents and/or U.S. Marshals.
+
+There have been numerous unconfirmed reports of these agents using excessive force to make arrests. The final link shows agents in military camouflage deploying tear gas and chasing protestors before retreating.
+
+tags: hide-badges, tear-gas
+
+id: or-portland-55
+
+**Links**
+
+* https://twitter.com/StacyinSF/status/1280019912790953991
+* https://twitter.com/tuckwoodstock/status/1280008752502980609
+* https://twitter.com/tuckwoodstock/status/1280011368217763841
+* https://twitter.com/tuckwoodstock/status/1280011729489899521
+* https://twitter.com/defendpdx/status/1280015792751259648
+* [Unconfirmed report of violence](https://twitter.com/PNWYLF/status/1280041643458977793)
+* [Tear gas](https://twitter.com/45thabsurdist/status/1280051607225262081)
+
+
+### Confirmed report of U.S. Federal agents kneeling on protestor | July 6th
+
+Footage shows 2 agents in fatigues, either DHS or U.S. Marshals, kneeling on a protestor to make an arrest. A journalist attempting to film is harassed and told to move faster by a third agent.
+
+tags: knee, arrest, journalist
+
+id: or-portland-56
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1280217831079018496
 
 
 ## Salem
