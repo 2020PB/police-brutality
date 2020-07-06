@@ -831,7 +831,7 @@ The third clip shows police shoving protestors on the sidewalk with their batons
 
 In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
 
-tags: shove, baton, strike, beat, arrest, choke, hide-badges
+tags: shove, baton, strike, beat, arrest, choke, hide-badges, zip-ties
 
 id: ny-newyorkcity-50
 
