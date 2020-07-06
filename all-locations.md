@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-04T22:45:02.248288+00:00
+UPDATED AT: 2020-07-06T02:13:43.464253+00:00
 
 
 # Alabama
@@ -5699,6 +5699,7 @@ id: or-portland-22
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268190300209586177
+* [Video from street, relevant portion starts at 52m23s](https://www.pscp.tv/IwriteOK/1OyKAYjnPgrKb?t=52m23s)
 
 
 ### Protestors fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | June 2nd
