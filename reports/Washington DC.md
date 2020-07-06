@@ -365,3 +365,23 @@ id: dc-dc-24
 
 * https://twitter.com/FordFischer/status/1277457274395676672
 
+
+### Numerous officers make physical arrest | July 4th
+
+Footage from 3 tiktok videos shows numerous officers (approximately 8) arresting one protestor. Protestor appears to passively resist by locking his arms. He says, "Sir, I will go with you if you stop grabbing my arms." Other protestors can be heard asking why the man is under arrest. 
+
+The protestor can be heard screaming in pain as police force him into cuffs. Police then lift him by his limbs and his pants to carry him away.
+
+Police also strike the filmer in the second tiktok video. 
+
+The third link appears to be the third in chronological order as the protestors arms are already cuffed. It is unclear why he is lying face down in the bushes at the beginning of this clip. It additionally shows the careless and physical manner of arrest used by the police.
+
+tags: arrest, strike
+
+id: dc-dc-25
+
+**Links**
+
+* https://www.tiktok.com/@organicgoodz/video/6846083256228580613
+* https://www.tiktok.com/@organicgoodz/video/6846083558910512389
+* https://www.tiktok.com/@organicgoodz/video/6845323150729678085
