@@ -63,6 +63,7 @@ threaten
 throw
 vehicle
 wooden-bullets
+zip-ties
 ```
 
 ## Broken down by type
@@ -114,6 +115,7 @@ tear-gas
 tear-gas-canister
 vehicle
 wooden-bullets
+zip-ties
 ```
 
 ### Method
