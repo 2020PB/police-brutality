@@ -211,6 +211,23 @@ id: pa-philadelphia-11
 * https://unicornriot.ninja/2020/philadelphia-police-threaten-unicorn-riot-reporter-after-vigilante-assault/
 
 
+### Counter-Terrorism Unit detains reporter | June 23rd
+
+A reporter recounts on Twitter that she was arrested despite telling an officer she was a reporter. She states she was zip-tied, mocked and then dragged backwards down two flights of stairs to a detention area. She states that later an officer came and asked, "Are you Samantha?" When she confirmed her name, she was released.
+
+Footage shows first-person video leading up to her arrest. It includes her clear identification, with press badge, as a reporter.
+
+tags: journalist, arrest, abuse-of-power
+
+id: pa-philadelphia-12
+
+**Links**
+
+* https://twitter.com/samanthamelamed/status/1275522909604372481
+* https://twitter.com/samanthamelamed/status/1275523337716973570
+* https://twitter.com/samanthamelamed/status/1275524750316535810
+
+
 ## Pittsburgh
 
 ### Police tear-gas, shoot and arrest protestor confused by contradicting police instructions | May 30th

@@ -98,6 +98,7 @@ id: or-portland-22
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268190300209586177
+* [Video from street, relevant portion starts at 52m23s](https://www.pscp.tv/IwriteOK/1OyKAYjnPgrKb?t=52m23s)
 
 
 ### Protestors fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | June 2nd
@@ -441,6 +442,19 @@ id: or-portland-31
 * https://twitter.com/chadloder/status/1277360969228771329
 
 
+### Police fire explosives from behind barricade | June 26th
+
+Footage shows protestors gathered outside a building with plywood walls erected. Filmer states that police have barricaded themselves behind the plywood walls. Around 30 seconds, a small window opens in the barricade. Police launch multiple explosives at the crowd from this window.
+
+tags: explosive, projectile
+
+id: or-portland-40
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277685523595788290
+
+
 ### Police charge protestors, shoving them and beating them with batons | June 27th
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
@@ -570,6 +584,98 @@ id: or-portland-39
 
 * https://twitter.com/PredatorFiles/status/1277933736441479170
 * https://twitter.com/i/web/status/1277909390159306752
+
+
+### Police pepper-spray, strike and shoot protestors at point-blank range | June 30th
+
+Full footage shows police pushing protestors east under dispersal order from LRAD speaker. Protestors move slowly and walk backwards. Two officers then shove protestors with their batons. Another protestor steps in between them and is pepper-sprayed.
+
+Footage then shows police attempting to tear banner out of the hands of protestors obeying dispersal instructions. Another officer runs over and shoots protestors repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
+
+tags: shoot, projectile, property-destruction, baton, shove, strike, pepper-spray, spray
+
+id: or-portland-41
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hjdh39/portland_or_police_mace_beat_and_shoot_rubber/
+* https://twitter.com/defendpdx/status/1278192323575218176
+
+
+### Reporter arrested after identifying officer | June 30th
+
+Footage shows police pushing protestors east under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
+
+Then for several minutes, police argue with him about his presence and whether he as a journalist is allowed on the scene.
+
+At 5:20, the filmer asks an officer for his number. The officer shows the number on his helmet and the filmer then identifies him. The officer then ignores him. At 6:15, a second officer approaches. He and the recognized officer then arrest the journalist.
+
+He has allegedly been charged with assault of a police officer, interference with a police officer, resisting arrest and disorderly conduct. A screenshot of his charges is included in the 4th link.
+
+tags: journalist, threaten, arrest
+
+id: or-portland-42
+
+**Links**
+
+* https://www.pscp.tv/w/1lPKqLgBrBWxb
+* https://twitter.com/PNWResistance/status/1278247639708913664
+* https://www.reddit.com/r/Portland/comments/hj5m28/cory_elia_press_arrested_while_livestreaming_last/
+* https://twitter.com/PredatorFiles/status/1278270595235344385
+
+
+### Police fire tear gas at protestors | June 30th
+
+In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protestors. A handful of canisters are thrown back, but the vast majority of protestors flee as police continue to fire.
+
+tags: tear-gas
+
+id: or-portland-43
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hj42i3/portland_police_fire_cs_gas_at_protestors/
+
+
+### Police arrest journalist | June 30th
+
+Footage shows police arresting a member of the press. Her hands are cuffed behind her back. She coughs and vomits, allegedly from tear gas exposure. Police remove her press badge and search her. She states that police are taking cash from her back right pocket. Protestors shout that police are laughing, but it is not audible in the footage.
+
+tags: tear-gas, journalist, arrest, abuse-of-power
+
+id: or-portland-44
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
+
+
+### Police shoot protestors | July 2nd
+
+Around 2:30 in the morning on July 2nd, footage shows police shooting at protestors (off-screen). The filmer states that protestors are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
+
+tags: shoot, projectile
+
+id: or-portland-46
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1278578914613288961
+
+
+### Journalist shot by police | July 2nd
+
+Footage shows a streamer approaching the boarded-up justice center. Without warning, shots can be heard and the streamer, with a handful of other protestors, flees to the opposite side of the street. Police continue to fire.
+
+Journalist states they were hit by "some kind of pepper shrapnel," suggesting the police were firing pepper balls.
+
+tags: shoot, journalist, pepper-ball
+
+id: or-portland-45
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1278635513746870276
 
 
 ## Salem

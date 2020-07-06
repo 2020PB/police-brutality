@@ -105,7 +105,7 @@ Footage shows two protestors being arrested. Four police are making the arrests,
 
 tags: arrest, knee, abuse-of-power
 
-id: ia-desmoines-8
+id: ia-desmoines-10
 
 **Links**
 
@@ -137,6 +137,24 @@ id: ia-desmoines-9
 * https://twitter.com/andreamsahouri/status/1275281913750618113
 * https://twitter.com/andreamsahouri/status/1275279366440837126
 * [Reporter confirms pepper spray. States one victim was a minor](https://twitter.com/andreamsahouri/status/1275278920556974080)
+
+
+### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol  | July 1st
+
+Black Lives Matter advocates gathered at the Capitol to lobby for the governor to sign an executive order restoring felon voting rights by Saturday, July 4.
+
+White protestors were inside the Capitol, police identified some of them claimed to have vandalized police car in the past, and arrests were made inside the Capitol for those individuals. However, the arrested individuals declined the allegations. The protestors followed the police outside the Capitol, and one of the protestors blocked their path and later the crowd tried to pull the arrestees from the custody of the police officers. That is when more crowds and police started to get involved. Police used pepper spray to help disperse the crowd and arrested 17 people, including two juveniles.
+
+tags: spray, pepper-spray, tackle, beat, arrest, child
+
+id: ia-desmoines-8
+
+**Links**
+
+* [Tweet by local reporter showing video of protesters getting pushed around by police](https://twitter.com/shelbyfleig/status/1278399613683339265)
+* [Local news report on the incident by Des Moines Register](https://www.desmoinesregister.com/story/news/2020/07/01/black-lives-matter-protest-state-capitol-results-arrests/5358305002/)
+* [Local new report on the incident by KCRG (Cedar Rapids, Iowa)](https://www.kcrg.com/2020/07/01/arrests-made-at-state-capitol-during-black-lives-matter-protest/)
+* [Local news report on the incident by KCCI (Des Moines, Iowa)](https://www.kcci.com/article/des-moines-police-say-protesters-assaulted-officers-one-disarmed-an-officer/33031470)
 
 
 ## Iowa City

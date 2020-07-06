@@ -284,24 +284,6 @@ id: dc-dc-23
 * https://twitter.com/LiteraryMouse/status/1275228261140791299
 
 
-### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
-
-Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests.
-
-Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
-
-tags: pepper-spray, spray, tear-gas, flashbangs
-
-id: dc-dc-18
-
-**Links**
-
-* https://twitter.com/rawsmedia/status/1275671784554221574
-* https://twitter.com/rawsmedia/status/1275673321959497729
-* https://twitter.com/rawsmedia/status/1275675725358600192
-* https://twitter.com/rawsmedia/status/1275688665486897152
-
-
 ### Footage shows officer with tape over badge number | June 23rd
 
 Footage shows an argument between a protestor an officer. The protestor films close to the officer's face; the officer shines his flashlight in the protestor's eye.
@@ -346,6 +328,29 @@ id: dc-dc-22
 
 * https://twitter.com/maryamnayebyazd/status/1275493238619635714
 * https://twitter.com/maryamnayebyazd/status/1275493885188485120
+
+
+### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
+
+Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests.
+
+Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
+
+The second clip from Raws shows protestors attempting to treat a fellow protestor who was injured in the first round of violence.
+
+Additional footage posted on Youtube shows similar events. Around 4 minutes, this footage also shows police pushing a man on crutches and harassing him to move faster. Protestors attempting to help the man on crutches are assaulted.
+
+tags: pepper-spray, spray, tear-gas, flashbangs, shove, push, strike, person-with-disability
+
+id: dc-dc-18
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1275671784554221574
+* https://twitter.com/rawsmedia/status/1275673321959497729
+* https://twitter.com/rawsmedia/status/1275675725358600192
+* https://twitter.com/rawsmedia/status/1275688665486897152
+* https://www.youtube.com/watch?v=aC1udgaUzDI
 
 
 ### Police target protestor handing out water | June 27th
