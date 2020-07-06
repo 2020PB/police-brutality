@@ -111,7 +111,7 @@ Justin Jones, a prominent activist in Nashville, states that protestors were arr
 
 He also shows footage of extremely tight zip-ties, stating that an arrestee has suffered ongoing numbness in their hands since release.
 
-tags: arrest, abuse-of-power
+tags: arrest, abuse-of-power, zip-ties
 
 id: tn-nashville-4
 

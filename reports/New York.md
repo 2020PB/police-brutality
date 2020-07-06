@@ -632,7 +632,7 @@ Three partygoers state officers used racial slurs while arresting them.
 
 Images show swollen hands from zip ties as well as bruises from batons. One partygoer states he suffered a severe sprain in his arm, and doctors could not determine from an X-Ray if it had been broken or not.
 
-tags: arrest, racial-profiling, inhumane-treatment, baton, beat
+tags: arrest, racial-profiling, inhumane-treatment, baton, beat, zip-ties
 
 id: ny-newyorkcity-39
 

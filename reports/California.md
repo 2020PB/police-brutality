@@ -450,7 +450,7 @@ Many protesters allege that conditions in the makeshift jails were poor -- detai
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, zip-ties
 
 id: ca-losangeles-19
 
