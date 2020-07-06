@@ -779,6 +779,19 @@ id: or-portland-53
 * https://twitter.com/PredatorFiles/status/1279728186197065730
 
 
+### Violent arrests made by police | July 5th
+
+Footage shows police declaring the protest a riot. They fire tear gas at protestors. Protestors begin to retreat and police follow. Several officers then break from the line, brandishing pepper spray, and shove their way through the crowd. Protestors can be heard shouting, "That's press, that's press." Police throw several protestors to the ground (including the filmer). They then beat protestors with batons, punch them, and arrest them.
+
+tags: tear-gas, tackle, throw, tackle, journalist, shove, arrest
+
+id: or-portland-54
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1279909934449061888
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
