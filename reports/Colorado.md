@@ -321,3 +321,23 @@ id: co-denver-20
 
 * https://twitter.com/wisenoons/status/1274743833410994176
 
+
+### Police use excessive force to clear protestor tent encampment | July 1st
+
+The first clip is a livestream from the night of the dispersal. Police standoff begins around 1:28:00. Police begin by snatching and grabbing protestors to arrest. Then a scuffle breaks out, the camera pans to show an officer striking protestors with his baton. Another officer approaches and pepper-sprays protestors. A third officer fires a riot gun, containing either pepper balls or paintballs, at protestors. Police then tear gas the area while protestors flee. At 1:34:00, police arrest a medic. At 1:38:00, police advance towards the protestors again, pushing them off the sidewalk to the far side of the street. A shot can be heard, then a scream. The camera pans to show a scuffle between police and protestors. Police then use pepper-spray and riot rounds to force protestors back. A protestor is arrested. The arrest takes several minutes and it appears that police kneel on the woman's neck while making the arrest. At 1:51:00, one officer is shown without a badge number or body cam. The filmer then looks at several other officers.
+
+The third link shows another angle on the incident at 1:28:00.
+
+The fourth link shows another angle on the incident at 1:38:00. In addition, the caption states that police were using pepper balls.
+
+tags: arrest, shove, strike, shoot, pepper-balls, baton, knee, tear-gas, pepper-spray, spray, medic
+
+id: co-denver-21
+
+**Links**
+
+* [Begins at 1:28:00; medic arrested at 1:34:00](https://www.youtube.com/watch?v=1OFDLRa9wFc&feature=youtu.be&t=5326)
+* https://www.reddit.com/r/DenverProtests/comments/hjszf5/denver_police_uses_cs_gas_impact_irritants_pepper/
+* https://twitter.com/dulapalooza/status/1278684548100849664
+* https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
+
