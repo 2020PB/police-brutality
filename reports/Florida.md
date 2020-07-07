@@ -270,3 +270,18 @@ id: fl-tampa-6
 * https://twitter.com/greg_doucette/status/1270491699832401920
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
 
+
+### Police assault protestors without apparent cause | July 4th
+
+Footage is short, but it shows protestors chanting near police, asking why another protestor is being arrested. A protestor with a megaphone approaches an officer. He is shouting. Without warning police charge protestors. They slam one protestor against a car, throw him on the ground and kneel on him to make an arrest. 
+
+Pepper spray can be heard in the audio.
+
+tags: tackle, strike, knee, arrest, pepper-spray, spray
+
+id: fl-tampa-7
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hmhcgz/tampa_police_department_4th_of_july_unprovoked/
+* https://www.youtube.com/watch?v=_uFeu1zUYIo
