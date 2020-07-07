@@ -506,7 +506,7 @@ id: oh-dayton-1
 
 Footage shows peaceful protestors occupying a road. They are chanting. Without warning, police fire tear gas, scattering the protestors
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: oh-dayton-2
 
