@@ -450,7 +450,7 @@ Many protesters allege that conditions in the makeshift jails were poor -- detai
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protestor
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protestor, zip-ties
 
 id: ca-losangeles-19
 
@@ -477,7 +477,7 @@ Several arrestees describe police sexually harassing/assaulting them; other arre
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protestor
+tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protestor, zip-ties
 
 id: ca-losangeles-32
 
@@ -954,7 +954,7 @@ Zip ties were put on too tight. Police attempted to remove zip ties with a long 
 
 (See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
 
-tags: abuse-of-power, arrest, inhumane-treatment, protestor
+tags: abuse-of-power, arrest, inhumane-treatment, protestor, zip-ties
 
 id: ca-santamonica-2
 

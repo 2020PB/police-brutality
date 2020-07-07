@@ -217,7 +217,7 @@ A reporter recounts on Twitter that she was arrested despite telling an officer 
 
 Footage shows first-person video leading up to her arrest. It includes her clear identification, with press badge, as a reporter.
 
-tags: journalist, arrest, abuse-of-power
+tags: journalist, arrest, abuse-of-power, zip-ties
 
 id: pa-philadelphia-12
 

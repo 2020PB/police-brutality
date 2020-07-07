@@ -249,7 +249,7 @@ He states that he was told to leave. Then, when he tried to photograph the offic
 
 A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
 
-tags: arrest, abuse-of-power, bystander
+tags: arrest, abuse-of-power, bystander, zip-ties
 
 id: va-richmond-13
 

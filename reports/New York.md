@@ -632,7 +632,7 @@ Three partygoers state officers used racial slurs while arresting them.
 
 Images show swollen hands from zip ties as well as bruises from batons. One partygoer states he suffered a severe sprain in his arm, and doctors could not determine from an X-Ray if it had been broken or not.
 
-tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander
+tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander, zip-ties
 
 id: ny-newyorkcity-39
 
@@ -831,7 +831,7 @@ The third clip shows police shoving protestors on the sidewalk with their batons
 
 In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
 
-tags: shove, baton, strike, beat, arrest, choke, hide-badges, protestor
+tags: shove, baton, strike, beat, arrest, choke, hide-badges, protestor, zip-ties
 
 id: ny-newyorkcity-50
 

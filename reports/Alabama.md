@@ -21,7 +21,7 @@ Around six officers arrested Harriot. Per AL.com, Harriot "was asked if he could
 
 According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; they had to use a pocket knife in addition to the usual tool. Harriot was also interviewed by two agents claiming to be from the FBI.
 
-tags: arrest, journalist, racial-profiling
+tags: arrest, journalist, racial-profiling, zip-ties
 
 id: al-birmingham-2
 

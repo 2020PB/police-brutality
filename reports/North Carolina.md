@@ -90,9 +90,9 @@ id: nc-charlotte-2
 
 The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protestors.
 
-Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to ziptie. In addition, a reporter filming was struck by an officer and threatened with arrest.
+Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to zip tie. In addition, a reporter filming was struck by an officer and threatened with arrest.
 
-tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, protestor, medic
+tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, protestor, medic, zip-ties
 
 id: nc-charlotte-3
 

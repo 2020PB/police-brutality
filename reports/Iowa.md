@@ -32,7 +32,7 @@ id: ia-desmoines-3
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
-tags: journalist, arrest, pepper-spray, spray
+tags: journalist, arrest, pepper-spray, spray, zip-ties
 
 id: ia-desmoines-7
 
