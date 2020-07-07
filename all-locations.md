@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-06T20:34:35.408506+00:00
+UPDATED AT: 2020-07-07T12:06:33.111392+00:00
 
 
 # Alabama
@@ -5145,7 +5145,7 @@ id: oh-beavercreek-1
 
 **Links**
 
-* [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
+* [Video; tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
 
 
 ## Bethel
@@ -5198,9 +5198,9 @@ id: oh-cincinnati-1
 * https://twitter.com/kodyfishertv/status/1266901735198638082
 
 
-### First hand account of police violently dispersing crowds | May 31st
+### Police violently disperse crowds, before curfew and allegedly without provocation | May 31st
 
-This account describes police firing tear gas at protestors and beating them 30 minutes before curfew.
+Police use tear gas to disperse a crowd before curfew. No provocation is mentioned in the news article; a first-hand account posted to facebook claims there was none. The account posted to Facebook claims that no order to disperse was given; local news coverage does not mention any order to disperse being given. Mass arrests were conducted at some point the night of the 31st. The account posted to Facebook claims that police surrounded and trapped protesters before curfew, and beat some protesters.
 
 tags: tear-gas, beat
 
@@ -5208,14 +5208,32 @@ id: oh-cincinnati-2
 
 **Links**
 
-* https://touch.facebook.com/story.php?story_fbid=10157718199384132&id=697759131&ref=bookmarks
+* [First hand account, posted to Facebook](https://www.facebook.com/story.php?story_fbid=10157718199384132&id=697759131)
+* [Local news coverage](https://www.cincinnati.com/story/news/2020/05/31/cincinnati-protests-george-floyd-live-updates/5300281002/)
+* [Video 1](https://www.reddit.com/r/cincinnati/comments/gus9dn/531_police_use_tear_gas_and_rubber_bullets_on_a/)
+* [Video 2](https://www.reddit.com/r/cincinnati/duplicates/gus9dn/531_police_use_tear_gas_and_rubber_bullets_on_a/)
+
+
+### Protestors kept in a courtyard, with no bathroom breaks, water, or food, for ten hours | May 31st
+
+Protestors describe being zip-tied and held for ten hours without food, water, or (in some cases) bathroom breaks. In total, 307 protesters were detained, around 60 of them in the Justice Center courtyard.
+
+tags: arrest, inhumane-treatment, zip-ties
+
+id: oh-cincinnati-5
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+* [Screenshot of Facebook post](https://i.imgur.com/mECPaWe.jpg)
+* [Local news coverage](https://www.cincinnatimagazine.com/article/protesters-speak-up-about-police-treatment-during-peaceful-demonstrations/)
 
 
 ### Police arrest reporter and force him to ground, grab another reporter | June 1st
 
 Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
 
-tags: journalist, arrest, shov, grab
+tags: journalist, arrest, shove
 
 id: oh-cincinnati-3
 
@@ -5383,7 +5401,7 @@ id: oh-columbus-5
 * https://twitter.com/SAColumbus/status/1266867613872857094
 
 
-### Police mace an innocent woman | May 31st
+### Police mace a woman as she walks away | May 31st
 
 Police pepper spray a woman who was walking away from the confrontation
 
@@ -5466,20 +5484,6 @@ id: oh-columbus-11
 
 * https://mobile.twitter.com/chadloder/status/1267113315613806592
 * https://twitter.com/greg_doucette/status/1267122343454953472
-
-
-### Protestors kept in a courtyard with no bathroom breaks, water, or food, for nine hours | May 31st-June 1st
-
-A protestor describes being forced to wear handcuffs, kept in a courtyard for nine hours in the Justice Center. Sixty protestors have allegedly been kept without bathroom breaks, water, or food.
-
-tags: arrest, inhumane-treatment
-
-id: oh-columbus-12
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
-* https://i.imgur.com/mECPaWe.jpg
 
 
 ### Man pepper-sprayed at close range | (Believed to be) May 31st
