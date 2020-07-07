@@ -127,7 +127,7 @@ id: co-denver-5
 
 ### Police tear gas and shoot protestors | May 30th
 
-Policemen turned off their body cams and started unnecessary firing of tear gas.
+Police fired tear gas after allegedly turning off their body cams.
 
 tags: body-cam, tear-gas, shoot, protestor
 
@@ -165,7 +165,7 @@ id: co-denver-14
 * https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
-### Police spray two people who are backing away | (believed to be) May 30th
+### Police spray two people who are backing away | May 30th
 
 A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
 
@@ -176,7 +176,23 @@ id: co-denver-15
 **Links**
 
 * [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
+* [Account from another Denver Post reporter present](https://twitter.com/EliseSchmelzer/status/1266938828603961344)
 * [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
+
+
+### Crowd of journalists tear gassed | May 30th
+
+Journalist Lindsay Fendt was standing with a group of other journalists. Protesters threw a tear gas canister back at police; police kicked it toward the journalist, tear gassing Fendt and others.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: co-denver-23
+
+**Links**
+
+* https://twitter.com/LEFendt/status/1267274100793212929
+* https://twitter.com/LEFendt/status/1266953418871984128
+* https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
 
 
 ### Police fire pepper balls at car with pregnant woman | May 31st
@@ -233,7 +249,7 @@ id: co-denver-16
 * https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
 
 
-### Footage shows effect of less-lethal round | May 31st
+### Man's face injured by less-lethal round | May 31st
 
 Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
 
@@ -246,6 +262,26 @@ id: co-denver-19
 **Links**
 
 * https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
+
+
+### Journalist injured by tear gas, less-than-lethal round | May 31st
+
+Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas. Journalist Dave Sachs claims something similar happened to him -- he showed his press pass to police but they shoved him into tear gas.
+
+tags: shoot, projectile, tear-gas, journalist, shove, threaten
+
+id: co-denver-22
+
+**Links**
+
+* https://twitter.com/alex_burness/status/1267287093643902977
+* https://twitter.com/alex_burness/status/1267319325846917120
+* https://twitter.com/EstebanHRZ/status/1267318923243986945
+* https://twitter.com/alex_burness/status/1267516045104943107
+* https://twitter.com/EliseSchmelzer/status/1267314482461589505
+* [David Sachs' description of the incident involving him](https://twitter.com/DavidASachs/status/1266920122893156353)
+* [Denver police were sued in 2018 for illegally arresting a journalist. The settlement required first amendment training. It has yet to happen.](https://www.coloradoindependent.com/2020/06/02/denver-police-protest-first-amendment-journalists/)
+* https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
 
 
 ### Officer incites violence on social media | June 1st
@@ -292,13 +328,13 @@ id: co-denver-12
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
 
 
-### Protestor struck in head at short range with explosive projectile | (Believed to be) June 6th
+### Protestor struck in head at short range with explosive projectile | (Believed to be) June 5th
 
 Footage shows protestors walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protestor in head. Protestor crumples to the ground. Title on Reddit states that the protestor suffered permanent hearing loss, but this has not been verified.
 
 It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protestors severely increased the risk of injury, as seen here.
 
-Footage was first posted on reddit.com/r/protest on June 6th.
+Footage was first posted on reddit.com/r/protest on June 5th.
 
 tags: shoot, projectile, explosive, protestor
 
