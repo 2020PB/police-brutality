@@ -4,7 +4,7 @@
 
 A crowd gathers around a woman who is being arrested. After she is pulled away, police give a dispersal order. Protestors comply, but appear to exchange words with officers while walking away. Police then shout that they are under arrest, shoving protestors to the ground and kneeling on them to make arrests.
 
-tags: arrest, shove, knee
+tags: arrest, shove, knee, protestor
 
 id: ne-lincoln-1
 
@@ -34,7 +34,7 @@ id: ne-lincoln-2
 
 A bunch of protesters peacefully sitting on the ground were shot at and maced. A group of police officers pushed these civilians on to the ground and hit them.
 
-tags: mace, spray, pepper-balls
+tags: mace, spray, pepper-balls, protestor
 
 id: ne-omaha-1
 
@@ -49,7 +49,7 @@ Omaha law enforcement officer kicks protester already on the ground. Another off
 
 Twitter users also state police fired pepper-balls at peaceful protestors.
 
-tags: journalist, kick, arrest, pepper-balls
+tags: journalist, kick, arrest, pepper-balls, protestor
 
 id: ne-omaha-2
 

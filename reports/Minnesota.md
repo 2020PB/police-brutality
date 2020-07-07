@@ -18,7 +18,7 @@ id: mn-minneapolis-21
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
 
-tags: abuse-of-power, arrest
+tags: abuse-of-power, arrest, protestor
 
 id: mn-minneapolis-28
 
@@ -31,7 +31,7 @@ id: mn-minneapolis-28
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-tags: flashbangs, rubber-bullets, tear-gas
+tags: flashbangs, rubber-bullets, tear-gas, protestor
 
 id: mn-minneapolis-14
 
@@ -61,7 +61,7 @@ id: mn-minneapolis-1
 
 The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
 
-tags: shoot, rubber-bullets, tear-gas
+tags: shoot, rubber-bullets, tear-gas, bystander
 
 id: mn-minneapolis-20
 
@@ -74,7 +74,7 @@ id: mn-minneapolis-20
 
 While sitting in their cars, the policemen proceed to pepper spray the protestors in a drive-by fashion
 
-tags: drive, vehicle, pepper-spray, spray
+tags: drive, vehicle, pepper-spray, spray, protestor
 
 id: mn-minneapolis-3
 
@@ -157,7 +157,7 @@ id: mn-minneapolis-27
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
 
-tags: 
+tags:
 
 id: mn-minneapolis-23
 
@@ -201,7 +201,7 @@ id: mn-minneapolis-29
 
 In an attempt to move residents inside, the police fire shots at them.
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, bystander
 
 id: mn-minneapolis-2
 
@@ -210,11 +210,11 @@ id: mn-minneapolis-2
 * https://twitter.com/tkerssen/status/1266921821653385225
 
 
-### LA-Times employee recounts getting shot | May 31st
+### LA Times employee recounts getting shot | May 31st
 
 The woman proceeds to tell the story of what she faced while trying to get footage.
 
-tags: shoot, tear-gas
+tags: shoot, tear-gas, journalist
 
 id: mn-minneapolis-6
 
@@ -229,7 +229,7 @@ id: mn-minneapolis-6
 
 Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger window with a marker round, and that he was cut by shards of glass. Videos show his face and arm bloodied, the passenger window of his car shattered, and glass spread over the floorboard and carseats. He says that he was driving away from a roadblock at the time.
 
-tags: marking-round, property-destruction, shoot
+tags: marking-round, property-destruction, shoot, journalist
 
 id: mn-minneapolis-7
 
@@ -330,11 +330,11 @@ id: mn-minneapolis-13
 * https://www.youtube.com/watch?v=NN8ISwuiX68
 
 
-### Police stop SUV to driveby pepper-spray protesters through window | May 31st
+### Police stop SUV to drive-by pepper-spray protesters through window | May 31st
 
 Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
-tags: vehicle, drive, spray, pepper-spray
+tags: vehicle, drive, spray, pepper-spray, protestor
 
 id: mn-minneapolis-17
 
@@ -375,7 +375,7 @@ id: mn-minneapolis-19
 
 Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
 
-tags: kick
+tags: kick, protestor
 
 id: mn-minneapolis-30
 

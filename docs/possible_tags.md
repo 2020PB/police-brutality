@@ -30,6 +30,7 @@ journalist
 kick
 knee
 knee-on-neck
+legal-observer
 lgbtq+
 lrad
 mace
@@ -76,6 +77,7 @@ child
 elderly
 homeless
 journalist
+legal-observer
 lgbtq+
 medic
 person-with-disability

@@ -6,7 +6,7 @@ On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain.
 
 Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
 
-tags: strike, beat, baton, pepper-spray, spray
+tags: strike, beat, baton, pepper-spray, spray, protestor
 
 id: co-aurora-1
 
@@ -26,7 +26,7 @@ id: co-aurora-1
 
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
-tags: arrest, beat, punch, kneel, rubber-bullets, tackle
+tags: arrest, beat, punch, kneel, rubber-bullets, tackle, protestor
 
 id: co-coloradosprings-1
 
@@ -56,7 +56,7 @@ id: co-denver-1
 
 A man is filming police activity through his sunroof. An officer approaches, possibly strikes the person recording, and apparently peppersprays into the car, blinding the driver and passenger. The driver is then told to move his car away. The officer also peppersprays a second person recording in front of the car.
 
-tags: pepper-spray, spray, vehicle
+tags: pepper-spray, spray, vehicle, protestor
 
 id: co-denver-2
 
@@ -88,7 +88,7 @@ id: co-denver-3
 A woman stops an armored SWAT car (marked APC01) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
 Three armored police get out from back of armored car. One walks around the side and shoots some projectile, hitting the ground in front of the woman.
 
-tags: shoot, projectile, vehicle
+tags: shoot, projectile, vehicle, protestor
 
 id: co-denver-4
 
@@ -101,7 +101,7 @@ id: co-denver-4
 
 An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge.
 
-tags: tear-gas, tear-gas-canister, shoot, projectile
+tags: tear-gas, tear-gas-canister, shoot, projectile, protestor
 
 id: co-denver-13
 
@@ -129,7 +129,7 @@ id: co-denver-5
 
 Policemen turned off their body cams and started unnecessary firing of tear gas.
 
-tags: body-cam, tear-gas, shoot
+tags: body-cam, tear-gas, shoot, protestor
 
 id: co-denver-6
 
@@ -155,7 +155,7 @@ id: co-denver-7
 
 A man was blinded in one eye in a manner consistent with a rubber bullet. He claims a law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, despite the fact that he wasn't provoking the officer (or even protesting) at the time, and didn't see anyone near him doing so.
 
-tags: shoot, projectile, rubber-bullet
+tags: shoot, projectile, rubber-bullet, protestor
 
 id: co-denver-14
 
@@ -169,7 +169,7 @@ id: co-denver-14
 
 A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
 
-tags: mace, spray
+tags: mace, spray, protestor
 
 id: co-denver-15
 
@@ -183,7 +183,7 @@ id: co-denver-15
 
 The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
 
-tags: pregnant, pepper-ball, shoot, vehicle
+tags: pregnant, pepper-ball, shoot, vehicle, bystander
 
 id: co-denver-8
 
@@ -197,7 +197,7 @@ id: co-denver-8
 
 Officers are on a police truck leaving the area. One officer fires a pepper ball directly at someone filming, hitting their phone.
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, protestor
 
 id: co-denver-9
 
@@ -210,7 +210,7 @@ id: co-denver-9
 
 Police officer snatches away protestor's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
-tags: property-destruction, pepper-spray, spray, tear-gas
+tags: property-destruction, pepper-spray, spray, tear-gas, protestor
 
 id: co-denver-10
 
@@ -224,7 +224,7 @@ id: co-denver-10
 
 A woman films an interaction with an officer. She approaches the line and asks, "Can I ask you what's going to happen at 8, sir?" The officer replies: "What's going to happen is we're going to start beating the fuck out of you."
 
-tags: threaten, incitement
+tags: threaten, incitement, protestor
 
 id: co-denver-16
 
@@ -239,7 +239,7 @@ Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
 
 His sweatshirt is covered in blood and he has suffered a gash of 1-2 inches across his chin, with a chunk of his chin hanging off.
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: co-denver-19
 
@@ -254,7 +254,7 @@ In a since-deleted post on Instagram featuring 3 DPD officers in riot gear, the 
 
 The officer has since been fired from the Denver Police Department.
 
-tags: incitement
+tags: incitement, protestor
 
 id: co-denver-17
 
@@ -268,7 +268,7 @@ id: co-denver-17
 
 An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
 
-tags: shoot, tear-gas, tear-gas-canister, pepper-ball
+tags: shoot, tear-gas, tear-gas-canister, pepper-ball, protestor
 
 id: co-denver-11
 
@@ -283,7 +283,7 @@ id: co-denver-11
 
 Denver SWAT unit tackles group of peaceful protesters who were walking and chanting (around 12:20am).
 
-tags: tackle, arrest
+tags: tackle, arrest, protestor
 
 id: co-denver-12
 
@@ -300,7 +300,7 @@ It should be noted that these rounds are intended to be shot at the ground as th
 
 Footage was first posted on reddit.com/r/protest on June 6th.
 
-tags: shoot, projectile, explosive
+tags: shoot, projectile, explosive, protestor
 
 id: co-denver-18
 
@@ -313,7 +313,7 @@ id: co-denver-18
 
 Footage shows a protestor following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protestor continues to ask. Another officer approaches and discharges pepper spray without warning.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: co-denver-20
 
@@ -330,7 +330,7 @@ The third link shows another angle on the incident at 1:28:00.
 
 The fourth link shows another angle on the incident at 1:38:00. In addition, the caption states that police were using pepper balls.
 
-tags: arrest, shove, strike, shoot, pepper-balls, baton, knee, tear-gas, pepper-spray, spray, medic
+tags: arrest, shove, strike, shoot, pepper-balls, baton, knee, tear-gas, pepper-spray, spray, medic, protestor
 
 id: co-denver-21
 

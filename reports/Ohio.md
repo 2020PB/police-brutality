@@ -4,7 +4,7 @@
 
 Police tell protestors blocking road to disperse and then immediately use tear gas on them.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: oh-beavercreek-1
 
@@ -21,7 +21,7 @@ During a BLM protest in Bethel, Ohio, protestors were met by a substantial count
 
 News report includes footage of counter-protestors using racial slurs, harassing protestors and rip signs out of protestor hands while police look on.
 
-tags: abuse-of-power
+tags: abuse-of-power, protestor
 
 id: oh-bethel-1
 
@@ -37,7 +37,7 @@ id: oh-bethel-1
 
 Police warn protestors blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flashbangs, and mace, even after protestors are out of the roadway. In part 2 of the video at 7:58, one of the used flashbang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
 
-tags: pepper-spray, flashbangs, tear-gas
+tags: pepper-spray, flashbangs, tear-gas, protestor
 
 id: oh-canton-1
 
@@ -54,7 +54,7 @@ id: oh-canton-1
 
 A peaceful protest was dispersed with tear gas and flashbangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
 
-tags: pepper-bullet, tear-gas, flashbangs, shoot
+tags: pepper-bullet, tear-gas, flashbangs, shoot, protestor
 
 id: oh-cincinnati-1
 
@@ -67,7 +67,7 @@ id: oh-cincinnati-1
 
 Police use tear gas to disperse a crowd before curfew. No provocation is mentioned in the news article; a first-hand account posted to facebook claims there was none. The account posted to Facebook claims that no order to disperse was given; local news coverage does not mention any order to disperse being given. Mass arrests were conducted at some point the night of the 31st. The account posted to Facebook claims that police surrounded and trapped protesters before curfew, and beat some protesters.
 
-tags: tear-gas, beat
+tags: tear-gas, beat, protestor
 
 id: oh-cincinnati-2
 
@@ -83,7 +83,7 @@ id: oh-cincinnati-2
 
 Protestors describe being zip-tied and held for ten hours without food, water, or (in some cases) bathroom breaks. In total, 307 protesters were detained, around 60 of them in the Justice Center courtyard.
 
-tags: arrest, inhumane-treatment, zip-ties
+tags: arrest, inhumane-treatment, zip-ties, protestor
 
 id: oh-cincinnati-5
 
@@ -111,7 +111,7 @@ id: oh-cincinnati-3
 
 Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
 
-tags: arrest, inhumane-treatment
+tags: arrest, inhumane-treatment, protestor
 
 id: oh-cincinnati-4
 
@@ -128,7 +128,7 @@ id: oh-cincinnati-4
 
 Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back.
 
-tags: arrest, beat, baton
+tags: arrest, beat, baton, protestor
 
 id: oh-cleveland-1
 
@@ -141,7 +141,7 @@ id: oh-cleveland-1
 
 Without warning, police fire tear gas at peaceful protestors.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: oh-cleveland-2
 
@@ -156,7 +156,7 @@ Twitter user who relays Cleveland police scanner says transmission went over rad
 
 Additional footage shows a street medic patching a wound in the back of a protestor. The description of this footage states that police were aiming at the crowd.
 
-tags: medic, rubber-bullets, shoot
+tags: medic, rubber-bullets, shoot, protestor
 
 id: oh-cleveland-3
 
@@ -174,7 +174,7 @@ id: oh-cleveland-3
 
 A cop hits a protestor in the face. Then a different cop pepper-sprays the person hit, as well as nerby protestors. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
 
-tags: strike, pepper-spray, spray, arrest
+tags: strike, pepper-spray, spray, arrest, protestor
 
 id: oh-columbus-1
 
@@ -187,7 +187,7 @@ id: oh-columbus-1
 
 Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
 
-tags: politician, mace, pepper-spray, spray
+tags: politician, mace, pepper-spray, spray, protestor
 
 id: oh-columbus-2
 
@@ -203,7 +203,7 @@ id: oh-columbus-2
 
 Seemingly without warning, a protester holding a sign was maced in the face.
 
-tags: mace, pepper-spray, spray
+tags: mace, pepper-spray, spray, protestor
 
 id: oh-columbus-3
 
@@ -216,7 +216,7 @@ id: oh-columbus-3
 
 Unarmed protestors peacefully chanting when an officer starts randomly pepper-spraying them.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: oh-columbus-4
 
@@ -229,7 +229,7 @@ id: oh-columbus-4
 
 A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times.
 
-tags: journalist, threaten, pepper-spray, spray
+tags: journalist, threaten, pepper-spray, spray, protestor
 
 id: oh-columbus-15
 
@@ -243,7 +243,7 @@ id: oh-columbus-15
 
 Police pepper spray protestors walking away from them. One protestor shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
 
-tags: pepper-spray, spray, shove
+tags: pepper-spray, spray, shove, protestor
 
 id: oh-columbus-16
 
@@ -270,7 +270,7 @@ id: oh-columbus-5
 
 Police pepper spray a woman who was walking away from the confrontation
 
-tags: mace, pepper-spray, spray
+tags: mace, pepper-spray, spray, protestor
 
 id: oh-columbus-6
 
@@ -284,7 +284,7 @@ id: oh-columbus-6
 
 Police drive their car towards protestors in order to disperse them
 
-tags: vehicle, drive
+tags: vehicle, drive, protestor
 
 id: oh-columbus-7
 
@@ -299,7 +299,7 @@ Location:  Intersection of E Broad Street and S Grant Avenue
 
 Two protesters are kneeling in a crosswalk across the intersection from a line of police. A police officer walks over and pepper sprays them.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: oh-columbus-8
 
@@ -328,7 +328,7 @@ id: oh-columbus-9
 
 Police pepper spraying peaceful unarmed protestors as they sit on the ground.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: oh-columbus-10
 
@@ -341,7 +341,7 @@ id: oh-columbus-10
 
 A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
 
-tags: rubber-bullets, shoot
+tags: rubber-bullets, shoot, protestor
 
 id: oh-columbus-11
 
@@ -355,7 +355,7 @@ id: oh-columbus-11
 
 Image shows a police officer pepper-spraying a man with his hands up at a short distance. Exact date is unknown, but earliest appearance found on Twitter was May 31st.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: oh-columbus-17
 
@@ -369,7 +369,7 @@ id: oh-columbus-17
 
 Two squad cars full of police arrive at an intersection, sirens wailing. Police get out and start pepper-spraying people. Notably, there are two people on a fire escape who look like they may be treating two others for pepper-spray or tear gas exposure. Police pepper-spray them. Police later pepper spray one a second time, as she's in the process of retreating and rinsing her eyes with milk due to the first pepper spray exposure.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, bystander, protestor
 
 id: oh-columbus-22
 
@@ -404,7 +404,7 @@ He states that he was maced, hit by a police officer on a bicycle, struck by ric
 
 In the interview, he stated: "This is worse than anything I received in an actual war zone,” citing special forces and contractor work in Afghanistan and East Africa.
 
-tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shot, wooden-bullets
+tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shot, wooden-bullets, protestor
 
 id: oh-columbus-18
 
@@ -418,7 +418,7 @@ id: oh-columbus-18
 
 Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protestors and jump out of the car. Police from the vehicles and on the street charge protestors, tackle them, and arrest them. Police appear to kneel on protestors while making arrests.
 
-tags: vehicle, tackle, arrest, knee
+tags: vehicle, tackle, arrest, knee, protestor
 
 id: oh-columbus-24
 
@@ -436,7 +436,7 @@ Additional footage appears to show the prosthetics disconnect when the man was s
 
 Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protestor-provided footage.
 
-tags: mace, pepper-spray, spray, shove, person-with-disability
+tags: mace, pepper-spray, spray, shove, person-with-disability, protestor
 
 id: oh-columbus-19
 
@@ -453,7 +453,7 @@ Footage depicts multiple police officers grabbing a protestor. They drag the pro
 
 Post title states the protestor is a medic, but visual evidence is unclear.
 
-tags: shove, grab, throw, knee, arrest
+tags: shove, grab, throw, knee, arrest, protestor
 
 id: oh-columbus-20
 
@@ -466,7 +466,7 @@ id: oh-columbus-20
 
 In an apparent attempt to clear a street, police have formed a bike line. They shove protestors with shields and ram their bikes into the crowd. Protestors can be seen throwing water at officers. Officers then discharge pepper spray.
 
-tags: shove, bike, pepper-spray, spray
+tags: shove, bike, pepper-spray, spray, protestor
 
 id: oh-columbus-21
 
@@ -481,7 +481,7 @@ Footage shows a protestor seated on the edge of the road. An officer drags the p
 
 The second clip is a lengthy (53 minute) account from the original filmer.
 
-tags: arrest, push, shove, throw, knee
+tags: arrest, push, shove, throw, knee, protestor
 
 id: oh-columbus-23
 
@@ -497,7 +497,7 @@ id: oh-columbus-23
 
 Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protestors grabbed the cans and threw them back toward the police. The protestors mostly disperse, but once the gas clears they return. The police then fire more tear gas.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: oh-dayton-1
 
@@ -512,7 +512,7 @@ id: oh-dayton-1
 
 Around 7:30pm, the police used tear gas on protestors after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protestors. Later, in the second video, the police use tear gas on the protestors shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
 
-tags: tear-gas, rubber-bullets
+tags: tear-gas, rubber-bullets, protestor
 
 id: oh-toledo-1
 
