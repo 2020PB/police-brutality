@@ -4,7 +4,7 @@
 
 Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown.
 
-tags: tear-gas, mace, spray
+tags: tear-gas, mace, spray, protestor
 
 id: ia-desmoines-2
 
@@ -17,7 +17,7 @@ id: ia-desmoines-2
 
 Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure." A woman's phone is destroyed by a police round.
 
-tags: rubber-bullets, tear-gas, shoot, property-destruction
+tags: rubber-bullets, tear-gas, shoot, property-destruction, bystander
 
 id: ia-desmoines-3
 
@@ -28,7 +28,7 @@ id: ia-desmoines-3
 * [Location via Google Street View](https://www.google.ca/maps/@41.6293563,-93.6988361,3a,75y,358.27h,68.85t/data=!3m6!1e1!3m4!1s5NdIPPqrW0kAv0Ge9xX4EQ!2e0!7i16384!8i8192)
 
 
-### Police detail Des Moines Register reporter while covering event | May 31st
+### Police detain Des Moines Register reporter while covering event | May 31st
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
@@ -60,7 +60,7 @@ id: ia-desmoines-4
 
 Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
 
-tags: threaten, arrest, shove, pepper-spray, spray
+tags: threaten, arrest, shove, pepper-spray, spray, bystander
 
 id: ia-desmoines-1
 
@@ -73,7 +73,7 @@ id: ia-desmoines-1
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
 
-tags: arrest, racial-profiling
+tags: arrest, racial-profiling, protestor
 
 id: ia-desmoines-6
 
@@ -86,7 +86,7 @@ id: ia-desmoines-6
 
 "Des Moines police approached The Blazing Saddle, a gay bar in Des Moines’ East Village neighborhood, and searched the premises — apparently without a warrant. Video from a security camera made public on Facebook shows officers in riot gear converging suddenly on the bar at approximately 11:45 p.m. and detaining those gathered outside." - The Iowa Inquirer
 
-tags: arrest, lgbtq+
+tags: arrest, lgbtq+, protestor
 
 id: ia-desmoines-5
 
@@ -103,7 +103,7 @@ id: ia-desmoines-5
 
 Footage shows two protestors being arrested. Four police are making the arrests, two kneeling on each protestor. A woman filming is harassed by another officer.
 
-tags: arrest, knee, abuse-of-power
+tags: arrest, knee, abuse-of-power, protestor
 
 id: ia-desmoines-10
 
@@ -126,7 +126,7 @@ After this, footage cuts to a shot of the filmer turns the camera on herself and
 
 Additional links from a reporter discuss the tactics used by police to intimidate and harass protestors. They also capture the aftermath of the pepper-spraying.
 
-tags: pepper-spray, spray, shove, shield, push, child
+tags: pepper-spray, spray, shove, shield, push, child, protestor
 
 id: ia-desmoines-9
 
@@ -145,7 +145,7 @@ Black Lives Matter advocates gathered at the Capitol to lobby for the governor t
 
 White protestors were inside the Capitol, police identified some of them claimed to have vandalized police car in the past, and arrests were made inside the Capitol for those individuals. However, the arrested individuals declined the allegations. The protestors followed the police outside the Capitol, and one of the protestors blocked their path and later the crowd tried to pull the arrestees from the custody of the police officers. That is when more crowds and police started to get involved. Police used pepper spray to help disperse the crowd and arrested 17 people, including two juveniles.
 
-tags: spray, pepper-spray, tackle, beat, arrest, child
+tags: spray, pepper-spray, tackle, beat, arrest, child, protestor
 
 id: ia-desmoines-8
 
@@ -163,7 +163,7 @@ id: ia-desmoines-8
 
 Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: ia-iowacity-1
 

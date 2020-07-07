@@ -4,7 +4,7 @@
 
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
-tags: arrest
+tags: arrest, protestor
 
 id: sc-charleston-1
 
@@ -20,7 +20,7 @@ id: sc-charleston-1
 
 News footage shows a civilian car after a collision with a police APC. The driver states that she was hit while driving through a green light by an APC without sirens.
 
-tags: drive, vehicle, property-destruction
+tags: drive, vehicle, property-destruction, bystander
 
 id: sc-charleston-2
 
@@ -37,7 +37,7 @@ Footage shows violence during the arrest of a protestor as 3 police officers wea
 
 Police charged him with disobeying a lawful order and resisting arrest.
 
-tags: arrest, shove, strike, beat, tackle, hide-badges
+tags: arrest, shove, strike, beat, tackle, hide-badges, protestor
 
 id: sc-charleston-3
 

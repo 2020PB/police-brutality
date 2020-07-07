@@ -8,6 +8,7 @@ beanbags
 beat
 bike
 body-cam
+bystander
 celebrity
 child
 choke
@@ -30,6 +31,7 @@ journalist
 kick
 knee
 knee-on-neck
+legal-observer
 lgbtq+
 lrad
 mace
@@ -44,6 +46,7 @@ politician
 pregnant
 property-destruction
 projectiles
+protestor
 push
 punch
 racial-profiling
@@ -71,16 +74,19 @@ zip-ties
 ### Victim
 
 ```
+bystander
 celebrity
 child
 elderly
 homeless
 journalist
+legal-observer
 lgbtq+
 medic
 person-with-disability
 politician
 pregnant
+protestor
 racial-profiling
 ```
 
