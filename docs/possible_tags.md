@@ -8,6 +8,7 @@ beanbags
 beat
 bike
 body-cam
+bystander
 celebrity
 child
 choke
@@ -45,6 +46,7 @@ politician
 pregnant
 property-destruction
 projectiles
+protestor
 push
 punch
 racial-profiling
@@ -72,6 +74,7 @@ zip-ties
 ### Victim
 
 ```
+bystander
 celebrity
 child
 elderly
@@ -83,6 +86,7 @@ medic
 person-with-disability
 politician
 pregnant
+protestor
 racial-profiling
 ```
 
