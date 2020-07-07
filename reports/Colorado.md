@@ -186,7 +186,7 @@ Journalist Lindsay Fendt was standing with a group of other journalists. Protest
 
 tags: journalist, tear-gas, tear-gas-canister
 
-id: co-denver-24
+id: co-denver-23
 
 **Links**
 
