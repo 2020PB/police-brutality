@@ -249,6 +249,24 @@ id: co-denver-19
 * https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
 
 
+### Journalist injured by tear gas, less-than-lethal round | May 31st
+
+Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas.
+
+tags: shoot, projectile, tear-gas, journalist, threaten
+
+id: co-denver-22
+
+**Links**
+
+* https://twitter.com/alex_burness/status/1267287093643902977
+* https://twitter.com/alex_burness/status/1267319325846917120
+* https://twitter.com/EstebanHRZ/status/1267318923243986945
+* https://twitter.com/alex_burness/status/1267516045104943107
+* https://twitter.com/EliseSchmelzer/status/1267314482461589505
+* [Denver police were sued in 2018 for illegally arresting a journalist. The settlement required first amendment training. It has yet to happen.](https://www.coloradoindependent.com/2020/06/02/denver-police-protest-first-amendment-journalists/)
+
+
 ### Officer incites violence on social media | June 1st
 
 In a since-deleted post on Instagram featuring 3 DPD officers in riot gear, the poster captioned the image: "Let's start a riot."
