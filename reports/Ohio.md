@@ -514,6 +514,7 @@ id: oh-dayton-2
 
 * https://twitter.com/greg_doucette/status/1279832182463365125
 
+
 ## Toledo
 
 ### Police use tear gas on protestors | May 30th
