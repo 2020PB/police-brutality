@@ -376,7 +376,7 @@ Police also strike the filmer in the second tiktok video.
 
 The third link appears to be the third in chronological order as the protestors arms are already cuffed. It is unclear why he is lying face down in the bushes at the beginning of this clip. It additionally shows the careless and physical manner of arrest used by the police.
 
-tags: arrest, strike
+tags: arrest, strike, protestor
 
 id: dc-dc-25
 
