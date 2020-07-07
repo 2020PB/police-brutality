@@ -180,7 +180,7 @@ A woman is in her car leaving a protest. Police stop her, stating she was blocki
 
 She was released shortly after with minor abrasions and no charges.
 
-tags: arrest, property-destruction
+tags: arrest, property-destruction, protestor
 
 id: fl-orlando-6
 
@@ -277,7 +277,7 @@ Footage shows police arresting a woman. A man who walked nearby with his hands u
 
 Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protestor without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
 
-tags: arrest, shove, abuse-of-power, inhumane-treatment
+tags: arrest, shove, abuse-of-power, inhumane-treatment, protestor
 
 id: fl-tampa-8
 
