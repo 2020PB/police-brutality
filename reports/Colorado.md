@@ -180,6 +180,21 @@ id: co-denver-15
 * [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
 
 
+### Crowd of journalists tear gassed | May 31st
+
+Journalist Lindsay Fendt was standing with a group of other journalists. Protesters threw a tear gas canister back at police; police kicked it toward the journalist, tear gassing Fendt and others.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: co-denver-24
+
+**Links**
+
+* https://twitter.com/LEFendt/status/1267274100793212929
+* https://twitter.com/LEFendt/status/1266953418871984128
+* https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
+
+
 ### Police fire pepper balls at car with pregnant woman | May 31st
 
 The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
@@ -265,6 +280,20 @@ id: co-denver-22
 * https://twitter.com/alex_burness/status/1267516045104943107
 * https://twitter.com/EliseSchmelzer/status/1267314482461589505
 * [Denver police were sued in 2018 for illegally arresting a journalist. The settlement required first amendment training. It has yet to happen.](https://www.coloradoindependent.com/2020/06/02/denver-police-protest-first-amendment-journalists/)
+
+
+### Journalist forced into cloud of tear gas | May 31st
+
+Journalist Dave Sachs was caught between officers and demonstrators. Showed police his press badge. Police twice shoved him, forcing him into a cloud of tear gas.
+
+tags: journalist, shove, tear-gas
+
+id: co-denver-23
+
+**Links**
+
+* https://twitter.com/DavidASachs/status/1266920122893156353
+* https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
 
 
 ### Officer incites violence on social media | June 1st
