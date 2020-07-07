@@ -165,7 +165,7 @@ id: co-denver-14
 * https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
-### Police spray two people who are backing away | (believed to be) May 30th
+### Police spray two people who are backing away | May 30th
 
 A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
 
@@ -176,6 +176,7 @@ id: co-denver-15
 **Links**
 
 * [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
+* [Account from another Denver Post reporter present](https://twitter.com/EliseSchmelzer/status/1266938828603961344)
 * [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
 
 
