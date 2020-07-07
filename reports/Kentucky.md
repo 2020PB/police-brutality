@@ -4,7 +4,7 @@
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
-tags: journalist, rubber-bullets, pepper-ball
+tags: journalist, rubber-bullets, pepper-ball, shoot
 
 id: ky-louisville-2
 
@@ -19,7 +19,7 @@ id: ky-louisville-2
 
 A young woman was injured by a rubber bullet she took to the head.
 
-tags: rubber-bullets
+tags: rubber-bullets, shoot, protestor
 
 id: ky-louisville-4
 
@@ -35,7 +35,7 @@ id: ky-louisville-4
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
-tags: rubber-bullets, projectiles, shoot
+tags: rubber-bullets, projectiles, shoot, protestor
 
 id: ky-louisville-8
 
@@ -49,7 +49,7 @@ id: ky-louisville-8
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
 
-tags: shoot, projectiles, property-destruction
+tags: shoot, projectiles, property-destruction, bystander
 
 id: ky-louisville-5
 
@@ -78,7 +78,7 @@ id: ky-louisville-1
 
 A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison.
 
-tags: arrest, beat, baton, strike
+tags: arrest, beat, baton, strike, protestor
 
 id: ky-louisville-9
 
@@ -92,7 +92,7 @@ id: ky-louisville-9
 
 A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
-tags: tear-gas, beat, tackle
+tags: tear-gas, beat, tackle, protestor
 
 id: ky-louisville-3
 
@@ -105,7 +105,7 @@ id: ky-louisville-3
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
-tags: death, body-cams, real-bullets, pepper-ball
+tags: death, body-cams, real-bullets, pepper-ball, bystander
 
 id: ky-louisville-6
 
@@ -123,7 +123,7 @@ id: ky-louisville-6
 
 Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews.
 
-tags: pepper-ball, shoot
+tags: pepper-ball, shoot, protestor
 
 id: ky-louisville-7
 
@@ -136,7 +136,7 @@ id: ky-louisville-7
 
 Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
 
-tags: pepper-ball, shoot, shove, baton, arrest
+tags: pepper-ball, shoot, shove, baton, arrest, protestor
 
 id: ky-louisville-11
 
@@ -151,7 +151,7 @@ id: ky-louisville-11
 
 A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
 
-tags: rubber-bullets, shoot, tackle, beat, baton
+tags: rubber-bullets, shoot, tackle, beat, baton, protestor
 
 id: ky-louisville-10
 
@@ -160,4 +160,36 @@ id: ky-louisville-10
 * [Video taken from building](https://twitter.com/kenjiboijoi/status/1272708377349668864)
 * [Backup Video (original made private)](https://drive.google.com/file/d/1p6FDE2y_T9bi_D3iakcnzOkS9vQIex5k/view?usp=sharing)
 * [Police confirm it was an officer](https://www.buzzfeednews.com/article/amberjamieson/louisville-shot-fired-security-guard-video)
+
+
+### Protestor medic beaten and arrested | June 19th
+
+Louisville police clear protest medics, shoving them and striking them with batons. Medics clearly identify themselves. One medic is shoved to the ground; she states to officers numerous times that she has a disability.
+
+She alleges that she was held without her meds, which led to a seizure.
+
+tags: medic, baton, beat, shove, strike, arrest, inhumane-treatment, person-with-disability
+
+id: ky-louisville-12
+
+**Links**
+
+* https://mobile.twitter.com/martasmom98/status/1278231132753080321
+* https://mobile.twitter.com/martasmom98/status/1278231277649514496
+
+
+### Livestreamer arrested while filming protest | June 30th
+
+A livestreamer known by protestors in the Louisville area was arrested during a protest. Police gave a dispersal order and the journalist began backing up as the police line approached. An officer says, "You're under arrest," despite the fact that he obeys the order. Police then tackle him to the ground.
+
+It should be noted that he is not a credentialed reporter, but is well known by protestors in the area for his even-handed reporting, including his refusal to turn off his camera when protestors requested during a period of vandalism.
+
+tags: journalist, arrest, tackle
+
+id: ky-louisville-13
+
+**Links**
+
+* https://www.youtube.com/watch?v=Xfs8XJc1Rm0
+* https://www.reddit.com/r/Louisville/comments/hj3cqn/jason_downey_just_got_arrested_for_filming_the/
 

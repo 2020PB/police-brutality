@@ -8,7 +8,7 @@ Miami Herald later reports the officer has a history of drawing his weapon and u
 
 A more recent update states that the officer has been charged with battery.
 
-tags: shove
+tags: shove, protestor
 
 id: fl-fortlauderdale-1
 
@@ -25,7 +25,7 @@ id: fl-fortlauderdale-1
 
 A line of police officers are standing in front of a building with shields, and protesters can be seen filming them with phones. A shot is heard, and a woman collapses. A news report indicates that she was hit with a foam rubber bullet in her head just above the right eye, fracturing her eye socket.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: fl-fortlauderdale-2
 
@@ -58,7 +58,7 @@ A protestor in the street can be seen milling about before an officer charges th
 
 Filmer also states that tear gas was used against a peaceful protest.
 
-tags: tackle, arrest, shove, throw, gun, tear-gas
+tags: tackle, arrest, shove, throw, gun, tear-gas, protestor
 
 id: fl-jacksonville-1
 
@@ -75,7 +75,7 @@ Police are in a van. A man walking on the sidewalk with another man begins to sp
 
 Miami PD states the man was arrested for breaking the 8pm curfew, but the poster states the arrest occurred around 5:45pm.
 
-tags: tackle, arrest
+tags: tackle, arrest, protestor
 
 id: fl-miami-1
 
@@ -92,7 +92,7 @@ In the 9:00 PM round, the filmer can be heard saying, "They're smoke bombs. No, 
 
 Around 9:09 PM, protestors gathered on the highway on-ramp. Police then, without warning, fired another round of tear gas, forcing protestors to flee. The caption states multiple protestors were shot with rubber bullets, but no shots can be heard in this footage.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: fl-miami-2
 
@@ -108,7 +108,7 @@ id: fl-miami-2
 
 Footage shows police charging at protestors and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protestor. Police continue to discharge pepper spray and force away protestors trying to aid victims.
 
-tags: tackle, pepper-spray, spray
+tags: tackle, pepper-spray, spray, protestor
 
 id: or-orlando-5
 
@@ -121,7 +121,7 @@ id: or-orlando-5
 
 A police officer grabs a protestor from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
 
-tags: tackle, pepper-spray, arrest, shove, spray
+tags: tackle, pepper-spray, arrest, shove, spray, protestor
 
 id: fl-orlando-1
 
@@ -134,7 +134,7 @@ id: fl-orlando-1
 
 A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protestor begs police not to hurt him.
 
-tags: tackle, arrest, knee
+tags: tackle, arrest, knee, protestor
 
 id: fl-orlando-3
 
@@ -148,7 +148,7 @@ id: fl-orlando-3
 
 A woman films a BLM protest in Orlando from a window. Protestors have gather around a police bike line blocking an intersection. Police begin shouting and shove protestors back with their bikes.
 
-tags: bike, shove
+tags: bike, shove, protestor
 
 id: fl-orlando-4
 
@@ -163,7 +163,7 @@ Police open fire on protesters outside of city hall with tear gas, flashbangs, a
 
 Additional footage shows the incident was instigated when officers shoved a protestor. The protestor then fled. Officers tackled another protestor on the sidewalk, then began firing riot control rounds.
 
-tags: shoot, tear-gas, flashbangs, rubber-bullets, shove, push, tackle
+tags: shoot, tear-gas, flashbangs, rubber-bullets, shove, push, tackle, protestor
 
 id: fl-orlando-2
 
@@ -182,7 +182,7 @@ Police officers are walking down a street. A woman in a purple shirt is pulled t
 
 Additional footage states the woman in a purple shirt is a minor.
 
-tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas
+tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas, protestor
 
 id: fl-tampa-1
 
@@ -200,7 +200,7 @@ id: fl-tampa-1
 
 Police fire tear gas at peaceful protestors, while simultaneously ordering protestors to lie down, forcing them to remain in the immediate area.
 
-tags: tear-gas, arrest
+tags: tear-gas, arrest, protestor
 
 id: fl-tampa-2
 
@@ -209,11 +209,11 @@ id: fl-tampa-2
 * https://twitter.com/greg_doucette/status/1268694786485166081
 
 
-### Police pepper-spray police from protest | June 5th
+### Police pepper-spray peaceful protestors | June 5th
 
 Supercut video from June 5th shows multiple incidents where police sprayed peaceful protestors, including protestors attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protestors before spraying
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: fl-tampa-3
 
@@ -230,7 +230,7 @@ Incidents include firing at peaceful protestors, fleeing protestors and medics.
 
 Video also includes a bleeding eyewitness describing events.
 
-tags: rubber-bullets, shoot
+tags: rubber-bullets, shoot, protestor
 
 id: fl-tampa-4
 

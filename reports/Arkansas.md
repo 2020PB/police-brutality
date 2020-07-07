@@ -8,8 +8,7 @@ It is unclear whether any order to disperse was given before the first use of te
 
 Police posted on the City of Bentonville Facebook page that rubber bullets were not used. Police did, in fact, use rubber bullets (per 5 News); per the op ed, the police chief attributed the error to a "communication failure."
 
-
-tags: tear-gas, tear-gas-canister, rubber-bullets
+tags: tear-gas, tear-gas-canister, rubber-bullets, protestor
 
 id: ar-bentonville-1
 
@@ -24,14 +23,13 @@ id: ar-bentonville-1
 * [Op Ed, containing eyewitness observations and quotes purportedly from the police chief](https://arktimes.com/arkansas-blog/2020/06/06/tale-of-two-protests-bentonville-and-fayetteville)
 
 
-
 ## Little Rock
 
 ### Peaceful protestors kneeling are shot with an explosive projectile. | May 31st
 
 Peaceful protestors kneeling are shot with an explosive projectile.
 
-tags: explosive, projectiles
+tags: explosive, projectiles, protestor
 
 id: ar-littlerock-1
 
@@ -39,3 +37,4 @@ id: ar-littlerock-1
 
 * https://twitter.com/KATVShelby/status/1267554421019475972
 * https://twitter.com/KATVNews/status/1267509911954440194
+

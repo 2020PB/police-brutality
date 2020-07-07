@@ -6,7 +6,7 @@ An officer shoots a projectile out of a moving vehicle, striking pedestrian near
 
 This incident took place at in Eugene, OR. Specific area not identified.
 
-tags: shoot, projectile, vehicle
+tags: shoot, projectile, vehicle, protestor
 
 id: or-eugene-1
 
@@ -22,7 +22,7 @@ id: or-eugene-1
 
 The Police try to break up the peaceful protest by resorting to hitting individuals with batons.
 
-tags: beat, strike, baton
+tags: beat, strike, baton, protestor
 
 id: or-portland-1
 
@@ -36,7 +36,7 @@ id: or-portland-1
 
 An officer shoves and pepper-sprays a protestor standing on the other side of a barrier.
 
-tags: shove, pepper-spray, spray
+tags: shove, pepper-spray, spray, protestor
 
 id: or-portland-2
 
@@ -49,7 +49,7 @@ id: or-portland-2
 
 Actual deployment of tear-gas not shown. Video shows what appears to be a cloud of tear-gas over several tents. The camera thens pans to show 5 cops walking away
 
-tags: tear-gas, homeless
+tags: tear-gas, homeless, bystander
 
 id: or-portland-3
 
@@ -62,7 +62,7 @@ id: or-portland-3
 
 Police shoot about a dozen tear gas or flashbang grenades into a crowd from quite a distance.
 
-tags: tear-gas, flashbangs, shoot
+tags: tear-gas, flashbangs, shoot, protestor
 
 id: or-portland-4
 
@@ -75,7 +75,7 @@ id: or-portland-4
 
 Police deploy flashbangs and tear gas into a crowd.
 
-tags: tear-gas, flashbangs, shoot
+tags: tear-gas, flashbangs, shoot, protestor
 
 id: or-portland-5
 
@@ -91,7 +91,7 @@ In events occurring either late on June 2nd or in the early morning of June 3rd,
 
 There are numerous passing cars that appear unrelated to the protest but are caught in the gas. They struggle to maneuver around canisters & clouds of tear gas.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: or-portland-22
 
@@ -107,7 +107,7 @@ Protestors flee from tear gas and attempt to follow police dispersal order. As t
 
 The officers gesture with batons. One officer pepper-sprays a protestor. A second strikes the filmer with his baton. A third kicks a tear gas canister at protestors.
 
-tags: tear-gas, tear-gas-canister, pepper-spray, spray, baton, strike
+tags: tear-gas, tear-gas-canister, pepper-spray, spray, baton, strike, protestor
 
 id: or-portland-26
 
@@ -123,7 +123,7 @@ In helicopter footage from KGW, protestors are seen moving police barricades and
 
 A police SUV accelerates into the intersection, swerving towards protestors, which forces them to run out of the way.
 
-tags: vehicle
+tags: vehicle, protestor
 
 id: or-portland-23
 
@@ -136,7 +136,7 @@ id: or-portland-23
 
 Footage shows a police van drive up on a small group of protestors on the sidewalk, walking away from the officers. Police jump off the van and immediately begin firing at protestors.
 
-tags: shoot, projectiles
+tags: shoot, projectiles, protestor
 
 id: or-portland-9
 
@@ -149,7 +149,7 @@ id: or-portland-9
 
 Footage from between 1 and 2 AM on June 5th shows police firing tear gas rounds at a group of protestors walking away from them. Several cars are stopped at traffic and/or passing through the intersection where canisters land.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: or-portland-21
 
@@ -162,7 +162,7 @@ id: or-portland-21
 
 A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.
 
-tags: baton, strike, beat, pepper-spray, spray
+tags: baton, strike, beat, pepper-spray, spray, journalist
 
 id: or-portland-6
 
@@ -178,7 +178,7 @@ id: or-portland-6
 
 In what appears to be the early AM of June 6th, police walk protestors backwards across the park. Footage shows that straggling protestors are met with pushing, shoving and beatings with batons.
 
-tags: baton, shove, strike, push
+tags: baton, shove, strike, push, protestor
 
 id: or-portland-18
 
@@ -191,7 +191,7 @@ id: or-portland-18
 
 Just after midnight on the morning of June 6th, footage from a KPTV reporter shows a crowd of protestors fleeing down the street. Police continue to fire tear gas as protestors run away.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: or-portland-24
 
@@ -204,7 +204,7 @@ id: or-portland-24
 
 At the beginning of footage, it appears a water bottle is thrown. It bounces against a concrete barricade. Police respond with tear gas. When protestors run to the tear gas in an attempt to defuse it, police respond with rubber bullets.
 
-tags: tear-gas, rubber-bullets, shoot
+tags: tear-gas, rubber-bullets, shoot, protestor
 
 id: or-portland-20
 
@@ -217,7 +217,7 @@ id: or-portland-20
 
 Body cam footage from a police officer shows police approaching person on a bike, believed to be a protestor leaving the protest. The two officers pull the protestor from the bike to make an arrest, throwing the bike aside. An officer then tells passersby at a convenience store to go home.
 
-tags: arrest, bike, shove, property-destruction
+tags: arrest, bike, shove, property-destruction, protestor
 
 id: or-portland-11
 
@@ -258,7 +258,7 @@ Footage shows riot police chasing protestors onto sidewalk near Chapman Square. 
 
 A man filming says, "You are live, you are live." Police then beat him with batons and throw him to the ground to arrest him. Police then arrest another protestor while more officers push protestors back.
 
-tags: arrest, beat, batons, strike
+tags: arrest, beat, batons, strike, protestor
 
 id: or-portland-16
 
@@ -271,7 +271,7 @@ id: or-portland-16
 
 Footage shows protestors fleeing from tear gas or smoke in a park. Frames are captured that show protestors apparently struggling to breathe. Police can be seen ripping umbrellas from protestors and striking them.
 
-tags: tear-gas, strike, beat, property-destruction
+tags: tear-gas, strike, beat, property-destruction, protestor
 
 id: or-portland-17
 
@@ -302,7 +302,7 @@ Just after midnight on the morning on June 13th (between 12:30 and 12:40 AM), po
 
 It should be noted that the Portland PD is directed by the Portland mayor and a court order to use these riot control methods exclusively as "life saving measures."
 
-tags: tear-gas, flashbangs
+tags: tear-gas, flashbangs, protestor
 
 id: or-portland-10
 
@@ -319,7 +319,7 @@ id: or-portland-10
 
 Protestors are following police directions to disperse. A man is seen falling onto the screen. The filmer says, "Aw he pushed him down." Officers kick the man and strike him with batons. Protestors who try to help him stand are similarly beaten. An explosive canister containing either smoke or tear gas explodes at the feet of the filmer.
 
-tags: strike, kick, beat, baton, explosive, projectile
+tags: strike, kick, beat, baton, explosive, projectile, protestor
 
 id: or-portland-25
 
@@ -386,7 +386,7 @@ id: or-portland-19
 
 A screenshot of a Tweet from @1misanthrophile shows a protestor bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protestors say the man was struck by a rubber bullet.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: or-portland-29
 
@@ -399,7 +399,7 @@ id: or-portland-29
 
 Tear gas can be seen fired at protestors fleeing after a standoff with police. Police alleged that protestors started a dumpster fire; protestors deny this. There are passing cars caught in the tear gas. Police flag down one vehicle and pull its occupants out, while continuing to fire tear gas in the immediate area.
 
-tags: tear-gas, vehicle, grab
+tags: tear-gas, vehicle, grab, protestor, bystander
 
 id: or-portland-27
 
@@ -416,7 +416,7 @@ Additional footage shows consistent use of tear gas throughout the night.
 
 Additional images show foam bullets & tear gas canisters used during protests. It should be noted that the mayor of Portland, with the backing of a federal judge, issued a restriction on tear gas: to be used only when a life is at risk.
 
-tags: tear-gas, flashbangs, journalist, projectile, foam-bullets, shoot
+tags: tear-gas, flashbangs, journalist, projectile, foam-bullets, shoot, protestor, legal-observer
 
 id: or-portland-28
 
@@ -433,7 +433,7 @@ id: or-portland-28
 
 Images show aftermath of protestor who was shot in the eye with a Stinger rubber pellet. Additional screencap shows instruction for proper use state that it is necessary to keep trajectory low to avoid striking above the breast line - this suggests a misuse of riot rounds by officers.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: or-portland-31
 
@@ -446,7 +446,7 @@ id: or-portland-31
 
 Footage shows protestors gathered outside a building with plywood walls erected. Filmer states that police have barricaded themselves behind the plywood walls. Around 30 seconds, a small window opens in the barricade. Police launch multiple explosives at the crowd from this window.
 
-tags: explosive, projectile
+tags: explosive, projectile, protestor
 
 id: or-portland-40
 
@@ -459,7 +459,7 @@ id: or-portland-40
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
 
-tags: beat, strike, shove, throw, batons
+tags: beat, strike, shove, throw, batons, protestor
 
 id: or-portland-30
 
@@ -474,7 +474,7 @@ id: or-portland-30
 
 Footage shows police slowly retreating from protestors. Protestors remain in place. Police fire tear gas continually throughout their retreat.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: or-portland-35
 
@@ -489,7 +489,7 @@ id: or-portland-35
 
 Footage shows a protestor spray-painting a building. Another protestor with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protestor with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protestors intervene and push the officers back into the building.
 
-tags: beat, strike, property-destruction
+tags: beat, strike, property-destruction, protestor
 
 id: or-portland-32
 
@@ -502,7 +502,7 @@ id: or-portland-32
 
 Footage shows riot police charging at a handful of protestors walking away. Several of these protestors are shoved, thrown to the ground or tackled. Police arrest a handful of these protestors.
 
-tags: push, shove, throw, tackle, arrest
+tags: push, shove, throw, tackle, arrest, protestor
 
 id: or-portland-33
 
@@ -518,7 +518,7 @@ id: or-portland-33
 
 Footage shows three officers with riot guns outside a building. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protestors for a thrown water bottle.
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: or-portland-34
 
@@ -531,7 +531,7 @@ id: or-portland-34
 
 In footage from the night of June 28th, police charge protestors while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
 
-tags: strike, push, shove
+tags: strike, push, shove, protestor
 
 id: or-portland-37
 
@@ -544,7 +544,7 @@ id: or-portland-37
 
 Footage shows a police line advancing towards protestors. A protestor is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
 
-tags: push, shove, pepper-spray, spray, mace
+tags: push, shove, pepper-spray, spray, mace, protestor
 
 id: or-portland-36
 
@@ -576,7 +576,7 @@ Police then fan out across the street. Around 1:30, a protestor is seen lying on
 
 Protestors shout that at least one of these individuals is press. A later tweet by a journalist corroborates this charge.
 
-tags: shove, tackle, knee, journalist
+tags: shove, tackle, knee, journalist, protestor
 
 id: or-portland-39
 
@@ -592,7 +592,7 @@ Full footage shows police pushing protestors east under dispersal order from LRA
 
 Footage then shows police attempting to tear banner out of the hands of protestors obeying dispersal instructions. Another officer runs over and shoots protestors repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
 
-tags: shoot, projectile, property-destruction, baton, shove, strike, pepper-spray, spray
+tags: shoot, projectile, property-destruction, baton, shove, strike, pepper-spray, spray, protestor
 
 id: or-portland-41
 
@@ -628,7 +628,7 @@ id: or-portland-42
 
 In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protestors. A handful of canisters are thrown back, but the vast majority of protestors flee as police continue to fire.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: or-portland-43
 
@@ -650,11 +650,25 @@ id: or-portland-44
 * https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
 
 
+### Police tackle fleeing protestors | (Believed to be) June 30th
+
+Footage shows protestors fleeing while police give chase. Several protestors are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
+
+tags: arrest, strike, beat, baton, knee, knee-on-neck, tackle, protestor
+
+id: or-portland-49
+
+**Links**
+
+* https://www.tiktok.com/@dollface999/video/6845321520802467077
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hkv6fb/what_kind_of_dystopian_police_state_shit_is_this/
+
+
 ### Police shoot protestors | July 2nd
 
 Around 2:30 in the morning on July 2nd, footage shows police shooting at protestors (off-screen). The filmer states that protestors are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: or-portland-46
 
@@ -676,6 +690,158 @@ id: or-portland-45
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1278635513746870276
+
+
+### Police fire on gathered protestors from within Justice Center | July 3rd
+
+Prior to incident or-portland-48, where police charged protestors, police inside the Justic Center fired pepper balls at gathered protestors.
+
+tags: shoot, pepper-ball, protestor
+
+id: or-portland-47
+
+**Links**
+
+* https://mobile.twitter.com/Johnnthelefty/status/1278966824801931264
+
+
+### Local and Federal Police fire on protestors, shove journalist | July 3rd
+
+Footage shows local and federal police emerge quickly from a building, firing riot rounds and spraying pepper spray. Footage shows police shoving a man clearly taking pictures.
+
+The second link shows police rushing out and tackling a protestor, punching him repeatedly to subdue him.
+
+A third link shows damage to a parked car by police pepper balls.
+
+tags: shoot, projectile, pepper-spray, spray, pepper-ball, property-destruction, protestor, journalist
+
+id: or-portland-48
+
+**Links**
+
+* https://mobile.twitter.com/KohzKah/status/1278944647151104000
+* https://mobile.twitter.com/Johnnthelefty/status/1278969777831079937
+* https://mobile.twitter.com/Johnnthelefty/status/1278989366816239619
+
+
+### Police declare riot, fire pepper balls and tear gas | July 3rd
+
+Portland changed regulations so that police must declare a riot before using tear gas. Police did so and fired pepper balls and used tear gas against protestors. One journalist was shoved by police. She states that she was released after she started shouting her Twitter handle. Police then retreated into the Justice Center.
+
+tags: shoot, pepper-ball, tackle, journalist, tear-gas, protestor
+
+id: or-portland-50
+
+**Links**
+
+* https://mobile.twitter.com/LindseyPSmith7/status/1278947317740040192
+* https://mobile.twitter.com/LindseyPSmith7/status/1278949523939713024
+* https://mobile.twitter.com/LindseyPSmith7/status/1278956412102561793
+* https://mobile.twitter.com/LindseyPSmith7/status/1278957508460072960
+
+
+### Police slash tires of snack van | July 4th
+
+Footage taken around 11:30pm on July 4th, shows the "Snack Van" - a protestor van known to come to protests with food and water - driving slowly away from police. Officers rush up to the van and puncture its tires.
+
+tags: property-destruction, abuse-of-power, protestor
+
+id: or-portland-51
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1279676776310923266
+* [Alternate angle at 1:10:00](https://twitter.com/AbeReviate/status/1279666998809485312)
+
+
+### Police tear gas protestors from within Justice Center | July 5th
+
+Early on July 5th, protestors are gathered outside the Justic Center. Several windows in the boards open and tear gas is released. There are no police outside the building. All of the breakable glass windows have been covered with plywood. Some protestors throw the tear gas canisters back toward the building.
+
+tags: tear-gas, tear-gas-canister, protestor
+
+id: or-portland-52
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1279734884852891648
+
+
+### Unknown officers tear gas and shoot at protestors | July 5th
+
+A small group of officers is gathered on the sidewalk. Protestors have been referring to them habitually as an "unnamed Federal Terrorist militia." Protestors begin shouting at the group and approaching them. They respond by throwing tear gas and shooting at protestors.
+
+tags: tear-gas, shoot, projectile, protestor
+
+id: or-portland-53
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1279728186197065730
+
+
+### Violent arrests made by police | July 5th
+
+Footage shows police declaring the protest a riot. They fire tear gas at protestors. Protestors begin to retreat and police follow. Several officers then break from the line, brandishing pepper spray, and shove their way through the crowd. Protestors can be heard shouting, "That's press, that's press." Police throw several protestors to the ground (including the filmer). They then beat protestors with batons, punch them, and arrest them.
+
+tags: tear-gas, tackle, throw, journalist, shove, arrest, protestor
+
+id: or-portland-54
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1279909934449061888
+
+
+### Police tear gas and shove protestors | July 5th
+
+Footage shows heavy tear gas usage as protestors flee. A protestor has fallen and other protestors rush to help them up; police charge in swinging batons at these protestors. A protestor can be heard saying, "There's homeless people here," assumed to mean in the vicinity of the tear gas.
+
+Footage also shows a reporter shoved by police, knocking the phone out of his hand.
+
+tags: journalist, homeless, tear-gas, strike, baton, protestor, bystander
+
+id: or-portland-57
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1279682872484347905
+
+
+### Badgeless federal agents deployed to Portland; tear gas protestors | July 5th
+
+Federal agents without any identification or badge numbers were deployed to Portland the night of July 5th. They appear to be carrying standard-issue weapons with live rounds.
+
+Protestors believe they are Department of Homeland Security agents and/or U.S. Marshals.
+
+There have been numerous unconfirmed reports of these agents using excessive force to make arrests. The final link shows agents in military camouflage deploying tear gas and chasing protestors before retreating.
+
+tags: hide-badges, tear-gas, protestor
+
+id: or-portland-55
+
+**Links**
+
+* https://twitter.com/StacyinSF/status/1280019912790953991
+* https://twitter.com/tuckwoodstock/status/1280008752502980609
+* https://twitter.com/tuckwoodstock/status/1280011368217763841
+* https://twitter.com/tuckwoodstock/status/1280011729489899521
+* https://twitter.com/defendpdx/status/1280015792751259648
+* [Unconfirmed report of violence](https://twitter.com/PNWYLF/status/1280041643458977793)
+* [Tear gas](https://twitter.com/45thabsurdist/status/1280051607225262081)
+
+
+### Confirmed report of U.S. Federal agents kneeling on protestor | July 6th
+
+Footage shows 2 agents in fatigues, either DHS or U.S. Marshals, kneeling on a protestor to make an arrest. A journalist attempting to film is harassed and told to move faster by a third agent.
+
+tags: knee, arrest, journalist, protestor
+
+id: or-portland-56
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1280217831079018496
 
 
 ## Salem

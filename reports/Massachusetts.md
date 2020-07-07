@@ -1,23 +1,10 @@
 ## Boston
 
-### Police beat an innocent man crossing the street with batons. | May 31st
-
-Police beat an innocent man crossing the street with batons.
-
-tags: beat, batons
-
-id: ma-boston-1
-
-**Links**
-
-* https://twitter.com/RimeAndTreason/status/1267268090351489024
-
-
 ### A cop takes someone's protest sign and destroys it. | Unknown Date
 
 
 
-tags: property-destruction
+tags: property-destruction, protestor
 
 id: ma-boston-2
 
@@ -49,7 +36,7 @@ On video, protestors can be heard yelling "You feel big hitting a little woman l
 
 An additional angle provided by the girl's sister shows numerous officers lifting her off the ground and dragging her behind the police line, after which the line closes to obfuscate any view of her.
 
-tags: child, shove, arrest, throw
+tags: child, shove, arrest, throw, protestor
 
 id: ma-worcester-2
 
@@ -65,7 +52,7 @@ id: ma-worcester-2
 
 Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protestors without warning. Police continue firing as protestors flee.
 
-tags: tear-gas, rubber-bullets, pepper-spray, spray, shoot
+tags: tear-gas, rubber-bullets, pepper-spray, spray, shoot, protestor
 
 id: ma-worcester-3
 
@@ -82,7 +69,7 @@ Eyewitness reports seeing numerous people tackled.
 
 Eyewitness reports being slammed from behind after obeying police order to raise hands and disperse. He and his sister report police kneeled on the man's neck "in the same manner as George Floyd."
 
-tags: arrest, punch, tackle, knee, knee-on-kneck, beat
+tags: arrest, punch, tackle, knee, knee-on-kneck, beat, protestor
 
 id: ma-worcester-4
 

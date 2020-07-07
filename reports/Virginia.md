@@ -24,7 +24,7 @@ id: va-fairfax-1
 
 Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protestors are lying on the ground as tear gas canisters fall around them.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: va-fredericksburg-2
 
@@ -44,7 +44,7 @@ In this video, delegate Lee Carter asks officers questions about their methods i
 
 It is unclear how the protest unfolded, and why the police were advancing on the crowd wearing riot gear; police allege that the protest turned violent and some protesters say that they were tear-gassed or shot at with rubber bullets while peacefully protesting or retreating. (See fourth and fifth links.)
 
-tags: politician, push, shove, pepper-spray, spray
+tags: politician, push, shove, pepper-spray, spray, protestor
 
 id: va-manassas-1
 
@@ -63,7 +63,7 @@ id: va-manassas-1
 
 Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protestors are gathered. Protestors are forced to run to avoid being hit.
 
-tags: vehicle
+tags: vehicle, protestor
 
 id: va-richmond-9
 
@@ -76,7 +76,7 @@ id: va-richmond-9
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
 
-tags: spray, pepper-spray
+tags: spray, pepper-spray, bystander
 
 id: va-richmond-1
 
@@ -91,7 +91,7 @@ id: va-richmond-1
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM. The police chief has said that the officers' actions were "unwarranted" and "outside dept protocols." At least one protester has sued the officers involved.
 
-tags: tear-gas, tear-gas-canister
+tags: tear-gas, tear-gas-canister, protestor
 
 id: va-richmond-2
 
@@ -111,7 +111,7 @@ id: va-richmond-2
 
 A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera. Extended footage shows the officer continuing to spit on the protestor.
 
-tags: arrest, inhumane-treatment
+tags: arrest, inhumane-treatment, protestor
 
 id: va-richmond-3
 
@@ -139,7 +139,7 @@ id: va-richmond-4
 
 In this video, protestors on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protestors and knocks a protester off of their bike.
 
-tags: vehicle, drive
+tags: vehicle, drive, protestor
 
 id: va-richmond-6
 
@@ -154,7 +154,7 @@ Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Pol
 
 Richmond was no longer under curfew restrictions at this time.
 
-tags: tear-gas, rubber-bullets, shoot
+tags: tear-gas, rubber-bullets, shoot, protestor
 
 id: va-richmond-5
 
@@ -187,7 +187,7 @@ id: va-richmond-7
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
-tags: shove, tear-gas, shoot
+tags: shove, tear-gas, shoot, protestor
 
 id: va-richmond-8
 
@@ -204,7 +204,7 @@ id: va-richmond-8
 
 Footage shows a group of scattered protestors some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
-tags: shoot, projectile, explosive
+tags: shoot, projectile, explosive, protestor
 
 id: va-richmond-10
 
@@ -217,7 +217,7 @@ id: va-richmond-10
 
 Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protestors. He grabs a protestor on a bike, then proceeds to drag the protestor into the street and off the bike. Several officers aid the officer in arresting the protestor, while the original officer kneels on the protestor's back.
 
-tags: bike, grab, arrest, knee
+tags: bike, grab, arrest, knee, protestor
 
 id: va-richmond-11
 
@@ -230,7 +230,7 @@ id: va-richmond-11
 
 Footage shows a police officer shoving a protestor to the ground. The protestor scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protestors.
 
-tags: shove, pepper-spray, spray
+tags: shove, pepper-spray, spray, protestor
 
 id: va-richmond-12
 
@@ -249,7 +249,7 @@ He states that he was told to leave. Then, when he tried to photograph the offic
 
 A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
 
-tags: arrest, abuse-of-power, zip-ties
+tags: arrest, abuse-of-power, bystander, zip-ties
 
 id: va-richmond-13
 

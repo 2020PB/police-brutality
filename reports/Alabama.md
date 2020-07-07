@@ -39,7 +39,7 @@ id: al-birmingham-2
 
 During a peaceful protest, police corral protestors onto a hill. Officers snatch protestors at the edges and throw them to the ground to make arrests.
 
-tags: arrest, shove, throw, push, knee
+tags: arrest, shove, throw, push, knee, protestor
 
 id: al-hoover-1
 
@@ -56,7 +56,7 @@ id: al-hoover-1
 
 During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
 
-tags: baton, kick, beat, push, shove
+tags: baton, kick, beat, push, shove, protestor
 
 id: al-huntsville-1
 
@@ -69,7 +69,7 @@ id: al-huntsville-1
 
 Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason.
 
-tags: threaten, pepper-spray, spray
+tags: threaten, pepper-spray, spray, protestor
 
 id: al-huntsville-2
 
@@ -82,7 +82,7 @@ id: al-huntsville-2
 
 Police use tear gas on reporters and protestors, who are then initially blocked from leaving the area by other officers.
 
-tags: tear-gas, tear-gas-canister, journalist
+tags: tear-gas, tear-gas-canister, journalist, protestor
 
 id: al-huntsville-3
 
@@ -97,7 +97,7 @@ A Huntsville PD Lieutenant stated that they used tear gas on protestors before v
 
 Footage taken of a protestor in a garage after shows bruises consistent with rubber bullet rounds.
 
-tags: tear-gas, tear-gas-canister, rubber-bullets, shoot
+tags: tear-gas, tear-gas-canister, rubber-bullets, shoot, protestor
 
 id: al-huntsville-4
 
@@ -115,7 +115,7 @@ After disperse order is given, protestors comply and begin to back away from the
 
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
 
-tags: rubber-bullets, threaten
+tags: rubber-bullets, threaten, protestor
 
 id: al-huntsville-5
 
