@@ -157,7 +157,7 @@ id: mn-minneapolis-27
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
 
-tags:
+tags: 
 
 id: mn-minneapolis-23
 
