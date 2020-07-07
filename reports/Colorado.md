@@ -180,7 +180,7 @@ id: co-denver-15
 * [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
 
 
-### Crowd of journalists tear gassed | May 31st
+### Crowd of journalists tear gassed | May 30th
 
 Journalist Lindsay Fendt was standing with a group of other journalists. Protesters threw a tear gas canister back at police; police kicked it toward the journalist, tear gassing Fendt and others.
 
@@ -266,9 +266,9 @@ id: co-denver-19
 
 ### Journalist injured by tear gas, less-than-lethal round | May 31st
 
-Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas.
+Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas. Journalist Dave Sachs claims something similar happened to him -- he showed his press pass to police but they shoved him into tear gas.
 
-tags: shoot, projectile, tear-gas, journalist, threaten
+tags: shoot, projectile, tear-gas, journalist, shove, threaten
 
 id: co-denver-22
 
@@ -279,20 +279,8 @@ id: co-denver-22
 * https://twitter.com/EstebanHRZ/status/1267318923243986945
 * https://twitter.com/alex_burness/status/1267516045104943107
 * https://twitter.com/EliseSchmelzer/status/1267314482461589505
+* [David Sachs' description of the incident involving him](https://twitter.com/DavidASachs/status/1266920122893156353)
 * [Denver police were sued in 2018 for illegally arresting a journalist. The settlement required first amendment training. It has yet to happen.](https://www.coloradoindependent.com/2020/06/02/denver-police-protest-first-amendment-journalists/)
-
-
-### Journalist forced into cloud of tear gas | May 31st
-
-Journalist Dave Sachs was caught between officers and demonstrators. Showed police his press badge. Police twice shoved him, forcing him into a cloud of tear gas.
-
-tags: journalist, shove, tear-gas
-
-id: co-denver-23
-
-**Links**
-
-* https://twitter.com/DavidASachs/status/1266920122893156353
 * https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
 
 
