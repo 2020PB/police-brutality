@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-07T16:53:01.516313+00:00
+UPDATED AT: 2020-07-07T19:59:30.029574+00:00
 
 
 # Alabama
@@ -29,7 +29,7 @@ Around six officers arrested Harriot. Per AL.com, Harriot "was asked if he could
 
 According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; they had to use a pocket knife in addition to the usual tool. Harriot was also interviewed by two agents claiming to be from the FBI.
 
-tags: arrest, journalist, racial-profiling
+tags: arrest, journalist, racial-profiling, zip-ties
 
 id: al-birmingham-2
 
@@ -728,7 +728,7 @@ Many protesters allege that conditions in the makeshift jails were poor -- detai
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protestor
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protestor, zip-ties
 
 id: ca-losangeles-19
 
@@ -755,7 +755,7 @@ Several arrestees describe police sexually harassing/assaulting them; other arre
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protestor
+tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protestor, zip-ties
 
 id: ca-losangeles-32
 
@@ -1232,7 +1232,7 @@ Zip ties were put on too tight. Police attempted to remove zip ties with a long 
 
 (See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
 
-tags: abuse-of-power, arrest, inhumane-treatment, protestor
+tags: abuse-of-power, arrest, inhumane-treatment, protestor, zip-ties
 
 id: ca-santamonica-2
 
@@ -2628,7 +2628,7 @@ id: ia-desmoines-3
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
-tags: journalist, arrest, pepper-spray, spray
+tags: journalist, arrest, pepper-spray, spray, zip-ties
 
 id: ia-desmoines-7
 
@@ -4639,7 +4639,7 @@ Three partygoers state officers used racial slurs while arresting them.
 
 Images show swollen hands from zip ties as well as bruises from batons. One partygoer states he suffered a severe sprain in his arm, and doctors could not determine from an X-Ray if it had been broken or not.
 
-tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander
+tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander, zip-ties
 
 id: ny-newyorkcity-39
 
@@ -4838,7 +4838,7 @@ The third clip shows police shoving protestors on the sidewalk with their batons
 
 In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
 
-tags: shove, baton, strike, beat, arrest, choke, hide-badges, protestor
+tags: shove, baton, strike, beat, arrest, choke, hide-badges, protestor, zip-ties
 
 id: ny-newyorkcity-50
 
@@ -4960,9 +4960,9 @@ id: nc-charlotte-2
 
 The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protestors.
 
-Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to ziptie. In addition, a reporter filming was struck by an officer and threatened with arrest.
+Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to zip tie. In addition, a reporter filming was struck by an officer and threatened with arrest.
 
-tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, protestor, medic
+tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, protestor, medic, zip-ties
 
 id: nc-charlotte-3
 
@@ -6834,7 +6834,7 @@ A reporter recounts on Twitter that she was arrested despite telling an officer 
 
 Footage shows first-person video leading up to her arrest. It includes her clear identification, with press badge, as a reporter.
 
-tags: journalist, arrest, abuse-of-power
+tags: journalist, arrest, abuse-of-power, zip-ties
 
 id: pa-philadelphia-12
 
@@ -7859,7 +7859,7 @@ He states that he was told to leave. Then, when he tried to photograph the offic
 
 A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
 
-tags: arrest, abuse-of-power, bystander
+tags: arrest, abuse-of-power, bystander, zip-ties
 
 id: va-richmond-13
 
