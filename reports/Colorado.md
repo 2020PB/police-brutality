@@ -127,7 +127,7 @@ id: co-denver-5
 
 ### Police tear gas and shoot protestors | May 30th
 
-Policemen turned off their body cams and started unnecessary firing of tear gas.
+Police fired tear gas after allegedly turning off their body cams.
 
 tags: body-cam, tear-gas, shoot
 
@@ -233,7 +233,7 @@ id: co-denver-16
 * https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
 
 
-### Footage shows effect of less-lethal round | May 31st
+### Man's face injured by less-lethal round | May 31st
 
 Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
 
@@ -292,13 +292,13 @@ id: co-denver-12
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
 
 
-### Protestor struck in head at short range with explosive projectile | (Believed to be) June 6th
+### Protestor struck in head at short range with explosive projectile | (Believed to be) June 5th
 
 Footage shows protestors walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protestor in head. Protestor crumples to the ground. Title on Reddit states that the protestor suffered permanent hearing loss, but this has not been verified.
 
 It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protestors severely increased the risk of injury, as seen here.
 
-Footage was first posted on reddit.com/r/protest on June 6th.
+Footage was first posted on reddit.com/r/protest on June 5th.
 
 tags: shoot, projectile, explosive
 
