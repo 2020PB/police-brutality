@@ -365,7 +365,7 @@ Footage beginning at 14:00 shows police begin to advance on protestors without w
 
 The second link shows a still of the bicyclist's arrest.
 
-tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee
+tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee, protestor
 
 id: wa-seattle-24
 
@@ -383,7 +383,7 @@ The officer kneeling on the protestor's kneck has his badge covered.
 
 Protestor was allegedly arrested for crossing a street in the Capitol Hill neighborhood.
 
-tags: arrest, beat, strike, baton, punch, knee, knee-on-neck
+tags: arrest, beat, strike, baton, punch, knee, knee-on-neck, protestor
 
 id: wa-seattle-25
 
@@ -396,7 +396,7 @@ id: wa-seattle-25
 
 A man returning to his apartment is followed by a police officer. The officer asks the man where he lives. The man responds with his address. The officer is joined by a second and they ask the filmer for ID. The filmer states he does not have ID and that the Mayor said police should stop asking for ID. The police say that the order just came in to start asking for ID again. They give the filmer three options: leave the area, be arrested, or allow the police to escort him to his home. The filmer decides to leave the area.
 
-tags: abuse-of-power
+tags: abuse-of-power, bystander
 
 id: wa-seattle-26
 
