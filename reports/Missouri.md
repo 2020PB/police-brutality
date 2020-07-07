@@ -148,7 +148,7 @@ Footage shows police shooting riot rounds at protestors in the zone. The account
 
 Footage from the second link also shows violent arrests where police force protestors to the ground, pulling on limbs, punching and kneeling on protestors.
 
-tags: shoot, rubber-bullets, pepper-balls, projectile, mace, pepper-spray, spray, arrest
+tags: shoot, rubber-bullets, pepper-balls, projectile, mace, pepper-spray, spray, arrest, protestor
 
 id: mo-florissant-3
 
