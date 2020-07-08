@@ -57,6 +57,8 @@ id: tn-murfreesboro-1
 * [Continued deployment of tear gas after protestors had moved](https://twitter.com/joe_spears7/status/1267246919673434113)
 
 
+## Nashville
+
 ### Police confiscate protestor supplies | June 23rd
 
 Police shut down a protestor station on Capitol Hill in Nashville, confiscating food, water, medical supplies, personal belongings and signs. Caption states that police shoved protestors trying to keep hold of their belongings.
@@ -119,4 +121,17 @@ id: tn-nashville-4
 
 * https://twitter.com/brotherjones_/status/1277580136284651521
 * https://twitter.com/brotherjones_/status/1277694340534546433
+
+
+### Police drag protestors down Capitol steps | July 4th
+
+In footage provided by a prominent Nashville activist, state troopers drag protestors down the steps of the Capitol building. Many troopers can be seen kneeling on protestors, both on the flat pavement and on the steps.
+
+tags: arrest, protestor, knee
+
+id: tn-nashville-5
+
+**Links**
+
+* https://twitter.com/brotherjones_/status/1280211300082122758
 
