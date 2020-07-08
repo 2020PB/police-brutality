@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-08T14:20:06.305015+00:00
+UPDATED AT: 2020-07-08T16:58:21.339118+00:00
 
 
 # Alabama
@@ -350,6 +350,7 @@ id: ca-gustine-1
 * [West Side Connect Coverage](http://www.westsideconnect.com/community/groups-clash-in-gustine-altercation/article_ec25243e-bc97-11ea-8384-2b2fba8f80fb.html)
 * [Yahoo News Coverage, with video before the incident](https://news.yahoo.com/police-investigate-altercation-between-groups-192038713.html)
 * [Street view of the location, for reference](https://www.google.com/maps/@37.2535159,-120.998706,3a,60y,326.22h,85.89t/data=!3m6!1e1!3m4!1spuyVbnKo6ts2Zc-15NMVgg!2e0!7i13312!8i6656)
+
 
 ## Hollywood
 
@@ -7073,6 +7074,32 @@ id: sc-charleston-3
 
 
 
+# South Dakota
+
+## Keystone
+
+### Native protestors shot at and arrested on native land | July 3rd
+
+Native protestors in Keystone, South Dakota blocked a highway in anticipation of a Trump rally. Though blocking a highway is indeed illegal, the highway is also on unceded Indigenous land.
+
+Around 2:07:00, the police and National Guard line advances with shields. Protestors resist being pushed. National Guard falls back around 2:17:00. Around 2:20:00, the line reforms. Around 2:27:00, the National Guard fires pepper balls at gathered protestors. Some protestors had gathered on a nearby hill and were pushed off by police (2:36:00). Around 3:00:00, National Guard push past the protestor vans and begin the process of towing them.
+
+News reports additionally state that pepper spray and tear gas were used. The tear gas was deployed by the Pennington County Sheriff's Office.
+
+tags: arrest, tear-gas, pepper-spray, spray, shoot, pepper-ball, protestor
+
+id: sd-keystone-1
+
+**Links**
+
+* [Livestream. See timestamps above](https://www.pscp.tv/w/1BRKjYOAEMpxw)
+* [Footage of arrests](https://twitter.com/Te_Taipo/status/1279224285660250113)
+* https://www.aberdeennews.com/news/protesters-in-keystone-blocking-road-to-mount-rushmore-declared-an-unlawful-assembly/article_51d5f3a4-bd82-11ea-832e-8b50821b9514.html
+* https://rapidcityjournal.com/news/state-and-regional/update-protests-ramp-up-national-guard-on-the-scene-trump-scheduled-to-arrive-at-ellsworth/article_34e80951-45a2-529f-97c7-5c9e5154405a.html
+
+
+
+
 # Tennessee
 
 ## Chattanooga
@@ -8403,6 +8430,7 @@ id: wa-seattle-26
 **Links**
 
 * https://twitter.com/slydesilva/status/1279107834739736576
+
 
 
 
