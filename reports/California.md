@@ -55,7 +55,7 @@ About twenty anti-BLM protesters (holding a thin blue line flag and affiliated w
 
 Police arrived shortly thereafter. They told the counter-protesters to wait in police cars (allegedly for their own protection); the counter-protesters say they were kept in police cars for nearly an hour. The CVP protesters were not put into police cars. One counter-protester says that counter-protesters tried to leave multiple times, but were told that they were not free to go. Police can be seen shaking the hand of one of the CVP protesters; counter-protesters claim police were somewhat dismissive of their allegations of assault against the CVP protesters. No arrests were made, but a report concerning the incident has been referred to the DA.
 
-tags: 
+tags: abuse-of-power, protestor
 
 id: ca-gustine-1
 
