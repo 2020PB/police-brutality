@@ -174,6 +174,23 @@ id: fl-orlando-2
 * [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
 
 
+### Woman stopped by police while leaving protest; police break her car window | June 3rd
+
+A woman is in her car leaving a protest. Police stop her, stating she was blocking a roadway. The officer says she can exit the car or be removed. The woman says she doesn't believe she did anything wrong. The officer then reaches inside her window for the lock. He cannot, so the window is broken.
+
+She was released shortly after with minor abrasions and no charges.
+
+tags: arrest, property-destruction, protestor
+
+id: fl-orlando-6
+
+**Links**
+
+* https://twitter.com/edgarcomellas/status/1268555233065668608
+* https://www.orlandosentinel.com/news/crime/os-ne-orlando-george-floyd-protest-traffic-stop-deputy-breaks-window-20200604-y52jqcaogjfw5nzfcmu6tlgzhi-story.html
+* https://www.wdbo.com/news/local/video-shows-orange-county-deputy-smashing-woman-window-after-refusing-leave/2JrFiuwJgtkVzGJqXrLS7I/
+
+
 ## Tampa
 
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
@@ -252,4 +269,36 @@ id: fl-tampa-6
 
 * https://twitter.com/greg_doucette/status/1270491699832401920
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
+
+
+### Police officer grabs arrestee's breast; police violently arrest protestor | July 1st
+
+Footage shows police arresting a woman. A man who walked nearby with his hands up is thrown to the ground by two officers and arrested.
+
+Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protestor without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
+
+tags: arrest, shove, abuse-of-power, inhumane-treatment, protestor
+
+id: fl-tampa-8
+
+**Links**
+
+* https://www.instagram.com/p/CCHywZpjAYw/
+* https://www.miaminewtimes.com/news/video-shows-miami-police-grab-breast-of-protester-11661608
+
+
+### Police assault protestors without apparent cause | July 4th
+
+Footage is short, but it shows protestors chanting near police, asking why another protestor is being arrested. A protestor with a megaphone approaches an officer. He is shouting. Without warning police charge protestors. They slam one protestor against a car, throw him on the ground and kneel on him to make an arrest.
+
+Pepper spray can be heard in the audio.
+
+tags: tackle, strike, knee, arrest, pepper-spray, spray
+
+id: fl-tampa-7
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hmhcgz/tampa_police_department_4th_of_july_unprovoked/
+* https://www.youtube.com/watch?v=_uFeu1zUYIo
 
