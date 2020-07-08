@@ -139,3 +139,21 @@ id: mo-florissant-2
 * https://twitter.com/search4swag/status/1277059423966507008
 * https://twitter.com/NassimBnchabane/status/1277056390314541056
 
+
+### Police shoot at protestors in designated protest area | July 6th
+
+Police created a designated protest zone for protestors. Protestors allegedly stepped outside the protest zone, so the protest was deemed an unlawful assembly. However, protestors state that police continued to fire at them after they returned to the protest zone.
+
+Footage shows police shooting riot rounds at protestors in the zone. The account that posted the first link states that police were using rubber bullets; the second states that they were using rubber bullets or pepper balls, and that police also maced protestors.
+
+Footage from the second link also shows violent arrests where police force protestors to the ground, pulling on limbs, punching and kneeling on protestors.
+
+tags: shoot, rubber-bullets, pepper-balls, projectile, mace, pepper-spray, spray, arrest, protestor
+
+id: mo-florissant-3
+
+**Links**
+
+* https://twitter.com/CopWatchSTL/status/1280342740706959361
+* https://twitter.com/search4swag/status/1280332765859319810
+
