@@ -358,3 +358,49 @@ id: wa-seattle-23
 * https://twitter.com/sre_li/status/1278856204018565120
 * https://twitter.com/1stRoundFinish/status/1278854169743388672
 
+
+### Violent arrests made at protests near CHOP | July 2nd
+
+Footage beginning at 14:00 shows police begin to advance on protestors without warning. They use their shields and batons to strike and shove protestors. When protestors become agitated, police tackle protestors and discharge pepper spray. Footage shows police kneeling on one protestor, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
+
+The second link shows a still of the bicyclist's arrest.
+
+tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee, protestor
+
+id: wa-seattle-24
+
+**Links**
+
+* [Begins at 14:00; arrest made at 17:00](https://www.facebook.com/joeywieser/videos/10158221953345491/)
+* https://twitter.com/spekulation/status/1278593887410372608
+
+
+### Police make violent arrest | July 2nd
+
+Footage taken around midnight the morning of July 2nd shows multiple officers arresting a protestor, striking him with batons, punching him, and kneeling on his neck.
+
+The officer kneeling on the protestor's kneck has his badge covered.
+
+Protestor was allegedly arrested for crossing a street in the Capitol Hill neighborhood.
+
+tags: arrest, beat, strike, baton, punch, knee, knee-on-neck, protestor, hide-badge
+
+id: wa-seattle-25
+
+**Links**
+
+* https://twitter.com/own_the_libs_/status/1278765129752907777
+* https://twitter.com/own_the_libs_/status/1278765575494266881
+
+
+### Police harass man attempting to go to his apartment | July 3rd
+
+A man returning to his apartment is followed by a police officer. The officer asks the man where he lives. The man responds with his address. The officer is joined by a second and they ask the filmer for ID. The filmer states he does not have ID and that the Mayor said police should stop asking for ID. The police say that the order just came in to start asking for ID again. They give the filmer three options: leave the area, be arrested, or allow the police to escort him to his home. The filmer decides to leave the area.
+
+tags: abuse-of-power, bystander
+
+id: wa-seattle-26
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1279107834739736576
