@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-08T13:33:42.664926+00:00
+UPDATED AT: 2020-07-08T13:42:09.187676+00:00
 
 
 # Alabama
@@ -5755,6 +5755,19 @@ id: oh-dayton-1
 **Links**
 
 * [Tear gas at 18:20 and 34:00](https://www.facebook.com/daytondailynews/videos/276588847040795)
+
+
+### Police tear gas peaceful protest | June 1st
+
+Footage shows peaceful protestors occupying a road. They are chanting. Without warning, police fire tear gas, scattering the protestors
+
+tags: tear-gas, protestor
+
+id: oh-dayton-2
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1279832182463365125
 
 
 ## Toledo
