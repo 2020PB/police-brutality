@@ -47,6 +47,32 @@ id: ca-costa-mesa-1
 * https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
 
 
+## Gustine
+
+### Protesters attacked; police shake hands of attackers; tell protesters to wait in patrol cars | June 28th
+
+About twenty anti-BLM protesters (holding a thin blue line flag and affiliated with California Valley Patriots (CVP)) were holding a rally in Gustine California (at the corner of Grove Avenue and 5th Street). A group of around 3 young people decided to hold an impromptu counter-protest, and parked across the street from the CVP protesters. CVP protesters came across the street and began shouting at the counter-protesters. Some time later, video shows one counter-protester on the ground, on the CVP proesters' side of the street, being beaten by CVP protesters. Another counter-protester is trying to intervene but being physically restrained by CVP protesters; a third is filming the incident as CVP protesters heckle her. Photos taken after the incident show at least two of the protesters badly beaten. Each side says the other started the altercation.
+
+Police arrived shortly thereafter. They told the counter-protesters to wait in police cars (allegedly for their own protection); the counter-protesters say they were kept in police cars for nearly an hour. The CVP protesters were not put into police cars. One counter-protester says that counter-protesters tried to leave multiple times, but were told that they were not free to go. Police can be seen shaking the hand of one of the CVP protesters; counter-protesters claim police were somewhat dismissive of their allegations of assault against the CVP protesters. No arrests were made, but a report concerning the incident has been referred to the DA.
+
+tags: abuse-of-power, protestor
+
+id: ca-gustine-1
+
+**Links**
+
+* [Video after the incident](https://twitter.com/stussycastro/status/1277345103862837249)
+* [More video after the incident](https://twitter.com/stussycastro/status/1277347410855907328)
+* [Video during the incident](https://twitter.com/greg_doucette/status/1279473878335655936)
+* [Video during and after the incident](https://twitter.com/s_gardenhire/status/1278037063946792960)
+* [Account from a counterprotester, with pictures of injuries](https://twitter.com/stussycastro/status/1279289483972628482)
+* [Video of injuries; response (purportedly from CVP) in comments](https://www.facebook.com/jpvazquez2/videos/10158730583897268/)
+* [Twitter feed with misc. other evidence](https://twitter.com/cecigam24)
+* [Merced Sun-Star Coverage](https://www.mercedsunstar.com/news/local/article243914827.html)
+* [West Side Connect Coverage](http://www.westsideconnect.com/community/groups-clash-in-gustine-altercation/article_ec25243e-bc97-11ea-8384-2b2fba8f80fb.html)
+* [Yahoo News Coverage, with video before the incident](https://news.yahoo.com/police-investigate-altercation-between-groups-192038713.html)
+* [Street view of the location, for reference](https://www.google.com/maps/@37.2535159,-120.998706,3a,60y,326.22h,85.89t/data=!3m6!1e1!3m4!1spuyVbnKo6ts2Zc-15NMVgg!2e0!7i13312!8i6656)
+
 ## Hollywood
 
 ### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
