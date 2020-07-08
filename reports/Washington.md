@@ -371,7 +371,7 @@ id: wa-seattle-24
 
 **Links**
 
-* https://www.facebook.com/joeywieser/videos/10158221953345491/
+* [Begins at 14:00; arrest made at 17:00](https://www.facebook.com/joeywieser/videos/10158221953345491/)
 * https://twitter.com/spekulation/status/1278593887410372608
 
 
