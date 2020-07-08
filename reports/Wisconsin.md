@@ -4,7 +4,7 @@
 
 Ten seconds into the video, in the bottom-left corner, an officer pepper-sprays a protestor who is walking backwards with his arms raised.
 
-tags: pepper-spray
+tags: pepper-spray, protestor
 
 id: wi-madison-1
 
@@ -19,7 +19,7 @@ A group of protestors are standing on a road paved over for pedestrian-only traf
 
 The journalist filming is told he is not allowed to remain, despite identifying himself as press.
 
-tags: pepper-spray, journalist
+tags: pepper-spray, journalist, protestor
 
 id: wi-madison02
 
@@ -35,7 +35,7 @@ id: wi-madison02
 
 Officers restrain a protester by placing a knee on his neck. Article explains incident occurred after two officers collided with each other on bicycles, after which they began striking protesters.
 
-tags: knee-on-neck, arrest, tear-gas, bike, projectiles
+tags: knee-on-neck, arrest, tear-gas, bike, projectiles, protestor
 
 id: wi-milwaukee-1
 
