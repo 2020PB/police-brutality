@@ -59,7 +59,6 @@ id: tn-murfreesboro-1
 
 ## Nashville
 
-
 ### Police confiscate protestor supplies | June 23rd
 
 Police shut down a protestor station on Capitol Hill in Nashville, confiscating food, water, medical supplies, personal belongings and signs. Caption states that police shoved protestors trying to keep hold of their belongings.
@@ -135,3 +134,4 @@ id: tn-nashville-5
 **Links**
 
 * https://twitter.com/brotherjones_/status/1280211300082122758
+
