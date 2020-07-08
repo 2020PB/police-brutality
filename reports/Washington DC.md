@@ -372,8 +372,6 @@ Footage from 3 tiktok videos shows numerous officers (approximately 8) arresting
 
 The protestor can be heard screaming in pain as police force him into cuffs. Police then lift him by his limbs and his pants to carry him away.
 
-Police also strike the filmer in the second tiktok video.
-
 The third link appears to be the third in chronological order as the protestors arms are already cuffed. It is unclear why he is lying face down in the bushes at the beginning of this clip. It additionally shows the careless and physical manner of arrest used by the police.
 
 tags: arrest, strike, protestor
