@@ -73,6 +73,7 @@ id: ca-gustine-1
 * [Yahoo News Coverage, with video before the incident](https://news.yahoo.com/police-investigate-altercation-between-groups-192038713.html)
 * [Street view of the location, for reference](https://www.google.com/maps/@37.2535159,-120.998706,3a,60y,326.22h,85.89t/data=!3m6!1e1!3m4!1spuyVbnKo6ts2Zc-15NMVgg!2e0!7i13312!8i6656)
 
+
 ## Hollywood
 
 ### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
