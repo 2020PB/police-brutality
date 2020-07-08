@@ -205,7 +205,7 @@ Use the following format for all incident reports.
 ```
 // State.md
 
-## City
+## City Name (Note: Exclude this, if city section is already available)
 
 ### Brief description of a thing that happened | Date
 
@@ -219,7 +219,7 @@ created a github repository on June 1st 2020 to compile evidence of police bruta
 and concerned citizens. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
-tags: vehicle, celebrity, death (ex: check below)
+tags: vehicle, celebrity, death (ex: check the link to tags below)
 
 id: state_abbreviation-city-number (ex: ca-losangeles-1)
 
@@ -227,6 +227,7 @@ id: state_abbreviation-city-number (ex: ca-losangeles-1)
 
 * https://github.com/2020PB/police-brutality
 * https://www.reddit.com/r/2020PoliceBrutality
+* [Link description can also be provided inside square brackets. ex: 'Video of the incident taken from building'](https://link-to-video-on-web/)
 ```
 
 Check the current list of [tags](docs/possible_tags.md)

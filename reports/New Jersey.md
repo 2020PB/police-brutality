@@ -8,7 +8,7 @@ As reporter is backing away, police yell at him to go him.
 
 Another officer is heard saying, "Fuck him," before arresting the reporter.
 
-tags: journalist, arrest, shove, push, tackle
+tags: journalist, arrest, shove, push, tackle, protestor
 
 id: nj-asburypark-1
 

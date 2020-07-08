@@ -8,7 +8,7 @@ Miami Herald later reports the officer has a history of drawing his weapon and u
 
 A more recent update states that the officer has been charged with battery.
 
-tags: shove
+tags: shove, protestor
 
 id: fl-fortlauderdale-1
 
@@ -25,7 +25,7 @@ id: fl-fortlauderdale-1
 
 A line of police officers are standing in front of a building with shields, and protesters can be seen filming them with phones. A shot is heard, and a woman collapses. A news report indicates that she was hit with a foam rubber bullet in her head just above the right eye, fracturing her eye socket.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: fl-fortlauderdale-2
 
@@ -58,7 +58,7 @@ A protestor in the street can be seen milling about before an officer charges th
 
 Filmer also states that tear gas was used against a peaceful protest.
 
-tags: tackle, arrest, shove, throw, gun, tear-gas
+tags: tackle, arrest, shove, throw, gun, tear-gas, protestor
 
 id: fl-jacksonville-1
 
@@ -75,7 +75,7 @@ Police are in a van. A man walking on the sidewalk with another man begins to sp
 
 Miami PD states the man was arrested for breaking the 8pm curfew, but the poster states the arrest occurred around 5:45pm.
 
-tags: tackle, arrest
+tags: tackle, arrest, protestor
 
 id: fl-miami-1
 
@@ -92,7 +92,7 @@ In the 9:00 PM round, the filmer can be heard saying, "They're smoke bombs. No, 
 
 Around 9:09 PM, protestors gathered on the highway on-ramp. Police then, without warning, fired another round of tear gas, forcing protestors to flee. The caption states multiple protestors were shot with rubber bullets, but no shots can be heard in this footage.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: fl-miami-2
 
@@ -108,7 +108,7 @@ id: fl-miami-2
 
 Footage shows police charging at protestors and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protestor. Police continue to discharge pepper spray and force away protestors trying to aid victims.
 
-tags: tackle, pepper-spray, spray
+tags: tackle, pepper-spray, spray, protestor
 
 id: or-orlando-5
 
@@ -121,7 +121,7 @@ id: or-orlando-5
 
 A police officer grabs a protestor from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
 
-tags: tackle, pepper-spray, arrest, shove, spray
+tags: tackle, pepper-spray, arrest, shove, spray, protestor
 
 id: fl-orlando-1
 
@@ -134,7 +134,7 @@ id: fl-orlando-1
 
 A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protestor begs police not to hurt him.
 
-tags: tackle, arrest, knee
+tags: tackle, arrest, knee, protestor
 
 id: fl-orlando-3
 
@@ -148,7 +148,7 @@ id: fl-orlando-3
 
 A woman films a BLM protest in Orlando from a window. Protestors have gather around a police bike line blocking an intersection. Police begin shouting and shove protestors back with their bikes.
 
-tags: bike, shove
+tags: bike, shove, protestor
 
 id: fl-orlando-4
 
@@ -163,7 +163,7 @@ Police open fire on protesters outside of city hall with tear gas, flashbangs, a
 
 Additional footage shows the incident was instigated when officers shoved a protestor. The protestor then fled. Officers tackled another protestor on the sidewalk, then began firing riot control rounds.
 
-tags: shoot, tear-gas, flashbangs, rubber-bullets, shove, push, tackle
+tags: shoot, tear-gas, flashbangs, rubber-bullets, shove, push, tackle, protestor
 
 id: fl-orlando-2
 
@@ -174,6 +174,23 @@ id: fl-orlando-2
 * [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
 
 
+### Woman stopped by police while leaving protest; police break her car window | June 3rd
+
+A woman is in her car leaving a protest. Police stop her, stating she was blocking a roadway. The officer says she can exit the car or be removed. The woman says she doesn't believe she did anything wrong. The officer then reaches inside her window for the lock. He cannot, so the window is broken.
+
+She was released shortly after with minor abrasions and no charges.
+
+tags: arrest, property-destruction, protestor
+
+id: fl-orlando-6
+
+**Links**
+
+* https://twitter.com/edgarcomellas/status/1268555233065668608
+* https://www.orlandosentinel.com/news/crime/os-ne-orlando-george-floyd-protest-traffic-stop-deputy-breaks-window-20200604-y52jqcaogjfw5nzfcmu6tlgzhi-story.html
+* https://www.wdbo.com/news/local/video-shows-orange-county-deputy-smashing-woman-window-after-refusing-leave/2JrFiuwJgtkVzGJqXrLS7I/
+
+
 ## Tampa
 
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
@@ -182,7 +199,7 @@ Police officers are walking down a street. A woman in a purple shirt is pulled t
 
 Additional footage states the woman in a purple shirt is a minor.
 
-tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas
+tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas, protestor
 
 id: fl-tampa-1
 
@@ -200,7 +217,7 @@ id: fl-tampa-1
 
 Police fire tear gas at peaceful protestors, while simultaneously ordering protestors to lie down, forcing them to remain in the immediate area.
 
-tags: tear-gas, arrest
+tags: tear-gas, arrest, protestor
 
 id: fl-tampa-2
 
@@ -209,11 +226,11 @@ id: fl-tampa-2
 * https://twitter.com/greg_doucette/status/1268694786485166081
 
 
-### Police pepper-spray police from protest | June 5th
+### Police pepper-spray peaceful protestors | June 5th
 
 Supercut video from June 5th shows multiple incidents where police sprayed peaceful protestors, including protestors attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protestors before spraying
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: fl-tampa-3
 
@@ -230,7 +247,7 @@ Incidents include firing at peaceful protestors, fleeing protestors and medics.
 
 Video also includes a bleeding eyewitness describing events.
 
-tags: rubber-bullets, shoot
+tags: rubber-bullets, shoot, protestor
 
 id: fl-tampa-4
 
@@ -252,4 +269,36 @@ id: fl-tampa-6
 
 * https://twitter.com/greg_doucette/status/1270491699832401920
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
+
+
+### Police officer grabs arrestee's breast; police violently arrest protestor | July 1st
+
+Footage shows police arresting a woman. A man who walked nearby with his hands up is thrown to the ground by two officers and arrested.
+
+Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protestor without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
+
+tags: arrest, shove, abuse-of-power, inhumane-treatment, protestor
+
+id: fl-tampa-8
+
+**Links**
+
+* https://www.instagram.com/p/CCHywZpjAYw/
+* https://www.miaminewtimes.com/news/video-shows-miami-police-grab-breast-of-protester-11661608
+
+
+### Police assault protestors without apparent cause | July 4th
+
+Footage is short, but it shows protestors chanting near police, asking why another protestor is being arrested. A protestor with a megaphone approaches an officer. He is shouting. Without warning police charge protestors. They slam one protestor against a car, throw him on the ground and kneel on him to make an arrest.
+
+Pepper spray can be heard in the audio.
+
+tags: tackle, strike, knee, arrest, pepper-spray, spray
+
+id: fl-tampa-7
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hmhcgz/tampa_police_department_4th_of_july_unprovoked/
+* https://www.youtube.com/watch?v=_uFeu1zUYIo
 

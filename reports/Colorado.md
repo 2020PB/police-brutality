@@ -6,7 +6,7 @@ On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain.
 
 Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
 
-tags: strike, beat, baton, pepper-spray, spray
+tags: strike, beat, baton, pepper-spray, spray, protestor
 
 id: co-aurora-1
 
@@ -26,7 +26,7 @@ id: co-aurora-1
 
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
-tags: arrest, beat, punch, kneel, rubber-bullets, tackle
+tags: arrest, beat, punch, kneel, rubber-bullets, tackle, protestor
 
 id: co-coloradosprings-1
 
@@ -56,7 +56,7 @@ id: co-denver-1
 
 A man is filming police activity through his sunroof. An officer approaches, possibly strikes the person recording, and apparently peppersprays into the car, blinding the driver and passenger. The driver is then told to move his car away. The officer also peppersprays a second person recording in front of the car.
 
-tags: pepper-spray, spray, vehicle
+tags: pepper-spray, spray, vehicle, protestor
 
 id: co-denver-2
 
@@ -88,7 +88,7 @@ id: co-denver-3
 A woman stops an armored SWAT car (marked APC01) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
 Three armored police get out from back of armored car. One walks around the side and shoots some projectile, hitting the ground in front of the woman.
 
-tags: shoot, projectile, vehicle
+tags: shoot, projectile, vehicle, protestor
 
 id: co-denver-4
 
@@ -101,7 +101,7 @@ id: co-denver-4
 
 An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge.
 
-tags: tear-gas, tear-gas-canister, shoot, projectile
+tags: tear-gas, tear-gas-canister, shoot, projectile, protestor
 
 id: co-denver-13
 
@@ -127,9 +127,9 @@ id: co-denver-5
 
 ### Police tear gas and shoot protestors | May 30th
 
-Policemen turned off their body cams and started unnecessary firing of tear gas.
+Police fired tear gas after allegedly turning off their body cams.
 
-tags: body-cam, tear-gas, shoot
+tags: body-cam, tear-gas, shoot, protestor
 
 id: co-denver-6
 
@@ -155,7 +155,7 @@ id: co-denver-7
 
 A man was blinded in one eye in a manner consistent with a rubber bullet. He claims a law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, despite the fact that he wasn't provoking the officer (or even protesting) at the time, and didn't see anyone near him doing so.
 
-tags: shoot, projectile, rubber-bullet
+tags: shoot, projectile, rubber-bullet, protestor
 
 id: co-denver-14
 
@@ -165,25 +165,41 @@ id: co-denver-14
 * https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
-### Police spray two people who are backing away | (believed to be) May 30th
+### Police spray two people who are backing away | May 30th
 
 A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
 
-tags: mace, spray
+tags: mace, spray, protestor
 
 id: co-denver-15
 
 **Links**
 
 * [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
+* [Account from another Denver Post reporter present](https://twitter.com/EliseSchmelzer/status/1266938828603961344)
 * [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
+
+
+### Crowd of journalists tear gassed | May 30th
+
+Journalist Lindsay Fendt was standing with a group of other journalists. Protesters threw a tear gas canister back at police; police kicked it toward the journalist, tear gassing Fendt and others.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: co-denver-23
+
+**Links**
+
+* https://twitter.com/LEFendt/status/1267274100793212929
+* https://twitter.com/LEFendt/status/1266953418871984128
+* https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
 
 
 ### Police fire pepper balls at car with pregnant woman | May 31st
 
 The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
 
-tags: pregnant, pepper-ball, shoot, vehicle
+tags: pregnant, pepper-ball, shoot, vehicle, bystander
 
 id: co-denver-8
 
@@ -197,7 +213,7 @@ id: co-denver-8
 
 Officers are on a police truck leaving the area. One officer fires a pepper ball directly at someone filming, hitting their phone.
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, protestor
 
 id: co-denver-9
 
@@ -210,7 +226,7 @@ id: co-denver-9
 
 Police officer snatches away protestor's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
-tags: property-destruction, pepper-spray, spray, tear-gas
+tags: property-destruction, pepper-spray, spray, tear-gas, protestor
 
 id: co-denver-10
 
@@ -224,7 +240,7 @@ id: co-denver-10
 
 A woman films an interaction with an officer. She approaches the line and asks, "Can I ask you what's going to happen at 8, sir?" The officer replies: "What's going to happen is we're going to start beating the fuck out of you."
 
-tags: threaten, incitement
+tags: threaten, incitement, protestor
 
 id: co-denver-16
 
@@ -233,13 +249,13 @@ id: co-denver-16
 * https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
 
 
-### Footage shows effect of less-lethal round | May 31st
+### Man's face injured by less-lethal round | May 31st
 
 Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
 
 His sweatshirt is covered in blood and he has suffered a gash of 1-2 inches across his chin, with a chunk of his chin hanging off.
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: co-denver-19
 
@@ -248,13 +264,33 @@ id: co-denver-19
 * https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
 
 
+### Journalist injured by tear gas, less-than-lethal round | May 31st
+
+Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas. Journalist Dave Sachs claims something similar happened to him -- he showed his press pass to police but they shoved him into tear gas.
+
+tags: shoot, projectile, tear-gas, journalist, shove, threaten
+
+id: co-denver-22
+
+**Links**
+
+* https://twitter.com/alex_burness/status/1267287093643902977
+* https://twitter.com/alex_burness/status/1267319325846917120
+* https://twitter.com/EstebanHRZ/status/1267318923243986945
+* https://twitter.com/alex_burness/status/1267516045104943107
+* https://twitter.com/EliseSchmelzer/status/1267314482461589505
+* [David Sachs' description of the incident involving him](https://twitter.com/DavidASachs/status/1266920122893156353)
+* [Denver police were sued in 2018 for illegally arresting a journalist. The settlement required first amendment training. It has yet to happen.](https://www.coloradoindependent.com/2020/06/02/denver-police-protest-first-amendment-journalists/)
+* https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
+
+
 ### Officer incites violence on social media | June 1st
 
 In a since-deleted post on Instagram featuring 3 DPD officers in riot gear, the poster captioned the image: "Let's start a riot."
 
 The officer has since been fired from the Denver Police Department.
 
-tags: incitement
+tags: incitement, protestor
 
 id: co-denver-17
 
@@ -268,7 +304,7 @@ id: co-denver-17
 
 An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
 
-tags: shoot, tear-gas, tear-gas-canister, pepper-ball
+tags: shoot, tear-gas, tear-gas-canister, pepper-ball, protestor
 
 id: co-denver-11
 
@@ -283,7 +319,7 @@ id: co-denver-11
 
 Denver SWAT unit tackles group of peaceful protesters who were walking and chanting (around 12:20am).
 
-tags: tackle, arrest
+tags: tackle, arrest, protestor
 
 id: co-denver-12
 
@@ -292,15 +328,15 @@ id: co-denver-12
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
 
 
-### Protestor struck in head at short range with explosive projectile | (Believed to be) June 6th
+### Protestor struck in head at short range with explosive projectile | (Believed to be) June 5th
 
 Footage shows protestors walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protestor in head. Protestor crumples to the ground. Title on Reddit states that the protestor suffered permanent hearing loss, but this has not been verified.
 
 It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protestors severely increased the risk of injury, as seen here.
 
-Footage was first posted on reddit.com/r/protest on June 6th.
+Footage was first posted on reddit.com/r/protest on June 5th.
 
-tags: shoot, projectile, explosive
+tags: shoot, projectile, explosive, protestor
 
 id: co-denver-18
 
@@ -313,11 +349,31 @@ id: co-denver-18
 
 Footage shows a protestor following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protestor continues to ask. Another officer approaches and discharges pepper spray without warning.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: co-denver-20
 
 **Links**
 
 * https://twitter.com/wisenoons/status/1274743833410994176
+
+
+### Police use excessive force to clear protestor tent encampment | July 1st
+
+The first clip is a livestream from the night of the dispersal. Police standoff begins around 1:28:00. Police begin by snatching and grabbing protestors to arrest. Then a scuffle breaks out, the camera pans to show an officer striking protestors with his baton. Another officer approaches and pepper-sprays protestors. A third officer fires a riot gun, containing either pepper balls or paintballs, at protestors. Police then tear gas the area while protestors flee. At 1:34:00, police arrest a medic. At 1:38:00, police advance towards the protestors again, pushing them off the sidewalk to the far side of the street. A shot can be heard, then a scream. The camera pans to show a scuffle between police and protestors. Police then use pepper-spray and riot rounds to force protestors back. A protestor is arrested. The arrest takes several minutes and it appears that police kneel on the woman's neck while making the arrest. At 1:51:00, one officer is shown without a badge number or body cam. The filmer then looks at several other officers.
+
+The third link shows another angle on the incident at 1:28:00.
+
+The fourth link shows another angle on the incident at 1:38:00. In addition, the caption states that police were using pepper balls.
+
+tags: arrest, shove, strike, shoot, pepper-balls, baton, knee, tear-gas, pepper-spray, spray, medic, protestor
+
+id: co-denver-21
+
+**Links**
+
+* [Begins at 1:28:00; medic arrested at 1:34:00](https://www.youtube.com/watch?v=1OFDLRa9wFc&feature=youtu.be&t=5326)
+* https://www.reddit.com/r/DenverProtests/comments/hjszf5/denver_police_uses_cs_gas_impact_irritants_pepper/
+* https://twitter.com/dulapalooza/status/1278684548100849664
+* https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
 

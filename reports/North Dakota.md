@@ -21,7 +21,7 @@ id: nd-fargo-2
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
 
-tags: racial-profiling, arrest, shove, push
+tags: racial-profiling, arrest, shove, push, protestor
 
 id: nd-fargo-1
 
