@@ -880,6 +880,25 @@ id: or-portland-56
 * https://twitter.com/greg_doucette/status/1280217831079018496
 
 
+### Federal officers raid vigil for slain protestor | July 8th
+
+Protestors held a vigil in Chapman Square for Summer Taylor, a protestor killed in a hit and run a few days prior. Without warning, federal agents and police stormed the vigil, dispersing it using flashbangs and riot control rounds. The first link shows this dispersal.
+
+The second link shows officers retreating back to federal property, continuing to fire munitions. 
+
+The third link shows some stun grenades recovered by protestors and, in parallel, the candles lit at the park for the vigil.
+
+tags: protestor, flashbangs, shoot, projectile
+
+id: or-portland-57
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1280758410602938370
+* https://twitter.com/hungrybowtie/status/1280759078826815489
+* https://twitter.com/hungrybowtie/status/1280775090582380545
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
