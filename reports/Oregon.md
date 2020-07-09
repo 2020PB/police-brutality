@@ -1,5 +1,41 @@
 ## Eugene
 
+### Peaceful protestor tear gassed | May 30th
+
+Footage shows a small cluster of protestors chanting "I can't breathe." At 1:15, without warning, police fire tear gas. Most protestors flee. Some canisters can be seen thrown back towards police.
+
+Police then proceed down the street. More tear gas is fired at 4:30.
+
+tags: tear-gas, protestor
+
+id: or-eugene-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=dPTr54DdTdY
+* https://www.reddit.com/r/Eugene/comments/gtbsvq/eugene_police_teargasses_downtown/
+
+
+### Reporter shot with tear gas canister | May 31st 
+
+Footage shows police giving curfew dispersal order to protestors. At one point, the filmer and his fellow journalist identify themselves as a reporter. One officer says it doesn't matter, they need to leave. They continue to monitor the protest and are later joined by a reporter for the Eugene Weekly.
+
+Footage around 2 minutes shows the Eugene Weekly reporter struck at close range with a tear gas canister, that then falls to the ground and explodes.
+
+A tweet from the reporter and an article from the Daily Emerald claim the reporter was hit by both a tear gas canister and rubber bullets
+
+tags: journalist, tear-gas, tear-gas-canister, shoot, rubber-bullets
+
+id: or-eugene-3
+
+**Links**
+
+* https://www.youtube.com/watch?v=R7fqWI41vQY
+* https://www.reddit.com/r/Eugene/comments/guxme1/footage_of_epd_shooting_eugene_weekly_reporter/
+* https://twitter.com/hwhouston1/status/1267338971291373568
+* https://www.dailyemerald.com/news/police-fire-pellets-tear-gas-at-late-night-protesters-sunday-police-chief-responds/article_cd4a4450-a49a-11ea-a6fd-73b64efe150a.html
+
+
 ### Officer shoots projectile from moving vehicle | June 1st
 
 An officer shoots a projectile out of a moving vehicle, striking pedestrian near eyeball.
