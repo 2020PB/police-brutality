@@ -94,6 +94,26 @@ id: oh-cincinnati-5
 * [Local news coverage](https://www.cincinnatimagazine.com/article/protesters-speak-up-about-police-treatment-during-peaceful-demonstrations/)
 
 
+### Tattoo artist arrested while painting the outside of his shop; police fail to deescalate | May 31st
+
+Jamison Walker, a Cincinnati tattoo artist, with the owner's permission, was painting the outside of the shop where he works after curfew. He alleges that a police officer told him he could finish his work. The Instagram video begins at some later point as several cops approach. They tell Walker (and at least two other persons present) to "get inside." For around 12 seconds, two police officers, Walker, and one other tattoo shop employee are talking simultaneously; Walker told local news he tried to go inside but one officer blocked his path. One officer can be heard to say "I'm giving you a chance, go in," then another can be heard to say "That's exactly what's going to happen -- no -- no no -- inside, go inside, inside -- go inside, there's no debate -- no, you may not." Said officer then begins arresting Walker. Officers shove Walker against a wall and grab his arms; they yell for him to put his hands behind his back. One officer draws a taser and holds it near Walker's shoulder. Meanwhile, one of Walker's colleagues is filming; police scream at her to "get the fuck back -- get back." It's unclear whether she's standing in a doorway or backed up against a wall. Another officer is acting very aggressively and has his taser drawn until the cop next to him taps him on the arm, at which point he holsters his taser and steps back. In total, at least eight police officers are present, of whom at least two draw their tasers, despite facing little to no resistance.
+
+NOTE: While curfews in many cities exempted anyone going to or from work, Cincinnati's exempted only essential workers. Tattoo artists are not essential, so Walker's arrest was likely lawful, though officers unnecessarily escalated the situation as they were arresting him.
+
+tags: arrest, bystander, taser, abuse-of-power
+
+id: oh-cincinnati-6
+
+**Links**
+
+* [Instagram post](https://www.instagram.com/p/CA6Aa5TB1Ml/)
+* [Video from Instagram post](https://instagram.fric1-2.fna.fbcdn.net/v/t50.2886-16/100852726_279345510107610_3998981863448833499_n.mp4?_nc_ht=instagram.fric1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=YFSefphKcIYAX_M32_q&oe=5F09000E&oh=6775ecc754bbee9e3d7929587e31bf72)
+* [Corresponding Reddit post](https://www.reddit.com/r/cincinnati/comments/gutrgk/cincinnati_police_arrest_working_painting_shop/?utm_medium=android_app&utm_source=share)
+* [Fox 19 Coverage](https://www.fox19.com/2020/06/03/cincy-tattoo-artist-says-curfew-arrest-was-bait-and-switch-by-police/#:~:text=Jamison%20Walker%20works%20at%20a,wide%20curfew%20went%20into%20effect.)
+* [WCPO Coverage](https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/local-tattoo-artist-arrested-with-protesters-despite-not-being-involved)
+* [Curfew exempts essential workers, not all workers](https://www.cincinnati.com/story/news/2020/05/30/cincinnati-curfew-protest-george-floyd-what-you-need-to-know/5295220002/)
+
+
 ### Police arrest reporter and force him to ground, grab another reporter | June 1st
 
 Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
