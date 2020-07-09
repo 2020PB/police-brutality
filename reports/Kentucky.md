@@ -119,6 +119,28 @@ id: ky-louisville-6
 * [Facebook post by officer involved glorifying violence (prior to shooting)](https://i.imgur.com/wZUnHYi.jpg)
 
 
+### Pastor violently arrested during protest | June 1st
+
+During a protest on June 1st, a pastor was arrested. He states officers yelled at him and told him to move. When he did not, he states that an officer ordered others to arrest him; those officers then threw him to the ground to handcuff him.
+
+Footage from news sources show 2 officers kneeling on his legs and back. It also shows an officer pressing what appears to be a service sidearm to the pastor's head.
+
+After Findley was placed in a squad car, he told police he was a pastor. He was then released without charges.
+
+The pastor is now suing the Louisville Metropolitan Police Department.
+
+tags: arrest, knee, abuse-of-power
+
+id: ky-louisville-14
+
+**Links**
+
+* https://www.youtube.com/watch?time_continue=38&v=NGwUsz_8T48
+* https://www.wlky.com/article/pastor-suing-city-of-st-matthews-police-after-being-forced-to-ground-during-protest/33127467
+* https://www.reddit.com/r/Louisville/comments/hl92bv/pastor_suing_city_of_st_matthews_police_after/
+* [Complaint filed with LMPD, posted to facebook by the pastor](https://www.facebook.com/story.php?story_fbid=10160169890587516&id=601637515)
+
+
 ### Protestors in St. Matthews shot with pepper rounds | June 3rd
 
 Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews.
@@ -192,4 +214,46 @@ id: ky-louisville-13
 
 * https://www.youtube.com/watch?v=Xfs8XJc1Rm0
 * https://www.reddit.com/r/Louisville/comments/hj3cqn/jason_downey_just_got_arrested_for_filming_the/
+
+
+### LMPD Bearcat strikes vehicle; police initially state vehicle hit them, then retract the statement; in addition, bystander filming is arrested | July 1st
+
+On July 1st, a collision was reported between a bystander vehicle and an LMPD armored car, also called a Bearcat. Police initially stated that the Bearcat was rammed by a protestor vehicle. They later retracted this statement, saying that in fact the Bearcat hit the vehicle. It is not clear if the vehicle was related to the protest at all. However, police state that they intentionally hit the vehicle to prevent further harm, stating that they recognized the vehicle from an incident the previous night.
+
+A woman filming the incident from her car stepped out and asked someone for their name. She was then arrested.
+
+Additional footage from a bystander shows the filmer running out of the way of the Bearcat to avoid being hit.
+
+tags: vehicle, arrest, bystander, abuse-of-power
+
+id: ky-louisville-15
+
+**Links**
+
+* https://www.wdrb.com/news/police-backtrack-claim-that-lmpd-swat-vehicle-was-rammed-by-protester-in-downtown-louisville/article_17f3108a-bc70-11ea-b6e2-7f7210b6f14d.html
+* [Footage from bystander arrested](https://www.facebook.com/madi.sellmer/videos/10216971900878292/UzpfSTg5NzQ4NTM2MzoxMDE2MzgyMzY0NTEzMDM2NA/)
+* https://www.reddit.com/r/Louisville/comments/hj9y5c/lmpd_drags_woman_out_of_car_and_arrests_her_for/
+* [Additional footage from bystander](https://www.instagram.com/p/CCFueedBWrK/?igshid=16m4ancp3anxd)
+
+
+### Police target independent journalists and livestreamers for second consecutive night | July 1st
+
+Footage from two livestreamers on July 1st shows their arrests. LMPD arrested livestreamers the previous night as well. It should be noted that these independent journalists are not always credentialed, but they are known for releasing full, unedited footage of the protests.
+
+The ACLU has raised concerns that these arrests are inhibiting freedom of the press, while Louisville Metropolitan Police Department has stated that the department "has no issue with anyone livestreaming. But many of those livestreaming are also protesting. And anyone protesting who fails to follow police orders to disperse may be arrested."
+
+The journalist from MilkyMess TV took 1st person footage of their arrest. Around 1:50:00 in her Facebook live post, she is wandering around a crowd of protestors on the sidewalk. The journalist does not appear to be chanting or singing with protestors. Several police cruisers pull up and officers step out. The journalist steps forward to get a better look and is arrested without a word. The camera is knocked from her hand.
+
+An additional livestream from a reporter affiliated with WDRB News shows the incident. Beginning at 3:05:00, police arrive, appear to single out MilkyMess and tackle her to the ground. The reporter asks why she is being arrested. A police officer says, "Trespassing." It should be noted that MilkyMess was on a public sidewalk and numerous other individuals were not arrested. Around 3:11:00, the WDRB reporter walks over to another arrestee. Shortly after, the reporter asks an officer if he should be in the street or sidewalk. The officer tells him he's "gotta go." The reporter crosses to the other side of the street and asks another person if there were arrests. The individual says there was one arrest. This totals 3 arrests for trespassing on a park/public sidewalk out of a group of 30-40 individuals.
+
+tags: journalist, arrest, property-destruction
+
+id: ky-louisville-16
+
+**Links**
+
+* https://www.wdrb.com/news/aclu-raises-first-amendment-concerns-after-louisville-police-arrest-independent-media-livestreaming-protests/article_9fc52ade-bcd4-11ea-b2a1-47cb6faa91e6.html
+* [Milky Mess TV; 1:50:00](https://www.facebook.com/milkymesstv/videos/876015052808877/)
+* [WDRB News; 3:05:00](https://www.facebook.com/WDRBNews/videos/603590867203707)
+* https://www.reddit.com/r/Louisville/comments/hjqt9m/lmpd_again_targeted_live_streamers_tonight_steph/
 
