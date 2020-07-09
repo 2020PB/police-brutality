@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-09T12:24:16.955221+00:00
+UPDATED AT: 2020-07-09T13:57:53.166491+00:00
 
 
 # Alabama
@@ -7037,6 +7037,23 @@ id: pa-pittsburgh-4
 
 * https://twitter.com/messiest_headd/status/1267816842413740034
 * https://twitter.com/stabpossum/status/1268203842174361600
+
+
+### Police arrest protestor then tear gas crowd | June 1st
+
+Footage shows police officers around several protest-related arrestees. A woman argues with them at a distance. Police then approach her and arrest her. They force her to a seated position on the ground. They then lift her and place her face down on the ground.
+
+The crowd begins to object and asks why she is being arrested. Another officer then releases a tear gas canister and throws it at the crowd.
+
+tags: arrest, tear-gas, tear-gas-canister, protestor
+
+id: pa-pittsburgh-5
+
+**Links**
+
+* https://www.youtube.com/watch?v=chgIx7AToIw
+* https://www.pghcitypaper.com/pittsburgh/video-shows-pittsburgh-police-arresting-and-pinning-woman-to-ground-in-east-liberty-before-deploying-tear-gas-at-onlookers/Content?oid=17432474
+* https://www.reddit.com/r/pittsburgh/comments/gzv8y7/video_shows_pittsburgh_police_arresting_and
 
 
 
