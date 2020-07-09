@@ -2,9 +2,9 @@
 
 ### Peaceful protestor tear gassed | May 30th
 
-Footage shows a small cluster of protestors chanting "I can't breathe." At 1:15, without warning, police fire tear gas. Most protestors flee. Some canisters can be seen thrown back towards police.
+Footage shows a small cluster of protestors chanting "I can't breathe." At 1:15 in the footage, without warning, police fire tear gas, causing most protestors flee. Some canisters can be seen thrown back towards police.
 
-Police then proceed down the street. More tear gas is fired at 4:30.
+Police then proceed down the street. More tear gas is fired at 4:30 in the footage.
 
 tags: tear-gas, protestor
 
@@ -18,7 +18,7 @@ id: or-eugene-2
 
 ### Reporter shot with tear gas canister | May 31st
 
-Footage shows police giving curfew dispersal order to protestors. At one point, the filmer and his fellow journalist identify themselves as a reporter. One officer says it doesn't matter, they need to leave. They continue to monitor the protest and are later joined by a reporter for the Eugene Weekly.
+Footage shows police giving curfew dispersal order to protestors. At one point, the filmer and his fellow journalist identify themselves as a reporter. One officer says, "It doesn't matter." Several subsequent officers do accept their press credentials without issue. They continue to monitor the protest and are later joined by a reporter for the Eugene Weekly.
 
 Footage around 2 minutes shows the Eugene Weekly reporter struck at close range with a tear gas canister, that then falls to the ground and explodes.
 
