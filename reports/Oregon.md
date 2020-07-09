@@ -16,7 +16,7 @@ id: or-eugene-2
 * https://www.reddit.com/r/Eugene/comments/gtbsvq/eugene_police_teargasses_downtown/
 
 
-### Reporter shot with tear gas canister | May 31st 
+### Reporter shot with tear gas canister | May 31st
 
 Footage shows police giving curfew dispersal order to protestors. At one point, the filmer and his fellow journalist identify themselves as a reporter. One officer says it doesn't matter, they need to leave. They continue to monitor the protest and are later joined by a reporter for the Eugene Weekly.
 
