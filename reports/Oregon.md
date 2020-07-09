@@ -1,5 +1,41 @@
 ## Eugene
 
+### Peaceful protestor tear gassed | May 30th
+
+Footage shows a small cluster of protestors chanting "I can't breathe." At 1:15 in the footage, without warning, police fire tear gas, causing most protestors flee. Some canisters can be seen thrown back towards police.
+
+Police then proceed down the street. More tear gas is fired at 4:30 in the footage.
+
+tags: tear-gas, protestor
+
+id: or-eugene-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=dPTr54DdTdY
+* https://www.reddit.com/r/Eugene/comments/gtbsvq/eugene_police_teargasses_downtown/
+
+
+### Reporter shot with tear gas canister | May 31st
+
+Footage shows police giving curfew dispersal order to protestors. At one point, the filmer and his fellow journalist identify themselves as a reporter. One officer says, "It doesn't matter." Several subsequent officers do accept their press credentials without issue. They continue to monitor the protest and are later joined by a reporter for the Eugene Weekly.
+
+Footage around 2 minutes shows the Eugene Weekly reporter struck at close range with a tear gas canister, that then falls to the ground and explodes.
+
+A tweet from the reporter and an article from the Daily Emerald claim the reporter was hit by both a tear gas canister and rubber bullets
+
+tags: journalist, tear-gas, tear-gas-canister, shoot, rubber-bullets
+
+id: or-eugene-3
+
+**Links**
+
+* https://www.youtube.com/watch?v=R7fqWI41vQY
+* https://www.reddit.com/r/Eugene/comments/guxme1/footage_of_epd_shooting_eugene_weekly_reporter/
+* https://twitter.com/hwhouston1/status/1267338971291373568
+* https://www.dailyemerald.com/news/police-fire-pellets-tear-gas-at-late-night-protesters-sunday-police-chief-responds/article_cd4a4450-a49a-11ea-a6fd-73b64efe150a.html
+
+
 ### Officer shoots projectile from moving vehicle | June 1st
 
 An officer shoots a projectile out of a moving vehicle, striking pedestrian near eyeball.
@@ -842,6 +878,25 @@ id: or-portland-56
 **Links**
 
 * https://twitter.com/greg_doucette/status/1280217831079018496
+
+
+### Federal officers raid vigil for slain protestor | July 8th
+
+Protestors held a vigil in Chapman Square for Summer Taylor, a protestor killed in a hit and run a few days prior. Without warning, federal agents and police stormed the vigil, dispersing it using flashbangs and riot control rounds. The first link shows this dispersal.
+
+The second link shows officers retreating back to federal property, continuing to fire munitions.
+
+The third link shows some stun grenades recovered by protestors and, in parallel, the candles lit at the park for the vigil.
+
+tags: protestor, flashbangs, shoot, projectile
+
+id: or-portland-58
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1280758410602938370
+* https://twitter.com/hungrybowtie/status/1280759078826815489
+* https://twitter.com/hungrybowtie/status/1280775090582380545
 
 
 ## Salem
