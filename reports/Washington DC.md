@@ -387,8 +387,8 @@ id: dc-dc-25
 
 ### Multiple officers arrest peaceful protester | July 7th
 
-The following two videos are in chronological order, the first showing the protester speaking at one officer (He is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protestor into the concrete, and is quickly aided by at least one other officer. 
-In the second video four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back.
+The following two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protestor into the concrete and is quickly aided by at least one other officer. 
+In the second video, four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back.
 
 tags: arrest, abuse-of-power, shove, bike
 
