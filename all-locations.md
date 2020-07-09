@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-09T13:57:53.166491+00:00
+UPDATED AT: 2020-07-09T14:03:41.025278+00:00
 
 
 # Alabama
@@ -5313,6 +5313,22 @@ id: oh-cincinnati-1
 **Links**
 
 * https://twitter.com/kodyfishertv/status/1266901735198638082
+
+
+### Peaceful protestor on sidewalk pepper sprayed | May 30th
+
+Footage from a news report shows a protestor standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes, seemingly unprovoked.
+
+The reporter states that rubber bullets and flashbangs are also being used on the crowd.
+
+tags: pepper-spray, spray, protestor, flashbangs, rubber-bullets, shoot
+
+id: oh-cincinnati-7
+
+**Links**
+
+* [Short](https://mobile.twitter.com/JakeTalks2Much/status/1266902493151334401)
+* [Extended](https://mobile.twitter.com/JakeTalks2Much/status/1266931927161896961)
 
 
 ### Police violently disperse crowds, before curfew and allegedly without provocation | May 31st
