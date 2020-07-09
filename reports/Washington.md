@@ -365,6 +365,8 @@ Footage beginning at 14:00 shows police begin to advance on protestors without w
 
 The second link shows a still of the bicyclist's arrest.
 
+The third link shows additional footage of the arrest and of police shoving the crowd
+
 tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee, protestor
 
 id: wa-seattle-24
@@ -373,6 +375,7 @@ id: wa-seattle-24
 
 * [Begins at 14:00; arrest made at 17:00](https://www.facebook.com/joeywieser/videos/10158221953345491/)
 * https://twitter.com/spekulation/status/1278593887410372608
+* https://twitter.com/itsjosephryan/status/1278627952914075648
 
 
 ### Police make violent arrest | July 2nd
