@@ -65,7 +65,7 @@ id: oh-cincinnati-1
 
 ### Peaceful protestor on sidewalk pepper sprayed | May 30th
 
-Footage from a news report shows a protestor standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes. No motive is clear.
+Footage from a news report shows a protestor standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes, seemingly unprovoked.
 
 The reporter states that rubber bullets and flashbangs are also being used on the crowd.
 
