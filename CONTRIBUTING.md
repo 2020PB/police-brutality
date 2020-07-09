@@ -152,8 +152,7 @@ Only add incidents which are related to the 2020 George Floyd protests. While al
 Only add incidents which have clear evidence of police abuse of power or excessive force. Do not post anything based on rumors and do not post manipulated or out of context information.
 Eye-witness accounts for documented events are allowed, as are eye-witness accounts in the absence of video evidence, but only from reputable sources such as congresspeople or reporters from major outlets.
 
-For a more detailed discussion of incident inclusion criteria, see []
-If you're unsure whether an incident meets these criteria check out [this page](./docs/incident-criteria.md) which lists some edge cases and the decisions that were made for those.
+For a more detailed discussion of incident inclusion criteria and edge cases, see [this page](./docs/incident-criteria.md).
 
 **3. Use objective language.**
     - No "cop beats protester with clear disregard for his humanity" or "pig shoots at person with contempt".
