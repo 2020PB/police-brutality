@@ -384,3 +384,17 @@ id: dc-dc-25
 * https://www.tiktok.com/@organicgoodz/video/6846083558910512389
 * https://www.tiktok.com/@organicgoodz/video/6845323150729678085
 
+
+### Multiple officers arrest peaceful protester | July 7th
+
+The following two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protestor into the concrete and is quickly aided by at least one other officer.
+In the second video, four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back. The arrest is then made with the man on the ground.
+
+tags: arrest, abuse-of-power, shove, bike
+
+id: dc-dc-26
+
+**Links**
+
+* https://twitter.com/occupyhstreet/status/1280665647412908032
+* https://twitter.com/KuzyBeCackling/status/1280693959841460224
