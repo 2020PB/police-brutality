@@ -884,7 +884,7 @@ id: or-portland-56
 
 Protestors held a vigil in Chapman Square for Summer Taylor, a protestor killed in a hit and run a few days prior. Without warning, federal agents and police stormed the vigil, dispersing it using flashbangs and riot control rounds. The first link shows this dispersal.
 
-The second link shows officers retreating back to federal property, continuing to fire munitions. 
+The second link shows officers retreating back to federal property, continuing to fire munitions.
 
 The third link shows some stun grenades recovered by protestors and, in parallel, the candles lit at the park for the vigil.
 
