@@ -121,7 +121,7 @@ id: ky-louisville-6
 
 ### Pastor violently arrested during protest | June 1st
 
-During a protest on June 1st, a pastor was arrested. He states officers yelled at him and told him to move. When he did not, he states that an officer ordered others to arrest him. He says that officers then threw him to the ground to handcuff him.
+During a protest on June 1st, a pastor was arrested. He states officers yelled at him and told him to move. When he did not, he states that an officer ordered others to arrest him; those officers then threw him to the ground to handcuff him.
 
 Footage from news sources show 2 officers kneeling on his legs and back. It also shows an officer pressing what appears to be a service sidearm to the pastor's head.
 
