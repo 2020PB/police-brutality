@@ -378,6 +378,7 @@ id: wa-seattle-24
 * https://twitter.com/itsjosephryan/status/1278627952914075648
 * https://www.reddit.com/r/CapHillAutonomousZone/comments/hjuwkk/bop_shield_cop_goes_agro_on_the_bike_brigade/
 
+
 ### Police make violent arrest | July 2nd
 
 Footage taken around midnight the morning of July 2nd shows multiple officers arresting a protestor, striking him with batons, punching him, and kneeling on his neck.
