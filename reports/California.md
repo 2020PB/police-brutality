@@ -1004,6 +1004,8 @@ Police in northern California fatally shot an unarmed 22-year-old who was on his
 
 Six officers fired 55 bullets in 3.5 seconds; police investigation determined this use of force 'reasonable.'
 
+Vallejo PD has posted composite video containing body cam footage, radio chatter with Dispatch and prior footage of Walgreen's security cameras being destroyed. This footage shows a car with alleged looters peeling out of the Walgreens as police arrive; this car strikes an unmarked police vehicle and continues. Police open the doors of their unmarked van and fire on Monterrosa immediately and without warning. They state that they believed Monterrosa was armed, thought it turned out to be only a hammer.
+
 tags: shoot, real-bullets, death
 
 id: ca-vallejo-1
@@ -1012,6 +1014,7 @@ id: ca-vallejo-1
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
 * https://www.theguardian.com/us-news/2019/jun/12/willie-mccoy-shooting-vallejo-police-55-shots
+* [Footage provided by Vallejo PD; CW: death](https://vimeo.com/436510158)
 
 
 ## Walnut Creek
