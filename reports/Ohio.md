@@ -63,6 +63,22 @@ id: oh-cincinnati-1
 * https://twitter.com/kodyfishertv/status/1266901735198638082
 
 
+### Peaceful protestor on sidewalk pepper sprayed | May 30th
+
+Footage from a news report shows a protestor standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes. No motive is clear.
+
+The reporter states that rubber bullets and flashbangs are also being used on the crowd.
+
+tags: pepper-spray, spray, protestor, flashbangs, rubber-bullets, shoot
+
+id: oh-cincinnati-7
+
+**Links**
+
+* [Short](https://mobile.twitter.com/JakeTalks2Much/status/1266902493151334401)
+* [Extended](https://mobile.twitter.com/JakeTalks2Much/status/1266931927161896961)
+
+
 ### Police violently disperse crowds, before curfew and allegedly without provocation | May 31st
 
 Police use tear gas to disperse a crowd before curfew. No provocation is mentioned in the news article; a first-hand account posted to facebook claims there was none. The account posted to Facebook claims that no order to disperse was given; local news coverage does not mention any order to disperse being given. Mass arrests were conducted at some point the night of the 31st. The account posted to Facebook claims that police surrounded and trapped protesters before curfew, and beat some protesters.
