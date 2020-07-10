@@ -439,3 +439,4 @@ id: wa-seattle-28
 
 * https://twitter.com/spekulation/status/1281656761296936961
 * https://www.reddit.com/r/PublicFreakout/comments/hovouj/seattle_police_officer_caught_making_up_a_false/
+
