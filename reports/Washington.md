@@ -427,6 +427,8 @@ id: wa-seattle-27
 
 First person footage from a photojournalist shows the journalist filming a police car while stating that allegedly the officer in the car said that the officer has the photojournalist's address. The journalist repeats these words back, including the exact phrase, "I have your address." The officer then approaches him and arrests him for threatening an officer, alleging that the journalist claimed to have the officer's address.
 
+The second link shows the full series of events. The photojournalist is filming police as they write parking citations. He is using strong language with the officers and harassing them. However he is doing no more than hurling insults and noting names and badge numbers. At 2:00, it can be verified that the officer does say he has the journalist's address. So, in fact, when he is arrested for threatening an officer, he is repeating the officer's words back to him.
+
 Notably, this journalist filmed the arrest of the individual in wa-seattle-27.
 
 tags: journalist, arrest, abuse-of-power
@@ -436,4 +438,4 @@ id: wa-seattle-28
 **Links**
 
 * https://twitter.com/spekulation/status/1281656761296936961
-
+* https://www.reddit.com/r/PublicFreakout/comments/hovouj/seattle_police_officer_caught_making_up_a_false/
