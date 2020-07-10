@@ -405,3 +405,18 @@ id: wa-seattle-26
 
 * https://twitter.com/slydesilva/status/1279107834739736576
 
+
+### Police arrest peaceful protestor | July 9th
+
+Footage shows a handful of protestors marching in the street. Protestors clear to the sidewalks as police arrive. Officers approach the crowd and single out one black woman. At 1:58 in the Reddit link, an officer can be heard saying, "You were blocking earlier." Officers then grab her and arrest her. Additional officers brandishing tasers and pepper spray surround the arrest. Police then place the protestor in an unmarked van.
+
+It is unclear why this individual was singled out.
+
+tags: protestor, arrest
+
+id: wa-seattle-27
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hobv3a/how_many_cops_does_it_take_to_arrest_one_black/
+* [Full stream, begins at 1:02:00](https://www.twitch.tv/videos/674606592)
