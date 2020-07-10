@@ -52,3 +52,15 @@ id: ut-saltlakecity-3
 
 * https://v.redd.it/fl4y919v1q251
 
+
+### Police beat protestors with shields and batons | July 9th
+
+In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protestors took to the streets.
+
+Footage shows police using shields and batons to strike peaceful protestors gathered in the street.
+
+id: ut-saltlakecity-5
+
+**Links**
+
+* https://twitter.com/kylemoonsgirl/status/1281446209618493445
