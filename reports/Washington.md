@@ -363,8 +363,6 @@ id: wa-seattle-23
 
 Footage beginning at 14:00 shows police begin to advance on protestors without warning. They use their shields and batons to strike and shove protestors. When protestors become agitated, police tackle protestors and discharge pepper spray. Footage shows police kneeling on one protestor, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
 
-The third and fourth links shows
-
 tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee, protestor
 
 id: wa-seattle-24
