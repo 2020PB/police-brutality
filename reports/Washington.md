@@ -363,8 +363,6 @@ id: wa-seattle-23
 
 Footage beginning at 14:00 shows police begin to advance on protestors without warning. They use their shields and batons to strike and shove protestors. When protestors become agitated, police tackle protestors and discharge pepper spray. Footage shows police kneeling on one protestor, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
 
-The second link shows a still of the bicyclist's arrest.
-
 tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee, protestor
 
 id: wa-seattle-24
@@ -372,7 +370,9 @@ id: wa-seattle-24
 **Links**
 
 * [Begins at 14:00; arrest made at 17:00](https://www.facebook.com/joeywieser/videos/10158221953345491/)
-* https://twitter.com/spekulation/status/1278593887410372608
+* [A still of the bicyclist's arrest](https://twitter.com/spekulation/status/1278593887410372608)
+* [Footage of the arrest and of police shoving the crowd](https://twitter.com/itsjosephryan/status/1278627952914075648)
+* [Footage of the arrest and of police shoving the crowd](https://www.reddit.com/r/CapHillAutonomousZone/comments/hjuwkk/bop_shield_cop_goes_agro_on_the_bike_brigade/)
 
 
 ### Police make violent arrest | July 2nd
