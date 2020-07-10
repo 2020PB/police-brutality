@@ -57,13 +57,28 @@ id: ut-saltlakecity-3
 
 In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protestors took to the streets.
 
-Footage shows police using shields and batons to strike peaceful protestors gathered in the street.
+Footage from multiple angles shows police using shields and batons to strike peaceful protestors gathered in the street outside the DA's office.
 
-tags: 
+tags: protestor, beat, strike, shield, baton
 
 id: ut-saltlakecity-5
 
 **Links**
 
 * https://twitter.com/kylemoonsgirl/status/1281446209618493445
+* https://twitter.com/msternfield/status/1281584343882727424
+* https://twitter.com/Cinderty/status/1281437837175357440
+* https://twitter.com/JoshuaPotash/status/1281434273459900418
 
+
+### Police chase journalist | July 9th
+
+Footage from a protest for Bernardo Palacios-Carbajal shows police chasing down a journalist with a camera mounted on his head. The journalist flees and police give up the chase. The journalist is allegedly affiliated with Just Media Utah
+
+tags: journalist, abuse-of-power
+
+id: ut-saltlakecity-6
+
+**Links**
+
+* https://twitter.com/kylemoonsgirl/status/1281450911731052544
