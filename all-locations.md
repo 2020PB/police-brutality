@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-10T19:46:38.544118+00:00
+UPDATED AT: 2020-07-10T22:21:03.803007+00:00
 
 
 # Alabama
@@ -1582,19 +1582,6 @@ id: co-denver-10
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvhisl/police_rip_sign_out_of_peaceful_protesters_hands/
 * https://www.tiktok.com/@yazzdazzz/video/6832896487207243014
-
-
-### Officer threatens woman who asks what will happen at curfew | May 31st
-
-A woman films an interaction with an officer. She approaches the line and asks, "Can I ask you what's going to happen at 8, sir?" The officer replies: "What's going to happen is we're going to start beating the fuck out of you."
-
-tags: threaten, incitement, protestor
-
-id: co-denver-16
-
-**Links**
-
-* https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
 
 
 ### Man's face injured by less-lethal round | May 31st
