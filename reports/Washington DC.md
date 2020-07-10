@@ -390,7 +390,7 @@ id: dc-dc-25
 The following two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protestor into the concrete and is quickly aided by at least one other officer.
 In the second video, four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back. The arrest is then made with the man on the ground.
 
-tags: arrest, abuse-of-power, shove, bike
+tags: arrest, abuse-of-power, shove, bike, protestor
 
 id: dc-dc-26
 
@@ -406,7 +406,7 @@ Footage shows a protestor speaking to an officer in a white shirt. Two more offi
 
 The second clip shows about 5 officers handcuffing the protestor before carrying him away.
 
-tags: arrest, shove, abuse-of-power
+tags: arrest, shove, abuse-of-power, protestor
 
 id: dc-dc-27
 
