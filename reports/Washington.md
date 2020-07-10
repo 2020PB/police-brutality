@@ -422,3 +422,17 @@ id: wa-seattle-27
 * [Full stream, begins at 1:02:00](https://www.twitch.tv/videos/674606592)
 * [Alternate angle](https://twitter.com/greg_doucette/status/1281430922064211968)
 
+
+### Police arrest journalist | July 10th
+
+First person footage from a photojournalist shows the journalist filming a police car while stating that allegedly the officer in the car said that the officer has the photojournalist's address. The journalist repeats these words back, including the exact phrase, "I have your address." The officer then approaches him and arrests him for threatening an officer, alleging that the journalist claimed to have the officer's address.
+
+Notably, this journalist filmed the arrest of the individual in wa-seattle-27.
+
+tags: journalist, arrest, abuse-of-power
+
+id: wa-seattle-28
+
+**Links**
+
+* https://twitter.com/spekulation/status/1281656761296936961
