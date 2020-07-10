@@ -399,3 +399,18 @@ id: dc-dc-26
 * https://twitter.com/occupyhstreet/status/1280665647412908032
 * https://twitter.com/KuzyBeCackling/status/1280693959841460224
 
+
+### Protestor surrounded and arrested | July 7th
+
+Footage shows a protestor speaking to an officer in a white shirt. Two more officers quietly walk up behind the protestor. Without warning, the white-shirted officer grabs the protestor. The protestor panics and more police join to move him off to the side and force him to the ground.
+
+The second clip shows about 5 officers handcuffing the protestor before carrying him away.
+
+tags: arrest, shove, abuse-of-power
+
+id: dc-dc-27
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1280712378225696769
+* https://twitter.com/KuzyBeCackling/status/1280690030344888321
