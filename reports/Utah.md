@@ -59,8 +59,11 @@ In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Ca
 
 Footage shows police using shields and batons to strike peaceful protestors gathered in the street.
 
+tags: 
+
 id: ut-saltlakecity-5
 
 **Links**
 
 * https://twitter.com/kylemoonsgirl/status/1281446209618493445
+
