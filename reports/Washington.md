@@ -420,4 +420,5 @@ id: wa-seattle-27
 
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hobv3a/how_many_cops_does_it_take_to_arrest_one_black/
 * [Full stream, begins at 1:02:00](https://www.twitch.tv/videos/674606592)
+* [Alternate angle](https://twitter.com/greg_doucette/status/1281430922064211968)
 
