@@ -31,9 +31,9 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 * [REST API](https://github.com/nickatnight/policebrutality.io) that points to backed-up video files
 
 **Some projects built using our APIs**
+* [A gallery of sites](https://pb2020gallery.netlify.app/) that use the /r/2020PoliceBrutality data. Let us know what you build, and we'll add yours.
 * [2020PoliceBrutality](https://2020policebrutality.netlify.app/) web app to visually view incident reports
 * [US Police Brutality Map](https://846policebrutality.com/) of incidents with video and social media browsers
-* [/r/2020PoliceBrutality data sites gallery](https://pb2020gallery.netlify.app/) that use our APIs
 * [Too Many Incidents - Searchable](https://too-many-incidents.netlify.app/) collection of incidents and related evidence
 * [Android app](https://github.com/amardeshbd/android-police-brutality-incidents) to view incidents sorted by location
 * [List of incidents](https://policebrutality.netlify.app/) that you can filter by city and state
