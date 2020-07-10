@@ -236,19 +236,6 @@ id: co-denver-10
 * https://www.tiktok.com/@yazzdazzz/video/6832896487207243014
 
 
-### Officer threatens woman who asks what will happen at curfew | May 31st
-
-A woman films an interaction with an officer. She approaches the line and asks, "Can I ask you what's going to happen at 8, sir?" The officer replies: "What's going to happen is we're going to start beating the fuck out of you."
-
-tags: threaten, incitement, protestor
-
-id: co-denver-16
-
-**Links**
-
-* https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
-
-
 ### Man's face injured by less-lethal round | May 31st
 
 Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
