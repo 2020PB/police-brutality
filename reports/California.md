@@ -320,7 +320,7 @@ id: ca-losangeles-35
 
 ### Police fire at bystander filming from apartment | May 30th
 
-Early in the morning on May 30th, a streamer is filming arrests from her apartment. She captures police pointing riot guns at another apartment in her building. Police fire one shot. 
+Early in the morning on May 30th, a streamer is filming arrests from her apartment. She captures police pointing riot guns at another apartment in her building. Police fire one shot.
 
 The man at whom police shot posted images of what appears to be a bean bag round and a broken window.
 
