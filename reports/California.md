@@ -318,6 +318,23 @@ id: ca-losangeles-35
 * https://www.latimes.com/california/story/2020-06-02/lapd-will-limit-use-of-rubber-bullets-on-protesters-garcetti-says
 
 
+### Police fire at bystander filming from apartment | May 30th
+
+Early in the morning on May 30th, a streamer is filming arrests from her apartment. She captures police pointing riot guns at another apartment in her building. Police fire one shot. 
+
+The man at whom police shot posted images of what appears to be a bean bag round and a broken window.
+
+tags: bystander, shoot, bean-bag, property-destruction
+
+id: ca-losangeles-36
+
+**Links**
+
+* [Stream; police target apartment at 0:30, shoot at 0:45](https://www.pscp.tv/w/1OwxWQXvOAjGQ)
+* https://twitter.com/Sarah_Mojarad/status/1266633046591078400
+* https://twitter.com/tracemeYo/status/1266633586322497538
+
+
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
