@@ -21,7 +21,7 @@ The journalist filming is told he is not allowed to remain, despite identifying 
 
 tags: pepper-spray, journalist, protestor
 
-id: wi-madison02
+id: wi-madison-2
 
 **Links**
 
