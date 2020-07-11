@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-11T03:02:04.581661+00:00
+UPDATED AT: 2020-07-11T14:03:27.791649+00:00
 
 
 # Alabama
@@ -4172,7 +4172,7 @@ id: ny-buffalo-1
 
 Two police officers shove an unarmed, elderly man ([reportedly 75 years old](https://twitter.com/HannahBuehler/status/1268742666210226177)), who falls backwards and strikes his head on the concrete sidewalk. He appears to begin bleeding from his ear and passes out.
 
-Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved. In response to the suspension, the Buffalo Emergency Response Team [resigned from their posts](https://nypost.com/2020/06/05/buffalo-emergency-response-team-quits-in-solidarity-of-cops/)
+Buffalo P.D. released an official statement saying that he "tripped and fell." After video of the incident surfaced, however, both officers were suspended, an internal affairs investigation was opened, and both officers were charged with assault. In response to the suspension, the Buffalo Emergency Response Team [resigned from their posts](https://nypost.com/2020/06/05/buffalo-emergency-response-team-quits-in-solidarity-of-cops/). At first, the two officers were suspended without pay, but because the Buffalo police contract only allows suspension without pay for 30 days, they are now (as of July 10) suspended with pay.
 
 The man suffered brain damage and has begun physical therapy.
 
@@ -4190,6 +4190,8 @@ id: ny-buffalo-2
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 * https://www.reddit.com/r/PublicFreakout/comments/gwv7k4/just_about_an_hour_ago_police_officers_shove_man/fsxfeb3/
 * https://www.nbcnewyork.com/news/local/75-year-old-buffalo-protester-hospitalized-after-cop-shove-suffered-brain-injury-lawyer/2457512/
+* [Washington Post coverage](https://www.washingtonpost.com/nation/2020/06/05/buffalo-officers-suspended-shoving-man/)
+* [Follow-up story](https://www.wkbw.com/news/local-news/suspended-buffalo-police-officers-back-on-payroll)
 
 
 ### Reporter shot at after identifying himself | June 5th
