@@ -899,6 +899,21 @@ id: or-portland-58
 * https://twitter.com/hungrybowtie/status/1280775090582380545
 
 
+### Federal agents fire tear gas during shift change | July 11th
+
+Early in the morning on July 11th, federal agents retreated into the courthouse for a shift change (1st link). The second link shows tear gas released after protestor pushed towards the door into which federal agents were retreating.
+
+tags: protestor, tear-gas
+
+id: or-portland-59
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1281868957713141760
+* https://twitter.com/defendpdx/status/1281866496793346048
+* [Shift change begins at 5:00](https://www.pscp.tv/w/1YqxoRnMPVvJv?t=5m)
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
