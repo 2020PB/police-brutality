@@ -35,7 +35,7 @@ id: wi-madison-2
 
 Protesters were congregating at the intersection of North 6th Street and McKinley Avenue. A group of officers on bikes rode up to them. Two officers on bikes collided with one another; one officer fell to the ground. Officers then tackled a protestor (for reasons unknown) and attempted to take him into custody, with one officer placing a knee on his neck or head for one or two minutes. No officers intervened to get the knee off the man's neck; police formed a barrier to screen the arrest from other protestors and people filming. At the same time, police arrested one other man and hit a woman in the collarbone -- again, for reasons unknown. The man who had an officer's knee on his neck has sued.
 
-tags: knee-on-neck, arrest, bike, protestor
+tags: arrest, bike, knee, knee-on-neck, protestor, strike, tackle
 
 id: wi-milwaukee-1
 
@@ -54,9 +54,9 @@ Protesters had congregated near the intersection of North 6th Street and McKinle
 
 Police claim they used force to disperse the crowd after rocks and glass were thrown at them. Police also said at the time that "Molotov cocktails" were thrown at them. They later walked that statement back to say that one Molotov Cocktail was thrown. They say it did not ignite. Media and protesters present say they saw water bottles being thrown, but not glass, rocks, or a Molotov cocktail. Video released by police clearly shows something being thrown at police, but doesn't show what it was. Police also produced a picture of a crushed water bottle and what looks like a water pump and implied it was the remnants of a Molotov cocktail.
 
-NOTE: this incident immediately follows WI-Milwaukee-2. Because the misconduct involved is substantially different, it has been given its own incident.
+NOTE: this incident immediately follows wi-milwaukee-2. Because the misconduct involved is substantially different, it has been given its own incident.
 
-tags: gas, protestor, rubber-bullets, tear-gas
+tags: gas, protestor, rubber-bullets, shoot, tear-gas
 
 id: wi-milwaukee-2
 
