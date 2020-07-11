@@ -188,7 +188,7 @@ In footage taken by a bystander filming from her apartment, police advance down 
 
 tags: shoot, projectile, gas, protestor
 
-id: ca-losangeles-36
+id: ca-losangeles-37
 
 **Links**
 
