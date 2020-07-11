@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-10T22:21:03.803007+00:00
+UPDATED AT: 2020-07-11T02:59:29.094236+00:00
 
 
 # Alabama
@@ -2527,9 +2527,9 @@ id: il-joliet-1
 
 A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
-id: in-fortwayne-1, protestor
+id: in-fortwayne-1
 
 **Links**
 
@@ -2815,7 +2815,7 @@ id: ia-desmoines-8
 
 * [Tweet by local reporter showing video of protesters getting pushed around by police](https://twitter.com/shelbyfleig/status/1278399613683339265)
 * [Local news report on the incident by Des Moines Register](https://www.desmoinesregister.com/story/news/2020/07/01/black-lives-matter-protest-state-capitol-results-arrests/5358305002/)
-* [Local new report on the incident by KCRG (Cedar Rapids, Iowa)](https://www.kcrg.com/2020/07/01/arrests-made-at-state-capitol-during-black-lives-matter-protest/)
+* [Local news report on the incident by KCRG (Cedar Rapids, Iowa)](https://www.kcrg.com/2020/07/01/arrests-made-at-state-capitol-during-black-lives-matter-protest/)
 * [Local news report on the incident by KCCI (Des Moines, Iowa)](https://www.kcci.com/article/des-moines-police-say-protesters-assaulted-officers-one-disarmed-an-officer/33031470)
 
 
@@ -9027,7 +9027,7 @@ The journalist filming is told he is not allowed to remain, despite identifying 
 
 tags: pepper-spray, journalist, protestor
 
-id: wi-madison02
+id: wi-madison-2
 
 **Links**
 
