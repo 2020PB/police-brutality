@@ -301,6 +301,23 @@ id: ca-losangeles-34
 * https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
 
 
+### Protestor shot in the head by rubber bullet | May 30th
+
+Images show a forehead injury received by a protestor who had been hiding behind a dumpster.
+
+This, among other incidents, has led LA Mayor Garcetti to instruct the LAPD to limit its use of rubber bullets.
+
+tags: protestor, shoot, rubber-bullet
+
+id: ca-losangeles-35
+
+**Links**
+
+* https://i.redd.it/xpn4dnw342551.jpg
+* https://www.reddit.com/r/LosAngeles/comments/h9e7i8/protesters_hid_from_lapd_shooting_rubber_bullets/
+* https://www.latimes.com/california/story/2020-06-02/lapd-will-limit-use-of-rubber-bullets-on-protesters-garcetti-says
+
+
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
