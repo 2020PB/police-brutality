@@ -349,6 +349,20 @@ id: ca-losangeles-36
 * https://twitter.com/tracemeYo/status/1266633586322497538
 
 
+### Police fire rubber bullets at small group of peaceful protestors | May 30th
+
+Around 2AM on May 30th, a bystander films police from his apartment. Police fire projectiles - the filmer claims, based on a livestreamer's feed, that they are rubber bullets - at a small group of protestors from across an intersection. Police then take the intersection and march down the street, continuing to fire at protestors. At one point, another bystander asks the filmer who the police are shooting at. After the filmer points out the protestors, the other bystander states, "There are like 4 of them."
+
+tags: protestor, shoot, rubber-bullets
+
+id: ca-losangeles-39
+
+**Links**
+
+* https://www.youtube.com/watch?v=UDLxeshoPnI
+* https://www.reddit.com/r/LosAngeles/comments/gtjd0p/rubber_bullets_at_2am_dtla/
+
+
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
