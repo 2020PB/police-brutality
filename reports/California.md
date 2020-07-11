@@ -182,6 +182,20 @@ id: ca-longbeach-2
 
 ## Los Angeles
 
+### Police use tear gas and riot rounds against peaceful protestors | May 29th
+
+In footage taken by a bystander filming from her apartment, police advance down a street near a Downtown LA shopping center. Protestors retreat from police. Police continuously fire less-lethal rounds and chemical agents at protestors. Towards the end of the footage, a single firework is thrown at police by protestors.
+
+tags: shoot, projectile, gas, protestor
+
+id: ca-losangeles-36
+
+**Links**
+
+* https://vimeo.com/424352612
+* https://www.reddit.com/r/LosAngeles/comments/gti4eg/la_riots_5292020_police_line_advances_with_their/
+
+
 ### Protestor shot in head | (believed to be) May 30th
 
 Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
