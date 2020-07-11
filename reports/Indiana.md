@@ -4,9 +4,9 @@
 
 A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
-id: in-fortwayne-1, protestor
+id: in-fortwayne-1
 
 **Links**
 
