@@ -1029,6 +1029,7 @@ id: or-portland-65
 
 * https://twitter.com/zerosum24/status/1282275808413966337
 * https://twitter.com/hungrybowtie/status/1282176328305762307
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hpys7k/portland_7112020_protester_shot_by_impact/
 * https://www.opb.org/news/article/federal-officers-portland-protester-shot-less-lethal-munitions/
 
 
