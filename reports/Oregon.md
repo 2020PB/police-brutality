@@ -1018,6 +1018,7 @@ id: or-portland-64
 * https://twitter.com/dave_blazer/status/1282246576878960640
 * https://twitter.com/dave_blazer/status/1282245488759062528
 
+
 ### Protestor shot in the head | July 12th
 
 Footage taken just after midnight on July 12th shows a protestor holding a stereo above his head across the street from the Justice Center. A shot can be heard and the protestor crumples to the ground, bleeding heavily.
