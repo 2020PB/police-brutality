@@ -978,7 +978,7 @@ id: or-portland-62
 
 **Links**
 
-* https://twitter.com/R3volutionDaddy/status/1282341037554331649
+* https://twitter.com/hungrybowtie/status/1282218575093096448
 
 
 ### Police and federal agents tear gas protestors again | July 12th
@@ -999,24 +999,11 @@ id: or-portland-63
 * https://twitter.com/dave_blazer/status/1282227832706363393
 
 
-### Police shove protestors and press, threaten with batons | July 12th
-
-Footage shows protestors backing away from federal agents per orders. An officer shoves a protestor then threatens her with his baton. Tear gas canisters are released. An individual clearly marked press and carrying a camera stands on steps nearby. An officer shoves the press member through bushes, brandishing his baton.
-
-tags: protestor, journalist, tear-gas, shove
-
-id: or-portland-70
-
-**Links**
-
-* https://twitter.com/dave_blazer/status/1282245488759062528
-
-
 ### Police and federal agents tackle, arrest, and tear gas protestors | July 12th
 
-In what is allegedly the fourth distinct tear gassing of the night, federal agents and police charged out from the Justice Center. They tackle and arrest at least one protestor, then deploy tear gas to cover their retreat.
+In what is allegedly the fourth distinct tear gassing of the night, federal agents and police charged out from the Justice Center. They tackle and arrest at least one protestor, then deploy tear gas to cover their retreat. In addition, officers are seen shoving both protestors and journalists, and threatening them with batons while pushing protests out of the park. They continually disperse tear gas while doing so. In particular, the last link shows an officer pushing an individual clearly marked press off a set of steps and into bushes.
 
-tags: protestor, tackle, arrest, tear-gas
+tags: protestor, tackle, arrest, tear-gas, shove, journalist
 
 id: or-portland-64
 
@@ -1029,7 +1016,7 @@ id: or-portland-64
 * https://twitter.com/hungrybowtie/status/1282245055680401408
 * https://twitter.com/dave_blazer/status/1282246043673874432
 * https://twitter.com/dave_blazer/status/1282246576878960640
-
+* https://twitter.com/dave_blazer/status/1282245488759062528
 
 ### Protestor shot in the head | July 12th
 
