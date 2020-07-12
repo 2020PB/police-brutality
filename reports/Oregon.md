@@ -1014,8 +1014,9 @@ id: or-portland-65
 
 **Links**
 
-* https://twitter.com/greg_doucette/status/1282178029599559680
-* https://twitter.com/greg_doucette/status/1282347377672753154
+* https://twitter.com/zerosum24/status/1282275808413966337
+* https://twitter.com/hungrybowtie/status/1282176328305762307
+* https://www.opb.org/news/article/federal-officers-portland-protester-shot-less-lethal-munitions/
 
 
 ### Photojournalist shows wounds from less-lethal rounds | July 12th
