@@ -920,7 +920,7 @@ In footage from a journalist, an LRAD's dispersal siren can be clearly heard. An
 
 tags: protestor, journalist, lrad
 
-id: or-portland-65
+id: or-portland-68
 
 **Links**
 
