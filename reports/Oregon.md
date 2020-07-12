@@ -927,6 +927,19 @@ id: or-portland-68
 * https://twitter.com/hungrybowtie/status/1282193909716672512
 
 
+### Federal agent shoves protestor | July 11th
+
+Footage shows a federal agent running on the sidewalk, screaming "Get out of the way." He then shoves an individual to the ground. The individual does not appear to be in his way. Another federal agent walks behind, telling protestors to "Get off the sidewalk." Protestors ask where they are supposed to go and the agent does not answer.
+
+tags: protestor, shove
+
+id: or-portland-69
+
+**Links**
+
+* https://twitter.com/whittlingbabe/status/1282372585984978944
+
+
 ### Police fire tear gas and riot rounds at peaceful protestors | July 12th
 
 Protestors are gathered around the Portland Justice Center. Police and Federal agents are massed in a Justice Center doorway. The fire and throw tear gas canisters. In addition, riot rounds can be heard fired repeatedly.
