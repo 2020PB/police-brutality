@@ -914,6 +914,123 @@ id: or-portland-59
 * [Shift change begins at 5:00](https://www.pscp.tv/w/1YqxoRnMPVvJv?t=5m)
 
 
+### LRAD used against protestors | July 11th
+
+In footage from a journalist, an LRAD's dispersal siren can be clearly heard. Antecdotally, the journalist filming writes, "it definitely hurts."
+
+tags: protestor, journalist, lrad
+
+id: or-portland-65
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1282193909716672512
+
+
+### Police fire tear gas and riot rounds at peaceful protestors | July 12th
+
+Protestors are gathered around the Portland Justice Center. Police and Federal agents are massed in a Justice Center doorway. The fire and throw tear gas canisters. In addition, riot rounds can be heard fired repeatedly.
+
+tags: protestor, tear-gas, tear-gas-canister, shoot, projectile
+
+id: or-portland-60
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1282217421739225088
+* https://twitter.com/KohzKah/status/1282218847018168321
+* https://twitter.com/KohzKah/status/1282223079519739904
+
+
+### Police and federal agents chase down protestor writing in chalk | July 12th
+
+Footage shows a protestor on the approved side of the Justice Center line. Without warning, federal agents charge out of the Justice Center at the protestor. The protestor flees and the agents continue to give chase. They can be heard shouting, "Get her."
+
+tags: protestor, abuse-of-power
+
+id: or-portland-61
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1282341037554331649
+
+
+### Police strike journalist with tear gas canister | July 12th
+
+In the aftermath of the events of or-portland-60, a journalist was filming protestors using water and traffic cones to defuse tear gas. While filming, he was shot directly with a tear gas canister, which then fell into his bag. He states that "PRESS" is written clearly on his helmet.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: or-portland-62
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1282341037554331649
+
+
+### Police and federal agents tear gas protestors again | July 12th
+
+After police and federal agents retreated into the Justice Center, protestors followed. Footage shows agents emerging from the Justice Center and firing tear gas and other riot rounds. Most protestors flee, but some remain to film. A single firework can be heard at the end of the footage.
+
+Additional footage shows police and federal agents continuing to tear gas protestors into the park.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-63
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1282227070194446336
+* https://twitter.com/hungrybowtie/status/1282227456204607488
+* https://twitter.com/hungrybowtie/status/1282227922598674433
+
+
+### Police and federal agents tackle, arrest, and tear gas protestors | July 12th
+
+In what is allegedly the fourth distinct tear gassing of the night, federal agents and police charged out from the Justice Center. They tackle and arrest at least one protestor, then deploy tear gas to cover their retreat.
+
+tags: protestor, tackle, arrest, tear-gas
+
+id: or-portland-64
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1282246957256212481
+* https://twitter.com/hungrybowtie/status/1282241815022714880
+* https://twitter.com/hungrybowtie/status/1282243410884096000
+* https://twitter.com/hungrybowtie/status/1282244153926017025
+* https://twitter.com/hungrybowtie/status/1282245055680401408
+
+
+### Protestor shot in the head | July 12th
+
+Footage taken just after midnight on July 12th shows a protestor holding a stereo above his head across the street from the Justice Center. A shot can be heard and the protestor crumples to the ground, bleeding heavily.
+
+Reports from protestors say he was taken to the hospital.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-65
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1282178029599559680
+* https://twitter.com/greg_doucette/status/1282347377672753154
+
+
+### Photojournalist shows wounds from less-lethal rounds | July 12th
+
+Footage shows an individual wearing a t-shirt that clearly states "PRESS" on the back. He has rolled up his shirt to reveal 2 bleeding spots on his back, as well as a series of bruises. An individual can be heard stating that the journalist was "shot in the back."
+
+tags: journalist, shoot, projectile
+
+id: or-portland-66
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1282338521802563584
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
