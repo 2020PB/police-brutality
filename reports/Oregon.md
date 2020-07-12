@@ -996,6 +996,7 @@ id: or-portland-63
 * https://twitter.com/hungrybowtie/status/1282227070194446336
 * https://twitter.com/hungrybowtie/status/1282227456204607488
 * https://twitter.com/hungrybowtie/status/1282227922598674433
+* https://twitter.com/dave_blazer/status/1282227832706363393
 
 
 ### Police and federal agents tackle, arrest, and tear gas protestors | July 12th
