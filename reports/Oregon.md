@@ -1031,6 +1031,19 @@ id: or-portland-66
 * https://twitter.com/greg_doucette/status/1282338521802563584
 
 
+### Protest medics shoved and struck by batons after trying to give aid to protestor | July 12th
+
+Footage shows 3 protest medics standing around a protestor on the ground. Federal agents approach and motion for them to leave. The medics obey the orders, but federal agents shove them to the ground and strike them with batons regardless.
+
+tags: medic, strike, beat, baton, shove
+
+id: or-portland-67
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hpvxlp/federal_officers_in_portland_or_attacking_medics/
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
