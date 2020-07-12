@@ -999,6 +999,19 @@ id: or-portland-63
 * https://twitter.com/dave_blazer/status/1282227832706363393
 
 
+### Police shove protestors and press, threaten with batons | July 12th
+
+Footage shows protestors backing away from federal agents per orders. An officer shoves a protestor then threatens her with his baton. Tear gas canisters are released. An individual clearly marked press and carrying a camera stands on steps nearby. An officer shoves the press member through bushes, brandishing his baton.
+
+tags: protestor, journalist, tear-gas, shove
+
+id: or-portland-70
+
+**Links**
+
+* https://twitter.com/dave_blazer/status/1282245488759062528
+
+
 ### Police and federal agents tackle, arrest, and tear gas protestors | July 12th
 
 In what is allegedly the fourth distinct tear gassing of the night, federal agents and police charged out from the Justice Center. They tackle and arrest at least one protestor, then deploy tear gas to cover their retreat.
@@ -1014,6 +1027,8 @@ id: or-portland-64
 * https://twitter.com/hungrybowtie/status/1282243410884096000
 * https://twitter.com/hungrybowtie/status/1282244153926017025
 * https://twitter.com/hungrybowtie/status/1282245055680401408
+* https://twitter.com/dave_blazer/status/1282246043673874432
+* https://twitter.com/dave_blazer/status/1282246576878960640
 
 
 ### Protestor shot in the head | July 12th
