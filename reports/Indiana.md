@@ -14,6 +14,21 @@ id: in-fortwayne-1
 * https://twitter.com/_isabel_a/status/1266580681251000321
 
 
+### Police tear gas journalist | May 29th
+
+Karli VanCleave, a local journalist, was hit in the back with a tear gas canister, while she says she was standing in the middle of a crowd of journalists, carrying equipment and wearing clothing marked with her outlet's logo. She claims that police were firing tear gas indiscriminately, without warning, in all directions.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: in-fortwayne-6
+
+**Links**
+
+* https://pressfreedomtracker.us/all-incidents/wpta-journalist-hit-tear-gas-canister-while-covering-indiana-protest/
+* https://twitter.com/Karli_VanCleave/status/1266618555484823554
+* https://twitter.com/KaylerJayne/status/1266567347277639683
+
+
 ### Police tear gas peaceful protesters | May 30th
 
 Police officers dressed in swat gear threw a tear gas container at peaceful protestors.
@@ -29,20 +44,21 @@ id: in-fortwayne-2
 
 ### Toddler tear-gassed by police | May 30th
 
-A toddler and her mother were driving through downtown and had to leave their car due to tear gas in the road. The toddler was then tear-gassed twice about ten minutes apart.
+A toddler and her mother were driving through downtown and had to leave their car due to tear gas. A medic began treating the child for tear gas exposure. After around 10 minutes, police threw a tear gas canister close to the medic, tear gassing the child a second time. Two people present say that police did so intentionally.
 
-tags: tear-gas, child, bystander
+tags: tear-gas, child, bystander, medic
 
 id: in-fortwayne-3
 
 **Links**
 
 * https://wpta21.com/2020/05/31/toddler-tear-gassed-photo-goes-viral/#.XtUVqwf8OnF.facebook
+* [ACLU lawsuit, featuring the allegation (though not featuring anyone involved as a plaintiff)](https://www.aclu-in.org/sites/default/files/field_documents/ft_wayne_protest_complaint.pdf)
 
 
 ### Protester hit in the face with a gas canister | May 31st
 
-A FWPD Officer fired a tear gas canister on protestors face. He has allegedly been permanently blinded in that eye.
+A protester was hit in the face with a tear gas canister. He is now permanently blind in that eye.
 
 tags: tear-gas, tear-gas-canister, protestor
 
@@ -53,6 +69,8 @@ id: in-fortwayne-4
 * https://i.redd.it/4qzvp2gd54251.jpg
 * https://twitter.com/notbalin/status/1266972999296704513
 * https://mobile.twitter.com/chadloder/status/1267279165230743553/photo/2
+* https://www.wfft.com/content/news/Fort-Wayne-teen-loses-eye-after-struck-by-tear-gas-canister-570911221.html
+* https://wpta21.com/2020/06/17/i-want-you-to-look-me-in-my-eye-and-say-that-youre-sorry-man-who-lost-his-eye-protesting-says-he-demands-a-response-from-the-mayor/
 
 
 ### Police break up a small protest and shoots at them as they leave | June 14th
