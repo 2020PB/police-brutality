@@ -1,3 +1,21 @@
+## Beverly Hills
+
+### Beverly Hills police use LRAD (sound cannon) at protest | June 26th
+
+During a peaceful protest in Beverly Hills, police used the dispersal function of a LRAD (or sound cannon) on protestors. Footage is pointed at the ground, but audio shows individuals arguing. The LRAD's characteristic dispersal signal is used twice, each time without warning and for about 30 seconds. In addition, a photojournalist at the scene confirms the LRAD was used. 
+
+Due to its high risk of permanent injury, indiscriminate damage, and insufficient testing surrounding long-terms effects, the use of the LRAD dispersal function is considered to be police brutality in and of itself.
+
+tags: lrad, protestor
+
+id: ca-beverlyhills-1
+
+**Links**
+
+* [1:34, 3:43](https://youtu.be/doQMq8Iwcjc?t=94)
+* [Photojournalist's account](https://twitter.com/bfeinzimer/status/1277014331968782339)
+
+
 ## Clayton
 
 ### Law enforcement gas teenagers at a park | June 2nd
