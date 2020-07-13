@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-13T12:04:43.904030+00:00
+UPDATED AT: 2020-07-13T15:45:32.710407+00:00
 
 
 # Alabama
@@ -9174,7 +9174,9 @@ id: dc-dc-25
 The following two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protestor into the concrete and is quickly aided by at least one other officer.
 In the second video, four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back. The arrest is then made with the man on the ground.
 
-tags: arrest, abuse-of-power, shove, bike
+All 11 protestors arrested on July 7th were released without charges.
+
+tags: arrest, abuse-of-power, shove, bike, protestor
 
 id: dc-dc-26
 
@@ -9182,6 +9184,26 @@ id: dc-dc-26
 
 * https://twitter.com/occupyhstreet/status/1280665647412908032
 * https://twitter.com/KuzyBeCackling/status/1280693959841460224
+* https://twitter.com/DCMediaGroup/status/1281334939179462663
+
+
+### Protestor surrounded and arrested | July 7th
+
+Footage shows a protestor speaking to an officer in a white shirt. Two more officers quietly walk up behind the protestor. Without warning, the white-shirted officer grabs the protestor. The protestor panics and more police join to move him off to the side and force him to the ground.
+
+The second clip shows about 5 officers handcuffing the protestor before carrying him away.
+
+All 11 protestors arrested on July 7th were released without charges.
+
+tags: arrest, shove, abuse-of-power, protestor
+
+id: dc-dc-27
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1280712378225696769
+* https://twitter.com/KuzyBeCackling/status/1280690030344888321
+* https://twitter.com/DCMediaGroup/status/1281334939179462663
 
 
 
