@@ -200,7 +200,7 @@ id: ca-longbeach-2
 
 ## Los Angeles
 
-### Police use tear gas and riot rounds against peaceful protestors | May 29th
+### Police use tear gas and riot rounds against protestors | May 29th
 
 In footage taken by a bystander filming from her apartment, police advance down a street near a Downtown LA shopping center. Protestors retreat from police. Police continuously fire less-lethal rounds and chemical agents at protestors. Towards the end of the footage, a single firework is thrown at police by protestors.
 
