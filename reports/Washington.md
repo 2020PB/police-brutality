@@ -405,3 +405,38 @@ id: wa-seattle-26
 
 * https://twitter.com/slydesilva/status/1279107834739736576
 
+
+### Police arrest peaceful protestor | July 9th
+
+Footage shows a handful of protestors marching in the street. Protestors clear to the sidewalks as police arrive. Officers approach the crowd and single out one black woman. At 1:58 in the Reddit link, an officer can be heard saying, "You were blocking earlier." Officers then grab her and arrest her. Additional officers brandishing tasers and pepper spray surround the arrest. Police then place the protestor in an unmarked van.
+
+It is unclear why this individual was singled out.
+
+tags: protestor, arrest
+
+id: wa-seattle-27
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hobv3a/how_many_cops_does_it_take_to_arrest_one_black/
+* [Full stream, begins at 1:02:00](https://www.twitch.tv/videos/674606592)
+* [Alternate angle](https://twitter.com/greg_doucette/status/1281430922064211968)
+
+
+### Police arrest journalist | July 10th
+
+First person footage from a photojournalist shows the journalist filming a police car while stating that allegedly the officer in the car said that the officer has the photojournalist's address. The journalist repeats these words back, including the exact phrase, "I have your address." The officer then approaches him and arrests him for threatening an officer, alleging that the journalist claimed to have the officer's address.
+
+The second link shows the full series of events. The photojournalist is filming police as they write parking citations. He is using strong language with the officers and harassing them. However he is doing no more than hurling insults and noting names and badge numbers. At 2:00, it can be verified that the officer does say he has the journalist's address. So, in fact, when he is arrested for threatening an officer, he is repeating the officer's words back to him.
+
+Notably, this journalist filmed the arrest of the individual in wa-seattle-27.
+
+tags: journalist, arrest, abuse-of-power
+
+id: wa-seattle-28
+
+**Links**
+
+* https://twitter.com/spekulation/status/1281656761296936961
+* https://www.reddit.com/r/PublicFreakout/comments/hovouj/seattle_police_officer_caught_making_up_a_false/
+
