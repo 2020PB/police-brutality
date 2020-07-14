@@ -844,6 +844,34 @@ id: ny-newyorkcity-50
 * https://twitter.com/NelStamp/status/1277985126228557825
 
 
+### Police tackle, shove, tase and arrest protestor | July 12th
+
+Footage shows a protestor arguing with an officer in the street. The officer yells, "Get back," and shoves the protestor. Another officer charges and grabs the protestor before shoving the protestor away. The officer then unholsters his taser and fires at the protestor without warning. The protestor falls to the ground, then in apparent pain and panic attempts to stand and free himself while numerous officers hold him against a car to arrest him.
+
+tags: taser, tase, arrest, shove, push, grab, protestor
+
+id: ny-newyorkcity-53
+
+**Links**
+
+* https://twitter.com/ScooterCasterNY/status/1282464495839981569
+* https://twitter.com/greg_doucette/status/1282488250763022341
+* https://freedomnews.tv/2020/07/13/person-tased-at-pro-police-rally-counter-protested-by-black-lives-matter-in-bay-ridge/
+
+
+### Police use bikes to shove protestors | July 12th
+
+Footage shows protestors and police in the road. A dispersal order can be heard. As soon as it ends, the police chant, "Move back," and use their bikes to shove protestors.
+
+tags: protestor, bike, shove
+
+id: ny-newyorkcity-54
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1282480090702655492
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
