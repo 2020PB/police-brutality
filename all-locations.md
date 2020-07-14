@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-14T13:30:53.126477+00:00
+UPDATED AT: 2020-07-14T15:03:35.170924+00:00
 
 
 # Alabama
@@ -276,6 +276,24 @@ id: ar-littlerock-1
 
 # California
 
+## Beverly Hills
+
+### Beverly Hills police use LRAD (sound cannon) at protest | June 26th
+
+During a peaceful protest in Beverly Hills, police used the dispersal function of a LRAD (or sound cannon) on protestors. Footage is pointed at the ground, but audio shows individuals arguing. The LRAD's characteristic dispersal signal is used twice, each time without warning and for about 30 seconds. In addition, a photojournalist at the scene confirms the LRAD was used.
+
+Due to its high risk of permanent injury, indiscriminate damage, and insufficient testing surrounding long-terms effects, the use of the LRAD dispersal function is considered to be police brutality in and of itself.
+
+tags: lrad, protestor
+
+id: ca-beverlyhills-1
+
+**Links**
+
+* [1:34, 3:43](https://youtu.be/doQMq8Iwcjc?t=94)
+* [Photojournalist's account](https://twitter.com/bfeinzimer/status/1277014331968782339)
+
+
 ## Clayton
 
 ### Law enforcement gas teenagers at a park | June 2nd
@@ -460,6 +478,20 @@ id: ca-longbeach-2
 
 ## Los Angeles
 
+### Police use tear gas and riot rounds against protestors | May 29th
+
+In footage taken by a bystander filming from her apartment, police advance down a street near a Downtown LA shopping center. Protestors retreat from police. Police continuously fire less-lethal rounds and chemical agents at protestors. Towards the end of the footage, a single firework is thrown at police by protestors.
+
+tags: shoot, projectile, gas, protestor
+
+id: ca-losangeles-37
+
+**Links**
+
+* https://vimeo.com/424352612
+* https://www.reddit.com/r/LosAngeles/comments/gti4eg/la_riots_5292020_police_line_advances_with_their/
+
+
 ### Protestor shot in head | (believed to be) May 30th
 
 Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
@@ -577,6 +609,54 @@ id: ca-losangeles-34
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
+
+
+### Protestor shot in the head by rubber bullet | May 30th
+
+Images show a forehead injury received by a protestor who had been hiding behind a dumpster.
+
+This, among other incidents, has led LA Mayor Garcetti to instruct the LAPD to limit its use of rubber bullets.
+
+tags: protestor, shoot, rubber-bullet
+
+id: ca-losangeles-35
+
+**Links**
+
+* https://i.redd.it/xpn4dnw342551.jpg
+* https://www.reddit.com/r/LosAngeles/comments/h9e7i8/protesters_hid_from_lapd_shooting_rubber_bullets/
+* https://www.latimes.com/california/story/2020-06-02/lapd-will-limit-use-of-rubber-bullets-on-protesters-garcetti-says
+
+
+### Police fire at bystander filming from apartment | May 30th
+
+Early in the morning on May 30th, a streamer is filming arrests from her apartment. She captures police pointing riot guns at another apartment in her building. Police fire one shot.
+
+The man at whom police shot posted images of what appears to be a bean bag round and a broken window.
+
+tags: bystander, shoot, bean-bag, property-destruction
+
+id: ca-losangeles-36
+
+**Links**
+
+* [Stream; police target apartment at 0:30, shoot at 0:45](https://www.pscp.tv/w/1OwxWQXvOAjGQ)
+* https://twitter.com/Sarah_Mojarad/status/1266633046591078400
+* https://twitter.com/tracemeYo/status/1266633586322497538
+
+
+### Police fire rubber bullets at small group of peaceful protestors | May 30th
+
+Around 2AM on May 30th, a bystander films police from his apartment. Police fire projectiles - the filmer claims, based on a livestreamer's feed, that they are rubber bullets - at a small group of protestors from across an intersection. Police then take the intersection and march down the street, continuing to fire at protestors. At one point, another bystander asks the filmer who the police are shooting at. After the filmer points out the protestors, the other bystander states, "There are like 4 of them."
+
+tags: protestor, shoot, rubber-bullets
+
+id: ca-losangeles-39
+
+**Links**
+
+* https://www.youtube.com/watch?v=UDLxeshoPnI
+* https://www.reddit.com/r/LosAngeles/comments/gtjd0p/rubber_bullets_at_2am_dtla/
 
 
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
