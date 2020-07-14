@@ -846,7 +846,9 @@ id: ny-newyorkcity-50
 
 ### Police tackle, shove, tase and arrest protestor | July 12th
 
-Footage shows a protestor arguing with an officer in the street. The officer yells, "Get back," and shoves the protestor. Another officer charges and grabs the protestor before shoving the protestor away. The officer then unholsters his taser and fires at the protestor without warning. The protestor falls to the ground, then in apparent pain and panic attempts to stand and free himself while numerous officers hold him against a car to arrest him.
+Footage shows a protestor arguing with an officer in the street at 5th and 67th Street in Bay Ridge, Brooklyn. The officer yells, "Get back," and shoves the protestor. Another officer charges and grabs the protestor before shoving the protestor away. The officer then unholsters his taser and fires at the protestor without warning. The protestor falls to the ground, then in apparent pain and panic attempts to stand and free himself while numerous officers hold him against a car to arrest him.
+
+A Freedom of Information Act requesting police footage has been [filed](https://www.muckrock.com/foi/new-york-city-17/foia-nypd-body-camera-footage-from-tasing-protester-on-july-12th-2020-98144/#).
 
 tags: taser, tase, arrest, shove, push, grab, protestor
 
