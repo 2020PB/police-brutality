@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-14T12:56:13.655044+00:00
+UPDATED AT: 2020-07-14T13:30:53.126477+00:00
 
 
 # Alabama
@@ -8076,6 +8076,37 @@ id: ut-saltlakecity-3
 **Links**
 
 * https://v.redd.it/fl4y919v1q251
+
+
+### Police beat protestors with shields and batons | July 9th
+
+In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protestors took to the streets.
+
+Footage from multiple angles shows police using shields and batons to strike peaceful protestors gathered in the street outside the DA's office.
+
+tags: protestor, beat, strike, shield, baton
+
+id: ut-saltlakecity-5
+
+**Links**
+
+* https://twitter.com/kylemoonsgirl/status/1281446209618493445
+* https://twitter.com/msternfield/status/1281584343882727424
+* https://twitter.com/Cinderty/status/1281437837175357440
+* https://twitter.com/JoshuaPotash/status/1281434273459900418
+
+
+### Police chase journalist | July 9th
+
+Footage from a protest for Bernardo Palacios-Carbajal shows police chasing down a journalist with a camera mounted on his head. The journalist flees and police give up the chase. The journalist is allegedly affiliated with Just Media Utah
+
+tags: journalist, abuse-of-power
+
+id: ut-saltlakecity-6
+
+**Links**
+
+* https://twitter.com/kylemoonsgirl/status/1281450911731052544
 
 
 
