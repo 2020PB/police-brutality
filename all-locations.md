@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-15T04:17:02.139184+00:00
+UPDATED AT: 2020-07-15T04:32:43.295076+00:00
 
 
 # Alabama
@@ -5155,6 +5155,36 @@ id: ny-newyorkcity-50
 * https://twitter.com/JoshuaPotash/status/1277987893248655361
 * https://twitter.com/deanospameano/status/1277902165542043653
 * https://twitter.com/NelStamp/status/1277985126228557825
+
+
+### Police tackle, shove, tase and arrest protestor | July 12th
+
+Footage shows a protestor arguing with an officer in the street at 5th and 67th Street in Bay Ridge, Brooklyn. The officer yells, "Get back," and shoves the protestor. Another officer charges and grabs the protestor before shoving the protestor away. The officer then unholsters his taser and fires at the protestor without warning. The protestor falls to the ground, then in apparent pain and panic attempts to stand and free himself while numerous officers hold him against a car to arrest him.
+
+A Freedom of Information Act requesting police footage has been [filed](https://www.muckrock.com/foi/new-york-city-17/foia-nypd-body-camera-footage-from-tasing-protester-on-july-12th-2020-98144/#).
+
+tags: taser, tase, arrest, shove, push, grab, protestor
+
+id: ny-newyorkcity-53
+
+**Links**
+
+* https://twitter.com/ScooterCasterNY/status/1282464495839981569
+* https://twitter.com/greg_doucette/status/1282488250763022341
+* https://freedomnews.tv/2020/07/13/person-tased-at-pro-police-rally-counter-protested-by-black-lives-matter-in-bay-ridge/
+
+
+### Police use bikes to shove protestors | July 12th
+
+Footage shows protestors and police in the road. A dispersal order can be heard. As soon as it ends, the police chant, "Move back," and use their bikes to shove protestors.
+
+tags: protestor, bike, shove
+
+id: ny-newyorkcity-54
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1282480090702655492
 
 
 ## Rochester
