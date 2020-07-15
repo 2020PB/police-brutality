@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-15T03:27:14.848734+00:00
+UPDATED AT: 2020-07-15T03:27:28.991466+00:00
 
 
 # Alabama
@@ -3200,6 +3200,39 @@ id: ky-louisville-16
 * [Milky Mess TV; 1:50:00](https://www.facebook.com/milkymesstv/videos/876015052808877/)
 * [WDRB News; 3:05:00](https://www.facebook.com/WDRBNews/videos/603590867203707)
 * https://www.reddit.com/r/Louisville/comments/hjqt9m/lmpd_again_targeted_live_streamers_tonight_steph/
+
+
+### Police respond to splashed water with excessive force | July 7th
+
+Police are attempting to tow a car and protestors have gathered around in opposition. A protestor splashes water on an officer and attempts to run away. The officer chases her, holds her in a headlock, and forces her to the ground with the aid of several other officers. One officer kneels on the protestor to arrest her while other officers hold the crowd back. One officer can be heard saying repeatedly saying, "Back the fuck off."
+
+The filmer also posted a screenshot, alleging that the protestor was charged with disorderly conduct, possession of marijuana, inciting a riot, and third degree assault of an officer. Third degree assault is generally classified as the intent to cause serious bodily harm, generally with a deadly weapon. The filmer is a journalist with the Courier Journal and is verified on Twitter, lending some credence to her allegations about the charges.
+
+tags: protestor, arrest, knee, abuse-of-power
+
+id: ky-louisville-17
+
+**Links**
+
+* https://twitter.com/bloosemore/status/1280659724015480837
+* https://twitter.com/bloosemore/status/1280692574949462025
+
+
+### Police fire at peaceful protestors | July 9th
+
+Footage shows a handful of peaceful protestors on the sidewalk. Shots can be heard and one of the protestors begins running. The shots are alleged to have been fired from a rooftop. The footage shows officers on the roof of a nearby building. It is believed that they fired the shots, but cannot be verified.
+
+Police alleged that a protestor touched an officer's gun.
+
+tags: protestor, shoot, projectile
+
+id: ky-louisville-18
+
+**Links**
+
+* https://twitter.com/HayesGardner/status/1281393307805978624
+* https://twitter.com/greg_doucette/status/1281447373294776321
+* https://twitter.com/HayesGardner/status/1281393822786781185
 
 
 
