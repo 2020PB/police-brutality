@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-14T15:03:35.170924+00:00
+UPDATED AT: 2020-07-15T03:27:14.848734+00:00
 
 
 # Alabama
@@ -7108,6 +7108,60 @@ id: or-portland-67
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hpvxlp/federal_officers_in_portland_or_attacking_medics/
+
+
+### Federal officers fire directly at media | July 12th
+
+Footage shows Federal agents emerge around a corner clouded with tear gas. One officer kicks a tear gas canister. Officers then fire tear gas directly at journalists gathered on a corner.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: or-portland-70
+
+**Links**
+
+* https://twitter.com/stoggrd/status/1282517318468165632
+* https://twitter.com/MikeAdamsUT/status/1282530270860636161
+
+
+### Police slap phone out of protestor's hand | July 12th
+
+Footage shows a protestor with their phone raised, attempting to film an officer. The officer shines at light at the phone and at the protestor, then slaps the phone out of the protestor's hand. The phone lands behind police, where the protestor is unable to retrieve it.
+
+tags: protestor, abuse-of-power, property-destruction
+
+id: or-portland-71
+
+**Links**
+
+* https://clips.twitch.tv/NimbleGrossTildeSeemsGood
+
+
+### Police tear gas protestors in residential area | July 13th
+
+Around 12:30 AM PST, police arrive and declare a riot, giving a dispersal order. Police then fire a considerable amount of tear gas at protestors milling about. Protestors were allegedly gathered in a residential area, where bystanders could easily have been caught in the gas.
+
+tags: tear-gas, protestor
+
+id: or-portland-72
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1282943193428811777
+* https://twitter.com/greg_doucette/status/1283029721077424130
+
+
+### Police pepper-spray and kneel on protestors | July 13th
+
+After declaring the protest a riot and firing tear gas, police made several violent arrests. Footage shows officers tackling 2 protestors and kneeling on them to arrest them. They also fire pepper spray indiscriminately, at both the arrestees and other protestors. One officer is falling over tackling a protestor while discharging pepper spray. Protestors can be heard shouting that police allegedly ripped off a protestor's mask to pepper spray her.
+
+tags: pepper-spray, spray, protestor, tackle, arrest, knee
+
+id: or-portland-73
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1282946442089205761
 
 
 ## Salem
