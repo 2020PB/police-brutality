@@ -190,7 +190,7 @@ id: ny-newyorkcity-61
 
 ### Police shove protestor into the road | May 29th
 
-Footage taken by a reporter at Classon and Lafayette Avenues in Brooklyn shows police chasing a protestor who allegedly threw eggs at the police. A protestor stands on the sidewalk and is shoved into the road, falling to the ground. 
+Footage taken by a reporter at Classon and Lafayette Avenues in Brooklyn shows police chasing a protestor who allegedly threw eggs at the police. A protestor stands on the sidewalk and is shoved into the road, falling to the ground.
 
 After this incident, protestors allegedly began throwing bottles.
 
@@ -205,7 +205,7 @@ id: ny-newyorkcity-62
 
 ### Police officer strikes protestor | May 29th
 
-Footage taken at Flatbush and Pacific in Brooklyn shows a police officer punching a protestor who approached him in the face. 
+Footage taken at Flatbush and Pacific in Brooklyn shows a police officer punching a protestor who approached him in the face.
 
 tags: punch, strike, protestor
 
@@ -227,6 +227,7 @@ id: ny-newyorkcity-64
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
+
 
 ### Police officer throws man against police car | May 30th
 
