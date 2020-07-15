@@ -28,6 +28,20 @@ id: ia-desmoines-3
 * [Location via Google Street View](https://www.google.ca/maps/@41.6293563,-93.6988361,3a,75y,358.27h,68.85t/data=!3m6!1e1!3m4!1s5NdIPPqrW0kAv0Ge9xX4EQ!2e0!7i16384!8i8192)
 
 
+### Police tear gas, pepper spray and beat peaceful protestors | May 30th
+
+Footage shows peaceful protestors chanting in the street. Around 1 minute, a tight group of police begins launching tear gas and pepper-spraying indiscriminately. Police advance as protestors flee. Footage shows numerous officers using shields and batons to strike a protestor lying on the street. In addition, an officer shoves the filmer, who is standing on the sidewalk.
+
+tags: tear-gas, pepper-spray, spray, protestor, beat, strike, shield, baton, shove
+
+id: ia-desmoines-11
+
+**Links**
+
+* https://www.facebook.com/andre.develliott.9/videos/260083008434875/
+* https://www.reddit.com/r/desmoines/comments/gxkoii/some_additional_footage_from_saturday_night/
+
+
 ### Police detain Des Moines Register reporter while covering event | May 31st
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
@@ -40,6 +54,19 @@ id: ia-desmoines-7
 
 * https://twitter.com/RachelSB/status/1267260438900867074
 * https://www.desmoinesregister.com/story/news/2020/05/31/register-reporter-arrested-while-covering-protest/5304560002/
+
+
+### Police fire gas at peaceful protestors across active street | May 31st
+
+Footage shows police and peaceful protestors on opposite sides of an active street. As some protestors step into the street, police fire gas. The filmer states it is tear gas, but a comment states that it is smoke. Regardless, police catch multiple bystander cars in the gas, forcing them to move.
+
+tags: protestor, bystander, gas
+
+id: ia-desmoines-12
+
+**Links**
+
+* https://www.reddit.com/r/desmoines/comments/guds5i/tear_gas_being_fired_at_protestors/
 
 
 ### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | June 1st
