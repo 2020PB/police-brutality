@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-15T04:32:43.295076+00:00
+UPDATED AT: 2020-07-15T19:42:05.867045+00:00
 
 
 # Alabama
@@ -7062,6 +7062,7 @@ id: or-portland-68
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1282193909716672512
+* https://twitter.com/GenResistance/status/1282200096482791430
 
 
 ### Federal agent shoves protestor | July 11th
