@@ -925,6 +925,7 @@ id: or-portland-68
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1282193909716672512
+* https://twitter.com/GenResistance/status/1282200096482791430
 
 
 ### Federal agent shoves protestor | July 11th
