@@ -114,16 +114,13 @@ id: ny-newyorkcity-56
 * https://twitter.com/NY1/status/1266159669262893057
 
 
-### Police shove protestors at Union Square | May 28th
+### Police shove woman to the ground, inducing a seizure | May 29th
 
 Footage shows police using bikes to shove protestors on the sidewalk. One protestor appears to be forced over a concrete divider by the chassis of a bike.
 
-tags: shove, bike, protestor
-
-id: ny-newyorkcity-57
 
 
-### Police shove woman to the ground, inducing a seizure | May 29th
+
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
