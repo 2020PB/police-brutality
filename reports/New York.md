@@ -649,6 +649,7 @@ id: ny-newyorkcity-22
 **Links**
 
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
+* https://twitter.com/SikhProf/status/1268350274424508417
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
 
@@ -692,6 +693,73 @@ id: ny-newyorkcity-45
 
 * https://twitter.com/greg_doucette/status/1268398967777308672
 * https://twitter.com/ArminRosen/status/1268353044896505867
+
+
+### Police officer punches detained protestor repeatedly | June 3rd
+
+Footage taken at Cadman Plaza in Brooklyn shows several officers detaining a protestor. One officer approaches and punches the protestor repeatedly.
+
+tags: protestor, arrest, punch
+
+id: ny-newyorkcity-77
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394876/0_id147-1254w.mp4
+
+
+### Police shove protestors | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows officers pushing a protest. Several officers are seen shoving protestors.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-78
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/id137_annote-1254w.mp4
+
+
+### Police choke and beat bicyclist | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows an officer grabbing a protestor with a bicycle and choking them before slamming them to the ground and arresting them.
+
+tags: choke, throw, grab, arrest, protestor
+
+id: ny-newyorkcity-79
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394811/id62_annote-1254w.mp4
+* [Full Video](https://twitter.com/Axelohh/status/1268649155595055104)
+
+
+### Police strike and shove protestors | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows officers and protestors meeting. Officers use their batons to shove protestors, including one astride a bike.
+
+tags: push, shove, baton, protestor
+
+id: ny-newyorkcity-80
+
+**Links**
+
+* https://twitter.com/mattieump/status/1269094834926649349
+
+
+### Police shove their way through a crowd of protestors | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows protestors lock arms on the sidewalk to protect injured protestors as police approach. Police begin shoving the protestors and striking them with batons, including the injured protestor lying on the ground.
+
+tags: push, shove, baton, strike, protestor
+
+id: ny-newyorkcity-81
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394803/id58_annote-1254w.mp4
+* [Full 15 minute video](https://www.instagram.com/tv/CA_odIIjXCM/?igshid=1x9dd6psx40tj)
 
 
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
