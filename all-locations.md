@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-16T04:27:44.794378+00:00
+UPDATED AT: 2020-07-16T05:07:10.057792+00:00
 
 
 # Alabama
@@ -4477,6 +4477,101 @@ id: ny-newyorkcity-3
 
 * https://www.cityandstateny.com/articles/politics/news-politics/even-black-lawmakers-get-pepper-sprayed.html
 * https://twitter.com/GwynneFitz/status/1266522692326428672
+
+
+### Police shove protestor to the ground | May 29th
+
+Footage taken at a protest at Tompkins and Lexington Avenues in Brooklyn shows a police officer using batons to shove a protestor backwards onto the ground.
+
+tags: shove, baton, protestor
+
+id: ny-newyorkcity-58
+
+**Links**
+
+* https://twitter.com/nycDSA/status/1266562453686665217
+
+
+### Police shove protestors to the ground | May 29th
+
+Footage taken at a protest at Classon and Putnam Avenues in Brooklyn shows an officer approaching a protestor and shoving her to the ground without warning.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-59
+
+**Links**
+
+* https://twitter.com/mfstange/status/1266564340381036544
+
+
+### Police shove and grab protestors | May 29th
+
+Footage taken at a protest at Classon and Lafayette Avenues in Brooklyn shows police shoving numerous protestors. Police shove several into the road. A woman then argues with police. She is shoved by one officer, then a second officer grabs her, pushing her down the street. Officers then charge down the street, one of whom makes a clear effort to shove a protestor on a bicycle as he passes.
+
+tags: shove, grab, protestor
+
+id: ny-newyorkcity-60
+
+**Links**
+
+* https://twitter.com/JohnPhilpNY/status/1266595992427790338
+
+
+### Police chase and tackle protestor, shove a second protestor into a car | May 29th
+
+Footage taken at 67 5th Avenue in Brooklyn shows police chasing down a protestor. They tackle the protestor and hold them down to arrest. Another protestor approaches and is thrown against the side of a car. This protestor then falls to the ground and appears to be unconscious.
+
+tags: shove, tackle, protestor, arrest
+
+id: ny-newyorkcity-61
+
+**Links**
+
+* https://twitter.com/AnonymousBrook2/status/1266589590250553345
+* https://twitter.com/AnonymousBrook2/status/1266591121444126720
+* https://twitter.com/Stoney_Holiday/status/1266616250685444096
+
+
+### Police shove protestor into the road | May 29th
+
+Footage taken by a reporter at Classon and Lafayette Avenues in Brooklyn shows police chasing a protestor who allegedly threw eggs at the police. A protestor stands on the sidewalk and is shoved into the road, falling to the ground.
+
+After this incident, protestors allegedly began throwing bottles.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-62
+
+**Links**
+
+* https://twitter.com/NickAtNews/status/1266567790095486976
+
+
+### Police officer strikes protestor | May 29th
+
+Footage taken at Flatbush and Pacific in Brooklyn shows a police officer punching a protestor who approached him in the face.
+
+tags: punch, strike, protestor
+
+id: ny-newyorkcity-63
+
+**Links**
+
+* https://twitter.com/nateschweber/status/1266539107632758784
+
+
+### Police officer shoves protestors | May 29th
+
+At the corner of Classon and DeKalb in Brooklyn, footage shows two protestors standing off with police. An officer in their blind spot shoves them, knocking one to the ground.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-64
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
 
 
 ### Police officer throws man against police car | May 30th
