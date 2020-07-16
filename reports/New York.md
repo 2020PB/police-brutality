@@ -551,6 +551,76 @@ id: ny-newyorkcity-42
 * https://twitter.com/brandon212_/status/1267184037547986944
 
 
+### Police pepper spray and assault protestors | May 31st
+
+Footage from Broadway and E 12th Street in Manhattan shows an officer shoving, elbowing and pepper spraying numerous protestors standing on the sidewalk with their hands up.
+
+tags: push, shove, pepper-spray, spray, protestor
+
+id: ny-newyorkcity-82
+
+**Links**
+
+* https://twitter.com/DavidASiffert/status/1267297196157947904
+
+
+### Several violent arrests made by police | May 31st
+
+Footage taken near Barclays Center and Atlantic Terminal in Brooklyn shows violent arrests made by police. Allegedly kicked off by a protestor throwing a water bottle, police shove protestors and strike them with batons. In particular, footage shows multiple officers striking one protestor on the ground with batons.
+
+tags: beat, strike, baton, arrest, protestor, shove
+
+id: ny-newyorkcity-83
+
+**Links**
+
+* https://twitter.com/jangelooff/status/1267287782155857923
+* https://twitter.com/jangelooff/status/1267288506424066048
+* https://twitter.com/Noah__Goldberg/status/1267285022031130625
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394871/0_id144-1254w.mp4
+* https://int.nyt.com/data/videotape/finished/2020/07/1594829085/new_id39-1254w.mp4
+* https://int.nyt.com/data/videotape/finished/2020/07/1594412956/id109_annote-1254w.mp4
+
+
+### Protestor shoved into trash | May 31st
+
+Footage taken at Fourth Ave and Pacific St in Brooklyn shows an officer using his baton to shove a protestor holding his hands up into a pile of curbside trash set out for pickup.
+
+tags: strike, shove, baton, protestor
+
+id: ny-newyorkcity-84
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394783/0_id35-1254w.mp4
+
+
+### Police officer pepper sprays protestors across barricade | May 31st
+
+Footage taken at FDR drive and Houston street shows police and protestors separated by a concrete barrier. Police are on the road side of the barrier. An officer approaches the barrier and discharges pepper spray at several protestors filming.
+
+tags: pepper-spray, spray, protestor
+
+id: ny-newyorkcity-85
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394781/0_id34-1254w.mp4
+
+
+### Police strike protestors with batons | May 31st
+
+Footage from Canal and Green St in Manhattan shows protestors walking backwards away from police. Police shove protestors who are walking slowly. After shoving a protestor, an officer gets into an alercation with that protestor. Several officers beat the protestor with their batons.
+
+tags: shove, strike, beat, baton, protestor
+
+id: ny-newyorkcity-86
+
+**Links**
+
+* https://twitter.com/GwynneFitz/status/1267267195870097413
+
+
 ### Officer threatens protestors with what appears to be a handgun | June 1st
 
 Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
