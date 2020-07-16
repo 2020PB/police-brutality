@@ -401,9 +401,9 @@ id: ny-newyorkcity-33
 * https://twitter.com/greg_doucette/status/1268189319002537989
 
 
-### Police officer shoves protestor in the neck | May 30th
+### Police officer shoves protestor | May 30th
 
-Footage from a Union Square protest shows an officer using his baton to shove a protestor in the neck.
+Footage from a Union Square protest shows an officer using his baton to shove a protestor.
 
 tags: shove, baton, protestor
 
@@ -414,9 +414,13 @@ id: ny-newyorkcity-87
 * https://twitter.com/annikahouse/status/1266931806563176451
 
 
-### Police officer shoves protestor to the ground | May 30th
+### Police shove protestors | May 30th
 
-Footage from at protest at Flatbush Avenue Extension and DeKalb Avenue in Brooklyn shows a protestor speaking to an officer. The officer shoves him to the ground. Protestors crowd around as he stands. The officer then discharges pepper spray at him and at other protestors nearby.
+Footage from at protest along the Flatbush Avenue Extension in Brooklyn shows several instances of police shoving protestors. 
+
+The first clip shows a protestor speaking to an officer. The officer shoves him to the ground. Protestors crowd around as he stands. The officer then discharges pepper spray at him and at other protestors nearby.
+
+Additional clips show scuffles between police and protestors where police use their batons to repeatedly shove protestors.
 
 tags: pepper-spray, spray, shove, protestor
 
@@ -424,19 +428,7 @@ id: ny-newyorkcity-88
 
 **Links**
 
-* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/new_155-1254w.mp4
-
-
-### Police use batons to shove protestors to the ground | May 30th
-
-Footage from Flatbush Avenue Extension and Willoughby Street in Brooklyn, shows a scuffle between police and protestors where police use their batons to repeatedly shove protestors to the ground.
-
-tags: shove, baton, protestor
-
-id: ny-newyorkcity-89
-
-**Links**
-
+* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/new_155-1254w.mp
 * https://twitter.com/DonnyMartell/status/1266943106429128711
 * https://twitter.com/jeancosme/status/1266938900184006656
 
