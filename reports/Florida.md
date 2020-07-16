@@ -102,6 +102,25 @@ id: fl-miami-2
 * [9:09 round](https://twitter.com/inaminorkey/status/1277078077303132160)
 
 
+### Police officer grabs arrestee's breast; police violently arrest protestor | July 1st
+
+Footage shows police arresting a woman. A man who walked nearby with his hands up is thrown to the ground by two officers and arrested.
+
+Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protestor without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
+
+tags: arrest, shove, abuse-of-power, inhumane-treatment, protestor
+
+id: fl-miami-3
+
+**Links**
+
+* https://www.instagram.com/p/CCHywZpjAYw/
+* https://www.miaminewtimes.com/news/video-shows-miami-police-grab-breast-of-protester-11661608
+* https://twitter.com/nikoboxxx/status/1278466163219951616
+* https://twitter.com/nikoboxxx/status/1278472993111326720
+* https://twitter.com/nikoboxxx/status/1278473483257708544
+
+
 ## Orlando
 
 ### Police tackle & pepper spray peaceful protestors | June 1st
@@ -269,22 +288,6 @@ id: fl-tampa-6
 
 * https://twitter.com/greg_doucette/status/1270491699832401920
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
-
-
-### Police officer grabs arrestee's breast; police violently arrest protestor | July 1st
-
-Footage shows police arresting a woman. A man who walked nearby with his hands up is thrown to the ground by two officers and arrested.
-
-Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protestor without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
-
-tags: arrest, shove, abuse-of-power, inhumane-treatment, protestor
-
-id: fl-tampa-8
-
-**Links**
-
-* https://www.instagram.com/p/CCHywZpjAYw/
-* https://www.miaminewtimes.com/news/video-shows-miami-police-grab-breast-of-protester-11661608
 
 
 ### Police assault protestors without apparent cause | July 4th
