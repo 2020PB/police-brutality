@@ -428,7 +428,7 @@ id: ny-newyorkcity-88
 
 **Links**
 
-* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/new_155-1254w.mp
+* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/new_155-1254w.mp4
 * https://twitter.com/DonnyMartell/status/1266943106429128711
 * https://twitter.com/jeancosme/status/1266938900184006656
 
