@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-16T05:07:10.057792+00:00
+UPDATED AT: 2020-07-16T05:07:21.801808+00:00
 
 
 # Alabama
@@ -7461,6 +7461,60 @@ id: or-portland-73
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1282946442089205761
+
+
+### Police officer rips off protestor's mask and pepper sprays them | July 14th
+
+Footage shows a protestor standing on the sidewalk with her hands up. An officer rips her mask off and pepper sprays her.
+
+tags: pepper-spray, spray, protestor
+
+id: or-portland-75
+
+**Links**
+
+* https://twitter.com/safePDXprotest/status/1283286011942809601
+
+
+### Police pepper spray protestors with hands up | July 14th
+
+Footage shows police approaching protestors in the street. A speaker can be heard declaring the protest a riot and giving a dispersal order. Protestors stand with their hands up or with arms interlocked. Police pepper spray them during the dispersal order.
+
+tags: pepper-spray, spray, protestor
+
+id: or-portland-76
+
+**Links**
+
+* https://twitter.com/45thabsurdist/status/1282981954279731200
+
+
+### Federal agents use explosive munitions to clear protestors | July 15th
+
+Footage shows U.S. Marshals using a variety of munitions (tear gas, flashbangs, pepper balls) to clear protestors from the street. In the second link, protestors are behind makeshift barricades, but in the first and third, they are just in the street.
+
+tags: tear-gas, flashbangs, pepper-balls, shoot, protestor
+
+id: or-portland-74
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1283363463142666240
+* https://twitter.com/PDocumentarians/status/1283364835909005314
+* https://twitter.com/PDocumentarians/status/1283367858865491968
+
+
+### Federal agents arrest protestor without identifying themselves or stating charges | July 15th
+
+Federal agents approach a small group of protestors on the sidewalk. They seize a protestor, place them in an unmarked car, and drive off. They make no attempt to identify themselves, to read the protestor their rights, or to state the charges against the protestor.
+
+tags: arrest, abuse-of-power
+
+id: or-portland-77
+
+**Links**
+
+* https://twitter.com/matcha_chai/status/1283328232033411072
 
 
 ## Salem
