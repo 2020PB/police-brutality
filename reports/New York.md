@@ -684,6 +684,7 @@ id: ny-newyorkcity-25
 * https://twitter.com/AndomForNY/status/1269066762357805056
 * https://twitter.com/AndomForNY/status/1269067815752957953
 * https://twitter.com/ghouldisco/status/1268872802708357122
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394851/id126_annote-1254w.mp4
 
 
 ### Police arrest hospital employee acting as medic | June 4th
@@ -741,6 +742,86 @@ id: ny-newyorkcity-46
 **Links**
 
 * https://twitter.com/BreezeCrypto/status/1268595409733156868
+
+
+### Police grab protestor by the hair, shove her into car | June 4th
+
+After a scuffle between protestors and police at Washington Ave and Fulton St in Brooklyn, a protestor walking away is grabbed by the hair and thrown into the side of a police car. The officer shoves a second protestor into the car as well.
+
+tags: grab, shove, throw, protestor
+
+id: ny-newyorkcity-65
+
+**Links**
+
+* https://twitter.com/Axelohh/status/1268750326150111232
+
+
+### Polie shove protestor on bike | June 4th
+
+A person at Flushing and Marcy Aves in Brooklyn, is walking a bicycle and appears to be holding a pizza. A white-shirted officer shoves them into the side of a car, sending the pizza flying.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-66
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394873/id145_annote-1254w.mp4
+
+
+### Police single out, choke, and arrest protest organizer | June 4th
+
+Footage taken at E 136th St and Brook Ave in the Bronx shows police pointing out and attempting to apprehend protest organizer Shannon Jones. She retreats onto the sidewalk and the crowd of protestors protects her. Police then charge into the crowd. A white-shirted officer isolates Shannon, chokes, grabs, and shoves her. When another protestor intervenes, the officer punches him and shoves him away. Jones is then arrested.
+
+tags: shove, arrest, choke, protestor, punch, strike
+
+id: ny-newyorkcity-67
+
+**Links**
+
+* https://www.youtube.com/watch?v=eXceGpFwVEE
+
+
+### Officer shoves protestor | June 4th
+
+Footage taken at E 136th St and Brook Ave in the Bronx shows protestors confronting police on bikes. A protestor steps forward near police and appears to say something. An officer shoves the protestor and yells: "Back up."
+
+tags: shove, protestor
+
+id: ny-newyorkcity-68
+
+**Links**
+
+* https://twitter.com/jangelooff/status/1268698274371944451
+
+
+### Officer punches protestor repeatedly | June 4th
+
+Footage from Lee Avenue and Heyward Street in Brooklyn shows police piling on multiple protestors. Notably, one officer punches a protestor repeatedly.
+
+tags: arrest, protestor, punch
+
+id: ny-newyorkcity-69
+
+**Links**
+
+* https://twitter.com/OLIVERIVARD/status/1268763639772839936
+
+
+### White-shirted officers shove protestors | June 4th
+
+Footage taken from a Periscope stream filmed at Washington Ave and Fulton St in Brooklyn shows a crowd of protestors marching. Two white-shirted officers push through the crowd, shoving protestors. An officer appears to grab a protestor in a manner similar to a horse collar before releasing them and chasing after another protestor.
+
+tags: shove, protestor, push, grab
+
+id: ny-newyorkcity-70
+
+**Links**
+
+* [Clip](https://int.nyt.com/data/videotape/finished/2020/07/1594394818/0_id73-1254w.mp4)
+* [Original Tweet](https://twitter.com/NoahHurowitz/status/1268726877679738886)
+* [Full Periscope Video](https://www.pscp.tv/w/1MYxNklkrlvKw)
 
 
 ### Police shove protestor off bike | June 5th
