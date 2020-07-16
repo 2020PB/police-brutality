@@ -483,7 +483,7 @@ id: ny-newyorkcity-92
 
 ### Police violently clear protestors around squad car | May 30th
 
-After protestors had gathered around a squad care near Bedford and Tilden Avenues in Brooklyn, police are seen shoving protestors and striking them with batons - knocking one protestor to the ground - in an effort to clear the area around the car.
+After protestors had gathered around a squad car near Bedford and Tilden Avenues in Brooklyn, police are seen shoving protestors and striking them with batons - knocking one protestor to the ground - in an effort to clear the area around the car.
 
 tags: baton, strike, shove, protestor
 
