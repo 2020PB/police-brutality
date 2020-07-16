@@ -493,6 +493,7 @@ id: ny-newyorkcity-93
 
 * https://twitter.com/spiccoli/status/1266861960982913030
 
+
 ### Police beat hospital employee walking home | May 31st
 
 Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples.
