@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-16T05:07:21.801808+00:00
+UPDATED AT: 2020-07-16T10:31:42.888097+00:00
 
 
 # Alabama
@@ -4895,6 +4895,19 @@ id: ny-newyorkcity-36
 
 * https://abc7ny.com/nyc-curfew-aftermath-looting-riots/6229025/
 * https://twitter.com/greg_doucette/status/1270020411443613696
+
+
+### Officer pepper sprays passerby | June 1st
+
+Footage taken at 41 E 57th St in Manhattan shows an officer running down the street. He pepper sprays several bystanders as he runs past them.
+
+tags: bystander, pepper-spray, spray
+
+id: ny-newyorkcity-71
+
+**Links**
+
+* https://www.youtube.com/watch?v=kkO0FLBKK6Y
 
 
 ### Police officer body slams protestor | June 2nd
