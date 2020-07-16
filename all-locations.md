@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-16T04:27:26.475722+00:00
+UPDATED AT: 2020-07-16T04:27:44.794378+00:00
 
 
 # Alabama
@@ -4401,7 +4401,39 @@ id: ny-merrick-1
 
 ## New York City
 
+### Police make violent arrests, officer breaks baton striking protestor | May 28th
+
+Footage taken at Union Square and East 17th street shows multiple officers grabbing and shoving a protestor to make an arrest. Another protestor confronts an officer who strikes the protestor in the legs with a baton. The baton snaps in two.
+
+tags: strike, arrest, grab, shove, protestor, baton
+
+id: ny-newyorkcity-55
+
+**Links**
+
+* https://twitter.com/ShimonPro/status/1266136557871869952
+
+
+### Police make violent arrest at Union Square | May 28th
+
+Footage shows a woman arguing with a police officer at a protest near Union Square. The officer grabs her by the backpack and pulls her. Other protestors attempt to help and police intervene. Police then shove the crowd back and arrest the protestor. Allegedly, 33 people were arrested at this scene.
+
+tags: shove, push, grab, protestor, arrest
+
+id: ny-newyorkcity-56
+
+**Links**
+
+* https://twitter.com/NY1/status/1266159669262893057
+
+
 ### Police shove woman to the ground, inducing a seizure | May 29th
+
+Footage shows police using bikes to shove protestors on the sidewalk. One protestor appears to be forced over a concrete divider by the chassis of a bike.
+
+
+
+
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
