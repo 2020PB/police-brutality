@@ -401,6 +401,104 @@ id: ny-newyorkcity-33
 * https://twitter.com/greg_doucette/status/1268189319002537989
 
 
+### Police officer shoves protestor | May 30th
+
+Footage from a Union Square protest shows an officer using his baton to shove a protestor.
+
+tags: shove, baton, protestor
+
+id: ny-newyorkcity-87
+
+**Links**
+
+* https://twitter.com/annikahouse/status/1266931806563176451
+
+
+### Police shove protestors | May 30th
+
+Footage from at protest along the Flatbush Avenue Extension in Brooklyn shows several instances of police shoving protestors.
+
+The first clip shows a protestor speaking to an officer. The officer shoves him to the ground. Protestors crowd around as he stands. The officer then discharges pepper spray at him and at other protestors nearby.
+
+Additional clips show scuffles between police and protestors where police use their batons to repeatedly shove protestors.
+
+tags: pepper-spray, spray, shove, protestor
+
+id: ny-newyorkcity-88
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/new_155-1254w.mp4
+* https://twitter.com/DonnyMartell/status/1266943106429128711
+* https://twitter.com/jeancosme/status/1266938900184006656
+
+
+###  | 
+
+In an incident at Bedford and Tilden Avenues in Brooklyn, an officer pushes through a crowd and grabs a person by the neck to push them aside. Another officer knocks the person over, and the first officer throws the person down again when they try to get up.
+
+tags: shove, grab, push, protestor
+
+id: ny-newyorkcity-89
+
+**Links**
+
+* https://twitter.com/BrooklynSpoke/status/1266845497446318081
+
+
+### Already-arrested protestor is choked and thrown to the ground | May 30th
+
+Footage from Bedford and Tilden Avenues in Brooklyn shows a protestor with his hands behind his back being walked away by police. Another officer approaches, grabs him by the neck and throws him to the ground.
+
+tags: shove, arrest, choke, throw, protestor
+
+id: ny-newyorkcity-90
+
+**Links**
+
+* https://twitter.com/justawren/status/1266945853828280330
+
+
+### Journalist and protestors beaten with batons | May 30th
+
+Footage taken by an off-duty journalist (at the protest to film but not on a mandate from their employer) at 137 Fourth Avenue in Manhattan shows a fire on a sidewalk. Police clear the area around the fire, then begin indiscriminately striking the filmer and protestors with batons. Another individual struck by police can be seen holding a camera and is heard stating he is press.
+
+tags: shove, baton, strike, journalist, protestor
+
+id: ny-newyorkcity-91
+
+**Links**
+
+* https://www.facebook.com/sami.disu/videos/10219696654859962/
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394878/id149_annote-1254w.mp4
+
+
+### Indiscriminate use of pepper spray | May 30th
+
+After 2 protestors allegedly threw objects at police at Church and Rogers Avenues in Brooklyn, an officer is seen discharging pepper spray on all protestors gathered near him.
+
+tags: pepper-spray, spray, protestor
+
+id: ny-newyorkcity-92
+
+**Links**
+
+* https://twitter.com/PNickCurran/status/1266959923641974784
+
+
+### Police violently clear protestors around squad car | May 30th
+
+After protestors had gathered around a squad car near Bedford and Tilden Avenues in Brooklyn, police are seen shoving protestors and striking them with batons - knocking one protestor to the ground - in an effort to clear the area around the car.
+
+tags: baton, strike, shove, protestor
+
+id: ny-newyorkcity-93
+
+**Links**
+
+* https://twitter.com/spiccoli/status/1266861960982913030
+
+
 ### Police beat hospital employee walking home | May 31st
 
 Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples.
