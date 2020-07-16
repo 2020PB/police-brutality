@@ -416,7 +416,7 @@ id: ny-newyorkcity-87
 
 ### Police shove protestors | May 30th
 
-Footage from at protest along the Flatbush Avenue Extension in Brooklyn shows several instances of police shoving protestors. 
+Footage from at protest along the Flatbush Avenue Extension in Brooklyn shows several instances of police shoving protestors.
 
 The first clip shows a protestor speaking to an officer. The officer shoves him to the ground. Protestors crowd around as he stands. The officer then discharges pepper spray at him and at other protestors nearby.
 
