@@ -697,6 +697,8 @@ In an incident outside the Hugh Carey Tunnel (West and Morris Streets in Manhatt
 
 tags: knee, arrest, zip-ties, protestor, strike, baton, property-destruction
 
+id: ny-newyorkcity-zaxt
+
 **Links**
 
 * https://twitter.com/awinston/status/1267975128324898818
