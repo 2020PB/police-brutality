@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-16T14:10:56.700262+00:00
+UPDATED AT: 2020-07-16T14:27:58.039566+00:00
 
 
 # Alabama
@@ -5035,17 +5035,96 @@ id: ny-newyorkcity-22
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
 
-### NYPD officers beat woman | (Believed to be) June 3rd
+### Protestor beaten with baton | June 2nd
+
+Footage taken at West and Rector Streets in Manhattan shows a protestor in the road with a bike. An officer attempts to take it, but the protestor holds on. The officer then uses his baton to press against the protestor's neck before striking the protestor in the legs. Other officers join to separate the protestor from their bike.
+
+tags: beat, batons, strike, protestor
+
+id: ny-newyorkcity-72
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394866/0_id140-1254w.mp4
+
+
+### Protestor grabbed by hair | June 2nd
+
+In an incident at 17 Battery Place in Manhattan, police are forcibly arresting several protestors on a paved pedestrian area. A protestor argues with an officer. The officer shoves her and grabs her by the hair. Another officer joins in; the two grab her by the arms, force her to the ground, and one officer kneels on the protestor to arrest her.
+
+tags: grab, knee, strike, protestor, arrest
+
+id: ny-newyorkcity-73
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394858/id136_annote-1254w.mp4
+
+
+### Protestor with bike tackled by police | June 2nd
+
+In an incident at West and Rector Streets in Manhattan, a protestor is confronted by an officer, who grabs his bike and tells him to release it. A second officer charges into frame, tackling the protestor and grabbing him by the backpack. More officers join to separate the protestor from his bike. The initial officer brandishes his baton and strikes either the bike or the protestor. A final officer kneels on the protestor.
+
+tags: grab, knee, tackle, strike, baton, protestor, arrest
+
+id: ny-newyorkcity-74
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394855/0_id131-1254w.mp4
+
+
+### Violent arrests made at entrance to Hugh Carey Tunnel | June 2nd
+
+In an incident outside the Hugh Carey Tunnel (West and Morris Streets in Manhattan), police are seen kneeling on a protestor to arrest them. The filmer walks down the street, following the advancing police line. An NYPD official wearing a jacket bearing the word "LEGAL," throws a protestor's skateboard off the road. The filmer then captures several officers pinning down a protestor to arrest them. An officer stands and strikes the protestor with his baton repeatedly.
+
+tags: knee, arrest, zip-ties, protestor, strike, baton, property-destruction
+
+id: ny-newyorkcity-zaxt
+
+**Links**
+
+* https://twitter.com/awinston/status/1267975128324898818
+
+
+### Police collide with woman; she pushes back; police escalate | June 2nd
+
+In an incident at Fourth and Atlantic Avenues in Brooklyn, footage shows police chasing a protestor down the sidewalk. Police appear to trip the protestor, who falls to the ground. Police then strike and jab him with batons. A white-shirted officer arrives and steps on the protestor's neck
+
+tags: arrest, protestor, baton, beat, strike, kick, neck
+
+id: ny-newyorkcity-75
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394791/id46_annote-1254w.mp4
+
+
+### Police assault peaceful protestors | June 2nd
+
+In an incident at Fifth Avenue and 83rd st in Manhattan, an officer moves into a crowd of protestors, grabs a protestor by the shirt from behind and drags them. When the protestor resists and another attempts to help, police tackle the first protestor. The second protestor is lifted and thrown to the ground.
+
+tags: beat, strike, throw, grab, protestor
+
+id: ny-newyorkcity-76
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394788/id45_annote-1254w.mp4
+
+
+### NYPD officers beat woman | June 2nd
 
 A woman is walking on the sidewalk with a peaceful protest. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
 
-tags: shove, beat, strike, bunch, arrest, protestor
+tags: shove, beat, strike, punch, arrest, protestor
 
 id: ny-newyorkcity-34
 
 **Links**
 
 * https://twitter.com/Add_Boy/status/1268264728989626368
+* https://twitter.com/beustmode/status/1268190262355988481
 
 
 ### Motorist honks in support of protest; Police stop her | June 3rd
