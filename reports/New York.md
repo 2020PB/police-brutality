@@ -584,6 +584,19 @@ id: ny-newyorkcity-36
 * https://twitter.com/greg_doucette/status/1270020411443613696
 
 
+### Officer pepper sprays passerby | June 1st
+
+Footage taken at 41 E 57th St in Manhattan shows an officer running down the street. He pepper sprays several bystanders as he runs past them.
+
+tags: bystander, pepper-spray, spray
+
+id: ny-newyorkcity-71
+
+**Links**
+
+* https://www.youtube.com/watch?v=kkO0FLBKK6Y
+
+
 ### Police officer body slams protestor | June 2nd
 
 A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first.
