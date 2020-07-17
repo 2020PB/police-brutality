@@ -1334,7 +1334,7 @@ Footage shows police speaking to a driver in a stopped car behind the police lin
 
 tags: vehicle, property-destruction, bystander
 
-id: or-portland-86
+id: or-portland-87
 
 **Links**
 
