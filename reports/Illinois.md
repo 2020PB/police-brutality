@@ -13,19 +13,6 @@ id: il-chicago-1
 * https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
 
 
-### Protester shot in head with rubber bullet | May 30th
-
-Images of a protester who was shot with a rubber bullet in the head.
-
-tags: rubber-bullets, protestor
-
-id: il-chicago-2
-
-**Links**
-
-* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
-
-
 ### Police pepper-spray reporter for recording | May 30th
 
 Police pepper-spray reporter holding press pass and yelling press.
