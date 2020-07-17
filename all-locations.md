@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-17T02:29:54.648989+00:00
+UPDATED AT: 2020-07-17T12:27:09.744635+00:00
 
 
 # Alabama
@@ -2936,17 +2936,27 @@ id: ia-desmoines-8
 
 ## Iowa City
 
-### Police shoot tear gas at peaceful protestors who have their hands up | June 3rd
+### Iowa State Police use tear gas & flashbangs against crowd of civilians attempting to enter I-80 and later against Iowa City EMS. | June 3rd
 
-Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
+State police shoot tear gas into, and deploy flashbangs against, a crowd of peaceful protesters attempting to enter I-80. Some protesters stumble and fall as they try to flee.
 
-tags: tear-gas, protestor
+Reportedly,  one protester suffered seizures as a result of a flashbang, and an ambulance was called to the scene.
+
+Police continued to deploy tear gas and flashbangs in the area where Iowa city EMT's were working (see flashing white lights in cloud of gas, 5th link). Unclear if they were aware of EMS presence.
+
+According to the mayor, Iowa State Patrol was in command of the scene (though some Iowa City Police were present) and it was determined that letting the protest onto I-80 was too dangerous.
+
+tags: tear-gas, protestor, flashbang, medic
 
 id: ia-iowacity-1
 
 **Links**
 
 * https://twitter.com/DJPAIMON/status/1268399580753858561
+* https://www.reddit.com/r/IowaCity/comments/gwx86v/another_angle_of_the_police_firing_upon_us/
+* https://www.reddit.com/r/IowaCity/comments/gwml8n/state_police_gassing_citizens/
+* https://www.reddit.com/r/IowaCity/comments/gwaqzx/from_a_facebook_livestreamseems_like_peaceful/
+* https://www.reddit.com/r/IowaCity/comments/gwc763/iowa_city_pd_gassed_and_flashbanged_their_own/
 
 
 
