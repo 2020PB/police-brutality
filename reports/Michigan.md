@@ -165,9 +165,9 @@ id: mi-grandrapids-2
 
 ### Police assault peaceful protesters, among them Breonna Taylor's family members | July 12th
 
-City of Grand Rapids Police Department officers seen pre-emptively pushing, pulling, and shoving peaceful protesters, as they circle around an officer arresting or detaining a man.
+City of Grand Rapids Police Department officers seen pushing, pulling, and shoving peaceful protesters, as they circle around an officer arresting a man.
 
-The detaining officer appears to force the man to his knees before the other officers finish encircling and view of the man is lost.
+The arresting officer appears to force the man to his knees before the other officers finish encircling and view of the man is lost.
 
 Two different women, each in different videos, are shown falling or fallen over as a result of the shoving and pulling.
 
