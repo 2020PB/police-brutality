@@ -176,6 +176,7 @@ Two different women, each in different videos, are shown falling or fallen over 
 * https://twitter.com/greg_doucette/status/1283027373018013699
 * https://twitter.com/greg_doucette/status/1283027125805735939
 
+
 ## Kalamazoo
 
 ### Police fire tear gas at prone protesters | June 1st
