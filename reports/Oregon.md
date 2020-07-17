@@ -1328,7 +1328,6 @@ id: or-portland-85
 * https://twitter.com/GriffinMalone6/status/1284039535223955457
 
 
-
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
