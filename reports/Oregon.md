@@ -1190,9 +1190,25 @@ id: or-portland-78
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hsgfyz/plane_clothes_cop_pulls_gun_on_protesters_in/
 
 
-### Police and Federal Agents deploy tear gas, pepper balls and flashbangs in half hour push along 3rd Avenue | July 15th
+### Police tackle protestor off bike and into lightpole | July 16th
 
-Shortly before midnight on July 15th, police and federal agents began a lengthy push to move protestors North along 3rd avenue from the Justice Center, up past Salmon St. Police and federal agents deployed tear gas and flashbangs and shot pepper balls for the majority of this push. In the second clip, an LRAD's dispersal function can be heard.
+Footage shows a protestor riding down the street. He appears to say something to an officer on the far side of the street. Then an officer in the intersection tackles him to the ground, kneels on him and arrests him.
+
+tags: protestor, tackle, arrest, knee
+
+id: or-portland-86
+
+**Links**
+
+* https://twitter.com/DanMcKATU/status/1283748895600721920
+* https://twitter.com/DanMcKATU/status/1283822343081431040
+* https://tuckbot.tv/#/watch/hsgl9a
+* https://video.twimg.com/ext_tw_video/1283748858820882432/pu/vid/640x360/2Tkb9BcfYRsnp7yQ.mp4?tag=10
+
+
+### Police and Federal Agents deploy tear gas, pepper balls and flashbangs in half hour push along 3rd Avenue | July 16th
+
+Shortly before midnight on July 16th, police and federal agents began a lengthy push to move protestors North along 3rd avenue from the Justice Center, up past Salmon St. Police and federal agents deployed tear gas and flashbangs and shot pepper balls for the majority of this push. In the second clip, an LRAD's dispersal function can be heard.
 
 Footage was taken by multiple journalists at different angles throughout the incident. Footage is in chronological order for each filmer, but not overall.
 
@@ -1218,7 +1234,7 @@ id: or-portland-79
 * https://twitter.com/MrOlmos/status/1284023309911224321
 
 
-### Protestor shows wound left by less-lethal round | July 15th
+### Protestor shows wound left by less-lethal round | July 16th
 
 Initial footage shows protestors carrying a wounded man to safety. Medics come to treat him and give him an inhaler. A reporter later states he is a homeless man who was at the Riot Ribs mutual aid station.
 
@@ -1236,7 +1252,7 @@ id: or-portland-80
 * [Spanish](https://twitter.com/MrOlmos/status/1284027312254509057)
 
 
-### Bystander recounts experience being tear-gassed while walking home | July 15th
+### Bystander recounts experience being tear-gassed while walking home | July 16th
 
 A man interviewed by a journalist says he was walking home and saw a small group of police. He says he was shot at and struck by police with tear gas. He says that now he is standing among the protestors to understand what's going on.
 
@@ -1249,7 +1265,7 @@ id: or-portland-81
 * https://twitter.com/MrOlmos/status/1284025326612254720
 
 
-### Protestor and reporter struck by impact munitions | July 15th
+### Protestor and reporter struck by impact munitions | July 16th
 
 At the beginning of the series of events in or-portland-79, police and federal agetns fire pepper balls and tear gas. Footage clearly shows a protestor struck by a round, who then retreats. In a second video, the filmer, a journalist, is hit in the ankle.
 
@@ -1263,9 +1279,9 @@ id: or-portland-82
 * https://twitter.com/MrOlmos/status/1284017462162276353
 
 
-### Police charge, strike and arrest protestors | July 15th
+### Police charge, strike and arrest protestors | July 16th
 
-Footage uploaded shortly before midnight on July 15th shows police and protestors standing off. Without warning, police charge at protestors, striking, shoving and arresting them.
+Footage uploaded shortly before midnight on July 16th shows police and protestors standing off. Without warning, police charge at protestors, striking, shoving and arresting them.
 
 tags: protestor, strike, tackle, shove, arrest
 
@@ -1276,9 +1292,9 @@ id: or-portland-83
 * https://twitter.com/Or_St14/status/1284015646880104449
 
 
-### Police fire second round of tear gas at protestors | July 16th
+### Police fire second round of tear gas at protestors | July 17th
 
-Shortly after midnight on the morning of July 16th, about two hours after the last round of tear gas and munitions, police and federal agents fire tear gas and impact munitions at protestors for a second time.
+Shortly after midnight on the morning of July 17th, about two hours after the last round of tear gas and munitions, police and federal agents fire tear gas and impact munitions at protestors for a second time.
 
 Protestors appear to be standing spread out with their hands up when police and federal agents begin firing.
 
@@ -1292,7 +1308,7 @@ id: or-portland-84
 * https://twitter.com/MrOlmos/status/1284057651358228480
 
 
-### Police shove protestors down street | July 16th
+### Police shove protestors down street | July 17th
 
 Footage taken shortly after midnight shows police giving dispersal orders to protestors, then using batons to shove them down the street. Several protestors are seen knocked to the ground.
 
@@ -1311,21 +1327,6 @@ id: or-portland-85
 * https://twitter.com/GriffinMalone6/status/1284038506679955456
 * https://twitter.com/GriffinMalone6/status/1284039535223955457
 
-
-### Police tackle protestor off bike and into lightpole | July 16th
-
-Footage shows a protestor riding down the street. He appears to say something to an officer on the far side of the street. Then an officer in the intersection tackles him to the ground, kneels on him and arrests him.
-
-tags: protestor, tackle, arrest, knee
-
-id: or-portland-86
-
-**Links**
-
-* https://twitter.com/DanMcKATU/status/1283748895600721920
-* https://twitter.com/DanMcKATU/status/1283822343081431040
-* https://tuckbot.tv/#/watch/hsgl9a
-* https://video.twimg.com/ext_tw_video/1283748858820882432/pu/vid/640x360/2Tkb9BcfYRsnp7yQ.mp4?tag=10
 
 
 ## Salem
