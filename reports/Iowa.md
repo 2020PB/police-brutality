@@ -196,7 +196,7 @@ Police continued to deploy tear gas and flashbangs in the area where Iowa city E
 
 According to the mayor, Iowa State Patrol was in command of the scene (though some Iowa City Police were present) and it was determined that letting the protest onto I-80 was too dangerous.
 
-tags: tear-gas, protestor, flash-bang, ems, emt, interstate, i-80
+tags: tear-gas, protestor, flashbang, medic
 
 id: ia-iowacity-1
 
