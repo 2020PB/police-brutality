@@ -710,6 +710,19 @@ id: ca-losangeles-22
 * https://twitter.com/josie_huang/status/1274863117004988416
 
 
+### Police violently arrest man in wheelchair | July 15th
+
+Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him.
+
+tags: arrest, shove, strike, property-destruction, person-with-disability
+
+id: ca-losangeles-40
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hrwunn/cops_assaulting_blm_protesters_including_a_man_in
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
