@@ -1192,13 +1192,13 @@ id: or-portland-78
 
 ### Police and Federal Agents deploy tear gas, pepper balls and flashbangs in half hour push along 3rd Avenue | July 15th
 
-Shortly before midnight on July 15th, police and federal agents began a lengthy push to move protestors North along 3rd avenue from the Justice Center, up past Salmon St. Police and federal agents deployed tear gas and flashbangs and shot pepper balls for the majority of this push.
+Shortly before midnight on July 15th, police and federal agents began a lengthy push to move protestors North along 3rd avenue from the Justice Center, up past Salmon St. Police and federal agents deployed tear gas and flashbangs and shot pepper balls for the majority of this push. In the second clip, an LRAD's dispersal function can be heard.
 
 Footage was taken by multiple journalists at different angles throughout the incident. Footage is in chronological order for each filmer, but not overall.
 
 This incident covers the broad incident - deployment of riot munitions against peaceful protestors - while incidents 80, 81 and 82 cover specific acts of violence.
 
-tags: tear-gas, flashbangs, pepper-bullets, shoot
+tags: tear-gas, flashbangs, pepper-bullets, shoot, lrad
 
 id: or-portland-79
 
