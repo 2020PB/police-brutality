@@ -714,9 +714,9 @@ id: ca-losangeles-22
 
 Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him.
 
-Footage from instagram (second link, fourth in list) shows a man suffering an asthma attack after allegedly being struck in the neck with a baton. The last video in the instagram post appears to show the man on a gurney receiving medical attention. Other videos in the post show police shoving protestors with their hands and with batons.
+Footage from instagram (second link, fourth in list) shows a man suffering an asthma attack after allegedly being struck in the neck with a baton. The last video in the instagram post appears to show the man on a gurney receiving medical attention. Other videos in the post show police shoving protestors with their hands and with batons. The poster also alleges that police held a woman in a chokehold.
 
-tags: arrest, shove, strike, property-destruction, person-with-disability
+tags: arrest, shove, strike, property-destruction, person-with-disability, baton
 
 id: ca-losangeles-40
 
