@@ -204,6 +204,19 @@ id: oh-cleveland-3
 * https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
+### Protester shot in head with rubber bullet | May 30th
+
+Images of a protester who was shot with a rubber bullet in the head.
+
+tags: rubber-bullets, protestor
+
+id: oh-cleveland-4
+
+**Links**
+
+* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
+
+
 ## Columbus
 
 ### Cop hits a protestor in the face, escalates to whole crowd being pepper sprayed | May 29th
