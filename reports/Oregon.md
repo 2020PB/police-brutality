@@ -1328,6 +1328,20 @@ id: or-portland-85
 * https://twitter.com/GriffinMalone6/status/1284039535223955457
 
 
+### Police break windows of car, then ram car when it reverses | July 17th
+
+Footage shows police speaking to a driver in a stopped car behind the police line. The road was supposed to be closed, so it is unclear how the driver came to be there. One reporter suggests the car was trapped behind the police line after police pushed protestors down the street. The car edges forward slightly and police halt it, screaming. They then bash the windows of the car with batons. The car reverses and attempts to flee, but is rammed by a police vehicle.
+
+tags: vehicle, property-destruction, bystander
+
+id: or-portland-86
+
+**Links**
+
+* https://twitter.com/PDXRosieRiddle/status/1284020202145902593
+* https://twitter.com/PDXRosieRiddle/status/1284020202145902593
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
