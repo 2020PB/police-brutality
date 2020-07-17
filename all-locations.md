@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-17T00:04:41.133382+00:00
+UPDATED AT: 2020-07-17T02:29:54.648989+00:00
 
 
 # Alabama
@@ -2390,19 +2390,6 @@ id: il-chicago-1
 **Links**
 
 * https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
-
-
-### Protester shot in head with rubber bullet | May 30th
-
-Images of a protester who was shot with a rubber bullet in the head.
-
-tags: rubber-bullets, protestor
-
-id: il-chicago-2
-
-**Links**
-
-* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
 ### Police pepper-spray reporter for recording | May 30th
@@ -6237,6 +6224,19 @@ id: oh-cleveland-3
 * https://www.cleveland.com/court-justice/2020/06/cleveland-police-gave-order-for-george-floyd-protesters-to-disperse-legal-observers-witnesses-said-no-one-heard-it.html
 * https://twitter.com/AntonioAlan216/status/1266877225707745280
 * https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
+
+
+### Protester shot in head with rubber bullet | May 30th
+
+Images of a protester who was shot with a rubber bullet in the head.
+
+tags: rubber-bullets, protestor
+
+id: oh-cleveland-4
+
+**Links**
+
+* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
 ## Columbus
