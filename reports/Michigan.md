@@ -176,6 +176,7 @@ tags: shove, push, arrest, protestor
 id: mi-grandrapids-3
 
 **Links**
+
 * https://twitter.com/OfficAlyNicole/status/1283181085577420810
 * https://twitter.com/greg_doucette/status/1283027373018013699
 * https://twitter.com/greg_doucette/status/1283027125805735939
