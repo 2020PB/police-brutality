@@ -4,26 +4,13 @@
 
 A protestor was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
 
-tags: arrest, beat, knee-on-neck
+tags: arrest, beat, knee-on-neck, protestor
 
 id: il-chicago-1
 
 **Links**
 
 * https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
-
-
-### Protester shot in head with rubber bullet | May 30th
-
-Images of a protester who was shot with a rubber bullet in the head.
-
-tags: rubber-bullets
-
-id: il-chicago-2
-
-**Links**
-
-* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
 ### Police pepper-spray reporter for recording | May 30th
@@ -56,7 +43,7 @@ id: il-chicago-11
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
-tags: celebrity, batons
+tags: celebrity, batons, protestor
 
 id: il-chicago-3
 
@@ -76,7 +63,7 @@ After release (with neither charges nor explanation), the victim attempted to fi
 
 This was reported to have happened at "2600 N. Narragansett Ave.", but 2700 N seems slightly more accurate. Google Streetview at that address shows the same "Show Carnival" store seen in the video.
 
-tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment
+tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment, bystander
 
 id: il-chicago-4
 
@@ -96,7 +83,7 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
-tags: politician, beat, strike, batons
+tags: politician, beat, strike, batons, protestor
 
 id: il-chicago-6
 
@@ -127,7 +114,7 @@ id: il-chicago-10
 
 CPD officer chasing down and punching a protestor who was walking away.
 
-tags: punch
+tags: punch, protestor
 
 id: il-chicago-7
 
@@ -142,7 +129,7 @@ id: il-chicago-7
 
 Police chase protester and attack him on the ground while on live TV.
 
-tags: beat, shove, throw, batons
+tags: beat, shove, throw, batons, protestor
 
 id: il-chicago-8
 
@@ -155,7 +142,7 @@ id: il-chicago-8
 
 A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall.
 
-tags: shove, threaten
+tags: shove, threaten, protestor
 
 id: il-chicago-12
 
@@ -168,7 +155,7 @@ id: il-chicago-12
 
 Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
 
-tags: push, shove, property-destruction
+tags: push, shove, property-destruction, protestor
 
 id: il-chicago-13
 
@@ -181,7 +168,7 @@ id: il-chicago-13
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
 
-tags: shove, throw, punch, beat, baton
+tags: shove, throw, punch, beat, baton, protestor
 
 id: il-chicago-9
 
@@ -210,7 +197,7 @@ id: il-chicago-14
 
 Protestors arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
-tags: beat, shove, throw, neck
+tags: beat, shove, throw, neck, protestor
 
 id: il-joliet-1
 

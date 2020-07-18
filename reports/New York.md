@@ -4,7 +4,7 @@
 
 Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
 
-tags: tackle, arrest
+tags: tackle, arrest, protestor
 
 id: ny-buffalo-1
 
@@ -17,13 +17,13 @@ id: ny-buffalo-1
 
 Two police officers shove an unarmed, elderly man ([reportedly 75 years old](https://twitter.com/HannahBuehler/status/1268742666210226177)), who falls backwards and strikes his head on the concrete sidewalk. He appears to begin bleeding from his ear and passes out.
 
-Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved. In response to the suspension, the Buffalo Emergency Response Team [resigned from their posts](https://nypost.com/2020/06/05/buffalo-emergency-response-team-quits-in-solidarity-of-cops/)
+Buffalo P.D. released an official statement saying that he "tripped and fell." After video of the incident surfaced, however, both officers were suspended, an internal affairs investigation was opened, and both officers were charged with assault. In response to the suspension, the Buffalo Emergency Response Team [resigned from their posts](https://nypost.com/2020/06/05/buffalo-emergency-response-team-quits-in-solidarity-of-cops/). At first, the two officers were suspended without pay, but because the Buffalo police contract only allows suspension without pay for 30 days, they are now (as of July 10) suspended with pay.
 
 The man suffered brain damage and has begun physical therapy.
 
 Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
 
-tags: shove, strike, push
+tags: shove, strike, push, protestor
 
 id: ny-buffalo-2
 
@@ -35,6 +35,8 @@ id: ny-buffalo-2
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 * https://www.reddit.com/r/PublicFreakout/comments/gwv7k4/just_about_an_hour_ago_police_officers_shove_man/fsxfeb3/
 * https://www.nbcnewyork.com/news/local/75-year-old-buffalo-protester-hospitalized-after-cop-shove-suffered-brain-injury-lawyer/2457512/
+* [Washington Post coverage](https://www.washingtonpost.com/nation/2020/06/05/buffalo-officers-suspended-shoving-man/)
+* [Follow-up story](https://www.wkbw.com/news/local-news/suspended-buffalo-police-officers-back-on-payroll)
 
 
 ### Reporter shot at after identifying himself | June 5th
@@ -58,7 +60,7 @@ A protestor is seen walk side-by-side with an officer. The officer steps in fron
 
 Numerous police officers then throw the man to the ground and kneel on his neck to make the arrest.
 
-tags: arrest, shove, push, knee, knee-on-neck, throw, tackle
+tags: arrest, shove, push, knee, knee-on-neck, throw, tackle, protestor
 
 id: ny-eastmeadow-1
 
@@ -73,7 +75,7 @@ id: ny-eastmeadow-1
 
 A police contingent far outnumbering protestors shows up to block roads. Protestors are peaceful and the majority follow order to back away. Nonetheless, footage shows arrests and police charging at protestors.
 
-tags: arrest
+tags: arrest, protestor
 
 id: ny-merrick-1
 
@@ -86,13 +88,45 @@ id: ny-merrick-1
 
 ## New York City
 
+### Police make violent arrests, officer breaks baton striking protestor | May 28th
+
+Footage taken at Union Square and East 17th street shows multiple officers grabbing and shoving a protestor to make an arrest. Another protestor confronts an officer who strikes the protestor in the legs with a baton. The baton snaps in two.
+
+tags: strike, arrest, grab, shove, protestor, baton
+
+id: ny-newyorkcity-55
+
+**Links**
+
+* https://twitter.com/ShimonPro/status/1266136557871869952
+
+
+### Police make violent arrest at Union Square | May 28th
+
+Footage shows a woman arguing with a police officer at a protest near Union Square. The officer grabs her by the backpack and pulls her. Other protestors attempt to help and police intervene. Police then shove the crowd back and arrest the protestor. Allegedly, 33 people were arrested at this scene.
+
+tags: shove, push, grab, protestor, arrest
+
+id: ny-newyorkcity-56
+
+**Links**
+
+* https://twitter.com/NY1/status/1266159669262893057
+
+
 ### Police shove woman to the ground, inducing a seizure | May 29th
+
+Footage shows police using bikes to shove protestors on the sidewalk. One protestor appears to be forced over a concrete divider by the chassis of a bike.
+
+
+
+
 
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
 The NYP has suspended the officer involved.
 
-tags: shove, throw
+tags: shove, throw, protestor
 
 id: ny-newyorkcity-1
 
@@ -109,7 +143,7 @@ id: ny-newyorkcity-1
 
 Policeman deliberately opens car door to knock an individual down to the ground.
 
-tags: vehicle, drive
+tags: vehicle, drive, protestor
 
 id: ny-newyorkcity-2
 
@@ -122,7 +156,7 @@ id: ny-newyorkcity-2
 
 Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Centre.
 
-tags: politician, pepper-spray, spray
+tags: politician, pepper-spray, spray, protestor
 
 id: ny-newyorkcity-3
 
@@ -132,11 +166,106 @@ id: ny-newyorkcity-3
 * https://twitter.com/GwynneFitz/status/1266522692326428672
 
 
+### Police shove protestor to the ground | May 29th
+
+Footage taken at a protest at Tompkins and Lexington Avenues in Brooklyn shows a police officer using batons to shove a protestor backwards onto the ground.
+
+tags: shove, baton, protestor
+
+id: ny-newyorkcity-58
+
+**Links**
+
+* https://twitter.com/nycDSA/status/1266562453686665217
+
+
+### Police shove protestors to the ground | May 29th
+
+Footage taken at a protest at Classon and Putnam Avenues in Brooklyn shows an officer approaching a protestor and shoving her to the ground without warning.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-59
+
+**Links**
+
+* https://twitter.com/mfstange/status/1266564340381036544
+
+
+### Police shove and grab protestors | May 29th
+
+Footage taken at a protest at Classon and Lafayette Avenues in Brooklyn shows police shoving numerous protestors. Police shove several into the road. A woman then argues with police. She is shoved by one officer, then a second officer grabs her, pushing her down the street. Officers then charge down the street, one of whom makes a clear effort to shove a protestor on a bicycle as he passes.
+
+tags: shove, grab, protestor
+
+id: ny-newyorkcity-60
+
+**Links**
+
+* https://twitter.com/JohnPhilpNY/status/1266595992427790338
+
+
+### Police chase and tackle protestor, shove a second protestor into a car | May 29th
+
+Footage taken at 67 5th Avenue in Brooklyn shows police chasing down a protestor. They tackle the protestor and hold them down to arrest. Another protestor approaches and is thrown against the side of a car. This protestor then falls to the ground and appears to be unconscious.
+
+tags: shove, tackle, protestor, arrest
+
+id: ny-newyorkcity-61
+
+**Links**
+
+* https://twitter.com/AnonymousBrook2/status/1266589590250553345
+* https://twitter.com/AnonymousBrook2/status/1266591121444126720
+* https://twitter.com/Stoney_Holiday/status/1266616250685444096
+
+
+### Police shove protestor into the road | May 29th
+
+Footage taken by a reporter at Classon and Lafayette Avenues in Brooklyn shows police chasing a protestor who allegedly threw eggs at the police. A protestor stands on the sidewalk and is shoved into the road, falling to the ground.
+
+After this incident, protestors allegedly began throwing bottles.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-62
+
+**Links**
+
+* https://twitter.com/NickAtNews/status/1266567790095486976
+
+
+### Police officer strikes protestor | May 29th
+
+Footage taken at Flatbush and Pacific in Brooklyn shows a police officer punching a protestor who approached him in the face.
+
+tags: punch, strike, protestor
+
+id: ny-newyorkcity-63
+
+**Links**
+
+* https://twitter.com/nateschweber/status/1266539107632758784
+
+
+### Police officer shoves protestors | May 29th
+
+At the corner of Classon and DeKalb in Brooklyn, footage shows two protestors standing off with police. An officer in their blind spot shoves them, knocking one to the ground.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-64
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
+
+
 ### Police officer throws man against police car | May 30th
 
 A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
 
-tags: throw, shove, beat
+tags: throw, shove, beat, protestor
 
 id: ny-newyorkcity-4
 
@@ -150,7 +279,7 @@ id: ny-newyorkcity-4
 
 The NYPD Squad are seen beating protestors with batons and pushing them around.
 
-tags: beat, batons, push, shove
+tags: beat, batons, push, shove, protestor
 
 id: ny-newyorkcity-5
 
@@ -163,7 +292,7 @@ id: ny-newyorkcity-5
 
 A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
 
-tags: shove, push
+tags: shove, push, protestor
 
 id: ny-newyorkcity-6
 
@@ -177,7 +306,7 @@ id: ny-newyorkcity-6
 
 An NYPD officer pushes a civilian down towards trash cans.
 
-tags: shove, push
+tags: shove, push, protestor
 
 id: ny-newyorkcity-7
 
@@ -206,7 +335,7 @@ id: ny-newyorkcity-8
 
 An NYPD SUV's path is blocked by a crowd of protesters. Protesters begin throwing things at the SUV. Another NYPD SUV drives up alongside the first, then drives through the crowd, forcing protesters out of its way. The first car then drives forward, ramming the dense crowd of civilians in front of it. NYPD's internal affairs bureau conducted a review and found no wrongdoing. The police commissioner said that "preliminarily we have an accounting of that incident where we have officers in a situation where they're essentially being penned in by protesters," but it seems from the video as though, throughout the incident, both cars have a clear route of escape behind them.
 
-tags: vehicle, drive
+tags: vehicle, drive, protestor
 
 id: ny-newyorkcity-10
 
@@ -223,7 +352,7 @@ id: ny-newyorkcity-10
 
 An NYPD officer in a white shirt, denoting a rank of Lieutenant or higher, uses a plastic barricade to shove protestors back. He then topples the barricade and charges at protestors.
 
-tags: shove, push
+tags: shove, push, protestor
 
 id: ny-newyorkcity-27
 
@@ -262,7 +391,7 @@ id: ny-newyorkcity-30
 
 A woman on a bike attempts to maneuver around a police van. An officer jumps out and yanks her from the bike. Another officer throws the bike to the side as several slam her against the van to arrest her.
 
-tags: arrest, push, shove, property-destruction
+tags: arrest, push, shove, property-destruction, protestor
 
 id: ny-newyorkcity-33
 
@@ -272,11 +401,109 @@ id: ny-newyorkcity-33
 * https://twitter.com/greg_doucette/status/1268189319002537989
 
 
+### Police officer shoves protestor | May 30th
+
+Footage from a Union Square protest shows an officer using his baton to shove a protestor.
+
+tags: shove, baton, protestor
+
+id: ny-newyorkcity-87
+
+**Links**
+
+* https://twitter.com/annikahouse/status/1266931806563176451
+
+
+### Police shove protestors | May 30th
+
+Footage from at protest along the Flatbush Avenue Extension in Brooklyn shows several instances of police shoving protestors.
+
+The first clip shows a protestor speaking to an officer. The officer shoves him to the ground. Protestors crowd around as he stands. The officer then discharges pepper spray at him and at other protestors nearby.
+
+Additional clips show scuffles between police and protestors where police use their batons to repeatedly shove protestors.
+
+tags: pepper-spray, spray, shove, protestor
+
+id: ny-newyorkcity-88
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/new_155-1254w.mp4
+* https://twitter.com/DonnyMartell/status/1266943106429128711
+* https://twitter.com/jeancosme/status/1266938900184006656
+
+
+###  | 
+
+In an incident at Bedford and Tilden Avenues in Brooklyn, an officer pushes through a crowd and grabs a person by the neck to push them aside. Another officer knocks the person over, and the first officer throws the person down again when they try to get up.
+
+tags: shove, grab, push, protestor
+
+id: ny-newyorkcity-89
+
+**Links**
+
+* https://twitter.com/BrooklynSpoke/status/1266845497446318081
+
+
+### Already-arrested protestor is choked and thrown to the ground | May 30th
+
+Footage from Bedford and Tilden Avenues in Brooklyn shows a protestor with his hands behind his back being walked away by police. Another officer approaches, grabs him by the neck and throws him to the ground.
+
+tags: shove, arrest, choke, throw, protestor
+
+id: ny-newyorkcity-90
+
+**Links**
+
+* https://twitter.com/justawren/status/1266945853828280330
+
+
+### Journalist and protestors beaten with batons | May 30th
+
+Footage taken by an off-duty journalist (at the protest to film but not on a mandate from their employer) at 137 Fourth Avenue in Manhattan shows a fire on a sidewalk. Police clear the area around the fire, then begin indiscriminately striking the filmer and protestors with batons. Another individual struck by police can be seen holding a camera and is heard stating he is press.
+
+tags: shove, baton, strike, journalist, protestor
+
+id: ny-newyorkcity-91
+
+**Links**
+
+* https://www.facebook.com/sami.disu/videos/10219696654859962/
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394878/id149_annote-1254w.mp4
+
+
+### Indiscriminate use of pepper spray | May 30th
+
+After 2 protestors allegedly threw objects at police at Church and Rogers Avenues in Brooklyn, an officer is seen discharging pepper spray on all protestors gathered near him.
+
+tags: pepper-spray, spray, protestor
+
+id: ny-newyorkcity-92
+
+**Links**
+
+* https://twitter.com/PNickCurran/status/1266959923641974784
+
+
+### Police violently clear protestors around squad car | May 30th
+
+After protestors had gathered around a squad car near Bedford and Tilden Avenues in Brooklyn, police are seen shoving protestors and striking them with batons - knocking one protestor to the ground - in an effort to clear the area around the car.
+
+tags: baton, strike, shove, protestor
+
+id: ny-newyorkcity-93
+
+**Links**
+
+* https://twitter.com/spiccoli/status/1266861960982913030
+
+
 ### Police beat hospital employee walking home | May 31st
 
 Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples.
 
-tags: medic, beat, strike, shove
+tags: medic, beat, strike, shove, bystander
 
 id: ny-newyorkcity-32
 
@@ -291,7 +518,7 @@ A police officer forcefully pulls off a protestors face mask and pepper sprays h
 
 The officer involved has been suspended.
 
-tags: pepper-spray, spray, inhumane-treatment
+tags: pepper-spray, spray, inhumane-treatment, protestor
 
 id: ny-newyorkcity-9
 
@@ -306,7 +533,7 @@ id: ny-newyorkcity-9
 
 Police officers are seen beating and assaulting men and women for standing around peacefully.
 
-tags: beat, shove, arrest, batons, knee
+tags: beat, shove, arrest, batons, knee, protestor
 
 id: ny-newyorkcity-11
 
@@ -319,7 +546,7 @@ id: ny-newyorkcity-11
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
-tags: politician, pepper-spray, spray
+tags: politician, pepper-spray, spray, protestor
 
 id: ny-newyorkcity-12
 
@@ -332,7 +559,7 @@ id: ny-newyorkcity-12
 
 Protestors had their hands up, yet were pepper sprayed in the face.
 
-tags: pepper-spray, spray
+tags: pepper-spray, spray, protestor
 
 id: ny-newyorkcity-15
 
@@ -358,7 +585,7 @@ id: ny-newyorkcity-16
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
-tags: batons, beat, strike
+tags: batons, beat, strike, protestor
 
 id: ny-newyorkcity-17
 
@@ -373,7 +600,7 @@ id: ny-newyorkcity-17
 
 Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
 
-tags: inhumane-treatment
+tags: inhumane-treatment, protestor
 
 id: ny-newyorkcity-29
 
@@ -386,7 +613,7 @@ id: ny-newyorkcity-29
 
 Police charge at a peaceful protest, knocking protestors off bikes, throwing others to the ground, and making numerous arrests
 
-tags: shove, push, arrest, throw, strike
+tags: shove, push, arrest, throw, strike, protestor
 
 id: ny-newyorkcity-31
 
@@ -399,7 +626,7 @@ id: ny-newyorkcity-31
 
 A woman is seeing moving another protestor from the scene in an apparent attempt at de-escalation. She is shoved by multiple officers. She appears to jerk her hand back from an officer, at which point, several officers pull her away, striking her with their fists, feet and batons.
 
-tags: arrest, kick, punch, strike, beat, baton
+tags: arrest, kick, punch, strike, beat, baton, protestor
 
 id: ny-newyorkcity-48
 
@@ -413,7 +640,7 @@ id: ny-newyorkcity-48
 
 Footage shows a man with his hands up backing away from a band of police officers (approximately 10-20). As the man backs across an intersection, an officer charges up to shove him. Officers then chase him and several bystanders, before tackling the man to the ground and beating him.
 
-tags: arrest, shove, beat, tackle
+tags: arrest, shove, beat, tackle, protestor
 
 id: ny-newyorkcity-42
 
@@ -422,11 +649,81 @@ id: ny-newyorkcity-42
 * https://twitter.com/brandon212_/status/1267184037547986944
 
 
+### Police pepper spray and assault protestors | May 31st
+
+Footage from Broadway and E 12th Street in Manhattan shows an officer shoving, elbowing and pepper spraying numerous protestors standing on the sidewalk with their hands up.
+
+tags: push, shove, pepper-spray, spray, protestor
+
+id: ny-newyorkcity-82
+
+**Links**
+
+* https://twitter.com/DavidASiffert/status/1267297196157947904
+
+
+### Several violent arrests made by police | May 31st
+
+Footage taken near Barclays Center and Atlantic Terminal in Brooklyn shows violent arrests made by police. Allegedly kicked off by a protestor throwing a water bottle, police shove protestors and strike them with batons. In particular, footage shows multiple officers striking one protestor on the ground with batons.
+
+tags: beat, strike, baton, arrest, protestor, shove
+
+id: ny-newyorkcity-83
+
+**Links**
+
+* https://twitter.com/jangelooff/status/1267287782155857923
+* https://twitter.com/jangelooff/status/1267288506424066048
+* https://twitter.com/Noah__Goldberg/status/1267285022031130625
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394871/0_id144-1254w.mp4
+* https://int.nyt.com/data/videotape/finished/2020/07/1594829085/new_id39-1254w.mp4
+* https://int.nyt.com/data/videotape/finished/2020/07/1594412956/id109_annote-1254w.mp4
+
+
+### Protestor shoved into trash | May 31st
+
+Footage taken at Fourth Ave and Pacific St in Brooklyn shows an officer using his baton to shove a protestor holding his hands up into a pile of curbside trash set out for pickup.
+
+tags: strike, shove, baton, protestor
+
+id: ny-newyorkcity-84
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394783/0_id35-1254w.mp4
+
+
+### Police officer pepper sprays protestors across barricade | May 31st
+
+Footage taken at FDR drive and Houston street shows police and protestors separated by a concrete barrier. Police are on the road side of the barrier. An officer approaches the barrier and discharges pepper spray at several protestors filming.
+
+tags: pepper-spray, spray, protestor
+
+id: ny-newyorkcity-85
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394781/0_id34-1254w.mp4
+
+
+### Police strike protestors with batons | May 31st
+
+Footage from Canal and Green St in Manhattan shows protestors walking backwards away from police. Police shove protestors who are walking slowly. After shoving a protestor, an officer gets into an alercation with that protestor. Several officers beat the protestor with their batons.
+
+tags: shove, strike, beat, baton, protestor
+
+id: ny-newyorkcity-86
+
+**Links**
+
+* https://twitter.com/GwynneFitz/status/1267267195870097413
+
+
 ### Officer threatens protestors with what appears to be a handgun | June 1st
 
 Officer is seen here brandishing what appears to be a handgun and pointing it at protestors.
 
-tags: threaten, gun
+tags: threaten, gun, protestor
 
 id: ny-newyorkcity-18
 
@@ -445,7 +742,7 @@ Officers additionally allege that the passenger attempted to jump to the driver'
 
 The driver was charged with attempted murder, assault with intent to cause injury, criminal possession of stolen property, and obstructing government administration. The DA's office later downgraded the attempted murder charge to second-degree assault.
 
-tags: beat, property-destruction, arrest, baton, kick
+tags: beat, property-destruction, arrest, baton, kick, protestor
 
 id: ny-newyorkcity-36
 
@@ -455,11 +752,24 @@ id: ny-newyorkcity-36
 * https://twitter.com/greg_doucette/status/1270020411443613696
 
 
+### Officer pepper sprays passerby | June 1st
+
+Footage taken at 41 E 57th St in Manhattan shows an officer running down the street. He pepper sprays several bystanders as he runs past them.
+
+tags: bystander, pepper-spray, spray
+
+id: ny-newyorkcity-71
+
+**Links**
+
+* https://www.youtube.com/watch?v=kkO0FLBKK6Y
+
+
 ### Police officer body slams protestor | June 2nd
 
 A police officer comes from behind a protestor, lifts him over shoulder height and then slams him into the road, head first.
 
-tags: throw, strike, beat
+tags: throw, strike, beat, protestor
 
 id: ny-newyorkcity-19
 
@@ -473,7 +783,7 @@ id: ny-newyorkcity-19
 
 Police beat protesters leaving Stonewall Inn after a demonstration honoring queer and people of color who died at hands of police, in solidarity with George Floyd. One man had his arm broken and required multiple staples to close wounds on his head.
 
-tags: beat, strike, lgbtq+
+tags: beat, strike, lgbtq+, protestor
 
 id: ny-newyorkcity-20
 
@@ -486,7 +796,7 @@ id: ny-newyorkcity-20
 
 Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
 
-tags: beat, batons, strike, punch, kick, batons
+tags: beat, batons, strike, punch, kick, batons, protestor
 
 id: ny-newyorkcity-21
 
@@ -500,34 +810,114 @@ id: ny-newyorkcity-21
 
 A man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
-tags: beat, batons, strike
+tags: beat, batons, strike, protestor
 
 id: ny-newyorkcity-22
 
 **Links**
 
 * https://twitter.com/joshfoxfilm/status/1268366550475603969
+* https://twitter.com/SikhProf/status/1268350274424508417
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
 
-### NYPD officers beat woman | (Believed to be) June 3rd
+### Protestor beaten with baton | June 2nd
+
+Footage taken at West and Rector Streets in Manhattan shows a protestor in the road with a bike. An officer attempts to take it, but the protestor holds on. The officer then uses his baton to press against the protestor's neck before striking the protestor in the legs. Other officers join to separate the protestor from their bike.
+
+tags: beat, batons, strike, protestor
+
+id: ny-newyorkcity-72
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394866/0_id140-1254w.mp4
+
+
+### Protestor grabbed by hair | June 2nd
+
+In an incident at 17 Battery Place in Manhattan, police are forcibly arresting several protestors on a paved pedestrian area. A protestor argues with an officer. The officer shoves her and grabs her by the hair. Another officer joins in; the two grab her by the arms, force her to the ground, and one officer kneels on the protestor to arrest her.
+
+tags: grab, knee, strike, protestor, arrest
+
+id: ny-newyorkcity-73
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394858/id136_annote-1254w.mp4
+
+
+### Protestor with bike tackled by police | June 2nd
+
+In an incident at West and Rector Streets in Manhattan, a protestor is confronted by an officer, who grabs his bike and tells him to release it. A second officer charges into frame, tackling the protestor and grabbing him by the backpack. More officers join to separate the protestor from his bike. The initial officer brandishes his baton and strikes either the bike or the protestor. A final officer kneels on the protestor.
+
+tags: grab, knee, tackle, strike, baton, protestor, arrest
+
+id: ny-newyorkcity-74
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394855/0_id131-1254w.mp4
+
+
+### Violent arrests made at entrance to Hugh Carey Tunnel | June 2nd
+
+In an incident outside the Hugh Carey Tunnel (West and Morris Streets in Manhattan), police are seen kneeling on a protestor to arrest them. The filmer walks down the street, following the advancing police line. An NYPD official wearing a jacket bearing the word "LEGAL," throws a protestor's skateboard off the road. The filmer then captures several officers pinning down a protestor to arrest them. An officer stands and strikes the protestor with his baton repeatedly.
+
+tags: knee, arrest, zip-ties, protestor, strike, baton, property-destruction
+
+id: ny-newyorkcity-zaxt
+
+**Links**
+
+* https://twitter.com/awinston/status/1267975128324898818
+
+
+### Police collide with woman; she pushes back; police escalate | June 2nd
+
+In an incident at Fourth and Atlantic Avenues in Brooklyn, footage shows police chasing a protestor down the sidewalk. Police appear to trip the protestor, who falls to the ground. Police then strike and jab him with batons. A white-shirted officer arrives and steps on the protestor's neck
+
+tags: arrest, protestor, baton, beat, strike, kick, neck
+
+id: ny-newyorkcity-75
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394791/id46_annote-1254w.mp4
+
+
+### Police assault peaceful protestors | June 2nd
+
+In an incident at Fifth Avenue and 83rd st in Manhattan, an officer moves into a crowd of protestors, grabs a protestor by the shirt from behind and drags them. When the protestor resists and another attempts to help, police tackle the first protestor. The second protestor is lifted and thrown to the ground.
+
+tags: beat, strike, throw, grab, protestor
+
+id: ny-newyorkcity-76
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394788/id45_annote-1254w.mp4
+
+
+### NYPD officers beat woman | June 2nd
 
 A woman is walking on the sidewalk with a peaceful protest. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
 
-tags: shove, beat, strike, bunch, arrest
+tags: shove, beat, strike, punch, arrest, protestor
 
 id: ny-newyorkcity-34
 
 **Links**
 
 * https://twitter.com/Add_Boy/status/1268264728989626368
+* https://twitter.com/beustmode/status/1268190262355988481
 
 
 ### Motorist honks in support of protest; Police stop her | June 3rd
 
 A motorist driving by the protest honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protestors intervene and distract the officers so the motorist is able to leave.
 
-tags: threaten
+tags: threaten, bystander
 
 id: ny-newyorkcity-35
 
@@ -542,7 +932,7 @@ Footage shows NYPD officer grabbing a protestor's bike and walking away with it,
 
 A thread on Twitter from an alleged victim and member of the press who states that police stole their bike and roughed them up.
 
-tags: journalist, bike, abuse-of-power, property-destruction
+tags: journalist, bike, abuse-of-power, property-destruction, protestor
 
 id: ny-newyorkcity-45
 
@@ -552,13 +942,80 @@ id: ny-newyorkcity-45
 * https://twitter.com/ArminRosen/status/1268353044896505867
 
 
+### Police officer punches detained protestor repeatedly | June 3rd
+
+Footage taken at Cadman Plaza in Brooklyn shows several officers detaining a protestor. One officer approaches and punches the protestor repeatedly.
+
+tags: protestor, arrest, punch
+
+id: ny-newyorkcity-77
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394876/0_id147-1254w.mp4
+
+
+### Police shove protestors | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows officers pushing a protest. Several officers are seen shoving protestors.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-78
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594404564/id137_annote-1254w.mp4
+
+
+### Police choke and beat bicyclist | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows an officer grabbing a protestor with a bicycle and choking them before slamming them to the ground and arresting them.
+
+tags: choke, throw, grab, arrest, protestor
+
+id: ny-newyorkcity-79
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394811/id62_annote-1254w.mp4
+* [Full Video](https://twitter.com/Axelohh/status/1268649155595055104)
+
+
+### Police strike and shove protestors | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows officers and protestors meeting. Officers use their batons to shove protestors, including one astride a bike.
+
+tags: push, shove, baton, protestor
+
+id: ny-newyorkcity-80
+
+**Links**
+
+* https://twitter.com/mattieump/status/1269094834926649349
+
+
+### Police shove their way through a crowd of protestors | June 3rd
+
+Footage from Cadman Plaza in Brooklyn shows protestors lock arms on the sidewalk to protect injured protestors as police approach. Police begin shoving the protestors and striking them with batons, including the injured protestor lying on the ground.
+
+tags: push, shove, baton, strike, protestor
+
+id: ny-newyorkcity-81
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394803/id58_annote-1254w.mp4
+* [Full 15 minute video](https://www.instagram.com/tv/CA_odIIjXCM/?igshid=1x9dd6psx40tj)
+
+
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
 
 Police strike a protestor with batons, before tackling him and arresting him. They shove other protestors with batons. Shortly after, police pin a man to the ground and kneel on him to make an arrest. A journalist identifies herself at the scene (link 3) and is credited with a first-person video (link 2) of the incident where she is shoved by police as she displays her press badge and films.
 
 Additional footage (link 4) from a journalist involved in the incident shows evidence of police shoving protestors and journalists throughout the night.
 
-tags: journalist, shove, strike, throw, beat, arrest, batons
+tags: journalist, shove, strike, throw, beat, arrest, batons, protestor
 
 id: ny-newyorkcity-23
 
@@ -574,7 +1031,7 @@ id: ny-newyorkcity-23
 
 Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
 
-tags: arrest, strike, choke, neck, batons
+tags: arrest, strike, choke, neck, batons, protestor
 
 id: ny-newyorkcity-24
 
@@ -591,7 +1048,7 @@ A New York state judge rejected the appeal, allowing the NYPD to continue holdin
 
 The NY Daily News cited that as of Thursday, June 4th, 202 people had been detained for over 24 hours.
 
-tags: arrest, inhumane-treatment, abuse-of-power
+tags: arrest, inhumane-treatment, abuse-of-power, protestor
 
 id: ny-newyorkcity-37
 
@@ -610,7 +1067,7 @@ The worker is wearing a branded backpack designed for food delivery and is ridin
 
 A news report states the worker was leaving a delivery as a protest passed by.
 
-tags: arrest, abuse-of-power
+tags: arrest, abuse-of-power, bystander
 
 id: ny-newyorkcity-38
 
@@ -632,7 +1089,7 @@ Three partygoers state officers used racial slurs while arresting them.
 
 Images show swollen hands from zip ties as well as bruises from batons. One partygoer states he suffered a severe sprain in his arm, and doctors could not determine from an X-Ray if it had been broken or not.
 
-tags: arrest, racial-profiling, inhumane-treatment, baton, beat
+tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander, zip-ties
 
 id: ny-newyorkcity-39
 
@@ -652,7 +1109,7 @@ A CUNY grad student working with the National Lawyers Guild (NLG), often identif
 
 The student states police seized his notebook and accused him of "illegal counter-surveillance against police." He additionally states hearing a call over the radio: "A lot of LOs out tonight," where LO is an abbrevation for Legal Observer. Although the NYPD patrol guide acknowledges the observers' right to monitor police activity and record the names of arrestees, the student and at least 10 other observers were arrested.
 
-tags: arrest, abuse-of-power
+tags: arrest, abuse-of-power, legal-observer
 
 id: ny-newyorkcity-40
 
@@ -671,7 +1128,7 @@ Footage additionally shows officers standing on cars to swing batons at protesto
 
 One video additionally shows protestors shouting for a medic as a woman has gone into labor.
 
-tags: pepper-spray, spray, batons, beat, shield, strike, arrest, pregnant
+tags: pepper-spray, spray, batons, beat, shield, strike, arrest, pregnant, protestor
 
 id: ny-newyorkcity-25
 
@@ -682,6 +1139,7 @@ id: ny-newyorkcity-25
 * https://twitter.com/AndomForNY/status/1269066762357805056
 * https://twitter.com/AndomForNY/status/1269067815752957953
 * https://twitter.com/ghouldisco/status/1268872802708357122
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394851/id126_annote-1254w.mp4
 
 
 ### Police arrest hospital employee acting as medic | June 4th
@@ -718,7 +1176,7 @@ id: ny-newyorkcity-43
 
 A woman states she was arrested on the stoop of her home (which is private property and exempt from curfew restrictions) after cheering on passing protestors. Her footage shows a man being arrested while police tell the others to go inside because of the curfew, despite the fact that their stoop is acceptable under curfew restrictions.
 
-tags: arrest, abuse-of-power
+tags: arrest, abuse-of-power, bystander
 
 id: ny-newyorkcity-44
 
@@ -741,11 +1199,91 @@ id: ny-newyorkcity-46
 * https://twitter.com/BreezeCrypto/status/1268595409733156868
 
 
+### Police grab protestor by the hair, shove her into car | June 4th
+
+After a scuffle between protestors and police at Washington Ave and Fulton St in Brooklyn, a protestor walking away is grabbed by the hair and thrown into the side of a police car. The officer shoves a second protestor into the car as well.
+
+tags: grab, shove, throw, protestor
+
+id: ny-newyorkcity-65
+
+**Links**
+
+* https://twitter.com/Axelohh/status/1268750326150111232
+
+
+### Polie shove protestor on bike | June 4th
+
+A person at Flushing and Marcy Aves in Brooklyn, is walking a bicycle and appears to be holding a pizza. A white-shirted officer shoves them into the side of a car, sending the pizza flying.
+
+tags: shove, protestor
+
+id: ny-newyorkcity-66
+
+**Links**
+
+* https://int.nyt.com/data/videotape/finished/2020/07/1594394873/id145_annote-1254w.mp4
+
+
+### Police single out, choke, and arrest protest organizer | June 4th
+
+Footage taken at E 136th St and Brook Ave in the Bronx shows police pointing out and attempting to apprehend protest organizer Shannon Jones. She retreats onto the sidewalk and the crowd of protestors protects her. Police then charge into the crowd. A white-shirted officer isolates Shannon, chokes, grabs, and shoves her. When another protestor intervenes, the officer punches him and shoves him away. Jones is then arrested.
+
+tags: shove, arrest, choke, protestor, punch, strike
+
+id: ny-newyorkcity-67
+
+**Links**
+
+* https://www.youtube.com/watch?v=eXceGpFwVEE
+
+
+### Officer shoves protestor | June 4th
+
+Footage taken at E 136th St and Brook Ave in the Bronx shows protestors confronting police on bikes. A protestor steps forward near police and appears to say something. An officer shoves the protestor and yells: "Back up."
+
+tags: shove, protestor
+
+id: ny-newyorkcity-68
+
+**Links**
+
+* https://twitter.com/jangelooff/status/1268698274371944451
+
+
+### Officer punches protestor repeatedly | June 4th
+
+Footage from Lee Avenue and Heyward Street in Brooklyn shows police piling on multiple protestors. Notably, one officer punches a protestor repeatedly.
+
+tags: arrest, protestor, punch
+
+id: ny-newyorkcity-69
+
+**Links**
+
+* https://twitter.com/OLIVERIVARD/status/1268763639772839936
+
+
+### White-shirted officers shove protestors | June 4th
+
+Footage taken from a Periscope stream filmed at Washington Ave and Fulton St in Brooklyn shows a crowd of protestors marching. Two white-shirted officers push through the crowd, shoving protestors. An officer appears to grab a protestor in a manner similar to a horse collar before releasing them and chasing after another protestor.
+
+tags: shove, protestor, push, grab
+
+id: ny-newyorkcity-70
+
+**Links**
+
+* [Clip](https://int.nyt.com/data/videotape/finished/2020/07/1594394818/0_id73-1254w.mp4)
+* [Original Tweet](https://twitter.com/NoahHurowitz/status/1268726877679738886)
+* [Full Periscope Video](https://www.pscp.tv/w/1MYxNklkrlvKw)
+
+
 ### Police shove protestor off bike | June 5th
 
 Footage shoves a small crowd of protestors arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
 
-tags: bike, shove, push
+tags: bike, shove, push, protestor
 
 id: ny-newyorkcity-41
 
@@ -758,7 +1296,7 @@ id: ny-newyorkcity-41
 
 Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
 
-tags: tackle, punch, arrest, beat, strike
+tags: tackle, punch, arrest, beat, strike, protestor
 
 id: ny-newyorkcity-26
 
@@ -778,7 +1316,7 @@ Images of an arrest show multiple officers (including one white-shirted officer,
 
 Footage also shows an officer who was pepper-sprayed by another officer. That footage additionally shows officers on motorcycles forcing their way through the crowd.
 
-tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badges, arrest, vehicle.
+tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badges, arrest, vehicle, protestor
 
 id: ny-newyorkcity-49
 
@@ -797,7 +1335,7 @@ id: ny-newyorkcity-49
 
 Footage shows a protestor with a bicycle standing behind a police van. An officer walks over and shoves him to the ground with his baton.
 
-tags: shove, baton, strike
+tags: shove, baton, strike, protestor
 
 id: ny-newyorkcity-51
 
@@ -810,7 +1348,7 @@ id: ny-newyorkcity-51
 
 At part of the Pride March, protestors gathered inside the park, a pedestrian & bike only zone. Footage shows crowd chanting "Shame" as 3 police officers make their way through the crowd. One officer appears to shove his way through. As he exits the crowd, he continues to shove protestors who are standing idly by. The other two officers walk him away, appearing to try and calm him down.
 
-tags: shove, push
+tags: shove, push, protestor
 
 id: ny-newyorkcity-52
 
@@ -831,7 +1369,7 @@ The third clip shows police shoving protestors on the sidewalk with their batons
 
 In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
 
-tags: shove, baton, strike, beat, arrest, choke, hide-badges
+tags: shove, baton, strike, beat, arrest, choke, hide-badges, protestor, zip-ties
 
 id: ny-newyorkcity-50
 
@@ -842,13 +1380,43 @@ id: ny-newyorkcity-50
 * https://twitter.com/NelStamp/status/1277985126228557825
 
 
+### Police tackle, shove, tase and arrest protestor | July 12th
+
+Footage shows a protestor arguing with an officer in the street at 5th and 67th Street in Bay Ridge, Brooklyn. The officer yells, "Get back," and shoves the protestor. Another officer charges and grabs the protestor before shoving the protestor away. The officer then unholsters his taser and fires at the protestor without warning. The protestor falls to the ground, then in apparent pain and panic attempts to stand and free himself while numerous officers hold him against a car to arrest him.
+
+A Freedom of Information Act requesting police footage has been [filed](https://www.muckrock.com/foi/new-york-city-17/foia-nypd-body-camera-footage-from-tasing-protester-on-july-12th-2020-98144/#).
+
+tags: taser, tase, arrest, shove, push, grab, protestor
+
+id: ny-newyorkcity-53
+
+**Links**
+
+* https://twitter.com/ScooterCasterNY/status/1282464495839981569
+* https://twitter.com/greg_doucette/status/1282488250763022341
+* https://freedomnews.tv/2020/07/13/person-tased-at-pro-police-rally-counter-protested-by-black-lives-matter-in-bay-ridge/
+
+
+### Police use bikes to shove protestors | July 12th
+
+Footage shows protestors and police in the road. A dispersal order can be heard. As soon as it ends, the police chant, "Move back," and use their bikes to shove protestors.
+
+tags: protestor, bike, shove
+
+id: ny-newyorkcity-54
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1282480090702655492
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
 
 Police are seen shooting at individuals who were recording an incident.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: ny-rochester-1
 

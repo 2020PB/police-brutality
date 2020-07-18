@@ -12,7 +12,7 @@ After police walk arrestee away, protestors continue to shout at police. Police 
 
 A racial slur can be heard shouted, although it is unsure who is shouting.
 
-tags: arrest, tear-gas, shoot, projectiles
+tags: arrest, tear-gas, shoot, projectiles, protestor
 
 id: wa-olympia-1
 
@@ -27,7 +27,7 @@ id: wa-olympia-1
 
 Officer pins protestor with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
 
-tags: knee-on-neck, arrest
+tags: knee-on-neck, arrest, protestor
 
 id: wa-seattle-1
 
@@ -41,7 +41,7 @@ id: wa-seattle-1
 
 A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned.
 
-tags: beat, punch, pinned
+tags: beat, punch, pinned, protestor
 
 id: wa-seattle-2
 
@@ -55,7 +55,7 @@ id: wa-seattle-2
 
 A police officer randomly and indiscriminately pepper sprays civilians walking around, which then went on to spark a riot.
 
-tags: pepper-spray
+tags: pepper-spray, protestor
 
 id: wa-seattle-3
 
@@ -68,7 +68,7 @@ id: wa-seattle-3
 
 Police pepper sprays a young child who is seen crying, while protesters pour milk on the distressed girl.
 
-tags: pepper-spray, child, inhumane-treatment
+tags: pepper-spray, child, inhumane-treatment, protestor
 
 id: wa-seattle-4
 
@@ -82,7 +82,7 @@ id: wa-seattle-4
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
 
-tags: tear-gas, tear-gas-canister
+tags: tear-gas, tear-gas-canister, protestor
 
 id: wa-seattle-8
 
@@ -96,7 +96,7 @@ id: wa-seattle-8
 
 An officer on a bike pulls down a protestor walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
 
-tags: tackle
+tags: tackle, protestor
 
 id: wa-seattle-6
 
@@ -111,7 +111,7 @@ id: wa-seattle-6
 
 In this video, officers wrestle with two protestors on the floor. One officer punches the protestor he has pinned at 0:15.
 
-tags: tackle, punch
+tags: tackle, punch, protestor
 
 id: wa-seattle-12
 
@@ -126,7 +126,7 @@ id: wa-seattle-12
 
 Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
 
-tags: flashbang, tear-gas
+tags: flashbang, tear-gas, protestor
 
 id: wa-seattle-7
 
@@ -139,7 +139,7 @@ id: wa-seattle-7
 
 Police pepper spray peacefully protesting crowd.
 
-tags: pepper-spray
+tags: pepper-spray, protestor
 
 id: wa-seattle-9
 
@@ -169,7 +169,7 @@ id: wa-seattle-10
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
-tags: flashbang, pepper-spray
+tags: flashbang, pepper-spray, protestor
 
 id: wa-seattle-5
 
@@ -190,7 +190,7 @@ Officers cited a Star Wars meme depicting a Landspeeder with a caption saying, "
 
 The woman states she tried to help a friend who was being shot with rubber bullets.
 
-tags: arrest, abuse-of-power
+tags: arrest, abuse-of-power, protestor
 
 id: wa-seattle-16
 
@@ -207,7 +207,7 @@ id: wa-seattle-16
 Video shows officer on back of woman laying face down. Officer has the woman in a choke hold. Officer then moves to place both
 knees on back during arrest, one knee on middle of the back and the other behind the neck of the woman. Officer is reported to work for Bellevue Police Department. Arrest made over what twitter user @_SJPeace_ described as a title transfer.
 
-tags: neck, tackle, headlock, knee
+tags: neck, tackle, headlock, knee, protestor
 
 id: wa-seattle-11
 
@@ -220,7 +220,7 @@ id: wa-seattle-11
 
 Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs.
 
-tags: tear-gas, flashbangs, kettling
+tags: tear-gas, flashbangs, protestor
 
 id: wa-seattle-13
 
@@ -234,7 +234,7 @@ id: wa-seattle-13
 
 In a series of videos, we see police asking protesters to move back, but the crowd is too dense for them to do so. Police then start pepper-spraying protesters at the front of the crowd and launch flashbangs into and near the crowd. At 1:30 in the first video, it appears a protester is hit with a projectile. In the subsequent clips, teargas is seen being spread into a group of protesters by police.
 
-tags: pepper-spray, flashbangs, projectiles, tear-gas
+tags: pepper-spray, flashbangs, projectiles, tear-gas, protestor
 
 id: wa-seattle-15
 
@@ -250,7 +250,7 @@ id: wa-seattle-15
 
 Video shows an individual getting hit by a police projectile, falling down, and becoming unresponsive. Medics drag the person away from the police. A medic's first-hand narrative account describes the victim as "a young woman in her 20s." Medics attempt to treat the young woman while police throw flash bang grenades directly into the first aid center where they are gathered. Several times the victim stops responding or breathing but becomes responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transports her by car to an Emergency Dept where she was delivered with a pulse. The person who filmed the incident from his workplace office is an editor at the local alt weekly, The Stranger; he reported in his twitter thread that the people in the office were having trouble breathing from teargas or some other chemical agent.
 
-tags: projectiles, medic, flashbangs, tear-gas
+tags: projectiles, medic, flashbangs, tear-gas, protestor
 
 id: wa-seattle-14
 
@@ -268,7 +268,7 @@ Police surrounded a barricade in the street and began arresting protestors. One 
 
 Police then retaliate against the crowd, firing tear gas and spraying pepper spray indiscriminately. Police continue to do so well after protestors have moved to the sides.
 
-tags: arrest, tear-gas, pepper-spray
+tags: arrest, tear-gas, pepper-spray, protestor
 
 id: wa-seattle-17
 
@@ -281,7 +281,7 @@ id: wa-seattle-17
 
 A protestor is seen off to the side of the protest, speaking with another protestor and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: wa-seattle-18
 
@@ -294,7 +294,7 @@ id: wa-seattle-18
 
 While deploying flashbangs and tear gas against protestors, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
 
-tags: homeless, arrest, strike, beat
+tags: homeless, arrest, strike, beat, bystander, protestor, tear-gas, flashbangs
 
 id: wa-seattle-19
 
@@ -308,7 +308,7 @@ id: wa-seattle-19
 
 Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
 
-tags: pepper-spray
+tags: pepper-spray, protestor
 
 id: wa-seattle-20
 
@@ -321,7 +321,7 @@ id: wa-seattle-20
 
 Footage shows police line approaching scattered peaceful protestors. Police snatch and grab to make rough arrests. When protestors attempt to intervene they are shoved, struck with batons, and pepper sprayed.
 
-tags: arrest, pepper-spray, spray, shove, strike, baton
+tags: arrest, pepper-spray, spray, shove, strike, baton, protestor
 
 id: wa-seattle-21
 
@@ -335,7 +335,7 @@ id: wa-seattle-21
 
 As police prepare to clear CHOP, a protestor asks a question. Police then target him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
 
-tags: arrest, tackle, knee, knee-on-kneck
+tags: arrest, tackle, knee, knee-on-kneck, protestor
 
 id: wa-seattle-22
 
@@ -345,15 +345,98 @@ id: wa-seattle-22
 * https://clips.twitch.tv/LittleProtectiveDillAsianGlow
 
 
-### Officer tackles protester and places knee on his neck | July 2nd
+### Officers tackle protesters, put a knee on least one of their necks | July 2nd
 
-Video shows bicycle cops fast approaching a group of protesters who are just outside an area cordoned off with police tape. It's unclear from the video what the provocation was, if any. There is a scuffle with the police in the crowd. Without warning, an officer singles out one particular individual who has backed away from the scuffle, tackling him to the ground and placing his knee on his neck. Another officer assists with handcuffing and arresting the individual. It is not clear whether this individual was singled out for a reason or if it was random.
+Video shows bicycle cops fast approaching a group of protesters who are just outside an area cordoned off with police tape, presumably because they considered one or more of them to have crossed the boundary. Without warning, the cops tackle two protesters to the ground. Someone can be heard shouting "get your knee off their neck!" One of the videos clearly shows an officer placing his knee on the neck of one of the individuals.
 
-tags: arrest, tackle, knee, knee-on-kneck
+tags: arrest, tackle, knee, knee-on-kneck, protestor
 
 id: wa-seattle-23
 
 **Links**
 
 * https://twitter.com/sre_li/status/1278856204018565120
+* https://twitter.com/1stRoundFinish/status/1278854169743388672
+
+
+### Violent arrests made at protests near CHOP | July 2nd
+
+Footage beginning at 14:00 shows police begin to advance on protestors without warning. They use their shields and batons to strike and shove protestors. When protestors become agitated, police tackle protestors and discharge pepper spray. Footage shows police kneeling on one protestor, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
+
+tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee, protestor
+
+id: wa-seattle-24
+
+**Links**
+
+* [Begins at 14:00; arrest made at 17:00](https://www.facebook.com/joeywieser/videos/10158221953345491/)
+* [A still of the bicyclist's arrest](https://twitter.com/spekulation/status/1278593887410372608)
+* [Footage of the arrest and of police shoving the crowd](https://twitter.com/itsjosephryan/status/1278627952914075648)
+* [Footage of the arrest and of police shoving the crowd](https://www.reddit.com/r/CapHillAutonomousZone/comments/hjuwkk/bop_shield_cop_goes_agro_on_the_bike_brigade/)
+
+
+### Police make violent arrest | July 2nd
+
+Footage taken around midnight the morning of July 2nd shows multiple officers arresting a protestor, striking him with batons, punching him, and kneeling on his neck.
+
+The officer kneeling on the protestor's kneck has his badge covered.
+
+Protestor was allegedly arrested for crossing a street in the Capitol Hill neighborhood.
+
+tags: arrest, beat, strike, baton, punch, knee, knee-on-neck, protestor, hide-badge
+
+id: wa-seattle-25
+
+**Links**
+
+* https://twitter.com/own_the_libs_/status/1278765129752907777
+* https://twitter.com/own_the_libs_/status/1278765575494266881
+
+
+### Police harass man attempting to go to his apartment | July 3rd
+
+A man returning to his apartment is followed by a police officer. The officer asks the man where he lives. The man responds with his address. The officer is joined by a second and they ask the filmer for ID. The filmer states he does not have ID and that the Mayor said police should stop asking for ID. The police say that the order just came in to start asking for ID again. They give the filmer three options: leave the area, be arrested, or allow the police to escort him to his home. The filmer decides to leave the area.
+
+tags: abuse-of-power, bystander
+
+id: wa-seattle-26
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1279107834739736576
+
+
+### Police arrest peaceful protestor | July 9th
+
+Footage shows a handful of protestors marching in the street. Protestors clear to the sidewalks as police arrive. Officers approach the crowd and single out one black woman. At 1:58 in the Reddit link, an officer can be heard saying, "You were blocking earlier." Officers then grab her and arrest her. Additional officers brandishing tasers and pepper spray surround the arrest. Police then place the protestor in an unmarked van.
+
+It is unclear why this individual was singled out.
+
+tags: protestor, arrest
+
+id: wa-seattle-27
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hobv3a/how_many_cops_does_it_take_to_arrest_one_black/
+* [Full stream, begins at 1:02:00](https://www.twitch.tv/videos/674606592)
+* [Alternate angle](https://twitter.com/greg_doucette/status/1281430922064211968)
+
+
+### Police arrest journalist | July 10th
+
+First person footage from a photojournalist shows the journalist filming a police car while stating that allegedly the officer in the car said that the officer has the photojournalist's address. The journalist repeats these words back, including the exact phrase, "I have your address." The officer then approaches him and arrests him for threatening an officer, alleging that the journalist claimed to have the officer's address.
+
+The second link shows the full series of events. The photojournalist is filming police as they write parking citations. He is using strong language with the officers and harassing them. However he is doing no more than hurling insults and noting names and badge numbers. At 2:00, it can be verified that the officer does say he has the journalist's address. So, in fact, when he is arrested for threatening an officer, he is repeating the officer's words back to him.
+
+Notably, this journalist filmed the arrest of the individual in wa-seattle-27.
+
+tags: journalist, arrest, abuse-of-power
+
+id: wa-seattle-28
+
+**Links**
+
+* https://twitter.com/spekulation/status/1281656761296936961
+* https://www.reddit.com/r/PublicFreakout/comments/hovouj/seattle_police_officer_caught_making_up_a_false/
 

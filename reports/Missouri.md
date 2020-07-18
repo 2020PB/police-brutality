@@ -4,7 +4,7 @@
 
 
 
-tags: pepper-spray, spray, arrest
+tags: pepper-spray, spray, arrest, protestor
 
 id: mo-kansascity-5
 
@@ -18,7 +18,7 @@ id: mo-kansascity-5
 
 A video linked shows the police pepper spraying some protestors who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
 
-tags: pepper-spray, spray, arrest
+tags: pepper-spray, spray, arrest, protestor
 
 id: mo-kansascity-6
 
@@ -32,7 +32,7 @@ id: mo-kansascity-6
 
 Video shows the police tear gassing an entire park, including one baby in Kansas City.
 
-tags: child, tear-gas
+tags: child, tear-gas, protestor
 
 id: mo-kansascity-1
 
@@ -45,7 +45,7 @@ id: mo-kansascity-1
 
 
 
-tags: arrest, tear-gas
+tags: arrest, tear-gas, protestor
 
 id: mo-kansascity-2
 
@@ -59,7 +59,7 @@ id: mo-kansascity-2
 
 A line of police stand well apart from a crowd of protestors, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
 
-tags: pepper-spray, spray, tear-gas, arrest, shove
+tags: pepper-spray, spray, tear-gas, arrest, shove, protestor
 
 id: mo-kansascity-3
 
@@ -73,7 +73,7 @@ id: mo-kansascity-3
 
 A police officer pulls away a protestor standing still. When others come to the protestor's aid they are pepper sprayed.
 
-tags: grab, spray, pepper-spray
+tags: grab, spray, pepper-spray, protestor
 
 id: mo-kansascity-4
 
@@ -91,7 +91,7 @@ Around 9pm, one victim, Sean, states that police began pepper-spraying without w
 
 After arriving at the hospital, Sean was told he would be permanently blind, but had been spared broken bones or death by a matter of inches.
 
-tags: pepper-spray, rubber-bullets, spray, shoot
+tags: pepper-spray, rubber-bullets, spray, shoot, protestor
 
 id: mo-kansascity-7
 
@@ -126,7 +126,7 @@ Police continued to push protestors into the road. Filmers state that police mac
 
 Police continued to snag protestors and arrest them.
 
-tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, throw
+tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, throw, protestor
 
 id: mo-florissant-2
 
@@ -138,4 +138,22 @@ id: mo-florissant-2
 * https://twitter.com/search4swag/status/1277059423966507008
 * https://twitter.com/search4swag/status/1277059423966507008
 * https://twitter.com/NassimBnchabane/status/1277056390314541056
+
+
+### Police shoot at protestors in designated protest area | July 6th
+
+Police created a designated protest zone for protestors. Protestors allegedly stepped outside the protest zone, so the protest was deemed an unlawful assembly. However, protestors state that police continued to fire at them after they returned to the protest zone.
+
+Footage shows police shooting riot rounds at protestors in the zone. The account that posted the first link states that police were using rubber bullets; the second states that they were using rubber bullets or pepper balls, and that police also maced protestors.
+
+Footage from the second link also shows violent arrests where police force protestors to the ground, pulling on limbs, punching and kneeling on protestors.
+
+tags: shoot, rubber-bullets, pepper-balls, projectile, mace, pepper-spray, spray, arrest, protestor
+
+id: mo-florissant-3
+
+**Links**
+
+* https://twitter.com/CopWatchSTL/status/1280342740706959361
+* https://twitter.com/search4swag/status/1280332765859319810
 

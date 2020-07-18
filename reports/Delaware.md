@@ -20,7 +20,7 @@ The first two minutes of footage show police making a series of violent arrests:
 
 Dover PD is investigating the use of force incident.
 
-tags: arrest, tackle, shove, push, knee, strike
+tags: arrest, tackle, shove, push, knee, strike, protestor
 
 id: de-dover-2
 

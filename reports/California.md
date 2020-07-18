@@ -1,10 +1,28 @@
+## Beverly Hills
+
+### Beverly Hills police use LRAD (sound cannon) at protest | June 26th
+
+During a peaceful protest in Beverly Hills, police used the dispersal function of a LRAD (or sound cannon) on protestors. Footage is pointed at the ground, but audio shows individuals arguing. The LRAD's characteristic dispersal signal is used twice, each time without warning and for about 30 seconds. In addition, a photojournalist at the scene confirms the LRAD was used.
+
+Due to its high risk of permanent injury, indiscriminate damage, and insufficient testing surrounding long-terms effects, the use of the LRAD dispersal function is considered to be police brutality in and of itself.
+
+tags: lrad, protestor
+
+id: ca-beverlyhills-1
+
+**Links**
+
+* [1:34, 3:43](https://youtu.be/doQMq8Iwcjc?t=94)
+* [Photojournalist's account](https://twitter.com/bfeinzimer/status/1277014331968782339)
+
+
 ## Clayton
 
 ### Law enforcement gas teenagers at a park | June 2nd
 
 Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
 
-tags: tear-gas, tear-gas-canister
+tags: tear-gas, tear-gas-canister, protestor
 
 id: ca-clayton-1
 
@@ -20,7 +38,7 @@ id: ca-clayton-1
 
 Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person. The beating continues until a woman yells "why are y'all beating him?"
 
-tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment
+tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment, protestor
 
 id: ca-compton-1
 
@@ -47,13 +65,40 @@ id: ca-costa-mesa-1
 * https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
 
 
+## Gustine
+
+### Protesters attacked; police shake hands of attackers; tell protesters to wait in patrol cars | June 28th
+
+About twenty anti-BLM protesters (holding a thin blue line flag and affiliated with California Valley Patriots (CVP)) were holding a rally in Gustine California (at the corner of Grove Avenue and 5th Street). A group of around 3 young people decided to hold an impromptu counter-protest, and parked across the street from the CVP protesters. CVP protesters came across the street and began shouting at the counter-protesters. Some time later, video shows one counter-protester on the ground, on the CVP proesters' side of the street, being beaten by CVP protesters. Another counter-protester is trying to intervene but being physically restrained by CVP protesters; a third is filming the incident as CVP protesters heckle her. Photos taken after the incident show at least two of the protesters badly beaten. Each side says the other started the altercation.
+
+Police arrived shortly thereafter. They told the counter-protesters to wait in police cars (allegedly for their own protection); the counter-protesters say they were kept in police cars for nearly an hour. The CVP protesters were not put into police cars. One counter-protester says that counter-protesters tried to leave multiple times, but were told that they were not free to go. Police can be seen shaking the hand of one of the CVP protesters; counter-protesters claim police were somewhat dismissive of their allegations of assault against the CVP protesters. No arrests were made, but a report concerning the incident has been referred to the DA.
+
+tags: abuse-of-power, protestor
+
+id: ca-gustine-1
+
+**Links**
+
+* [Video after the incident](https://twitter.com/stussycastro/status/1277345103862837249)
+* [More video after the incident](https://twitter.com/stussycastro/status/1277347410855907328)
+* [Video during the incident](https://twitter.com/greg_doucette/status/1279473878335655936)
+* [Video during and after the incident](https://twitter.com/s_gardenhire/status/1278037063946792960)
+* [Account from a counterprotester, with pictures of injuries](https://twitter.com/stussycastro/status/1279289483972628482)
+* [Video of injuries; response (purportedly from CVP) in comments](https://www.facebook.com/jpvazquez2/videos/10158730583897268/)
+* [Twitter feed with misc. other evidence](https://twitter.com/cecigam24)
+* [Merced Sun-Star Coverage](https://www.mercedsunstar.com/news/local/article243914827.html)
+* [West Side Connect Coverage](http://www.westsideconnect.com/community/groups-clash-in-gustine-altercation/article_ec25243e-bc97-11ea-8384-2b2fba8f80fb.html)
+* [Yahoo News Coverage, with video before the incident](https://news.yahoo.com/police-investigate-altercation-between-groups-192038713.html)
+* [Street view of the location, for reference](https://www.google.com/maps/@37.2535159,-120.998706,3a,60y,326.22h,85.89t/data=!3m6!1e1!3m4!1spuyVbnKo6ts2Zc-15NMVgg!2e0!7i13312!8i6656)
+
+
 ## Hollywood
 
 ### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
 
 Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it still looks to be light outside.
 
-tags: arrest, threaten, inhumane-treatment
+tags: arrest, threaten, inhumane-treatment, protestor
 
 id: ca-hollywood-1
 
@@ -68,7 +113,7 @@ Police are shown shoving a wall of peaceful protesters back from an intersection
 
 Footage does not indicate that any protesters were violent with any officer before the shooting began.
 
-tags: shove, shoot, rubber-bullets
+tags: shove, shoot, rubber-bullets, protestor
 
 id: ca-hollywood-2
 
@@ -83,7 +128,7 @@ id: ca-hollywood-2
 
 Protestors laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protestors began standing, police fired projectiles at protestors. Police continued to fire off and on for at least one minute while protestors obeyed order to retreat.
 
-tags: shoot, projectiles
+tags: shoot, projectiles, protestor
 
 id: ca-hungtingtonbeach-1
 
@@ -98,7 +143,7 @@ id: ca-hungtingtonbeach-1
 
 Law enforcement stand off with protesters. Seemingly without provocation they start gassing and shooting at the protesters.
 
-tags: tear-gas, projectile, shoot
+tags: tear-gas, projectile, shoot, protestor
 
 id: ca-lamesa-2
 
@@ -111,7 +156,7 @@ id: ca-lamesa-2
 
 La Mesa PD shoot a woman in the face with a rubber bullet.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: ca-lamesa-1
 
@@ -142,7 +187,7 @@ id: ca-longbeach-1
 
 A crowd of protestors is chanting peacefully. A shot is fired offscreen and a woman screams. Footage shows the woman clutching her bleeding hand. The caption states her finger was "cut off." The crowd becomes agitated and police respond with tear gas.
 
-tags: shoot, projectile, tear-gas
+tags: shoot, projectile, tear-gas, protestor
 
 id: ca-longbeach-2
 
@@ -155,13 +200,27 @@ id: ca-longbeach-2
 
 ## Los Angeles
 
+### Police use tear gas and riot rounds against protestors | May 29th
+
+In footage taken by a bystander filming from her apartment, police advance down a street near a Downtown LA shopping center. Protestors retreat from police. Police continuously fire less-lethal rounds and chemical agents at protestors. Towards the end of the footage, a single firework is thrown at police by protestors.
+
+tags: shoot, projectile, gas, protestor
+
+id: ca-losangeles-37
+
+**Links**
+
+* https://vimeo.com/424352612
+* https://www.reddit.com/r/LosAngeles/comments/gti4eg/la_riots_5292020_police_line_advances_with_their/
+
+
 ### Protestor shot in head | (believed to be) May 30th
 
 Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
 
 Additional footage (link 3) shows other protestors with wounds from riot rounds.
 
-tags: shoot, projectiles
+tags: shoot, projectiles, protestor
 
 id: ca-losangeles-30
 
@@ -177,7 +236,7 @@ id: ca-losangeles-30
 
 An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
-tags: beat, baton, projectile
+tags: beat, baton, projectile, protestor
 
 id: ca-losangeles-2
 
@@ -190,7 +249,7 @@ id: ca-losangeles-2
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
 
-tags: beat, baton, shoot, rubber-bullets
+tags: beat, baton, shoot, rubber-bullets, protestor
 
 id: ca-losangeles-3
 
@@ -220,7 +279,7 @@ id: ca-losangeles-4
 
 In the video, protesters can be seen kneeling. Police swing batons at several protesters pressed against the side of a building.
 
-tags: beat, baton
+tags: beat, baton, protestor
 
 id: ca-losangeles-5
 
@@ -234,7 +293,7 @@ id: ca-losangeles-5
 
 LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
 
-tags: shoot, projectiles, baton
+tags: shoot, projectiles, baton, protestor
 
 id: ca-losangeles-24
 
@@ -248,7 +307,7 @@ id: ca-losangeles-24
 
 Activist and former White House and congressional staffer Deon Jones was hit in the face with a rubber bullet, fracturing two bones and nearly costing him one eye. Jones also alleges assorted other misconduct, reminiscent of incidents CA-LosAngeles-19, CA-LosAngeles32, and CA-SantaMonica-2
 
-tags: shoot, projectiles
+tags: shoot, projectiles, protestor
 
 id: ca-losangeles-33
 
@@ -265,7 +324,7 @@ id: ca-losangeles-33
 
 Footage shows a peaceful protest opposite a police line. Around 50 seconds, police fire tear gas behind protestors, trapping them between tear gas and the police line. Police tell protestors to move, but protestors insist they cannot leave because of the gas behind them. Around 1:40, police then pepper spray protestors, forcing them to retreat into the tear gas.
 
-tags: tear-gas, mace, pepper-spray, spray
+tags: tear-gas, mace, pepper-spray, spray, protestor
 
 id: ca-losangeles-34
 
@@ -274,11 +333,59 @@ id: ca-losangeles-34
 * https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
 
 
+### Protestor shot in the head by rubber bullet | May 30th
+
+Images show a forehead injury received by a protestor who had been hiding behind a dumpster.
+
+This, among other incidents, has led LA Mayor Garcetti to instruct the LAPD to limit its use of rubber bullets.
+
+tags: protestor, shoot, rubber-bullet
+
+id: ca-losangeles-35
+
+**Links**
+
+* https://i.redd.it/xpn4dnw342551.jpg
+* https://www.reddit.com/r/LosAngeles/comments/h9e7i8/protesters_hid_from_lapd_shooting_rubber_bullets/
+* https://www.latimes.com/california/story/2020-06-02/lapd-will-limit-use-of-rubber-bullets-on-protesters-garcetti-says
+
+
+### Police fire at bystander filming from apartment | May 30th
+
+Early in the morning on May 30th, a streamer is filming arrests from her apartment. She captures police pointing riot guns at another apartment in her building. Police fire one shot.
+
+The man at whom police shot posted images of what appears to be a bean bag round and a broken window.
+
+tags: bystander, shoot, bean-bag, property-destruction
+
+id: ca-losangeles-36
+
+**Links**
+
+* [Stream; police target apartment at 0:30, shoot at 0:45](https://www.pscp.tv/w/1OwxWQXvOAjGQ)
+* https://twitter.com/Sarah_Mojarad/status/1266633046591078400
+* https://twitter.com/tracemeYo/status/1266633586322497538
+
+
+### Police fire rubber bullets at small group of peaceful protestors | May 30th
+
+Around 2AM on May 30th, a bystander films police from his apartment. Police fire projectiles - the filmer claims, based on a livestreamer's feed, that they are rubber bullets - at a small group of protestors from across an intersection. Police then take the intersection and march down the street, continuing to fire at protestors. At one point, another bystander asks the filmer who the police are shooting at. After the filmer points out the protestors, the other bystander states, "There are like 4 of them."
+
+tags: protestor, shoot, rubber-bullets
+
+id: ca-losangeles-39
+
+**Links**
+
+* https://www.youtube.com/watch?v=UDLxeshoPnI
+* https://www.reddit.com/r/LosAngeles/comments/gtjd0p/rubber_bullets_at_2am_dtla/
+
+
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
-tags: rubber-bullets, shoot, pepper-ball
+tags: rubber-bullets, shoot, pepper-ball, protestor
 
 id: ca-losangeles-6
 
@@ -291,7 +398,7 @@ id: ca-losangeles-6
 
 A police officer has his knee on a woman's neck, who already had 3 police officers on her. A different officer had to pull him away.
 
-tags: kneel, knee-on-neck
+tags: kneel, knee-on-neck, protestor
 
 id: ca-losangeles-7
 
@@ -304,7 +411,7 @@ id: ca-losangeles-7
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby.
 
-tags: vehicle, rubber-bullets
+tags: vehicle, rubber-bullets, protestor
 
 id: ca-losangeles-8
 
@@ -317,7 +424,7 @@ id: ca-losangeles-8
 
 Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head.
 
-tags: projectile, shoot
+tags: projectile, shoot, protestor
 
 id: ca-losangeles-9
 
@@ -332,7 +439,7 @@ id: ca-losangeles-9
 
 LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
 
-tags: tackle, arrest, beat, shoot, baton, projectile
+tags: tackle, arrest, beat, shoot, baton, projectile, protestor
 
 id: ca-losangeles-11
 
@@ -346,7 +453,7 @@ id: ca-losangeles-11
 
 LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protestors, then throws it in reverse and speeds away
 
-tags: vehicle, drive
+tags: vehicle, drive, protestor
 
 id: ca-losangeles-12
 
@@ -364,7 +471,7 @@ id: ca-losangeles-12
 
 Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
 
-tags: shoot, projectile
+tags: shoot, projectile, bystander
 
 id: ca-losangeles-13
 
@@ -377,7 +484,7 @@ id: ca-losangeles-13
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: ca-losangeles-16
 
@@ -390,7 +497,7 @@ id: ca-losangeles-16
 
 Protestors kneeling in the street are approached by a line of police in riot gear. Police beat them with their shields, shove them, and appear to be arresting them when a riot round is fired and the camera moves.
 
-tags: beat, shove, shield, arrest
+tags: beat, shove, shield, arrest, protestor
 
 id: ca-losangeles-28
 
@@ -403,7 +510,7 @@ id: ca-losangeles-28
 
 Two peaceful protestors are standing in an empty street.  Dozens of police officers move forward and the protestors are shot by rubber bullets fired from officers.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: ca-losangeles-15
 
@@ -417,7 +524,7 @@ id: ca-losangeles-15
 
 LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
 
-tags: property-destruction
+tags: property-destruction, protestor
 
 id: ca-losangeles-25
 
@@ -432,7 +539,7 @@ Alleged looters and the owner and employees at a liquor store stood off outside 
 
 The employee was arrested, along with her husband and others helping them, while the alleged looters ran off. The employee says she told police they had the wrong people and the criminals were getting away. She says the officer arresting her said, "I don't care about them." In addition, she says she was thrown against a wall when arrested.
 
-tags: racial-profiling, arrest, shove
+tags: racial-profiling, arrest, shove, bystander
 
 id: ca-losangeles-26
 
@@ -450,7 +557,7 @@ Many protesters allege that conditions in the makeshift jails were poor -- detai
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protestor, zip-ties
 
 id: ca-losangeles-19
 
@@ -477,7 +584,7 @@ Several arrestees describe police sexually harassing/assaulting them; other arre
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten
+tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protestor, zip-ties
 
 id: ca-losangeles-32
 
@@ -494,7 +601,7 @@ id: ca-losangeles-32
 
 A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way.
 
-tags: shoot, pepper-ball, vehicle, drive
+tags: shoot, pepper-ball, vehicle, drive, protestor
 
 id: ca-losangeles-1
 
@@ -513,7 +620,7 @@ A man confined to a wheelchair is shot in the eye with a rubber bullet causing h
 
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
-tags: shoot, projectile, homeless, person-with-disability
+tags: shoot, projectile, homeless, person-with-disability, bystander
 
 id: ca-losangeles-17
 
@@ -530,7 +637,7 @@ id: ca-losangeles-17
 
 A handful of protestors are seen walking away from police with their hands up. Police shoot at the protestors repeatedly for the duration of the video, about 40 seconds.
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: ca-losangeles-27
 
@@ -547,7 +654,7 @@ Protestors become agitated and police begin firing riot rounds.
 
 After 50 seconds, footage cuts to various other incidents.
 
-tags: baton, strike, person-with-disability, shoot, shove
+tags: baton, strike, person-with-disability, shoot, shove, protestor
 
 id: ca-losangeles-31
 
@@ -560,7 +667,7 @@ id: ca-losangeles-31
 
 In Lakewood, police fire projectiles at protesters and discharge teargas.
 
-tags: shoot, projectile, tear-gas
+tags: shoot, projectile, tear-gas, protestor
 
 id: ca-losangeles-20
 
@@ -577,7 +684,7 @@ Footage shows scattered protestors on pedestrian walkway with police firing tear
 
 A journalist states they were tear-gassed while holding up their press badge in plain view.
 
-tags: tear-gas, journalist
+tags: tear-gas, journalist, protestor
 
 id: ca-losangeles-21
 
@@ -593,7 +700,7 @@ Footage shows police and protestors separated by a barricade. Protestors shout a
 
 In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
 
-tags: shoot, projectiles
+tags: shoot, projectiles, protestor
 
 id: ca-losangeles-22
 
@@ -601,6 +708,23 @@ id: ca-losangeles-22
 
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
+
+
+### Police make violent arrests, including ripping a protestor out of his wheelchair and inducing an asthma attack | July 15th
+
+Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him.
+
+Footage from instagram (second link, fourth in list) shows a man suffering an asthma attack after allegedly being struck in the neck with a baton. The last video in the instagram post appears to show the man on a gurney receiving medical attention. Other videos in the post show police shoving protestors with their hands and with batons. The poster also alleges that police held a woman in a chokehold.
+
+tags: arrest, shove, strike, property-destruction, person-with-disability, baton
+
+id: ca-losangeles-40
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hrwunn/cops_assaulting_blm_protesters_including_a_man_in
+* https://www.instagram.com/p/CCsYvr7n-Rg/
+* https://www.latimes.com/california/story/2020-07-16/police-said-they-assaulted-an-officer-but-protesters-have-a-different-account
 
 
 ## Norco
@@ -611,7 +735,7 @@ A man wearing a shirt with two SS lightning bolts harasses a filming BLM protest
 
 In addition, the second link shows this individual having assaulted protestors on multiple occasions without repercussion.
 
-tags: abuse-of-power
+tags: abuse-of-power, protestor
 
 id: ca-norco-1
 
@@ -627,7 +751,7 @@ id: ca-norco-1
 
 A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
 
-tags: vehicle, drive
+tags: vehicle, drive, protestor
 
 id: ca-oakland-1
 
@@ -654,7 +778,7 @@ id: ca-oakland-2
 
 Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: ca-oakland-3
 
@@ -685,7 +809,7 @@ id: ca-riverside-1
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: ca-sacramento-1
 
@@ -699,7 +823,7 @@ id: ca-sacramento-1
 
 Sacramento law enforcement shoot protesters and then announce their assembly is unlawful.
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: ca-sacramento-2
 
@@ -712,7 +836,7 @@ id: ca-sacramento-2
 
 Two to three police officers choke a black man on the ground. The woman documenting this on video is then pushed away/over.
 
-tags: choke, shove, push, threaten, baton
+tags: choke, shove, push, threaten, baton, protestor
 
 id: ca-sacramento-3
 
@@ -728,7 +852,7 @@ id: ca-sacramento-3
 
 Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
 
-tags: tear-gas, tear-gas-canister, shoot
+tags: tear-gas, tear-gas-canister, shoot, protestor
 
 id: ca-sandiego-2
 
@@ -743,7 +867,7 @@ id: ca-sandiego-2
 
 Footage of a woman bleeding profusely from the head. Poster says SDPB were using rubber bullets. The woman was taken to the hospital and was in stable condition as of May 31st
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: ca-sandiego-3
 
@@ -757,7 +881,7 @@ id: ca-sandiego-3
 
 Footage shows protestors playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protestors then flee.
 
-tags: tear-gas, shoot, projectiles
+tags: tear-gas, shoot, projectiles, protestor
 
 id: ca-sandiego-4
 
@@ -770,7 +894,7 @@ id: ca-sandiego-4
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
 
-tags: threaten, arrest, hide-badges, inhumane-treatment
+tags: threaten, arrest, hide-badges, inhumane-treatment, protestor
 
 id: ca-sandiego-1
 
@@ -785,7 +909,7 @@ id: ca-sandiego-1
 
 A police SUV is attempting to drive through a crowd.  A law enforcement officer shoves the man from behind off the sidewalk onto the ground in front of the vehicle.
 
-tags: drive, shove
+tags: drive, shove, protestor
 
 id: ca-sanfrancisco-1
 
@@ -800,7 +924,7 @@ id: ca-sanfrancisco-1
 
 A police officer shoots a projectile at a protestor for yelling out profanities. The same officer is seen excited about the protests yelling "let's get this motherfucker".
 
-tags: shoot, projectile, threaten
+tags: shoot, projectile, threaten, protestor
 
 id: ca-sanjose-1
 
@@ -817,7 +941,7 @@ id: ca-sanjose-1
 
 A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck.
 
-tags: knee-on-neck, arrest
+tags: knee-on-neck, arrest, protestor
 
 id: ca-sanjose-3
 
@@ -830,7 +954,7 @@ id: ca-sanjose-3
 
 A protestor and community activist, known for work anti-bias and community building work with the San Jose PD, is fired upon by police. Though he has his hands in the air, police fire on him numerous times, striking him once in the groin. Later reports state the man suffered a ruptured testicle.
 
-tags: shoot, rubber-bullets
+tags: shoot, rubber-bullets, protestor
 
 id: ca-sanjose-2
 
@@ -848,7 +972,7 @@ A protestor can be seen filming SJPD officers' badge numbers. One officer swats 
 
 The riot police retaliate against the entire protest, firing rubber bullets and tear gas.
 
-tags: shove, property-destruction, shoot, rubber-bullets, tear-gas
+tags: shove, property-destruction, shoot, rubber-bullets, tear-gas, protestor
 
 id: ca-sanjose-4
 
@@ -861,7 +985,7 @@ id: ca-sanjose-4
 
 A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the crowd. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
 
-tags: rubber-bullets, explosive, shoot, projectile
+tags: rubber-bullets, explosive, shoot, projectile, protestor
 
 id: ca-sanjose-5
 
@@ -876,7 +1000,7 @@ A man is seen running across a street, chased by several officers. An officer on
 
 Officers allege he was seen attempting to break into a bank after curfew.
 
-tags: vehicle, arrest
+tags: vehicle, arrest, protestor
 
 id: ca-sanjose-6
 
@@ -891,7 +1015,7 @@ Police give orders to disperse and subsequently to lay on the ground. Protestors
 
 Additional footage shows numerous officers corralling protestors into a small area before firing
 
-tags: shoot
+tags: shoot, protestor
 
 id: ca-sanjose-7
 
@@ -907,7 +1031,7 @@ id: ca-sanjose-7
 
 Protesters standing with their arms raised are chanting "This is what democracy looks like".  Law enforcement fire on the crowd and gas can be seen.
 
-tags: shoot, tear-gas
+tags: shoot, tear-gas, protestor
 
 id: ca-sanluisobispo-1
 
@@ -922,7 +1046,7 @@ id: ca-sanluisobispo-1
 
 The individual recording the video is trying his best to save his fellow protestor, however his cries are upon deaf ears, the police continue to shoot at them around 0:16
 
-tags: shoot, projectile
+tags: shoot, projectile, protestor
 
 id: ca-santaana-1
 
@@ -937,7 +1061,7 @@ id: ca-santaana-1
 
 Live on TV, police fire multiple pepper bullets at a second-story apartment window from the street below.
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, protestor
 
 id: ca-santamonica-1
 
@@ -954,7 +1078,7 @@ Zip ties were put on too tight. Police attempted to remove zip ties with a long 
 
 (See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
 
-tags: abuse-of-power, arrest, inhumane-treatment
+tags: abuse-of-power, arrest, inhumane-treatment, protestor, zip-ties
 
 id: ca-santamonica-2
 
@@ -977,6 +1101,8 @@ Police in northern California fatally shot an unarmed 22-year-old who was on his
 
 Six officers fired 55 bullets in 3.5 seconds; police investigation determined this use of force 'reasonable.'
 
+Vallejo PD has posted composite video containing body cam footage, radio chatter with Dispatch and prior footage of Walgreen's security cameras being destroyed. This footage shows a car with alleged looters peeling out of the Walgreens as police arrive; this car strikes an unmarked police vehicle and continues. Police open the doors of their unmarked van and fire on Monterrosa immediately and without warning. They state that they believed Monterrosa was armed, thought it turned out to be only a hammer.
+
 tags: shoot, real-bullets, death
 
 id: ca-vallejo-1
@@ -985,6 +1111,7 @@ id: ca-vallejo-1
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
 * https://www.theguardian.com/us-news/2019/jun/12/willie-mccoy-shooting-vallejo-police-55-shots
+* [Footage provided by Vallejo PD; CW: death](https://vimeo.com/436510158)
 
 
 ## Walnut Creek
@@ -993,7 +1120,7 @@ id: ca-vallejo-1
 
 In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas, coating the highway in dense, opaque clouds of blinding fog. Vehicles are seen waiting to continue on their way; it is unclear whether these vehicles attempted to navigate the clouds of tear gas. (Note: Jalopnik reports that this happened on June 2; however, protests consistent with the video were only reported on June 1, and other sources place the video on June 1.)
 
-tags: threaten, tear-gas, vehicle
+tags: threaten, tear-gas, vehicle, protestor
 
 id: ca-walnutcreek-1
 
@@ -1010,7 +1137,7 @@ id: ca-walnutcreek-1
 
 Police threw tear gas at protesters blocking a roadway in an effort to disperse them. One protester, Joseph Malott, allegedly threw a tear gas canister back at police. Police arrested him for (per Mercury News) “assaulting a police officer with a deadly weapon.” During the arrest, Malott was bitten and scratched repeatedly by a police dog, leaving bite marks and scratches all over his back and a wound on his leg which required 10 stitches. During the arrest, he says he was slammed against a fence then thrown to the ground, and recalls thinking “when are they going to take the dogs off me?”
 
-tags: arrest, tear-gas, tear-gas-canister, dog
+tags: arrest, tear-gas, tear-gas-canister, dog, protestor
 
 id: ca-walnutcreek-3
 
@@ -1025,7 +1152,7 @@ id: ca-walnutcreek-3
 
 A small number of peaceful protestors are scattered in the street. Someone shouts, "Get back," and protestors begin running. Shots can be heard and tear gas is fired into the crowd.
 
-tags: tear-gas
+tags: tear-gas, protestor
 
 id: ca-walnutcreek-2
 

@@ -4,7 +4,7 @@
 
 The old man was shoved and pushed by the police, which led him to hit the railing and collapse.
 
-tags: elderly, push, shove, shields
+tags: elderly, push, shove, shields, bystander
 
 id: ut-saltlakecity-1
 
@@ -17,7 +17,7 @@ id: ut-saltlakecity-1
 
 The man on the ground was shot with a beanbag, resulting in heavy damage.
 
-tags: shot, beanbags
+tags: shot, beanbags, protestor
 
 id: ut-saltlakecity-2
 
@@ -30,7 +30,7 @@ id: ut-saltlakecity-2
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
 
-tags: tear-gas, shoot, tear-gas-canister
+tags: tear-gas, shoot, tear-gas-canister, protestor
 
 id: ut-saltlakecity-4
 
@@ -44,11 +44,42 @@ id: ut-saltlakecity-4
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
-tags: push, tackle, arrest, beat, knee
+tags: push, tackle, arrest, beat, knee, protestor
 
 id: ut-saltlakecity-3
 
 **Links**
 
 * https://v.redd.it/fl4y919v1q251
+
+
+### Police beat protestors with shields and batons | July 9th
+
+In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protestors took to the streets.
+
+Footage from multiple angles shows police using shields and batons to strike peaceful protestors gathered in the street outside the DA's office.
+
+tags: protestor, beat, strike, shield, baton
+
+id: ut-saltlakecity-5
+
+**Links**
+
+* https://twitter.com/kylemoonsgirl/status/1281446209618493445
+* https://twitter.com/msternfield/status/1281584343882727424
+* https://twitter.com/Cinderty/status/1281437837175357440
+* https://twitter.com/JoshuaPotash/status/1281434273459900418
+
+
+### Police chase journalist | July 9th
+
+Footage from a protest for Bernardo Palacios-Carbajal shows police chasing down a journalist with a camera mounted on his head. The journalist flees and police give up the chase. The journalist is allegedly affiliated with Just Media Utah
+
+tags: journalist, abuse-of-power
+
+id: ut-saltlakecity-6
+
+**Links**
+
+* https://twitter.com/kylemoonsgirl/status/1281450911731052544
 

@@ -8,6 +8,7 @@ beanbags
 beat
 bike
 body-cam
+bystander
 celebrity
 child
 choke
@@ -30,6 +31,7 @@ journalist
 kick
 knee
 knee-on-neck
+legal-observer
 lgbtq+
 lrad
 mace
@@ -44,6 +46,7 @@ politician
 pregnant
 property-destruction
 projectiles
+protestor
 push
 punch
 racial-profiling
@@ -63,6 +66,7 @@ threaten
 throw
 vehicle
 wooden-bullets
+zip-ties
 ```
 
 ## Broken down by type
@@ -70,16 +74,19 @@ wooden-bullets
 ### Victim
 
 ```
+bystander
 celebrity
 child
 elderly
 homeless
 journalist
+legal-observer
 lgbtq+
 medic
 person-with-disability
 politician
 pregnant
+protestor
 racial-profiling
 ```
 
@@ -114,6 +121,7 @@ tear-gas
 tear-gas-canister
 vehicle
 wooden-bullets
+zip-ties
 ```
 
 ### Method
