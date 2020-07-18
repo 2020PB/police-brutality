@@ -133,7 +133,7 @@ id: mi-detroit-9
 
 A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protestors were dispersed using shields and batons. Protestors retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
-tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister  
+tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister
 
 id: mi-detroit-10
 
