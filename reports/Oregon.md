@@ -1460,7 +1460,7 @@ Footage shows a police officer grabbing a protestor by the collar and hurling hi
 
 tags: protestor, shove, throw, grab
 
-id: or-portland-97
+id: or-portland-89
 
 **Links**
 
