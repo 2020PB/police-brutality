@@ -1410,6 +1410,20 @@ id: ny-newyorkcity-54
 * https://twitter.com/protest_nyc/status/1282480090702655492
 
 
+### Police make violent arrests on Brooklyn Bridge | July 16th
+
+During a July 16th protest on the Brooklyn Bridge, police made a series of violent arrests, including shoving, tackling, striking and kneeling on protestors. In addition, the end of the first clip shows a protestor with a shoe tied around her mouth. The second clip shows several officers holding a protestor off the ground; one officer holds the protestor by her hair.
+
+tags: shove, tackle, strike, kneel, arrest, inhumane-treatment
+
+id: ny-newyorkcity-94
+
+**Links**
+
+* https://twitter.com/itsme__AG/status/1284188603292295168
+* https://mobile.twitter.com/awilli33/status/1283440443909459968
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
