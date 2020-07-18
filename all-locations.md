@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-18T19:05:55.987527+00:00
+UPDATED AT: 2020-07-18T19:12:55.924123+00:00
 
 
 # Alabama
@@ -941,6 +941,19 @@ id: ca-losangeles-31
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
 
 
+### Protestor shows wound inflicted by less-lethal round | June 3rd
+
+Footage from June 3rd shows a still of a wound on a protestor's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+tags: protestor, shoot, projectile
+
+id: ca-losangeles-41
+
+**Links**
+
+* https://www.instagram.com/p/CBBpSZPnyke/
+
+
 ### Police fire projectiles at protesters and discharge teargas | June 5th
 
 In Lakewood, police fire projectiles at protesters and discharge teargas.
@@ -954,6 +967,19 @@ id: ca-losangeles-20
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+### Medic treats rubber bullet wound | June 8th
+
+Footage from June 8th shows a medic treating a wound on the thigh of a female protestor. The bullet broke the skin and has caused major bruising in a circle around the point of contact. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+tags: protestor, shoot, rubber-bullet
+
+id: ca-losangeles-42
+
+**Links**
+
+* https://www.instagram.com/p/CBKohCXnJld/
 
 
 ### Police tear gas peaceful protest | June 21st
