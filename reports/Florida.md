@@ -121,6 +121,21 @@ id: fl-miami-3
 * https://twitter.com/nikoboxxx/status/1278473483257708544
 
 
+### Police roughly arrest protest organizer | July 16th
+
+Footage shows a small group of protestors on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protestor who attempts to intervene.
+
+tags: arrest, shove, protestor, abuse-of-power
+
+id: fl-miami-4
+
+**Links**
+
+* https://www.youtube.com/watch?v=-4h4uAIt52Q&feature=youtu.be
+* https://www.reddit.com/r/PublicFreakout/comments/hshrzh/blm_organizer_attacked_arrested_alongwith_friends/
+* https://twitter.com/attorneycrump/status/1283855142673055745
+
+
 ## Orlando
 
 ### Police tackle & pepper spray peaceful protestors | June 1st
