@@ -191,9 +191,9 @@ id: il-chicago-14
 * https://twitter.com/punishmegrant/status/1268966252707487745
 
 
-### Cop sucker punches activist | July 17th
+### Cop suddenly punches activist | July 17th
 
-Cop sucker punches an 18 year old Black woman activist at a protest in Grant Park. She reportedly suffered multiple injuries to her face and had her teeth knocked out.
+Cop punches an 18 year old Black woman activist at a protest in Grant Park. She reportedly suffered multiple injuries to her face and had her teeth knocked out.
 
 tags: punch, protester
 
@@ -201,7 +201,7 @@ id: il-chicago-15
 
 **Links**
 
-* [Cop can be seen sucker punching young woman at 0:06](https://twitter.com/GKMC18/status/1284347396311388161)
+* [Cop can be seen punching young woman at 0:06](https://twitter.com/GKMC18/status/1284347396311388161)
 * [Video taken by activist herself; she drops her phone at 4:25 when punched and the video ends](https://m.facebook.com/story.php?story_fbid=177411500432063&id=100044896430818)
 * [Image of the victim with injuries to her face and teeth](https://twitter.com/GKMC18/status/1284312594052939777)
 * https://blockclubchicago.org/2020/07/18/18-year-old-activist-had-teeth-knocked-out-by-police-at-columbus-statue-protest-alderman-state-senator-say/
