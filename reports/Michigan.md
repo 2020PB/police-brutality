@@ -129,6 +129,20 @@ id: mi-detroit-9
 * https://twitter.com/DJEazyTwist/status/1277430912653950976
 
 
+### Riot police officer chokes protestor. Tear gas was also used. | July 11th
+
+A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protestors were dispersed using shields and batons. Protestors retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
+
+tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister  
+
+id: mi-detroit-10
+
+**Links**
+
+* https://twitter.com/AttorneyCrump/status/1282107085812047873
+* https://www.instagram.com/p/CCfSTAnjv_k/
+
+
 ## Grand Rapids
 
 ### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
