@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-18T15:38:30.433483+00:00
+UPDATED AT: 2020-07-18T19:05:44.512613+00:00
 
 
 # Alabama
@@ -2042,6 +2042,21 @@ id: fl-miami-3
 * https://twitter.com/nikoboxxx/status/1278473483257708544
 
 
+### Police roughly arrest protest organizer | July 16th
+
+Footage shows a small group of protestors on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protestor who attempts to intervene.
+
+tags: arrest, shove, protestor, abuse-of-power
+
+id: fl-miami-4
+
+**Links**
+
+* https://www.youtube.com/watch?v=-4h4uAIt52Q&feature=youtu.be
+* https://www.reddit.com/r/PublicFreakout/comments/hshrzh/blm_organizer_attacked_arrested_alongwith_friends/
+* https://twitter.com/attorneycrump/status/1283855142673055745
+
+
 ## Orlando
 
 ### Police tackle & pepper spray peaceful protestors | June 1st
@@ -3530,7 +3545,7 @@ id: mi-detroit-9
 
 A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protestors were dispersed using shields and batons. Protestors retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
-tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister  
+tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister
 
 id: mi-detroit-10
 
