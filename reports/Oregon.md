@@ -1342,6 +1342,133 @@ id: or-portland-87
 * https://twitter.com/PDXRosieRiddle/status/1284020202145902593
 
 
+### Federal officers tear gas protestors outside Justice Center | July 17th
+
+Footage uploaded a few hours before midnight on July 17th shows widespread use of tear gas against protestors outside the Justice Center. A reporter on the scene alleges all tear gas was fired by federal officers.
+
+The tear gas is used to push protestors away from the Justice Center, past the park, and onto the street.
+
+tags: 
+
+id: or-portland-92
+
+**Links**
+
+* https://twitter.com/alex_zee/status/1284357333993152513
+
+
+### Police charge at and trample protestors | July 18th
+
+Early in the morning on July 18th, police give a dispersal order and walk protestors down the street. Protestors appear to be complying. Police then charge without warning and treat protestors violently. Police are seen shoving, dragging, throwing and striking protestors.
+
+tags: strike, shove, throw, push, protestor
+
+id: or-portland-88
+
+**Links**
+
+* https://twitter.com/alex_zee/status/1284357164396457984
+* https://twitter.com/alex_zee/status/1284357260374753280
+* https://twitter.com/alex_zee/status/1284415698123386882
+* https://twitter.com/PDocumentarians/status/1284359848763645952
+
+
+### Police repeatedly shove protestor | July 18th
+
+Footage from early on July 18th shows police repeatedly shoving a protestor on the sidewalk. Police appear to be walking the protestors backwards and while the protestor was not walking quickly, he was obeying the police order.
+
+tags: shove, protestor
+
+id: or-portland-90
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1284430958142210147
+
+
+### Federal agents fire tear gas and impact munitions at crowd | July 18th
+
+Footage uploaded around 2 AM on July 18th shows federal agents firing tear gas and impact munitions at scattered protestors.
+
+Additional footage shows flashbangs used at that time. In addition, a reporter claims a flashbang exploded on his foot.
+
+tags: shoot, projectile, tear-gas, protestor, flashbangs, journalist
+
+id: or-portland-91
+
+**Links**
+
+* https://twitter.com/alex_zee/status/1284411261719994368
+* https://twitter.com/alex_zee/status/1284411261719994368
+* https://twitter.com/GriffinMalone6/status/1284412587367559168
+* https://twitter.com/GriffinMalone6/status/1284409361800945665
+
+
+### Police chase, shove and punch protestors | July 18th
+
+Footage shows police chasing protestors while a dispersal order is being given. At various points during the footage, police can be seen striking, punching and shoving protestors.
+
+tags: shove, strike, punch, push, protestor
+
+id: or-portland-93
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1284430729477099520
+
+
+### Police gas and shoot protestors early in the morning | July 18th
+
+Footage uploaded around 4 AM PST shows a small cluster of protestors, approximately 50, fleeing down the street from gas launched by federal agents. It appears to be tear gas, by the continual coughing of protestors, but smoke grenades were also deployed at other times in the night. Towards the end of the footage, riot guns can be heard firing.
+
+tags: shoot, gas, projectile, protestor
+
+id: or-portland-94
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1284445097329717248
+
+
+### Police shove protestors obeying directions | July 18th
+
+Footage shows a police line marching protestors down the street. All protestors appear to be following police direction. However, some protestors move slower and are shoved by police. Police also brandish their batons while threatening protestors to move faster. Batons are used to shove protestors to the ground on multiple occasions. Towards the end of the footage, one protestor is thrown to the ground and struck with a baton.
+
+tags: strike, shove, push, baton, threaten, protestor
+
+id: or-portland-95
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1284420156760834050
+
+
+### Police and federal agents fire impact munitions at crowd | July 18th
+
+Footage shows police and federal agents working together to push protestors down the street. Continual riot gun fire is heard throughout the footag at a peaceful crowd wherein most protestors have their hands raised. The reporter who took the footage does state that the majority of fire followed procedure (i.e. at the feet), but police were still firing on a peaceful, obeying crowd.
+
+tags: shoot, protestor, pepper-ball, rubber-bullet
+
+id: or-portland-96
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1284462376624877568
+
+
+### Police officer hurls protestor to the ground | July 18th
+
+Footage shows a police officer grabbing a protestor by the collar and hurling him to the ground.
+
+tags: protestor, shove, throw, grab
+
+id: or-portland-89
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1284414146373578752
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
