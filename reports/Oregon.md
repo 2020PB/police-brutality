@@ -1348,7 +1348,7 @@ Footage uploaded a few hours before midnight on July 17th shows widespread use o
 
 The tear gas is used to push protestors away from the Justice Center, past the park, and onto the street.
 
-tags:
+tags: 
 
 id: or-portland-92
 
