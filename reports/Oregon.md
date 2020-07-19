@@ -1504,9 +1504,9 @@ id: or-portland-97
 
 ### Federal officers fire on Moms Against Police Brutality | July 18th
 
-A group of women calling themselves Moms Against Police Brutality locked arms in the street. Federal officers shove the women and throw a flashbang which explodes at their feet.
+A group of women calling themselves Moms Against Police Brutality locked arms in the street. Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
 
-tags: protestor, shove, flashbang
+tags: protestor, shove, flashbang, pregnant
 
 id: or-portland-98
 
@@ -1514,6 +1514,8 @@ id: or-portland-98
 
 * https://twitter.com/lamestreamtv/status/1284759765156073474
 * https://twitter.com/LindseyPSmith7/status/1284725756539490304
+* https://twitter.com/RawStory/status/1284946948227829764
+* https://twitter.com/JoshuaPotash/status/1284759405783912452
 
 
 ### Journalist shows wound from impact munition | July 18th
