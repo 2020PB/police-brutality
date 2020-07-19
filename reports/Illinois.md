@@ -220,6 +220,7 @@ id: il-chicago-16
 * https://twitter.com/poonfarm/status/1284289077530054656
 * https://twitter.com/DominicGwinn/status/1284291163940429831
 * https://twitter.com/poonfarm/status/1284295285993283584
+* https://twitter.com/poonfarm/status/1284550521785913350
 
 
 ### Police strike protestor with baton while attempting to seize bike | July 17th
