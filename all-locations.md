@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-20T18:33:18.115250+00:00
+UPDATED AT: 2020-07-20T19:28:35.421944+00:00
 
 
 # Alabama
@@ -10046,6 +10046,7 @@ id: va-richmond-8
 * [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
+* [Additional shot of individual struck in head](https://twitter.com/nilsrva/status/1275500062903320582)
 
 
 ### Man struck in face by explosive round | June 26th
