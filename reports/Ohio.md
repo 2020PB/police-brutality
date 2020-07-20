@@ -208,13 +208,29 @@ id: oh-cleveland-3
 
 Images of a protester who was shot with a rubber bullet in the head.
 
-tags: rubber-bullets, protestor
+tags: rubber-bullets, protestor, shoot
 
 id: oh-cleveland-4
 
 **Links**
 
 * https://twitter.com/LUVRGRLLANI/status/1266866301001179136
+
+
+### Protestor shot in the eye with pellet round | May 30th
+
+Footage shows a protestor show in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protestor's eye. Another image from the protestor shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
+
+tags: shoot, protestor, bean-bag
+
+id: oh-cleveland-5
+
+**Links**
+
+* https://www.youtube.com/watch?v=BYOKsLpsP4Y
+* https://twitter.com/OGJohnTee/status/1283816646864523264
+* https://twitter.com/OGJohnTee/status/1283816652199669765
+* https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
 ## Columbus
