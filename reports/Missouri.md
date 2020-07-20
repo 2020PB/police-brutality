@@ -43,9 +43,9 @@ id: mo-kansascity-1
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
 
+Footage shows a protestor speaking to other protestors on a megaphone. Police grab him and drag him to arrest. Other protestors come to his aid and are pepper-sprayed.
 
-
-tags: arrest, tear-gas, protestor
+tags: arrest, pepper-spray, spray, protestor
 
 id: mo-kansascity-2
 
@@ -53,6 +53,20 @@ id: mo-kansascity-2
 
 * https://twitter.com/Elise_Villa/status/1267310319526989824
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
+
+
+### Police arrest peaceful protestor, pepper-spray others | May 31st
+
+With tactics remarkably similar to mo-kansascity-2, police grab a protestor standing alone in the street. Other protestors come to aid him and are summarily pepper-sprayed. He is taken behind the police line and arrested.
+
+tags: arrest, pepper-spray, spray, protestor
+
+id: mo-kansascity-8
+
+**Links**
+
+* https://www.tiktok.com/@keraclark2/video/6833017428105055494
+* https://twitter.com/lovlitae/status/1268676585269473280
 
 
 ### Police arrest man for speaking and tear-gas nearby protestors | June 1st
