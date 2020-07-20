@@ -364,3 +364,18 @@ id: co-denver-21
 * https://twitter.com/dulapalooza/status/1278684548100849664
 * https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
 
+
+### Police pepper spray BLM counter-protestors at pro-police rally | July 19th
+
+Article discusses use of pepper spray at pro-police rally where Black Lives Matter groups counter-protested. “We had two pepper ball deployments and one hand-held fog device deployment, and we made one arrest for assault,” Denver police spokesman Tyrone Campbell said. The hand-held fog device is believed to refer to pepper spray. The spokesman goes on to say that "It seems as if [riot control devices] were used in an appropriate fashion." Some additional footage shows police pepper-spraying a retreating crowd. Riot guns can also be heard firing.
+
+tags: protestor, pepper-spray, spray, shoot, projectile
+
+id: co-denver-24
+
+**Links**
+
+* https://www.denverpost.com/2020/07/19/pro-police-rally-denver-cific-center-counter-protest/
+* https://twitter.com/ShellyBradbury/status/1284980898958540803
+* https://twitter.com/mattsebastian/status/1285049239937024000
+
