@@ -198,6 +198,7 @@ id: va-richmond-8
 * [screams from protestors](https://twitter.com/NotLevar/status/1275368801928990720)
 * [Man being shot with gas canister](https://twitter.com/NotLevar/status/1275391505717485568)
 * [Retreating woman tackled](https://twitter.com/NotLevar/status/1275395130460188673)
+* [Additional shot of individual struck in head](https://twitter.com/nilsrva/status/1275500062903320582)
 
 
 ### Man struck in face by explosive round | June 26th
