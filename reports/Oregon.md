@@ -1357,6 +1357,22 @@ id: or-portland-92
 * https://twitter.com/alex_zee/status/1284357333993152513
 
 
+### Police and federal officers arrest protestor writing in chalk | (Believed to be) July 17th
+
+Footage shows approximately a dozen police and federal officers emerging from a building and approaching a protestor writing in chalk. The protestor stands to flee and is tackled to the ground by the officers. The individual is then arrested. The protestor had a dog, whose leash is held by a federal officer.
+
+tags: arrest, protestor, abuse-of-power, tackle
+
+id: or-portland-107
+
+**Links**
+
+* https://twitter.com/JuniperLSimonis/status/1284575697168560129
+* https://twitter.com/JuniperLSimonis/status/1284574919934660608
+* https://twitter.com/JuniperLSimonis/status/1284573413625851904
+* https://www.reddit.com/r/PublicFreakout/comments/htqo1j/13_cops_vs_1_graffiti_guy/
+
+
 ### Police charge at and trample protestors | July 18th
 
 Early in the morning on July 18th, police give a dispersal order and walk protestors down the street. Protestors appear to be complying. Police then charge without warning and treat protestors violently. Police are seen shoving, dragging, throwing and striking protestors.
@@ -1467,6 +1483,167 @@ id: or-portland-89
 **Links**
 
 * https://twitter.com/Johnnthelefty/status/1284414146373578752
+
+
+### Protest struck repeatedly and pepper-sprayed | July 18th
+
+A protestor standing still is struck repeatedly by an officer with a baton. Another officer then pepper sprays him. The man then gives the officers the finger and walks away.
+
+The protestor later tweeted that a surgeon has splinted it, but he will require an operation on Friday (presumed to be July 24th).
+
+tags: protestor, baton, strike, beat, pepper-spray, spray
+
+id: or-portland-97
+
+**Links**
+
+* https://twitter.com/thechadallan/status/1284749219857760256
+* https://twitter.com/greg_doucette/status/1284735073057746944
+* https://twitter.com/Tazerface16/status/1284849286237151232
+
+
+### Federal officers fire on Moms Against Police Brutality | July 18th
+
+A group of women calling themselves Moms Against Police Brutality locked arms in the street. Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
+
+tags: protestor, shove, flashbang, pregnant
+
+id: or-portland-98
+
+**Links**
+
+* https://twitter.com/lamestreamtv/status/1284759765156073474
+* https://twitter.com/LindseyPSmith7/status/1284725756539490304
+* https://twitter.com/RawStory/status/1284946948227829764
+* https://twitter.com/JoshuaPotash/status/1284759405783912452
+
+
+### Journalist shows wound from impact munition | July 18th
+
+A journalist shows a bloody wound on her leg from a undetermined impact munition. She states she is wearing a bress badge and yellow vest.
+
+tags: journalist, shoot, projectiole
+
+id: or-portland-99
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1284410083661582337
+
+
+### Police charge and tear gas protestors | July 18th
+
+Footage shows the end of a dispersal as police chase fleeing protestors. They hurl several tear gas canisters. One protestor is helped to their feet by others; an officer runs up to the group and shoves them.
+
+tags: shove, push, tear-gas, tear-gas-canister, protestor
+
+id: or-portland-100
+
+**Links**
+
+* https://twitter.com/tuckwoodstock/status/1284730852404899840
+
+
+### Police charge protestors | July 18th
+
+Footage shows police rushing at protestors. Several protestors are tackled and shoved to the ground. The reporter filming states that at least one bike was confiscated.
+
+tags: protestor, shove, push, tackle, property-destruction
+
+id: or-portland-101
+
+**Links**
+
+* https://twitter.com/tuckwoodstock/status/1284734198926852097
+
+
+### Police drop gas out window | July 18th
+
+Footage from outside the Justice Center shows police or federal agents dropping a gas canister out a window of the barricaded Justice Center. It is unclear if the gas is smoke or CS. Protestors were some distance from the entrance and no officers were outside the Justice Center.
+
+tags: gas, protestor
+
+id: or-portland-102
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1284382114067017728
+
+
+### Police shoot and gas protestors | July 18th
+
+Footage from 3rd and Main in Portland shows police dispersing tear gas. In addition, riot rounds can be heard fired. In the second clip, an officer indiscriminately pepper sprays the area, though no protestors are within range.
+
+tags: tear-gas, shoot, projectile, pepper-spray, spray, protestor
+
+id: or-portland-103
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1284356286469955584
+* https://twitter.com/defendpdx/status/1284357202866663425
+
+
+### Federal officers tear gas protestors outside Justice Center | July 18th
+
+Footage taken outside the Justice Center shows federal agents shoving protestors and firing off tear gas. In the second clip, a protestor with a leaf blower helps get tear gas off protestors; flashbangs can be heard during this footage.
+
+tags: tear-gas, shove, protestor, flashbangs
+
+id: or-portland-104
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1284726076124524544
+* https://twitter.com/LindseyPSmith7/status/1284726641193652225
+* https://twitter.com/LindseyPSmith7/status/1284727105121443840
+
+
+### Federal officers tear gas protestors outside Justice Center a second time | July 18th
+
+Footage shows federal officers outside the Justice Center firing tear gas at protestors. Munitions recovered during the incident also show police fired smoke grenades.
+
+Police also used flashbangs.
+
+tags: tear-gas, protestor, flashbangs
+
+id: or-portland-105
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1284729433329332226
+* https://twitter.com/LindseyPSmith7/status/1284733851344834560
+* https://twitter.com/ImJeniferAntifa/status/1284730575807320064
+* [Smoke canister](https://twitter.com/LindseyPSmith7/status/1284730741377519618)
+* [Additional munitions](https://twitter.com/LindseyPSmith7/status/1284737866447253505)
+
+
+### Police shove legal observer | July 18th
+
+Footage shows protestors retreating at direction of a police line. One legal observer is shoved to the ground on camera. A protestor is seen lying in the street. A medic approaches to aid the protestor, but it is unclear what caused the protestor's injury.
+
+tags: legal-observer, protestor, shove
+
+id: or-portland-106
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1284888506486095872
+
+
+### Police arrest snack van driver; threaten car behind | July 19th
+
+Early in the morning on July 19th, police arrest the driver of the Snack Van, a protestor vehicle that distributes food to other protestors. Police apparently arrested the driver without letting him put the van in park, as the vehicle rolls forward into a dumpster.
+
+An officer approaches a car behind the Snack Van and appears to say, "You're next. If I see you again, I'm blowing out your tires."
+
+tags: arrest, protestor, threaten, abuse-of-power
+
+id: or-portland-108
+
+**Links**
+
+* https://twitter.com/ekkabeen/status/1284454435473637377
 
 
 ## Salem
