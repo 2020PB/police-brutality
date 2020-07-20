@@ -1348,7 +1348,7 @@ Footage uploaded a few hours before midnight on July 17th shows widespread use o
 
 The tear gas is used to push protestors away from the Justice Center, past the park, and onto the street.
 
-tags: 
+tags:
 
 id: or-portland-92
 
@@ -1735,6 +1735,19 @@ id: or-portland-113
 **Links**
 
 * https://twitter.com/PDXAndy_/status/1285111515897421825
+
+
+### Federal officers fire tear gas and pepper balls at protestors | July 20th
+
+Protestors with hands up are seen opposite the Justice Center around 1 AM PST. Clouds of tear gas are seen on the street. Additional munitions can be heard throughout the footage.
+
+tags: protestor, shoot, tear-gas, pepper-ball
+
+id: or-portland-116
+
+**Links**
+
+* https://twitter.com/SmileItsNathan/status/1285120572779663362
 
 
 ### Federal officers fire tear gas and impact munitions at protestors; shoot journalist | July 20th
