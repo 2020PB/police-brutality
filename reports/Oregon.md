@@ -1794,9 +1794,9 @@ id: or-portland-115
 
 ## Salem
 
-### Before firing tear gas, Salem PD warns Proud Boys | June 4th
+### Before firing tear gas, Salem PD warns white armed men | June 4th
 
-A police officer is seen warning members of the "Proud Boys," an SPLC-designated hate group, and other white supremacists that they are planning to fire tear gas, and that these members should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
+A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
 tags: tear-gas, inhumane-treatment
 
