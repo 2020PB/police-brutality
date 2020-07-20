@@ -115,6 +115,7 @@ id: nc-raleigh-2
 
 * https://www.newsobserver.com/news/local/article243114301.html
 * https://twitter.com/vizjourno/status/1266954106998009857
+* https://twitter.com/vizjourno/status/1267494648680976395
 
 
 ### Police use tear gas to clear road | May 31st
