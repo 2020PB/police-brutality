@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-20T18:03:45.681246+00:00
+UPDATED AT: 2020-07-20T18:03:51.442757+00:00
 
 
 # Alabama
@@ -1016,7 +1016,7 @@ id: ca-losangeles-22
 
 ### Police make violent arrests, including ripping a protestor out of his wheelchair and inducing an asthma attack | July 15th
 
-Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him.
+Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him. Body cam footage released by the LAPD shows the man in the wheelchair striking an officer in the face during a physical altercation between the protestor and the officer. Notably, the LAPD footage fails to show the lead up to the protestor in the wheelchair slapping the officer.
 
 Footage from instagram (second link, fourth in list) shows a man suffering an asthma attack after allegedly being struck in the neck with a baton. The last video in the instagram post appears to show the man on a gurney receiving medical attention. Other videos in the post show police shoving protestors with their hands and with batons. The poster also alleges that police held a woman in a chokehold.
 
@@ -1029,6 +1029,8 @@ id: ca-losangeles-40
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hrwunn/cops_assaulting_blm_protesters_including_a_man_in
 * https://www.instagram.com/p/CCsYvr7n-Rg/
 * https://www.latimes.com/california/story/2020-07-16/police-said-they-assaulted-an-officer-but-protesters-have-a-different-account
+* https://www.nbcbayarea.com/news/national-international/lapd-releases-video-from-confrontation-with-protesters-in-downtown-la/2328794/?_osource=SocialFlowTwt_BAYBrand
+* https://twitter.com/LAPDHQ/status/1284891644454596608
 
 
 ## Norco
