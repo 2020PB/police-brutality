@@ -52,6 +52,21 @@ id: or-eugene-1
 * [Direct link to video](https://streamable.com/9h2tk3)
 
 
+## Everett
+
+### Protestor arrested after dangling doughnut in front of officers | July 17th
+
+Footage shows a protestor dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protestor. The protestor tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protestor, stating, "It's time for you to go," evidently arresting the protestor. Another officer states that the protestor "assaulted a lieutenant." This same officer threatens other protestors to back off or they will go to jail. His badge number is covered by a piece of tape. Protestors then follow police to the entrance of a building where the original protestor is being cuffed. Protestors and counter-protestors then argue with one another.
+
+tags: arrest, abuse-of-power, shove, protestor, threaten, hide-badges
+
+id: or-everett-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1284628789134229504
+* https://www.youtube.com/watch?v=iLHv642byAc
+
 ## Portland
 
 ### Police violently break up peaceful protest | May 30th
