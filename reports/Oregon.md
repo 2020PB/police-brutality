@@ -67,6 +67,7 @@ id: or-everett-1
 * https://twitter.com/greg_doucette/status/1284628789134229504
 * https://www.youtube.com/watch?v=iLHv642byAc
 
+
 ## Portland
 
 ### Police violently break up peaceful protest | May 30th
