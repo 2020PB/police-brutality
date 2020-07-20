@@ -377,4 +377,5 @@ id: co-denver-24
 
 * https://www.denverpost.com/2020/07/19/pro-police-rally-denver-cific-center-counter-protest/
 * https://twitter.com/ShellyBradbury/status/1284980898958540803
+* https://twitter.com/mattsebastian/status/1285049239937024000
 
