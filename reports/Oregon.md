@@ -1348,7 +1348,7 @@ Footage uploaded a few hours before midnight on July 17th shows widespread use o
 
 The tear gas is used to push protestors away from the Justice Center, past the park, and onto the street.
 
-tags:
+tags: 
 
 id: or-portland-92
 
@@ -1665,7 +1665,6 @@ A journalist shows a wound he received from an impact munition while filming emb
 
 He states he received medical care, but had trouble breathing and left the protest for the night.
 
-
 tags: journalist, shoot, projectile
 
 id: or-portland-110
@@ -1685,7 +1684,6 @@ Footage from the evening of July 19th shows the initial push by federal officers
 tags: protest, journalist, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang
 
 id: or-portland-111
-
 
 **Links**
 
@@ -1724,7 +1722,6 @@ id: or-portland-112
 * https://twitter.com/LindseyPSmith7/status/1285113340168044544
 * https://twitter.com/LindseyPSmith7/status/1285113574516355072
 * https://twitter.com/LindseyPSmith7/status/1285115720179671041
-
 
 
 ## Salem
