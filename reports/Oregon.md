@@ -1665,7 +1665,6 @@ A journalist shows a wound he received from an impact munition while filming emb
 
 He states he received medical care, but had trouble breathing and left the protest for the night.
 
-
 tags: journalist, shoot, projectile
 
 id: or-portland-110
@@ -1685,7 +1684,6 @@ Footage from the evening of July 19th shows the initial push by federal officers
 tags: protestor, journalist, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang
 
 id: or-portland-111
-
 
 **Links**
 
