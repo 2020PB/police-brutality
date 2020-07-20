@@ -1682,7 +1682,7 @@ id: or-portland-110
 
 Footage from the evening of July 19th shows the initial push by federal officers to move protestors away from the Justice Center. In a 20 minute engagement beginning just before midnight, officers fired considerable tear gas, impact munitions (including pepper balls and rubber bullets) and flashbangs at protestors, pushing them into the park and down the street. Victims include protestors, Moms Against Police Brutality and journalists. One Mom Against Police Brutality tear-gassed the previous day was pregnant; it is unknown if she was present at this incident.
 
-tags: protest, journalist, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang
+tags: protestor, journalist, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang
 
 id: or-portland-111
 
@@ -1712,7 +1712,7 @@ In the second part of a push by Federal agents, after a lull ending or-portland-
 
 Tear gas engulfed the Riot Ribs mutual aid tents which provided food, water, medical aid and other supplies to protestors and homeless folks in the area.
 
-tags: protest, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang, property-destruction, medic
+tags: protestor, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang, property-destruction, medic
 
 id: or-portland-112
 
@@ -1724,6 +1724,45 @@ id: or-portland-112
 * https://twitter.com/LindseyPSmith7/status/1285113340168044544
 * https://twitter.com/LindseyPSmith7/status/1285113574516355072
 * https://twitter.com/LindseyPSmith7/status/1285115720179671041
+
+
+### Federal officer fire tear gas during retreat, filmer shot in hand | July 20th
+
+After the push in or-portland-112, federal officers began to retreat from the crowd, firing tear gas and other impact munitions. Footage shows an explosive projectile striking the filmer in the hand before the footage ends.
+
+tags: protestor, shoot, projectile, tear-gas, explosive
+
+id: or-portland-113
+
+**Links**
+
+* https://twitter.com/PDXAndy_/status/1285111515897421825
+
+
+### Federal officers fire tear gas and impact munitions at protestors; shoot journalist | July 20th
+
+Footage from a journalist shows officers firing tear gas and impact munitions down the street at protestors. At 7:05, the journalist is shot in the stomach with an impact munition. He is standing well away from protestors and states he has written "press" clearly on his helmet.
+
+tags: protestor, journalist, shoot, projectile, tear-gas
+
+id: or-portland-114
+
+**Links**
+
+* [7:05](https://twitter.com/i/broadcasts/1MnxndjVOQXGO)
+
+
+### Indiscriminate tear gas after protestors light small fire | July 20th
+
+After protestors allegedly lit a small fire, federal officers fired tear gas indiscriminately into the park, though according to the poster, most protestors were not in the park. Footage shows substantial clouds of tear gas with no protestors nearby.
+
+tags: protestor, tear-gas
+
+id: or-portland-115
+
+**Links**
+
+* https://twitter.com/Clypian/status/1285134827990036480
 
 
 
