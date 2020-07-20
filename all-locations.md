@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-20T18:03:51.442757+00:00
+UPDATED AT: 2020-07-20T18:03:59.940487+00:00
 
 
 # Alabama
@@ -2699,6 +2699,32 @@ id: il-chicago-19
 **Links**
 
 * https://twitter.com/MarParNews/status/1284306440971325440
+
+
+### Police indiscriminately pepper spray protestors | (Believed to be) July 17th
+
+Footage uploaded on July 19th shows an officer standing some distance from protestors. He discharges pepper spray in the general direction of the protestors.
+
+tags: pepper-spray, spray, protestor
+
+id: il-chicago-20
+
+**Links**
+
+* https://twitter.com/frantheman10/status/1284911153785778177
+
+
+### Police vehicle drives on sidewalk, collides with protestors | July 18th
+
+Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protestor then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
+
+tags: vehicle, strike, protestor, property-destruction
+
+id: il-chicago-21
+
+**Links**
+
+* https://twitter.com/jamaicaponders/status/1284680046473621505
 
 
 ## Joliet
