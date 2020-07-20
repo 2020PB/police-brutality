@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-20T18:04:13.362074+00:00
+UPDATED AT: 2020-07-20T18:04:27.785667+00:00
 
 
 # Alabama
@@ -9460,6 +9460,22 @@ id: tx-austin-12
 **Links**
 
 * https://twitter.com/AltUniverseWash/status/1277104706222002177
+
+
+### Livestreamer arrested and punched | July 17th
+
+Footage shows police approaching a crowd of protestors, singling out livestreamer Hiram Gilberto and arresting him. When the crowd objects, other officers shove the protestors.
+
+Additional footage shows Gilberto tackled to the ground, zip-tied and punched.
+
+tags: journalist, punch, zip-tie, tackle, arrest
+
+id: tx-austin-15
+
+**Links**
+
+* https://streamable.com/srj5s7
+* https://twitter.com/greg_doucette/status/1284497853843415047
 
 
 ## Baytown
