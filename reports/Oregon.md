@@ -1662,6 +1662,136 @@ id: or-portland-108
 * https://twitter.com/ekkabeen/status/1284454435473637377
 
 
+### Federal agents shoot at protestors behind fence | July 19th
+
+Footage shows protestors and federal agents separated by a chain-link fence. Protestors are shouting at officers. Riot guns can be heard firing at protestors.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-109
+
+**Links**
+
+* https://twitter.com/DonovanFarley/status/1285098045235838976
+
+
+### Journalist displays wound received | July 19th
+
+A journalist shows a wound he received from an impact munition while filming embedded in the crowd. He states he was holding his press badge up.
+
+He states he received medical care, but had trouble breathing and left the protest for the night.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-110
+
+**Links**
+
+* https://twitter.com/DonovanFarley/status/1285106726740480002
+* https://twitter.com/DonovanFarley/status/1285107209085480960
+* https://twitter.com/DonovanFarley/status/1285109811298791424
+* https://twitter.com/DonovanFarley/status/1285116792583544833
+
+
+### Federal agents fire tear gas, impact munitions and flashbangs at protestors | July 19th
+
+Footage from the evening of July 19th shows the initial push by federal officers to move protestors away from the Justice Center. In a 20 minute engagement beginning just before midnight, officers fired considerable tear gas, impact munitions (including pepper balls and rubber bullets) and flashbangs at protestors, pushing them into the park and down the street. Victims include protestors, Moms Against Police Brutality and journalists. One Mom Against Police Brutality tear-gassed the previous day was pregnant; it is unknown if she was present at this incident.
+
+tags: protestor, journalist, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang
+
+id: or-portland-111
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285107328312766465
+* https://twitter.com/hungrybowtie/status/1285107667917107201
+* https://twitter.com/hungrybowtie/status/1285108298719477761
+* https://twitter.com/hungrybowtie/status/1285113213210615809
+* https://twitter.com/hungrybowtie/status/1285112380532289538
+* https://twitter.com/hungrybowtie/status/1285110834394324992
+* https://twitter.com/sunnymok/status/1285107616096501761
+* https://twitter.com/EricWasserman1/status/1285107536069189632
+* https://twitter.com/RPeavyhouse/status/1285109223857123333
+* https://twitter.com/ASeattleStoner/status/1285109636803162113
+* https://twitter.com/suzettesmith/status/1285105347150020609
+* https://twitter.com/suzettesmith/status/1285105690030178304
+* https://twitter.com/GriffinMalone6/status/1285106154066939905
+* https://twitter.com/GriffinMalone6/status/1285105087455481856
+* https://www.youtube.com/watch?v=9YFc2rc60DU
+
+
+### Federal agents continue to push protestors | July 20th
+
+In the second part of a push by Federal agents, after a lull ending or-portland-111, officers resumed pushing protestors down the street. They continued to deploy tear gas, pepper balls, rubber bullets and flashbangs in an effort to move the protest down the street.
+
+Tear gas engulfed the Riot Ribs mutual aid tents which provided food, water, medical aid and other supplies to protestors and homeless folks in the area.
+
+tags: protestor, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang, property-destruction, medic
+
+id: or-portland-112
+
+**Links**
+
+* https://twitter.com/Clypian/status/1285110508153012224
+* https://twitter.com/MrOlmos/status/1285111874694987776
+* https://twitter.com/MrOlmos/status/1285112502150246401
+* https://twitter.com/LindseyPSmith7/status/1285113340168044544
+* https://twitter.com/LindseyPSmith7/status/1285113574516355072
+* https://twitter.com/LindseyPSmith7/status/1285115720179671041
+
+
+### Federal officer fire tear gas during retreat, filmer shot in hand | July 20th
+
+After the push in or-portland-112, federal officers began to retreat from the crowd, firing tear gas and other impact munitions. Footage shows an explosive projectile striking the filmer in the hand before the footage ends.
+
+tags: protestor, shoot, projectile, tear-gas, explosive
+
+id: or-portland-113
+
+**Links**
+
+* https://twitter.com/PDXAndy_/status/1285111515897421825
+
+
+### Federal officers fire tear gas and pepper balls at protestors | July 20th
+
+Protestors with hands up are seen opposite the Justice Center around 1 AM PST. Clouds of tear gas are seen on the street. Additional munitions can be heard throughout the footage.
+
+tags: protestor, shoot, tear-gas, pepper-ball
+
+id: or-portland-116
+
+**Links**
+
+* https://twitter.com/SmileItsNathan/status/1285120572779663362
+
+
+### Federal officers fire tear gas and impact munitions at protestors; shoot journalist | July 20th
+
+Footage from a journalist shows officers firing tear gas and impact munitions down the street at protestors. At 7:05, the journalist is shot in the stomach with an impact munition. He is standing well away from protestors and states he has written "press" clearly on his helmet.
+
+tags: protestor, journalist, shoot, projectile, tear-gas
+
+id: or-portland-114
+
+**Links**
+
+* [7:05](https://twitter.com/i/broadcasts/1MnxndjVOQXGO)
+
+
+### Indiscriminate tear gas after protestors light small fire | July 20th
+
+After protestors allegedly lit a small fire, federal officers fired tear gas indiscriminately into the park, though according to the poster, most protestors were not in the park. Footage shows substantial clouds of tear gas with no protestors nearby.
+
+tags: protestor, tear-gas
+
+id: or-portland-115
+
+**Links**
+
+* https://twitter.com/Clypian/status/1285134827990036480
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
