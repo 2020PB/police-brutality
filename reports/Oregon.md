@@ -1364,7 +1364,7 @@ Footage uploaded a few hours before midnight on July 17th shows widespread use o
 
 The tear gas is used to push protestors away from the Justice Center, past the park, and onto the street.
 
-tags: 
+tags:
 
 id: or-portland-92
 
@@ -1790,6 +1790,121 @@ id: or-portland-115
 **Links**
 
 * https://twitter.com/Clypian/status/1285134827990036480
+
+
+### Journalist shot in leg | July 20th
+
+First-person footage shows a journalist groaning in pain after he is shot. Later footage shows a medic treating his leg. And a final image from another journalists confirms he is okay.
+
+
+tags: journalist, shoot, projectile
+
+id: or-portland-117
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1285405004883468294
+* https://twitter.com/SmileItsNathan/status/1285106514374594560
+* https://twitter.com/SmileItsNathan/status/1285107709537329159
+
+
+### Federal officers retaliate to protestors with tear gas, flashbangs and impact munitions | July 21st
+
+After a small group of protestors damaged the plywood barricade on the Justice Center doors around 12:30 AM PST, federal agents emerged from the Justice Center and deployed a variety of riot control munitions against all protestors for a period lasting about half an hour. These munitions include tear gas, flashbangs and unknown less-lethal projectiles.
+
+Prior to emerging, officers dropped a tear gas canister out of a window in the barricade, seen [here](https://twitter.com/ByMikeBaker/status/1285465270685859841).
+
+One reporter [states](https://twitter.com/ByMikeBaker/status/1285465270685859841) he was shoved by an officer, but does not have any supporting footage.
+
+[This footage](https://twitter.com/MrOlmos/status/1285480573981491203) from reporter Sergio Olmos shows officers grabbing protestors who are passively resisting and brandishing batons at others. This footage also shows a protestor using a leafblower to redirect tear gas.
+
+[This footage](https://twitter.com/defendpdx/status/1285481849372831749) shows officers throwing explosives at a protestor attempting to collect garbage from the street.
+
+It appears that protestors did damage part of the plywood barricade around the Justice Center doors, seen [here](https://twitter.com/ByMikeBaker/status/1285482389628583936).
+
+tags: tear-gas, shoot, projectile, flashbangs, shove, grab, protestor
+
+id: or-portland-118
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1285465270685859841
+* https://twitter.com/ByMikeBaker/status/1285477503117561858
+* https://twitter.com/ByMikeBaker/status/1285478671248023554
+* https://twitter.com/ByMikeBaker/status/1285482389628583936
+* https://twitter.com/defendpdx/status/1285481849372831749
+* https://twitter.com/defendpdx/status/1285486308123525126
+* https://twitter.com/MrOlmos/status/1285479219691089920
+* https://twitter.com/MrOlmos/status/1285480573981491203
+* https://twitter.com/MrOlmos/status/1285480986340241408
+* https://twitter.com/MrOlmos/status/1285481220789305344
+* https://twitter.com/MrOlmos/status/1285481904444026880
+* https://twitter.com/MrOlmos/status/1285503837046882304
+* https://twitter.com/hungrybowtie/status/1285489228567068673
+* https://twitter.com/hungrybowtie/status/1285491268651376640
+* https://twitter.com/hungrybowtie/status/1285491599842000897
+* https://twitter.com/hungrybowtie/status/1285491952218075139
+* https://twitter.com/hungrybowtie/status/1285493876032106498
+
+
+### Indiscriminate shooting of less-lethal projectiles | July 21st
+
+Footage shows a federal officer firing a riot gun with a paintball frame - like a pepper ball round - at protestors gathered on the far side of the street. Some protestors are crouched behind signs and umbrellas, but there is no evident threat to the officer.
+
+tags: shoot, projectile, protestor
+
+id: or-portland-119
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1285485252794699776
+
+
+### Federal officers shoot at reporter | July 21st
+
+Footage shows federal officers shooting at a woman wearing a yellow press vest, a helmet labeled PRESS, and carrying a press badge. After she is shot at, other journalists and protestors shout that she is press.
+
+Officers also continue to fire tear gas throughout this incident.
+
+tags: shoot, journalist, projectile, tear-gas
+
+id: or-portland-120
+
+**Links**
+
+* [First person footage by journalist shot at](https://twitter.com/defendpdx/status/1285509358806134785)
+* [Third person footage](https://twitter.com/PDocumentarians/status/1285510200514842627)
+
+
+### Federal officers retaliate to fire and thrown water bottles | July 21st
+
+After protestors light small fire and throw water bottles at Justice Center around 2:30 AM PST, federal police emerge and fire various munitions at protestors. These munitions include tear gas, impact munitions and flashbangs.
+
+Footage from [here](https://twitter.com/defendpdx/status/1285513893146619904) and [here](https://twitter.com/defendpdx/status/1285515077848666113) shows protestors returning to food and supply stations in the park after police retreated. Tables have been overturned and much of the supplies have been destroyed.
+
+Footage [here](https://twitter.com/ByMikeBaker/status/1285520992278700033) shows protestors assessing munitions. Among others, there appear to be a Stinger grenade, a type of flashbang that also contains rubber pellets, and a foam bullet.
+
+Footage [here](https://twitter.com/MrOlmos/status/1285516804983361538) shows an interview with two medics, discussing the situation and the return of Riot Ribs after the tear gas.
+
+tags: shoot, flashbangs, projectile, tear-gas, protestor, property-destruction, foam-bullets
+
+id: or-portland-121
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1285509636666175488
+* https://twitter.com/ByMikeBaker/status/1285510986288427008
+* https://twitter.com/ByMikeBaker/status/1285520992278700033
+* https://twitter.com/defendpdx/status/1285511157642493953
+* https://twitter.com/defendpdx/status/1285513893146619904
+* https://twitter.com/defendpdx/status/1285515077848666113
+* https://twitter.com/PDocumentarians/status/1285514603699433472
+* https://twitter.com/PDocumentarians/status/1285521043453435905
+* https://twitter.com/MrOlmos/status/1285516804983361538
+* https://twitter.com/MrOlmos/status/1285512925252214784
+* https://twitter.com/MrOlmos/status/1285512443779637248
+* https://twitter.com/MrOlmos/status/1285511558768939010
+* https://twitter.com/MrOlmos/status/1285508110086311936
 
 
 ## Salem
