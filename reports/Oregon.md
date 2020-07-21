@@ -1861,6 +1861,7 @@ id: or-portland-118
 * https://twitter.com/hungrybowtie/status/1285491952218075139
 * https://twitter.com/hungrybowtie/status/1285493876032106498
 * https://twitter.com/ProudBulba/status/1285671820637732867
+* https://twitter.com/ProudBulba/status/1285490892011212800
 
 
 ### Indiscriminate shooting of less-lethal projectiles | July 21st
