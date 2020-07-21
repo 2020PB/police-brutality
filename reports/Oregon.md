@@ -1938,6 +1938,7 @@ id: or-portland-123
 **Links**
 
 * https://twitter.com/itsmikebivins/status/1285480935098667008
+* https://twitter.com/itsmikebivins/status/1285486725406457856
 
 
 ## Salem
