@@ -1308,6 +1308,19 @@ id: or-portland-83
 * https://twitter.com/Or_St14/status/1284015646880104449
 
 
+### Medic shows rubber bullet wound | July 16th
+
+Images from a medic show a bruise left a rubber bullet on July 16th. Other images of the medic consistently show them wearing marked clearly as a medic, like [here](https://twitter.com/peyhubbard/status/1285369254234083330?s=20)
+
+tags: medic, shoot, projectile
+
+id: or-portland-122
+
+**Links**
+
+* https://twitter.com/peyhubbard/status/1284784447225618435
+
+
 ### Police fire second round of tear gas at protestors | July 17th
 
 Shortly after midnight on the morning of July 17th, about two hours after the last round of tear gas and munitions, police and federal agents fire tear gas and impact munitions at protestors for a second time.
