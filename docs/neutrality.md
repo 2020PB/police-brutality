@@ -8,9 +8,9 @@
 2020PB does support other groups, like [OpenPolice](OpenPolice.org), who also seek to expand public accountability of police departments.
 
 
-### Where does 2020PB stand on the police?
+### Where does 2020PB stand on Law Enforcement?
 
-As an organization, individual officers are treated as actors for a system that needs reform. We recognize that there are complex factors involved in the decision to join the police or a federal agency and that some officers do join these organizations with positive intentions.
+As an organization, 2020PB treats individual officers  as actors for a system that needs reform. We recognize that there are complex factors involved in the decision to a law enforcement agency and that some officers do join these organizations with positive intentions.
 
 As such we do not tolerate any derogatory language directed at anyone, officers included.
 
@@ -22,9 +22,9 @@ We understand that strong emotions can arise when viewing the footage, but we fe
 This means:
 
 * No denigrating, dehumanizing or derogatory language towards police or protestors.
-    * Police should be referred to as such, or as "officers," "agents," "sheriffs," or other department-specific terms.
-    * Protestors, unless specifically seen looting, should be referred to as such. They should neither be referred to as rioters and vandals, nor as heros, martyrs, or other similar language.
-    * No racist, sexist, queerphobic, ableist or any other such derogatory language is permitted.
+    * Law enforcement officers should be referred to as such: "officers," "police," "agents," "sheriffs," or other department-specific terms. Obviously inflammatory language, like "pigs" or "stormtroopers" should be avoided, as should misleading language like "soldiers."
+    * Protestors, unless specifically seen looting, should be referred to as such. They should neither be referred to as "rioters," "looters," and "vandals,"" nor as "heros," "martyrs," or other similar language.
+    * No racist, sexist, [queerphobic](https://qmunity.ca/wp-content/uploads/2015/03/Queer_Terminology_Web_Version__Sept_2013__Cover_and_pages_.pdf), ableist or any other such derogatory language is permitted.
 * Events should be described without editorialization.
     * There are some terms (see [tags](./docs/tags.md)) allowed that describe physical actions, like shoving or pushing, but inflammatory language should be avoided.
     * This includes terms that presume the motivation of an individual (e.g. officer shoots protestor "for sport.")
