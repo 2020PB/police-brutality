@@ -957,6 +957,19 @@ id: or-portland-69
 * https://twitter.com/whittlingbabe/status/1282372585984978944
 
 
+### Journalist shot by federal officers | July 11th
+
+Footage shows federal officers rolling tear gas canisters into a crowd. Officers also fire less-lethal munitions, at least one of which strikes the filmer, a photographer.
+
+tags: journalist, protestor, shoot, projectile, tear-gas
+
+id: or-portland-124
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1283549043864428544
+
+
 ### Police fire tear gas and riot rounds at peaceful protestors | July 12th
 
 Protestors are gathered around the Portland Justice Center. Police and Federal agents are massed in a Justice Center doorway. The fire and throw tear gas canisters. In addition, riot rounds can be heard fired repeatedly.
