@@ -1837,7 +1837,9 @@ It appears that protestors did damage part of the plywood barricade around the J
 
 An [image](https://twitter.com/ProudBulba/status/1285671820637732867) from a protestor shows a wound received allegedly at this protest. The protestor also displays the projectile that hit her, a pepper ball.
 
-tags: tear-gas, shoot, projectile, flashbangs, shove, grab, protestor, pepper-ball
+Additional [footage](https://twitter.com/45thabsurdist/status/1285498471521239040) shows a car with an explosive projectile fizzling underneath it. Protestors rally to put it out, preventing further damage.
+
+tags: tear-gas, shoot, projectile, flashbangs, shove, grab, protestor, pepper-ball, property-destruction
 
 id: or-portland-118
 
@@ -1862,6 +1864,7 @@ id: or-portland-118
 * https://twitter.com/hungrybowtie/status/1285493876032106498
 * https://twitter.com/ProudBulba/status/1285671820637732867
 * https://twitter.com/ProudBulba/status/1285490892011212800
+* https://twitter.com/45thabsurdist/status/1285498471521239040
 
 
 ### Indiscriminate shooting of less-lethal projectiles | July 21st
