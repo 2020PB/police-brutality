@@ -1516,7 +1516,7 @@ id: or-portland-97
 * https://twitter.com/thechadallan/status/1284749219857760256
 * https://twitter.com/greg_doucette/status/1284735073057746944
 * https://twitter.com/Tazerface16/status/1284849286237151232
-* https://twitter.com/peyhubbard/status/1285369254234083330/photo/1
+* https://twitter.com/peyhubbard/status/1285369254234083330
 
 
 ### Federal officers fire on Moms Against Police Brutality | July 18th
