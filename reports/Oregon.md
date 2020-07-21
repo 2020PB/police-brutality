@@ -1364,7 +1364,7 @@ Footage uploaded a few hours before midnight on July 17th shows widespread use o
 
 The tear gas is used to push protestors away from the Justice Center, past the park, and onto the street.
 
-tags:
+tags: 
 
 id: or-portland-92
 
@@ -1795,7 +1795,6 @@ id: or-portland-115
 ### Journalist shot in leg | July 20th
 
 First-person footage shows a journalist groaning in pain after he is shot. Later footage shows a medic treating his leg. And a final image from another journalists confirms he is okay.
-
 
 tags: journalist, shoot, projectile
 
