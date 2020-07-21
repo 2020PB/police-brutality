@@ -154,12 +154,12 @@ Eye-witness accounts for documented events are allowed, as are eye-witness accou
 
 For a more detailed discussion of incident inclusion criteria and edge cases, see [this page](./docs/incident-criteria.md).
 
-**3. Use objective language.**
-    - No "cop beats protester with clear disregard for his humanity" or "pig shoots at person with contempt".
-    - No language supporting or denigrating police or activists.
+**3. Present a neutral account of events.**
+  - Use objective language.
+  - Provide full context for all events.
+  - Avoid dehumanizing protestors and police alike
 
-Let police actions speak for themselves; use unbiased descriptions to explain what happened with as much detail as possible and using unemotional language.
-Pretend that you're an AI telling a human exactly what the evidence shows and that you'll have your AWS budget reduced if your algorithm is faulty.
+See [here](./docs/neutrality.md) for additional clarification on neutral, objective presentation.
 
 **4. Use correct location & date.**
   - Place the incident report under the correct city's section in the file for the correct state.
