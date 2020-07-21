@@ -1796,7 +1796,6 @@ id: or-portland-115
 
 First-person footage shows a journalist groaning in pain after he is shot. Later footage shows a medic treating his leg. And a final image from another journalists confirms he is okay.
 
-
 tags: journalist, shoot, projectile
 
 id: or-portland-117
