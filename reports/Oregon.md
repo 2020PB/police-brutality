@@ -968,6 +968,9 @@ id: or-portland-124
 **Links**
 
 * https://twitter.com/MathieuLRolland/status/1283549043864428544
+* https://twitter.com/MathieuLRolland/status/1283549985905074176
+* https://twitter.com/MathieuLRolland/status/1283553584458502144
+* https://twitter.com/MathieuLRolland/status/1283554123808272384
 
 
 ### Police fire tear gas and riot rounds at peaceful protestors | July 12th
