@@ -1927,6 +1927,19 @@ id: or-portland-121
 * https://twitter.com/MrOlmos/status/1285508110086311936
 
 
+### Federal officers shove protestors, pepper spray journalist | July 21st
+
+Footage shows federal officers shoving protestors with their hands up to clear space around the Justice Center. A journalist stands among the protestors. The journalist is pepper sprayed.
+
+tags: shove, protestor, journalist, pepper-spray, spray
+
+id: or-portland-123
+
+**Links**
+
+* https://twitter.com/itsmikebivins/status/1285480935098667008
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
