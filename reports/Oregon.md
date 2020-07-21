@@ -1835,7 +1835,9 @@ One reporter [states](https://twitter.com/ByMikeBaker/status/1285465270685859841
 
 It appears that protestors did damage part of the plywood barricade around the Justice Center doors, seen [here](https://twitter.com/ByMikeBaker/status/1285482389628583936).
 
-tags: tear-gas, shoot, projectile, flashbangs, shove, grab, protestor
+An [image](https://twitter.com/ProudBulba/status/1285671820637732867) from a protestor shows a wound received allegedly at this protest. The protestor also displays the projectile that hit her, a pepper ball.
+
+tags: tear-gas, shoot, projectile, flashbangs, shove, grab, protestor, pepper-ball
 
 id: or-portland-118
 
@@ -1858,6 +1860,7 @@ id: or-portland-118
 * https://twitter.com/hungrybowtie/status/1285491599842000897
 * https://twitter.com/hungrybowtie/status/1285491952218075139
 * https://twitter.com/hungrybowtie/status/1285493876032106498
+* https://twitter.com/ProudBulba/status/1285671820637732867
 
 
 ### Indiscriminate shooting of less-lethal projectiles | July 21st
