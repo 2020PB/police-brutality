@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-20T19:56:32.319180+00:00
+UPDATED AT: 2020-07-21T16:40:19.761812+00:00
 
 
 # Alabama
@@ -6092,6 +6092,7 @@ id: nc-raleigh-2
 
 * https://www.newsobserver.com/news/local/article243114301.html
 * https://twitter.com/vizjourno/status/1266954106998009857
+* https://twitter.com/vizjourno/status/1267494648680976395
 
 
 ### Police use tear gas to clear road | May 31st
