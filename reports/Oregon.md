@@ -2134,6 +2134,7 @@ id: or-portland-134
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1285871044851462144
+* https://twitter.com/45thabsurdist/status/1285861571546066944
 
 
 ### Journalist shot with rubber bullets | July 22nd
