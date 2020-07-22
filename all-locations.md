@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-22T02:18:47.705226+00:00
+UPDATED AT: 2020-07-22T17:37:48.449174+00:00
 
 
 # Alabama
@@ -8891,6 +8891,214 @@ id: or-portland-123
 
 * https://twitter.com/itsmikebivins/status/1285480935098667008
 * https://twitter.com/itsmikebivins/status/1285486725406457856
+
+
+### Federal officers use tear gas to push protestors | July 21st
+
+Shortly before midnight on July 21st, federal officers used a variety of munitions to push protestors away from the Justice Center. Munitions include flashbangs, tear gas and impact munitions.
+
+The footage shows a push back and forth between federal officers and a shield wall of protestors, ending in protestors deploying fireworks and smoke to push federal officers back into the Justice Center.
+
+tags: shoot, projectile, protestor, flashbang, tear-gas, journalist, legal-observer
+
+id: or-portland-125
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1285821216280829952
+* https://twitter.com/GriffinMalone6/status/1285822445853700096
+* https://twitter.com/GriffinMalone6/status/1285823868234461186
+* https://twitter.com/PDocumentarians/status/1285827565458866176
+* https://twitter.com/PDocumentarians/status/1285828122122702849
+* https://twitter.com/PDocumentarians/status/1285856056275374081
+* https://twitter.com/MrOlmos/status/1285826031689949184
+* https://twitter.com/MrOlmos/status/1285827707738091520
+
+
+### Flashbang thrown at press and legal observers | July 21st
+
+Footage from shortly before midnight on July 21st shows press and legal observers hit by a flashbang, as well as a protestor shot by a projectile.
+
+tags: shoot, projectile, protestor, flashbang, journalist, legal-observer
+
+id: or-portland-126
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1285854874500911104
+
+
+### Moms Against Police Brutality tear-gassed | July 21st
+
+Right before midnight on July 21st, federal officers fired tear gas at the group, Moms Against Police Brutality. The Moms had locked arms and were standing still.
+
+tags: tear-gas, protestor
+
+id: or-portland-130
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285829230958268417
+* https://twitter.com/hungrybowtie/status/1285828096461922304
+* https://twitter.com/hungrybowtie/status/1285827585486671873
+* https://twitter.com/hungrybowtie/status/1285827044119441408
+
+
+### Protestor shoved onto tear gas canister, which then explodes | July 22nd
+
+During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protestor and throws him to the ground. The protestor lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protestor.
+
+tags: shove, throw, protestor, tear-gas, tear-gas-canister
+
+id: or-portland-127
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1285848158044483586
+
+
+### Photographer shoved onto their back | July 22nd
+
+Footage from around 1:30 AM outside the Justice Center shows a federal officer shoving an individual to the ground. The individual was standing still and holding a large camera.
+
+tags: journalist, shove
+
+id: or-portland-128
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1285868284684890113
+
+
+### Federal officers use flashbangs, tear gas and impact munitions to push protestors | July 22nd
+
+During a series of events around 1 AM outside the Justice Center, federal officers emerge from the building to douse a small fire lit apparently by protestors. Officers then push protestors back through the park. Protestors eventually push officers back inside the building. Throughout the series of events, officers fire flashbangs, tear gas and less-lethal projectiles liberally.
+
+tags: shoot, projectile, flashbangs, tear-gas, protestor
+
+id: or-portland-129
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285851228732141569
+* https://twitter.com/hungrybowtie/status/1285851909702610944
+* https://twitter.com/hungrybowtie/status/1285852594749898752
+* https://twitter.com/hungrybowtie/status/1285853649613144066
+* https://twitter.com/hungrybowtie/status/1285854373969448961
+* https://twitter.com/MrOlmos/status/1285843187496415232
+* https://twitter.com/MrOlmos/status/1285845548113616896
+* https://twitter.com/MrOlmos/status/1285846065606844416
+* https://twitter.com/MrOlmos/status/1285846763929100288
+* https://twitter.com/MrOlmos/status/1285847403157876736
+* https://twitter.com/MrOlmos/status/1285848206622945286
+* https://twitter.com/PDocumentarians/status/1285829293071757312
+
+
+### Federal officers use flashbangs, tear gas and impact munitions to push protestors a third time | July 22nd
+
+In the final push of the night, federal officers once again used flashbangs, tear gas and less-lethal projectiles to push protestors out of the park. Protestors eventually retook the park, to find officers had destroyed much of the Riot Ribs medical tent, flipping tables and pepper-spraying supplies.
+
+Footage [here](https://twitter.com/defendpdx/status/1285866491275931649) shows officers charging at the crowd, at which point a protestor launched a firework. Officers then continued to deploy riot control munitions.
+
+The officers appear to have exited the building initially because protestors were tearing at the building's plywood barricade.
+
+tags: shoot, projectile, flashbangs, tear-gas, protestor, property-destruction
+
+id: or-portland-131
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1285865757566328832
+* https://twitter.com/defendpdx/status/1285866491275931649
+* https://twitter.com/defendpdx/status/1285869962335117312
+* https://twitter.com/LindseyPSmith7/status/1285862578061627393
+* https://twitter.com/LindseyPSmith7/status/1285862936842403840
+* https://twitter.com/LindseyPSmith7/status/1285869117711368193
+* https://twitter.com/LindseyPSmith7/status/1285868866531323908
+* https://twitter.com/LindseyPSmith7/status/1285871644607524865
+* https://twitter.com/hungrybowtie/status/1285884052570963969
+* https://twitter.com/hungrybowtie/status/1285884713937207297
+* https://twitter.com/hungrybowtie/status/1285886672693899265
+* https://twitter.com/hungrybowtie/status/1285887500871860230
+* https://twitter.com/hungrybowtie/status/1285888600219893760
+* https://twitter.com/MrOlmos/status/1285867497539825665
+* https://twitter.com/MrOlmos/status/1285870949720449029
+* https://twitter.com/MrOlmos/status/1285871373433180160
+* https://twitter.com/MrOlmos/status/1285871712517554178
+* https://twitter.com/MrOlmos/status/1285873682603098112
+* https://twitter.com/MrOlmos/status/1285876102074757120
+* https://twitter.com/MrOlmos/status/1285880435772239873
+
+
+### Federal officers make violent arrest | July 22nd
+
+Footage shows officers approaching a protestor with their hands up. The camera pans away for a moment. When it returns, several officers have tackled the protestor and appear to be striking and kicking them. Another officer approaches the filmer, a journalist, and backs her away.
+
+tags: tackle, kick, strike, arrest, protestor
+
+id: or-portland-132
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1285863778471436288
+
+
+### Federal officers remove individuals from their vehicles | July 22nd
+
+Federal officers stop a car apparently caught between protestors and officers. Officers force the occupants to exit the vehicle. When the protestors become agitated as a result, officers fire flashbangs and push press down the street.
+
+It is unclear what relation, if any, the occupants of the vehicle had to the protest. It is also unclear if the occupants were then arrested.
+
+tags: abuse-of-power, flashbangs, protestor, bystander
+
+id: or-portland-133
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1285872974847897600
+* https://twitter.com/hungrybowtie/status/1285886001932427265
+* https://twitter.com/45thabsurdist/status/1285872314601463808
+
+
+### Federal officers shove protestors, chase journalists | July 22nd
+
+Footage shows federal officers emerging from the Justice Center. A handful of protestors stand at the edge of the sidewalk with their hands up. An officer shoves them into the street. The officer then brandishes his baton and chases nearby journalists, who flee.
+
+tags: abuse-of-power, threaten, shove, protestor, journalist
+
+id: or-portland-134
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285871044851462144
+* https://twitter.com/45thabsurdist/status/1285861571546066944
+
+
+### Journalist shot with rubber bullets | July 22nd
+
+Footage shows federal officers firing into the crowd as they retreat into the Justice Center. During this, the filmer states he was shot by a rubber bullet. An image shows the wound left by the projectile.
+
+tags: journalist, shoot, rubber-bullet
+
+id: or-portland-135
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1285832629556637696
+* https://twitter.com/hungrybowtie/status/1285833430769360896
+
+
+### Federal officer tackles two protestors | July 22nd
+
+Footage shows a federal officer running up to two protestors from behind, grabbing them by the neck, then tackling them to the ground. The protestors attempt to clear out. The officer shoves one of those protestors as he tries to stand, then shoves another protestor standing nearby.
+
+tags: protestor, shove, tackle
+
+id: or-portland-136
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1285861227336351744
 
 
 ## Salem
