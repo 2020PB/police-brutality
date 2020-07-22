@@ -742,6 +742,10 @@ Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair
 
 Footage from instagram (second link, fourth in list) shows a man suffering an asthma attack after allegedly being struck in the neck with a baton. The last video in the instagram post appears to show the man on a gurney receiving medical attention. Other videos in the post show police shoving protestors with their hands and with batons. The poster also alleges that police held a woman in a chokehold.
 
+Additional [footage](https://www.instagram.com/p/CCqPuekHCyg/) shows an officer striking a protestor with a baton as the protestor tries to help the man in the wheelchair.
+
+Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges against him were dropped.\
+
 tags: arrest, shove, strike, property-destruction, person-with-disability, baton
 
 id: ca-losangeles-40
@@ -753,6 +757,9 @@ id: ca-losangeles-40
 * https://www.latimes.com/california/story/2020-07-16/police-said-they-assaulted-an-officer-but-protesters-have-a-different-account
 * https://www.nbcbayarea.com/news/national-international/lapd-releases-video-from-confrontation-with-protesters-in-downtown-la/2328794/?_osource=SocialFlowTwt_BAYBrand
 * https://twitter.com/LAPDHQ/status/1284891644454596608
+* https://www.instagram.com/p/CCqPuekHCyg/
+* https://twitter.com/allykerans/status/1283563591900164096
+* https://www.instagram.com/p/CCxPb28hRdN/
 
 
 ## Norco
