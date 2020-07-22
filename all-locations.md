@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-22T17:38:02.034870+00:00
+UPDATED AT: 2020-07-22T17:38:46.456008+00:00
 
 
 # Alabama
@@ -163,6 +163,22 @@ id: az-phoenix-2
 
 * [Local news coverage](https://www.abc15.com/news/local-news/investigations/phoenix-police-arrests-dozens-with-copy-and-paste-evidence)
 * [Video of the night's protests -- mostly peaceful until police disperse the crowd with flash bangs and tear gas around 1:08:40; shortly afterward the assembly turns violent.](https://www.youtube.com/watch?v=ecwUweozAXE&feature=emb_title)
+
+
+### Photographer injured by rubber bullets | May 30th
+
+A news article describes a photographer in full view of an ABC news crew as he was shot repeatedly by rubber bullets. Protestors took him to police to get him medical care. Police struggled to get an ambulance, so they took him to the fire station, who then brough him to the hospital.
+
+The photographer now has four staples in his head, a concussion, and a bruised lung.
+
+tags: journalist, shoot, rubber-bullets
+
+id: az-phoenix-5
+
+**Links**
+
+* https://www.abc15.com/news/region-phoenix-metro/valley-photographer-injured-in-phoenix-protest-released-from-hospital
+* https://pressfreedomtracker.us/all-incidents/head-wound-bruised-lung-and-concussion-photographer-covering-phoenix-protests/
 
 
 ### Officer arrests a woman on the sidewalk outside her home for curfew violation | May 31st
