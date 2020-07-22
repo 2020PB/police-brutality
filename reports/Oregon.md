@@ -2060,7 +2060,6 @@ id: or-portland-129
 
 ### Federal officers use flashbangs, tear gas and impact munitions to push protestors a third time | July 22nd
 
-
 In the final push of the night, federal officers once again used flashbangs, tear gas and less-lethal projectiles to push protestors out of the park. Protestors eventually retook the park, to find officers had destroyed much of the Riot Ribs medical tent, flipping tables and pepper-spraying supplies.
 
 Footage [here](https://twitter.com/defendpdx/status/1285866491275931649) shows officers charging at the crowd, at which point a protestor launched a firework. Officers then continued to deploy riot control munitions.
