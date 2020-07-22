@@ -2121,6 +2121,7 @@ id: or-portland-133
 
 * https://twitter.com/LindseyPSmith7/status/1285872974847897600
 * https://twitter.com/hungrybowtie/status/1285886001932427265
+* https://twitter.com/45thabsurdist/status/1285872314601463808
 
 
 ### Federal officers shove protestors, chase journalists | July 22nd
