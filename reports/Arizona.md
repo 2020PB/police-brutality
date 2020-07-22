@@ -27,6 +27,22 @@ id: az-phoenix-2
 * [Video of the night's protests -- mostly peaceful until police disperse the crowd with flash bangs and tear gas around 1:08:40; shortly afterward the assembly turns violent.](https://www.youtube.com/watch?v=ecwUweozAXE&feature=emb_title)
 
 
+### Photographer injured by rubber bullets | May 30th
+
+A news article describes a photographer in full view of an ABC news crew as he was shot repeatedly by rubber bullets. Protestors took him to police to get him medical care. Police struggled to get an ambulance, so they took him to the fire station, who then brough him to the hospital.
+
+The photographer now has four staples in his head, a concussion, and a bruised lung.
+
+tags: journalist, shoot, rubber-bullets
+
+id: az-phoenix-5
+
+**Links**
+
+* https://www.abc15.com/news/region-phoenix-metro/valley-photographer-injured-in-phoenix-protest-released-from-hospital
+* https://pressfreedomtracker.us/all-incidents/head-wound-bruised-lung-and-concussion-photographer-covering-phoenix-protests/
+
+
 ### Officer arrests a woman on the sidewalk outside her home for curfew violation | May 31st
 
 On May 31, police forced protesters who were out after curfew into the Garfield neighborhood using tear gas and other means. Police then began arresting protesters in the Garfield neighborhood en masse. Officers approached Elizabeth Lemay, who was not part of the protests and was standing on the sidewalk outside her home. They tried to arrest her and tackled her in the process. She told the officers "I live here" and "I'm allowed to be on my own property;" the officer responded (in a cheerful tone of voice) "You're on the sidewalk. You guys think you know. You think you know everything."
