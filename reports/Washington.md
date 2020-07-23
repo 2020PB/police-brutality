@@ -440,3 +440,15 @@ id: wa-seattle-28
 * https://twitter.com/spekulation/status/1281656761296936961
 * https://www.reddit.com/r/PublicFreakout/comments/hovouj/seattle_police_officer_caught_making_up_a_false/
 
+
+### Protestor violently arrested | July 20th
+
+During protests in Seattle, some protestors walk past officers arresting a protestor. Another officer pepper sprays these protestors. When a protestor stops in the street after being pepper sprayed, they are grabbed and thrown to the ground. Another officer appears to kick the protestor in the groin. Officers then pin the protestor down to arrest them. When officers go to move the protestor, the protestor appears to be limp, apparently unconscious. Officers lift the protestor off the ground and carry them away.
+
+tags: pepper-spray, spray, protestor, shove, grab, throw, kick, knee, arrest
+
+id: wa-seattle-29
+
+**Links**
+
+* https://twitter.com/spekulation/status/1285468287334141952
