@@ -1548,6 +1548,19 @@ id: or-portland-97
 * https://twitter.com/peyhubbard/status/1285369254234083330
 
 
+### Two USNA graduates pepper sprayed | July 18th
+
+First person footage from one of two US Naval Academy graduates shows the graduates approaching federal officers, standing still several feet away. Tear gas rolls into view. Officers then shove the protestors and pepper spray them without warning.
+
+tags: protestor, pepper-spray, spray, tear-gas, shove
+
+id: or-portland-139
+
+**Links**
+
+* https://www.youtube.com/watch?v=OmAdEp6pAp4
+
+
 ### Federal officers fire on Moms Against Police Brutality | July 18th
 
 A group of women calling themselves Moms Against Police Brutality locked arms in the street. Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
@@ -2163,6 +2176,137 @@ id: or-portland-136
 **Links**
 
 * https://twitter.com/MrOlmos/status/1285861227336351744
+
+
+### Livestreamer shot with tear gas canister | July 22nd
+
+First person footage from a livestreamer shows a tear gas canister shot at the livestreamer. It then strikes him. Images show the wound he received.
+
+tags: journalist, tear-gas-canister
+
+id: or-portland-140
+
+**Links**
+
+* https://mobile.twitter.com/chefboykhari/status/1285967763878494213
+* https://mobile.twitter.com/chefboykhari/status/1285968225243561984
+
+
+### Federal officers use excessive force to push protestors | July 22nd
+
+After protestors fire flares and roman candles across the fence, small fires begin in the courtyard. In addition, protestors tear a small breach in the fence.
+
+Federal officers deploy tear gas, flashbangs and impact munitions in massive quantities at protestors separated from them by a fence.
+
+As officers and protestors are separated by a fence, there is little to suggest protestors pose an immediate physical threat to officers at any point.
+
+These events occurred shortly before midnight on the night of July 22nd.
+
+tags: shoot, protestor, projectile, tear-gas, flashbang
+
+id: or-portland-137
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1286192680741949442
+* https://twitter.com/defendpdx/status/1286185530812579841
+* https://twitter.com/MrOlmos/status/1286188028298289153
+* https://twitter.com/MrOlmos/status/1286186098520027136
+* https://twitter.com/LindseyPSmith7/status/1286190257013002240
+* https://twitter.com/LindseyPSmith7/status/1286192268299218944
+* https://twitter.com/LindseyPSmith7/status/1286193128513257474
+* https://twitter.com/TheRealCoryElia/status/1286192484373032960
+* https://twitter.com/tuckwoodstock/status/1286191943270019072
+
+
+### Portland mayor caught in tear gas | July 22nd
+
+Portland mayor Ted Wheeler attended protests on July 22nd alongside protestors. Federal officers fired tear gas into the area, gassing Ted Wheeler. The mayor and other protestors aound him appear to be standing still, causing no damage.
+
+In an interview with a journalist after the gassing, Wheeler states that he saw nothign justifying the response from federal officers. He calls the situation an "egregious overreaction." Less lethal rounds can be heard in the background.
+
+tags: politician, protestor, tear-gas
+
+id: or-portland-142
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286194373739155456
+* https://twitter.com/MrOlmos/status/1286194652513673216
+* https://twitter.com/MrOlmos/status/1286195191745937408
+* [Interview with Ted Wheeler](https://twitter.com/ByMikeBaker/status/1286186731763412993)
+
+
+### Officer throws explosive at reporter | July 22nd
+
+Footage shows an officer lobbing an explosive over the fence, nearly striking the filmer, a reporter. However, the projectile explodes in midair before reaching the journalist.
+
+The journalist refers to the projectile as "a spicy present," where the phrase "spicy" is generally used to refer to tear gas.
+
+tags: journalist, explosive, projectile
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1286185049054879744
+
+
+### Federal officers again use excessive force to push protestors | July 23rd
+
+Approximately one hour after the events of or-portland-137 began, officers again emerged from the Justice Center to douse a small fire and push protestors back usinig tear gas, flashbangs and impact munitions. Officers then continued to push protestors onto Salmon and W 3rd, well past the borders of the Justice Center fence.
+
+tags: shoot, protestor, projectile, tear-gas, flashbang
+
+id: or-portland-138
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1286196710625042441
+* https://twitter.com/LindseyPSmith7/status/1286201158445330432
+* https://twitter.com/LindseyPSmith7/status/1286201466173104128
+* https://twitter.com/tuckwoodstock/status/1286208115336069121
+* https://twitter.com/tuckwoodstock/status/1286218300951650305
+* https://twitter.com/tuckwoodstock/status/1286199532166893574
+
+
+### Federal officers deploy tear gas again | July 23rd
+
+Around 3 AM on July 23rd, federal officers deploy tear gas against protestors in the park as protestors had gathered around a statue, allegedly attempting to tear it down.
+
+tags: protestor, tear-gas
+
+id: or-portland-139
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1286239830725124099
+
+
+### Federal officers drag protestor away, fire munitions at crowd to cover | July 23rd
+
+Around 1:30 AM on July 23rd, federal officers are seen scuffling with protestors at the entrance to the fence surrounding the Justice Center. Protestors had broken the lock on the fence, opening the gate.
+
+Federal officers seize a woman and close the fence again. Officers drag the woman away, presumably to arrest her. They also fix the fence, securing the lock again. Officers then fire impact munitions and pepper spray through the fence.
+
+tags: protestor, grab, shoot, spray, pepper-spray, projectile
+
+id: or-portland-141
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1286217242909134848
+
+
+### Federal officer kicks tear gas at protestors, fires at short range | July 23rd
+
+Footage shows a federal officer kicking a tear gas canister towards protestors on the opposite sides of a fence. One protestor yells at him. The officer then fires a tear gas canister at the protestor at short range, presumably striking the fence.
+
+tags: shoot, protestor, tear-gas, tear-gas-canister
+
+id: or-portland-143
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286218372103823360
 
 
 ## Salem
