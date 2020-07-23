@@ -2243,9 +2243,12 @@ Footage shows an officer lobbing an explosive over the fence, nearly striking th
 
 The journalist refers to the projectile as "a spicy present," where the phrase "spicy" is generally used to refer to tear gas.
 
-tags: journalist, explosive, projectile
 
 id or-portland-143
+
+tags: journalist, explosive, projectile
+
+id: or-portland-ncig
 
 **Links**
 
