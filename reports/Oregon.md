@@ -2270,13 +2270,13 @@ id: or-portland-138
 * https://twitter.com/tuckwoodstock/status/1286199532166893574
 
 
-### Federal officers deploy tear gas again | July 23rd
+### Federal officers deploy tear gas a second time | July 23rd
 
 Around 3 AM on July 23rd, federal officers deploy tear gas against protestors in the park as protestors had gathered around a statue, allegedly attempting to tear it down.
 
 tags: protestor, tear-gas
 
-id: or-portland-139
+id: or-portland-144
 
 **Links**
 
