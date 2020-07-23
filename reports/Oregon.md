@@ -2245,6 +2245,8 @@ The journalist refers to the projectile as "a spicy present," where the phrase "
 
 tags: journalist, explosive, projectile
 
+id or-portland-143
+
 **Links**
 
 * https://twitter.com/defendpdx/status/1286185049054879744
