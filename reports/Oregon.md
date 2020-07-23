@@ -2304,7 +2304,7 @@ Footage shows a federal officer kicking a tear gas canister towards protestors o
 
 tags: shoot, protestor, tear-gas, tear-gas-canister
 
-id: or-portland-143
+id: or-portland-145
 
 **Links**
 
