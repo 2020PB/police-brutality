@@ -101,6 +101,25 @@ id: nc-charlotte-3
 * [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
 
 
+## Gastonia
+
+### Police with live ammo arrest protestors sitting in cars | July 22nd
+
+Footage shows militarized police with long guns carrying live ammo running up on protestors. Black protestors are removed from their vehicles and arrested.
+
+According to the senior editor of the Triad City Beat, an NC news outlet, police arrested these protestors after an alleged dispute between BLM protestors and an older white couple, in which the couple allegedly pulled a gun and knife on protestors. According to the reporter, only protestors were charged with any offenses.
+
+tags: abuse-of-power, threaten, arrest, gun
+
+id: nc-gastonia-1
+
+**Links**
+
+* https://twitter.com/jordangreentcb/status/1286110757223006208
+* https://twitter.com/jordangreentcb/status/1286110760284893184
+* https://twitter.com/jordangreentcb/status/1286110761727787009
+
+
 ## Raleigh
 
 ### Police fire tear gas at peaceful protests | May 30th
