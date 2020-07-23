@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-23T12:09:20.936011+00:00
+UPDATED AT: 2020-07-23T18:39:57.723606+00:00
 
 
 # Alabama
@@ -4369,6 +4369,21 @@ id: mo-florissant-2
 * https://twitter.com/search4swag/status/1277059423966507008
 * https://twitter.com/search4swag/status/1277059423966507008
 * https://twitter.com/NassimBnchabane/status/1277056390314541056
+
+
+### Police shove, pepper spray, and arrest protestors | July 5th
+
+Footage shows police using shields and batons to shove protestors. Protestors attempting to flee are pepper sprayed. At least one protestor is tackled to the ground and arrested. Police continue pushing protestors out of the precinct and into the street. More arrests are made and more pepper spray is deployed.
+
+tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, protestor
+
+id: mo-florissant-4
+
+**Links**
+
+* https://twitter.com/xshularx/status/1279961776050917376
+* https://twitter.com/xshularx/status/1279970172955230210
+* https://twitter.com/Ohun_Ashe/status/1280150603839295490
 
 
 ### Police shoot at protestors in designated protest area | July 6th
