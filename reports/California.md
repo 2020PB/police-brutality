@@ -841,7 +841,7 @@ id: ca-riverside-1
 
 ## Sacramento
 
-### Police shoot protester in the head | May 31st
+### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
