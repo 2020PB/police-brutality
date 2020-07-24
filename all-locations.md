@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-24T16:42:31.023337+00:00
+UPDATED AT: 2020-07-24T16:42:46.642391+00:00
 
 
 # Alabama
@@ -9522,6 +9522,7 @@ id: pa-erie-1
 
 * https://twitter.com/ItsKadynC/status/1266967646345613317
 * https://twitter.com/the7goonies/status/1266989439160590336
+* [Extended footage. Events around 7:45](https://www.youtube.com/watch?v=KcjH7RdQob4)
 * [Article on the event from PAPost](https://papost.org/2020/05/31/erie-woman-who-was-kicked-by-police-officer-saysi-was-100-percent-peaceful/)
 
 
