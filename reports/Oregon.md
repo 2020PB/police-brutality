@@ -2356,7 +2356,6 @@ id: or-portland-148
 
 ### Federal officer fire second round of tear gas | July 24th
 
-
 Around 1:15 AM on July 24th, federal officers declared an unlawful assembly and began pushing protestors north from the Justice Center using tear gas and impact munitions, allegedly pepper balls. The justification for the unlawful assembly declaration appears to be fireworks and a second small trash fire.
 
 tags: protestor, shoot, pepper-ball, tear-gas
