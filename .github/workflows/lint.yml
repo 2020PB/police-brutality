@@ -1,0 +1,37 @@
+name: Lint
+
+on:
+  push:
+    # Only run if:
+    paths:
+      # Changes in python, yml(github actions), pyproject.toml(black config),
+      # .flake8(flake8 config)
+      - "**.py"
+      - "**.yml"
+      - "**/pyproject.toml"
+      - "**/.flake8"
+
+jobs:
+  lint-python:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r tools/requirements.txt
+
+    - name: Run black
+      run: black --check --diff .
+      working-directory: tools
+
+    - name: Run flake8
+      run: flake8 .
+      working-directory: tools
