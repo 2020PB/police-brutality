@@ -1,0 +1,4 @@
+[flake8]
+exclude =
+    data_build,
+    downloader
