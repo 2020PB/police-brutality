@@ -152,19 +152,20 @@ id: ca-lamesa-2
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face with rubber bullet | May 31st
+### Police shoot woman in the face with bean bag | May 31st
 
-La Mesa PD shoot a woman in the face with a rubber bullet.
+La Mesa PD shoot a woman in the face with a bean bag round.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, bean-bag, protestor
 
 id: ca-lamesa-1
 
 **Links**
 
-* At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
+* [10:20](https://www.facebook.com/100010947670361/videos/1115087385532840)
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
+* [Body cam footage](https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hw99zb/la_mesa_police_bodycam_of_the_protests_leslie/)
 
 
 ## Long Beach
@@ -840,7 +841,7 @@ id: ca-riverside-1
 
 ## Sacramento
 
-### Police shoot protester in the head | May 31st
+### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
