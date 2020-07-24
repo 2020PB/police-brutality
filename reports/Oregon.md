@@ -2463,6 +2463,19 @@ id: or-portland-155
 * https://twitter.com/wyattreed13/status/1286627567630344194
 
 
+### Federal officer tackle man to the ground | July 24th
+
+Footage shows a man walking down the street. Two federal officers charge up behind him and tackle him to the ground. From protestor response, it appears that the man was not a protestor.
+
+tags: arrest, tackle, bystander
+
+id: or-portland-156
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286613058903670784
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
