@@ -49,7 +49,8 @@ def title_to_name_date(line):
         date = parse(date_found).strftime("%Y-%m-%d")
     except (ValueError, AttributeError) as err:
         print(
-            f"Failed date format parse for title '{name}' and date '{date_text}': {err}"
+            f"Failed date format parse for title '{name}' and date"
+            f" '{date_text}': {err}"
         )
         date = ""
     return name, date, date_text
@@ -81,7 +82,7 @@ def find_md_link_or_url(text):
     """
     find_md_link_or_url('ab[cd](ef)xy') returns:
         ('abcdxy', 'ef')
-    
+
     All the text goes into the text, and the URL as well.
     """
     start = (0,)
@@ -123,7 +124,10 @@ def find_md_link_or_url(text):
 
 
 def parse_state(state, text):
-    source_link = f"https://github.com/2020PB/police-brutality/blob/master/reports/{state}.md"
+    source_link = (
+        "https://github.com/2020PB/police-brutality/blob/master"
+        f"/reports/{state}.md"
+    )
     city = ""
     if state == "Washington DC":
         city = "DC"
@@ -166,7 +170,7 @@ def parse_state(state, text):
             entry["city"] = city
 
         # remove the prefix
-        line = line[len(starts_with) :].strip()
+        line = line[len(starts_with) :].strip()  # noqa: E203
 
         if starts_with == "##":
             city = line
@@ -181,9 +185,7 @@ def parse_state(state, text):
             link_text, link_url = find_md_link_or_url(line)
             if link_url:
                 entry["links"].append(link_url)
-                entry["links_v2"].append(
-                    {"url": link_url, "text": link_text,}
-                )
+                entry["links_v2"].append({"url": link_url, "text": link_text})
             else:
                 print("Data build failed, exiting")
                 critical_exit(f"Failed link parse '{line}' in state '{state}'")
@@ -191,21 +193,25 @@ def parse_state(state, text):
             # **links** line
             pass
         else:
-            # Text without a markdown marker, this might be the description or metadata
+            # Text without a markdown marker, this might be the description or
+            # metadata
             id_prefix = "id:"
             tags_prefix = "tags:"
             if line.startswith(id_prefix):
-                entry["id"] = line[len(id_prefix) :].strip()
+                entry["id"] = line[len(id_prefix) :].strip()  # noqa: E203
             elif line.startswith(tags_prefix):
-                spacey_tags = line[len(tags_prefix) :].split(",")
+                spacey_tags = line[len(tags_prefix) :].split(",")  # noqa: E203
                 entry["tags"] = [tag.strip() for tag in spacey_tags]
             else:
-                # Add a line to the description, but make sure there are no extra
-                # new lines surrounding it.
-                # entry["description"] = (entry["description"] + '\n' + line).strip()
-                # We want to allow as many newlines as are already in the middle of the description
-                # but not allow any extra newlines in the end or beginning. The only way
-                # to do that right now is right before we `yield`
+                # Add a line to the description, but make sure there are no
+                # extra new lines surrounding it.
+                # entry["description"] = (
+                #    entry["description"] + "\n" + line
+                # ).strip()
+                # We want to allow as many newlines as are already in the
+                # middle of the description but not allow any extra newlines in
+                # the end or beginning. The only way to do that right now is
+                # right before we `yield`
                 entry["description"] += line + "\n"
 
     if entry and entry["links"]:
@@ -225,7 +231,8 @@ def process_md_texts(md_texts):
 updated_at = datetime.now(timezone.utc).isoformat()
 
 md_header = f"""
-GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
+GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT \
+https://github.com/2020PB/police-brutality/
 
 UPDATED AT: {updated_at}
 
@@ -307,21 +314,30 @@ def to_json_file_v2(data, target_path):
 readme_text = """
 # /r/2020PoliceBrutality/ dataset
 
-This repository exists to accumulate and contextualize evidence of police brutality during the 2020 George Floyd protests.
+This repository exists to accumulate and contextualize evidence of police
+brutality during the 2020 George Floyd protests.
 
-Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
+Our goal in doing this is to assist journalists, politicians, prosecutors,
+activists and concerned citizens who can use the evidence accumulated here for
+political campaigns, news reporting, public education and prosecution of
+criminal police officers.
 
-* This branch is just the files generated by parsing the markdown for ease of building other sites.
-* For example your webapp can query and display data from https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json
+* This branch is just the files generated by parsing the markdown for ease of
+  building other sites.
+* For example your webapp can query and display data from
+  https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json
 * For more info see https://github.com/2020PB/police-brutality
-* These data files are generated by https://github.com/2020PB/police-brutality/tree/master/tools
+* These data files are generated by
+  https://github.com/2020PB/police-brutality/tree/master/tools
 
 # THESE FILES ARE GENERATED - DO NOT EDIT (including this readme)
 
 # THESE FILES ARE GENERATED - DO NOT EDIT (including this readme)
 
-* Please edit the `.md` files on the `master` branch at https://github.com/2020PB/police-brutality
-* Also notice each data row has a `edit_at` link so you can find the source data for every entry.
+* Please edit the `.md` files on the `master` branch at
+  https://github.com/2020PB/police-brutality
+* Also notice each data row has a `edit_at` link so you can find the source
+  data for every entry.
 
 """
 

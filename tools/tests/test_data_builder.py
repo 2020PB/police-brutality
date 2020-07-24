@@ -24,7 +24,8 @@ def test_handle_missing_name(capsys):
 @pytest.mark.skip(reason="failing test, need to handle this case")
 def test_handle_name_with_multiple_pipes():
     malformed_title = "Thing happened | this day | May 30th"
-    result = title_to_name_date(malformed_title)
+    title_to_name_date(malformed_title)
+
     # what should happen here?
 
 
@@ -38,8 +39,8 @@ def test_handle_missing_date(capsys):
 
 def test_handle_weird_date_format(capsys):
     title_with_bad_date = "Title | Leb 21"
+    title_to_name_date(title_with_bad_date)
 
-    result = title_to_name_date(title_with_bad_date)
     captured = capsys.readouterr()
     assert "Failed date format parse for title" in str(captured)
 
@@ -47,6 +48,6 @@ def test_handle_weird_date_format(capsys):
 @pytest.mark.skip(reason="failing test, need to handle this case")
 def test_handle_nonexistant_date():
     title_with_bad_date = "Title | February 31st"
+    title_to_name_date(title_with_bad_date)
 
-    result = title_to_name_date(title_with_bad_date)
     # what should happen here?

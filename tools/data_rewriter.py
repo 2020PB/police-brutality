@@ -100,7 +100,8 @@ def rewrite_data(data):
 
     for state, data_rows in state_to_rows.items():
         out_path = f"{data_builder.md_dir}/{state}.md"
-        # We don't need to sort `data_rows` because we read these in the order of the markdown files
+        # We don't need to sort `data_rows` because we read these in the order
+        # of the markdown files
         new_md_text = gen_md_from_rows(state, data_rows)
         with open(out_path, "wb") as fout:
             fout.write(new_md_text.encode("utf-8"))

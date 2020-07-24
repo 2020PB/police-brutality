@@ -1,11 +1,14 @@
-import pytest
-
 from data_builder import process_md_texts
 
 
 def test_handle_dc():
     data = {
-        "Washington DC": "### Title | June 1st\n\nDescription of things \n\n**Links**\n\n* https://twitter.com/"
+        "Washington DC": (
+            "### Title | June 1st\n\n"
+            "Description of things\n\n"
+            "**Links**\n\n"
+            "* https://twitter.com/"
+        )
     }
     result = process_md_texts(data)
 
@@ -14,7 +17,12 @@ def test_handle_dc():
 
 def test_handle_missing_location():
     data = {
-        "Unknown Location": "### Title | June 1st\n\nDescription of things \n\n**Links**\n\n* https://twitter.com/"
+        "Unknown Location": (
+            "### Title | June 1st\n\n"
+            "Description of things\n\n"
+            "**Links**"
+            "\n\n* https://twitter.com/"
+        )
     }
     result = process_md_texts(data)
 
@@ -23,7 +31,15 @@ def test_handle_missing_location():
 
 def test_handle_missing_links(capsys):
     data = {
-        "Washington DC": "### Title | June 1st\n\nDescription of things \n\n**Links**\n\n\n\n### Another Title | May 31\n\nDescription.\n\n**Links**\n\n"
+        "Washington DC": (
+            "### Title | June 1st\n\n"
+            "Description of things\n\n"
+            "**Links**\n\n"
+            "\n\n"
+            "### Another Title | May 31\n\n"
+            "Description.\n\n"
+            "**Links**\n\n"
+        )
     }
     process_md_texts(data)
 
