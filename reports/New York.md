@@ -1424,6 +1424,23 @@ id: ny-newyorkcity-94
 * https://mobile.twitter.com/awilli33/status/1283440443909459968
 
 
+### Homeless man arrested and hospitalized during clearing of OccupyCityHall | July 22nd
+
+Around 7 AM during the sudden clearing of OccupyCityHall protestors, a homeless man who had been receiving food and aid at OccupyCityHall was violently arrested by police. Footage shows multiple officers holding him down while others prevent protestors from approaching and filming the arrest.
+
+He was later taken away in an ambulance, but the nature of his injuries is unclear.
+
+tags: homeless, arrest, protestor
+
+id: ny-newyorkcity-95
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1285891685608820738
+* https://twitter.com/protest_nyc/status/1285897625716350976
+* https://twitter.com/protest_nyc/status/1285900885957255168
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
