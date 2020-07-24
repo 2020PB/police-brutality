@@ -2436,6 +2436,20 @@ id: or-portland-153
 * https://twitter.com/MrOlmos/status/1286592229214056450
 
 
+### Journalist struck in hand and knee by tear gas canister | July 24th
+
+Footage from a journalist shows blood on his hand and knee, which he says was sustained by a tear gas canister which struck him while he was sitting down. This comes hours after a U.S. District Court Order against federal troops harming journalists.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: or-portland-154
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286588240636518400
+* https://twitter.com/wyattreed13/status/1286595550523961348
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
