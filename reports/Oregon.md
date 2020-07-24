@@ -2021,6 +2021,19 @@ id: or-portland-130
 * https://twitter.com/hungrybowtie/status/1285827044119441408
 
 
+### Officer destroys individual's flashlight | July 21st
+
+Footage from July 21st shows Portland police and a federal officers in a scuffle with a protestor carrying a shield with a camera mounted in it. The individual is not labeled press, but carries a camera and is called press by the filmer. Officers attempt to push the individual out of the sidewalk. A federal officer steals the individual's flashlight and later stomps on it for unknown reason. The officer then kicks the remnants back towards the individual.
+
+tags: property-destruction, abuse-of-power
+
+id: or-portland-157
+
+**Links** 
+
+* https://twitter.com/EndSoundtrack/status/1286022905835339776
+
+
 ### Protestor shoved onto tear gas canister, which then explodes | July 22nd
 
 During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protestor and throws him to the ground. The protestor lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protestor.
