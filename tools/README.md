@@ -17,11 +17,32 @@ pip install -r requirements.txt
 python tools/data_builder.py
 ```
 
+## Style/Syntax
+
+Reformat Python files using [psf/black](https://github.com/psf/black): The
+ uncompromising Python code formatter:
+
+```bash
+black .
+```
+
+Python Black is included in `requirements.txt`, however based on your method of
+installation, the `black` command may not be in your path. Adjust the command
+accordingly.
+
+Test Python files syntax using [Flake8](https://flake8.pycqa.org/en/latest/):
+Your Tool For Style Guide Enforcement:
+
+```bash
+flake8 .
+```
+
 ## Tests
 
 Tests use the [pytest](https://docs.pytest.org/) framework
 
 ### Adding tests
+
 - For getting started with Pytest, see [official docs](https://docs.pytest.org/en/stable/getting-started.html)
 - Prefix test names with `test_`
 - All test names must be unique
