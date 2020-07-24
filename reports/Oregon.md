@@ -2314,6 +2314,168 @@ id: or-portland-145
 * https://twitter.com/MrOlmos/status/1286218372103823360
 
 
+### Federal officers fire tear gas in response to fire | July 24th
+
+In response to a small trash fire started by protestors, federal officers fire a considerable amount of tear gas at the fence, much of it landing on the officers' own side.
+
+tags: shoot, tear-gas, protestor
+
+id: or-portland-146
+
+**Links**
+
+* https://twitter.com/defendpdx/status/1286565904956846080
+* https://twitter.com/defendpdx/status/1286571452523638787
+
+
+### Journalist shot in hand with explosive | July 24th
+
+Around 1:30 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a journalist films an explosive projectile shot in their direction. The projectile explodes, striking the journalist in the hand.
+
+tags: journalist, shoot, explosive, projectile
+
+id: or-portland-147
+
+**Links**
+
+* https://twitter.com/Rjaellis/status/1286578718693978113
+
+
+### Protestors struck in face | July 24th
+
+Footage shows a protestor standing in the way of federal officers attempting to cross the fence. An officer strikes him in the face with their baton, even after the protestor has begun moving backward.
+
+tags: protestor, strike, baton
+
+id: or-portland-148
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286583315324010496
+
+
+### Federal officer fire second round of tear gas | July 24th
+
+Around 1:15 AM on July 24th, federal officers declared an unlawful assembly and began pushing protestors north from the Justice Center using tear gas and impact munitions, allegedly pepper balls. The justification for the unlawful assembly declaration appears to be fireworks and a second small trash fire.
+
+tags: protestor, shoot, pepper-ball, tear-gas
+
+id: or-portland-149
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286576074680233984
+* https://twitter.com/MrOlmos/status/1286576915617157127
+* https://twitter.com/MrOlmos/status/1286581310627049472
+* https://twitter.com/hungrybowtie/status/1286565548550053889
+* https://twitter.com/hungrybowtie/status/1286566511360929792
+* https://twitter.com/hungrybowtie/status/1286567767697588225
+* https://twitter.com/hungrybowtie/status/1286568469710872576
+* https://twitter.com/hungrybowtie/status/1286578115599142912
+
+
+### Journalist shot, allegedly in the face | July 24th
+
+Around 4 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a clearly marked member of the press stands at a gap between pieces of fencing. She appears to be filming officers. Several shots are fired and the impact can be seen as they ricochet off her arm. The filmer alleges that at least one projectile struck her in the face.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-150
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1286618588757991424
+
+
+### Officers fire tear gas at protestors without apparent cause | July 24th
+
+Around 1 AM on July 24th, protestors and federal officers stand off in the street. One protestor walks between the two lines, shouting on a megaphone. Without warning, federal officers fire tear gas at the group of protestors.
+
+During this incident, a protestor steps forward and stands with his back facing officers. An officer runs forward and kicks a tear gas canister at the protestor.
+
+tags: protestor, tear-gas
+
+id: or-portland-151
+
+**Links**
+
+* https://twitter.com/Rjaellis/status/1286586303170060289
+* https://twitter.com/Rjaellis/status/1286589941170892800
+
+
+### Officers fire tear gas as they leave the scene | July 24th
+
+As federal officers retreat into the Justice Center, they fire tear gas at a group of protestors on the opposite side of the fence. There is no fire, there are no objects thrown by protestors, so justification for the tear gas is unclear.
+
+tags: protestor, tear-gas
+
+id: or-portland-152
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1286599900759695361
+
+
+### Federal officers respond to breach in fence with tear gas | July 24th
+
+After protestors manage to create a small breach in the fence surrounding the Justice Center around 1:45 AM, federal officers emerge to push protestors back using tear gas, pepper balls and flashbangs. Officers pushed protestors down the street before protestors were able to reform a shield wall and slowly push officers back towards the Justice Center. Footage shows a considerable amount of munitions used and protestors suffering from negative effects of prolonged tear gas exposure, like [here](https://twitter.com/hungrybowtie/status/1286588583067807745)
+
+tags: protestor, tear-gas, shoot, pepper-ball, flashbang
+
+id: or-portland-153
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1286587655942103040
+* https://twitter.com/hungrybowtie/status/1286588583067807745
+* https://twitter.com/hungrybowtie/status/1286590248953106433
+* https://twitter.com/hungrybowtie/status/1286595907639603200
+* https://twitter.com/hungrybowtie/status/1286597632983306240
+* https://twitter.com/MrOlmos/status/1286584067362680835
+* https://twitter.com/MrOlmos/status/1286588101133864960
+* https://twitter.com/MrOlmos/status/1286592229214056450
+
+
+### Journalist struck in hand and knee by tear gas canister | July 24th
+
+Footage from a journalist shows blood on his hand and knee, which he says was sustained by a tear gas canister which struck him while he was sitting down. This comes hours after a U.S. District Court Order against federal troops harming journalists.
+
+tags: journalist, tear-gas, tear-gas-canister
+
+id: or-portland-154
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286588240636518400
+* https://twitter.com/wyattreed13/status/1286595550523961348
+
+
+### Federal officers arrest woman dancing with flowers | July 24th
+
+Footage shows a woman dancing in front of officers with flowers in her hand. Officers grab her without warning. Another protestor attempts to help the protestor with flowers. Both are dragged away and arrested. Officers fire pepper balls at crowd to suppress protestors.
+
+tags: arrest, grab, shoot, pepper-ball, protestor
+
+id: or-portland-155
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286627567630344194
+
+
+### Federal officer tackle man to the ground | July 24th
+
+Footage shows a man walking down the street. Two federal officers charge up behind him and tackle him to the ground. From protestor response, it appears that the man was not a protestor.
+
+tags: arrest, tackle, bystander
+
+id: or-portland-156
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286613058903670784
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
