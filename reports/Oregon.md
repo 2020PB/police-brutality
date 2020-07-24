@@ -2450,6 +2450,19 @@ id: or-portland-154
 * https://twitter.com/wyattreed13/status/1286595550523961348
 
 
+### Federal officers arrest woman dancing with flowers | July 24th
+
+Footage shows a woman dancing in front of officers with flowers in her hand. Officers grab her without warning. Another protestor attempts to help the protestor with flowers. Both are dragged away and arrested. Officers fire pepper balls at crowd to suppress protestors.
+
+tags: arrest, grab, shoot, pepper-ball, protestor
+
+id: or-portland-155
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1286627567630344194
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
