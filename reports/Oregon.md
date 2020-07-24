@@ -2029,7 +2029,7 @@ tags: property-destruction, abuse-of-power
 
 id: or-portland-157
 
-**Links** 
+**Links**
 
 * https://twitter.com/EndSoundtrack/status/1286022905835339776
 
