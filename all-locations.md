@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-24T16:42:46.642391+00:00
+UPDATED AT: 2020-07-24T16:42:54.572102+00:00
 
 
 # Alabama
@@ -6010,6 +6010,41 @@ id: ny-newyorkcity-94
 
 * https://twitter.com/itsme__AG/status/1284188603292295168
 * https://mobile.twitter.com/awilli33/status/1283440443909459968
+
+
+### BLM Protestor beaten and arrested after scuffle with pro-police protestors | July 16th
+
+After a scuffle between Pro-Police and BLM protestors, police single out black protestor, punch him, tackle him to the ground, and arrest him. No pro-police protestors were arrested. It is unclear who instigated the interaction, but additional footage does show a pro-police protestor shoving BLM supporters.
+
+The individual has been charged with inciting a riot, attempted assault, disorderly conduct, and harassment.
+
+tags: tackle, punch, arrest, abuse-of-power, protestor
+
+id: ny-newyorkcity-96
+
+**Links**
+
+* https://twitter.com/SABehar/status/1283789318335668226
+* https://twitter.com/SABehar/status/1283787741466169344
+* https://qns.com/story/2020/07/14/harassment-spitting-and-assault-inside-the-ugly-bedlam-at-bayside-protests
+* https://www.instagram.com/p/CCjjt_YF6sT
+
+
+### Homeless man arrested and hospitalized during clearing of OccupyCityHall | July 22nd
+
+Around 7 AM during the sudden clearing of OccupyCityHall protestors, a homeless man who had been receiving food and aid at OccupyCityHall was violently arrested by police. Footage shows multiple officers holding him down while others prevent protestors from approaching and filming the arrest.
+
+He was later taken away in an ambulance, but the nature of his injuries is unclear.
+
+tags: homeless, arrest, protestor
+
+id: ny-newyorkcity-95
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1285891685608820738
+* https://twitter.com/protest_nyc/status/1285897625716350976
+* https://twitter.com/protest_nyc/status/1285900885957255168
 
 
 ## Rochester
