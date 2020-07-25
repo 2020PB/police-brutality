@@ -2023,7 +2023,7 @@ id: or-portland-130
 
 ### Officer destroys individual's flashlight | July 21st
 
-Footage from July 21st shows Portland police and a federal officers in a scuffle with a protestor carrying a shield with a camera mounted in it. The individual is not labeled press, but carries a camera and is called press by the filmer. Officers attempt to push the individual out of the sidewalk. A federal officer steals the individual's flashlight and later stomps on it for unknown reason. The officer then kicks the remnants back towards the individual.
+Footage from July 21st shows Portland police and a federal officers in a scuffle with a protestor carrying a shield with a camera mounted in it. The individual is not labeled press, but carries a camera and is called press by the filmer. Officers attempt to push the individual out of the street onto the sidewalk. A federal officer steals the individual's flashlight and later stomps on it for unknown reason. The officer then kicks the remnants back towards the individual.
 
 tags: property-destruction, abuse-of-power
 
