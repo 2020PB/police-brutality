@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-24T17:14:20.576745+00:00
+UPDATED AT: 2020-07-25T14:47:51.587445+00:00
 
 
 # Alabama
@@ -1146,20 +1146,48 @@ id: ca-sacramento-1
 **Links**
 
 * https://youtu.be/pRmBO34aXME
-* https://twitter.com/mynameschazz/status/1266978442722947072?s=21
+* https://twitter.com/mynameschazz/status/1266978442722947072
 
 
-### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | June 1st
+### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
 
-Sacramento law enforcement shoot protesters and then announce their assembly is unlawful.
+A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw.
 
-tags: shoot, projectile, protestor
+He is part of a lawsuit against the city of Sacramento, along with lawyer Danny Garza from ca-sacramento-2.
+
+
+
+
+https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf
+
+
+
+Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protestors have brought a lawsuit against the city of Sacramento.
+
+tags: shoot, projectile, protestor, legal-observer
 
 id: ca-sacramento-2
 
 **Links**
 
 * https://www.facebook.com/danny.garza.167/videos/10222535335080905/
+* https://www.abc10.com/article/news/local/sacramento/sacramento-police-sued-for-exessive-force-allegation/103-3ae82150-782c-4606-a5e5-6d25bb10bb00?fbclid=IwAR0ru-oqE9MEgTpBdSE81XM19qxsxngBjtjgavg0WPWG9-HnB3y6ft0DhGE
+* https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pd
+
+
+### Police fire tear gas and flashbangs without apparent cause | May 31st
+
+Footage shows protestors facing off against police. Without warning, police fire tear gas and flashbangs, causing protestors to flee.
+
+tags: flashbangs, tear-gas, protestor
+
+id: ca-sacramento-5
+
+**Links**
+
+* https://www.reddit.com/r/Sacramento/comments/gul234/last_night_sacramento_protesters_for_george_floyd/
+* https://www.youtube.com/watch?v=TSshaAoTuUw
 
 
 ### Police choke man and push woman filming event to the ground | June 1st
