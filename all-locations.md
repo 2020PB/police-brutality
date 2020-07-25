@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-25T14:47:51.587445+00:00
+UPDATED AT: 2020-07-25T22:30:37.831478+00:00
 
 
 # Alabama
@@ -9093,6 +9093,19 @@ id: or-portland-130
 * https://twitter.com/hungrybowtie/status/1285828096461922304
 * https://twitter.com/hungrybowtie/status/1285827585486671873
 * https://twitter.com/hungrybowtie/status/1285827044119441408
+
+
+### Officer destroys individual's flashlight | July 21st
+
+Footage from July 21st shows Portland police and a federal officers in a scuffle with a protestor carrying a shield with a camera mounted in it. The individual is not labeled press, but carries a camera and is called press by the filmer. Officers attempt to push the individual out of the street onto the sidewalk. A federal officer steals the individual's flashlight and later stomps on it for unknown reason. The officer then kicks the remnants back towards the individual.
+
+tags: property-destruction, abuse-of-power
+
+id: or-portland-157
+
+**Links**
+
+* https://twitter.com/EndSoundtrack/status/1286022905835339776
 
 
 ### Protestor shoved onto tear gas canister, which then explodes | July 22nd
