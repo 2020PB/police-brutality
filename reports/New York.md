@@ -1459,6 +1459,19 @@ id: ny-newyorkcity-95
 * https://twitter.com/protest_nyc/status/1285900885957255168
 
 
+### Police beat protestors with batons | July 24th
+
+Footage shows a small group of protestors walking down the street. Police charge them without warning. One protestor is slammed against the hood of a squad car. Several protestors are beaten with batons and shoved with police bicycles.
+
+tags: beat, shove, strike, protestor, bicycle, baton, arrest
+
+id: ny-newyorkcity-99
+
+**Links**
+
+* https://www.instagram.com/p/CDDVu-Tlyiy/
+
+
 ### Police arrest woman yelling at them | July 25th
 
 Footage shows a woman yelling at police. From her words, police have asked her to back up. Police say, "Back up" again. She steps forward, saying, "Or fucking what?" An officer in a white shirt pushes through the officers to grab her. Several officers then assist him in arresting the woman.
