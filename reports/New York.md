@@ -433,7 +433,7 @@ id: ny-newyorkcity-88
 * https://twitter.com/jeancosme/status/1266938900184006656
 
 
-###  | 
+###  |
 
 In an incident at Bedford and Tilden Avenues in Brooklyn, an officer pushes through a crowd and grabs a person by the neck to push them aside. Another officer knocks the person over, and the first officer throws the person down again when they try to get up.
 
@@ -1457,6 +1457,32 @@ id: ny-newyorkcity-95
 * https://twitter.com/protest_nyc/status/1285891685608820738
 * https://twitter.com/protest_nyc/status/1285897625716350976
 * https://twitter.com/protest_nyc/status/1285900885957255168
+
+
+### Police arrest woman yelling at them | July 25th
+
+Footage shows a woman yelling at police. From her words, police have asked her to back up. Police say, "Back up" again. She steps forward, saying, "Or fucking what?" An officer in a white shirt pushes through the officers to grab her. Several officers then assist him in arresting the woman.
+
+tags: arrest, protestor, abuse-of-power
+
+id: ny-newyorkcity-98
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1287203714562953216
+
+
+### Police shove protestors with shields | July 25th
+
+Police shield line forces protestors back. Protestors trapped between police and barricades are squeezed and shoved over the barricades.
+
+tags: protestor, shove, shield
+
+id: ny-newyorkcity-97
+
+**Links**
+
+* https://www.instagram.com/tv/CDFndP4jem2/
 
 
 ## Rochester
