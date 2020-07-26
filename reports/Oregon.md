@@ -2630,6 +2630,20 @@ id: or-portland-164
 * https://twitter.com/DonovanFarley/status/1286959196655689730
 
 
+### Federal officers pepper spray protestors across fence | July 25th
+
+Federal officers and protestors are separated by a chain link fence. Protestors are standing still. Officers discharge pepper spray in the air through the fence.
+
+tags: protestor, pepper-spray, spray
+
+id: or-portland-166
+
+**Links**
+
+* https://twitter.com/arfbradford/status/1287271089362542592
+* https://twitter.com/MrOlmos/status/1287278027009736705
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
