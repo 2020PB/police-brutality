@@ -687,3 +687,16 @@ id: wa-seattle-46
 * https://twitter.com/slydesilva/status/1287236203876462592
 * https://twitter.com/GoldsteinStreet/status/1287236138604703746
 
+
+
+### Police ride bikes into crowd and arrest protestors | July 25th
+
+Police on Pine Street again surged forward. This time, police on bikes ride into the crowd, jump off and tackle protestors for arrest.
+
+tags: protestor, bike, tackle, arrest
+
+id: wa-seattle-47
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1287240894219841536
