@@ -2698,6 +2698,20 @@ id: or-portland-169
 * https://twitter.com/MrOlmos/status/1287312287557066752
 
 
+### Police charge protestors | July 26th
+
+Footage shows police charging protestors without warning while a megaphone declares the gathering a riot. Several protestors are shoved to the ground. One protestor is shoved against a car and arrested.
+
+tags: protestor, shove, arrest, push
+
+id: or-portland-170
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287317374664810496
+* https://twitter.com/itsmikebivins/status/1287317505262813184
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
