@@ -560,3 +560,16 @@ id: wa-seattle-37
 **Links**
 
 * https://twitter.com/richsssmith/status/1287172691540115456
+
+
+### Police deploy tear gas and flashbangs against protestors | July 25th
+
+Police deploy tear gas and flashbangs against protestors at Broadway and Pine. The filmer several blocks away states that the tear gas has drifted into his home and "is choking us."
+
+tags: protestor, bystander, tear-gas, flashbang
+
+id: wa-seattle-38
+
+**Links**
+
+* https://twitter.com/menilivne/status/1287181347845365760
