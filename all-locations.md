@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T22:23:05.986094+00:00
+UPDATED AT: 2020-07-26T22:28:06.637070+00:00
 
 
 # Alabama
@@ -9837,6 +9837,125 @@ id: or-portland-164
 * https://twitter.com/LindseyPSmith7/status/1286959678874763264
 * https://twitter.com/DonovanFarley/status/1286958610044526592
 * https://twitter.com/DonovanFarley/status/1286959196655689730
+
+
+### Federal officers pepper spray protestors across fence | July 25th
+
+Federal officers and protestors are separated by a chain link fence. Protestors are standing still. Officers discharge pepper spray in the air through the fence.
+
+tags: protestor, pepper-spray, spray
+
+id: or-portland-166
+
+**Links**
+
+* https://twitter.com/arfbradford/status/1287271089362542592
+* https://twitter.com/MrOlmos/status/1287278027009736705
+
+
+### Exchange of tear gas and fireworks between federal officers and protestors | July 25th
+
+Footage shows an extended exchange between protestors and federal officers. It is unclear what begins the exchange, but the earliest footage shows federal officers firing tear gas at protestors. In response, protestors return the tear gas or use leafblowers to disperse it. In addition, a few fireworks are launched at federal officers. Federal officers respond with additional tear gas, flashbangs and impact munitions.
+
+During this exchange, [a reporter was struck by six pepper balls in the chest, wrist and face](https://twitter.com/1misanthrophile/status/1287302973257682945). An [image](https://twitter.com/1misanthrophile/status/1287308011229200390) shows her swollen wrist.
+
+tags: protestor, journalist, tear-gas, pepper-ball, flashbang, shoot
+
+id: or-portland-167
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1287272963482333185
+* https://twitter.com/MrOlmos/status/1287270494647930887
+* https://twitter.com/MrOlmos/status/1287270728031539201
+* https://twitter.com/MrOlmos/status/1287272664776626176
+* https://twitter.com/MrOlmos/status/1287273403582300160
+* https://twitter.com/MrOlmos/status/1287273684483235840
+* https://twitter.com/MrOlmos/status/1287274018391769093
+* https://twitter.com/MrOlmos/status/1287275276708147200
+* https://twitter.com/MrOlmos/status/1287276401033244672
+* https://twitter.com/tuckwoodstock/status/1287275934064635905
+* https://twitter.com/1misanthrophile/status/1287311319125749762
+* https://twitter.com/1misanthrophile/status/1287311790443921408
+* https://twitter.com/1misanthrophile/status/1287302973257682945
+* https://twitter.com/1misanthrophile/status/1287308011229200390
+
+
+### Federal officers respond to thrown water bottle with excessive force | July 26th
+
+After protestors allegedly threw a water bottle at federal officers, officers respond with a significant volley of tear gas, catching what appears to be a bystander pick-up truck, which then drives off. In addition, the canisters appear to light a small fire in the street.
+
+tags: protestor, bystander, tear-gas
+
+id: or-portland-168
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1287355449222680578
+
+
+### Tear gas canister shot through window of car | July 26th
+
+An image shows the aftermath of a tear gas canister shot through the window of an empty parked car.
+
+tags: bystander, property-destruction, tear-gas
+
+id: or-portland-169
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287312287557066752
+
+
+### Police charge protestors | July 26th
+
+Footage shows police charging protestors without warning while a megaphone declares the gathering a riot. Several protestors are shoved to the ground. One protestor is shoved against a car and arrested.
+
+tags: protestor, shove, arrest, push
+
+id: or-portland-170
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287317374664810496
+* https://twitter.com/itsmikebivins/status/1287317505262813184
+
+
+### Second exchange of tear gas and impact munitions between federal officers and protestors | July 26th
+
+Protestors and police face off at torn-down fence outside the Justice center. Protestors throw fireworks and shine lasers. Federal police respond with tear gas and impact munitions.
+
+[A journalist is shot in the hand during the incident](https://twitter.com/MrOlmos/status/1287301148748046336).
+
+[A protestor is dragged to the ground, press are pushed away](https://twitter.com/MrOlmos/status/1287304522553950208).
+
+[One officer aims a long gun appearing to contain live ammunition at press, then brandishes pepper spray](https://twitter.com/MrOlmos/status/1287305090542395392).
+
+tags: protestor, journalist, shoot, projectile, shove, threaten, tear-gas
+
+id: or-portland-171
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287301148748046336
+* https://twitter.com/MrOlmos/status/1287301721530671109
+* https://twitter.com/MrOlmos/status/1287304522553950208
+* https://twitter.com/MrOlmos/status/1287305090542395392
+* https://twitter.com/itsmikebivins/status/1287305326224486402
+* https://twitter.com/itsmikebivins/status/1287301156054528003
+
+
+### Vietnam veteran pepper sprayed in the face | July 26th
+
+Footage shows a Vietname veteran talking to federal officers from a distance of several feet. An officer approaches him, shines a light in his face, pepper sprays him, then tells him to back up.
+
+tags: protestor, pepper-spray, spray
+
+id: or-portland-172
+
+**Links**
+
+* https://twitter.com/andrewkimmel/status/1287319466120904704
 
 
 ## Salem
