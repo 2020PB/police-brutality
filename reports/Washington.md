@@ -590,3 +590,16 @@ id: wa-seattle-39
 **Links**
 
 * https://twitter.com/franceschogan/status/1287202059691814912
+
+
+### Police pepper spray man holding bike | July 25th
+
+A protestor holding a bike and standing several feet away from police is pepper sprayed. Protestors shout, "He did nothing wrong. Whatthe fuck?" Another protestor helps the pepper-sprayed protestor back away from police. At the end of the video, another protestor picks up the bike to walk it back.
+
+tags: protestor, pepper-spray, spray
+
+id: wa-seattle-40
+
+**Links**
+
+* https://twitter.com/pmalonedc/status/1287213310505410562
