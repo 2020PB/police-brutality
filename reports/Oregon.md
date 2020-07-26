@@ -2749,6 +2749,19 @@ id: or-portland-172
 * https://twitter.com/andrewkimmel/status/1287319466120904704
 
 
+### Federal officer pepper sprays journalist | July 26th
+
+Footage shows federal officers walking through clouds of tear gas. An officer pepper sprays the filmer, a journalist.
+
+tags: journalist, tear-gas, pepper-spray, spray
+
+id: or-portland-173
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1287312203045978112
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
