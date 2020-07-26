@@ -506,3 +506,19 @@ id: wa-seattle-33
 **Links**
 
 * https://twitter.com/dailydigger19/status/1287194441858588672
+
+
+### Police make violent arrests and pepper spray crowd | July 25th
+
+Footage shows police dragging off a woman in handcuffs. Another woman grabs the protestor, but (off camera) lets go and falls to the ground. Police pepper spray nearby protestors.
+
+The camera pans back to the protestor on the ground. She is grabbed by an officer and walked away. She appears to be obeying the officer. She falls to the ground, passively resisting. The officer then holds her in what appears to be an arm bar, kneels on her, and arrests her.
+
+tags: pepper-spray, spray, protestor, shove, arrest, knee
+
+id: wa-seattle-34
+
+**Links**
+
+* https://twitter.com/KittyLists/status/1287191491924779009
+
