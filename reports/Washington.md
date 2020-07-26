@@ -456,9 +456,9 @@ id: wa-seattle-29
 
 ### Officer holds down protestor to arrest, pepper sprays nurse | July 25th
 
-Footage shows Seattle police pinning a protestor down against a concrete barrier to arrest them. A nurse in scrubs approaches the officers and protestor but is immediately pepper sprayed.
+Footage shows Seattle police pinning a protestor down against a concrete barrier to arrest them. A nurse in scrubs grabs the protestor. She says "something hit me in the ass," believed to be an impact munition She is then pepper sprayed.
 
-tags: protestor, arrest, pepper-spray, spray
+tags: protestor, arrest, pepper-spray, spray, shoot, projectile
 
 id: wa-seattle-30
 
@@ -467,3 +467,7 @@ id: wa-seattle-30
 * https://mobile.twitter.com/mlbaruchman/status/1287189436745150464
 * https://mobile.twitter.com/SimoneReports/status/1287197567772553216
 * https://twitter.com/greg_doucette/status/1287252831620206598
+
+
+### Officer shoots protestor who bangs stick on ground | July 25th
+
