@@ -700,3 +700,16 @@ id: wa-seattle-47
 **Links**
 
 * https://twitter.com/slydesilva/status/1287240894219841536
+
+
+### Police use pepper spray to push protestors back | July 25th
+
+Police with batons push the crowd back, discharging pepper spray to speed protestors up.
+
+tags: protestor, pepper-spray, spray
+
+id: wa-seattle-48
+
+**Links**
+
+* https://twitter.com/daeshikjr/status/1287263163159781376
