@@ -868,6 +868,19 @@ id: ca-riverside-1
 
 ## Sacramento
 
+### Man severely injured by tear gas and impact munitions | May 30th
+
+A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw. He is part of a lawsuit against the city, along with lawyer Danny Garza.
+
+tags: shoot, projectile, protestor, tear-gas
+
+id: ca-sacramento-6
+
+**Links**
+
+* https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+
+
 ### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
