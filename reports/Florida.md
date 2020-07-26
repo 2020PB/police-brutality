@@ -151,6 +151,7 @@ id: fl-orlando-7
 * https://www.youtube.com/watch?v=vH5YyL-Q0-Q
 * https://www.reddit.com/r/protest/comments/gx86zm/53120_orlando_pd_deploys_tear_gas_on_peaceful_i4/
 
+
 ### Police tackle & pepper spray peaceful protestors | June 1st
 
 Footage shows police charging at protestors and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protestor. Police continue to discharge pepper spray and force away protestors trying to aid victims.
