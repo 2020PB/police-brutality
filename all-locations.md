@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T21:19:59.917269+00:00
+UPDATED AT: 2020-07-26T21:20:13.070853+00:00
 
 
 # Alabama
@@ -1897,6 +1897,19 @@ id: co-denver-18
 **Links**
 
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
+
+
+### Police pepper spray protestors without apparent cause | June 6th
+
+Protestors yell at a police officer to put his pepper spray away. The officer shakes his head, then pepper sprays the protestors.
+
+tags: protestor, spray, pepper-spray
+
+id: co-denver-25
+
+**Links**
+
+* https://mobile.twitter.com/greg_doucette/status/1287247799483092992
 
 
 ### Police pepper spray protestor with hands up | (Believed to be) June 21st
