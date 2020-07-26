@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T18:44:39.565030+00:00
+UPDATED AT: 2020-07-26T18:45:42.117125+00:00
 
 
 # Alabama
@@ -9705,6 +9705,19 @@ id: or-portland-159
 
 * https://twitter.com/MrOlmos/status/1286915839686373378
 * https://twitter.com/GriffinMalone6/status/1286911691628765184
+
+
+### Disabled veteran hit directly by tear gas canister | July 24th
+
+A woman in full military dress and carrying a sign that says "Disabled Veterans 4 BLM" is hit directly by a tear gas canister.
+
+tags: protestor, person-with-disability, tear-gas, tear-gas-canister
+
+id: or-portland-165
+
+**Links**
+
+* https://twitter.com/tyler_ensign/status/1286940248006512640
 
 
 ### Unlawful assembly declared; federal officers fire tear gas | July 25th
