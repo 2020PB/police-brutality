@@ -453,3 +453,13 @@ id: wa-seattle-29
 
 * https://twitter.com/spekulation/status/1285468287334141952
 
+
+### Cop tackles cyclist | July 25th
+
+Video shows a cyclist who appears to be unassociated with the protest slowly approaching an area where cops and police vans are in the process of blocking off the street. A cop walking away from the camera clearly glances at the cyclist but doesn't appear to issue any warning and looks away. Presumably unaware of what's happening, the cyclist tries to ride through. The cop then suddenly rushes the cyclist and tackles them off the bicycle. Other cops converge to arrest the cyclist.
+
+tags: arrest, bystander, bike, tackle
+
+**Links**
+
+* https://twitter.com/StellarArris/status/1287446170403508226
