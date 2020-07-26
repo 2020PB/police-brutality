@@ -838,6 +838,19 @@ id: ca-oakland-3
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
+### Protestor singled out, chased and arrested | July 26th
+
+Police gather around a protestor standing on a pedestrian median. He is singled out by police. He is threatened with arrest, then flees. A hissing sound can be heard prior to his flight, which may be pepper spray. Officers then chase, tackle, and arrest him. Motive for the arrest is unclear.
+
+tags: protestor, arrest, tackle
+
+id: ca-oakland-4
+
+**Links**
+
+* https://twitter.com/SarahBelleLin/status/1287321616636997632
+
+
 ## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
