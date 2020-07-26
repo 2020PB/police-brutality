@@ -2685,6 +2685,19 @@ id: or-portland-168
 * https://twitter.com/PDocumentarians/status/1287355449222680578
 
 
+### Tear gas canister shot through window of car | July 26th
+
+An image shows the aftermath of a tear gas canister shot through the window of an empty parked car.
+
+tags: bystander, property-destruction, tear-gas
+
+id: or-portland-169
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287312287557066752
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
