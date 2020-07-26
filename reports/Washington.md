@@ -471,3 +471,25 @@ id: wa-seattle-30
 
 ### Officer shoots protestor who bangs stick on ground | July 25th
 
+A protestor standing about 20ft from police bangs a stick on the ground. Police then shoot him in the arm.
+
+tags: protestor, shoot, projectile
+
+id: wa-seattle-31
+
+**Links**
+
+* https://mobile.twitter.com/pmalonedc/status/1287192637296934913
+
+
+### Violent arrest made by police, tear gas deployed | July 25th
+
+Footage shows several officers grabbing a small woman to arrest her. She passively resists. Three officers then tackle her to the ground while another officer deploys tear gas against the crowd of protestors.
+
+tags: protestor, arrest, tackle, grab, tear-gas
+
+id: wa-seattle-32
+
+**Links**
+
+* https://twitter.com/BrandiKruse/status/1287190206408400897
