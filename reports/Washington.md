@@ -522,3 +522,16 @@ id: wa-seattle-34
 
 * https://twitter.com/KittyLists/status/1287191491924779009
 
+
+### Police make violent arrests and discharge pepper spray | July 25th
+
+Overhead footage from a news report shows police charging across their bike line into the crowd to tackle protestors and make arrests. After one protestor is subdued, police pepper spray the others to push them back.
+
+tags: arrest, protestor, tackle, shove, pepper-spray, spray
+
+id: wa-seattle-35
+
+**Links**
+
+* https://twitter.com/VideosSeattle/status/1287195618247548928
+
