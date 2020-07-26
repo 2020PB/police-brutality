@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T21:20:13.070853+00:00
+UPDATED AT: 2020-07-26T22:22:26.936868+00:00
 
 
 # Alabama
@@ -6155,6 +6155,19 @@ id: ny-newyorkcity-95
 * https://twitter.com/protest_nyc/status/1285891685608820738
 * https://twitter.com/protest_nyc/status/1285897625716350976
 * https://twitter.com/protest_nyc/status/1285900885957255168
+
+
+### Police beat protestors with batons | July 24th
+
+Footage shows a small group of protestors walking down the street. Police charge them without warning. One protestor is slammed against the hood of a squad car. Several protestors are beaten with batons and shoved with police bicycles.
+
+tags: beat, shove, strike, protestor, bicycle, baton, arrest
+
+id: ny-newyorkcity-99
+
+**Links**
+
+* https://www.instagram.com/p/CDDVu-Tlyiy/
 
 
 ### Police arrest woman yelling at them | July 25th
