@@ -493,3 +493,16 @@ id: wa-seattle-32
 **Links**
 
 * https://twitter.com/BrandiKruse/status/1287190206408400897
+
+
+### Police use bikes and pepper spray to push protestors | July 25th
+
+Footage shows police using their bikes to push protestors back. One officer discharges pepper spray against protestors obeying the order to move back. Another officer grabs an umbrella held out by a protestor, breaking it.
+
+tags: protestor, bike, pepper-spray, spray, property-destruction
+
+id: wa-seattle-33
+
+**Links**
+
+* https://twitter.com/dailydigger19/status/1287194441858588672
