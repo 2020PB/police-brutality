@@ -604,3 +604,16 @@ id: wa-seattle-40
 
 * https://twitter.com/pmalonedc/status/1287213310505410562
 
+
+### Police make violent arrest | July 25th
+
+Footage from Cal Anderson shows police dragging a woman across the gravel. She screams. Police then chase off other protestors. The camera pans back to the woman as she is shoved against a knee high concrete barrier. Officers then grab her again and throw her to the ground to arrest her. Other officers then crowd around to inhibit filming. The protestor does not appear to resist arrest at any point.
+
+tags: protestor, grab, shove, throw
+
+id: wa-seattle-41
+
+**Links**
+
+* https://twitter.com/LizTurnbull5/status/1287226515642449920
+
