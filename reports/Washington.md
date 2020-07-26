@@ -630,3 +630,18 @@ id: wa-seattle-42
 
 * https://twitter.com/richsssmith/status/1287176053073408000
 
+
+### Police fire tear gas at protestors following directions | July 25th
+
+Footage shows protestors walking peacefully in the direction specified by SPD. Police launch tear gas into the crowd. Justification is not clear.
+
+Officers also appear to shove stragglers with their batons.
+
+tags: protestor, tear-gas, push, shove, baton
+
+id: wa-seattle-43
+
+**Links**
+
+* https://twitter.com/davjhan/status/1287216171595345920
+* https://twitter.com/sean_roulette/status/1287216968320212993
