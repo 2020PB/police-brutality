@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T18:44:14.468397+00:00
+UPDATED AT: 2020-07-26T18:44:39.565030+00:00
 
 
 # Alabama
@@ -11172,6 +11172,51 @@ id: va-richmond-13
 * https://twitter.com/rva_charlie/status/1276740309171437568
 * https://twitter.com/rva_charlie/status/1276741883516071938
 * https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
+
+
+### Police fire tear gas at protestors | June 26th
+
+Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protestors.
+
+tags: protestor, tear-gas
+
+id: va-richmond-14
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1287252197487648768
+
+
+### Police tear gas protestors | July 25th
+
+After a truck has been lit on fire, allegedly by protestors, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
+
+tags: protestor, tear-gas
+
+id: va-richmond-15
+
+**Links**
+
+* https://twitter.com/aeringle/status/1287225259356192769
+* https://twitter.com/aeringle/status/1287225570028400640
+* https://twitter.com/hannaheason_/status/1287225909037105152
+* https://twitter.com/hannaheason_/status/1287228239388258307
+
+
+### Police attempt to arrest press | July 25th
+
+Footage shows police grabbing two members of the press and detaining them. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protestors away. The journalists are eventually released.
+
+One of the journalists states that he was attempting to flush tear gas from his eyes when he was arrested.
+
+tags: journalist, grab, abuse-of-power
+
+id: va-richmond-16
+
+**Links**
+
+* https://twitter.com/JLJLovesRVA/status/1287242052284096513
+* https://twitter.com/edace2936/status/1287226623348137984
 
 
 
