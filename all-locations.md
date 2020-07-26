@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T22:28:06.637070+00:00
+UPDATED AT: 2020-07-26T22:29:08.416820+00:00
 
 
 # Alabama
@@ -4592,6 +4592,21 @@ id: ne-omaha-2
 
 * https://twitter.com/reecereports/status/1267629669093978117
 * https://twitter.com/greg_doucette/status/1267649720215834626
+
+
+### Police officer shoves protestor on bike; police then escalate | July 25th
+
+Footage shows a police officer shoving a protestor on a bike. Police then fire impact munitions at protestors and shove protestors back. Protestors are pushed back to the highway fence. An officer grabs a protestor standing around and takes him to the ground to arrest him. Police arrest more individuals, including the filmer, a journalist. The journalist states she has a press badge. The officer says, "I don't know that that's real," and arrests her, cuffing her with zip-ties.
+
+tags: protestor, journalist, shove, arrest, zip-tie, shoot, projectile
+
+id: ne-omaha-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1287403828086738944
+* https://twitter.com/greg_doucette/status/1287404544893358081
+* https://twitter.com/greg_doucette/status/1287443337440616450
 
 
 
