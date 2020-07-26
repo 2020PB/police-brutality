@@ -548,3 +548,15 @@ id: wa-seattle-36
 
 * https://twitter.com/lukeryderrr/status/1287172224588214272
 
+
+### Police pepper spray protestors on sidewalk | July 25th
+
+Police approach protestors standing on the sidewalk and hiding behind umbrellas. Officers flank and pepper spray them. A protestor crossing the street is then pepper sprayed. An officer holding a bike swings the bike's rear tire in the air at protestors. Police continue to discharge pepper spray.
+
+tags: protestor, pepper-spray, spray, bike
+
+id: wa-seattle-37
+
+**Links**
+
+* https://twitter.com/richsssmith/status/1287172691540115456
