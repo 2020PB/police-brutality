@@ -152,19 +152,20 @@ id: ca-lamesa-2
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face with rubber bullet | May 31st
+### Police shoot woman in the face with bean bag | May 31st
 
-La Mesa PD shoot a woman in the face with a rubber bullet.
+La Mesa PD shoot a woman in the face with a bean bag round.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, bean-bag, protestor
 
 id: ca-lamesa-1
 
 **Links**
 
-* At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
+* [10:20](https://www.facebook.com/100010947670361/videos/1115087385532840)
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
+* [Body cam footage](https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hw99zb/la_mesa_police_bodycam_of_the_protests_leslie/)
 
 
 ## Long Beach
@@ -663,6 +664,19 @@ id: ca-losangeles-31
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
 
 
+### Protestor shows wound inflicted by less-lethal round | June 3rd
+
+Footage from June 3rd shows a still of a wound on a protestor's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+tags: protestor, shoot, projectile
+
+id: ca-losangeles-41
+
+**Links**
+
+* https://www.instagram.com/p/CBBpSZPnyke/
+
+
 ### Police fire projectiles at protesters and discharge teargas | June 5th
 
 In Lakewood, police fire projectiles at protesters and discharge teargas.
@@ -676,6 +690,19 @@ id: ca-losangeles-20
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+### Medic treats rubber bullet wound | June 8th
+
+Footage from June 8th shows a medic treating a wound on the thigh of a female protestor. The bullet broke the skin and has caused major bruising in a circle around the point of contact. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+tags: protestor, shoot, rubber-bullet
+
+id: ca-losangeles-42
+
+**Links**
+
+* https://www.instagram.com/p/CBKohCXnJld/
 
 
 ### Police tear gas peaceful protest | June 21st
@@ -712,9 +739,13 @@ id: ca-losangeles-22
 
 ### Police make violent arrests, including ripping a protestor out of his wheelchair and inducing an asthma attack | July 15th
 
-Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him.
+Footage shows a scuffle as police arrest protestors. A protestor in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protestor grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protestor. The protestor who was in the wheelchair passively resists by locking his arms while police arrest him. Body cam footage released by the LAPD shows the man in the wheelchair striking an officer in the face during a physical altercation between the protestor and the officer. Notably, the LAPD footage fails to show the lead up to the protestor in the wheelchair slapping the officer.
 
 Footage from instagram (second link, fourth in list) shows a man suffering an asthma attack after allegedly being struck in the neck with a baton. The last video in the instagram post appears to show the man on a gurney receiving medical attention. Other videos in the post show police shoving protestors with their hands and with batons. The poster also alleges that police held a woman in a chokehold.
+
+Additional [footage](https://www.instagram.com/p/CCqPuekHCyg/) shows an officer striking a protestor with a baton as the protestor tries to help the man in the wheelchair.
+
+Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges against him were dropped.\
 
 tags: arrest, shove, strike, property-destruction, person-with-disability, baton
 
@@ -725,6 +756,11 @@ id: ca-losangeles-40
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hrwunn/cops_assaulting_blm_protesters_including_a_man_in
 * https://www.instagram.com/p/CCsYvr7n-Rg/
 * https://www.latimes.com/california/story/2020-07-16/police-said-they-assaulted-an-officer-but-protesters-have-a-different-account
+* https://www.nbcbayarea.com/news/national-international/lapd-releases-video-from-confrontation-with-protesters-in-downtown-la/2328794/?_osource=SocialFlowTwt_BAYBrand
+* https://twitter.com/LAPDHQ/status/1284891644454596608
+* https://www.instagram.com/p/CCqPuekHCyg/
+* https://twitter.com/allykerans/status/1283563591900164096
+* https://www.instagram.com/p/CCxPb28hRdN/
 
 
 ## Norco
@@ -805,7 +841,7 @@ id: ca-riverside-1
 
 ## Sacramento
 
-### Police shoot protester in the head | May 31st
+### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
@@ -816,20 +852,48 @@ id: ca-sacramento-1
 **Links**
 
 * https://youtu.be/pRmBO34aXME
-* https://twitter.com/mynameschazz/status/1266978442722947072?s=21
+* https://twitter.com/mynameschazz/status/1266978442722947072
 
 
-### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | June 1st
+### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
 
-Sacramento law enforcement shoot protesters and then announce their assembly is unlawful.
+A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw.
 
-tags: shoot, projectile, protestor
+He is part of a lawsuit against the city of Sacramento, along with lawyer Danny Garza from ca-sacramento-2.
+
+
+
+
+https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf
+
+
+
+Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protestors have brought a lawsuit against the city of Sacramento.
+
+tags: shoot, projectile, protestor, legal-observer
 
 id: ca-sacramento-2
 
 **Links**
 
 * https://www.facebook.com/danny.garza.167/videos/10222535335080905/
+* https://www.abc10.com/article/news/local/sacramento/sacramento-police-sued-for-exessive-force-allegation/103-3ae82150-782c-4606-a5e5-6d25bb10bb00?fbclid=IwAR0ru-oqE9MEgTpBdSE81XM19qxsxngBjtjgavg0WPWG9-HnB3y6ft0DhGE
+* https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pd
+
+
+### Police fire tear gas and flashbangs without apparent cause | May 31st
+
+Footage shows protestors facing off against police. Without warning, police fire tear gas and flashbangs, causing protestors to flee.
+
+tags: flashbangs, tear-gas, protestor
+
+id: ca-sacramento-5
+
+**Links**
+
+* https://www.reddit.com/r/Sacramento/comments/gul234/last_night_sacramento_protesters_for_george_floyd/
+* https://www.youtube.com/watch?v=TSshaAoTuUw
 
 
 ### Police choke man and push woman filming event to the ground | June 1st

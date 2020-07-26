@@ -81,6 +81,23 @@ id: mi-detroit-6
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 
+### Reporter detained without apparent cause | May 31st
+
+Footage shows a reporter walking across a park to film an arrest. She is approached by an officer (off camera) who asks who she is with. He then zip-ties her and walks her to another location. Around 4:20, she is released. An individual explaining (not seen, but has the same voice as the arresting officer) says, "You were hanging out with those two people. It looked like they were throwing bottles at us. Do us a favor and trip them when they're running or something to make it easier on us."
+
+Footage from another reporter shows her handcuffed and led to the car. This reporter states that a group of press intervened to have her released.
+
+tags: journalist, zip-ties
+
+id: mi-detroit-11
+
+**Links**
+
+* https://www.facebook.com/DetroitNews/videos/855231228320197/
+* https://twitter.com/MKurlyandchik/status/1267269219789529090
+* https://pressfreedomtracker.us/all-incidents/detroit-news-journalist-captures-her-own-detention-livestream/
+
+
 ### Police charge protestors and press | June 2nd
 
 Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning.
@@ -133,7 +150,7 @@ id: mi-detroit-9
 
 A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protestors were dispersed using shields and batons. Protestors retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
-tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister  
+tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister
 
 id: mi-detroit-10
 

@@ -218,6 +218,22 @@ id: tx-austin-12
 * https://twitter.com/AltUniverseWash/status/1277104706222002177
 
 
+### Livestreamer arrested and punched | July 17th
+
+Footage shows police approaching a crowd of protestors, singling out livestreamer Hiram Gilberto and arresting him. When the crowd objects, other officers shove the protestors.
+
+Additional footage shows Gilberto tackled to the ground, zip-tied and punched.
+
+tags: journalist, punch, zip-tie, tackle, arrest
+
+id: tx-austin-15
+
+**Links**
+
+* https://streamable.com/srj5s7
+* https://twitter.com/greg_doucette/status/1284497853843415047
+
+
 ## Baytown
 
 ### Police officer tackles and knees man on the ground | June 2nd

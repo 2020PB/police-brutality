@@ -121,7 +121,36 @@ id: fl-miami-3
 * https://twitter.com/nikoboxxx/status/1278473483257708544
 
 
+### Police roughly arrest protest organizer | July 16th
+
+Footage shows a small group of protestors on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protestor who attempts to intervene.
+
+tags: arrest, shove, protestor, abuse-of-power
+
+id: fl-miami-4
+
+**Links**
+
+* https://www.youtube.com/watch?v=-4h4uAIt52Q&feature=youtu.be
+* https://www.reddit.com/r/PublicFreakout/comments/hshrzh/blm_organizer_attacked_arrested_alongwith_friends/
+* https://twitter.com/attorneycrump/status/1283855142673055745
+
+
 ## Orlando
+
+### Police use tear gas and flashbangs against peaceful protestors | May 31st
+
+A group of protestors is exiting the on ramp of I-4 on May 31st. A water bottle is thrown by a protestor, landing far from police. Police throw a flashbang. A protestor then throws a water bottle, landing near police. On both occasions, the crowd decries the actions of the bottle throwers. Police then deploy tear gas against the protestors.
+
+tags: protestor, tear-gas, flashbang
+
+id: fl-orlando-7
+
+**Links**
+
+* https://www.youtube.com/watch?v=vH5YyL-Q0-Q
+* https://www.reddit.com/r/protest/comments/gx86zm/53120_orlando_pd_deploys_tear_gas_on_peaceful_i4/
+
 
 ### Police tackle & pepper spray peaceful protestors | June 1st
 
@@ -134,6 +163,19 @@ id: or-orlando-5
 **Links**
 
 * https://twitter.com/Concerned407/status/1268339148131307524
+
+
+### Police pepper spray protestors during arrest | June 1st
+
+During a protest in Orlando, at the intersection of W South St. and S Division Ave, police tackle a protestor and arrest them. The crowd becomes agitated and gathers around. Police pepper spray protestors, including one man in a wheelchair, who then has difficulty leaving the scene. Protestors then rush to aid the man in the wheelchair.
+
+tags: protestor, person-with-disability, pepper-spray, spray, tackle, arrest
+
+id: or-orlando-8
+
+**Links**
+
+* https://www.facebook.com/probably.not.you/videos/3518978511449150/
 
 
 ### Police use excessive force during an arrest | June 2nd

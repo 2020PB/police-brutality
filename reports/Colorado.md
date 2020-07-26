@@ -24,6 +24,17 @@ id: co-aurora-1
 
 ### Multiple cops pin man to ground while repeatedly punching him | June 1st
 
+An image shows multiple wounds from a less lethal round, one of which has broken the skin. The nature of the wound is consistent with misuse - specifically, firing at short range.
+
+The poster states that the individual is her boyfriend. She alleges he was standing with his hands up.
+
+
+
+
+https://www.reddit.com/r/ColoradoSprings/comments/gu9p4b/protest_aftermath_my_boyfriend_was_shot_standing/
+
+
+
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
 tags: arrest, beat, punch, kneel, rubber-bullets, tackle, protestor
@@ -34,6 +45,23 @@ id: co-coloradosprings-1
 
 * https://www.facebook.com/Shawn.R.Russ/videos/10221345617964005/
 * https://www.kktv.com/content/news/Colorado-Springs-police-issue-statement-following-use-of-force-arrest-during-protest-570969681.html
+
+
+### Police use LRAD, tear gas and pepper spray to dispers protestors | June 1st
+
+After declaring a protest an unlawful assembly, police push protestors down the street, continuing to give dispersal order. A single firework is shot off by protestors. At 5:30, police use the LRAD dispersal function. Once again at 7:00.
+
+Around 8:00, police advance, firing tear gas canisters at protestors. Multiple bystander vehicles appear to be caught in the gas. Around 9:50, an officer appears to reach out of a squad car and pepper spray protestors, but the sirens make it difficult to see.
+
+tags: protestor, tear-gas, bystander, lrad, spray, pepper-spray
+
+id: co-coloradosprings-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=NrxBDk2g9H4
+* https://twitter.com/KristaWitiakTV/status/1267692960105353217
+* https://www.fox21news.com/news/local/more-protests-planned-monday-in-downtown-colorado-springs/
 
 
 ## Denver
@@ -363,4 +391,19 @@ id: co-denver-21
 * https://www.reddit.com/r/DenverProtests/comments/hjszf5/denver_police_uses_cs_gas_impact_irritants_pepper/
 * https://twitter.com/dulapalooza/status/1278684548100849664
 * https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
+
+
+### Police pepper spray BLM counter-protestors at pro-police rally | July 19th
+
+Article discusses use of pepper spray at pro-police rally where Black Lives Matter groups counter-protested. “We had two pepper ball deployments and one hand-held fog device deployment, and we made one arrest for assault,” Denver police spokesman Tyrone Campbell said. The hand-held fog device is believed to refer to pepper spray. The spokesman goes on to say that "It seems as if [riot control devices] were used in an appropriate fashion." Some additional footage shows police pepper-spraying a retreating crowd. Riot guns can also be heard firing.
+
+tags: protestor, pepper-spray, spray, shoot, projectile
+
+id: co-denver-24
+
+**Links**
+
+* https://www.denverpost.com/2020/07/19/pro-police-rally-denver-cific-center-counter-protest/
+* https://twitter.com/ShellyBradbury/status/1284980898958540803
+* https://twitter.com/mattsebastian/status/1285049239937024000
 

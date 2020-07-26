@@ -191,6 +191,103 @@ id: il-chicago-14
 * https://twitter.com/punishmegrant/status/1268966252707487745
 
 
+### Cop suddenly punches activist | July 17th
+
+Cop punches an 18 year old Black woman activist at a protest in Grant Park. She reportedly suffered multiple injuries to her face and had her teeth knocked out.
+
+tags: punch, protester
+
+id: il-chicago-15
+
+**Links**
+
+* [Cop can be seen punching young woman at 0:06](https://twitter.com/GKMC18/status/1284347396311388161)
+* [Video taken by activist herself; she drops her phone at 4:25 when punched and the video ends](https://m.facebook.com/story.php?story_fbid=177411500432063&id=100044896430818)
+* [Image of the victim with injuries to her face and teeth](https://twitter.com/GKMC18/status/1284312594052939777)
+* https://blockclubchicago.org/2020/07/18/18-year-old-activist-had-teeth-knocked-out-by-police-at-columbus-statue-protest-alderman-state-senator-say/
+
+
+### Violent arrests made in Grant Park | July 17th
+
+Footage shows a series of violent arrests and altercations between police and protestors. Police tackle, shove, strike and pepper spray protestors indiscriminately. Protestors are also struck with batons. One use states that police allegedly hit press during this series of events.
+
+tags: strike, baton, protestor, tackle, shove, push, pepper-spray, spray, arrest
+
+id: il-chicago-16
+
+**Links**
+
+* https://twitter.com/poonfarm/status/1284289077530054656
+* https://twitter.com/DominicGwinn/status/1284291163940429831
+* https://twitter.com/poonfarm/status/1284295285993283584
+* https://twitter.com/poonfarm/status/1284550521785913350
+
+
+### Police strike protestor with baton while attempting to seize bike | July 17th
+
+Footage from the protest in Grant Park shows an officer attempting to seize a bike from a protestor for unknown reason. The police officer swats at the protestor's hands with his baton in an apparent attempt to release the protestor's hold on the bike.
+
+tags: strike, baton, protestor
+
+id: il-chicago-17
+
+**Links**
+
+* https://twitter.com/KeepinKidsSafe/status/1284289666615844871
+
+
+### Journalist harassed, threatened and shoved by police | July 17th
+
+First-person footage from a journalist shows a police officer shoving, threatening and harassing a journalist. Allegedly the officer began harassing the journalist, calling him a "smartass," after the journalist displayed his press badge.
+
+tags: threaten, shove, push, journalist
+
+id: il-chicago-18
+
+**Links**
+
+* https://twitter.com/colinbphoto/status/1284301680524382208
+
+
+### Phone knocked out of reporter's hand | July 17th
+
+Footage from a CBS Chicago reporter shows an officer knocking the phone out of her hand, then kicking it across the ground.
+
+tags: strike, journalist, property-destruction
+
+id: il-chicago-19
+
+**Links**
+
+* https://twitter.com/MarParNews/status/1284306440971325440
+
+
+### Police indiscriminately pepper spray protestors | (Believed to be) July 17th
+
+Footage uploaded on July 19th shows an officer standing some distance from protestors. He discharges pepper spray in the general direction of the protestors.
+
+tags: pepper-spray, spray, protestor
+
+id: il-chicago-20
+
+**Links**
+
+* https://twitter.com/frantheman10/status/1284911153785778177
+
+
+### Police vehicle drives on sidewalk, collides with protestors | July 18th
+
+Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protestor then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
+
+tags: vehicle, strike, protestor, property-destruction
+
+id: il-chicago-21
+
+**Links**
+
+* https://twitter.com/jamaicaponders/status/1284680046473621505
+
+
 ## Joliet
 
 ### Officers grabs someone by the neck then more cops pile on | May 31st
