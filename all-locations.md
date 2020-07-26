@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T22:32:52.239083+00:00
+UPDATED AT: 2020-07-26T22:39:54.203108+00:00
 
 
 # Alabama
@@ -9984,6 +9984,19 @@ id: or-portland-172
 **Links**
 
 * https://twitter.com/andrewkimmel/status/1287319466120904704
+
+
+### Federal officer pepper sprays journalist | July 26th
+
+Footage shows federal officers walking through clouds of tear gas. An officer pepper sprays the filmer, a journalist.
+
+tags: journalist, tear-gas, pepper-spray, spray
+
+id: or-portland-173
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1287312203045978112
 
 
 ## Salem
