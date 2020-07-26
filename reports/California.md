@@ -882,6 +882,22 @@ id: ca-sacramento-1
 * https://twitter.com/mynameschazz/status/1266978442722947072
 
 
+### Man severely injured by tear gas and impact munitions | May 30th
+
+A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw.
+
+He is part of a lawsuit against the city of Sacramento, along with lawyer Danny Garza.
+
+tags: shoot, projectile, protestor, tear-gas
+
+id: ca-sacramento-6
+
+**Links**
+
+https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf
+
+
 ### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
 
 Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protestors have brought a lawsuit against the city of Sacramento.
