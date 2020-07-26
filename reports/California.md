@@ -763,6 +763,19 @@ id: ca-losangeles-40
 * https://www.instagram.com/p/CCxPb28hRdN/
 
 
+### Violent arrests after police initiate scuffle | July 25th
+
+Footage shows police approaching a protestor in the street and shoving him to the ground, knocking the phone out of his hand. As police continue to shove the protestor, another runs into frame and knocks an officer to the ground. More police then join to arrest the two protestors. Two other protestors come into frame, yelling at police. One is thrown to the ground and knelt on by an officer to arrest her.
+
+tags: shove, arrest, strike, baton, property-destruction, protestor
+
+id: ca-losangeles-43
+
+**Links**
+
+* https://twitter.com/KTLA/status/1287241665703374848
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
