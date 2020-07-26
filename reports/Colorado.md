@@ -22,22 +22,18 @@ id: co-aurora-1
 
 ## Colorado Springs
 
-### Man shows injuries from less lethal rounds | May 31st
+### Multiple cops pin man to ground while repeatedly punching him | June 1st
 
-An image shows multiple wounds from a less lethal round, one of which has broken the skin. The nature of the wound is consistent with misuse - specifically, firing at short range. 
+An image shows multiple wounds from a less lethal round, one of which has broken the skin. The nature of the wound is consistent with misuse - specifically, firing at short range.
 
 The poster states that the individual is her boyfriend. She alleges he was standing with his hands up.
 
-tags: protestor, shoot, projectile
 
-id: co-coloradosprings-3
 
-**Links**
 
 https://www.reddit.com/r/ColoradoSprings/comments/gu9p4b/protest_aftermath_my_boyfriend_was_shot_standing/
 
 
-### Multiple cops pin man to ground while repeatedly punching him | June 1st
 
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
@@ -66,6 +62,7 @@ id: co-coloradosprings-2
 * https://www.youtube.com/watch?v=NrxBDk2g9H4
 * https://twitter.com/KristaWitiakTV/status/1267692960105353217
 * https://www.fox21news.com/news/local/more-protests-planned-monday-in-downtown-colorado-springs/
+
 
 ## Denver
 
