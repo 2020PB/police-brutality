@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T04:14:57.402766+00:00
+UPDATED AT: 2020-07-26T18:42:01.954929+00:00
 
 
 # Alabama
@@ -1055,6 +1055,20 @@ id: ca-losangeles-40
 * https://www.instagram.com/p/CCqPuekHCyg/
 * https://twitter.com/allykerans/status/1283563591900164096
 * https://www.instagram.com/p/CCxPb28hRdN/
+
+
+### Violent arrests after police initiate scuffle | July 25th
+
+Footage shows police approaching a protestor in the street and shoving her to the ground, knocking the phone out of her hand. As police continue to shove the protestor, another runs into frame and knocks an officer to the ground. More police then join to arrest the two protestors. Two other protestors come into frame, yelling at police. One is thrown to the ground and knelt on by an officer to arrest her. The other is shoved over a vertical ring used to lock bikes. She is then repeatedly shoved as she tries to stand and approach her fellow protestor on the ground.
+
+tags: shove, arrest, strike, baton, property-destruction, protestor
+
+id: ca-losangeles-43
+
+**Links**
+
+* https://twitter.com/KTLA/status/1287241665703374848
+* https://ktla.com/news/local-news/hundreds-of-protesters-gather-in-downtown-l-a-as-some-march-onto-101-freeway/
 
 
 ## Norco
