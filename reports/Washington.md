@@ -646,3 +646,17 @@ id: wa-seattle-43
 * https://twitter.com/davjhan/status/1287216171595345920
 * https://twitter.com/sean_roulette/status/1287216968320212993
 
+
+### Police shove and pepper spray protestors, grab signs | July 25th
+
+Footage shows police forcing protestors back and protestors obeying. Throughout the footage, police shove and pepper spray protestors. In addition, police snatch signs and umbrellas. Police also deploy tear gas.
+
+tags: protestor, tear-gas, pepper-spray, spray, shove, push, property-destruction
+
+id: wa-seattle-44
+
+**Links**
+
+* https://twitter.com/tetraphis_/status/1287238007406252032
+* https://twitter.com/tetraphis_/status/1287221855779090433
+
