@@ -673,3 +673,17 @@ id: wa-seattle-45
 
 * https://twitter.com/decolonizemars/status/1287236773345599488
 
+
+### Police snatch and pepper spray protestors | July 25th
+
+Police on Pine Street surge forward, pepper spraying several protestors, then snatching others for arrest.
+
+tags: protestor, pepper-spray, spray, arrest
+
+id: wa-seattle-46
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1287236203876462592
+* https://twitter.com/GoldsteinStreet/status/1287236138604703746
+
