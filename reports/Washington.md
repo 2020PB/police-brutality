@@ -453,3 +453,17 @@ id: wa-seattle-29
 
 * https://twitter.com/spekulation/status/1285468287334141952
 
+
+### Officer holds down protestor to arrest, pepper sprays nurse | July 25th
+
+Footage shows Seattle police pinning a protestor down against a concrete barrier to arrest them. A nurse in scrubs approaches the officers and protestor but is immediately pepper sprayed.
+
+tags: protestor, arrest, pepper-spray, spray
+
+id: wa-seattle-30
+
+**Links**
+
+* https://mobile.twitter.com/mlbaruchman/status/1287189436745150464
+* https://mobile.twitter.com/SimoneReports/status/1287197567772553216
+* https://twitter.com/greg_doucette/status/1287252831620206598
