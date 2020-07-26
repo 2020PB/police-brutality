@@ -360,6 +360,19 @@ id: co-denver-18
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
 
 
+### Police pepper spray protestors without apparent cause | June 6th
+
+Protestors yell at a police officer to put his pepper spray away. The officer shakes his head, then pepper sprays the protestors.
+
+tags: protestor, spray, pepper-spray
+
+id: co-denver-25
+
+**Links**
+
+* https://mobile.twitter.com/greg_doucette/status/1287247799483092992
+
+
 ### Police pepper spray protestor with hands up | (Believed to be) June 21st
 
 Footage shows a protestor following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protestor continues to ask. Another officer approaches and discharges pepper spray without warning.
