@@ -535,3 +535,16 @@ id: wa-seattle-35
 
 * https://twitter.com/VideosSeattle/status/1287195618247548928
 
+
+### Police shove and pepper spray press and protestors | July 25th
+
+Screen-capped footage from a journalist shows police pushing press and protestors back. The filmer, a journalist, says he cannot move quickly because there is a crowd of people behind him. Police shove him and other protestors and press, then discharge pepper spray.
+
+tags: journalist, protestor, shove, pepper-spray, spray
+
+id: wa-seattle-36
+
+**Links**
+
+* https://twitter.com/lukeryderrr/status/1287172224588214272
+
