@@ -2672,6 +2672,19 @@ id: or-portland-167
 * https://twitter.com/1misanthrophile/status/1287308011229200390
 
 
+### Federal officers respond to thrown water bottle with excessive force | July 26th
+
+After protestors allegedly threw a water bottle at federal officers, officers respond with a significant volley of tear gas, catching what appears to be a bystander pick-up truck, which then drives off. In addition, the canisters appear to light a small fire in the street.
+
+tags: protestor, bystander, tear-gas
+
+id: or-portland-168
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1287355449222680578
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
