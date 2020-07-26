@@ -2712,6 +2712,30 @@ id: or-portland-170
 * https://twitter.com/itsmikebivins/status/1287317505262813184
 
 
+### Second exchange of tear gas and impact munitions between federal officers and protestors | July 26th
+
+Protestors and police face off at torn-down fence outside the Justice center. Protestors throw fireworks and shine lasers. Federal police respond with tear gas and impact munitions.
+
+[A journalist is shot in the hand during the incident](https://twitter.com/MrOlmos/status/1287301148748046336).
+
+[A protestor is dragged to the ground, press are pushed away](https://twitter.com/MrOlmos/status/1287304522553950208).
+
+[One officer aims a long gun appearing to contain live ammunition at press, then brandishes pepper spray](https://twitter.com/MrOlmos/status/1287305090542395392).
+
+tags: protestor, journalist, shoot, projectile, shove, threaten, tear-gas
+
+id: or-portland-171
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287301148748046336
+* https://twitter.com/MrOlmos/status/1287301721530671109
+* https://twitter.com/MrOlmos/status/1287304522553950208
+* https://twitter.com/MrOlmos/status/1287305090542395392
+* https://twitter.com/itsmikebivins/status/1287305326224486402
+* https://twitter.com/itsmikebivins/status/1287301156054528003
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
