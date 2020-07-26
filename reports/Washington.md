@@ -713,3 +713,17 @@ id: wa-seattle-48
 
 * https://twitter.com/daeshikjr/status/1287263163159781376
 
+
+
+### Police charge and pepper-spray protestors | July 25th
+
+Footage shows police charging at protestors without warning and pepper-spraying them, including one protestor lying on the ground. Police also strike protestors with batons and shove them.
+
+tags: protestor, pepper-spray, spray, baton, strike, shove
+
+id: wa-seattle-49
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1287413099788632065
+* https://twitter.com/greg_doucette/status/1287405595801325569
