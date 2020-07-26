@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T03:47:13.100520+00:00
+UPDATED AT: 2020-07-26T03:54:24.795236+00:00
 
 
 # Alabama
@@ -9589,6 +9589,134 @@ id: or-portland-156
 **Links**
 
 * https://twitter.com/wyattreed13/status/1286613058903670784
+
+
+### Federal officers fire tear gas, flashbangs and pepper balls at crowd | July 24th
+
+Around 11:30 pm on the night of July 24th, federal officers emerged from the Justice Center in response to several protestor actions: [protestors shaking the fence](https://twitter.com/ByMikeBaker/status/1286905515809705988), protestors launching fireworks and trash, and [protestors with a power saw attempting to breach the fence](https://twitter.com/ByMikeBaker/status/1286911312065253376).
+
+Federal response was to engage the more peaceful side of the crowd, where [Moms Against Police Brutality were protesting](https://twitter.com/PDocumentarians/status/1286915796795396097), then to move over and engage the protestors who had been throwing objects and attempting to breach the fence. Federal officers used excessive force, especially against non-aggressive protestors.
+
+In addition, at least one journalist is struck by a flashbang, seen [here](https://twitter.com/tuckwoodstock/status/1286909282579959810). Officers also used pepper spray or mace through the fence, seen [here](https://twitter.com/DjMontecito/status/1286911093063860225).
+
+tags: protestor, journalist, flashbang, tear-gas, shoot, pepper-ball, pepper-spray, spray, projectile
+
+id: or-portland-158
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1286905515809705988
+* https://twitter.com/ByMikeBaker/status/1286906277994483712
+* https://twitter.com/ByMikeBaker/status/1286908427520757760
+* https://twitter.com/ByMikeBaker/status/1286911312065253376
+* https://twitter.com/tuckwoodstock/status/1286909282579959810
+* https://twitter.com/tuckwoodstock/status/1286915816865243138
+* https://twitter.com/tuckwoodstock/status/1286917953040998400
+* https://twitter.com/DjMontecito/status/1286911093063860225
+* https://twitter.com/SimonDavisCohen/status/1286911599551238144
+* https://twitter.com/SimonDavisCohen/status/1286974393776664576
+* https://twitter.com/Clypian/status/1286916743705686016
+* https://twitter.com/PDocumentarians/status/1286915796795396097
+* https://twitter.com/hungrybowtie/status/1286910712703459334
+* https://twitter.com/hungrybowtie/status/1286911367362965504
+* https://twitter.com/hungrybowtie/status/1286914599179022339
+* https://twitter.com/hungrybowtie/status/1286917181364559872
+* https://twitter.com/gravemorgan/status/1286909553099988993
+* https://twitter.com/gravemorgan/status/1286909811972481024
+* https://twitter.com/DonovanFarley/status/1286911909225095168
+
+
+### Federal officers fire impact munitions at point blank | July 24th
+
+Footage shows federal officers firing on protestors at a distance of a few feet. Although protestors have shields and helmets, these weapons can be lethal at this distance.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-159
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286915839686373378
+* https://twitter.com/GriffinMalone6/status/1286911691628765184
+
+
+### Unlawful assembly declared; federal officers fire tear gas | July 25th
+
+Federal officers declare unlawful assembly around 1:20 AM and begin a second round of tear gas. Protestors use leaf blowers to push tear gas back.
+
+tags: protestor, tear-gas
+
+id: or-portland-160
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1286933684403105792
+* https://twitter.com/hungrybowtie/status/1286938539960053763
+* https://twitter.com/hungrybowtie/status/1286939689891450881
+* https://twitter.com/hungrybowtie/status/1286946648531165185
+* https://twitter.com/hungrybowtie/status/1286942725959426048
+* https://twitter.com/MrOlmos/status/1286940822026334209
+
+
+### Federal officers use tear gas and impact munitions to cover retreat | July 25th
+
+Around 3 AM, federal officers retreat back to the courthouse, covering themselves with impact munitions and tear gas. Several protestors with leaf blowers attempt to redirect tear gas back to the courthouse.
+
+tags: protestor, tear-gas
+
+id: or-portland-161
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1286966546187747329
+* https://twitter.com/hungrybowtie/status/1286966936882909184
+* https://twitter.com/hungrybowtie/status/1286967770777661440
+* https://twitter.com/LindseyPSmith7/status/1286967609401831424
+
+
+### Federal officer shoots at protestors without apparent justification | July 25th
+
+Around 2 AM, an officer leans through a gap in the fence and shoots at protestors idling about. No justification for shooting at the protestors is apparent.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-162
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1286948398273196032
+
+
+### Officer pepper sprays crowd without apparent justification | July 25th
+
+Just after midnight on July 25th, two officers speak to one another on one side of the fence. One officer then discharges pepper spray at the crowd gathered on the opposite side of the fence. No justification is clear. He does not appear to hit any protestors directly, but the use of pepper spray appears unprovoked.
+
+tags: protestor, pepper-spray, spray
+
+id: or-portland-163
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1286919425782775811
+
+
+### Police respond to pallet fire with tear gas; do not extinguish fire | July 25th
+
+After protestors light a stack of wooden pallets on fire in the street, federal officers rush the protestors, firing impact munitions and tear gas.
+
+If the fire was the provocation for the assault, a journalist notes the officers retreated without extinguishing the fire.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-164
+
+**Links**
+
+* https://twitter.com/LindseyPSmith7/status/1286967609401831424
+* https://twitter.com/LindseyPSmith7/status/1286958049756815361
+* https://twitter.com/LindseyPSmith7/status/1286959678874763264
+* https://twitter.com/DonovanFarley/status/1286958610044526592
+* https://twitter.com/DonovanFarley/status/1286959196655689730
 
 
 ## Salem
