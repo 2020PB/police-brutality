@@ -660,3 +660,16 @@ id: wa-seattle-44
 * https://twitter.com/tetraphis_/status/1287238007406252032
 * https://twitter.com/tetraphis_/status/1287221855779090433
 
+
+### Police pepper spray man who is yelling at them | July 25th
+
+The filmer yells at police while he walks past them, calling them "a coward" or "a bitch." A police officer then pepper sprays him.
+
+tags: protestor, pepper-spray, spray
+
+id: wa-seattle-45
+
+**Links**
+
+* https://twitter.com/decolonizemars/status/1287236773345599488
+
