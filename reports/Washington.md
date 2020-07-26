@@ -486,13 +486,16 @@ id: wa-seattle-31
 
 Footage shows several officers grabbing a small woman to arrest her. She passively resists. Three officers then tackle her to the ground while another officer deploys tear gas against the crowd of protestors.
 
-tags: protestor, arrest, tackle, grab, tear-gas
+The incident appears to have been kicked off when a protestor with a shield stepped between police and protestors. Additional footage also shows considerable use of pepper-spray
+
+tags: protestor, arrest, tackle, grab, tear-gas, pepper-spray, spray
 
 id: wa-seattle-32
 
 **Links**
 
 * https://twitter.com/BrandiKruse/status/1287190206408400897
+* https://twitter.com/AGarlandPhoto/status/1287177533113262081
 
 
 ### Police use bikes and pepper spray to push protestors | July 25th
