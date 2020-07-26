@@ -578,3 +578,15 @@ id: wa-seattle-38
 
 * https://twitter.com/menilivne/status/1287181347845365760
 
+
+### Protestor shot at point blank | July 25th
+
+Footage shows a protestor standing about 3 feet away from police, holding a skateboard above his head. He appears to be speaking to police. Without warning, he is shot about about 6 times, in the groin, abdomen and shoulder. Firing at that range and at firing genital regions or above the breastbone are against recommended use of impact munitions.
+
+tags: protestor, shoot, projectile
+
+id: wa-seattle-39
+
+**Links**
+
+* https://twitter.com/franceschogan/status/1287202059691814912
