@@ -2538,6 +2538,19 @@ id: or-portland-159
 * https://twitter.com/GriffinMalone6/status/1286911691628765184
 
 
+### Disabled veteran hit directly by tear gas canister | July 24th
+
+A woman in full military dress and carrying a sign that says "Disabled Veterans 4 BLM" is hit directly by a tear gas canister.
+
+tags: protestor, person-with-disability, tear-gas, tear-gas-canister
+
+id: or-portland-165
+
+**Links**
+
+* https://twitter.com/tyler_ensign/status/1286940248006512640
+
+
 ### Unlawful assembly declared; federal officers fire tear gas | July 25th
 
 Federal officers declare unlawful assembly around 1:20 AM and begin a second round of tear gas. Protestors use leaf blowers to push tear gas back.
