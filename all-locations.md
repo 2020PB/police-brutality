@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T22:22:26.936868+00:00
+UPDATED AT: 2020-07-26T22:23:05.986094+00:00
 
 
 # Alabama
@@ -1132,6 +1132,19 @@ id: ca-oakland-3
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
+### Protestor singled out, chased and arrested | July 26th
+
+Police gather around a protestor standing on a pedestrian median. He is singled out by police. He is threatened with arrest, then flees. A hissing sound can be heard prior to his flight, which may be pepper spray. Officers then chase, tackle, and arrest him. Motive for the arrest is unclear.
+
+tags: protestor, arrest, tackle
+
+id: ca-oakland-4
+
+**Links**
+
+* https://twitter.com/SarahBelleLin/status/1287321616636997632
+
+
 ## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
@@ -1149,6 +1162,19 @@ id: ca-riverside-1
 
 ## Sacramento
 
+### Man severely injured by tear gas and impact munitions | May 30th
+
+A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw. He is part of a lawsuit against the city, along with lawyer Danny Garza.
+
+tags: shoot, projectile, protestor, tear-gas
+
+id: ca-sacramento-6
+
+**Links**
+
+* https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+
+
 ### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
@@ -1164,18 +1190,6 @@ id: ca-sacramento-1
 
 
 ### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
-
-A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw.
-
-He is part of a lawsuit against the city of Sacramento, along with lawyer Danny Garza from ca-sacramento-2.
-
-
-
-
-https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
-https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf
-
-
 
 Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protestors have brought a lawsuit against the city of Sacramento.
 
@@ -12003,6 +12017,7 @@ id: wa-seattle-50
 **Links**
 
 * https://twitter.com/StellarArris/status/1287446170403508226
+
 
 
 
