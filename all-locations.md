@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-26T18:45:42.117125+00:00
+UPDATED AT: 2020-07-26T21:19:59.917269+00:00
 
 
 # Alabama
@@ -11965,6 +11965,18 @@ id: wa-seattle-49
 * https://twitter.com/greg_doucette/status/1287413099788632065
 * https://twitter.com/greg_doucette/status/1287405595801325569
 
+
+### Cop tackles cyclist | July 25th
+
+Video shows a cyclist who appears to be unassociated with the protest slowly approaching an area where cops and police vans are in the process of blocking off the street. A cop walking away from the camera clearly glances at the cyclist but doesn't appear to issue any warning and looks away. Presumably unaware of what's happening, the cyclist tries to ride through. The cop then suddenly rushes the cyclist and tackles them off the bicycle. Other cops converge to arrest the cyclist.
+
+tags: arrest, bystander, bike, tackle
+
+id: wa-seattle-50
+
+**Links**
+
+* https://twitter.com/StellarArris/status/1287446170403508226
 
 
 
