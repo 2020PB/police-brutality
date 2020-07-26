@@ -609,7 +609,7 @@ id: wa-seattle-40
 
 Footage from Cal Anderson shows police dragging a woman across the gravel. She screams. Police then chase off other protestors. The camera pans back to the woman as she is shoved against a knee high concrete barrier. Officers then grab her again and throw her to the ground to arrest her. Other officers then crowd around to inhibit filming. The protestor does not appear to resist arrest at any point.
 
-tags: protestor, grab, shove, throw
+tags: protestor, grab, shove, throw, arrest
 
 id: wa-seattle-41
 
@@ -617,3 +617,15 @@ id: wa-seattle-41
 
 * https://twitter.com/LizTurnbull5/status/1287226515642449920
 
+
+### Violent arrest made near 11th and Pine | July 25th
+
+Footage shows police arrested a woman while others pepper spray the area to clear protestors. The woman attempts to stand, then is forced back to the ground. The officer appears to hold her head facedown in the gravel. She passively resists by locking her arms. More officers join and kneel on her to arrest her.
+
+tags: protestor, pepper-spray, spray, arrest, knee
+
+id: wa-seattle-42
+
+**Links**
+
+* https://twitter.com/richsssmith/status/1287176053073408000
