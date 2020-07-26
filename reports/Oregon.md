@@ -2736,6 +2736,19 @@ id: or-portland-171
 * https://twitter.com/itsmikebivins/status/1287301156054528003
 
 
+### Vietnam veteran pepper sprayed in the face | July 26th
+
+Footage shows a Vietname veteran talking to federal officers from a distance of several feet. An officer approaches him, shines a light in his face, pepper sprays him, then tells him to back up.
+
+tags: protestor, pepper-spray, spray
+
+id: or-portland-172
+
+**Links**
+
+* https://twitter.com/andrewkimmel/status/1287319466120904704
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
