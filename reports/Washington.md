@@ -550,6 +550,7 @@ id: wa-seattle-36
 **Links**
 
 * https://twitter.com/lukeryderrr/status/1287172224588214272
+* https://twitter.com/ZeldaWarriorCat/status/1287203846071099394
 
 
 ### Police pepper spray protestors on sidewalk | July 25th
