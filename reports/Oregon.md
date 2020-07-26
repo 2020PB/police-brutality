@@ -2644,6 +2644,34 @@ id: or-portland-166
 * https://twitter.com/MrOlmos/status/1287278027009736705
 
 
+### Exchange of tear gas and fireworks between federal officers and protestors | July 25th
+
+Footage shows an extended exchange between protestors and federal officers. It is unclear what begins the exchange, but the earliest footage shows federal officers firing tear gas at protestors. In response, protestors return the tear gas or use leafblowers to disperse it. In addition, a few fireworks are launched at federal officers. Federal officers respond with additional tear gas, flashbangs and impact munitions.
+
+During this exchange, [a reporter was struck by six pepper balls in the chest, wrist and face](https://twitter.com/1misanthrophile/status/1287302973257682945). An [image](https://twitter.com/1misanthrophile/status/1287308011229200390) shows her swollen wrist.
+
+tags: protestor, journalist, tear-gas, pepper-ball, flashbang, shoot
+
+id: or-portland-167
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1287272963482333185
+* https://twitter.com/MrOlmos/status/1287270494647930887
+* https://twitter.com/MrOlmos/status/1287270728031539201
+* https://twitter.com/MrOlmos/status/1287272664776626176
+* https://twitter.com/MrOlmos/status/1287273403582300160
+* https://twitter.com/MrOlmos/status/1287273684483235840
+* https://twitter.com/MrOlmos/status/1287274018391769093
+* https://twitter.com/MrOlmos/status/1287275276708147200
+* https://twitter.com/MrOlmos/status/1287276401033244672
+* https://twitter.com/tuckwoodstock/status/1287275934064635905
+* https://twitter.com/1misanthrophile/status/1287311319125749762
+* https://twitter.com/1misanthrophile/status/1287311790443921408
+* https://twitter.com/1misanthrophile/status/1287302973257682945
+* https://twitter.com/1misanthrophile/status/1287308011229200390
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
