@@ -2834,7 +2834,7 @@ id: or-portland-174
 * https://twitter.com/revnatscider/status/1287620496637325313
 
 
-### Officers hold arrestee down in tear gas | July 27th
+### Officers hold arrestee down in tear gas | July 26th
 
 Footage shows several officers detaining a protestor in a cloud of tear gas. They bring the protestor to his feet, then he stumbles back down to the ground. It is unclear if the protestor is suffering ill effects from the tear gas or if he is passively resisting. One officer holds his head in the pavement while tear gas blows across the frame. Another officer appears to jab him with a baton. The protestor can be heard screaming that he cannot breathe.
 
@@ -2848,6 +2848,19 @@ id: or-portland-184
 * https://twitter.com/PDXzane/status/1287305145290616833
 * https://twitter.com/PDXzane/status/1287305540079513600
 * https://twitter.com/PDXzane/status/1287305904304599040
+
+
+### Violent arrest made by federal officers | July 27th
+
+Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
+
+tags: strike, arrest, protestor, baton, shoot, projectile, tackle
+
+id: or-portland-178
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1287664107726938112
 
 
 ### First round of tear gas fired by federal officers | July 27th
