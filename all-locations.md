@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-27T22:15:27.156324+00:00
+UPDATED AT: 2020-07-27T22:33:11.558514+00:00
 
 
 # Alabama
@@ -10085,6 +10085,19 @@ id: or-portland-184
 * https://twitter.com/PDXzane/status/1287305145290616833
 * https://twitter.com/PDXzane/status/1287305540079513600
 * https://twitter.com/PDXzane/status/1287305904304599040
+
+
+### Riot police shove woman to the ground | July 25th
+
+Riot police charge across the street at protestors walking away from them. A woman at the back begins to jog away from police. Police catch up to her and an officer shoves her to the ground with his baton.
+
+tags: protestor, shove, baton
+
+id: or-portland-187
+
+**Links**
+
+* https://www.reddit.com/r/Portland/comments/hy4fza/police_charge_after_dispersing_protesters_and/
 
 
 ### Violent arrest made by federal officers | July 27th
