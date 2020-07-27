@@ -2850,6 +2850,19 @@ id: or-portland-184
 * https://twitter.com/PDXzane/status/1287305904304599040
 
 
+### Riot police shove woman to the ground | July 25th
+
+Riot police charge across the street at protestors walking away from them. A woman at the back begins to jog away from police. Police catch up to her and an officer shoves her to the ground with his baton.
+
+tags: protestor, shove, baton
+
+id: or-portland-187
+
+**Links**
+
+* https://www.reddit.com/r/Portland/comments/hy4fza/police_charge_after_dispersing_protesters_and/
+
+
 ### Violent arrest made by federal officers | July 27th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
