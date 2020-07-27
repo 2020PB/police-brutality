@@ -2644,6 +2644,36 @@ id: or-portland-166
 * https://twitter.com/MrOlmos/status/1287278027009736705
 
 
+### Mom shot in head | July 25th
+
+Images and the text from a facebook post describe an incident wherein a Mom part of Moms Against Police Brutality was shot in the head by a less lethal projectile.
+
+According to her Facebook post (screenshots below), she required 7 stitches.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-180
+
+**Links**
+
+* https://twitter.com/Amy_Siskind/status/1287614684418408448
+* https://imgur.com/WMLxsAQ
+* https://imgur.com/7QAFglV
+
+
+### Reporter shot after object thrown at police by someone else | July 25th
+
+Footage shows an officer standing in a line with other police. An object thrown by a protestor offscren and well to the right of the filmer lands at the officer's feet. The officer shoots the filmer, a journalist.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-185
+
+**Links**
+
+* https://mobile.twitter.com/GriffinMalone6/status/1286968297980755968
+
+
 ### Exchange of tear gas and fireworks between federal officers and protestors | July 25th
 
 Footage shows an extended exchange between protestors and federal officers. It is unclear what begins the exchange, but the earliest footage shows federal officers firing tear gas at protestors. In response, protestors return the tear gas or use leafblowers to disperse it. In addition, a few fireworks are launched at federal officers. Federal officers respond with additional tear gas, flashbangs and impact munitions.
@@ -2760,6 +2790,166 @@ id: or-portland-173
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1287312203045978112
+
+
+### Image shows effect of stinger grenade | (Believed to be) July 26th
+
+An image shows the effects of a stinger grenade which allegedly exploded near the head of a protestor. The uploader alleges that the victim, their daughter, is suffering major hearing loss in her ear.
+
+A stinger grenade is a type of stun grenade, or flashbang, which emits a bright light, a loud sound, and fires pellets during the explosion.
+
+tags: protestor, flashbang
+
+id: or-portland-174
+
+**Links**
+
+* https://twitter.com/revnatscider/status/1287620496637325313
+
+
+### First round of tear gas fired by federal officers | July 27th
+
+Just after midnight on July 27th, federal officers fire tear gas at protestors, using impact munitions to deter protestors who attempt to throw tear gas canisters back. Fireworks were shot off shortly beforehand, which may have been the impetus for exchange.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-175
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287646631798517760
+* https://twitter.com/MrOlmos/status/1287646958882963457
+* https://twitter.com/PDocumentarians/status/1287650622024462336
+* https://twitter.com/R3volutionDaddy/status/1287647009516617728
+* https://twitter.com/R3volutionDaddy/status/1287647333845368832
+* https://twitter.com/R3volutionDaddy/status/1287651063730905088
+* https://twitter.com/R3volutionDaddy/status/1287654340342079488
+* https://twitter.com/TheRealCoryElia/status/1287640347489656833
+
+
+### Second round of tear gas fired by federal officers | July 27th
+
+After federal officers declare an unlawful assembly around 1 A<, protestors remain outside the courthouse, pulling on the fence. Federal officers fire tear gas and flashbangs. Officers then push protestors away from the courthouse before retreating.
+
+tags: protestor, tear-gas, flashbang
+
+id: or-portland-176
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287659354200498176
+* https://twitter.com/MrOlmos/status/1287659523633639429
+* https://twitter.com/MrOlmos/status/1287661296754626560
+* https://twitter.com/MrOlmos/status/1287651221113692161
+* https://twitter.com/MrOlmos/status/1287682403801001984
+* https://twitter.com/suzettesmith/status/1287645999834382338
+* https://twitter.com/suzettesmith/status/1287650642035503104
+* https://twitter.com/suzettesmith/status/1287660673413967872
+* https://twitter.com/suzettesmith/status/1287666251540512769
+
+
+### Third round of tear gas fired by federal officers | July 27th
+
+Federal officers push protestors from the ourthouse to the street around 2:30 AM. Officers use tear gas to push protestors, then fire impact munitions at protestors who try to throw tear gas back.
+
+Officers then use tear gas to cover their retreat.
+
+Several arrests were made throughout the course of the exchange.
+
+tags: protestor, tear-gas, shoot, projectile, arrest
+
+id: or-portland-177
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1287679352256094208
+* https://twitter.com/MrOlmos/status/1287681179143954433
+* https://twitter.com/MrOlmos/status/1287681707685027840
+* https://twitter.com/MrOlmos/status/1287681972404330496
+* https://twitter.com/MrOlmos/status/1287682403801001984
+* https://twitter.com/PDocumentarians/status/1287692511838793730
+* https://twitter.com/PDocumentarians/status/1287709936470769664
+* https://twitter.com/PDocumentarians/status/1287710579067465729
+* https://twitter.com/PDocumentarians/status/1287692511838793730
+* https://twitter.com/suzettesmith/status/1287680735894069248
+* https://twitter.com/suzettesmith/status/1287679598751186945
+
+
+### Livestreamer shot in hand while sitting on ground | July 27th
+
+Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
+
+
+
+
+https://twitter.com/TheRealCoryElia/status/1287664107726938112
+
+
+
+A livestreamer uploaded first person footage from July 27th. He is sitting on the ground some distance from protestors when less lethal shots are fired. One strikes the filmer in the hand. He states that his hand is okay.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-179
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1287659096179499009
+* https://twitter.com/TheRealCoryElia/status/1287659620094210048
+
+
+### Violent arrest made by federal officers | July 27th
+
+Footage shows a violent arrest made by federal officers. One officer sits on a woman's back, pressing a baton into her neck. The woman repeatedly states she cannot breathe. The officer then kneels on her back while another officer kneels on her arm and handcuffs her. One officer standing nearby states the woman was resisting arrest. She does not appear to resist at any point during the available footage, though an officer tells her to stop resisting.
+
+tags: arrest, knee, baton, zip-tie
+
+id: or-portland-181
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hyur0s/a_young_woman_is_arrested_she_yells_i_cant_breath/
+
+
+### Officer pepper sprays protestor | July 27th
+
+Footage shows a protestor speaking to an officer in black, believed to be a Portland Police Officer. The officer then sprays the protestor and steps away. The filmer states that the officer said the protestor could not stand there.
+
+tags: protestor, pepper-spray, spray
+
+id: or-portland-182
+
+**Links**
+
+* https://clips.twitch.tv/MotionlessSplendidArtichokeTF2John
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hyofxj/portland_fed_maces_protestor_at_pointblank_range/
+
+
+### Press shot and tear gassed | July 27th
+
+Footage shows a small group of people filming officers from a side street. Several tear gas canisters and flashbangs are fired at the group, which appears to be exclusively press. Some members of the press jog forward and are shot at with impact munitions.
+
+tags: journalist, tear-gas, shoot, projectile, flashbang
+
+id: or-portland-183
+
+**Links**
+
+* https://clips.twitch.tv/BlueImpartialMonkeySoonerLater
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hyozr3/portland_feds_gas_flashbang_several_times_and/
+
+
+### Officers hold arrestee down in tear gas | July 27th
+
+Footage shows several officers detaining a protestor in a cloud of tear gas. They bring the protestor to his feet, then he stumbles back down to the ground. It is unclear if the protestor is suffering ill effects from the tear gas or if he is passively resisting. One officer holds his head in the pavement while tear gas blows across the frame. Another officer appears to jab him with a baton. The protestor can be heard screaming that he cannot breathe.
+
+tags: protestor, tear-gas, baton, arrest, strike, inhumane-treatment
+
+id: or-portland-184
+
+**Links**
+
+* https://twitter.com/sarahjeong/status/1287687503940448256
 
 
 ## Salem
