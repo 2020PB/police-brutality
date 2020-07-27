@@ -2661,6 +2661,19 @@ id: or-portland-180
 * https://imgur.com/7QAFglV
 
 
+### Reporter shot after object thrown at police by someone else | July 25th
+
+Footage shows an officer standing in a line with other police. An object thrown by a protestor offscren and well to the right of the filmer lands at the officer's feet. The officer shoots the filmer, a journalist.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-185
+
+**Links**
+
+* https://mobile.twitter.com/GriffinMalone6/status/1286968297980755968
+
+
 ### Exchange of tear gas and fireworks between federal officers and protestors | July 25th
 
 Footage shows an extended exchange between protestors and federal officers. It is unclear what begins the exchange, but the earliest footage shows federal officers firing tear gas at protestors. In response, protestors return the tear gas or use leafblowers to disperse it. In addition, a few fireworks are launched at federal officers. Federal officers respond with additional tear gas, flashbangs and impact munitions.
