@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-27T20:27:22.016441+00:00
+UPDATED AT: 2020-07-27T20:27:46.849884+00:00
 
 
 # Alabama
@@ -12367,6 +12367,19 @@ id: wa-seattle-50
 **Links**
 
 * https://twitter.com/StellarArris/status/1287446170403508226
+
+
+### Effects of flashbang | July 25th
+
+An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protestor. The victim appears to have suffered lacerations and bruising as a result of the impact.
+
+tags: protestor, flashbang
+
+id: wa-seattle-51
+
+**Links**
+
+* https://twitter.com/DickandSharon/status/1287653775042371585
 
 
 
