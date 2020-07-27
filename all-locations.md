@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-27T20:28:05.104785+00:00
+UPDATED AT: 2020-07-27T21:36:03.477152+00:00
 
 
 # Alabama
@@ -11633,6 +11633,35 @@ id: va-richmond-16
 
 * https://twitter.com/JLJLovesRVA/status/1287242052284096513
 * https://twitter.com/edace2936/status/1287226623348137984
+
+
+### Reporter handcuffed and detained | July 26th
+
+Richmond police officers were clearing Monroe Park. A journalist was attempting to leave when he was detained and handcuffed by police, even though he had a press pass and repeatedly stated he was with the press. He states he was later released on the condition he did not return to the park that night.
+
+tags: journalist, abuse-of-power
+
+id: va-richmond-17
+
+**Links**
+
+* https://twitter.com/aeringle/status/1287576731658997760
+* https://twitter.com/aeringle/status/1287577232484061184
+* https://twitter.com/edace2936/status/1287574364490289152
+
+
+### Protestor arrested without probable cause, later released without charges | July 26th
+
+The filmer, a protestor, is standing on or near the sidewalk. Several officers approach him. The protestor says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protestor without charges.
+
+tags: protestor, arrest, abuse-of-power
+
+id: va-richmond-18
+
+**Links**
+
+* https://twitter.com/GoadGatsby/status/1287599473619861504
+* https://twitter.com/GoadGatsby/status/1287600241068449792
 
 
 
