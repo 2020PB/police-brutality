@@ -52,6 +52,19 @@ id: or-eugene-1
 * [Direct link to video](https://streamable.com/9h2tk3)
 
 
+### Underage protestor tackled and arrested | July 26th
+
+During a protest at which both pro-police and Black Lives Matter protestors were present, members of the two protests appear to exchange words in an intersection. Police charge a protestor, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
+
+tags: tackle, arrest, knee, protestor, child
+
+id: or-eugene-2
+
+**Links**
+
+* https://www.facebook.com/levimadison/videos/10220891720496082/
+
+
 ## Everett
 
 ### Protestor arrested after dangling doughnut in front of officers | July 17th
