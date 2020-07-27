@@ -2978,16 +2978,6 @@ id: or-portland-183
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
 
-Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
-
-
-
-
-https://twitter.com/TheRealCoryElia/status/1287664107726938112
-
-
-
-
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
 tags: tear-gas, inhumane-treatment
