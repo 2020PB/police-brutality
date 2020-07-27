@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-27T21:36:03.477152+00:00
+UPDATED AT: 2020-07-27T21:36:14.154870+00:00
 
 
 # Alabama
@@ -7289,6 +7289,19 @@ id: or-eugene-1
 * [Direct link to video](https://streamable.com/9h2tk3)
 
 
+### Underage protestor tackled and arrested | July 26th
+
+During a protest at which both pro-police and Black Lives Matter protestors were present, members of the two protests appear to exchange words in an intersection. Police charge a protestor, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
+
+tags: tackle, arrest, knee, protestor, child
+
+id: or-eugene-4
+
+**Links**
+
+* https://www.facebook.com/levimadison/videos/10220891720496082/
+
+
 ## Everett
 
 ### Protestor arrested after dangling doughnut in front of officers | July 17th
@@ -9493,16 +9506,30 @@ Footage shows an officer lobbing an explosive over the fence, nearly striking th
 
 The journalist refers to the projectile as "a spicy present," where the phrase "spicy" is generally used to refer to tear gas.
 
-
-id or-portland-143
-
 tags: journalist, explosive, projectile
 
-id: or-portland-ncig
+id: or-portland-143
 
 **Links**
 
 * https://twitter.com/defendpdx/status/1286185049054879744
+
+
+### Two protestors hospitalized after being shot by less-lethal munitions | July 22nd
+
+Two individuals who attended protests in Portland on July 22nd have been hospitalized for injuries sustained from less lethal rounds used by federal officers.
+
+One protestor was shot in the head just below his helmet. A medic who attended him on site says he lost consciousness repeatedly on the way to the hospital. A CT scan revealed metal shrapnel in his head. The protestor is now home and is expected to make a full recovery.
+
+The other protestor was shot repeatedly in the abdomen. One round pierced through his skin, fat and a first layer of muscle on his back. A trauma surgeon investigated and found that the round had not pierced the protestor's abdominal cavity.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-186
+
+**Links**
+
+* https://www.oregonlive.com/portland/2020/07/two-portlanders-hospitalized-after-shot-with-munitions-if-that-round-had-hit-me-in-the-neck-i-definitely-would-have-died.html
 
 
 ### Federal officers again use excessive force to push protestors | July 23rd
