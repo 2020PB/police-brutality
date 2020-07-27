@@ -312,3 +312,15 @@ id: pa-pittsburgh-5
 * https://www.pghcitypaper.com/pittsburgh/video-shows-pittsburgh-police-arresting-and-pinning-woman-to-ground-in-east-liberty-before-deploying-tear-gas-at-onlookers/Content?oid=17432474
 * https://www.reddit.com/r/pittsburgh/comments/gzv8y7/video_shows_pittsburgh_police_arresting_and
 
+
+### Protestor shoved into median | July 25th
+
+Footage shows a protestor standing in the street filming police. One officer shoves the protestor, then another shoves the protestor with his baton. The protestor falls into the concrete median then to the ground.
+
+tags: protestor, shove, baton, push
+
+id: pa-pittsburgh-6
+
+**Links**
+
+* https://twitter.com/jackohrman/status/1287258983149993984
