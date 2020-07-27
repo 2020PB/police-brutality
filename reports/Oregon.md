@@ -2862,20 +2862,16 @@ id: or-portland-177
 * https://twitter.com/suzettesmith/status/1287679598751186945
 
 
-### Violent arrest made; officers fire impact munitions and strike protestors with batons | July 27th
+### Livestreamer shot in hand while sitting on ground | July 27th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
 
-tags: protestor, tackle, beat, baton, strike, knee, shoot, projectile, arrest
 
-id: or-portland-178
 
-**Links**
 
 https://twitter.com/TheRealCoryElia/status/1287664107726938112
 
 
-### Livestreamer shot in hand while sitting on ground | July 27th
 
 A livestreamer uploaded first person footage from July 27th. He is sitting on the ground some distance from protestors when less lethal shots are fired. One strikes the filmer in the hand. He states that his hand is okay.
 
