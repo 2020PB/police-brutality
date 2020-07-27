@@ -740,3 +740,15 @@ id: wa-seattle-50
 
 * https://twitter.com/StellarArris/status/1287446170403508226
 
+### Effects of flashbang | July 25th
+
+An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protestor. The victim appears to have suffered lacerations and bruising as a result of the impact.
+
+tags: protestor, flashbang
+
+id: wa-seattle-51
+
+**Links**
+
+* https://twitter.com/DickandSharon/status/1287653775042371585
+
