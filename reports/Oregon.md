@@ -2974,22 +2974,19 @@ id: or-portland-183
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hyozr3/portland_feds_gas_flashbang_several_times_and/
 
 
-### Violent arrest made by federal officers | July 27th
+## Salem
+
+### Before firing tear gas, Salem PD warns white armed men | June 4th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
 
-tags: protestor, tackle, strike, baton, knee, arrest, shoot, projectile
 
-id: or-portland-178
 
-**Links**
 
 https://twitter.com/TheRealCoryElia/status/1287664107726938112
 
 
-## Salem
 
-### Before firing tear gas, Salem PD warns white armed men | June 4th
 
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
