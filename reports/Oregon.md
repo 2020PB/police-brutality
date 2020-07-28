@@ -2047,6 +2047,19 @@ id: or-portland-157
 * https://twitter.com/EndSoundtrack/status/1286022905835339776
 
 
+### Protestor bowing on sidewalk is pepper sprayed | July 21st
+
+A protestor kneels then stands on the sidewalk, bowing repeatedly at officers. The officer line moves forward. If something is said to the protestor, it is not audible in the footage. An officer then shoves the protestor, who is standing still. The protestor steps back. Another officer then pepper sprays the protestor.
+
+tags: protestor, shove, pepper-spray-spray
+
+id: or-portland-194
+
+**Links**
+
+* https://twitter.com/begoniacloak/status/1285516032459673600
+
+
 ### Protestor shoved onto tear gas canister, which then explodes | July 22nd
 
 During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protestor and throws him to the ground. The protestor lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protestor.
@@ -2058,6 +2071,7 @@ id: or-portland-127
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1285848158044483586
+
 
 
 ### Photographer shoved onto their back | July 22nd
