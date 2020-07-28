@@ -23,6 +23,7 @@ id: ar-bentonville-1
 * [City of Bentonville Facebook post, falsely claiming no rubber bullets were fired](https://www.facebook.com/BentonvilleGov/posts/280723093313967?__tn__=-R)
 * [Op Ed, containing eyewitness observations and quotes purportedly from the police chief](https://arktimes.com/arkansas-blog/2020/06/06/tale-of-two-protests-bentonville-and-fayetteville)
 
+
 ## Little Rock
 
 ### Peaceful protestors kneeling are shot with an explosive projectile. | May 31st
