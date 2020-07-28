@@ -2066,7 +2066,7 @@ The chair of the history department at Lewis & Clark College states she attended
 
 tags: protestor, shoot, projectile
 
-id: or-portland-mpap
+id: or-portland-200
 
 **Links**
 
