@@ -2073,7 +2073,6 @@ id: or-portland-127
 * https://twitter.com/GriffinMalone6/status/1285848158044483586
 
 
-
 ### Photographer shoved onto their back | July 22nd
 
 Footage from around 1:30 AM outside the Justice Center shows a federal officer shoving an individual to the ground. The individual was standing still and holding a large camera.
