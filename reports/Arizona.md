@@ -82,6 +82,9 @@ id: az-phoenix-4
 * https://twitter.com/newsjunkyjimmy/status/1275578476871815169
 
 
+## Tempe
+
+
 ### Police pepper spray protestors on sidewalk | June 27th
 
 On June 27th, protestors gathered on the sidewalk for a 'chalk walk' protest.
@@ -104,3 +107,17 @@ id: az-tempe-1
 * https://www.instagram.com/tv/CB91jGvh25c/
 * https://www.azmirror.com/2020/06/28/tempe-pd-pepper-sprayed-demonstrators-at-saturday-chalk-walk-protest/
 
+
+### Police charge and arrest protestors | July 27th
+
+Footage shows police charging protestors in the street without warning and tackling an individual with a skateboard to arrest them. Additional footage shows police using pepper spray to clear the area. 7 protestors were arrested. One officer was allegedly injured when a projectile lacerated their face.
+
+tags: shove, tackle, protestor, arrest, pepper-spray, spray
+
+id: az-tempe-2
+
+**Links**
+
+* https://twitter.com/azfamily/status/1287983623971508224
+* https://www.azfamily.com/news/demonstrators-clash-with-police-during-protests-in-tempe/article_0a2cf712-d080-11ea-b06d-634862a713a1.html
+* https://twitter.com/greg_doucette/status/1288139434878279685
