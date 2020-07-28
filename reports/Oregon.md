@@ -2060,6 +2060,22 @@ id: or-portland-194
 * https://twitter.com/begoniacloak/status/1285516032459673600
 
 
+### History professor shot in head | July 21st
+
+The chair of the history department at Lewis & Clark College states she attended a protest on July 21st. After being tear gassed, she was struck in the head by an impact munition. Several protest medics, including some members of Rosehip Medic Collective, administered first aid before bringing her to the hospital. A later report states she suffered a black eye and a concussion.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-200
+
+**Links**
+
+* https://www.facebook.com/557037716/posts/10157448233977717/
+* https://twitter.com/Amy_Siskind/status/1287768253356441601/photo/1
+* https://imgur.com/a/Zrljz3P
+* https://pamplinmedia.com/pt/9-news/474921-383910-lewis-and-clark-history-department-chair-shot-at-protest
+
+
 ### Protestor shoved onto tear gas canister, which then explodes | July 22nd
 
 During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protestor and throws him to the ground. The protestor lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protestor.
@@ -2890,6 +2906,34 @@ id: or-portland-193
 **Links**
 
 * https://twitter.com/KohzKah/status/1287449509929213952
+
+
+### Protestor shot in eye | July 26th
+
+Image shows a protestor with a bleeding wound on his right eye. The poster states that someone threw a water bottle, leading officers to fire on protestors. Althought the protestor was allegedly wearing goggles at the time (seen around his neck), he suffered substantial damage to his eye. The uploader alleges that he may lose his eye.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-198
+
+**Links**
+
+* https://imgur.com/uAR94Ou
+* https://www.reddit.com/r/Portland/comments/hy56r2/one_person_threw_a_water_bottle_now_this_kid_is/
+
+
+### Officer kneels on protestors neck | July 26th
+
+Portland police arrest a protestor. While handcuffing him, one officer kneels on the arrestee's neck.
+
+tags: protestor, arrest, knee, knee-on-neck
+
+id: or-portland-199
+
+**Links**
+
+* https://twitter.com/DonovanFarley/status/1287316973882183680
+* https://twitter.com/jiLLy834n/status/1287318126820913152
 
 
 ### Violent arrest made by federal officers | July 27th
