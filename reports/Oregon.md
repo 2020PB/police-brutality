@@ -3127,6 +3127,19 @@ id: or-portland-192
 * https://twitter.com/begoniacloak/status/1287785075459756040
 
 
+### Police shine strobe light at protestors, destroy umbrella | July 28th
+
+Footage shows police directing a bright strobe light at protestors and press attempting to film. One officer grabs a protestor's umbrella, breaking it.
+
+tags: protestor, property-destruction, abuse-of-power
+
+id: or-portland-195
+
+**Links**
+
+* https://twitter.com/begoniacloak/status/1287795370358013952
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
