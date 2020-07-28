@@ -756,7 +756,7 @@ id: wa-seattle-51
 
 ### Protester struck in head by flashbang, gets 4 staples | July 25th
 
-Video shows the protester filming as police toss flash bangs and fire projectiles. He gets hit with something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, an photograph shows his head with 4 staples in it.
+Video shows the protester filming as police toss flash bangs and fire projectiles. He gets hit with something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
 
 tags: protestor, flashbang
 
