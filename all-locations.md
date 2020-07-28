@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-28T05:05:25.671226+00:00
+UPDATED AT: 2020-07-28T12:28:42.352357+00:00
 
 
 # Alabama
@@ -12486,6 +12486,20 @@ id: wa-seattle-51
 **Links**
 
 * https://twitter.com/DickandSharon/status/1287653775042371585
+
+
+### Protester struck in head by flashbang, gets 4 staples | July 25th
+
+Video shows the protester filming as police toss flash bangs and fire projectiles. He gets hit with something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
+
+tags: protestor, flashbang
+
+id: wa-seattle-52
+
+**Links**
+
+* https://www.facebook.com/david.calder3/videos/10217816303259717/
+* https://www.facebook.com/photo.php?fbid=10217824199217111&set=a.10201512323190405&type=3
 
 
 
