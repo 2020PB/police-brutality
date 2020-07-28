@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-27T22:33:11.558514+00:00
+UPDATED AT: 2020-07-28T05:05:25.671226+00:00
 
 
 # Alabama
@@ -10087,7 +10087,7 @@ id: or-portland-184
 * https://twitter.com/PDXzane/status/1287305904304599040
 
 
-### Riot police shove woman to the ground | July 25th
+### Riot police shove woman to the ground | (Believed to be) July 26th
 
 Riot police charge across the street at protestors walking away from them. A woman at the back begins to jog away from police. Police catch up to her and an officer shoves her to the ground with his baton.
 
@@ -10235,6 +10235,22 @@ id: or-portland-183
 
 * https://clips.twitch.tv/BlueImpartialMonkeySoonerLater
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hyozr3/portland_feds_gas_flashbang_several_times_and/
+
+
+### Journalist shot in the face | July 27th
+
+An image from a journalist shows his gas mask with a broken eye hole and his face, with several stitches below his eye. In the thread, he states that he believes he was shot with pepper balls, one of which shattered the eyehole on his gas mask, lacerating his eye. He states that protest medics took him to the hospital. At the hospital, he received stitches by a doctor who was forced to wear a respirator as a result of the pepper ball residue.
+
+tags: journalist, shoot, projectile, pepper-ball
+
+id: or-portland-188
+
+**Links**
+
+* https://mobile.twitter.com/TripPersonal/status/1287828370995081217
+* https://mobile.twitter.com/TripPersonal/status/1287831867937325057
+* https://mobile.twitter.com/TripPersonal/status/1287831871380811776
+* https://mobile.twitter.com/TripPersonal/status/1287831872295194624
 
 
 ## Salem
