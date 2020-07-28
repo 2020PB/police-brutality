@@ -2743,6 +2743,23 @@ id: or-portland-167
 * https://twitter.com/1misanthrophile/status/1287308011229200390
 
 
+### Image shows effect of stinger grenade | July 25th
+
+An image shows the effects of a stinger grenade which allegedly exploded near the head of a protestor. The uploader alleges that the victim, their daughter, is suffering major hearing loss in her ear.
+
+A stinger grenade is a type of stun grenade, or flashbang, which emits a bright light, a loud sound, and fires pellets during the explosion.
+
+tags: protestor, flashbang
+
+id: or-portland-174
+
+**Links**
+
+* https://twitter.com/revnatscider/status/1287293162508050432
+* https://twitter.com/revnatscider/status/1287295229742075904
+* https://www.wweek.com/bars/beer/2020/07/27/portland-cidermaker-nat-west-accompanied-his-teenage-daughter-to-the-protest-downtown-saturday-night-they-left-bloody-burned-and-nearly-deaf/
+
+
 ### Federal officers respond to thrown water bottle with excessive force | July 26th
 
 After protestors allegedly threw a water bottle at federal officers, officers respond with a significant volley of tear gas, catching what appears to be a bystander pick-up truck, which then drives off. In addition, the canisters appear to light a small fire in the street.
@@ -2831,22 +2848,6 @@ id: or-portland-173
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1287312203045978112
-
-
-### Image shows effect of stinger grenade | (Believed to be) July 26th
-
-An image shows the effects of a stinger grenade which allegedly exploded near the head of a protestor. The uploader alleges that the victim, their daughter, is suffering major hearing loss in her ear.
-
-A stinger grenade is a type of stun grenade, or flashbang, which emits a bright light, a loud sound, and fires pellets during the explosion.
-
-tags: protestor, flashbang
-
-id: or-portland-174
-
-**Links**
-
-* https://twitter.com/revnatscider/status/1287293162508050432
-* https://twitter.com/revnatscider/status/1287295229742075904
 
 
 ### Officers hold arrestee down in tear gas | July 26th
