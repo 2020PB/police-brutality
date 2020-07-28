@@ -3016,6 +3016,104 @@ id: or-portland-188
 * https://mobile.twitter.com/TripPersonal/status/1287831872295194624
 
 
+### First round of tear gas launched by federal officers | July 27th
+
+At approximately 11:30 PM, federal officers use tear gas and impact munitions to push protestors away from the fence around the Justice Center. The incident appears to have been instigated by a small fire near the fence and fireworks launched by protestors.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-189
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1287997393351241728
+* https://twitter.com/TheRealCoryElia/status/1288000640887603200
+
+
+### Second round of tear gas launched by federal officers | July 28th
+
+Just after midnight on July 28th, federal officers fired a volley of munitions at protestors gathered around the fence.
+
+The wall of moms is tear-gassed. Officers use tear gas and flashbangs to push protestors. Officers additionally use green lasers to point out protestors for impact munitions, generally targeting protestors who attempt to throw tear gas canisters back at officers.
+
+A reporter discusses the munitions used with protestors, including munitions containing metal ball bearings. The reporter also notes a chlorine smell in the air, raising concerns about the nature of the chemical agents used, as most tear gas does not smell of chlorine.
+
+tags: protestor, tear-gas, flashbang
+
+id: or-portland-190
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1288012346837700609
+* https://twitter.com/MrOlmos/status/1288012627617054720
+* https://twitter.com/MrOlmos/status/1288012924875759618
+* https://twitter.com/MrOlmos/status/1288015747172589569
+* https://twitter.com/MrOlmos/status/1288016345917923329
+* https://twitter.com/MrOlmos/status/1288016965148110849
+* https://twitter.com/sunnymok/status/1288013746233724928
+* https://twitter.com/andrewkimmel/status/1288019621937680387
+* https://twitter.com/andrewkimmel/status/1288024348134010880
+* https://twitter.com/TheRealCoryElia/status/1288013644094029824
+
+
+### Federal officers use tear gas to push protestors through the park | July 28th
+
+Around 12:40 AM, federal officers declare an unlawful assembly, then fire explosive munitions at protestors, including tear gas and stun grenades. Lasers are again used to mark protestors. Impact munitions can also be heard fired throughout the footage.
+
+Officers push protestors back into the park with tear gas. They continue to fire as protestors flee.
+
+[Notably, officers approach the wall of moms, who have linked arms in the street. Another protestor behind them throws a tear gas canister back at officers](https://twitter.com/MrOlmos/status/1288023620468391937). [Officers order the moms to disperse. When they refuse, the officers fire tear gas at them](https://twitter.com/MrOlmos/status/1288024030042234880).
+
+Officers return to the courthouse around 1:20 AM, using tear gas and flashbangs to cover their retreat.
+
+tags: protestor, tear-gas, flashbang, shoot, projectile
+
+id: or-portland-191
+
+**Links**
+
+* https://twitter.com/oh_rome/status/1288019583509512193
+* https://twitter.com/sunnymok/status/1288017016557772801
+* https://twitter.com/tehandy121/status/1288020379462598657
+* https://twitter.com/tehandy121/status/1288020599231504385
+* https://twitter.com/tehandy121/status/1288022135126949889
+* https://twitter.com/tehandy121/status/1288022960695963648
+* https://twitter.com/TheRealCoryElia/status/1288023781672271875
+* https://twitter.com/sunnymok/status/1288033297461686272
+* https://twitter.com/MrOlmos/status/1288023620468391937
+* https://twitter.com/MrOlmos/status/1288024030042234880
+* https://twitter.com/MrOlmos/status/1288025916312936448
+* https://twitter.com/MrOlmos/status/1288026255422447617
+* https://twitter.com/TheRealCoryElia/status/1288015793834225664
+* https://twitter.com/TheRealCoryElia/status/1288026521827860486
+
+
+### Violent arrest made by federal officers | July 28th
+
+A protestor is held face-down on the ground by an officer. The protestor is punched and struck by another officer with a baton. The protestor is then arrested.
+
+tags: punch, strike, baton, protestor, arrest
+
+id: or-portland-192
+
+**Links**
+
+* https://twitter.com/begoniacloak/status/1287785075459756040
+
+
+### Officers beat protestors who are unable to run | July 28th
+
+Two protestors are obeying federal officers' directions by moving down the street. They are not moving quickly. The filmer states, "I can't run, I'm injured." The two are beaten by multiple officers with batons.
+
+tags: protestor, shove, strike, beat, baton
+
+id: or-portland-193
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1287449509929213952
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
