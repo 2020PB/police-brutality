@@ -3014,6 +3014,7 @@ id: or-portland-188
 * https://mobile.twitter.com/TripPersonal/status/1287831867937325057
 * https://mobile.twitter.com/TripPersonal/status/1287831871380811776
 * https://mobile.twitter.com/TripPersonal/status/1287831872295194624
+* https://twitter.com/areidross/status/1287841917447757824?s=20
 
 
 ## Salem
