@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-28T12:28:42.352357+00:00
+UPDATED AT: 2020-07-28T18:44:04.163629+00:00
 
 
 # Alabama
@@ -9284,6 +9284,19 @@ id: or-portland-157
 * https://twitter.com/EndSoundtrack/status/1286022905835339776
 
 
+### Protestor bowing on sidewalk is pepper sprayed | July 21st
+
+A protestor kneels then stands on the sidewalk, bowing repeatedly at officers. The officer line moves forward. If something is said to the protestor, it is not audible in the footage. An officer then shoves the protestor, who is standing still. The protestor steps back. Another officer then pepper sprays the protestor.
+
+tags: protestor, shove, pepper-spray-spray
+
+id: or-portland-194
+
+**Links**
+
+* https://twitter.com/begoniacloak/status/1285516032459673600
+
+
 ### Protestor shoved onto tear gas canister, which then explodes | July 22nd
 
 During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protestor and throws him to the ground. The protestor lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protestor.
@@ -9786,6 +9799,7 @@ id: or-portland-158
 * https://twitter.com/gravemorgan/status/1286909553099988993
 * https://twitter.com/gravemorgan/status/1286909811972481024
 * https://twitter.com/DonovanFarley/status/1286911909225095168
+* https://twitter.com/revnatscider/status/1286912138544418817
 
 
 ### Federal officers fire impact munitions at point blank | July 24th
@@ -9966,6 +9980,23 @@ id: or-portland-167
 * https://twitter.com/1misanthrophile/status/1287308011229200390
 
 
+### Image shows effect of stinger grenade | July 25th
+
+An image shows the effects of a stinger grenade which allegedly exploded near the head of a protestor. The uploader alleges that the victim, their daughter, is suffering major hearing loss in her ear.
+
+A stinger grenade is a type of stun grenade, or flashbang, which emits a bright light, a loud sound, and fires pellets during the explosion.
+
+tags: protestor, flashbang
+
+id: or-portland-174
+
+**Links**
+
+* https://twitter.com/revnatscider/status/1287293162508050432
+* https://twitter.com/revnatscider/status/1287295229742075904
+* https://www.wweek.com/bars/beer/2020/07/27/portland-cidermaker-nat-west-accompanied-his-teenage-daughter-to-the-protest-downtown-saturday-night-they-left-bloody-burned-and-nearly-deaf/
+
+
 ### Federal officers respond to thrown water bottle with excessive force | July 26th
 
 After protestors allegedly threw a water bottle at federal officers, officers respond with a significant volley of tear gas, catching what appears to be a bystander pick-up truck, which then drives off. In addition, the canisters appear to light a small fire in the street.
@@ -10056,21 +10087,6 @@ id: or-portland-173
 * https://twitter.com/hungrybowtie/status/1287312203045978112
 
 
-### Image shows effect of stinger grenade | (Believed to be) July 26th
-
-An image shows the effects of a stinger grenade which allegedly exploded near the head of a protestor. The uploader alleges that the victim, their daughter, is suffering major hearing loss in her ear.
-
-A stinger grenade is a type of stun grenade, or flashbang, which emits a bright light, a loud sound, and fires pellets during the explosion.
-
-tags: protestor, flashbang
-
-id: or-portland-174
-
-**Links**
-
-* https://twitter.com/revnatscider/status/1287620496637325313
-
-
 ### Officers hold arrestee down in tear gas | July 26th
 
 Footage shows several officers detaining a protestor in a cloud of tear gas. They bring the protestor to his feet, then he stumbles back down to the ground. It is unclear if the protestor is suffering ill effects from the tear gas or if he is passively resisting. One officer holds his head in the pavement while tear gas blows across the frame. Another officer appears to jab him with a baton. The protestor can be heard screaming that he cannot breathe.
@@ -10098,6 +10114,19 @@ id: or-portland-187
 **Links**
 
 * https://www.reddit.com/r/Portland/comments/hy4fza/police_charge_after_dispersing_protesters_and/
+
+
+### Officers beat protestors who are unable to run | July 26th
+
+Two protestors are obeying federal officers' directions by moving down the street. They are not moving quickly. The filmer states, "I can't run, I'm injured." The two are beaten by multiple officers with batons.
+
+tags: protestor, shove, strike, beat, baton
+
+id: or-portland-193
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1287449509929213952
 
 
 ### Violent arrest made by federal officers | July 27th
@@ -10251,6 +10280,131 @@ id: or-portland-188
 * https://mobile.twitter.com/TripPersonal/status/1287831867937325057
 * https://mobile.twitter.com/TripPersonal/status/1287831871380811776
 * https://mobile.twitter.com/TripPersonal/status/1287831872295194624
+
+
+### First round of tear gas launched by federal officers | July 27th
+
+At approximately 11:30 PM, federal officers use tear gas and impact munitions to push protestors away from the fence around the Justice Center. The incident appears to have been instigated by a small fire near the fence and fireworks launched by protestors.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-189
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1287997393351241728
+* https://twitter.com/TheRealCoryElia/status/1288000640887603200
+
+
+### Second round of tear gas launched by federal officers | July 28th
+
+Just after midnight on July 28th, federal officers fired a volley of munitions at protestors gathered around the fence.
+
+The wall of moms is tear-gassed. Officers use tear gas and flashbangs to push protestors. Officers additionally use green lasers to point out protestors for impact munitions, generally targeting protestors who attempt to throw tear gas canisters back at officers.
+
+A reporter discusses the munitions used with protestors, including munitions containing metal ball bearings. The reporter also notes a chlorine smell in the air, raising concerns about the nature of the chemical agents used, as most tear gas does not smell of chlorine.
+
+tags: protestor, tear-gas, flashbang
+
+id: or-portland-190
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1288012346837700609
+* https://twitter.com/MrOlmos/status/1288012627617054720
+* https://twitter.com/MrOlmos/status/1288012924875759618
+* https://twitter.com/MrOlmos/status/1288015747172589569
+* https://twitter.com/MrOlmos/status/1288016345917923329
+* https://twitter.com/MrOlmos/status/1288016965148110849
+* https://twitter.com/sunnymok/status/1288013746233724928
+* https://twitter.com/andrewkimmel/status/1288019621937680387
+* https://twitter.com/andrewkimmel/status/1288024348134010880
+* https://twitter.com/TheRealCoryElia/status/1288013644094029824
+
+
+### Federal officers use tear gas to push protestors through the park | July 28th
+
+Around 12:40 AM, federal officers declare an unlawful assembly, then fire explosive munitions at protestors, including tear gas and stun grenades. Lasers are again used to mark protestors. Impact munitions can also be heard fired throughout the footage.
+
+Officers push protestors back into the park with tear gas. They continue to fire as protestors flee.
+
+[Notably, officers approach the wall of moms, who have linked arms in the street. Another protestor behind them throws a tear gas canister back at officers](https://twitter.com/MrOlmos/status/1288023620468391937). [Officers order the moms to disperse. When they refuse, the officers fire tear gas at them](https://twitter.com/MrOlmos/status/1288024030042234880).
+
+Officers return to the courthouse around 1:20 AM, using tear gas and flashbangs to cover their retreat.
+
+tags: protestor, tear-gas, flashbang, shoot, projectile
+
+id: or-portland-191
+
+**Links**
+
+* https://twitter.com/oh_rome/status/1288019583509512193
+* https://twitter.com/sunnymok/status/1288017016557772801
+* https://twitter.com/tehandy121/status/1288020379462598657
+* https://twitter.com/tehandy121/status/1288020599231504385
+* https://twitter.com/tehandy121/status/1288022135126949889
+* https://twitter.com/tehandy121/status/1288022960695963648
+* https://twitter.com/TheRealCoryElia/status/1288023781672271875
+* https://twitter.com/sunnymok/status/1288033297461686272
+* https://twitter.com/MrOlmos/status/1288023620468391937
+* https://twitter.com/MrOlmos/status/1288024030042234880
+* https://twitter.com/MrOlmos/status/1288025916312936448
+* https://twitter.com/MrOlmos/status/1288026255422447617
+* https://twitter.com/TheRealCoryElia/status/1288015793834225664
+* https://twitter.com/TheRealCoryElia/status/1288026521827860486
+
+
+### Violent arrest made by federal officers | July 28th
+
+A protestor is held face-down on the ground by an officer. The protestor is punched and struck by another officer with a baton. The protestor is then arrested.
+
+tags: punch, strike, baton, protestor, arrest
+
+id: or-portland-192
+
+**Links**
+
+* https://twitter.com/begoniacloak/status/1287785075459756040
+
+
+### Police shine strobe light at protestors, destroy umbrella | July 28th
+
+Footage shows police directing a bright strobe light at protestors and press attempting to film. One officer grabs a protestor's umbrella, breaking it.
+
+tags: protestor, property-destruction, abuse-of-power
+
+id: or-portland-195
+
+**Links**
+
+* https://twitter.com/begoniacloak/status/1287795370358013952
+
+
+### Protestor struck with tear gas canister | (Believed to be) July 28th
+
+First-person footage shows federal officers firing tear gas canisters at protestors. The filmer is shot at repeatedly, with one canister exploding near their feet and another that ricochets and strikes them in the camera, allegedly in the head. Protestors can be heard calling for a medic.
+
+tags: protestor, tear-gas, tear-gas-canister
+
+id: or-portland-196
+
+**Links**
+
+* https://twitter.com/chadloder/status/1288154159196172288
+
+
+### Protestor in wheelchair struck repeatedly | July 28th
+
+First person footage from a protestor in a wheelchair shows them sitting still, filming some distance from the Justice Center fence. Officers fire explosives and impact munitions, many of which strike the protestor directly.
+
+tags: protestor, tear-gas, explosive, shoot, projectile, person-with-disability
+
+id: or-portland-197
+
+**Links**
+
+* https://clips.twitch.tv/PlacidBusyKaleTebowing
+* https://www.reddit.com/r/Portland/comments/hzcyju/me_and_my_wheelchair_got_hit_with_a_decent_amount/
 
 
 ## Salem
