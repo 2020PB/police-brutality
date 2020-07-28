@@ -2844,7 +2844,8 @@ id: or-portland-174
 
 **Links**
 
-* https://twitter.com/revnatscider/status/1287620496637325313
+* https://twitter.com/revnatscider/status/1287293162508050432
+* https://twitter.com/revnatscider/status/1287295229742075904
 
 
 ### Officers hold arrestee down in tear gas | July 26th
