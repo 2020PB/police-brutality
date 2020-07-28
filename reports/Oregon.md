@@ -2892,6 +2892,20 @@ id: or-portland-193
 * https://twitter.com/KohzKah/status/1287449509929213952
 
 
+### Protestor shot in eye | July 26th
+
+Image shows a protestor with a bleeding wound on his right eye. The poster states that someone threw a water bottle, leading officers to fire on protestors. Althought the protestor was allegedly wearing goggles at the time (seen around his neck), he suffered substantial damage to his eye. The uploader alleges that he may lose his eye.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-198
+
+**Links**
+
+* https://imgur.com/uAR94Ou
+* https://www.reddit.com/r/Portland/comments/hy56r2/one_person_threw_a_water_bottle_now_this_kid_is/
+
+
 ### Violent arrest made by federal officers | July 27th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
