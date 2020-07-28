@@ -2060,6 +2060,20 @@ id: or-portland-194
 * https://twitter.com/begoniacloak/status/1285516032459673600
 
 
+### History professor shot in head | July 21st
+
+The chair of the history department at Lewis & Clark College states she attended a protest on July 21st. After being tear gassed, she was struck in the head by an impact munition. Several protest medics, including some members of Rosehip Medic Collective, administered first aid before bringing her to the hospital. A later report states she suffered a black eye and a concussion.
+
+tags: protestor, shoot, projectile
+
+**Links**
+
+* https://www.facebook.com/557037716/posts/10157448233977717/
+* https://twitter.com/Amy_Siskind/status/1287768253356441601/photo/1
+* https://imgur.com/a/Zrljz3P
+* https://pamplinmedia.com/pt/9-news/474921-383910-lewis-and-clark-history-department-chair-shot-at-protest
+
+
 ### Protestor shoved onto tear gas canister, which then explodes | July 22nd
 
 During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protestor and throws him to the ground. The protestor lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protestor.
