@@ -2863,6 +2863,19 @@ id: or-portland-187
 * https://www.reddit.com/r/Portland/comments/hy4fza/police_charge_after_dispersing_protesters_and/
 
 
+### Officers beat protestors who are unable to run | July 26th
+
+Two protestors are obeying federal officers' directions by moving down the street. They are not moving quickly. The filmer states, "I can't run, I'm injured." The two are beaten by multiple officers with batons.
+
+tags: protestor, shove, strike, beat, baton
+
+id: or-portland-193
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1287449509929213952
+
+
 ### Violent arrest made by federal officers | July 27th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
@@ -3099,19 +3112,6 @@ id: or-portland-192
 **Links**
 
 * https://twitter.com/begoniacloak/status/1287785075459756040
-
-
-### Officers beat protestors who are unable to run | July 28th
-
-Two protestors are obeying federal officers' directions by moving down the street. They are not moving quickly. The filmer states, "I can't run, I'm injured." The two are beaten by multiple officers with batons.
-
-tags: protestor, shove, strike, beat, baton
-
-id: or-portland-193
-
-**Links**
-
-* https://twitter.com/KohzKah/status/1287449509929213952
 
 
 ## Salem
