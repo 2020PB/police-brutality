@@ -34,7 +34,21 @@ id: wa-seattle-1
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
-* 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested" (possibly)
+* Possibly related to OPD Case 2020OPA-0324 - "Placing the knee on the neck area of two people who had been arrested"
+
+
+### Flashbang causes serious thumb and forefinger injury | May 30th
+
+According to a news report, a oman at the Saturday, June 1st protest in downtown Seattle sustained severe injuries from sharpnel that pierced her thumb and forefinger.
+
+tags: flashbang
+
+id: wa-seattle-55
+
+**Links**
+
+* https://www.seattletimes.com/seattle-news/seattle-police-continue-to-use-flash-bang-grenades-during-protests-despite-recommendations/
+* Related to OPD Case 2020OPA-0328 "The use of flashbangs, including causing a significant thumb injury"
 
 
 ### Police beat unarmed man on the ground | May 31st
@@ -135,7 +149,7 @@ id: wa-seattle-7
 * https://twitter.com/The_Stepover/status/1267237940184231936
 
 
-### Police initiate violence | June 1st
+### Police pepper spray crowd | June 1st
 
 Police pepper spray peacefully protesting crowd.
 
@@ -163,6 +177,20 @@ id: wa-seattle-10
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
 * https://twitter.com/greg_doucette/status/1267694239028334592
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
+
+
+### Police injure sleeping homeless man with flashbang | June 1st
+
+Police flashbang hits a homeless man sleeping in a park.
+
+tags: flashbang, homeless
+
+id: wa-seattle-54
+
+**Links**
+
+* https://www.facebook.com/kg.farmer/videos/278656296661372
+* Related to OPD Case 2020OPA-0335 "Homeless man hit by an SPD flashbang while sleeping"
 
 
 ### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
