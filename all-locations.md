@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-28T18:45:05.276575+00:00
+UPDATED AT: 2020-07-28T18:45:25.816221+00:00
 
 
 # Alabama
@@ -10253,6 +10253,7 @@ id: or-portland-181
 
 * https://www.reddit.com/r/PublicFreakout/comments/hyur0s/a_young_woman_is_arrested_she_yells_i_cant_breath/
 * https://www.reddit.com/r/PublicFreakout/comments/hyys5p/2_ladys_get_arrested_by_federal_police_in_portland/
+* https://twitter.com/girlsreallyrule/status/1287884078360850432
 
 
 ### Officer pepper sprays protestor | July 27th
@@ -10297,6 +10298,7 @@ id: or-portland-188
 * https://mobile.twitter.com/TripPersonal/status/1287831867937325057
 * https://mobile.twitter.com/TripPersonal/status/1287831871380811776
 * https://mobile.twitter.com/TripPersonal/status/1287831872295194624
+* https://twitter.com/areidross/status/1287841917447757824?s=20
 
 
 ### First round of tear gas launched by federal officers | July 27th
