@@ -2906,6 +2906,20 @@ id: or-portland-198
 * https://www.reddit.com/r/Portland/comments/hy56r2/one_person_threw_a_water_bottle_now_this_kid_is/
 
 
+### Officer kneels on protestors neck | July 26th
+
+Portland police arrest a protestor. While handcuffing him, one officer kneels on the arrestee's neck.
+
+tags: protestor, arrest, knee, knee-on-neck
+
+id: or-portland-199
+
+**Links**
+
+* https://twitter.com/DonovanFarley/status/1287316973882183680
+* https://twitter.com/jiLLy834n/status/1287318126820913152
+
+
 ### Violent arrest made by federal officers | July 27th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
