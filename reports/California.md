@@ -763,6 +763,20 @@ id: ca-losangeles-40
 * https://www.instagram.com/p/CCxPb28hRdN/
 
 
+### Violent arrests after police initiate scuffle | July 25th
+
+Footage shows police approaching a protestor in the street and shoving her to the ground, knocking the phone out of her hand. As police continue to shove the protestor, another runs into frame and knocks an officer to the ground. More police then join to arrest the two protestors. Two other protestors come into frame, yelling at police. One is thrown to the ground and knelt on by an officer to arrest her. The other is shoved over a vertical ring used to lock bikes. She is then repeatedly shoved as she tries to stand and approach her fellow protestor on the ground.
+
+tags: shove, arrest, strike, baton, property-destruction, protestor
+
+id: ca-losangeles-43
+
+**Links**
+
+* https://twitter.com/KTLA/status/1287241665703374848
+* https://ktla.com/news/local-news/hundreds-of-protesters-gather-in-downtown-l-a-as-some-march-onto-101-freeway/
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
@@ -824,6 +838,19 @@ id: ca-oakland-3
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
+### Protestor singled out, chased and arrested | July 26th
+
+Police gather around a protestor standing on a pedestrian median. He is singled out by police. He is threatened with arrest, then flees. A hissing sound can be heard prior to his flight, which may be pepper spray. Officers then chase, tackle, and arrest him. Motive for the arrest is unclear.
+
+tags: protestor, arrest, tackle
+
+id: ca-oakland-4
+
+**Links**
+
+* https://twitter.com/SarahBelleLin/status/1287321616636997632
+
+
 ## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
@@ -841,6 +868,19 @@ id: ca-riverside-1
 
 ## Sacramento
 
+### Man severely injured by tear gas and impact munitions | May 30th
+
+A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw. He is part of a lawsuit against the city, along with lawyer Danny Garza.
+
+tags: shoot, projectile, protestor, tear-gas
+
+id: ca-sacramento-6
+
+**Links**
+
+* https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+
+
 ### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
@@ -856,18 +896,6 @@ id: ca-sacramento-1
 
 
 ### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
-
-A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw.
-
-He is part of a lawsuit against the city of Sacramento, along with lawyer Danny Garza from ca-sacramento-2.
-
-
-
-
-https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
-https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf
-
-
 
 Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protestors have brought a lawsuit against the city of Sacramento.
 
