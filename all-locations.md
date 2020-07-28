@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-28T18:44:04.163629+00:00
+UPDATED AT: 2020-07-28T18:44:34.271189+00:00
 
 
 # Alabama
@@ -12654,6 +12654,20 @@ id: wa-seattle-52
 
 * https://www.facebook.com/david.calder3/videos/10217816303259717/
 * https://www.facebook.com/photo.php?fbid=10217824199217111&set=a.10201512323190405&type=3
+
+
+### Police violently push protestors down the street | July 25th
+
+Police push protestors down the street. Protestor are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protestors. One protestor appears to be directly hit. Police grab or shove protestors who are straggling and arrest them.
+
+tags: protestor, explosive, shove, grab, arrest, pepper-spray, spray
+
+id: wa-seattle-53
+
+**Links**
+
+* https://www.youtube.com/watch?v=gvfPAYCwg2w
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hzdd88/police_brutality_seattlepd_push_protestorsfire/
 
 
 
