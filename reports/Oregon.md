@@ -3156,6 +3156,20 @@ id: or-portland-196
 * https://twitter.com/chadloder/status/1288154159196172288
 
 
+### Protestor in wheelchair struck repeatedly | July 28th
+
+First person footage from a protestor in a wheelchair shows them sitting still, filming some distance from the Justice Center fence. Officers fire explosives and impact munitions, many of which strike the protestor directly.
+
+tags: protestor, tear-gas, explosive, shoot, projectile, person-with-disability
+
+id: or-portland-197
+
+**Links**
+
+* https://clips.twitch.tv/PlacidBusyKaleTebowing
+* https://www.reddit.com/r/Portland/comments/hzcyju/me_and_my_wheelchair_got_hit_with_a_decent_amount/
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
