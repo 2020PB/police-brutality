@@ -27,6 +27,8 @@ id: wa-olympia-1
 
 Officer pins protestor with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
 
+Possibly related to OPD Case 2020OPA-0324 - "Placing the knee on the neck area of two people who had been arrested"
+
 tags: knee-on-neck, arrest, protestor
 
 id: wa-seattle-1
@@ -34,12 +36,13 @@ id: wa-seattle-1
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
-* 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested" (possibly)
 
 
 ### Police beat unarmed man on the ground | May 31st
 
 A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned.
+
+Related to Seattle OPA Case 2020OPA-0330.
 
 tags: beat, punch, pinned, protestor
 
@@ -48,7 +51,6 @@ id: wa-seattle-2
 **Links**
 
 * https://twitter.com/gunduzbaba1905/status/1266937500607614982
-* Seattle OPA Case 2020OPA-0330
 
 
 ### Police indiscriminately pepper spray peaceful protesters | May 31st
@@ -68,6 +70,8 @@ id: wa-seattle-3
 
 Police pepper sprays a young child who is seen crying, while protesters pour milk on the distressed girl.
 
+Related to Seattle OPA Case 2020OPA-0322.
+
 tags: pepper-spray, child, inhumane-treatment, protestor
 
 id: wa-seattle-4
@@ -75,7 +79,6 @@ id: wa-seattle-4
 **Links**
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
-* Seattle OPA Case 2020OPA-0322
 
 
 ### Police throw tear gas at peaceful protestors | May 31st
@@ -135,7 +138,7 @@ id: wa-seattle-7
 * https://twitter.com/The_Stepover/status/1267237940184231936
 
 
-### Police initiate violence | June 1st
+### Police pepper spray crowd | June 1st
 
 Police pepper spray peacefully protesting crowd.
 
@@ -163,6 +166,21 @@ id: wa-seattle-10
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
 * https://twitter.com/greg_doucette/status/1267694239028334592
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
+
+
+### Police injure sleeping homeless man with flashbang | June 1st
+
+Police flashbang hits a homeless man sleeping in a park.
+
+Related to OPD Case 2020OPA-0335 "Homeless man hit by an SPD flashbang while sleeping".
+
+tags: bystander, flashbang, homeless
+
+id: wa-seattle-54
+
+**Links**
+
+* https://www.facebook.com/kg.farmer/videos/278656296661372
 
 
 ### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
