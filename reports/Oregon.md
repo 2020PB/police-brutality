@@ -2562,6 +2562,7 @@ id: or-portland-158
 * https://twitter.com/gravemorgan/status/1286909553099988993
 * https://twitter.com/gravemorgan/status/1286909811972481024
 * https://twitter.com/DonovanFarley/status/1286911909225095168
+* https://twitter.com/revnatscider/status/1286912138544418817
 
 
 ### Federal officers fire impact munitions at point blank | July 24th
@@ -3139,6 +3140,19 @@ id: or-portland-195
 **Links**
 
 * https://twitter.com/begoniacloak/status/1287795370358013952
+
+
+### Protestor struck with tear gas canister | (Believed to be) July 28th
+
+First-person footage shows federal officers firing tear gas canisters at protestors. The filmer is shot at repeatedly, with one canister exploding near their feet and another that ricochets and strikes them in the camera, allegedly in the head. Protestors can be heard calling for a medic.
+
+tags: protestor, tear-gas, tear-gas-canister
+
+id: or-portland-196
+
+**Links**
+
+* https://twitter.com/chadloder/status/1288154159196172288
 
 
 ## Salem
