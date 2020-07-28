@@ -2,7 +2,9 @@
 
 ### Police arrest two reporters | June 3
 
-Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety. Test edit please don't merge. I'm just checking if remote PRs work. 
+Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety.
+
+Test edit please don't merge. I'm just checking if remote PRs work. 
 
 
 
