@@ -770,7 +770,7 @@ id: wa-seattle-52
 
 ### Police violently push protestors down the street | July 25th
 
-Police push protestors down the street. Protestor are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protestors. One protestor appears to be directly hit. Police grab or shove protestors who are straggling and arrest them. 
+Police push protestors down the street. Protestor are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protestors. One protestor appears to be directly hit. Police grab or shove protestors who are straggling and arrest them.
 
 tags: protestor, explosive, shove, grab, arrest, pepper-spray, spray
 
