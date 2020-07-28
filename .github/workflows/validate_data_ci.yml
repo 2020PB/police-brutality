@@ -14,8 +14,8 @@ jobs:
     # Inspired by: https://peterevans.dev/posts/github-actions-how-to-automate-code-formatting-in-pull-requests/
     - uses: actions/checkout@v2
       with:
-        ref: ${{ github.head_ref }}
         token: ${{ secrets.UBERSHMEKEL_ALT_TOKEN }}
+        ref: ${{ github.head_ref }}
 
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
