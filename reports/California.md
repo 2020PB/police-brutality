@@ -1027,6 +1027,7 @@ id: ca-sanjose-1
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
 * https://twitter.com/bowiezamudio/status/1266598285206106113
 * https://twitter.com/kakimeows/status/1266982771005616128
+* https://twitter.com/venomwithinher/status/1266826205833031680
 
 
 ### Officer puts knee on neck of protester | May 29th
