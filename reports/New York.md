@@ -1502,7 +1502,7 @@ id: ny-newyorkcity-97
 
 A group of people not wearing any identification as law enforcement officers surround and grab a protestor. After a brief struggle, protestor is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protestors from intervening and then the van drives away.
 
-tags: arrest, abuse-of-power
+tags: arrest, abuse-of-power, protestor
 
 id: ny-newyorkcity-100
 
@@ -1511,6 +1511,8 @@ id: ny-newyorkcity-100
 * https://twitter.com/michellelhooq/status/1288253381883113475
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzrn57/wtf_nyc_just_a_little_while_ago/
 * https://twitter.com/Naddleez/status/1288232816451432453
+* https://www.instagram.com/p/CDM7z3GJnxP/?igshid=1fi9w19fe6k5s
+* https://twitter.com/protest_nyc/status/1288354104507498497?s=20
 
 
 ## Rochester
