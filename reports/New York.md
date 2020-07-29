@@ -1364,7 +1364,6 @@ id: ny-newyorkcity-50
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1277987893248655361
-* https://twitter.com/deanospameano/status/1277902165542043653
 * https://twitter.com/NelStamp/status/1277985126228557825
 
 
