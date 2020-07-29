@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-29T04:28:26.965058+00:00
+UPDATED AT: 2020-07-29T18:41:06.523493+00:00
 
 
 # Alabama
@@ -5119,13 +5119,18 @@ id: ny-newyorkcity-28
 
 CNN commentator, Keith Boykin, was arrested by the NYPD and detained for 6 hours. He was released with a summons for "walking on the highway," and for "disorderly conduct - blocking vehicle traffic." He claims traffic was already blocked by both police and protestors.
 
-tags: journalist, arrest, inhumane-treatment
+tags: journalist, arrest, inhumane-treatment, zip-tie
 
 id: ny-newyorkcity-30
 
 **Links**
 
-* https://twitter.com/tylergabriel_/status/1267287516345925632
+* https://www.advocate.com/news/2020/6/01/journalist-keith-boykin-arrested-nyc-protest-held-six-hours
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://www.youtube.com/watch?v=tojt5i0dNV4
 
 
 ### Police arrest woman on bike | May 30th
@@ -5174,7 +5179,7 @@ id: ny-newyorkcity-88
 * https://twitter.com/jeancosme/status/1266938900184006656
 
 
-###  | 
+### Officers shove and grab protestors | May 30th
 
 In an incident at Bedford and Tilden Avenues in Brooklyn, an officer pushes through a crowd and grabs a person by the neck to push them aside. Another officer knocks the person over, and the first officer throws the person down again when they try to get up.
 
