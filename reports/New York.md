@@ -1512,3 +1512,16 @@ id: ny-rochester-1
 
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
+
+### Non-uniformed personnel detain protestor | July 28th
+
+A group of people not wearing any identification as law enforcement officers surround and grab a protestor. After a brief struggle, protestor is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protestors from intervening and then the van drives away.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-100
+
+**Links**
+
+* https://twitter.com/michellelhooq/status/1288253381883113475
+
