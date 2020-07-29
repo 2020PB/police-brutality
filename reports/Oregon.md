@@ -3276,7 +3276,7 @@ An independent journalist was filming federal officers from the sidewalk. Office
 
 tags: journalist, arrest
 
-id: or-portland-201
+id: or-portland-205
 
 **Links**
 
