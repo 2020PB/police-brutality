@@ -2936,6 +2936,19 @@ id: or-portland-199
 * https://twitter.com/jiLLy834n/status/1287318126820913152
 
 
+### Journalist arrested without cause | July 26th
+
+An independent photojournalist was arrested after a protestor threw a firework at an officer. The journalist was charged with "assault of an officer;" these charges were later dropped. The journalist may have accidentally kicked the firework, but it appears to be incidental as the firework landed in his path.
+
+tags: journalist, arrest
+
+id: or-portland-203
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1287805624969904129
+
+
 ### Violent arrest made by federal officers | July 27th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
@@ -3105,6 +3118,20 @@ id: or-portland-189
 * https://twitter.com/TheRealCoryElia/status/1288000640887603200
 
 
+### Man shot while filming from balcony | July 27th
+
+First-person footage was taken by a resident on his balcony which overlooked the protests. Shots can be heard and the filmer is hit. He was allegedly struck in the face.
+
+tags: bystander, shoot, projectile
+
+id: or-portland-204
+
+**Links**
+
+* https://streamable.com/pdyy9s
+* https://www.reddit.com/r/pics/comments/hz596o/trip_jennings_shot_in_the_face_by_federal/fzh7f6i/
+
+
 ### Second round of tear gas launched by federal officers | July 28th
 
 Just after midnight on July 28th, federal officers fired a volley of munitions at protestors gathered around the fence.
@@ -3214,6 +3241,62 @@ id: or-portland-197
 
 * https://clips.twitch.tv/PlacidBusyKaleTebowing
 * https://www.reddit.com/r/Portland/comments/hzcyju/me_and_my_wheelchair_got_hit_with_a_decent_amount/
+
+
+### Federal officers push protestors from courthouse | July 29th
+
+Protestors had been launching fireworks and lighting small fires during the night. Shotrly after 2 AM, federal officers declared an unlawful assembly and emerged from the Justice Center. Officers used a hose to douse the fire. Federal officers fired tear gas and impact munitions from the Justice Center before pushing protestors away from the fence. Officers retreat shortly after, using tear gas and impact munitions for cover. Additional footage shows protestors shooting fireworks and throwing tear gas canisters back at officers.
+
+tags: protestor, tear-gas, shoot, projectile, pepper-ball
+
+id: or-portland-201
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1288412044660576256
+* https://twitter.com/R3volutionDaddy/status/1288413882881576960
+* https://twitter.com/R3volutionDaddy/status/1288417799073697793
+* https://twitter.com/Johnnthelefty/status/1288403218838347776
+* https://twitter.com/Johnnthelefty/status/1288404226754801666
+* https://twitter.com/1misanthrophile/status/1288409306488946688
+* https://twitter.com/Johnnthelefty/status/1288405133433348096
+* https://twitter.com/TheHannahRay/status/1288399137923198976
+* https://twitter.com/TheHannahRay/status/1288403105210437632
+* https://twitter.com/TheHannahRay/status/1288424842908192768
+* https://twitter.com/GriffinMalone6/status/1288395077518204929
+* https://twitter.com/MrOlmos/status/1288395267021168640
+* https://twitter.com/MrOlmos/status/1288404295889510400
+* https://twitter.com/MrOlmos/status/1288405200240144384
+* https://twitter.com/MrOlmos/status/1288409389393571840
+
+
+### Independent journalist arrested | July 29th
+
+An independent journalist was filming federal officers from the sidewalk. Officers singled him out and arrested him without explanation.
+
+tags: journalist, arrest
+
+id: or-portland-201
+
+**Links**
+
+* https://twitter.com/FancyJenkins/status/1288427279291265024
+* https://twitter.com/EndSoundtrack/status/1288425411844571136
+
+
+### Individual pepper-sprayed by federal police | July 29th
+
+An individual wearing a press jacket yells at federal officers through a fence, telling them, "We don't care if you hurt us. We live here. You don't. You will leave. It's that simple." As the individual is walking away, an officer discharges pepper spray in their direction.
+
+It is unclear if the individual is a member of the press or was just wearing a press jacket.
+
+tags: protestor, pepper-spray, spray
+
+id: or-portland-202
+
+**Links**
+
+* https://twitter.com/TheHannahRay/status/1288425603205488643
 
 
 ## Salem
