@@ -118,10 +118,6 @@ id: ny-newyorkcity-56
 
 Footage shows police using bikes to shove protestors on the sidewalk. One protestor appears to be forced over a concrete divider by the chassis of a bike.
 
-
-
-
-
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
 The NYP has suspended the officer involved.
@@ -218,6 +214,7 @@ id: ny-newyorkcity-61
 * https://twitter.com/AnonymousBrook2/status/1266589590250553345
 * https://twitter.com/AnonymousBrook2/status/1266591121444126720
 * https://twitter.com/Stoney_Holiday/status/1266616250685444096
+* https://www.instagram.com/p/CAzSOtGlKQY/
 
 
 ### Police shove protestor into the road | May 29th
@@ -259,20 +256,6 @@ id: ny-newyorkcity-64
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
-
-
-### Police officer throws man against police car | May 30th
-
-A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
-
-tags: throw, shove, beat, protestor
-
-id: ny-newyorkcity-4
-
-**Links**
-
-* https://twitter.com/Stoney_Holiday/status/1266616250685444096
-* https://www.instagram.com/p/CAzSOtGlKQY/
 
 
 ### NYPD beat people with batons | May 30th
