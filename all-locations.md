@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-29T18:41:06.523493+00:00
+UPDATED AT: 2020-07-29T18:41:47.820992+00:00
 
 
 # Alabama
@@ -2502,15 +2502,16 @@ id: ga-atlanta-2
 
 **Links**
 
-* https://twitter.com/ava/status/1266797973834395648?s=20
+* https://twitter.com/ava/status/1266797973834395648
 * https://twitter.com/Brittm_tv/status/1266497944796225538
+* https://www.youtube.com/watch?v=VzRK2__u47M
 
 
 ### Cops pull people out of their car, tase them | May 30th
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
 
-tags: tase, vehicle, grab, bystander
+tags: tase, vehicle, grab, bystander, taser
 
 id: ga-atlanta-3
 
