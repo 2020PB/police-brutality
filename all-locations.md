@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-29T18:47:35.885364+00:00
+UPDATED AT: 2020-07-29T19:59:53.963734+00:00
 
 
 # Alabama
@@ -6124,7 +6124,6 @@ id: ny-newyorkcity-50
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1277987893248655361
-* https://twitter.com/deanospameano/status/1277902165542043653
 * https://twitter.com/NelStamp/status/1277985126228557825
 
 
