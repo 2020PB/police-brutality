@@ -1524,4 +1524,6 @@ id: ny-newyorkcity-100
 **Links**
 
 * https://twitter.com/michellelhooq/status/1288253381883113475
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hzrn57/wtf_nyc_just_a_little_while_ago/
+* https://twitter.com/Naddleez/status/1288232816451432453
 
