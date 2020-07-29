@@ -1498,21 +1498,6 @@ id: ny-newyorkcity-97
 * https://www.instagram.com/tv/CDFndP4jem2/
 
 
-## Rochester
-
-### Police shoot at people filming | May 31st
-
-Police are seen shooting at individuals who were recording an incident.
-
-tags: shoot, rubber-bullets, protestor
-
-id: ny-rochester-1
-
-**Links**
-
-* https://twitter.com/bleeezyy_/status/1266894195865931778
-
-
 ### Non-uniformed personnel detain protestor | July 28th
 
 A group of people not wearing any identification as law enforcement officers surround and grab a protestor. After a brief struggle, protestor is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protestors from intervening and then the van drives away.
@@ -1526,4 +1511,19 @@ id: ny-newyorkcity-100
 * https://twitter.com/michellelhooq/status/1288253381883113475
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzrn57/wtf_nyc_just_a_little_while_ago/
 * https://twitter.com/Naddleez/status/1288232816451432453
+
+
+## Rochester
+
+### Police shoot at people filming | May 31st
+
+Police are seen shooting at individuals who were recording an incident.
+
+tags: shoot, rubber-bullets, protestor
+
+id: ny-rochester-1
+
+**Links**
+
+* https://twitter.com/bleeezyy_/status/1266894195865931778
 
