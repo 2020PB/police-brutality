@@ -3388,6 +3388,7 @@ id: or-portland-209
 
 * https://twitter.com/1misanthrophile/status/1288740269911707648
 * https://twitter.com/hungrybowtie/status/1288740931827429376
+* https://twitter.com/teegeez123/status/1288738625547464707
 
 
 ### Officers use tear gas to push protestors from Justice Center | July 29th
