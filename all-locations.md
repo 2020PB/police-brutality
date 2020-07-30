@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-29T19:59:53.963734+00:00
+UPDATED AT: 2020-07-30T13:00:53.169633+00:00
 
 
 # Alabama
@@ -6243,6 +6243,26 @@ id: ny-newyorkcity-97
 **Links**
 
 * https://www.instagram.com/tv/CDFndP4jem2/
+
+
+### Non-uniformed police arrest protestor without identifying selves | July 28th
+
+A group of plain-clothes police officers who fail to identify themselves as police surround and grab a protestor. After a brief struggle, protestor is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protestors from intervening and then the van drives away. The abductee's alleged crime was spraypainting over police cameras and graffiti.
+
+tags: arrest, abuse-of-power, protestor
+
+id: ny-newyorkcity-100
+
+**Links**
+
+* https://twitter.com/michellelhooq/status/1288253381883113475
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hzrn57/wtf_nyc_just_a_little_while_ago/
+* https://twitter.com/Naddleez/status/1288232816451432453
+* https://www.instagram.com/p/CDM7z3GJnxP/?igshid=1fi9w19fe6k5s
+* https://twitter.com/protest_nyc/status/1288354104507498497?s=20
+* https://twitter.com/KyleLandrySax/status/1288303998395715585
+* https://twitter.com/NYPDDetectives/status/1288493685571821568
+* https://www.ny1.com/nyc/all-boroughs/news/2020/07/29/video-shows-protester-being-pulled-into-unmarked-van-by-nypd
 
 
 ## Rochester
