@@ -3326,6 +3326,7 @@ id: or-portland-206
 * https://twitter.com/TheRealCoryElia/status/1288716099224104961
 * https://twitter.com/hungrybowtie/status/1288715582112591872
 * https://twitter.com/hungrybowtie/status/1288716165313785857
+* https://www.youtube.com/watch?v=MvOhXTxC1R4
 
 
 ### Livestreamer shot with marking rounds | July 29th
