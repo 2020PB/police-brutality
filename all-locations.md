@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-30T20:42:41.080037+00:00
+UPDATED AT: 2020-07-30T20:43:06.963242+00:00
 
 
 # Alabama
@@ -1087,19 +1087,6 @@ id: ca-losangeles-43
 
 * https://twitter.com/KTLA/status/1287241665703374848
 * https://ktla.com/news/local-news/hundreds-of-protesters-gather-in-downtown-l-a-as-some-march-onto-101-freeway/
-
-
-### Police officer fires riot gun at protestor; other officers then fire as well | July 25th
-
-LAPD stand-off with protesters during a Portland Solidarity march on 7/25. Officers advance towards protestors, who slowly back away. One officer fires a riot gun at protestors without apparent provocation and at a dangerously close range. Several officers then begin firing at protestors. Protestors throw small projectiles in response.
-
-tags: shoot, projectile, protestor
-
-id: ca-losangeles-44
-
-**Links**
-
-* https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
 
 
 ## Norco
