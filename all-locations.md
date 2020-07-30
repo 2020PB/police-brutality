@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-30T20:41:09.773557+00:00
+UPDATED AT: 2020-07-30T20:42:41.080037+00:00
 
 
 # Alabama
@@ -1089,6 +1089,19 @@ id: ca-losangeles-43
 * https://ktla.com/news/local-news/hundreds-of-protesters-gather-in-downtown-l-a-as-some-march-onto-101-freeway/
 
 
+### Police officer fires riot gun at protestor; other officers then fire as well | July 25th
+
+LAPD stand-off with protesters during a Portland Solidarity march on 7/25. Officers advance towards protestors, who slowly back away. One officer fires a riot gun at protestors without apparent provocation and at a dangerously close range. Several officers then begin firing at protestors. Protestors throw small projectiles in response.
+
+tags: shoot, projectile, protestor
+
+id: ca-losangeles-44
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
@@ -1564,6 +1577,24 @@ id: ca-walnutcreek-2
 **Links**
 
 * https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
+
+
+## Whittier
+
+### Protestors violently arrested without apparent reason | July 29th
+
+Footage shows police grabbing a woman at a protest, forcing her to the ground and arresting her. A male protestor attempts to intervene and is arrested as well. The filmer states the victims were his sister and her boyfriend and provided continued updates on their status. She states that when she attempted to call the precinct, she was told that the arrestees had waived their rights and were sleeping and could not be woken up. They were released about 8 hours after being arrested. The filmer responded to a request from 2020PB stating that her sister has been charged with obstruction of justice, battery of an officer, and a crosswalk violation; her boyfriend has been charged with resisting arrest.
+
+tags: arrest, protestor
+
+id: ca-whittier-1
+
+**Links**
+
+* https://twitter.com/datLOUDchick/status/1288343247970906112
+* https://twitter.com/datLOUDchick/status/1288375164590125056
+* https://twitter.com/datLOUDchick/status/1288433203129094145
+* https://imgur.com/a/rF83zfJ
 
 
 
