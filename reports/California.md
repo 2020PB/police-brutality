@@ -1253,3 +1253,21 @@ id: ca-walnutcreek-2
 
 * https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
 
+
+## Whittier
+
+### Protestors violently arrested without apparent reason | July 29th
+
+Footage shows police grabbing a woman at a protest, forcing her to the ground and arresting her. A male protestor attempts to intervene and is arrested as well. The filmer states the victims were his sister and her boyfriend and provided continued updates on their status. She states that when she attempted to call the precinct, she was told that the arrestees had waived their rights and were sleeping and could not be woken up. They were released about 8 hours after being arrested. The filmer responded to a request from 2020PB stating that her sister has been charged with obstruction of justice, battery of an officer, and a crosswalk violation; her boyfriend has been charged with resisting arrest.
+
+tags: arrest, protestor
+
+id: ca-whittier-1
+
+**Links**
+
+* https://twitter.com/datLOUDchick/status/1288343247970906112
+* https://twitter.com/datLOUDchick/status/1288375164590125056
+* https://twitter.com/datLOUDchick/status/1288433203129094145
+* https://imgur.com/a/rF83zfJ
+
