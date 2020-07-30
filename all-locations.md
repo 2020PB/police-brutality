@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-30T17:15:13.169382+00:00
+UPDATED AT: 2020-07-30T20:41:09.773557+00:00
 
 
 # Alabama
@@ -3646,6 +3646,19 @@ id: la-neworleans-1
 # Massachusetts
 
 ## Boston
+
+### Man beaten with baton while being taken into custody | May 31st
+
+Footage from a news report shows a man throwing a water bottle at officers. Officers then grab him to arrest him, while another officer beats him repeatedly with his baton. The protestor does not appear to be resisting arrest.
+
+tags: protestor, beat, arrest, strike
+
+id: ma-boston-1
+
+**Links**
+
+* https://www.wcvb.com/article/boston-police-confront-protesters-in-downtown-crossing/32724753
+
 
 ### A cop takes someone's protest sign and destroys it. | Unknown Date
 
