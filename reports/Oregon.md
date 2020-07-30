@@ -2949,6 +2949,20 @@ id: or-portland-203
 * https://twitter.com/gravemorgan/status/1287805624969904129
 
 
+### Medic shot in chest | July 26th
+
+Around 7:30, shots can be heard fired by Portland police. Protestors can be heard calling for a medic. Then several protestors state that a medic was shot with a tear gas canister. They state the medic was clearly marked as such. The medic was taken to the hospital and reported in a Facebook post that he suffered a "severe chest wall contusion," but nothing more major or permanent. In the same post, he states he was shot after attempting to douse a tear gas canister with water.
+
+tags: medic, shoot, tear-gas, tear-gas-canister
+
+id: or-portland-214
+
+**Links**
+
+* [7:30](https://www.instagram.com/tv/CDGUFMgpVSa/)
+* https://imgur.com/a/72v6naZ
+
+
 ### Violent arrest made by federal officers | July 27th
 
 Footage shows a protestor and federal officer grappling in the street. A second federal officer helps tackle the protestor to the ground. Other protestors approach, but are struck by an officer wielding a baton. One protestor is knelt on and arrested while another officer fires impact munitions to scatter protestors.
@@ -3297,6 +3311,164 @@ id: or-portland-202
 **Links**
 
 * https://twitter.com/TheHannahRay/status/1288425603205488643
+
+
+### Officers fire tear gas at peaceful protestors | July 29th
+
+Federal officers fire tear gas and impact munitions at gathered protestors standing some distance from the Justice Center fence around 11 PM on July 29th. Some protestors throw tear gas canisters back, but the protestors appear otherwise peaceful. Impact munitions can also be heard throughout.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-206
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1288716099224104961
+* https://twitter.com/hungrybowtie/status/1288715582112591872
+* https://twitter.com/hungrybowtie/status/1288716165313785857
+
+
+### Livestreamer shot with marking rounds | July 29th
+
+Livestreamer struck with marking rounds, allegedly in crotch and collarbone. The shots can be heard at 3:30 in the video. An image shows the yellow paint from the marking round.
+
+tags: journalist, shoot, marking-round
+
+id: or-portland-207
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1288725204886147074
+* https://twitter.com/TheRealCoryElia/status/1288728124457250816
+
+
+### Officers fire tear gas at protestors | July 29th
+
+After shooting pepper balls at protestors from within the courthouse, federal officers emerged from the Justice Center around 11:30 PM to fire tear gas and impact munitions at protestors. Justification for this incident is unclear.
+
+In addition to tear gas canisters, one officer deployed gas using a handheld smoke/fog machine; it is unclear if it was spraying fog or had been modified to use a chemical agent like tear gas. Footage can be seen [here](https://twitter.com/dougbrown8/status/1288727075197657088), [here](https://twitter.com/sarahjeong/status/1288726848998801408), [here](https://twitter.com/sarahjeong/status/1288731149351567360), [here](https://twitter.com/greg_doucette/status/1288876179651547139) and [here](https://twitter.com/greg_doucette/status/1288873806317199360).
+
+A journalist was allegedly hit in the foot with a tear gas canister during the incident, seen [here](https://twitter.com/hungrybowtie/status/1288725286423412736).
+
+Shortly after, officers returned inside the courthouse.
+
+tags: shoot, protestor, tear-gas, projectile, journalist, tear-gas-canister, gas
+
+id: or-portland-208
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1288723596093734913
+* https://twitter.com/hungrybowtie/status/1288724064043859969
+* https://twitter.com/hungrybowtie/status/1288724683165069312
+* https://twitter.com/hungrybowtie/status/1288725286423412736
+* https://twitter.com/hungrybowtie/status/1288725913870327809
+* https://twitter.com/hungrybowtie/status/1288726952237400064
+* https://twitter.com/hungrybowtie/status/1288727446158630912
+* https://twitter.com/dougbrown8/status/1288727075197657088
+* https://twitter.com/GriffinMalone6/status/1288722917254037505
+* https://twitter.com/GriffinMalone6/status/1288723330317475840
+* https://twitter.com/GriffinMalone6/status/1288723589278048257
+* https://twitter.com/1misanthrophile/status/1288726639627530240
+* https://twitter.com/greg_doucette/status/1288873806317199360
+* https://twitter.com/greg_doucette/status/1288876179651547139
+* https://twitter.com/sarahjeong/status/1288726848998801408
+* https://twitter.com/sarahjeong/status/1288731149351567360
+
+
+### Officers pepper spray kneeling protestor | July 29th
+
+A protestor is seen kneeling on the street with their hands up. An officer approaches and pepper sprays the protestor. The protestor is then forced to the ground and arrested.
+
+tags: protestor, spray, pepper-spray, arrest
+
+id: or-portland-209
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1288740269911707648
+* https://twitter.com/hungrybowtie/status/1288740931827429376
+
+
+### Officers use tear gas to push protestors from Justice Center | July 29th
+
+Around 11:40 PM, just minutes after the last volley of tear gas, officers emerge from the courthouse a third time to push protestors back, using tear gas and impact munitions.
+
+Officers directed protestors to move west across the park. Other groups of federal officers appeared from the west, kettling protestors.
+
+After pushing protestors down Salmon using more tear gas and impact munitions, officers retreated into the courthouse around 12:30-1 AM.
+
+tags: protestor, tear-gas, shoot, projectile
+
+id: or-portland-210
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1288728631800295424
+* https://twitter.com/hungrybowtie/status/1288731525568028673
+* https://twitter.com/hungrybowtie/status/1288731799057608709
+* https://twitter.com/hungrybowtie/status/1288739472037666816
+* https://twitter.com/GriffinMalone6/status/1288726804203597825
+* https://twitter.com/GriffinMalone6/status/1288729588445536256
+* https://twitter.com/GriffinMalone6/status/1288730145000284160
+* https://twitter.com/1misanthrophile/status/1288733543368024064
+* https://twitter.com/1misanthrophile/status/1288739539612135424
+* https://twitter.com/1misanthrophile/status/1288744077194752003
+* https://twitter.com/LucyKafanov/status/1288730409170157568
+
+
+### Protestor singled out and arrested | July 30th
+
+Federal officers charge into crowd of protestors. One protestor is singled out and arrested without apparent cause.
+
+Officers rip a sign away from another protestor and destroy it.
+
+Officers then shove other protestors away as they form a circle around the arrestee.
+
+tags: protestor, arrest, property-destruction, push, shove
+
+id: or-portland-211
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1288737289862930432
+
+
+### Officers deploy tear gas and stun grenades against small group of protestors | July 30th
+
+Around 1:30 AM, federal officers deploy tear gas and stun grenades against the remaining protestors, about 100 according to journalists on site. Officers push protestors back then return to the courthouse around 2 AM. Protestors allegedly threw trash and a firecracker over the courthouse fence.
+
+tags: protestor, tear-gas, flashbang
+
+id: or-portland-212
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1288753690795364352
+* https://twitter.com/hungrybowtie/status/1288754104492204033
+* https://twitter.com/hungrybowtie/status/1288758647036604416
+* https://twitter.com/hungrybowtie/status/1288759362186440704
+* https://twitter.com/hungrybowtie/status/1288760381712695302
+* https://twitter.com/hungrybowtie/status/1288761105775390720
+* https://twitter.com/hungrybowtie/status/1288762590638743552
+* https://twitter.com/1misanthrophile/status/1288753314520166400
+* https://twitter.com/1misanthrophile/status/1288757873577615362
+* https://twitter.com/1misanthrophile/status/1288758260367945729
+* https://twitter.com/1misanthrophile/status/1288759092740124672
+* https://twitter.com/1misanthrophile/status/1288759329286262786
+
+
+### Officer shoots at protestors without apparent cause | July 30th
+
+An officer shoots at a crowd of protestors some distance away. No justification is apparent. Protestors stand down the street with shields. Some are milling about. The filmer alleges the officer was aiming at head height.
+
+tags: protestor, shoot, projectile
+
+id: or-portland-213
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1288734291334053888
 
 
 ## Salem
