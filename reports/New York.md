@@ -1498,9 +1498,9 @@ id: ny-newyorkcity-97
 * https://www.instagram.com/tv/CDFndP4jem2/
 
 
-### Non-uniformed personnel detain protestor | July 28th
+### Non-uniformed police arrest protestor without identifying selves | July 28th
 
-A group of people not wearing any identification as law enforcement officers surround and grab a protestor. After a brief struggle, protestor is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protestors from intervening and then the van drives away.
+A group of plain-clothes police officers who fail to identify themselves as police surround and grab a protestor. After a brief struggle, protestor is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protestors from intervening and then the van drives away. The abductee's alleged crime was spraypainting over police cameras and graffiti.
 
 tags: arrest, abuse-of-power, protestor
 
@@ -1513,6 +1513,9 @@ id: ny-newyorkcity-100
 * https://twitter.com/Naddleez/status/1288232816451432453
 * https://www.instagram.com/p/CDM7z3GJnxP/?igshid=1fi9w19fe6k5s
 * https://twitter.com/protest_nyc/status/1288354104507498497?s=20
+* https://twitter.com/KyleLandrySax/status/1288303998395715585
+* https://twitter.com/NYPDDetectives/status/1288493685571821568
+* https://www.ny1.com/nyc/all-boroughs/news/2020/07/29/video-shows-protester-being-pulled-into-unmarked-van-by-nypd
 
 
 ## Rochester
