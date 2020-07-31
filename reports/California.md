@@ -302,6 +302,7 @@ id: ca-losangeles-24
 
 * https://twitter.com/MattMcGorry/status/1267217360894562306
 * https://twitter.com/greg_doucette/status/1267605209745887233
+* https://twitter.com/greg_doucette/status/1267605209745887233
 
 
 ### Los Angeles law enforcement hit protester in the face with rubber bullet | May 30th
