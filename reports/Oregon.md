@@ -3496,7 +3496,7 @@ id: or-salem-1
 
 Springfield police charge protestors in the street, striking protestors with batons and shoving them with both their hands and metal barricades. One protestor is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protestor while another officer continues dragging the protestor. The officers then roll the protestor on his stomach; one officer strikes him in the neck as he does so.
 
-A filmer and a journalist allege a taser was used. The noise in question can be heard at [here at 0:06](https://twitter.com/mgbelka/status/1288685746476310530)
+A filmer and a journalist allege a taser was used. The alleged use of the taser can be heard [here at 0:06](https://twitter.com/mgbelka/status/1288685746476310530)
 
 tags: shove, push, strike, baton, punch, arrest, protestor, grab, taser, tase
 
