@@ -47,13 +47,13 @@ def format_tags(wnl, all_tags, tag_overrides, tags):
 
 
 def format_tag(wnl, tag_overrides, tag):
+    if tag in tag_overrides:
+        return tag_overrides[tag]
+
     tag_words = tag.strip().replace(".", "").split("-")
     new_tag_words = []
-    for tag_word in tag_words:
-        if tag_word in tag_overrides:
-            new_tag_words.append(tag_overrides[tag_word])
-            continue
 
+    for tag_word in tag_words:
         new_tag_words.append(wnl.lemmatize(tag_word))
 
     output_tag = "-".join(new_tag_words)

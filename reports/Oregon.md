@@ -2051,7 +2051,7 @@ id: or-portland-157
 
 A protestor kneels then stands on the sidewalk, bowing repeatedly at officers. The officer line moves forward. If something is said to the protestor, it is not audible in the footage. An officer then shoves the protestor, who is standing still. The protestor steps back. Another officer then pepper sprays the protestor.
 
-tags: protestor, shove, pepper-spray-spray
+tags: protestor, shove, pepper-spray, spray
 
 id: or-portland-194
 
