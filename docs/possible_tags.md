@@ -94,11 +94,12 @@ racial-profiling
 
 ```
 baton
-beanbag
+bean-bag
 bike
 dog
 explosive
 foam-bullet
+gun
 headlock
 horse
 kick
@@ -133,6 +134,7 @@ choke
 conceal
 drive
 gas
+grab
 hide-badge
 inhumane-treatment
 knee
@@ -155,4 +157,5 @@ abuse-of-power
 body-cam
 death
 incitement
+non-protest
 ```

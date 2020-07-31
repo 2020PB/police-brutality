@@ -242,7 +242,7 @@ Protestors converged on the statue, pulled down the fence, and threw chains arou
 
 Police met the protestors with immediate violence. An account states police encircled the protestors, preventing any exit, then beat protestors with shields and batons. Police pepper-sprayed protestors as well. The account additionally states police ripped off her friend's glasses and mask to pepper-spray her.
 
-tags: beat, batons, pepepr-spray, spray, shield, protestor
+tags: beat, batons, pepper-spray, spray, shield, protestor
 
 id: dc-dc-17
 

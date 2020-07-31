@@ -295,7 +295,7 @@ id: or-portland-11
 
 First-person footage from a livestream around 2:30 AM on June 7th shows police passing by. A scuffle seems to happen over an umbrella. Then an officer walks over and maces the filmer, a journalist. The journalist then shouts: "He maced me."
 
-tags: mace, pepper-spray, spray, journalsit
+tags: mace, pepper-spray, spray, journalist
 
 id: or-portland-12
 
@@ -1594,7 +1594,7 @@ id: or-portland-98
 
 A journalist shows a bloody wound on her leg from a undetermined impact munition. She states she is wearing a bress badge and yellow vest.
 
-tags: journalist, shoot, projectiole
+tags: journalist, shoot, projectile
 
 id: or-portland-99
 

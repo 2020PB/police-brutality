@@ -12,6 +12,13 @@ TAG_OVERRIDES = {
     "tazes": "tase",
     "tazer": "taser",
     "tazers": "taser",
+    "kneck": "neck",
+    "knee-on-kneck": "knee-on-neck",
+    "bicycle": "bike",
+    "beanbag": "bean-bag",
+    "shot": "shoot",
+    "kneel": "knee",
+    "pepper-bullet": "pepper-ball",
 }
 
 WNL = WordNetLemmatizer()
@@ -29,8 +36,18 @@ def read_tag_file(tag_path):
     return all_tags
 
 
+def format_tags(wnl, all_tags, tag_overrides, tags):
+    new_tags = []
+    for tag in tags:
+        new_tag = format_tag(wnl, tag_overrides, tag)
+        if new_tag not in all_tags:
+            print(f"Skipping tag: {new_tag} not found in master list.")
+        new_tags.append(new_tag)
+    return ", ".join(new_tags)
+
+
 def format_tag(wnl, tag_overrides, tag):
-    tag_words = tag.split("-")
+    tag_words = tag.strip().replace(".", "").split("-")
     new_tag_words = []
     for tag_word in tag_words:
         if tag_word in tag_overrides:

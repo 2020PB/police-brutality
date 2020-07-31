@@ -3,6 +3,7 @@ import string
 
 import data_builder
 from data_builder import critical_exit
+from tag_formatter import TAG_OVERRIDES, WNL, read_tag_file, format_tags, possible_tags_path
 
 unknown_location_acronym = "tbd"
 
@@ -90,7 +91,7 @@ def gen_id(row):
     return f"{state_abbrev}-{city_abbrev}-{random_chars(4)}"
 
 
-def rewrite_data(data):
+def rewrite_data(data, all_tags):
     state_to_rows = {}
     for row in data:
         state = row["state"]
@@ -101,7 +102,7 @@ def rewrite_data(data):
     for state, data_rows in state_to_rows.items():
         out_path = f"{data_builder.md_dir}/{state}.md"
         # We don't need to sort `data_rows` because we read these in the order of the markdown files
-        new_md_text = gen_md_from_rows(state, data_rows)
+        new_md_text = gen_md_from_rows(state, data_rows, all_tags)
         with open(out_path, "wb") as fout:
             fout.write(new_md_text.encode("utf-8"))
 
@@ -129,7 +130,7 @@ def markdown_link(link_obj):
     return f"[{text}]({url})"
 
 
-def gen_md_from_rows(state, rows):
+def gen_md_from_rows(state, rows, all_tags):
     city = ""
     lines = []
     for row in rows:
@@ -143,7 +144,7 @@ def gen_md_from_rows(state, rows):
         row["links_md"] = links_md
 
         # convert tags from a list to a string
-        row["tags_md"] = ", ".join(row["tags"])
+        row["tags_md"] = format_tags(WNL, all_tags, TAG_OVERRIDES, row["tags"])
 
         # Create this row's markdown
         lines.append(row_format.format(**row))
@@ -162,9 +163,7 @@ def validate_ids_unique(data):
             seen.add(row_id)
 
 
-def add_missing_ids():
-    data = data_builder.read_all_data()
-
+def add_missing_ids(data):
     for row in data:
         if "id" not in row or len(row["id"]) == 0:
             row["id"] = gen_id(row)
@@ -173,10 +172,18 @@ def add_missing_ids():
             print(row)
             critical_exit("this row is broken with no name? (missing ###):")
 
+    return data
+
+
+def main():
+    data = data_builder.read_all_data()
+    data = add_missing_ids(data)
+    all_tags = read_tag_file(possible_tags_path)
+
     validate_ids_unique(data)
 
-    rewrite_data(data)
+    rewrite_data(data, all_tags)
 
 
 if __name__ == "__main__":
-    add_missing_ids()
+    main()
