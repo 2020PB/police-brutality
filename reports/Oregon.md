@@ -3341,6 +3341,7 @@ id: or-portland-207
 
 * https://twitter.com/TheRealCoryElia/status/1288725204886147074
 * https://twitter.com/TheRealCoryElia/status/1288728124457250816
+* https://twitter.com/TheRealCoryElia/status/1288931658301751297
 
 
 ### Officers fire tear gas at protestors | July 29th
