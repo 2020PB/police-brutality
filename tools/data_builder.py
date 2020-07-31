@@ -11,6 +11,7 @@ from datetime import datetime, timezone
 # `or '.'` because when you're in the same directory as this code
 # `ValueError: no path specified` gets thrown by `relpath` with empty input
 src_dir = os.path.relpath(os.path.dirname(__file__) or ".")
+possible_tags_path = os.path.join(src_dir, "..", "docs/possible_tags.md")
 md_dir = os.path.join(src_dir, "..", "reports")
 out_dir = os.path.join(src_dir, "data_build")
 combined_fpath = os.path.join(out_dir, "all-locations.md")

@@ -2,8 +2,7 @@ import random
 import string
 
 import data_builder
-from data_builder import critical_exit
-from tag_formatter import TAG_OVERRIDES, WNL, read_tag_file, format_tags, possible_tags_path
+from tag_formatter import TAG_OVERRIDES, WNL, read_tag_file, format_tags
 
 unknown_location_acronym = "tbd"
 
@@ -85,7 +84,7 @@ def gen_id(row):
         elif state_abbrev == "dc":
             city_abbrev = "dc"
         else:
-            critical_exit("invalid city abbreviation, exiting")
+            data_builder.critical_exit("invalid city abbreviation, exiting")
 
     # id_line = f'id: {state_abbrev}-{city_abbrev}-{city_index}'
     return f"{state_abbrev}-{city_abbrev}-{random_chars(4)}"
@@ -178,7 +177,7 @@ def add_missing_ids(data):
 def main():
     data = data_builder.read_all_data()
     data = add_missing_ids(data)
-    all_tags = read_tag_file(possible_tags_path)
+    all_tags = read_tag_file(data_builder.possible_tags_path)
 
     validate_ids_unique(data)
 

@@ -1,9 +1,4 @@
-import os
-
 from nltk.stem import WordNetLemmatizer
-
-src_dir = os.path.relpath(os.path.dirname(__file__) or ".")
-possible_tags_path = os.path.join(src_dir, "..", "docs/possible_tags.md")
 
 TAG_OVERRIDES = {
     "flashbang": "stun-grenade",
