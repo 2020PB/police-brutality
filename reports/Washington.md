@@ -44,7 +44,7 @@ A couple of police officers are seen beating and manhandling an unarmed man. The
 
 Related to Seattle OPA Case 2020OPA-0330.
 
-tags: beat, punch, pinned, protestor
+tags: beat, punch, protestor
 
 id: wa-seattle-2
 
@@ -225,7 +225,7 @@ id: wa-seattle-16
 Video shows officer on back of woman laying face down. Officer has the woman in a choke hold. Officer then moves to place both
 knees on back during arrest, one knee on middle of the back and the other behind the neck of the woman. Officer is reported to work for Bellevue Police Department. Arrest made over what twitter user @_SJPeace_ described as a title transfer.
 
-tags: neck, tackle, headlock, knee, protestor
+tags: tackle, headlock, knee, protestor
 
 id: wa-seattle-11
 
@@ -381,7 +381,7 @@ id: wa-seattle-23
 
 Footage beginning at 14:00 shows police begin to advance on protestors without warning. They use their shields and batons to strike and shove protestors. When protestors become agitated, police tackle protestors and discharge pepper spray. Footage shows police kneeling on one protestor, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
 
-tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, neck, knee, protestor
+tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, knee, protestor
 
 id: wa-seattle-24
 

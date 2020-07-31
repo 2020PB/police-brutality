@@ -6,7 +6,7 @@ Bodycam footage shows an unarmed man walking around in the street. The man alleg
 
 This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
 
-tags: taser, strike, arrest, non-protest, neck, knee-on-neck
+tags: taser, strike, arrest, non-protest, knee-on-neck
 
 id: va-fairfax-1
 

@@ -294,7 +294,7 @@ id: il-chicago-21
 
 Protestors arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
-tags: beat, shove, throw, neck, protestor
+tags: beat, shove, throw, protestor
 
 id: il-joliet-1
 

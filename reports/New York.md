@@ -865,7 +865,7 @@ id: ny-newyorkcity-zaxt
 
 In an incident at Fourth and Atlantic Avenues in Brooklyn, footage shows police chasing a protestor down the sidewalk. Police appear to trip the protestor, who falls to the ground. Police then strike and jab him with batons. A white-shirted officer arrives and steps on the protestor's neck
 
-tags: arrest, protestor, baton, beat, strike, kick, neck
+tags: arrest, protestor, baton, beat, strike, kick
 
 id: ny-newyorkcity-75
 
@@ -1019,7 +1019,7 @@ id: ny-newyorkcity-23
 
 Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
 
-tags: arrest, strike, choke, neck, baton, protestor
+tags: arrest, strike, choke, baton, protestor
 
 id: ny-newyorkcity-24
 

@@ -45,11 +45,9 @@ def format_tags(wnl, all_tags, tag_overrides, tags):
             continue
         new_tag = format_tag(wnl, tag_overrides, tag)
         if new_tag not in all_tags:
-            if new_tag not in {"neck", "pinned"}:
-                import pdb
-
-                pdb.set_trace()
-            print(f"Skipping tag: {new_tag} not found in master list.")
+            raise ValueError(
+                f"Unsupported tag: {tag}, formatted as {new_tag}. Please check against possible tags or add a new tag."
+            )
         new_tags.append(new_tag)
     return ", ".join(new_tags)
 
