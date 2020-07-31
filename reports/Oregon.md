@@ -24,7 +24,7 @@ Footage around 2 minutes shows the Eugene Weekly reporter struck at close range 
 
 A tweet from the reporter and an article from the Daily Emerald claim the reporter was hit by both a tear gas canister and rubber bullets
 
-tags: journalist, tear-gas, tear-gas-canister, shoot, rubber-bullets
+tags: journalist, tear-gas, tear-gas-canister, shoot, rubber-bullet
 
 id: or-eugene-3
 
@@ -71,7 +71,7 @@ id: or-eugene-4
 
 Footage shows a protestor dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protestor. The protestor tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protestor, stating, "It's time for you to go," evidently arresting the protestor. Another officer states that the protestor "assaulted a lieutenant." This same officer threatens other protestors to back off or they will go to jail. His badge number is covered by a piece of tape. Protestors then follow police to the entrance of a building where the original protestor is being cuffed. Protestors and counter-protestors then argue with one another.
 
-tags: arrest, abuse-of-power, shove, protestor, threaten, hide-badges
+tags: arrest, abuse-of-power, shove, protestor, threaten, hide-badge
 
 id: or-everett-1
 
@@ -127,7 +127,7 @@ id: or-portland-3
 
 Police shoot about a dozen tear gas or flashbang grenades into a crowd from quite a distance.
 
-tags: tear-gas, flashbangs, shoot, protestor
+tags: tear-gas, stun-grenade, shoot, protestor
 
 id: or-portland-4
 
@@ -140,7 +140,7 @@ id: or-portland-4
 
 Police deploy flashbangs and tear gas into a crowd.
 
-tags: tear-gas, flashbangs, shoot, protestor
+tags: tear-gas, stun-grenade, shoot, protestor
 
 id: or-portland-5
 
@@ -201,7 +201,7 @@ id: or-portland-23
 
 Footage shows a police van drive up on a small group of protestors on the sidewalk, walking away from the officers. Police jump off the van and immediately begin firing at protestors.
 
-tags: shoot, projectiles, protestor
+tags: shoot, projectile, protestor
 
 id: or-portland-9
 
@@ -269,7 +269,7 @@ id: or-portland-24
 
 At the beginning of footage, it appears a water bottle is thrown. It bounces against a concrete barricade. Police respond with tear gas. When protestors run to the tear gas in an attempt to defuse it, police respond with rubber bullets.
 
-tags: tear-gas, rubber-bullets, shoot, protestor
+tags: tear-gas, rubber-bullet, shoot, protestor
 
 id: or-portland-20
 
@@ -323,7 +323,7 @@ Footage shows riot police chasing protestors onto sidewalk near Chapman Square. 
 
 A man filming says, "You are live, you are live." Police then beat him with batons and throw him to the ground to arrest him. Police then arrest another protestor while more officers push protestors back.
 
-tags: arrest, beat, batons, strike, protestor
+tags: arrest, beat, baton, strike, protestor
 
 id: or-portland-16
 
@@ -367,7 +367,7 @@ Just after midnight on the morning on June 13th (between 12:30 and 12:40 AM), po
 
 It should be noted that the Portland PD is directed by the Portland mayor and a court order to use these riot control methods exclusively as "life saving measures."
 
-tags: tear-gas, flashbangs, protestor
+tags: tear-gas, stun-grenade, protestor
 
 id: or-portland-10
 
@@ -438,7 +438,7 @@ On June 6th, PNW Resistance reported that Portland Police was making a swap to P
 
 On June 17th, a Portland Attorney submitted a Freedom of Information Act Request to the Portland Police and confirmed that all officers were issued by Commander Erica Hurley to cover their last names and use a "BHR Personnel Number" (PRN).
 
-tags: hide-badges
+tags: hide-badge
 
 id: or-portland-19
 
@@ -451,7 +451,7 @@ id: or-portland-19
 
 A screenshot of a Tweet from @1misanthrophile shows a protestor bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protestors say the man was struck by a rubber bullet.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: or-portland-29
 
@@ -481,7 +481,7 @@ Additional footage shows consistent use of tear gas throughout the night.
 
 Additional images show foam bullets & tear gas canisters used during protests. It should be noted that the mayor of Portland, with the backing of a federal judge, issued a restriction on tear gas: to be used only when a life is at risk.
 
-tags: tear-gas, flashbangs, journalist, projectile, foam-bullets, shoot, protestor, legal-observer
+tags: tear-gas, stun-grenade, journalist, projectile, foam-bullet, shoot, protestor, legal-observer
 
 id: or-portland-28
 
@@ -498,7 +498,7 @@ id: or-portland-28
 
 Images show aftermath of protestor who was shot in the eye with a Stinger rubber pellet. Additional screencap shows instruction for proper use state that it is necessary to keep trajectory low to avoid striking above the breast line - this suggests a misuse of riot rounds by officers.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: or-portland-31
 
@@ -524,7 +524,7 @@ id: or-portland-40
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
 
-tags: beat, strike, shove, throw, batons, protestor
+tags: beat, strike, shove, throw, baton, protestor
 
 id: or-portland-30
 
@@ -622,7 +622,7 @@ id: or-portland-36
 
 After an empty water bottle was thrown, police fired foam rounds into a crowd, striking a journalist on the hip.
 
-tags: shoot, foam-bullets
+tags: shoot, foam-bullet
 
 id: or-portland-38
 
@@ -881,7 +881,7 @@ Protestors believe they are Department of Homeland Security agents and/or U.S. M
 
 There have been numerous unconfirmed reports of these agents using excessive force to make arrests. The final link shows agents in military camouflage deploying tear gas and chasing protestors before retreating.
 
-tags: hide-badges, tear-gas, protestor
+tags: hide-badge, tear-gas, protestor
 
 id: or-portland-55
 
@@ -917,7 +917,7 @@ The second link shows officers retreating back to federal property, continuing t
 
 The third link shows some stun grenades recovered by protestors and, in parallel, the candles lit at the park for the vigil.
 
-tags: protestor, flashbangs, shoot, projectile
+tags: protestor, stun-grenade, shoot, projectile
 
 id: or-portland-58
 
@@ -1193,7 +1193,7 @@ id: or-portland-76
 
 Footage shows U.S. Marshals using a variety of munitions (tear gas, flashbangs, pepper balls) to clear protestors from the street. In the second link, protestors are behind makeshift barricades, but in the first and third, they are just in the street.
 
-tags: tear-gas, flashbangs, pepper-balls, shoot, protestor
+tags: tear-gas, stun-grenade, pepper-ball, shoot, protestor
 
 id: or-portland-74
 
@@ -1259,7 +1259,7 @@ Footage was taken by multiple journalists at different angles throughout the inc
 
 This incident covers the broad incident - deployment of riot munitions against peaceful protestors - while incidents 80, 81 and 82 cover specific acts of violence.
 
-tags: tear-gas, flashbangs, pepper-bullets, shoot, lrad
+tags: tear-gas, stun-grenade, pepper-ball, shoot, lrad
 
 id: or-portland-79
 
@@ -1466,7 +1466,7 @@ Footage uploaded around 2 AM on July 18th shows federal agents firing tear gas a
 
 Additional footage shows flashbangs used at that time. In addition, a reporter claims a flashbang exploded on his foot.
 
-tags: shoot, projectile, tear-gas, protestor, flashbangs, journalist
+tags: shoot, projectile, tear-gas, protestor, stun-grenade, journalist
 
 id: or-portland-91
 
@@ -1578,7 +1578,7 @@ id: or-portland-139
 
 A group of women calling themselves Moms Against Police Brutality locked arms in the street. Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
 
-tags: protestor, shove, flashbang, pregnant
+tags: protestor, shove, stun-grenade, pregnant
 
 id: or-portland-98
 
@@ -1660,7 +1660,7 @@ id: or-portland-103
 
 Footage taken outside the Justice Center shows federal agents shoving protestors and firing off tear gas. In the second clip, a protestor with a leaf blower helps get tear gas off protestors; flashbangs can be heard during this footage.
 
-tags: tear-gas, shove, protestor, flashbangs
+tags: tear-gas, shove, protestor, stun-grenade
 
 id: or-portland-104
 
@@ -1677,7 +1677,7 @@ Footage shows federal officers outside the Justice Center firing tear gas at pro
 
 Police also used flashbangs.
 
-tags: tear-gas, protestor, flashbangs
+tags: tear-gas, protestor, stun-grenade
 
 id: or-portland-105
 
@@ -1753,7 +1753,7 @@ id: or-portland-110
 
 Footage from the evening of July 19th shows the initial push by federal officers to move protestors away from the Justice Center. In a 20 minute engagement beginning just before midnight, officers fired considerable tear gas, impact munitions (including pepper balls and rubber bullets) and flashbangs at protestors, pushing them into the park and down the street. Victims include protestors, Moms Against Police Brutality and journalists. One Mom Against Police Brutality tear-gassed the previous day was pregnant; it is unknown if she was present at this incident.
 
-tags: protestor, journalist, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang
+tags: protestor, journalist, tear-gas, rubber-bullet, pepper-ball, shoot, stun-grenade
 
 id: or-portland-111
 
@@ -1782,7 +1782,7 @@ In the second part of a push by Federal agents, after a lull ending or-portland-
 
 Tear gas engulfed the Riot Ribs mutual aid tents which provided food, water, medical aid and other supplies to protestors and homeless folks in the area.
 
-tags: protestor, tear-gas, rubber-bullets, pepper-balls, shoot, flashbang, property-destruction, medic
+tags: protestor, tear-gas, rubber-bullet, pepper-ball, shoot, stun-grenade, property-destruction, medic
 
 id: or-portland-112
 
@@ -1881,7 +1881,7 @@ An [image](https://twitter.com/ProudBulba/status/1285671820637732867) from a pro
 
 Additional [footage](https://twitter.com/45thabsurdist/status/1285498471521239040) shows a car with an explosive projectile fizzling underneath it. Protestors rally to put it out, preventing further damage.
 
-tags: tear-gas, shoot, projectile, flashbangs, shove, grab, protestor, pepper-ball, property-destruction
+tags: tear-gas, shoot, projectile, stun-grenade, shove, grab, protestor, pepper-ball, property-destruction
 
 id: or-portland-118
 
@@ -1948,7 +1948,7 @@ Footage [here](https://twitter.com/ByMikeBaker/status/1285520992278700033) shows
 
 Footage [here](https://twitter.com/MrOlmos/status/1285516804983361538) shows an interview with two medics, discussing the situation and the return of Riot Ribs after the tear gas.
 
-tags: shoot, flashbangs, projectile, tear-gas, protestor, property-destruction, foam-bullets
+tags: shoot, stun-grenade, projectile, tear-gas, protestor, property-destruction, foam-bullet
 
 id: or-portland-121
 
@@ -1989,7 +1989,7 @@ Shortly before midnight on July 21st, federal officers used a variety of munitio
 
 The footage shows a push back and forth between federal officers and a shield wall of protestors, ending in protestors deploying fireworks and smoke to push federal officers back into the Justice Center.
 
-tags: shoot, projectile, protestor, flashbang, tear-gas, journalist, legal-observer
+tags: shoot, projectile, protestor, stun-grenade, tear-gas, journalist, legal-observer
 
 id: or-portland-125
 
@@ -2009,7 +2009,7 @@ id: or-portland-125
 
 Footage from shortly before midnight on July 21st shows press and legal observers hit by a flashbang, as well as a protestor shot by a projectile.
 
-tags: shoot, projectile, protestor, flashbang, journalist, legal-observer
+tags: shoot, projectile, protestor, stun-grenade, journalist, legal-observer
 
 id: or-portland-126
 
@@ -2106,7 +2106,7 @@ id: or-portland-128
 
 During a series of events around 1 AM outside the Justice Center, federal officers emerge from the building to douse a small fire lit apparently by protestors. Officers then push protestors back through the park. Protestors eventually push officers back inside the building. Throughout the series of events, officers fire flashbangs, tear gas and less-lethal projectiles liberally.
 
-tags: shoot, projectile, flashbangs, tear-gas, protestor
+tags: shoot, projectile, stun-grenade, tear-gas, protestor
 
 id: or-portland-129
 
@@ -2134,7 +2134,7 @@ Footage [here](https://twitter.com/defendpdx/status/1285866491275931649) shows o
 
 The officers appear to have exited the building initially because protestors were tearing at the building's plywood barricade.
 
-tags: shoot, projectile, flashbangs, tear-gas, protestor, property-destruction
+tags: shoot, projectile, stun-grenade, tear-gas, protestor, property-destruction
 
 id: or-portland-131
 
@@ -2181,7 +2181,7 @@ Federal officers stop a car apparently caught between protestors and officers. O
 
 It is unclear what relation, if any, the occupants of the vehicle had to the protest. It is also unclear if the occupants were then arrested.
 
-tags: abuse-of-power, flashbangs, protestor, bystander
+tags: abuse-of-power, stun-grenade, protestor, bystander
 
 id: or-portland-133
 
@@ -2257,7 +2257,7 @@ As officers and protestors are separated by a fence, there is little to suggest 
 
 These events occurred shortly before midnight on the night of July 22nd.
 
-tags: shoot, protestor, projectile, tear-gas, flashbang
+tags: shoot, protestor, projectile, tear-gas, stun-grenade
 
 id: or-portland-137
 
@@ -2328,7 +2328,7 @@ id: or-portland-186
 
 Approximately one hour after the events of or-portland-137 began, officers again emerged from the Justice Center to douse a small fire and push protestors back usinig tear gas, flashbangs and impact munitions. Officers then continued to push protestors onto Salmon and W 3rd, well past the borders of the Justice Center fence.
 
-tags: shoot, protestor, projectile, tear-gas, flashbang
+tags: shoot, protestor, projectile, tear-gas, stun-grenade
 
 id: or-portland-138
 
@@ -2489,7 +2489,7 @@ id: or-portland-152
 
 After protestors manage to create a small breach in the fence surrounding the Justice Center around 1:45 AM, federal officers emerge to push protestors back using tear gas, pepper balls and flashbangs. Officers pushed protestors down the street before protestors were able to reform a shield wall and slowly push officers back towards the Justice Center. Footage shows a considerable amount of munitions used and protestors suffering from negative effects of prolonged tear gas exposure, like [here](https://twitter.com/hungrybowtie/status/1286588583067807745)
 
-tags: protestor, tear-gas, shoot, pepper-ball, flashbang
+tags: protestor, tear-gas, shoot, pepper-ball, stun-grenade
 
 id: or-portland-153
 
@@ -2553,7 +2553,7 @@ Federal response was to engage the more peaceful side of the crowd, where [Moms 
 
 In addition, at least one journalist is struck by a flashbang, seen [here](https://twitter.com/tuckwoodstock/status/1286909282579959810). Officers also used pepper spray or mace through the fence, seen [here](https://twitter.com/DjMontecito/status/1286911093063860225).
 
-tags: protestor, journalist, flashbang, tear-gas, shoot, pepper-ball, pepper-spray, spray, projectile
+tags: protestor, journalist, stun-grenade, tear-gas, shoot, pepper-ball, pepper-spray, spray, projectile
 
 id: or-portland-158
 
@@ -2737,7 +2737,7 @@ Footage shows an extended exchange between protestors and federal officers. It i
 
 During this exchange, [a reporter was struck by six pepper balls in the chest, wrist and face](https://twitter.com/1misanthrophile/status/1287302973257682945). An [image](https://twitter.com/1misanthrophile/status/1287308011229200390) shows her swollen wrist.
 
-tags: protestor, journalist, tear-gas, pepper-ball, flashbang, shoot
+tags: protestor, journalist, tear-gas, pepper-ball, stun-grenade, shoot
 
 id: or-portland-167
 
@@ -2765,7 +2765,7 @@ An image shows the effects of a stinger grenade which allegedly exploded near th
 
 A stinger grenade is a type of stun grenade, or flashbang, which emits a bright light, a loud sound, and fires pellets during the explosion.
 
-tags: protestor, flashbang
+tags: protestor, stun-grenade
 
 id: or-portland-174
 
@@ -3000,7 +3000,7 @@ id: or-portland-175
 
 After federal officers declare an unlawful assembly around 1 A<, protestors remain outside the courthouse, pulling on the fence. Federal officers fire tear gas and flashbangs. Officers then push protestors away from the courthouse before retreating.
 
-tags: protestor, tear-gas, flashbang
+tags: protestor, tear-gas, stun-grenade
 
 id: or-portland-176
 
@@ -3091,7 +3091,7 @@ id: or-portland-182
 
 Footage shows a small group of people filming officers from a side street. Several tear gas canisters and flashbangs are fired at the group, which appears to be exclusively press. Some members of the press jog forward and are shot at with impact munitions.
 
-tags: journalist, tear-gas, shoot, projectile, flashbang
+tags: journalist, tear-gas, shoot, projectile, stun-grenade
 
 id: or-portland-183
 
@@ -3154,7 +3154,7 @@ The wall of moms is tear-gassed. Officers use tear gas and flashbangs to push pr
 
 A reporter discusses the munitions used with protestors, including munitions containing metal ball bearings. The reporter also notes a chlorine smell in the air, raising concerns about the nature of the chemical agents used, as most tear gas does not smell of chlorine.
 
-tags: protestor, tear-gas, flashbang
+tags: protestor, tear-gas, stun-grenade
 
 id: or-portland-190
 
@@ -3182,7 +3182,7 @@ Officers push protestors back into the park with tear gas. They continue to fire
 
 Officers return to the courthouse around 1:20 AM, using tear gas and flashbangs to cover their retreat.
 
-tags: protestor, tear-gas, flashbang, shoot, projectile
+tags: protestor, tear-gas, stun-grenade, shoot, projectile
 
 id: or-portland-191
 
@@ -3440,7 +3440,7 @@ id: or-portland-211
 
 Around 1:30 AM, federal officers deploy tear gas and stun grenades against the remaining protestors, about 100 according to journalists on site. Officers push protestors back then return to the courthouse around 2 AM. Protestors allegedly threw trash and a firecracker over the courthouse fence.
 
-tags: protestor, tear-gas, flashbang
+tags: protestor, tear-gas, stun-grenade
 
 id: or-portland-212
 

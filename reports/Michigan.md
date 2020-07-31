@@ -59,7 +59,7 @@ id: mi-detroit-2
 
 Police tear-gassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
 
-tags: journalist, tear-gas, rubber-bullets, shoot
+tags: journalist, tear-gas, rubber-bullet, shoot
 
 id: mi-detroit-3
 
@@ -87,7 +87,7 @@ Footage shows a reporter walking across a park to film an arrest. She is approac
 
 Footage from another reporter shows her handcuffed and led to the car. This reporter states that a group of press intervened to have her released.
 
-tags: journalist, zip-ties
+tags: journalist, zip-tie
 
 id: mi-detroit-11
 
@@ -184,7 +184,7 @@ Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
 Footage shows police have hidden badge numbers and are not wearing body cams.
 
-tags: shove, push, shields, hide-badges, body-cams, protestor
+tags: shove, push, shield, hide-badge, body-cam, protestor
 
 id: mi-grandrapids-2
 

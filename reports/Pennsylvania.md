@@ -68,7 +68,7 @@ id: pa-philadelphia-2
 
 A man is being held on the ground by a police officer, who forces the man's hand onto a baton. Another officer joins in to force the man flat on the ground, kneeling on either the man's head or neck. The second officer then begins to strike the man on the head. A third officer joins in and grabs the man's arms. The police yell at witnesses to "back off", while someone yells "he can't breathe".
 
-tags: knee, knee-on-kneck, beat, baton, strike, threaten, protestor
+tags: knee, knee-on-neck, beat, baton, strike, threaten, protestor
 
 id: pa-philadelphia-3
 
@@ -99,7 +99,7 @@ An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. P
 
 Location: [Interstate 676 between N 20th/21st St](https://www.google.com/maps/place/2053+Vine+St,+Philadelphia,+PA+19103,+USA/@39.9595383,-75.1746173,18z/data=!3m1!4b1!4m5!3m4!1s0x89c6c634c7345f49:0x40d2e85b82db34fb!8m2!3d39.9595362!4d-75.173523)
 
-tags: tear-gas, rubber-bullets, shoot, tear-gas-canister, protestor
+tags: tear-gas, rubber-bullet, shoot, tear-gas-canister, protestor
 
 id: pa-philadelphia-4
 
@@ -218,7 +218,7 @@ A reporter recounts on Twitter that she was arrested despite telling an officer 
 
 Footage shows first-person video leading up to her arrest. It includes her clear identification, with press badge, as a reporter.
 
-tags: journalist, arrest, abuse-of-power, zip-ties
+tags: journalist, arrest, abuse-of-power, zip-tie
 
 id: pa-philadelphia-12
 
@@ -237,7 +237,7 @@ John Connors, a protestor in Pittsburgh on Saturday, May 30th, was recording the
 
 He asks an officer, "Are you guys police officers or are you guys cops?" The officer then release a tear gas canister at his feet and shoots him at short range. Police then arrest Connors. Connors admits his question was antagonizing, but states he did nothing to threaten officers or escalate to violence, which is supported by the footage.
 
-tags: tear-gas, tear-gas-canister, shoot, arrest, projectiles, protestor
+tags: tear-gas, tear-gas-canister, shoot, arrest, projectile, protestor
 
 id: pa-pittsburgh-3
 
@@ -266,7 +266,7 @@ id: pa-pittsburgh-1
 
 Police declare a peaceful protest an unlawful assembly. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
 
-tags: shoot, tear-gas, rubber-bullets, protestor
+tags: shoot, tear-gas, rubber-bullet, protestor
 
 id: pa-pittsburgh-2
 

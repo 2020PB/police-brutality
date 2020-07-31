@@ -45,7 +45,7 @@ id: dc-dc-11
 
 Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
 
-tags: journalist, punch, tear-gas, rubber-bullets, projectiles
+tags: journalist, punch, tear-gas, rubber-bullet, projectile
 
 id: dc-dc-2
 
@@ -65,7 +65,7 @@ id: dc-dc-2
 
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors via tear gas and flashbangs.
 
-tags: tear-gas, flashbangs, protestor
+tags: tear-gas, stun-grenade, protestor
 
 id: dc-dc-3
 
@@ -83,7 +83,7 @@ id: dc-dc-3
 
 DCPD officer aims tear gas canister at protestor's head, narrowly misses.
 
-tags: tear-gas-canister, projectiles, protestor
+tags: tear-gas-canister, projectile, protestor
 
 id: dc-dc-4
 
@@ -96,7 +96,7 @@ id: dc-dc-4
 
 MSNBC captures mounted and regular police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
 
-tags: flashbangs, horse, protestor
+tags: stun-grenade, horse, protestor
 
 id: dc-dc-5
 
@@ -136,7 +136,7 @@ id: dc-dc-7
 
 Police fire into crowd outside of White House. Protester is hit and falls to the ground. The same protester is then hit again after standing. Projectile used is unknown.
 
-tags: projectiles, protestor
+tags: projectile, protestor
 
 id: dc-dc-8
 
@@ -164,7 +164,7 @@ id: dc-dc-15
 
 Armed men are seen supporting police efforts. When asked to identify themselves, they stated only that they work for the Department of Justice or "the federal government." They had no identifying names or numbers.
 
-tags: hide-badges, abuse-of-power
+tags: hide-badge, abuse-of-power
 
 id: dc-dc-13
 
@@ -178,7 +178,7 @@ id: dc-dc-13
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
-tags: rubber-bullets, pepper-spray, journalist, protestor
+tags: rubber-bullet, pepper-spray, journalist, protestor
 
 id: dc-dc-9
 
@@ -194,7 +194,7 @@ id: dc-dc-9
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
 
-tags: flashbangs, protestor
+tags: stun-grenade, protestor
 
 id: dc-dc-10
 
@@ -210,7 +210,7 @@ Footage shows a line of agents wearing riot gear. They do not have names, badges
 
 Additional reports suggest they are members of the federal Bureau of Prisons trained specifically for prison riots.
 
-tags: hide-badges, abuse-of-power
+tags: hide-badge, abuse-of-power
 
 id: dc-dc-14
 
@@ -225,7 +225,7 @@ id: dc-dc-14
 
 During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protestor. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
 
-tags: beat, batons, arrest, knee, protestor
+tags: beat, baton, arrest, knee, protestor
 
 id: dc-dc-16
 
@@ -242,7 +242,7 @@ Protestors converged on the statue, pulled down the fence, and threw chains arou
 
 Police met the protestors with immediate violence. An account states police encircled the protestors, preventing any exit, then beat protestors with shields and batons. Police pepper-sprayed protestors as well. The account additionally states police ripped off her friend's glasses and mask to pepper-spray her.
 
-tags: beat, batons, pepper-spray, spray, shield, protestor
+tags: beat, baton, pepper-spray, spray, shield, protestor
 
 id: dc-dc-17
 
@@ -260,7 +260,7 @@ id: dc-dc-17
 
 Video shows police slowly advancing towards protesters, pushing them back. Alongside the police is a man conspicuously wearing "jeans and fatigue-colored ammo belt" wielding a baton. He has no police badge or other identification. He hits and shoves the individual filming. Neither he nor the officers answer when protesters demand to know who the man is and whether he is a cop or a vigilante. A second video in the same twitter thread shows the unidentified man striking a protester and talking with an officer. A third video in the thread shows the man assisting with an arrest. It is unclear whether the police were allowing a civilian without any authority to assault protesters, or whether they were protecting the identity of an officer from some special unit.
 
-tags: beat, batons, protestor
+tags: beat, baton, protestor
 
 id: dc-dc-19
 
@@ -290,7 +290,7 @@ Footage shows an argument between a protestor an officer. The protestor films cl
 
 Notable, however, is the strip of black tape covering the officer's badge number.
 
-tags: hide-badges
+tags: hide-badge
 
 id: dc-dc-20
 
@@ -340,7 +340,7 @@ The second clip from Raws shows protestors attempting to treat a fellow protesto
 
 Additional footage posted on Youtube shows similar events. Around 4 minutes, this footage also shows police pushing a man on crutches and harassing him to move faster. Protestors attempting to help the man on crutches are assaulted.
 
-tags: pepper-spray, spray, tear-gas, flashbangs, shove, push, strike, person-with-disability, protestor
+tags: pepper-spray, spray, tear-gas, stun-grenade, shove, push, strike, person-with-disability, protestor
 
 id: dc-dc-18
 

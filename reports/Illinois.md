@@ -30,7 +30,7 @@ id: il-chicago-5
 
 The video shows fficers standing in line, all missing the badges from their uniforms. The video poster, in the comments of the post, states that the officers took off their badges and then pushed protesters down the stairs and swung batons at them.
 
-tags: hide-badges, push, shove, batons
+tags: hide-badge, push, shove, baton
 
 id: il-chicago-11
 
@@ -43,7 +43,7 @@ id: il-chicago-11
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
-tags: celebrity, batons, protestor
+tags: celebrity, baton, protestor
 
 id: il-chicago-3
 
@@ -63,7 +63,7 @@ After release (with neither charges nor explanation), the victim attempted to fi
 
 This was reported to have happened at "2600 N. Narragansett Ave.", but 2700 N seems slightly more accurate. Google Streetview at that address shows the same "Show Carnival" store seen in the video.
 
-tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment, bystander
+tags: shove, throw, arrest, property-destruction, knee-on-neck, knee, inhumane-treatment, bystander
 
 id: il-chicago-4
 
@@ -83,7 +83,7 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
-tags: politician, beat, strike, batons, protestor
+tags: politician, beat, strike, baton, protestor
 
 id: il-chicago-6
 
@@ -96,7 +96,7 @@ id: il-chicago-6
 
 Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
 
-tags: hide-badges, body-cams
+tags: hide-badge, body-cam
 
 id: il-chicago-10
 
@@ -129,7 +129,7 @@ id: il-chicago-7
 
 Police chase protester and attack him on the ground while on live TV.
 
-tags: beat, shove, throw, batons, protestor
+tags: beat, shove, throw, baton, protestor
 
 id: il-chicago-8
 
@@ -181,7 +181,7 @@ id: il-chicago-9
 
 Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
 
-tags: hide-badges, abuse-of-power
+tags: hide-badge, abuse-of-power
 
 id: il-chicago-14
 
@@ -195,7 +195,7 @@ id: il-chicago-14
 
 Cop punches an 18 year old Black woman activist at a protest in Grant Park. She reportedly suffered multiple injuries to her face and had her teeth knocked out.
 
-tags: punch, protester
+tags: punch, protestor
 
 id: il-chicago-15
 

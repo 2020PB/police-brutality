@@ -4,7 +4,7 @@
 
 The old man was shoved and pushed by the police, which led him to hit the railing and collapse.
 
-tags: elderly, push, shove, shields, bystander
+tags: elderly, push, shove, shield, bystander
 
 id: ut-saltlakecity-1
 
@@ -17,7 +17,7 @@ id: ut-saltlakecity-1
 
 The man on the ground was shot with a beanbag, resulting in heavy damage.
 
-tags: shot, beanbags, protestor
+tags: shoot, bean-bag, protestor
 
 id: ut-saltlakecity-2
 

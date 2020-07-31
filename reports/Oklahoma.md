@@ -48,7 +48,7 @@ id: ok-oklahomacity-3
 
 When Tulsa Police opened fire on peaceful protestors, reporters for Tulsa's channel 8 were struck by pepper balls while reporting live. Reporter also stated that police threw a flashbang, and tear gas can be seen in the background.
 
-tags: journalist, shot, pepper-balls, flashbang, tear-gas, protestor
+tags: journalist, shoot, pepper-ball, stun-grenade, tear-gas, protestor
 
 id: ok-tulsa-1
 

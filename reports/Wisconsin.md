@@ -56,7 +56,7 @@ Police claim they used force to disperse the crowd after rocks and glass were th
 
 NOTE: this incident immediately follows wi-milwaukee-2. Because the misconduct involved is substantially different, it has been given its own incident.
 
-tags: gas, protestor, rubber-bullets, shoot, tear-gas
+tags: gas, protestor, rubber-bullet, shoot, tear-gas
 
 id: wi-milwaukee-2
 

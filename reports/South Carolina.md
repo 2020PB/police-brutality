@@ -37,7 +37,7 @@ Footage shows violence during the arrest of a protestor as 3 police officers wea
 
 Police charged him with disobeying a lawful order and resisting arrest.
 
-tags: arrest, shove, strike, beat, tackle, hide-badges, protestor
+tags: arrest, shove, strike, beat, tackle, hide-badge, protestor
 
 id: sc-charleston-3
 

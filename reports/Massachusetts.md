@@ -32,7 +32,7 @@ id: ma-boston-2
 
 
 
-tags: hide-badges
+tags: hide-badge
 
 id: ma-worcester-1
 
@@ -65,7 +65,7 @@ id: ma-worcester-2
 
 Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protestors without warning. Police continue firing as protestors flee.
 
-tags: tear-gas, rubber-bullets, pepper-spray, spray, shoot, protestor
+tags: tear-gas, rubber-bullet, pepper-spray, spray, shoot, protestor
 
 id: ma-worcester-3
 
@@ -82,7 +82,7 @@ Eyewitness reports seeing numerous people tackled.
 
 Eyewitness reports being slammed from behind after obeying police order to raise hands and disperse. He and his sister report police kneeled on the man's neck "in the same manner as George Floyd."
 
-tags: arrest, punch, tackle, knee, knee-on-kneck, beat, protestor
+tags: arrest, punch, tackle, knee, knee-on-neck, beat, protestor
 
 id: ma-worcester-4
 

@@ -4,7 +4,7 @@
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
-tags: journalist, rubber-bullets, pepper-ball, shoot
+tags: journalist, rubber-bullet, pepper-ball, shoot
 
 id: ky-louisville-2
 
@@ -19,7 +19,7 @@ id: ky-louisville-2
 
 A young woman was injured by a rubber bullet she took to the head.
 
-tags: rubber-bullets, shoot, protestor
+tags: rubber-bullet, shoot, protestor
 
 id: ky-louisville-4
 
@@ -35,7 +35,7 @@ id: ky-louisville-4
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
-tags: rubber-bullets, projectiles, shoot, protestor
+tags: rubber-bullet, projectile, shoot, protestor
 
 id: ky-louisville-8
 
@@ -49,7 +49,7 @@ id: ky-louisville-8
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
 
-tags: shoot, projectiles, property-destruction, bystander
+tags: shoot, projectile, property-destruction, bystander
 
 id: ky-louisville-5
 
@@ -105,7 +105,7 @@ id: ky-louisville-3
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
-tags: death, body-cams, real-bullets, pepper-ball, bystander
+tags: death, body-cam, real-bullet, pepper-ball, bystander
 
 id: ky-louisville-6
 
@@ -173,7 +173,7 @@ id: ky-louisville-11
 
 A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
 
-tags: rubber-bullets, shoot, tackle, beat, baton, protestor
+tags: rubber-bullet, shoot, tackle, beat, baton, protestor
 
 id: ky-louisville-10
 

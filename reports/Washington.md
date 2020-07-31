@@ -12,7 +12,7 @@ After police walk arrestee away, protestors continue to shout at police. Police 
 
 A racial slur can be heard shouted, although it is unsure who is shouting.
 
-tags: arrest, tear-gas, shoot, projectiles, protestor
+tags: arrest, tear-gas, shoot, projectile, protestor
 
 id: wa-olympia-1
 
@@ -129,7 +129,7 @@ id: wa-seattle-12
 
 Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
 
-tags: flashbang, tear-gas, protestor
+tags: stun-grenade, tear-gas, protestor
 
 id: wa-seattle-7
 
@@ -174,7 +174,7 @@ Police flashbang hits a homeless man sleeping in a park.
 
 Related to OPD Case 2020OPA-0335 "Homeless man hit by an SPD flashbang while sleeping".
 
-tags: bystander, flashbang, homeless
+tags: bystander, stun-grenade, homeless
 
 id: wa-seattle-54
 
@@ -187,7 +187,7 @@ id: wa-seattle-54
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
-tags: flashbang, pepper-spray, protestor
+tags: stun-grenade, pepper-spray, protestor
 
 id: wa-seattle-5
 
@@ -238,7 +238,7 @@ id: wa-seattle-11
 
 Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs.
 
-tags: tear-gas, flashbangs, protestor
+tags: tear-gas, stun-grenade, protestor
 
 id: wa-seattle-13
 
@@ -252,7 +252,7 @@ id: wa-seattle-13
 
 In a series of videos, we see police asking protesters to move back, but the crowd is too dense for them to do so. Police then start pepper-spraying protesters at the front of the crowd and launch flashbangs into and near the crowd. At 1:30 in the first video, it appears a protester is hit with a projectile. In the subsequent clips, teargas is seen being spread into a group of protesters by police.
 
-tags: pepper-spray, flashbangs, projectiles, tear-gas, protestor
+tags: pepper-spray, stun-grenade, projectile, tear-gas, protestor
 
 id: wa-seattle-15
 
@@ -268,7 +268,7 @@ id: wa-seattle-15
 
 Video shows an individual getting hit by a police projectile, falling down, and becoming unresponsive. Medics drag the person away from the police. A medic's first-hand narrative account describes the victim as "a young woman in her 20s." Medics attempt to treat the young woman while police throw flash bang grenades directly into the first aid center where they are gathered. Several times the victim stops responding or breathing but becomes responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transports her by car to an Emergency Dept where she was delivered with a pulse. The person who filmed the incident from his workplace office is an editor at the local alt weekly, The Stranger; he reported in his twitter thread that the people in the office were having trouble breathing from teargas or some other chemical agent.
 
-tags: projectiles, medic, flashbangs, tear-gas, protestor
+tags: projectile, medic, stun-grenade, tear-gas, protestor
 
 id: wa-seattle-14
 
@@ -299,7 +299,7 @@ id: wa-seattle-17
 
 A protestor is seen off to the side of the protest, speaking with another protestor and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: wa-seattle-18
 
@@ -312,7 +312,7 @@ id: wa-seattle-18
 
 While deploying flashbangs and tear gas against protestors, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
 
-tags: homeless, arrest, strike, beat, bystander, protestor, tear-gas, flashbangs
+tags: homeless, arrest, strike, beat, bystander, protestor, tear-gas, stun-grenade
 
 id: wa-seattle-19
 
@@ -353,7 +353,7 @@ id: wa-seattle-21
 
 As police prepare to clear CHOP, a protestor asks a question. Police then target him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
 
-tags: arrest, tackle, knee, knee-on-kneck, protestor
+tags: arrest, tackle, knee, knee-on-neck, protestor
 
 id: wa-seattle-22
 
@@ -367,7 +367,7 @@ id: wa-seattle-22
 
 Video shows bicycle cops fast approaching a group of protesters who are just outside an area cordoned off with police tape, presumably because they considered one or more of them to have crossed the boundary. Without warning, the cops tackle two protesters to the ground. Someone can be heard shouting "get your knee off their neck!" One of the videos clearly shows an officer placing his knee on the neck of one of the individuals.
 
-tags: arrest, tackle, knee, knee-on-kneck, protestor
+tags: arrest, tackle, knee, knee-on-neck, protestor
 
 id: wa-seattle-23
 
@@ -588,7 +588,7 @@ id: wa-seattle-37
 
 Police deploy tear gas and flashbangs against protestors at Broadway and Pine. The filmer several blocks away states that the tear gas has drifted into his home and "is choking us."
 
-tags: protestor, bystander, tear-gas, flashbang
+tags: protestor, bystander, tear-gas, stun-grenade
 
 id: wa-seattle-38
 
@@ -763,7 +763,7 @@ id: wa-seattle-50
 
 An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protestor. The victim appears to have suffered lacerations and bruising as a result of the impact.
 
-tags: protestor, flashbang
+tags: protestor, stun-grenade
 
 id: wa-seattle-51
 
@@ -776,7 +776,7 @@ id: wa-seattle-51
 
 Video shows the protester filming as police toss flash bangs and fire projectiles. He gets hit with something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
 
-tags: protestor, flashbang
+tags: protestor, stun-grenade
 
 id: wa-seattle-52
 

@@ -31,7 +31,7 @@ id: tn-chattanooga-1
 
 A group of police officers targeted and swarmed a woman and pushed her to the ground, using excessive force.
 
-tags: beat, arrest, shields, batons, strike, shove, protestor
+tags: beat, arrest, shield, baton, strike, shove, protestor
 
 id: tn-memphis-1
 
@@ -113,7 +113,7 @@ Justin Jones, a prominent activist in Nashville, states that protestors were arr
 
 He also shows footage of extremely tight zip-ties, stating that an arrestee has suffered ongoing numbness in their hands since release.
 
-tags: arrest, abuse-of-power, protestor, zip-ties
+tags: arrest, abuse-of-power, protestor, zip-tie
 
 id: tn-nashville-4
 

@@ -98,7 +98,7 @@ id: ga-atlanta-5
 
 Police shove and shoot protesters with rubber bullets. One man is shot in the head; he is seen being carried away unconscious.
 
-tags: shoot, shove, rubber-bullets, protestor
+tags: shoot, shove, rubber-bullet, protestor
 
 id: ga-atlanta-6
 

@@ -17,7 +17,7 @@ id: ia-desmoines-2
 
 Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure." A woman's phone is destroyed by a police round.
 
-tags: rubber-bullets, tear-gas, shoot, property-destruction, bystander
+tags: rubber-bullet, tear-gas, shoot, property-destruction, bystander
 
 id: ia-desmoines-3
 
@@ -46,7 +46,7 @@ id: ia-desmoines-11
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
-tags: journalist, arrest, pepper-spray, spray, zip-ties
+tags: journalist, arrest, pepper-spray, spray, zip-tie
 
 id: ia-desmoines-7
 
@@ -196,7 +196,7 @@ Police continued to deploy tear gas and flashbangs in the area where Iowa city E
 
 According to the mayor, Iowa State Patrol was in command of the scene (though some Iowa City Police were present) and it was determined that letting the protest onto I-80 was too dangerous.
 
-tags: tear-gas, protestor, flashbang, medic
+tags: tear-gas, protestor, stun-grenade, medic
 
 id: ia-iowacity-1
 

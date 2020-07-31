@@ -4,7 +4,7 @@
 
 According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protestors attempted to shield them from harm.
 
-tags: child, tear-gas, rubber-bullets, shoot, protestor
+tags: child, tear-gas, rubber-bullet, shoot, protestor
 
 id: nc-asheville-2
 
@@ -56,7 +56,7 @@ Law enforcement close on protesters from both sides with pepper bullets, tear ga
 
 Jeff Jackson, an NC State senator whose district contains the Uptown Charlotte area, later posted a review of the incident on Medium.com, in which he decries the incident and states he has begun the process of opening an investigation with the Charlotte-Mecklenburg Police Department.
 
-tags: tear-gas, tear-gas-canister, pepper-ball, flashbangs, protestor
+tags: tear-gas, tear-gas-canister, pepper-ball, stun-grenade, protestor
 
 id: nc-charlotte-1
 
@@ -92,7 +92,7 @@ The Mecklenburg Sheriff's department declared a jail support site unlawful. The 
 
 Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to zip tie. In addition, a reporter filming was struck by an officer and threatened with arrest.
 
-tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, protestor, medic, zip-ties
+tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, protestor, medic, zip-tie
 
 id: nc-charlotte-3
 
@@ -126,7 +126,7 @@ id: nc-gastonia-1
 
 Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protestors surprised at the escalation and turning to flee, as well as multiple protestors hit directly by projectiles. In addition, the article claims police targeted both protestors and journalists with rubber bullets. The escalation did then incite some protestors to return fire with rocks, fireworks, and police tear gas canisters.
 
-tags: tear-gas, tear-gas-canister, journalist, rubber-bullets, protestor
+tags: tear-gas, tear-gas-canister, journalist, rubber-bullet, protestor
 
 id: nc-raleigh-2
 
@@ -158,7 +158,7 @@ id: nc-raleigh-4
 
 Police fire repeatedly at man who is attempting to leave the protest with his hands up. After shooting several times, an officer runs up and strikes the man in the back of the head and throw him to the ground to make an arrest. Tear gas begins to fill the road as officers arrest him.
 
-tags: tear-gas, shoot, rubber-bullets, strike, beat, arrest, throw, shove, protestor
+tags: tear-gas, shoot, rubber-bullet, strike, beat, arrest, throw, shove, protestor
 
 id: nc-raleigh-5
 
@@ -186,7 +186,7 @@ id: nc-raleigh-6
 
 Footage shows a crowd protesting in place with hands up. Shots are heard and a protestor runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
 
-tags: pepper-balls, shoot, protestor
+tags: pepper-ball, shoot, protestor
 
 id: nc-raleigh-7
 
@@ -200,7 +200,7 @@ id: nc-raleigh-7
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protestor himself, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
-tags: threaten, projectiles, bystander
+tags: threaten, projectile, bystander
 
 id: nc-raleigh-1
 
@@ -219,7 +219,7 @@ In the early hours of the morning on June 5th, men in black, without visible bad
 
 Police scanner audio shows that Raleigh police officers were following him during protests later that day.
 
-tags: threaten, arrest, hide-badges, protestor
+tags: threaten, arrest, hide-badge, protestor
 
 id: nc-raleigh-3
 

@@ -105,7 +105,7 @@ Around 9pm, one victim, Sean, states that police began pepper-spraying without w
 
 After arriving at the hospital, Sean was told he would be permanently blind, but had been spared broken bones or death by a matter of inches.
 
-tags: pepper-spray, rubber-bullets, spray, shoot, protestor
+tags: pepper-spray, rubber-bullet, spray, shoot, protestor
 
 id: mo-kansascity-7
 
@@ -177,7 +177,7 @@ Footage shows police shooting riot rounds at protestors in the zone. The account
 
 Footage from the second link also shows violent arrests where police force protestors to the ground, pulling on limbs, punching and kneeling on protestors.
 
-tags: shoot, rubber-bullets, pepper-balls, projectile, mace, pepper-spray, spray, arrest, protestor
+tags: shoot, rubber-bullet, pepper-ball, projectile, mace, pepper-spray, spray, arrest, protestor
 
 id: mo-florissant-3
 

@@ -56,7 +56,7 @@ id: ca-compton-1
 
 Law enforcement officer can be seen without a badge or name tag.
 
-tags: hide-badges
+tags: hide-badge
 
 id: ca-costa-mesa-1
 
@@ -113,7 +113,7 @@ Police are shown shoving a wall of peaceful protesters back from an intersection
 
 Footage does not indicate that any protesters were violent with any officer before the shooting began.
 
-tags: shove, shoot, rubber-bullets, protestor
+tags: shove, shoot, rubber-bullet, protestor
 
 id: ca-hollywood-2
 
@@ -128,7 +128,7 @@ id: ca-hollywood-2
 
 Protestors laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protestors began standing, police fired projectiles at protestors. Police continued to fire off and on for at least one minute while protestors obeyed order to retreat.
 
-tags: shoot, projectiles, protestor
+tags: shoot, projectile, protestor
 
 id: ca-hungtingtonbeach-1
 
@@ -174,7 +174,7 @@ id: ca-lamesa-1
 
 Photo shows large bruise the reporter got from a rubber bullet
 
-tags: shoot, rubber-bullets, journalist
+tags: shoot, rubber-bullet, journalist
 
 id: ca-longbeach-1
 
@@ -221,7 +221,7 @@ Footage shows a protestor sitting on the curb. They are bleeding from a wound to
 
 Additional footage (link 3) shows other protestors with wounds from riot rounds.
 
-tags: shoot, projectiles, protestor
+tags: shoot, projectile, protestor
 
 id: ca-losangeles-30
 
@@ -250,7 +250,7 @@ id: ca-losangeles-2
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
 
-tags: beat, baton, shoot, rubber-bullets, protestor
+tags: beat, baton, shoot, rubber-bullet, protestor
 
 id: ca-losangeles-3
 
@@ -294,7 +294,7 @@ id: ca-losangeles-5
 
 LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
 
-tags: shoot, projectiles, baton, protestor
+tags: shoot, projectile, baton, protestor
 
 id: ca-losangeles-24
 
@@ -308,7 +308,7 @@ id: ca-losangeles-24
 
 Activist and former White House and congressional staffer Deon Jones was hit in the face with a rubber bullet, fracturing two bones and nearly costing him one eye. Jones also alleges assorted other misconduct, reminiscent of incidents CA-LosAngeles-19, CA-LosAngeles32, and CA-SantaMonica-2
 
-tags: shoot, projectiles, protestor
+tags: shoot, projectile, protestor
 
 id: ca-losangeles-33
 
@@ -372,7 +372,7 @@ id: ca-losangeles-36
 
 Around 2AM on May 30th, a bystander films police from his apartment. Police fire projectiles - the filmer claims, based on a livestreamer's feed, that they are rubber bullets - at a small group of protestors from across an intersection. Police then take the intersection and march down the street, continuing to fire at protestors. At one point, another bystander asks the filmer who the police are shooting at. After the filmer points out the protestors, the other bystander states, "There are like 4 of them."
 
-tags: protestor, shoot, rubber-bullets
+tags: protestor, shoot, rubber-bullet
 
 id: ca-losangeles-39
 
@@ -386,7 +386,7 @@ id: ca-losangeles-39
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
-tags: rubber-bullets, shoot, pepper-ball, protestor
+tags: rubber-bullet, shoot, pepper-ball, protestor
 
 id: ca-losangeles-6
 
@@ -399,7 +399,7 @@ id: ca-losangeles-6
 
 A police officer has his knee on a woman's neck, who already had 3 police officers on her. A different officer had to pull him away.
 
-tags: kneel, knee-on-neck, protestor
+tags: knee, knee-on-neck, protestor
 
 id: ca-losangeles-7
 
@@ -412,7 +412,7 @@ id: ca-losangeles-7
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby.
 
-tags: vehicle, rubber-bullets, protestor
+tags: vehicle, rubber-bullet, protestor
 
 id: ca-losangeles-8
 
@@ -485,7 +485,7 @@ id: ca-losangeles-13
 
 A crowd of protestors chanting are shot with rubber bullets by a line of officers.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: ca-losangeles-16
 
@@ -511,7 +511,7 @@ id: ca-losangeles-28
 
 Two peaceful protestors are standing in an empty street.  Dozens of police officers move forward and the protestors are shot by rubber bullets fired from officers.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: ca-losangeles-15
 
@@ -558,7 +558,7 @@ Many protesters allege that conditions in the makeshift jails were poor -- detai
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protestor, zip-ties
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protestor, zip-tie
 
 id: ca-losangeles-19
 
@@ -585,7 +585,7 @@ Several arrestees describe police sexually harassing/assaulting them; other arre
 
 A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
 
-tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protestor, zip-ties
+tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protestor, zip-tie
 
 id: ca-losangeles-32
 
@@ -727,7 +727,7 @@ Footage shows police and protestors separated by a barricade. Protestors shout a
 
 In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
 
-tags: shoot, projectiles, protestor
+tags: shoot, projectile, protestor
 
 id: ca-losangeles-22
 
@@ -927,7 +927,7 @@ id: ca-sacramento-2
 
 Footage shows protestors facing off against police. Without warning, police fire tear gas and flashbangs, causing protestors to flee.
 
-tags: flashbangs, tear-gas, protestor
+tags: stun-grenade, tear-gas, protestor
 
 id: ca-sacramento-5
 
@@ -972,7 +972,7 @@ id: ca-sandiego-2
 
 Footage of a woman bleeding profusely from the head. Poster says SDPB were using rubber bullets. The woman was taken to the hospital and was in stable condition as of May 31st
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: ca-sandiego-3
 
@@ -986,7 +986,7 @@ id: ca-sandiego-3
 
 Footage shows protestors playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protestors then flee.
 
-tags: tear-gas, shoot, projectiles, protestor
+tags: tear-gas, shoot, projectile, protestor
 
 id: ca-sandiego-4
 
@@ -999,7 +999,7 @@ id: ca-sandiego-4
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
 
-tags: threaten, arrest, hide-badges, inhumane-treatment, protestor
+tags: threaten, arrest, hide-badge, inhumane-treatment, protestor
 
 id: ca-sandiego-1
 
@@ -1060,7 +1060,7 @@ id: ca-sanjose-3
 
 A protestor and community activist, known for work anti-bias and community building work with the San Jose PD, is fired upon by police. Though he has his hands in the air, police fire on him numerous times, striking him once in the groin. Later reports state the man suffered a ruptured testicle.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: ca-sanjose-2
 
@@ -1078,7 +1078,7 @@ A protestor can be seen filming SJPD officers' badge numbers. One officer swats 
 
 The riot police retaliate against the entire protest, firing rubber bullets and tear gas.
 
-tags: shove, property-destruction, shoot, rubber-bullets, tear-gas, protestor
+tags: shove, property-destruction, shoot, rubber-bullet, tear-gas, protestor
 
 id: ca-sanjose-4
 
@@ -1091,7 +1091,7 @@ id: ca-sanjose-4
 
 A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the crowd. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
 
-tags: rubber-bullets, explosive, shoot, projectile, protestor
+tags: rubber-bullet, explosive, shoot, projectile, protestor
 
 id: ca-sanjose-5
 
@@ -1184,7 +1184,7 @@ Zip ties were put on too tight. Police attempted to remove zip ties with a long 
 
 (See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
 
-tags: abuse-of-power, arrest, inhumane-treatment, protestor, zip-ties
+tags: abuse-of-power, arrest, inhumane-treatment, protestor, zip-tie
 
 id: ca-santamonica-2
 
@@ -1209,7 +1209,7 @@ Six officers fired 55 bullets in 3.5 seconds; police investigation determined th
 
 Vallejo PD has posted composite video containing body cam footage, radio chatter with Dispatch and prior footage of Walgreen's security cameras being destroyed. This footage shows a car with alleged looters peeling out of the Walgreens as police arrive; this car strikes an unmarked police vehicle and continues. Police open the doors of their unmarked van and fire on Monterrosa immediately and without warning. They state that they believed Monterrosa was armed, thought it turned out to be only a hammer.
 
-tags: shoot, real-bullets, death
+tags: shoot, real-bullet, death
 
 id: ca-vallejo-1
 

@@ -21,7 +21,7 @@ Around six officers arrested Harriot. Per AL.com, Harriot "was asked if he could
 
 According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; they had to use a pocket knife in addition to the usual tool. Harriot was also interviewed by two agents claiming to be from the FBI.
 
-tags: arrest, journalist, racial-profiling, zip-ties
+tags: arrest, journalist, racial-profiling, zip-tie
 
 id: al-birmingham-2
 
@@ -97,7 +97,7 @@ A Huntsville PD Lieutenant stated that they used tear gas on protestors before v
 
 Footage taken of a protestor in a garage after shows bruises consistent with rubber bullet rounds.
 
-tags: tear-gas, tear-gas-canister, rubber-bullets, shoot, protestor
+tags: tear-gas, tear-gas-canister, rubber-bullet, shoot, protestor
 
 id: al-huntsville-4
 
@@ -115,7 +115,7 @@ After disperse order is given, protestors comply and begin to back away from the
 
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
 
-tags: rubber-bullets, threaten, protestor
+tags: rubber-bullet, threaten, protestor
 
 id: al-huntsville-5
 

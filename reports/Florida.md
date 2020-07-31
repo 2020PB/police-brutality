@@ -25,7 +25,7 @@ id: fl-fortlauderdale-1
 
 A line of police officers are standing in front of a building with shields, and protesters can be seen filming them with phones. A shot is heard, and a woman collapses. A news report indicates that she was hit with a foam rubber bullet in her head just above the right eye, fracturing her eye socket.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: fl-fortlauderdale-2
 
@@ -40,7 +40,7 @@ id: fl-fortlauderdale-2
 
 Body cam video released by Fort Lauderdale PD on Youtube shows police laughing and joking after shooting protesters with rubber bullets and tear gas. They are speaking candidly to one another because they mistakenly believe their cams are in "standby" mode and not recording. Policing experts who reviewed the footage say that the behavior is unprofessional and that the officers felt "comfortable about talking about turning the camera off." At 2:55, a cop can be heard saying "if you need it, give me a target." The Miami Herald quotes a retired Lieutenant Colonel as commenting, "If you're not seeing a threat, why are you asking for a threat? That would almost lead you to believe that they were indiscriminately firing."
 
-tags: shoot, rubber-bullets, tear-gas, abuse-of-power, body-cam, incitement
+tags: shoot, rubber-bullet, tear-gas, abuse-of-power, body-cam, incitement
 
 id: fl-fortlauderdale-3
 
@@ -142,7 +142,7 @@ id: fl-miami-4
 
 A group of protestors is exiting the on ramp of I-4 on May 31st. A water bottle is thrown by a protestor, landing far from police. Police throw a flashbang. A protestor then throws a water bottle, landing near police. On both occasions, the crowd decries the actions of the bottle throwers. Police then deploy tear gas against the protestors.
 
-tags: protestor, tear-gas, flashbang
+tags: protestor, tear-gas, stun-grenade
 
 id: fl-orlando-7
 
@@ -224,7 +224,7 @@ Police open fire on protesters outside of city hall with tear gas, flashbangs, a
 
 Additional footage shows the incident was instigated when officers shoved a protestor. The protestor then fled. Officers tackled another protestor on the sidewalk, then began firing riot control rounds.
 
-tags: shoot, tear-gas, flashbangs, rubber-bullets, shove, push, tackle, protestor
+tags: shoot, tear-gas, stun-grenade, rubber-bullet, shove, push, tackle, protestor
 
 id: fl-orlando-2
 
@@ -308,7 +308,7 @@ Incidents include firing at peaceful protestors, fleeing protestors and medics.
 
 Video also includes a bleeding eyewitness describing events.
 
-tags: rubber-bullets, shoot, protestor
+tags: rubber-bullet, shoot, protestor
 
 id: fl-tampa-4
 
@@ -322,7 +322,7 @@ id: fl-tampa-4
 
 Video shows a medic treating another woman for a bleeding wound to her head. The filmer says the medic is her sister and a nurse; the filmer claims to be an Air Force medic. She states that the injured woman was struck by a less-than-lethal round. At the end of the video, the filmer says, "Here they come." She and her sister hurry to move the injured woman as shots are heard.
 
-tags: shoot, projectile, rubber-bullets, medic
+tags: shoot, projectile, rubber-bullet, medic
 
 id: fl-tampa-6
 

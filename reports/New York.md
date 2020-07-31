@@ -262,7 +262,7 @@ id: ny-newyorkcity-64
 
 The NYPD Squad are seen beating protestors with batons and pushing them around.
 
-tags: beat, batons, push, shove, protestor
+tags: beat, baton, push, shove, protestor
 
 id: ny-newyorkcity-5
 
@@ -521,7 +521,7 @@ id: ny-newyorkcity-9
 
 Police officers are seen beating and assaulting men and women for standing around peacefully.
 
-tags: beat, shove, arrest, batons, knee, protestor
+tags: beat, shove, arrest, baton, knee, protestor
 
 id: ny-newyorkcity-11
 
@@ -560,7 +560,7 @@ id: ny-newyorkcity-15
 
 Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
 
-tags: journalist, property-destruction, strike, shields
+tags: journalist, property-destruction, strike, shield
 
 id: ny-newyorkcity-16
 
@@ -573,7 +573,7 @@ id: ny-newyorkcity-16
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
-tags: batons, beat, strike, protestor
+tags: baton, beat, strike, protestor
 
 id: ny-newyorkcity-17
 
@@ -784,7 +784,7 @@ id: ny-newyorkcity-20
 
 Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
 
-tags: beat, batons, strike, punch, kick, batons, protestor
+tags: beat, baton, strike, punch, kick, baton, protestor
 
 id: ny-newyorkcity-21
 
@@ -798,7 +798,7 @@ id: ny-newyorkcity-21
 
 A man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
-tags: beat, batons, strike, protestor
+tags: beat, baton, strike, protestor
 
 id: ny-newyorkcity-22
 
@@ -813,7 +813,7 @@ id: ny-newyorkcity-22
 
 Footage taken at West and Rector Streets in Manhattan shows a protestor in the road with a bike. An officer attempts to take it, but the protestor holds on. The officer then uses his baton to press against the protestor's neck before striking the protestor in the legs. Other officers join to separate the protestor from their bike.
 
-tags: beat, batons, strike, protestor
+tags: beat, baton, strike, protestor
 
 id: ny-newyorkcity-72
 
@@ -852,7 +852,7 @@ id: ny-newyorkcity-74
 
 In an incident outside the Hugh Carey Tunnel (West and Morris Streets in Manhattan), police are seen kneeling on a protestor to arrest them. The filmer walks down the street, following the advancing police line. An NYPD official wearing a jacket bearing the word "LEGAL," throws a protestor's skateboard off the road. The filmer then captures several officers pinning down a protestor to arrest them. An officer stands and strikes the protestor with his baton repeatedly.
 
-tags: knee, arrest, zip-ties, protestor, strike, baton, property-destruction
+tags: knee, arrest, zip-tie, protestor, strike, baton, property-destruction
 
 id: ny-newyorkcity-zaxt
 
@@ -1003,7 +1003,7 @@ Police strike a protestor with batons, before tackling him and arresting him. Th
 
 Additional footage (link 4) from a journalist involved in the incident shows evidence of police shoving protestors and journalists throughout the night.
 
-tags: journalist, shove, strike, throw, beat, arrest, batons, protestor
+tags: journalist, shove, strike, throw, beat, arrest, baton, protestor
 
 id: ny-newyorkcity-23
 
@@ -1019,7 +1019,7 @@ id: ny-newyorkcity-23
 
 Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
 
-tags: arrest, strike, choke, neck, batons, protestor
+tags: arrest, strike, choke, neck, baton, protestor
 
 id: ny-newyorkcity-24
 
@@ -1077,7 +1077,7 @@ Three partygoers state officers used racial slurs while arresting them.
 
 Images show swollen hands from zip ties as well as bruises from batons. One partygoer states he suffered a severe sprain in his arm, and doctors could not determine from an X-Ray if it had been broken or not.
 
-tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander, zip-ties
+tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander, zip-tie
 
 id: ny-newyorkcity-39
 
@@ -1116,7 +1116,7 @@ Footage additionally shows officers standing on cars to swing batons at protesto
 
 One video additionally shows protestors shouting for a medic as a woman has gone into labor.
 
-tags: pepper-spray, spray, batons, beat, shield, strike, arrest, pregnant, protestor
+tags: pepper-spray, spray, baton, beat, shield, strike, arrest, pregnant, protestor
 
 id: ny-newyorkcity-25
 
@@ -1178,7 +1178,7 @@ id: ny-newyorkcity-44
 
 Video shows a police officer with a strip of tape covering his badge number. In addition, he has removed his name tag. He states he has received direct orders from above to do so.
 
-tags: hide-badges, abuse-of-power
+tags: hide-badge, abuse-of-power
 
 id: ny-newyorkcity-46
 
@@ -1304,7 +1304,7 @@ Images of an arrest show multiple officers (including one white-shirted officer,
 
 Footage also shows an officer who was pepper-sprayed by another officer. That footage additionally shows officers on motorcycles forcing their way through the crowd.
 
-tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badges, arrest, vehicle, protestor
+tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badge, arrest, vehicle, protestor
 
 id: ny-newyorkcity-49
 
@@ -1357,7 +1357,7 @@ The third clip shows police shoving protestors on the sidewalk with their batons
 
 In addition, multiple clips show officers without badges or with black electrical tape covering their badge numbers.
 
-tags: shove, baton, strike, beat, arrest, choke, hide-badges, protestor, zip-ties
+tags: shove, baton, strike, beat, arrest, choke, hide-badge, protestor, zip-tie
 
 id: ny-newyorkcity-50
 
@@ -1401,7 +1401,7 @@ id: ny-newyorkcity-54
 
 During a July 16th protest on the Brooklyn Bridge, police made a series of violent arrests, including shoving, tackling, striking and kneeling on protestors. In addition, the end of the first clip shows a protestor with a shoe tied around her mouth. The second clip shows several officers holding a protestor off the ground; one officer holds the protestor by her hair.
 
-tags: shove, tackle, strike, kneel, arrest, inhumane-treatment
+tags: shove, tackle, strike, knee, arrest, inhumane-treatment
 
 id: ny-newyorkcity-94
 
@@ -1450,7 +1450,7 @@ id: ny-newyorkcity-95
 
 Footage shows a small group of protestors walking down the street. Police charge them without warning. One protestor is slammed against the hood of a squad car. Several protestors are beaten with batons and shoved with police bicycles.
 
-tags: beat, shove, strike, protestor, bicycle, baton, arrest
+tags: beat, shove, strike, protestor, bike, baton, arrest
 
 id: ny-newyorkcity-99
 
@@ -1511,7 +1511,7 @@ id: ny-newyorkcity-100
 
 Police are seen shooting at individuals who were recording an incident.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: ny-rochester-1
 

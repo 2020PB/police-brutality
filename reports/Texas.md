@@ -37,7 +37,7 @@ id: tx-austin-3
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
 
-tags: threaten, rubber-bullets, bean-bag, tear-gas, shoot, protestor
+tags: threaten, rubber-bullet, bean-bag, tear-gas, shoot, protestor
 
 id: tx-austin-4
 
@@ -52,7 +52,7 @@ id: tx-austin-4
 
 Police were seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters downtown. Current source videos are from a distance of about 100-200 feet and it is unclear what exactly caused the officers to begin firing.
 
-tags: rubber-bullets, shoot, protestor
+tags: rubber-bullet, shoot, protestor
 
 id: tx-austin-5
 
@@ -67,7 +67,7 @@ A pregnant woman in Austin states she was sitting during a May 30th protest. As 
 
 Fortunately, the woman did not suffer a miscarriage.
 
-tags: pregnant, bean-bags, shoot, protestor
+tags: pregnant, bean-bag, shoot, protestor
 
 id: tx-austin-8
 
@@ -117,7 +117,7 @@ id: tx-austin-1
 
 Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: tx-austin-6
 
@@ -178,7 +178,7 @@ id: tx-austin-9
 
 Footage shows police kicking aside musician's gear. He falls off his stool and is held to the ground. One officer kneels on him. He does not appear to resist at any point. Several protestors can be heard shouting, "Get your knee off his head," but the footage is obscured by the officers.
 
-tags: arrest, shove, property-destruction, knee, knee-on-kneck, protestor
+tags: arrest, shove, property-destruction, knee, knee-on-neck, protestor
 
 id: tx-austin-14
 
@@ -256,7 +256,7 @@ id: tx-baytown-1
 
 A woman who says she was simply walking home with groceries was shot in the face with a rubber bullet by Dallas police. She was seen bleeding profusely and some officers attempted to help her immediately afterwards.
 
-tags: shoot, rubber-bullets, bystander
+tags: shoot, rubber-bullet, bystander
 
 id: tx-dallas-1
 
@@ -288,7 +288,7 @@ The first-person video shows an individual running away from what seem to be lou
 
 Additional footage shows a protest in the same vicinity. Police sound a siren and protestors begin to back away. Police then begin releasing tear gas.
 
-tags: flashbangs, tear-gas, protestor
+tags: stun-grenade, tear-gas, protestor
 
 id: tx-dallas-2
 
@@ -302,7 +302,7 @@ id: tx-dallas-2
 
 Without warning, police shoot protestor with rubber bullet. Protestor falls limp to the ground. Later image shows the protestor helped to their feet and able to walk away
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: tx-dallas-5
 
@@ -316,7 +316,7 @@ id: tx-dallas-5
 
 On June 2nd, protestors are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
 
-tags: shoot, rubber-bullets, tear-gas, protestor
+tags: shoot, rubber-bullet, tear-gas, protestor
 
 id: tx-dallas-3
 
@@ -332,7 +332,7 @@ id: tx-dallas-3
 
 Police fire teargas cannisters into peaceful crowd of unarmed protestors.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
 
-tags: tear-gas-canister, projectiles, protestor
+tags: tear-gas-canister, projectile, protestor
 
 id: tx-elpaso-1
 
@@ -402,7 +402,7 @@ id: tx-houston-4
 
 A man was filming police walking down the street and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
 
-tags: shoot, rubber-bullets, protestor
+tags: shoot, rubber-bullet, protestor
 
 id: tx-sanantonio-1
 

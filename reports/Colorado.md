@@ -37,7 +37,7 @@ https://www.reddit.com/r/ColoradoSprings/comments/gu9p4b/protest_aftermath_my_bo
 
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
-tags: arrest, beat, punch, kneel, rubber-bullets, tackle, protestor
+tags: arrest, beat, punch, knee, rubber-bullet, tackle, protestor
 
 id: co-coloradosprings-1
 
@@ -394,7 +394,7 @@ The third link shows another angle on the incident at 1:28:00.
 
 The fourth link shows another angle on the incident at 1:38:00. In addition, the caption states that police were using pepper balls.
 
-tags: arrest, shove, strike, shoot, pepper-balls, baton, knee, tear-gas, pepper-spray, spray, medic, protestor
+tags: arrest, shove, strike, shoot, pepper-ball, baton, knee, tear-gas, pepper-spray, spray, medic, protestor
 
 id: co-denver-21
 

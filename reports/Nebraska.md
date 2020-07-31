@@ -34,7 +34,7 @@ id: ne-lincoln-2
 
 A bunch of protesters peacefully sitting on the ground were shot at and maced. A group of police officers pushed these civilians on to the ground and hit them.
 
-tags: mace, spray, pepper-balls, protestor
+tags: mace, spray, pepper-ball, protestor
 
 id: ne-omaha-1
 
@@ -49,7 +49,7 @@ Omaha law enforcement officer kicks protester already on the ground. Another off
 
 Twitter users also state police fired pepper-balls at peaceful protestors.
 
-tags: journalist, kick, arrest, pepper-balls, protestor
+tags: journalist, kick, arrest, pepper-ball, protestor
 
 id: ne-omaha-2
 

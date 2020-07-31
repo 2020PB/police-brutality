@@ -33,7 +33,7 @@ A news article describes a photographer in full view of an ABC news crew as he w
 
 The photographer now has four staples in his head, a concussion, and a bruised lung.
 
-tags: journalist, shoot, rubber-bullets
+tags: journalist, shoot, rubber-bullet
 
 id: az-phoenix-5
 
@@ -69,7 +69,7 @@ Footage shows police declaring the assembly unlawful and telling protestors to g
 
 Captions on Twitter and an NPR article state tear gas and flashbangs were deployed.
 
-tags: pepper-spray, tear-gas, flashbangs, spray, protestor
+tags: pepper-spray, tear-gas, stun-grenade, spray, protestor
 
 id: az-phoenix-4
 

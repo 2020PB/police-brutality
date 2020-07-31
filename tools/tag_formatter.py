@@ -16,9 +16,11 @@ TAG_OVERRIDES = {
     "knee-on-kneck": "knee-on-neck",
     "bicycle": "bike",
     "beanbag": "bean-bag",
+    "beanbags": "bean-bag",
     "shot": "shoot",
     "kneel": "knee",
     "pepper-bullet": "pepper-ball",
+    "protester": "protestor",
 }
 
 WNL = WordNetLemmatizer()
@@ -39,17 +41,20 @@ def read_tag_file(tag_path):
 def format_tags(wnl, all_tags, tag_overrides, tags):
     new_tags = []
     for tag in tags:
+        if tag.strip() == "":
+            continue
         new_tag = format_tag(wnl, tag_overrides, tag)
         if new_tag not in all_tags:
+            if new_tag not in {"neck", "pinned"}:
+                import pdb
+
+                pdb.set_trace()
             print(f"Skipping tag: {new_tag} not found in master list.")
         new_tags.append(new_tag)
     return ", ".join(new_tags)
 
 
 def format_tag(wnl, tag_overrides, tag):
-    if tag in tag_overrides:
-        return tag_overrides[tag]
-
     tag_words = tag.strip().replace(".", "").split("-")
     new_tag_words = []
 
@@ -57,6 +62,9 @@ def format_tag(wnl, tag_overrides, tag):
         new_tag_words.append(wnl.lemmatize(tag_word))
 
     output_tag = "-".join(new_tag_words)
+
+    if output_tag in tag_overrides:
+        return tag_overrides[output_tag]
 
     return output_tag
 

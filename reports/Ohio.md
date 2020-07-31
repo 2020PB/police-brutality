@@ -37,7 +37,7 @@ id: oh-bethel-1
 
 Police warn protestors blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flashbangs, and mace, even after protestors are out of the roadway. In part 2 of the video at 7:58, one of the used flashbang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
 
-tags: pepper-spray, flashbangs, tear-gas, protestor
+tags: pepper-spray, stun-grenade, tear-gas, protestor
 
 id: oh-canton-1
 
@@ -54,7 +54,7 @@ id: oh-canton-1
 
 A peaceful protest was dispersed with tear gas and flashbangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
 
-tags: pepper-bullet, tear-gas, flashbangs, shoot, protestor
+tags: pepper-ball, tear-gas, stun-grenade, shoot, protestor
 
 id: oh-cincinnati-1
 
@@ -69,7 +69,7 @@ Footage from a news report shows a protestor standing on the sidewalk with his h
 
 The reporter states that rubber bullets and flashbangs are also being used on the crowd.
 
-tags: pepper-spray, spray, protestor, flashbangs, rubber-bullets, shoot
+tags: pepper-spray, spray, protestor, stun-grenade, rubber-bullet, shoot
 
 id: oh-cincinnati-7
 
@@ -99,7 +99,7 @@ id: oh-cincinnati-2
 
 Protestors describe being zip-tied and held for ten hours without food, water, or (in some cases) bathroom breaks. In total, 307 protesters were detained, around 60 of them in the Justice Center courtyard.
 
-tags: arrest, inhumane-treatment, zip-ties, protestor
+tags: arrest, inhumane-treatment, zip-tie, protestor
 
 id: oh-cincinnati-5
 
@@ -192,7 +192,7 @@ Twitter user who relays Cleveland police scanner says transmission went over rad
 
 Additional footage shows a street medic patching a wound in the back of a protestor. The description of this footage states that police were aiming at the crowd.
 
-tags: medic, rubber-bullets, shoot, protestor
+tags: medic, rubber-bullet, shoot, protestor
 
 id: oh-cleveland-3
 
@@ -208,7 +208,7 @@ id: oh-cleveland-3
 
 Images of a protester who was shot with a rubber bullet in the head.
 
-tags: rubber-bullets, protestor, shoot
+tags: rubber-bullet, protestor, shoot
 
 id: oh-cleveland-4
 
@@ -406,7 +406,7 @@ id: oh-columbus-10
 
 A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
 
-tags: rubber-bullets, shoot, protestor
+tags: rubber-bullet, shoot, protestor
 
 id: oh-columbus-11
 
@@ -469,7 +469,7 @@ He states that he was maced, hit by a police officer on a bicycle, struck by ric
 
 In the interview, he stated: "This is worse than anything I received in an actual war zone,” citing special forces and contractor work in Afghanistan and East Africa.
 
-tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shot, wooden-bullets, protestor
+tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shoot, wooden-bullet, protestor
 
 id: oh-columbus-18
 
@@ -590,7 +590,7 @@ id: oh-dayton-2
 
 Around 7:30pm, the police used tear gas on protestors after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protestors. Later, in the second video, the police use tear gas on the protestors shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
 
-tags: tear-gas, rubber-bullets, protestor
+tags: tear-gas, rubber-bullet, protestor
 
 id: oh-toledo-1
 

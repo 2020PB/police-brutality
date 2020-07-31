@@ -157,7 +157,7 @@ Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Pol
 
 Richmond was no longer under curfew restrictions at this time.
 
-tags: tear-gas, rubber-bullets, shoot, protestor
+tags: tear-gas, rubber-bullet, shoot, protestor
 
 id: va-richmond-5
 
@@ -253,7 +253,7 @@ He states that he was told to leave. Then, when he tried to photograph the offic
 
 A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
 
-tags: arrest, abuse-of-power, bystander, zip-ties
+tags: arrest, abuse-of-power, bystander, zip-tie
 
 id: va-richmond-13
 
