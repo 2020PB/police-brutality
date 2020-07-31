@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-31T03:12:02.306780+00:00
+UPDATED AT: 2020-07-31T20:03:10.293401+00:00
 
 
 # Alabama
@@ -735,17 +735,17 @@ id: ca-losangeles-8
 
 ### Man shot in the head with deterrent rounds, is sent to hospital | May 31st
 
-Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head.
+Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head. The LAPD has released body cam footage confirming he was shot in the head with a bean bag round while his hands were up. The LAPD says it is investigating the incident.
 
-tags: projectile, shoot, protestor
+tags: projectile, shoot, protestor, bean-bag
 
 id: ca-losangeles-9
 
 **Links**
 
-* https://twitter.com/LowkeySinistra/status/1267109420955086848
-* https://twitter.com/LowkeySinistra/status/1267871561714790401
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
+* https://www.latimes.com/california/story/2020-07-31/video-protester-had-hands-up-when-lapd-officer-shot
+* https://www.youtube.com/watch?v=msNyNyw0JUM
 
 
 ### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
