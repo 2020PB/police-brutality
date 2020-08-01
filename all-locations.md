@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-01T04:12:30.740297+00:00
+UPDATED AT: 2020-08-01T04:12:40.050454+00:00
 
 
 # Alabama
@@ -613,6 +613,7 @@ id: ca-losangeles-24
 **Links**
 
 * https://twitter.com/MattMcGorry/status/1267217360894562306
+* https://twitter.com/greg_doucette/status/1267605209745887233
 * https://twitter.com/greg_doucette/status/1267605209745887233
 
 
