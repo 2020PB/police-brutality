@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-31T20:03:10.293401+00:00
+UPDATED AT: 2020-08-01T04:12:21.190753+00:00
 
 
 # Alabama
@@ -10649,6 +10649,7 @@ id: or-portland-207
 
 * https://twitter.com/TheRealCoryElia/status/1288725204886147074
 * https://twitter.com/TheRealCoryElia/status/1288728124457250816
+* https://twitter.com/TheRealCoryElia/status/1288931658301751297
 
 
 ### Officers fire tear gas at protestors | July 29th
