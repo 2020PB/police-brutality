@@ -2880,6 +2880,7 @@ id: or-portland-184
 * https://twitter.com/PDXzane/status/1287305145290616833
 * https://twitter.com/PDXzane/status/1287305540079513600
 * https://twitter.com/PDXzane/status/1287305904304599040
+* https://twitter.com/andrewkimmel/status/1287308350258962432
 
 
 ### Riot police shove woman to the ground | (Believed to be) July 26th
