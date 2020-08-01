@@ -27,6 +27,8 @@ id: wa-olympia-1
 
 Officer pins protestor with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
 
+Possibly related to OPD Case 2020OPA-0324 - "Placing the knee on the neck area of two people who had been arrested"
+
 tags: knee-on-neck, arrest, protestor
 
 id: wa-seattle-1
@@ -34,12 +36,13 @@ id: wa-seattle-1
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
-* 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested" (possibly)
 
 
 ### Police beat unarmed man on the ground | May 31st
 
 A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned.
+
+Related to Seattle OPA Case 2020OPA-0330.
 
 tags: beat, punch, pinned, protestor
 
@@ -48,7 +51,6 @@ id: wa-seattle-2
 **Links**
 
 * https://twitter.com/gunduzbaba1905/status/1266937500607614982
-* Seattle OPA Case 2020OPA-0330
 
 
 ### Police indiscriminately pepper spray peaceful protesters | May 31st
@@ -68,6 +70,8 @@ id: wa-seattle-3
 
 Police pepper sprays a young child who is seen crying, while protesters pour milk on the distressed girl.
 
+Related to Seattle OPA Case 2020OPA-0322.
+
 tags: pepper-spray, child, inhumane-treatment, protestor
 
 id: wa-seattle-4
@@ -75,7 +79,6 @@ id: wa-seattle-4
 **Links**
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
-* Seattle OPA Case 2020OPA-0322
 
 
 ### Police throw tear gas at peaceful protestors | May 31st
@@ -135,7 +138,7 @@ id: wa-seattle-7
 * https://twitter.com/The_Stepover/status/1267237940184231936
 
 
-### Police initiate violence | June 1st
+### Police pepper spray crowd | June 1st
 
 Police pepper spray peacefully protesting crowd.
 
@@ -163,6 +166,21 @@ id: wa-seattle-10
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
 * https://twitter.com/greg_doucette/status/1267694239028334592
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
+
+
+### Police injure sleeping homeless man with flashbang | June 1st
+
+Police flashbang hits a homeless man sleeping in a park.
+
+Related to OPD Case 2020OPA-0335 "Homeless man hit by an SPD flashbang while sleeping".
+
+tags: bystander, flashbang, homeless
+
+id: wa-seattle-54
+
+**Links**
+
+* https://www.facebook.com/kg.farmer/videos/278656296661372
 
 
 ### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
@@ -452,4 +470,332 @@ id: wa-seattle-29
 **Links**
 
 * https://twitter.com/spekulation/status/1285468287334141952
+
+
+### Officer holds down protestor to arrest, pepper sprays nurse | July 25th
+
+Footage shows Seattle police pinning a protestor down against a concrete barrier to arrest them. A nurse in scrubs grabs the protestor. She says "something hit me in the ass," believed to be an impact munition She is then pepper sprayed.
+
+tags: protestor, arrest, pepper-spray, spray, shoot, projectile
+
+id: wa-seattle-30
+
+**Links**
+
+* https://mobile.twitter.com/mlbaruchman/status/1287189436745150464
+* https://mobile.twitter.com/SimoneReports/status/1287197567772553216
+* https://twitter.com/greg_doucette/status/1287252831620206598
+
+
+### Officer shoots protestor who bangs stick on ground | July 25th
+
+A protestor standing about 20ft from police bangs a stick on the ground. Police then shoot him in the arm.
+
+tags: protestor, shoot, projectile
+
+id: wa-seattle-31
+
+**Links**
+
+* https://mobile.twitter.com/pmalonedc/status/1287192637296934913
+
+
+### Violent arrest made by police, tear gas deployed | July 25th
+
+Footage shows several officers grabbing a small woman to arrest her. She passively resists. Three officers then tackle her to the ground while another officer deploys tear gas against the crowd of protestors.
+
+The incident appears to have been kicked off when a protestor with a shield stepped between police and protestors. Additional footage also shows considerable use of pepper-spray
+
+tags: protestor, arrest, tackle, grab, tear-gas, pepper-spray, spray
+
+id: wa-seattle-32
+
+**Links**
+
+* https://twitter.com/BrandiKruse/status/1287190206408400897
+* https://twitter.com/AGarlandPhoto/status/1287177533113262081
+
+
+### Police use bikes and pepper spray to push protestors | July 25th
+
+Footage shows police using their bikes to push protestors back. One officer discharges pepper spray against protestors obeying the order to move back. Another officer grabs an umbrella held out by a protestor, breaking it.
+
+tags: protestor, bike, pepper-spray, spray, property-destruction
+
+id: wa-seattle-33
+
+**Links**
+
+* https://twitter.com/dailydigger19/status/1287194441858588672
+
+
+### Police make violent arrests and pepper spray crowd | July 25th
+
+Footage shows police dragging off a woman in handcuffs. Another woman grabs the protestor, but (off camera) lets go and falls to the ground. Police pepper spray nearby protestors.
+
+The camera pans back to the protestor on the ground. She is grabbed by an officer and walked away. She appears to be obeying the officer. She falls to the ground, passively resisting. The officer then holds her in what appears to be an arm bar, kneels on her, and arrests her.
+
+tags: pepper-spray, spray, protestor, shove, arrest, knee
+
+id: wa-seattle-34
+
+**Links**
+
+* https://twitter.com/KittyLists/status/1287191491924779009
+
+
+### Police make violent arrests and discharge pepper spray | July 25th
+
+Overhead footage from a news report shows police charging across their bike line into the crowd to tackle protestors and make arrests. After one protestor is subdued, police pepper spray the others to push them back.
+
+tags: arrest, protestor, tackle, shove, pepper-spray, spray
+
+id: wa-seattle-35
+
+**Links**
+
+* https://twitter.com/VideosSeattle/status/1287195618247548928
+
+
+### Police shove and pepper spray press and protestors | July 25th
+
+Screen-capped footage from a journalist shows police pushing press and protestors back. The filmer, a journalist, says he cannot move quickly because there is a crowd of people behind him. Police shove him and other protestors and press, then discharge pepper spray.
+
+tags: journalist, protestor, shove, pepper-spray, spray
+
+id: wa-seattle-36
+
+**Links**
+
+* https://twitter.com/lukeryderrr/status/1287172224588214272
+* https://twitter.com/ZeldaWarriorCat/status/1287203846071099394
+
+
+### Police pepper spray protestors on sidewalk | July 25th
+
+Police approach protestors standing on the sidewalk and hiding behind umbrellas. Officers flank and pepper spray them. A protestor crossing the street is then pepper sprayed. An officer holding a bike swings the bike's rear tire in the air at protestors. Police continue to discharge pepper spray.
+
+tags: protestor, pepper-spray, spray, bike
+
+id: wa-seattle-37
+
+**Links**
+
+* https://twitter.com/richsssmith/status/1287172691540115456
+
+
+### Police deploy tear gas and flashbangs against protestors | July 25th
+
+Police deploy tear gas and flashbangs against protestors at Broadway and Pine. The filmer several blocks away states that the tear gas has drifted into his home and "is choking us."
+
+tags: protestor, bystander, tear-gas, flashbang
+
+id: wa-seattle-38
+
+**Links**
+
+* https://twitter.com/menilivne/status/1287181347845365760
+
+
+### Protestor shot at point blank | July 25th
+
+Footage shows a protestor standing about 3 feet away from police, holding a skateboard above his head. He appears to be speaking to police. Without warning, he is shot about about 6 times, in the groin, abdomen and shoulder. Firing at that range and at firing genital regions or above the breastbone are against recommended use of impact munitions.
+
+tags: protestor, shoot, projectile
+
+id: wa-seattle-39
+
+**Links**
+
+* https://twitter.com/franceschogan/status/1287202059691814912
+
+
+### Police pepper spray man holding bike | July 25th
+
+A protestor holding a bike and standing several feet away from police is pepper sprayed. Protestors shout, "He did nothing wrong. Whatthe fuck?" Another protestor helps the pepper-sprayed protestor back away from police. At the end of the video, another protestor picks up the bike to walk it back.
+
+tags: protestor, pepper-spray, spray
+
+id: wa-seattle-40
+
+**Links**
+
+* https://twitter.com/pmalonedc/status/1287213310505410562
+
+
+### Police make violent arrest | July 25th
+
+Footage from Cal Anderson shows police dragging a woman across the gravel. She screams. Police then chase off other protestors. The camera pans back to the woman as she is shoved against a knee high concrete barrier. Officers then grab her again and throw her to the ground to arrest her. Other officers then crowd around to inhibit filming. The protestor does not appear to resist arrest at any point.
+
+tags: protestor, grab, shove, throw, arrest
+
+id: wa-seattle-41
+
+**Links**
+
+* https://twitter.com/LizTurnbull5/status/1287226515642449920
+
+
+### Violent arrest made near 11th and Pine | July 25th
+
+Footage shows police arrested a woman while others pepper spray the area to clear protestors. The woman attempts to stand, then is forced back to the ground. The officer appears to hold her head facedown in the gravel. She passively resists by locking her arms. More officers join and kneel on her to arrest her.
+
+tags: protestor, pepper-spray, spray, arrest, knee
+
+id: wa-seattle-42
+
+**Links**
+
+* https://twitter.com/richsssmith/status/1287176053073408000
+
+
+### Police fire tear gas at protestors following directions | July 25th
+
+Footage shows protestors walking peacefully in the direction specified by SPD. Police launch tear gas into the crowd. Justification is not clear.
+
+Officers also appear to shove stragglers with their batons.
+
+tags: protestor, tear-gas, push, shove, baton
+
+id: wa-seattle-43
+
+**Links**
+
+* https://twitter.com/davjhan/status/1287216171595345920
+* https://twitter.com/sean_roulette/status/1287216968320212993
+
+
+### Police shove and pepper spray protestors, grab signs | July 25th
+
+Footage shows police forcing protestors back and protestors obeying. Throughout the footage, police shove and pepper spray protestors. In addition, police snatch signs and umbrellas. Police also deploy tear gas.
+
+tags: protestor, tear-gas, pepper-spray, spray, shove, push, property-destruction
+
+id: wa-seattle-44
+
+**Links**
+
+* https://twitter.com/tetraphis_/status/1287238007406252032
+* https://twitter.com/tetraphis_/status/1287221855779090433
+
+
+### Police pepper spray man who is yelling at them | July 25th
+
+The filmer yells at police while he walks past them, calling them "a coward" or "a bitch." A police officer then pepper sprays him.
+
+tags: protestor, pepper-spray, spray
+
+id: wa-seattle-45
+
+**Links**
+
+* https://twitter.com/decolonizemars/status/1287236773345599488
+
+
+### Police snatch and pepper spray protestors | July 25th
+
+Police on Pine Street surge forward, pepper spraying several protestors, then snatching others for arrest.
+
+tags: protestor, pepper-spray, spray, arrest
+
+id: wa-seattle-46
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1287236203876462592
+* https://twitter.com/GoldsteinStreet/status/1287236138604703746
+
+
+### Police ride bikes into crowd and arrest protestors | July 25th
+
+Police on Pine Street again surged forward. This time, police on bikes ride into the crowd, jump off and tackle protestors for arrest.
+
+tags: protestor, bike, tackle, arrest
+
+id: wa-seattle-47
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1287240894219841536
+
+
+### Police use pepper spray to push protestors back | July 25th
+
+Police with batons push the crowd back, discharging pepper spray to speed protestors up.
+
+tags: protestor, pepper-spray, spray
+
+id: wa-seattle-48
+
+**Links**
+
+* https://twitter.com/daeshikjr/status/1287263163159781376
+
+
+### Police charge and pepper-spray protestors | July 25th
+
+Footage shows police charging at protestors without warning and pepper-spraying them, including one protestor lying on the ground. Police also strike protestors with batons and shove them.
+
+tags: protestor, pepper-spray, spray, baton, strike, shove
+
+id: wa-seattle-49
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1287413099788632065
+* https://twitter.com/greg_doucette/status/1287405595801325569
+
+
+### Cop tackles cyclist | July 25th
+
+Video shows a cyclist who appears to be unassociated with the protest slowly approaching an area where cops and police vans are in the process of blocking off the street. A cop walking away from the camera clearly glances at the cyclist but doesn't appear to issue any warning and looks away. Presumably unaware of what's happening, the cyclist tries to ride through. The cop then suddenly rushes the cyclist and tackles them off the bicycle. Other cops converge to arrest the cyclist.
+
+tags: arrest, bystander, bike, tackle
+
+id: wa-seattle-50
+
+**Links**
+
+* https://twitter.com/StellarArris/status/1287446170403508226
+
+
+### Effects of flashbang | July 25th
+
+An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protestor. The victim appears to have suffered lacerations and bruising as a result of the impact.
+
+tags: protestor, flashbang
+
+id: wa-seattle-51
+
+**Links**
+
+* https://twitter.com/DickandSharon/status/1287653775042371585
+
+
+### Protester struck in head by flashbang, gets 4 staples | July 25th
+
+Video shows the protester filming as police toss flash bangs and fire projectiles. He gets hit with something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
+
+tags: protestor, flashbang
+
+id: wa-seattle-52
+
+**Links**
+
+* https://www.facebook.com/david.calder3/videos/10217816303259717/
+* https://www.facebook.com/photo.php?fbid=10217824199217111&set=a.10201512323190405&type=3
+
+
+### Police violently push protestors down the street | July 25th
+
+Police push protestors down the street. Protestor are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protestors. One protestor appears to be directly hit. Police grab or shove protestors who are straggling and arrest them.
+
+tags: protestor, explosive, shove, grab, arrest, pepper-spray, spray
+
+id: wa-seattle-53
+
+**Links**
+
+* https://www.youtube.com/watch?v=gvfPAYCwg2w
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hzdd88/police_brutality_seattlepd_push_protestorsfire/
 

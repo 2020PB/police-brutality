@@ -118,10 +118,6 @@ id: ny-newyorkcity-56
 
 Footage shows police using bikes to shove protestors on the sidewalk. One protestor appears to be forced over a concrete divider by the chassis of a bike.
 
-
-
-
-
 Woman was sent to the ER due to seizure caused by policeman flinging her to the ground violently.
 
 The NYP has suspended the officer involved.
@@ -218,6 +214,7 @@ id: ny-newyorkcity-61
 * https://twitter.com/AnonymousBrook2/status/1266589590250553345
 * https://twitter.com/AnonymousBrook2/status/1266591121444126720
 * https://twitter.com/Stoney_Holiday/status/1266616250685444096
+* https://www.instagram.com/p/CAzSOtGlKQY/
 
 
 ### Police shove protestor into the road | May 29th
@@ -259,20 +256,6 @@ id: ny-newyorkcity-64
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
-
-
-### Police officer throws man against police car | May 30th
-
-A police officer flings a man against the side of a police car, knocking him unconscious. Victim appears to have been yelling at two other police officers that were beating another man.
-
-tags: throw, shove, beat, protestor
-
-id: ny-newyorkcity-4
-
-**Links**
-
-* https://twitter.com/Stoney_Holiday/status/1266616250685444096
-* https://www.instagram.com/p/CAzSOtGlKQY/
 
 
 ### NYPD beat people with batons | May 30th
@@ -378,13 +361,18 @@ id: ny-newyorkcity-28
 
 CNN commentator, Keith Boykin, was arrested by the NYPD and detained for 6 hours. He was released with a summons for "walking on the highway," and for "disorderly conduct - blocking vehicle traffic." He claims traffic was already blocked by both police and protestors.
 
-tags: journalist, arrest, inhumane-treatment
+tags: journalist, arrest, inhumane-treatment, zip-tie
 
 id: ny-newyorkcity-30
 
 **Links**
 
-* https://twitter.com/tylergabriel_/status/1267287516345925632
+* https://www.advocate.com/news/2020/6/01/journalist-keith-boykin-arrested-nyc-protest-held-six-hours
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933018570219520
+* https://www.youtube.com/watch?v=tojt5i0dNV4
 
 
 ### Police arrest woman on bike | May 30th
@@ -433,7 +421,7 @@ id: ny-newyorkcity-88
 * https://twitter.com/jeancosme/status/1266938900184006656
 
 
-###  | 
+### Officers shove and grab protestors | May 30th
 
 In an incident at Bedford and Tilden Avenues in Brooklyn, an officer pushes through a crowd and grabs a person by the neck to push them aside. Another officer knocks the person over, and the first officer throws the person down again when they try to get up.
 
@@ -1376,7 +1364,6 @@ id: ny-newyorkcity-50
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1277987893248655361
-* https://twitter.com/deanospameano/status/1277902165542043653
 * https://twitter.com/NelStamp/status/1277985126228557825
 
 
@@ -1457,6 +1444,65 @@ id: ny-newyorkcity-95
 * https://twitter.com/protest_nyc/status/1285891685608820738
 * https://twitter.com/protest_nyc/status/1285897625716350976
 * https://twitter.com/protest_nyc/status/1285900885957255168
+
+
+### Police beat protestors with batons | July 24th
+
+Footage shows a small group of protestors walking down the street. Police charge them without warning. One protestor is slammed against the hood of a squad car. Several protestors are beaten with batons and shoved with police bicycles.
+
+tags: beat, shove, strike, protestor, bicycle, baton, arrest
+
+id: ny-newyorkcity-99
+
+**Links**
+
+* https://www.instagram.com/p/CDDVu-Tlyiy/
+
+
+### Police arrest woman yelling at them | July 25th
+
+Footage shows a woman yelling at police. From her words, police have asked her to back up. Police say, "Back up" again. She steps forward, saying, "Or fucking what?" An officer in a white shirt pushes through the officers to grab her. Several officers then assist him in arresting the woman.
+
+tags: arrest, protestor, abuse-of-power
+
+id: ny-newyorkcity-98
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1287203714562953216
+
+
+### Police shove protestors with shields | July 25th
+
+Police shield line forces protestors back. Protestors trapped between police and barricades are squeezed and shoved over the barricades.
+
+tags: protestor, shove, shield
+
+id: ny-newyorkcity-97
+
+**Links**
+
+* https://www.instagram.com/tv/CDFndP4jem2/
+
+
+### Non-uniformed police arrest protestor without identifying selves | July 28th
+
+A group of plain-clothes police officers who fail to identify themselves as police surround and grab a protestor. After a brief struggle, protestor is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protestors from intervening and then the van drives away. The abductee's alleged crime was spraypainting over police cameras and graffiti.
+
+tags: arrest, abuse-of-power, protestor
+
+id: ny-newyorkcity-100
+
+**Links**
+
+* https://twitter.com/michellelhooq/status/1288253381883113475
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hzrn57/wtf_nyc_just_a_little_while_ago/
+* https://twitter.com/Naddleez/status/1288232816451432453
+* https://www.instagram.com/p/CDM7z3GJnxP/?igshid=1fi9w19fe6k5s
+* https://twitter.com/protest_nyc/status/1288354104507498497?s=20
+* https://twitter.com/KyleLandrySax/status/1288303998395715585
+* https://twitter.com/NYPDDetectives/status/1288493685571821568
+* https://www.ny1.com/nyc/all-boroughs/news/2020/07/29/video-shows-protester-being-pulled-into-unmarked-van-by-nypd
 
 
 ## Rochester

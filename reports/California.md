@@ -423,17 +423,17 @@ id: ca-losangeles-8
 
 ### Man shot in the head with deterrent rounds, is sent to hospital | May 31st
 
-Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head.
+Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head. The LAPD has released body cam footage confirming he was shot in the head with a bean bag round while his hands were up. The LAPD says it is investigating the incident.
 
-tags: projectile, shoot, protestor
+tags: projectile, shoot, protestor, bean-bag
 
 id: ca-losangeles-9
 
 **Links**
 
-* https://twitter.com/LowkeySinistra/status/1267109420955086848
-* https://twitter.com/LowkeySinistra/status/1267871561714790401
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
+* https://www.latimes.com/california/story/2020-07-31/video-protester-had-hands-up-when-lapd-officer-shot
+* https://www.youtube.com/watch?v=msNyNyw0JUM
 
 
 ### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
@@ -763,6 +763,33 @@ id: ca-losangeles-40
 * https://www.instagram.com/p/CCxPb28hRdN/
 
 
+### Violent arrests after police initiate scuffle | July 25th
+
+Footage shows police approaching a protestor in the street and shoving her to the ground, knocking the phone out of her hand. As police continue to shove the protestor, another runs into frame and knocks an officer to the ground. More police then join to arrest the two protestors. Two other protestors come into frame, yelling at police. One is thrown to the ground and knelt on by an officer to arrest her. The other is shoved over a vertical ring used to lock bikes. She is then repeatedly shoved as she tries to stand and approach her fellow protestor on the ground.
+
+tags: shove, arrest, strike, baton, property-destruction, protestor
+
+id: ca-losangeles-43
+
+**Links**
+
+* https://twitter.com/KTLA/status/1287241665703374848
+* https://ktla.com/news/local-news/hundreds-of-protesters-gather-in-downtown-l-a-as-some-march-onto-101-freeway/
+
+
+### Police officer fires riot gun at protestor; other officers then fire as well | July 25th
+
+LAPD stand-off with protesters during a Portland Solidarity march on 7/25. Officers advance towards protestors, who slowly back away. One officer fires a riot gun at protestors without apparent provocation and at a dangerously close range. Several officers then begin firing at protestors. Protestors throw small projectiles in response.
+
+tags: shoot, projectile, protestor
+
+id: ca-losangeles-44
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
@@ -824,6 +851,19 @@ id: ca-oakland-3
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
+### Protestor singled out, chased and arrested | July 26th
+
+Police gather around a protestor standing on a pedestrian median. He is singled out by police. He is threatened with arrest, then flees. A hissing sound can be heard prior to his flight, which may be pepper spray. Officers then chase, tackle, and arrest him. Motive for the arrest is unclear.
+
+tags: protestor, arrest, tackle
+
+id: ca-oakland-4
+
+**Links**
+
+* https://twitter.com/SarahBelleLin/status/1287321616636997632
+
+
 ## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
@@ -841,6 +881,19 @@ id: ca-riverside-1
 
 ## Sacramento
 
+### Man severely injured by tear gas and impact munitions | May 30th
+
+A man who said he was bringing snacks to protestors says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw. He is part of a lawsuit against the city, along with lawyer Danny Garza.
+
+tags: shoot, projectile, protestor, tear-gas
+
+id: ca-sacramento-6
+
+**Links**
+
+* https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+
+
 ### Police shoot protester in the head | May 30th
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
@@ -852,20 +905,36 @@ id: ca-sacramento-1
 **Links**
 
 * https://youtu.be/pRmBO34aXME
-* https://twitter.com/mynameschazz/status/1266978442722947072?s=21
+* https://twitter.com/mynameschazz/status/1266978442722947072
 
 
-### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | June 1st
+### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
 
-Sacramento law enforcement shoot protesters and then announce their assembly is unlawful.
+Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protestors have brought a lawsuit against the city of Sacramento.
 
-tags: shoot, projectile, protestor
+tags: shoot, projectile, protestor, legal-observer
 
 id: ca-sacramento-2
 
 **Links**
 
 * https://www.facebook.com/danny.garza.167/videos/10222535335080905/
+* https://www.abc10.com/article/news/local/sacramento/sacramento-police-sued-for-exessive-force-allegation/103-3ae82150-782c-4606-a5e5-6d25bb10bb00?fbclid=IwAR0ru-oqE9MEgTpBdSE81XM19qxsxngBjtjgavg0WPWG9-HnB3y6ft0DhGE
+* https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pd
+
+
+### Police fire tear gas and flashbangs without apparent cause | May 31st
+
+Footage shows protestors facing off against police. Without warning, police fire tear gas and flashbangs, causing protestors to flee.
+
+tags: flashbangs, tear-gas, protestor
+
+id: ca-sacramento-5
+
+**Links**
+
+* https://www.reddit.com/r/Sacramento/comments/gul234/last_night_sacramento_protesters_for_george_floyd/
+* https://www.youtube.com/watch?v=TSshaAoTuUw
 
 
 ### Police choke man and push woman filming event to the ground | June 1st
@@ -971,6 +1040,7 @@ id: ca-sanjose-1
 * https://www.reddit.com/r/PublicFreakout/comments/gtg2cb/cop_waits_in_excitement_like_its_a_game/
 * https://twitter.com/bowiezamudio/status/1266598285206106113
 * https://twitter.com/kakimeows/status/1266982771005616128
+* https://twitter.com/venomwithinher/status/1266826205833031680
 
 
 ### Officer puts knee on neck of protester | May 29th
@@ -1195,4 +1265,22 @@ id: ca-walnutcreek-2
 **Links**
 
 * https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
+
+
+## Whittier
+
+### Protestors violently arrested without apparent reason | July 29th
+
+Footage shows police grabbing a woman at a protest, forcing her to the ground and arresting her. A male protestor attempts to intervene and is arrested as well. The filmer states the victims were his sister and her boyfriend and provided continued updates on their status. She states that when she attempted to call the precinct, she was told that the arrestees had waived their rights and were sleeping and could not be woken up. They were released about 8 hours after being arrested. The filmer responded to a request from 2020PB stating that her sister has been charged with obstruction of justice, battery of an officer, and a crosswalk violation; her boyfriend has been charged with resisting arrest.
+
+tags: arrest, protestor
+
+id: ca-whittier-1
+
+**Links**
+
+* https://twitter.com/datLOUDchick/status/1288343247970906112
+* https://twitter.com/datLOUDchick/status/1288375164590125056
+* https://twitter.com/datLOUDchick/status/1288433203129094145
+* https://imgur.com/a/rF83zfJ
 

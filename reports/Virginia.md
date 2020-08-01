@@ -265,3 +265,77 @@ id: va-richmond-13
 * https://twitter.com/rva_charlie/status/1276741883516071938
 * https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
 
+
+### Police fire tear gas at protestors | June 26th
+
+Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protestors.
+
+tags: protestor, tear-gas
+
+id: va-richmond-14
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1287252197487648768
+
+
+### Police tear gas protestors | July 25th
+
+After a truck has been lit on fire, allegedly by protestors, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
+
+tags: protestor, tear-gas
+
+id: va-richmond-15
+
+**Links**
+
+* https://twitter.com/aeringle/status/1287225259356192769
+* https://twitter.com/aeringle/status/1287225570028400640
+* https://twitter.com/hannaheason_/status/1287225909037105152
+* https://twitter.com/hannaheason_/status/1287228239388258307
+
+
+### Police attempt to arrest press | July 25th
+
+Footage shows police grabbing two members of the press and detaining them. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protestors away. The journalists are eventually released.
+
+One of the journalists states that he was attempting to flush tear gas from his eyes when he was arrested.
+
+tags: journalist, grab, abuse-of-power
+
+id: va-richmond-16
+
+**Links**
+
+* https://twitter.com/JLJLovesRVA/status/1287242052284096513
+* https://twitter.com/edace2936/status/1287226623348137984
+
+
+### Reporter handcuffed and detained | July 26th
+
+Richmond police officers were clearing Monroe Park. A journalist was attempting to leave when he was detained and handcuffed by police, even though he had a press pass and repeatedly stated he was with the press. He states he was later released on the condition he did not return to the park that night.
+
+tags: journalist, abuse-of-power
+
+id: va-richmond-17
+
+**Links**
+
+* https://twitter.com/aeringle/status/1287576731658997760
+* https://twitter.com/aeringle/status/1287577232484061184
+* https://twitter.com/edace2936/status/1287574364490289152
+
+
+### Protestor arrested without probable cause, later released without charges | July 26th
+
+The filmer, a protestor, is standing on or near the sidewalk. Several officers approach him. The protestor says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protestor without charges.
+
+tags: protestor, arrest, abuse-of-power
+
+id: va-richmond-18
+
+**Links**
+
+* https://twitter.com/GoadGatsby/status/1287599473619861504
+* https://twitter.com/GoadGatsby/status/1287600241068449792
+

@@ -26,7 +26,7 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 ## Links
 
 **Ways to use our incident files:**
-* [JSON](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations-v2.json) / [CSV](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.csv) / [MD](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.md) API to build your own front end
+* [JSON](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations-v2.json) / [CSV](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.csv) / [MD](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.md) API to build your own front end. [Read more](https://github.com/2020PB/police-brutality/tree/data_build)
 * [RESTful API](https://www.github.com/949mac/846-backend/) which extends the official Data API through multiple end-points, including `/incidents` with geolocation data, `evidence` inclusion with direct-links to streamable mp4 videos, `/legislators` with House and Senate member contacts, and server-side filtering
 * [REST API](https://github.com/nickatnight/policebrutality.io) that points to backed-up video files
 
@@ -86,6 +86,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Oregon](./reports/Oregon.md)
   * [Pennsylvania](./reports/Pennsylvania.md)
   * [South Carolina](./reports/South%20Carolina.md)
+  * [South Dakota](./reports/South%20Dakota.md)
   * [Tennessee](./reports/Tennessee.md)
   * [Texas](./reports/Texas.md)
   * [Utah](./reports/Utah.md)
