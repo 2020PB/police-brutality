@@ -1519,3 +1519,25 @@ id: ny-rochester-1
 
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
+
+## Saratoga Springs
+
+### Police shoot at and arrest Black Lives Matter protestors | July 30th
+
+At protests between Back the Blue and Black Lives Matter protests, mounted units were deployed to keep Back the Blue and BLM counter-protestors apart. BLM protestors were arrested and shot at with impact munitions, allegedly pepper balls. Some protestors allege tear gas was deployed but this cannot be confirmed.
+
+Footage shows the incident begun by a scuffle between a protestor and officers. It is unclear what provoked this struggle. After this, police began firing at and shoving protestors, making several arrests.
+
+SSPD alleges that neither tear gas nor pepper balls were deployed.
+
+tags: shoot, projectile, protestor, arrest
+
+id: ny-saratogasprings-1
+
+**Links**
+
+* [2:45](https://www.instagram.com/tv/CDSXj7opmyw/)
+* https://www.instagram.com/p/CDSdX-_nJ5h/
+* https://www.instagram.com/p/CDSgQWElLFg/
+* [1:15](https://www.instagram.com/tv/CDStYR-nC0t/)
+
