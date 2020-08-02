@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-02T20:51:36.729610+00:00
+UPDATED AT: 2020-08-02T20:51:46.154565+00:00
 
 
 # Alabama
@@ -11426,6 +11426,21 @@ id: tn-nashville-5
 **Links**
 
 * https://twitter.com/brotherjones_/status/1280211300082122758
+
+
+### Protesters shoved down stairs and arrested | July 31st
+
+After being ordered to leave Capitol Hill Plaza, protesters leaving the plaza were shoved down stairs and subsequently arrested.
+
+tags: push shove, arrest, protestor
+
+id: tn-nashville-6
+
+**Links**
+
+* https://twitter.com/plaza_tn/status/1289065103556587520
+* https://twitter.com/plaza_tn/status/1289066779541745665
+* https://twitter.com/plaza_tn/status/1289071023896367104
 
 
 
