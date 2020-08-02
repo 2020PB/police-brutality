@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-02T20:51:28.329629+00:00
+UPDATED AT: 2020-08-02T20:51:36.729610+00:00
 
 
 # Alabama
@@ -2023,6 +2023,23 @@ id: co-denver-24
 * https://www.denverpost.com/2020/07/19/pro-police-rally-denver-cific-center-counter-protest/
 * https://twitter.com/ShellyBradbury/status/1284980898958540803
 * https://twitter.com/mattsebastian/status/1285049239937024000
+
+
+### Denver Public School official struck in head | July 29th
+
+At a protest against the clearance of a homeless encampent, police pushed protestors out of a park and stopped them just outside the gate. Protestors argued with police, asking police to allow the homeless folks to return for their belongings. During this argument, Tay Anderson, a board member for Denver Public Schools, was struck in the back of the head and was hospitalized. Police claim Anderson "lost his footing."
+
+tags: politician, strike
+
+id: co-denver-26
+
+**Links**
+
+* https://www.denverpost.com/2020/07/29/tay-anderson-police-protest-hospital/
+* https://www.reddit.com/r/PublicFreakout/comments/i07lqt/denver_public_school_board_director_tay_anderson/
+* https://www.facebook.com/100002944669197/videos/3143727032402088/
+* https://twitter.com/IvanRodriguezTV/status/1288529467292385282
+* https://twitter.com/jquynhreports/status/1288527389253865472
 
 
 
