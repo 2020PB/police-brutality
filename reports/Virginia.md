@@ -339,3 +339,16 @@ id: va-richmond-18
 * https://twitter.com/GoadGatsby/status/1287599473619861504
 * https://twitter.com/GoadGatsby/status/1287600241068449792
 
+
+### Encapment serving food and water dismantled; protestor arrested and tased | July 31st
+
+Police arrived at a group of protestors who gave out food and water to remove the protestors' tents. During the removal, a protestor was arrested, held on the ground, and tased repeatedly. Charges are unclear.
+
+tags: protestor, taser, tase, arrest
+
+id: va-richmond-19
+
+**Links**
+
+* https://twitter.com/RVAdirt/status/1288825356305207296
+* https://imgur.com/Ye9Sy5Y
