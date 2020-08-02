@@ -135,3 +135,18 @@ id: tn-nashville-5
 
 * https://twitter.com/brotherjones_/status/1280211300082122758
 
+
+### Protesters shoved down stairs and arrested | July 31st
+
+After being ordered to leave Capitol Hill Plaza, protesters leaving the plaza were shoved down stairs and subsequently arrested.
+
+tags: push shove, arrest, protestor
+
+id: tn-nashville-6
+
+**Links**
+
+* https://twitter.com/plaza_tn/status/1289065103556587520
+* https://twitter.com/plaza_tn/status/1289066779541745665
+* https://twitter.com/plaza_tn/status/1289071023896367104
+
