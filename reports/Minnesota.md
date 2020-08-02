@@ -18,7 +18,7 @@ id: mn-minneapolis-21
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
 
-tags: abuse-of-power, arrest, protestor
+tags: abuse-of-power, arrest, protester
 
 id: mn-minneapolis-28
 
@@ -31,7 +31,7 @@ id: mn-minneapolis-28
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-tags: stun-grenade, rubber-bullet, tear-gas, protestor
+tags: stun-grenade, rubber-bullet, tear-gas, protester
 
 id: mn-minneapolis-14
 
@@ -74,7 +74,7 @@ id: mn-minneapolis-20
 
 While sitting in their cars, the policemen proceed to pepper spray the protestors in a drive-by fashion
 
-tags: drive, vehicle, pepper-spray, spray, protestor
+tags: drive, vehicle, pepper-spray, spray, protester
 
 id: mn-minneapolis-3
 
@@ -334,7 +334,7 @@ id: mn-minneapolis-13
 
 Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
-tags: vehicle, drive, spray, pepper-spray, protestor
+tags: vehicle, drive, spray, pepper-spray, protester
 
 id: mn-minneapolis-17
 
@@ -375,7 +375,7 @@ id: mn-minneapolis-19
 
 Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
 
-tags: kick, protestor
+tags: kick, protester
 
 id: mn-minneapolis-30
 

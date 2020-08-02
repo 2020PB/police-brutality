@@ -4,7 +4,7 @@
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
-tags: tackle, punch, protestor
+tags: tackle, punch, protester
 
 id: mi-detroit-4
 
@@ -17,7 +17,7 @@ id: mi-detroit-4
 
 Riot police charge peaceful protestors without warning. The filming protestor and numerous others are beaten with riot shields.
 
-tags: tackle, shield, beat, protestor
+tags: tackle, shield, beat, protester
 
 id: mi-detroit-5
 
@@ -30,7 +30,7 @@ id: mi-detroit-5
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
-tags: threaten, shove, protestor
+tags: threaten, shove, protester
 
 id: mi-detroit-1
 
@@ -72,7 +72,7 @@ id: mi-detroit-3
 
 Police charge protestors. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
 
-tags: throw, punch, knee, arrest, protestor
+tags: throw, punch, knee, arrest, protester
 
 id: mi-detroit-6
 
@@ -106,7 +106,7 @@ The footage becomes blurry as it appears that police strike the reporter, who re
 
 The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted.
 
-tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-destruction, protestor
+tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-destruction, protester
 
 id: mi-detroit-7
 
@@ -124,7 +124,7 @@ The use of LRADs is a subject of much contention, with frequent reports of perma
 
 The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests.
 
-tags: lrad, protestor
+tags: lrad, protester
 
 id: mi-detroit-8
 
@@ -137,7 +137,7 @@ id: mi-detroit-8
 
 A police cruiser begins to drive into a line of protestors. Protestors continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protestor onto the hood, and drives away.
 
-tags: vehicle, protestor
+tags: vehicle, protester
 
 id: mi-detroit-9
 
@@ -150,7 +150,7 @@ id: mi-detroit-9
 
 A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protestors were dispersed using shields and batons. Protestors retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
-tags: tear-gas, protestor, shield, baton, arrest, choke, tear-gas, tear-gas-canister
+tags: tear-gas, protester, shield, baton, arrest, choke, tear-gas, tear-gas-canister
 
 id: mi-detroit-10
 
@@ -166,7 +166,7 @@ id: mi-detroit-10
 
 A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a tear-gas canister is shot by a different officer directly into the man's head.
 
-tags: spray, shoot, pepper-spray, tear-gas, tear-gas-canister, protestor
+tags: spray, shoot, pepper-spray, tear-gas, tear-gas-canister, protester
 
 id: mi-grandrapids-1
 
@@ -184,7 +184,7 @@ Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
 Footage shows police have hidden badge numbers and are not wearing body cams.
 
-tags: shove, push, shield, hide-badge, body-cam, protestor
+tags: shove, push, shield, hide-badge, body-cam, protester
 
 id: mi-grandrapids-2
 
@@ -202,7 +202,7 @@ The arresting officer appears to force the man to his knees before the other off
 
 Two different women, each in different videos, are shown falling or fallen over as a result of the shoving and pulling.
 
-tags: shove, push, arrest, protestor
+tags: shove, push, arrest, protester
 
 id: mi-grandrapids-3
 
@@ -219,7 +219,7 @@ id: mi-grandrapids-3
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
-tags: shoot, pepper-ball, tear-gas, tear-gas-canister, protestor
+tags: shoot, pepper-ball, tear-gas, tear-gas-canister, protester
 
 id: mi-kalamazoo-1
 
@@ -234,7 +234,7 @@ id: mi-kalamazoo-1
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 
-tags: tear-gas, arrest, protestor
+tags: tear-gas, arrest, protester
 
 id: mi-kalamazoo-2
 

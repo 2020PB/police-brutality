@@ -17,7 +17,7 @@ id: ut-saltlakecity-1
 
 The man on the ground was shot with a beanbag, resulting in heavy damage.
 
-tags: shoot, bean-bag, protestor
+tags: shoot, bean-bag, protester
 
 id: ut-saltlakecity-2
 
@@ -30,7 +30,7 @@ id: ut-saltlakecity-2
 
 Man standing in a crowd of protestors was struck with a tear gas canister.
 
-tags: tear-gas, shoot, tear-gas-canister, protestor
+tags: tear-gas, shoot, tear-gas-canister, protester
 
 id: ut-saltlakecity-4
 
@@ -44,7 +44,7 @@ id: ut-saltlakecity-4
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
-tags: push, tackle, arrest, beat, knee, protestor
+tags: push, tackle, arrest, beat, knee, protester
 
 id: ut-saltlakecity-3
 
@@ -59,7 +59,7 @@ In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Ca
 
 Footage from multiple angles shows police using shields and batons to strike peaceful protestors gathered in the street outside the DA's office.
 
-tags: protestor, beat, strike, shield, baton
+tags: protester, beat, strike, shield, baton
 
 id: ut-saltlakecity-5
 

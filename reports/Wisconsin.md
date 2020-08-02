@@ -4,7 +4,7 @@
 
 Ten seconds into the video, in the bottom-left corner, an officer sprays a protestor who is walking backwards with his arms raised (presumably with mace or pepper spray).
 
-tags: protestor, spray
+tags: protester, spray
 
 id: wi-madison-1
 
@@ -19,7 +19,7 @@ A group of protestors are standing on a road paved over for pedestrian-only traf
 
 The journalist filming is told he is not allowed to remain, despite identifying himself as press.
 
-tags: pepper-spray, journalist, protestor
+tags: pepper-spray, journalist, protester
 
 id: wi-madison-2
 
@@ -35,7 +35,7 @@ id: wi-madison-2
 
 Protesters were congregating at the intersection of North 6th Street and McKinley Avenue. A group of officers on bikes rode up to them. Two officers on bikes collided with one another; one officer fell to the ground. Officers then tackled a protestor (for reasons unknown) and attempted to take him into custody, with one officer placing a knee on his neck or head for one or two minutes. No officers intervened to get the knee off the man's neck; police formed a barrier to screen the arrest from other protestors and people filming. At the same time, police arrested one other man and hit a woman in the collarbone -- again, for reasons unknown. The man who had an officer's knee on his neck has sued.
 
-tags: arrest, bike, knee, knee-on-neck, protestor, strike, tackle
+tags: arrest, bike, knee, knee-on-neck, protester, strike, tackle
 
 id: wi-milwaukee-1
 
@@ -56,7 +56,7 @@ Police claim they used force to disperse the crowd after rocks and glass were th
 
 NOTE: this incident immediately follows wi-milwaukee-2. Because the misconduct involved is substantially different, it has been given its own incident.
 
-tags: gas, protestor, rubber-bullet, shoot, tear-gas
+tags: gas, protester, rubber-bullet, shoot, tear-gas
 
 id: wi-milwaukee-2
 

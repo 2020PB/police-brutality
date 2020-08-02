@@ -4,7 +4,7 @@
 
 Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
-tags: arrest, protestor
+tags: arrest, protester
 
 id: nv-lasvegas-3
 
@@ -17,7 +17,7 @@ id: nv-lasvegas-3
 
 Officer line begins to advance towards protestors, shoving numerous protestors to the ground as they do.
 
-tags: shove, throw, strike, protestor
+tags: shove, throw, strike, protester
 
 id: nv-lasvegas-4
 
@@ -30,7 +30,7 @@ id: nv-lasvegas-4
 
 LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
-tags: journalist, threaten, arrest, strike, shove, kick, protestor
+tags: journalist, threaten, arrest, strike, shove, kick, protester
 
 id: nv-lasvegas-2
 
@@ -43,7 +43,7 @@ id: nv-lasvegas-2
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
 
-tags: arrest, inhumane-treatment, protestor
+tags: arrest, inhumane-treatment, protester
 
 id: nv-lasvegas-1
 
@@ -57,7 +57,7 @@ id: nv-lasvegas-1
 
 A police vehicle stops at an intersection; protestors are gathered on the sidewalk nearby. Several officers jump out of the car and rush onto the sidewalk, shoving and chasing protestors.
 
-tags: vehicle, shove, arrest, protestor
+tags: vehicle, shove, arrest, protester
 
 id: nv-lasvegas-5
 
@@ -71,7 +71,7 @@ id: nv-lasvegas-5
 
 Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protestors. They can be seen throwing multiple individuals to the ground and kicking one.
 
-tags: shove, tackle, throw, kick, protestor
+tags: shove, tackle, throw, kick, protester
 
 id: nv-lasvegas-6
 

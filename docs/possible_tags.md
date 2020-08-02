@@ -45,7 +45,7 @@ politician
 pregnant
 projectile
 property-destruction
-protestor
+protester
 punch
 push
 racial-profiling
@@ -86,7 +86,7 @@ medic
 person-with-disability
 politician
 pregnant
-protestor
+protester
 racial-profiling
 ```
 

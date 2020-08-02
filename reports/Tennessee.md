@@ -12,7 +12,7 @@ The fourth clip shows protestors attempt to recover their belongings while polic
 
 An article from the Chattanoogan states Sheriffs threw the tear gas, not Chattanooga police.
 
-tags: protestor, tear-gas, arrest
+tags: protester, tear-gas, arrest
 
 id: tn-chattanooga-1
 
@@ -31,7 +31,7 @@ id: tn-chattanooga-1
 
 A group of police officers targeted and swarmed a woman and pushed her to the ground, using excessive force.
 
-tags: beat, arrest, shield, baton, strike, shove, protestor
+tags: beat, arrest, shield, baton, strike, shove, protester
 
 id: tn-memphis-1
 
@@ -46,7 +46,7 @@ id: tn-memphis-1
 
 Police fire tear gas at a small group of peaceful protestors by the entrance to MTSU in Murfree. Police claim protestors were blocking traffic, which additional footage supports. However, the video in question shows continual deployment of tear gas after protestors moved off the road.
 
-tags: tear-gas, protestor
+tags: tear-gas, protester
 
 id: tn-murfreesboro-1
 
@@ -63,7 +63,7 @@ id: tn-murfreesboro-1
 
 Police shut down a protestor station on Capitol Hill in Nashville, confiscating food, water, medical supplies, personal belongings and signs. Caption states that police shoved protestors trying to keep hold of their belongings.
 
-tags: property-destruction, abuse-of-power, threaten, protestor
+tags: property-destruction, abuse-of-power, threaten, protester
 
 id: tn-nashville-1
 
@@ -77,7 +77,7 @@ id: tn-nashville-1
 
 In an early morning raid, Nashville police confiscated water, food and other supplies shared among protestors. In addition, officers harassed resting protestors, threatening to take their belongings and arrest them.
 
-tags: property-destruction, abuse-of-power, threaten, protestor
+tags: property-destruction, abuse-of-power, threaten, protester
 
 id: tn-nashville-2
 
@@ -95,7 +95,7 @@ He states he was charged with "criminal trespassing" and "inciting a riot," alth
 
 Protestors believe Jones was targeted because of his prominence in the protests.
 
-tags: arrest, abuse-of-power, protestor
+tags: arrest, abuse-of-power, protester
 
 id: tn-nashville-3
 
@@ -113,7 +113,7 @@ Justin Jones, a prominent activist in Nashville, states that protestors were arr
 
 He also shows footage of extremely tight zip-ties, stating that an arrestee has suffered ongoing numbness in their hands since release.
 
-tags: arrest, abuse-of-power, protestor, zip-tie
+tags: arrest, abuse-of-power, protester, zip-tie
 
 id: tn-nashville-4
 
@@ -127,7 +127,7 @@ id: tn-nashville-4
 
 In footage provided by a prominent Nashville activist, state troopers drag protestors down the steps of the Capitol building. Many troopers can be seen kneeling on protestors, both on the flat pavement and on the steps.
 
-tags: arrest, protestor, knee
+tags: arrest, protester, knee
 
 id: tn-nashville-5
 

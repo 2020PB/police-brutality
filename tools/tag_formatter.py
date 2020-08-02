@@ -15,7 +15,7 @@ TAG_OVERRIDES = {
     "shot": "shoot",
     "kneel": "knee",
     "pepper-bullet": "pepper-ball",
-    "protester": "protestor",
+    "protestor": "protester",
 }
 
 WNL = WordNetLemmatizer()

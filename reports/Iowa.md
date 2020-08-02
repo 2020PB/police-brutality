@@ -4,7 +4,7 @@
 
 Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown.
 
-tags: tear-gas, mace, spray, protestor
+tags: tear-gas, mace, spray, protester
 
 id: ia-desmoines-2
 
@@ -32,7 +32,7 @@ id: ia-desmoines-3
 
 Footage shows peaceful protestors chanting in the street. Around 1 minute, a tight group of police begins launching tear gas and pepper-spraying indiscriminately. Police advance as protestors flee. Footage shows numerous officers using shields and batons to strike a protestor lying on the street. In addition, an officer shoves the filmer, who is standing on the sidewalk.
 
-tags: tear-gas, pepper-spray, spray, protestor, beat, strike, shield, baton, shove
+tags: tear-gas, pepper-spray, spray, protester, beat, strike, shield, baton, shove
 
 id: ia-desmoines-11
 
@@ -60,7 +60,7 @@ id: ia-desmoines-7
 
 Footage shows police and peaceful protestors on opposite sides of an active street. As some protestors step into the street, police fire gas. The filmer states it is tear gas, but a comment states that it is smoke. Regardless, police catch multiple bystander cars in the gas, forcing them to move.
 
-tags: protestor, bystander, gas
+tags: protester, bystander, gas
 
 id: ia-desmoines-12
 
@@ -100,7 +100,7 @@ id: ia-desmoines-1
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
 
-tags: arrest, racial-profiling, protestor
+tags: arrest, racial-profiling, protester
 
 id: ia-desmoines-6
 
@@ -113,7 +113,7 @@ id: ia-desmoines-6
 
 "Des Moines police approached The Blazing Saddle, a gay bar in Des Moines’ East Village neighborhood, and searched the premises — apparently without a warrant. Video from a security camera made public on Facebook shows officers in riot gear converging suddenly on the bar at approximately 11:45 p.m. and detaining those gathered outside." - The Iowa Inquirer
 
-tags: arrest, lgbtq+, protestor
+tags: arrest, lgbtq+, protester
 
 id: ia-desmoines-5
 
@@ -130,7 +130,7 @@ id: ia-desmoines-5
 
 Footage shows two protestors being arrested. Four police are making the arrests, two kneeling on each protestor. A woman filming is harassed by another officer.
 
-tags: arrest, knee, abuse-of-power, protestor
+tags: arrest, knee, abuse-of-power, protester
 
 id: ia-desmoines-10
 
@@ -153,7 +153,7 @@ After this, footage cuts to a shot of the filmer turns the camera on herself and
 
 Additional links from a reporter discuss the tactics used by police to intimidate and harass protestors. They also capture the aftermath of the pepper-spraying.
 
-tags: pepper-spray, spray, shove, shield, push, child, protestor
+tags: pepper-spray, spray, shove, shield, push, child, protester
 
 id: ia-desmoines-9
 
@@ -172,7 +172,7 @@ Black Lives Matter advocates gathered at the Capitol to lobby for the governor t
 
 White protestors were inside the Capitol, police identified some of them claimed to have vandalized police car in the past, and arrests were made inside the Capitol for those individuals. However, the arrested individuals declined the allegations. The protestors followed the police outside the Capitol, and one of the protestors blocked their path and later the crowd tried to pull the arrestees from the custody of the police officers. That is when more crowds and police started to get involved. Police used pepper spray to help disperse the crowd and arrested 17 people, including two juveniles.
 
-tags: spray, pepper-spray, tackle, beat, arrest, child, protestor
+tags: spray, pepper-spray, tackle, beat, arrest, child, protester
 
 id: ia-desmoines-8
 
@@ -196,7 +196,7 @@ Police continued to deploy tear gas and flashbangs in the area where Iowa city E
 
 According to the mayor, Iowa State Patrol was in command of the scene (though some Iowa City Police were present) and it was determined that letting the protest onto I-80 was too dangerous.
 
-tags: tear-gas, protestor, stun-grenade, medic
+tags: tear-gas, protester, stun-grenade, medic
 
 id: ia-iowacity-1
 

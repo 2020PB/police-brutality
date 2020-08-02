@@ -10,7 +10,7 @@ Police fired a sustained barrage of tear gas for approximately one minute while 
 
 Later footage shows police continuing to fire tear gas down the street as students walk past with their hands up, obeying police orders.
 
-tags: tear-gas, protestor
+tags: tear-gas, protester
 
 id: ga-athens-1
 
@@ -26,7 +26,7 @@ id: ga-athens-1
 
 On May 29th, an officer slams a woman on to the ground, breaking her clavicle. The incident took place near Lenox Square mall in the Buckhead area of Atlanta.
 
-tags: tackle, throw, shove, protestor
+tags: tackle, throw, shove, protester
 
 id: ga-atlanta-1
 
@@ -39,7 +39,7 @@ id: ga-atlanta-1
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
-tags: shove, bike, protestor
+tags: shove, bike, protester
 
 id: ga-atlanta-2
 
@@ -71,7 +71,7 @@ id: ga-atlanta-3
 
 Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
 
-tags: punch, strike, arrest, knee, tackle, protestor
+tags: punch, strike, arrest, knee, tackle, protester
 
 id: ga-atlanta-4
 
@@ -98,7 +98,7 @@ id: ga-atlanta-5
 
 Police shove and shoot protesters with rubber bullets. One man is shot in the head; he is seen being carried away unconscious.
 
-tags: shoot, shove, rubber-bullet, protestor
+tags: shoot, shove, rubber-bullet, protester
 
 id: ga-atlanta-6
 
@@ -114,7 +114,7 @@ id: ga-atlanta-6
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
 
-tags: punch, tase, protestor
+tags: punch, tase, protester
 
 id: ga-lawrenceville-1
 
@@ -134,7 +134,7 @@ In a later statement, the sheriff said he would continue to charge protestors ca
 
 In the background of the second clip, a police cruiser marked "Valdosta" can be seen, establishing the location.
 
-tags: abuse-of-power, choke, protestor
+tags: abuse-of-power, choke, protester
 
 id: ga-valdosta-1
 
@@ -149,7 +149,7 @@ id: ga-valdosta-1
 
 In a continuation of events from June 3rd (ga-valdosta-1), sheriff Ashley Paulk arrested a woman carrying a sign suggestive of a "lewd act" between Paulk and Donald Trump, fulfilling his threat to arrest protestors carrying signs containing profanity. He cited a Georgia law allowing misdemeanor charges for profanity in the presence of an individual under 14 years of age, despite [U.S. Supreme Court cases](https://scholar.google.com/scholar_case?case=7398433541275578772&q=cohen+v.+california&hl=en&as_sdt=3,39) and [Georgia Supreme Court cases](https://law.justia.com/cases/georgia/supreme-court/2017/s17a1040.html) exonerating individuals charged with similar crimes.
 
-tags: abuse-of-power, arrest, protestor
+tags: abuse-of-power, arrest, protester
 
 id: ga-valdosta-2
 
