@@ -436,3 +436,4 @@ id: co-denver-26
 * https://www.facebook.com/100002944669197/videos/3143727032402088/
 * https://twitter.com/IvanRodriguezTV/status/1288529467292385282
 * https://twitter.com/jquynhreports/status/1288527389253865472
+
