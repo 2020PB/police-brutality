@@ -1209,7 +1209,7 @@ Six officers fired 55 bullets in 3.5 seconds; police investigation determined th
 
 Vallejo PD has posted composite video containing body cam footage, radio chatter with Dispatch and prior footage of Walgreen's security cameras being destroyed. This footage shows a car with alleged looters peeling out of the Walgreens as police arrive; this car strikes an unmarked police vehicle and continues. Police open the doors of their unmarked van and fire on Monterrosa immediately and without warning. They state that they believed Monterrosa was armed, thought it turned out to be only a hammer.
 
-tags: shoot, real-bullet, death
+tags: shoot, live-round, death
 
 id: ca-vallejo-1
 

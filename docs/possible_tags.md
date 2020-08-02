@@ -32,6 +32,7 @@ knee
 knee-on-neck
 legal-observer
 lgbtq+
+live-round
 lrad
 mace
 marking-round
@@ -49,7 +50,6 @@ protester
 punch
 push
 racial-profiling
-real-bullet
 rubber-bullet
 shield
 shoot
@@ -104,6 +104,7 @@ headlock
 horse
 kick
 knee-on-neck
+live-round
 lrad
 mace
 marking-round
@@ -113,7 +114,6 @@ pepper-spray
 policecar
 projectile
 punch
-real-bullet
 rubber-bullet
 shield
 stun-grenade

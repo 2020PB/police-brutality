@@ -16,6 +16,7 @@ TAG_OVERRIDES = {
     "kneel": "knee",
     "pepper-bullet": "pepper-ball",
     "protestor": "protester",
+    "real-bullet": "live-round",
 }
 
 WNL = WordNetLemmatizer()

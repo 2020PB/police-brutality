@@ -105,7 +105,7 @@ id: ky-louisville-3
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
-tags: death, body-cam, real-bullet, pepper-ball, bystander
+tags: death, body-cam, live-round, pepper-ball, bystander
 
 id: ky-louisville-6
 
