@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-01T04:12:40.050454+00:00
+UPDATED AT: 2020-08-02T20:44:36.188804+00:00
 
 
 # Alabama
@@ -6430,6 +6430,19 @@ id: nc-charlotte-3
 **Links**
 
 * [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
+
+
+### Police shove and pepper spray protestors | July 25th
+
+Police separated groups of Back the Blue and Defund the Police protesters. Police shoved Defund the Police protesters backwards with their bikes. Protesters then shove a police officer's bike back. The officer then discharges pepper spray at numerous protesters.
+
+tags: shove, bike, pepper-spray, spray
+
+id: nc-charlotte-4
+
+**Links**
+
+* https://www.wbtv.com/2020/07/25/protesters-supporting-back-blue-defund-police-confront-marshall-park/
 
 
 ## Gastonia
