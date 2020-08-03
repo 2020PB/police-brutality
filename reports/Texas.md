@@ -234,6 +234,33 @@ id: tx-austin-15
 * https://twitter.com/greg_doucette/status/1284497853843415047
 
 
+### Police shove and pepper spray protesters | August 1st
+
+Footage shows police surrounding protesters on the sidewalk. Police use bikes to hem protesters in and shove them. Police also discharge pepper spray at protesters without apparent justification. Police also arrest several protesters on the sidewalk. Some protesters attempt to grab onto the arrestees and are thrown aside by officers.
+
+tags: protester, shove, bike, push, pepper-spray, spray, arrest
+
+id: tx-austin-16
+
+**Links**
+
+* https://twitter.com/CandiceBernd/status/1289717781395472384
+* https://twitter.com/CandiceBernd/status/1289718586789986304
+
+
+### Police push protesters with horses | August 1st
+
+Footage shows a small group of mounted officers riding into a group of protesters gathered in the street. The officers use their horses to shove protesters aside. No protesters were trampled underhoof, but the justification for escalation is unclear.
+
+tags: protester, push, shove, horse
+
+id: tx-austin-17
+
+**Links**
+
+* https://twitter.com/CandiceBernd/status/1289734363933028352
+
+
 ## Baytown
 
 ### Police officer tackles and knees man on the ground | June 2nd
