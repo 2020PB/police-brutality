@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-02T20:51:46.154565+00:00
+UPDATED AT: 2020-08-03T00:48:17.111414+00:00
 
 
 # Alabama
@@ -820,6 +820,20 @@ id: ca-losangeles-28
 * https://twitter.com/jkishore/status/1267216022634999808
 
 
+### Police beat and pepper spray protesters | May 31st
+
+Protester who repeatedly says he cannot see is shoved by an officer with a baton. The filmer yells at the officer that the protester is having trouble seeing. The officer pepper sprays the filmer.
+
+tags: shove, strike, arrest, pepper-spray, spray, protester
+
+id: ca-losangeles-45
+
+**Links**
+
+* https://twitter.com/r0seghoul/status/1268729811066740737
+* https://www.tiktok.com/@laurenxorose/video/6833031215541521669
+
+
 ### Police shoot rubber bullets at two peaceful protestors | June 1st
 
 Two peaceful protestors are standing in an empty street.  Dozens of police officers move forward and the protestors are shot by rubber bullets fired from officers.
@@ -1101,6 +1115,20 @@ id: ca-losangeles-44
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
+
+
+### Man filming arrests is thrown to the ground | July 31st
+
+A man filming protesters being arrested is told by officers conflicting places to stand. One officer then shoves him to the ground and tells him to back up.
+
+tags: shove, protester, push
+
+id: ca-losangeles-46
+
+**Links**
+
+* https://twitter.com/chadloder/status/1289385606099812352
+* https://twitter.com/chadloder/status/1289395335211540481
 
 
 ## Norco
