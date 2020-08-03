@@ -3496,7 +3496,7 @@ id: or-portland-225
 * https://twitter.com/TheRealCoryElia/status/1289789570947543040
 
 
-### Officer shoots at protestors without apparent cause | August 1st
+### Police slash journalist's tires | August 1st
 
 A parked car attempts to pull out and drive away. OFficers slash the car's tires. The woman driving the car is wearing a helmet and PRESS shirt.
 
@@ -3508,6 +3508,32 @@ id: or-portland-226
 
 * https://twitter.com/hungrybowtie/status/1289793915332079617
 * [2:00](https://www.pscp.tv/w/1MnGndnYllExO)
+
+
+### Police charge at protesters | August 1st
+
+After pushing protesters into residential streets, police again charge at protesters, shoving many to the ground.
+
+tags: protester, shove, push
+
+id: or-portland-227
+
+**Links**
+
+* https://github.com/2020PB/police-brutality/issues/1270
+
+### Journalist shoved and pepper sprayed | August 1st
+
+When police rush at protesters, a jornalist is shoved into the side of a car and pepper sprayed.
+
+tags: journalist, shove, push, pepper-spray, spray
+
+id: or-portland-228
+
+**Links**
+
+https://twitter.com/FancyJenkins/status/1289808596243374082
+https://twitter.com/hungrybowtie/status/1289807143961427970
 
 
 ## Salem
