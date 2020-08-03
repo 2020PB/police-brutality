@@ -3522,23 +3522,21 @@ id: or-portland-227
 
 * https://github.com/2020PB/police-brutality/issues/1270
 
-### Journalist shoved and pepper sprayed | August 1st
+
+## Salem
+
+### Before firing tear gas, Salem PD warns white armed men | June 4th
 
 When police rush at protesters, a jornalist is shoved into the side of a car and pepper sprayed.
 
-tags: journalist, shove, push, pepper-spray, spray
 
-id: or-portland-228
 
-**Links**
 
 https://twitter.com/FancyJenkins/status/1289808596243374082
 https://twitter.com/hungrybowtie/status/1289807143961427970
 
 
-## Salem
 
-### Before firing tear gas, Salem PD warns white armed men | June 4th
 
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
