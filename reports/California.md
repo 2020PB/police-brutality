@@ -508,11 +508,11 @@ id: ca-losangeles-28
 * https://twitter.com/jkishore/status/1267216022634999808
 
 
-### Police beat and pepper spray protestors | May 31st
+### Police beat and pepper spray protesters | May 31st
 
-Protestor who repeatedly says he cannot see is shoved by an officer with a baton. The filmer yells at the officer that the protestor is having trouble seeing. The officer pepper sprays the filmer.
+Protester who repeatedly says he cannot see is shoved by an officer with a baton. The filmer yells at the officer that the protester is having trouble seeing. The officer pepper sprays the filmer.
 
-tags: shove, strike, arrest, pepper-spray, spray
+tags: shove, strike, arrest, pepper-spray, spray, protester
 
 id: ca-losangeles-45
 
@@ -807,9 +807,9 @@ id: ca-losangeles-44
 
 ### Man filming arrests is thrown to the ground | July 31st
 
-A man filming protestors being arrested is told by officers conflicting places to stand. One officer then shoves him to the ground and tells him to back up.
+A man filming protesters being arrested is told by officers conflicting places to stand. One officer then shoves him to the ground and tells him to back up.
 
-tags: shove, protestor, push
+tags: shove, protester, push
 
 id: ca-losangeles-46
 
