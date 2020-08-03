@@ -3479,7 +3479,7 @@ id: or-portland-213
 
 Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protestors, shoving many to the ground.
 
-One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well.
+One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well, including one on the ground. One woman is shoved as she tries to stand; she states repeatedly that she cannot see.
 
 tags: protester, tackle, shove, grab, strike, pepper-spray, spray
 
