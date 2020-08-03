@@ -3475,9 +3475,25 @@ id: or-portland-213
 * https://twitter.com/hungrybowtie/status/1288734291334053888
 
 
+### Journalist shvoed and pepper sprayed | August 1st
+
+When police rush at protesters, a journalist is shoved into the side of a car then pepper sprayed.
+
+tags: journalist, shove, pepper-spray, spray
+
+id: or-portland-224
+
+**Links**
+
+https://twitter.com/FancyJenkins/status/1289808596243374082
+https://twitter.com/hungrybowtie/status/1289807143961427970
+
+
 ### Police charge, tackle, and pepper spray protesters | August 1st
 
-Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protestors, shoving many to the ground. One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well.
+Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protestors, shoving many to the ground. 
+
+One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well.
 
 tags: protester, tackle, shove, grab, strike, pepper-spray, spray
 
@@ -3526,17 +3542,6 @@ id: or-portland-227
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
-
-When police rush at protesters, a jornalist is shoved into the side of a car and pepper sprayed.
-
-
-
-
-https://twitter.com/FancyJenkins/status/1289808596243374082
-https://twitter.com/hungrybowtie/status/1289807143961427970
-
-
-
 
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
