@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-03T00:48:17.111414+00:00
+UPDATED AT: 2020-08-03T12:17:37.949732+00:00
 
 
 # Alabama
@@ -10862,6 +10862,70 @@ id: or-portland-213
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1288734291334053888
+
+
+### Journalist shoved and pepper-sprayed | August 1st
+
+When police rush at protesters, a journalist is shoved into the side of a car then pepper sprayed.
+
+tags: journalist, spray, shove, pepper-spray
+
+id: or-portland-224
+
+**Links**
+
+* https://twitter.com/FancyJenkins/status/1289808596243374082
+* https://twitter.com/hungrybowtie/status/1289807143961427970
+
+
+### Police charge, tackle, and pepper spray protesters | August 1st
+
+Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protestors, shoving many to the ground.
+
+One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well, including one on the ground. One woman is shoved as she tries to stand; she states repeatedly that she cannot see.
+
+tags: protester, tackle, shove, grab, strike, pepper-spray, spray
+
+id: or-portland-225
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1289791877223350273
+* https://twitter.com/hungrybowtie/status/1289792999291985922
+* https://twitter.com/hungrybowtie/status/1289794603244072961
+* https://twitter.com/PDocumentarians/status/1289792025580023808
+* https://twitter.com/45thabsurdist/status/1289792288533577729
+* https://twitter.com/IwriteOK/status/1289787851027038208
+* https://www.youtube.com/watch?v=nwOZZxmTKeo
+* https://www.reddit.com/r/PublicFreakout/comments/i2hb9o/portland_police_order_protestors_to_continue/
+* https://twitter.com/TheRealCoryElia/status/1289789570947543040
+
+
+### Police slash journalist's tires | August 1st
+
+A parked car attempts to pull out and drive away. OFficers slash the car's tires. The woman driving the car is wearing a helmet and PRESS shirt.
+
+tags: journalist, abuse-of-power, property-destruction
+
+id: or-portland-226
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1289793915332079617
+* [2:00](https://www.pscp.tv/w/1MnGndnYllExO)
+
+
+### Police charge at protesters | August 1st
+
+After pushing protesters into residential streets, police again charge at protesters, shoving many to the ground.
+
+tags: protester, shove, push
+
+id: or-portland-227
+
+**Links**
+
+* https://github.com/2020PB/police-brutality/issues/1270
 
 
 ## Salem
