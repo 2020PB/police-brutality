@@ -3475,23 +3475,19 @@ id: or-portland-213
 * https://twitter.com/hungrybowtie/status/1288734291334053888
 
 
-### Journalist shvoed and pepper sprayed | August 1st
+### Police charge, tackle, and pepper spray protesters | August 1st
 
 When police rush at protesters, a journalist is shoved into the side of a car then pepper sprayed.
 
-tags: journalist, shove, pepper-spray, spray
 
-id: or-portland-224
 
-**Links**
 
 https://twitter.com/FancyJenkins/status/1289808596243374082
 https://twitter.com/hungrybowtie/status/1289807143961427970
 
 
-### Police charge, tackle, and pepper spray protesters | August 1st
 
-Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protestors, shoving many to the ground. 
+Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protestors, shoving many to the ground.
 
 One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well.
 
