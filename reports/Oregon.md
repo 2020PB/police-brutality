@@ -3483,19 +3483,15 @@ id: or-portland-225
 * https://twitter.com/TheRealCoryElia/status/1289789570947543040
 
 
-### Police slash tires of journalist attempting to leave | August 1st
+### Officer shoots at protestors without apparent cause | July 30th
 
 A parked car attempts to pull out and drive away. OFficers slash the car's tires. The woman driving the car is wearing a helmet and PRESS shirt.
 
-tags: journalist, property-destruction, abuse-of-power
 
-id: or-portland-226
 
-**Links**
 
 https://twitter.com/hungrybowtie/status/1289793915332079617
 [2:00](https://www.pscp.tv/w/1MnGndnYllExO)
-### Officer shoots at protestors without apparent cause | July 30th
 
 An officer shoots at a crowd of protestors some distance away. No justification is apparent. Protestors stand down the street with shields. Some are milling about. The filmer alleges the officer was aiming at head height.
 
