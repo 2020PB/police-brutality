@@ -3491,9 +3491,11 @@ id: or-portland-224
 
 ### Police charge, tackle, and pepper spray protesters | August 1st
 
-Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protestors, shoving many to the ground.
+Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protesters, shoving many to the ground.
 
 One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well, including one on the ground. One woman is shoved as she tries to stand; she states repeatedly that she cannot see.
+
+At [0:57 in this video](https://mobile.twitter.com/danielvmedia/status/1290037607879987200), officers can be heard directing others to remove a protester's goggles. The protester is then pepper sprayed.
 
 tags: protester, tackle, shove, grab, strike, pepper-spray, spray
 
@@ -3510,6 +3512,7 @@ id: or-portland-225
 * https://www.youtube.com/watch?v=nwOZZxmTKeo
 * https://www.reddit.com/r/PublicFreakout/comments/i2hb9o/portland_police_order_protestors_to_continue/
 * https://twitter.com/TheRealCoryElia/status/1289789570947543040
+* https://mobile.twitter.com/danielvmedia/status/1290037607879987200
 
 
 ### Police slash journalist's tires | August 1st
