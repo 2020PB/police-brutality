@@ -424,7 +424,7 @@ id: dc-dc-27
 
 ### Pro-life protesters arrested for chalking sidewalk | August 1st
 
-Pro-Life protesters held a permitted protest outside a D.C. area Planned Parenthood building. Several were arrested for vandalism after attempting to paint and chalk messages on the public sidewalk. The Metropolitan Police Department states that although the rally was permitted, they state a Department of Transportation permit would also have been needed to chalk on the sidewalk. A spokesperson for the protesters states that protesters were told they would not be phyiscally stopped from painting and were even advised on what paint to buy. 
+Pro-Life protesters held a permitted protest outside a D.C. area Planned Parenthood building. Several were arrested for vandalism after attempting to paint and chalk messages on the public sidewalk. The Metropolitan Police Department states that although the rally was permitted, they state a Department of Transportation permit would also have been needed to chalk on the sidewalk. A spokesperson for the protesters states that protesters were told they would not be phyiscally stopped from painting and were even advised on what paint to buy.
 
 tags: arrest, protester, abuse-of-power
 
@@ -434,3 +434,4 @@ id: dc-dc-28
 
 * https://twitter.com/stillgray/status/1289558509500039174
 * https://www.washingtontimes.com/news/2020/aug/1/police-stop-pro-lifers-painting-street-black-prebo/
+
