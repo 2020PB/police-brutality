@@ -1,3 +1,26 @@
+## Cottonwood Heights
+
+### Police beat and pepper spray protesters during violent arrests | August 2nd
+
+During a protest on August 2nd over Zane James who was killed by police a few years ago, police blocked off a residential road, down which protesters were travelling. Police then ordered protesters to the sidewalk. It is difficult to ascertain how the scuffle began; both protesters and police place the blame on the other. It appears that one officer and one protester got into a verbal altercation, after which the two go to the ground, grappling. The officer ends up holding the protester down, but it is difficult to determine how the incident began. This protester was apparently the father of Zane James. After this, protesters and police both became agitated and the scuffle escalated.
+
+Police made 9 arrests, including the father of Zane James. Police beat multiple protesters with batons and pepper sprayed others. A Cottonwood Heights city councilwoman stated she was struck by police. Police state that one officer was choked to the point of unconsciousness and another was hospitalized. In addition, police state protesters used a water gun filled with "pepper and bodily fluids;" protesters state they were full of water in order to keep cool. A news report also states that some protesters were tased.
+
+tags: arrest, protester, beat, strike, pepper-spray, spray, tackle, taser, tase
+
+id: ut-cottonwoodheights-1
+
+**Links**
+
+* https://twitter.com/Harryson_james/status/1290094912805847041
+* https://www.reddit.com/r/PublicFreakout/comments/i38qc9/cottonwood_heights_police_department_822020/
+* https://twitter.com/greg_doucette/status/1290098296636096513
+* https://www.deseret.com/utah/2020/8/2/21351804/protesters-arrested-in-clash-with-cottonwood-heights-police-black-lives-matter-zane-james
+* https://www.facebook.com/CouncilWomanTaliBruce/videos/587445865252832/
+* https://www.youtube.com/watch?v=ooNpBeMKqA0
+* https://www.youtube.com/watch?v=XTwyuvYQH94
+
+
 ## Salt Lake City
 
 ### Police shove an old man with a cane to the ground | May 30th
