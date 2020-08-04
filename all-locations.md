@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-04T20:38:10.269796+00:00
+UPDATED AT: 2020-08-04T21:22:17.174683+00:00
 
 
 # Alabama
@@ -11788,6 +11788,8 @@ id: tx-austin-16
 
 **Links**
 
+* https://www.youtube.com/watch?v=EmglMDC-OJU
+* https://www.reddit.com/r/2020PoliceBrutality/comments/i3meab/police_violently_break_up_memorial_of_murdered/
 * https://twitter.com/CandiceBernd/status/1289717781395472384
 * https://twitter.com/CandiceBernd/status/1289718586789986304
 
