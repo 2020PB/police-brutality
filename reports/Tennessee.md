@@ -140,7 +140,7 @@ id: tn-nashville-5
 
 After being ordered to leave Capitol Hill Plaza, protesters leaving the plaza were shoved down stairs and subsequently arrested.
 
-tags: push shove, arrest, protestor
+tags: push, shove, arrest, protester
 
 id: tn-nashville-6
 

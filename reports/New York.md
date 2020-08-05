@@ -1530,7 +1530,7 @@ Footage shows the incident begun by a scuffle between a protestor and officers. 
 
 SSPD alleges that neither tear gas nor pepper balls were deployed.
 
-tags: shoot, projectile, protestor, arrest
+tags: shoot, projectile, protester, arrest
 
 id: ny-saratogasprings-1
 
