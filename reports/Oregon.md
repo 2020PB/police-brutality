@@ -3610,6 +3610,19 @@ id: or-portland-231
 * https://twitter.com/PDocumentarians/status/1290985015992492032
 
 
+### Police throw explosives as they leave | August 4th
+
+After arresting a protester while investigating a shooting, police board a van to leave the area. Police then throw a stun grenade and smoke gas at protesters. Police allege that protesters threw a projectile at police, but footage does not show anything.
+
+tags: protester, gas, explosive, projectile, stun-grenade
+
+id: or-portland-232
+
+**Links**
+
+* https://twitter.com/garbagefilth/status/1290916978509529089
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
