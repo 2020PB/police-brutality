@@ -4,7 +4,7 @@
 
 At the tail end of a protest in Overland Park, Kansas on July 25th, several protestors request names and badge numbers from officers standing outside a police precinct. The officers categorically refuse.
 
-tags: hide-badges, abuse-of-power
+tags: hide-badge, abuse-of-power
 
 id: ks-overlandpark-1
 

@@ -18,7 +18,7 @@ id: mn-minneapolis-21
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
 
-tags: abuse-of-power, arrest, protestor
+tags: abuse-of-power, arrest, protester
 
 id: mn-minneapolis-28
 
@@ -31,7 +31,7 @@ id: mn-minneapolis-28
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-tags: flashbangs, rubber-bullets, tear-gas, protestor
+tags: stun-grenade, rubber-bullet, tear-gas, protester
 
 id: mn-minneapolis-14
 
@@ -61,7 +61,7 @@ id: mn-minneapolis-1
 
 The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
 
-tags: shoot, rubber-bullets, tear-gas, bystander
+tags: shoot, rubber-bullet, tear-gas, bystander
 
 id: mn-minneapolis-20
 
@@ -74,7 +74,7 @@ id: mn-minneapolis-20
 
 While sitting in their cars, the policemen proceed to pepper spray the protestors in a drive-by fashion
 
-tags: drive, vehicle, pepper-spray, spray, protestor
+tags: drive, vehicle, pepper-spray, spray, protester
 
 id: mn-minneapolis-3
 
@@ -117,7 +117,7 @@ id: mn-minneapolis-5
 
 CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
 
-tags: journalist, rubber-bullets, tear-gas, shoot
+tags: journalist, rubber-bullet, tear-gas, shoot
 
 id: mn-minneapolis-15
 
@@ -130,7 +130,7 @@ id: mn-minneapolis-15
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
-tags: journalist, rubber-bullets, shoot
+tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-16
 
@@ -187,7 +187,7 @@ id: mn-minneapolis-25
 
 Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St.
 
-tags: abuse-of-power, property-destruction.
+tags: abuse-of-power, property-destruction
 
 id: mn-minneapolis-29
 
@@ -264,7 +264,7 @@ id: mn-minneapolis-8
 
 While filming, Mike George's CBS news crew is shot with rubber bullets.
 
-tags: journalist, rubber-bullets, shoot
+tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-9
 
@@ -278,7 +278,7 @@ id: mn-minneapolis-9
 
 MSNBC reporters are with a crowd of people walking away from an advancing line of police. Police throw some sort of explosive device at the crowd, almost hitting the reporters. It is unclear what their purpose is in using the explosive
 
-tags: journalist, flashbangs, explosive, projectile
+tags: journalist, stun-grenade, explosive, projectile
 
 id: mn-minneapolis-10
 
@@ -334,7 +334,7 @@ id: mn-minneapolis-13
 
 Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
-tags: vehicle, drive, spray, pepper-spray, protestor
+tags: vehicle, drive, spray, pepper-spray, protester
 
 id: mn-minneapolis-17
 
@@ -360,7 +360,7 @@ id: mn-minneapolis-18
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
 
-tags: journalist, pepper-spray, batons, beat, tear-gas, shoot, projectiles, spray
+tags: journalist, pepper-spray, baton, beat, tear-gas, shoot, projectile, spray
 
 id: mn-minneapolis-19
 
@@ -375,7 +375,7 @@ id: mn-minneapolis-19
 
 Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
 
-tags: kick, protestor
+tags: kick, protester
 
 id: mn-minneapolis-30
 

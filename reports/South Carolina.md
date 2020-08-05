@@ -4,7 +4,7 @@
 
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
-tags: arrest, protestor
+tags: arrest, protester
 
 id: sc-charleston-1
 
@@ -37,7 +37,7 @@ Footage shows violence during the arrest of a protestor as 3 police officers wea
 
 Police charged him with disobeying a lawful order and resisting arrest.
 
-tags: arrest, shove, strike, beat, tackle, hide-badges, protestor
+tags: arrest, shove, strike, beat, tackle, hide-badge, protester
 
 id: sc-charleston-3
 
