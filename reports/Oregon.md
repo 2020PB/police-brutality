@@ -10,7 +10,6 @@ tags: tear-gas, protester
 
 id: or-eugene-2
 
-
 **Links**
 
 * https://www.youtube.com/watch?v=dPTr54DdTdY
@@ -3650,7 +3649,7 @@ Springfield police charge protestors in the street, striking protestors with bat
 
 A filmer and a journalist allege a taser was used. The alleged use of the taser can be heard [here at 0:06](https://twitter.com/mgbelka/status/1288685746476310530)
 
-tags: shove, push, strike, baton, punch, arrest, protestor, grab, taser, tase
+tags: shove, push, strike, baton, punch, arrest, protester, grab, taser, tase
 
 id: or-springfield-1
 

@@ -344,7 +344,7 @@ id: va-richmond-18
 
 Police arrived at a group of protestors who gave out food and water to remove the protestors' tents. During the removal, a protestor was arrested, held on the ground, and tased repeatedly. Charges are unclear.
 
-tags: protestor, taser, tase, arrest
+tags: protester, taser, tase, arrest
 
 id: va-richmond-19
 
