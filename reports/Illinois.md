@@ -4,7 +4,7 @@
 
 A protestor was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
 
-tags: arrest, beat, knee-on-neck, protestor
+tags: arrest, beat, knee-on-neck, protester
 
 id: il-chicago-1
 
@@ -30,7 +30,7 @@ id: il-chicago-5
 
 The video shows fficers standing in line, all missing the badges from their uniforms. The video poster, in the comments of the post, states that the officers took off their badges and then pushed protesters down the stairs and swung batons at them.
 
-tags: hide-badges, push, shove, batons
+tags: hide-badge, push, shove, baton
 
 id: il-chicago-11
 
@@ -43,7 +43,7 @@ id: il-chicago-11
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
-tags: celebrity, batons, protestor
+tags: celebrity, baton, protester
 
 id: il-chicago-3
 
@@ -63,7 +63,7 @@ After release (with neither charges nor explanation), the victim attempted to fi
 
 This was reported to have happened at "2600 N. Narragansett Ave.", but 2700 N seems slightly more accurate. Google Streetview at that address shows the same "Show Carnival" store seen in the video.
 
-tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment, bystander
+tags: shove, throw, arrest, property-destruction, knee-on-neck, knee, inhumane-treatment, bystander
 
 id: il-chicago-4
 
@@ -83,7 +83,7 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
-tags: politician, beat, strike, batons, protestor
+tags: politician, beat, strike, baton, protester
 
 id: il-chicago-6
 
@@ -96,7 +96,7 @@ id: il-chicago-6
 
 Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
 
-tags: hide-badges, body-cams
+tags: hide-badge, body-cam
 
 id: il-chicago-10
 
@@ -114,7 +114,7 @@ id: il-chicago-10
 
 CPD officer chasing down and punching a protestor who was walking away.
 
-tags: punch, protestor
+tags: punch, protester
 
 id: il-chicago-7
 
@@ -129,7 +129,7 @@ id: il-chicago-7
 
 Police chase protester and attack him on the ground while on live TV.
 
-tags: beat, shove, throw, batons, protestor
+tags: beat, shove, throw, baton, protester
 
 id: il-chicago-8
 
@@ -142,7 +142,7 @@ id: il-chicago-8
 
 A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall.
 
-tags: shove, threaten, protestor
+tags: shove, threaten, protester
 
 id: il-chicago-12
 
@@ -155,7 +155,7 @@ id: il-chicago-12
 
 Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
 
-tags: push, shove, property-destruction, protestor
+tags: push, shove, property-destruction, protester
 
 id: il-chicago-13
 
@@ -168,7 +168,7 @@ id: il-chicago-13
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
 
-tags: shove, throw, punch, beat, baton, protestor
+tags: shove, throw, punch, beat, baton, protester
 
 id: il-chicago-9
 
@@ -181,7 +181,7 @@ id: il-chicago-9
 
 Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
 
-tags: hide-badges, abuse-of-power
+tags: hide-badge, abuse-of-power
 
 id: il-chicago-14
 
@@ -211,7 +211,7 @@ id: il-chicago-15
 
 Footage shows a series of violent arrests and altercations between police and protestors. Police tackle, shove, strike and pepper spray protestors indiscriminately. Protestors are also struck with batons. One use states that police allegedly hit press during this series of events.
 
-tags: strike, baton, protestor, tackle, shove, push, pepper-spray, spray, arrest
+tags: strike, baton, protester, tackle, shove, push, pepper-spray, spray, arrest
 
 id: il-chicago-16
 
@@ -227,7 +227,7 @@ id: il-chicago-16
 
 Footage from the protest in Grant Park shows an officer attempting to seize a bike from a protestor for unknown reason. The police officer swats at the protestor's hands with his baton in an apparent attempt to release the protestor's hold on the bike.
 
-tags: strike, baton, protestor
+tags: strike, baton, protester
 
 id: il-chicago-17
 
@@ -266,7 +266,7 @@ id: il-chicago-19
 
 Footage uploaded on July 19th shows an officer standing some distance from protestors. He discharges pepper spray in the general direction of the protestors.
 
-tags: pepper-spray, spray, protestor
+tags: pepper-spray, spray, protester
 
 id: il-chicago-20
 
@@ -279,7 +279,7 @@ id: il-chicago-20
 
 Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protestor then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
 
-tags: vehicle, strike, protestor, property-destruction
+tags: vehicle, strike, protester, property-destruction
 
 id: il-chicago-21
 
@@ -294,7 +294,7 @@ id: il-chicago-21
 
 Protestors arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
-tags: beat, shove, throw, neck, protestor
+tags: beat, shove, throw, protester
 
 id: il-joliet-1
 

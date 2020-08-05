@@ -4,7 +4,7 @@
 abuse-of-power
 arrest
 baton
-beanbags
+beanbag
 beat
 bike
 body-cam
@@ -18,11 +18,10 @@ dog
 drive
 elderly
 explosive
-flashbangs
-foam-bullets
+foam-bullet
 gas
 headlock
-hide-badges
+hide-badge
 homeless
 horse
 incitement
@@ -33,9 +32,10 @@ knee
 knee-on-neck
 legal-observer
 lgbtq+
+live-round
 lrad
 mace
-marking-rounds
+marking-round
 medic
 paintball
 pepper-ball
@@ -44,29 +44,29 @@ person-with-disability
 policecar
 politician
 pregnant
+projectile
 property-destruction
-projectiles
-protestor
-push
+protester
 punch
+push
 racial-profiling
-real-bullets
-rubber-bullets
+rubber-bullet
 shield
 shoot
 shove
 spray
 strike
-taser
+stun-grenade
 tackle
-taze
+tase
+taser
 tear-gas
 tear-gas-canister
 threaten
 throw
 vehicle
-wooden-bullets
-zip-ties
+wooden-bullet
+zip-tie
 ```
 
 ## Broken down by type
@@ -86,7 +86,7 @@ medic
 person-with-disability
 politician
 pregnant
-protestor
+protester
 racial-profiling
 ```
 
@@ -94,34 +94,35 @@ racial-profiling
 
 ```
 baton
-beanbags
+bean-bag
 bike
 dog
 explosive
-foam-bullets
-flashbangs
+foam-bullet
+gun
 headlock
 horse
 kick
 knee-on-neck
+live-round
 lrad
 mace
-marking-rounds
+marking-round
 paintball
 pepper-ball
 pepper-spray
 policecar
-projectiles
+projectile
 punch
-real-bullets
-rubber-bullets
+rubber-bullet
 shield
+stun-grenade
 taser
 tear-gas
 tear-gas-canister
 vehicle
-wooden-bullets
-zip-ties
+wooden-bullet
+zip-tie
 ```
 
 ### Method
@@ -133,7 +134,8 @@ choke
 conceal
 drive
 gas
-hide-badges
+grab
+hide-badge
 inhumane-treatment
 knee
 property-destruction
@@ -143,7 +145,7 @@ shove
 spray
 strike
 tackle
-taze
+tase
 threaten
 throw
 ```
@@ -155,4 +157,5 @@ abuse-of-power
 body-cam
 death
 incitement
+non-protest
 ```

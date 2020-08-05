@@ -22,7 +22,7 @@ id: pa-erie-1
 
 Protesters try to help someone stand up; police wait until the person is halfway up before pepper-spraying the helpers.
 
-tags: pepper-spray, spray, protestor
+tags: pepper-spray, spray, protester
 
 id: pa-harrisburg-1
 
@@ -37,7 +37,7 @@ id: pa-harrisburg-1
 
 The journalist was trying to get a closer look at the police, while they were beating an individual.
 
-tags: arrest, journalist, beat, threaten, baton, protestor
+tags: arrest, journalist, beat, threaten, baton, protester
 
 id: pa-philadelphia-1
 
@@ -54,7 +54,7 @@ Police drag the protestor from the car and beat him with batons. After he is arr
 
 Police additionally arrest the driver and passerby filming the scene.
 
-tags: arrest, shove, push, threaten, punch, baton, beat, vehicle, protestor, bystander
+tags: arrest, shove, push, threaten, punch, baton, beat, vehicle, protester, bystander
 
 id: pa-philadelphia-2
 
@@ -68,7 +68,7 @@ id: pa-philadelphia-2
 
 A man is being held on the ground by a police officer, who forces the man's hand onto a baton. Another officer joins in to force the man flat on the ground, kneeling on either the man's head or neck. The second officer then begins to strike the man on the head. A third officer joins in and grabs the man's arms. The police yell at witnesses to "back off", while someone yells "he can't breathe".
 
-tags: knee, knee-on-kneck, beat, baton, strike, threaten, protestor
+tags: knee, knee-on-neck, beat, baton, strike, threaten, protester
 
 id: pa-philadelphia-3
 
@@ -99,7 +99,7 @@ An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. P
 
 Location: [Interstate 676 between N 20th/21st St](https://www.google.com/maps/place/2053+Vine+St,+Philadelphia,+PA+19103,+USA/@39.9595383,-75.1746173,18z/data=!3m1!4b1!4m5!3m4!1s0x89c6c634c7345f49:0x40d2e85b82db34fb!8m2!3d39.9595362!4d-75.173523)
 
-tags: tear-gas, rubber-bullets, shoot, tear-gas-canister, protestor
+tags: tear-gas, rubber-bullet, shoot, tear-gas-canister, protester
 
 id: pa-philadelphia-4
 
@@ -117,7 +117,7 @@ id: pa-philadelphia-4
 
 Three protestors kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
 
-tags: pepper-spray, spray, protestor
+tags: pepper-spray, spray, protester
 
 id: pa-philadelphia-5
 
@@ -130,7 +130,7 @@ id: pa-philadelphia-5
 
 Police shove a group of protestors. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
-tags: shove, baton, strike, beat, protestor
+tags: shove, baton, strike, beat, protester
 
 id: pa-philadelphia-7
 
@@ -147,7 +147,7 @@ id: pa-philadelphia-7
 
 An officer in a white shirt is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer.
 
-tags: shove, arrest, push, protestor
+tags: shove, arrest, push, protester
 
 id: pa-philadelphia-8
 
@@ -162,7 +162,7 @@ During protests, groups of men armed with guns, bats, and other blunt instrument
 
 Footage shows members of the groups threatening and shouting racial and homophobic slurs at protestors without police intervention. One journalist posted a picture of himself with a head wound, alleging that one of these groups beat him for filming them.
 
-tags: abuse-of-power, protestor
+tags: abuse-of-power, protester
 
 id: pa-philadelphia-10
 
@@ -182,7 +182,7 @@ id: pa-philadelphia-10
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
-tags: threaten, arrest, knee, protestor
+tags: threaten, arrest, knee, protester
 
 id: pa-philadelphia-6
 
@@ -218,7 +218,7 @@ A reporter recounts on Twitter that she was arrested despite telling an officer 
 
 Footage shows first-person video leading up to her arrest. It includes her clear identification, with press badge, as a reporter.
 
-tags: journalist, arrest, abuse-of-power, zip-ties
+tags: journalist, arrest, abuse-of-power, zip-tie
 
 id: pa-philadelphia-12
 
@@ -237,7 +237,7 @@ John Connors, a protestor in Pittsburgh on Saturday, May 30th, was recording the
 
 He asks an officer, "Are you guys police officers or are you guys cops?" The officer then release a tear gas canister at his feet and shoots him at short range. Police then arrest Connors. Connors admits his question was antagonizing, but states he did nothing to threaten officers or escalate to violence, which is supported by the footage.
 
-tags: tear-gas, tear-gas-canister, shoot, arrest, projectiles, protestor
+tags: tear-gas, tear-gas-canister, shoot, arrest, projectile, protester
 
 id: pa-pittsburgh-3
 
@@ -251,7 +251,7 @@ id: pa-pittsburgh-3
 
 A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board
 
-tags: pepper-spray, spray, threaten, protestor
+tags: pepper-spray, spray, threaten, protester
 
 id: pa-pittsburgh-1
 
@@ -266,7 +266,7 @@ id: pa-pittsburgh-1
 
 Police declare a peaceful protest an unlawful assembly. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
 
-tags: shoot, tear-gas, rubber-bullets, protestor
+tags: shoot, tear-gas, rubber-bullet, protester
 
 id: pa-pittsburgh-2
 
@@ -286,7 +286,7 @@ Users on Twitter allege the woman was a medic attempting to notify the police an
 
 Footage was posted on Twitter as a reply to footage of another incident on June 1st.
 
-tags: pepper-spray, spray, protestor
+tags: pepper-spray, spray, protester
 
 id: pa-pittsburgh-4
 
@@ -302,7 +302,7 @@ Footage shows police officers around several protest-related arrestees. A woman 
 
 The crowd begins to object and asks why she is being arrested. Another officer then releases a tear gas canister and throws it at the crowd.
 
-tags: arrest, tear-gas, tear-gas-canister, protestor
+tags: arrest, tear-gas, tear-gas-canister, protester
 
 id: pa-pittsburgh-5
 
@@ -317,7 +317,7 @@ id: pa-pittsburgh-5
 
 Footage shows a protestor standing in the street filming police. One officer shoves the protestor, then another shoves the protestor with his baton. The protestor falls into the concrete median then to the ground.
 
-tags: protestor, shove, baton, push
+tags: protester, shove, baton, push
 
 id: pa-pittsburgh-6
 

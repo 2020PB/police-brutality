@@ -6,7 +6,7 @@ Bodycam footage shows an unarmed man walking around in the street. The man alleg
 
 This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
 
-tags: taser, strike, arrest, non-protest, neck, knee-on-neck
+tags: taser, strike, arrest, non-protest, knee-on-neck
 
 id: va-fairfax-1
 
@@ -24,7 +24,7 @@ id: va-fairfax-1
 
 Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protestors are lying on the ground as tear gas canisters fall around them.
 
-tags: tear-gas, protestor
+tags: tear-gas, protester
 
 id: va-fredericksburg-2
 
@@ -44,7 +44,7 @@ In this video, delegate Lee Carter asks officers questions about their methods i
 
 It is unclear how the protest unfolded, and why the police were advancing on the crowd wearing riot gear; police allege that the protest turned violent and some protesters say that they were tear-gassed or shot at with rubber bullets while peacefully protesting or retreating. (See fourth and fifth links.)
 
-tags: politician, push, shove, pepper-spray, spray, protestor
+tags: politician, push, shove, pepper-spray, spray, protester
 
 id: va-manassas-1
 
@@ -63,7 +63,7 @@ id: va-manassas-1
 
 Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protestors are gathered. Protestors are forced to run to avoid being hit.
 
-tags: vehicle, protestor
+tags: vehicle, protester
 
 id: va-richmond-9
 
@@ -91,7 +91,7 @@ id: va-richmond-1
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM. The police chief has said that the officers' actions were "unwarranted" and "outside dept protocols." At least one protester has sued the officers involved.
 
-tags: tear-gas, tear-gas-canister, protestor
+tags: tear-gas, tear-gas-canister, protester
 
 id: va-richmond-2
 
@@ -111,7 +111,7 @@ id: va-richmond-2
 
 A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera. Extended footage shows the officer continuing to spit on the protestor.
 
-tags: arrest, inhumane-treatment, protestor
+tags: arrest, inhumane-treatment, protester
 
 id: va-richmond-3
 
@@ -141,7 +141,7 @@ In this video, protestors on bikes are shown blocking a police vehicle from prog
 
 The officer driving the vehicle has been cleared by the department of any wrongdoing.
 
-tags: vehicle, drive, protestor
+tags: vehicle, drive, protester
 
 id: va-richmond-6
 
@@ -157,7 +157,7 @@ Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Pol
 
 Richmond was no longer under curfew restrictions at this time.
 
-tags: tear-gas, rubber-bullets, shoot, protestor
+tags: tear-gas, rubber-bullet, shoot, protester
 
 id: va-richmond-5
 
@@ -190,7 +190,7 @@ id: va-richmond-7
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
-tags: shove, tear-gas, shoot, protestor
+tags: shove, tear-gas, shoot, protester
 
 id: va-richmond-8
 
@@ -208,7 +208,7 @@ id: va-richmond-8
 
 Footage shows a group of scattered protestors some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
-tags: shoot, projectile, explosive, protestor
+tags: shoot, projectile, explosive, protester
 
 id: va-richmond-10
 
@@ -221,7 +221,7 @@ id: va-richmond-10
 
 Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protestors. He grabs a protestor on a bike, then proceeds to drag the protestor into the street and off the bike. Several officers aid the officer in arresting the protestor, while the original officer kneels on the protestor's back.
 
-tags: bike, grab, arrest, knee, protestor
+tags: bike, grab, arrest, knee, protester
 
 id: va-richmond-11
 
@@ -234,7 +234,7 @@ id: va-richmond-11
 
 Footage shows a police officer shoving a protestor to the ground. The protestor scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protestors.
 
-tags: shove, pepper-spray, spray, protestor
+tags: shove, pepper-spray, spray, protester
 
 id: va-richmond-12
 
@@ -253,7 +253,7 @@ He states that he was told to leave. Then, when he tried to photograph the offic
 
 A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
 
-tags: arrest, abuse-of-power, bystander, zip-ties
+tags: arrest, abuse-of-power, bystander, zip-tie
 
 id: va-richmond-13
 
@@ -270,7 +270,7 @@ id: va-richmond-13
 
 Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protestors.
 
-tags: protestor, tear-gas
+tags: protester, tear-gas
 
 id: va-richmond-14
 
@@ -283,7 +283,7 @@ id: va-richmond-14
 
 After a truck has been lit on fire, allegedly by protestors, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
 
-tags: protestor, tear-gas
+tags: protester, tear-gas
 
 id: va-richmond-15
 
@@ -330,7 +330,7 @@ id: va-richmond-17
 
 The filmer, a protestor, is standing on or near the sidewalk. Several officers approach him. The protestor says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protestor without charges.
 
-tags: protestor, arrest, abuse-of-power
+tags: protester, arrest, abuse-of-power
 
 id: va-richmond-18
 

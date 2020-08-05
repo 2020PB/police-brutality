@@ -21,12 +21,13 @@ jobs:
       uses: actions/setup-python@v2
       with:
         # Semantic version range syntax or exact version of a Python version
-        python-version: '3.x' 
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r tools/requirements.txt
+        python -c "import nltk; nltk.download('wordnet')"
 
     - name: Run unit tests with pytest
       run: |

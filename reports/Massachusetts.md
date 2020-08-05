@@ -4,7 +4,7 @@
 
 Footage from a news report shows a man throwing a water bottle at officers. Officers then grab him to arrest him, while another officer beats him repeatedly with his baton. The protestor does not appear to be resisting arrest.
 
-tags: protestor, beat, arrest, strike
+tags: protester, beat, arrest, strike
 
 id: ma-boston-1
 
@@ -17,7 +17,7 @@ id: ma-boston-1
 
 
 
-tags: property-destruction, protestor
+tags: property-destruction, protester
 
 id: ma-boston-2
 
@@ -32,7 +32,7 @@ id: ma-boston-2
 
 
 
-tags: hide-badges
+tags: hide-badge
 
 id: ma-worcester-1
 
@@ -49,7 +49,7 @@ On video, protestors can be heard yelling "You feel big hitting a little woman l
 
 An additional angle provided by the girl's sister shows numerous officers lifting her off the ground and dragging her behind the police line, after which the line closes to obfuscate any view of her.
 
-tags: child, shove, arrest, throw, protestor
+tags: child, shove, arrest, throw, protester
 
 id: ma-worcester-2
 
@@ -65,7 +65,7 @@ id: ma-worcester-2
 
 Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protestors without warning. Police continue firing as protestors flee.
 
-tags: tear-gas, rubber-bullets, pepper-spray, spray, shoot, protestor
+tags: tear-gas, rubber-bullet, pepper-spray, spray, shoot, protester
 
 id: ma-worcester-3
 
@@ -82,7 +82,7 @@ Eyewitness reports seeing numerous people tackled.
 
 Eyewitness reports being slammed from behind after obeying police order to raise hands and disperse. He and his sister report police kneeled on the man's neck "in the same manner as George Floyd."
 
-tags: arrest, punch, tackle, knee, knee-on-kneck, beat, protestor
+tags: arrest, punch, tackle, knee, knee-on-neck, beat, protester
 
 id: ma-worcester-4
 

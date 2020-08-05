@@ -4,7 +4,7 @@
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
-tags: journalist, rubber-bullets, pepper-ball, shoot
+tags: journalist, rubber-bullet, pepper-ball, shoot
 
 id: ky-louisville-2
 
@@ -19,7 +19,7 @@ id: ky-louisville-2
 
 A young woman was injured by a rubber bullet she took to the head.
 
-tags: rubber-bullets, shoot, protestor
+tags: rubber-bullet, shoot, protester
 
 id: ky-louisville-4
 
@@ -35,7 +35,7 @@ id: ky-louisville-4
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
-tags: rubber-bullets, projectiles, shoot, protestor
+tags: rubber-bullet, projectile, shoot, protester
 
 id: ky-louisville-8
 
@@ -49,7 +49,7 @@ id: ky-louisville-8
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
 
-tags: shoot, projectiles, property-destruction, bystander
+tags: shoot, projectile, property-destruction, bystander
 
 id: ky-louisville-5
 
@@ -78,7 +78,7 @@ id: ky-louisville-1
 
 A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison.
 
-tags: arrest, beat, baton, strike, protestor
+tags: arrest, beat, baton, strike, protester
 
 id: ky-louisville-9
 
@@ -92,7 +92,7 @@ id: ky-louisville-9
 
 A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
-tags: tear-gas, beat, tackle, protestor
+tags: tear-gas, beat, tackle, protester
 
 id: ky-louisville-3
 
@@ -105,7 +105,7 @@ id: ky-louisville-3
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
-tags: death, body-cams, real-bullets, pepper-ball, bystander
+tags: death, body-cam, live-round, pepper-ball, bystander
 
 id: ky-louisville-6
 
@@ -145,7 +145,7 @@ id: ky-louisville-14
 
 Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews.
 
-tags: pepper-ball, shoot, protestor
+tags: pepper-ball, shoot, protester
 
 id: ky-louisville-7
 
@@ -158,7 +158,7 @@ id: ky-louisville-7
 
 Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
 
-tags: pepper-ball, shoot, shove, baton, arrest, protestor
+tags: pepper-ball, shoot, shove, baton, arrest, protester
 
 id: ky-louisville-11
 
@@ -173,7 +173,7 @@ id: ky-louisville-11
 
 A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
 
-tags: rubber-bullets, shoot, tackle, beat, baton, protestor
+tags: rubber-bullet, shoot, tackle, beat, baton, protester
 
 id: ky-louisville-10
 
@@ -264,7 +264,7 @@ Police are attempting to tow a car and protestors have gathered around in opposi
 
 The filmer also posted a screenshot, alleging that the protestor was charged with disorderly conduct, possession of marijuana, inciting a riot, and third degree assault of an officer. Third degree assault is generally classified as the intent to cause serious bodily harm, generally with a deadly weapon. The filmer is a journalist with the Courier Journal and is verified on Twitter, lending some credence to her allegations about the charges.
 
-tags: protestor, arrest, knee, abuse-of-power
+tags: protester, arrest, knee, abuse-of-power
 
 id: ky-louisville-17
 
@@ -280,7 +280,7 @@ Footage shows a handful of peaceful protestors on the sidewalk. Shots can be hea
 
 Police alleged that a protestor touched an officer's gun.
 
-tags: protestor, shoot, projectile
+tags: protester, shoot, projectile
 
 id: ky-louisville-18
 

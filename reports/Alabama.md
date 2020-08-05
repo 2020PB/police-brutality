@@ -21,7 +21,7 @@ Around six officers arrested Harriot. Per AL.com, Harriot "was asked if he could
 
 According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; they had to use a pocket knife in addition to the usual tool. Harriot was also interviewed by two agents claiming to be from the FBI.
 
-tags: arrest, journalist, racial-profiling, zip-ties
+tags: arrest, journalist, racial-profiling, zip-tie
 
 id: al-birmingham-2
 
@@ -39,7 +39,7 @@ id: al-birmingham-2
 
 During a peaceful protest, police corral protestors onto a hill. Officers snatch protestors at the edges and throw them to the ground to make arrests.
 
-tags: arrest, shove, throw, push, knee, protestor
+tags: arrest, shove, throw, push, knee, protester
 
 id: al-hoover-1
 
@@ -56,7 +56,7 @@ id: al-hoover-1
 
 During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
 
-tags: baton, kick, beat, push, shove, protestor
+tags: baton, kick, beat, push, shove, protester
 
 id: al-huntsville-1
 
@@ -69,7 +69,7 @@ id: al-huntsville-1
 
 Police officer exits his vehicle and begins pepper spraying protestors for no apparent reason.
 
-tags: threaten, pepper-spray, spray, protestor
+tags: threaten, pepper-spray, spray, protester
 
 id: al-huntsville-2
 
@@ -82,7 +82,7 @@ id: al-huntsville-2
 
 Police use tear gas on reporters and protestors, who are then initially blocked from leaving the area by other officers.
 
-tags: tear-gas, tear-gas-canister, journalist, protestor
+tags: tear-gas, tear-gas-canister, journalist, protester
 
 id: al-huntsville-3
 
@@ -97,7 +97,7 @@ A Huntsville PD Lieutenant stated that they used tear gas on protestors before v
 
 Footage taken of a protestor in a garage after shows bruises consistent with rubber bullet rounds.
 
-tags: tear-gas, tear-gas-canister, rubber-bullets, shoot, protestor
+tags: tear-gas, tear-gas-canister, rubber-bullet, shoot, protester
 
 id: al-huntsville-4
 
@@ -115,7 +115,7 @@ After disperse order is given, protestors comply and begin to back away from the
 
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
 
-tags: rubber-bullets, threaten, protestor
+tags: rubber-bullet, threaten, protester
 
 id: al-huntsville-5
 

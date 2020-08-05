@@ -4,7 +4,7 @@
 
 An officer tackles a protestor who is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice; the protestor responds "I'm not". The officer yells "put your hands behind your head" several times, and the protestor responds "I'm trying".
 
-tags: beat, arrest, inhumane-treatment, threaten, tackle, protestor
+tags: beat, arrest, inhumane-treatment, threaten, tackle, protester
 
 id: az-phoenix-1
 
@@ -17,7 +17,7 @@ id: az-phoenix-1
 
 Officers arrested 114 people on Saturday, May 30, most for rioting (a low-level felony). The probable cause statements submitted to the court by police justifying the arrests of many defendants were identical from one defendant to another, and alleged only that a crowd of people had engaged in criminal activity, without alleging that the particular defendant arrested had engaged in criminal activity. One defendant, a DACA recipient, was transferred to ICE custody despite a judge finding that her arrest lacked probable cause. She has since been released.
 
-tags: abuse-of-power, arrest, protestor
+tags: abuse-of-power, arrest, protester
 
 id: az-phoenix-2
 
@@ -33,7 +33,7 @@ A news article describes a photographer in full view of an ABC news crew as he w
 
 The photographer now has four staples in his head, a concussion, and a bruised lung.
 
-tags: journalist, shoot, rubber-bullets
+tags: journalist, shoot, rubber-bullet
 
 id: az-phoenix-5
 
@@ -69,7 +69,7 @@ Footage shows police declaring the assembly unlawful and telling protestors to g
 
 Captions on Twitter and an NPR article state tear gas and flashbangs were deployed.
 
-tags: pepper-spray, tear-gas, flashbangs, spray, protestor
+tags: pepper-spray, tear-gas, stun-grenade, spray, protester
 
 id: az-phoenix-4
 
@@ -96,7 +96,7 @@ Several protestors, including the filmer, shouted at the police for treating the
 
 From an article in the Arizona Mirror, Tempe police are allowed to use pepper spray "against violent or non-compliant subjects, and on vicious animals." In addition, they must give verbal warning that they will escalate. No such warning was given.
 
-tags: shove, pepper-spray, spray, tackle, knee, arrest, protestor
+tags: shove, pepper-spray, spray, tackle, knee, arrest, protester
 
 id: az-tempe-1
 
@@ -111,7 +111,7 @@ id: az-tempe-1
 
 Footage shows police charging protestors in the street without warning and tackling an individual with a skateboard to arrest them. Additional footage shows police using pepper spray to clear the area. 7 protestors were arrested. One officer was allegedly injured when a projectile lacerated their face.
 
-tags: shove, tackle, protestor, arrest, pepper-spray, spray
+tags: shove, tackle, protester, arrest, pepper-spray, spray
 
 id: az-tempe-2
 
