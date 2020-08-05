@@ -3622,6 +3622,7 @@ id: or-portland-232
 
 * https://twitter.com/garbagefilth/status/1290916978509529089
 * https://twitter.com/garbagefilth/status/1290912827322974208
+* https://twitter.com/dougbrown8/status/1290921309816274944
 
 
 ## Salem
