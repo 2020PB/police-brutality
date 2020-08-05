@@ -10,6 +10,7 @@ tags: tear-gas, protestor
 
 id: or-eugene-2
 
+
 **Links**
 
 * https://www.youtube.com/watch?v=dPTr54DdTdY
