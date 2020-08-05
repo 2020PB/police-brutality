@@ -3621,6 +3621,7 @@ id: or-portland-232
 **Links**
 
 * https://twitter.com/garbagefilth/status/1290916978509529089
+* https://twitter.com/garbagefilth/status/1290912827322974208
 
 
 ## Salem
