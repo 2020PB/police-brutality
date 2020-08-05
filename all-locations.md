@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-05T13:42:37.081240+00:00
+UPDATED AT: 2020-08-05T19:57:01.578656+00:00
 
 
 # Alabama
@@ -6380,7 +6380,7 @@ Footage shows the incident begun by a scuffle between a protestor and officers. 
 
 SSPD alleges that neither tear gas nor pepper balls were deployed.
 
-tags: shoot, projectile, protestor, arrest
+tags: shoot, projectile, protester, arrest
 
 id: ny-saratogasprings-1
 
@@ -10931,6 +10931,89 @@ id: or-portland-227
 * https://github.com/2020PB/police-brutality/issues/1270
 
 
+### Police charge and assault protesters | August 3rd
+
+Police charge protesters, shoving and striking with batons. Several of the moms against police brutality are thrown to the ground. Police use pepper spray liberally. One person is trampled by officers. Police smash a protester's megaphone.
+
+tags: protester, shove, strike, baton, pepper-spray, spray, property-destruction
+
+id: or-portland-228
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1290547444766277633
+* https://twitter.com/1misanthrophile/status/1290550512731828225
+* https://twitter.com/_WhatRiot/status/1290607308716662785
+* https://twitter.com/45thabsurdist/status/1290545233378177024
+* https://twitter.com/45thabsurdist/status/1290546567837913088
+* https://twitter.com/45thabsurdist/status/1290547684453912576
+* https://twitter.com/R3volutionDaddy/status/1290548570400071681
+* https://twitter.com/teamsterjd/status/1290542637338914816
+* https://twitter.com/TheHannahRay/status/1290543715858014209
+
+
+### Police pepper spray protester | August 3rd
+
+Footage taken during the events of or-portland-228 shows multiple officers repeatedly pepper spraying a protester. The protester then collapses on the ground before being arrested.
+
+tags: protester, arrest, pepper-spray, spray
+
+id: or-portland-229
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1290559156756213761
+
+
+### Individuals pepper sprayed | August 3rd
+
+Two individuals with cameras are standing between parked cars on the edge of the road. An officer tells them to get on the sidewalk and pushes them; the individuals back towards the sidewalk. When the individuals bat the officer's hand away, he pepper sprays them. It is unclear if these individuals were protesters with cameras or journalists.
+
+tags: protester, arrest, shove, push, pepper-spray, spray
+
+id: or-portland-230
+
+**Links**
+
+* https://twitter.com/TheHannahRay/status/1290550066814410753
+
+
+### Protester hospitalized after arrest; protesters and journalists pepper sprayed | August 4th
+
+Police shove and pepper spray protestors while making arrest. Arrestee was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
+
+Several members of the press were pushed away from the arrest.
+
+tags: protester, journalist, arrest, shove, push, pepper-spray, spray
+
+id: or-portland-231
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1290932904139210753
+* https://twitter.com/MrOlmos/status/1290933119139188737
+* https://twitter.com/MrOlmos/status/1290933717779718145
+* https://twitter.com/PDocumentarians/status/1290979002602012672
+* https://twitter.com/PDocumentarians/status/1290980324566917122
+* https://twitter.com/PDocumentarians/status/1290983248823087104
+* https://twitter.com/PDocumentarians/status/1290985015992492032
+
+
+### Police throw explosives as they leave | August 4th
+
+After arresting a protester while investigating a shooting, police board a van to leave the area. Police then throw a stun grenade and smoke gas at protesters. Police allege that protesters threw a projectile at police, but footage does not show anything.
+
+tags: protester, gas, explosive, projectile, stun-grenade
+
+id: or-portland-232
+
+**Links**
+
+* https://twitter.com/garbagefilth/status/1290916978509529089
+* https://twitter.com/garbagefilth/status/1290912827322974208
+* https://twitter.com/dougbrown8/status/1290921309816274944
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
@@ -10956,7 +11039,7 @@ Springfield police charge protestors in the street, striking protestors with bat
 
 A filmer and a journalist allege a taser was used. The alleged use of the taser can be heard [here at 0:06](https://twitter.com/mgbelka/status/1288685746476310530)
 
-tags: shove, push, strike, baton, punch, arrest, protestor, grab, taser, tase
+tags: shove, push, strike, baton, punch, arrest, protester, grab, taser, tase
 
 id: or-springfield-1
 
@@ -11527,7 +11610,7 @@ id: tn-nashville-5
 
 After being ordered to leave Capitol Hill Plaza, protesters leaving the plaza were shoved down stairs and subsequently arrested.
 
-tags: push shove, arrest, protestor
+tags: push, shove, arrest, protester
 
 id: tn-nashville-6
 
@@ -12499,7 +12582,7 @@ id: va-richmond-18
 
 Police arrived at a group of protestors who gave out food and water to remove the protestors' tents. During the removal, a protestor was arrested, held on the ground, and tased repeatedly. Charges are unclear.
 
-tags: protestor, taser, tase, arrest
+tags: protester, taser, tase, arrest
 
 id: va-richmond-19
 
