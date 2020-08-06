@@ -3589,9 +3589,9 @@ id: or-portland-230
 * https://twitter.com/TheHannahRay/status/1290550066814410753
 
 
-### Protester hospitalized after arrest; protesters and journalists pepper sprayed | August 4th
+### Journalist hospitalized after arrest; protesters and journalists pepper sprayed | August 4th
 
-Police shove and pepper spray protestors while making arrest. Arrestee was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
+Police shove and pepper spray protestors while making arrest. The arrestee, a member of the press, was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
 
 Several members of the press were pushed away from the arrest.
 
