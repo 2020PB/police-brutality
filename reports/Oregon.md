@@ -3151,7 +3151,7 @@ id: or-portland-204
 
 A trumpet player was seen bleeding from the face during a protest early in the morning on July 27th.
 
-A journalist allegedly quotes him as saying that he was holding a leafblower and a trumpet about 20 feet from an officer when he was shot.
+A journalist quotes him as saying that he was holding a leafblower and a trumpet about 20 feet from an officer when he was shot.
 
 tags: protester, shoot, projectile
 
