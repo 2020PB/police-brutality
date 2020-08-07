@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-07T21:33:05.400732+00:00
+UPDATED AT: 2020-08-07T21:36:24.097234+00:00
 
 
 # Alabama
@@ -11472,6 +11472,7 @@ id: pa-pittsburgh-5
 * https://www.youtube.com/watch?v=chgIx7AToIw
 * https://www.pghcitypaper.com/pittsburgh/video-shows-pittsburgh-police-arresting-and-pinning-woman-to-ground-in-east-liberty-before-deploying-tear-gas-at-onlookers/Content?oid=17432474
 * https://www.reddit.com/r/pittsburgh/comments/gzv8y7/video_shows_pittsburgh_police_arresting_and
+* https://www.facebook.com/chilcottj/videos/10223908609851965/
 
 
 ### Protestor shoved into median | July 25th
