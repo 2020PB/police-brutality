@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-06T20:20:22.023709+00:00
+UPDATED AT: 2020-08-07T12:53:45.021858+00:00
 
 
 # Alabama
@@ -10536,6 +10536,22 @@ id: or-portland-204
 * https://www.reddit.com/r/pics/comments/hz596o/trip_jennings_shot_in_the_face_by_federal/fzh7f6i/
 
 
+### Trumpet player shot in face | July 27th
+
+A trumpet player was seen bleeding from the face during a protest early in the morning on July 27th.
+
+A journalist quotes him as saying that he was holding a leafblower and a trumpet about 20 feet from an officer when he was shot.
+
+tags: protester, shoot, projectile
+
+id: or-portland-233
+
+**Links**
+
+* https://twitter.com/TheHannahRay/status/1287671181479297025
+* https://twitter.com/MaranieRae/status/1290436340685975552
+
+
 ### Second round of tear gas launched by federal officers | July 28th
 
 Just after midnight on July 28th, federal officers fired a volley of munitions at protestors gathered around the fence.
@@ -10864,6 +10880,22 @@ id: or-portland-213
 * https://twitter.com/hungrybowtie/status/1288734291334053888
 
 
+### Reporter shot in knee | July 30th
+
+Images show a journalist's wound after she was shot in the knee; her knee is considerably swollen and has a significant bruise arond where the bullet struck.
+
+tags: journalist, shoot, projectile
+
+id: or-portland-234
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1288941481995071488
+* https://twitter.com/MaranieRae/status/1289371801579950080
+* https://twitter.com/MathieuLRolland/status/1289109167219777536
+* https://twitter.com/MaranieRae/status/1288980520202678277
+
+
 ### Journalist shoved and pepper-sprayed | August 1st
 
 When police rush at protesters, a journalist is shoved into the side of a car then pepper sprayed.
@@ -11012,6 +11044,59 @@ id: or-portland-232
 * https://twitter.com/garbagefilth/status/1290916978509529089
 * https://twitter.com/garbagefilth/status/1290912827322974208
 * https://twitter.com/dougbrown8/status/1290921309816274944
+
+
+### Police respond to vandalism with excessive force | August 5th
+
+After some protesters attempted to break into a Portland Police precinct, officers declare the protest a riot. Police take action against all protesters, including those not involved in the vandalism. Officers deploy tear gas to disperse protesters. Police also charge at protesters, shoving and pepper-spraying them. Additionally, police allegedly slashed the tires of multiple cars.
+
+tags: protester, tear-gas, pepper-spray, spray, shove, push
+
+id: or-portland-235
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1291240005281562624
+* https://twitter.com/hungrybowtie/status/1291240595759886336
+* https://twitter.com/hungrybowtie/status/1291241007627943937
+* https://twitter.com/hungrybowtie/status/1291242090756628482
+* https://twitter.com/1misanthrophile/status/1291241933440815104
+* https://twitter.com/MrOlmos/status/1291260012715577345
+
+
+### Police charge protesters a second time | August 5th
+
+After protesters allegedly throw eggs at police, police then rush the, crowd using excessive force to make arrests.
+
+One member of the MomBloc (noted by the yellow shirt) is thrown to the ground during the charge. The mom later says she is bleeding from the knee, but "it's not a big deal; I've had babies."
+
+At least one member of the press is struck by police during this charge.
+
+tags: protester, journalist, shove, push, arrest
+
+id: or-portland-236
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1291246658760486913
+* https://twitter.com/MrOlmos/status/1291246658760486913
+* https://twitter.com/MrOlmos/status/1291246658760486913
+* https://twitter.com/IwriteOK/status/1291246568373284864
+* https://twitter.com/hungrybowtie/status/1291244595813085189
+* https://twitter.com/hungrybowtie/status/1291243012178075649
+
+
+### Police shove members of the press during arrests | August 5th
+
+While police make arrests after charging protesters (see: or-portland-237), legal observers and journalist gather around the officers to document the arrests. One legal observer is shoved in the head. Officers then unholster pepper spray and approach the press and legal observers. Officers then shove the filmer, a journalist.
+
+tags: journalist, legal-observer, shove, push
+
+id: or-portland-237
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1291246837005815808
 
 
 ## Salem
