@@ -122,6 +122,8 @@ A resident's door bell camera captures a officer running over a man, who is hear
 
 Later updates note that the victim has taken to the hospital and the officer has been suspended. There is no body cam footage because the officer was not wearing one at the time. There is also no dash-cam footage.
 
+The officer has since been fired.
+
 tags: vehicle, drive, kick, strike, beat, body-cam, non-protest
 
 id: mo-florissant-1
@@ -130,6 +132,7 @@ id: mo-florissant-1
 
 * https://www.ksdk.com/article/news/local/video-shows-florissant-officer-in-unmarked-car-hit-man-who-appears-to-be-running-away/63-5db688ff-2f31-4e55-9d24-0707ecdb677f
 * https://www.facebook.com/realstlnews/videos/2610967669219012/
+* https://www.ksdk.com/article/news/crime/florissant-officer-fired/63-022e88b0-2926-4716-9576-de0f212f52e7
 
 
 ### Police push protestors off lawn | June 27th
