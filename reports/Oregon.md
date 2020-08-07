@@ -3674,6 +3674,7 @@ id: or-portland-235
 * https://twitter.com/1misanthrophile/status/1291241933440815104
 * https://twitter.com/MrOlmos/status/1291260012715577345
 
+
 ### Police charge protesters a second time | August 5th
 
 After protesters allegedly throw eggs at police, police then rush the, crowd using excessive force to make arrests.
