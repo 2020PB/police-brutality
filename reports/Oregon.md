@@ -3149,7 +3149,7 @@ id: or-portland-204
 
 ### Trumpet player shot in face | July 27th
 
-A trumpet player was seeing bleeding from the face during a protest early in the morning on July 27th.
+A trumpet player was seen bleeding from the face during a protest early in the morning on July 27th.
 
 A journalist allegedly quotes him as saying that he was holding a leafblower and a trumpet about 20 feet from an officer when he was shot.
 
