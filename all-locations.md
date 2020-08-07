@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-07T21:04:54.814405+00:00
+UPDATED AT: 2020-08-07T21:32:29.013256+00:00
 
 
 # Alabama
@@ -11281,6 +11281,8 @@ id: pa-philadelphia-5
 
 Police shove a group of protestors. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
+He now faces charges of aggravated assault, simple assault, possession of an instrument of crime and recklessly endangering another person. His bail was set at $10,000. The officer has been suspended with intent to dismiss him. The protester was detained for 24 hours, but ultimately released without charges.
+
 tags: shove, baton, strike, beat, protester
 
 id: pa-philadelphia-7
@@ -11292,6 +11294,7 @@ id: pa-philadelphia-7
 * https://twitter.com/Peopledelphia/status/1267588991655784448
 * https://www.inquirer.com/news/philadelphia-police-beating-temple-student-joseph-bologna-protest-20200605.html
 * https://whyy.org/articles/philly-police-commander-videotaped-beating-protesters-linked-to-narcotics-scandal-misconduct/
+* https://www.cnn.com/2020/06/06/us/philly-student-protester/index.html
 
 
 ### Officer attacks woman for no apparent reason | June 1st
