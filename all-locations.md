@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-07T21:32:57.927365+00:00
+UPDATED AT: 2020-08-07T21:33:05.400732+00:00
 
 
 # Alabama
@@ -103,7 +103,7 @@ id: al-huntsville-3
 
 A Huntsville PD Lieutenant stated that they used tear gas on protestors before violence occurred, adding that "they weren't going to roll the dice".
 
-Footage taken of a protestor in a garage after shows bruises consistent with rubber bullet rounds.
+Footage taken of a protestor in a garage after shows bruises consistent with rubber bullet rounds. Another image shows a bloody wound allegedly caused by a rubber bullet.
 
 tags: tear-gas, tear-gas-canister, rubber-bullet, shoot, protester
 
@@ -115,6 +115,7 @@ id: al-huntsville-4
 * https://twitter.com/IanHoppe/status/1268350756186460164
 * https://twitter.com/ByChipBrownlee/status/1268357881381957635
 * https://twitter.com/Josh_Moon/status/1268589098404642817
+* https://twitter.com/taylorcanerday_/status/1268405230338813952
 
 
 ### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
