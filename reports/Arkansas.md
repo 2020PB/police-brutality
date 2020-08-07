@@ -41,3 +41,4 @@ id: ar-littlerock-1
 * https://twitter.com/KATVShelby/status/1267554421019475972
 * https://twitter.com/KATVNews/status/1267509911954440194
 * https://www.youtube.com/watch?v=U0qgO-f6XhA
+
