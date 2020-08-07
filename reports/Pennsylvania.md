@@ -130,7 +130,7 @@ id: pa-philadelphia-5
 
 Police shove a group of protestors. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
-He now faces charges of aggravated assault, simple assault, possession of an instrument of crime and recklessly endangering another person. His bail has been set at $10,000. The protester was detained for 24 hours, but ultimately released without charges.
+He now faces charges of aggravated assault, simple assault, possession of an instrument of crime and recklessly endangering another person. His bail was set at $10,000. The officer has been suspended with intent to dismiss him. The protester was detained for 24 hours, but ultimately released without charges.
 
 tags: shove, baton, strike, beat, protester
 
