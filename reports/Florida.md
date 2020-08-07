@@ -254,6 +254,43 @@ id: fl-orlando-6
 
 ## Tampa
 
+### Police fire rubber bullets at protestors | May 31st
+
+Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protestors.
+
+Incidents include firing at peaceful protestors, fleeing protestors and medics.
+
+Video also includes a bleeding eyewitness describing events.
+
+tags: rubber-bullet, shoot, protester
+
+id: fl-tampa-4
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268765546662805505
+* [Timestamps: 00:00-00:30, 00:38-00:45](https://twitter.com/flawlessfatigue/status/1267600280130109440)
+* https://twitter.com/flawlessfatigue/status/1267600280130109440
+* https://twitter.com/toastiepeach/status/1267243847446343682
+
+
+### Police pepper-spray peaceful protestors | May 31st
+
+Supercut video from June 5th shows multiple incidents where police sprayed peaceful protestors, including protestors attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protestors before spraying.
+
+Additional footage shows the isolated incident videos.
+
+tags: pepper-spray, spray, protester
+
+id: fl-tampa-3
+
+**Links**
+
+* [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
+* https://twitter.com/breezybee97/status/1267244817786048512
+* https://twitter.com/breezybee97/status/1267226224662888448
+
+
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
 
 Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer. They end up using tear-gas on the crowd.
@@ -285,37 +322,6 @@ id: fl-tampa-2
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268694786485166081
-
-
-### Police pepper-spray peaceful protestors | June 5th
-
-Supercut video from June 5th shows multiple incidents where police sprayed peaceful protestors, including protestors attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protestors before spraying
-
-tags: pepper-spray, spray, protester
-
-id: fl-tampa-3
-
-**Links**
-
-* [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
-
-
-### Police fire rubber bullets at protestors | June 5th
-
-Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protestors.
-
-Incidents include firing at peaceful protestors, fleeing protestors and medics.
-
-Video also includes a bleeding eyewitness describing events.
-
-tags: rubber-bullet, shoot, protester
-
-id: fl-tampa-4
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1268765546662805505
-* [Timestamps: 00:00-00:30, 00:38-00:45](https://twitter.com/greg_doucette/status/1268765759783796736)
 
 
 ### Police fire on medic | June 5th
