@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-07T21:04:43.604582+00:00
+UPDATED AT: 2020-08-07T21:04:54.814405+00:00
 
 
 # Alabama
@@ -295,9 +295,11 @@ id: ar-bentonville-1
 
 ### Peaceful protestors kneeling are shot with an explosive projectile. | May 31st
 
-Peaceful protestors kneeling are shot with an explosive projectile.
+Peaceful protestors kneeling in the street are shot with an explosive projectile.
 
-tags: explosive, projectile, protester
+Police deployed tear gas to then clear protesters out of the street after deploying an LRAD dispersal function.
+
+tags: explosive, projectile, protester, tear-gas, lrad
 
 id: ar-littlerock-1
 
@@ -305,6 +307,7 @@ id: ar-littlerock-1
 
 * https://twitter.com/KATVShelby/status/1267554421019475972
 * https://twitter.com/KATVNews/status/1267509911954440194
+* https://www.youtube.com/watch?v=U0qgO-f6XhA
 
 
 
