@@ -332,3 +332,4 @@ id: il-rockford-2
 
 * https://www.rrstar.com/news/20200731/protesters-arrested-after-blocking-traffic-in-downtown-rockford
 * https://www.rrstar.com/news/20200801/protesters-arrested-for-second-straight-day-in-rockford
+
