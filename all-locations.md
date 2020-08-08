@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-08T19:02:09.790878+00:00
+UPDATED AT: 2020-08-08T19:02:30.287417+00:00
 
 
 # Alabama
@@ -4856,6 +4856,27 @@ id: nj-asburypark-1
 
 * https://www.northjersey.com/story/news/local/how-we-live/2020/06/01/app-reporter-apparently-arrested-asbury-park-george-floyd-protest/5314750002/
 * https://twitter.com/greg_doucette/status/1270480487249776641
+
+
+
+
+# New Mexico
+
+## Albuquerque
+
+### Student journalist struck by ricocheting foam bullet | June 1st
+
+Police deployed tear gas and foam bullets against protesters. One student journalist was struck by a ricocheting foam bullet.
+
+tags: journalist, protester, tear-gas, shoot, foam-bullet
+
+id: nm-albuquerque-1
+
+**Links**
+
+* [1:00 - mentions being struck](https://twitter.com/i/broadcasts/1DXxyeqvodExM)
+* [Press Freedom Tracker incident](https://pressfreedomtracker.us/all-incidents/student-journalists-fired-upon-foam-rounds-one-struck-ricochet-amid-albuquerque-protests/)
+* [Police firing munitions at crowd](https://twitter.com/rulljoe/status/1267347317947953155)
 
 
 
