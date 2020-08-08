@@ -3766,6 +3766,19 @@ id: or-portland-241
 * https://twitter.com/hungrybowtie/status/1291613303114883072
 
 
+### Woman arrested and pepper sprayed after yelling at police | August 6th
+
+Footage shows a woman yelling at police in the street. After about a minute, police tell her to get off the street, then arrest her. While she is being held down, another officer pepper sprays her.
+
+tags: protester, arrest, pepper-spray, spray
+
+id: or-portland-247
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1291631618319253505
+
+
 ### Member of the press pepper sprayed | August 7th
 
 A member of the press stands in a crowd of protesters, shining a bright light in the direction of officers as they are documenting. An officer pepper sprays this individual.
@@ -3803,6 +3816,34 @@ id: or-portland-244
 
 * https://twitter.com/R3volutionDaddy/status/1291652345613312000
 * https://twitter.com/R3volutionDaddy/status/1291676448026050560
+
+
+### Reporter arrested | August 7th
+
+Footage shows police approaching an individual and arresting them. No justification is apparent. The individual is believed to be a reporter for the Daily Mail.
+
+tags: journalist, arrest
+
+id: or-portland-245
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1291959372268990464
+* https://twitter.com/GriffinMalone6/status/1291959457295904769
+* https://twitter.com/R3volutionDaddy/status/1291987990873550848
+
+
+### Individual held on the ground, pepper sprayed, punched, and arrested | August 8th
+
+Footage shows an officer sitting on an individual, believed to be a medic. The individual is immobile. An officer pepper sprays them, then the officer on their back punches them in the head.
+
+tags: medic, arrest, pepper-spray, spray, punch
+
+id: or-portland-246
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1292012255714787330
 
 ## Salem
 
