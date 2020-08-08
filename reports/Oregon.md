@@ -3845,6 +3845,21 @@ id: or-portland-246
 
 * https://twitter.com/_WhatRiot/status/1292012255714787330
 
+
+### Violent charge made by police | August 8th
+
+Around 2 AM Pacfic time, police charged at the line of protester shields, using excessive force to detain protesters who had thrown only eggs up to that point. Police can be seen dragging protesters, throwing protesters to the ground, shoving others, and arresting several.
+
+tags: protester, arrest, shove, push
+
+id: or-portland-248
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1292023755502497792
+* https://twitter.com/R3volutionDaddy/status/1292024802333675521
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
