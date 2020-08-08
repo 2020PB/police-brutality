@@ -304,3 +304,31 @@ id: il-joliet-1
 * https://twitter.com/OrozcoJustina/status/1268262843801010179
 * https://www.chicagotribune.com/news/breaking/ct-joliet-mayor-video-fallout-20200606-zeidd3u5xbadxfoedmfkp22akm-story.html
 
+
+## Rockford
+
+### Police beat and arrest bystanders | May 30th
+
+An individual in a stopped car gets out and yells at police, ostensibly about the road closure by police vehicles. Police approach and a scuffle starts. It is difficult to see how it begins. The bystander is then thrown to the ground and arrested. Another bystander is pulled from the car and beaten.
+
+tags: beat, grab, arrest, bystander
+
+id: il-rockford-1
+
+**Links**
+
+* https://www.youtube.com/watch?v=VfRZkKR9l3w
+
+
+### Police arrest, pepper spray, and tear gas protesters | July 31st
+
+Police arrest, pepper spray, and tear gas BLM protesters who blocked the road in counter-protest to a Back the Blue event. No indication has been given that protesters were violent in any way.
+
+tags: protester, arrest, pepper-spray, spray, tear-gas
+
+id: il-rockford-2
+
+**Links**
+
+* https://www.rrstar.com/news/20200731/protesters-arrested-after-blocking-traffic-in-downtown-rockford
+* https://www.rrstar.com/news/20200801/protesters-arrested-for-second-straight-day-in-rockford
