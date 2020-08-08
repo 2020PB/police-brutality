@@ -3761,6 +3761,7 @@ tags: protester, push, shove
 
 id: or-portland-241
 
+**Links**
 
 * https://twitter.com/MrOlmos/status/1291611855819964416
 * https://twitter.com/hungrybowtie/status/1291613303114883072
@@ -3803,6 +3804,7 @@ id: or-portland-243
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1291647242022137856
+
 
 ### Officers shove press during dispersal order | August 7th
 
