@@ -3710,6 +3710,100 @@ id: or-portland-237
 * https://twitter.com/R3volutionDaddy/status/1291246837005815808
 
 
+### Police puncture tires of Snack Van | August 6th
+
+After giving dispersal directions, police chase protesters and the protest Snack Van, which dispenses food and water to protesters. The driver of the van was driving in the direction police stated, but police slashed his tires nonetheless.
+
+tags: protester, property-destruction
+
+id: or-portland-238
+
+**Links**
+
+* https://twitter.com/PDXzane/status/1291608110591692800
+* https://twitter.com/MrOlmos/status/1291610788033990656
+* https://twitter.com/MrOlmos/status/1291628190994018305
+* https://twitter.com/hungrybowtie/status/1291611883502362624
+
+
+### Police shove man with disability | August 6th
+
+As the police line pushes protesters down the street, an officer shoves a man because he isn't walking quickly. The man states he is disabled; an officer says, "You shouldn't have come here then." Other protesters argue with the officer and he shoves them as well.
+
+tags: protester, person-with-disability, shove, push
+
+id: or-portland-239
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1291644306323673090
+* https://twitter.com/Muzzakh/status/1291741137896476672
+
+
+### Officer singles out and pepper sprays protester without apparent cause | August 6th
+
+An officer is seen walking into a crowd of protesters standing still on the sidewalk. The officer discharges his pepper spray at a protester then walks away.
+
+tags: protester, pepper-spray, spray
+
+id: or-portland-240
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1291649145363554309
+
+
+### Police shove members of the press | August 6th
+
+During a dispersal order, press are moving away from police according to the dispersal directions. Press continue to film police and are shoved repeatedly by officers.
+
+tags: protester, push, shove
+
+id: or-portland-241
+
+
+* https://twitter.com/MrOlmos/status/1291611855819964416
+* https://twitter.com/hungrybowtie/status/1291613303114883072
+
+
+### Member of the press pepper sprayed | August 7th
+
+A member of the press stands in a crowd of protesters, shining a bright light in the direction of officers as they are documenting. An officer pepper sprays this individual.
+
+tags: journalist, pepper-spray, spray
+
+id: or-portland-242
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1291645839681576960
+
+
+### Officers grab and shove protesters | August 7th
+
+Police repeatedly shove woman on the sidewalk. One protester attempts to intervene and is thrown into the nearby bushes. A second protester runs up and bumps into an officer, ostensibly trying to intervene. The officer then grabs the protester by the collar and slams him into the hood of a car.
+
+tags: protester, push, shove, grab, throw
+
+id: or-portland-243
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1291647242022137856
+
+### Officers shove press during dispersal order | August 7th
+
+Press and protesters pepper sprayed and shoved while trying to follow orders to move backward.
+
+tags: journalist, pepper-spray, spray, push, shove
+
+id: or-portland-244
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1291652345613312000
+* https://twitter.com/R3volutionDaddy/status/1291676448026050560
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
