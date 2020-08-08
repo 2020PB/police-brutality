@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-07T21:36:24.097234+00:00
+UPDATED AT: 2020-08-08T14:26:43.904302+00:00
 
 
 # Alabama
@@ -12498,7 +12498,9 @@ Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Pol
 
 Richmond was no longer under curfew restrictions at this time.
 
-tags: tear-gas, rubber-bullet, shoot, protester
+In addition, one protestor's phone was shot. Police also appear to deploy pepper spray about an hour after the initial shots.
+
+tags: tear-gas, rubber-bullet, shoot, protester, property-destruction, pepper-spray, spray
 
 id: va-richmond-5
 
@@ -12507,6 +12509,8 @@ id: va-richmond-5
 * https://twitter.com/ZyahnaB/status/1272716305813118976
 * https://twitter.com/ZyahnaB/status/1272716632541089792
 * https://twitter.com/GoadGatsby/status/1272701413169287175
+* https://twitter.com/GoadGatsby/status/1272711269775224841
+* https://twitter.com/GoadGatsby/status/1272716271059173381
 
 
 ### Police pepper-spray journalist | June 21st
