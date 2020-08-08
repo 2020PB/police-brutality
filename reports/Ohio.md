@@ -233,6 +233,20 @@ id: oh-cleveland-5
 * https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
+### Protester pepper sprayed without cause | May 30th
+
+Footage from a body cam captures an officer approaching a woman standing still with a sign at her feet. The officer then discharges pepper spray at her without warning. This led to an escalation, where less lethal shots can be heard fired. The officer was allegedly aiming for an individual carrying a handicap parking sign several feet from the protester who was pepper sprayed. A police official also suggested that the woman may have been providing cover for agitators behind her. No evidence of this can be seen.
+
+tags: protester, pepper-spray, spray
+
+id: oh-cleveland-6
+
+**Links**
+
+* [2:00](https://www.youtube.com/watch?v=A2OTcgS-t9g)
+* https://www.cleveland.com/court-justice/2020/08/body-camera-video-shows-cleveland-police-officer-pepper-sprayed-peaceful-protester-in-the-face.html
+
+
 ## Columbus
 
 ### Cop hits a protestor in the face, escalates to whole crowd being pepper sprayed | May 29th
