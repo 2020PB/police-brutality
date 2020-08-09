@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-09T20:27:33.217012+00:00
+UPDATED AT: 2020-08-09T21:02:06.904579+00:00
 
 
 # Alabama
@@ -11302,7 +11302,6 @@ id: or-portland-247
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1291631618319253505
-* https://www.reddit.com/r/PublicFreakout/comments/i6dg76/portland_police_arrest_women_for_standing_on/
 
 
 ### Member of the press pepper sprayed | August 7th
