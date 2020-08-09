@@ -278,6 +278,19 @@ id: or-portland-20
 * https://twitter.com/MrOlmos/status/1269177830505512961
 
 
+### Officer chases man filming, beats with baton and pepper sprays in the face twice | (Believed to be) June 6th
+
+Aerial footage shows a protester filming the arrest of another protester. An officer approaches him and shoves him away. The man pulls his arm away and yells at the officer. The officer then strikes him with a baton and pepper sprays him.
+
+tags: protester, push, shove, strike, baton, pepper-spray, spray
+
+id: or-portland-249
+
+**Links**
+
+* https://clips.twitch.tv/BoringMotionlessConsoleTebowing
+
+
 ### Police pull departing protestor from bike to arrest them | June 7th
 
 Body cam footage from a police officer shows police approaching person on a bike, believed to be a protestor leaving the protest. The two officers pull the protestor from the bike to make an arrest, throwing the bike aside. An officer then tells passersby at a convenience store to go home.
@@ -3834,6 +3847,32 @@ id: or-portland-245
 * https://twitter.com/GriffinMalone6/status/1291959372268990464
 * https://twitter.com/GriffinMalone6/status/1291959457295904769
 * https://twitter.com/R3volutionDaddy/status/1291987990873550848
+
+
+### Officer knocks helmet off protester's head; officers refuse to allow him to retrieve it | August 7th
+
+Footage shows an individual walking away from officers while a dispersal order is being given. An officer approaches and knocks the protester's helmet off. The protester then attempts to retrieve the helmet, but several officers block his path.
+
+tags: protester, abuse-of-power
+
+id: or-portland-250
+
+**Links**
+
+* https://twitter.com/danielvmedia/status/1292228817889554432
+
+
+### Officers strike individual with batons | August 7th
+
+Footage shows several officers holding a protester down for arrest while several more strike the protester with batons.
+
+tags: arrest, protester, beat, strike, baton
+
+id: or-portland-251
+
+**Links**
+
+* https://twitter.com/danielvmedia/status/1292228819588452359
 
 
 ### Individual held on the ground, pepper sprayed, punched, and arrested | August 8th
