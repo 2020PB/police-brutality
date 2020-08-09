@@ -3780,6 +3780,7 @@ id: or-portland-247
 * https://twitter.com/_WhatRiot/status/1291631618319253505
 * https://www.reddit.com/r/PublicFreakout/comments/i6dg76/portland_police_arrest_women_for_standing_on/
 
+
 ### Member of the press pepper sprayed | August 7th
 
 A member of the press stands in a crowd of protesters, shining a bright light in the direction of officers as they are documenting. An officer pepper sprays this individual.
