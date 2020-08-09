@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-09T20:27:06.426068+00:00
+UPDATED AT: 2020-08-09T20:27:19.994604+00:00
 
 
 # Alabama
@@ -2450,6 +2450,21 @@ id: fl-orlando-6
 * https://twitter.com/edgarcomellas/status/1268555233065668608
 * https://www.orlandosentinel.com/news/crime/os-ne-orlando-george-floyd-protest-traffic-stop-deputy-breaks-window-20200604-y52jqcaogjfw5nzfcmu6tlgzhi-story.html
 * https://www.wdbo.com/news/local/video-shows-orange-county-deputy-smashing-woman-window-after-refusing-leave/2JrFiuwJgtkVzGJqXrLS7I/
+
+
+## St. Petersburg
+
+### Police throw explosives at protesters | June 1st
+
+Police declare unlawful assembly on a small, peaceful protest outside of police station a little bit before midnight. The police officer informs that they have 3 to 5 minutes to leave. In less than 3 minutes the police come out of their building and throw explosives at protesters. The explosives appear to be stun grenades.
+
+tags: protester, stun-grenade
+
+id: fl-stpetersburg-1
+
+**Links**
+
+* https://www.facebook.com/anthony.koedel/videos/10223006220326650/
 
 
 ## Tampa
@@ -7253,6 +7268,20 @@ id: oh-columbus-17
 
 * https://twitter.com/snowmanonfire/status/1267122517614964743
 * https://twitter.com/greg_doucette/status/1269118992540749831
+
+
+### Woman shot in hand by wooden bullet | May 31st
+
+Police fire at protesters on the sidewalk while giving dispersal order. The filmer is shot in the hand with a wooden bullet. Several images show the recovered round and the damage to her hand.
+
+tags: protester, shoot, wooden-bullet
+
+id: oh-columbus-25
+
+**Links**
+
+* https://www.facebook.com/meatambulance/videos/10220498765450514/
+* https://www.facebook.com/1573913165/posts/10220477908769110
 
 
 ### Police casually pepper spray passers by | (believed to be) June 1st
