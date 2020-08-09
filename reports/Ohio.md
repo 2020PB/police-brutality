@@ -444,6 +444,20 @@ id: oh-columbus-17
 * https://twitter.com/greg_doucette/status/1269118992540749831
 
 
+### Woman shot in hand by wooden bullet | May 31st
+
+Police fire at protesters on the sidewalk while giving dispersal order. The filmer is shot in the hand with a wooden bullet. Several images show the recovered round and the damage to her hand.
+
+tags: protester, shoot, wooden-bullet
+
+id: oh-columbus-25
+
+**Links**
+
+* https://www.facebook.com/meatambulance/videos/10220498765450514/
+* https://www.facebook.com/1573913165/posts/10220477908769110
+
+
 ### Police casually pepper spray passers by | (believed to be) June 1st
 
 Two squad cars full of police arrive at an intersection, sirens wailing. Police get out and start pepper-spraying people. Notably, there are two people on a fire escape who look like they may be treating two others for pepper-spray or tear gas exposure. Police pepper-spray them. Police later pepper spray one a second time, as she's in the process of retreating and rinsing her eyes with milk due to the first pepper spray exposure.
