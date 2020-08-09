@@ -3778,7 +3778,7 @@ id: or-portland-247
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1291631618319253505
-
+* https://www.reddit.com/r/PublicFreakout/comments/i6dg76/portland_police_arrest_women_for_standing_on/
 
 ### Member of the press pepper sprayed | August 7th
 
