@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-09T20:26:39.254169+00:00
+UPDATED AT: 2020-08-09T20:26:48.109710+00:00
 
 
 # Alabama
@@ -293,6 +293,20 @@ id: ar-bentonville-1
 
 
 ## Little Rock
+
+### Protesters tear gas protesters | May 30th
+
+Protesters gathered on courthouse property during a May 30th protest. Some graffiti can be seen on the courthouse walls. Police deployed tear gas against protesters to push them off the courthouse lawn and into the street, after warning protesters they were not allowed to be on the courthouse lawn. Police continued to deploy tear gas as protesters moved towards Interstate 630, where they blocked the road for some time
+
+tags: protester, tear-gas
+
+id: ar-littlerock-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=Pfn65qaXosU
+* https://www.youtube.com/watch?v=p7z-u_a8qo0
+
 
 ### Peaceful protestors kneeling are shot with an explosive projectile. | May 31st
 
