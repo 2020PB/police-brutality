@@ -277,6 +277,7 @@ id: or-portland-20
 
 * https://twitter.com/MrOlmos/status/1269177830505512961
 
+
 ### Officer chases man filming, beats with baton and pepper sprays in the face twice | (Believed to be) June 6th
 
 Aerial footage shows a protester filming the arrest of another protester. An officer approaches him and shoves him away. The man pulls his arm away and yells at the officer. The officer then strikes him with a baton and pepper sprays him.
