@@ -252,6 +252,21 @@ id: fl-orlando-6
 * https://www.wdbo.com/news/local/video-shows-orange-county-deputy-smashing-woman-window-after-refusing-leave/2JrFiuwJgtkVzGJqXrLS7I/
 
 
+## St. Petersburg
+
+### Police throw explosives at protesters | June 1st
+
+Police declare unlawful assembly on a small, peaceful protest outside of police station a little bit before midnight. The police officer informs that they have 3 to 5 minutes to leave. In less than 3 minutes the police come out of their building and throw explosives at protesters. The explosives appear to be stun grenades.
+
+tags: protester, stun-grenade
+
+id: fl-stpetersburg-1
+
+**Links**
+
+* https://www.facebook.com/anthony.koedel/videos/10223006220326650/
+
+
 ## Tampa
 
 ### Police fire rubber bullets at protestors | May 31st
