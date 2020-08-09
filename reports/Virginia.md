@@ -166,7 +166,7 @@ id: va-richmond-20
 
 ### Police respond to thrown water bottle with excessive force | June 14th
 
-A single water bottle can be seen thrown at and striking an officer. The bottle appears to be empty. Water is then sloshed in the officer's direction. The officer unholsters his pepper spray. 
+A single water bottle can be seen thrown at and striking an officer. The bottle appears to be empty. Water is then sloshed in the officer's direction. The officer unholsters his pepper spray.
 
 Footage uploaded 3 minutes later shows another officer discharging pepper spray at a protester without apparent cause.
 
