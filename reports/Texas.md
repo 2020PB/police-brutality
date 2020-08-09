@@ -425,6 +425,19 @@ id: tx-houston-4
 * https://twitter.com/greg_doucette/status/1268392253665546245
 
 
+### Officers violently arrest protestors on the sidewalk | June 2nd
+
+Footage from an extended stream shows police and protesters facing off on the sidewalk. Protesters are standing still several feet away from police. On multiple occasions, several officers push from the police line, seize protesters without warning and drag them behind police lines for arrest. Only after several minutes does an officer emerge to explain that protesters will be arrested. After this, protesters comply without resistance.
+
+tags: protester, arrest, grab, shove, push
+
+id: tx-houston-5
+
+**Links**
+
+* [33:00, 35:30](https://www.youtube.com/watch?v=1ppU0XVuQI4&t=2130s)
+
+
 ## San Antonio
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
