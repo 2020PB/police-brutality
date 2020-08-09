@@ -28,6 +28,20 @@ id: ne-lincoln-2
 * https://twitter.com/ChrisDunkerLJS/status/1268981851164684290
 
 
+### Woman bleeding from face after being shot by police | May 31st
+
+After a protester threw a firework at police, police shot tear gas and impact munitions. A journalist livestreaming the incident shows a woman bleeding from the face after being shot by police. She states she was shot by a rubber bullet.
+
+tags: protester, tear-gas, shoot, projectile
+
+id: ne-lincoln-3
+
+**Links**
+
+* https://www.youtube.com/watch?v=GhZieEDPfv4
+* [Full livestream; incident around 15:00](https://www.facebook.com/LincolnJournalStar/videos/253681835838738/)
+
+
 ## Omaha
 
 ### Police Mace, shoot pepper bullets at protesters sitting on the ground | May 31st
