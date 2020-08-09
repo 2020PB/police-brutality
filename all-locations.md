@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-09T20:27:19.994604+00:00
+UPDATED AT: 2020-08-09T20:27:33.217012+00:00
 
 
 # Alabama
@@ -11302,6 +11302,7 @@ id: or-portland-247
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1291631618319253505
+* https://www.reddit.com/r/PublicFreakout/comments/i6dg76/portland_police_arrest_women_for_standing_on/
 
 
 ### Member of the press pepper sprayed | August 7th
@@ -12776,6 +12777,35 @@ id: va-richmond-6
 
 * https://twitter.com/BreRVA/status/1271982379180138502
 * https://richmond.com/news/local/crime/richmond-prosecutor-clears-richmond-police-in-several-complaints-related-to-civil-unrest/article_7bb5a33f-0b35-5d19-9416-a3049a9670b0.html
+
+
+### Police pepper spray protesters on sidewalk | June 14th
+
+Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidewalk. Police sprayed broadly at protesters several feet away, some locking arms with one another. No aggression on the part of protesters can be seen.
+
+tags: protester, pepper-spray, spray
+
+id: va-richmond-20
+
+**Links**
+
+* https://twitter.com/aeringle/status/1272347287902130177
+
+
+### Police respond to thrown water bottle with excessive force | June 14th
+
+A single water bottle can be seen thrown at and striking an officer. The bottle appears to be empty. Water is then sloshed in the officer's direction. The officer unholsters his pepper spray.
+
+Footage uploaded 3 minutes later shows another officer discharging pepper spray at a protester without apparent cause.
+
+tags: protester, pepper-spray, spray
+
+id: va-richmond-21
+
+**Links**
+
+* https://twitter.com/aeringle/status/1272357473211559936
+* https://twitter.com/aeringle/status/1272358269122723846
 
 
 ### Police fire tear gas and rubber bullets at peaceful protest | June 15th
