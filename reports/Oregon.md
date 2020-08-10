@@ -201,13 +201,13 @@ id: or-portland-23
 
 In a live broadcast, police are seen shoving a member of the press. She states "An officer Kemmerer stuck his hand to my throat as I held up my press badge." The camera is turned to show that she is clearly labeled press on her ball cap and that she has a badge. The incident occurred at around the 9 minute mark of the 50 minute broadcast. 
 
-tags: press, push, shove
+tags: journalist, push, shove
 
 id: or-portland-258
 
 **Links**
 
-* https://twitter.com/i/broadcasts/1ynKOpMqVeqGR
+* [9:00](https://twitter.com/i/broadcasts/1ynKOpMqVeqGR)
 * https://twitter.com/Human42LM/status/1268839807582523392
 
 
