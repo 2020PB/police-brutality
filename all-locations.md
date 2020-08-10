@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-10T16:52:25.352588+00:00
+UPDATED AT: 2020-08-10T17:21:33.818546+00:00
 
 
 # Alabama
@@ -7733,6 +7733,20 @@ id: or-portland-23
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268317409095622658
+
+
+### Police shove member of the press | June 4th
+
+In a live broadcast, police are seen shoving a member of the press. She states "An officer Kemmerer stuck his hand to my throat as I held up my press badge." The camera is turned to show that she is clearly labeled press on her ball cap and that she has a badge. The incident occurred at around the 9 minute mark of the 50 minute broadcast.
+
+tags: journalist, push, shove
+
+id: or-portland-258
+
+**Links**
+
+* [9:00](https://twitter.com/i/broadcasts/1ynKOpMqVeqGR)
+* https://twitter.com/Human42LM/status/1268839807582523392
 
 
 ### Police shoot peaceful protestors on sidewalk | June 5th
