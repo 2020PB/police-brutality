@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-10T17:21:33.818546+00:00
+UPDATED AT: 2020-08-10T18:19:50.082112+00:00
 
 
 # Alabama
@@ -12592,6 +12592,22 @@ id: tx-houston-5
 **Links**
 
 * [33:00, 35:30](https://www.youtube.com/watch?v=1ppU0XVuQI4&t=2130s)
+
+
+## Lewisville
+
+### Officers deploy tear gas against peaceful protesters | June 2nd
+
+Police deploy tear gas against protesters after drunk driver ran into oncoming traffic, knocking over a woman and child. Police arrested the driver. Police said some protesters thought police were arresting a protester and attempted to intervene; the Lewisville mayor stated that police deployed tear gas because protesters were blocking a road. Police then deployed tear gas against the crowd and arrested 9 protesters. After tear gas was deployed, police allege that protesters threw bottles at officers.
+
+tags: protester, arrest, tear-gas
+
+id: tx-lewisville-1
+
+**Links**
+
+* https://twitter.com/psomeoki/status/1267987008380645376
+* https://www.crosstimbersgazette.com/2020/06/03/lewisville-police-release-details-about-arrests-at-protest/
 
 
 ## San Antonio
