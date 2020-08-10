@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-09T21:21:37.500676+00:00
+UPDATED AT: 2020-08-10T02:04:35.942551+00:00
 
 
 # Alabama
@@ -1134,6 +1134,20 @@ id: ca-losangeles-44
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
+
+
+### Woman recording peaceful protests shot by less lethals | July 25th
+
+A woman who was recording protests was shot with less lethals by LAPD officers. She states that bystanders and peaceful protesters were struck.
+
+tags: shoot, projectile, protester
+
+id: ca-losangeles-47
+
+**Links**
+
+* https://twitter.com/Jas20274433/status/1288141598698610689
+* https://twitter.com/Jas20274433/status/1288141708484464641
 
 
 ### Man filming arrests is thrown to the ground | July 31st
