@@ -3902,6 +3902,64 @@ id: or-portland-248
 * https://twitter.com/R3volutionDaddy/status/1292024802333675521
 
 
+### Police use tear gas and impact munitions against protesters | August 8th
+
+After protesters had thrown burning trash into the Portland Police Association, police declared a riot. Police then began pushing protesters away from the building using tear gas, stun grenades, and impact munitions. Additionally, footage shows police shoving protesters to the ground, then firing on them at short range.
+
+tags: protester, tear-gas, shoot, projectile, push, shove, stun-grenade, baton
+
+id: or-portland-252
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1292352907367477249
+* https://twitter.com/GriffinMalone6/status/1292363451025694720
+* https://twitter.com/GriffinMalone6/status/1292358836360077312
+* https://twitter.com/MrOlmos/status/1292364416135000065
+* https://twitter.com/MrOlmos/status/1292367224653545472
+
+
+### Journalist shot in arm | August 8th
+
+A journalist with Frontline Access was struck in the arm around midnight on August 8th by "a flashbang or something." Another journalist states he was unresponsive for a short time. He was attended at the scene by protest medics. He states in a tweet the following day that he lost most of the feeling in his arm and went to the ER, where doctors said his arm was fractured.
+
+tags: journalist, explosive, projectile
+
+id: or-portland-254
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1292357734357069824
+* https://twitter.com/suzettesmith/status/1292357933552947201
+* https://twitter.com/sethdunlap/status/1292662810283929601
+
+
+### Journalist shoved by police | August 8th
+
+A group of press and legal observers are gathered on the sidewalk. Police direct them into the street to the other side. The group begins to obey. Officers shoves the filmer, a journalist, from behind.
+
+tags: journalist, shove, push
+
+id: or-portland-255
+
+**Links**
+
+* https://twitter.com/Shauna_Sowersby/status/1292354667901407232
+
+
+### Police throw explosives at crowd as they drive away | August 9th
+
+After pushing protesters into Kenton Park, police mounted a van and retreated. As they did so, officers launched tear gas and stun grenades at protesters. No justification is clear.
+
+tags: protester, tear-gas, stun-grenade
+
+id: or-portland-253
+
+**Links**
+
+* https://twitter.com/Shauna_Sowersby/status/1292365400403881984
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
