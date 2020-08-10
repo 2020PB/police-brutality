@@ -805,6 +805,20 @@ id: ca-losangeles-44
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
 
 
+### Police fire less lethals at bystanders and peaceful protesters | July 25th
+
+A woman who was recording protests was shot with less lethals by LAPD officers. She states that bystanders and peaceful protesters were struck.
+
+tags: shoot, projectile, protester, bystander
+
+id: ca-losangeles-47
+
+**Links**
+
+https://twitter.com/Jas20274433/status/1288141598698610689?s=20
+https://twitter.com/Jas20274433/status/1288141708484464641?s=20
+
+
 ### Man filming arrests is thrown to the ground | July 31st
 
 A man filming protesters being arrested is told by officers conflicting places to stand. One officer then shoves him to the ground and tells him to back up.
