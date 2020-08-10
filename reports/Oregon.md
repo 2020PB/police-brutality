@@ -3960,6 +3960,20 @@ id: or-portland-253
 * https://twitter.com/Shauna_Sowersby/status/1292365400403881984
 
 
+### Journalist shoved by police | August 9th
+
+During arrests made in Kenton Park, a journalist attempted to film arrests. An officer shoved her away repeatedly, telling her, "The park is closed, what about that do you not understand?" She is wearing a neon reflective vest labeled press.
+
+tags: journalist, push, shove
+
+id: or-portland-256
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1292694939311017992
+* https://twitter.com/PDocumentarians/status/1292703127053819904
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
