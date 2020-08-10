@@ -813,6 +813,7 @@ tags: shoot, projectile, protester
 
 id: ca-losangeles-47
 
+**Links**
 
 * https://twitter.com/Jas20274433/status/1288141598698610689
 * https://twitter.com/Jas20274433/status/1288141708484464641
