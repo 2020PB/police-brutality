@@ -46,7 +46,7 @@ id: pa-philadelphia-1
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Protestor fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protestor, then arrest him, the driver and a passerby filming | 
+### Protestor fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protestor, then arrest him, the driver and a passerby filming | (Believed to be) May 30th
 
 Two protestors run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protestor can enter. The driver then pulls over to the side of the road shortly after.
 
