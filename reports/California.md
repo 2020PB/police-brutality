@@ -812,8 +812,8 @@ A woman who was recording protests was shot with less lethals by LAPD officers. 
 
 
 
-https://twitter.com/Jas20274433/status/1288141598698610689?s=20
-https://twitter.com/Jas20274433/status/1288141708484464641?s=20
+https://twitter.com/Jas20274433/status/1288141598698610689
+https://twitter.com/Jas20274433/status/1288141708484464641
 
 
 
