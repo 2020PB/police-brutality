@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-10T18:19:50.082112+00:00
+UPDATED AT: 2020-08-10T19:06:18.591566+00:00
 
 
 # Alabama
@@ -11390,7 +11390,9 @@ id: or-portland-244
 
 Footage shows police approaching an individual and arresting them. No justification is apparent. The individual is believed to be a reporter for the Daily Mail.
 
-tags: journalist, arrest
+The journalist recovered his gear from the precinct several days later, to find much of it had been rendered unusable.
+
+tags: journalist, arrest, property-destruction
 
 id: or-portland-245
 
@@ -11399,6 +11401,7 @@ id: or-portland-245
 * https://twitter.com/GriffinMalone6/status/1291959372268990464
 * https://twitter.com/GriffinMalone6/status/1291959457295904769
 * https://twitter.com/R3volutionDaddy/status/1291987990873550848
+* https://twitter.com/TheBrandonPaape/status/1292875227454562304
 
 
 ### Officer knocks helmet off protester's head; officers refuse to allow him to retrieve it | August 7th
