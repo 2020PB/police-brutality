@@ -440,7 +440,7 @@ id: tx-houston-5
 
 ## Lewisville
 
-### Officers deploy tear gas at peaceful protesters | June 2nd
+### Officers deploy tear gas against peaceful protesters | June 2nd
 
 Police deploy tear gas against protesters after drunk driver ran into oncoming traffic, knocking over a woman and child. Police arrested the driver. Police said some protesters thought police were arresting a protester and attempted to intervene; the Lewisville mayor stated that police deployed tear gas because protesters were blocking a road. Police then deployed tear gas against the crowd and arrested 9 protesters. After tear gas was deployed, police allege that protesters threw bottles at officers.
 
