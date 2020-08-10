@@ -3974,6 +3974,19 @@ id: or-portland-256
 * https://twitter.com/PDocumentarians/status/1292703127053819904
 
 
+### Bystander shot in the head | August 10th
+
+A man sate he was walking home shows injuries to his head and arms, allegedly received from police. He states that he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
+
+tags: bystander, shoot, rubber-bullet, baton
+
+id: or-portland-257
+
+**Links**
+
+* https://twitter.com/Mestizo43/status/1292758596128665600
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
