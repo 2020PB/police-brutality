@@ -146,7 +146,6 @@ id: mo-ferguson-2
 
 ## Florissant
 
-
 ### Florissant officer hits man with unmarked police vehicle | June 2nd
 
 A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm.
