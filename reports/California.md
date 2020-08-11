@@ -1175,7 +1175,6 @@ id: ca-sanjose-9
 
 ### Police shoot at woman in apartment | May 30th
 
-
 A woman was yelling at police during a May 30th protest from her apartment window. Shortly after starting a recording on her cell phone, police fired projectiles at the woman's apartment. She recovered 13 projectiles, including rubber bullets and pepper balls. Several of her windows were damaged.
 
 A police spokesperson stated that someone in the building was throwing glass bottles at police. The woman states she was not throwing anything.
