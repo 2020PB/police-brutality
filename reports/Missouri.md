@@ -141,7 +141,7 @@ id: mo-ferguson-2
 
 **Links**
 
-* https://twitter.com/ChuckModi1/status/1292675536527994880?s=20
+* https://twitter.com/ChuckModi1/status/1292675536527994880
 
 
 ## Florissant
