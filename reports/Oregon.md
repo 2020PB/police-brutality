@@ -3576,7 +3576,7 @@ id: or-portland-225
 
 ### Police slash journalist's tires | August 1st
 
-A parked car attempts to pull out and drive away. OFficers slash the car's tires. The woman driving the car is wearing a helmet and PRESS shirt.
+A parked car attempts to pull out and drive away. OFficers slash the car's tires and shatter the rear windshield. The woman driving the car is wearing a helmet and PRESS shirt.
 
 tags: journalist, abuse-of-power, property-destruction
 
@@ -3586,6 +3586,7 @@ id: or-portland-226
 
 * https://twitter.com/hungrybowtie/status/1289793915332079617
 * [2:00](https://www.pscp.tv/w/1MnGndnYllExO)
+* https://www.oregonlive.com/news/2020/08/portland-police-smash-window-slash-tires-of-womans-prius-during-protest-dustup-video.html
 
 
 ### Police charge at protesters | August 1st
@@ -4003,6 +4004,46 @@ id: or-portland-257
 
 * https://twitter.com/Mestizo43/status/1292758596128665600
 
+
+### Police charge at protesters | August 10th
+
+Police declare unlawful assembly at a protest outside a police precinct. Police allege that protesters had been throwing things at them. Police begin walking protesters backwards. Protesters appear to be obeying. Police then charge at protesters, shoving several to the ground and into bushes.
+
+tags: protester, shove, push, baton
+
+id: or-portland-259
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1293069575597121536
+* https://twitter.com/MrOlmos/status/1293070710970056705
+
+
+### Police threaten journalist | August 10th
+
+Officer threatens journalist with arrest. The journalist is standing on the sidewalk at some distance from police. Another journalist can be heard saying, "[The filmer] was nowhere near police."
+
+tags: journalist, threaten, abuse-of-power
+
+id: or-portland-260
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1293073348444864513
+
+
+### Police shove members of the press | August 11th
+
+Police give conflicting orders to press attempting to film an arrest. Police repeatedly shove members of the press, throwing one to the ground.
+
+tags: journalist, shove, push
+
+id: or-portland-261
+
+**Links**
+
+* https://twitter.com/matlockartist/status/1293113555101683714
+* https://twitter.com/Mestizo43/status/1293120463715983360
 
 ## Salem
 

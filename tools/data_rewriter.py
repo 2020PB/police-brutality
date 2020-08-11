@@ -157,7 +157,7 @@ def validate_ids_unique(data):
         row_id = row["id"]
         if row_id in seen:
             print(row)
-            critical_exit(f"Duplicate id found {row_id}")
+            data_builder.critical_exit(f"Duplicate id found {row_id}")
         else:
             seen.add(row_id)
 
@@ -169,7 +169,7 @@ def add_missing_ids(data):
             print("Added id: " + row["id"])
         if "name" not in row:
             print(row)
-            critical_exit("this row is broken with no name? (missing ###):")
+            data_builder.critical_exit("this row is broken with no name? (missing ###):")
 
     return data
 
