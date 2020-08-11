@@ -181,6 +181,19 @@ id: pa-philadelphia-10
 * https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
+### Police pepper spray protesters on their knees | June 1st
+
+Protesters are seen in the middle of the road on their knees with their hands up. Officers are seen walking on the median and indiscriminately pepper spraying the protesters below them.
+
+tags: pepper-spray, spray, protester
+
+id: pa-philadelphia-13
+
+**Links**
+
+* https://twitter.com/d0wnrrrrr/status/1267848782689054723
+
+
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
