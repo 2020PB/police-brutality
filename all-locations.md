@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-11T18:39:57.483004+00:00
+UPDATED AT: 2020-08-11T19:04:52.262441+00:00
 
 
 # Alabama
@@ -11677,6 +11677,19 @@ id: pa-philadelphia-2
 
 * https://youtu.be/QDcCFN_LQPA
 * [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)](https://twitter.com/greg_doucette/status/1269303637060325377)
+
+
+### Police repeatedly shove protester | May 30th
+
+A protester is seen in a scuffle with police. It is unknown what caused this interaction. Police repeatedly push and shove the protester with no attempt to detain the individual.
+
+tags: shove, push, protester
+
+id: pa-philadelphia-14
+
+**Links**
+
+* https://twitter.com/MeKatharine/status/1266870362433822720
 
 
 ### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
