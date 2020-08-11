@@ -120,17 +120,31 @@ id: mo-kansascity-7
 
 At protests honoring the 6th anniversary of Mike Brown's death, police charged at protesters, pushing them from one side of the street to another. Police discharged pepper spray en masse and tackled numerous protesters to make arrests. One protester is seen helping another over a short fence; an officer grabs this protester by the backpack and hurls them to the ground. The officer continues to yank the backpack. The protester slips off the backpack and runs away.
 
+tags: pepper-spray, spray, push, shove, protester
+
+id: mo-ferguson-1
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1292669449624068096
+* https://twitter.com/search4swag/status/1292665603904462849
+* https://twitter.com/RachelDRice/status/1292663621852573696
 
 
-
-
+### Police pepper spray media personel | August 8th
 
 Chris Philips, a well known member of the media in the Ferguson area, discusses being pepper sprayed by police without and order to of dispersal. He states that he was not recording at the time and was preparing to head home when police decided to rush at protesters. Pepper spray is visible on his face and torso as he walks away and tries to recover
 
+tags: pepper-spray, spray, journalist
+
+id: mo-ferguson-2
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1292675536527994880?s=20
 
 
-
-
+### Florissant officer hits man with unmarked police vehicle | June 2nd
 
 A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm.
 
