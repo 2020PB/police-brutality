@@ -79,7 +79,7 @@ id: wi-milwaukee-2
 
 Footage shows protesters peacefully marching across Hoan Bridge. Protesters are met by a line of police who force them back across the bridge. During this encounter, a scuffle breaks out - it is unclear what caused it. Police respond by shoving protesters and throwing smoke bombs. 2 protesters are arrested for unknown reasons. Police also fire less lethal munitions, hitting at least one person in the leg - seen in the second link. 
 
-tags: gas, protester, projectile, shoot, smoke-bomb, arrest
+tags: gas, protester, projectile, shoot, arrest
 
 id: wi-milwaukee-3
 
