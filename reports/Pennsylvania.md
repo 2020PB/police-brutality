@@ -180,6 +180,18 @@ id: pa-philadelphia-10
 * https://twitter.com/jpegjoshua/status/1267636972404736000
 * https://twitter.com/jpegjoshua/status/1267599264257015816
 
+### Police pepper spray protesters on their knees | June 1st
+
+Protesters are seen in the middle of the road on their knees with their hands up. Police proceed to indiscriminately pepper spray them.
+
+tags: pepper-spary, spray, protester
+
+id: pa-philadelphia-13
+
+**Links**
+
+* https://twitter.com/d0wnrrrrr/status/1267848782689054723?s=20
+
 
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
 
