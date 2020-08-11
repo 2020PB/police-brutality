@@ -2635,6 +2635,20 @@ id: or-portland-165
 * https://twitter.com/tyler_ensign/status/1286940248006512640
 
 
+### Journalist shot in hand and face | July 24th
+
+A photojournalist and filmmaker wearing his press badge around his neck was shot in the hand and face by an officer using pepper balls. The journalist was standing several feet from the fence, filming the surrounding area around midnight on the 24th of July. An officer stuck their gun through a gap in the fencing and shot at the journalist repeatedly.
+
+tags: journalist, shoot, pepper-ball
+
+id: or-portland-262
+
+**Links**
+
+* https://twitter.com/danielvmedia/status/1287101427144253440
+* https://twitter.com/AlexMilanTracy/status/1286929119767224322
+
+
 ### Unlawful assembly declared; federal officers fire tear gas | July 25th
 
 Federal officers declare unlawful assembly around 1:20 AM and begin a second round of tear gas. Protestors use leaf blowers to push tear gas back.
