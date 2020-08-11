@@ -2,7 +2,7 @@ import random
 import string
 
 import data_builder
-from tag_formatter import TAG_OVERRIDES, WNL, read_tag_file, format_tags
+from text_formatter import COMMON_MISSPELLINGS, fix_common_misspellings, format_tags, read_tag_file, TAG_OVERRIDES, WNL
 
 unknown_location_acronym = "tbd"
 
@@ -144,6 +144,8 @@ def gen_md_from_rows(state, rows, all_tags):
 
         # convert tags from a list to a string
         row["tags_md"] = format_tags(WNL, all_tags, TAG_OVERRIDES, row["tags"])
+        row["name"] = fix_common_misspellings(row["name"], COMMON_MISSPELLINGS)
+        row["description"] = fix_common_misspellings(row["description"], COMMON_MISSPELLINGS)
 
         # Create this row's markdown
         lines.append(row_format.format(**row))

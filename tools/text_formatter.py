@@ -19,6 +19,8 @@ TAG_OVERRIDES = {
     "real-bullet": "live-round",
 }
 
+COMMON_MISSPELLINGS = {"protestor": "protester", "taze": "tase"}
+
 WNL = WordNetLemmatizer()
 
 
@@ -61,6 +63,14 @@ def format_tag(wnl, tag_overrides, tag):
         return tag_overrides[output_tag]
 
     return output_tag
+
+
+def fix_common_misspellings(text, misspellings_dict):
+    for bad, good in misspellings_dict.items():
+        text = text.replace(bad, good)
+        text = text.replace(bad.title(), good.title())
+
+    return text
 
 
 if __name__ == "__main__":
