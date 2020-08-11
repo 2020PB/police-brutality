@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-11T03:11:28.920400+00:00
+UPDATED AT: 2020-08-11T11:59:05.168029+00:00
 
 
 # Alabama
@@ -13439,6 +13439,7 @@ id: wa-seattle-13
 
 * https://twitter.com/MikeApe7/status/1269533701194444800
 * https://twitter.com/MikeApe7/status/1269538201254805504
+* https://twitter.com/ColeMillerTV/status/1269459358288494592
 
 
 ### Police pepper spray protesters who can't move back | June 6th
