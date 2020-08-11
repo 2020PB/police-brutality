@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-10T20:03:37.563148+00:00
+UPDATED AT: 2020-08-11T01:51:25.332264+00:00
 
 
 # Alabama
@@ -11531,7 +11531,7 @@ id: or-portland-256
 
 ### Bystander shot in the head | August 10th
 
-A man sate he was walking home shows injuries to his head and arms, allegedly received from police. He states that he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
+A man said he was walking home shows injuries to his head and arms, allegedly received from police. He states that he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
 
 tags: bystander, shoot, rubber-bullet, baton
 
