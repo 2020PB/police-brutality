@@ -49,6 +49,22 @@ id: ca-compton-1
 * https://ktla.com/news/local-news/violent-arrest-caught-on-camera-in-compton/
 * [Street View](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
 
+### Sheriff's Deputies fire rubber bullets, tear-gas at protesters | June 21
+
+Several thousand protesters marched on Father's Day from the site of LASD shooting of Andrés Guardado on June 18 to the Los Angeles Sheriff's station in Compton. Andrés' father addressed the crowd in English and in Spanish. Deputies in riot gear pointed guns at protesters who chanted "put down your guns." A Sheriff Department helicopter flew overhead urging local residents who had joined the march to leave and go home so that they would not be teargassed when outside agitators were dealt with. Black protesters and protest leaders shared hugs with Guardado's family to show solidarity between the Black and Latino communities. As a few mothers of children slain by LAPD or LASD told their stories, a group of protesters split off to confront a second band of Deputies in riot gear. One protester yelled "F*** the police!" The deputies opened fire with rubber bullets, tear-gas, and flash bangs.
+
+tags: tear-gas, projectile, shoot, rubber-bullet, protester, LASD
+
+id: ca-compton-2
+
+**Links**
+
+* https://twitter.com/LATACO/status/1274874827786997761?s=20
+* https://twitter.com/LATACO/status/1274881935664267264?s=20
+* https://www.lataco.com/protest-andres-guardado/
+* https://theintercept.com/2020/06/25/andres-guardado-los-angeles-police/
+
+
 
 ## Costa Mesa
 
