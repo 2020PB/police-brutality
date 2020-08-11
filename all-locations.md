@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-11T16:27:35.810728+00:00
+UPDATED AT: 2020-08-11T16:42:03.066895+00:00
 
 
 # Alabama
@@ -379,6 +379,35 @@ id: ca-compton-1
 * https://laist.com/2020/06/10/los_angeles_deputies_compton_video_violent_arrest_dalvin_price.php
 * https://ktla.com/news/local-news/violent-arrest-caught-on-camera-in-compton/
 * [Street View](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
+
+### Sheriff's Deputies fire less-lethal rounds, tear gas at protesters | June 21st
+
+Several thousand protesters marched on Father's Day from the site of Los Angeles Sheriff's Department shooting of Andrés Guardado on June 18 to the Los Angeles Sheriff's station in Compton. Andrés' father addressed the crowd in English and in Spanish. Deputies in riot gear pointed guns at protesters who chanted "put down your guns." A Sheriff Department helicopter flew overhead urging local residents who had joined the march to leave and go home so that they would not be tear-gassed when outside agitators were dealt with. Black protesters and protest leaders shared hugs with Guardado's family to show solidarity between the Black and Latino communities. As a few mothers of children slain by LAPD or LASD told their stories, a group of protesters split off to confront a second band of Deputies in riot gear. One protester yelled "F*** the police!" The deputies opened fire with non-lethal rounds, tear gas, and flash bangs.
+
+Footage shows scattered protestors on pedestrian walkway with deputies firing tear gas around them. Additional footage shows protestors helping one another recover from the damage.
+
+A journalist states they were tear-gassed while holding up their press badge in plain view.
+
+Footage shows police and protestors separated by a barricade. Protestors shout at deputies to put their guns down. Without verbal warning, deputies fire on protestors.
+
+In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by deputies.
+
+tags: tear-gas, projectile, shoot, rubber-bullet, protester, journalist
+
+id: ca-compton-2
+
+**Links**
+
+* https://twitter.com/LATACO/status/1274874827786997761
+* https://twitter.com/LATACO/status/1274881935664267264
+* https://www.lataco.com/protest-andres-guardado/
+* https://theintercept.com/2020/06/25/andres-guardado-los-angeles-police/
+* https://twitter.com/josie_huang/status/1274859389921267713
+* https://twitter.com/josie_huang/status/1274860188898430976
+* https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
+* https://twitter.com/josie_huang/status/1274863117004988416
+
+
 
 
 ## Costa Mesa
@@ -1051,37 +1080,6 @@ id: ca-losangeles-42
 * https://www.instagram.com/p/CBKohCXnJld/
 
 
-### Police tear gas peaceful protest | June 21st
-
-Footage shows scattered protestors on pedestrian walkway with police firing tear gas around them. Additional footage shows protestors helping one another recover from the damage.
-
-A journalist states they were tear-gassed while holding up their press badge in plain view.
-
-tags: tear-gas, journalist, protester
-
-id: ca-losangeles-21
-
-**Links**
-
-* https://twitter.com/josie_huang/status/1274859389921267713
-* https://twitter.com/josie_huang/status/1274860188898430976
-
-
-### Police fire less-lethal rounds at protestors | June 21st
-
-Footage shows police and protestors separated by a barricade. Protestors shout at police to put their guns down. Without verbal warning, police fire on protestors.
-
-In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
-
-tags: shoot, projectile, protester
-
-id: ca-losangeles-22
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
-* https://twitter.com/josie_huang/status/1274863117004988416
-
 
 ### Police make violent arrests, including ripping a protestor out of his wheelchair and inducing an asthma attack | July 15th
 
@@ -1324,7 +1322,6 @@ id: ca-sacramento-3
 * [From perspective of woman pushed, where we see man being choked](https://twitter.com/greg_doucette/status/1268334584443342850)
 * [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
 * [Additional angle](https://www.tiktok.com/@sameoldmatt/video/6833452428025679109)
-
 
 ## San Diego
 
