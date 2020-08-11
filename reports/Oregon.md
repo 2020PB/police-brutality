@@ -4045,6 +4045,7 @@ id: or-portland-261
 * https://twitter.com/matlockartist/status/1293113555101683714
 * https://twitter.com/Mestizo43/status/1293120463715983360
 
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
