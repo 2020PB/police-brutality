@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-11T01:51:25.332264+00:00
+UPDATED AT: 2020-08-11T03:11:28.920400+00:00
 
 
 # Alabama
@@ -1323,6 +1323,7 @@ id: ca-sacramento-3
 
 * [From perspective of woman pushed, where we see man being choked](https://twitter.com/greg_doucette/status/1268334584443342850)
 * [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
+* [Additional angle](https://www.tiktok.com/@sameoldmatt/video/6833452428025679109)
 
 
 ## San Diego
