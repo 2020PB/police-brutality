@@ -182,15 +182,15 @@ id: pa-philadelphia-10
 
 ### Police pepper spray protesters on their knees | June 1st
 
-Protesters are seen in the middle of the road on their knees with their hands up. Police proceed to indiscriminately pepper spray them.
+Protesters are seen in the middle of the road on their knees with their hands up. Officers are seen walking on the median and indiscriminately pepper spraying the protesters below them.
 
-tags: pepper-spary, spray, protester
+tags: pepper-spray, spray, protester
 
 id: pa-philadelphia-13
 
 **Links**
 
-* https://twitter.com/d0wnrrrrr/status/1267848782689054723?s=20
+* https://twitter.com/d0wnrrrrr/status/1267848782689054723
 
 
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
