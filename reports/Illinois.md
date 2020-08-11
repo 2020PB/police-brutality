@@ -1,8 +1,8 @@
 ## Chicago
 
-### Police pull down and assault a protestor | May 30th
+### Police pull down and assault a protester | May 30th
 
-A protestor was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
+A protester was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
 
 tags: arrest, beat, knee-on-neck, protester
 
@@ -112,7 +112,7 @@ id: il-chicago-10
 
 ### Video showing CPD officer punching protester in Uptown under investigation | June 1st
 
-CPD officer chasing down and punching a protestor who was walking away.
+CPD officer chasing down and punching a protester who was walking away.
 
 tags: punch, protester
 
@@ -151,9 +151,9 @@ id: il-chicago-12
 * https://twitter.com/ChrisDitton/status/1267675836892708864
 
 
-### Police push protestor on bike, slap phone out of his hand | June 2nd
+### Police push protester on bike, slap phone out of his hand | June 2nd
 
-Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
+Footage shows a protester on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
 
 tags: push, shove, property-destruction, protester
 
@@ -209,7 +209,7 @@ id: il-chicago-15
 
 ### Violent arrests made in Grant Park | July 17th
 
-Footage shows a series of violent arrests and altercations between police and protestors. Police tackle, shove, strike and pepper spray protestors indiscriminately. Protestors are also struck with batons. One use states that police allegedly hit press during this series of events.
+Footage shows a series of violent arrests and altercations between police and protesters. Police tackle, shove, strike and pepper spray protesters indiscriminately. Protesters are also struck with batons. One use states that police allegedly hit press during this series of events.
 
 tags: strike, baton, protester, tackle, shove, push, pepper-spray, spray, arrest
 
@@ -223,9 +223,9 @@ id: il-chicago-16
 * https://twitter.com/poonfarm/status/1284550521785913350
 
 
-### Police strike protestor with baton while attempting to seize bike | July 17th
+### Police strike protester with baton while attempting to seize bike | July 17th
 
-Footage from the protest in Grant Park shows an officer attempting to seize a bike from a protestor for unknown reason. The police officer swats at the protestor's hands with his baton in an apparent attempt to release the protestor's hold on the bike.
+Footage from the protest in Grant Park shows an officer attempting to seize a bike from a protester for unknown reason. The police officer swats at the protester's hands with his baton in an apparent attempt to release the protester's hold on the bike.
 
 tags: strike, baton, protester
 
@@ -262,9 +262,9 @@ id: il-chicago-19
 * https://twitter.com/MarParNews/status/1284306440971325440
 
 
-### Police indiscriminately pepper spray protestors | (Believed to be) July 17th
+### Police indiscriminately pepper spray protesters | (Believed to be) July 17th
 
-Footage uploaded on July 19th shows an officer standing some distance from protestors. He discharges pepper spray in the general direction of the protestors.
+Footage uploaded on July 19th shows an officer standing some distance from protesters. He discharges pepper spray in the general direction of the protesters.
 
 tags: pepper-spray, spray, protester
 
@@ -275,9 +275,9 @@ id: il-chicago-20
 * https://twitter.com/frantheman10/status/1284911153785778177
 
 
-### Police vehicle drives on sidewalk, collides with protestors | July 18th
+### Police vehicle drives on sidewalk, collides with protesters | July 18th
 
-Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protestor then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
+Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protester then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
 
 tags: vehicle, strike, protester, property-destruction
 
@@ -292,7 +292,7 @@ id: il-chicago-21
 
 ### Officers grabs someone by the neck then more cops pile on | May 31st
 
-Protestors arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
+Protesters arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
 tags: beat, shove, throw, protester
 

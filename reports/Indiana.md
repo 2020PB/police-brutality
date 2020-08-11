@@ -31,7 +31,7 @@ id: in-fortwayne-6
 
 ### Police tear gas peaceful protesters | May 30th
 
-Police officers dressed in swat gear threw a tear gas container at peaceful protestors.
+Police officers dressed in swat gear threw a tear gas container at peaceful protesters.
 
 tags: tear-gas, pepper-spray, protester
 
@@ -75,7 +75,7 @@ id: in-fortwayne-4
 
 ### Police break up a small protest and shoots at them as they leave | June 14th
 
-There is a very small protest of what appears to be no more than 15 people. Police arrive declaring it an unlawful assembly. Some of the protestors, including the person filming, go into a nearby restaurant because their car was in the direction of the police and they did not feel comfortable walking towards them. Two militarized police come into the restaurant and make them exit. The police tell them to run, motioning with their hands in the direction away from the protestor's car, despite the protestor trying to explain that they need to go in the other direction to actually leave. They run as they are told, and say they have their hands up. It then appears the police fire rubber bullets at them, the camera was facing away from the police but it picks up the sounds. The video is in two parts and includes further context via subtitles.
+There is a very small protest of what appears to be no more than 15 people. Police arrive declaring it an unlawful assembly. Some of the protesters, including the person filming, go into a nearby restaurant because their car was in the direction of the police and they did not feel comfortable walking towards them. Two militarized police come into the restaurant and make them exit. The police tell them to run, motioning with their hands in the direction away from the protester's car, despite the protester trying to explain that they need to go in the other direction to actually leave. They run as they are told, and say they have their hands up. It then appears the police fire rubber bullets at them, the camera was facing away from the police but it picks up the sounds. The video is in two parts and includes further context via subtitles.
 
 tags: rubber-bullet, inhumane-treatment, protester
 
@@ -139,7 +139,7 @@ id: in-indianapolis-2
 
 ### Officer drops tear gas into peaceful protest without warning | Possibly May 31st
 
-In this video, protestors are chanting peacefully when an officer drops tear gas on them with no warning.
+In this video, protesters are chanting peacefully when an officer drops tear gas on them with no warning.
 
 tags: tear-gas, tear-gas-canister, protester
 

@@ -40,9 +40,9 @@ id: ar-littlerock-2
 * https://www.youtube.com/watch?v=p7z-u_a8qo0
 
 
-### Peaceful protestors kneeling are shot with an explosive projectile. | May 31st
+### Peaceful protesters kneeling are shot with an explosive projectile. | May 31st
 
-Peaceful protestors kneeling in the street are shot with an explosive projectile.
+Peaceful protesters kneeling in the street are shot with an explosive projectile.
 
 Police deployed tear gas to then clear protesters out of the street after deploying an LRAD dispersal function.
 

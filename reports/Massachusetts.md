@@ -2,7 +2,7 @@
 
 ### Man beaten with baton while being taken into custody | May 31st
 
-Footage from a news report shows a man throwing a water bottle at officers. Officers then grab him to arrest him, while another officer beats him repeatedly with his baton. The protestor does not appear to be resisting arrest.
+Footage from a news report shows a man throwing a water bottle at officers. Officers then grab him to arrest him, while another officer beats him repeatedly with his baton. The protester does not appear to be resisting arrest.
 
 tags: protester, beat, arrest, strike
 
@@ -41,11 +41,11 @@ id: ma-worcester-1
 * [Officer with covered badge number](https://twitter.com/sebishop99/status/1267877928391659521/photo/1)
 
 
-### Riot police throw protestor to the ground | June 1st
+### Riot police throw protester to the ground | June 1st
 
-A reporter following the protest shows video of the riot police line moving to force protestors back. Then notes that during this, a teenage girl is grabbed, thrown to the ground and surrounded.
+A reporter following the protest shows video of the riot police line moving to force protesters back. Then notes that during this, a teenage girl is grabbed, thrown to the ground and surrounded.
 
-On video, protestors can be heard yelling "You feel big hitting a little woman like that?"
+On video, protesters can be heard yelling "You feel big hitting a little woman like that?"
 
 An additional angle provided by the girl's sister shows numerous officers lifting her off the ground and dragging her behind the police line, after which the line closes to obfuscate any view of her.
 
@@ -61,9 +61,9 @@ id: ma-worcester-2
 * [Additional angle provided by sister](https://twitter.com/sebishop99/status/1267911837808496646)
 
 
-### Riot police fire on protestors without provocation | June 1st
+### Riot police fire on protesters without provocation | June 1st
 
-Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protestors without warning. Police continue firing as protestors flee.
+Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protesters without warning. Police continue firing as protesters flee.
 
 tags: tear-gas, rubber-bullet, pepper-spray, spray, shoot, protester
 

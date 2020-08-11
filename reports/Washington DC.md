@@ -1,8 +1,8 @@
 ## DC
 
-### Riot police fire tear gas round at protestor | May 30th
+### Riot police fire tear gas round at protester | May 30th
 
-At short range, officer fires a tear gas round directly at a protestor. The round narrowly misses striking the protestor in the face.
+At short range, officer fires a tear gas round directly at a protester. The round narrowly misses striking the protester in the face.
 
 tags: tear-gas, protester
 
@@ -41,9 +41,9 @@ id: dc-dc-11
 * https://twitter.com/i/status/1267283580474085378
 
 
-### Australian news crew and protestors attacked by police | June 1st
+### Australian news crew and protesters attacked by police | June 1st
 
-Protestors and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
+Protesters and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
 
 tags: journalist, punch, tear-gas, rubber-bullet, projectile
 
@@ -61,9 +61,9 @@ id: dc-dc-2
 * [CW: Blood](https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/)
 
 
-### Protestors are quickly and violently pushed out of Lafayette Square | June 1st
+### Protesters are quickly and violently pushed out of Lafayette Square | June 1st
 
-The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors via tear gas and flashbangs.
+The protesters were given no warning to leave, resulting in forceful removal and injuries to protesters via tear gas and flashbangs.
 
 tags: tear-gas, stun-grenade, protester
 
@@ -79,9 +79,9 @@ id: dc-dc-3
 * https://twitter.com/nytimes/status/1267638330654625794
 
 
-### Officer fires tear gas canister at protestor's head | June 1st
+### Officer fires tear gas canister at protester's head | June 1st
 
-DCPD officer aims tear gas canister at protestor's head, narrowly misses.
+DCPD officer aims tear gas canister at protester's head, narrowly misses.
 
 tags: tear-gas-canister, projectile, protester
 
@@ -94,7 +94,7 @@ id: dc-dc-4
 
 ### Police violence outside the White House | June 1st
 
-MSNBC captures mounted and regular police using flashbangs on peaceful protestors outside the White House. Someone injured by police is carried away live on camera.
+MSNBC captures mounted and regular police using flashbangs on peaceful protesters outside the White House. Someone injured by police is carried away live on camera.
 
 tags: stun-grenade, horse, protester
 
@@ -105,9 +105,9 @@ id: dc-dc-5
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
 
 
-### Man who sheltered protestors discusses law enforcement officers shooting tear gas into his house | June 1st
+### Man who sheltered protesters discusses law enforcement officers shooting tear gas into his house | June 1st
 
-A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protestors were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
+A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protesters were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
 tags: threaten, tear-gas, protester, bystander
 
@@ -121,7 +121,7 @@ id: dc-dc-6
 
 ### Police charge peaceful crowd, beat them with shields | June 1st
 
-Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
+Here, police are captured charging into a crowd of peaceful protesters and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
 tags: shield, beat, tackle, protester
 
@@ -145,11 +145,11 @@ id: dc-dc-8
 * https://twitter.com/i/status/1269859559859871744
 
 
-### Protestor bashed with riot shield, shoved and shot by police | June 1st
+### Protester bashed with riot shield, shoved and shot by police | June 1st
 
-Footage from Anderson Cooper 360 uploaded to Twitter on June 1st shows a protestor struck by an officer with a riot shield. Blood is seen coming from the protestor's face.
+Footage from Anderson Cooper 360 uploaded to Twitter on June 1st shows a protester struck by an officer with a riot shield. Blood is seen coming from the protester's face.
 
-Footage then shows the protestor shoved to the ground and shot.
+Footage then shows the protester shoved to the ground and shot.
 
 tags: shield, beat, shoot, shove, protester
 
@@ -174,9 +174,9 @@ id: dc-dc-13
 * https://twitter.com/dfriedman33/status/1267936685536481280
 
 
-### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protestor and CNN crew | June 3rd
+### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protester and CNN crew | June 3rd
 
-In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
+In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protester and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
 tags: rubber-bullet, pepper-spray, journalist, protester
 
@@ -190,9 +190,9 @@ id: dc-dc-9
 * https://twitter.com/Joshrepp/status/1268204713939435521
 
 
-### Law enforcement officers throw stinger grenades at peaceful protestors | June 3rd
+### Law enforcement officers throw stinger grenades at peaceful protesters | June 3rd
 
-In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
+In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protester.
 
 tags: stun-grenade, protester
 
@@ -206,7 +206,7 @@ id: dc-dc-10
 
 ### Unknown federal agents aid police | June 4th
 
-Footage shows a line of agents wearing riot gear. They do not have names, badges or body cams. They allegedly refused to tell protestors what agency sent them.
+Footage shows a line of agents wearing riot gear. They do not have names, badges or body cams. They allegedly refused to tell protesters what agency sent them.
 
 Additional reports suggest they are members of the federal Bureau of Prisons trained specifically for prison riots.
 
@@ -221,9 +221,9 @@ id: dc-dc-14
 * https://www.businessinsider.com/officers-special-trained-prison-riots-face-off-with-dc-protesters-2020-6
 
 
-### Police violently arrest protestor | June 22nd
+### Police violently arrest protester | June 22nd
 
-During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protestor. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
+During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protester. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
 
 tags: beat, baton, arrest, knee, protester
 
@@ -234,13 +234,13 @@ id: dc-dc-16
 * https://twitter.com/JoshuaPotash/status/1275249479554400256
 
 
-### Protestors attempt to vandalize Andrew Jackson statue; police escalate violence | June 22nd
+### Protesters attempt to vandalize Andrew Jackson statue; police escalate violence | June 22nd
 
 Prior to a much publicized attempt to tear down a statue of Andrew Jackson, police erected a chain-link fence around the statue.
 
-Protestors converged on the statue, pulled down the fence, and threw chains around the statue.
+Protesters converged on the statue, pulled down the fence, and threw chains around the statue.
 
-Police met the protestors with immediate violence. An account states police encircled the protestors, preventing any exit, then beat protestors with shields and batons. Police pepper-sprayed protestors as well. The account additionally states police ripped off her friend's glasses and mask to pepper-spray her.
+Police met the protesters with immediate violence. An account states police encircled the protesters, preventing any exit, then beat protesters with shields and batons. Police pepper-sprayed protesters as well. The account additionally states police ripped off her friend's glasses and mask to pepper-spray her.
 
 tags: beat, baton, pepper-spray, spray, shield, protester
 
@@ -271,9 +271,9 @@ id: dc-dc-19
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
 
 
-### Police pepper spray protestors with hands up | June 22nd
+### Police pepper spray protesters with hands up | June 22nd
 
-Police line begins shouting, "Move back" and using their bikes to push protestors back across a street. Protestors with hands up who refuse to move are shoved and told to keep moving. Protestors near the filmer shout at police, saying, "What's wrong with you?" An officer behind the line of bikes steps forward and sprays pepper spray at protestors, including the filmer.
+Police line begins shouting, "Move back" and using their bikes to push protesters back across a street. Protesters with hands up who refuse to move are shoved and told to keep moving. Protesters near the filmer shout at police, saying, "What's wrong with you?" An officer behind the line of bikes steps forward and sprays pepper spray at protesters, including the filmer.
 
 tags: shove, pepper-spray, spray, protester
 
@@ -286,7 +286,7 @@ id: dc-dc-23
 
 ### Footage shows officer with tape over badge number | June 23rd
 
-Footage shows an argument between a protestor an officer. The protestor films close to the officer's face; the officer shines his flashlight in the protestor's eye.
+Footage shows an argument between a protester an officer. The protester films close to the officer's face; the officer shines his flashlight in the protester's eye.
 
 Notable, however, is the strip of black tape covering the officer's badge number.
 
@@ -299,9 +299,9 @@ id: dc-dc-20
 * https://twitter.com/wyattreed13/status/1275623256406581251
 
 
-### Police pepper-spray peaceful protestors | June 23rd
+### Police pepper-spray peaceful protesters | June 23rd
 
-Police can be heard chanting, "Move back," while pushing protestors back through a park. Protestors obeying direction are still pepper sprayed.
+Police can be heard chanting, "Move back," while pushing protesters back through a park. Protesters obeying direction are still pepper sprayed.
 
 tags: pepper-spray, spray, protester
 
@@ -314,9 +314,9 @@ id: dc-dc-21
 
 ### Eyewitness reports police destroyed supplied and attacked medics | June 23rd
 
-An eyewitness to protests reports that police pushed protestors away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
+An eyewitness to protests reports that police pushed protesters away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
 
-He states that police stole all food and other supplies before forcing protestors out. He states that police beat and tear-gassed medics who were attempting to help protestors. In addition, he states that police beat "anyone they could find."
+He states that police stole all food and other supplies before forcing protesters out. He states that police beat and tear-gassed medics who were attempting to help protesters. In addition, he states that police beat "anyone they could find."
 
 He says that volunteer medics had permission from the church where they set up, but police ignored the permission and dispersed them regardless.
 
@@ -334,11 +334,11 @@ id: dc-dc-22
 
 Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests.
 
-Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
+Protesters appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protesters at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
 
-The second clip from Raws shows protestors attempting to treat a fellow protestor who was injured in the first round of violence.
+The second clip from Raws shows protesters attempting to treat a fellow protester who was injured in the first round of violence.
 
-Additional footage posted on Youtube shows similar events. Around 4 minutes, this footage also shows police pushing a man on crutches and harassing him to move faster. Protestors attempting to help the man on crutches are assaulted.
+Additional footage posted on Youtube shows similar events. Around 4 minutes, this footage also shows police pushing a man on crutches and harassing him to move faster. Protesters attempting to help the man on crutches are assaulted.
 
 tags: pepper-spray, spray, tear-gas, stun-grenade, shove, push, strike, person-with-disability, protester
 
@@ -353,9 +353,9 @@ id: dc-dc-18
 * https://www.youtube.com/watch?v=aC1udgaUzDI
 
 
-### Police target protestor handing out water | June 27th
+### Police target protester handing out water | June 27th
 
-Footage from late on June 27th, police charge a protestor walking away from them. She is grabbed by multiple officers, both on bike and on foot. The police then arrest her. She drops several water bottles out of her hands. Protestors state she was passing out water bottles to thirsty protesors.
+Footage from late on June 27th, police charge a protester walking away from them. She is grabbed by multiple officers, both on bike and on foot. The police then arrest her. She drops several water bottles out of her hands. Protesters state she was passing out water bottles to thirsty protesors.
 
 tags: arrest, abuse-of-power, protester
 
@@ -368,11 +368,11 @@ id: dc-dc-24
 
 ### Numerous officers make physical arrest | July 4th
 
-Footage from 3 tiktok videos shows numerous officers (approximately 8) arresting one protestor. Protestor appears to passively resist by locking his arms. He says, "Sir, I will go with you if you stop grabbing my arms." Other protestors can be heard asking why the man is under arrest.
+Footage from 3 tiktok videos shows numerous officers (approximately 8) arresting one protester. Protester appears to passively resist by locking his arms. He says, "Sir, I will go with you if you stop grabbing my arms." Other protesters can be heard asking why the man is under arrest.
 
-The protestor can be heard screaming in pain as police force him into cuffs. Police then lift him by his limbs and his pants to carry him away.
+The protester can be heard screaming in pain as police force him into cuffs. Police then lift him by his limbs and his pants to carry him away.
 
-The third link appears to be the third in chronological order as the protestors arms are already cuffed. It is unclear why he is lying face down in the bushes at the beginning of this clip. It additionally shows the careless and physical manner of arrest used by the police.
+The third link appears to be the third in chronological order as the protesters arms are already cuffed. It is unclear why he is lying face down in the bushes at the beginning of this clip. It additionally shows the careless and physical manner of arrest used by the police.
 
 tags: arrest, strike, protester
 
@@ -387,10 +387,10 @@ id: dc-dc-25
 
 ### Multiple officers arrest peaceful protester | July 7th
 
-The following two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protestor into the concrete and is quickly aided by at least one other officer.
+The following two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protester into the concrete and is quickly aided by at least one other officer.
 In the second video, four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back. The arrest is then made with the man on the ground.
 
-All 11 protestors arrested on July 7th were released without charges.
+All 11 protesters arrested on July 7th were released without charges.
 
 tags: arrest, abuse-of-power, shove, bike, protester
 
@@ -403,13 +403,13 @@ id: dc-dc-26
 * https://twitter.com/DCMediaGroup/status/1281334939179462663
 
 
-### Protestor surrounded and arrested | July 7th
+### Protester surrounded and arrested | July 7th
 
-Footage shows a protestor speaking to an officer in a white shirt. Two more officers quietly walk up behind the protestor. Without warning, the white-shirted officer grabs the protestor. The protestor panics and more police join to move him off to the side and force him to the ground.
+Footage shows a protester speaking to an officer in a white shirt. Two more officers quietly walk up behind the protester. Without warning, the white-shirted officer grabs the protester. The protester panics and more police join to move him off to the side and force him to the ground.
 
-The second clip shows about 5 officers handcuffing the protestor before carrying him away.
+The second clip shows about 5 officers handcuffing the protester before carrying him away.
 
-All 11 protestors arrested on July 7th were released without charges.
+All 11 protesters arrested on July 7th were released without charges.
 
 tags: arrest, shove, abuse-of-power, protester
 

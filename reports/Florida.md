@@ -52,9 +52,9 @@ id: fl-fortlauderdale-3
 
 ## Jacksonville
 
-### Peaceful protestor tackled | May 30th
+### Peaceful protester tackled | May 30th
 
-A protestor in the street can be seen milling about before an officer charges them, tackling them to the ground to make an arrest. Filmer states that the officer pulled his gun on the individual as well.
+A protester in the street can be seen milling about before an officer charges them, tackling them to the ground to make an arrest. Filmer states that the officer pulled his gun on the individual as well.
 
 Filmer also states that tear gas was used against a peaceful protest.
 
@@ -84,13 +84,13 @@ id: fl-miami-1
 * https://twitter.com/BillyCorben/status/1267644127178563588
 
 
-### Police deployed two rounds of tear gas against peaceful protestors | June 27th
+### Police deployed two rounds of tear gas against peaceful protesters | June 27th
 
-A group of protestors blocked highway 395 in Miami. Police deployed tear gas at 9:00 pm and 9:09 PM to clear protestors.
+A group of protesters blocked highway 395 in Miami. Police deployed tear gas at 9:00 pm and 9:09 PM to clear protesters.
 
-In the 9:00 PM round, the filmer can be heard saying, "They're smoke bombs. No, they're not. They're tear gas." The filmer then flees with other protestors. Footage then shows a woman screaming and in sufficient pain that another protestor is needed to carry her away quickly.
+In the 9:00 PM round, the filmer can be heard saying, "They're smoke bombs. No, they're not. They're tear gas." The filmer then flees with other protesters. Footage then shows a woman screaming and in sufficient pain that another protester is needed to carry her away quickly.
 
-Around 9:09 PM, protestors gathered on the highway on-ramp. Police then, without warning, fired another round of tear gas, forcing protestors to flee. The caption states multiple protestors were shot with rubber bullets, but no shots can be heard in this footage.
+Around 9:09 PM, protesters gathered on the highway on-ramp. Police then, without warning, fired another round of tear gas, forcing protesters to flee. The caption states multiple protesters were shot with rubber bullets, but no shots can be heard in this footage.
 
 tags: tear-gas, protester
 
@@ -102,11 +102,11 @@ id: fl-miami-2
 * [9:09 round](https://twitter.com/inaminorkey/status/1277078077303132160)
 
 
-### Police officer grabs arrestee's breast; police violently arrest protestor | July 1st
+### Police officer grabs arrestee's breast; police violently arrest protester | July 1st
 
 Footage shows police arresting a woman. A man who walked nearby with his hands up is thrown to the ground by two officers and arrested.
 
-Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protestor without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
+Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protester without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
 
 tags: arrest, shove, abuse-of-power, inhumane-treatment, protester
 
@@ -123,7 +123,7 @@ id: fl-miami-3
 
 ### Police roughly arrest protest organizer | July 16th
 
-Footage shows a small group of protestors on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protestor who attempts to intervene.
+Footage shows a small group of protesters on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protester who attempts to intervene.
 
 tags: arrest, shove, protester, abuse-of-power
 
@@ -138,9 +138,9 @@ id: fl-miami-4
 
 ## Orlando
 
-### Police use tear gas and flashbangs against peaceful protestors | May 31st
+### Police use tear gas and flashbangs against peaceful protesters | May 31st
 
-A group of protestors is exiting the on ramp of I-4 on May 31st. A water bottle is thrown by a protestor, landing far from police. Police throw a flashbang. A protestor then throws a water bottle, landing near police. On both occasions, the crowd decries the actions of the bottle throwers. Police then deploy tear gas against the protestors.
+A group of protesters is exiting the on ramp of I-4 on May 31st. A water bottle is thrown by a protester, landing far from police. Police throw a flashbang. A protester then throws a water bottle, landing near police. On both occasions, the crowd decries the actions of the bottle throwers. Police then deploy tear gas against the protesters.
 
 tags: protester, tear-gas, stun-grenade
 
@@ -152,9 +152,9 @@ id: fl-orlando-7
 * https://www.reddit.com/r/protest/comments/gx86zm/53120_orlando_pd_deploys_tear_gas_on_peaceful_i4/
 
 
-### Police tackle & pepper spray peaceful protestors | June 1st
+### Police tackle & pepper spray peaceful protesters | June 1st
 
-Footage shows police charging at protestors and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protestor. Police continue to discharge pepper spray and force away protestors trying to aid victims.
+Footage shows police charging at protesters and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protester. Police continue to discharge pepper spray and force away protesters trying to aid victims.
 
 tags: tackle, pepper-spray, spray, protester
 
@@ -165,9 +165,9 @@ id: or-orlando-5
 * https://twitter.com/Concerned407/status/1268339148131307524
 
 
-### Police pepper spray protestors during arrest | June 1st
+### Police pepper spray protesters during arrest | June 1st
 
-During a protest in Orlando, at the intersection of W South St. and S Division Ave, police tackle a protestor and arrest them. The crowd becomes agitated and gathers around. Police pepper spray protestors, including one man in a wheelchair, who then has difficulty leaving the scene. Protestors then rush to aid the man in the wheelchair.
+During a protest in Orlando, at the intersection of W South St. and S Division Ave, police tackle a protester and arrest them. The crowd becomes agitated and gathers around. Police pepper spray protesters, including one man in a wheelchair, who then has difficulty leaving the scene. Protesters then rush to aid the man in the wheelchair.
 
 tags: protester, person-with-disability, pepper-spray, spray, tackle, arrest
 
@@ -180,7 +180,7 @@ id: or-orlando-8
 
 ### Police use excessive force during an arrest | June 2nd
 
-A police officer grabs a protestor from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
+A police officer grabs a protester from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
 
 tags: tackle, pepper-spray, arrest, shove, spray, protester
 
@@ -193,7 +193,7 @@ id: fl-orlando-1
 
 ### Police tackle injured man leaving protest | June 2nd
 
-A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protestor begs police not to hurt him.
+A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protester begs police not to hurt him.
 
 tags: tackle, arrest, knee, protester
 
@@ -205,9 +205,9 @@ id: fl-orlando-3
 * https://twitter.com/kailakerouac/status/1268011180989337602
 
 
-### Police shove protestors with bikes | June 2nd
+### Police shove protesters with bikes | June 2nd
 
-A woman films a BLM protest in Orlando from a window. Protestors have gather around a police bike line blocking an intersection. Police begin shouting and shove protestors back with their bikes.
+A woman films a BLM protest in Orlando from a window. Protesters have gather around a police bike line blocking an intersection. Police begin shouting and shove protesters back with their bikes.
 
 tags: bike, shove, protester
 
@@ -222,7 +222,7 @@ id: fl-orlando-4
 
 Police open fire on protesters outside of city hall with tear gas, flashbangs, and apparently rubber bullets.
 
-Additional footage shows the incident was instigated when officers shoved a protestor. The protestor then fled. Officers tackled another protestor on the sidewalk, then began firing riot control rounds.
+Additional footage shows the incident was instigated when officers shoved a protester. The protester then fled. Officers tackled another protester on the sidewalk, then began firing riot control rounds.
 
 tags: shoot, tear-gas, stun-grenade, rubber-bullet, shove, push, tackle, protester
 
@@ -269,11 +269,11 @@ id: fl-stpetersburg-1
 
 ## Tampa
 
-### Police fire rubber bullets at protestors | May 31st
+### Police fire rubber bullets at protesters | May 31st
 
-Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protestors.
+Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protesters.
 
-Incidents include firing at peaceful protestors, fleeing protestors and medics.
+Incidents include firing at peaceful protesters, fleeing protesters and medics.
 
 Video also includes a bleeding eyewitness describing events.
 
@@ -289,9 +289,9 @@ id: fl-tampa-4
 * https://twitter.com/toastiepeach/status/1267243847446343682
 
 
-### Police pepper-spray peaceful protestors | May 31st
+### Police pepper-spray peaceful protesters | May 31st
 
-Supercut video from June 5th shows multiple incidents where police sprayed peaceful protestors, including protestors attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protestors before spraying.
+Supercut video from June 5th shows multiple incidents where police sprayed peaceful protesters, including protesters attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protesters before spraying.
 
 Additional footage shows the isolated incident videos.
 
@@ -328,7 +328,7 @@ id: fl-tampa-1
 
 ### Police fire tear gas at peaceful protest | June 4th
 
-Police fire tear gas at peaceful protestors, while simultaneously ordering protestors to lie down, forcing them to remain in the immediate area.
+Police fire tear gas at peaceful protesters, while simultaneously ordering protesters to lie down, forcing them to remain in the immediate area.
 
 tags: tear-gas, arrest, protester
 
@@ -353,9 +353,9 @@ id: fl-tampa-6
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
 
 
-### Police assault protestors without apparent cause | July 4th
+### Police assault protesters without apparent cause | July 4th
 
-Footage is short, but it shows protestors chanting near police, asking why another protestor is being arrested. A protestor with a megaphone approaches an officer. He is shouting. Without warning police charge protestors. They slam one protestor against a car, throw him on the ground and kneel on him to make an arrest.
+Footage is short, but it shows protesters chanting near police, asking why another protester is being arrested. A protester with a megaphone approaches an officer. He is shouting. Without warning police charge protesters. They slam one protester against a car, throw him on the ground and kneel on him to make an arrest.
 
 Pepper spray can be heard in the audio.
 

@@ -2,7 +2,7 @@
 
 ### USA Today journalist arrested | June 9th
 
-A journalist is filming and asking the police why protestors are being arrested. The police tackle him and he states loudly, "I'm with the press" multiple times. The video ends with an officer confiscating his press badge and bag. Another officer off camera is heard saying to the journalist, "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest.
+A journalist is filming and asking the police why protesters are being arrested. The police tackle him and he states loudly, "I'm with the press" multiple times. The video ends with an officer confiscating his press badge and bag. Another officer off camera is heard saying to the journalist, "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest.
 
 tags: journalist, arrest, tackle
 
@@ -16,7 +16,7 @@ id: de-dover-1
 
 ### Police make violent arrests; arrest woman filming | June 9th
 
-The first two minutes of footage show police making a series of violent arrests: they throw protestors to the ground, strike them and kneel on them. At the end of the footage, an officer approaches the filmer, throws her to the ground, and arrests her.
+The first two minutes of footage show police making a series of violent arrests: they throw protesters to the ground, strike them and kneel on them. At the end of the footage, an officer approaches the filmer, throws her to the ground, and arrests her.
 
 Dover PD is investigating the use of force incident.
 

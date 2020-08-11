@@ -46,11 +46,11 @@ id: pa-philadelphia-1
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Protestor fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protestor, then arrest him, the driver and a passerby filming | (Believed to be) May 30th
+### Protester fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protester, then arrest him, the driver and a passerby filming | (Believed to be) May 30th
 
-Two protestors run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protestor can enter. The driver then pulls over to the side of the road shortly after.
+Two protesters run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protester can enter. The driver then pulls over to the side of the road shortly after.
 
-Police drag the protestor from the car and beat him with batons. After he is arrested, a police officer punches him in the face.
+Police drag the protester from the car and beat him with batons. After he is arrested, a police officer punches him in the face.
 
 Police additionally arrest the driver and passerby filming the scene.
 
@@ -128,7 +128,7 @@ id: pa-philadelphia-4
 
 ### Police officer pepper-sprays three people on their knees | believed to be June 1st
 
-Three protestors kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
+Three protesters kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
 
 tags: pepper-spray, spray, protester
 
@@ -139,9 +139,9 @@ id: pa-philadelphia-5
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
 
-### Police shove protestors and strike man across the face with a baton | Jun 1st
+### Police shove protesters and strike man across the face with a baton | Jun 1st
 
-Police shove a group of protestors. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
+Police shove a group of protesters. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
 He now faces charges of aggravated assault, simple assault, possession of an instrument of crime and recklessly endangering another person. His bail was set at $10,000. The officer has been suspended with intent to dismiss him. The protester was detained for 24 hours, but ultimately released without charges.
 
@@ -174,9 +174,9 @@ id: pa-philadelphia-8
 
 ### Police selectively enforce curfew and dispersal orders | June 1st
 
-During protests, groups of men armed with guns, bats, and other blunt instruments roved around the Fishtown neighborhood of Philadelphia. They continued patrolling after curfew. Footage shows Philadelphia police warning militia to leave so they could enforce arrests of BLM protestors. In addition, images show police chatting and taking photos with the groups. One video taken by a gunman states that the police want to take pictures with them.
+During protests, groups of men armed with guns, bats, and other blunt instruments roved around the Fishtown neighborhood of Philadelphia. They continued patrolling after curfew. Footage shows Philadelphia police warning militia to leave so they could enforce arrests of BLM protesters. In addition, images show police chatting and taking photos with the groups. One video taken by a gunman states that the police want to take pictures with them.
 
-Footage shows members of the groups threatening and shouting racial and homophobic slurs at protestors without police intervention. One journalist posted a picture of himself with a head wound, alleging that one of these groups beat him for filming them.
+Footage shows members of the groups threatening and shouting racial and homophobic slurs at protesters without police intervention. One journalist posted a picture of himself with a head wound, alleging that one of these groups beat him for filming them.
 
 tags: abuse-of-power, protester
 
@@ -222,7 +222,7 @@ id: pa-philadelphia-6
 
 ### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | June 13th
 
-A reporter from Unicorn Riot showed up at a pro-Columbus rally at a statue of Christopher Columbus in Philadelphia. He is harassed, threatened and assaulted by members of the rally. In addition, an article published by Unicorn Riot states that members of the rally slashed the journalist's tires.  After several minutes, police intervene to push protestors back, but make no arrests. They appear to say nothing more to members of the rally than, "Leave him alone."
+A reporter from Unicorn Riot showed up at a pro-Columbus rally at a statue of Christopher Columbus in Philadelphia. He is harassed, threatened and assaulted by members of the rally. In addition, an article published by Unicorn Riot states that members of the rally slashed the journalist's tires.  After several minutes, police intervene to push protesters back, but make no arrests. They appear to say nothing more to members of the rally than, "Leave him alone."
 
 The reporter continues to film from a distance.
 
@@ -260,9 +260,9 @@ id: pa-philadelphia-12
 
 ## Pittsburgh
 
-### Police tear-gas, shoot and arrest protestor confused by contradicting police instructions | May 30th
+### Police tear-gas, shoot and arrest protester confused by contradicting police instructions | May 30th
 
-John Connors, a protestor in Pittsburgh on Saturday, May 30th, was recording the protest on his phone, when police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
+John Connors, a protester in Pittsburgh on Saturday, May 30th, was recording the protest on his phone, when police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
 
 He asks an officer, "Are you guys police officers or are you guys cops?" The officer then release a tear gas canister at his feet and shoots him at short range. Police then arrest Connors. Connors admits his question was antagonizing, but states he did nothing to threaten officers or escalate to violence, which is supported by the footage.
 
@@ -307,9 +307,9 @@ id: pa-pittsburgh-2
 * [Extended Facebook Live video; police begin firing at 9:00; phone is dropped at 10:53 and not recovered until the end](https://www.facebook.com/shawn.green.311/videos/2935858916468885/)
 
 
-### Police pepper spray two kneeling protestors | June 1st
+### Police pepper spray two kneeling protesters | June 1st
 
-Two protestors kneel with their hands up 5-10 feet from police. One of the protestors appears to try to talk to the police. Police then pepper-spray the protestors, who then flee.
+Two protesters kneel with their hands up 5-10 feet from police. One of the protesters appears to try to talk to the police. Police then pepper-spray the protesters, who then flee.
 
 Users on Twitter allege the woman was a medic attempting to notify the police and/or provide aid to an injured person in a nearby parking garage.
 
@@ -325,7 +325,7 @@ id: pa-pittsburgh-4
 * https://twitter.com/stabpossum/status/1268203842174361600
 
 
-### Police arrest protestor then tear gas crowd | June 1st
+### Police arrest protester then tear gas crowd | June 1st
 
 Footage shows police officers around several protest-related arrestees. A woman argues with them at a distance. Police then approach her and arrest her. They force her to a seated position on the ground. They then lift her and place her face down on the ground.
 
@@ -343,9 +343,9 @@ id: pa-pittsburgh-5
 * https://www.facebook.com/chilcottj/videos/10223908609851965/
 
 
-### Protestor shoved into median | July 25th
+### Protester shoved into median | July 25th
 
-Footage shows a protestor standing in the street filming police. One officer shoves the protestor, then another shoves the protestor with his baton. The protestor falls into the concrete median then to the ground.
+Footage shows a protester standing in the street filming police. One officer shoves the protester, then another shoves the protester with his baton. The protester falls into the concrete median then to the ground.
 
 tags: protester, shove, baton, push
 

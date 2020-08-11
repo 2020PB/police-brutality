@@ -2,7 +2,7 @@ import random
 import string
 
 import data_builder
-from tag_formatter import TAG_OVERRIDES, WNL, read_tag_file, format_tags
+from text_formatter import COMMON_MISSPELLINGS, fix_common_misspellings, format_tags, read_tag_file, TAG_OVERRIDES, WNL
 
 unknown_location_acronym = "tbd"
 
@@ -144,6 +144,8 @@ def gen_md_from_rows(state, rows, all_tags):
 
         # convert tags from a list to a string
         row["tags_md"] = format_tags(WNL, all_tags, TAG_OVERRIDES, row["tags"])
+        row["name"] = fix_common_misspellings(row["name"], COMMON_MISSPELLINGS)
+        row["description"] = fix_common_misspellings(row["description"], COMMON_MISSPELLINGS)
 
         # Create this row's markdown
         lines.append(row_format.format(**row))
@@ -157,7 +159,7 @@ def validate_ids_unique(data):
         row_id = row["id"]
         if row_id in seen:
             print(row)
-            critical_exit(f"Duplicate id found {row_id}")
+            data_builder.critical_exit(f"Duplicate id found {row_id}")
         else:
             seen.add(row_id)
 
@@ -169,7 +171,7 @@ def add_missing_ids(data):
             print("Added id: " + row["id"])
         if "name" not in row:
             print(row)
-            critical_exit("this row is broken with no name? (missing ###):")
+            data_builder.critical_exit("this row is broken with no name? (missing ###):")
 
     return data
 

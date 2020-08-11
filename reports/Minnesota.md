@@ -72,7 +72,7 @@ id: mn-minneapolis-20
 
 ### Police drive by spraying | May 30th
 
-While sitting in their cars, the policemen proceed to pepper spray the protestors in a drive-by fashion
+While sitting in their cars, the policemen proceed to pepper spray the protesters in a drive-by fashion
 
 tags: drive, vehicle, pepper-spray, spray, protester
 
@@ -332,7 +332,7 @@ id: mn-minneapolis-13
 
 ### Police stop SUV to drive-by pepper-spray protesters through window | May 31st
 
-Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
+Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
 tags: vehicle, drive, spray, pepper-spray, protester
 
@@ -343,7 +343,7 @@ id: mn-minneapolis-17
 * https://twitter.com/keycodez/status/1267235529311113216/video/1
 
 
-### Patient care assistant reports being shot with rubber bullets while treating injured protestors | May 31st
+### Patient care assistant reports being shot with rubber bullets while treating injured protesters | May 31st
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 

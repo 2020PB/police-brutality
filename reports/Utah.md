@@ -51,7 +51,7 @@ id: ut-saltlakecity-2
 
 ### Police shoot tear gas canister at man from close range, striking him in the chest | May 30th
 
-Man standing in a crowd of protestors was struck with a tear gas canister.
+Man standing in a crowd of protesters was struck with a tear gas canister.
 
 tags: tear-gas, shoot, tear-gas-canister, protester
 
@@ -76,11 +76,11 @@ id: ut-saltlakecity-3
 * https://v.redd.it/fl4y919v1q251
 
 
-### Police beat protestors with shields and batons | July 9th
+### Police beat protesters with shields and batons | July 9th
 
-In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protestors took to the streets.
+In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protesters took to the streets.
 
-Footage from multiple angles shows police using shields and batons to strike peaceful protestors gathered in the street outside the DA's office.
+Footage from multiple angles shows police using shields and batons to strike peaceful protesters gathered in the street outside the DA's office.
 
 tags: protester, beat, strike, shield, baton
 

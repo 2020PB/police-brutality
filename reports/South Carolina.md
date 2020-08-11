@@ -1,6 +1,6 @@
 ## Charleston
 
-### Police Individually Target Peaceful Protestor and Arrest Him | May 31st
+### Police Individually Target Peaceful Protester and Arrest Him | May 31st
 
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
@@ -29,11 +29,11 @@ id: sc-charleston-2
 * https://twitter.com/greg_doucette/status/1267228530368229376
 
 
-### Police violently arrest protestor | June 22nd
+### Police violently arrest protester | June 22nd
 
 A protest and counter-protest between BLM supporters and statue supporters. Groups shouted at one another but stayed separate. After the protest, BLM supporters marched down the street followed by police.
 
-Footage shows violence during the arrest of a protestor as 3 police officers wearing hoods that resemble balaclavas. They tackle the protestor to the ground. One officer then kneels on his back to make the arrest. A fourth officer in a patrol uniform comes to assist. The man is seen bleeding from the face. The masked officers do not appear to be wearing badges.
+Footage shows violence during the arrest of a protester as 3 police officers wearing hoods that resemble balaclavas. They tackle the protester to the ground. One officer then kneels on his back to make the arrest. A fourth officer in a patrol uniform comes to assist. The man is seen bleeding from the face. The masked officers do not appear to be wearing badges.
 
 Police charged him with disobeying a lawful order and resisting arrest.
 

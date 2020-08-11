@@ -47,11 +47,11 @@ id: co-coloradosprings-1
 * https://www.kktv.com/content/news/Colorado-Springs-police-issue-statement-following-use-of-force-arrest-during-protest-570969681.html
 
 
-### Police use LRAD, tear gas and pepper spray to dispers protestors | June 1st
+### Police use LRAD, tear gas and pepper spray to dispers protesters | June 1st
 
-After declaring a protest an unlawful assembly, police push protestors down the street, continuing to give dispersal order. A single firework is shot off by protestors. At 5:30, police use the LRAD dispersal function. Once again at 7:00.
+After declaring a protest an unlawful assembly, police push protesters down the street, continuing to give dispersal order. A single firework is shot off by protesters. At 5:30, police use the LRAD dispersal function. Once again at 7:00.
 
-Around 8:00, police advance, firing tear gas canisters at protestors. Multiple bystander vehicles appear to be caught in the gas. Around 9:50, an officer appears to reach out of a squad car and pepper spray protestors, but the sirens make it difficult to see.
+Around 8:00, police advance, firing tear gas canisters at protesters. Multiple bystander vehicles appear to be caught in the gas. Around 9:50, an officer appears to reach out of a squad car and pepper spray protesters, but the sirens make it difficult to see.
 
 tags: protester, tear-gas, bystander, lrad, spray, pepper-spray
 
@@ -153,7 +153,7 @@ id: co-denver-5
 * https://www.youtube.com/watch?v=zhIWohJsRyM&feature=youtu.be&t=4225
 
 
-### Police tear gas and shoot protestors | May 30th
+### Police tear gas and shoot protesters | May 30th
 
 Police fired tear gas after allegedly turning off their body cams.
 
@@ -237,7 +237,7 @@ id: co-denver-8
 * https://www.denverpost.com/2020/06/04/denver-police-investigation-pepper-balls-shot-pregnant-woman-in-car/
 
 
-### Police officer fires at protestor while driving away | May 31st
+### Police officer fires at protester while driving away | May 31st
 
 Officers are on a police truck leaving the area. One officer fires a pepper ball directly at someone filming, hitting their phone.
 
@@ -250,9 +250,9 @@ id: co-denver-9
 * https://twitter.com/heyydnae/status/1267139396278661121?s=21
 
 
-### Police pepper sprays peaceful protestor and fires tear gas on crowd | Believed to be May 31st or June 1st
+### Police pepper sprays peaceful protester and fires tear gas on crowd | Believed to be May 31st or June 1st
 
-Police officer snatches away protestor's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
+Police officer snatches away protester's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
 tags: property-destruction, pepper-spray, spray, tear-gas, protester
 
@@ -266,7 +266,7 @@ id: co-denver-10
 
 ### Man's face injured by less-lethal round | May 31st
 
-Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
+Footage shows woman asking protester if he's okay. He says, "Fuck yeah."
 
 His sweatshirt is covered in blood and he has suffered a gash of 1-2 inches across his chin, with a chunk of his chin hanging off.
 
@@ -343,11 +343,11 @@ id: co-denver-12
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
 
 
-### Protestor struck in head at short range with explosive projectile | (Believed to be) June 5th
+### Protester struck in head at short range with explosive projectile | (Believed to be) June 5th
 
-Footage shows protestors walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protestor in head. Protestor crumples to the ground. Title on Reddit states that the protestor suffered permanent hearing loss, but this has not been verified.
+Footage shows protesters walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protester in head. Protester crumples to the ground. Title on Reddit states that the protester suffered permanent hearing loss, but this has not been verified.
 
-It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protestors severely increased the risk of injury, as seen here.
+It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protesters severely increased the risk of injury, as seen here.
 
 Footage was first posted on reddit.com/r/protest on June 5th.
 
@@ -360,9 +360,9 @@ id: co-denver-18
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
 
 
-### Police pepper spray protestors without apparent cause | June 6th
+### Police pepper spray protesters without apparent cause | June 6th
 
-Protestors yell at a police officer to put his pepper spray away. The officer shakes his head, then pepper sprays the protestors.
+Protesters yell at a police officer to put his pepper spray away. The officer shakes his head, then pepper sprays the protesters.
 
 tags: protester, spray, pepper-spray
 
@@ -373,9 +373,9 @@ id: co-denver-25
 * https://mobile.twitter.com/greg_doucette/status/1287247799483092992
 
 
-### Police pepper spray protestor with hands up | (Believed to be) June 21st
+### Police pepper spray protester with hands up | (Believed to be) June 21st
 
-Footage shows a protestor following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protestor continues to ask. Another officer approaches and discharges pepper spray without warning.
+Footage shows a protester following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protester continues to ask. Another officer approaches and discharges pepper spray without warning.
 
 tags: pepper-spray, spray, protester
 
@@ -386,9 +386,9 @@ id: co-denver-20
 * https://twitter.com/wisenoons/status/1274743833410994176
 
 
-### Police use excessive force to clear protestor tent encampment | July 1st
+### Police use excessive force to clear protester tent encampment | July 1st
 
-The first clip is a livestream from the night of the dispersal. Police standoff begins around 1:28:00. Police begin by snatching and grabbing protestors to arrest. Then a scuffle breaks out, the camera pans to show an officer striking protestors with his baton. Another officer approaches and pepper-sprays protestors. A third officer fires a riot gun, containing either pepper balls or paintballs, at protestors. Police then tear gas the area while protestors flee. At 1:34:00, police arrest a medic. At 1:38:00, police advance towards the protestors again, pushing them off the sidewalk to the far side of the street. A shot can be heard, then a scream. The camera pans to show a scuffle between police and protestors. Police then use pepper-spray and riot rounds to force protestors back. A protestor is arrested. The arrest takes several minutes and it appears that police kneel on the woman's neck while making the arrest. At 1:51:00, one officer is shown without a badge number or body cam. The filmer then looks at several other officers.
+The first clip is a livestream from the night of the dispersal. Police standoff begins around 1:28:00. Police begin by snatching and grabbing protesters to arrest. Then a scuffle breaks out, the camera pans to show an officer striking protesters with his baton. Another officer approaches and pepper-sprays protesters. A third officer fires a riot gun, containing either pepper balls or paintballs, at protesters. Police then tear gas the area while protesters flee. At 1:34:00, police arrest a medic. At 1:38:00, police advance towards the protesters again, pushing them off the sidewalk to the far side of the street. A shot can be heard, then a scream. The camera pans to show a scuffle between police and protesters. Police then use pepper-spray and riot rounds to force protesters back. A protester is arrested. The arrest takes several minutes and it appears that police kneel on the woman's neck while making the arrest. At 1:51:00, one officer is shown without a badge number or body cam. The filmer then looks at several other officers.
 
 The third link shows another angle on the incident at 1:28:00.
 
@@ -406,7 +406,7 @@ id: co-denver-21
 * https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
 
 
-### Police pepper spray BLM counter-protestors at pro-police rally | July 19th
+### Police pepper spray BLM counter-protesters at pro-police rally | July 19th
 
 Article discusses use of pepper spray at pro-police rally where Black Lives Matter groups counter-protested. “We had two pepper ball deployments and one hand-held fog device deployment, and we made one arrest for assault,” Denver police spokesman Tyrone Campbell said. The hand-held fog device is believed to refer to pepper spray. The spokesman goes on to say that "It seems as if [riot control devices] were used in an appropriate fashion." Some additional footage shows police pepper-spraying a retreating crowd. Riot guns can also be heard firing.
 
@@ -423,7 +423,7 @@ id: co-denver-24
 
 ### Denver Public School official struck in head | July 29th
 
-At a protest against the clearance of a homeless encampent, police pushed protestors out of a park and stopped them just outside the gate. Protestors argued with police, asking police to allow the homeless folks to return for their belongings. During this argument, Tay Anderson, a board member for Denver Public Schools, was struck in the back of the head and was hospitalized. Police claim Anderson "lost his footing."
+At a protest against the clearance of a homeless encampent, police pushed protesters out of a park and stopped them just outside the gate. Protesters argued with police, asking police to allow the homeless folks to return for their belongings. During this argument, Tay Anderson, a board member for Denver Public Schools, was struck in the back of the head and was hospitalized. Police claim Anderson "lost his footing."
 
 tags: politician, strike
 

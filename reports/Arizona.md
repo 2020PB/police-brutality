@@ -2,7 +2,7 @@
 
 ### Officer tackles and arrests person walking home from protest | May 30th
 
-An officer tackles a protestor who is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice; the protestor responds "I'm not". The officer yells "put your hands behind your head" several times, and the protestor responds "I'm trying".
+An officer tackles a protester who is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice; the protester responds "I'm not". The officer yells "put your hands behind your head" several times, and the protester responds "I'm trying".
 
 tags: beat, arrest, inhumane-treatment, threaten, tackle, protester
 
@@ -29,7 +29,7 @@ id: az-phoenix-2
 
 ### Photographer injured by rubber bullets | May 30th
 
-A news article describes a photographer in full view of an ABC news crew as he was shot repeatedly by rubber bullets. Protestors took him to police to get him medical care. Police struggled to get an ambulance, so they took him to the fire station, who then brough him to the hospital.
+A news article describes a photographer in full view of an ABC news crew as he was shot repeatedly by rubber bullets. Protesters took him to police to get him medical care. Police struggled to get an ambulance, so they took him to the fire station, who then brough him to the hospital.
 
 The photographer now has four staples in his head, a concussion, and a bruised lung.
 
@@ -64,9 +64,9 @@ id: az-phoenix-3
 
 ### Protests at Trump rally met with pepper spray | June 23rd
 
-Protestors gathered on the sidewalk and on a shut down street outside a Trump rally in Phoenix, Arizona.
+Protesters gathered on the sidewalk and on a shut down street outside a Trump rally in Phoenix, Arizona.
 
-Footage shows police declaring the assembly unlawful and telling protestors to get on the sidewalk even though the street has been shut down. Protestors comply, but later footage shows they are pepper-sprayed while on the sidewalk.
+Footage shows police declaring the assembly unlawful and telling protesters to get on the sidewalk even though the street has been shut down. Protesters comply, but later footage shows they are pepper-sprayed while on the sidewalk.
 
 Captions on Twitter and an NPR article state tear gas and flashbangs were deployed.
 
@@ -85,15 +85,15 @@ id: az-phoenix-4
 
 ## Tempe
 
-### Police pepper spray protestors on sidewalk | June 27th
+### Police pepper spray protesters on sidewalk | June 27th
 
-On June 27th, protestors gathered on the sidewalk for a 'chalk walk' protest.
+On June 27th, protesters gathered on the sidewalk for a 'chalk walk' protest.
 
-Full footage from instagram shows police chasing, tackling, kneeling on and arresting a protestor. Police refused to answer when protestors asked why they were being arrested. At 2:20 in the instagram video, the filmer asks why the protestor was tased, but this appears to be erroneous; the protestor was pepper-sprayed.
+Full footage from instagram shows police chasing, tackling, kneeling on and arresting a protester. Police refused to answer when protesters asked why they were being arrested. At 2:20 in the instagram video, the filmer asks why the protester was tased, but this appears to be erroneous; the protester was pepper-sprayed.
 
-Police then attempted to clear the protestors from the sidewalk into the lawn of a shopping center. One protestor remained seated and police manhandled her.
+Police then attempted to clear the protesters from the sidewalk into the lawn of a shopping center. One protester remained seated and police manhandled her.
 
-Several protestors, including the filmer, shouted at the police for treating the protestor roughly. The officer then told these protestors to back up. They obeyed. The officer then pepper sprayed them repeatedly as they walked away. Police continued to harass protestors, pushing them from the sidewalk to the lawn. It is unclear why police asserted the sidewalk was an unacceptable place to stand.
+Several protesters, including the filmer, shouted at the police for treating the protester roughly. The officer then told these protesters to back up. They obeyed. The officer then pepper sprayed them repeatedly as they walked away. Police continued to harass protesters, pushing them from the sidewalk to the lawn. It is unclear why police asserted the sidewalk was an unacceptable place to stand.
 
 From an article in the Arizona Mirror, Tempe police are allowed to use pepper spray "against violent or non-compliant subjects, and on vicious animals." In addition, they must give verbal warning that they will escalate. No such warning was given.
 
@@ -108,9 +108,9 @@ id: az-tempe-1
 * https://www.azmirror.com/2020/06/28/tempe-pd-pepper-sprayed-demonstrators-at-saturday-chalk-walk-protest/
 
 
-### Police charge and arrest protestors | July 27th
+### Police charge and arrest protesters | July 27th
 
-Footage shows police charging protestors in the street without warning and tackling an individual with a skateboard to arrest them. Additional footage shows police using pepper spray to clear the area. 7 protestors were arrested. One officer was allegedly injured when a projectile lacerated their face.
+Footage shows police charging protesters in the street without warning and tackling an individual with a skateboard to arrest them. Additional footage shows police using pepper spray to clear the area. 7 protesters were arrested. One officer was allegedly injured when a projectile lacerated their face.
 
 tags: shove, tackle, protester, arrest, pepper-spray, spray
 
