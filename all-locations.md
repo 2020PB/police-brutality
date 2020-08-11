@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-11T12:42:29.401684+00:00
+UPDATED AT: 2020-08-11T16:27:35.810728+00:00
 
 
 # Alabama
@@ -14526,7 +14526,7 @@ Protesters had congregated near the intersection of North 6th Street and McKinle
 
 Police claim they used force to disperse the crowd after rocks and glass were thrown at them. Police also said at the time that "Molotov cocktails" were thrown at them. They later walked that statement back to say that one Molotov Cocktail was thrown. They say it did not ignite. Media and protesters present say they saw water bottles being thrown, but not glass, rocks, or a Molotov cocktail. Video released by police clearly shows something being thrown at police, but doesn't show what it was. Police also produced a picture of a crushed water bottle and what looks like a water pump and implied it was the remnants of a Molotov cocktail.
 
-NOTE: this incident immediately follows wi-milwaukee-2. Because the misconduct involved is substantially different, it has been given its own incident.
+NOTE: this incident immediately follows wi-milwaukee-1. Because the misconduct involved is substantially different, it has been given its own incident.
 
 tags: gas, protester, rubber-bullet, shoot, tear-gas
 
@@ -14545,6 +14545,20 @@ id: wi-milwaukee-2
 * [Location of rubber bullets, via Google Street View](https://www.google.com/maps/@43.0470717,-87.9188693,3a,75y,140.42h,99.57t/data=!3m6!1e1!3m4!1sQruIkc5jDDB5HaPqpjulkA!2e0!7i16384!8i8192)
 * [Location of tear gas, via Google Street View](https://www.google.com/maps/@43.0480627,-87.9185747,3a,75y,186.43h,95.71t/data=!3m6!1e1!3m4!1shjG96eAYHT1McDRHGI_3bA!2e0!7i16384!8i8192)
 * [Location of Reddit video, via Google Street View](https://www.google.com/maps/@43.0456964,-87.9185992,3a,75y,312.46h,104.94t/data=!3m6!1e1!3m4!1sK4uLnbJnDybp9dYDKowiww!2e0!7i16384!8i8192)
+
+
+### Police cut off protesters on Hoan Bridge | June 2nd
+
+Footage shows protesters peacefully marching across Hoan Bridge. Protesters are met by a line of police who force them back across the bridge. During this encounter, a scuffle breaks out - it is unclear what caused it. Police respond by shoving protesters and throwing smoke bombs. 2 protesters are arrested for unknown reasons. Police also fire less lethal munitions, hitting at least one person in the leg - seen in the second link.
+
+tags: gas, protester, projectile, shoot, arrest
+
+id: wi-milwaukee-3
+
+**Links**
+
+* https://www.youtube.com/watch?v=huAvoVlJVgc
+* https://twitter.com/StupidNeel/status/1268014836786528257
 
 
 
