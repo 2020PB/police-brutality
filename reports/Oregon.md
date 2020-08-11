@@ -3993,7 +3993,7 @@ id: or-portland-256
 
 ### Bystander shot in the head | August 10th
 
-A man sate he was walking home shows injuries to his head and arms, allegedly received from police. He states that he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
+A man said he was walking home shows injuries to his head and arms, allegedly received from police. He states that he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
 
 tags: bystander, shoot, rubber-bullet, baton
 
