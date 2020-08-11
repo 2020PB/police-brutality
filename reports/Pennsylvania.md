@@ -64,6 +64,15 @@ id: pa-philadelphia-2
 * [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)](https://twitter.com/greg_doucette/status/1269303637060325377)
 
 
+### Cops repeatedly push and shove a protester | May 30th
+
+A protester is seen in a scuffle with police. It is unknown what caused this interaction. Police repeatedly push an shove an individual protester with no attempt to detain the individual.
+
+tags: push, shove, protester
+
+id: pa-philadelphia-13
+
+
 ### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
 
 A man is being held on the ground by a police officer, who forces the man's hand onto a baton. Another officer joins in to force the man flat on the ground, kneeling on either the man's head or neck. The second officer then begins to strike the man on the head. A third officer joins in and grabs the man's arms. The police yell at witnesses to "back off", while someone yells "he can't breathe".
