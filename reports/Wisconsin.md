@@ -77,12 +77,14 @@ id: wi-milwaukee-2
 
 ### Police cut off protesters on Hoan Bridge | June 2nd
 
-Footage shows protesters peacefully marching across Hoan Bridge. Protesters are met by a line of police who force them back across the bridge. During this encounter, a scuffle breaks out - it is unclear what caused it. Police respond by shoving protesters and throwing smoke bombs. 2 protesters are arrested for unknown reasons. Police also fire less lethal munitions, hitting at least one person in the leg - seen in the second link. 
+Footage shows protesters peacefully marching across Hoan Bridge. Protesters are met by a line of police who force them back across the bridge. During this encounter, a scuffle breaks out - it is unclear what caused it. Police respond by shoving protesters and throwing smoke bombs. 2 protesters are arrested for unknown reasons. Police also fire less lethal munitions, hitting at least one person in the leg - seen in the second link.
 
 tags: gas, protester, projectile, shoot, arrest
 
 id: wi-milwaukee-3
 
 **Links**
+
 * https://www.youtube.com/watch?v=huAvoVlJVgc
 * https://twitter.com/StupidNeel/status/1268014836786528257
+
