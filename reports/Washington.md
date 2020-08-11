@@ -246,6 +246,7 @@ id: wa-seattle-13
 
 * https://twitter.com/MikeApe7/status/1269533701194444800
 * https://twitter.com/MikeApe7/status/1269538201254805504
+* https://twitter.com/ColeMillerTV/status/1269459358288494592
 
 
 ### Police pepper spray protesters who can't move back | June 6th
