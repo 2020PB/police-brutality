@@ -2,7 +2,7 @@
 
 ### Police arrest woman and reporter | June 1st
 
-Footage shows a woman tackled by multiple officers and thrown into bushes before an officer kneels on her to make an arrest. Another protestor is arrested in the background.
+Footage shows a woman tackled by multiple officers and thrown into bushes before an officer kneels on her to make an arrest. Another protester is arrested in the background.
 
 As reporter is backing away, police yell at him to go him.
 

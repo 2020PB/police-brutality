@@ -1,8 +1,8 @@
 ## Lincoln
 
-### Police arrest protestors leaving scene | May 31st
+### Police arrest protesters leaving scene | May 31st
 
-A crowd gathers around a woman who is being arrested. After she is pulled away, police give a dispersal order. Protestors comply, but appear to exchange words with officers while walking away. Police then shout that they are under arrest, shoving protestors to the ground and kneeling on them to make arrests.
+A crowd gathers around a woman who is being arrested. After she is pulled away, police give a dispersal order. Protesters comply, but appear to exchange words with officers while walking away. Police then shout that they are under arrest, shoving protesters to the ground and kneeling on them to make arrests.
 
 tags: arrest, shove, knee, protester
 
@@ -57,11 +57,11 @@ id: ne-omaha-1
 * https://twitter.com/XruthxNthr/status/1266903223220097024
 
 
-### Peaceful protestors arrested for breaking curfew | June 1
+### Peaceful protesters arrested for breaking curfew | June 1
 
 Omaha law enforcement officer kicks protester already on the ground. Another officer carries a reporter away from the scene.
 
-Twitter users also state police fired pepper-balls at peaceful protestors.
+Twitter users also state police fired pepper-balls at peaceful protesters.
 
 tags: journalist, kick, arrest, pepper-ball, protester
 
@@ -73,9 +73,9 @@ id: ne-omaha-2
 * https://twitter.com/greg_doucette/status/1267649720215834626
 
 
-### Police officer shoves protestor on bike; police then escalate | July 25th
+### Police officer shoves protester on bike; police then escalate | July 25th
 
-Footage shows a police officer shoving a protestor on a bike. Police then fire impact munitions at protestors and shove protestors back. Protestors are pushed back to the highway fence. An officer grabs a protestor standing around and takes him to the ground to arrest him. Police arrest more individuals, including the filmer, a journalist. The journalist states she has a press badge. The officer says, "I don't know that that's real," and arrests her, cuffing her with zip-ties.
+Footage shows a police officer shoving a protester on a bike. Police then fire impact munitions at protesters and shove protesters back. Protesters are pushed back to the highway fence. An officer grabs a protester standing around and takes him to the ground to arrest him. Police arrest more individuals, including the filmer, a journalist. The journalist states she has a press badge. The officer says, "I don't know that that's real," and arrests her, cuffing her with zip-ties.
 
 tags: protester, journalist, shove, arrest, zip-tie, shoot, projectile
 

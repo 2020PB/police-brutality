@@ -1,6 +1,6 @@
 ## Kansas City
 
-### Police pepper spray and arrest protestor holding sign | May 30th
+### Police pepper spray and arrest protester holding sign | May 30th
 
 
 
@@ -14,9 +14,9 @@ id: mo-kansascity-5
 * https://www.facebook.com/KuhlPics/photos/a.467614509924515/3214027235283215/?type=3&theater
 
 
-### Police pepper spray protestors walking away and later arrest one of them | May 31st
+### Police pepper spray protesters walking away and later arrest one of them | May 31st
 
-A video linked shows the police pepper spraying some protestors who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
+A video linked shows the police pepper spraying some protesters who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
 
 tags: pepper-spray, spray, arrest, protester
 
@@ -43,7 +43,7 @@ id: mo-kansascity-1
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
 
-Footage shows a protestor speaking to other protestors on a megaphone. Police grab him and drag him to arrest. Other protestors come to his aid and are pepper-sprayed.
+Footage shows a protester speaking to other protesters on a megaphone. Police grab him and drag him to arrest. Other protesters come to his aid and are pepper-sprayed.
 
 tags: arrest, pepper-spray, spray, protester
 
@@ -55,9 +55,9 @@ id: mo-kansascity-2
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
 
 
-### Police arrest peaceful protestor, pepper-spray others | May 31st
+### Police arrest peaceful protester, pepper-spray others | May 31st
 
-With tactics remarkably similar to mo-kansascity-2, police grab a protestor standing alone in the street. Other protestors come to aid him and are summarily pepper-sprayed. He is taken behind the police line and arrested.
+With tactics remarkably similar to mo-kansascity-2, police grab a protester standing alone in the street. Other protesters come to aid him and are summarily pepper-sprayed. He is taken behind the police line and arrested.
 
 tags: arrest, pepper-spray, spray, protester
 
@@ -69,9 +69,9 @@ id: mo-kansascity-8
 * https://twitter.com/lovlitae/status/1268676585269473280
 
 
-### Police arrest man for speaking and tear-gas nearby protestors | June 1st
+### Police arrest man for speaking and tear-gas nearby protesters | June 1st
 
-A line of police stand well apart from a crowd of protestors, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
+A line of police stand well apart from a crowd of protesters, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
 
 tags: pepper-spray, spray, tear-gas, arrest, shove, protester
 
@@ -83,9 +83,9 @@ id: mo-kansascity-3
 * https://twitter.com/weslyinfinity/status/1267321172309544960?
 
 
-### Police pull away protestor and pepper sprays others | June 1st
+### Police pull away protester and pepper sprays others | June 1st
 
-A police officer pulls away a protestor standing still. When others come to the protestor's aid they are pepper sprayed.
+A police officer pulls away a protester standing still. When others come to the protester's aid they are pepper sprayed.
 
 tags: grab, spray, pepper-spray, protester
 
@@ -165,13 +165,13 @@ id: mo-florissant-1
 * https://www.ksdk.com/article/news/crime/florissant-officer-fired/63-022e88b0-2926-4716-9576-de0f212f52e7
 
 
-### Police push protestors off lawn | June 27th
+### Police push protesters off lawn | June 27th
 
-Protestors gathered in the parking lot of a Florissant police station. Officers declared the assembly unlawful and began to push protestors from the lawn into the parking lot. Officers used shields & batons to strike and shove protestors. Numerous protestors were arrested. Footage shows one arrested protestor hurled violently to the ground. Footage also shows police targeting individuals taking photos and video on the side of the protests; these individuals were pushed back among the protestors as well. Additionally, multiple witnesses state protestors with megaphones were targeted.
+Protesters gathered in the parking lot of a Florissant police station. Officers declared the assembly unlawful and began to push protesters from the lawn into the parking lot. Officers used shields & batons to strike and shove protesters. Numerous protesters were arrested. Footage shows one arrested protester hurled violently to the ground. Footage also shows police targeting individuals taking photos and video on the side of the protests; these individuals were pushed back among the protesters as well. Additionally, multiple witnesses state protesters with megaphones were targeted.
 
-Police continued to push protestors into the road. Filmers state that police maced them. Protestors responded by splashing police with water and throwing empty water bottles.
+Police continued to push protesters into the road. Filmers state that police maced them. Protesters responded by splashing police with water and throwing empty water bottles.
 
-Police continued to snag protestors and arrest them.
+Police continued to snag protesters and arrest them.
 
 tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, throw, protester
 
@@ -187,9 +187,9 @@ id: mo-florissant-2
 * https://twitter.com/NassimBnchabane/status/1277056390314541056
 
 
-### Police shove, pepper spray, and arrest protestors | July 5th
+### Police shove, pepper spray, and arrest protesters | July 5th
 
-Footage shows police using shields and batons to shove protestors. Protestors attempting to flee are pepper sprayed. At least one protestor is tackled to the ground and arrested. Police continue pushing protestors out of the precinct and into the street. More arrests are made and more pepper spray is deployed.
+Footage shows police using shields and batons to shove protesters. Protesters attempting to flee are pepper sprayed. At least one protester is tackled to the ground and arrested. Police continue pushing protesters out of the precinct and into the street. More arrests are made and more pepper spray is deployed.
 
 tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, protester
 
@@ -202,13 +202,13 @@ id: mo-florissant-4
 * https://twitter.com/Ohun_Ashe/status/1280150603839295490
 
 
-### Police shoot at protestors in designated protest area | July 6th
+### Police shoot at protesters in designated protest area | July 6th
 
-Police created a designated protest zone for protestors. Protestors allegedly stepped outside the protest zone, so the protest was deemed an unlawful assembly. However, protestors state that police continued to fire at them after they returned to the protest zone.
+Police created a designated protest zone for protesters. Protesters allegedly stepped outside the protest zone, so the protest was deemed an unlawful assembly. However, protesters state that police continued to fire at them after they returned to the protest zone.
 
-Footage shows police shooting riot rounds at protestors in the zone. The account that posted the first link states that police were using rubber bullets; the second states that they were using rubber bullets or pepper balls, and that police also maced protestors.
+Footage shows police shooting riot rounds at protesters in the zone. The account that posted the first link states that police were using rubber bullets; the second states that they were using rubber bullets or pepper balls, and that police also maced protesters.
 
-Footage from the second link also shows violent arrests where police force protestors to the ground, pulling on limbs, punching and kneeling on protestors.
+Footage from the second link also shows violent arrests where police force protesters to the ground, pulling on limbs, punching and kneeling on protesters.
 
 tags: shoot, rubber-bullet, pepper-ball, projectile, mace, pepper-spray, spray, arrest, protester
 

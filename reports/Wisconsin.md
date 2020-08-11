@@ -1,8 +1,8 @@
 ## Madison
 
-### Officer pepper-sprays or maces protestor walking backwards with arms raised | May 30th
+### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
 
-Ten seconds into the video, in the bottom-left corner, an officer sprays a protestor who is walking backwards with his arms raised (presumably with mace or pepper spray).
+Ten seconds into the video, in the bottom-left corner, an officer sprays a protester who is walking backwards with his arms raised (presumably with mace or pepper spray).
 
 tags: protester, spray
 
@@ -13,9 +13,9 @@ id: wi-madison-1
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
 
 
-### Police pepper spray protestors with hands up | May 30th
+### Police pepper spray protesters with hands up | May 30th
 
-A group of protestors are standing on a road paved over for pedestrian-only traffic. The protestors have their hands up. Police approach and pepper spray the protestors.
+A group of protesters are standing on a road paved over for pedestrian-only traffic. The protesters have their hands up. Police approach and pepper spray the protesters.
 
 The journalist filming is told he is not allowed to remain, despite identifying himself as press.
 
@@ -33,7 +33,7 @@ id: wi-madison-2
 
 ### Police on bikes restrain man using knee on neck | June 2nd
 
-Protesters were congregating at the intersection of North 6th Street and McKinley Avenue. A group of officers on bikes rode up to them. Two officers on bikes collided with one another; one officer fell to the ground. Officers then tackled a protestor (for reasons unknown) and attempted to take him into custody, with one officer placing a knee on his neck or head for one or two minutes. No officers intervened to get the knee off the man's neck; police formed a barrier to screen the arrest from other protestors and people filming. At the same time, police arrested one other man and hit a woman in the collarbone -- again, for reasons unknown. The man who had an officer's knee on his neck has sued.
+Protesters were congregating at the intersection of North 6th Street and McKinley Avenue. A group of officers on bikes rode up to them. Two officers on bikes collided with one another; one officer fell to the ground. Officers then tackled a protester (for reasons unknown) and attempted to take him into custody, with one officer placing a knee on his neck or head for one or two minutes. No officers intervened to get the knee off the man's neck; police formed a barrier to screen the arrest from other protesters and people filming. At the same time, police arrested one other man and hit a woman in the collarbone -- again, for reasons unknown. The man who had an officer's knee on his neck has sued.
 
 tags: arrest, bike, knee, knee-on-neck, protester, strike, tackle
 

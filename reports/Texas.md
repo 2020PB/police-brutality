@@ -2,7 +2,7 @@
 
 ### Police assault protesters | May 30th
 
-A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters. Another protestor shouts at an officer from several feet away; the officer immediately discharges pepper spray.
+A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters. Another protester shouts at an officer from several feet away; the officer immediately discharges pepper spray.
 
 tags: choke, threaten, gun, beat, punch, baton, pepper-spray, spray, protester
 
@@ -14,11 +14,11 @@ id: tx-austin-2
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hhhbeh/5302020_austin/
 
 
-### Police shoot non-violent protestor in the head | May 30th
+### Police shoot non-violent protester in the head | May 30th
 
-Here, a non-violent protestor can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
+Here, a non-violent protester can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
 
-In the aftermath other protestors help the victim who is bleeding from a large head wound. Further reports state the victim was hospitalized
+In the aftermath other protesters help the victim who is bleeding from a large head wound. Further reports state the victim was hospitalized
 
 tags: child, shoot, rubber-bullet, bean-bag, protester
 
@@ -79,9 +79,9 @@ id: tx-austin-8
 
 ### Police use horses as weapons | May 30th
 
-In an attempt to clear protestors blocking a road, mounted police began walking their horses into protestors. A handful of protestors refused to move. Rather than arresting the protestors and walking them away, police continued to push them with their horses. At one point, an officer pepper-sprays a protestor. After this protestors begin throwing things at police. The pepper-sprayed protestor swings his sign at the officer. The officer then grabs the protestor by the backpack and drags him down the road until other protestors intervene to free him. Another officer tramples one of these protestors. Protestors continue to shout at police for the duration of the footage.
+In an attempt to clear protesters blocking a road, mounted police began walking their horses into protesters. A handful of protesters refused to move. Rather than arresting the protesters and walking them away, police continued to push them with their horses. At one point, an officer pepper-sprays a protester. After this protesters begin throwing things at police. The pepper-sprayed protester swings his sign at the officer. The officer then grabs the protester by the backpack and drags him down the road until other protesters intervene to free him. Another officer tramples one of these protesters. Protesters continue to shout at police for the duration of the footage.
 
-Charges were filed against the protestor for swinging his sign at police. Police say the sign had a wooden stick attached, but footage indicates it was only a piece of cardboard, cardstock, or similar paper material.
+Charges were filed against the protester for swinging his sign at police. Police say the sign had a wooden stick attached, but footage indicates it was only a piece of cardboard, cardstock, or similar paper material.
 
 tags: horse, shove, pepper-spray, spray, protester
 
@@ -144,7 +144,7 @@ id: tx-austin-7
 
 ### Woman shot in face with bean bag | May 31st
 
-A protestor was shot in the face with a bean bag round on May 31st. She was hospitalized and underwent surgery. She states that she has suffered nerve damage in her face as a result.
+A protester was shot in the face with a bean bag round on May 31st. She was hospitalized and underwent surgery. She states that she has suffered nerve damage in her face as a result.
 
 Footage in the third link shows the victim seated on the ground with a round stuck in her face. She is responsive and speaking with those around her. Several protest medics attend to her.
 
@@ -161,7 +161,7 @@ id: tx-austin-13
 
 ### Police fire upon protesters seeking medical help | June 2nd
 
-Volunteer medics were advised to bring a critically wounded protestor to the police line for medical attention and were subsequently fired upon.
+Volunteer medics were advised to bring a critically wounded protester to the police line for medical attention and were subsequently fired upon.
 
 tags: medic, shoot, protester
 
@@ -176,7 +176,7 @@ id: tx-austin-9
 
 ### Police violently arrest drummer | June 7th
 
-Footage shows police kicking aside musician's gear. He falls off his stool and is held to the ground. One officer kneels on him. He does not appear to resist at any point. Several protestors can be heard shouting, "Get your knee off his head," but the footage is obscured by the officers.
+Footage shows police kicking aside musician's gear. He falls off his stool and is held to the ground. One officer kneels on him. He does not appear to resist at any point. Several protesters can be heard shouting, "Get your knee off his head," but the footage is obscured by the officers.
 
 tags: arrest, shove, property-destruction, knee, knee-on-neck, protester
 
@@ -189,11 +189,11 @@ id: tx-austin-14
 
 ### Police kneel on man's neck to make arrest | June 12th
 
-Footage from a news report depicts multiple officers arresting a protestor outside Police Headquarters. The protestor made lewd gestures at police. Police then chased him and arrested him for obstructing a highway. In the arrest, footage clearly shows an officer kneeling on the protestor's neck.
+Footage from a news report depicts multiple officers arresting a protester outside Police Headquarters. The protester made lewd gestures at police. Police then chased him and arrested him for obstructing a highway. In the arrest, footage clearly shows an officer kneeling on the protester's neck.
 
 APD is investigating the incident.
 
-This appears to be the same protestor who was charged in tx-austin-10.
+This appears to be the same protester who was charged in tx-austin-10.
 
 tags: arrest, knee, knee-on-neck, protester
 
@@ -207,7 +207,7 @@ id: tx-austin-11
 
 ### Police punch arrestee on ground | June 27th
 
-Police detained a protestor for allegedly striking a barricade with a skateboard. He is shown behind a police bike line with four officers holding him on the ground. One officer punches him repeatedly.
+Police detained a protester for allegedly striking a barricade with a skateboard. He is shown behind a police bike line with four officers holding him on the ground. One officer punches him repeatedly.
 
 tags: punch, strike, arrest, knee, protester
 
@@ -220,7 +220,7 @@ id: tx-austin-12
 
 ### Livestreamer arrested and punched | July 17th
 
-Footage shows police approaching a crowd of protestors, singling out livestreamer Hiram Gilberto and arresting him. When the crowd objects, other officers shove the protestors.
+Footage shows police approaching a crowd of protesters, singling out livestreamer Hiram Gilberto and arresting him. When the crowd objects, other officers shove the protesters.
 
 Additional footage shows Gilberto tackled to the ground, zip-tied and punched.
 
@@ -311,11 +311,11 @@ id: tx-dallas-4
 * https://twitter.com/chadloder/status/1267261398481920000
 
 
-### Police use flashbangs and tear gas on protestors | May 31st
+### Police use flashbangs and tear gas on protesters | May 31st
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
-Additional footage shows a protest in the same vicinity. Police sound a siren and protestors begin to back away. Police then begin releasing tear gas.
+Additional footage shows a protest in the same vicinity. Police sound a siren and protesters begin to back away. Police then begin releasing tear gas.
 
 tags: stun-grenade, tear-gas, protester
 
@@ -327,9 +327,9 @@ id: tx-dallas-2
 * https://twitter.com/calvinwatkins
 
 
-### Police fire rubber bullet on peaceful protestor | June 1st
+### Police fire rubber bullet on peaceful protester | June 1st
 
-Without warning, police shoot protestor with rubber bullet. Protestor falls limp to the ground. Later image shows the protestor helped to their feet and able to walk away
+Without warning, police shoot protester with rubber bullet. Protester falls limp to the ground. Later image shows the protester helped to their feet and able to walk away
 
 tags: shoot, rubber-bullet, protester
 
@@ -341,9 +341,9 @@ id: tx-dallas-5
 * https://twitter.com/elias_valverde/status/1267550636876447747
 
 
-### Police maneuver protestors onto bridge and fire tear gas and rubber bullets | June 2nd
+### Police maneuver protesters onto bridge and fire tear gas and rubber bullets | June 2nd
 
-On June 2nd, protestors are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
+On June 2nd, protesters are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
 
 tags: shoot, rubber-bullet, tear-gas, protester
 
@@ -357,9 +357,9 @@ id: tx-dallas-3
 
 ## El Paso
 
-### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protestors | (believed to be) May 31st
+### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protesters | (believed to be) May 31st
 
-Police fire teargas cannisters into peaceful crowd of unarmed protestors.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
+Police fire teargas cannisters into peaceful crowd of unarmed protesters.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
 
 tags: tear-gas-canister, projectile, protester
 
@@ -399,9 +399,9 @@ id: tx-houston-2
 * https://twitter.com/AbkTrauma/status/1266511972524269569
 
 
-### Officer pushs protestor that is filming | Date Unknown
+### Officer pushs protester that is filming | Date Unknown
 
-A protestor is filming and asking "why?", referring to protestors being arrested. An officer then pushs the protestor that is filming, knocking the camera to the ground.
+A protester is filming and asking "why?", referring to protesters being arrested. An officer then pushs the protester that is filming, knocking the camera to the ground.
 
 tags: shove, push, property-destruction, arrest, protester
 
@@ -412,7 +412,7 @@ id: tx-houston-3
 * https://twitter.com/DomSkyeRN/status/1270185401060294656
 
 
-### Police beat protestor with batons, then pepper spray another man for recording | (believed to be) June 2nd
+### Police beat protester with batons, then pepper spray another man for recording | (believed to be) June 2nd
 
 Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
 
@@ -425,7 +425,7 @@ id: tx-houston-4
 * https://twitter.com/greg_doucette/status/1268392253665546245
 
 
-### Officers violently arrest protestors on the sidewalk | June 2nd
+### Officers violently arrest protesters on the sidewalk | June 2nd
 
 Footage from an extended stream shows police and protesters facing off on the sidewalk. Protesters are standing still several feet away from police. On multiple occasions, several officers push from the police line, seize protesters without warning and drag them behind police lines for arrest. Only after several minutes does an officer emerge to explain that protesters will be arrested. After this, protesters comply without resistance.
 
@@ -471,9 +471,9 @@ id: tx-sanantonio-1
 * https://twitter.com/chadloder/status/1267124991809609728
 
 
-### Police fire on protestors without warning | June 2nd
+### Police fire on protesters without warning | June 2nd
 
-Police are protestors are gathered several feet apart. Between the two lines, a protestor is seen telling other protestors to put their hands up. Police then fire as protestors scatter.
+Police are protesters are gathered several feet apart. Between the two lines, a protester is seen telling other protesters to put their hands up. Police then fire as protesters scatter.
 
 tags: shoot, projectile, protester
 

@@ -13,9 +13,9 @@ id: nv-lasvegas-3
 * https://twitter.com/itsraiialex/status/1266770032719040513
 
 
-### Police shove numerous protestors to the ground | May 29th
+### Police shove numerous protesters to the ground | May 29th
 
-Officer line begins to advance towards protestors, shoving numerous protestors to the ground as they do.
+Officer line begins to advance towards protesters, shoving numerous protesters to the ground as they do.
 
 tags: shove, throw, strike, protester
 
@@ -28,7 +28,7 @@ id: nv-lasvegas-4
 
 ### Police charge into peaceful crowd shouting "grab anybody" | May 31st
 
-LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
+LVPD attacked and arrested peaceful protesters, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
 tags: journalist, threaten, arrest, strike, shove, kick, protester
 
@@ -53,9 +53,9 @@ id: nv-lasvegas-1
 * https://www.instagram.com/p/CA14rooHIC6/?utm_source=ig_web_copy_link
 
 
-### Police jump out of car to shove protestors | June 1st
+### Police jump out of car to shove protesters | June 1st
 
-A police vehicle stops at an intersection; protestors are gathered on the sidewalk nearby. Several officers jump out of the car and rush onto the sidewalk, shoving and chasing protestors.
+A police vehicle stops at an intersection; protesters are gathered on the sidewalk nearby. Several officers jump out of the car and rush onto the sidewalk, shoving and chasing protesters.
 
 tags: vehicle, shove, arrest, protester
 
@@ -67,9 +67,9 @@ id: nv-lasvegas-5
 * https://www.tiktok.com/@lord.vizi/video/6833963763486461190
 
 
-### Police charge and shove protestors | June 20th
+### Police charge and shove protesters | June 20th
 
-Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protestors. They can be seen throwing multiple individuals to the ground and kicking one.
+Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protesters. They can be seen throwing multiple individuals to the ground and kicking one.
 
 tags: shove, tackle, throw, kick, protester
 

@@ -1,8 +1,8 @@
 ## Beavercreek
 
-### Police use tear gas on protestors peacefully blocking road | June 1st
+### Police use tear gas on protesters peacefully blocking road | June 1st
 
-Police tell protestors blocking road to disperse and then immediately use tear gas on them.
+Police tell protesters blocking road to disperse and then immediately use tear gas on them.
 
 tags: tear-gas, protester
 
@@ -15,11 +15,11 @@ id: oh-beavercreek-1
 
 ## Bethel
 
-### Man struck by counter-protestor while police look on | June 14th
+### Man struck by counter-protester while police look on | June 14th
 
-During a BLM protest in Bethel, Ohio, protestors were met by a substantial counter-protest, which allegedly harrassed and assaulted them. In one particular video, a counter-protestor strikes a BLM protestor on the back of the head and walk away. There are police officers directly in front of and behind the incident. The man tells the officer he just got punched. The officer's response is difficult to hear above the crowd, but he appears to offer little help, instead telling the protestor he is not allowed to demonstrate there (on a public sidewalk).
+During a BLM protest in Bethel, Ohio, protesters were met by a substantial counter-protest, which allegedly harrassed and assaulted them. In one particular video, a counter-protester strikes a BLM protester on the back of the head and walk away. There are police officers directly in front of and behind the incident. The man tells the officer he just got punched. The officer's response is difficult to hear above the crowd, but he appears to offer little help, instead telling the protester he is not allowed to demonstrate there (on a public sidewalk).
 
-News report includes footage of counter-protestors using racial slurs, harassing protestors and rip signs out of protestor hands while police look on.
+News report includes footage of counter-protesters using racial slurs, harassing protesters and rip signs out of protester hands while police look on.
 
 tags: abuse-of-power, protester
 
@@ -33,9 +33,9 @@ id: oh-bethel-1
 
 ## Canton
 
-### Police spray mace, fire tear gas and flashbangs at protestors, even after they have dispersed | May 29th
+### Police spray mace, fire tear gas and flashbangs at protesters, even after they have dispersed | May 29th
 
-Police warn protestors blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flashbangs, and mace, even after protestors are out of the roadway. In part 2 of the video at 7:58, one of the used flashbang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
+Police warn protesters blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flashbangs, and mace, even after protesters are out of the roadway. In part 2 of the video at 7:58, one of the used flashbang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
 
 tags: pepper-spray, stun-grenade, tear-gas, protester
 
@@ -63,9 +63,9 @@ id: oh-cincinnati-1
 * https://twitter.com/kodyfishertv/status/1266901735198638082
 
 
-### Peaceful protestor on sidewalk pepper sprayed | May 30th
+### Peaceful protester on sidewalk pepper sprayed | May 30th
 
-Footage from a news report shows a protestor standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes, seemingly unprovoked.
+Footage from a news report shows a protester standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes, seemingly unprovoked.
 
 The reporter states that rubber bullets and flashbangs are also being used on the crowd.
 
@@ -95,9 +95,9 @@ id: oh-cincinnati-2
 * [Video 2](https://www.reddit.com/r/cincinnati/duplicates/gus9dn/531_police_use_tear_gas_and_rubber_bullets_on_a/)
 
 
-### Protestors kept in a courtyard, with no bathroom breaks, water, or food, for ten hours | May 31st
+### Protesters kept in a courtyard, with no bathroom breaks, water, or food, for ten hours | May 31st
 
-Protestors describe being zip-tied and held for ten hours without food, water, or (in some cases) bathroom breaks. In total, 307 protesters were detained, around 60 of them in the Justice Center courtyard.
+Protesters describe being zip-tied and held for ten hours without food, water, or (in some cases) bathroom breaks. In total, 307 protesters were detained, around 60 of them in the Justice Center courtyard.
 
 tags: arrest, inhumane-treatment, zip-tie, protester
 
@@ -175,7 +175,7 @@ id: oh-cleveland-1
 
 ### Police fire tear gas at peaceful protest | May 30th
 
-Without warning, police fire tear gas at peaceful protestors.
+Without warning, police fire tear gas at peaceful protesters.
 
 tags: tear-gas, protester
 
@@ -186,11 +186,11 @@ id: oh-cleveland-2
 * https://twitter.com/rachelscotton/status/1266840734906318848
 
 
-### Police injure numerous protestors with rubber bullets | May 30th
+### Police injure numerous protesters with rubber bullets | May 30th
 
-Twitter user who relays Cleveland police scanner says transmission went over radio stating a protestor's "eye was dislodged" by a rubber bullet. Later reporting notes that an eyewitness say a man with his "eyeball dangling from his socket" and states that police waited several minutes to call EMS.
+Twitter user who relays Cleveland police scanner says transmission went over radio stating a protester's "eye was dislodged" by a rubber bullet. Later reporting notes that an eyewitness say a man with his "eyeball dangling from his socket" and states that police waited several minutes to call EMS.
 
-Additional footage shows a street medic patching a wound in the back of a protestor. The description of this footage states that police were aiming at the crowd.
+Additional footage shows a street medic patching a wound in the back of a protester. The description of this footage states that police were aiming at the crowd.
 
 tags: medic, rubber-bullet, shoot, protester
 
@@ -217,9 +217,9 @@ id: oh-cleveland-4
 * https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
-### Protestor shot in the eye with pellet round | May 30th
+### Protester shot in the eye with pellet round | May 30th
 
-Footage shows a protestor show in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protestor's eye. Another image from the protestor shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
+Footage shows a protester show in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protester's eye. Another image from the protester shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
 
 tags: shoot, protester, bean-bag
 
@@ -249,9 +249,9 @@ id: oh-cleveland-6
 
 ## Columbus
 
-### Cop hits a protestor in the face, escalates to whole crowd being pepper sprayed | May 29th
+### Cop hits a protester in the face, escalates to whole crowd being pepper sprayed | May 29th
 
-A cop hits a protestor in the face. Then a different cop pepper-sprays the person hit, as well as nerby protestors. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
+A cop hits a protester in the face. Then a different cop pepper-sprays the person hit, as well as nerby protesters. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
 
 tags: strike, pepper-spray, spray, arrest, protester
 
@@ -293,7 +293,7 @@ id: oh-columbus-3
 
 ### Police pepperspray protesters for chanting | May 30th
 
-Unarmed protestors peacefully chanting when an officer starts randomly pepper-spraying them.
+Unarmed protesters peacefully chanting when an officer starts randomly pepper-spraying them.
 
 tags: pepper-spray, spray, protester
 
@@ -318,9 +318,9 @@ id: oh-columbus-15
 * https://twitter.com/julialwashere/status/1266730657436315649
 
 
-### Police pepper spray protestors; rip mask off protestor | May 30th
+### Police pepper spray protesters; rip mask off protester | May 30th
 
-Police pepper spray protestors walking away from them. One protestor shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
+Police pepper spray protesters walking away from them. One protester shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
 
 tags: pepper-spray, spray, shove, protester
 
@@ -333,7 +333,7 @@ id: oh-columbus-16
 
 ### Police pepper-spray a medic | May 31st
 
-Police point blank pepper spray a medic who was tending to a protestor
+Police point blank pepper spray a medic who was tending to a protester
 
 tags: medic, pepper-spray, spray
 
@@ -361,7 +361,7 @@ id: oh-columbus-6
 
 ### Police intimidating campus protesters by driving car towards them | May 31st
 
-Police drive their car towards protestors in order to disperse them
+Police drive their car towards protesters in order to disperse them
 
 tags: vehicle, drive, protester
 
@@ -405,7 +405,7 @@ id: oh-columbus-9
 
 ### Police pepper spray sitting protesters | May 31st
 
-Police pepper spraying peaceful unarmed protestors as they sit on the ground.
+Police pepper spraying peaceful unarmed protesters as they sit on the ground.
 
 tags: pepper-spray, spray, protester
 
@@ -418,7 +418,7 @@ id: oh-columbus-10
 
 ### Woman holding a sign is shot with rubber bullets | May 31st
 
-A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protestors.
+A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protesters.
 
 tags: rubber-bullet, shoot, protester
 
@@ -507,9 +507,9 @@ id: oh-columbus-18
 * [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
 
 
-### Police drive up to protestors, jump out and tackle them | (Believed to be) June 6th
+### Police drive up to protesters, jump out and tackle them | (Believed to be) June 6th
 
-Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protestors and jump out of the car. Police from the vehicles and on the street charge protestors, tackle them, and arrest them. Police appear to kneel on protestors while making arrests.
+Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protesters and jump out of the car. Police from the vehicles and on the street charge protesters, tackle them, and arrest them. Police appear to kneel on protesters while making arrests.
 
 tags: vehicle, tackle, arrest, knee, protester
 
@@ -523,11 +523,11 @@ id: oh-columbus-24
 
 ### Man maced by police | June 21st
 
-Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
+Footage shows the aftermath of police macing a man with prosthetic legs. Protesters have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
 
-Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
+Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protesters.
 
-Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protestor-provided footage.
+Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protester-provided footage.
 
 tags: mace, pepper-spray, spray, shove, person-with-disability, protester
 
@@ -540,11 +540,11 @@ id: oh-columbus-19
 * [Body cam footage](https://twitter.com/jessistarkey/status/1274869173206888448)
 
 
-### Protestor dragged into street, thrown to ground and arrested | June 21st
+### Protester dragged into street, thrown to ground and arrested | June 21st
 
-Footage depicts multiple police officers grabbing a protestor. They drag the protestor into the street and one officer flips the protestor over his knee onto the ground. He then kneels on the protestor to arrest them while other officers form a barrier around him.
+Footage depicts multiple police officers grabbing a protester. They drag the protester into the street and one officer flips the protester over his knee onto the ground. He then kneels on the protester to arrest them while other officers form a barrier around him.
 
-Post title states the protestor is a medic, but visual evidence is unclear.
+Post title states the protester is a medic, but visual evidence is unclear.
 
 tags: shove, grab, throw, knee, arrest, protester
 
@@ -555,9 +555,9 @@ id: oh-columbus-20
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hdj106/062120_columbus_ohio_police_dragging_medic_into/
 
 
-### Police shove protestors, ram them with bikes | June 21st
+### Police shove protesters, ram them with bikes | June 21st
 
-In an apparent attempt to clear a street, police have formed a bike line. They shove protestors with shields and ram their bikes into the crowd. Protestors can be seen throwing water at officers. Officers then discharge pepper spray.
+In an apparent attempt to clear a street, police have formed a bike line. They shove protesters with shields and ram their bikes into the crowd. Protesters can be seen throwing water at officers. Officers then discharge pepper spray.
 
 tags: shove, bike, pepper-spray, spray, protester
 
@@ -568,9 +568,9 @@ id: oh-columbus-21
 * https://www.reddit.com/r/PublicFreakout/comments/hdwgfb/columbus_ohio_cops_ram_protesters_with_bikes/
 
 
-### Police drag seated protestor, body slam a second | June 29th
+### Police drag seated protester, body slam a second | June 29th
 
-Footage shows a protestor seated on the edge of the road. An officer drags the protestor into the street and forces her to lay down to arrest. As other protestors express frustration, another officer runs over, lifts a protestor off the ground and slams her on her back. Police kneel on both protestors to make arrests.
+Footage shows a protester seated on the edge of the road. An officer drags the protester into the street and forces her to lay down to arrest. As other protesters express frustration, another officer runs over, lifts a protester off the ground and slams her on her back. Police kneel on both protesters to make arrests.
 
 The second clip is a lengthy (53 minute) account from the original filmer.
 
@@ -586,9 +586,9 @@ id: oh-columbus-23
 
 ## Dayton
 
-### Police fire multiple cans of tear gas at protestors | May 30th
+### Police fire multiple cans of tear gas at protesters | May 30th
 
-Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protestors grabbed the cans and threw them back toward the police. The protestors mostly disperse, but once the gas clears they return. The police then fire more tear gas.
+Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protesters grabbed the cans and threw them back toward the police. The protesters mostly disperse, but once the gas clears they return. The police then fire more tear gas.
 
 tags: tear-gas, protester
 
@@ -601,7 +601,7 @@ id: oh-dayton-1
 
 ### Police tear gas peaceful protest | June 1st
 
-Footage shows peaceful protestors occupying a road. They are chanting. Without warning, police fire tear gas, scattering the protestors
+Footage shows peaceful protesters occupying a road. They are chanting. Without warning, police fire tear gas, scattering the protesters
 
 tags: tear-gas, protester
 
@@ -614,9 +614,9 @@ id: oh-dayton-2
 
 ## Toledo
 
-### Police use tear gas on protestors | May 30th
+### Police use tear gas on protesters | May 30th
 
-Around 7:30pm, the police used tear gas on protestors after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protestors. Later, in the second video, the police use tear gas on the protestors shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
+Around 7:30pm, the police used tear gas on protesters after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protesters. Later, in the second video, the police use tear gas on the protesters shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
 
 tags: tear-gas, rubber-bullet, protester
 

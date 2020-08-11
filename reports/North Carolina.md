@@ -1,8 +1,8 @@
 ## Asheville
 
-### Police fire tear gas and rubber bullets at protestors | May 31st
+### Police fire tear gas and rubber bullets at protesters | May 31st
 
-According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protestors attempted to shield them from harm.
+According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protesters attempted to shield them from harm.
 
 tags: child, tear-gas, rubber-bullet, shoot, protester
 
@@ -72,9 +72,9 @@ id: nc-charlotte-1
 
 ### Police arrest representative from The Bail Project | June 8th
 
-Video shows numerous police officers charging an individual, before throwing them to the ground and kneeling on them to make an arrest. As they walk the individual from the scene, she states her restraints are too tight, but police do not acknowledge her. Protestors nearby ask why she is being arrested; police say, "Watch the news video."
+Video shows numerous police officers charging an individual, before throwing them to the ground and kneeling on them to make an arrest. As they walk the individual from the scene, she states her restraints are too tight, but police do not acknowledge her. Protesters nearby ask why she is being arrested; police say, "Watch the news video."
 
-Protestors identified this individual as a representative from The Bail Project who was slated to speak at a protest later that day.
+Protesters identified this individual as a representative from The Bail Project who was slated to speak at a protest later that day.
 
 tags: arrest, knee, shove, throw, inhumane-treatment, protester
 
@@ -88,7 +88,7 @@ id: nc-charlotte-2
 
 ### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | June 18th
 
-The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protestors.
+The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protesters.
 
 Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to zip tie. In addition, a reporter filming was struck by an officer and threatened with arrest.
 
@@ -101,7 +101,7 @@ id: nc-charlotte-3
 * [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
 
 
-### Police shove and pepper spray protestors | July 25th
+### Police shove and pepper spray protesters | July 25th
 
 Police separated groups of Back the Blue and Defund the Police protesters. Police shoved Defund the Police protesters backwards with their bikes. Protesters then shove a police officer's bike back. The officer then discharges pepper spray at numerous protesters.
 
@@ -116,11 +116,11 @@ id: nc-charlotte-4
 
 ## Gastonia
 
-### Police with live ammo arrest protestors sitting in cars | July 22nd
+### Police with live ammo arrest protesters sitting in cars | July 22nd
 
-Footage shows militarized police with long guns carrying live ammo running up on protestors. Black protestors are removed from their vehicles and arrested.
+Footage shows militarized police with long guns carrying live ammo running up on protesters. Black protesters are removed from their vehicles and arrested.
 
-According to the senior editor of the Triad City Beat, an NC news outlet, police arrested these protestors after an alleged dispute between BLM protestors and an older white couple, in which the couple allegedly pulled a gun and knife on protestors. According to the reporter, only protestors were charged with any offenses.
+According to the senior editor of the Triad City Beat, an NC news outlet, police arrested these protesters after an alleged dispute between BLM protesters and an older white couple, in which the couple allegedly pulled a gun and knife on protesters. According to the reporter, only protesters were charged with any offenses.
 
 tags: abuse-of-power, threaten, arrest, gun
 
@@ -137,7 +137,7 @@ id: nc-gastonia-1
 
 ### Police fire tear gas at peaceful protests | May 30th
 
-Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protestors surprised at the escalation and turning to flee, as well as multiple protestors hit directly by projectiles. In addition, the article claims police targeted both protestors and journalists with rubber bullets. The escalation did then incite some protestors to return fire with rocks, fireworks, and police tear gas canisters.
+Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protesters surprised at the escalation and turning to flee, as well as multiple protesters hit directly by projectiles. In addition, the article claims police targeted both protesters and journalists with rubber bullets. The escalation did then incite some protesters to return fire with rocks, fireworks, and police tear gas canisters.
 
 tags: tear-gas, tear-gas-canister, journalist, rubber-bullet, protester
 
@@ -152,9 +152,9 @@ id: nc-raleigh-2
 
 ### Police use tear gas to clear road | May 31st
 
-Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful protestors gathered on the street before advancing across the intersection.
+Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful protesters gathered on the street before advancing across the intersection.
 
-Police later justified the use of force by stating that protestors were blocking the path of an EMS vehicle, although no vehicle can be seen in the footage.
+Police later justified the use of force by stating that protesters were blocking the path of an EMS vehicle, although no vehicle can be seen in the footage.
 
 tags: tear-gas, tear-gas-canister, protester
 
@@ -181,9 +181,9 @@ id: nc-raleigh-5
 * https://twitter.com/greg_doucette/status/1267836827328819200
 
 
-### Police fire tear gas at peacful protestors | May 31st
+### Police fire tear gas at peacful protesters | May 31st
 
-Police fire tear gas at protestors throughout protests on May 31st. Footage show police firing into a crowd.
+Police fire tear gas at protesters throughout protests on May 31st. Footage show police firing into a crowd.
 
 tags: tear-gas, protester
 
@@ -197,7 +197,7 @@ id: nc-raleigh-6
 
 ### Police fire riot control rounds into protest | May 31st
 
-Footage shows a crowd protesting in place with hands up. Shots are heard and a protestor runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
+Footage shows a crowd protesting in place with hands up. Shots are heard and a protester runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
 
 tags: pepper-ball, shoot, protester
 
@@ -211,7 +211,7 @@ id: nc-raleigh-7
 
 ### Police shoot to intimidate owner of LGBTQ bar | June 2nd
 
-A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protestor himself, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
+A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protester himself, but had been handing out refreshments to protesters. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
 tags: threaten, projectile, bystander
 
@@ -224,9 +224,9 @@ id: nc-raleigh-1
 * [Location via Google Street View](https://www.google.ca/maps/place/Ruby+Deluxe/@35.7751916,-78.6399548,3a,75y,200h,110t/data=!3m8!1e1!3m6!1sAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf%3Dw203-h100-k-no-pi-20-ya200-ro0-fo100!7i13090!8i6545!4m14!1m6!3m5!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!2sRuby+Deluxe!8m2!3d35.7751916!4d-78.6399548!3m6!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!8m2!3d35.7751916!4d-78.6399548!14m1!1BCgIgARICCAI)
 
 
-### Police target, follow and arrest protestor | June 4th
+### Police target, follow and arrest protester | June 4th
 
-On June 4th, Conrad James, a prominent protestor in Raleigh, threatened to file a class action lawsuit against the Raleigh police departments.
+On June 4th, Conrad James, a prominent protester in Raleigh, threatened to file a class action lawsuit against the Raleigh police departments.
 
 In the early hours of the morning on June 5th, men in black, without visible badge numbers, raided James' home and arrested him for allegedly failing to return a rental car. James denies these claims. The arrest took place in a county under the jurisdiction of the Wake County Sheriff's Office and the Fuquay-Varina Police Department. The sheriff's office, the Fuquay-Varina Police, and the Raleigh Police give differing accounts about the departments involved and the time at which the raid took place.
 
@@ -243,13 +243,13 @@ id: nc-raleigh-3
 * https://abc11.com/activist-who-made-demands-to-raleigh-leaders-arrested-for-unrelated-incident/6234238/
 
 
-### Raleigh police roughly arrest protestors | June 18th
+### Raleigh police roughly arrest protesters | June 18th
 
-Footage shows violent arrests of 2 protestors. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protestors out of the way.
+Footage shows violent arrests of 2 protesters. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protesters out of the way.
 
-One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor.
+One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protester.
 
-Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protestor was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
+Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protester was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
 
 tags: shove, push, arrest, child, protester
 
@@ -264,9 +264,9 @@ id: nc-raleigh-8
 
 ## Wilmington
 
-### Police kneel to lure protestors closer before firing | June 3rd
+### Police kneel to lure protesters closer before firing | June 3rd
 
-Police feign a show of support by kneeling and draw protestors closer. After protestors kneel, police begin firing tear gas rounds.
+Police feign a show of support by kneeling and draw protesters closer. After protesters kneel, police begin firing tear gas rounds.
 
 tags: tear-gas, tear-gas-canister, protester
 

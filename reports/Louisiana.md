@@ -1,10 +1,10 @@
 ## New Orleans
 
-### Police throw tear-gas at protestors on a bridge. | June 3rd
+### Police throw tear-gas at protesters on a bridge. | June 3rd
 
-Police throw tear-gas at protestors that are on the Crescent City Connection bridge and cannot easily disperse.
+Police throw tear-gas at protesters that are on the Crescent City Connection bridge and cannot easily disperse.
 
-Additional images show a protestor bleeding after allegedly being struck in the head by a tear gas canister. A Twitter user claiming to be the woman's child says the woman was taken to the hospital for treatment.
+Additional images show a protester bleeding after allegedly being struck in the head by a tear gas canister. A Twitter user claiming to be the woman's child says the woman was taken to the hospital for treatment.
 
 tags: tear-gas, tear-gas-canister, protester
 

@@ -141,9 +141,9 @@ id: ky-louisville-14
 * [Complaint filed with LMPD, posted to facebook by the pastor](https://www.facebook.com/story.php?story_fbid=10160169890587516&id=601637515)
 
 
-### Protestors in St. Matthews shot with pepper rounds | June 3rd
+### Protesters in St. Matthews shot with pepper rounds | June 3rd
 
-Police fired pepper rounds unprovoked at a group of protestors marching prior to curfew in St. Matthews.
+Police fired pepper rounds unprovoked at a group of protesters marching prior to curfew in St. Matthews.
 
 tags: pepper-ball, shoot, protester
 
@@ -169,9 +169,9 @@ id: ky-louisville-11
 * [Victim's account](https://www.instagram.com/p/CBleLePnpR_/)
 
 
-### Police tackle protestor, then target witness | June 16th
+### Police tackle protester, then target witness | June 16th
 
-A guy records a half-dozen policemen dogpiling a protestor and then one of them shoots the window to stop him from recording.
+A guy records a half-dozen policemen dogpiling a protester and then one of them shoots the window to stop him from recording.
 
 tags: rubber-bullet, shoot, tackle, beat, baton, protester
 
@@ -184,7 +184,7 @@ id: ky-louisville-10
 * [Police confirm it was an officer](https://www.buzzfeednews.com/article/amberjamieson/louisville-shot-fired-security-guard-video)
 
 
-### Protestor medic beaten and arrested | June 19th
+### Protester medic beaten and arrested | June 19th
 
 Louisville police clear protest medics, shoving them and striking them with batons. Medics clearly identify themselves. One medic is shoved to the ground; she states to officers numerous times that she has a disability.
 
@@ -202,9 +202,9 @@ id: ky-louisville-12
 
 ### Livestreamer arrested while filming protest | June 30th
 
-A livestreamer known by protestors in the Louisville area was arrested during a protest. Police gave a dispersal order and the journalist began backing up as the police line approached. An officer says, "You're under arrest," despite the fact that he obeys the order. Police then tackle him to the ground.
+A livestreamer known by protesters in the Louisville area was arrested during a protest. Police gave a dispersal order and the journalist began backing up as the police line approached. An officer says, "You're under arrest," despite the fact that he obeys the order. Police then tackle him to the ground.
 
-It should be noted that he is not a credentialed reporter, but is well known by protestors in the area for his even-handed reporting, including his refusal to turn off his camera when protestors requested during a period of vandalism.
+It should be noted that he is not a credentialed reporter, but is well known by protesters in the area for his even-handed reporting, including his refusal to turn off his camera when protesters requested during a period of vandalism.
 
 tags: journalist, arrest, tackle
 
@@ -218,7 +218,7 @@ id: ky-louisville-13
 
 ### LMPD Bearcat strikes vehicle; police initially state vehicle hit them, then retract the statement; in addition, bystander filming is arrested | July 1st
 
-On July 1st, a collision was reported between a bystander vehicle and an LMPD armored car, also called a Bearcat. Police initially stated that the Bearcat was rammed by a protestor vehicle. They later retracted this statement, saying that in fact the Bearcat hit the vehicle. It is not clear if the vehicle was related to the protest at all. However, police state that they intentionally hit the vehicle to prevent further harm, stating that they recognized the vehicle from an incident the previous night.
+On July 1st, a collision was reported between a bystander vehicle and an LMPD armored car, also called a Bearcat. Police initially stated that the Bearcat was rammed by a protester vehicle. They later retracted this statement, saying that in fact the Bearcat hit the vehicle. It is not clear if the vehicle was related to the protest at all. However, police state that they intentionally hit the vehicle to prevent further harm, stating that they recognized the vehicle from an incident the previous night.
 
 A woman filming the incident from her car stepped out and asked someone for their name. She was then arrested.
 
@@ -242,7 +242,7 @@ Footage from two livestreamers on July 1st shows their arrests. LMPD arrested li
 
 The ACLU has raised concerns that these arrests are inhibiting freedom of the press, while Louisville Metropolitan Police Department has stated that the department "has no issue with anyone livestreaming. But many of those livestreaming are also protesting. And anyone protesting who fails to follow police orders to disperse may be arrested."
 
-The journalist from MilkyMess TV took 1st person footage of their arrest. Around 1:50:00 in her Facebook live post, she is wandering around a crowd of protestors on the sidewalk. The journalist does not appear to be chanting or singing with protestors. Several police cruisers pull up and officers step out. The journalist steps forward to get a better look and is arrested without a word. The camera is knocked from her hand.
+The journalist from MilkyMess TV took 1st person footage of their arrest. Around 1:50:00 in her Facebook live post, she is wandering around a crowd of protesters on the sidewalk. The journalist does not appear to be chanting or singing with protesters. Several police cruisers pull up and officers step out. The journalist steps forward to get a better look and is arrested without a word. The camera is knocked from her hand.
 
 An additional livestream from a reporter affiliated with WDRB News shows the incident. Beginning at 3:05:00, police arrive, appear to single out MilkyMess and tackle her to the ground. The reporter asks why she is being arrested. A police officer says, "Trespassing." It should be noted that MilkyMess was on a public sidewalk and numerous other individuals were not arrested. Around 3:11:00, the WDRB reporter walks over to another arrestee. Shortly after, the reporter asks an officer if he should be in the street or sidewalk. The officer tells him he's "gotta go." The reporter crosses to the other side of the street and asks another person if there were arrests. The individual says there was one arrest. This totals 3 arrests for trespassing on a park/public sidewalk out of a group of 30-40 individuals.
 
@@ -260,9 +260,9 @@ id: ky-louisville-16
 
 ### Police respond to splashed water with excessive force | July 7th
 
-Police are attempting to tow a car and protestors have gathered around in opposition. A protestor splashes water on an officer and attempts to run away. The officer chases her, holds her in a headlock, and forces her to the ground with the aid of several other officers. One officer kneels on the protestor to arrest her while other officers hold the crowd back. One officer can be heard saying repeatedly saying, "Back the fuck off."
+Police are attempting to tow a car and protesters have gathered around in opposition. A protester splashes water on an officer and attempts to run away. The officer chases her, holds her in a headlock, and forces her to the ground with the aid of several other officers. One officer kneels on the protester to arrest her while other officers hold the crowd back. One officer can be heard saying repeatedly saying, "Back the fuck off."
 
-The filmer also posted a screenshot, alleging that the protestor was charged with disorderly conduct, possession of marijuana, inciting a riot, and third degree assault of an officer. Third degree assault is generally classified as the intent to cause serious bodily harm, generally with a deadly weapon. The filmer is a journalist with the Courier Journal and is verified on Twitter, lending some credence to her allegations about the charges.
+The filmer also posted a screenshot, alleging that the protester was charged with disorderly conduct, possession of marijuana, inciting a riot, and third degree assault of an officer. Third degree assault is generally classified as the intent to cause serious bodily harm, generally with a deadly weapon. The filmer is a journalist with the Courier Journal and is verified on Twitter, lending some credence to her allegations about the charges.
 
 tags: protester, arrest, knee, abuse-of-power
 
@@ -274,11 +274,11 @@ id: ky-louisville-17
 * https://twitter.com/bloosemore/status/1280692574949462025
 
 
-### Police fire at peaceful protestors | July 9th
+### Police fire at peaceful protesters | July 9th
 
-Footage shows a handful of peaceful protestors on the sidewalk. Shots can be heard and one of the protestors begins running. The shots are alleged to have been fired from a rooftop. The footage shows officers on the roof of a nearby building. It is believed that they fired the shots, but cannot be verified.
+Footage shows a handful of peaceful protesters on the sidewalk. Shots can be heard and one of the protesters begins running. The shots are alleged to have been fired from a rooftop. The footage shows officers on the roof of a nearby building. It is believed that they fired the shots, but cannot be verified.
 
-Police alleged that a protestor touched an officer's gun.
+Police alleged that a protester touched an officer's gun.
 
 tags: protester, shoot, projectile
 

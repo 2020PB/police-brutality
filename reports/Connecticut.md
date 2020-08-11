@@ -1,6 +1,6 @@
 ## Waterbury
 
-### Police tackle and detain 6 protestors | May 31st
+### Police tackle and detain 6 protesters | May 31st
 
 Waterbury police detain at least 6 people at an assembly at the intersection of Wolcott St. and Long Hill Rd., apparently for blocking the road. Police had warned protesters several times that if they remained on Wolcott St., they would be arrested. Police tackle multiple protesters, including one (who one post claims is 15 years old) who is thrown to the ground and pinned down for an extended period, with one officer kneeling on him, in what appears to be excessive force. A dog is present, but apparently not used. Waterbury authorities say no property was damaged during the protest. Arrested protesters were not charged.
 

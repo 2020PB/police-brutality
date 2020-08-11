@@ -22,7 +22,7 @@ id: va-fairfax-1
 
 ### Police fire tear gas at peaceful protest | May 31st
 
-Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protestors are lying on the ground as tear gas canisters fall around them.
+Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protesters are lying on the ground as tear gas canisters fall around them.
 
 tags: tear-gas, protester
 
@@ -59,9 +59,9 @@ id: va-manassas-1
 
 ## Richmond
 
-### Police SUV jumps median toward protestors | May 30th
+### Police SUV jumps median toward protesters | May 30th
 
-Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protestors are gathered. Protestors are forced to run to avoid being hit.
+Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protesters are gathered. Protesters are forced to run to avoid being hit.
 
 tags: vehicle, protester
 
@@ -107,9 +107,9 @@ id: va-richmond-2
 * [Court filing](https://ewscripps.brightspotcdn.com/ff/05/d77e0dd14f0187f803ec26baadc8/6-4-2020-civil-rights-lawsuit-vs-richmond-police.pdf)
 
 
-### Officer spits on detained protestor | June 1st
+### Officer spits on detained protester | June 1st
 
-A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera. Extended footage shows the officer continuing to spit on the protestor.
+A police officer spits on a detained protester who is restrained and sitting on the ground. The officer appears to repeat the action after other protesters mention that he's on camera. Extended footage shows the officer continuing to spit on the protester.
 
 tags: arrest, inhumane-treatment, protester
 
@@ -137,7 +137,7 @@ id: va-richmond-4
 
 ### Police SUV pushes through protesters, knocks over protester on bike | (believed to be) June 13th
 
-In this video, protestors on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protestors and knocks a protester off of their bike.
+In this video, protesters on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protesters and knocks a protester off of their bike.
 
 The officer driving the vehicle has been cleared by the department of any wrongdoing.
 
@@ -182,11 +182,11 @@ id: va-richmond-21
 
 ### Police fire tear gas and rubber bullets at peaceful protest | June 15th
 
-Around 10 pm on June 15th, peaceful protestors gathered outside the Richmond Police Headquarters at some distance from the officers. Officers fired tear gas and rubber bullets at protestors.
+Around 10 pm on June 15th, peaceful protesters gathered outside the Richmond Police Headquarters at some distance from the officers. Officers fired tear gas and rubber bullets at protesters.
 
 Richmond was no longer under curfew restrictions at this time.
 
-In addition, one protestor's phone was shot. Police also appear to deploy pepper spray about an hour after the initial shots.
+In addition, one protester's phone was shot. Police also appear to deploy pepper spray about an hour after the initial shots.
 
 tags: tear-gas, rubber-bullet, shoot, protester, property-destruction, pepper-spray, spray
 
@@ -207,7 +207,7 @@ First-person footage from a journalist shows him shouting, "I'm press, I'm press
 
 He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
 
-Reddit link shows scuffle was instigated after a protestor beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
+Reddit link shows scuffle was instigated after a protester beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
 
 tags: pepper-spray, spray, shove, journalist
 
@@ -219,7 +219,7 @@ id: va-richmond-7
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
 
-### Police escalate against protestors outside city hall | June 23rd
+### Police escalate against protesters outside city hall | June 23rd
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
@@ -239,7 +239,7 @@ id: va-richmond-8
 
 ### Man struck in face by explosive round | June 26th
 
-Footage shows a group of scattered protestors some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
+Footage shows a group of scattered protesters some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
 tags: shoot, projectile, explosive, protester
 
@@ -250,9 +250,9 @@ id: va-richmond-10
 * https://twitter.com/woznyphoto/status/1276734657237864448
 
 
-### Police drag protestor off bike | June 26th
+### Police drag protester off bike | June 26th
 
-Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protestors. He grabs a protestor on a bike, then proceeds to drag the protestor into the street and off the bike. Several officers aid the officer in arresting the protestor, while the original officer kneels on the protestor's back.
+Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protesters. He grabs a protester on a bike, then proceeds to drag the protester into the street and off the bike. Several officers aid the officer in arresting the protester, while the original officer kneels on the protester's back.
 
 tags: bike, grab, arrest, knee, protester
 
@@ -263,9 +263,9 @@ id: va-richmond-11
 * https://twitter.com/woznyphoto/status/1276727667979694081
 
 
-### Police shove and pepper-spray protestor | June 26th
+### Police shove and pepper-spray protester | June 26th
 
-Footage shows a police officer shoving a protestor to the ground. The protestor scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protestors.
+Footage shows a police officer shoving a protester to the ground. The protester scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protesters.
 
 tags: shove, pepper-spray, spray, protester
 
@@ -299,9 +299,9 @@ id: va-richmond-13
 * https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
 
 
-### Police fire tear gas at protestors | June 26th
+### Police fire tear gas at protesters | June 26th
 
-Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protestors.
+Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protesters.
 
 tags: protester, tear-gas
 
@@ -312,9 +312,9 @@ id: va-richmond-14
 * https://twitter.com/greg_doucette/status/1287252197487648768
 
 
-### Police tear gas protestors | July 25th
+### Police tear gas protesters | July 25th
 
-After a truck has been lit on fire, allegedly by protestors, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
+After a truck has been lit on fire, allegedly by protesters, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
 
 tags: protester, tear-gas
 
@@ -330,7 +330,7 @@ id: va-richmond-15
 
 ### Police attempt to arrest press | July 25th
 
-Footage shows police grabbing two members of the press and detaining them. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protestors away. The journalists are eventually released.
+Footage shows police grabbing two members of the press and detaining them. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protesters away. The journalists are eventually released.
 
 One of the journalists states that he was attempting to flush tear gas from his eyes when he was arrested.
 
@@ -359,9 +359,9 @@ id: va-richmond-17
 * https://twitter.com/edace2936/status/1287574364490289152
 
 
-### Protestor arrested without probable cause, later released without charges | July 26th
+### Protester arrested without probable cause, later released without charges | July 26th
 
-The filmer, a protestor, is standing on or near the sidewalk. Several officers approach him. The protestor says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protestor without charges.
+The filmer, a protester, is standing on or near the sidewalk. Several officers approach him. The protester says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protester without charges.
 
 tags: protester, arrest, abuse-of-power
 
@@ -373,9 +373,9 @@ id: va-richmond-18
 * https://twitter.com/GoadGatsby/status/1287600241068449792
 
 
-### Encapment serving food and water dismantled; protestor arrested and tased | July 31st
+### Encapment serving food and water dismantled; protester arrested and tased | July 31st
 
-Police arrived at a group of protestors who gave out food and water to remove the protestors' tents. During the removal, a protestor was arrested, held on the ground, and tased repeatedly. Charges are unclear.
+Police arrived at a group of protesters who gave out food and water to remove the protesters' tents. During the removal, a protester was arrested, held on the ground, and tased repeatedly. Charges are unclear.
 
 tags: protester, taser, tase, arrest
 

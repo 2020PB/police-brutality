@@ -1,6 +1,6 @@
 ## Detroit
 
-### Officer charges through other officers to attack a protestor who is backing away | May 29th
+### Officer charges through other officers to attack a protester who is backing away | May 29th
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
@@ -13,9 +13,9 @@ id: mi-detroit-4
 * https://twitter.com/joeguillen/status/1266563974658744321
 
 
-### Riot police charge peaceful protestors | May 29th
+### Riot police charge peaceful protesters | May 29th
 
-Riot police charge peaceful protestors without warning. The filming protestor and numerous others are beaten with riot shields.
+Riot police charge peaceful protesters without warning. The filming protester and numerous others are beaten with riot shields.
 
 tags: tackle, shield, beat, protester
 
@@ -70,7 +70,7 @@ id: mi-detroit-3
 
 ### Woman is charged by police and thrown to the ground | May 30th
 
-Police charge protestors. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
+Police charge protesters. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
 
 tags: throw, punch, knee, arrest, protester
 
@@ -98,9 +98,9 @@ id: mi-detroit-11
 * https://pressfreedomtracker.us/all-incidents/detroit-news-journalist-captures-her-own-detention-livestream/
 
 
-### Police charge protestors and press | June 2nd
+### Police charge protesters and press | June 2nd
 
-Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning.
+Police line is seen using shields to push back a small group of protesters. The filmer, a reporter, moves around to the other side of the protesters. At this point, the footage captures another group of police officers charging the protesters from behind without warning.
 
 The footage becomes blurry as it appears that police strike the reporter, who repeatedly states, "I am press," and is standing alongside several camera crews.
 
@@ -116,7 +116,7 @@ id: mi-detroit-7
 * https://twitter.com/MCmuckraker/status/1268011179986870273
 
 
-### Police use LRAD (sound cannon) to disperse protestors | June 2nd
+### Police use LRAD (sound cannon) to disperse protesters | June 2nd
 
 Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm.
 
@@ -133,9 +133,9 @@ id: mi-detroit-8
 * https://twitter.com/MedvisJackson/status/1267984069905784832
 
 
-### Police run over protestors | June 28th
+### Police run over protesters | June 28th
 
-A police cruiser begins to drive into a line of protestors. Protestors continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protestor onto the hood, and drives away.
+A police cruiser begins to drive into a line of protesters. Protesters continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protester onto the hood, and drives away.
 
 tags: vehicle, protester
 
@@ -146,9 +146,9 @@ id: mi-detroit-9
 * https://twitter.com/DJEazyTwist/status/1277430912653950976
 
 
-### Riot police officer chokes protestor. Tear gas was also used. | July 11th
+### Riot police officer chokes protester. Tear gas was also used. | July 11th
 
-A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protestors were dispersed using shields and batons. Protestors retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
+A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protesters were dispersed using shields and batons. Protesters retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
 tags: tear-gas, protester, shield, baton, arrest, choke, tear-gas, tear-gas-canister
 
