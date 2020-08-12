@@ -27,11 +27,16 @@ def test_handle_missing_name(capsys):
     assert "Failed name parse: missing name for" in str(captured) 
 
 
-@pytest.mark.skip(reason="failing test, need to handle this case")
-def test_handle_name_with_multiple_pipes():
+def test_handle_name_with_multiple_pipes(capsys):
     malformed_title = 'Thing happened | this day | May 30th'
-    result = title_to_name_date(malformed_title)
-    # what should happen here?
+    title_to_name_date(malformed_title)
+
+    captured = capsys.readouterr()
+    assert (
+        "Failed date format parse for title 'Thing happened'"
+        " and date 'this day': 'NoneType' object has no attribute 'group'"
+        in str(captured)
+    )
 
 
 def test_handle_missing_date(capsys):
@@ -50,9 +55,12 @@ def test_handle_weird_date_format(capsys):
     assert "Failed date format parse for title" in str(captured)
 
 
-@pytest.mark.skip(reason="failing test, need to handle this case")
-def test_handle_nonexistant_date():
+def test_handle_nonexistant_date(capsys):
     title_with_bad_date = 'Title | February 31st'
+    title_to_name_date(title_with_bad_date)
 
-    result = title_to_name_date(title_with_bad_date)
-    # what should happen here?
+    captured = capsys.readouterr()
+    assert (
+        "Failed date format parse for title 'Title' and date 'February 31st':"
+        " day is out of range for month: February 31" in str(captured)
+    )
