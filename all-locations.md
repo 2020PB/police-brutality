@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-12T14:31:55.320234+00:00
+UPDATED AT: 2020-08-12T18:35:56.020829+00:00
 
 
 # Alabama
@@ -3261,9 +3261,11 @@ id: in-indianapolis-3
 * https://twitter.com/greg_doucette/status/1268404518326276096
 
 
-### Police beat woman with batons and shoot pepper balls, shove another to the ground | June 1st
+### Police beat woman with batons and shoot pepper balls, shove another to the ground | May 31st
 
 A woman is seen being restrained by a police officer who stands behind her with his arms around her torso. She struggles with the officer and breaks free, after which she is repeatedly beaten on the thighs with batons and shot with what appear to be pepper balls by officers shouting "Get on the ground!" while she is standing still. Another woman walks towards the officers with her hands out, seeming to plead for restraint but not directly interfering. An officer yells at her to "Back up!" and then violently shoves her to the ground.
+
+Two IMPD officers have since been indicted for battery and other use of force charges.
 
 tags: beat, shoot, strike, baton, pepper-ball, arrest, inhumane-treatment, shove, protester
 
@@ -3274,6 +3276,7 @@ id: in-indianapolis-2
 * [Washington Post Story, 2nd video in article](https://www.washingtonpost.com/national/protests-police-brutality-video/2020/06/05/a9e66568-a768-11ea-b473-04905b1af82b_story.html)
 * https://www.reddit.com/r/PublicFreakout/comments/guffju/indianapolis_police_on_women_rights/
 * https://twitter.com/greg_doucette/status/1268391718086422528
+* https://twitter.com/KellyReinkeTV/status/1293601490897195009
 
 
 ## Lafayette
