@@ -1140,6 +1140,57 @@ id: ca-sanjose-5
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
+### Woman shot in the head with foam round | May 29th
+
+A woman at a protest on May 29th was shot in the temple by a foam bullet. She stated in an interview, "she heard no audible verbal warning from SJPD about their intent to use riot guns or physical force." The SJPD stated several verbal warnings were given. The woman stated she was assisted by a paramedic, given an ice pack, and told to see a doctor.
+
+tags: protester, shoot, foam-bullet
+
+id: ca-sanjose-8
+
+**Links**
+
+* https://abc7news.com/video/embed/?pid=6326456
+* https://abc7news.com/san-jose-police-department-sjpd-lawsuit-george-floyd-protest-civil-rights/6325926/
+* https://www.sanjoseinside.com/news/hundreds-of-rubber-bullets-later-san-jose-starts-to-reckon-with-human-toll-of-tactics/
+* https://www.sanjoseinside.com/wp-content/uploads/2020/06/Breanna9-768x1024.jpg
+* https://www.sanjoseinside.com/wp-content/uploads/2020/06/Breanna2-768x1024.jpg
+
+
+### Man struck in face by police, severely injured | May 29th
+
+A man approaches police, filming with his camera. He is struck in the face by an officer with a baton. He then throws a punch back and is wrestled to the ground by several officers and arrested. He was taken to a hospital for arrestees and diagnosed with a shattered kneecap. He says that the recovery is expected to take months.
+
+tags: strike, beat, arrest, baton, protester
+
+id: ca-sanjose-9
+
+**Links**
+
+* https://twitter.com/abc7newsbayarea/status/1266527253862719488
+* https://www.sanjoseinside.com/news/hundreds-of-rubber-bullets-later-san-jose-starts-to-reckon-with-human-toll-of-tactics/
+* https://www.sanjoseinside.com/wp-content/uploads/2020/06/48416200_1590892268340884_r.jpeg
+* https://www.sanjoseinside.com/wp-content/uploads/2020/06/DSC08021.jpg
+
+
+### Police shoot at woman in apartment | May 30th
+
+A woman was yelling at police during a May 30th protest from her apartment window. Shortly after starting a recording on her cell phone, police fired projectiles at the woman's apartment. She recovered 13 projectiles, including rubber bullets and pepper balls. Several of her windows were damaged.
+
+A police spokesperson stated that someone in the building was throwing glass bottles at police. The woman states she was not throwing anything.
+
+The woman has retained a lawyer. A team from the mayor's office helped repair the woman's apartment the day after the incident.
+
+tags: bystander, shoot, rubber-bullet, pepper-ball, property-destruction
+
+id: ca-sanjose-10
+
+**Links**
+
+* https://abc7news.com/video/embed/?pid=6260831
+* https://abc7news.com/new-excessive-force-complaint-against-sjpd/6260863/
+
+
 ### Police strike man with motorcycle | May 31st
 
 A man is seen running across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
