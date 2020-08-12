@@ -1890,6 +1890,19 @@ id: or-portland-117
 * https://twitter.com/SmileItsNathan/status/1285107709537329159
 
 
+### Protester shot in head with munition | July 20th
+
+A journalist interviewed a bandaged protester who was allegedly struck by officers with a munition in the head. The protester says he believes it was a a flashbang, because there was a ringing in his ears. He says that protest medics treated him at the scene. The journalist pans over the top of his head; the skin is red and there are traces of blood still on his scalp.
+
+tags: protester, explosive, projectile
+
+id: or-portland-263
+
+**Links**
+
+* https://twitter.com/tuckwoodstock/status/1285137479696146442
+
+
 ### Federal officers retaliate to protesters with tear gas, flashbangs and impact munitions | July 21st
 
 After a small group of protesters damaged the plywood barricade on the Justice Center doors around 12:30 AM PST, federal agents emerged from the Justice Center and deployed a variety of riot control munitions against all protesters for a period lasting about half an hour. These munitions include tear gas, flashbangs and unknown less-lethal projectiles.
