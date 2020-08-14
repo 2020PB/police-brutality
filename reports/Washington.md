@@ -827,5 +827,6 @@ id: wa-seattle-56
 
 * https://www.instagram.com/p/CD1oSRRA-R5/
 * https://twitter.com/spekulation/status/1294131614281129984
+* https://twitter.com/Athena_Bellorum/status/1293838639361744896
 * [Full video; incident at 7:45](https://www.instagram.com/p/CD174Q_gMvH/)
 
