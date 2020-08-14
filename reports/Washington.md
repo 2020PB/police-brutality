@@ -817,7 +817,7 @@ id: wa-seattle-55
 
 ### Police tackle protesters in street | August 13th
 
-Police approach protesters standing in the street. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters.
+Police approach protesters standing in the street. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
 
 tags: protester, shove, push, baton, arrest
 
