@@ -435,3 +435,17 @@ id: dc-dc-28
 * https://twitter.com/stillgray/status/1289558509500039174
 * https://www.washingtontimes.com/news/2020/aug/1/police-stop-pro-lifers-painting-street-black-prebo/
 
+
+### Individual pepper sprayed while filming | August 14th
+
+Shortly after midnight on August 14th, an individual - allegedly a bystander - is filming police. An officer shoves him away and pepper sprays him. The officer appears to catch another officer in the pepper spray.
+
+tags: bystander, pepper-spray, spray, shove, push
+
+id: dc-dc-29
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1294137999517655041
+
+
