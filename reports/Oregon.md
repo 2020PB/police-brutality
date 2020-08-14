@@ -4090,7 +4090,9 @@ id: or-portland-269
 
 Shortly after midnight on August 13th, officers continued to disperse protesters, pushing them away from the Justice Center. Officers charged at protesters, shoving them with batons, knocking several to the ground.
 
-tags: shove, push, strike, baton, protester
+Additional footage shows a member of the press thrown to the ground by police.
+
+tags: shove, push, strike, baton, protester, journalist
 
 id: or-portland-264
 
@@ -4098,6 +4100,7 @@ id: or-portland-264
 
 * https://twitter.com/MrOlmos/status/1293807939925417985
 * https://twitter.com/BitterTier/status/1293860665422041089
+* https://twitter.com/MaranieRae/status/1294037876296962048
 
 
 ### Police tear gas protesters | August 13th
