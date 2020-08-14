@@ -800,3 +800,16 @@ id: wa-seattle-53
 * https://www.youtube.com/watch?v=gvfPAYCwg2w
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hzdd88/police_brutality_seattlepd_push_protestorsfire/
 
+
+### Police pepper spray legal observer | July 25th
+
+A legal observer is seen filming a short distance from police. An officer then pepper sprays her in the face.
+
+tags: legal-observer, pepper-spray, spray
+
+id: wa-seattle-55
+
+**Links**
+
+* https://twitter.com/NLG_Seattle/status/1287427693680582656
+* [NLG Press release regarding the protest](https://www.nlg.org/seattle/2020/07/26/legal-observers-from-seattles-national-lawyers-guild-aggressively-targeted-by-law-enforcement/)
