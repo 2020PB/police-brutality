@@ -4073,6 +4073,101 @@ id: or-portland-261
 * https://twitter.com/Mestizo43/status/1293120463715983360
 
 
+### Police shove and arrest protester | August 12th
+
+Police shove a protester into the crowd. The protester falls over. Police then strike the protester repeatedly and arrest them.
+
+tags: protester, shove, push, strike, baton, arrest
+
+id: or-portland-269
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1293804460309807104
+
+
+### Police assault protesters with batons | August 13th
+
+Shortly after midnight on August 13th, officers continued to disperse protesters, pushing them away from the Justice Center. Officers charged at protesters, shoving them with batons, knocking several to the ground.
+
+tags: shove, push, strike, baton, protester
+
+id: or-portland-264
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1293807939925417985
+* https://twitter.com/BitterTier/status/1293860665422041089
+
+
+### Police tear gas protesters | August 13th
+
+Police fire tear gas at protesters after several attempts at dispersal, during which protesters threw paint balloons and fireworks back. The PPB is currently restricted to using tear gas only as a life-saving measure. Police fire tear gas ahead of protesters while pushing them back, forcing protesters to walk through the tear gas.
+
+tags: protester, tear-gas
+
+id: or-portland-265
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1293807939925417985
+* https://twitter.com/MrOlmos/status/1293815460715089920
+* https://twitter.com/MrOlmos/status/1293819208984178688
+* https://twitter.com/MrOlmos/status/1293820214253989888
+* https://twitter.com/MrOlmos/status/1293821400394866689
+* https://mobile.twitter.com/IwriteOK/status/1293809625880395776
+* https://mobile.twitter.com/IwriteOK/status/1293811562482814976
+* https://mobile.twitter.com/IwriteOK/status/1293813231836790786
+* https://twitter.com/hungrybowtie/status/1293816637305450498
+* https://twitter.com/hungrybowtie/status/1293814797557850112
+
+
+### Police shove protesters on staircase, punch arrestee in stomach | August 13th
+
+Police make a violent arrest on an outdoor staircase. The arrestee is punched repeatedly in the abdomen. Police then push press back.
+
+tags: protester, journalist, push, shove, punch, arrest
+
+id: or-portland-266
+
+**Links**
+
+* https://mobile.twitter.com/1misanthrophile/status/1293812124204978176
+* https://mobile.twitter.com/Johnnthelefty/status/1293827373075279872
+
+
+### Police slash tires of van | August 13th
+
+Police approach a van belonging to Timbers Army, which was slowly driving away from police alongside protesters and slash the tires of the vehicle.
+
+In a statement posted on Twitter, Timbers Army said the vehicle was on-site to provide supplies for medics, as well as PPE and water for protesters.
+
+tags: protester, property-destruction
+
+id: or-portland-267
+
+**Links**
+
+* https://mobile.twitter.com/IwriteOK/status/1293812356640735232
+* https://mobile.twitter.com/IwriteOK/status/1293820768661381122
+* https://twitter.com/MrOlmos/status/1293818658213359617
+* https://twitter.com/hungrybowtie/status/1293815890274787331
+* https://twitter.com/timbersarmy/status/1294019001752854529
+
+
+### Police throw protester to the ground | August 13th
+
+A man following dispersal orders turns and speaks to police. Police throw him to the ground and strike him repeatedly.
+
+tags: protester, shove, push, strike, baton
+
+id: or-portland-268
+
+**Links**
+
+* https://mobile.twitter.com/Johnnthelefty/status/1293807313417957376
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
