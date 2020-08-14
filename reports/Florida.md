@@ -382,3 +382,4 @@ id: fl-tampa-8
 * https://www.instagram.com/p/CDzyyQOAKEh/
 * https://www.instagram.com/tv/CDz27yPp1wN/
 * https://www.msn.com/en-us/news/crime/black-lives-matter-activist-hospitalized-after-police-seen-kneeling-on-her-neck/ar-BB17UnHU
+
