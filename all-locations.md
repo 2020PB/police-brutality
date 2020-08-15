@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-15T19:14:44.175728+00:00
+UPDATED AT: 2020-08-15T19:15:26.561904+00:00
 
 
 # Alabama
@@ -14265,6 +14265,36 @@ id: wa-seattle-53
 
 * https://www.youtube.com/watch?v=gvfPAYCwg2w
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hzdd88/police_brutality_seattlepd_push_protestorsfire/
+
+
+### Police pepper spray legal observer | July 25th
+
+A legal observer is seen filming a short distance from police. An officer then pepper sprays her in the face.
+
+tags: legal-observer, pepper-spray, spray
+
+id: wa-seattle-55
+
+**Links**
+
+* https://twitter.com/NLG_Seattle/status/1287427693680582656
+* [NLG Press release regarding the protest](https://www.nlg.org/seattle/2020/07/26/legal-observers-from-seattles-national-lawyers-guild-aggressively-targeted-by-law-enforcement/)
+
+
+### Police tackle protesters in street | August 13th
+
+Police approach protesters standing in the street. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
+
+tags: protester, shove, push, baton, arrest
+
+id: wa-seattle-56
+
+**Links**
+
+* https://www.instagram.com/p/CD1oSRRA-R5/
+* https://twitter.com/spekulation/status/1294131614281129984
+* https://twitter.com/Athena_Bellorum/status/1293838639361744896
+* [Full video; incident at 7:45](https://www.instagram.com/p/CD174Q_gMvH/)
 
 
 
