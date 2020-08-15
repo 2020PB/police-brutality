@@ -368,3 +368,18 @@ id: fl-tampa-7
 * https://www.reddit.com/r/PublicFreakout/comments/hmhcgz/tampa_police_department_4th_of_july_unprovoked/
 * https://www.youtube.com/watch?v=_uFeu1zUYIo
 
+
+### BLM Organizer hospitalized after officer kneels on her neck | August 12th
+
+Shortly after 8 PM on August 12th, an organizer leaving a protest was singled out and arrested for unknown cause. During the arrest an officer knelt on her neck. Other protesters allege she was left without medical care for 20 minutes before being transported to the hospital. As of August 13th, she had not been booked by the Hillsborough County Sheriff's Office.
+
+tags: protester, arrest, knee, knee-on-neck, inhumane-treatment
+
+id: fl-tampa-8
+
+**Links**
+
+* https://www.instagram.com/p/CDzyyQOAKEh/
+* https://www.instagram.com/tv/CDz27yPp1wN/
+* https://www.msn.com/en-us/news/crime/black-lives-matter-activist-hospitalized-after-police-seen-kneeling-on-her-neck/ar-BB17UnHU
+
