@@ -1267,6 +1267,19 @@ id: ny-newyorkcity-70
 * [Full Periscope Video](https://www.pscp.tv/w/1MYxNklkrlvKw)
 
 
+### Police shove protester to the ground | (Believed to be) June 4th
+
+After a protester is pepper sprayed, other protesters gather around the protester while a medic treats them. The filmer is struck repeatedly by an officer with a baton and shoved to the ground, apparently injuring his knee.
+
+tags: shove, push, baton, protester
+
+id: ny-newyorkcity-101
+
+**Links**
+
+* https://www.tiktok.com/@kiakekate/video/6834753267575033093
+
+
 ### Police shove protester off bike | June 5th
 
 Footage shoves a small crowd of protesters arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
