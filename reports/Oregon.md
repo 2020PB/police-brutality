@@ -4175,7 +4175,7 @@ id: or-portland-268
 
 Protesters and police stand off in the streets. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
 
-tags: protester, tackle, strike, shove, push baton
+tags: protester, tackle, strike, shove, push, baton
 
 id: or-portland-271
 
@@ -4241,7 +4241,9 @@ id: or-portland-276
 
 A drummer walks toward police. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
 
-tags: protester, shove push baton
+tags: protester, shove push, baton
+
+id: or-portland-278
 
 **Links**
 
