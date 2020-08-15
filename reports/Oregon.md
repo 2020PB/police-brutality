@@ -4241,7 +4241,7 @@ id: or-portland-276
 
 A drummer walks toward police. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
 
-tags: protester, shove push, baton
+tags: protester, shove, push, baton
 
 id: or-portland-278
 
