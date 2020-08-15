@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-15T19:15:26.561904+00:00
+UPDATED AT: 2020-08-15T19:16:07.367287+00:00
 
 
 # Alabama
@@ -6317,6 +6317,19 @@ id: ny-newyorkcity-70
 * [Clip](https://int.nyt.com/data/videotape/finished/2020/07/1594394818/0_id73-1254w.mp4)
 * [Original Tweet](https://twitter.com/NoahHurowitz/status/1268726877679738886)
 * [Full Periscope Video](https://www.pscp.tv/w/1MYxNklkrlvKw)
+
+
+### Police shove protester to the ground | (Believed to be) June 4th
+
+After a protester is pepper sprayed, other protesters gather around the protester while a medic treats them. The filmer is struck repeatedly by an officer with a baton and shoved to the ground, apparently injuring his knee.
+
+tags: shove, push, baton, protester
+
+id: ny-newyorkcity-101
+
+**Links**
+
+* https://www.tiktok.com/@kiakekate/video/6834753267575033093
 
 
 ### Police shove protester off bike | June 5th
