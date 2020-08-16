@@ -272,3 +272,4 @@ id: mi-kalamazoo-4
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/iaki6j/police_charge_antifascist_protestors_today_in/
+
