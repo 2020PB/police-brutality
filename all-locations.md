@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-16T23:22:30.986264+00:00
+UPDATED AT: 2020-08-16T23:23:01.577140+00:00
 
 
 # Alabama
@@ -4213,10 +4213,38 @@ id: mi-kalamazoo-2
 
 **Links**
 
-* WOODTV8 live crew: https://streamable.com/xvlky1
-* Kalamazoo Gazette via Facebook Live: https://streamable.com/0wfiu3
-* MLive article: https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html
-* IBB image backup of Asst. Chief and City Manager kneeling: https://ibb.co/Fgrwqkj
+* [WOODTV8 live crew](https://streamable.com/xvlky1)
+* [Kalamazoo Gazette via Facebook Live](https://streamable.com/0wfiu3)
+* [MLive article](https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html)
+* [IBB image backup of Asst. Chief and City Manager kneeling](https://ibb.co/Fgrwqkj)
+
+
+### Reporter covering Proud Boys arrested | August 15th
+
+A journalist with MLive was covering a Proud Boys rally on August 15th. Footage shows him arrested while standing in the street. He states he was charged with impeding traffic.
+
+tags: journalist, arrest
+
+id: mi-kalamazoo-3
+
+**Links**
+
+* https://twitter.com/Phil_Lewis_/status/1294732715221286913
+* https://twitter.com/samueljrob/status/1294741751425568771
+* https://twitter.com/PolarBarrett/status/1294742239499911170
+
+
+### Police charge, pepper spray, and tackle protesters | August 15th
+
+Police charge at protesters, pepper spraying indiscriminately. One protester is also tackled to the ground.
+
+tags: protester, tackle, pepper-spray, spray
+
+id: mi-kalamazoo-4
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/iaki6j/police_charge_antifascist_protestors_today_in/
 
 
 
