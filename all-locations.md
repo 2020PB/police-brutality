@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-16T23:23:01.577140+00:00
+UPDATED AT: 2020-08-16T23:23:41.400419+00:00
 
 
 # Alabama
@@ -3103,6 +3103,77 @@ id: il-chicago-21
 **Links**
 
 * https://twitter.com/jamaicaponders/status/1284680046473621505
+
+
+### Police shove protesters with bikes | August 15th
+
+Footage shows a line of police officers shouting, "Move," and shoving protesters backward with their bikes.
+
+tags: protester, shove, bike
+
+id: il-chicago-22
+
+**Links**
+
+* https://twitter.com/BaburRealer/status/1294834101988597766
+
+
+### Police shove and pepper spray protesters | August 15th
+
+Police charge into a crowd of protesters. One protester falls and police surround them. Other protesters attempt to help the protester up and are pepper sprayed.
+
+tags: protester, push, shove, pepper-spray, spray
+
+id: il-chicago-23
+
+**Links**
+
+* https://twitter.com/ChicagoCritter/status/1294827198961061888
+* https://twitter.com/exfratbro/status/1295044305338474496
+
+
+### White-shirted officer shoves his way through a crowd of protesters | August 15th
+
+Footage shows police and protesters facing off. An officer in a white shirt, indicating higher rank, shoves his way into the crowd of protesters. Additional footage shows other officers shoving protesters as well.
+
+tags: protester, push, shove
+
+id: il-chicago-24
+
+**Links**
+
+* https://twitter.com/dudgedudy/status/1294762556901535744
+* https://twitter.com/dudgedudy/status/1294849796583362560
+
+
+### Police shove and strike protesters | August 15th
+
+In an incident that appears to occurr in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
+
+tags: protester, shove, push, tackle, punch, beat, baton, bike
+
+id: il-chicago-25
+
+**Links**
+
+* https://twitter.com/luz_mayancela/status/1294802015483318276
+
+
+### Police grab umbrellas from protesters, then escalate force | August 15th
+
+Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and discharging pepper spray.
+
+tags: protester, push, shove, property-destruction, strike, baton, pepper-spray, spray
+
+id: il-chicago-26
+
+**Links**
+
+* https://twitter.com/dudgedudy/status/1294849257896316929
+* https://twitter.com/delvecchiograce/status/1294770082816696325
+* https://twitter.com/delvecchiograce/status/1294770424266534912
+* https://twitter.com/delvecchiograce/status/1294770619167444994
+* https://twitter.com/delvecchiograce/status/1294771000865959941
 
 
 ## Joliet
