@@ -830,3 +830,16 @@ id: wa-seattle-56
 * https://twitter.com/Athena_Bellorum/status/1293838639361744896
 * [Full video; incident at 7:45](https://www.instagram.com/p/CD174Q_gMvH/)
 
+
+### Police damage vehicles supporting protesters | August 14th
+
+Police walk behind a line of cars driving slowly to protect protesters ahead of them. Police overtake the cars and an officer smashes the window of one.
+
+tags: protester, property-destruction, abuse-of-power
+
+id: wa-seattle-57
+
+**Links**
+
+* https://twitter.com/RebellionBaby/status/1294535563110825985
+* https://twitter.com/TirisTogia/status/1294520513306300416
