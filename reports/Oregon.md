@@ -4185,6 +4185,19 @@ id: or-portland-271
 * https://twitter.com/1misanthrophile/status/1294507402188865537
 
 
+### Officer stomps on protester trapped under shield | August 14th
+
+After police charge the protester shield line, an officer stomps on a protester trapped under their shield.
+
+tags: protester, kick
+
+id: or-portland-286
+
+**Links**
+
+* https://twitter.com/danielvmedia/status/1294671439581212677
+
+
 ### Officer shoves stumbling protester | August 14th
 
 A protester trips and attempts to stand. While trying to stand, an officer throws them to the sidewalk.
@@ -4290,6 +4303,100 @@ id: or-portland-277
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1294584539201695744
+
+
+### Police charge protesters with shields | August 15th
+
+Around midnight on August 15th, police declared a protest a riot. Protesters assembled behind wooden shields. Police charged the protesters, striking them repeatedly. One officer is seen swinging his fists at scattering protesters.
+
+tags: protester, strike, baton, punch
+
+id: or-portland-279
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294896664847634432
+* https://www.youtube.com/watch?v=qSS8h63z5Fc
+* https://www.reddit.com/r/PublicFreakout/comments/iaoq97/portland_police_charges_protestors_81620/
+
+
+### Officer tackles multiple protesters | August 15th
+
+While dispersing protesters, an officer tackles two protesters and the filmer, a journalist, all of whom are standing on the sidewalk
+
+tags: protester, journalist, tackle
+
+id: or-portland-284
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1295016916625395713
+
+
+### Police throw stun grenade at retreating protesters | August 16th
+
+Footage shows protesters walking away from police. An officer throws a stun grenade, which explodes at the protesters' feet.
+
+tags: protester, stun-grenade
+
+id: or-portland-280
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294898551013572609
+
+
+### Police slash the tires of vehicles supporting protesters | August 16th
+
+Police officers charge at protesters. A white pickup truck rolls along slowly with protesters. Police puncture the truck's tires.
+
+tags: protester, property-destruction
+
+id: or-portland-281
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294899117865316352
+* https://twitter.com/alex_zee/status/1294899596297084930
+
+
+### Police shove press on the sidewalk | August 16th
+
+Footage shows police charging at protesters in the street. The filmer, a journalist, is standing on the sidewalk with other journalists. Two officers run onto the sidewalk and shove members of the press with their batons.
+
+tags: journalist, shove, push, baton
+
+id: or-portland-282
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294900330488926208
+
+
+### Police shove protester from behind | August 16th
+
+Footage shows a protester holding a sign above their head and walking slowly away from police. An officer runs up in the protester's blind spot and shoves the protester to the ground.
+
+tags: protester, push, shove
+
+id: or-portland-283
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1294936995014119424
+
+
+### Police shove protesters and confiscate guitar | August 16th
+
+Police shove protesters on the sidewalk. One officer grabs a protester's guitar and walks away with it. The protester chases the officer and is shoved and shot at.
+
+tags: protester, push, shove, abuse-of-power
+
+id: or-portland-285
+
+**Links**
+
+* https://twitter.com/Spronsenite/status/1294954167874670596
 
 
 ## Salem
