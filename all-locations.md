@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-16T23:21:33.887898+00:00
+UPDATED AT: 2020-08-16T23:21:56.783217+00:00
 
 
 # Alabama
@@ -15007,6 +15007,19 @@ id: dc-dc-29
 **Links**
 
 * https://twitter.com/rawsmedia/status/1294137999517655041
+
+
+### Protester grabbed and punched | August 14th
+
+A protester approaches cops making an arrest and is restrained by an officer while a 2nd officer punches her.
+
+tags: protester, grab, punch
+
+id: dc-dc-30
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1294497266250723328
 
 
 
