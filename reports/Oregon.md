@@ -4171,6 +4171,127 @@ id: or-portland-268
 * https://mobile.twitter.com/Johnnthelefty/status/1293807313417957376
 
 
+### Police charge at and beat protesters with shields | August 14th
+
+Protesters and police stand off in the streets. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
+
+tags: protester, tackle, strike, shove, push, baton
+
+id: or-portland-271
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294506475809681409
+* https://twitter.com/1misanthrophile/status/1294507402188865537
+
+
+### Officer shoves stumbling protester | August 14th
+
+A protester trips and attempts to stand. While trying to stand, an officer throws them to the sidewalk.
+
+tags: protester, shove, push
+
+id: or-portland-273
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294508631845552128
+
+
+### Officer shoves reporter | August 14th
+
+Around midnight on August 14th, an officer confronts a journalist standing on the sidewalk. The officer repeatedly shoves the journalist, striking their phone at one point.
+
+tags: journalist, shove, push
+
+id: or-portland-274
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1294530884587069440
+
+
+### Officer shove compliant protesters | August 14th
+
+After police clear the protester shield line, protesters follow dispersal orders. Police continue to charge at protesters, shoving them with batons.
+
+tags: protester, shove, push, baton
+
+id: or-portland-275
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1294515890990411776
+
+
+### Officer shoves protester on the sidewalk | August 14th
+
+A protester steps off the sidewalk and an officer approaches, shouting, "Move." The protester immediately steps back on the sidewalk. The officer then shoves the protester.
+
+tags: protester, shove, push
+
+id: or-portland-276
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1294507959553126400
+
+
+### Police repeatedly shove drummer | August 14th
+
+A drummer walks toward police. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
+
+tags: protester, shove, push, baton
+
+id: or-portland-278
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1294507048663543808
+
+
+### Police slash tires of bystander vehicle | August 15th
+
+A bystander in a vehicle with a Black Lives Matter sign pulled off to the side of the road to allow police vehicles to pass by. An officer then slashed the vehicles tires.
+
+tags: bystander, property-destruction, abuse-of-power
+
+id: or-portland-270
+
+**Links**
+
+* https://twitter.com/badbirdiebad/status/1294540208600301570
+* https://twitter.com/hungrybowtie/status/1294551688959811584
+* https://twitter.com/PDocumentarians/status/1294589695649656834
+
+
+### Officer shoves protester to the ground | August 15th
+
+Protesters gathered on the sidewalk and stood off with police in the street. One individual walks in the street filming. The officer strikes him to the ground with a baton.
+
+tags: protester, shove, push, baton
+
+id: or-portland-272
+
+**Links**
+
+* [17:06](https://www.pscp.tv/w/1rmGPYnZjeMJN?t=17m6s)
+* https://twitter.com/bogwitchenergy/status/1294558853640548353
+
+
+### Livestreamer shoved from behind | August 15th
+
+A livestreamer dropped some of their equipment during a police push. The streamer picked up their equipment and began walking backwards. An officer approaches the streamer from behind and shoves them to the ground.
+
+tags: journalist, shove, push
+
+id: or-portland-277
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1294584539201695744
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
