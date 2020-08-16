@@ -289,6 +289,7 @@ id: ca-losangeles-3
 * https://twitter.com/ElieTWMayniac/status/1266914242885754880
 * https://www.instagram.com/p/CA1hQ8WHLp1/?igshid=x4dnp455q05t
 * https://abc7.com/6231194/
+* [LAPD Body cam footage](https://www.youtube.com/embed/hwZMZvlHEI4)
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
