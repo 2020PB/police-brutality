@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-15T19:16:22.980758+00:00
+UPDATED AT: 2020-08-16T01:10:48.168253+00:00
 
 
 # Alabama
@@ -620,6 +620,7 @@ id: ca-losangeles-3
 * https://twitter.com/ElieTWMayniac/status/1266914242885754880
 * https://www.instagram.com/p/CA1hQ8WHLp1/?igshid=x4dnp455q05t
 * https://abc7.com/6231194/
+* [LAPD Body cam footage](https://www.youtube.com/embed/hwZMZvlHEI4)
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
