@@ -448,3 +448,15 @@ id: dc-dc-29
 
 * https://twitter.com/rawsmedia/status/1294137999517655041
 
+
+### Protester grabbed and punched | August 14th
+
+A protester approaches cops making an arrest and is restrained by an officer while a 2nd officer punches her.
+
+tags: protester, grab, punch
+
+id: dc-dc-30
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1294497266250723328
