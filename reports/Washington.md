@@ -857,3 +857,15 @@ id: wa-seattle-58
 
 * https://twitter.com/FirecrowTV/status/1295242437456048130
 
+
+### Police charge protesters without warning | August 16th
+
+Footage shows police and protesters separated from one another after police declared a riot. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
+
+tags: protester, shove, bike
+
+id: wa-seattle-59
+
+**Links**
+
+* https://twitter.com/zmboop/status/1295242820786110469
