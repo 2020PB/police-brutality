@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-17T18:07:05.008645+00:00
+UPDATED AT: 2020-08-17T18:07:09.118502+00:00
 
 
 # Alabama
@@ -7722,9 +7722,6 @@ id: oh-toledo-1
 * [Starts around 19:00](https://www.facebook.com/thetoledoblade/videos/2407373416227629)
 * [Starts at 11:15](https://www.facebook.com/thetoledoblade/videos/745938859545308)
 * [The Blade news article](https://www.toledoblade.com/local/community-events/2020/05/30/protests-in-toledo-over-george-floyd-s-death/stories/20200530079)
-* https://twitter.com/NolanRosenkrans/status/1266891856576724992
-* https://twitter.com/NolanRosenkrans/status/1266866678895443968
-* https://twitter.com/NolanRosenkrans/status/1266842814027124739
 
 
 
