@@ -4357,6 +4357,7 @@ id: or-portland-288
 **Links**
 
 * https://twitter.com/MaranieRae/status/1295168110958280705
+* https://twitter.com/MaranieRae/status/1295168112933736449
 
 
 ### Police throw stun grenade at retreating protesters | August 16th
