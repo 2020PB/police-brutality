@@ -128,7 +128,7 @@ id: ga-lawrenceville-1
 
 ### Officer shoves press | August 15th
 
-Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield. 
+Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield.
 
 tags: journalist, push, shove, shield
 
