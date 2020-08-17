@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-17T18:07:09.118502+00:00
+UPDATED AT: 2020-08-17T18:09:05.984702+00:00
 
 
 # Alabama
@@ -7722,6 +7722,9 @@ id: oh-toledo-1
 * [Starts around 19:00](https://www.facebook.com/thetoledoblade/videos/2407373416227629)
 * [Starts at 11:15](https://www.facebook.com/thetoledoblade/videos/745938859545308)
 * [The Blade news article](https://www.toledoblade.com/local/community-events/2020/05/30/protests-in-toledo-over-george-floyd-s-death/stories/20200530079)
+* https://twitter.com/NolanRosenkrans/status/1266891856576724992
+* https://twitter.com/NolanRosenkrans/status/1266866678895443968
+* https://twitter.com/NolanRosenkrans/status/1266842814027124739
 
 
 
@@ -12137,6 +12140,19 @@ id: or-portland-287
 **Links**
 
 * https://mobile.twitter.com/gravemorgan/status/1295116634583994369
+
+
+### Police officer rips mask off protester, shoves reporter | August 15th
+
+A journalist films as officers push through a line of protesters with shields. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
+
+tags: protester, journalist, push, shove
+
+id: or-portland-288
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1295168110958280705
 
 
 ### Police throw stun grenade at retreating protesters | August 16th
