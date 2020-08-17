@@ -290,3 +290,18 @@ id: ky-louisville-18
 * https://twitter.com/greg_doucette/status/1281447373294776321
 * https://twitter.com/HayesGardner/status/1281393822786781185
 
+
+### Protester pepper sprayed through open door | July 10th
+
+Kejohn Jennings was at the rear doors of the Hall of Justice, criticizing officers and asking for their names and badge numbers through an opening in the chained shut doors. An officer approaches (alleged in the lawsuit to be Deputy George Grissom) and pepper-sprayed Mr. Jennings through the opening. Jennings is now suing the Jefferson County Sheriff's Office.
+
+tags: protester, pepper-spray, spray
+
+id: ky-louisville-19
+
+**Links**
+
+* [Courier video](https://www.courier-journal.com/videos/news/local/2020/08/03/video-shows-jefferson-county-deputy-pepper-spray-louisville-protester/5558102002/)
+* [Courier story](https://www.courier-journal.com/story/news/local/2020/08/03/louisville-protester-sues-sheriff-after-being-pepper-sprayed/5555497002/)
+* [Wave3 Story and Video](https://www.wave3.com/2020/07/15/lawyer-alleged-pepper-sprayed-protester-calls-jefferson-co-deputy-danger-our-community/)
+
