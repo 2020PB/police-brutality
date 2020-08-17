@@ -372,6 +372,7 @@ id: il-chicago-27
 **Links**
 
 * https://mobile.twitter.com/lukeharuki92/status/1295167889876692992
+* https://twitter.com/lukeharuki92/status/1295384526169026562
 
 
 ## Joliet
