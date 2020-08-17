@@ -4346,6 +4346,19 @@ id: or-portland-287
 * https://mobile.twitter.com/gravemorgan/status/1295116634583994369
 
 
+### Police officer rips mask off protester, shoves reporter | August 15th
+
+A journalist films as officers push through a line of protesters with shields. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
+
+tags: protester, journalist, push, shove
+
+id: or-portland-288
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1295168110958280705
+
+
 ### Police throw stun grenade at retreating protesters | August 16th
 
 Footage shows protesters walking away from police. An officer throws a stun grenade, which explodes at the protesters' feet.
