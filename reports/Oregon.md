@@ -4333,6 +4333,19 @@ id: or-portland-284
 * https://twitter.com/KohzKah/status/1295016916625395713
 
 
+### Officer shoots then clubs protester | August 15th
+
+An officer fires at a protester at a distance of several feet (far closer then recommended). The protester then appears to say "Ah fuck you." The officer charges the protester and strikes them with his riot gun.
+
+tags: protester, shoot, projectile, strike
+
+id: or-portland-287
+
+**Links**
+
+* https://mobile.twitter.com/gravemorgan/status/1295116634583994369
+
+
 ### Police throw stun grenade at retreating protesters | August 16th
 
 Footage shows protesters walking away from police. An officer throws a stun grenade, which explodes at the protesters' feet.
