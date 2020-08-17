@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-17T18:09:05.984702+00:00
+UPDATED AT: 2020-08-17T21:25:57.760295+00:00
 
 
 # Alabama
@@ -12153,6 +12153,7 @@ id: or-portland-288
 **Links**
 
 * https://twitter.com/MaranieRae/status/1295168110958280705
+* https://twitter.com/MaranieRae/status/1295168112933736449
 
 
 ### Police throw stun grenade at retreating protesters | August 16th
