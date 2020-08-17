@@ -844,3 +844,15 @@ id: wa-seattle-57
 * https://twitter.com/RebellionBaby/status/1294535563110825985
 * https://twitter.com/TirisTogia/status/1294520513306300416
 
+
+### Legal observer shoved to the ground | August 16th
+
+During a standoff between police and protesters, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
+
+tags: legal-observer, push, shove
+
+id: wa-seattle-58
+
+**Links**
+
+* https://twitter.com/FirecrowTV/status/1295242437456048130
