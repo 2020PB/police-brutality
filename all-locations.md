@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-17T16:35:30.088467+00:00
+UPDATED AT: 2020-08-17T18:07:05.008645+00:00
 
 
 # Alabama
@@ -2777,6 +2777,21 @@ id: ga-lawrenceville-1
 * https://twitter.com/throneofmorac/status/1266870493858185217?s=09
 
 
+## Stone Mountain
+
+### Officer shoves press | August 15th
+
+Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield.
+
+tags: journalist, push, shove, shield
+
+id: ga-stonemountain-1
+
+**Links**
+
+* https://twitter.com/matlockartist/status/1294827747059970049
+
+
 ## Valdosta
 
 ### Sheriff scuffles with protester over "F\*ck Trump" sign | June 3rd
@@ -3189,6 +3204,7 @@ id: il-chicago-27
 **Links**
 
 * https://mobile.twitter.com/lukeharuki92/status/1295167889876692992
+* https://twitter.com/lukeharuki92/status/1295384526169026562
 
 
 ## Joliet
@@ -7706,6 +7722,9 @@ id: oh-toledo-1
 * [Starts around 19:00](https://www.facebook.com/thetoledoblade/videos/2407373416227629)
 * [Starts at 11:15](https://www.facebook.com/thetoledoblade/videos/745938859545308)
 * [The Blade news article](https://www.toledoblade.com/local/community-events/2020/05/30/protests-in-toledo-over-george-floyd-s-death/stories/20200530079)
+* https://twitter.com/NolanRosenkrans/status/1266891856576724992
+* https://twitter.com/NolanRosenkrans/status/1266866678895443968
+* https://twitter.com/NolanRosenkrans/status/1266842814027124739
 
 
 
