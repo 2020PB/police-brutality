@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-17T15:34:06.189761+00:00
+UPDATED AT: 2020-08-17T16:35:30.088467+00:00
 
 
 # Alabama
@@ -12588,6 +12588,21 @@ id: pa-pittsburgh-6
 **Links**
 
 * https://twitter.com/jackohrman/status/1287258983149993984
+
+
+### Protest marshal abducted by officers in unmarked van | August 15th
+
+A protest marshal was singled out and arrested with charges of "Obstructing Highways and Other Public Passages." He was arrested while on the sidewalk when plainclothes officers emerged from an unmarked van, grabbed him, and drove away.
+
+tags: protester, abuse-of-power, arrest
+
+id: pa-pittsburgh-7
+
+**Links**
+
+* https://www.pghcitypaper.com/pittsburgh/photos-civil-saturday-protest-disrupted-when-marshal-is-arrested-by-heavily-armed-pittsburgh-police-in-unmarked-van/Content?oid=17823887
+* https://twitter.com/savlucy420/status/1294753559263817728
+* https://twitter.com/samm_bones/status/1294769302348890113
 
 
 
