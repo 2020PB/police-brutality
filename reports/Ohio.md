@@ -629,3 +629,4 @@ id: oh-toledo-1
 * [The Blade news article](https://www.toledoblade.com/local/community-events/2020/05/30/protests-in-toledo-over-george-floyd-s-death/stories/20200530079)
 * https://twitter.com/NolanRosenkrans/status/1266891856576724992
 * https://twitter.com/NolanRosenkrans/status/1266866678895443968
+
