@@ -304,3 +304,4 @@ id: ky-louisville-19
 * [Courier video](https://www.courier-journal.com/videos/news/local/2020/08/03/video-shows-jefferson-county-deputy-pepper-spray-louisville-protester/5558102002/)
 * [Courier story](https://www.courier-journal.com/story/news/local/2020/08/03/louisville-protester-sues-sheriff-after-being-pepper-sprayed/5555497002/)
 * [Wave3 Story and Video](https://www.wave3.com/2020/07/15/lawyer-alleged-pepper-sprayed-protester-calls-jefferson-co-deputy-danger-our-community/)
+
