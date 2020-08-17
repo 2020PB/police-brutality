@@ -356,6 +356,7 @@ id: il-chicago-26
 * https://twitter.com/delvecchiograce/status/1294770082816696325
 * https://twitter.com/delvecchiograce/status/1294770424266534912
 * https://twitter.com/delvecchiograce/status/1294770619167444994
+* https://twitter.com/Chicago_Police/status/1295008403123773440
 
 
 ### Police pepper spray fleeing protesters | August 15th
