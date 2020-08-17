@@ -344,9 +344,9 @@ id: il-chicago-25
 
 ### Police grab umbrellas from protesters, then escalate force | August 15th
 
-Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and discharging pepper spray.
+Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and allegedly discharging pepper spray.
 
-tags: protester, push, shove, property-destruction, strike, baton, pepper-spray, spray
+tags: protester, push, shove, property-destruction, strike, baton
 
 id: il-chicago-26
 
@@ -356,7 +356,19 @@ id: il-chicago-26
 * https://twitter.com/delvecchiograce/status/1294770082816696325
 * https://twitter.com/delvecchiograce/status/1294770424266534912
 * https://twitter.com/delvecchiograce/status/1294770619167444994
-* https://twitter.com/delvecchiograce/status/1294771000865959941
+
+
+### Police pepper spray fleeing protesters | August 15th
+
+Footage shows protesters moving away from police. Officer discharge pepper spray at them.
+
+tags: protester, pepper-spray, spray
+
+id: il-chicago-27
+
+**Links**
+
+* https://mobile.twitter.com/lukeharuki92/status/1295167889876692992
 
 
 ## Joliet
