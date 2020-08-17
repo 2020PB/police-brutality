@@ -124,6 +124,21 @@ id: ga-lawrenceville-1
 * https://twitter.com/throneofmorac/status/1266870493858185217?s=09
 
 
+## Stone Mountain
+
+### Officer shoves press | August 15th
+
+Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield. 
+
+tags: journalist, push, shove, shield
+
+id: ga-stonemountain-1
+
+**Links**
+
+* https://twitter.com/matlockartist/status/1294827747059970049
+
+
 ## Valdosta
 
 ### Sheriff scuffles with protester over "F\*ck Trump" sign | June 3rd
