@@ -48,6 +48,29 @@ id: nc-asheville-3
 * https://twitter.com/greg_doucette/status/1270378863219138561
 
 
+### Reporter for The Blade arrested at protest | August 9th
+
+A journalist working for The Asheville Blade was following protests in their car on August 9th. They state that police stopped them without warning, pulled them out of their car, zip-tied and arrested them. They state that because of the heat, their sweat made their hands slippery and their zip-ties fell off; an officer then replaced them with standard handcuffs, cuffing the journalist's arms tightly behind their back. 
+
+They state that after being removed from the police wagon, they were patted down. A female cop stood by while a male cop patted them down. The journalist states the male cop's "hands aggressively slid over my vagina and my ass."
+
+They were held in a cell for several hours, in and out of cuffs. Several police officers asked the journalist if they were going to behave now, and made other similar comments. 
+
+Images taken after release show significant bruising on one of the journalist's arms.
+
+tags: journalist, arrest, inhumane-treatment, zip-tie
+
+id: nc-asheville-4
+
+**Links**
+
+* https://ashevilleblade.com/?p=3904
+* https://twitter.com/mamakittyv/status/1294324476721627137
+* https://twitter.com/mamakittyv/status/1294324478357495816
+* https://twitter.com/mamakittyv/status/1294324480140091394
+* https://twitter.com/mamakittyv/status/1294324481675137024
+
+
 ## Charlotte
 
 ### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | June 2nd
