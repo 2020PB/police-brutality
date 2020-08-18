@@ -331,7 +331,7 @@ id: il-chicago-24
 
 ### Police shove and strike protesters | August 15th
 
-In an incident that appears to occurr in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
+In an incident that appears to occur in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
 
 tags: protester, shove, push, tackle, punch, beat, baton, bike
 
@@ -344,11 +344,11 @@ id: il-chicago-25
 
 ### Police grab umbrellas from protesters, then escalate force | August 15th
 
-Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and allegedly discharging pepper spray.
+Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and allegedly discharging pepper spray. Police additionally pepper sprayed protesters.
 
 An alternate angle provided by the Chicago Police Department, shows police initiating violence in the top left of the video at 0:52.
 
-tags: protester, push, shove, property-destruction, strike, baton
+tags: protester, push, shove, property-destruction, strike, baton, pepper-spray, spray
 
 id: il-chicago-26
 
@@ -359,6 +359,7 @@ id: il-chicago-26
 * https://twitter.com/delvecchiograce/status/1294770424266534912
 * https://twitter.com/delvecchiograce/status/1294770619167444994
 * [0:52](https://twitter.com/Chicago_Police/status/1295008403123773440)
+* https://twitter.com/StevenGravesTV/status/1294787019114270720
 
 
 ### Police pepper spray fleeing protesters | August 15th
@@ -371,8 +372,34 @@ id: il-chicago-27
 
 **Links**
 
-* https://mobile.twitter.com/lukeharuki92/status/1295167889876692992
+* https://twitter.com/lukeharuki92/status/1295167889876692992
 * https://twitter.com/lukeharuki92/status/1295384526169026562
+
+
+### Police pepper spray protesters | August 15th
+
+While clearing protesters from the street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
+
+tags: protester, pepper-spray, spray
+
+id: il-chicago-28
+
+**Links**
+
+* https://twitter.com/RealSaleemJuma/status/1294916491758854144
+
+
+### Police shove through protesters to make targeted arrest | August 15th
+
+Footage shows police walking protesters down the street. Police begin shoving their way through protesters after a white-shirted officer points out a protester. Officers take the protester to the ground and arrest her, shoving the crowd back.
+
+tags: protester, push, shove, arrest
+
+id: il-chicago-29
+
+**Links**
+
+* https://twitter.com/jus10chi/status/1294789639899930625
 
 
 ## Joliet
