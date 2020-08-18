@@ -331,7 +331,7 @@ id: il-chicago-24
 
 ### Police shove and strike protesters | August 15th
 
-In an incident that appears to occurr in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
+In an incident that appears to occur in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
 
 tags: protester, shove, push, tackle, punch, beat, baton, bike
 
