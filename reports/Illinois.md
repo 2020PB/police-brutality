@@ -376,7 +376,7 @@ id: il-chicago-27
 * https://twitter.com/lukeharuki92/status/1295384526169026562
 
 
-### Police pepper spray protesters | July 15th
+### Police pepper spray protesters | August 15th
 
 While clearing protesters from the street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
 
@@ -387,6 +387,19 @@ id: il-chicago-28
 **Links**
 
 * https://twitter.com/RealSaleemJuma/status/1294916491758854144
+
+
+### Police shove through protesters to make targeted arrest | August 15th
+
+Footage shows police walking protesters down the street. Police begin shoving their way through protesters after a white-shirted officer points out a protester. Officers take the protester to the ground and arrest her, shoving the crowd back.
+
+tags: protester, push, shove, arrest
+
+id: il-chicago-29
+
+**Links**
+
+* https://twitter.com/jus10chi/status/1294789639899930625
 
 
 ## Joliet
