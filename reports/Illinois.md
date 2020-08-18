@@ -371,8 +371,21 @@ id: il-chicago-27
 
 **Links**
 
-* https://mobile.twitter.com/lukeharuki92/status/1295167889876692992
+* https://twitter.com/lukeharuki92/status/1295167889876692992
 * https://twitter.com/lukeharuki92/status/1295384526169026562
+
+
+### Police pepper spray protesters | July 15th
+
+While clearing protesters from the street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
+
+tags: protester, pepper-spray, spray
+
+id: il-chicago-28
+
+**Links**
+
+* https://twitter.com/RealSaleemJuma/status/1294916491758854144
 
 
 ## Joliet
