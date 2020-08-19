@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-19T23:14:26.546257+00:00
+UPDATED AT: 2020-08-19T23:14:42.732833+00:00
 
 
 # Alabama
@@ -14922,6 +14922,19 @@ id: wa-seattle-59
 **Links**
 
 * https://twitter.com/zmboop/status/1295242820786110469
+
+
+### Police on bicycles chase down and beat alleged protester | August 17th
+
+Footage shows several officers on bikes chasing after an individual believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
+
+tags: protester, bike, shove, tackle, punch
+
+id: wa-seattle-60
+
+**Links**
+
+* https://twitter.com/spekulation/status/1295946737069068288
 
 
 
