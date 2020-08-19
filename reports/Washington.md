@@ -870,3 +870,15 @@ id: wa-seattle-59
 
 * https://twitter.com/zmboop/status/1295242820786110469
 
+
+### Police on bicycles chase down and beat alleged protester | August 17th
+
+Footage shows several officers on bikes chasing after an individual believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
+
+tags: protester, bike, shove, tackle, punch
+
+id: wa-seattle-60
+
+**Links**
+
+* https://twitter.com/spekulation/status/1295946737069068288
