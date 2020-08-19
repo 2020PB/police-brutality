@@ -4443,11 +4443,11 @@ id: or-portland-289
 
 ### Woman shoved to the ground | August 18th
 
-An officer shoves woman from behind in the head with a baton. She falls to the ground and sits up. The officer strikes her in the head again.
+An officer shoves a journalist from behind in the head with a baton. She falls to the ground and sits up. The officer strikes her in the head again.
 
 This incident ocurrs directly after or-portland-289 and the events of that incident can be seen in this footage.
 
-tags: push, shove, baton, strike, protester
+tags: push, shove, baton, strike, journalist
 
 id: or-portland-290
 
