@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-18T20:03:43.314392+00:00
+UPDATED AT: 2020-08-19T23:14:26.546257+00:00
 
 
 # Alabama
@@ -12270,6 +12270,96 @@ id: or-portland-285
 **Links**
 
 * https://twitter.com/Spronsenite/status/1294954167874670596
+
+
+### Police beat protester crawling on the ground | August 18th
+
+Footage shows a protester shoved to the ground. She is carrying a small speaker and attempts to crawl forward. Police continue to strike her with batons before releasing her without making an arrest.
+
+tags: push, shove, beat, strike, baton, protester
+
+id: or-portland-289
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1295962399103545345
+* https://twitter.com/TheHannahRay/status/1295962385660829698
+* https://twitter.com/dave_blazer/status/1296017337741504513
+
+
+### Woman shoved to the ground | August 18th
+
+An officer shoves a journalist from behind in the head with a baton. She falls to the ground and sits up. The officer strikes her in the head again.
+
+This incident ocurrs directly after or-portland-289 and the events of that incident can be seen in this footage.
+
+tags: push, shove, baton, strike, journalist
+
+id: or-portland-290
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1295965796426891265
+* https://twitter.com/TheHannahRay/status/1295962385660829698
+
+
+### Police tackle protester, confiscate shield, then pepper spray her | August 18th
+
+Footage shows a protester running by police. She is tackled to the ground and an officer strips away her shield. She stands and confronts the officer. Officer shove her away and pepper spray her.
+
+tags: tackle, push, shove, protester, spray, pepper-spray
+
+id: or-portland-291
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1295960429546545153
+* https://twitter.com/RogerBlumberg/status/1295975628685025285
+* https://twitter.com/FancyJenkins/status/1295957706256207872
+* https://twitter.com/econbrkfst/status/1296023312481447937
+* https://twitter.com/gravemorgan/status/1295957966349197313
+
+
+### Police puncture Snack Van's tires | August 18th
+
+The Snack Van, which offers free snacks, water and medical supplies to protesters, joined protests on August 18th and drove slowly along side protesters following dispersal order. Officers punctured the van's tires.
+
+tags: protester, property-destruction
+
+id: or-portland-292
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1295965796426891265
+* https://twitter.com/hungrybowtie/status/1295958944947384320
+
+
+### Police charge and tackle protesters | August 18th
+
+Police charge protesters, tackling several to the ground. Other officer shoves protesters and strike them with batons.
+
+tags: push, shove, tackle, strike, baton, protester
+
+id: or-portland-293
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1295962685134127109
+* https://twitter.com/gravemorgan/status/1295962838628884481
+
+
+### Police shove videographer | August 18th
+
+A videographer on the sidewalk is shoved repeatedly by police, knocking their helmet off. The videographer is then shoved to the ground and the phone is swatted out of their hand. The videographer states they were prevented by police from retrieving their phone, which had fallen into the street. They state another individual later retrieved their phone.
+
+tags: journalist, push, shove, property-destruction
+
+id: or-portland-294
+
+**Links**
+
+* https://twitter.com/econbrkfst/status/1296004936841355266
+* https://twitter.com/dave_blazer/status/1296024401318559745
 
 
 ## Salem
