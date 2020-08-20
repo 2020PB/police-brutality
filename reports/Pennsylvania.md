@@ -375,6 +375,11 @@ id: pa-pittsburgh-7
 
 A protest in Pittsburgh faced off with police when protesters stood at the edge of a sidewalk, while police stood in the road. Police then pushed protesters from the sidewalk into the park. Protesters passively resisted the shoving and were pepper sprayed.
 
+
+
+
+https://twitter.com/csnyderj/status/1296275426059472902
+
 tags: protester, shove, push, baton, pepper-spray, spray
 
 id: pa-pittsburgh-8
@@ -383,4 +388,4 @@ id: pa-pittsburgh-8
 
 * https://twitter.com/csnyderj/status/1296291561622429696
 * https://twitter.com/csnyderj/status/1296292637738176512
-https://twitter.com/csnyderj/status/1296275426059472902
+
