@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-20T19:07:35.521497+00:00
+UPDATED AT: 2020-08-20T19:07:41.175318+00:00
 
 
 # Alabama
@@ -3232,6 +3232,28 @@ id: il-chicago-29
 **Links**
 
 * https://twitter.com/jus10chi/status/1294789639899930625
+
+
+### Police surround protesters and search their bags | August 15th
+
+At a protest on August 15th, police kettled protesters and refused to allow them to leave without a bag search. Officers took protesters' bags and dumped them onto the sidewalk.
+
+The 4th Amendment to the U.S. Constitution gives individuals the right to privacy and freedom from unreasonable searches. Most warrantless searches are considered unreasonable, with the exception of searches with consent of the searched or with probable cause. By disallowing protesters to leave, police did not allow protesters to consent. Further, probable cause has been determined on several occassions to be individualized, meaning that individuals on the premises of a crime scene cannot be searched simply for being present; rather, probable cause must be established for each individual, as in [Ybarra v. Illinois](https://www.oyez.org/cases/1979/78-5937) and [United States v. Di Re](https://supreme.justia.com/cases/federal/us/332/581/). This means that, in order to search protester's belongings, police would have needed to establish probable cause for each protester searched.
+
+The Terry standard does allow police to briefly detain and search an individual on reasonable suspicion, which has a lower bar than probable cause. In [Terry v. Ohio](https://supreme.justia.com/cases/federal/us/392/1/), the U.S. Supreme Court stated that police may stop and frisk - which is limited to an external pat down (e.g. for an readily-usable weapon), but does not include bag searches - an individual on the basis of reasonable suspicion. Reasonable suspicion is defined in the case as the reasonable suspicion that an individual may have committed, be committing, or is about to commit a crime. There must additionally be the reasonable belief that the individual is armed and dangerous. In addition, this reasonable suspicion is individualized, so police must have established reasonable suspicion that each protester searched was both armed and engaged in, had engaged in, or was going to engage in criminal conduct.
+
+After reviewing the rights of protesters, it appears that police conducted these searches illegally, abusing their power to prevent protesters from leaving.
+
+tags: protester, abuse-of-power
+
+id: il-chicago-30
+
+**Links**
+
+* https://twitter.com/DominicGwinn/status/1294792483772268550
+* https://twitter.com/DominicGwinn/status/1294794798394638344
+* https://twitter.com/jttv1005/status/1294846222159753221
+* https://www.reddit.com/r/PublicFreakout/comments/ibjw38/chicago_police_kettle_protestors_and_make_them/
 
 
 ## Joliet
