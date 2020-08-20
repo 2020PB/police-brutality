@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-20T19:07:27.799035+00:00
+UPDATED AT: 2020-08-20T19:07:35.521497+00:00
 
 
 # Alabama
@@ -12360,6 +12360,101 @@ id: or-portland-294
 
 * https://twitter.com/econbrkfst/status/1296004936841355266
 * https://twitter.com/dave_blazer/status/1296024401318559745
+
+
+### Police respond to thrown water bottles with impact munitions | August 19th
+
+After protesters throw water bottles at federal officers, at a protest outside an ICE facility, officers respond by firing a sustained barrage of impact munitions, allegedly including pepper balls.
+
+tags: protester, shoot, projectile
+
+id: or-portland-295
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1296312587286507521
+* https://twitter.com/hungrybowtie/status/1296312587286507521
+* https://twitter.com/1misanthrophile/status/1296312271442870273
+* https://twitter.com/PDocumentarians/status/1296337148069556226
+
+
+### Police shove protesters following directions | August 19th
+
+While moving protesters down the street, police can be seen shoving protesters and medics complying with directions.  In addition, one protester dropped a phone when shoved, then was struck and pepper sprayed when he attempted to retrieve it.
+
+tags: shove, push, protester, baton, strike, pepper-spray, spray
+
+id: or-portland-296
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1296319472068784128
+* https://twitter.com/MrOlmos/status/1296349738053246977
+* https://twitter.com/MrOlmos/status/1296339375635144704
+* https://twitter.com/baaascom/status/1296356359445688320
+
+
+### Officer shoves protester on the sidewalk | August 19th
+
+A PPB officer shoves a protester, yelling, "Get on the sidewalk." After the protester is on the sidewalk, the officer shoves the protester to the ground and trains his gun on the protester.
+
+tags: shove, push, protester
+
+id: or-portland-297
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1296326519048957952
+
+
+### Police respond to vandalism with tear gas and stun grenades | August 19th
+
+After police declared a riot, protesters lit a mattress and other objects in the street on fire. Federal agents and Portland Police officers then deployed tear gas and stun grenades against the crowd, pushing them away from the ICE facility.
+
+tags: protester, stun-grenade, tear-gas
+
+id: or-portland-298
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1296326519048957952
+* https://twitter.com/hungrybowtie/status/1296326519048957952
+* https://twitter.com/hungrybowtie/status/1296326519048957952
+* https://twitter.com/hungrybowtie/status/1296326519048957952
+* https://twitter.com/hungrybowtie/status/1296326519048957952
+* https://twitter.com/1misanthrophile/status/1296342989220925441
+* https://twitter.com/1misanthrophile/status/1296340994103717888
+* https://twitter.com/baaascom/status/1296345362605568002
+* https://twitter.com/DonovanFarley/status/1296343564046102531
+
+
+### Police shove press and legal observers, then release tear gas | August 19th
+
+Legal observers and press are documenting the arrest of a journalist on the sidewalk, several feet away from the incident. An officer approaches and shoves members of the press back. He then releases a tear gas canister at their feet.
+
+tags: journalist, legal-observer, arrest, tear-gas, push, shove
+
+id: or-portland-299
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1296367220868567042
+* https://twitter.com/PDocumentarians/status/1296399010530332672
+* https://twitter.com/greg_doucette/status/1296417100915970048
+* https://twitter.com/_WhatRiot/status/1296347908900392960
+
+
+### Police puncture the tires of the Snack Van a second night in a row | August 19th
+
+The Snack Van, a protest vehicle offering free food, water and medical supplies to protesters, was driving slowly alongside protesters. Police charged the vehicle and punctured its tires.
+
+tags: protester, property-destruction
+
+id: or-portland-300
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1296277161670656002
 
 
 ## Salem
