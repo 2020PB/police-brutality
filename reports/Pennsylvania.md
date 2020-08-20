@@ -370,3 +370,22 @@ id: pa-pittsburgh-7
 * https://twitter.com/savlucy420/status/1294753559263817728
 * https://twitter.com/samm_bones/status/1294769302348890113
 
+
+### Police pepper spray protesters as they push protest into park | August 19th
+
+A protest in Pittsburgh faced off with police when protesters stood at the edge of a sidewalk, while police stood in the road. Police then pushed protesters from the sidewalk into the park. Protesters passively resisted the shoving and were pepper sprayed.
+
+
+
+
+https://twitter.com/csnyderj/status/1296275426059472902
+
+tags: protester, shove, push, baton, pepper-spray, spray
+
+id: pa-pittsburgh-8
+
+**Links**
+
+* https://twitter.com/csnyderj/status/1296291561622429696
+* https://twitter.com/csnyderj/status/1296292637738176512
+
