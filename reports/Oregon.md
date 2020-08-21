@@ -4610,6 +4610,7 @@ id: or-portland-300
 
 * https://twitter.com/R3volutionDaddy/status/1296277161670656002
 
+
 ### Federal officers shoot at and tear gas protesters | August 20th
 
 Federal officers push protesters back from an ICE facility, firing impact munitions and deploying tear gas. A handful of protesters had been banging on the walls of the building, but no further vandalism had been committed up to that point.
