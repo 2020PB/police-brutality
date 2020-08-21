@@ -4611,6 +4611,68 @@ id: or-portland-300
 * https://twitter.com/R3volutionDaddy/status/1296277161670656002
 
 
+### Federal officers shoot at and tear gas protesters | August 20th
+
+Federal officers push protesters back from an ICE facility, firing impact munitions and deploying tear gas. A handful of protesters had been banging on the walls of the building, but no further vandalism had been committed up to that point.
+
+Officers then retreat temporarily, before later emerging to push protesters back again.
+
+tags: protester, shoot, projectile, tear-gas
+
+id: or-portland-301
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1296700541192396802
+* https://twitter.com/MrOlmos/status/1296700554580639750
+* https://twitter.com/GriffinMalone6/status/1296693837545402368
+* https://twitter.com/GriffinMalone6/status/1296695438880382976
+* https://twitter.com/DrewCMarine/status/1296695868347699200
+
+
+### Journalist struck with explosive projectile | August 20th
+
+Officers fire tear gas and impact munitions at protesters outside an ICE facility in SW Portland. A photojournalist is filming from the sidewalk when an explosive projectile ricochets and strikes them in the head and hands, knocking the camera out of their hand.
+
+tags: journalist, explosive, projectile
+
+id: or-portland-302
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1296696038309244928
+* https://twitter.com/GriffinMalone6/status/1296695438880382976
+
+
+### Journalist struck with tear gas canister and impact munitions | August 20th
+
+An independent journalist wearing a press badge around her neck is seen filming protests in the street. She then runs back after an explosive device strikes her in the ankle and is shot in the hip while running.
+
+tags: journalist, tear-gas, tear-gas-canister, shoot, projectile
+
+id: or-portland-303
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1296696760711036931
+* https://twitter.com/GriffinMalone6/status/1296695644900306945
+* https://twitter.com/R3volutionDaddy/status/1296727726607409153
+* https://twitter.com/R3volutionDaddy/status/1296728449931866114
+
+
+### Police shove protesters following directions | August 20th
+
+After declaring an unlawful assembly and pushing protesters through the streets, Portland police moved onto the sidewalk, shoving protesters who were obeying directions.
+
+tags: protester, push, shove
+
+id: or-portland-304
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1296729797528150018
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
