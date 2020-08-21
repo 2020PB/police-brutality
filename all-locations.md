@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-20T19:07:41.175318+00:00
+UPDATED AT: 2020-08-21T21:52:26.487775+00:00
 
 
 # Alabama
@@ -1367,6 +1367,20 @@ id: ca-sandiego-4
 * https://twitter.com/mariahalize3/status/1267225330093191168
 
 
+### Student journalist shot and tear gassed | May 31st
+
+A student journalist attended protests in San Diego on May 31st. San Diego Police declared an unlawful assembly, then began firing tear gas and pepper balls at protesters. The journalist was standing on the sidewalk filming, when tear gas drifted into his eyes. He then turned for cover and was shot with pepper balls.
+
+tags: journalist, tear-gas, shoot, pepper-ball
+
+id: ca-sandiego-5
+
+**Links**
+
+* https://pressfreedomtracker.us/all-incidents/san-diego-student-journalist-hit-tear-gas-projectiles-while-covering-protest/
+* https://twitter.com/plutotoplato/status/1267224695239131137
+
+
 ### Police abduct woman in unmarked van | June 4th
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
@@ -1620,6 +1634,20 @@ id: ca-santamonica-2
 * [News article, mentioning incident with comment from Santa Monica police](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
 * [Example of the appropriate tool to cut zip ties](https://www.lawmens.com/safety-cutter-for-disposable-restraints/?gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUtIsFPg0gSDXLSKkG__DPSoK1K2bQ5d6PZBn-rO3U5rdBEMotdtR18aAjYgEALw_wcB)
 * https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/?utm_source=share&utm_medium=web2x
+
+
+### Reporter shot with rubber bullets | May 31st
+
+A reporter for Primer Impacto was livestreaming a protest on Facebook. Around 12 minutes into the video, shots are fired without warning and the woman screams. She says to a man on her crew (in Spanish), "They just hit me, Patricio, in the leg."
+
+tags: journalist, shoot, rubber-bullet
+
+id: ca-santamonica-3
+
+**Links**
+
+* https://pressfreedomtracker.us/all-incidents/primer-impacto-reporter-injured-rubber-bullet-during-protests-santa-monica/
+* [12:00](https://www.facebook.com/PrimerImpactoUnivision/videos/2555589674702920/)
 
 
 ## Vallejo
