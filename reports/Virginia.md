@@ -391,7 +391,9 @@ id: va-richmond-19
 
 Police grab and arrest a protester filming from the sidewalk. Officers then push other protesters away, shoving several to the ground. Justification for the arrest is unclear. Protesters were standing on private property, allegedly with permission from the property owner.
 
-tags: protester, arrest, push, shove
+After the incident, the filmer attempted to get badge numbers and names from officers, who refused him and requested his credentials instead.
+
+tags: protester, arrest, push, shove, hide-badge, abuse-of-power
 
 id: va-richmond-22
 
@@ -399,4 +401,4 @@ id: va-richmond-22
 
 * https://twitter.com/JLJLovesRVA/status/1296646952608763904
 * https://twitter.com/JLJLovesRVA/status/1296636703977996289
-
+* https://twitter.com/JLJLovesRVA/status/1296700265102483457
