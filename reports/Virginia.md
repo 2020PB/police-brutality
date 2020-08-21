@@ -386,3 +386,16 @@ id: va-richmond-19
 * https://twitter.com/RVAdirt/status/1288825356305207296
 * https://imgur.com/Ye9Sy5Y
 
+
+### Police arrest protester on private property and shove others | August 20th
+
+Police grab and arrest a protester filming from the sidewalk. Officers then push other protesters away, shoving several to the ground. Justification for the arrest is unclear. Protesters were standing on private property, allegedly with permission from the property owner.
+
+tags: protester, arrest, push, shove
+
+id: va-richmond-22
+
+**Links**
+
+* https://twitter.com/JLJLovesRVA/status/1296646952608763904
+* https://twitter.com/JLJLovesRVA/status/1296636703977996289
