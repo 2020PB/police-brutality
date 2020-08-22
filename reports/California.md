@@ -840,7 +840,6 @@ tags: protester, push, shove, baton, shoot, projectile
 
 id: ca-losangeles-48
 
-
 **Links**
 
 * https://twitter.com/abc7chriscristi/status/1297041164902649858
