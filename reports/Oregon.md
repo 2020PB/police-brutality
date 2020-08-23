@@ -4673,6 +4673,91 @@ id: or-portland-304
 * https://twitter.com/MrOlmos/status/1296729797528150018
 
 
+### Police break protester's phone | August 21st
+
+While being arrested, a protester can be heard saying, "Let me get my phone. Don't let them take me." The phone is on the ground, by the protester's feet. An officer then stomps on the protester's phone.
+
+tags: protester, arrest, property-destruction
+
+id: or-portland-305
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1297085738127769601
+
+
+### Officer shoves members of the press | August 21st
+
+Police arrest a protester and press gather around to document. An officer shoves members of the press away. The journalists had allegedly been told minutes prior by another officer that their distance to the arrest was allowed.
+
+tags: journalist, push, shove
+
+id: or-portland-306
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1297090542845583360
+
+
+### Police shove protesters | August 21st
+
+During dispersal at a protest, police walk protesters backwards. Protesters obey. Police shove protesters moving slowly, and shove them and protesters helping them as they try to stand.
+
+tags: protester, push, shove
+
+id: or-portland-307
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1297092502944485378
+
+
+### Police violently respond to vandalism | August 21st
+
+After protesters broke a few police vehicle windows, police gave a dispersal order and fired smoke and stun grenades. Police then dispersed protesters violently, striking several with batons and punching others.
+
+One protester is punched repeatedly by an officer while being arrested before a second officer tells the first to stop.
+
+tags: protester, gas, stun-grenade, strike, punch, baton
+
+id: or-portland-308
+
+**Links**
+
+* https://twitter.com/katemshepherd/status/1297091224587735040
+* https://twitter.com/katemshepherd/status/1297099274757353474
+* https://twitter.com/MrOlmos/status/1297089248743452673
+
+
+### Police shove protesters on the sidewalk | August 22nd
+
+Police disperse protesters on the sidewalk. Protesters walk in the direction stated by police. Police threaten to arrest protesters who linger. Protesters at the back of the group are pushed and shoved. One is shoved to the ground and harassed again as they attempt to stand.
+
+tags: protester, push, shove
+
+id: or-portland-309
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1297113434299830272
+
+
+### Police officer strikes journalist who insults him | August 22nd
+
+A member of the press is filming police from several feet away. He tells an officer to go fuck himself. The officer then swats the camera out of his hand.
+
+tags: journalist, property-destruction, strike
+
+id: or-portland-310
+
+**Links**
+
+* https://twitter.com/RisePDX/status/1297084976668667905
+* https://clips.twitch.tv/AuspiciousSmoggyDiscHeyGuys
+* https://twitter.com/RisePDX/status/1297086033696178176
+* https://clips.twitch.tv/FragileSullenConsoleRiPepperonis
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
