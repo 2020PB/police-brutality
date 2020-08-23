@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-23T14:27:49.772449+00:00
+UPDATED AT: 2020-08-23T14:28:21.347080+00:00
 
 
 # Alabama
@@ -1159,6 +1159,23 @@ id: ca-losangeles-46
 
 * https://twitter.com/chadloder/status/1289385606099812352
 * https://twitter.com/chadloder/status/1289395335211540481
+
+
+### Officers shove and shot Black Lives Matter protesters | August 21st
+
+At a dual protest between pro-Trump and Black Lives Matter protesters, BLM protesters entered the street and were confronted by police. This occurred after a member of the pro-Trump protest pepper sprayed BLM protesters.
+
+Officers shoved protesters with batons, then an officer with a riot gun fired into the crowd from short distance. Justification is unclear. Regardless, the distance from which the officer fired the gun is against protocols.
+
+tags: protester, push, shove, baton, shoot, projectile
+
+id: ca-losangeles-48
+
+**Links**
+
+* https://twitter.com/abc7chriscristi/status/1297041164902649858
+* https://twitter.com/desertborder/status/1296970764701192192
+* https://twitter.com/teegeez123/status/1297036568352272384
 
 
 ## Norco
