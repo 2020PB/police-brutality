@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-23T14:28:21.347080+00:00
+UPDATED AT: 2020-08-23T14:28:24.821844+00:00
 
 
 # Alabama
@@ -6996,13 +6996,27 @@ id: nc-charlotte-3
 
 Police separated groups of Back the Blue and Defund the Police protesters. Police shoved Defund the Police protesters backwards with their bikes. Protesters then shove a police officer's bike back. The officer then discharges pepper spray at numerous protesters.
 
-tags: shove, bike, pepper-spray, spray
+tags: protester, shove, bike, pepper-spray, spray
 
 id: nc-charlotte-4
 
 **Links**
 
 * https://www.wbtv.com/2020/07/25/protesters-supporting-back-blue-defund-police-confront-marshall-park/
+
+
+### Police shove and pepper spray RNC protesters | August 21st
+
+At a protest outside the Republican National Convention in Charlotte, NC, police used bikes to shove protesters and pepper sprayed others. A journalist filming the scene was caught in the pepper spray.
+
+tags: protester, journalist, shove, bike, pepper-spray, spray
+
+id: nc-charlotte-5
+
+**Links**
+
+* https://mobile.twitter.com/queencitynerve/status/1297004840644739072
+* https://mobile.twitter.com/queencitynerve/status/1297007019346583552
 
 
 ## Gastonia
