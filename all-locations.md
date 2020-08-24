@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-24T19:02:05.176743+00:00
+UPDATED AT: 2020-08-24T19:02:37.953202+00:00
 
 
 # Alabama
@@ -7037,8 +7037,34 @@ id: nc-charlotte-5
 
 **Links**
 
-* https://mobile.twitter.com/queencitynerve/status/1297004840644739072
-* https://mobile.twitter.com/queencitynerve/status/1297007019346583552
+* https://twitter.com/queencitynerve/status/1297004840644739072
+* https://twitter.com/queencitynerve/status/1297007019346583552
+
+
+### Police arrest protester without warning or clear justification | August 23rd
+
+Police talk to a protester walking by their line. The protester steps forward and is held back by police. The protester then talks to another officer. That officer then grabs the protester without warning and arrests them.
+
+tags: protester, arrest
+
+id: nc-charlotte-6
+
+**Links**
+
+* https://twitter.com/queencitynerve/status/1297389564693295105
+
+
+### Police pepper spray kettled protesters | August 24th
+
+At an RNC protest in Charlotte, NC, police kettled protesters at College and 4th Streets shortly after midnight. Police then begin shouting "Move" and pepper spray protesters.
+
+tags: protester, pepper-spray, spray
+
+id: nc-charlotte-7
+
+**Links**
+
+* https://twitter.com/queencitynerve/status/1297757281359208450
 
 
 ## Gastonia
