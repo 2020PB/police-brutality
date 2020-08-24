@@ -4881,6 +4881,7 @@ id: or-portland-319
 * https://twitter.com/hungrybowtie/status/1297786356194668544
 * https://twitter.com/BGOnTheScene/status/1297788853500035072
 * https://twitter.com/audreytweil/status/1297785301134270464
+* https://twitter.com/SacActivists/status/1297945967509954566
 
 
 ## Salem
