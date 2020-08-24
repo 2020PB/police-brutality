@@ -151,22 +151,19 @@ id: nc-charlotte-5
 * https://twitter.com/queencitynerve/status/1297007019346583552
 
 
-### Police arrest protester without warning or clear justification | August 23rd
-
-Police talk to a protester walking by their line. Police then grab the protester without warning and arrest them.
-
-tags: protester, arrest
-
-id: nc-charlotte-6
-
-**Links**
-
-
-
-
 ## Gastonia
 
 ### Police with live ammo arrest protesters sitting in cars | July 22nd
+
+Police talk to a protester walking by their line. Police then grab the protester without warning and arrest them.
+
+
+
+
+
+
+
+
 
 Footage shows militarized police with long guns carrying live ammo running up on protesters. Black protesters are removed from their vehicles and arrested.
 
