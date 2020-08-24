@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-24T19:01:43.598144+00:00
+UPDATED AT: 2020-08-24T19:02:05.176743+00:00
 
 
 # Alabama
@@ -4344,6 +4344,26 @@ id: mi-detroit-10
 
 * https://twitter.com/AttorneyCrump/status/1282107085812047873
 * https://www.instagram.com/p/CCfSTAnjv_k/
+
+
+### Police tear gas protesters | August 22nd
+
+Police and protesters faced off at a protest in Detroit, Michigan around midnight on August 22nd. Police deployed gas grenades, believed to be tear gas, and marched towards protesters. Police then struck protesters with batons and shields, arresting several.
+
+tags: protester, tear-gas, strike, baton, shield, arrest
+
+id: mi-detroit-12
+
+**Links**
+
+* https://twitter.com/Kayleighmw/status/1297410211049811968
+* https://twitter.com/Kayleighmw/status/1297410211049811968
+* https://twitter.com/YoDCox/status/1297398241617760257
+* https://twitter.com/MCmuckraker/status/1297856193176776705
+* https://twitter.com/Kitty_Garrison/status/1297586120503496705
+* https://twitter.com/ohnoitslydia/status/1297396456593264640
+* https://twitter.com/ohnoitslydia/status/1297396456593264640
+* https://twitter.com/ohnoitslydia/status/1297399986120949765
 
 
 ## Grand Rapids
