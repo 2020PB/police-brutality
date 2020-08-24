@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-24T06:18:54.901618+00:00
+UPDATED AT: 2020-08-24T19:01:43.598144+00:00
 
 
 # Alabama
@@ -12685,6 +12685,132 @@ id: or-portland-310
 * https://clips.twitch.tv/AuspiciousSmoggyDiscHeyGuys
 * https://twitter.com/RisePDX/status/1297086033696178176
 * https://clips.twitch.tv/FragileSullenConsoleRiPepperonis
+
+
+### Officer shoots protester at point blank range | August 22nd
+
+After protests at Terry Schrunk plaza are declared an unlawful assembly, police and DHS officers clear the park. A protester is kneeling in a brick area alone, with his hands on his head. An officer standing next to him shoots him with an impact munition. Another officer shoves the protester over.
+
+tags: protester, push, shove, shoot, projectile
+
+id: or-portland-311
+
+**Links**
+
+* https://twitter.com/IwriteOK/status/1297292316256870400
+
+
+### Officers shove protesters and legal observer | August 22nd
+
+Around midnight on August 22nd, police gave conflicting orders to protesters regarding the direction to go. Protesters stopped, confused. Police then shoved protesters around, striking one with a baton. A representative from the National Lawyer's Guild was also knocked to the ground.
+
+tags: protester, legal-observer, push, shove, strike, baton
+
+id: or-portland-314
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1297434041411493890
+* https://twitter.com/1misanthrophile/status/1297434755017789440
+
+
+### Police drag protester, begin to arrest him, then release him | August 22nd
+
+Police drag a man off the sidewalk into the street and lay him face down on the ground. Officers kneel on him as they arrest him. Officers then release him without explanation.
+
+tags: protester, grab, abuse-of-power, knee
+
+id: or-portland-315
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1297435863719145472
+* https://twitter.com/gravemorgan/status/1297426266887303170
+
+
+### Police shove legal observer | August 22nd
+
+A legal observer is seen talking to police, about events happening behind the police line. The officer shoves the legal observer. The observer then steps forward again and is thrown to the ground.
+
+tags: legal-observer, push, shove
+
+id: or-portland-316
+
+**Links**
+
+* https://twitter.com/DrylyRiley/status/1297443368587399168
+* https://clips.twitch.tv/SilkyLovelySandpiperSwiftRage
+
+
+### Police repeatedly shove protester | August 22nd
+
+A protester, who had allegedly been blinded by pepper spray and was having trouble getting their bearings, is shoved to the ground by police. Police then lift the protester off the ground and shove them forward again.
+
+tags: protester, push, shove
+
+id: or-portland-317
+
+**Links**
+
+* https://twitter.com/poorfp/status/1297460850157002752
+
+
+### Police pepper spray a protester attempting to help another up | August 22nd
+
+A protester falls to the ground during a police advance. Another protester runs to help them up. Police pepper spray both of them.
+
+tags: protester, pepper-spray, spray
+
+id: or-portland-318
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1297113750193885184
+
+
+### Officers shove and pepper spray protesters on sidewalk | August 23rd
+
+About one hour after midnight on August 23rd, police attempted to disperse protesters on the sidewalk. Protesters walked backwards away from police, but were still shoved and pepper sprayed by officers.
+
+tags: protester, push, shove, pepper-spray, spray
+
+id: or-portland-312
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1297443641993003008
+
+
+### Police shove protesters on sidewalk | August 23rd
+
+Shortly after midnight on August 23rd, police disperse protesters on the sidewalk. Police can be seen shoving two individuals obeying police direction. Officers then confront members of the Wall of Moms (noted by yellow shirts) sitting on the grass and shove them.
+
+tags: protester, push, shove
+
+id: or-portland-313
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1297438973166415873
+
+
+### Police respond to vandalism and fireworks with tear gas | August 23rd
+
+At a protest outside the North Precinct in Portland, protesters built a barricade in the street and threw fireworks and other small objects at police. Police responded with tear gas and stun grenades. Officers then advanced into the street and made arrests.
+
+tags: protester, tear-gas, stun-grenade, arrest
+
+id: or-portland-319
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1297781412427309056
+* https://twitter.com/hungrybowtie/status/1297781900598099968
+* https://twitter.com/hungrybowtie/status/1297782235798450176
+* https://twitter.com/hungrybowtie/status/1297786356194668544
+* https://twitter.com/BGOnTheScene/status/1297788853500035072
+* https://twitter.com/audreytweil/status/1297785301134270464
+* https://twitter.com/SacActivists/status/1297945967509954566
 
 
 ## Salem
