@@ -147,8 +147,21 @@ id: nc-charlotte-5
 
 **Links**
 
-* https://mobile.twitter.com/queencitynerve/status/1297004840644739072
-* https://mobile.twitter.com/queencitynerve/status/1297007019346583552
+* https://twitter.com/queencitynerve/status/1297004840644739072
+* https://twitter.com/queencitynerve/status/1297007019346583552
+
+
+### Police arrest protester without warning or clear justification | August 23rd
+
+Police talk to a protester walking by their line. Police then grab the protester without warning and arrest them.
+
+tags: protester, arrest
+
+id: nc-charlotte-6
+
+**Links**
+
+
 
 
 ## Gastonia
