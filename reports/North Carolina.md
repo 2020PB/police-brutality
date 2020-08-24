@@ -151,19 +151,35 @@ id: nc-charlotte-5
 * https://twitter.com/queencitynerve/status/1297007019346583552
 
 
+### Police arrest protester without warning or clear justification | August 23rd
+
+Police talk to a protester walking by their line. The protester steps forward and is held back by police. The protester then talks to another officer. That officer then grabs the protester without warning and arrests them.
+
+tags: protester, arrest
+
+id: nc-charlotte-6
+
+**Links**
+
+* https://twitter.com/queencitynerve/status/1297389564693295105
+
+
+### Police pepper spray kettled protesters | August 24th
+
+At an RNC protest in Charlotte, NC, police kettled protesters at College and 4th Streets shortly after midnight. Police then begin shouting "Move" and pepper spray protesters.
+
+tags: protester, pepper-spray, spray
+
+id: nc-charlotte-7
+
+**Links**
+
+* https://twitter.com/queencitynerve/status/1297757281359208450
+
+
 ## Gastonia
 
 ### Police with live ammo arrest protesters sitting in cars | July 22nd
-
-Police talk to a protester walking by their line. Police then grab the protester without warning and arrest them.
-
-
-
-
-
-
-
-
 
 Footage shows militarized police with long guns carrying live ammo running up on protesters. Black protesters are removed from their vehicles and arrested.
 
