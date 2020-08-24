@@ -830,7 +830,7 @@ id: ca-losangeles-46
 * https://twitter.com/chadloder/status/1289395335211540481
 
 
-### Officers shove and shot Black Lives Matter protesters | August 21st
+### Officers shove and shoot Black Lives Matter protesters | August 21st
 
 At a dual protest between pro-Trump and Black Lives Matter protesters, BLM protesters entered the street and were confronted by police. This occurred after a member of the pro-Trump protest pepper sprayed BLM protesters.
 
@@ -845,6 +845,8 @@ id: ca-losangeles-48
 * https://twitter.com/abc7chriscristi/status/1297041164902649858
 * https://twitter.com/desertborder/status/1296970764701192192
 * https://twitter.com/teegeez123/status/1297036568352272384
+* https://twitter.com/WallofVets/status/1297061991802998785
+* https://twitter.com/WallofVets/status/1297351314653896704
 
 
 ## Norco
