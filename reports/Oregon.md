@@ -5012,6 +5012,20 @@ id: or-portland-328
 * https://twitter.com/PDocumentarians/status/1298162855808839681
 
 
+### Police throw gas canister at press, hit journalist in shin | August 24th
+
+As police prepare to ride away, some protesters throw objects at them. Police hurl a canister at journalists standing well away from these protesters, striking a journalist in the shin.
+
+tags: journalist, tear-gas-canister
+
+id: or-portland-329
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1298347083368284160
+* https://twitter.com/R3volutionDaddy/status/1298344703486697472
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
