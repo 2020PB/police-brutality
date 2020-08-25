@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-24T19:02:37.953202+00:00
+UPDATED AT: 2020-08-25T22:52:01.119194+00:00
 
 
 # Alabama
@@ -12857,6 +12857,148 @@ id: or-portland-319
 * https://twitter.com/BGOnTheScene/status/1297788853500035072
 * https://twitter.com/audreytweil/status/1297785301134270464
 * https://twitter.com/SacActivists/status/1297945967509954566
+
+
+### Police confiscate speaker, then pepper spray owner | August 23rd
+
+At a protest late on August 23rd or early on the 24th, police confiscate a speaker from a protester, [@ProtestSound](https://twitter.com/ProtestSound). The protester does not release the speaker so police pepper spray them.
+
+tags: protester, abuse-of-power, pepper-spray, spray
+
+id: or-portland-320
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1297970388412981249
+* https://twitter.com/MasonLakePhoto/status/1297977922301521920
+
+
+### Police throw stun grenades and tear gas canisters from rooftop | August 24th
+
+After protesters set an awning on fire, police emerged to extinguish the fire. Police threw stun grenades and tear gas at a handful of protesters standing around below.
+
+tags: protester, stun-grenade, tear-gas, tear-gas-canister
+
+id: or-portland-321
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1297978901012963328
+* https://twitter.com/R3volutionDaddy/status/1297979906626789376
+
+
+### Police throw stun grenade at independent journalist | August 24th
+
+An independent journalist films police from the sidewalk as they emerge from a building. A projectile is seen flying towards her and explodes before it lands. She does not appear to be standing near any other members of the press or protesters.
+
+tags: journalist, stun-grenade
+
+id: or-portland-322
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1297981782084612096
+
+
+### Police beat and arrest multiple protesters | August 24th
+
+Footage shows police following dispersing protesters. One protester is shoved repeatedly and knocked to the ground. Another protester is dragged into a corner and arrested. A third talks to police and is singled out. An officer grabs them by the neck, while others grab the protester's body. The protester is knocked unconscious and falls to the ground. Officers then arrest the protester.
+
+tags: protester, beat, strike, shove, push, arrest, tackle
+
+id: or-portland-323
+
+**Links**
+
+* https://twitter.com/garbagefilth/status/1298129381747957760
+* https://twitter.com/GriffinMalone6/status/1298126550273945600
+* https://twitter.com/ByMikeBaker/status/1298127258268266499
+
+
+### Police tear gas protesters and make violent arrest | August 24th
+
+Police continuously fire tear gas at dispersing protesters. One protester in a parking lot is tackled to the ground by several officers and arrested.
+
+tags: protester, tackle, arrest, tear-gas
+
+id: or-portland-324
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1298144639405367296
+* https://twitter.com/GriffinMalone6/status/1298124938285465600
+* https://twitter.com/tehandy121/status/1298125192451907584
+
+
+### Officer bludgeons protester with pepper spray can, then sprays crowd | August 24th
+
+A police officer following retreating protesters can be seen repeatedly striking a woman with his pepper spray can. He then discharges pepper spray on the crowd.
+
+A woman claiming to be the victim alleges her right wrist was broken in the incident.
+
+tags: protester, beat, strike, pepper-spray, spray
+
+id: or-portland-325
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1298272827087306753
+* https://twitter.com/marisaforBLM/status/1298314312008626179
+
+
+### Officer gropes and shoves woman, arrests protester trying to intervene | (Believed to be) August 24th
+
+Officers push protesters down the street. One protester turns to face officers. An officer squeezes one of her breasts, then the other, to push her away. Another individual, allegedly her boyfriend, tries to intervene and is shoved into the bushes then arrested. The woman is shoved down the street.
+
+tags: protester, sexual-assault, push, shove, arrest
+
+id: or-portland-326
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/ighh02/portland_police_grabs_womans_chest_then_arrest/
+
+
+### Police shove independent journalist | August 24th
+
+Footage shows an officer walking a journalist filming from the sidewalk back. The officer then shoves the journalist to the ground.
+
+tags: push, shove, journalist
+
+id: or-portland-327
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1298145800287993856
+* https://twitter.com/R3volutionDaddy/status/1298333903308984320
+* https://clips.twitch.tv/CoweringColdDonkeyRaccAttack
+
+
+### Police charge across the street, tackle, beat and arrest protester | August 24th
+
+Footage shows police charging across the street at a protester who begins jogging away. Police tackle the protester to arrest them and can be seen repeatedly punching the protester to subdue them.
+
+tags: protester, tackle, arrest, strike, punch, beat
+
+id: or-portland-328
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1298162855808839681
+
+
+### Police throw gas canister at press, hit journalist in shin | August 24th
+
+As police prepare to ride away, some protesters throw objects at them. Police hurl a canister at journalists standing well away from these protesters, striking a journalist in the shin.
+
+tags: journalist, tear-gas-canister
+
+id: or-portland-329
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1298347083368284160
+* https://twitter.com/R3volutionDaddy/status/1298344703486697472
 
 
 ## Salem
