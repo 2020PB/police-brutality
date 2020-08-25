@@ -4951,6 +4951,8 @@ id: or-portland-324
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1298144639405367296
+* https://twitter.com/GriffinMalone6/status/1298124938285465600
+* https://twitter.com/tehandy121/status/1298125192451907584
 
 
 ### Officer bludgeons protester with pepper spray can, then sprays crowd | August 24th
@@ -4994,6 +4996,7 @@ id: or-portland-327
 
 * https://twitter.com/MrOlmos/status/1298145800287993856
 * https://twitter.com/R3volutionDaddy/status/1298333903308984320
+* https://clips.twitch.tv/CoweringColdDonkeyRaccAttack
 
 
 ## Salem
