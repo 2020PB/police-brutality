@@ -49,6 +49,7 @@ id: wi-kenosha-2
 * https://twitter.com/hgflores_/status/1298096911115857922
 * https://twitter.com/RichieMcGinniss/status/1298101016995549185
 
+
 ## Madison
 
 ### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
