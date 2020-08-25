@@ -1,3 +1,48 @@
+## Kenosha
+
+### Police fire tear gas and impact munitions at protesters outside a precinct | August 23rd
+
+At protests following the death of Jacob Blake, protesters gathered outside a Kenosha police precinct. Protesters threw water bottles and shot of fireworks. Police responded with tear gas and impact munitions.
+
+tags: protester, tear-gas, shoot, projectile
+
+id: wi-kenosha-1
+
+**Links**
+
+* https://twitter.com/ABC/status/1297822172556165121
+* https://twitter.com/Rosemvmt/status/1297743591947874304
+* https://twitter.com/AFriendlyDad/status/1297747684455936003
+* https://twitter.com/lauren_linder/status/1297772465020600321
+* https://twitter.com/lauren_linder/status/1297775472055640065
+
+### Police tear gas protesters a second night | August 24th
+
+Protesters were ordered to disperse from the court house. The crowd remained in front of the court house; protesters threw fireworks and water bottles at police. Police and National Guard deployed more tear gas and used the LRAD dispersal function; in addition, they shot protesters with impact munitions.
+
+A student journalist from DePaul University was hit with a tear gas canister.
+
+tags: protester, shoot, projectile, lrad, tear-gas, tear-gas-canister, journalist
+
+id: wi-kenosha-2
+
+**Links**
+
+* https://twitter.com/ToolFree2point0/status/1298093859537408002
+* https://twitter.com/SVNewsAlerts/status/1298094278086987776
+* https://twitter.com/SVNewsAlerts/status/1298098250453483520
+* https://twitter.com/delvecchiograce/status/1298085959922266114
+* https://twitter.com/OmarJimenez/status/1298097739235024896
+* https://twitter.com/themariague/status/1298102173490917378
+* https://twitter.com/RicoReporting/status/1298078303518183425
+* https://twitter.com/johnhendren/status/1298086706042871808
+* https://twitter.com/lauren_linder/status/1298074911244722177
+* https://twitter.com/VenturaReport/status/1298077434475151361
+* [13:00](https://www.facebook.com/wisn12/videos/1022146548224032/)
+* https://twitter.com/lauren_linder/status/1298077570622197764
+* https://twitter.com/Julio_Rosas11/status/1298072456066994176
+
+
 ## Madison
 
 ### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
@@ -27,6 +72,46 @@ id: wi-madison-2
 
 * https://www.tiktok.com/@michelle_but_not_obama/video/6833371052198857990
 * https://twitter.com/shadow_roses1/status/1268246561798205442
+
+
+### Police pepper spray protester with megaphone | August 24th
+
+Police hold a line in Madison, Wisconsin. Several protesters mill about nearby. One stands near police, speaking into a megaphone. An officer pepper sprays this protester.
+
+tags: protester, pepper-spray, spray
+
+id: wi-madison-3
+
+**Links**
+
+* https://twitter.com/isthmus/status/1298324422336688130
+
+
+### Police pepper spray and tear gas protester | August 24th
+
+Around 1 AM on August 25th, police arrest a protester in a park. Other protesters approach the police line, appearing to stop several feet away. Police then pepper spray these protesters. Police then deployed tear gas shortly after.
+
+tags: protester, arrest, pepper-spray, spray, tear-gas
+
+id: wi-madison-4
+
+**Links**
+
+* https://twitter.com/bethabeyer/status/1298145824971673603
+* https://twitter.com/bethabeyer/status/1298146285929758720
+
+
+### Homeless bystander caught in tear gas | August 24th
+
+A homeless bystander sleeping on the street is caught in tear gas. Protesters wake him up and get him out of the area.
+
+tags: bystander, homeless, tear-gas
+
+id: wi-madison-5
+
+**Links**
+
+* https://twitter.com/isthmus/status/1298145645665099776
 
 
 ## Milwaukee
