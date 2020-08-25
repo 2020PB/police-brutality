@@ -50,6 +50,19 @@ id: wi-kenosha-2
 * https://twitter.com/RichieMcGinniss/status/1298101016995549185
 
 
+### Police fire tear gas, pepper spray and impact munitions at protesters on the sidewalk | August 24th
+
+After pushing protesters away from the courthouse, a small group of protesters is clustered on a sidewalk. From across the street, police fire tear gas and impact munitions, believed to be sponge rounds. Police also discharge pepper spray.
+
+tags: protester, shoot, projectile, tear-gas, pepper-spray, spray
+
+id: wi-kenosha-3
+
+**Links**
+
+* https://twitter.com/ehamer7/status/1298135090682265601
+
+
 ## Madison
 
 ### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
