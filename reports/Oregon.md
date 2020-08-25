@@ -4937,6 +4937,7 @@ id: or-portland-323
 
 * https://twitter.com/garbagefilth/status/1298129381747957760
 * https://twitter.com/GriffinMalone6/status/1298126550273945600
+* https://twitter.com/ByMikeBaker/status/1298127258268266499
 
 
 ### Police tear gas protesters and make violent arrest | August 24th
