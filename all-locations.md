@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-25T23:04:04.543063+00:00
+UPDATED AT: 2020-08-25T23:04:32.319797+00:00
 
 
 # Alabama
@@ -7079,6 +7079,28 @@ id: nc-charlotte-7
 **Links**
 
 * https://twitter.com/queencitynerve/status/1297757281359208450
+
+
+### Police charge protesters with bikes, discharge pepper spray | August 24th
+
+After protesters allegedly attempted to light something on fire or lowered a flag to the ground, police on bikes charged protesters, knocking several down. Police then discharged pepper spray at protesters.
+
+One individual beaten by police was taken away on a stretcher.
+
+In addition, Charlotte city councilman Braxton Winston was pepper sprayed during this incident.
+
+tags: protester, bike, pepper-spray, spray, push, shove, politician
+
+id: nc-charlotte-8
+
+**Links**
+
+* https://twitter.com/queencitynerve/status/1298081346137530370
+* https://twitter.com/queencitynerve/status/1298088325681750016
+* https://twitter.com/jefftaylorhuman/status/1298114422754414592
+* https://twitter.com/jefftaylorhuman/status/1298114422754414592
+* https://twitter.com/jefftaylorhuman/status/1298114422754414592
+* https://www.charlotteobserver.com/news/politics-government/rnc-2020/article245198720.html
 
 
 ## Gastonia
