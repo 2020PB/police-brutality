@@ -4981,6 +4981,20 @@ id: or-portland-326
 * https://www.reddit.com/r/PublicFreakout/comments/ighh02/portland_police_grabs_womans_chest_then_arrest/
 
 
+### Police shove independent journalist | August 24th
+
+Footage shows an officer walking a journalist filming from the sidewalk back. The officer then shoves the journalist to the ground.
+
+tags: push, shove, journalist
+
+id: or-portland-327
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1298145800287993856
+* https://twitter.com/R3volutionDaddy/status/1298333903308984320
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
