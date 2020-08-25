@@ -51,6 +51,7 @@ punch
 push
 racial-profiling
 rubber-bullet
+sexual-assault
 shield
 shoot
 shove
@@ -88,6 +89,7 @@ politician
 pregnant
 protester
 racial-profiling
+sexual-assault
 ```
 
 ### Weapon
