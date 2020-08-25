@@ -42,7 +42,12 @@ id: wi-kenosha-2
 * [13:00](https://www.facebook.com/wisn12/videos/1022146548224032/)
 * https://twitter.com/lauren_linder/status/1298077570622197764
 * https://twitter.com/Julio_Rosas11/status/1298072456066994176
-
+* https://twitter.com/jameststein/status/1298072246704119810
+* https://twitter.com/mattsmith_news/status/1298071296627154944
+* https://twitter.com/JohnKeilman/status/1298082510191104000
+* https://twitter.com/tbettack10/status/1298088265640284163
+* https://twitter.com/hgflores_/status/1298096911115857922
+* https://twitter.com/RichieMcGinniss/status/1298101016995549185
 
 ## Madison
 
