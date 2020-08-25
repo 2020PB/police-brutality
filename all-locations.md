@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-25T22:55:51.527750+00:00
+UPDATED AT: 2020-08-25T23:04:04.543063+00:00
 
 
 # Alabama
@@ -3947,6 +3947,20 @@ id: ky-louisville-12
 
 * https://mobile.twitter.com/martasmom98/status/1278231132753080321
 * https://mobile.twitter.com/martasmom98/status/1278231277649514496
+
+
+### Police destroy protester belongings after clearing park | June 27th
+
+After an incident in which local photographer and protester Tyler Gerth was shot by Steven Lopez, LMPD removed all protesters from Jefferson Square Park. While the park was empty, they removed all protester property including coolers, tents, cooking equipment, speakers, cameras and more. They told protesters they could retrieve the items from 600 Meriwether Ave without mentioning that the items were in a dumpster, having been carried away and compacted by garbage trucks. After public outrage, the mayor offered reimbursement, but only to those who could prove ownership and show receipts of purchase.
+
+tags: protester, property-destruction
+
+id: ky-louisville-20
+
+**Links**
+
+* https://www.leoweekly.com/2020/07/city-destroys-protesters-property-supplies-community-joins-donate-next-day/
+* https://www.facebook.com/MayorGregFischer/posts/3360993443931596
 
 
 ### Livestreamer arrested while filming protest | June 30th
