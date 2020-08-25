@@ -4999,6 +4999,19 @@ id: or-portland-327
 * https://clips.twitch.tv/CoweringColdDonkeyRaccAttack
 
 
+### Police charge across the street, tackle, beat and arrest protester | August 24th
+
+Footage shows police charging across the street at a protester who begins jogging away. Police tackle the protester to arrest them and can be seen repeatedly punching the protester to subdue them.
+
+tags: protester, tackle, arrest, strike, punch, beat
+
+id: or-portland-328
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1298162855808839681
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
