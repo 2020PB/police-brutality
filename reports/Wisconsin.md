@@ -16,6 +16,7 @@ id: wi-kenosha-1
 * https://twitter.com/lauren_linder/status/1297772465020600321
 * https://twitter.com/lauren_linder/status/1297775472055640065
 
+
 ### Police tear gas protesters a second night | August 24th
 
 Protesters were ordered to disperse from the court house. The crowd remained in front of the court house; protesters threw fireworks and water bottles at police. Police and National Guard deployed more tear gas and used the LRAD dispersal function; in addition, they shot protesters with impact munitions.
