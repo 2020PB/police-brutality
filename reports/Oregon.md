@@ -4981,7 +4981,6 @@ id: or-portland-326
 * https://www.reddit.com/r/PublicFreakout/comments/ighh02/portland_police_grabs_womans_chest_then_arrest/
 
 
-
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
