@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-25T23:04:32.319797+00:00
+UPDATED AT: 2020-08-26T04:14:22.858205+00:00
 
 
 # Alabama
@@ -4378,6 +4378,19 @@ id: mi-detroit-12
 * https://twitter.com/ohnoitslydia/status/1297396456593264640
 * https://twitter.com/ohnoitslydia/status/1297396456593264640
 * https://twitter.com/ohnoitslydia/status/1297399986120949765
+
+
+### Police officer tackles protester | (Believed to be) August 22nd
+
+While police push protesters down the street, several can be seen milling about further back on the sidewalk. An officer breaks from the line and charges at a protester, tackling them from behind.
+
+tags: protester, tackle
+
+id: mi-detroit-13
+
+**Links**
+
+* https://twitter.com/MCmuckraker/status/1298315127326900230
 
 
 ## Grand Rapids
