@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-26T04:14:22.858205+00:00
+UPDATED AT: 2020-08-26T17:54:35.775773+00:00
 
 
 # Alabama
@@ -13048,6 +13048,77 @@ id: or-portland-329
 
 * https://twitter.com/MathieuLRolland/status/1298347083368284160
 * https://twitter.com/R3volutionDaddy/status/1298344703486697472
+
+
+### Police charge protesters with shields | August 25th
+
+Police charge at a line of protesters with shields. Police use batons to strike protesters repeatedly, then make several arrests.
+
+tags: protester, arrest, strike, baton, beat
+
+id: or-portland-330
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1298491010280910848
+* https://twitter.com/MrOlmos/status/1298491684678799360
+* https://twitter.com/MasonLakePhoto/status/1298563063365267459
+* https://twitter.com/PDocumentarians/status/1298492395386834948
+
+
+### Police arrest woman yelling at them | August 25th
+
+A woman is seen yelling at police while police push protesters along the sidewalk. Although yelling, she is obeying police instruction. She says, after a while, "I don't listen to pigs." One officers then charges forward and grabs her to arrest her. Additional officers help make the arrest.
+
+tags: protester, arrest, abuse-of-power
+
+id: or-portland-331
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1298537076149772288
+* https://twitter.com/MrOlmos/status/1298532939072851968
+
+
+### Officer throws stun grenade at protesters on sidewalk | August 25th
+
+A small group of protesters is on the sidewalk, chanting and yelling. An officers runs up and lobs a stun grenade at them.
+
+tags: protester, stun-grenade
+
+id: or-portland-332
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1298512270809395202
+* https://twitter.com/BrayanMorgan6/status/1298530372012187649
+
+
+### Police puncture tires of multiple cars | August 25th
+
+Footage shows an officer puncturing the tires of multiple cars. One is stopped on the side of the street with the headlights on. The other is parked, with no one inside.
+
+tags: property-destruction
+
+id: or-portland-333
+
+**Links**
+
+* https://twitter.com/MasonLakePhoto/status/1298573907595730949
+* https://twitter.com/PDocumentarians/status/1298515002198908931
+
+
+### Police shoot at protesters in street | August 25th
+
+Several protesters stand in the street some distance from police. Police shoot at them with impact munitions. The camera pans away due to a technical issue. The filmer recovers what appears to be a foam bullet. The filmer then shows a protester attempting to pick up a spent tear gas canister; police shoot this protester repeatedly.
+
+tags: protester, shoot, projectile, foam-bullet
+
+id: or-portland-334
+
+**Links**
+
+* https://twitter.com/MegaphonePdx/status/1298661361551945729
 
 
 ## Salem
