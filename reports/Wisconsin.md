@@ -63,6 +63,28 @@ id: wi-kenosha-3
 * https://twitter.com/ehamer7/status/1298135090682265601
 
 
+### Police and National Guard use tear gas and LRAD to disperse protesters | August 25th
+
+Protesters gathered outside the courthouse in Kenosha, rattling a fence erected that day. Police gave a dispersal order. Protesters did not disperse. Police then deployed tear gas and the LRAD alarm to disperse protesters.
+
+tags: protester, tear-gas, lrad
+
+id: wi-kenosha-4
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1298446600264507393
+* https://twitter.com/TheRealCoryElia/status/1298446600264507393
+* https://twitter.com/TheRealCoryElia/status/1298446600264507393
+* https://twitter.com/TheRealCoryElia/status/1298446600264507393
+* https://www.facebook.com/cjtv.io/videos/636700277255679/
+* https://twitter.com/Julio_Rosas11/status/1298458923855478784
+* https://www.youtube.com/watch?v=uSxQAw39smU
+* https://twitter.com/RicoReporting/status/1298489186367012865
+* https://twitter.com/blackzebrapro/status/1298652150835351554
+* https://twitter.com/blackzebrapro/status/1298652286261039106
+
+
 ## Madison
 
 ### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
