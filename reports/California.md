@@ -849,6 +849,19 @@ id: ca-losangeles-48
 * https://twitter.com/WallofVets/status/1297351314653896704
 
 
+### LA Sheriffs tear gas protesters | August 25th
+
+LA Sheriffs surround protesters and begin firing tear gas and impact munitions without warning. Protesters do not appear to be inciting violence or agitating in any way.
+
+tags: protester, shoot, projectile, tear-gas
+
+id: ca-losangeles-49
+
+**Links**
+
+* https://www.instagram.com/tv/CEV-cnggrvj/
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
