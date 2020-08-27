@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-26T17:55:13.971929+00:00
+UPDATED AT: 2020-08-27T13:14:53.285341+00:00
 
 
 # Alabama
@@ -4067,6 +4067,21 @@ id: ky-louisville-19
 * [Courier video](https://www.courier-journal.com/videos/news/local/2020/08/03/video-shows-jefferson-county-deputy-pepper-spray-louisville-protester/5558102002/)
 * [Courier story](https://www.courier-journal.com/story/news/local/2020/08/03/louisville-protester-sues-sheriff-after-being-pepper-sprayed/5555497002/)
 * [Wave3 Story and Video](https://www.wave3.com/2020/07/15/lawyer-alleged-pepper-sprayed-protester-calls-jefferson-co-deputy-danger-our-community/)
+
+
+### Protester hit by police car | August 25th
+
+A police cruiser peels away from a protest with lights and sirens on. The car takes a rapid turn around a corner and hits a protester crossing the street. The officer emerges from the car and stands over the woman while protesters gather around. The officer states he did not hit the protester.
+
+The protester does not appear to be seriously injured.
+
+tags: protester, vehicle
+
+id: ky-louisville-21
+
+**Links**
+
+* [1:54:00](https://www.facebook.com/maxwellamitchell/videos/10219351963573439/)
 
 
 
