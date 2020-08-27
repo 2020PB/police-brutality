@@ -79,6 +79,8 @@ Law enforcement close on protesters from both sides with pepper bullets, tear ga
 
 Jeff Jackson, an NC State senator whose district contains the Uptown Charlotte area, later posted a review of the incident on Medium.com, in which he decries the incident and states he has begun the process of opening an investigation with the Charlotte-Mecklenburg Police Department.
 
+Body cam footage released several months later shows police coordinating the kettling and tear gassing.
+
 tags: tear-gas, tear-gas-canister, pepper-ball, stun-grenade, protester
 
 id: nc-charlotte-1
@@ -91,6 +93,7 @@ id: nc-charlotte-1
 * https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
 * https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
 * https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
+* https://twitter.com/queencitynerve/status/1298718282082467847
 
 
 ### Police arrest representative from The Bail Project | June 8th
