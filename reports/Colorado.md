@@ -437,3 +437,19 @@ id: co-denver-26
 * https://twitter.com/IvanRodriguezTV/status/1288529467292385282
 * https://twitter.com/jquynhreports/status/1288527389253865472
 
+
+### Denver police arrest protester outside homeless encampment, fire impact munitions at others | August 26th
+
+Denver police have been routinely sweeping homeless encampments and displacing individuals staying in the park. Members of the community have gathered to protest and give aid, and NLG members often attend to observe.
+
+On August 26th, police attempted to arrest an individual distributing food and aid. Other protesters intervened, pulling the individual away. Police then fired impact munitions at close range. They then tackled and arrested the individual and several others.
+
+tags: protester, arrest, shoot, projectile, tackle
+
+id: co-denver-27
+
+**Links**
+
+* https://www.youtube.com/watch?v=LPgsnF1Pxzc
+* https://twitter.com/wallofmomsden/status/1298655891131179020
+
