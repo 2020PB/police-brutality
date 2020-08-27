@@ -157,7 +157,7 @@ id: mn-minneapolis-27
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
 
-tags: 
+tags:
 
 id: mn-minneapolis-23
 
@@ -383,3 +383,28 @@ id: mn-minneapolis-30
 
 * https://www.tiktok.com/@montygeer/video/6840314007954509062
 
+
+### Officer pepper sprays protester | August 26th
+
+A protester and an officer exchange words at close distance. The officer then pepper sprays the protester.
+
+tags: protester, pepper-spray, spray
+
+id: mn-minneapolis-31
+
+**Links**
+
+* https://twitter.com/EvryDayEvryWay/status/1298794226033938432
+
+
+### Officer shoots at fleeing protester | August 26th
+
+A protester says something to an officer in Minneapolis. The officer says, "What was that? You're becoming a problem." The protester runs away and the officer fires his riot gun at the protester.
+
+tags: protester, shoot, projectile
+
+id: mn-minneapolis-32
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1298835525479014400
