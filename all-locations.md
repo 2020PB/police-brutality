@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-27T13:14:53.285341+00:00
+UPDATED AT: 2020-08-27T13:14:57.764637+00:00
 
 
 # Alabama
@@ -1178,6 +1178,19 @@ id: ca-losangeles-48
 * https://twitter.com/teegeez123/status/1297036568352272384
 * https://twitter.com/WallofVets/status/1297061991802998785
 * https://twitter.com/WallofVets/status/1297351314653896704
+
+
+### LA Sheriffs tear gas protesters | August 25th
+
+LA Sheriffs surround protesters and begin firing tear gas and impact munitions without warning. Protesters do not appear to be inciting violence or agitating in any way.
+
+tags: protester, shoot, projectile, tear-gas
+
+id: ca-losangeles-49
+
+**Links**
+
+* https://www.instagram.com/tv/CEV-cnggrvj/
 
 
 ## Norco
