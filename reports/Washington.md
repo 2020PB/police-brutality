@@ -898,3 +898,24 @@ id: wa-seattle-61
 * https://twitter.com/ACABSea/status/1299043810798780419
 * https://twitter.com/ACABSea/status/1299044335183228930
 
+
+### Police shove protesters, mace journalist, arrest drivers and damage cars | August 26th
+
+A journalist, Omari Salisbury, was livestreaming a protest in Seattle. About 5:30 into his livestream, he explains that police intend to push protesters back so they can remove vehicles in the street. Police begin shouting, "Move back," and shove protesters back. Police then mace protesters, as well as the journalist.
+
+Police then push protesters back past the cars, slamming one protester into a car (6:08).
+
+Around 7:20, police make an arrest.
+
+Around 8:00, the streamer pans to police breaking the window of a car. Police then arrest the driver of that car.
+
+tags: journalist, protester, push, shove, baton, pepper-spray, spray, arrest, property-destruction
+
+id: wa-seattle-62
+
+**Links**
+
+* [Livestream; events at 5:30, 6:00, 7:20, 8:00](https://www.facebook.com/WWConverge/videos/355310738820842/)
+* [Additional footage of Omari pepper sprayed](https://twitter.com/TheBageler7/status/1298884403746099205)
+* [Additional footage of charge](https://twitter.com/TheBageler7/status/1299003806928105480)
+
