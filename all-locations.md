@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-28T04:57:48.982234+00:00
+UPDATED AT: 2020-08-28T04:58:20.174529+00:00
 
 
 # Alabama
@@ -15843,6 +15843,21 @@ id: wa-seattle-60
 **Links**
 
 * https://twitter.com/spekulation/status/1295946737069068288
+
+
+### Police shove member of the press | August 26th
+
+Police are seen walking protesters, legal observers and journalists backwards. A journalist talks to police as they walk her. An officer then shoves her, knocking the phone out of her hand. The phone was allegedly confiscated and destroyed.
+
+tags: journalist, shove, property-destruction
+
+id: wa-seattle-61
+
+**Links**
+
+* [29:00](https://www.facebook.com/RebellionBaby/videos/1072754053140660/)
+* https://twitter.com/ACABSea/status/1299043810798780419
+* https://twitter.com/ACABSea/status/1299044335183228930
 
 
 
