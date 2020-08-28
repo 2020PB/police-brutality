@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-28T04:57:05.408675+00:00
+UPDATED AT: 2020-08-28T04:57:48.982234+00:00
 
 
 # Alabama
@@ -13209,6 +13209,29 @@ id: or-portland-334
 **Links**
 
 * https://twitter.com/MegaphonePdx/status/1298661361551945729
+
+
+### Federal officers shoot tear gas and impact munitions at protesters | August 26th
+
+After a march ended at an ICE facility in Portland, protesters threw eggs and other small projectiles. Agents from FPS and DHS emerged to clear protesters with impact munitions and tear gas.
+
+tags: protester, shoot, projectile, tear-gas
+
+id: or-portland-335
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1298893333025062914
+* https://twitter.com/Cascadianphotog/status/1298859911195930624
+* https://twitter.com/Cascadianphotog/status/1298890983791198210
+* https://twitter.com/suzettesmith/status/1298868131750797313
+* https://twitter.com/suzettesmith/status/1298861598551883776
+* https://twitter.com/R3volutionDaddy/status/1298861286193684480
+* https://twitter.com/BaghdadBrian/status/1298898340587999233
+* https://twitter.com/BaghdadBrian/status/1298874889407836160
+* https://twitter.com/gravemorgan/status/1298860424301965312
+* https://twitter.com/gravemorgan/status/1298862814321229824
+* https://twitter.com/gravemorgan/status/1298862979690053633
 
 
 ## Salem
