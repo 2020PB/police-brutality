@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-28T04:56:02.466982+00:00
+UPDATED AT: 2020-08-28T04:57:05.408675+00:00
 
 
 # Alabama
@@ -4956,6 +4956,32 @@ id: mn-minneapolis-30
 **Links**
 
 * https://www.tiktok.com/@montygeer/video/6840314007954509062
+
+
+### Officer pepper sprays protester | August 26th
+
+A protester and an officer exchange words at close distance. The officer then pepper sprays the protester.
+
+tags: protester, pepper-spray, spray
+
+id: mn-minneapolis-31
+
+**Links**
+
+* https://twitter.com/EvryDayEvryWay/status/1298794226033938432
+
+
+### Officer shoots at fleeing protester | August 26th
+
+A protester says something to an officer in Minneapolis. The officer says, "What was that? You're becoming a problem." The protester runs away and the officer fires his riot gun at the protester.
+
+tags: protester, shoot, projectile
+
+id: mn-minneapolis-32
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1298835525479014400
 
 
 
