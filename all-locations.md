@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-28T04:58:20.174529+00:00
+UPDATED AT: 2020-08-28T14:40:12.167515+00:00
 
 
 # Alabama
@@ -1208,6 +1208,7 @@ id: ca-losangeles-50
 * https://twitter.com/DjMontecito/status/1298868748074405888
 * https://twitter.com/teegeez123/status/1299006192526585857
 * https://twitter.com/missippigurl/status/1299061628051156992
+* https://www.instagram.com/p/CEY5r64AEip/
 
 
 ## Norco
