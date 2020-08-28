@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-27T13:15:14.315600+00:00
+UPDATED AT: 2020-08-28T04:56:02.466982+00:00
 
 
 # Alabama
@@ -1191,6 +1191,23 @@ id: ca-losangeles-49
 **Links**
 
 * https://www.instagram.com/tv/CEV-cnggrvj/
+
+
+### Officers trap protesters under bridge and shoot them | August 26th
+
+Protesters in LA were trapped by police in a tunnel. Police demanded that protesters relinquish their shields. As protesters began to do so, police fired on the crowd. Police then held protesters at the scene, allegedly allowing them to leave in small groups after being frisked.
+
+tags: protester, shoot, projectile, abuse-of-power
+
+id: ca-losangeles-50
+
+**Links**
+
+* https://twitter.com/cogeian/status/1298864638411431938
+* https://twitter.com/cogeian/status/1298867138547994629
+* https://twitter.com/DjMontecito/status/1298868748074405888
+* https://twitter.com/teegeez123/status/1299006192526585857
+* https://twitter.com/missippigurl/status/1299061628051156992
 
 
 ## Norco
