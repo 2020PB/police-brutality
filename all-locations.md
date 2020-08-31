@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-31T15:46:10.283609+00:00
+UPDATED AT: 2020-08-31T15:56:38.484281+00:00
 
 
 # Alabama
@@ -13287,6 +13287,62 @@ id: or-portland-338
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1299661351845945344
+
+
+### Police punch arrestee | August 30th
+
+After declaring an unlawful assembly, police make several arrests. In this footage, police can be seen repeatedly punching a detained protester to subdue them.
+
+tags: protester, arrest, punch
+
+id: or-portland-339
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1300313206880047106
+* https://twitter.com/GriffinMalone6/status/1300312690674397184
+* https://twitter.com/1misanthrophile/status/1300313135526506496
+* https://twitter.com/PDocumentarians/status/1300313454843060225
+
+
+### Police tackle and arrest protesters; shove and shoot press and legal observers | August 30th
+
+Police snatch protesters standing among press on the sidewalk, throw them to the ground and arrest them. Other officers then shove press and legal observers away. Impact munitions can be heard fired; the filmer, a journalist, posted that police shot them in the feet.
+
+tags: protester, journalist, legal-observer, tackle, arrest, push, shove, shoot, projectile
+
+id: or-portland-340
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1300315083352887296
+* https://twitter.com/suzettesmith/status/1300315898725543938
+
+
+### Police tackle and arrest protester carrying flag | August 30th
+
+Police charge and tackle a protester carrying a flag. They arrest the protester, pulling their hair during the arrest. Other officers then shove press away.
+
+tags: protester, tackle, arrest, journalist, shove, push
+
+id: or-portland-341
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1300325203227017222
+
+
+### Police shoot impact munitions into crowd | August 30th
+
+Around midnight on August 30th, Portland police retreat. An officer fires impact munitions into the crowd without a discernible reason. A water bottle is thrown in response and the officer fires again.
+
+tags: protester, shoot, projectile
+
+id: or-portland-342
+
+**Links**
+
+* https://twitter.com/BrayanMorgan6/status/1300331465146851329
 
 
 ## Salem
