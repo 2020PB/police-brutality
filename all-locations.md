@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-31T13:37:59.198268+00:00
+UPDATED AT: 2020-08-31T15:28:52.975826+00:00
 
 
 # Alabama
@@ -345,6 +345,19 @@ id: ca-beverlyhills-1
 
 * [1:34, 3:43](https://youtu.be/doQMq8Iwcjc?t=94)
 * [Photojournalist's account](https://twitter.com/bfeinzimer/status/1277014331968782339)
+
+
+### Officer shoves then pepper sprays protester | August 29th
+
+A protester in the street argues with a police officer. The officer shoves the protester. The protester then says, "Don't fucking touch me." A second officer then pepper sprays the protester.
+
+tags: protester, push, shove, pepper-spray, spray
+
+id: ca-beverlyhills-2
+
+**Links**
+
+* https://twitter.com/SamBraslow/status/1299848702748536834
 
 
 ## Clayton
