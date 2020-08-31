@@ -5120,6 +5120,47 @@ id: or-portland-335
 * https://twitter.com/gravemorgan/status/1298862979690053633
 
 
+### Police rip mask off detained protester and pepper spray them | August 28th
+
+After a mattress was set on fire outside the Portland Police Association, police rushed protesters, making numerous arrests. In this footage, police can be seen ripping the mask off an immobile protester and macing them.
+
+tags: protester, arrest, pepper-spray, spray
+
+id: or-portland-336
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1299627259913891840
+* https://twitter.com/_WhatRiot/status/1299616269688209414
+
+
+### Police shove member of the press | August 28th
+
+A reporter attempts to film arrests being made in the lot of a gas station. As they approach, an officer confronts them, shoving the reporter back.
+
+tags: journalist, push, shove
+
+id: or-portland-337
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1299629458299609093
+* https://twitter.com/IwriteOK/status/1299622638222860289
+
+
+### Police arrest protester on sidewalk | August 28th
+
+A journalist captures an exchange between an officer and a protester. The protester is filming the officer. The officer tells the protester that he cannot be here without a press pass. The protester asks why. The officer says that it's been declared a riot. The protester asks the officer to define a riot. Officers then arrest the protester.
+
+tags: protester, arrest, abuse-of-power
+
+id: or-portland-338
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1299661351845945344
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
