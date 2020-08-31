@@ -16,6 +16,19 @@ id: ca-beverlyhills-1
 * [Photojournalist's account](https://twitter.com/bfeinzimer/status/1277014331968782339)
 
 
+### Officer shoves then pepper sprays protester | August 29th
+
+A protester in the street argues with a police officer. The officer shoves the protester. The protester then says, "Don't fucking touch me." A second officer then pepper sprays the protester.
+
+tags: protester, push, shove, pepper-spray, spray
+
+id: ca-beverlyhills-2
+
+**Links**
+
+* https://twitter.com/SamBraslow/status/1299848702748536834
+
+
 ## Clayton
 
 ### Law enforcement gas teenagers at a park | June 2nd
