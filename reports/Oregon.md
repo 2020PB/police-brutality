@@ -5181,6 +5181,8 @@ id: or-portland-339
 
 Police snatch protesters standing among press on the sidewalk, throw them to the ground and arrest them. Other officers then shove press and legal observers away. Impact munitions can be heard fired; the filmer, a journalist, posted that police shot them in the feet.
 
+Police snatched protesters off the sidewalk on several occasions throughout the protest, including across the street from this incident at the same time (3rd link).
+
 tags: protester, journalist, legal-observer, tackle, arrest, push, shove, shoot, projectile
 
 id: or-portland-340
@@ -5189,6 +5191,7 @@ id: or-portland-340
 
 * https://twitter.com/_WhatRiot/status/1300315083352887296
 * https://twitter.com/suzettesmith/status/1300315898725543938
+* https://twitter.com/suzettesmith/status/1300314437660803075
 
 
 ### Police tackle and arrest protester carrying flag | August 30th
