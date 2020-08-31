@@ -263,6 +263,20 @@ id: tx-austin-17
 * https://twitter.com/CandiceBernd/status/1289734363933028352
 
 
+### Officer knocks phone out of filmer's hand | August 29th
+
+A woman films an officer arresting a protester. A second officer walks by, knocking the phone out of the filmer's hand.
+
+tags: protester, push, shove, property-destruction
+
+id: tx-austin-18
+
+**Links**
+
+* https://twitter.com/C38412900/status/1299901391352344576
+* https://www.kvue.com/article/news/local/austin-jacob-blake-protests-arrests/269-9be9ef7d-8b21-48f2-9721-d8389d823d67
+
+
 ## Baytown
 
 ### Police officer tackles and knees man on the ground | June 2nd
