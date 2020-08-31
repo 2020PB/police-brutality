@@ -461,3 +461,76 @@ id: dc-dc-30
 
 * https://twitter.com/ChuckModi1/status/1294497266250723328
 
+
+### Police arrest, tear gas, pepper spray, and shoot protesters | August 29th
+
+After police make an arrest at a protest, the protesters become agitated and shout at police. Police then throw tear gas canisters at protesters. Officers chase protesters down the street using tear gas, stun grenades and rubber bullets. One officer discharges pepper spray at protesters and the filmer, a journalist.
+
+tags: protester, journalist, arrest, tear-gas, stun-grenade, shoot, rubber-bullet, pepper-spray, spray
+
+id: dc-dc-31
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1299914900228235265
+* https://twitter.com/rawsmedia/status/1299876987813736448
+* https://twitter.com/rawsmedia/status/1299918596081102849
+* https://twitter.com/rawsmedia/status/1299911442427187200
+* https://twitter.com/rawsmedia/status/1299911726582976513
+* https://twitter.com/rawsmedia/status/1299911910427688962
+* https://twitter.com/rawsmedia/status/1299915828603781120
+* https://twitter.com/BareWithAyan/status/1299918588640464896
+
+
+### Police shove and pepper spray protesters | August 29th
+
+Police walk protesters down the street. One officer pepper sprays a protester. He stops walking as he tries to clear his eyes, and an officer shoves him. Another protester then yells at police; she is pepper sprayed as well.
+
+tags; protester, push, shove, pepper-spray, spray
+
+id: dc-dc-32
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1299966217546067968
+
+
+### Police smash window and arrest Snack Van driver | August 29th
+
+The Snack Van from Portland joined protests in D.C. to hand out food, water and medical supplies to protesters. The driver rolled slowly alongside protesters as police began dispersal. Police told the driver to pull the van over and put in park. The driver began to comply. An officer then smashed the driver side window and arrested the occupants.
+
+tags: protester, arrest, property-destruction
+
+id: dc-dc-33
+
+**Links**
+
+* https://twitter.com/PotempkinBrain/status/1300267743057522689
+
+
+### Police tear gas protesters | August 31st
+
+Protesters and police faced off shortly after midnight on the morning of August 31st. Protesters threw water bottles at police. Police escalated and used tear gas to disperse protesters.
+
+tags: protester, tear-gas
+
+id: dc-dc-34
+
+**Links**
+
+* https://www.youtube.com/watch?v=Kbp_xJDBcvs
+* https://twitter.com/rawsmedia/status/1300284688649588739
+* https://twitter.com/LizzieLouFerris/status/1300324311002210306
+
+
+### Police shoot at protesters | August 31st
+
+Police behind a barricade in the street fire rubber bullets at protesters. Protesters appear to be doing no more than shouting at police to stop shooting.
+
+tags: protester, shoot, rubber-bullet
+
+id: dc-dc-35
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1300308986428895240
