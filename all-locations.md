@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-08-31T20:24:52.900984+00:00
+UPDATED AT: 2020-09-01T06:15:13.331917+00:00
 
 
 # Alabama
@@ -840,6 +840,7 @@ id: ca-losangeles-12
 * https://v.redd.it/9aiytt50g6251/DASH_1080#mp4
 * https://old.reddit.com/r/PublicFreakout/comments/gu8mqp/police_drives_into_protestors_in_los_angeles/
 * https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/
+* https://www.tiktok.com/@youarelwl/video/6833135548887043334
 
 
 ### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
