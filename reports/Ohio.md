@@ -584,6 +584,7 @@ id: oh-columbus-23
 * https://www.instagram.com/tv/CCAZGCWjqG1
 * vm.tiktok.com/ZMJBcq7Kn/
 
+
 ## Dayton
 
 ### Police fire multiple cans of tear gas at protesters | May 30th
