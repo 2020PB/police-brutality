@@ -582,7 +582,7 @@ id: oh-columbus-23
 
 * https://twitter.com/greg_doucette/status/1277660155354796033
 * https://www.instagram.com/tv/CCAZGCWjqG1
-
+* vm.tiktok.com/ZMJBcq7Kn/
 
 ## Dayton
 
