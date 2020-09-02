@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-01T06:15:13.331917+00:00
+UPDATED AT: 2020-09-02T16:04:16.327829+00:00
 
 
 # Alabama
@@ -8010,6 +8010,7 @@ id: oh-columbus-23
 
 * https://twitter.com/greg_doucette/status/1277660155354796033
 * https://www.instagram.com/tv/CCAZGCWjqG1
+* vm.tiktok.com/ZMJBcq7Kn/
 
 
 ## Dayton
