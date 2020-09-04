@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-04T16:25:00.760298+00:00
+UPDATED AT: 2020-09-04T16:25:06.246444+00:00
 
 
 # Alabama
@@ -15122,6 +15122,22 @@ id: va-richmond-22
 * https://twitter.com/JLJLovesRVA/status/1296646952608763904
 * https://twitter.com/JLJLovesRVA/status/1296636703977996289
 * https://twitter.com/JLJLovesRVA/status/1296700265102483457
+
+
+### Police tackle and arrest cyclist | September 1st
+
+A cyclist is seen riding away from the demonstration. Footage shows that he appears to be moving on to the grass. An officer in an unmarked vehicle then gets out of the car, chases the cyclist down then violently tackles and arrests him.
+
+Additional footage shows that police then make several more arrests though the reasoning for them is unclear.
+
+tags: protester, tackle, arrest
+
+id: va-richmond-23
+
+**Links**
+
+* https://twitter.com/broadcastben_/status/1300932708634427392
+* https://twitter.com/tormaid/status/1300959166937395201
 
 
 
