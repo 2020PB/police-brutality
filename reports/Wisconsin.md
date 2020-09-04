@@ -85,6 +85,19 @@ id: wi-kenosha-4
 * https://twitter.com/blackzebrapro/status/1298652286261039106
 
 
+### Police arrest journalist for 'disorderly conduct' | August 31st
+
+A journalist is being walked away from a scene by a police officer. She tells the officer not to touch her and says, "I'm walking, you don't need to touch me. At this point, you're just showing all of us how little your dick is." The officer then arrests her for disorderly conduct.
+
+tags: journalist, arrest, abuse-of-power
+
+id: wi-kenosha-6
+
+**Links**
+
+* https://twitter.com/r2020PB/status/1300777629268795393
+
+
 ### Documentarian pepper sprayed by police | September 1st
 
 A woman is seen filming protests. She gets into an altercation with an officer. The officer grabs her, then she shoves him away. The officer then pepper sprays her. She stated in an interview afterward that an officer grabbed her breast, so she pushed away; the officer then sprayed her.
