@@ -5217,6 +5217,45 @@ id: or-portland-342
 * https://twitter.com/BrayanMorgan6/status/1300331465146851329
 
 
+### Police rush protesters | August 31st
+
+Police charge protesters without warning, shoving several to the ground. One officer grabs a protester's belongings, throwing and kicking them away.
+
+tags: protester, push, shove, property-destruction
+
+id: or-portland-343
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1300677826945847296
+
+
+### Officer tackles and punches protester | August 31st
+
+An officer runs ahead of the police line and violently tackles a protester. He then proceeds to punch the protester multiple times in the head and neck area.
+
+tags: protester, tackle, punch
+
+id: or-portland-344
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1300685679291109376
+
+
+### Police arrest member of the press | August 31st
+
+An officer points out and targets a woman who appears to be a member of the press. The officer says “You’re not press. You’re under arrest.” The woman responds, “You ripped off my press pass!” they respond. “No you’re not,” the officer says. The woman is the pulled away in what seems to be an arrest.
+
+tags: journalist, arrest
+
+id: or-portland-345
+
+**Links**
+
+* https://twitter.com/catalinagaitan_/status/1300700100981792768
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
