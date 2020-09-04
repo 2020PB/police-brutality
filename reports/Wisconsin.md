@@ -85,6 +85,20 @@ id: wi-kenosha-4
 * https://twitter.com/blackzebrapro/status/1298652286261039106
 
 
+### Documentarian pepper sprayed by police | September 1st
+
+A woman is seen filming protests. She gets into an altercation with an officer. The officer grabs her, then she shoves him away. The officer then pepper sprays her. She stated in an interview afterward that an officer grabbed her breast, so she pushed away; the officer then sprayed her.
+
+tags: journalist, pepper-spray, spray
+
+id: wi-kenosha-5
+
+**Links**
+
+* https://twitter.com/NickAtNews/status/1300911702373019650
+* https://twitter.com/NickAtNews/status/1300913839345672194
+
+
 ## Madison
 
 ### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
