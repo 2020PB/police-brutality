@@ -1533,6 +1533,56 @@ id: ny-rochester-1
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
 
+### Journalist shot in head | September 3rd
+
+A journalist filming protests in Rochester, New York was shot in the head by an impact munition, believed to be a pepper ball.
+
+tags: journalist, shoot, projectile, pepper-ball
+
+id: ny-rochester-2
+
+**Links**
+
+* https://twitter.com/tyee23/status/1301723839190179840
+* https://twitter.com/tyee23/status/1301724881609003015
+
+
+### Police shoot impact munitions at protesters | September 3rd
+
+Protesters can be seen milling about on the side of the road. Impact munition rounds can then be heard. One protester then runs up to a barricade, is shot repeatedly, and runs away. No justification for the burst of fire is clear.
+
+The munitions are believed to be rubber bullets and/or pepper balls.
+
+tags: protester, journalist, shoot, projectile, rubber-bullet, pepper-ball
+
+id: ny-rochester-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1301729199703707649
+* https://twitter.com/zdroberts/status/1301724257349767169
+* https://twitter.com/SarahMaslinNir/status/1301709916802031616
+* https://twitter.com/SarahMaslinNir/status/1301709280052211714
+
+
+### Police declare unlawful assembly, shoot pepper balls and tear gas | September 4th
+
+After declaring an unlawful assembly and firing pepper balls for some time, Rochester PD tear gassed protesters. Protesters responded with fireworks.
+
+tags: protester, tear-gas, shoot, projectile, pepper-ball
+
+id: ny-rochester-4
+
+**Links**
+
+* https://twitter.com/cheeksv/status/1302098876837629952
+* https://twitter.com/GinoFanelli/status/1302078000964526080
+* https://twitter.com/ScooterCasterNY/status/1302077254772699136
+* https://twitter.com/ScooterCasterNY/status/1302097588188045316
+* https://twitter.com/AFreemanNews/status/1302096856114225157
+* https://twitter.com/the_other_aoc_/status/1302114962417082368
+
+
 ## Saratoga Springs
 
 ### Police shoot at and arrest Black Lives Matter protesters | July 30th
