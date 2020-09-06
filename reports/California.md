@@ -894,6 +894,26 @@ id: ca-losangeles-50
 * https://www.instagram.com/p/CEY5r64AEip/
 
 
+### LA Sheriffs fire impact munitions at protesters | September 5th
+
+LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk. The LASD allegedly never declared an unlawful assembly.
+
+tags: protester, shoot, projectile, stun-grenade, foam-bullet, pepper-ball
+
+id: ca-losangeles-51
+
+**Links**
+
+* https://twitter.com/PplsCityCouncil/status/1302457503125389313
+* https://twitter.com/PplsCityCouncil/status/1302452861876408320
+* https://twitter.com/cogeian/status/1302452302339387392
+* https://twitter.com/cogeian/status/1302451901221335040
+* https://twitter.com/bfeinzimer/status/1302453111152279552
+* https://twitter.com/waterspider__/status/1302452882562662400
+* https://twitter.com/waterspider__/status/1302454947317907456
+* https://clips.twitch.tv/GeniusPrettyPartridgeHeyGirl
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
