@@ -898,7 +898,7 @@ id: ca-losangeles-50
 
 LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk. The LASD allegedly never declared an unlawful assembly.
 
-tags: protester, shoot, projectile, rubber-ball, stun-grrenade, foam-bullet, pepper-ball
+tags: protester, shoot, projectile, stun-grenade, foam-bullet, pepper-ball
 
 id: ca-losangeles-51
 
