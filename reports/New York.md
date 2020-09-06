@@ -1583,6 +1583,39 @@ id: ny-rochester-4
 * https://twitter.com/the_other_aoc_/status/1302114962417082368
 
 
+### Police deploy tear gas and impact munitions | September 5th
+
+Police and protesters are on opposite sides of a metal barricade. Police pepper spray protesters and fire impact munitions without clear justification. Police appear to have deployed tear gas and stun grenades as well.
+
+During the incident, a photojournalist was shot with impact munitions.
+
+tags: protester, tear-gas, journalist, projectile
+
+id: ny-rochester-5
+
+**Links**
+
+* https://twitter.com/AFriendlyDad/status/1302433343036780544
+* https://twitter.com/AFriendlyDad/status/1302433622499053568
+* https://twitter.com/AFriendlyDad/status/1302434123164733441
+* https://twitter.com/zdroberts/status/1302487315042967553
+* https://twitter.com/zdroberts/status/1302579915976564737
+
+
+### Police deploy impact munitions and use sound cannon | September 5th
+
+After an initial push, protesters begin to take the streets again. Police fire impact munitions and tear gas at them and deploy the LRAD dispersal function.
+
+tags: protester, tear-gas, lrad, projectile
+
+id: ny-rochester-6
+
+**Links**
+
+* https://twitter.com/AFriendlyDad/status/1302444567157907457
+* https://twitter.com/msantiagophotos/status/1302436634881916933
+
+
 ## Saratoga Springs
 
 ### Police shoot at and arrest Black Lives Matter protesters | July 30th
