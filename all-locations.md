@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-06T04:59:05.961094+00:00
+UPDATED AT: 2020-09-06T17:14:10.312293+00:00
 
 
 # Alabama
@@ -16114,6 +16114,22 @@ id: wa-seattle-62
 * [Livestream; events at 5:30, 6:00, 7:20, 8:00](https://www.facebook.com/WWConverge/videos/355310738820842/)
 * [Additional footage of Omari pepper sprayed](https://twitter.com/TheBageler7/status/1298884403746099205)
 * [Additional footage of charge](https://twitter.com/TheBageler7/status/1299003806928105480)
+
+
+### Police drag protester from car | September 24th
+
+Protesters on foot and in vehicles blocked an interstate for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
+
+tags: protester, grab, arrest, abuse-of-power
+
+id: wa-seattle-63
+
+**Links**
+
+* https://twitter.com/gramsofgnats/status/1301935234099814400
+* https://twitter.com/gramsofgnats/status/1301943130904649729
+* https://twitter.com/gramsofgnats/status/1301945336391368704
+* https://www.thestranger.com/slog/2020/09/04/44418202/nine-marchers-arrested-after-shutting-down-i-5
 
 
 
