@@ -934,3 +934,4 @@ id: wa-seattle-63
 * https://twitter.com/gramsofgnats/status/1301943130904649729
 * https://twitter.com/gramsofgnats/status/1301945336391368704
 * https://www.thestranger.com/slog/2020/09/04/44418202/nine-marchers-arrested-after-shutting-down-i-5
+
