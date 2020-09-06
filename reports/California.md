@@ -894,7 +894,7 @@ id: ca-losangeles-50
 * https://www.instagram.com/p/CEY5r64AEip/
 
 
-## LA Sheriffs fire impact munitions at protesters | September 5th
+### LA Sheriffs fire impact munitions at protesters | September 5th
 
 LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk. The LASD allegedly never declared an unlawful assembly.
 
