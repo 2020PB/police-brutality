@@ -5259,6 +5259,38 @@ id: or-portland-345
 * https://twitter.com/catalinagaitan_/status/1300700100981792768
 
 
+### Police make violent arrests | September 4th
+
+Police make a series of violent arrests after declaring an unlawful assembly. One protester was seen bleeding from the face while being arrested.
+
+tags: protester, arrest, push, shove, tackle
+
+id: or-portland-346
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1302139053865799680
+* https://twitter.com/1misanthrophile/status/1302146863512997894
+* https://twitter.com/MrOlmos/status/1302152344033873920
+* https://twitter.com/MrOlmos/status/1302159468495429633
+* https://twitter.com/KohzKah/status/1302150499714478081
+* https://twitter.com/KohzKah/status/1302136913873178624
+* https://twitter.com/MrOlmos/status/1302164398639783936
+
+
+### Police fire on protesters | September 4th
+
+While police advance against protesters and make arrests, an officers aims a riot gun at protesters and shoots repeatedly. The protesters did not appear to be acting aggressively.
+
+tags: protester, shoot, projectile
+
+id: or-portland-347
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1302144388718501888
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
