@@ -325,7 +325,7 @@ id: tx-dallas-4
 * https://twitter.com/chadloder/status/1267261398481920000
 
 
-### Police use flashbangs and tear gas on protesters | May 31st
+### Police use flashbangs and tear gas on protesters | May 30th
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
@@ -338,7 +338,8 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
-* https://twitter.com/calvinwatkins
+* https://twitter.com/calvinwatkins/status/1266860555597500416
+* https://www.tiktok.com/@sabby817/video/6833141380798221573
 
 
 ### Police fire rubber bullet on peaceful protester | June 1st
