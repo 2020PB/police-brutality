@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-06T21:28:16.312501+00:00
+UPDATED AT: 2020-09-07T14:46:40.733590+00:00
 
 
 # Alabama
@@ -13522,6 +13522,78 @@ id: or-portland-347
 **Links**
 
 * https://twitter.com/MrOlmos/status/1302144388718501888
+
+
+### Police charge protesters, knocking member of press to the ground | September 5th
+
+After declaring an unlawful assembly, police charge protesters to disperse them. One journalist was caught in the charge and thrown to the ground.
+
+tags: journalist, shove, push
+
+id: or-portland-348
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1302528127504007168
+* https://twitter.com/MrOlmos/status/1302492995585884161
+
+
+### Officer tackles protester | September 5th
+
+During another charge after declaring unlawful assembly, an officer tackles a protester to the ground. The protester is slammed face first into the pavement.
+
+tags: protester, tackle
+
+id: or-portland-349
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1302489836972945408
+
+
+### Police escalate vandalism with tear gas | September 5th
+
+After protesters build barricades in the street and light small trash fires, police escalate by deploying tear gas and charging protesters. Some petrol bombs had been thrown into the barricades (not at police)
+by protesters earlier in the night, but this event comes about half an hour later. Police munitions set off a Prius' alarm system and appeared to light a fire on the hood.
+
+tags: protester, tear-gas, property-destruction
+
+id: or-portland-350
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1302466743554600961
+* https://twitter.com/PDocumentarians/status/1302473694376161280
+* https://twitter.com/hungrybowtie/status/1302473217236328448
+* https://twitter.com/hungrybowtie/status/1302475604126654464
+* https://twitter.com/IwriteOK/status/1302471377530703872
+* https://twitter.com/AndrewJank/status/1302465163325399042
+
+
+### Journalist shoved by police | September 5th
+
+A photojournalist documenting an arrest is shoved to the ground by police.
+
+tags: journalist, push, shove
+
+id: or-portland-351
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1302141026329456640
+
+
+### Police punch a detained protester repeatedly | September 5th
+
+A journalist captured mass arrests made by police during a protest on September 5th. During these arrests, two officers pinned down a protester, and one punched the protester repeatedly in order to subdue them.
+
+tags: protester, arrest, punch
+
+id: or-portland-352
+
+**Links**
+
+* https://twitter.com/IwriteOK/status/1302487729339416581
 
 
 ## Salem
