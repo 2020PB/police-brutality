@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-07T14:46:40.733590+00:00
+UPDATED AT: 2020-09-07T14:55:16.486478+00:00
 
 
 # Alabama
@@ -964,6 +964,7 @@ id: ca-losangeles-19
 * https://www.reddit.com/r/LosAngeles/comments/gxi8b2/how_is_noone_talking_about_this_women_from/
 * https://abc7.com/uclas-jackie-robinson-stadium-used-as-field-jail-during-protests-/6229078/
 * https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
+* https://www.tiktok.com/@manicxmel/video/6833292986214894853
 
 
 ### Police arrest protesters en masse and detain them in poor conditions | June 2nd
