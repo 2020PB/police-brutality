@@ -919,7 +919,7 @@ id: ca-losangeles-51
 
 Police fire impact munitions (believed to be pepper balls), stun grenades and tear gas at protesters without provocation. Police then continue to fire on protesters as they retreat.
 
-At least one journalist was shot during the incident. The last link shows an image of a protesters injuries after being hit with the less lethal munitions. 
+At least one journalist was shot during the incident. The last link shows an image of a protesters injuries after being hit with the less lethal munitions.
 
 tags: pepper-ball, stun-grenade, tear-gas, protester, journalist
 
