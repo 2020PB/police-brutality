@@ -1,10 +1,10 @@
 ## Waterbury
 
-### Police tackle and detain 6 protestors | May 31st
+### Police tackle and detain 6 protesters | May 31st
 
 Waterbury police detain at least 6 people at an assembly at the intersection of Wolcott St. and Long Hill Rd., apparently for blocking the road. Police had warned protesters several times that if they remained on Wolcott St., they would be arrested. Police tackle multiple protesters, including one (who one post claims is 15 years old) who is thrown to the ground and pinned down for an extended period, with one officer kneeling on him, in what appears to be excessive force. A dog is present, but apparently not used. Waterbury authorities say no property was damaged during the protest. Arrested protesters were not charged.
 
-tags: arrest, knee, tackle
+tags: arrest, knee, tackle, protester
 
 id: ct-waterbury-2
 
@@ -28,11 +28,12 @@ id: ct-waterbury-2
 
 A group of people are protesting outside Waterbury police headquarters around 5:30PM. Police are lined up blocking the roadway; they warn protesters to clear the roadway. Police declare the assembly unlawful, apparently in response to the protesters standing in the roadway. Police again warn protesters to clear the roadway, and say that anyone in the roadway will be arrested. A woman steps out into the street, walking slowly across holding a sign. Police tell her to get out of the roadway; she continues across to the other side. Police move forward and arrest numerous protesters, several of whom do not appear to have been in the roadway to begin with. Several protesters are forced to the ground, including one who is slammed against a police car (see second link). Later in the same incident (around 6:30 in the first link), police aggressively and without apparent reason arrest another protester. An LRAD is mentioned, but apparently not deployed. Waterbury authorities say no property was damaged during the protest. Arrested protesters were not charged. (Note: this is a different incident from ct-waterbury-2 -- see street view.)
 
-tags: abuse-of-power, arrest, tackle
+tags: abuse-of-power, arrest, tackle, protester
 
 id: ct-waterbury-3
 
 **Links**
+
 * [Most comprehensive video](https://www.facebook.com/lisha.watson/videos/vb.1314669862/10222859537459698/?type=2&video_source=user_video_tab)
 * https://twitter.com/Calibud_Art/status/1268274760250777600
 * https://twitter.com/IM22134/status/1268232740513755143
@@ -48,7 +49,7 @@ id: ct-waterbury-3
 
 Officer forces woman into cop car and wrestles with another woman on her phone.
 
-tags: arrest, shove, push
+tags: arrest, shove, push, protester
 
 id: ct-waterbury-1
 
@@ -57,5 +58,4 @@ id: ct-waterbury-1
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
 * https://www.facebook.com/1810145782/videos/10213301759497738/
 * [Coverage in conservative-leaning local paper](https://www.rep-am.com/local/localnews/2020/06/04/video-shows-a-waterbury-police-officer-shoving-woman-into-cruiser-during-an-arrest/)
-
 

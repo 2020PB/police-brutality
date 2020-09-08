@@ -1,10 +1,10 @@
 ## Detroit
 
-### Officer charges through other officers to attack a protestor who is backing away | May 29th
+### Officer charges through other officers to attack a protester who is backing away | May 29th
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
-tags: tackle, punch
+tags: tackle, punch, protester
 
 id: mi-detroit-4
 
@@ -13,11 +13,11 @@ id: mi-detroit-4
 * https://twitter.com/joeguillen/status/1266563974658744321
 
 
-### Riot police charge peaceful protestors | May 29th
+### Riot police charge peaceful protesters | May 29th
 
-Riot police charge peaceful protestors without warning. The filming protestor and numerous others are beaten with riot shields.
+Riot police charge peaceful protesters without warning. The filming protester and numerous others are beaten with riot shields.
 
-tags: tackle, shield, beat
+tags: tackle, shield, beat, protester
 
 id: mi-detroit-5
 
@@ -30,7 +30,7 @@ id: mi-detroit-5
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
-tags: threaten, shove
+tags: threaten, shove, protester
 
 id: mi-detroit-1
 
@@ -59,7 +59,7 @@ id: mi-detroit-2
 
 Police tear-gassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
 
-tags: journalist, tear-gas, rubber-bullets, shoot
+tags: journalist, tear-gas, rubber-bullet, shoot
 
 id: mi-detroit-3
 
@@ -70,9 +70,9 @@ id: mi-detroit-3
 
 ### Woman is charged by police and thrown to the ground | May 30th
 
-Police charge protestors. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
+Police charge protesters. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
 
-tags: throw, punch, knee, arrest
+tags: throw, punch, knee, arrest, protester
 
 id: mi-detroit-6
 
@@ -81,15 +81,32 @@ id: mi-detroit-6
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 
-### Police charge protestors and press | June 2nd
+### Reporter detained without apparent cause | May 31st
 
-Police line is seen using shields to push back a small group of protestors. The filmer, a reporter, moves around to the other side of the protestors. At this point, the footage captures another group of police officers charging the protestors from behind without warning. 
+Footage shows a reporter walking across a park to film an arrest. She is approached by an officer (off camera) who asks who she is with. He then zip-ties her and walks her to another location. Around 4:20, she is released. An individual explaining (not seen, but has the same voice as the arresting officer) says, "You were hanging out with those two people. It looked like they were throwing bottles at us. Do us a favor and trip them when they're running or something to make it easier on us."
+
+Footage from another reporter shows her handcuffed and led to the car. This reporter states that a group of press intervened to have her released.
+
+tags: journalist, zip-tie
+
+id: mi-detroit-11
+
+**Links**
+
+* https://www.facebook.com/DetroitNews/videos/855231228320197/
+* https://twitter.com/MKurlyandchik/status/1267269219789529090
+* https://pressfreedomtracker.us/all-incidents/detroit-news-journalist-captures-her-own-detention-livestream/
+
+
+### Police charge protesters and press | June 2nd
+
+Police line is seen using shields to push back a small group of protesters. The filmer, a reporter, moves around to the other side of the protesters. At this point, the footage captures another group of police officers charging the protesters from behind without warning.
 
 The footage becomes blurry as it appears that police strike the reporter, who repeatedly states, "I am press," and is standing alongside several camera crews.
 
 The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted.
 
-tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-destruction
+tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-destruction, protester
 
 id: mi-detroit-7
 
@@ -99,15 +116,15 @@ id: mi-detroit-7
 * https://twitter.com/MCmuckraker/status/1268011179986870273
 
 
-### Police use LRAD (sound cannon) to disperse protestors | June 2nd
+### Police use LRAD (sound cannon) to disperse protesters | June 2nd
 
-Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm. 
+Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm.
 
 The use of LRADs is a subject of much contention, with frequent reports of permanent nerve and hearing damage caused by their use.
 
-The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests. 
+The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests.
 
-tags: lrad
+tags: lrad, protester
 
 id: mi-detroit-8
 
@@ -116,13 +133,73 @@ id: mi-detroit-8
 * https://twitter.com/MedvisJackson/status/1267984069905784832
 
 
+### Police run over protesters | June 28th
+
+A police cruiser begins to drive into a line of protesters. Protesters continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protester onto the hood, and drives away.
+
+tags: vehicle, protester
+
+id: mi-detroit-9
+
+**Links**
+
+* https://twitter.com/DJEazyTwist/status/1277430912653950976
+
+
+### Riot police officer chokes protester. Tear gas was also used. | July 11th
+
+A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protesters were dispersed using shields and batons. Protesters retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
+
+tags: tear-gas, protester, shield, baton, arrest, choke, tear-gas, tear-gas-canister
+
+id: mi-detroit-10
+
+**Links**
+
+* https://twitter.com/AttorneyCrump/status/1282107085812047873
+* https://www.instagram.com/p/CCfSTAnjv_k/
+
+
+### Police tear gas protesters | August 22nd
+
+Police and protesters faced off at a protest in Detroit, Michigan around midnight on August 22nd. Police deployed gas grenades, believed to be tear gas, and marched towards protesters. Police then struck protesters with batons and shields, arresting several.
+
+tags: protester, tear-gas, strike, baton, shield, arrest
+
+id: mi-detroit-12
+
+**Links**
+
+* https://twitter.com/Kayleighmw/status/1297410211049811968
+* https://twitter.com/Kayleighmw/status/1297410211049811968
+* https://twitter.com/YoDCox/status/1297398241617760257
+* https://twitter.com/MCmuckraker/status/1297856193176776705
+* https://twitter.com/Kitty_Garrison/status/1297586120503496705
+* https://twitter.com/ohnoitslydia/status/1297396456593264640
+* https://twitter.com/ohnoitslydia/status/1297396456593264640
+* https://twitter.com/ohnoitslydia/status/1297399986120949765
+
+
+### Police officer tackles protester | (Believed to be) August 22nd
+
+While police push protesters down the street, several can be seen milling about further back on the sidewalk. An officer breaks from the line and charges at a protester, tackling them from behind.
+
+tags: protester, tackle
+
+id: mi-detroit-13
+
+**Links**
+
+* https://twitter.com/MCmuckraker/status/1298315127326900230
+
+
 ## Grand Rapids
 
 ### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
 
 A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a tear-gas canister is shot by a different officer directly into the man's head.
 
-tags: spray, shoot, pepper-spray, tear-gas, tear-gas-canister
+tags: spray, shoot, pepper-spray, tear-gas, tear-gas-canister, protester
 
 id: mi-grandrapids-1
 
@@ -140,7 +217,7 @@ Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
 Footage shows police have hidden badge numbers and are not wearing body cams.
 
-tags: shove, push, shields, hide-badges, body-cams
+tags: shove, push, shield, hide-badge, body-cam, protester
 
 id: mi-grandrapids-2
 
@@ -149,13 +226,33 @@ id: mi-grandrapids-2
 * https://twitter.com/DJR2C2/status/1267006669583720448
 * https://twitter.com/sparrowsongs_/status/1266948928966139904
 
+
+### Police assault peaceful protesters, among them Breonna Taylor's family members | July 12th
+
+City of Grand Rapids Police Department officers seen pushing, pulling, and shoving peaceful protesters, as they circle around an officer arresting a man.
+
+The arresting officer appears to force the man to his knees before the other officers finish encircling and view of the man is lost.
+
+Two different women, each in different videos, are shown falling or fallen over as a result of the shoving and pulling.
+
+tags: shove, push, arrest, protester
+
+id: mi-grandrapids-3
+
+**Links**
+
+* https://twitter.com/OfficAlyNicole/status/1283181085577420810
+* https://twitter.com/greg_doucette/status/1283027373018013699
+* https://twitter.com/greg_doucette/status/1283027125805735939
+
+
 ## Kalamazoo
 
 ### Police fire tear gas at prone protesters | June 1st
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
-tags: shoot, pepper-ball, tear-gas, tear-gas-canister
+tags: shoot, pepper-ball, tear-gas, tear-gas-canister, protester
 
 id: mi-kalamazoo-1
 
@@ -170,13 +267,42 @@ id: mi-kalamazoo-1
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 
-tags: tear-gas, arrest
+tags: tear-gas, arrest, protester
 
 id: mi-kalamazoo-2
 
 **Links**
 
-* WOODTV8 live crew: https://streamable.com/xvlky1
-* Kalamazoo Gazette via Facebook Live: https://streamable.com/0wfiu3
-* MLive article: https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html
-* IBB image backup of Asst. Chief and City Manager kneeling: https://ibb.co/Fgrwqkj
+* [WOODTV8 live crew](https://streamable.com/xvlky1)
+* [Kalamazoo Gazette via Facebook Live](https://streamable.com/0wfiu3)
+* [MLive article](https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html)
+* [IBB image backup of Asst. Chief and City Manager kneeling](https://ibb.co/Fgrwqkj)
+
+
+### Reporter covering Proud Boys arrested | August 15th
+
+A journalist with MLive was covering a Proud Boys rally on August 15th. Footage shows him arrested while standing in the street. He states he was charged with impeding traffic.
+
+tags: journalist, arrest
+
+id: mi-kalamazoo-3
+
+**Links**
+
+* https://twitter.com/Phil_Lewis_/status/1294732715221286913
+* https://twitter.com/samueljrob/status/1294741751425568771
+* https://twitter.com/PolarBarrett/status/1294742239499911170
+
+
+### Police charge, pepper spray, and tackle protesters | August 15th
+
+Police charge at protesters, pepper spraying indiscriminately. One protester is also tackled to the ground.
+
+tags: protester, tackle, pepper-spray, spray
+
+id: mi-kalamazoo-4
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/iaki6j/police_charge_antifascist_protestors_today_in/
+
