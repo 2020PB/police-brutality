@@ -942,7 +942,7 @@ Protesters gathered outside the Seattle Police Officers Guild. Police rode their
 
 Police allegedly used pepper spray and stun grenades while making 22 arrests.
 
-tags: protester, bike, arrest, stun-grenade, pepper-spray, shove, push
+tags: protester, bike, arrest, stun-grenade, pepper-spray, shove, push, spray
 
 id: wa-seattle-64
 
