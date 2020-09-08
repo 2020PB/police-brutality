@@ -4,9 +4,6 @@ on:
   pull_request:
     branches: [ master ]
 
-  pull_request_target:
-    types: [assigned, unassigned, labeled, unlabeled, opened, edited, closed, reopened, synchronize, ready_for_review, locked, unlocked, review_requested, review_request_removed]
-
 jobs:
   build:
     runs-on: ubuntu-latest
