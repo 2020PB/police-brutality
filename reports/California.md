@@ -935,7 +935,11 @@ id: ca-losangeles-52
 * https://twitter.com/VenturaReport/status/1303208091673010176
 * https://twitter.com/VenturaReport/status/1303205326615789568
 * https://twitter.com/VenturaReport/status/1303211258376716288
+* https://twitter.com/VenturaReport/status/1303389344749682688
 * https://twitter.com/itsa_talia/status/1303396046840700928
+* https://twitter.com/UnrigLA/status/1303214747718877186
+* https://twitter.com/jintakhan/status/1303266851502223360
+* https://twitter.com/jintakhan/status/1303422157578412033
 
 
 ## Norco
