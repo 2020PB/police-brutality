@@ -122,3 +122,4 @@ id: az-tempe-2
 * https://twitter.com/azfamily/status/1287983623971508224
 * https://www.azfamily.com/news/demonstrators-clash-with-police-during-protests-in-tempe/article_0a2cf712-d080-11ea-b06d-634862a713a1.html
 * https://twitter.com/greg_doucette/status/1288139434878279685
+
