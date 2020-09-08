@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-07T14:57:40.122578+00:00
+UPDATED AT: 2020-09-08T17:44:35.750096+00:00
 
 
 # Alabama
@@ -12,7 +12,9 @@ UPDATED AT: 2020-09-07T14:57:40.122578+00:00
 
 Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety.
 
-tags: arrest, journalist
+Two employees of Alabama Media Group were restrained using zip ties.
+
+tags: arrest, journalist, zip-tie
 
 id: al-birmingham-1
 
@@ -188,7 +190,7 @@ On May 31, police forced protesters who were out after curfew into the Garfield 
 
 Several other residents of the Garfield neighborhood have complained of police behavior that night, including one who says she passed out in her yard due to a tear-gas-induced asthma attack and awoke to find an officer handcuffing her.
 
-tags: arrest, tackle, tear-gas, bystander
+tags: arrest, tackle, tear-gas, bystander, zip-tie
 
 id: az-phoenix-3
 
@@ -199,6 +201,7 @@ id: az-phoenix-3
 * [Mass arrests starting at around 1:03:00 probably, but not definitely, in the Garfield neighborhood](https://www.facebook.com/ABC15/videos/789994464864154/?v=789994464864154)
 * [Similar complaints from Reddit](https://www.reddit.com/r/phoenix/comments/gvdjhw/garfield_neighborhood_was_terrorized_sunday_may_31/)
 * [Additional news report](https://www.azcentral.com/story/news/local/phoenix/2020/06/01/residents-phoenix-garfield-neighborhood-say-police-not-protesters-were-problem-protest/5312347002/)
+* [MSN Report with HiRes Photos](https://www.msn.com/en-us/news/crime/phoenix-crowds-protest-deaths-of-george-floyd-dion-johnson/ss-BB14SxJ4?parent-title=more-than-200-arrested-by-phoenix-police-during-protests-on-sunday-night&parent-ns=ar&parent-content-id=BB14Taoq&fullscreen=true#image=BB14SxJ4|9)
 
 
 ### Protests at Trump rally met with pepper spray | June 23rd
