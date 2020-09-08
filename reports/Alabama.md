@@ -4,9 +4,11 @@
 
 Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety.
 
+Two employees of Alabama Media Group were restrained using zip ties.
+
 tags: arrest, journalist
 
-id: al-birmingham-1
+id: al-birmingham-1, zip-tie
 
 **Links**
 
@@ -123,4 +125,3 @@ id: al-huntsville-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gyo2fh/huntsville_al_woman_documents_herself_struggling/
-
