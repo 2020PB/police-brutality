@@ -1,9 +1,6 @@
 name: Validate Data
 
 on:
-  pull_request:
-    branches: [ master ]
-
   pull_request_target:
     types: [assigned, unassigned, labeled, unlabeled, opened, edited, closed, reopened, synchronize, ready_for_review, locked, unlocked, review_requested, review_request_removed]
 
@@ -15,23 +12,16 @@ jobs:
     # `git push` would fail on `fatal: You are not currently on a branch` if `ref` was
     # not specified here.
     # Inspired by: https://peterevans.dev/posts/github-actions-how-to-automate-code-formatting-in-pull-requests/
-    # - uses: actions/checkout@v2
-    #   with:
-    #     ref: ${{ github.head_ref }}
-    #     token: ${{ secrets.PB2020_SECRET_TOKEN }}
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+        token: ${{ secrets.UBERSHMEKEL_ALT_TOKEN }}
 
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
       with:
         # Semantic version range syntax or exact version of a Python version
         python-version: '3.x'
-
-    - name: test
-      run: |
-        git clone github.com/${{ github.repository }}
-        cd ${{ github.repository }}
-        git checkout #{{ github.head_ref }}
-
 
     - name: Install dependencies
       run: |
@@ -53,7 +43,7 @@ jobs:
         git add reports
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git remote set-url origin https://x-access-token:${{ secrets.PB2020_SECRET_TOKEN }}@github.com/${{ github.repository }}
+        git remote set-url origin https://x-access-token:${{ secrets.UBERSHMEKEL_ALT_TOKEN }}@github.com/${{ github.repository }}
         git commit -m "Automated data fixes" -a | exit 0
         git push
 
