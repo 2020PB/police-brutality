@@ -49,7 +49,7 @@ On May 31, police forced protesters who were out after curfew into the Garfield 
 
 Several other residents of the Garfield neighborhood have complained of police behavior that night, including one who says she passed out in her yard due to a tear-gas-induced asthma attack and awoke to find an officer handcuffing her.
 
-tags: arrest, tackle, tear-gas, bystander
+tags: arrest, tackle, tear-gas, bystander, zip-tie
 
 id: az-phoenix-3
 
@@ -60,6 +60,7 @@ id: az-phoenix-3
 * [Mass arrests starting at around 1:03:00 probably, but not definitely, in the Garfield neighborhood](https://www.facebook.com/ABC15/videos/789994464864154/?v=789994464864154)
 * [Similar complaints from Reddit](https://www.reddit.com/r/phoenix/comments/gvdjhw/garfield_neighborhood_was_terrorized_sunday_may_31/)
 * [Additional news report](https://www.azcentral.com/story/news/local/phoenix/2020/06/01/residents-phoenix-garfield-neighborhood-say-police-not-protesters-were-problem-protest/5312347002/)
+* [MSN Report with HiRes Photos](https://www.msn.com/en-us/news/crime/phoenix-crowds-protest-deaths-of-george-floyd-dion-johnson/ss-BB14SxJ4?parent-title=more-than-200-arrested-by-phoenix-police-during-protests-on-sunday-night&parent-ns=ar&parent-content-id=BB14Taoq&fullscreen=true#image=BB14SxJ4|9)
 
 
 ### Protests at Trump rally met with pepper spray | June 23rd
