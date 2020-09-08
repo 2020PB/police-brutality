@@ -935,3 +935,20 @@ id: wa-seattle-63
 * https://twitter.com/gramsofgnats/status/1301945336391368704
 * https://www.thestranger.com/slog/2020/09/04/44418202/nine-marchers-arrested-after-shutting-down-i-5
 
+
+### Police use bikes to ride into and shove protesters | September 7th
+
+Protesters gathered outside the Seattle Police Officers Guild. Police rode their bikes into protesters, then used their bikes to shove protesters back. No provocation on the part of protesters can be seen.
+
+Police allegedly used pepper spray and stun grenades while making 22 arrests.
+
+tags: protester, bike, arrest, stun-grenade, pepper-spray, shove, push
+
+id: wa-seattle-64
+
+**Links**
+
+* https://twitter.com/okrrrralexa/status/1303161305704980480
+* https://twitter.com/okrrrralexa/status/1303174622976729089
+* https://twitter.com/KatieDaviscourt/status/1303143732519165952
+
