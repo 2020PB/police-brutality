@@ -151,14 +151,15 @@ Only add incidents which are related to the 2020 George Floyd protests. While al
 
 Only add incidents which have clear evidence of police abuse of power or excessive force. Do not post anything based on rumors and do not post manipulated or out of context information.
 Eye-witness accounts for documented events are allowed, as are eye-witness accounts in the absence of video evidence, but only from reputable sources such as congresspeople or reporters from major outlets.
-If you're unsure whether an incident meets these criteria check out [this page](./docs/content-guideline-edge-cases.md) which lists some edge cases and the decisions that were made for those.
 
-**3. Use objective language.**
-    - No "cop beats protester with clear disregard for his humanity" or "pig shoots at person with contempt".
-    - No language supporting or denigrating police or activists.
+For a more detailed discussion of incident inclusion criteria and edge cases, see [this page](./docs/incident-criteria.md).
 
-Let police actions speak for themselves; use unbiased descriptions to explain what happened with as much detail as possible and using unemotional language.
-Pretend that you're an AI telling a human exactly what the evidence shows and that you'll have your AWS budget reduced if your algorithm is faulty.
+**3. Present a neutral account of events.**
+  - Use objective language.
+  - Provide full context for all events.
+  - Avoid dehumanizing protestors and police alike
+
+See [here](./docs/neutrality.md) for additional clarification on neutral, objective presentation.
 
 **4. Use correct location & date.**
   - Place the incident report under the correct city's section in the file for the correct state.
@@ -205,7 +206,7 @@ Use the following format for all incident reports.
 ```
 // State.md
 
-## City
+## City Name (Note: Exclude this, if city section is already available)
 
 ### Brief description of a thing that happened | Date
 
@@ -219,7 +220,7 @@ created a github repository on June 1st 2020 to compile evidence of police bruta
 and concerned citizens. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
-tags: vehicle, celebrity, death (ex: check below)
+tags: vehicle, celebrity, death (ex: check the link to tags below)
 
 id: state_abbreviation-city-number (ex: ca-losangeles-1)
 
@@ -227,6 +228,7 @@ id: state_abbreviation-city-number (ex: ca-losangeles-1)
 
 * https://github.com/2020PB/police-brutality
 * https://www.reddit.com/r/2020PoliceBrutality
+* [Link description can also be provided inside square brackets. ex: 'Video of the incident taken from building'](https://link-to-video-on-web/)
 ```
 
 Check the current list of [tags](docs/possible_tags.md)

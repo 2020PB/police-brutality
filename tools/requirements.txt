@@ -2,3 +2,4 @@ python-dateutil==2.8.1
 six==1.15.0
 pytest==5.4
 pytest-cov==2.9.0
+nltk==3.4.5

@@ -43,10 +43,10 @@ jobs:
         pytest
         cd ..
 
-    - name: Run python script
+    - name: Create json csv md files
       run: python tools/data_builder.py
-      
-    # Deploy to local repo
+
+    # Deploy data to local repo
     - name: Deploy
       uses: s0/git-publish-subdir-action@master
       env:
@@ -54,4 +54,3 @@ jobs:
         BRANCH: data_build
         FOLDER: tools/data_build
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

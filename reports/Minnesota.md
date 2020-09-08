@@ -1,7 +1,5 @@
 ## Minneapolis
 
-#### Please note: These are all believed to be from Minneapolis, if not please contact the moderator immediately
-
 ### Police hit press in neck and head with wooden baton | May 26th
 
 A group of cops start to approach a group of press taking photos and video. One press member repeats "we have our hands up and we have press passes". An officer walking by points in the direction of a photographer and says something indiscernable. The camera pans to show a cop hitting the photographer in the neck and head with a wooden baton.
@@ -15,11 +13,12 @@ id: mn-minneapolis-21
 * https://youtu.be/XAa5xb6JitI?t=5982
 * https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
 
+
 ### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | May 26th
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
 
-tags: abuse-of-power, arrest
+tags: abuse-of-power, arrest, protester
 
 id: mn-minneapolis-28
 
@@ -27,11 +26,12 @@ id: mn-minneapolis-28
 
 * https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/
 
+
 ### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-tags: flashbangs, rubber-bullets, tear-gas
+tags: stun-grenade, rubber-bullet, tear-gas, protester
 
 id: mn-minneapolis-14
 
@@ -61,7 +61,7 @@ id: mn-minneapolis-1
 
 The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
 
-tags: shoot, rubber-bullets, tear-gas
+tags: shoot, rubber-bullet, tear-gas, bystander
 
 id: mn-minneapolis-20
 
@@ -72,9 +72,9 @@ id: mn-minneapolis-20
 
 ### Police drive by spraying | May 30th
 
-While sitting in their cars, the policemen proceed to pepper spray the protestors in a drive-by fashion
+While sitting in their cars, the policemen proceed to pepper spray the protesters in a drive-by fashion
 
-tags: drive, vehicle, pepper-spray, spray
+tags: drive, vehicle, pepper-spray, spray, protester
 
 id: mn-minneapolis-3
 
@@ -117,7 +117,7 @@ id: mn-minneapolis-5
 
 CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
 
-tags: journalist, rubber-bullets, tear-gas, shoot
+tags: journalist, rubber-bullet, tear-gas, shoot
 
 id: mn-minneapolis-15
 
@@ -130,7 +130,7 @@ id: mn-minneapolis-15
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
-tags: journalist, rubber-bullets, shoot
+tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-16
 
@@ -142,7 +142,7 @@ id: mn-minneapolis-16
 
 ### Camera man shot by police | May 30th
 
-Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS. 
+Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS.
 
 tags: journalist, shoot
 
@@ -152,9 +152,12 @@ id: mn-minneapolis-27
 
 * https://twitter.com/brianstelter/status/1266910826797113347
 
+
 ### CBS crew fired upon by police. | May 30th
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
+
+tags: 
 
 id: mn-minneapolis-23
 
@@ -163,7 +166,6 @@ id: mn-minneapolis-23
 * https://twitter.com/MikeGeorgeCBS/status/1267087091122528256
 * https://twitter.com/MikeGeorgeCBS/status/1266919447970942986
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
-
 
 
 ### Medics talk about police destroying tent and slashing tires. | May 30th
@@ -180,11 +182,12 @@ id: mn-minneapolis-25
 
 * https://www.youtube.com/watch?v=gfb_zJiMTFU
 
+
 ### Law enforcement officers slash car tires. | May 30th
 
-Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St. 
+Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St.
 
-tags: abuse-of-power, property-destruction.
+tags: abuse-of-power, property-destruction
 
 id: mn-minneapolis-29
 
@@ -198,7 +201,7 @@ id: mn-minneapolis-29
 
 In an attempt to move residents inside, the police fire shots at them.
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, bystander
 
 id: mn-minneapolis-2
 
@@ -207,11 +210,11 @@ id: mn-minneapolis-2
 * https://twitter.com/tkerssen/status/1266921821653385225
 
 
-### LA-Times employee recounts getting shot | May 31st
+### LA Times employee recounts getting shot | May 31st
 
 The woman proceeds to tell the story of what she faced while trying to get footage.
 
-tags: shoot, tear-gas
+tags: shoot, tear-gas, journalist
 
 id: mn-minneapolis-6
 
@@ -226,7 +229,7 @@ id: mn-minneapolis-6
 
 Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger window with a marker round, and that he was cut by shards of glass. Videos show his face and arm bloodied, the passenger window of his car shattered, and glass spread over the floorboard and carseats. He says that he was driving away from a roadblock at the time.
 
-tags: marking-round, property-destruction, shoot
+tags: marking-round, property-destruction, shoot, journalist
 
 id: mn-minneapolis-7
 
@@ -261,7 +264,7 @@ id: mn-minneapolis-8
 
 While filming, Mike George's CBS news crew is shot with rubber bullets.
 
-tags: journalist, rubber-bullets, shoot
+tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-9
 
@@ -275,7 +278,7 @@ id: mn-minneapolis-9
 
 MSNBC reporters are with a crowd of people walking away from an advancing line of police. Police throw some sort of explosive device at the crowd, almost hitting the reporters. It is unclear what their purpose is in using the explosive
 
-tags: journalist, flashbangs, explosive, projectile
+tags: journalist, stun-grenade, explosive, projectile
 
 id: mn-minneapolis-10
 
@@ -327,11 +330,11 @@ id: mn-minneapolis-13
 * https://www.youtube.com/watch?v=NN8ISwuiX68
 
 
-### Police stop SUV to driveby pepper-spray protesters through window | May 31st
+### Police stop SUV to drive-by pepper-spray protesters through window | May 31st
 
-Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
+Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
-tags: vehicle, drive, spray, pepper-spray
+tags: vehicle, drive, spray, pepper-spray, protester
 
 id: mn-minneapolis-17
 
@@ -340,7 +343,7 @@ id: mn-minneapolis-17
 * https://twitter.com/keycodez/status/1267235529311113216/video/1
 
 
-### Patient care assistant reports being shot with rubber bullets while treating injured protestors | May 31st
+### Patient care assistant reports being shot with rubber bullets while treating injured protesters | May 31st
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
@@ -357,7 +360,7 @@ id: mn-minneapolis-18
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
 
-tags: journalist, pepper-spray, batons, beat, tear-gas, shoot, projectiles, spray
+tags: journalist, pepper-spray, baton, beat, tear-gas, shoot, projectile, spray
 
 id: mn-minneapolis-19
 
@@ -366,3 +369,43 @@ id: mn-minneapolis-19
 * https://twitter.com/edouphoto/status/1267958349477249024
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
+
+
+### Woman kicked in head | Date Unknown
+
+Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
+
+tags: kick, protester
+
+id: mn-minneapolis-30
+
+**Links**
+
+* https://www.tiktok.com/@montygeer/video/6840314007954509062
+
+
+### Officer pepper sprays protester | August 26th
+
+A protester and an officer exchange words at close distance. The officer then pepper sprays the protester.
+
+tags: protester, pepper-spray, spray
+
+id: mn-minneapolis-31
+
+**Links**
+
+* https://twitter.com/EvryDayEvryWay/status/1298794226033938432
+
+
+### Officer shoots at fleeing protester | August 26th
+
+A protester says something to an officer in Minneapolis. The officer says, "What was that? You're becoming a problem." The protester runs away and the officer fires his riot gun at the protester.
+
+tags: protester, shoot, projectile
+
+id: mn-minneapolis-32
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1298835525479014400
+
