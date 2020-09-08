@@ -12,10 +12,10 @@ jobs:
     # `git push` would fail on `fatal: You are not currently on a branch` if `ref` was
     # not specified here.
     # Inspired by: https://peterevans.dev/posts/github-actions-how-to-automate-code-formatting-in-pull-requests/
-    - uses: actions/checkout@v2
-      with:
-        ref: ${{ github.head_ref }}
-        token: ${{ secrets.PB2020_SECRET_TOKEN }}
+    # - uses: actions/checkout@v2
+    #   with:
+    #     ref: ${{ github.head_ref }}
+    #     token: ${{ secrets.PB2020_SECRET_TOKEN }}
 
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
