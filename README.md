@@ -1,6 +1,12 @@
 
 # Police Brutality During the 2020 George Floyd Protests
 
+## Important Note on Branches
+
+On September 15th at 3 PM EDT, the primary branch will be switched from `master` to `main`.
+
+Most tools will use the `data_build` branch, which will not be affected by the change.
+
 ---
 
 **New to GitHub? Just want to report an incident?**
