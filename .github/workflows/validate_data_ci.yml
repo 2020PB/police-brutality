@@ -1,7 +1,9 @@
 name: Validate Data
 
 on:
-  pull_request_target
+  pull_request_target:
+    branches: [ master ]
+    types: [opened, reopened, sychronized]
 
 jobs:
   build:
