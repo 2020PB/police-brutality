@@ -26,6 +26,13 @@ jobs:
         # Semantic version range syntax or exact version of a Python version
         python-version: '3.x'
 
+    - name: test
+      run: |
+        git clone github.com/${{ github.repository }}
+        cd ${{ github.repository }}
+        git checkout #{{ github.head_ref }}
+
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
