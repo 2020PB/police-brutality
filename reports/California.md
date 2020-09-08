@@ -915,6 +915,29 @@ id: ca-losangeles-51
 * https://clips.twitch.tv/GeniusPrettyPartridgeHeyGirl
 
 
+### LA Sheriffs deploy less lethals at peaceful protesters | September 7th
+
+Police fire impact munitions (believed to be pepper balls), stun grenades and tear gas at protesters without provocation. Police then continue to fire on protesters as they retreat.
+
+At least one journalist was shot during the incident. The last link shows an image of a protesters injuries after being hit with the less lethal munitions.
+
+tags: pepper-ball, stun-grenade, tear-gas, protester, journalist, shoot, projectile
+
+id: ca-losangeles-52
+
+**Links**
+
+* https://twitter.com/desertborder/status/1303197878169382912
+* https://twitter.com/desertborder/status/1303199667971215362
+* https://twitter.com/desertborder/status/1303199962432299008
+* https://twitter.com/VenturaReport/status/1303206541240066048
+* https://twitter.com/VenturaReport/status/1303205807589224448
+* https://twitter.com/VenturaReport/status/1303208091673010176
+* https://twitter.com/VenturaReport/status/1303205326615789568
+* https://twitter.com/VenturaReport/status/1303211258376716288
+* https://twitter.com/itsa_talia/status/1303396046840700928
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
