@@ -2,7 +2,6 @@ name: Validate Data
 
 on:
   pull_request_target:
-    branches: [ master ]
     types: [assigned, unassigned, labeled, unlabeled, opened, edited, closed, reopened, synchronize, ready_for_review, locked, unlocked, review_requested, review_request_removed]
 
 jobs:
