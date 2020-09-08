@@ -6,7 +6,7 @@ Police arrested two AL.com journalists covering a protest at 7:35 on June 3. The
 
 Two employees of Alabama Media Group were restrained using zip ties.
 
-tags: arrest, journalist, zip-tie
+tags: arrest, journalist, zip-ties, abc
 
 id: al-birmingham-1
 
