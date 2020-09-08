@@ -915,13 +915,13 @@ id: ca-losangeles-51
 * https://clips.twitch.tv/GeniusPrettyPartridgeHeyGirl
 
 
-### LA Sheriff's deploy less lethals at peaceful protesters | September 7th 
+### LA Sheriff's deploy less lethals at peaceful protesters | September 7th
 
 Police fire impact munitions (believed to be pepper balls), stun grenades and tear gas at protesters without provocation. Police then continue to fire on protesters as they retreat.
 
 At least one journalist was shot during the incident.
 
-tags: pepper-balls, stun-grenades, tear-gas, protester, journalist
+tags: pepper-ball, stun-grenade, tear-gas, protester, journalist
 
 id: ca-losangeles-52
 
