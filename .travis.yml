@@ -1,0 +1,11 @@
+stages:
+  - build_data
+
+install:
+  - scripts/install
+
+jobs:
+  include:
+    - stage: Build_data
+      python: 3.7
+      if: branch = master
