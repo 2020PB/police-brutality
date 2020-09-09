@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-09T15:45:34.921261+00:00
+UPDATED AT: 2020-09-09T17:09:43.710502+00:00
 
 
 # Alabama
@@ -13625,6 +13625,50 @@ id: or-portland-352
 **Links**
 
 * https://twitter.com/IwriteOK/status/1302487729339416581
+
+
+### Police pepper spray protester after they are restrained | September 8th
+
+Two officers restrain a protester. A third officer lifts the protesters head by his hair pepper sprays the him in the face.
+
+tags: protester, arrest, pepper-spray, spray
+
+id: or-portland-353
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1303567759532371968
+
+
+### Police tackle and arrest houseless individual | September 8th
+
+Police tackle and arrest a houseless individual by a protest. The charges are unclear. However, the man has a seizure during the arrest and is taken away on a stretcher. Police shove press away from the scene.
+
+tags: homeless, tackle, arrest
+
+id: or-portland-354
+
+**Links**
+
+* https://twitter.com/NDpendentPDX/status/1303608685302693888
+* https://twitter.com/hungrybowtie/status/1303610618188935169
+* https://twitter.com/hungrybowtie/status/1303611726395367424
+* https://twitter.com/hungrybowtie/status/1303613735039193088
+* https://twitter.com/hungrybowtie/status/1303614468883013632
+
+
+### Police violently shove protester | September 8th
+
+Police shove an individual standing on the sidewalk. No justification is evident.
+
+tags: protester, shove, push
+
+id: or-portland-355
+
+**Links**
+
+* https://clips.twitch.tv/embed?clip=LightHilariousEyeballPlanking
+* https://twitter.com/greg_doucette/status/1303708876295024643
 
 
 ## Salem
