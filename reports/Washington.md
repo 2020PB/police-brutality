@@ -920,7 +920,7 @@ id: wa-seattle-62
 * [Additional footage of charge](https://twitter.com/TheBageler7/status/1299003806928105480)
 
 
-### Police drag protester from car | September 24th
+### Police drag protester from car | September 4th
 
 Protesters on foot and in vehicles blocked an interstate for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
 
