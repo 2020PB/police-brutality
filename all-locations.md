@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-09T17:09:43.710502+00:00
+UPDATED AT: 2020-09-09T19:47:16.638861+00:00
 
 
 # Alabama
@@ -1274,6 +1274,23 @@ id: ca-losangeles-52
 * https://twitter.com/desertborder/status/1303210505658494977
 * https://twitter.com/jintakhan/status/1303266851502223360
 * https://twitter.com/jintakhan/status/1303422157578412033
+
+
+### Police deploy tear gas and impact munitions against protesters | September 8th
+
+Protesters gathered in the street in Los Angeles on September 8th. Police approached in a line, flanking an armored vehicle. Police then charged protesters without warning and fired impact munitions (both rubber bullets and pepper balls) and stun grenades for several minutes. Several bystander cars were struck by munitions.
+
+tags: protester, bystander, property-destruction, shoot, projectile, pepper-ball, rubber-bullet, stun-grenade
+
+id: ca-losangeles-53
+
+**Links**
+
+* https://twitter.com/SamBraslow/status/1303563878039658497
+* https://twitter.com/chrismatography/status/1303567876360527872
+* https://twitter.com/bfeinzimer/status/1303573309041201157
+* [3:20](https://www.instagram.com/p/CE5pz8Tnlir/)
+* [36:00-42:00; filmer then shows recovered rubber bullet at 55:00](https://www.instagram.com/p/CE5rJzPpZKP/)
 
 
 ## Norco
