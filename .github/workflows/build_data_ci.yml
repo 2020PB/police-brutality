@@ -3,16 +3,16 @@
 name: Build Data
 
 # Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# events but only for the main branch
 on:
   push:
-    branches: [ master, main ]
+    branches: [ main ]
   # Pausing the build on pull_request because it seems these cause a duplicate build which can fail.
   # I added this event because it seemed sometimes `push` was not causing a build.
   # So I'm leaving these comments until it's verified that `push` alone is good.
   #pull_request:
   #  types: [ closed ]
-  #  branches: [ master ]
+  #  branches: [ main ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

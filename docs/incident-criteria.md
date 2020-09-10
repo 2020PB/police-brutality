@@ -12,7 +12,7 @@ These criteria are as follows:
     * While protests are, of course, occurring wordlwide, both in solidarity with BLM and for other reasons, the focus is currently on U.S. incidents.
 1. Incident shows clear police brutality or abuse of power.
     * See [Categories](#Categories) below for additional info.
-1. No incidents of looters, except in cases of clear excessive force (see [ca-vallejo-1](https://github.com/2020PB/police-brutality/blob/master/reports/California.md#police-fatally-shoot-unarmed-22-year-old--june-1st))
+1. No incidents of looters, except in cases of clear excessive force (see [ca-vallejo-1](https://github.com/2020PB/police-brutality/blob/main/reports/California.md#police-fatally-shoot-unarmed-22-year-old--june-1st))
 1. Direct visual evidence is required.
     * See [No Direct Visual Evidence](#No-direct-visual-evidence) for edge cases
 
@@ -60,11 +60,11 @@ Note: non-protest and non-us incidents are being stored for review. They may be 
 Abuses of power include, but are not limited to:
 
 1. Removal of body cams and/or hiding badges.
-1. Racial profiling (e.g. arresting black protestors while allowing white protestors leniency. See [nd-fargo-1](https://github.com/2020PB/police-brutality/blob/master/reports/Ohio.md#man-struck-by-counter-protestor-while-police-look-on--june-14th)).
-1. Selectively enforcing laws (e.g. counter-protestors striking protestors without police intervention. See [oh-bethel-1](https://github.com/2020PB/police-brutality/blob/master/reports/Ohio.md#man-struck-by-counter-protestor-while-police-look-on--june-14th))
+1. Racial profiling (e.g. arresting black protestors while allowing white protestors leniency. See [nd-fargo-1](https://github.com/2020PB/police-brutality/blob/main/reports/Ohio.md#man-struck-by-counter-protestor-while-police-look-on--june-14th)).
+1. Selectively enforcing laws (e.g. counter-protestors striking protestors without police intervention. See [oh-bethel-1](https://github.com/2020PB/police-brutality/blob/main/reports/Ohio.md#man-struck-by-counter-protestor-while-police-look-on--june-14th))
 1. Agitation and incitement (see [Agitation and incitement](#Agitation-and-incitement))
-1. Police arresting protestors for protected free speech (see [ga-valdosta-1](https://github.com/2020PB/police-brutality/blob/master/reports/Georgia.md#sheriff-scuffles-with-protestor-over-fck-trump-sign--june-3rd))
-1. Inhumane treatment, especially as part of a protected class (see [ca-losangeles-32](https://github.com/2020PB/police-brutality/blob/master/reports/California.md#police-arrest-protesters-en-masse-and-detain-them-in-poor-conditions--june-2nd) and [oh-cincinnati-4](https://github.com/2020PB/police-brutality/blob/master/reports/Ohio.md#officer-refuses-to-give-diabetic-arrestee-her-insulin-back--june-2nd))
+1. Police arresting protestors for protected free speech (see [ga-valdosta-1](https://github.com/2020PB/police-brutality/blob/main/reports/Georgia.md#sheriff-scuffles-with-protestor-over-fck-trump-sign--june-3rd))
+1. Inhumane treatment, especially as part of a protected class (see [ca-losangeles-32](https://github.com/2020PB/police-brutality/blob/main/reports/California.md#police-arrest-protesters-en-masse-and-detain-them-in-poor-conditions--june-2nd) and [oh-cincinnati-4](https://github.com/2020PB/police-brutality/blob/main/reports/Ohio.md#officer-refuses-to-give-diabetic-arrestee-her-insulin-back--june-2nd))
 1. Destruction of property, particularly medical supplies.
 
 ## Edge Cases
@@ -77,7 +77,7 @@ The boundary between police brutality, abuse of power, and other issues with the
 
 #### Decision
 
-These incidents are generally excluded, unless accompanied by a use of force (see: [fl-ftlauderdale-3](https://github.com/2020PB/police-brutality/blob/master/reports/Florida.md#police-laugh-and-joke-when-they-think-their-body-cams-are-off--may-31st))
+These incidents are generally excluded, unless accompanied by a use of force (see: [fl-ftlauderdale-3](https://github.com/2020PB/police-brutality/blob/main/reports/Florida.md#police-laugh-and-joke-when-they-think-their-body-cams-are-off--may-31st))
 
 
 ### Selective enforcement, abuse of power, not necessarily excessive force
@@ -110,7 +110,7 @@ These incidents are less clear. The preference is to include these non-visual as
 
 Indirect submissions are acceptable in some cases:
 1. Multiple reporters or verified persons (politicians, celebrities, etc) recount the same or similar events.
-1. Submissions are accompanied by direct evidence as part of a broader incident (see: [ca-losangeles-19](https://github.com/2020PB/police-brutality/blob/master/reports/California.md#police-arrest-protesters-en-masse-and-detain-them-in-poor-conditions--june-1st))
+1. Submissions are accompanied by direct evidence as part of a broader incident (see: [ca-losangeles-19](https://github.com/2020PB/police-brutality/blob/main/reports/California.md#police-arrest-protesters-en-masse-and-detain-them-in-poor-conditions--june-1st))
 1. Eyewitness accounts are provided by reputable sources (news outlets, legal aid groups, etc).
 
 
