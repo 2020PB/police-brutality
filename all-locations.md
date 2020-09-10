@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-10T17:21:50.341368+00:00
+UPDATED AT: 2020-09-10T21:03:02.146352+00:00
 
 
 # Alabama
@@ -16397,6 +16397,19 @@ id: wa-seattle-64
 * https://twitter.com/okrrrralexa/status/1303161305704980480
 * https://twitter.com/okrrrralexa/status/1303174622976729089
 * https://twitter.com/KatieDaviscourt/status/1303143732519165952
+
+
+### Police officer shoves protester | September 7th
+
+Protesters are seen arguing with police in the street. One protester approaches police then runs away as police converge. Another protester stands in the way and is shoved to the ground.
+
+tags: protester, push, shove
+
+id: wa-seattle-65
+
+**Links**
+
+* https://twitter.com/RegretaGarbo/status/1303194153132519424
 
 
 
