@@ -1600,6 +1600,7 @@ id: ny-rochester-5
 * https://twitter.com/AFriendlyDad/status/1302434123164733441
 * https://twitter.com/zdroberts/status/1302487315042967553
 * https://twitter.com/zdroberts/status/1302579915976564737
+* https://twitter.com/itsmdnt/status/1304094959407165442
 
 
 ### Police deploy impact munitions and use sound cannon | September 5th
