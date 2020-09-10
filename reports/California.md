@@ -959,6 +959,21 @@ id: ca-losangeles-53
 * [36:00-42:00; filmer then shows recovered rubber bullet at 55:00](https://www.instagram.com/p/CE5rJzPpZKP/)
 
 
+### Livestreamer tackled off bike and arrested | September 8th
+
+An independent journalist, AlienAlphabet, was livestreaming as they biked away from a protest. The livestream shows the journalist knocked off their bike. Police yell for them to get on the ground. Police then arrest the journalist.
+
+tags: journalist, tackle, arrest
+
+id: ca-losangeles-54
+
+**Links**
+
+* https://twitter.com/ClippingFor/status/1303586283504058368
+* [Livestream; 34:00](https://www.youtube.com/watch?v=t3iFkuOWpYY)
+* [Article about protests that day](https://www.foxla.com/news/a-dozen-protesters-arrested-at-south-los-angeles-demonstration-in-memory-of-dijon-kizzee)
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
