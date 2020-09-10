@@ -952,3 +952,15 @@ id: wa-seattle-64
 * https://twitter.com/okrrrralexa/status/1303174622976729089
 * https://twitter.com/KatieDaviscourt/status/1303143732519165952
 
+
+### Police officer shoves protester | September 7th
+
+Protesters are seen arguing with police in the street. One protester approaches police then runs away as police converge. Another protester stands in the way and is shoved to the ground.
+
+tags: protester, push, shove
+
+id: wa-seattle-65
+
+**Links**
+
+* https://twitter.com/RegretaGarbo/status/1303194153132519424
