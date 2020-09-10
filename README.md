@@ -7,7 +7,7 @@ As of September 15th at 3 PM EDT, the default branch is `main`.
 
 Most tools will use the `data_build` branch, which will not be affected by the change.
 
-The `master` branch will be deleted on September 22nd at 3 PM EDT.
+The `master` branch will continue to be synced on push to `main` for the foreseeable future.
 
 ---
 
