@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-10T21:40:12.290078+00:00
+UPDATED AT: 2020-09-11T13:02:59.841674+00:00
 
 
 # Alabama
@@ -13617,6 +13617,7 @@ id: or-portland-350
 * https://twitter.com/hungrybowtie/status/1302475604126654464
 * https://twitter.com/IwriteOK/status/1302471377530703872
 * https://twitter.com/AndrewJank/status/1302465163325399042
+* https://twitter.com/BaghdadBrian/status/1302464110676729857
 
 
 ### Journalist shoved by police | September 5th
