@@ -971,7 +971,6 @@ id: ca-losangeles-54
 
 * https://twitter.com/ClippingFor/status/1303586283504058368
 * [Livestream; 34:00](https://www.youtube.com/watch?v=t3iFkuOWpYY)
-* [Article about protests that day](https://www.foxla.com/news/a-dozen-protesters-arrested-at-south-los-angeles-demonstration-in-memory-of-dijon-kizzee)
 
 
 ## Norco
