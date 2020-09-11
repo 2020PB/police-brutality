@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-11T13:02:59.841674+00:00
+UPDATED AT: 2020-09-11T13:19:06.848661+00:00
 
 
 # Alabama
@@ -1291,6 +1291,20 @@ id: ca-losangeles-53
 * https://twitter.com/bfeinzimer/status/1303573309041201157
 * [3:20](https://www.instagram.com/p/CE5pz8Tnlir/)
 * [36:00-42:00; filmer then shows recovered rubber bullet at 55:00](https://www.instagram.com/p/CE5rJzPpZKP/)
+
+
+### Livestreamer tackled off bike and arrested | September 8th
+
+An independent journalist, AlienAlphabet, was livestreaming as they biked away from a protest. The livestream shows the journalist knocked off their bike. Police yell for them to get on the ground. Police then arrest the journalist.
+
+tags: journalist, tackle, arrest
+
+id: ca-losangeles-54
+
+**Links**
+
+* https://twitter.com/ClippingFor/status/1303586283504058368
+* [Livestream; 34:00](https://www.youtube.com/watch?v=t3iFkuOWpYY)
 
 
 ## Norco
