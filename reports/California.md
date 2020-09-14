@@ -1007,6 +1007,9 @@ id: ca-losangeles-56
 
 * [7:40](https://streamable.com/0z69lw#)
 * https://twitter.com/itsa_talia/status/1305336981069594624
+* https://www.reddit.com/r/2020PoliceBrutality/comments/isqbcw/an_unarmed_member_of_the_press_was_dragged/
+* https://www.tiktok.com/@sunflower_haze_/video/6872014053036854533
+* https://www.tiktok.com/@sunflower_haze_/video/6872019962655984902
 
 
 ## Norco
