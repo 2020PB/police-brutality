@@ -1616,6 +1616,7 @@ id: ny-rochester-5
 * https://twitter.com/zdroberts/status/1302487315042967553
 * https://twitter.com/zdroberts/status/1302579915976564737
 * https://twitter.com/itsmdnt/status/1304094959407165442
+* [Article about protester injuries](https://www.democratandchronicle.com/story/news/2020/09/11/how-many-injuries-protesters-sept-5-2020-rochester-ny/3466996001/)
 
 
 ### Police deploy impact munitions and use sound cannon | September 5th
