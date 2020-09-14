@@ -995,6 +995,20 @@ id: ca-losangeles-55
 * https://twitter.com/josie_huang/status/1305265782352310273
 
 
+### Police charge protesters without warning, make violent arrest | September 13th
+
+Footage shows a standoff between protesters and police. Police tape divides the two groups. Additional officers approach the line, then charge across at protesters without warning. One protester, Sean, is seen thrown to the ground and arrested with his hands held behind his back. Sean labels himself a "protest observer;" while not officially press, he focuses on filming protests, rather than participating. He can be heard screaming in pain during the arrest. He allegedly waited 20 minutes in handcuffs for EMS to arrive.
+
+tags: protester, arrest
+
+id: ca-losangeles-56
+
+**Links**
+
+* [7:40](https://streamable.com/0z69lw#)
+* https://twitter.com/itsa_talia/status/1305336981069594624
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
