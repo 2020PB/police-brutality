@@ -1522,7 +1522,7 @@ id: ny-newyorkcity-100
 
 At a protest outside the 34th precinct, police stood off with protesters. Protesters were giving speeches. Police then decided to make arrests for standing in the street. Pushing and shoving ensued. Footage shows a protester grab an arrestee. Another officer then grabs the protester by the back and throws them to the ground, allegedly breaking their arm.
 
-tags: push, shove, protester,
+tags: push, shove, protester
 
 id: ny-newyorkcity-102
 
