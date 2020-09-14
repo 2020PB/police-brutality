@@ -1636,7 +1636,7 @@ id: ny-rochester-6
 
 Multiple riot police officers in Rochester are seen with their badges covered.
 
-tags: hide-badge
+tags: hide-badge, abuse-of-power
 
 id: ny-rochester-7
 
