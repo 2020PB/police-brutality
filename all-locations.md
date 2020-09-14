@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-14T19:26:33.703919+00:00
+UPDATED AT: 2020-09-14T20:16:32.946821+00:00
 
 
 # Alabama
@@ -7225,6 +7225,19 @@ id: ny-rochester-7
 * https://twitter.com/DjKellex/status/1304994435709763587
 * https://twitter.com/DjKellex/status/1304994659836612608
 * https://twitter.com/DjKellex/status/1304994886647795712
+
+
+### LRAD deployed against protesters | September 12th
+
+At protests on September 12th, police deployed the LRAD dispersal function in an attempt to clear protesters.
+
+tags: protester, lrad
+
+id: ny-rochester-8
+
+**Links**
+
+* https://twitter.com/adriawalkr/status/1304976173366235137?s=20
 
 
 ## Saratoga Springs
