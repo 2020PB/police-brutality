@@ -1518,6 +1518,21 @@ id: ny-newyorkcity-100
 * https://www.ny1.com/nyc/all-boroughs/news/2020/07/29/video-shows-protester-being-pulled-into-unmarked-van-by-nypd
 
 
+### Police shove protester | September 12th
+
+At a protest outside the 34th precinct, police stood off with protesters. Protesters were giving speeches. Police then decided to make arrests for standing in the street. Pushing and shoving ensued. Footage shows a protester grab an arrestee. Another officer then grabs the protester by the back and throws them to the ground, allegedly breaking their arm.
+
+tags: push, shove, protester,
+
+id: ny-newyorkcity-101
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1304958501580689408
+* https://twitter.com/KimmyB_the1/status/1305034907681517568
+* https://twitter.com/KimmyB_the1/status/1305043196423147520
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
@@ -1615,6 +1630,21 @@ id: ny-rochester-6
 
 * https://twitter.com/AFriendlyDad/status/1302444567157907457
 * https://twitter.com/msantiagophotos/status/1302436634881916933
+
+
+### Officers cover badges | September 12th
+
+Multiple riot police officers in Rochester are seen with their badges covered.
+
+tags: hide-badge
+
+id: ny-rochester-7
+
+**Links**
+
+* https://twitter.com/DjKellex/status/1304994435709763587
+* https://twitter.com/DjKellex/status/1304994659836612608
+* https://twitter.com/DjKellex/status/1304994886647795712
 
 
 ## Saratoga Springs
