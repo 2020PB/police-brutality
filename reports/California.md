@@ -973,6 +973,28 @@ id: ca-losangeles-54
 * [Livestream; 34:00](https://www.youtube.com/watch?v=t3iFkuOWpYY)
 
 
+### Reporter arrested during protests | September 12th
+
+Reporter Josie Huang was covering the shooting of 2 LASD officers and a small ensuing protest in LA when she was arrested for "obstruction of justice;" Huang states she was simply documenting an arrest. In addition, officers claim she was not properly identified, but footage shows a LASD-issued press pass around her neck.
+
+Huang was released early on September 13th. Footage Huang uploaded following her release shows officers shoving her and knocking her phone to the ground. Officers then step on and kick the phone while Huang can be heard stating that officers are hurting her.
+
+tags: journalist, arrest, property-destruction
+
+id: ca-losangeles-55
+
+**Links**
+
+* https://twitter.com/TheChalkOutline/status/1305030195066236928
+* https://twitter.com/StoltzeFrankly/status/1305041338803523586
+* https://twitter.com/busblog/status/1305079558861848576
+* https://laist.com/latest/post/20200913/80222d039da6e2435bed1e10df36e367457cd4af
+* https://twitter.com/Terrence_STR/status/1305142121767276544
+* https://twitter.com/josie_huang/status/1305111565285253122
+* https://twitter.com/josie_huang/status/1305265081144410112
+* https://twitter.com/josie_huang/status/1305265782352310273
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
