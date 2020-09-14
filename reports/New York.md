@@ -1648,6 +1648,19 @@ id: ny-rochester-7
 * https://twitter.com/DjKellex/status/1304994886647795712
 
 
+### LRAD deployed against protesters | September 12th
+
+At protests on September 12th, police deployed the LRAD dispersal function in an attempt to clear protesters.
+
+tags: protester, lrad
+
+id: ny-rochester-8
+
+**Links**
+
+* https://twitter.com/adriawalkr/status/1304976173366235137?s=20
+
+
 ## Saratoga Springs
 
 ### Police shoot at and arrest Black Lives Matter protesters | July 30th
