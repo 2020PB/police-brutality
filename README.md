@@ -17,6 +17,8 @@ The `master` branch will no longer be updated. Please update forks off of `maste
 👉🏿 **[Report it here!](https://github.com/2020PB/police-brutality/issues/new?assignees=&labels=Incident+report&template=incident-report.md&title=Incident+in+CITY%2C+STATE)** 👈🏻<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👆🏼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+Want to report an incident, but don't have a Github account? Send it [here](https://docs.google.com/forms/d/e/1FAIpQLSd33kN_1HqXCc6SSiL2-b1_IkMouM-rIyCbLsQrGpFN4amcAA/viewform)
+
 For more information on contributing to this repository please consult the [contribution guidelines](./CONTRIBUTING.md).
 
 ---
