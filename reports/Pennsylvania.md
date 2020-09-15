@@ -16,6 +16,22 @@ id: pa-erie-1
 * [Article on the event from PAPost](https://papost.org/2020/05/31/erie-woman-who-was-kicked-by-police-officer-saysi-was-100-percent-peaceful/)
 
 
+## Lancaster
+
+Following a police shooting in Lancaster, protesters gathered in the streets, forming makeshift barricades. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
+
+tags: protesters, tear-gas
+
+id: pa-lancaster-1
+
+**Links**
+
+* https://twitter.com/CarterLNP/status/1305366066588274688
+* https://twitter.com/CarterLNP/status/1305363288184758272
+* https://twitter.com/CarterLNP/status/1305365596951973889
+* https://twitter.com/CarterLNP/status/1305392469857701889
+* https://twitter.com/worldofjeremiah/status/1305401461862522881
+
 ## Harrisburg
 
 ### Police pepperspray protesters helping someone stand up | May 30th
