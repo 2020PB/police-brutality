@@ -29,13 +29,6 @@ jobs:
         pip install -r tools/requirements.txt
         python -c "import nltk; nltk.download('wordnet')"
 
-    - name: Run unit tests with pytest
-      run: |
-        cd tools
-        pytest
-        cd ..
-
-
     - name: Rewrite data, generate ids, commit
       run: |
         echo github_ref: ${{ github.ref }}

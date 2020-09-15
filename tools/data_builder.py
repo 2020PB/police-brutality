@@ -34,28 +34,28 @@ url_regex = re.compile(
 )
 
 
-def title_to_name_date(line):
-    parts = line.split("|")
-    name = parts[0].strip()
-    if len(parts) == 1:
-        print(f"Failed date parse: missing date for {line}")
-        return line.strip(), "", ""
-    if len(name) == 0:
-        print(f"Failed name parse: missing name for {line}")
-    date_text = parts[1].strip()
-
-    try:
-        date_found = date_regex.search(date_text).group()
-        date = parse(date_found).strftime("%Y-%m-%d")
-    except (ValueError, AttributeError) as err:
-        print(f"Failed date format parse for title '{name}' and date '{date_text}': {err}")
-        date = ""
-    return name, date, date_text
-
-
 def critical_exit(msg):
     print(f"---CRITICAL FAILURE {msg}")
     exit(2)
+
+
+def title_to_name_date(line):
+    parts = line.split("|")
+    if len(parts) != 2:
+        raise ValueError(f"Failed title_to_name_date. Expected 2 parts, separated by '|'. Got: {line}")
+
+    name = parts[0].strip()
+    if len(name) == 0:
+        raise ValueError(f"Failed name parse: missing name for {line}")
+
+    date_text = parts[1].strip()
+
+    if date_text in ("Date Unknown", "Unknown Date"):
+        return name, "", "Unknown Date"
+
+    date_found = date_regex.search(date_text).group()
+    date = parse(date_found).strftime("%Y-%m-%d")
+    return name, date, date_text
 
 
 def read_all_md_files(base_dir):
@@ -104,9 +104,11 @@ def find_md_link_or_url(text):
         elif state == closed_sq:
             if ch == "(":
                 state = open_curve
+            else:
+                text_text += ch
         elif state == open_curve:
             if ch == ")":
-                state == closed_curve
+                state = closed_curve
             else:
                 link_url += ch
         elif state == closed_curve:
@@ -209,7 +211,7 @@ def parse_state(state, text):
     if entry and entry["links"]:
         yield finalize_entry(entry)
     else:
-        print(f"Failed links parse: missing links for {entry}")
+        raise ValueError(f"Failed links parse: missing links for {entry}")
 
 
 def process_md_texts(md_texts):
