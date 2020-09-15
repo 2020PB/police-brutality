@@ -26,6 +26,6 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: Deploy
       uses: ad-m/github-push-action@master
-      branch: master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
