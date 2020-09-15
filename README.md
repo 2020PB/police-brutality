@@ -7,7 +7,7 @@ As of September 15th at 3 PM EDT, the default branch is `main`.
 
 Most tools will use the `data_build` branch, which will not be affected by the change.
 
-The `master` branch will continue to be synced on push to `main` for the foreseeable future.
+The `master` branch will no longer be updated. Please update forks off of `master` to reference `main`, rebasing your work off of main if needed.
 
 ---
 
