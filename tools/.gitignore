@@ -1,0 +1,13 @@
+data_build
+
+__pycache__
+*.pyc
+.venv
+.coverage
+*.pytest_cache
+.python-version
+htmlcov
+
+.cache
+
+.DS_Store
