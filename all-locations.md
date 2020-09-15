@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-14T20:16:32.946821+00:00
+UPDATED AT: 2020-09-15T16:25:07.085924+00:00
 
 
 # Alabama
@@ -7237,7 +7237,8 @@ id: ny-rochester-8
 
 **Links**
 
-* https://twitter.com/adriawalkr/status/1304976173366235137?s=20
+* https://twitter.com/adriawalkr/status/1304976173366235137
+* https://www.democratandchronicle.com/story/news/2020/09/12/protests-rochester-ny-daniel-prude-11-straight-days-free-the-people-roc/5782445002/
 
 
 ## Saratoga Springs
