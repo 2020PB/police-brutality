@@ -42,6 +42,7 @@ def format_tags(wnl, all_tags, tag_overrides, tags):
         if tag.strip() == "":
             continue
         new_tag = format_tag(wnl, tag_overrides, tag)
+        print(f"new_tag all_tags {new_tag} {all_tags}")
         if new_tag not in all_tags:
             raise ValueError(
                 f"Unsupported tag: {tag}, formatted as {new_tag}. Please check against possible tags or add a new tag."
@@ -71,7 +72,3 @@ def fix_common_misspellings(text, misspellings_dict):
         text = text.replace(bad.title(), good.title())
 
     return text
-
-
-if __name__ == "__main__":
-    all_tags = read_tag_file(possible_tags_path)

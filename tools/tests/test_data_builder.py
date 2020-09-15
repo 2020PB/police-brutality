@@ -31,9 +31,8 @@ def test_title_to_name_date__success_cases(given: str, expected: str) -> None:
     ],
 )
 def test_title_to_name_date__error_cases(given: str) -> None:
-    title_missing_name = " | May 30th "
-    with pytest.raises(ValueError):
-        title_to_name_date(title_missing_name)
+    with pytest.raises(Exception):
+        title_to_name_date(given)
 
 
 @pytest.mark.parametrize(
