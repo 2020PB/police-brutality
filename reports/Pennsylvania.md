@@ -18,6 +18,8 @@ id: pa-erie-1
 
 ## Lancaster
 
+### Police tear gas protesters | September 13th
+
 Following a police shooting in Lancaster, protesters gathered in the streets, forming makeshift barricades. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
 
 tags: protesters, tear-gas
