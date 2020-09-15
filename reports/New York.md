@@ -1658,7 +1658,8 @@ id: ny-rochester-8
 
 **Links**
 
-* https://twitter.com/adriawalkr/status/1304976173366235137?s=20
+* https://twitter.com/adriawalkr/status/1304976173366235137
+* https://www.democratandchronicle.com/story/news/2020/09/12/protests-rochester-ny-daniel-prude-11-straight-days-free-the-people-roc/5782445002/
 
 
 ## Saratoga Springs
