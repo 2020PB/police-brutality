@@ -25,7 +25,9 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: Deploy
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.UBERSHMEKEL_ALT_TOKEN }}
-        branch: master
+      uses: s0/git-publish-subdir-action@master
+      env:
+        REPO: self
+        BRANCH: data_build
+        FOLDER: .
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
