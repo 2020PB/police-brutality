@@ -31,6 +31,23 @@ id: pa-harrisburg-1
 * https://twitter.com/greg_doucette/status/1266862623041167362
 
 
+## Lancaster
+
+Following a police shooting in Lancaster, protesters gathered in the streets, forming makeshift barricades. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
+
+tags: protesters, tear-gas
+
+id: pa-lancaster-1
+
+**Links**
+
+* https://twitter.com/CarterLNP/status/1305366066588274688
+* https://twitter.com/CarterLNP/status/1305363288184758272
+* https://twitter.com/CarterLNP/status/1305365596951973889
+* https://twitter.com/CarterLNP/status/1305392469857701889
+* https://twitter.com/worldofjeremiah/status/1305401461862522881
+
+
 ## Philadelphia
 
 ### Police beat down man | May 30th
