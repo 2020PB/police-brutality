@@ -28,6 +28,6 @@ jobs:
       uses: s0/git-publish-subdir-action@master
       env:
         REPO: self
-        BRANCH: data_build
+        BRANCH: master
         FOLDER: .
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
