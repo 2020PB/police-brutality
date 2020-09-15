@@ -320,9 +320,9 @@ id: ca-losangeles-4
 
 ### Police beat protesters with batons | May 30th
 
-In the video, protesters can be seen kneeling. Police swing batons at several protesters pressed against the side of a building.
+In the video, protesters can be seen kneeling. Police swing batons at several protesters and a journalist pressed against the side of a building.
 
-tags: beat, baton, protester
+tags: beat, baton, protester, journalist
 
 id: ca-losangeles-5
 
@@ -330,6 +330,7 @@ id: ca-losangeles-5
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 * https://twitter.com/greg_doucette/status/1269101214706421760
+* https://twitter.com/ShotOn35mm/status/1267158399772491777
 
 
 ### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
