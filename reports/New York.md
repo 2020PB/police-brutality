@@ -1518,6 +1518,21 @@ id: ny-newyorkcity-100
 * https://www.ny1.com/nyc/all-boroughs/news/2020/07/29/video-shows-protester-being-pulled-into-unmarked-van-by-nypd
 
 
+### Police shove protester | September 12th
+
+At a protest outside the 34th precinct, police stood off with protesters. Protesters were giving speeches. Police then decided to make arrests for standing in the street. Pushing and shoving ensued. Footage shows a protester grab an arrestee. Another officer then grabs the protester by the back and throws them to the ground, allegedly breaking their arm.
+
+tags: push, shove, protester
+
+id: ny-newyorkcity-102
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1304958501580689408
+* https://twitter.com/KimmyB_the1/status/1305034907681517568
+* https://twitter.com/KimmyB_the1/status/1305043196423147520
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
@@ -1600,6 +1615,8 @@ id: ny-rochester-5
 * https://twitter.com/AFriendlyDad/status/1302434123164733441
 * https://twitter.com/zdroberts/status/1302487315042967553
 * https://twitter.com/zdroberts/status/1302579915976564737
+* https://twitter.com/itsmdnt/status/1304094959407165442
+* [Article about protester injuries](https://www.democratandchronicle.com/story/news/2020/09/11/how-many-injuries-protesters-sept-5-2020-rochester-ny/3466996001/)
 
 
 ### Police deploy impact munitions and use sound cannon | September 5th
@@ -1614,6 +1631,34 @@ id: ny-rochester-6
 
 * https://twitter.com/AFriendlyDad/status/1302444567157907457
 * https://twitter.com/msantiagophotos/status/1302436634881916933
+
+
+### Officers cover badges | September 12th
+
+Multiple riot police officers in Rochester are seen with their badges covered.
+
+tags: hide-badge, abuse-of-power
+
+id: ny-rochester-7
+
+**Links**
+
+* https://twitter.com/DjKellex/status/1304994435709763587
+* https://twitter.com/DjKellex/status/1304994659836612608
+* https://twitter.com/DjKellex/status/1304994886647795712
+
+
+### LRAD deployed against protesters | September 12th
+
+At protests on September 12th, police deployed the LRAD dispersal function in an attempt to clear protesters.
+
+tags: protester, lrad
+
+id: ny-rochester-8
+
+**Links**
+
+* https://twitter.com/adriawalkr/status/1304976173366235137?s=20
 
 
 ## Saratoga Springs
