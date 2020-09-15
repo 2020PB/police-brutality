@@ -8,7 +8,7 @@ Welcome to the police-brutality docs. This is a place for official, public facin
 
 # How can I contribute?
 
-Contributors make pull requests to edit the files, other contributors review. Please see our [contribution guidelines](https://github.com/2020PB/police-brutality/blob/master/CONTRIBUTING.md).
+Contributors make pull requests to edit the files, other contributors review. Please see our [contribution guidelines](https://github.com/2020PB/police-brutality/blob/main/CONTRIBUTING.md).
 
 # Contact
 

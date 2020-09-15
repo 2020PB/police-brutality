@@ -1,8 +1,8 @@
 name: Validate Data
 
 on:
-  pull_request_target:
-    types: [assigned, unassigned, labeled, unlabeled, opened, edited, closed, reopened, synchronize, ready_for_review, locked, unlocked, review_requested, review_request_removed]
+  pull_request:
+    branches: [ main ]
 
 jobs:
   build:
@@ -28,13 +28,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r tools/requirements.txt
         python -c "import nltk; nltk.download('wordnet')"
-
-    - name: Run unit tests with pytest
-      run: |
-        cd tools
-        pytest
-        cd ..
-
 
     - name: Rewrite data, generate ids, commit
       run: |

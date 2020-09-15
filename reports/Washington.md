@@ -920,7 +920,7 @@ id: wa-seattle-62
 * [Additional footage of charge](https://twitter.com/TheBageler7/status/1299003806928105480)
 
 
-### Police drag protester from car | September 24th
+### Police drag protester from car | September 4th
 
 Protesters on foot and in vehicles blocked an interstate for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
 
@@ -934,4 +934,34 @@ id: wa-seattle-63
 * https://twitter.com/gramsofgnats/status/1301943130904649729
 * https://twitter.com/gramsofgnats/status/1301945336391368704
 * https://www.thestranger.com/slog/2020/09/04/44418202/nine-marchers-arrested-after-shutting-down-i-5
+
+
+### Police use bikes to ride into and shove protesters | September 7th
+
+Protesters gathered outside the Seattle Police Officers Guild. Police rode their bikes into protesters, then used their bikes to shove protesters back. No provocation on the part of protesters can be seen.
+
+Police allegedly used pepper spray and stun grenades while making 22 arrests.
+
+tags: protester, bike, arrest, stun-grenade, pepper-spray, shove, push, spray
+
+id: wa-seattle-64
+
+**Links**
+
+* https://twitter.com/okrrrralexa/status/1303161305704980480
+* https://twitter.com/okrrrralexa/status/1303174622976729089
+* https://twitter.com/KatieDaviscourt/status/1303143732519165952
+
+
+### Police officer shoves protester | September 7th
+
+Protesters are seen arguing with police in the street. One protester approaches police then runs away as police converge. Another protester stands in the way and is shoved to the ground.
+
+tags: protester, push, shove
+
+id: wa-seattle-65
+
+**Links**
+
+* https://twitter.com/RegretaGarbo/status/1303194153132519424
 
