@@ -371,7 +371,7 @@ id: mn-minneapolis-19
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
 
 
-### Woman kicked in head | Date Unknown
+### Woman kicked in head | Unknown Date
 
 Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
 

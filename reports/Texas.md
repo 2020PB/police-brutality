@@ -414,7 +414,7 @@ id: tx-houston-2
 * https://twitter.com/AbkTrauma/status/1266511972524269569
 
 
-### Officer pushs protester that is filming | Date Unknown
+### Officer pushs protester that is filming | Unknown Date
 
 A protester is filming and asking "why?", referring to protesters being arrested. An officer then pushs the protester that is filming, knocking the camera to the ground.
 
