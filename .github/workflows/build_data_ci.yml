@@ -6,7 +6,7 @@ name: Build Data
 # events but only for the master branch
 on:
   push:
-    branches: [ master, main ]
+    branches: [ main ]
   # Pausing the build on pull_request because it seems these cause a duplicate build which can fail.
   # I added this event because it seemed sometimes `push` was not causing a build.
   # So I'm leaving these comments until it's verified that `push` alone is good.
