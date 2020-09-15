@@ -4,6 +4,6 @@ The `police-brutality` repo contains two tools to enable easy archival, and back
 
 # Tools
 
-* [Archival/downloader tool](https://github.com/2020PB/police-brutality/tree/master/tools/downloader)
+* [Archival/downloader tool](https://github.com/2020PB/police-brutality/tree/main/tools/downloader)
 * [Backup/replication tool](https://github.com/2020PB/police-brutality/blob/23c2edc33d23a65610e0f885ca1e04a70806dc7a/tools/replicator/README.md)
   * TODO(bonedaddy): update link when the tooling is merged to master
