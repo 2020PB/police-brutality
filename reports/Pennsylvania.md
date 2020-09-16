@@ -22,6 +22,8 @@ id: pa-erie-1
 
 Following a police shooting in Lancaster, protesters gathered in the streets, forming makeshift barricades. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
 
+12 Protesters were arrested. One was a minor who was shortly released. Seven are being held on $1,000,000 bail (current as of September 15th, 2020). The ACLU has released a statement decrying the high bail.
+
 tags: protester, tear-gas
 
 id: pa-lancaster-1
@@ -29,10 +31,11 @@ id: pa-lancaster-1
 **Links**
 
 * https://twitter.com/CarterLNP/status/1305366066588274688
-* https://twitter.com/CarterLNP/status/1305363288184758272
 * https://twitter.com/CarterLNP/status/1305365596951973889
 * https://twitter.com/CarterLNP/status/1305392469857701889
 * https://twitter.com/worldofjeremiah/status/1305401461862522881
+* https://www.nbcnews.com/news/us-news/protesters-held-1-million-bail-after-demonstration-over-pennsylvania-police-n1240167
+* https://aclupa.org/en/press-releases/aclu-pa-statement-response-million-dollar-bail-orders-lancaster-protesters
 
 
 ## Harrisburg
