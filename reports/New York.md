@@ -1662,6 +1662,21 @@ id: ny-rochester-8
 * https://www.democratandchronicle.com/story/news/2020/09/12/protests-rochester-ny-daniel-prude-11-straight-days-free-the-people-roc/5782445002/
 
 
+### Police charge protesters without warning | September 16th
+
+Protesters camped out front of city hall demanding the resignation of Rochester mayor, Lovely Warren, and the arrests of the officers involved in the Daniel Prude case. Police assembled around 8:30 AM on Wednesday to disperse protesters. Police first pushed protesters off City Hall property, into the street. Police then gave a dispersal order, telling protesters to leave the street and sidewalk. Two officers suddenly charged at protesters, shoving one to the ground. Police chased several other protesters then returned to their line.
+
+tags: protester, push, shove
+
+id: ny-rochester-9
+
+**Links**
+
+* https://twitter.com/barstow_scott/status/1306219406964527104
+* https://twitter.com/C0rpsePimp/status/1306257097693290499
+* https://spectrumlocalnews.com/nys/rochester/public-safety-crime/2020/09/16/rochester-police-confront-protesters-occupying-steps-of-city-hall
+
+
 ## Saratoga Springs
 
 ### Police shoot at and arrest Black Lives Matter protesters | July 30th
