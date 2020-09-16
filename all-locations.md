@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-15T23:22:38.814603+00:00
+UPDATED AT: 2020-09-16T15:37:34.886018+00:00
 
 
 # Alabama
@@ -13848,6 +13848,28 @@ id: pa-erie-1
 * https://twitter.com/the7goonies/status/1266989439160590336
 * [Extended footage. Events around 7:45](https://www.youtube.com/watch?v=KcjH7RdQob4)
 * [Article on the event from PAPost](https://papost.org/2020/05/31/erie-woman-who-was-kicked-by-police-officer-saysi-was-100-percent-peaceful/)
+
+
+## Lancaster
+
+### Police tear gas protesters | September 13th
+
+Following a police shooting in Lancaster, protesters gathered in the streets, forming makeshift barricades. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
+
+12 Protesters were arrested. One was a minor who was shortly released. Seven are being held on $1,000,000 bail (current as of September 15th, 2020). The ACLU has released a statement decrying the high bail.
+
+tags: protester, tear-gas
+
+id: pa-lancaster-1
+
+**Links**
+
+* https://twitter.com/CarterLNP/status/1305366066588274688
+* https://twitter.com/CarterLNP/status/1305365596951973889
+* https://twitter.com/CarterLNP/status/1305392469857701889
+* https://twitter.com/worldofjeremiah/status/1305401461862522881
+* https://www.nbcnews.com/news/us-news/protesters-held-1-million-bail-after-demonstration-over-pennsylvania-police-n1240167
+* https://aclupa.org/en/press-releases/aclu-pa-statement-response-million-dollar-bail-orders-lancaster-protesters
 
 
 ## Harrisburg
