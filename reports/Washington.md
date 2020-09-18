@@ -965,3 +965,15 @@ id: wa-seattle-65
 
 * https://twitter.com/RegretaGarbo/status/1303194153132519424
 
+
+### Police target protester, pepper spray crowd | September 15th
+
+At a protest on September 15th, police targeted a community member for arrest. They pointed out the individual and told them they were arresting the protester. They then grabbed the protester and pepper sprayed the crowd. Several protesters are then thrown to the ground and arrested.
+
+tags: protester, arrest, pepper-spray, spray, throw
+
+id: wa-seattle-66
+
+**Links**
+
+* https://twitter.com/Sadenochill/status/1306755438839382016
