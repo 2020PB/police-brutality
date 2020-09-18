@@ -1547,6 +1547,19 @@ id: ny-newyorkcity-103
 * [Additional composite footage of various arrests](https://www.instagram.com/tv/CFQdePNBfZn/?igshid=m5enp1idnzq6)
 
 
+### Protester tackled and arrested after stepping into sidewalk | September 17th
+
+During the an anti-ICE protest in NYC, protesters waited on the sidewalk during a red light. After the light turned green and the crosswalk was lit up, a protester began to cross the street before the rest of the march. Police charged the protester, allegedly a minor, and tackled them to the ground, arresting them. Police then pushed other protesters away.
+
+tags: protester, push, tackle, arrest
+
+id: ny-newyorkcity-104
+
+**Links**
+
+* https://twitter.com/davenewworld_2/status/1306977155935592448
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
