@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-16T17:38:19.407230+00:00
+UPDATED AT: 2020-09-18T18:32:11.385536+00:00
 
 
 # Alabama
@@ -7111,6 +7111,33 @@ id: ny-newyorkcity-102
 * https://twitter.com/JoshuaPotash/status/1304958501580689408
 * https://twitter.com/KimmyB_the1/status/1305034907681517568
 * https://twitter.com/KimmyB_the1/status/1305043196423147520
+
+
+### Violent arrests made by police | September 17th
+
+Multiple violent arrests were made by police after anti-ICE protesters blocked a street for about 20 minutes. In one incident (around 1:45 in the first link), an officer is pushing a protester backward toward the sidewalk. The protester is complying. A plainclothes officer then grabs the protester from behind and drags him away for arrest. A woman then pushes another officer involved in the arrest. The officer then yells, "Don't fucking touch me," and drags her from the sidewalk into the street. She is pulled face down on the ground while the plainclothes officer straddles her to arrest her.
+
+tags: protester, push, shove, tackle, grab, arrest
+
+id: ny-newyorkcity-103
+
+**Links**
+
+* https://twitter.com/ScooterCasterNY/status/1306716215977668608
+* [Additional composite footage of various arrests](https://www.instagram.com/tv/CFQdePNBfZn/?igshid=m5enp1idnzq6)
+
+
+### Protester tackled and arrested after stepping into sidewalk | September 17th
+
+During the an anti-ICE protest in NYC, protesters waited on the sidewalk during a red light. After the light turned green and the crosswalk was lit up, a protester began to cross the street before the rest of the march. Police charged the protester, allegedly a minor, and tackled them to the ground, arresting them. Police then pushed other protesters away.
+
+tags: protester, push, tackle, arrest
+
+id: ny-newyorkcity-104
+
+**Links**
+
+* https://twitter.com/davenewworld_2/status/1306977155935592448
 
 
 ## Rochester
@@ -16548,6 +16575,19 @@ id: wa-seattle-65
 **Links**
 
 * https://twitter.com/RegretaGarbo/status/1303194153132519424
+
+
+### Police target protester, pepper spray crowd | September 15th
+
+At a protest on September 15th, police targeted a community member for arrest. They pointed out the individual and told them they were arresting the protester. They then grabbed the protester and pepper sprayed the crowd. Several protesters are then thrown to the ground and arrested.
+
+tags: protester, arrest, pepper-spray, spray, throw
+
+id: wa-seattle-66
+
+**Links**
+
+* https://twitter.com/Sadenochill/status/1306755438839382016
 
 
 
