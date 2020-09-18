@@ -1535,7 +1535,7 @@ id: ny-newyorkcity-102
 
 ### Violent arrests made by police | September 17th
 
-Multiple violent arrests were made by police after anti-ICE protesters blocked a street for about 20 minutes. In one incident (around 1:45), an officer is pushing a protester backward toward the sidewalk. The protester is complying. A plainclothes officer then grabs the protester from behind and drags him away for arrest. A woman then pushes another officer involved in the arrest. The officer then yells, "Don't fucking touch me," and drags her from the sidewalk into the street. She is pulled face down on the ground while the plainclothes officer straddles her to arrest her.
+Multiple violent arrests were made by police after anti-ICE protesters blocked a street for about 20 minutes. In one incident (around 1:45 in the first link), an officer is pushing a protester backward toward the sidewalk. The protester is complying. A plainclothes officer then grabs the protester from behind and drags him away for arrest. A woman then pushes another officer involved in the arrest. The officer then yells, "Don't fucking touch me," and drags her from the sidewalk into the street. She is pulled face down on the ground while the plainclothes officer straddles her to arrest her.
 
 tags: protester, push, shove, tackle, grab, arrest
 
@@ -1544,6 +1544,7 @@ id: ny-newyorkcity-103
 **Links**
 
 * https://twitter.com/ScooterCasterNY/status/1306716215977668608
+* [Additional composite footage of various arrests](https://www.instagram.com/tv/CFQdePNBfZn/?igshid=m5enp1idnzq6)
 
 
 ## Rochester
