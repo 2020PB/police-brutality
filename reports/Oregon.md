@@ -5480,6 +5480,12 @@ id: or-portland-358
 * https://twitter.com/1misanthrophile/status/1307193093360238593
 * https://twitter.com/1misanthrophile/status/1307193981747429377
 * https://twitter.com/cdsupriyadi/status/1307192107614961664
+* https://twitter.com/R3volutionDaddy/status/1307378319369723905
+* https://twitter.com/R3volutionDaddy/status/1307380141048258561
+* https://twitter.com/R3volutionDaddy/status/1307380867111690240
+* https://twitter.com/R3volutionDaddy/status/1307381698154213381
+* https://twitter.com/R3volutionDaddy/status/1307382391376244738
+* https://twitter.com/R3volutionDaddy/status/1307382946051928065
 
 
 ### Police and DHS charge protesters a third time, launch tear gas before returning to ICE facility | September 18th
@@ -5529,7 +5535,7 @@ id: or-portland-360
 * https://twitter.com/1misanthrophile/status/1307214168789889024
 
 
-### Federal agents shoot pepper balls at protesters and bystand vehicle | September 19th
+### Federal agents shoot pepper balls at protesters and bystand vehicle | September 18th
 
 Shortly after midnight on the morning of September 19th, two protesters stand in the street, one with an umbrella. Officers fire at them repeatedly with impact munitions (believed to be pepper balls). A car drives down the street, apparently unrelated to the protest. Officers fire on the car, which then honks and reverses out of the area.
 
