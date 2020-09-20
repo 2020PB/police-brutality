@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-18T18:32:22.564574+00:00
+UPDATED AT: 2020-09-20T22:45:05.583443+00:00
 
 
 # Alabama
@@ -7138,6 +7138,19 @@ id: ny-newyorkcity-104
 **Links**
 
 * https://twitter.com/davenewworld_2/status/1306977155935592448
+
+
+### Police violently arrest protesters at anti-ICE protest in Times Square | September 19th
+
+Footage shows NYPD officers grabbing protesters off the sidewalk and arresting them. One protester holds onto a stop light pole; police lift him by his limbs and carry him away.
+
+tags: protester, grab, arrest
+
+id: ny-newyorkcity-105
+
+**Links**
+
+* https://twitter.com/isabelle_leyva/status/1307377995691237378
 
 
 ## Rochester
