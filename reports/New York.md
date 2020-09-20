@@ -1560,6 +1560,19 @@ id: ny-newyorkcity-104
 * https://twitter.com/davenewworld_2/status/1306977155935592448
 
 
+### Police violently arrest protesters at anti-ICE protest in Times Square | September 19th
+
+Footage shows NYPD officers grabbing protesters off the sidewalk and arresting them. One protester holds onto a stop light pole; police lift him by his limbs and carry him away.
+
+tags: protester, grab, arrest
+
+id: ny-newyorkcity-105
+
+**Links**
+
+* https://twitter.com/isabelle_leyva/status/1307377995691237378
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
