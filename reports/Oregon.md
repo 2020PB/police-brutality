@@ -5408,6 +5408,147 @@ id: or-portland-355
 * https://twitter.com/greg_doucette/status/1303708876295024643
 
 
+### Police violently arrest protesters | September 18th
+
+Two DHS officers emerge from an ICE building outside of which protesters are gathered. They grab two protesters and throw them to the ground. The officers then arrest the protesters.
+
+tags: protester, grab, throw, arrest
+
+id: or-portland-356
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1307176190411644933
+* https://twitter.com/hungrybowtie/status/1307176120341508096
+* https://twitter.com/gravemorgan/status/1307180014073384961
+
+
+### ICE and other DHS agents tear gas protest | September 18th
+
+At a protest outside an ICE facility in Portland, ICE and other DHS agents pushed protesters away from the facility and arrest several. Officers used tear gas, stun grenades and impact munitions against protesters without apparent provocation.
+
+tags: protester, tear-gas, shoot, projectile, pepper-ball, stun-grenade
+
+id: or-portland-357
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1307186138340237318
+* https://twitter.com/hungrybowtie/status/1307188092990754816
+* https://twitter.com/hungrybowtie/status/1307188481924296706
+* https://twitter.com/hungrybowtie/status/1307188750556905472
+* https://twitter.com/R3volutionDaddy/status/1307209847415296003
+* https://twitter.com/R3volutionDaddy/status/1307222303948718080
+* https://twitter.com/R3volutionDaddy/status/1307225026802978818
+* https://twitter.com/PDocumentarians/status/1307186208582201344
+* https://twitter.com/gravemorgan/status/1307185333763633152
+* https://twitter.com/gravemorgan/status/1307188802289430531
+* https://twitter.com/1misanthrophile/status/1307184491144732672
+* https://twitter.com/1misanthrophile/status/1307185231049392128
+* https://twitter.com/1misanthrophile/status/1307186094400659457
+* https://twitter.com/KohzKah/status/1307188651361669120
+* https://twitter.com/KohzKah/status/1307188651361669120
+* https://twitter.com/jovannithe1st/status/1307184281735757825
+* https://twitter.com/jovannithe1st/status/1307188156840554496
+* https://twitter.com/jovannithe1st/status/1307192330831581185
+* https://twitter.com/cdsupriyadi/status/1307184394373718016
+* https://twitter.com/cdsupriyadi/status/1307187567444467712
+* https://twitter.com/cdsupriyadi/status/1307189414880137216
+
+
+### DHS and Portland police work in conjunction to tear gas and arrest protesters | September 18th
+
+After DHS agents pushed the protesters several blocks, protesters formed a line of homemade shields and umbrellas. ICE agents continued to fire tear gas and stun grenades, while Portland police charged the protesters, making several arrests.
+
+tags: protester, tear-gas, shoot, projectile, pepper-ball, stun-grenade, arrest
+
+id: or-portland-358
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1307192155736219648
+* https://twitter.com/hungrybowtie/status/1307192655261040640
+* https://twitter.com/hungrybowtie/status/1307193603974864896
+* https://twitter.com/hungrybowtie/status/1307194751762931714
+* https://twitter.com/hungrybowtie/status/1307195141799645184
+* https://twitter.com/hungrybowtie/status/1307196966711865347
+* https://twitter.com/PDocumentarians/status/1307195096467562496
+* https://twitter.com/PDocumentarians/status/1307197510213984257
+* https://twitter.com/TheRealCoryElia/status/1307201456684986368
+* https://twitter.com/1misanthrophile/status/1307186683754893312
+* https://twitter.com/1misanthrophile/status/1307192541364719622
+* https://twitter.com/1misanthrophile/status/1307193093360238593
+* https://twitter.com/1misanthrophile/status/1307193981747429377
+* https://twitter.com/cdsupriyadi/status/1307192107614961664
+* https://twitter.com/R3volutionDaddy/status/1307378319369723905
+* https://twitter.com/R3volutionDaddy/status/1307380141048258561
+* https://twitter.com/R3volutionDaddy/status/1307380867111690240
+* https://twitter.com/R3volutionDaddy/status/1307381698154213381
+* https://twitter.com/R3volutionDaddy/status/1307382391376244738
+* https://twitter.com/R3volutionDaddy/status/1307382946051928065
+
+
+### Police and DHS charge protesters a third time, launch tear gas before returning to ICE facility | September 18th
+
+After a second charge wherein Portland police made numerous arrests, protesters scattered but remained in the area and slowly reformed. DHS officers fired at retreating protesters, then launched a final volley of tear gas before returning to the ICE facility. Several tear gas canisters were shot under parked cars, igniting fires.
+
+tags: protester, tear-gas, shoot, projectile, pepper-ball, stun-grenade, arrest, property-destruction
+
+id: or-portland-359
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1307215300094427138
+* https://twitter.com/hungrybowtie/status/1307216849688387584
+* https://twitter.com/hungrybowtie/status/1307217290283200512
+* https://twitter.com/hungrybowtie/status/1307217718592978944
+* https://twitter.com/hungrybowtie/status/1307218334711083013
+* https://twitter.com/hungrybowtie/status/1307223528220110848
+* https://twitter.com/R3volutionDaddy/status/1307227776433356800
+* https://twitter.com/PDocumentarians/status/1307218674772664325
+* https://twitter.com/TheRealCoryElia/status/1307216460930977797
+* https://twitter.com/TheRealCoryElia/status/1307216460930977797
+* https://twitter.com/TheRealCoryElia/status/1307224767934550021
+* https://twitter.com/gravemorgan/status/1307215461784776706
+* https://twitter.com/gravemorgan/status/1307217189489897473
+* https://twitter.com/gravemorgan/status/1307219625977937922
+* https://twitter.com/gravemorgan/status/1307224585499111426
+* https://twitter.com/gravemorgan/status/1307225393456230401
+* https://twitter.com/1misanthrophile/status/1307224438555910145
+* https://twitter.com/KohzKah/status/1307218456320684032
+* https://twitter.com/KohzKah/status/1307222635915309057
+* https://twitter.com/cdsupriyadi/status/1307219125106745344
+* https://twitter.com/tyler_ensign/status/1307194376460759040
+
+
+### Federal agents punch arrestee | September 18th
+
+Three federal police officers arrest a protester, punching them repeatedly to subdue them. Other officers can be heard firing impact munitions in the background.
+
+tags: protester, arrest, punch
+
+id: or-portland-360
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1307253022569852928
+* https://twitter.com/1misanthrophile/status/1307214168789889024
+
+
+### Federal agents shoot pepper balls at protesters and bystand vehicle | September 18th
+
+Shortly after midnight on the morning of September 19th, two protesters stand in the street, one with an umbrella. Officers fire at them repeatedly with impact munitions (believed to be pepper balls). A car drives down the street, apparently unrelated to the protest. Officers fire on the car, which then honks and reverses out of the area.
+
+tags: protester, bystander, shoot, pepper-ball, projectile, property-destruction
+
+id: or-portland-361
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1307225527460048896
+* https://twitter.com/1misanthrophile/status/1307216891300118530
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
