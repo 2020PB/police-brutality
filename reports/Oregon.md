@@ -5529,7 +5529,7 @@ id: or-portland-360
 * https://twitter.com/1misanthrophile/status/1307214168789889024
 
 
-### Federal agents shoot pepper balls at protesters and bystand vehicle | September 18th
+### Federal agents shoot pepper balls at protesters and bystand vehicle | September 19th
 
 Shortly after midnight on the morning of September 19th, two protesters stand in the street, one with an umbrella. Officers fire at them repeatedly with impact munitions (believed to be pepper balls). A car drives down the street, apparently unrelated to the protest. Officers fire on the car, which then honks and reverses out of the area.
 
