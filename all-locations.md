@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-20T22:45:17.072256+00:00
+UPDATED AT: 2020-09-21T19:59:58.141076+00:00
 
 
 # Alabama
@@ -1056,6 +1056,20 @@ id: ca-losangeles-31
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
+
+
+### Police shoot man in groin with rubber bullet | June 2nd
+
+An officer rips a sign away from a protester then shoots him in the groin with a rubber bullet at close range. The protester suffered serious injuries to his testicles and was rushed to an emergency room.
+
+tags: protester, shoot, projectile, rubber-bullet
+
+id: ca-losangeles-57
+
+**Links**
+
+* [LAPD footage; incident at 4:20](https://www.youtube.com/watch?v=SotO28tOjp4)
+* https://www.latimes.com/california/story/2020-09-19/video-shows-lapd-officers-protesters-shoot-him-in-groin
 
 
 ### Protester shows wound inflicted by less-lethal round | June 3rd
