@@ -724,6 +724,20 @@ id: ca-losangeles-31
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
 
 
+### Police shoot man in groin with rubber bullet | June 2nd
+
+An officer rips a sign away from a protester then shoots him in the groin with a rubber bullet at close range. The protester suffered serious injuries to his testicles and was rushed to an emergency room.
+
+tags: protester, shoot, projectile, rubber-bullet
+
+id: ca-losangeles-57
+
+**Links**
+
+* [LAPD footage; incident at 4:20](https://www.youtube.com/watch?v=SotO28tOjp4)
+* https://www.latimes.com/california/story/2020-09-19/video-shows-lapd-officers-protesters-shoot-him-in-groin
+
+
 ### Protester shows wound inflicted by less-lethal round | June 3rd
 
 Footage from June 3rd shows a still of a wound on a protester's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
