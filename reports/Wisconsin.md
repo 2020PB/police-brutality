@@ -120,6 +120,8 @@ Members of RiotKitchen allege that the individuals within were there to provide 
 
 Riot Kitchen members released on $150 bail. Their vehicles are still kept pending a police investigation
 
+tags: 
+
 id: wi-kenosha-7
 
 **Links**
