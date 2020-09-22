@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-22T15:57:46.679291+00:00
+UPDATED AT: 2020-09-22T17:59:13.874573+00:00
 
 
 # Alabama
@@ -7539,6 +7539,29 @@ id: nc-charlotte-8
 * https://twitter.com/jefftaylorhuman/status/1298114422754414592
 * https://twitter.com/jefftaylorhuman/status/1298114422754414592
 * https://www.charlotteobserver.com/news/politics-government/rnc-2020/article245198720.html
+
+
+### Jail support activists arrested | September 21st
+
+Activists gathered for Jail Support in Charlotte, NC, offering food, water and other necessities to protesters released from detention. Activists set up on the sidewalk. Mecklenburg county sheriffs ordered jail support activists to disperse. When they refused, officers arrested them. Several activists passively resisted by going limp and were carried away by officers. Sheriffs also arrested several protesters present to morally support jail support activists.
+
+Activists were charged with misdemeanor failure to disperse. This charge is only valid, according to NC law, if officers believe a riot or disorderly conduct is imminent. There appeared to be no such threat.
+
+tags: protester, arrest, abuse-of-power
+
+id: nc-charlotte-9
+
+**Links**
+
+* https://twitter.com/jefftaylorhuman/status/1308040457516130304
+* https://twitter.com/jefftaylorhuman/status/1308063626532663301
+* https://twitter.com/jefftaylorhuman/status/1308064530811977731
+* https://twitter.com/jefftaylorhuman/status/1308040457516130304
+* https://twitter.com/jefftaylorhuman/status/1308069803521961984
+* https://twitter.com/jefftaylorhuman/status/1308080646754119680
+* https://twitter.com/jefftaylorhuman/status/1308083664517988352
+* https://twitter.com/jefftaylorhuman/status/1308134468570546176
+* https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_14/GS_14-288.5.pdf
 
 
 ## Gastonia
