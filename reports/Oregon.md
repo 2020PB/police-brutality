@@ -5487,6 +5487,7 @@ id: or-portland-358
 * https://twitter.com/R3volutionDaddy/status/1307382391376244738
 * https://twitter.com/R3volutionDaddy/status/1307382946051928065
 * https://twitter.com/TheOldMadDog/status/1308138499288178689
+* https://twitter.com/TheOldMadDog/status/1307489348019826688
 
 
 ### Police and DHS charge protesters a third time, launch tear gas before returning to ICE facility | September 18th
