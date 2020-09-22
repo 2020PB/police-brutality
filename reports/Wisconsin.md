@@ -118,7 +118,7 @@ Footage shows federal agents in unmarked cars surrounding a minivan. Officers sm
 
 Members of RiotKitchen allege that the individuals within were there to provide food. Police also arrested occupants of a black schoolbus at the gas station, who were traveling with the occupants of the minivan.
 
-Riot Kitchen members released on $150 bail. Their vehicles are still kept pending a police investigation
+Riot Kitchen members released on $150 bail. Their vehicles are still kept pending a police investigation.
 
 tags: 
 
