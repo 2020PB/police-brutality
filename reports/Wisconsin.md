@@ -112,7 +112,9 @@ id: wi-kenosha-5
 * https://twitter.com/NickAtNews/status/1300913839345672194
 
 
-### Federal officers grab Riot Kitchen crew out of car | August 26th
+## Madison
+
+### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
 
 Footage shows federal agents in unmarked cars surrounding a minivan. Officers smash a window and arrest the occupants at gunpoint.
 
@@ -120,20 +122,15 @@ Members of RiotKitchen allege that the individuals within were there to provide 
 
 Riot Kitchen members released on $150 bail. Their vehicles are still kept pending a police investigation
 
-tags: grab. arrest, protester, abuse-of-power
 
-id: wi-kenosha-7
 
-**Links**
 
 https://mobile.twitter.com/riotkitchen206/status/1298799200319074304
 https://www.reddit.com/r/PublicFreakout/comments/ihf01g/fbi_and_kenosha_police_arresting_a_school_bus/
 https://www.nbcnews.com/news/us-news/kenosha-police-arrest-volunteers-who-provide-food-protesters-n1238799?cid=sm_npd_nn_tw_ma
 
 
-## Madison
 
-### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
 
 Ten seconds into the video, in the bottom-left corner, an officer sprays a protester who is walking backwards with his arms raised (presumably with mace or pepper spray).
 
