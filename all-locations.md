@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-22T17:59:13.874573+00:00
+UPDATED AT: 2020-09-23T12:29:20.938521+00:00
 
 
 # Alabama
@@ -17443,6 +17443,25 @@ id: wi-kenosha-5
 
 * https://twitter.com/NickAtNews/status/1300911702373019650
 * https://twitter.com/NickAtNews/status/1300913839345672194
+
+
+### Federal officers grab Riot Kitchen crew out of van and arrest them | August 26th
+
+Footage shows federal agents in unmarked cars surrounding a minivan. Officers smash a window and arrest the occupants at gunpoint.
+
+Members of RiotKitchen allege that the individuals within were there to provide food. Police also arrested occupants of a black schoolbus at the gas station, who were traveling with the occupants of the minivan.
+
+Riot Kitchen members released on $150 bail. Their vehicles are still kept pending a police investigation.
+
+tags: 
+
+id: wi-kenosha-7
+
+**Links**
+
+* https://mobile.twitter.com/riotkitchen206/status/1298799200319074304
+* https://www.reddit.com/r/PublicFreakout/comments/ihf01g/fbi_and_kenosha_police_arresting_a_school_bus/
+* https://www.nbcnews.com/news/us-news/kenosha-police-arrest-volunteers-who-provide-food-protesters-n1238799?cid=sm_npd_nn_tw_ma
 
 
 ## Madison
