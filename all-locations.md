@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-23T12:29:20.938521+00:00
+UPDATED AT: 2020-09-23T12:39:47.936610+00:00
 
 
 # Alabama
@@ -17453,7 +17453,7 @@ Members of RiotKitchen allege that the individuals within were there to provide 
 
 Riot Kitchen members released on $150 bail. Their vehicles are still kept pending a police investigation.
 
-tags: 
+tags: protester, arrest, property-destruction, abuse-of-power
 
 id: wi-kenosha-7
 
