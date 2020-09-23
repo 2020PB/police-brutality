@@ -88,38 +88,38 @@ def find_md_link_or_url(text):
     open_curve = (3,)
     closed_curve = (4,)
     state = start
-    text_text = ""
+    text_content = ""
     link_url = ""
     for ch in text:
         if state == start:
             if ch == "[":
                 state = open_sq
             else:
-                text_text += ch
+                text_content += ch
         elif state == open_sq:
             if ch == "]":
                 state = closed_sq
             else:
-                text_text += ch
+                text_content += ch
         elif state == closed_sq:
             if ch == "(":
                 state = open_curve
             else:
-                text_text += ch
+                text_content += ch
         elif state == open_curve:
             if ch == ")":
                 state = closed_curve
             else:
                 link_url += ch
         elif state == closed_curve:
-            text_text += ch
+            text_content += ch
 
     if len(link_url) == 0:
         # no markdown link found, consider it all one url
-        link_url = text_text
-        text_text = ""
+        link_url = text_content
+        text_content = ""
 
-    return text_text.strip(), link_url.strip()
+    return text_content.strip(), link_url.strip()
 
 
 def parse_state(state, text):

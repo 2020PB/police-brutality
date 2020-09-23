@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    # Checks the branch out under $GITHUB_WORKSPACE, so run_tests can access it
     # `git push` would fail on `fatal: You are not currently on a branch` if `ref` was
     # not specified here.
     # Inspired by: https://peterevans.dev/posts/github-actions-how-to-automate-code-formatting-in-pull-requests/
