@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-23T12:39:47.936610+00:00
+UPDATED AT: 2020-09-23T22:46:37.664620+00:00
 
 
 # Alabama
@@ -12920,6 +12920,8 @@ An officer shoves a journalist from behind in the head with a baton. She falls t
 
 This incident ocurrs directly after or-portland-289 and the events of that incident can be seen in this footage.
 
+The woman who was hit in the head, Terri Jacobs, is now suing the city of Portland and the police bureau.
+
 tags: push, shove, baton, strike, journalist
 
 id: or-portland-290
@@ -12928,6 +12930,7 @@ id: or-portland-290
 
 * https://twitter.com/Johnnthelefty/status/1295965796426891265
 * https://twitter.com/TheHannahRay/status/1295962385660829698
+* https://twitter.com/BlairStenvick/status/1308891807573569538
 
 
 ### Police tackle protester, confiscate shield, then pepper spray her | August 18th
