@@ -5554,6 +5554,121 @@ id: or-portland-361
 * https://twitter.com/1misanthrophile/status/1307216891300118530
 
 
+### Police slash tires of truck | September 23rd
+
+Police puncture the tires of a vehicle in the road during a protest. It is unclear if the vehicle was related to protests.
+
+tags: property-destruction
+
+id: or-portland-362
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1309015762988916737
+* https://twitter.com/gravemorgan/status/1309006524245827589
+
+
+### Police deploy tear gas and stun grenades against protesters | September 23rd
+
+Police throw tear gas and stun grenades at protesters, then chase them down. This occurred directly prior to the molotov cocktail thrown by a protester and appears to have precipitated the action. The only escalation on the part of protesters prior to this were fireworks and small fires lit on plywood boards.
+
+tags: protester, tear-gas, stun-grenade
+
+id: or-portland-363
+
+**Links**
+
+*
+
+https://twitter.com/AFriendlyDad/status/1308996531878584320
+
+
+### Police deploy tear gas, stun grenades and impact munitions to quell protesters | September 23rd
+
+Portland police and federal officers deployed tear gas, stun grenades and impact munitions against protesters. After declaring an unlawful assembly, police fired some munitions. During this incident, a protester threw an incendiary explosive at police. Police then retaliated with significant munitions.
+
+tags: protester, shoot, projectile, tear-gas, stun-grenade
+
+id: or-portland-364
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1309017021544378369
+* https://twitter.com/suzettesmith/status/1309020574866386945
+* https://twitter.com/suzettesmith/status/1309024815374884866
+* https://twitter.com/suzettesmith/status/1309025647113666561
+* https://twitter.com/AFriendlyDad/status/1309005061620740098
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+* https://twitter.com/1misanthrophile/status/1309011670254133250
+* https://twitter.com/1misanthrophile/status/1309014648939831297
+* https://twitter.com/1misanthrophile/status/1309017657354735617
+* https://twitter.com/gravemorgan/status/1309010388781010945
+* https://twitter.com/gravemorgan/status/1309042488045379586
+* https://twitter.com/gravemorgan/status/1309011093797437446
+
+
+### Police pepper spray and arrest protester on sidewalk | September 23rd
+
+A protester on the sidewalk is seen yelling at officers. The officers walk away. One turns and pepper sprays the protester. Police arrested that protester and another shortly after.
+
+tags: protester, spray, pepper-spray, arrest
+
+id: or-portland-365
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1309021042925596676
+* https://twitter.com/R3volutionDaddy/status/1309023358319812609
+
+
+### Police shove protester to the ground | September 23rd
+
+A protester wearing a reflective vest walks away from police with their hands up. An officer charges them from behind and shoves them to the ground.
+
+tags: protester, push, shove
+
+id: or-portland-366
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1309024932895109121
+* https://twitter.com/R3volutionDaddy/status/1309025290660782081
+
+
+### Police shove medic to the ground | September 23rd
+
+A police officer charges at a protest medic walking in the street and shoves them to the ground.
+
+tags: medic, shove, push
+
+id: or-portland-367
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1309008727098511361
+
+
+### Police shove journalist to the ground | September 23rd
+
+Police push a journalist across the street as she attempts to film. Officers then shove her to the ground, injuring her ankle. Officers then brandished mace, threatening protesters who yelled, "Don't touch her."
+
+tags: journalist, shove, push, threaten
+
+id: or-portland-368
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1309008605543362561
+* https://twitter.com/PhrenologyPhun/status/1309033935658254337
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
