@@ -437,3 +437,4 @@ id: ky-louisville-27
 * https://twitter.com/VenturaReport/status/1309007015788851207
 * https://twitter.com/ShelbyTalcott/status/1308965986683551745
 * https://twitter.com/SVNewsAlerts/status/1308969768121229312
+
