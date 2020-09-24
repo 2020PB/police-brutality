@@ -5610,6 +5610,7 @@ id: or-portland-364
 * https://twitter.com/gravemorgan/status/1309010388781010945
 * https://twitter.com/gravemorgan/status/1309042488045379586
 * https://twitter.com/gravemorgan/status/1309011093797437446
+* https://twitter.com/MrOlmos/status/1309015494813528067
 
 
 ### Police pepper spray and arrest protester on sidewalk | September 23rd
@@ -5665,6 +5666,33 @@ id: or-portland-368
 
 * https://twitter.com/1misanthrophile/status/1309008605543362561
 * https://twitter.com/PhrenologyPhun/status/1309033935658254337
+
+
+### Police shove and strike protesters | September 23rd
+
+Footage shows police charging at several individuals in the street and knocking them to the ground; one of these individuals appears to be a journalist. Protesters on the sidewalk yell at police. An officer runs over and strikes a protester carrying a shield with his baton.
+
+tags: push, shove, protester, journalist, strike, baton
+
+id: or-portland-369
+
+**Links**
+
+* https://clips.twitch.tv/ArbitraryExcitedGoshawkCorgiDerp
+* https://twitter.com/canadarcho/status/1309010273949319168
+
+
+### Police tear down homeless encampment | September 23rd
+
+During a protest on September 23rd, police tore down a small cluster of tents occupied by houseless people unrelated to the protest. The tents did not appear to be blocking the police, and the houseless individuals were not protesting.
+
+tags: homeless, bystander, property-destruction, abuse-of-power
+
+id: or-portland-370
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1309234922830180352
 
 
 ## Salem
