@@ -1273,6 +1273,19 @@ id: ca-sandiego-1
 * [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
 
 
+### Police throw stun grenades at protesters changing flag | September 23rd
+
+Footage shows protesters attempting to lower a California state flag. Police charge at protesters. Protesters scatter. Police then deploy stun grenades at protesters after they have already cleared from around the flag.
+
+tags: protester, stun-grenade
+
+id: ca-sandiego-6
+
+**Links**
+
+* https://twitter.com/TheActivatedPod/status/1309169875064061954
+
+
 ## San Francisco
 
 ### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
