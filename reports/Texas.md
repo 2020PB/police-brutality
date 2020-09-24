@@ -290,6 +290,7 @@ id: tx-austin-19
 * https://www.reddit.com/r/Austin/comments/iyvqvm/downtown_protest_last_night_it_really_feels/
 * https://www.kxan.com/austin-george-floyd-mike-ramos-protests/justice-for-breonna-taylor-protests-to-be-held-at-austin-city-hall-texas-capitol-on-wednesday-night/
 
+
 ## Baytown
 
 ### Police officer tackles and knees man on the ground | June 2nd
