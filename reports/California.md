@@ -1027,6 +1027,19 @@ id: ca-losangeles-56
 * https://www.tiktok.com/@sunflower_haze_/video/6872019962655984902
 
 
+### Police push and harass journalist | September 23rd
+
+A journalist films an argument with police as police tell him to leave the area. The journalist states repeatedly that he is press. He also asks why he must leave the area and if there has been a declaration of unlawful assembly. Police do not respond. One officer then walks him down the street, pushing him. The officer's response to all questions asked by the journalist is: "It is not hard for you to comply."
+
+tags: journalist, push, shove
+
+id: ca-losangeles-58
+
+**Links**
+
+* https://twitter.com/ShotOn35mm/status/1309007382345928705
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
