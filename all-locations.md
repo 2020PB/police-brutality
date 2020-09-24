@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-24T15:44:40.632892+00:00
+UPDATED AT: 2020-09-24T18:04:13.941556+00:00
 
 
 # Alabama
@@ -15253,6 +15253,20 @@ id: tx-austin-18
 
 * https://twitter.com/C38412900/status/1299901391352344576
 * https://www.kvue.com/article/news/local/austin-jacob-blake-protests-arrests/269-9be9ef7d-8b21-48f2-9721-d8389d823d67
+
+
+### Police chase and violently arrest protesters | September 23rd
+
+Footage shows police chasing several protesters and throwing them to the ground for arrest. One protester stands up and is dragged from the sidewalk to the street by an officer. A news outlet has stated that all arrests at this protest were for class B and C misdemeanors, like obstructing a highway.
+
+tags: protester, tackle, throw, grab, arrest
+
+id: tx-austin-19
+
+**Links**
+
+* https://www.reddit.com/r/Austin/comments/iyvqvm/downtown_protest_last_night_it_really_feels/
+* https://www.kxan.com/austin-george-floyd-mike-ramos-protests/justice-for-breonna-taylor-protests-to-be-held-at-austin-city-hall-texas-capitol-on-wednesday-night/
 
 
 ## Baytown
