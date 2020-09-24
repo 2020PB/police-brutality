@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-24T15:42:51.249220+00:00
+UPDATED AT: 2020-09-24T15:43:03.100044+00:00
 
 
 # Alabama
@@ -3016,6 +3016,28 @@ id: ga-atlanta-6
 
 * https://www.facebook.com/onlettingo/videos/10157072617626056
 * https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
+
+
+### Police tear gas protesters | September 23rd
+
+Police deploy tear gas against a crowd of protesters gathered in protest of the grand jury charges in the Breonna Taylor case. It appears that Georgia State Police accidentally deployed tear gas in their own vicinity before throwing the canister to protesters and launching more.
+
+tags: protester, tear-gas
+
+id: ga-atlanta-7
+
+**Links**
+
+* https://twitter.com/AnoncatSupport/status/1308948101215006722
+* https://twitter.com/gxhris/status/1308946233080373250
+* https://twitter.com/SCCacti/status/1308946752419041286
+* https://twitter.com/ReporterJCB/status/1308946283319746560
+* https://twitter.com/MrJeromeTrammel/status/1308948237659836417
+* https://twitter.com/AudreyWSBTV/status/1308948381474136064
+* https://twitter.com/Tanni_Deb/status/1308947293899493376
+* https://twitter.com/David_adkins22/status/1308952149582393345
+* https://www.fox5atlanta.com/news/breonna-taylor-atlanta-protest-tear-gas-arrests-near-the-georgia-state-capitol
+* https://twitter.com/hope_iam/status/1308947035131981826
 
 
 ## Lawrenceville
