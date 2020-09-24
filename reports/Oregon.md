@@ -5610,6 +5610,7 @@ id: or-portland-364
 * https://twitter.com/gravemorgan/status/1309010388781010945
 * https://twitter.com/gravemorgan/status/1309042488045379586
 * https://twitter.com/gravemorgan/status/1309011093797437446
+* https://twitter.com/MrOlmos/status/1309015494813528067
 
 
 ### Police pepper spray and arrest protester on sidewalk | September 23rd
