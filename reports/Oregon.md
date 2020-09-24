@@ -5578,9 +5578,7 @@ id: or-portland-363
 
 **Links**
 
-*
-
-https://twitter.com/AFriendlyDad/status/1308996531878584320
+* https://twitter.com/AFriendlyDad/status/1308996531878584320
 
 
 ### Police deploy tear gas, stun grenades and impact munitions to quell protesters | September 23rd
