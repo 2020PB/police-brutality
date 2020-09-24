@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-24T15:43:03.100044+00:00
+UPDATED AT: 2020-09-24T15:43:30.144588+00:00
 
 
 # Alabama
@@ -4314,6 +4314,110 @@ id: ky-louisville-21
 **Links**
 
 * [1:54:00](https://www.facebook.com/maxwellamitchell/videos/10219351963573439/)
+
+
+### Police fire impact munitions, make violent arrests | September 23rd
+
+Police surround protesters, forming lines across the street that kettle the protesters in place. Police fire pepper balls at protesters and some protesters respond with water bottles, but the vast majority stand around. Arrests were also made at the time. One arrestee appeared to be a bystander attempting to turn their moped around; the individual was knocked to the ground, then pulled off the moped by police.
+
+A Fox News report estimates about a dozen arrests during this incident. The reporter states that he believes zip ties and handcuffs were used to detain protesters.
+
+The incident may have been initiated when a protester with a shield stopped moving and an officer shoved him. The protester shoved back and a second protester threw a vial of liquid on an officer. Then a noise can be heard and protesters begin to scatter.
+
+tags: protester, bystander, shoot, projectile, pepper-ball, arrest, beat, strike, baton, punch, zip-tie
+
+id: ky-louisville-22
+
+**Links**
+
+* https://twitter.com/HayesGardner/status/1308858632973570048
+* https://twitter.com/WHAS11Heather/status/1308857981086375936
+* https://twitter.com/RetiredMaybe/status/1308865938603859978
+* https://twitter.com/NNVnews/status/1308867583928532993
+* https://twitter.com/RetiredMaybe/status/1308866465697861634
+* https://twitter.com/VenturaReport/status/1308864372295561216
+* https://twitter.com/VenturaReport/status/1308877064074932230
+* https://twitter.com/Real___IT/status/1308873893428580359
+* https://www.reddit.com/r/PublicFreakout/comments/iyjkn3/a_louisville_crowd_of_hundreds_confronts_a_police/
+* https://twitter.com/Terrence_STR/status/1308879038031724545
+* https://twitter.com/BobTheComrade/status/1308884041328930816
+* https://twitter.com/KEYCNewsNow/status/1308886456644055044
+
+
+### Police shove, grab and arrest protesters on sidewalk | September 23rd
+
+Police push protesters down the sidewalk after declaring unlawful assembly. Protesters are largely compliant, though walking slowly. One officer reaches for a protester for unclear reason. The protester then flees and the officer chases for a moment before stopping. Several protesters are shoved by police. One is grabbed by the shirt. The protester slips out of the shirt and is struck by an officer with a baton. The protester then flees down the street. Police proceeded to arrest numerous protesters in the aftermath.
+
+tags: protester, arrest, push, shove, grab, strike, baton
+
+id: ky-louisville-23
+
+**Links**
+
+* https://twitter.com/SVNewsAlerts/status/1308888971070648323
+* https://twitter.com/Real___IT/status/1308886254629597184
+* https://twitter.com/Gerrrty/status/1308888363538305026
+* https://twitter.com/The_lostt_one/status/1308888587451203594
+* https://twitter.com/BGOnTheScene/status/1308889378291355649
+
+
+### Police trip arrestee after bringing them to their feet | September 23rd
+
+Police make a series of arrests after an incident. One arrestee is pulled to their feet. The arrestee appears to jerk away from the arresting officers. The officers then trip the protester and bring them to the ground.
+
+tags: protester, kick, arrest, zip-tie
+
+id: ky-louisville-24
+
+**Links**
+
+* https://twitter.com/VenturaReport/status/1308888759589535751
+
+
+### Police trip arrestee; arrestee later seen bleeding from the head | September 23rd
+
+A protester arrested after an early incident is tripped by police, slamming him to the ground. He is later seen bleeding from the head. Protesters attempt to wash his wound with water and give the arrestee a drink.
+
+tags: protester, kick, arrest, zip-tie
+
+id: ky-louisville-25
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/iykcwk/louisville_police_kick_a_zip_tied_man_and_pull/
+* https://twitter.com/VenturaReport/status/1308885317102063623
+* https://twitter.com/tr00p3rr/status/1308858613222572034
+
+
+### Police hold bound protester in the air while searching them | September 23rd
+
+Following an altercation between protesters and police, an arrestee is held in the air by their limbs while police search their pockets. They are then placed in a police van.
+
+tags: protester, arrest, zip-tie, inhumane-treatment
+
+id: ky-louisville-26
+
+**Links**
+
+* https://twitter.com/WHAS11Heather/status/1308865830927708163
+* https://twitter.com/sethdunlap/status/1308867981724745729
+
+
+### Police arrest protesters and press en masse | September 23rd
+
+Police kettle and arrest protesters en masse. One independent journalist was arrested and two journalists for The Daily Caller, a conservative news network, were arrested. An image from a Daily Caller reporter shows him handcuffed to a chain along with other protesters.
+
+tags: protester, journalist, arrest
+
+id: ky-louisville-27
+
+**Links**
+
+* https://twitter.com/canadarcho/status/1308976713012056065
+* https://twitter.com/DailyCaller/status/1308968081348231169
+* https://twitter.com/VenturaReport/status/1309007015788851207
+* https://twitter.com/ShelbyTalcott/status/1308965986683551745
+* https://twitter.com/SVNewsAlerts/status/1308969768121229312
 
 
 
