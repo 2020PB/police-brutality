@@ -5682,6 +5682,19 @@ id: or-portland-369
 * https://twitter.com/canadarcho/status/1309010273949319168
 
 
+### Police tear down homeless encampment | September 23rd
+
+During a protest on September 23rd, police tore down a small cluster of tents occupied by houseless people unrelated to the protest. The tents did not appear to be blocking the police, and the houseless individuals were not protesting.
+
+tags: homeless, bystander, property-destruction, abuse-of-power
+
+id: or-portland-370
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1309234922830180352
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
