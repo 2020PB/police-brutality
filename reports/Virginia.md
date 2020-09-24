@@ -419,3 +419,15 @@ id: va-richmond-23
 * https://twitter.com/broadcastben_/status/1300932708634427392
 * https://twitter.com/tormaid/status/1300959166937395201
 
+
+### Police shove protesters with shields | September 23rd
+
+After snatching a protester, police formed a riot shield line and told protesters to move back. Protesters yelled at police. Police shoved protesters with their shields.
+
+tags: protester, push, shove, shield
+
+id: va-richmond-24
+
+**Links**
+
+* https://twitter.com/JLJLovesRVA/status/1308982121520861184
