@@ -5678,6 +5678,7 @@ id: or-portland-369
 **Links**
 
 * https://clips.twitch.tv/ArbitraryExcitedGoshawkCorgiDerp
+* https://twitter.com/canadarcho/status/1309010273949319168
 
 
 ## Salem
