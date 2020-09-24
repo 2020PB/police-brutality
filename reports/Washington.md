@@ -978,3 +978,42 @@ id: wa-seattle-66
 
 * https://twitter.com/Sadenochill/status/1306755438839382016
 
+
+### Police ride bike over protester's head | September 23rd
+
+A protester wearing a helmet is seen lying on the ground while SPD officers on bikes approach protesters. One officer rides their bike over the protester's head. The rear wheel of the bike appears to catch on the protester's head and yanks the protester.
+
+tags: protester, bike
+
+id: wa-seattle-67
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1309039696702574593
+
+
+### Police shove and pepper spray protesters | September 23rd
+
+Police on bikes push protesters down the street. One officer pepper sprays protesters with umbrellas.
+
+tags: protester, pepper-spray, spray, push, shove, bike
+
+id: wa-seattle-68
+
+**Links**
+
+* https://twitter.com/richsssmith/status/1309011578705137664
+
+
+### Police knock protester over, then shoot them with impact munitions | September 23rd
+
+Police use bikes to shove protesters on the sidewalk. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
+
+tags: protester, push, shove, bike, property-destruction, shoot, projectile, rubber-bullet
+
+id: wa-seattle-69
+
+**Links**
+
+* https://twitter.com/richsssmith/status/1309041882929008642
+
