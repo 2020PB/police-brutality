@@ -95,6 +95,7 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Oklahoma](./reports/Oklahoma.md)
   * [Oregon](./reports/Oregon.md)
   * [Pennsylvania](./reports/Pennsylvania.md)
+  * [Rhode Island](./reports/Rhode%20Island.md)
   * [South Carolina](./reports/South%20Carolina.md)
   * [South Dakota](./reports/South%20Dakota.md)
   * [Tennessee](./reports/Tennessee.md)
