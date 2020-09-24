@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-23T22:46:37.664620+00:00
+UPDATED AT: 2020-09-24T15:42:51.249220+00:00
 
 
 # Alabama
@@ -1359,6 +1359,19 @@ id: ca-losangeles-56
 * https://www.reddit.com/r/2020PoliceBrutality/comments/isqbcw/an_unarmed_member_of_the_press_was_dragged/
 * https://www.tiktok.com/@sunflower_haze_/video/6872014053036854533
 * https://www.tiktok.com/@sunflower_haze_/video/6872019962655984902
+
+
+### Police push and harass journalist | September 23rd
+
+A journalist films an argument with police as police tell him to leave the area. The journalist states repeatedly that he is press. He also asks why he must leave the area and if there has been a declaration of unlawful assembly. Police do not respond. One officer then walks him down the street, pushing him. The officer's response to all questions asked by the journalist is: "It is not hard for you to comply."
+
+tags: journalist, push, shove
+
+id: ca-losangeles-58
+
+**Links**
+
+* https://twitter.com/ShotOn35mm/status/1309007382345928705
 
 
 ## Norco
