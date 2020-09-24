@@ -5667,6 +5667,19 @@ id: or-portland-368
 * https://twitter.com/PhrenologyPhun/status/1309033935658254337
 
 
+### Police shove and strike protesters | September 23rd
+
+Footage shows police charging at several individuals in the street and knocking them to the ground; one of these individuals appears to be a journalist. Protesters on the sidewalk yell at police. An officer runs over and strikes a protester carrying a shield with his baton.
+
+tags: push, shove, protester, journalist, strike, baton
+
+id: or-portland-369
+
+**Links**
+
+* https://clips.twitch.tv/ArbitraryExcitedGoshawkCorgiDerp
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
