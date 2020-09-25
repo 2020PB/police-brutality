@@ -983,6 +983,8 @@ id: wa-seattle-66
 
 A protester wearing a helmet is seen lying on the ground while SPD officers on bikes approach protesters. One officer rides their bike over the protester's head. The rear wheel of the bike appears to catch on the protester's head and yanks the protester.
 
+The officer has since been placed on administrative leave and is facing a criminal probe at the request of the Office of Police Accountability.
+
 tags: protester, bike
 
 id: wa-seattle-67
@@ -990,6 +992,7 @@ id: wa-seattle-67
 **Links**
 
 * https://twitter.com/rawsmedia/status/1309039696702574593
+* https://www.q13fox.com/news/seattle-officer-who-ran-over-mans-head-with-bicycle-facing-criminal-probe
 
 
 ### Police shove and pepper spray protesters | September 23rd
