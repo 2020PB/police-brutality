@@ -5698,17 +5698,30 @@ id: or-portland-370
 * https://twitter.com/1misanthrophile/status/1309234922830180352
 
 
-### Police throw tear gas canister at man on sidewalk | September 23rd
+### Police throw tear gas canister at journalist on sidewalk | September 23rd
 
-A man is filming police from the sidewalk. He says, "Look how many of them there are." An officer then throws a tear gas canister at him, which lands at his feet and begins to release gas.
+A journalist is filming police from the sidewalk. He says, "Look how many of them there are." An officer then throws a tear gas canister at him, which lands at his feet and begins to release gas.
 
-tags: protester, tear-gas, tear-gas-canister
+tags: journalist, tear-gas, tear-gas-canister
 
 id: or-portland-371
 
 **Links**
 
 * https://twitter.com/ChrisKhatami/status/1309270620668977153
+
+
+### Journalist struck in hand by impact munition | September 23rd
+
+A journalist films a protest from within a crowd. He is standing behind a tree. He steps out after hearing an explosion, and a projectile (what appears to be a rubber bullet) strikes him in the hand. He appears to be holding the camera around chest or neck height, suggesting officers are firing above the breastbone, which is against the proper use of impact munitions.
+
+tags: journalist, shoot, projectile, rubber-bullet
+
+id: or-portland-372
+
+**Links**
+
+* https://twitter.com/ChrisKhatami/status/1309565049715847170
 
 
 ## Salem
