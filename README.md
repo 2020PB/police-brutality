@@ -106,4 +106,5 @@ As these protests have continued, hundreds of incidents have been recorded where
   * [Washington](./reports/Washington.md)
   * [Washington D.C.](./reports/Washington%20DC.md)
   * [Wisconsin](./reports/Wisconsin.md)
+  * [Wyoming](./reports/Wyoming.md)
   * [Unknown Location](./reports/Unknown%20Location.md)
