@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-25T15:23:49.825038+00:00
+UPDATED AT: 2020-09-25T16:05:39.467078+00:00
 
 
 # Alabama
@@ -4433,6 +4433,23 @@ id: ky-louisville-27
 * https://twitter.com/SVNewsAlerts/status/1308969768121229312
 
 
+### Police arrest Kentucky State Representative | September 24th
+
+At a protest on September 24th, police arrested Kentucky State Representative, Attica Scott, the author of Breonna's Law and the only black state representative for Kentucky. She has been charged with first-degree felony rioting, failure to disperse, and unlawful assembly.
+
+tags: arrest, protester, politician
+
+id: ky-louisville-28
+
+**Links**
+
+* https://twitter.com/RyanVanVelzer/status/1309308902643826690
+* https://twitter.com/bloosemore/status/1309317130291118081
+* https://twitter.com/Ashleightticus/status/1309322962177265666
+* https://twitter.com/BreakingIEN/status/1309433906572283905
+* https://www.wdrb.com/news/police-arrest-24-including-kentucky-state-rep-attica-scott-during-louisville-protests-thursday/article_666e3cf2-fed4-11ea-8b77-032140df7cd0.html
+
+
 
 
 # Louisiana
@@ -5248,7 +5265,7 @@ id: mn-minneapolis-19
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
 
 
-### Woman kicked in head | Date Unknown
+### Woman kicked in head | Unknown Date
 
 Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
 
@@ -7525,7 +7542,7 @@ id: nc-asheville-1
 * https://twitter.com/greg_doucette/status/1269071491892682752
 
 
-### Man shot in head with pepper ball | Date Unknown
+### Man shot in head with pepper ball | Unknown Date
 
 A man was shot in the head at close range with a pepper ball. Footage was uploaded on June 9th, but date of incident is unknown.
 
@@ -15470,7 +15487,7 @@ id: tx-houston-2
 * https://twitter.com/AbkTrauma/status/1266511972524269569
 
 
-### Officer pushs protester that is filming | Date Unknown
+### Officer pushs protester that is filming | Unknown Date
 
 A protester is filming and asking "why?", referring to protesters being arrested. An officer then pushs the protester that is filming, knocking the camera to the ground.
 
@@ -17978,6 +17995,26 @@ id: wi-milwaukee-3
 
 * https://www.youtube.com/watch?v=huAvoVlJVgc
 * https://twitter.com/StupidNeel/status/1268014836786528257
+
+
+
+
+# Wyoming
+
+## Laramie
+
+### Officer strikes protester with vehicle | September 23rd
+
+After arresting a protester, officers in a patrol vehicle drove up to protesters standing in the road. Some protesters stood in front of the car. Although there was ample room for the driver to reverse, the driver chose to accelerate rapidly into the protesters, striking one.
+
+tags: protester, vehicle
+
+id: wy-laramie-1
+
+**Links**
+
+* https://twitter.com/laramiehumans/status/1309117420167213062
+* https://twitter.com/laramiehumans/status/1309117585091330050
 
 
 
