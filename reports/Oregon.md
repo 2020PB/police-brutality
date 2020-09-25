@@ -5556,9 +5556,9 @@ id: or-portland-361
 
 ### Police slash tires of truck | September 23rd
 
-Police puncture the tires of a vehicle in the road during a protest. It is unclear if the vehicle was related to protests.
+Police puncture the tires of a vehicle in the road during a protest. The driver is believed to be a bystander who stopped to let protesters pass.
 
-tags: property-destruction
+tags: property-destruction, bystander
 
 id: or-portland-362
 
@@ -5566,6 +5566,7 @@ id: or-portland-362
 
 * https://twitter.com/suzettesmith/status/1309015762988916737
 * https://twitter.com/gravemorgan/status/1309006524245827589
+* https://twitter.com/TheOldMadDog/status/1309349070490595328
 
 
 ### Police deploy tear gas and stun grenades against protesters | September 23rd
@@ -5611,6 +5612,7 @@ id: or-portland-364
 * https://twitter.com/gravemorgan/status/1309042488045379586
 * https://twitter.com/gravemorgan/status/1309011093797437446
 * https://twitter.com/MrOlmos/status/1309015494813528067
+* https://twitter.com/_WhatRiot/status/1309283283159580672
 
 
 ### Police pepper spray and arrest protester on sidewalk | September 23rd
@@ -5666,6 +5668,7 @@ id: or-portland-368
 
 * https://twitter.com/1misanthrophile/status/1309008605543362561
 * https://twitter.com/PhrenologyPhun/status/1309033935658254337
+* https://twitter.com/PhrenologyPhun/status/1309346780933283841
 
 
 ### Police shove and strike protesters | September 23rd
