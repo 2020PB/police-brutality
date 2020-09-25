@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-25T16:06:28.520559+00:00
+UPDATED AT: 2020-09-25T16:06:44.736756+00:00
 
 
 # Alabama
@@ -14338,6 +14338,19 @@ id: or-portland-370
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1309234922830180352
+
+
+### Police throw tear gas canister at man on sidewalk | September 23rd
+
+A man is filming police from the sidewalk. He says, "Look how many of them there are." An officer then throws a tear gas canister at him, which lands at his feet and begins to release gas.
+
+tags: protester, tear-gas, tear-gas-canister
+
+id: or-portland-371
+
+**Links**
+
+* https://twitter.com/ChrisKhatami/status/1309270620668977153
 
 
 ## Salem
