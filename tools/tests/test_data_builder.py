@@ -1,58 +1,50 @@
 import pytest
+from typing import Tuple
 
-from data_builder import title_to_name_date
-
-tests = [
-    (
-        'Title here | May 30th',
-        ('Title here', '2020-05-30', 'May 30th')
-    ),
-    (
-        'Title here',
-        ('Title here', '', '')
-    ),
-]
+from data_builder import find_md_link_or_url, title_to_name_date
 
 
-@pytest.mark.parametrize("input,expected", tests)
-def test_title_to_name_date(input, expected):
-    assert title_to_name_date(input) == expected
+@pytest.mark.parametrize(
+    "given, expected",
+    [
+        ("Title here | May 30th", ("Title here", "2020-05-30", "May 30th")),
+        ("Title here | Jan 15th", ("Title here", "2020-01-15", "Jan 15th")),
+        ("Title here | Date Unknown", ("Title here", "", "Unknown Date")),
+        ("Title here | Unknown Date", ("Title here", "", "Unknown Date")),
+    ],
+)
+def test_title_to_name_date__success_cases(given: str, expected: str) -> None:
+    assert title_to_name_date(given) == expected
 
 
-def test_handle_missing_name(capsys):
-    title_missing_name = '| May 30th'
-    title_to_name_date(title_missing_name)
-
-    captured = capsys.readouterr()
-    assert "Failed name parse: missing name for" in str(captured) 
-
-
-@pytest.mark.skip(reason="failing test, need to handle this case")
-def test_handle_name_with_multiple_pipes():
-    malformed_title = 'Thing happened | this day | May 30th'
-    result = title_to_name_date(malformed_title)
-    # what should happen here?
-
-
-def test_handle_missing_date(capsys):
-    title_missing_date = 'Title thinger'
-    title_to_name_date(title_missing_date)
-
-    captured = capsys.readouterr()
-    assert "Failed date parse: missing date for" in str(captured)
+@pytest.mark.parametrize(
+    "given",
+    [
+        (""),
+        ("|"),
+        ("| May 30th"),
+        ("something something |"),
+        ("title tile | 2020-01-01"),
+        ("Thing happened | this day | May 30th"),
+        ("Title | Leb 21"),
+        ("Title here | Unknown Datessssss"),
+    ],
+)
+def test_title_to_name_date__error_cases(given: str) -> None:
+    with pytest.raises(Exception):
+        title_to_name_date(given)
 
 
-def test_handle_weird_date_format(capsys):
-    title_with_bad_date = 'Title | Leb 21'
-
-    result = title_to_name_date(title_with_bad_date)
-    captured = capsys.readouterr()
-    assert "Failed date format parse for title" in str(captured)
-
-
-@pytest.mark.skip(reason="failing test, need to handle this case")
-def test_handle_nonexistant_date():
-    title_with_bad_date = 'Title | February 31st'
-
-    result = title_to_name_date(title_with_bad_date)
-    # what should happen here?
+@pytest.mark.parametrize(
+    "given, expected",
+    [
+        ("", ("", "")),
+        ("www.google.com", ("", "www.google.com")),
+        ("ab[cd](ef)xy", ("abcdxy", "ef")),
+        ("ab[cd](efxy", ("abcd", "efxy")),
+        ("[abcd](efxy)", ("abcd", "efxy")),
+        ("[abcd]zz(efxy)", ("abcdzz", "efxy")),
+    ],
+)
+def test_find_md_link_or_url(given: str, expected: Tuple[str, str]) -> None:
+    assert find_md_link_or_url(given) == expected

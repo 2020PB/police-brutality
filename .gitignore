@@ -2,3 +2,6 @@
 all-locations.md
 all-locations.csv
 all-locations.json
+.pytest_cache
+.coverage
+cov_html/*

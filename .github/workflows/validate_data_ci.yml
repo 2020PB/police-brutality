@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    # Checks the branch out under $GITHUB_WORKSPACE, so validate_data can access it
     # `git push` would fail on `fatal: You are not currently on a branch` if `ref` was
     # not specified here.
     # Inspired by: https://peterevans.dev/posts/github-actions-how-to-automate-code-formatting-in-pull-requests/
@@ -28,13 +28,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r tools/requirements.txt
         python -c "import nltk; nltk.download('wordnet')"
-
-    - name: Run unit tests with pytest
-      run: |
-        cd tools
-        pytest
-        cd ..
-
 
     - name: Rewrite data, generate ids, commit
       run: |

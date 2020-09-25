@@ -71,7 +71,3 @@ def fix_common_misspellings(text, misspellings_dict):
         text = text.replace(bad.title(), good.title())
 
     return text
-
-
-if __name__ == "__main__":
-    all_tags = read_tag_file(possible_tags_path)

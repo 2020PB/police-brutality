@@ -34,7 +34,7 @@ id: nc-asheville-1
 * https://twitter.com/greg_doucette/status/1269071491892682752
 
 
-### Man shot in head with pepper ball | Date Unknown
+### Man shot in head with pepper ball | Unknown Date
 
 A man was shot in the head at close range with a pepper ball. Footage was uploaded on June 9th, but date of incident is unknown.
 
