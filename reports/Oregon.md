@@ -5666,6 +5666,7 @@ id: or-portland-368
 
 * https://twitter.com/1misanthrophile/status/1309008605543362561
 * https://twitter.com/PhrenologyPhun/status/1309033935658254337
+* https://twitter.com/PhrenologyPhun/status/1309346780933283841
 
 
 ### Police shove and strike protesters | September 23rd
