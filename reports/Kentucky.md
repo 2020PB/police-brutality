@@ -455,5 +455,3 @@ id: ky-louisville-28
 * https://twitter.com/BreakingIEN/status/1309433906572283905
 * https://www.wdrb.com/news/police-arrest-24-including-kentucky-state-rep-attica-scott-during-louisville-protests-thursday/article_666e3cf2-fed4-11ea-8b77-032140df7cd0.html
 
-
-
