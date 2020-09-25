@@ -1017,3 +1017,16 @@ id: wa-seattle-69
 
 * https://twitter.com/richsssmith/status/1309041882929008642
 
+
+### Police fire impact munitions in response to trash fires | September 24th
+
+Police charge protesters in the street, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
+
+tags: protester, shoot, projectile
+
+id: wa-seattle-70
+
+**Links**
+
+* https://twitter.com/MarcusKulik/status/1309395172187189248
+* https://twitter.com/mikescaturo/status/1309392513719963649
