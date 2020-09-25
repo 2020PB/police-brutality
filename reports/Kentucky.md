@@ -438,3 +438,20 @@ id: ky-louisville-27
 * https://twitter.com/ShelbyTalcott/status/1308965986683551745
 * https://twitter.com/SVNewsAlerts/status/1308969768121229312
 
+
+### Police arrest Kentucky State Representative | September 24th
+
+At a protest on September 24th, police arrested Kentucky State Representative, Attica Scott, the author of Breonna's Law and the only black state representative for Kentucky. She has been charged with first-degree felony rioting, failure to disperse, and unlawful assembly.
+
+tags: arrest, protester, politician
+
+id: ky-louisville-28
+
+**Links**
+
+* https://twitter.com/RyanVanVelzer/status/1309308902643826690
+* https://twitter.com/bloosemore/status/1309317130291118081
+* https://twitter.com/Ashleightticus/status/1309322962177265666
+* https://twitter.com/BreakingIEN/status/1309433906572283905
+* https://www.wdrb.com/news/police-arrest-24-including-kentucky-state-rep-attica-scott-during-louisville-protests-thursday/article_666e3cf2-fed4-11ea-8b77-032140df7cd0.html
+
