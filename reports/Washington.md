@@ -983,6 +983,8 @@ id: wa-seattle-66
 
 A protester wearing a helmet is seen lying on the ground while SPD officers on bikes approach protesters. One officer rides their bike over the protester's head. The rear wheel of the bike appears to catch on the protester's head and yanks the protester.
 
+The officer has since been placed on administrative leave and is facing a criminal probe at the request of the Office of Police Accountability.
+
 tags: protester, bike
 
 id: wa-seattle-67
@@ -990,6 +992,7 @@ id: wa-seattle-67
 **Links**
 
 * https://twitter.com/rawsmedia/status/1309039696702574593
+* https://www.q13fox.com/news/seattle-officer-who-ran-over-mans-head-with-bicycle-facing-criminal-probe
 
 
 ### Police shove and pepper spray protesters | September 23rd
@@ -1016,4 +1019,18 @@ id: wa-seattle-69
 **Links**
 
 * https://twitter.com/richsssmith/status/1309041882929008642
+
+
+### Police fire impact munitions in response to trash fires | September 24th
+
+Police charge protesters in the street, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
+
+tags: protester, shoot, projectile
+
+id: wa-seattle-70
+
+**Links**
+
+* https://twitter.com/MarcusKulik/status/1309395172187189248
+* https://twitter.com/mikescaturo/status/1309392513719963649
 
