@@ -455,3 +455,24 @@ id: ky-louisville-28
 * https://twitter.com/BreakingIEN/status/1309433906572283905
 * https://www.wdrb.com/news/police-arrest-24-including-kentucky-state-rep-attica-scott-during-louisville-protests-thursday/article_666e3cf2-fed4-11ea-8b77-032140df7cd0.html
 
+
+### Police throw stun grenades at peaceful protesters | September 25th
+
+Police declare an unlawful assembly in Louisville during a protest. Police then immediately throw stun grenades into the crowd without apparent provocation.
+
+tags: stun-grenade, protester
+
+id: ky-louisville-29
+
+**Links**
+
+* https://twitter.com/HayesGardner/status/1309628639554744320
+* https://twitter.com/xshularx/status/1309628718609051648
+* https://twitter.com/JBernardBoyle/status/1309628031305121797
+* https://twitter.com/ShaqWLKY/status/1309628290488037376
+
+
+
+
+
+
