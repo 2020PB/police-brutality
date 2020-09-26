@@ -471,8 +471,3 @@ id: ky-louisville-29
 * https://twitter.com/JBernardBoyle/status/1309628031305121797
 * https://twitter.com/ShaqWLKY/status/1309628290488037376
 
-
-
-
-
-
