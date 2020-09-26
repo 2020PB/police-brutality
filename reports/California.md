@@ -1286,6 +1286,20 @@ id: ca-sandiego-6
 * https://twitter.com/TheActivatedPod/status/1309169875064061954
 
 
+### Police shove protesters with bikes and arrest them | September 25th
+
+Police pin protesters against a wall, shoving them with bikes. Protesters then push back, knocking one officer to the ground.
+
+tags: bike, protester, shove, push, arrest, baton
+
+id: ca-sandiego-7
+
+**Links** 
+
+* https://twitter.com/TheActivatedPod/status/1309745516247351296
+* https://www.reddit.com/r/PublicFreakout/comments/j06kl7/protestors_and_san_diego_police_clash_last_night/
+
+
 ## San Francisco
 
 ### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
