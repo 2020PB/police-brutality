@@ -1294,7 +1294,7 @@ tags: bike, protester, shove, push, arrest, baton
 
 id: ca-sandiego-7
 
-**Links** 
+**Links**
 
 * https://twitter.com/TheActivatedPod/status/1309745516247351296
 * https://www.reddit.com/r/PublicFreakout/comments/j06kl7/protestors_and_san_diego_police_clash_last_night/
