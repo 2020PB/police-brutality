@@ -1068,6 +1068,7 @@ id: ca-losangeles-60
 * https://twitter.com/AnonOpsSE/status/1309852261947002882
 * https://twitter.com/savannimalz/status/1309774662851731457
 
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
