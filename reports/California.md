@@ -1040,6 +1040,34 @@ id: ca-losangeles-58
 * https://twitter.com/ShotOn35mm/status/1309007382345928705
 
 
+### Police fire impact munitions at protesters, then make several arrests | September 23rd
+
+Police in Los Angeles deploy impact munitions, believed to be pepper balls, against protesters in large quantities as they push back the crowd and make several arrests.
+
+tags: protester, shoot, projectile, pepper-ball
+
+id: ca-losangeles-59
+
+**Links**
+
+* https://twitter.com/desertborder/status/1309716359517929473
+* https://www.instagram.com/tv/CFloiqgAM75/
+
+
+### Officer strikes detained protester with shield | September 23rd
+
+During a protest, police made several arrests. One officer is seen detaining a protester, while a second uses his shield to subdue the protester. The officer swings the shield downward, striking the protester's ankle repeatedly with the edge of the shield.
+
+tags: protester, arrest, shield, strike
+
+id: ca-losangeles-60
+
+**Links**
+
+* https://twitter.com/SamBraslow/status/1309726758023831552
+* https://twitter.com/AnonOpsSE/status/1309852261947002882
+* https://twitter.com/savannimalz/status/1309774662851731457
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
