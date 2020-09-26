@@ -1067,6 +1067,7 @@ id: ca-losangeles-60
 * https://twitter.com/SamBraslow/status/1309726758023831552
 * https://twitter.com/AnonOpsSE/status/1309852261947002882
 * https://twitter.com/savannimalz/status/1309774662851731457
+* https://twitter.com/SamBraslow/status/1309780362340388864
 
 
 ## Norco
