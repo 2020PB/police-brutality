@@ -551,7 +551,7 @@ id: dc-dc-36
 * https://twitter.com/rawsmedia/status/1310039420716888066
 
 
-### Police make violent arrest | September 26th 
+### Police make violent arrest | September 26th
 
 Police make a violent arrest, allegedly for property damage. Police grab him by the limbs and throw him face first into the ground.
 
@@ -562,6 +562,4 @@ id: dc-dc-37
 **Links**
 
 * https://twitter.com/blackhousenew/status/1310090868494348288
-
-
 
