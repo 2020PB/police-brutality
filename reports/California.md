@@ -1290,7 +1290,7 @@ id: ca-sandiego-6
 
 Police pin protesters against a wall, shoving them with bikes. Protesters then push back, knocking one officer to the ground.
 
-tags: bike, protester, shove, push, arrest, baton
+tags: bike, protester, shove, push
 
 id: ca-sandiego-7
 
