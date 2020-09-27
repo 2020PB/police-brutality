@@ -1573,7 +1573,7 @@ id: ny-newyorkcity-105
 * https://twitter.com/isabelle_leyva/status/1307377995691237378
 
 
-### Police charge protesters and bystanders | September 26th 
+### Police charge protesters and bystanders | September 26th
 
 Protesters were seen yelling at police from the sidewalk near an outside dining area. Without warning, police charged, pushing, shoving, and arresting numerous protesters. Police disrupted diners, forcing them to move from their tables as bike police formed a line cutting through the outdoor dining area.
 
