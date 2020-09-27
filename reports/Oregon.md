@@ -5732,7 +5732,7 @@ tags: pepper-spray, protester, spray
 
 id: or-portland-373
 
-**Links** 
+**Links**
 
 * https://twitter.com/MrOlmos/status/1310073752349110272
 * https://www.reddit.com/r/PublicFreakout/comments/j0leme/portland_police_just_maced_this_protestor_for/
@@ -5752,6 +5752,7 @@ id: or-portland-374
 * https://www.reddit.com/r/2020PoliceBrutality/comments/j0m5sl/portland_police_roughly_arrest_an_uber_delivery/
 * https://www.reddit.com/r/PublicFreakout/comments/j0odnp/police_knock_an_uber_delivery_driver_off_his/
 * https://twitter.com/MasonLakePhoto/status/1310228595374080000
+
 
 ## Salem
 
