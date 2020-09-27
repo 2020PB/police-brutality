@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-27T14:16:59.271271+00:00
+UPDATED AT: 2020-09-27T14:18:54.005217+00:00
 
 
 # Alabama
@@ -1651,6 +1651,20 @@ id: ca-sandiego-6
 **Links**
 
 * https://twitter.com/TheActivatedPod/status/1309169875064061954
+
+
+### Police shove protesters with bikes and arrest them | September 25th
+
+Police pin protesters against a wall, shoving them with bikes. Protesters then push back, knocking one officer to the ground.
+
+tags: bike, protester, shove, push
+
+id: ca-sandiego-7
+
+**Links**
+
+* https://twitter.com/TheActivatedPod/status/1309745516247351296
+* https://www.reddit.com/r/PublicFreakout/comments/j06kl7/protestors_and_san_diego_police_clash_last_night/
 
 
 ## San Francisco
