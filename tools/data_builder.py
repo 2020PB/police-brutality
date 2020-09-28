@@ -227,7 +227,7 @@ def parse_state(state, text):
                 spacey_tags = line[len(tags_prefix) :].split(",")
                 entry["tags"] = [tag.strip() for tag in spacey_tags]
             elif line.startswith(lat_long_prefix):
-                entry["geolocation"] = validate_geo(line[len(lat_long_prefix) :].strip())
+                entry["geolocation"] = validate_geo(line[len(lat_long_prefix) :].lstrip())
                 pass
             else:
                 # Add a line to the description, but make sure there are no extra
