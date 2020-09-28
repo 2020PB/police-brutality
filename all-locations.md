@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-28T13:00:53.808366+00:00
+UPDATED AT: 2020-09-28T23:35:08.794836+00:00
 
 
 # Alabama
@@ -2017,7 +2017,7 @@ id: ca-whittier-1
 
 ### Aurora police violently disperse violin vigil | June 27th
 
-On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain. Footage shows several violinists around a fountain and a small crowd of people scattered through the park, most sitting on picnic blankets or the grass.
+On June 27th, residents of Aurora held a violin vigil in honor of Elijah McClain. Footage shows several violinists around a fountain and a small crowd of people scattered through the park, most sitting on picnic blankets or the grass.
 
 Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
 
@@ -2038,17 +2038,6 @@ id: co-aurora-1
 ## Colorado Springs
 
 ### Multiple cops pin man to ground while repeatedly punching him | June 1st
-
-An image shows multiple wounds from a less lethal round, one of which has broken the skin. The nature of the wound is consistent with misuse - specifically, firing at short range.
-
-The poster states that the individual is her boyfriend. She alleges he was standing with his hands up.
-
-
-
-
-https://www.reddit.com/r/ColoradoSprings/comments/gu9p4b/protest_aftermath_my_boyfriend_was_shot_standing/
-
-
 
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
