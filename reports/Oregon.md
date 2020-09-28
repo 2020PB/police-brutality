@@ -5754,6 +5754,64 @@ id: or-portland-374
 * https://twitter.com/MasonLakePhoto/status/1310228595374080000
 
 
+### Police pepper spray protesters, then slam protester to the ground | September 26th
+
+While charging protesters, police deploy pepper spray, then grab a protester around the waist and slam him to the ground in order to make an arrest.
+
+tags: protester, pepper-spray, spray, grab, throw, arrest
+
+id: or-portland-375
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1310080211342340097
+
+
+### Police shove press and legal observers | September 26th
+
+Police shove a group of press and legal observers as they walk down the sidewalk. At one point, a journalist filming is shoved into a tree, causing him to drop his camera.
+
+tags: journalist, legal-observer, push, shove
+
+id: or-portland-376
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1310080211342340097
+* https://twitter.com/MrOlmos/status/1310080211342340097
+* https://twitter.com/MrOlmos/status/1310116575668658176
+
+
+### Police charge, shove, and harass protesters | September 26th
+
+Police shove a protester to the ground. A second protester helps her up. A protester off screen calls the officer who pushed her "a piece of shit." The officer then shoves that protester. Protesters and police then stand off, yelling. An officer then attempts to grab something out of a protester's hands, causing a scuffle. Police then push protesters down the sidewalk, before charging without warning. Police drag a protester to his knees, ripping out the contents of his backpack and throwing them on the ground. Another protester approaches them and is immediately shoved to the ground. Police then release both protesters.
+
+tags: protester, push, shove, grab, property-destruction
+
+id: or-portland-377
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1310115121012727811
+* [Clip of protester on knees](https://twitter.com/Ivy_PDX/status/1310122972573655041)
+* [Police charge](https://twitter.com/MrOlmos/status/1310118778357702656)
+* [Police charge](https://twitter.com/ByMikeBaker/status/1310112139126996992)
+* [Police charge](https://twitter.com/gravemorgan/status/1310116647789760513)
+
+
+### Police shove protester leaving park | September 26th
+
+A protester in Portland is shoved to the ground by police as the officer tells her to leave the park. The officer then allegedly pulls her to her feet by the hood of her sweatshirt, although the first-person footage prevents this from being seen.
+
+tags: protester, push, shove
+
+id: or-portland-378
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1310144506457518081
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
