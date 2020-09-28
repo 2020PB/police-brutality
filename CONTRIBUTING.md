@@ -4,7 +4,7 @@
 
 We will document examples of the use of excessive force, as well as other misconduct, by law enforcement officers during the 2020 protests sparked by the death of George Floyd.
 
-Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned individual who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
+Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned individuals who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
 
 * ### [Frequently Asked Questions](#Frequently-Asked-Questions-1)
 * ### [Code of Conduct](#Code-of-Conduct-1)
