@@ -5771,7 +5771,9 @@ id: or-portland-375
 
 Police shove a group of press and legal observers as they walk down the sidewalk. At one point, a journalist filming is shoved into a tree, causing him to drop his camera.
 
-tags: journalist, legal-observer, push, shove
+One of the journalists in the group is a guide for a blind journalist. Police arrested this guide during the night, leaving the blind journalist without her guide.
+
+tags: journalist, legal-observer, push, shove, person-with-disability
 
 id: or-portland-376
 
@@ -5780,6 +5782,7 @@ id: or-portland-376
 * https://twitter.com/MrOlmos/status/1310080211342340097
 * https://twitter.com/MrOlmos/status/1310080211342340097
 * https://twitter.com/MrOlmos/status/1310116575668658176
+* https://twitter.com/RedheadNomad/status/1310365046724321283
 
 
 ### Police charge, shove, and harass protesters | September 26th
