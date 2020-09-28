@@ -5724,6 +5724,36 @@ id: or-portland-372
 * https://twitter.com/ChrisKhatami/status/1309565049715847170
 
 
+### Officer maces protester | September 26th
+
+A protester holds a sign up at an officer, then retracts it and shows the officer his middle finger. The officer then pepper sprays the protester.
+
+tags: pepper-spray, protester, spray
+
+id: or-portland-373
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1310073752349110272
+* https://www.reddit.com/r/PublicFreakout/comments/j0leme/portland_police_just_maced_this_protestor_for/
+
+
+### Police knock over and arrest delivery driver | September 26th
+
+Police knock a delivery driver wearing a specialized food delivery backpack off his bike. He is then arrested and cuffed using zip ties despite no affiliation with the protests.
+
+tags: bystander, arrest, tackle, zip-tie
+
+id: or-portland-374
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1310080211342340097
+* https://www.reddit.com/r/2020PoliceBrutality/comments/j0m5sl/portland_police_roughly_arrest_an_uber_delivery/
+* https://www.reddit.com/r/PublicFreakout/comments/j0odnp/police_knock_an_uber_delivery_driver_off_his/
+* https://twitter.com/MasonLakePhoto/status/1310228595374080000
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
