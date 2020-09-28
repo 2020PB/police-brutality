@@ -15,7 +15,7 @@ If you are unsure about any details then please write "Unknown" under that headi
 
 ## Location
 
-e.g. Compton, California (also include this in the title field above)
+e.g. Compton, California (also include this in the title field above. Include latitude and longitude if possible)
 
 ## Date
 
