@@ -537,3 +537,29 @@ id: dc-dc-35
 
 * https://twitter.com/ChuckModi1/status/1300308986428895240
 
+
+### Police charge, push, and shove protesters | September 26th
+
+Police charged into a crowd of protesters, pushing and shoving. Police then grabbed one protester for arrest without apparent reason. Police then dragged the protester to the ground and arrested him.
+
+tags: protester, push, shove, grab, arrest
+
+id: dc-dc-36
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1310039420716888066
+
+
+### Police make violent arrest | September 26th
+
+Police make a violent arrest, allegedly for property damage. Police grab him by the limbs and throw him face first into the ground.
+
+tags: protester, grab, arrest
+
+id: dc-dc-37
+
+**Links**
+
+* https://twitter.com/blackhousenew/status/1310090868494348288
+
