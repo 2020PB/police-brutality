@@ -4,7 +4,7 @@
 
 We will document examples of the use of excessive force, as well as other misconduct, by law enforcement officers during the 2020 protests sparked by the death of George Floyd.
 
-Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned citizens who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
+Our goal in doing this is to assist journalists, politicians, prosecutors, activists and concerned individual who can use the evidence accumulated here for political campaigns, news reporting, public education and prosecution of criminal police officers.
 
 * ### [Frequently Asked Questions](#Frequently-Asked-Questions-1)
 * ### [Code of Conduct](#Code-of-Conduct-1)
@@ -44,13 +44,13 @@ We wish to remain an objective platform which can not be dismissed out of hand d
 
 **2. Document and archive the evidence**
 
-Our goal is to document primary and secondary evidence of police brutality towards protesters. As the events are currently ongoing and the evidence is primarily being distributed through social media, it may become unavailable without warning; as such, we will archive this information to keep it available for concerned citizens, journalists and (hopefully) prosecutors.
+Our goal is to document primary and secondary evidence of police brutality towards protesters. As the events are currently ongoing and the evidence is primarily being distributed through social media, it may become unavailable without warning; as such, we will archive this information to keep it available for concerned individuals, journalists and (hopefully) prosecutors.
 
 **3. Spread the word**
 
 Raise awareness of this community and repository so that more obscure evidence which is not going viral will be posted here.
 
-Share the evidence accumulated here with concerned citizens, congress members, attorneys, local government officials, journalists, activist groups and social media.
+Share the evidence accumulated here with concerned individuals, congress members, attorneys, local government officials, journalists, activist groups and social media.
 
 **4. Use the community as a resource, and be a resource for the community**
 
@@ -217,7 +217,7 @@ of users on Reddit became outraged by repeated incidents of police brutality tow
 
 Then give an objective description of the incident: to draw attention to the abuses by police, those users
 created a github repository on June 1st 2020 to compile evidence of police brutality for use by journalists
-and concerned citizens. The repository was initialized with a README document explaining how other people
+and concerned individuals. The repository was initialized with a README document explaining how other people
 could get involved in the project, providing a meta example of what a good incident report looks like.
 
 tags: vehicle, celebrity, death (ex: check the link to tags below)
