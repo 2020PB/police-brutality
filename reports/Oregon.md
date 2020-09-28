@@ -5742,7 +5742,7 @@ id: or-portland-373
 
 Police knock a delivery driver wearing a specialized food delivery backpack off his bike. He is then arrested and cuffed using zip ties despite no affiliation with the protests.
 
-tags: bystander, arrest, tackle
+tags: bystander, arrest, tackle, zip-tie
 
 id: or-portland-374
 
