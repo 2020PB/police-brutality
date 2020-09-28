@@ -14,6 +14,8 @@ tags: tear-gas, protester
 
 id: ga-athens-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267978682951491585
@@ -30,6 +32,8 @@ tags: tackle, throw, shove, protester
 
 id: ga-atlanta-1
 
+geolocation: 
+
 **Links**
 
 * https://www.cnn.com/2020/06/05/us/atlanta-police-body-slam-woman/index.html
@@ -42,6 +46,8 @@ Police officer is seen shoving two women off onto the side with his bicycle.
 tags: shove, bike, protester
 
 id: ga-atlanta-2
+
+geolocation: 
 
 **Links**
 
@@ -57,6 +63,8 @@ Despite the woman showing no resistance, the policeman grabs her and pulls her o
 tags: tase, vehicle, grab, bystander, taser
 
 id: ga-atlanta-3
+
+geolocation: 
 
 **Links**
 
@@ -75,6 +83,8 @@ tags: punch, strike, arrest, knee, tackle, protester
 
 id: ga-atlanta-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ANGELCUCCl/status/1266939757252280321
@@ -87,6 +97,8 @@ A man with a camera around his neck is tackled to the ground and cuffed by four 
 tags: journalist, tackle, arrest
 
 id: ga-atlanta-5
+
+geolocation: 
 
 **Links**
 
@@ -102,6 +114,8 @@ tags: shoot, shove, rubber-bullet, protester
 
 id: ga-atlanta-6
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/onlettingo/videos/10157072617626056
@@ -115,6 +129,8 @@ Police deploy tear gas against a crowd of protesters gathered in protest of the 
 tags: protester, tear-gas
 
 id: ga-atlanta-7
+
+geolocation: 
 
 **Links**
 
@@ -140,6 +156,8 @@ tags: punch, tase, protester
 
 id: ga-lawrenceville-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ftn_shark/status/1266854056506667009?s=19
@@ -155,6 +173,8 @@ Footage shows a sergeant in the Dekalb County PD backing a member of the press u
 tags: journalist, push, shove, shield
 
 id: ga-stonemountain-1
+
+geolocation: 
 
 **Links**
 
@@ -175,6 +195,8 @@ tags: abuse-of-power, choke, protester
 
 id: ga-valdosta-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/airguitarsolos/status/1268357926739197952
@@ -189,6 +211,8 @@ In a continuation of events from June 3rd (ga-valdosta-1), sheriff Ashley Paulk 
 tags: abuse-of-power, arrest, protester
 
 id: ga-valdosta-2
+
+geolocation: 
 
 **Links**
 

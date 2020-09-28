@@ -8,6 +8,8 @@ tags: arrest, protester
 
 id: nv-lasvegas-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/itsraiialex/status/1266770032719040513
@@ -20,6 +22,8 @@ Officer line begins to advance towards protesters, shoving numerous protesters t
 tags: shove, throw, strike, protester
 
 id: nv-lasvegas-4
+
+geolocation: 
 
 **Links**
 
@@ -34,6 +38,8 @@ tags: journalist, threaten, arrest, strike, shove, kick, protester
 
 id: nv-lasvegas-2
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267168204863926274
@@ -46,6 +52,8 @@ Police were seen walking a detained man down the sidewalk before grabbing a man 
 tags: arrest, inhumane-treatment, protester
 
 id: nv-lasvegas-1
+
+geolocation: 
 
 **Links**
 
@@ -61,6 +69,8 @@ tags: vehicle, shove, arrest, protester
 
 id: nv-lasvegas-5
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@lord.vizi/video/6833826921755741445
@@ -74,6 +84,8 @@ Footage shows riot police suddenly charge into a crowd, potentially chasing a fl
 tags: shove, tackle, throw, kick, protester
 
 id: nv-lasvegas-6
+
+geolocation: 
 
 **Links**
 

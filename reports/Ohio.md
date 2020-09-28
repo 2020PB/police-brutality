@@ -8,6 +8,8 @@ tags: tear-gas, protester
 
 id: oh-beavercreek-1
 
+geolocation: 
+
 **Links**
 
 * [Video; tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
@@ -25,6 +27,8 @@ tags: abuse-of-power, protester
 
 id: oh-bethel-1
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=6GVbOjgBUCc
@@ -40,6 +44,8 @@ Police warn protesters blocking road that chemical agents will be deployed. The 
 tags: pepper-spray, stun-grenade, tear-gas, protester
 
 id: oh-canton-1
+
+geolocation: 
 
 **Links**
 
@@ -58,6 +64,8 @@ tags: pepper-ball, tear-gas, stun-grenade, shoot, protester
 
 id: oh-cincinnati-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/kodyfishertv/status/1266901735198638082
@@ -73,6 +81,8 @@ tags: pepper-spray, spray, protester, stun-grenade, rubber-bullet, shoot
 
 id: oh-cincinnati-7
 
+geolocation: 
+
 **Links**
 
 * [Short](https://mobile.twitter.com/JakeTalks2Much/status/1266902493151334401)
@@ -86,6 +96,8 @@ Police use tear gas to disperse a crowd before curfew. No provocation is mention
 tags: tear-gas, beat, protester
 
 id: oh-cincinnati-2
+
+geolocation: 
 
 **Links**
 
@@ -103,6 +115,8 @@ tags: arrest, inhumane-treatment, zip-tie, protester
 
 id: oh-cincinnati-5
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
@@ -119,6 +133,8 @@ NOTE: While curfews in many cities exempted anyone going to or from work, Cincin
 tags: arrest, bystander, taser, abuse-of-power
 
 id: oh-cincinnati-6
+
+geolocation: 
 
 **Links**
 
@@ -138,6 +154,8 @@ tags: journalist, arrest, shove
 
 id: oh-cincinnati-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/nswartsell/status/1267612155840528385
@@ -150,6 +168,8 @@ Protesters are trying to leave at curfew and are offered a ride. They get into a
 tags: arrest, inhumane-treatment, protester
 
 id: oh-cincinnati-4
+
+geolocation: 
 
 **Links**
 
@@ -168,6 +188,8 @@ tags: arrest, beat, baton, protester
 
 id: oh-cleveland-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267114065819770880
@@ -180,6 +202,8 @@ Without warning, police fire tear gas at peaceful protesters.
 tags: tear-gas, protester
 
 id: oh-cleveland-2
+
+geolocation: 
 
 **Links**
 
@@ -195,6 +219,8 @@ Additional footage shows a street medic patching a wound in the back of a protes
 tags: medic, rubber-bullet, shoot, protester
 
 id: oh-cleveland-3
+
+geolocation: 
 
 **Links**
 
@@ -212,6 +238,8 @@ tags: rubber-bullet, protester, shoot
 
 id: oh-cleveland-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LUVRGRLLANI/status/1266866301001179136
@@ -224,6 +252,8 @@ Footage shows a protester show in the eye with a less-lethal round. Additional i
 tags: shoot, protester, bean-bag
 
 id: oh-cleveland-5
+
+geolocation: 
 
 **Links**
 
@@ -241,6 +271,8 @@ tags: protester, pepper-spray, spray
 
 id: oh-cleveland-6
 
+geolocation: 
+
 **Links**
 
 * [2:00](https://www.youtube.com/watch?v=A2OTcgS-t9g)
@@ -257,6 +289,8 @@ tags: strike, pepper-spray, spray, arrest, protester
 
 id: oh-columbus-1
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/story.php?story_fbid=1137997739900780&id=100010716946743
@@ -269,6 +303,8 @@ Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace
 tags: politician, mace, pepper-spray, spray, protester
 
 id: oh-columbus-2
+
+geolocation: 
 
 **Links**
 
@@ -286,6 +322,8 @@ tags: mace, pepper-spray, spray, protester
 
 id: oh-columbus-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/rottenstrwbry/status/1266805467990446081
@@ -299,6 +337,8 @@ tags: pepper-spray, spray, protester
 
 id: oh-columbus-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266878189537824772
@@ -311,6 +351,8 @@ A student journalist identified herself as a journalist, and when attempting to 
 tags: journalist, threaten, pepper-spray, spray, protester
 
 id: oh-columbus-15
+
+geolocation: 
 
 **Links**
 
@@ -326,6 +368,8 @@ tags: pepper-spray, spray, shove, protester
 
 id: oh-columbus-16
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bwk1992/status/1266833971570237442
@@ -338,6 +382,8 @@ Police point blank pepper spray a medic who was tending to a protester
 tags: medic, pepper-spray, spray
 
 id: oh-columbus-5
+
+geolocation: 
 
 **Links**
 
@@ -353,6 +399,8 @@ tags: mace, pepper-spray, spray, protester
 
 id: oh-columbus-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
@@ -366,6 +414,8 @@ Police drive their car towards protesters in order to disperse them
 tags: vehicle, drive, protester
 
 id: oh-columbus-7
+
+geolocation: 
 
 **Links**
 
@@ -382,6 +432,8 @@ tags: pepper-spray, spray, protester
 
 id: oh-columbus-8
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DabinDhillo/status/1266892095702392832
@@ -395,6 +447,8 @@ Photographer being sprayed while seemingly calmly standing 10 feet away from the
 tags: journalist, pepper-spray, spray
 
 id: oh-columbus-9
+
+geolocation: 
 
 **Links**
 
@@ -411,6 +465,8 @@ tags: pepper-spray, spray, protester
 
 id: oh-columbus-10
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267102580070592512
@@ -423,6 +479,8 @@ A woman standing alone holding a sign is shot with rubber bullets. She falls to 
 tags: rubber-bullet, shoot, protester
 
 id: oh-columbus-11
+
+geolocation: 
 
 **Links**
 
@@ -438,6 +496,8 @@ tags: pepper-spray, spray, protester
 
 id: oh-columbus-17
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/snowmanonfire/status/1267122517614964743
@@ -452,6 +512,8 @@ tags: protester, shoot, wooden-bullet
 
 id: oh-columbus-25
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/meatambulance/videos/10220498765450514/
@@ -465,6 +527,8 @@ Two squad cars full of police arrive at an intersection, sirens wailing. Police 
 tags: pepper-spray, spray, bystander, protester
 
 id: oh-columbus-22
+
+geolocation: 
 
 **Links**
 
@@ -481,6 +545,8 @@ Three reporters repeatedly tell police that they are members of the press and sh
 tags: journalist, pepper-spray, spray, push, shove
 
 id: oh-columbus-13
+
+geolocation: 
 
 **Links**
 
@@ -501,6 +567,8 @@ tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shoot, wooden-bulle
 
 id: oh-columbus-18
 
+geolocation: 
+
 **Links**
 
 * https://www.dispatch.com/news/20200607/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus
@@ -514,6 +582,8 @@ Footage shows two police SUVs accelerating past the police line, knocking over a
 tags: vehicle, tackle, arrest, knee, protester
 
 id: oh-columbus-24
+
+geolocation: 
 
 **Links**
 
@@ -533,6 +603,8 @@ tags: mace, pepper-spray, spray, shove, person-with-disability, protester
 
 id: oh-columbus-19
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Columbus/comments/hdf4hu/cpd_just_hit_and_maced_a_double_amputee_bravo_you/
@@ -550,6 +622,8 @@ tags: shove, grab, throw, knee, arrest, protester
 
 id: oh-columbus-20
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hdj106/062120_columbus_ohio_police_dragging_medic_into/
@@ -562,6 +636,8 @@ In an apparent attempt to clear a street, police have formed a bike line. They s
 tags: shove, bike, pepper-spray, spray, protester
 
 id: oh-columbus-21
+
+geolocation: 
 
 **Links**
 
@@ -577,6 +653,8 @@ The second clip is a lengthy (53 minute) account from the original filmer.
 tags: arrest, push, shove, throw, knee, protester
 
 id: oh-columbus-23
+
+geolocation: 
 
 **Links**
 
@@ -595,6 +673,8 @@ tags: tear-gas, protester
 
 id: oh-dayton-1
 
+geolocation: 
+
 **Links**
 
 * [Tear gas at 18:20 and 34:00](https://www.facebook.com/daytondailynews/videos/276588847040795)
@@ -607,6 +687,8 @@ Footage shows peaceful protesters occupying a road. They are chanting. Without w
 tags: tear-gas, protester
 
 id: oh-dayton-2
+
+geolocation: 
 
 **Links**
 
@@ -622,6 +704,8 @@ Around 7:30pm, the police used tear gas on protesters after a couple water bottl
 tags: tear-gas, rubber-bullet, protester
 
 id: oh-toledo-1
+
+geolocation: 
 
 **Links**
 

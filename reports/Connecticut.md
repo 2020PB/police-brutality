@@ -8,6 +8,8 @@ tags: arrest, knee, tackle, protester
 
 id: ct-waterbury-2
 
+geolocation: (+41.5639908, -73.0095728)
+
 **Links**
 
 * https://twitter.com/mattaustinTV/status/1267189278691528706
@@ -32,6 +34,8 @@ tags: abuse-of-power, arrest, tackle, protester
 
 id: ct-waterbury-3
 
+geolocation: (+41.5545548, -73.0359702)
+
 **Links**
 
 * [Most comprehensive video](https://www.facebook.com/lisha.watson/videos/vb.1314669862/10222859537459698/?type=2&video_source=user_video_tab)
@@ -52,6 +56,8 @@ Officer forces woman into cop car and wrestles with another woman on her phone.
 tags: arrest, shove, push, protester
 
 id: ct-waterbury-1
+
+geolocation: 
 
 **Links**
 

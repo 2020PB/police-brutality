@@ -16,6 +16,8 @@ tags: protester, tear-gas, arrest
 
 id: tn-chattanooga-1
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=Jkj3EfktVkM
@@ -35,6 +37,8 @@ tags: beat, arrest, shield, baton, strike, shove, protester
 
 id: tn-memphis-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Desi_Stennett/status/1266996885824380929
@@ -49,6 +53,8 @@ Police fire tear gas at a small group of peaceful protesters by the entrance to 
 tags: tear-gas, protester
 
 id: tn-murfreesboro-1
+
+geolocation: 
 
 **Links**
 
@@ -67,6 +73,8 @@ tags: property-destruction, abuse-of-power, threaten, protester
 
 id: tn-nashville-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/brotherjones_/status/1275520373472268292
@@ -80,6 +88,8 @@ In an early morning raid, Nashville police confiscated water, food and other sup
 tags: property-destruction, abuse-of-power, threaten, protester
 
 id: tn-nashville-2
+
+geolocation: 
 
 **Links**
 
@@ -99,6 +109,8 @@ tags: arrest, abuse-of-power, protester
 
 id: tn-nashville-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheTNHoller/status/1276713817284792324
@@ -117,6 +129,8 @@ tags: arrest, abuse-of-power, protester, zip-tie
 
 id: tn-nashville-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/brotherjones_/status/1277580136284651521
@@ -131,6 +145,8 @@ tags: arrest, protester, knee
 
 id: tn-nashville-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/brotherjones_/status/1280211300082122758
@@ -143,6 +159,8 @@ After being ordered to leave Capitol Hill Plaza, protesters leaving the plaza we
 tags: push, shove, arrest, protester
 
 id: tn-nashville-6
+
+geolocation: 
 
 **Links**
 

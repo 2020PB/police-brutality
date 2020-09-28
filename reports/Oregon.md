@@ -10,6 +10,8 @@ tags: tear-gas, protester
 
 id: or-eugene-2
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=dPTr54DdTdY
@@ -27,6 +29,8 @@ A tweet from the reporter and an article from the Daily Emerald claim the report
 tags: journalist, tear-gas, tear-gas-canister, shoot, rubber-bullet
 
 id: or-eugene-3
+
+geolocation: 
 
 **Links**
 
@@ -46,6 +50,8 @@ tags: shoot, projectile, vehicle, protester
 
 id: or-eugene-1
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Eugene/comments/gurr9r/police_shoot_projectile_from_moving_vehicle_hit/
@@ -59,6 +65,8 @@ During a protest at which both pro-police and Black Lives Matter protesters were
 tags: tackle, arrest, knee, protester, child
 
 id: or-eugene-4
+
+geolocation: 
 
 **Links**
 
@@ -74,6 +82,8 @@ Footage shows a protester dangling a doughnut on a stick in front of a man's fac
 tags: arrest, abuse-of-power, shove, protester, threaten, hide-badge
 
 id: or-everett-1
+
+geolocation: 
 
 **Links**
 
@@ -91,6 +101,8 @@ tags: beat, strike, baton, protester
 
 id: or-portland-1
 
+geolocation: 
+
 **Links**
 
 * [Timestamp: 18:46](https://twitter.com/IwriteOK/status/1266907719635632129)
@@ -105,6 +117,8 @@ tags: shove, pepper-spray, spray, protester
 
 id: or-portland-2
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=01oWE24O9Zw&feature=emb_title
@@ -117,6 +131,8 @@ Actual deployment of tear-gas not shown. Video shows what appears to be a cloud 
 tags: tear-gas, homeless, bystander
 
 id: or-portland-3
+
+geolocation: 
 
 **Links**
 
@@ -131,6 +147,8 @@ tags: tear-gas, stun-grenade, shoot, protester
 
 id: or-portland-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/matcha_chai/status/1268043556913987584
@@ -143,6 +161,8 @@ Police deploy flashbangs and tear gas into a crowd.
 tags: tear-gas, stun-grenade, shoot, protester
 
 id: or-portland-5
+
+geolocation: 
 
 **Links**
 
@@ -160,6 +180,8 @@ tags: tear-gas, protester
 
 id: or-portland-22
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268190300209586177
@@ -175,6 +197,8 @@ The officers gesture with batons. One officer pepper-sprays a protester. A secon
 tags: tear-gas, tear-gas-canister, pepper-spray, spray, baton, strike, protester
 
 id: or-portland-26
+
+geolocation: 
 
 **Links**
 
@@ -192,6 +216,8 @@ tags: vehicle, protester
 
 id: or-portland-23
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268317409095622658
@@ -204,6 +230,8 @@ In a live broadcast, police are seen shoving a member of the press. She states "
 tags: journalist, push, shove
 
 id: or-portland-258
+
+geolocation: 
 
 **Links**
 
@@ -219,6 +247,8 @@ tags: shoot, projectile, protester
 
 id: or-portland-9
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bigpieceoftoast/status/1269393272570437632
@@ -232,6 +262,8 @@ tags: tear-gas, protester
 
 id: or-portland-21
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1268826151952121856
@@ -244,6 +276,8 @@ A police officer is seen advancing on a photographer, hitting him with his baton
 tags: baton, strike, beat, pepper-spray, spray, journalist
 
 id: or-portland-6
+
+geolocation: 
 
 **Links**
 
@@ -261,6 +295,8 @@ tags: baton, shove, strike, push, protester
 
 id: or-portland-18
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269313407985033216
@@ -273,6 +309,8 @@ Just after midnight on the morning of June 6th, footage from a KPTV reporter sho
 tags: tear-gas, protester
 
 id: or-portland-24
+
+geolocation: 
 
 **Links**
 
@@ -287,6 +325,8 @@ tags: tear-gas, rubber-bullet, shoot, protester
 
 id: or-portland-20
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1269177830505512961
@@ -299,6 +339,8 @@ Aerial footage shows a protester filming the arrest of another protester. An off
 tags: protester, push, shove, strike, baton, pepper-spray, spray
 
 id: or-portland-249
+
+geolocation: 
 
 **Links**
 
@@ -313,6 +355,8 @@ tags: arrest, bike, shove, property-destruction, protester
 
 id: or-portland-11
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/akamikeb/status/1269537214192476161
@@ -326,6 +370,8 @@ tags: mace, pepper-spray, spray, journalist
 
 id: or-portland-12
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1269518318949380098
@@ -338,6 +384,8 @@ Footage shows a squad car pulling up next to two individuals and a police office
 tags: journalist, arrest
 
 id: or-portland-13
+
+geolocation: 
 
 **Links**
 
@@ -354,6 +402,8 @@ tags: arrest, beat, baton, strike, protester
 
 id: or-portland-16
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AlexMilanTracy/status/1269557908863283200
@@ -366,6 +416,8 @@ Footage shows protesters fleeing from tear gas or smoke in a park. Frames are ca
 tags: tear-gas, strike, beat, property-destruction, protester
 
 id: or-portland-17
+
+geolocation: 
 
 **Links**
 
@@ -382,6 +434,8 @@ tags: journalist, threaten, arrest, grab
 
 id: or-portland-7
 
+geolocation: 
+
 **Links**
 
 * [15:30, 17:50](https://twitter.com/45thabsurdist/status/1269882746656002049)
@@ -397,6 +451,8 @@ It should be noted that the Portland PD is directed by the Portland mayor and a 
 tags: tear-gas, stun-grenade, protester
 
 id: or-portland-10
+
+geolocation: 
 
 **Links**
 
@@ -415,6 +471,8 @@ tags: strike, kick, beat, baton, explosive, projectile, protester
 
 id: or-portland-25
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@officersiggity/video/6838314162192485638
@@ -427,6 +485,8 @@ Footage depicts a journalist retreating from a charging police line. The journal
 tags: journalist, strike, baton
 
 id: or-portland-15
+
+geolocation: 
 
 **Links**
 
@@ -441,6 +501,8 @@ tags: journalist
 
 id: or-portland-8
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
@@ -453,6 +515,8 @@ First-person footage from a protest on June 16th shows police telling press to l
 tags: journalist, threaten
 
 id: or-portland-14
+
+geolocation: 
 
 **Links**
 
@@ -469,6 +533,8 @@ tags: hide-badge
 
 id: or-portland-19
 
+geolocation: 
+
 **Links**
 
 * [Tweet on June 17th enclosed FIA Request by Portland Attorney](https://twitter.com/alankesslr/status/1273299640310325250)
@@ -482,6 +548,8 @@ tags: shoot, rubber-bullet, protester
 
 id: or-portland-29
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hchk22/portland_police_shot_a_protester_in_the_head/
@@ -494,6 +562,8 @@ Tear gas can be seen fired at protesters fleeing after a standoff with police. P
 tags: tear-gas, vehicle, grab, protester, bystander
 
 id: or-portland-27
+
+geolocation: 
 
 **Links**
 
@@ -512,6 +582,8 @@ tags: tear-gas, stun-grenade, journalist, projectile, foam-bullet, shoot, protes
 
 id: or-portland-28
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1276454928823668738
@@ -529,6 +601,8 @@ tags: shoot, rubber-bullet, protester
 
 id: or-portland-31
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/chadloder/status/1277360969228771329
@@ -542,6 +616,8 @@ tags: explosive, projectile, protester
 
 id: or-portland-40
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1277685523595788290
@@ -554,6 +630,8 @@ In a post uploaded June 27th, in what appears to be the early hours of the morni
 tags: beat, strike, shove, throw, baton, protester
 
 id: or-portland-30
+
+geolocation: 
 
 **Links**
 
@@ -570,6 +648,8 @@ tags: tear-gas, protester
 
 id: or-portland-35
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1277125125934964736
@@ -585,6 +665,8 @@ tags: beat, strike, property-destruction, protester
 
 id: or-portland-32
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1277156963449593856
@@ -597,6 +679,8 @@ Footage shows riot police charging at a handful of protesters walking away. Seve
 tags: push, shove, throw, tackle, arrest, protester
 
 id: or-portland-33
+
+geolocation: 
 
 **Links**
 
@@ -614,6 +698,8 @@ tags: shoot, projectile, protester
 
 id: or-portland-34
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1277169298000105473
@@ -626,6 +712,8 @@ In footage from the night of June 28th, police charge protesters while declaring
 tags: strike, push, shove, protester
 
 id: or-portland-37
+
+geolocation: 
 
 **Links**
 
@@ -640,6 +728,8 @@ tags: push, shove, pepper-spray, spray, mace, protester
 
 id: or-portland-36
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1277340657648984064
@@ -652,6 +742,8 @@ After an empty water bottle was thrown, police fired foam rounds into a crowd, s
 tags: shoot, foam-bullet
 
 id: or-portland-38
+
+geolocation: 
 
 **Links**
 
@@ -672,6 +764,8 @@ tags: shove, tackle, knee, journalist, protester
 
 id: or-portland-39
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1277933736441479170
@@ -687,6 +781,8 @@ Footage then shows police attempting to tear banner out of the hands of proteste
 tags: shoot, projectile, property-destruction, baton, shove, strike, pepper-spray, spray, protester
 
 id: or-portland-41
+
+geolocation: 
 
 **Links**
 
@@ -708,6 +804,8 @@ tags: journalist, threaten, arrest
 
 id: or-portland-42
 
+geolocation: 
+
 **Links**
 
 * https://www.pscp.tv/w/1lPKqLgBrBWxb
@@ -724,6 +822,8 @@ tags: tear-gas, protester
 
 id: or-portland-43
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hj42i3/portland_police_fire_cs_gas_at_protestors/
@@ -736,6 +836,8 @@ Footage shows police arresting a member of the press. Her hands are cuffed behin
 tags: tear-gas, journalist, arrest, abuse-of-power
 
 id: or-portland-44
+
+geolocation: 
 
 **Links**
 
@@ -750,6 +852,8 @@ tags: arrest, strike, beat, baton, knee, knee-on-neck, tackle, protester
 
 id: or-portland-49
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@dollface999/video/6845321520802467077
@@ -763,6 +867,8 @@ Around 2:30 in the morning on July 2nd, footage shows police shooting at protest
 tags: shoot, projectile, protester
 
 id: or-portland-46
+
+geolocation: 
 
 **Links**
 
@@ -779,6 +885,8 @@ tags: shoot, journalist, pepper-ball
 
 id: or-portland-45
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1278635513746870276
@@ -791,6 +899,8 @@ Prior to incident or-portland-48, where police charged protesters, police inside
 tags: shoot, pepper-ball, protester
 
 id: or-portland-47
+
+geolocation: 
 
 **Links**
 
@@ -809,6 +919,8 @@ tags: shoot, projectile, pepper-spray, spray, pepper-ball, property-destruction,
 
 id: or-portland-48
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/KohzKah/status/1278944647151104000
@@ -823,6 +935,8 @@ Portland changed regulations so that police must declare a riot before using tea
 tags: shoot, pepper-ball, tackle, journalist, tear-gas, protester
 
 id: or-portland-50
+
+geolocation: 
 
 **Links**
 
@@ -840,6 +954,8 @@ tags: property-destruction, abuse-of-power, protester
 
 id: or-portland-51
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1279676776310923266
@@ -854,6 +970,8 @@ tags: tear-gas, tear-gas-canister, protester
 
 id: or-portland-52
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1279734884852891648
@@ -867,6 +985,8 @@ tags: tear-gas, shoot, projectile, protester
 
 id: or-portland-53
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1279728186197065730
@@ -879,6 +999,8 @@ Footage shows police declaring the protest a riot. They fire tear gas at protest
 tags: tear-gas, tackle, throw, journalist, shove, arrest, protester
 
 id: or-portland-54
+
+geolocation: 
 
 **Links**
 
@@ -894,6 +1016,8 @@ Footage also shows a reporter shoved by police, knocking the phone out of his ha
 tags: journalist, homeless, tear-gas, strike, baton, protester, bystander
 
 id: or-portland-57
+
+geolocation: 
 
 **Links**
 
@@ -911,6 +1035,8 @@ There have been numerous unconfirmed reports of these agents using excessive for
 tags: hide-badge, tear-gas, protester
 
 id: or-portland-55
+
+geolocation: 
 
 **Links**
 
@@ -931,6 +1057,8 @@ tags: knee, arrest, journalist, protester
 
 id: or-portland-56
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1280217831079018496
@@ -948,6 +1076,8 @@ tags: protester, stun-grenade, shoot, projectile
 
 id: or-portland-58
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1280758410602938370
@@ -962,6 +1092,8 @@ Early in the morning on July 11th, federal agents retreated into the courthouse 
 tags: protester, tear-gas
 
 id: or-portland-59
+
+geolocation: 
 
 **Links**
 
@@ -978,6 +1110,8 @@ tags: protester, journalist, lrad
 
 id: or-portland-68
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1282193909716672512
@@ -992,6 +1126,8 @@ tags: protester, shove
 
 id: or-portland-69
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/whittlingbabe/status/1282372585984978944
@@ -1004,6 +1140,8 @@ Footage shows federal officers rolling tear gas canisters into a crowd. Officers
 tags: journalist, protester, shoot, projectile, tear-gas
 
 id: or-portland-124
+
+geolocation: 
 
 **Links**
 
@@ -1021,6 +1159,8 @@ tags: protester, tear-gas, tear-gas-canister, shoot, projectile
 
 id: or-portland-60
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1282217421739225088
@@ -1036,6 +1176,8 @@ tags: protester, abuse-of-power
 
 id: or-portland-61
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1282341037554331649
@@ -1048,6 +1190,8 @@ In the aftermath of the events of or-portland-60, a journalist was filming prote
 tags: journalist, tear-gas, tear-gas-canister
 
 id: or-portland-62
+
+geolocation: 
 
 **Links**
 
@@ -1064,6 +1208,8 @@ tags: protester, tear-gas, shoot, projectile
 
 id: or-portland-63
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1282227070194446336
@@ -1079,6 +1225,8 @@ In what is allegedly the fourth distinct tear gassing of the night, federal agen
 tags: protester, tackle, arrest, tear-gas, shove, journalist
 
 id: or-portland-64
+
+geolocation: 
 
 **Links**
 
@@ -1102,6 +1250,8 @@ tags: protester, shoot, projectile
 
 id: or-portland-65
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/zerosum24/status/1282275808413966337
@@ -1118,6 +1268,8 @@ tags: journalist, shoot, projectile
 
 id: or-portland-66
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1282338521802563584
@@ -1131,6 +1283,8 @@ tags: medic, strike, beat, baton, shove
 
 id: or-portland-67
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hpvxlp/federal_officers_in_portland_or_attacking_medics/
@@ -1143,6 +1297,8 @@ Footage shows Federal agents emerge around a corner clouded with tear gas. One o
 tags: journalist, tear-gas, tear-gas-canister
 
 id: or-portland-70
+
+geolocation: 
 
 **Links**
 
@@ -1158,6 +1314,8 @@ tags: protester, abuse-of-power, property-destruction
 
 id: or-portland-71
 
+geolocation: 
+
 **Links**
 
 * https://clips.twitch.tv/NimbleGrossTildeSeemsGood
@@ -1170,6 +1328,8 @@ Around 12:30 AM PST, police arrive and declare a riot, giving a dispersal order.
 tags: tear-gas, protester
 
 id: or-portland-72
+
+geolocation: 
 
 **Links**
 
@@ -1185,6 +1345,8 @@ tags: pepper-spray, spray, protester, tackle, arrest, knee
 
 id: or-portland-73
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1282946442089205761
@@ -1197,6 +1359,8 @@ Footage shows a protester standing on the sidewalk with her hands up. An officer
 tags: pepper-spray, spray, protester
 
 id: or-portland-75
+
+geolocation: 
 
 **Links**
 
@@ -1211,6 +1375,8 @@ tags: pepper-spray, spray, protester
 
 id: or-portland-76
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/45thabsurdist/status/1282981954279731200
@@ -1223,6 +1389,8 @@ Footage shows U.S. Marshals using a variety of munitions (tear gas, flashbangs, 
 tags: tear-gas, stun-grenade, pepper-ball, shoot, protester
 
 id: or-portland-74
+
+geolocation: 
 
 **Links**
 
@@ -1241,6 +1409,8 @@ tags: arrest, abuse-of-power
 
 id: or-portland-77
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/matcha_chai/status/1283328232033411072
@@ -1256,6 +1426,8 @@ tags: vehicle, gun, protester, shove
 
 id: or-portland-78
 
+geolocation: 
+
 **Links**
 
 * https://clips.twitch.tv/CooperativeFlirtyLouseTriHard
@@ -1269,6 +1441,8 @@ Footage shows a protester riding down the street. He appears to say something to
 tags: protester, tackle, arrest, knee
 
 id: or-portland-86
+
+geolocation: 
 
 **Links**
 
@@ -1289,6 +1463,8 @@ This incident covers the broad incident - deployment of riot munitions against p
 tags: tear-gas, stun-grenade, pepper-ball, shoot, lrad
 
 id: or-portland-79
+
+geolocation: 
 
 **Links**
 
@@ -1316,6 +1492,8 @@ tags: homeless, protester, projectile
 
 id: or-portland-80
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1284020482556047360
@@ -1332,6 +1510,8 @@ tags: bystander, tear-gas
 
 id: or-portland-81
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1284025326612254720
@@ -1344,6 +1524,8 @@ At the beginning of the series of events in or-portland-79, police and federal a
 tags: protester, journalist, tear-gas, shoot, projectile
 
 id: or-portland-82
+
+geolocation: 
 
 **Links**
 
@@ -1359,6 +1541,8 @@ tags: protester, strike, tackle, shove, arrest
 
 id: or-portland-83
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Or_St14/status/1284015646880104449
@@ -1371,6 +1555,8 @@ Images from a medic show a bruise left a rubber bullet on July 16th. Other image
 tags: medic, shoot, projectile
 
 id: or-portland-122
+
+geolocation: 
 
 **Links**
 
@@ -1386,6 +1572,8 @@ Protesters appear to be standing spread out with their hands up when police and 
 tags: protester, tear-gas, shoot, projectile
 
 id: or-portland-84
+
+geolocation: 
 
 **Links**
 
@@ -1405,6 +1593,8 @@ tags: protester, baton, shove, arrest, knee
 
 id: or-portland-85
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1284032499832651778
@@ -1420,6 +1610,8 @@ Footage shows police speaking to a driver in a stopped car behind the police lin
 tags: vehicle, property-destruction, bystander
 
 id: or-portland-87
+
+geolocation: 
 
 **Links**
 
@@ -1437,6 +1629,8 @@ tags: tear-gas, protester
 
 id: or-portland-92
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/alex_zee/status/1284357333993152513
@@ -1449,6 +1643,8 @@ Footage shows approximately a dozen police and federal officers emerging from a 
 tags: arrest, protester, abuse-of-power, tackle
 
 id: or-portland-107
+
+geolocation: 
 
 **Links**
 
@@ -1466,6 +1662,8 @@ tags: strike, shove, throw, push, protester
 
 id: or-portland-88
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/alex_zee/status/1284357164396457984
@@ -1482,6 +1680,8 @@ tags: shove, protester
 
 id: or-portland-90
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1284430958142210147
@@ -1496,6 +1696,8 @@ Additional footage shows flashbangs used at that time. In addition, a reporter c
 tags: shoot, projectile, tear-gas, protester, stun-grenade, journalist
 
 id: or-portland-91
+
+geolocation: 
 
 **Links**
 
@@ -1513,6 +1715,8 @@ tags: shove, strike, punch, push, protester
 
 id: or-portland-93
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1284430729477099520
@@ -1525,6 +1729,8 @@ Footage uploaded around 4 AM PST shows a small cluster of protesters, approximat
 tags: shoot, gas, projectile, protester
 
 id: or-portland-94
+
+geolocation: 
 
 **Links**
 
@@ -1539,6 +1745,8 @@ tags: strike, shove, push, baton, threaten, protester
 
 id: or-portland-95
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1284420156760834050
@@ -1552,6 +1760,8 @@ tags: shoot, protester, pepper-ball, rubber-bullet
 
 id: or-portland-96
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Johnnthelefty/status/1284462376624877568
@@ -1564,6 +1774,8 @@ Footage shows a police officer grabbing a protester by the collar and hurling hi
 tags: protester, shove, throw, grab
 
 id: or-portland-89
+
+geolocation: 
 
 **Links**
 
@@ -1579,6 +1791,8 @@ The protester later tweeted that a surgeon has splinted it, but he will require 
 tags: protester, baton, strike, beat, pepper-spray, spray
 
 id: or-portland-97
+
+geolocation: 
 
 **Links**
 
@@ -1596,6 +1810,8 @@ tags: protester, pepper-spray, spray, tear-gas, shove
 
 id: or-portland-139
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=OmAdEp6pAp4
@@ -1608,6 +1824,8 @@ A group of women calling themselves Moms Against Police Brutality locked arms in
 tags: protester, shove, stun-grenade, pregnant
 
 id: or-portland-98
+
+geolocation: 
 
 **Links**
 
@@ -1625,6 +1843,8 @@ tags: journalist, shoot, projectile
 
 id: or-portland-99
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/defendpdx/status/1284410083661582337
@@ -1637,6 +1857,8 @@ Footage shows the end of a dispersal as police chase fleeing protesters. They hu
 tags: shove, push, tear-gas, tear-gas-canister, protester
 
 id: or-portland-100
+
+geolocation: 
 
 **Links**
 
@@ -1651,6 +1873,8 @@ tags: protester, shove, push, tackle, property-destruction
 
 id: or-portland-101
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/tuckwoodstock/status/1284734198926852097
@@ -1663,6 +1887,8 @@ Footage from outside the Justice Center shows police or federal agents dropping 
 tags: gas, protester
 
 id: or-portland-102
+
+geolocation: 
 
 **Links**
 
@@ -1677,6 +1903,8 @@ tags: tear-gas, shoot, projectile, pepper-spray, spray, protester
 
 id: or-portland-103
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/defendpdx/status/1284356286469955584
@@ -1690,6 +1918,8 @@ Footage taken outside the Justice Center shows federal agents shoving protesters
 tags: tear-gas, shove, protester, stun-grenade
 
 id: or-portland-104
+
+geolocation: 
 
 **Links**
 
@@ -1708,6 +1938,8 @@ tags: tear-gas, protester, stun-grenade
 
 id: or-portland-105
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LindseyPSmith7/status/1284729433329332226
@@ -1725,6 +1957,8 @@ tags: legal-observer, protester, shove
 
 id: or-portland-106
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1284888506486095872
@@ -1740,6 +1974,8 @@ tags: arrest, protester, threaten, abuse-of-power
 
 id: or-portland-108
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ekkabeen/status/1284454435473637377
@@ -1752,6 +1988,8 @@ Footage shows protesters and federal agents separated by a chain-link fence. Pro
 tags: protester, shoot, projectile
 
 id: or-portland-109
+
+geolocation: 
 
 **Links**
 
@@ -1768,6 +2006,8 @@ tags: journalist, shoot, projectile
 
 id: or-portland-110
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DonovanFarley/status/1285106726740480002
@@ -1783,6 +2023,8 @@ Footage from the evening of July 19th shows the initial push by federal officers
 tags: protester, journalist, tear-gas, rubber-bullet, pepper-ball, shoot, stun-grenade
 
 id: or-portland-111
+
+geolocation: 
 
 **Links**
 
@@ -1813,6 +2055,8 @@ tags: protester, tear-gas, rubber-bullet, pepper-ball, shoot, stun-grenade, prop
 
 id: or-portland-112
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Clypian/status/1285110508153012224
@@ -1831,6 +2075,8 @@ tags: protester, shoot, projectile, tear-gas, explosive
 
 id: or-portland-113
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDXAndy_/status/1285111515897421825
@@ -1843,6 +2089,8 @@ Protesters with hands up are seen opposite the Justice Center around 1 AM PST. C
 tags: protester, shoot, tear-gas, pepper-ball
 
 id: or-portland-116
+
+geolocation: 
 
 **Links**
 
@@ -1857,6 +2105,8 @@ tags: protester, journalist, shoot, projectile, tear-gas
 
 id: or-portland-114
 
+geolocation: 
+
 **Links**
 
 * [7:05](https://twitter.com/i/broadcasts/1MnxndjVOQXGO)
@@ -1870,6 +2120,8 @@ tags: protester, tear-gas
 
 id: or-portland-115
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Clypian/status/1285134827990036480
@@ -1882,6 +2134,8 @@ First-person footage shows a journalist groaning in pain after he is shot. Later
 tags: journalist, shoot, projectile
 
 id: or-portland-117
+
+geolocation: 
 
 **Links**
 
@@ -1897,6 +2151,8 @@ A journalist interviewed a bandaged protester who was allegedly struck by office
 tags: protester, explosive, projectile
 
 id: or-portland-263
+
+geolocation: 
 
 **Links**
 
@@ -1924,6 +2180,8 @@ Additional [footage](https://twitter.com/45thabsurdist/status/128549847152123904
 tags: tear-gas, shoot, projectile, stun-grenade, shove, grab, protester, pepper-ball, property-destruction
 
 id: or-portland-118
+
+geolocation: 
 
 **Links**
 
@@ -1957,6 +2215,8 @@ tags: shoot, projectile, protester
 
 id: or-portland-119
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ByMikeBaker/status/1285485252794699776
@@ -1971,6 +2231,8 @@ Officers also continue to fire tear gas throughout this incident.
 tags: shoot, journalist, projectile, tear-gas
 
 id: or-portland-120
+
+geolocation: 
 
 **Links**
 
@@ -1991,6 +2253,8 @@ Footage [here](https://twitter.com/MrOlmos/status/1285516804983361538) shows an 
 tags: shoot, stun-grenade, projectile, tear-gas, protester, property-destruction, foam-bullet
 
 id: or-portland-121
+
+geolocation: 
 
 **Links**
 
@@ -2017,6 +2281,8 @@ tags: shove, protester, journalist, pepper-spray, spray
 
 id: or-portland-123
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/itsmikebivins/status/1285480935098667008
@@ -2032,6 +2298,8 @@ The footage shows a push back and forth between federal officers and a shield wa
 tags: shoot, projectile, protester, stun-grenade, tear-gas, journalist, legal-observer
 
 id: or-portland-125
+
+geolocation: 
 
 **Links**
 
@@ -2053,6 +2321,8 @@ tags: shoot, projectile, protester, stun-grenade, journalist, legal-observer
 
 id: or-portland-126
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1285854874500911104
@@ -2065,6 +2335,8 @@ Right before midnight on July 21st, federal officers fired tear gas at the group
 tags: tear-gas, protester
 
 id: or-portland-130
+
+geolocation: 
 
 **Links**
 
@@ -2082,6 +2354,8 @@ tags: property-destruction, abuse-of-power
 
 id: or-portland-157
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/EndSoundtrack/status/1286022905835339776
@@ -2095,6 +2369,8 @@ tags: protester, shove, pepper-spray, spray
 
 id: or-portland-194
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/begoniacloak/status/1285516032459673600
@@ -2107,6 +2383,8 @@ The chair of the history department at Lewis & Clark College states she attended
 tags: protester, shoot, projectile
 
 id: or-portland-200
+
+geolocation: 
 
 **Links**
 
@@ -2124,6 +2402,8 @@ tags: shove, throw, protester, tear-gas, tear-gas-canister
 
 id: or-portland-127
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1285848158044483586
@@ -2137,6 +2417,8 @@ tags: journalist, shove
 
 id: or-portland-128
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1285868284684890113
@@ -2149,6 +2431,8 @@ During a series of events around 1 AM outside the Justice Center, federal office
 tags: shoot, projectile, stun-grenade, tear-gas, protester
 
 id: or-portland-129
+
+geolocation: 
 
 **Links**
 
@@ -2177,6 +2461,8 @@ The officers appear to have exited the building initially because protesters wer
 tags: shoot, projectile, stun-grenade, tear-gas, protester, property-destruction
 
 id: or-portland-131
+
+geolocation: 
 
 **Links**
 
@@ -2210,6 +2496,8 @@ tags: tackle, kick, strike, arrest, protester
 
 id: or-portland-132
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LindseyPSmith7/status/1285863778471436288
@@ -2224,6 +2512,8 @@ It is unclear what relation, if any, the occupants of the vehicle had to the pro
 tags: abuse-of-power, stun-grenade, protester, bystander
 
 id: or-portland-133
+
+geolocation: 
 
 **Links**
 
@@ -2240,6 +2530,8 @@ tags: abuse-of-power, threaten, shove, protester, journalist
 
 id: or-portland-134
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1285871044851462144
@@ -2253,6 +2545,8 @@ Footage shows federal officers firing into the crowd as they retreat into the Ju
 tags: journalist, shoot, rubber-bullet
 
 id: or-portland-135
+
+geolocation: 
 
 **Links**
 
@@ -2268,6 +2562,8 @@ tags: protester, shove, tackle
 
 id: or-portland-136
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1285861227336351744
@@ -2280,6 +2576,8 @@ First person footage from a livestreamer shows a tear gas canister shot at the l
 tags: journalist, tear-gas-canister
 
 id: or-portland-140
+
+geolocation: 
 
 **Links**
 
@@ -2300,6 +2598,8 @@ These events occurred shortly before midnight on the night of July 22nd.
 tags: shoot, protester, projectile, tear-gas, stun-grenade
 
 id: or-portland-137
+
+geolocation: 
 
 **Links**
 
@@ -2324,6 +2624,8 @@ tags: politician, protester, tear-gas
 
 id: or-portland-142
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1286194373739155456
@@ -2342,6 +2644,8 @@ tags: journalist, explosive, projectile
 
 id: or-portland-143
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/defendpdx/status/1286185049054879744
@@ -2359,6 +2663,8 @@ tags: protester, shoot, projectile
 
 id: or-portland-186
 
+geolocation: 
+
 **Links**
 
 * https://www.oregonlive.com/portland/2020/07/two-portlanders-hospitalized-after-shot-with-munitions-if-that-round-had-hit-me-in-the-neck-i-definitely-would-have-died.html
@@ -2371,6 +2677,8 @@ Approximately one hour after the events of or-portland-137 began, officers again
 tags: shoot, protester, projectile, tear-gas, stun-grenade
 
 id: or-portland-138
+
+geolocation: 
 
 **Links**
 
@@ -2390,6 +2698,8 @@ tags: protester, tear-gas
 
 id: or-portland-144
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LindseyPSmith7/status/1286239830725124099
@@ -2405,6 +2715,8 @@ tags: protester, grab, shoot, spray, pepper-spray, projectile
 
 id: or-portland-141
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1286217242909134848
@@ -2418,6 +2730,8 @@ tags: shoot, protester, tear-gas, tear-gas-canister
 
 id: or-portland-145
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1286218372103823360
@@ -2430,6 +2744,8 @@ In response to a small trash fire started by protesters, federal officers fire a
 tags: shoot, tear-gas, protester
 
 id: or-portland-146
+
+geolocation: 
 
 **Links**
 
@@ -2445,6 +2761,8 @@ tags: journalist, shoot, explosive, projectile
 
 id: or-portland-147
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Rjaellis/status/1286578718693978113
@@ -2458,6 +2776,8 @@ tags: protester, strike, baton
 
 id: or-portland-148
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1286583315324010496
@@ -2470,6 +2790,8 @@ Around 1:15 AM on July 24th, federal officers declared an unlawful assembly and 
 tags: protester, shoot, pepper-ball, tear-gas
 
 id: or-portland-149
+
+geolocation: 
 
 **Links**
 
@@ -2491,6 +2813,8 @@ tags: journalist, shoot, projectile
 
 id: or-portland-150
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MathieuLRolland/status/1286618588757991424
@@ -2506,6 +2830,8 @@ tags: protester, tear-gas
 
 id: or-portland-151
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Rjaellis/status/1286586303170060289
@@ -2520,6 +2846,8 @@ tags: protester, tear-gas
 
 id: or-portland-152
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1286599900759695361
@@ -2532,6 +2860,8 @@ After protesters manage to create a small breach in the fence surrounding the Ju
 tags: protester, tear-gas, shoot, pepper-ball, stun-grenade
 
 id: or-portland-153
+
+geolocation: 
 
 **Links**
 
@@ -2553,6 +2883,8 @@ tags: journalist, tear-gas, tear-gas-canister
 
 id: or-portland-154
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/wyattreed13/status/1286588240636518400
@@ -2567,6 +2899,8 @@ tags: arrest, grab, shoot, pepper-ball, protester
 
 id: or-portland-155
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/wyattreed13/status/1286627567630344194
@@ -2579,6 +2913,8 @@ Footage shows a man walking down the street. Two federal officers charge up behi
 tags: arrest, tackle, bystander
 
 id: or-portland-156
+
+geolocation: 
 
 **Links**
 
@@ -2596,6 +2932,8 @@ In addition, at least one journalist is struck by a flashbang, seen [here](https
 tags: protester, journalist, stun-grenade, tear-gas, shoot, pepper-ball, pepper-spray, spray, projectile
 
 id: or-portland-158
+
+geolocation: 
 
 **Links**
 
@@ -2629,6 +2967,8 @@ tags: protester, shoot, projectile
 
 id: or-portland-159
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1286915839686373378
@@ -2643,6 +2983,8 @@ tags: protester, person-with-disability, tear-gas, tear-gas-canister
 
 id: or-portland-165
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/tyler_ensign/status/1286940248006512640
@@ -2655,6 +2997,8 @@ A photojournalist and filmmaker wearing his press badge around his neck was shot
 tags: journalist, shoot, pepper-ball
 
 id: or-portland-262
+
+geolocation: 
 
 **Links**
 
@@ -2669,6 +3013,8 @@ Federal officers declare unlawful assembly around 1:20 AM and begin a second rou
 tags: protester, tear-gas
 
 id: or-portland-160
+
+geolocation: 
 
 **Links**
 
@@ -2688,6 +3034,8 @@ tags: protester, tear-gas
 
 id: or-portland-161
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1286966546187747329
@@ -2704,6 +3052,8 @@ tags: protester, shoot, projectile
 
 id: or-portland-162
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/gravemorgan/status/1286948398273196032
@@ -2716,6 +3066,8 @@ Just after midnight on July 25th, two officers speak to one another on one side 
 tags: protester, pepper-spray, spray
 
 id: or-portland-163
+
+geolocation: 
 
 **Links**
 
@@ -2731,6 +3083,8 @@ If the fire was the provocation for the assault, a journalist notes the officers
 tags: protester, tear-gas, shoot, projectile
 
 id: or-portland-164
+
+geolocation: 
 
 **Links**
 
@@ -2749,6 +3103,8 @@ tags: protester, pepper-spray, spray
 
 id: or-portland-166
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/arfbradford/status/1287271089362542592
@@ -2765,6 +3121,8 @@ tags: protester, shoot, projectile
 
 id: or-portland-180
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Amy_Siskind/status/1287614684418408448
@@ -2780,6 +3138,8 @@ tags: journalist, shoot, projectile
 
 id: or-portland-185
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/GriffinMalone6/status/1286968297980755968
@@ -2794,6 +3154,8 @@ During this exchange, [a reporter was struck by six pepper balls in the chest, w
 tags: protester, journalist, tear-gas, pepper-ball, stun-grenade, shoot
 
 id: or-portland-167
+
+geolocation: 
 
 **Links**
 
@@ -2823,6 +3185,8 @@ tags: protester, stun-grenade
 
 id: or-portland-174
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/revnatscider/status/1287293162508050432
@@ -2838,6 +3202,8 @@ tags: protester, bystander, tear-gas
 
 id: or-portland-168
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1287355449222680578
@@ -2851,6 +3217,8 @@ tags: bystander, property-destruction, tear-gas
 
 id: or-portland-169
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1287312287557066752
@@ -2863,6 +3231,8 @@ Footage shows police charging protesters without warning while a megaphone decla
 tags: protester, shove, arrest, push
 
 id: or-portland-170
+
+geolocation: 
 
 **Links**
 
@@ -2884,6 +3254,8 @@ tags: protester, journalist, shoot, projectile, shove, threaten, tear-gas
 
 id: or-portland-171
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1287301148748046336
@@ -2902,6 +3274,8 @@ tags: protester, pepper-spray, spray
 
 id: or-portland-172
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/andrewkimmel/status/1287319466120904704
@@ -2915,6 +3289,8 @@ tags: journalist, tear-gas, pepper-spray, spray
 
 id: or-portland-173
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1287312203045978112
@@ -2927,6 +3303,8 @@ Footage shows several officers detaining a protester in a cloud of tear gas. The
 tags: protester, tear-gas, baton, arrest, strike, inhumane-treatment
 
 id: or-portland-184
+
+geolocation: 
 
 **Links**
 
@@ -2945,6 +3323,8 @@ tags: protester, shove, baton
 
 id: or-portland-187
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Portland/comments/hy4fza/police_charge_after_dispersing_protesters_and/
@@ -2958,6 +3338,8 @@ tags: protester, shove, strike, beat, baton
 
 id: or-portland-193
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KohzKah/status/1287449509929213952
@@ -2970,6 +3352,8 @@ Image shows a protester with a bleeding wound on his right eye. The poster state
 tags: protester, shoot, projectile
 
 id: or-portland-198
+
+geolocation: 
 
 **Links**
 
@@ -2985,6 +3369,8 @@ tags: protester, arrest, knee, knee-on-neck
 
 id: or-portland-199
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DonovanFarley/status/1287316973882183680
@@ -2999,6 +3385,8 @@ tags: journalist, arrest
 
 id: or-portland-203
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/gravemorgan/status/1287805624969904129
@@ -3011,6 +3399,8 @@ Around 7:30, shots can be heard fired by Portland police. Protesters can be hear
 tags: medic, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-214
+
+geolocation: 
 
 **Links**
 
@@ -3026,6 +3416,8 @@ tags: strike, arrest, protester, baton, shoot, projectile, tackle
 
 id: or-portland-178
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1287664107726938112
@@ -3038,6 +3430,8 @@ Just after midnight on July 27th, federal officers fire tear gas at protesters, 
 tags: protester, tear-gas, shoot, projectile
 
 id: or-portland-175
+
+geolocation: 
 
 **Links**
 
@@ -3058,6 +3452,8 @@ After federal officers declare an unlawful assembly around 1 A<, protesters rema
 tags: protester, tear-gas, stun-grenade
 
 id: or-portland-176
+
+geolocation: 
 
 **Links**
 
@@ -3084,6 +3480,8 @@ tags: protester, tear-gas, shoot, projectile, arrest
 
 id: or-portland-177
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1287679352256094208
@@ -3107,6 +3505,8 @@ tags: journalist, shoot, projectile
 
 id: or-portland-179
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1287659096179499009
@@ -3120,6 +3520,8 @@ Footage shows a violent arrest made by federal officers. One officer sits on a w
 tags: arrest, knee, baton, zip-tie
 
 id: or-portland-181
+
+geolocation: 
 
 **Links**
 
@@ -3136,6 +3538,8 @@ tags: protester, pepper-spray, spray
 
 id: or-portland-182
 
+geolocation: 
+
 **Links**
 
 * https://clips.twitch.tv/MotionlessSplendidArtichokeTF2John
@@ -3150,6 +3554,8 @@ tags: journalist, tear-gas, shoot, projectile, stun-grenade
 
 id: or-portland-183
 
+geolocation: 
+
 **Links**
 
 * https://clips.twitch.tv/BlueImpartialMonkeySoonerLater
@@ -3163,6 +3569,8 @@ An image from a journalist shows his gas mask with a broken eye hole and his fac
 tags: journalist, shoot, projectile, pepper-ball
 
 id: or-portland-188
+
+geolocation: 
 
 **Links**
 
@@ -3181,6 +3589,8 @@ tags: protester, tear-gas, shoot, projectile
 
 id: or-portland-189
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1287997393351241728
@@ -3194,6 +3604,8 @@ First-person footage was taken by a resident on his balcony which overlooked the
 tags: bystander, shoot, projectile
 
 id: or-portland-204
+
+geolocation: 
 
 **Links**
 
@@ -3210,6 +3622,8 @@ A journalist quotes him as saying that he was holding a leafblower and a trumpet
 tags: protester, shoot, projectile
 
 id: or-portland-233
+
+geolocation: 
 
 **Links**
 
@@ -3228,6 +3642,8 @@ A reporter discusses the munitions used with protesters, including munitions con
 tags: protester, tear-gas, stun-grenade
 
 id: or-portland-190
+
+geolocation: 
 
 **Links**
 
@@ -3257,6 +3673,8 @@ tags: protester, tear-gas, stun-grenade, shoot, projectile
 
 id: or-portland-191
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/oh_rome/status/1288019583509512193
@@ -3283,6 +3701,8 @@ tags: punch, strike, baton, protester, arrest
 
 id: or-portland-192
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/begoniacloak/status/1287785075459756040
@@ -3295,6 +3715,8 @@ Footage shows police directing a bright strobe light at protesters and press att
 tags: protester, property-destruction, abuse-of-power
 
 id: or-portland-195
+
+geolocation: 
 
 **Links**
 
@@ -3309,6 +3731,8 @@ tags: protester, tear-gas, tear-gas-canister
 
 id: or-portland-196
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/chadloder/status/1288154159196172288
@@ -3321,6 +3745,8 @@ First person footage from a protester in a wheelchair shows them sitting still, 
 tags: protester, tear-gas, explosive, shoot, projectile, person-with-disability
 
 id: or-portland-197
+
+geolocation: 
 
 **Links**
 
@@ -3335,6 +3761,8 @@ Protesters had been launching fireworks and lighting small fires during the nigh
 tags: protester, tear-gas, shoot, projectile, pepper-ball
 
 id: or-portland-201
+
+geolocation: 
 
 **Links**
 
@@ -3363,6 +3791,8 @@ tags: journalist, arrest
 
 id: or-portland-205
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/FancyJenkins/status/1288427279291265024
@@ -3379,6 +3809,8 @@ tags: protester, pepper-spray, spray
 
 id: or-portland-202
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheHannahRay/status/1288425603205488643
@@ -3391,6 +3823,8 @@ Federal officers fire tear gas and impact munitions at gathered protesters stand
 tags: protester, tear-gas, shoot, projectile
 
 id: or-portland-206
+
+geolocation: 
 
 **Links**
 
@@ -3407,6 +3841,8 @@ Livestreamer struck with marking rounds, allegedly in crotch and collarbone. The
 tags: journalist, shoot, marking-round
 
 id: or-portland-207
+
+geolocation: 
 
 **Links**
 
@@ -3428,6 +3864,8 @@ Shortly after, officers returned inside the courthouse.
 tags: shoot, protester, tear-gas, projectile, journalist, tear-gas-canister, gas
 
 id: or-portland-208
+
+geolocation: 
 
 **Links**
 
@@ -3457,6 +3895,8 @@ tags: protester, spray, pepper-spray, arrest
 
 id: or-portland-209
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1288740269911707648
@@ -3475,6 +3915,8 @@ After pushing protesters down Salmon using more tear gas and impact munitions, o
 tags: protester, tear-gas, shoot, projectile
 
 id: or-portland-210
+
+geolocation: 
 
 **Links**
 
@@ -3503,6 +3945,8 @@ tags: protester, arrest, property-destruction, push, shove
 
 id: or-portland-211
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1288737289862930432
@@ -3515,6 +3959,8 @@ Around 1:30 AM, federal officers deploy tear gas and stun grenades against the r
 tags: protester, tear-gas, stun-grenade
 
 id: or-portland-212
+
+geolocation: 
 
 **Links**
 
@@ -3540,6 +3986,8 @@ tags: protester, shoot, projectile
 
 id: or-portland-213
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1288734291334053888
@@ -3552,6 +4000,8 @@ Images show a journalist's wound after she was shot in the knee; her knee is con
 tags: journalist, shoot, projectile
 
 id: or-portland-234
+
+geolocation: 
 
 **Links**
 
@@ -3568,6 +4018,8 @@ When police rush at protesters, a journalist is shoved into the side of a car th
 tags: journalist, spray, shove, pepper-spray
 
 id: or-portland-224
+
+geolocation: 
 
 **Links**
 
@@ -3586,6 +4038,8 @@ At [0:57 in this video](https://mobile.twitter.com/danielvmedia/status/129003760
 tags: protester, tackle, shove, grab, strike, pepper-spray, spray
 
 id: or-portland-225
+
+geolocation: 
 
 **Links**
 
@@ -3609,6 +4063,8 @@ tags: journalist, abuse-of-power, property-destruction
 
 id: or-portland-226
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1289793915332079617
@@ -3624,6 +4080,8 @@ tags: protester, shove, push
 
 id: or-portland-227
 
+geolocation: 
+
 **Links**
 
 * https://github.com/2020PB/police-brutality/issues/1270
@@ -3636,6 +4094,8 @@ Police charge protesters, shoving and striking with batons. Several of the moms 
 tags: protester, shove, strike, baton, pepper-spray, spray, property-destruction
 
 id: or-portland-228
+
+geolocation: 
 
 **Links**
 
@@ -3658,6 +4118,8 @@ tags: protester, arrest, pepper-spray, spray
 
 id: or-portland-229
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1290559156756213761
@@ -3670,6 +4132,8 @@ Two individuals with cameras are standing between parked cars on the edge of the
 tags: protester, arrest, shove, push, pepper-spray, spray
 
 id: or-portland-230
+
+geolocation: 
 
 **Links**
 
@@ -3685,6 +4149,8 @@ Several members of the press were pushed away from the arrest.
 tags: protester, journalist, arrest, shove, push, pepper-spray, spray
 
 id: or-portland-231
+
+geolocation: 
 
 **Links**
 
@@ -3705,6 +4171,8 @@ tags: protester, gas, explosive, projectile, stun-grenade
 
 id: or-portland-232
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/garbagefilth/status/1290916978509529089
@@ -3719,6 +4187,8 @@ After some protesters attempted to break into a Portland Police precinct, office
 tags: protester, tear-gas, pepper-spray, spray, shove, push
 
 id: or-portland-235
+
+geolocation: 
 
 **Links**
 
@@ -3742,6 +4212,8 @@ tags: protester, journalist, shove, push, arrest
 
 id: or-portland-236
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1291246658760486913
@@ -3760,6 +4232,8 @@ tags: journalist, legal-observer, shove, push
 
 id: or-portland-237
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1291246837005815808
@@ -3772,6 +4246,8 @@ After giving dispersal directions, police chase protesters and the protest Snack
 tags: protester, property-destruction
 
 id: or-portland-238
+
+geolocation: 
 
 **Links**
 
@@ -3789,6 +4265,8 @@ tags: protester, person-with-disability, shove, push
 
 id: or-portland-239
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1291644306323673090
@@ -3803,6 +4281,8 @@ tags: protester, pepper-spray, spray
 
 id: or-portland-240
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1291649145363554309
@@ -3815,6 +4295,8 @@ During a dispersal order, press are moving away from police according to the dis
 tags: protester, push, shove
 
 id: or-portland-241
+
+geolocation: 
 
 **Links**
 
@@ -3830,6 +4312,8 @@ tags: protester, arrest, pepper-spray, spray
 
 id: or-portland-247
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1291631618319253505
@@ -3844,6 +4328,8 @@ tags: journalist, pepper-spray, spray
 
 id: or-portland-242
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1291645839681576960
@@ -3857,6 +4343,8 @@ tags: protester, push, shove, grab, throw
 
 id: or-portland-243
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1291647242022137856
@@ -3869,6 +4357,8 @@ Press and protesters pepper sprayed and shoved while trying to follow orders to 
 tags: journalist, pepper-spray, spray, push, shove
 
 id: or-portland-244
+
+geolocation: 
 
 **Links**
 
@@ -3886,6 +4376,8 @@ tags: journalist, arrest, property-destruction
 
 id: or-portland-245
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1291959372268990464
@@ -3902,6 +4394,8 @@ tags: protester, abuse-of-power
 
 id: or-portland-250
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/danielvmedia/status/1292228817889554432
@@ -3914,6 +4408,8 @@ Footage shows several officers holding a protester down for arrest while several
 tags: arrest, protester, beat, strike, baton
 
 id: or-portland-251
+
+geolocation: 
 
 **Links**
 
@@ -3928,6 +4424,8 @@ tags: medic, arrest, pepper-spray, spray, punch
 
 id: or-portland-246
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1292012255714787330
@@ -3940,6 +4438,8 @@ Around 2 AM Pacfic time, police charged at the line of protester shields, using 
 tags: protester, arrest, shove, push
 
 id: or-portland-248
+
+geolocation: 
 
 **Links**
 
@@ -3954,6 +4454,8 @@ After protesters had thrown burning trash into the Portland Police Association, 
 tags: protester, tear-gas, shoot, projectile, push, shove, stun-grenade, baton
 
 id: or-portland-252
+
+geolocation: 
 
 **Links**
 
@@ -3972,6 +4474,8 @@ tags: journalist, explosive, projectile
 
 id: or-portland-254
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/suzettesmith/status/1292357734357069824
@@ -3987,6 +4491,8 @@ tags: journalist, shove, push
 
 id: or-portland-255
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Shauna_Sowersby/status/1292354667901407232
@@ -4000,6 +4506,8 @@ tags: protester, tear-gas, stun-grenade
 
 id: or-portland-253
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Shauna_Sowersby/status/1292365400403881984
@@ -4012,6 +4520,8 @@ During arrests made in Kenton Park, a journalist attempted to film arrests. An o
 tags: journalist, push, shove
 
 id: or-portland-256
+
+geolocation: 
 
 **Links**
 
@@ -4027,6 +4537,8 @@ tags: bystander, shoot, rubber-bullet, baton
 
 id: or-portland-257
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Mestizo43/status/1292758596128665600
@@ -4039,6 +4551,8 @@ Police declare unlawful assembly at a protest outside a police precinct. Police 
 tags: protester, shove, push, baton
 
 id: or-portland-259
+
+geolocation: 
 
 **Links**
 
@@ -4054,6 +4568,8 @@ tags: journalist, threaten, abuse-of-power
 
 id: or-portland-260
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1293073348444864513
@@ -4066,6 +4582,8 @@ Police give conflicting orders to press attempting to film an arrest. Police rep
 tags: journalist, shove, push
 
 id: or-portland-261
+
+geolocation: 
 
 **Links**
 
@@ -4080,6 +4598,8 @@ Police shove a protester into the crowd. The protester falls over. Police then s
 tags: protester, shove, push, strike, baton, arrest
 
 id: or-portland-269
+
+geolocation: 
 
 **Links**
 
@@ -4096,6 +4616,8 @@ tags: shove, push, strike, baton, protester, journalist
 
 id: or-portland-264
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1293807939925417985
@@ -4110,6 +4632,8 @@ Police fire tear gas at protesters after several attempts at dispersal, during w
 tags: protester, tear-gas
 
 id: or-portland-265
+
+geolocation: 
 
 **Links**
 
@@ -4133,6 +4657,8 @@ tags: protester, journalist, push, shove, punch, arrest
 
 id: or-portland-266
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/1misanthrophile/status/1293812124204978176
@@ -4148,6 +4674,8 @@ In a statement posted on Twitter, Timbers Army said the vehicle was on-site to p
 tags: protester, property-destruction
 
 id: or-portland-267
+
+geolocation: 
 
 **Links**
 
@@ -4166,6 +4694,8 @@ tags: protester, shove, push, strike, baton
 
 id: or-portland-268
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/Johnnthelefty/status/1293807313417957376
@@ -4178,6 +4708,8 @@ Protesters and police stand off in the streets. Protesters have formed a line of
 tags: protester, tackle, strike, shove, push, baton
 
 id: or-portland-271
+
+geolocation: 
 
 **Links**
 
@@ -4193,6 +4725,8 @@ tags: protester, kick
 
 id: or-portland-286
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/danielvmedia/status/1294671439581212677
@@ -4205,6 +4739,8 @@ A protester trips and attempts to stand. While trying to stand, an officer throw
 tags: protester, shove, push
 
 id: or-portland-273
+
+geolocation: 
 
 **Links**
 
@@ -4219,6 +4755,8 @@ tags: journalist, shove, push
 
 id: or-portland-274
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1294530884587069440
@@ -4231,6 +4769,8 @@ After police clear the protester shield line, protesters follow dispersal orders
 tags: protester, shove, push, baton
 
 id: or-portland-275
+
+geolocation: 
 
 **Links**
 
@@ -4245,6 +4785,8 @@ tags: protester, shove, push
 
 id: or-portland-276
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1294507959553126400
@@ -4258,6 +4800,8 @@ tags: protester, shove, push, baton
 
 id: or-portland-278
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1294507048663543808
@@ -4270,6 +4814,8 @@ A bystander in a vehicle with a Black Lives Matter sign pulled off to the side o
 tags: bystander, property-destruction, abuse-of-power
 
 id: or-portland-270
+
+geolocation: 
 
 **Links**
 
@@ -4286,6 +4832,8 @@ tags: protester, shove, push, baton
 
 id: or-portland-272
 
+geolocation: 
+
 **Links**
 
 * [17:06](https://www.pscp.tv/w/1rmGPYnZjeMJN?t=17m6s)
@@ -4300,6 +4848,8 @@ tags: journalist, shove, push
 
 id: or-portland-277
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1294584539201695744
@@ -4312,6 +4862,8 @@ Around midnight on August 15th, police declared a protest a riot. Protesters ass
 tags: protester, strike, baton, punch
 
 id: or-portland-279
+
+geolocation: 
 
 **Links**
 
@@ -4328,6 +4880,8 @@ tags: protester, journalist, tackle
 
 id: or-portland-284
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KohzKah/status/1295016916625395713
@@ -4341,6 +4895,8 @@ tags: protester, shoot, projectile, strike
 
 id: or-portland-287
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/gravemorgan/status/1295116634583994369
@@ -4353,6 +4909,8 @@ A journalist films as officers push through a line of protesters with shields. A
 tags: protester, journalist, push, shove
 
 id: or-portland-288
+
+geolocation: 
 
 **Links**
 
@@ -4368,6 +4926,8 @@ tags: protester, stun-grenade
 
 id: or-portland-280
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1294898551013572609
@@ -4380,6 +4940,8 @@ Police officers charge at protesters. A white pickup truck rolls along slowly wi
 tags: protester, property-destruction
 
 id: or-portland-281
+
+geolocation: 
 
 **Links**
 
@@ -4395,6 +4957,8 @@ tags: journalist, shove, push, baton
 
 id: or-portland-282
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1294900330488926208
@@ -4407,6 +4971,8 @@ Footage shows a protester holding a sign above their head and walking slowly awa
 tags: protester, push, shove
 
 id: or-portland-283
+
+geolocation: 
 
 **Links**
 
@@ -4421,6 +4987,8 @@ tags: protester, push, shove, abuse-of-power
 
 id: or-portland-285
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Spronsenite/status/1294954167874670596
@@ -4433,6 +5001,8 @@ Footage shows a protester shoved to the ground. She is carrying a small speaker 
 tags: push, shove, beat, strike, baton, protester
 
 id: or-portland-289
+
+geolocation: 
 
 **Links**
 
@@ -4453,6 +5023,8 @@ tags: push, shove, baton, strike, journalist
 
 id: or-portland-290
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Johnnthelefty/status/1295965796426891265
@@ -4467,6 +5039,8 @@ Footage shows a protester running by police. She is tackled to the ground and an
 tags: tackle, push, shove, protester, spray, pepper-spray
 
 id: or-portland-291
+
+geolocation: 
 
 **Links**
 
@@ -4485,6 +5059,8 @@ tags: protester, property-destruction
 
 id: or-portland-292
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Johnnthelefty/status/1295965796426891265
@@ -4498,6 +5074,8 @@ Police charge protesters, tackling several to the ground. Other officer shoves p
 tags: push, shove, tackle, strike, baton, protester
 
 id: or-portland-293
+
+geolocation: 
 
 **Links**
 
@@ -4513,6 +5091,8 @@ tags: journalist, push, shove, property-destruction
 
 id: or-portland-294
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/econbrkfst/status/1296004936841355266
@@ -4526,6 +5106,8 @@ After protesters throw water bottles at federal officers, at a protest outside a
 tags: protester, shoot, projectile
 
 id: or-portland-295
+
+geolocation: 
 
 **Links**
 
@@ -4543,6 +5125,8 @@ tags: shove, push, protester, baton, strike, pepper-spray, spray
 
 id: or-portland-296
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1296319472068784128
@@ -4559,6 +5143,8 @@ tags: shove, push, protester
 
 id: or-portland-297
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1296326519048957952
@@ -4571,6 +5157,8 @@ After police declared a riot, protesters lit a mattress and other objects in the
 tags: protester, stun-grenade, tear-gas
 
 id: or-portland-298
+
+geolocation: 
 
 **Links**
 
@@ -4593,6 +5181,8 @@ tags: journalist, legal-observer, arrest, tear-gas, push, shove
 
 id: or-portland-299
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1296367220868567042
@@ -4609,6 +5199,8 @@ tags: protester, property-destruction
 
 id: or-portland-300
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1296277161670656002
@@ -4623,6 +5215,8 @@ Officers then retreat temporarily, before later emerging to push protesters back
 tags: protester, shoot, projectile, tear-gas
 
 id: or-portland-301
+
+geolocation: 
 
 **Links**
 
@@ -4641,6 +5235,8 @@ tags: journalist, explosive, projectile
 
 id: or-portland-302
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/gravemorgan/status/1296696038309244928
@@ -4654,6 +5250,8 @@ An independent journalist wearing a press badge around her neck is seen filming 
 tags: journalist, tear-gas, tear-gas-canister, shoot, projectile
 
 id: or-portland-303
+
+geolocation: 
 
 **Links**
 
@@ -4671,6 +5269,8 @@ tags: protester, push, shove
 
 id: or-portland-304
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1296729797528150018
@@ -4683,6 +5283,8 @@ While being arrested, a protester can be heard saying, "Let me get my phone. Don
 tags: protester, arrest, property-destruction
 
 id: or-portland-305
+
+geolocation: 
 
 **Links**
 
@@ -4697,6 +5299,8 @@ tags: journalist, push, shove
 
 id: or-portland-306
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1297090542845583360
@@ -4709,6 +5313,8 @@ During dispersal at a protest, police walk protesters backwards. Protesters obey
 tags: protester, push, shove
 
 id: or-portland-307
+
+geolocation: 
 
 **Links**
 
@@ -4725,6 +5331,8 @@ tags: protester, gas, stun-grenade, strike, punch, baton
 
 id: or-portland-308
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/katemshepherd/status/1297091224587735040
@@ -4740,6 +5348,8 @@ tags: protester, push, shove
 
 id: or-portland-309
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1297113434299830272
@@ -4752,6 +5362,8 @@ A member of the press is filming police from several feet away. He tells an offi
 tags: journalist, property-destruction, strike
 
 id: or-portland-310
+
+geolocation: 
 
 **Links**
 
@@ -4769,6 +5381,8 @@ tags: protester, push, shove, shoot, projectile
 
 id: or-portland-311
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/IwriteOK/status/1297292316256870400
@@ -4781,6 +5395,8 @@ Around midnight on August 22nd, police gave conflicting orders to protesters reg
 tags: protester, legal-observer, push, shove, strike, baton
 
 id: or-portland-314
+
+geolocation: 
 
 **Links**
 
@@ -4796,6 +5412,8 @@ tags: protester, grab, abuse-of-power, knee
 
 id: or-portland-315
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1297435863719145472
@@ -4809,6 +5427,8 @@ A legal observer is seen talking to police, about events happening behind the po
 tags: legal-observer, push, shove
 
 id: or-portland-316
+
+geolocation: 
 
 **Links**
 
@@ -4824,6 +5444,8 @@ tags: protester, push, shove
 
 id: or-portland-317
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/poorfp/status/1297460850157002752
@@ -4836,6 +5458,8 @@ A protester falls to the ground during a police advance. Another protester runs 
 tags: protester, pepper-spray, spray
 
 id: or-portland-318
+
+geolocation: 
 
 **Links**
 
@@ -4850,6 +5474,8 @@ tags: protester, push, shove, pepper-spray, spray
 
 id: or-portland-312
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1297443641993003008
@@ -4863,6 +5489,8 @@ tags: protester, push, shove
 
 id: or-portland-313
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1297438973166415873
@@ -4875,6 +5503,8 @@ At a protest outside the North Precinct in Portland, protesters built a barricad
 tags: protester, tear-gas, stun-grenade, arrest
 
 id: or-portland-319
+
+geolocation: 
 
 **Links**
 
@@ -4895,6 +5525,8 @@ tags: protester, abuse-of-power, pepper-spray, spray
 
 id: or-portland-320
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MathieuLRolland/status/1297970388412981249
@@ -4908,6 +5540,8 @@ After protesters set an awning on fire, police emerged to extinguish the fire. P
 tags: protester, stun-grenade, tear-gas, tear-gas-canister
 
 id: or-portland-321
+
+geolocation: 
 
 **Links**
 
@@ -4923,6 +5557,8 @@ tags: journalist, stun-grenade
 
 id: or-portland-322
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1297981782084612096
@@ -4935,6 +5571,8 @@ Footage shows police following dispersing protesters. One protester is shoved re
 tags: protester, beat, strike, shove, push, arrest, tackle
 
 id: or-portland-323
+
+geolocation: 
 
 **Links**
 
@@ -4950,6 +5588,8 @@ Police continuously fire tear gas at dispersing protesters. One protester in a p
 tags: protester, tackle, arrest, tear-gas
 
 id: or-portland-324
+
+geolocation: 
 
 **Links**
 
@@ -4968,6 +5608,8 @@ tags: protester, beat, strike, pepper-spray, spray
 
 id: or-portland-325
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1298272827087306753
@@ -4982,6 +5624,8 @@ tags: protester, sexual-assault, push, shove, arrest
 
 id: or-portland-326
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/ighh02/portland_police_grabs_womans_chest_then_arrest/
@@ -4994,6 +5638,8 @@ Footage shows an officer walking a journalist filming from the sidewalk back. Th
 tags: push, shove, journalist
 
 id: or-portland-327
+
+geolocation: 
 
 **Links**
 
@@ -5010,6 +5656,8 @@ tags: protester, tackle, arrest, strike, punch, beat
 
 id: or-portland-328
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1298162855808839681
@@ -5022,6 +5670,8 @@ As police prepare to ride away, some protesters throw objects at them. Police hu
 tags: journalist, tear-gas-canister
 
 id: or-portland-329
+
+geolocation: 
 
 **Links**
 
@@ -5036,6 +5686,8 @@ Police charge at a line of protesters with shields. Police use batons to strike 
 tags: protester, arrest, strike, baton, beat
 
 id: or-portland-330
+
+geolocation: 
 
 **Links**
 
@@ -5053,6 +5705,8 @@ tags: protester, arrest, abuse-of-power
 
 id: or-portland-331
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/suzettesmith/status/1298537076149772288
@@ -5066,6 +5720,8 @@ A small group of protesters is on the sidewalk, chanting and yelling. An officer
 tags: protester, stun-grenade
 
 id: or-portland-332
+
+geolocation: 
 
 **Links**
 
@@ -5081,6 +5737,8 @@ tags: property-destruction
 
 id: or-portland-333
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MasonLakePhoto/status/1298573907595730949
@@ -5095,6 +5753,8 @@ tags: protester, shoot, projectile, foam-bullet
 
 id: or-portland-334
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MegaphonePdx/status/1298661361551945729
@@ -5107,6 +5767,8 @@ After a march ended at an ICE facility in Portland, protesters threw eggs and ot
 tags: protester, shoot, projectile, tear-gas
 
 id: or-portland-335
+
+geolocation: 
 
 **Links**
 
@@ -5131,6 +5793,8 @@ tags: protester, arrest, pepper-spray, spray
 
 id: or-portland-336
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1299627259913891840
@@ -5144,6 +5808,8 @@ A reporter attempts to film arrests being made in the lot of a gas station. As t
 tags: journalist, push, shove
 
 id: or-portland-337
+
+geolocation: 
 
 **Links**
 
@@ -5159,6 +5825,8 @@ tags: protester, arrest, abuse-of-power
 
 id: or-portland-338
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1299661351845945344
@@ -5171,6 +5839,8 @@ After declaring an unlawful assembly, police make several arrests. In this foota
 tags: protester, arrest, punch
 
 id: or-portland-339
+
+geolocation: 
 
 **Links**
 
@@ -5190,6 +5860,8 @@ tags: protester, journalist, legal-observer, tackle, arrest, push, shove, shoot,
 
 id: or-portland-340
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1300315083352887296
@@ -5205,6 +5877,8 @@ tags: protester, tackle, arrest, journalist, shove, push
 
 id: or-portland-341
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1300325203227017222
@@ -5217,6 +5891,8 @@ Around midnight on August 30th, Portland police retreat. An officer fires impact
 tags: protester, shoot, projectile
 
 id: or-portland-342
+
+geolocation: 
 
 **Links**
 
@@ -5231,6 +5907,8 @@ tags: protester, push, shove, property-destruction
 
 id: or-portland-343
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1300677826945847296
@@ -5243,6 +5921,8 @@ An officer runs ahead of the police line and violently tackles a protester. He t
 tags: protester, tackle, punch
 
 id: or-portland-344
+
+geolocation: 
 
 **Links**
 
@@ -5257,6 +5937,8 @@ tags: journalist, arrest
 
 id: or-portland-345
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/catalinagaitan_/status/1300700100981792768
@@ -5269,6 +5951,8 @@ Police make a series of violent arrests after declaring an unlawful assembly. On
 tags: protester, arrest, push, shove, tackle
 
 id: or-portland-346
+
+geolocation: 
 
 **Links**
 
@@ -5289,6 +5973,8 @@ tags: protester, shoot, projectile
 
 id: or-portland-347
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1302144388718501888
@@ -5301,6 +5987,8 @@ After declaring an unlawful assembly, police charge protesters to disperse them.
 tags: journalist, shove, push
 
 id: or-portland-348
+
+geolocation: 
 
 **Links**
 
@@ -5316,6 +6004,8 @@ tags: protester, tackle
 
 id: or-portland-349
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1302489836972945408
@@ -5329,6 +6019,8 @@ by protesters earlier in the night, but this event comes about half an hour late
 tags: protester, tear-gas, property-destruction
 
 id: or-portland-350
+
+geolocation: 
 
 **Links**
 
@@ -5349,6 +6041,8 @@ tags: journalist, push, shove
 
 id: or-portland-351
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MathieuLRolland/status/1302141026329456640
@@ -5361,6 +6055,8 @@ A journalist captured mass arrests made by police during a protest on September 
 tags: protester, arrest, punch
 
 id: or-portland-352
+
+geolocation: 
 
 **Links**
 
@@ -5375,6 +6071,8 @@ tags: protester, arrest, pepper-spray, spray
 
 id: or-portland-353
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1303567759532371968
@@ -5387,6 +6085,8 @@ Police tackle and arrest a houseless individual by a protest. The charges are un
 tags: homeless, tackle, arrest
 
 id: or-portland-354
+
+geolocation: 
 
 **Links**
 
@@ -5405,6 +6105,8 @@ tags: protester, shove, push
 
 id: or-portland-355
 
+geolocation: 
+
 **Links**
 
 * https://clips.twitch.tv/embed?clip=LightHilariousEyeballPlanking
@@ -5418,6 +6120,8 @@ Two DHS officers emerge from an ICE building outside of which protesters are gat
 tags: protester, grab, throw, arrest
 
 id: or-portland-356
+
+geolocation: 
 
 **Links**
 
@@ -5433,6 +6137,8 @@ At a protest outside an ICE facility in Portland, ICE and other DHS agents pushe
 tags: protester, tear-gas, shoot, projectile, pepper-ball, stun-grenade
 
 id: or-portland-357
+
+geolocation: 
 
 **Links**
 
@@ -5466,6 +6172,8 @@ After DHS agents pushed the protesters several blocks, protesters formed a line 
 tags: protester, tear-gas, shoot, projectile, pepper-ball, stun-grenade, arrest
 
 id: or-portland-358
+
+geolocation: 
 
 **Links**
 
@@ -5501,6 +6209,8 @@ tags: protester, tear-gas, shoot, projectile, pepper-ball, stun-grenade, arrest,
 
 id: or-portland-359
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1307215300094427138
@@ -5534,6 +6244,8 @@ tags: protester, arrest, punch
 
 id: or-portland-360
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1307253022569852928
@@ -5548,6 +6260,8 @@ tags: protester, bystander, shoot, pepper-ball, projectile, property-destruction
 
 id: or-portland-361
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PDocumentarians/status/1307225527460048896
@@ -5561,6 +6275,8 @@ Police puncture the tires of a vehicle in the road during a protest. The driver 
 tags: property-destruction, bystander
 
 id: or-portland-362
+
+geolocation: 
 
 **Links**
 
@@ -5577,6 +6293,8 @@ tags: protester, tear-gas, stun-grenade
 
 id: or-portland-363
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AFriendlyDad/status/1308996531878584320
@@ -5589,6 +6307,8 @@ Portland police and federal officers deployed tear gas, stun grenades and impact
 tags: protester, shoot, projectile, tear-gas, stun-grenade
 
 id: or-portland-364
+
+geolocation: 
 
 **Links**
 
@@ -5623,6 +6343,8 @@ tags: protester, spray, pepper-spray, arrest
 
 id: or-portland-365
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1309021042925596676
@@ -5636,6 +6358,8 @@ A protester wearing a reflective vest walks away from police with their hands up
 tags: protester, push, shove
 
 id: or-portland-366
+
+geolocation: 
 
 **Links**
 
@@ -5651,6 +6375,8 @@ tags: medic, shove, push
 
 id: or-portland-367
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1309008727098511361
@@ -5663,6 +6389,8 @@ Police push a journalist across the street as she attempts to film. Officers the
 tags: journalist, shove, push, threaten
 
 id: or-portland-368
+
+geolocation: 
 
 **Links**
 
@@ -5679,6 +6407,8 @@ tags: push, shove, protester, journalist, strike, baton
 
 id: or-portland-369
 
+geolocation: 
+
 **Links**
 
 * https://clips.twitch.tv/ArbitraryExcitedGoshawkCorgiDerp
@@ -5693,6 +6423,8 @@ tags: homeless, bystander, property-destruction, abuse-of-power
 
 id: or-portland-370
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1309234922830180352
@@ -5705,6 +6437,8 @@ A journalist is filming police from the sidewalk. He says, "Look how many of the
 tags: journalist, tear-gas, tear-gas-canister
 
 id: or-portland-371
+
+geolocation: 
 
 **Links**
 
@@ -5719,6 +6453,8 @@ tags: journalist, shoot, projectile, rubber-bullet
 
 id: or-portland-372
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ChrisKhatami/status/1309565049715847170
@@ -5731,6 +6467,8 @@ A protester holds a sign up at an officer, then retracts it and shows the office
 tags: pepper-spray, protester, spray
 
 id: or-portland-373
+
+geolocation: 
 
 **Links**
 
@@ -5745,6 +6483,8 @@ Police knock a delivery driver wearing a specialized food delivery backpack off 
 tags: bystander, arrest, tackle, zip-tie
 
 id: or-portland-374
+
+geolocation: 
 
 **Links**
 
@@ -5762,6 +6502,8 @@ tags: protester, pepper-spray, spray, grab, throw, arrest
 
 id: or-portland-375
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MrOlmos/status/1310080211342340097
@@ -5776,6 +6518,8 @@ One of the journalists in the group is a guide for a blind journalist. Police ar
 tags: journalist, legal-observer, push, shove, person-with-disability
 
 id: or-portland-376
+
+geolocation: 
 
 **Links**
 
@@ -5792,6 +6536,8 @@ Police shove a protester to the ground. A second protester helps her up. A prote
 tags: protester, push, shove, grab, property-destruction
 
 id: or-portland-377
+
+geolocation: 
 
 **Links**
 
@@ -5810,6 +6556,8 @@ tags: protester, push, shove
 
 id: or-portland-378
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KohzKah/status/1310144506457518081
@@ -5824,6 +6572,8 @@ A police officer is seen warning white armed men that police are planning to fir
 tags: tear-gas, inhumane-treatment
 
 id: or-salem-1
+
+geolocation: 
 
 **Links**
 
@@ -5843,6 +6593,8 @@ A filmer and a journalist allege a taser was used. The alleged use of the taser 
 tags: shove, push, strike, baton, punch, arrest, protester, grab, taser, tase
 
 id: or-springfield-1
+
+geolocation: 
 
 **Links**
 

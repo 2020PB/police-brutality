@@ -8,6 +8,8 @@ tags: journalist, arrest, tackle
 
 id: de-dover-1
 
+geolocation: 
+
 **Links**
 
 * https://www.usatoday.com/story/news/nation/2020/06/09/george-floyd-protests-usa-today-network-reporter-arrested-delaware/5331163002/
@@ -23,6 +25,8 @@ Dover PD is investigating the use of force incident.
 tags: arrest, tackle, shove, push, knee, strike, protester
 
 id: de-dover-2
+
+geolocation: 
 
 **Links**
 

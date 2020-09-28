@@ -12,6 +12,8 @@ tags: arrest, tear-gas, pepper-spray, spray, shoot, pepper-ball, protester
 
 id: sd-keystone-1
 
+geolocation: 
+
 **Links**
 
 * [Livestream. See timestamps above](https://www.pscp.tv/w/1BRKjYOAEMpxw)

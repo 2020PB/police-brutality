@@ -8,6 +8,8 @@ tags: journalist, baton, beat, strike
 
 id: mn-minneapolis-21
 
+geolocation: 
+
 **Links**
 
 * https://youtu.be/XAa5xb6JitI?t=5982
@@ -22,6 +24,8 @@ tags: abuse-of-power, arrest, protester
 
 id: mn-minneapolis-28
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/
@@ -34,6 +38,8 @@ Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of 
 tags: stun-grenade, rubber-bullet, tear-gas, protester
 
 id: mn-minneapolis-14
+
+geolocation: 
 
 **Links**
 
@@ -48,6 +54,8 @@ Michael Adams, correspondent for VICE News, films officers entering a parking lo
 tags: journalist, spray, pepper-spray
 
 id: mn-minneapolis-1
+
+geolocation: 
 
 **Links**
 
@@ -65,6 +73,8 @@ tags: shoot, rubber-bullet, tear-gas, bystander
 
 id: mn-minneapolis-20
 
+geolocation: 
+
 **Links**
 
 * https://youtu.be/46qWpv-yFE8?t=268
@@ -77,6 +87,8 @@ While sitting in their cars, the policemen proceed to pepper spray the protester
 tags: drive, vehicle, pepper-spray, spray, protester
 
 id: mn-minneapolis-3
+
+geolocation: 
 
 **Links**
 
@@ -91,6 +103,8 @@ Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them
 tags: journalist, arrest
 
 id: mn-minneapolis-4
+
+geolocation: 
 
 **Links**
 
@@ -107,6 +121,8 @@ tags: arrest, baton, journalist, projectile, shoot, shove
 
 id: mn-minneapolis-5
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=wmpic2NU1RM&feature=youtu.be
@@ -121,6 +137,8 @@ tags: journalist, rubber-bullet, tear-gas, shoot
 
 id: mn-minneapolis-15
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1266962631887224837
@@ -133,6 +151,8 @@ In the video, police can be seen in the distance and shots towards the camera ca
 tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-16
+
+geolocation: 
 
 **Links**
 
@@ -148,6 +168,8 @@ tags: journalist, shoot
 
 id: mn-minneapolis-27
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/brianstelter/status/1266910826797113347
@@ -160,6 +182,8 @@ A crew of CBS reporters was fired on by police while they were not standing anyw
 tags: 
 
 id: mn-minneapolis-23
+
+geolocation: 
 
 **Links**
 
@@ -178,6 +202,8 @@ tags: medic, property-destruction
 
 id: mn-minneapolis-25
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=gfb_zJiMTFU
@@ -190,6 +216,8 @@ Footage shows law enforcement officers at a distance appearing to slash car tire
 tags: abuse-of-power, property-destruction
 
 id: mn-minneapolis-29
+
+geolocation: 
 
 **Links**
 
@@ -205,6 +233,8 @@ tags: shoot, pepper-ball, bystander
 
 id: mn-minneapolis-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/tkerssen/status/1266921821653385225
@@ -217,6 +247,8 @@ The woman proceeds to tell the story of what she faced while trying to get foota
 tags: shoot, tear-gas, journalist
 
 id: mn-minneapolis-6
+
+geolocation: 
 
 **Links**
 
@@ -232,6 +264,8 @@ Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger wi
 tags: marking-round, property-destruction, shoot, journalist
 
 id: mn-minneapolis-7
+
+geolocation: 
 
 **Links**
 
@@ -249,6 +283,8 @@ In the *Mother Jones* article linked below, video footage shows police slashing 
 tags: property-destruction
 
 id: mn-minneapolis-8
+
+geolocation: 
 
 **Links**
 
@@ -268,6 +304,8 @@ tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-9
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1266971884001693696
@@ -281,6 +319,8 @@ MSNBC reporters are with a crowd of people walking away from an advancing line o
 tags: journalist, stun-grenade, explosive, projectile
 
 id: mn-minneapolis-10
+
+geolocation: 
 
 **Links**
 
@@ -297,6 +337,8 @@ tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-11
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/KillerMartinis/status/1266618525600399361?s=19
@@ -312,6 +354,8 @@ tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-12
 
+geolocation: 
+
 **Links**
 
 * https://www.reuters.com/article/us-minneapolis-police-protest-update/reuters-cameraman-hit-by-rubber-bullets-as-police-disperse-protesters-idUSKBN237050
@@ -324,6 +368,8 @@ German reporter for DW News is shot at by Minneapolis police, who then threaten 
 tags: journalist, rubber-bullet, shoot, threaten, arrest
 
 id: mn-minneapolis-13
+
+geolocation: 
 
 **Links**
 
@@ -338,6 +384,8 @@ tags: vehicle, drive, spray, pepper-spray, protester
 
 id: mn-minneapolis-17
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/keycodez/status/1267235529311113216/video/1
@@ -351,6 +399,8 @@ tags: medic, rubber-bullet, shoot
 
 id: mn-minneapolis-18
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
@@ -363,6 +413,8 @@ South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepp
 tags: journalist, pepper-spray, baton, beat, tear-gas, shoot, projectile, spray
 
 id: mn-minneapolis-19
+
+geolocation: 
 
 **Links**
 
@@ -379,6 +431,8 @@ tags: kick, protester
 
 id: mn-minneapolis-30
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@montygeer/video/6840314007954509062
@@ -392,6 +446,8 @@ tags: protester, pepper-spray, spray
 
 id: mn-minneapolis-31
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/EvryDayEvryWay/status/1298794226033938432
@@ -404,6 +460,8 @@ A protester says something to an officer in Minneapolis. The officer says, "What
 tags: protester, shoot, projectile
 
 id: mn-minneapolis-32
+
+geolocation: 
 
 **Links**
 

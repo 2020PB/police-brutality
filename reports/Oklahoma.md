@@ -8,6 +8,8 @@ tags: projectile, shoot, protester
 
 id: ok-oklahomacity-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/BruceBrownJr/status/1266979654499479552
@@ -20,6 +22,8 @@ Four different videos, in what is believed to be chronological order, show law e
 tags: tear-gas, protester
 
 id: ok-oklahomacity-2
+
+geolocation: 
 
 **Links**
 
@@ -37,6 +41,8 @@ tags: shove, arrest, knee, protester
 
 id: ok-oklahomacity-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269790337075228679
@@ -51,6 +57,8 @@ When Tulsa Police opened fire on peaceful protesters, reporters for Tulsa's chan
 tags: journalist, shoot, pepper-ball, stun-grenade, tear-gas, protester
 
 id: ok-tulsa-1
+
+geolocation: 
 
 **Links**
 

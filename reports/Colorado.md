@@ -10,6 +10,8 @@ tags: strike, beat, baton, pepper-spray, spray, protester
 
 id: co-aurora-1
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hhfrh8/062820_musicians_in_aurora_colorado_honoring/
@@ -41,6 +43,8 @@ tags: arrest, beat, punch, knee, rubber-bullet, tackle, protester
 
 id: co-coloradosprings-1
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/Shawn.R.Russ/videos/10221345617964005/
@@ -56,6 +60,8 @@ Around 8:00, police advance, firing tear gas canisters at protesters. Multiple b
 tags: protester, tear-gas, bystander, lrad, spray, pepper-spray
 
 id: co-coloradosprings-2
+
+geolocation: 
 
 **Links**
 
@@ -74,6 +80,8 @@ tags: journalist, shoot, pepper-ball
 
 id: co-denver-1
 
+geolocation: 
+
 **Links**
 
 * https://www.denverpost.com/2020/05/29/denver-post-photographer-pepper-balls-george-floyd-protest/
@@ -87,6 +95,8 @@ A man is filming police activity through his sunroof. An officer approaches, pos
 tags: pepper-spray, spray, vehicle, protester
 
 id: co-denver-2
+
+geolocation: 
 
 **Links**
 
@@ -104,6 +114,8 @@ tags: journalist, tear-gas, projectile, shoot, pepper-ball
 
 id: co-denver-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AdiGTV/status/1266554320717099008
@@ -120,6 +132,8 @@ tags: shoot, projectile, vehicle, protester
 
 id: co-denver-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DoughertyKMGH/status/1266560264918491138/video/1
@@ -133,6 +147,8 @@ tags: tear-gas, tear-gas-canister, shoot, projectile, protester
 
 id: co-denver-13
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Denver/comments/gslcxb/the_moment_the_cops_tear_gassed_the_protesters_at/
@@ -145,6 +161,8 @@ Policemen throw a reporter to the ground, apparently with little or no warning a
 tags: push, shove, throw, journalist
 
 id: co-denver-5
+
+geolocation: 
 
 **Links**
 
@@ -161,6 +179,8 @@ tags: body-cam, tear-gas, shoot, protester
 
 id: co-denver-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/moneyroe99/status/1266956171409346566
@@ -173,6 +193,8 @@ A member of the press is filming from an empty sidewalk. Law enforcement shoot a
 tags: journalist, shoot
 
 id: co-denver-7
+
+geolocation: 
 
 **Links**
 
@@ -187,6 +209,8 @@ tags: shoot, projectile, rubber-bullet, protester
 
 id: co-denver-14
 
+geolocation: 
+
 **Links**
 
 * https://www.denverpost.com/2020/06/09/denver-protest-bystander-blinded/
@@ -200,6 +224,8 @@ A crowd of police officers walk towards two people on the side walk. The two peo
 tags: mace, spray, protester
 
 id: co-denver-15
+
+geolocation: 
 
 **Links**
 
@@ -216,6 +242,8 @@ tags: journalist, tear-gas, tear-gas-canister
 
 id: co-denver-23
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LEFendt/status/1267274100793212929
@@ -231,6 +259,8 @@ tags: pregnant, pepper-ball, shoot, vehicle, bystander
 
 id: co-denver-8
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gumff6/denver_police_fire_pepper_balls_at_a_car_with_a/
@@ -245,6 +275,8 @@ tags: shoot, pepper-ball, protester
 
 id: co-denver-9
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/heyydnae/status/1267139396278661121?s=21
@@ -257,6 +289,8 @@ Police officer snatches away protester's sign and and sprays them with pepper sp
 tags: property-destruction, pepper-spray, spray, tear-gas, protester
 
 id: co-denver-10
+
+geolocation: 
 
 **Links**
 
@@ -274,6 +308,8 @@ tags: shoot, projectile, protester
 
 id: co-denver-19
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
@@ -286,6 +322,8 @@ Journalist Alex Burness was hit by some sort of projectile. Later in the night, 
 tags: shoot, projectile, tear-gas, journalist, shove, threaten
 
 id: co-denver-22
+
+geolocation: 
 
 **Links**
 
@@ -309,6 +347,8 @@ tags: incitement, protester
 
 id: co-denver-17
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DenverPolice/status/1267571824054775808
@@ -322,6 +362,8 @@ An activist and member of the Use of Force committee for Denver Police says offi
 tags: shoot, tear-gas, tear-gas-canister, pepper-ball, protester
 
 id: co-denver-11
+
+geolocation: 
 
 **Links**
 
@@ -337,6 +379,8 @@ Denver SWAT unit tackles group of peaceful protesters who were walking and chant
 tags: tackle, arrest, protester
 
 id: co-denver-12
+
+geolocation: 
 
 **Links**
 
@@ -355,6 +399,8 @@ tags: shoot, projectile, explosive, protester
 
 id: co-denver-18
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
@@ -368,6 +414,8 @@ tags: protester, spray, pepper-spray
 
 id: co-denver-25
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/greg_doucette/status/1287247799483092992
@@ -380,6 +428,8 @@ Footage shows a protester following police direction across a road. He stops to 
 tags: pepper-spray, spray, protester
 
 id: co-denver-20
+
+geolocation: 
 
 **Links**
 
@@ -398,6 +448,8 @@ tags: arrest, shove, strike, shoot, pepper-ball, baton, knee, tear-gas, pepper-s
 
 id: co-denver-21
 
+geolocation: 
+
 **Links**
 
 * [Begins at 1:28:00; medic arrested at 1:34:00](https://www.youtube.com/watch?v=1OFDLRa9wFc&feature=youtu.be&t=5326)
@@ -414,6 +466,8 @@ tags: protester, pepper-spray, spray, shoot, projectile
 
 id: co-denver-24
 
+geolocation: 
+
 **Links**
 
 * https://www.denverpost.com/2020/07/19/pro-police-rally-denver-cific-center-counter-protest/
@@ -428,6 +482,8 @@ At a protest against the clearance of a homeless encampent, police pushed protes
 tags: politician, strike
 
 id: co-denver-26
+
+geolocation: 
 
 **Links**
 
@@ -447,6 +503,8 @@ On August 26th, police attempted to arrest an individual distributing food and a
 tags: protester, arrest, shoot, projectile, tackle
 
 id: co-denver-27
+
+geolocation: 
 
 **Links**
 

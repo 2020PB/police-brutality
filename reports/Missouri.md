@@ -8,6 +8,8 @@ tags: pepper-spray, spray, arrest, protester
 
 id: mo-kansascity-5
 
+geolocation: 
+
 **Links**
 
 * https://www.kansascity.com/news/local/article243188436.html
@@ -21,6 +23,8 @@ A video linked shows the police pepper spraying some protesters who don't seem t
 tags: pepper-spray, spray, arrest, protester
 
 id: mo-kansascity-6
+
+geolocation: 
 
 **Links**
 
@@ -36,6 +40,8 @@ tags: child, tear-gas, protester
 
 id: mo-kansascity-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/imunoz03/status/1266908372881768448
@@ -48,6 +54,8 @@ Footage shows a protester speaking to other protesters on a megaphone. Police gr
 tags: arrest, pepper-spray, spray, protester
 
 id: mo-kansascity-2
+
+geolocation: 
 
 **Links**
 
@@ -63,6 +71,8 @@ tags: arrest, pepper-spray, spray, protester
 
 id: mo-kansascity-8
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@keraclark2/video/6833017428105055494
@@ -77,6 +87,8 @@ tags: pepper-spray, spray, tear-gas, arrest, shove, protester
 
 id: mo-kansascity-3
 
+geolocation: 
+
 **Links**
 
 * [CNN Report](https://www.cnn.com/2020/06/02/us/kansas-city-police-spray-protester-who-yelled/index.html)
@@ -90,6 +102,8 @@ A police officer pulls away a protester standing still. When others come to the 
 tags: grab, spray, pepper-spray, protester
 
 id: mo-kansascity-4
+
+geolocation: (+39.0425007, -94.5880276)
 
 **Links**
 
@@ -109,6 +123,8 @@ tags: pepper-spray, rubber-bullet, spray, shoot, protester
 
 id: mo-kansascity-7
 
+geolocation: 
+
 **Links**
 
 * https://www.thepitchkc.com/showing-up-as-an-ally-i-didnt-expect-the-police-to-blind-me-forever-but-ive-mad-my-piece/
@@ -124,6 +140,8 @@ tags: pepper-spray, spray, push, shove, protester
 
 id: mo-ferguson-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ChuckModi1/status/1292669449624068096
@@ -138,6 +156,8 @@ Chris Philips, a well known member of the media in the Ferguson area, discusses 
 tags: pepper-spray, spray, journalist
 
 id: mo-ferguson-2
+
+geolocation: 
 
 **Links**
 
@@ -158,6 +178,8 @@ tags: vehicle, drive, kick, strike, beat, body-cam, non-protest
 
 id: mo-florissant-1
 
+geolocation: 
+
 **Links**
 
 * https://www.ksdk.com/article/news/local/video-shows-florissant-officer-in-unmarked-car-hit-man-who-appears-to-be-running-away/63-5db688ff-2f31-4e55-9d24-0707ecdb677f
@@ -177,6 +199,8 @@ tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, thr
 
 id: mo-florissant-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/NassimBnchabane/status/1277054826858323969
@@ -194,6 +218,8 @@ Footage shows police using shields and batons to shove protesters. Protesters at
 tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, protester
 
 id: mo-florissant-4
+
+geolocation: 
 
 **Links**
 
@@ -213,6 +239,8 @@ Footage from the second link also shows violent arrests where police force prote
 tags: shoot, rubber-bullet, pepper-ball, projectile, mace, pepper-spray, spray, arrest, protester
 
 id: mo-florissant-3
+
+geolocation: 
 
 **Links**
 

@@ -8,6 +8,8 @@ tags: tear-gas, mace, spray, protester
 
 id: ia-desmoines-2
 
+geolocation: 
+
 **Links**
 
 * https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301
@@ -20,6 +22,8 @@ Recorded from inside a car, camera pans to surroundings, a woman's hand in the c
 tags: rubber-bullet, tear-gas, shoot, property-destruction, bystander
 
 id: ia-desmoines-3
+
+geolocation: (+41.6293563, -93.6988361)
 
 **Links**
 
@@ -36,6 +40,8 @@ tags: tear-gas, pepper-spray, spray, protester, beat, strike, shield, baton, sho
 
 id: ia-desmoines-11
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/andre.develliott.9/videos/260083008434875/
@@ -49,6 +55,8 @@ A reporter from the Des Moines Register is shown sitting on the ground zip-tied 
 tags: journalist, arrest, pepper-spray, spray, zip-tie
 
 id: ia-desmoines-7
+
+geolocation: 
 
 **Links**
 
@@ -64,6 +72,8 @@ tags: protester, bystander, gas
 
 id: ia-desmoines-12
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/desmoines/comments/guds5i/tear_gas_being_fired_at_protestors/
@@ -76,6 +86,8 @@ Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Regist
 tags: journalist, pepper-spray, spray
 
 id: ia-desmoines-4
+
+geolocation: 
 
 **Links**
 
@@ -91,6 +103,8 @@ tags: threaten, arrest, shove, pepper-spray, spray, bystander
 
 id: ia-desmoines-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
@@ -104,6 +118,8 @@ tags: arrest, racial-profiling, protester
 
 id: ia-desmoines-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
@@ -116,6 +132,8 @@ id: ia-desmoines-6
 tags: arrest, lgbtq+, protester
 
 id: ia-desmoines-5
+
+geolocation: (+41.590306, -93.6114412)
 
 **Links**
 
@@ -133,6 +151,8 @@ Footage shows two protesters being arrested. Four police are making the arrests,
 tags: arrest, knee, abuse-of-power, protester
 
 id: ia-desmoines-10
+
+geolocation: 
 
 **Links**
 
@@ -157,6 +177,8 @@ tags: pepper-spray, spray, shove, shield, push, child, protester
 
 id: ia-desmoines-9
 
+geolocation: 
+
 **Links**
 
 * https://www.instagram.com/tv/CBw5mKxjHPq/
@@ -175,6 +197,8 @@ White protesters were inside the Capitol, police identified some of them claimed
 tags: spray, pepper-spray, tackle, beat, arrest, child, protester
 
 id: ia-desmoines-8
+
+geolocation: 
 
 **Links**
 
@@ -199,6 +223,8 @@ According to the mayor, Iowa State Patrol was in command of the scene (though so
 tags: tear-gas, protester, stun-grenade, medic
 
 id: ia-iowacity-1
+
+geolocation: 
 
 **Links**
 

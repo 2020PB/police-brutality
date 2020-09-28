@@ -10,6 +10,8 @@ tags: tear-gas, tear-gas-canister, protester
 
 id: la-neworleans-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/misaacstein/status/1268381797081022464

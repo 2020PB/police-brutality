@@ -10,6 +10,8 @@ tags: lrad, protester
 
 id: ca-beverlyhills-1
 
+geolocation: 
+
 **Links**
 
 * [1:34, 3:43](https://youtu.be/doQMq8Iwcjc?t=94)
@@ -23,6 +25,8 @@ A protester in the street argues with a police officer. The officer shoves the p
 tags: protester, push, shove, pepper-spray, spray
 
 id: ca-beverlyhills-2
+
+geolocation: 
 
 **Links**
 
@@ -39,6 +43,8 @@ tags: tear-gas, tear-gas-canister, protester
 
 id: ca-clayton-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/CorinneAllen20/status/1268000716884283393
@@ -54,6 +60,8 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment, protester
 
 id: ca-compton-1
+
+geolocation: (+33.9038142, -118.2141026)
 
 **Links**
 
@@ -79,6 +87,8 @@ tags: tear-gas, projectile, shoot, rubber-bullet, protester, journalist
 
 id: ca-compton-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LATACO/status/1274874827786997761
@@ -101,6 +111,8 @@ tags: hide-badge
 
 id: ca-costa-mesa-1
 
+geolocation: 
+
 **Links**
 
 * https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
@@ -117,6 +129,8 @@ Police arrived shortly thereafter. They told the counter-protesters to wait in p
 tags: abuse-of-power, protester
 
 id: ca-gustine-1
+
+geolocation: (+37.2535159, -120.998706)
 
 **Links**
 
@@ -143,6 +157,8 @@ tags: arrest, threaten, inhumane-treatment, protester
 
 id: ca-hollywood-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AdoreDelano/status/1267688320735166465
@@ -157,6 +173,8 @@ Footage does not indicate that any protesters were violent with any officer befo
 tags: shove, shoot, rubber-bullet, protester
 
 id: ca-hollywood-2
+
+geolocation: 
 
 **Links**
 
@@ -173,6 +191,8 @@ tags: shoot, projectile, protester
 
 id: ca-hungtingtonbeach-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Ricardo_4715/status/1267334754119999488
@@ -188,6 +208,8 @@ tags: tear-gas, projectile, shoot, protester
 
 id: ca-lamesa-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/mamitbh/status/1267030342243778561
@@ -200,6 +222,8 @@ La Mesa PD shoot a woman in the face with a bean bag round.
 tags: shoot, bean-bag, protester
 
 id: ca-lamesa-1
+
+geolocation: 
 
 **Links**
 
@@ -219,6 +243,8 @@ tags: shoot, rubber-bullet, journalist
 
 id: ca-longbeach-1
 
+geolocation: 
+
 **Links**
 
 * https://laist.com/2020/05/31/reporters_injured_protests_police.php
@@ -232,6 +258,8 @@ A crowd of protesters is chanting peacefully. A shot is fired offscreen and a wo
 tags: shoot, projectile, tear-gas, protester
 
 id: ca-longbeach-2
+
+geolocation: 
 
 **Links**
 
@@ -250,6 +278,8 @@ tags: shoot, projectile, gas, protester
 
 id: ca-losangeles-37
 
+geolocation: 
+
 **Links**
 
 * https://vimeo.com/424352612
@@ -265,6 +295,8 @@ Additional footage (link 3) shows other protesters with wounds from riot rounds.
 tags: shoot, projectile, protester
 
 id: ca-losangeles-30
+
+geolocation: (+34.071154, -118.3583053)
 
 **Links**
 
@@ -282,6 +314,8 @@ tags: beat, baton, projectile, protester
 
 id: ca-losangeles-2
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
@@ -294,6 +328,8 @@ A line of Los Angeles law enforcement officers are attempting to get a peaceful 
 tags: beat, baton, shoot, rubber-bullet, protester
 
 id: ca-losangeles-3
+
+geolocation: 
 
 **Links**
 
@@ -313,6 +349,8 @@ tags: journalist, tear-gas
 
 id: ca-losangeles-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GMA/status/1266934049098121216
@@ -325,6 +363,8 @@ In the video, protesters can be seen kneeling. Police swing batons at several pr
 tags: beat, baton, protester, journalist
 
 id: ca-losangeles-5
+
+geolocation: 
 
 **Links**
 
@@ -341,6 +381,8 @@ tags: shoot, projectile, baton, protester
 
 id: ca-losangeles-24
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MattMcGorry/status/1267217360894562306
@@ -355,6 +397,8 @@ Activist and former White House and congressional staffer Deon Jones was hit in 
 tags: shoot, projectile, protester
 
 id: ca-losangeles-33
+
+geolocation: 
 
 **Links**
 
@@ -373,6 +417,8 @@ tags: tear-gas, mace, pepper-spray, spray, protester
 
 id: ca-losangeles-34
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
@@ -387,6 +433,8 @@ This, among other incidents, has led LA Mayor Garcetti to instruct the LAPD to l
 tags: protester, shoot, rubber-bullet
 
 id: ca-losangeles-35
+
+geolocation: 
 
 **Links**
 
@@ -405,6 +453,8 @@ tags: bystander, shoot, bean-bag, property-destruction
 
 id: ca-losangeles-36
 
+geolocation: 
+
 **Links**
 
 * [Stream; police target apartment at 0:30, shoot at 0:45](https://www.pscp.tv/w/1OwxWQXvOAjGQ)
@@ -420,6 +470,8 @@ tags: protester, shoot, rubber-bullet
 
 id: ca-losangeles-39
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=UDLxeshoPnI
@@ -434,6 +486,8 @@ tags: rubber-bullet, shoot, pepper-ball, protester
 
 id: ca-losangeles-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MatthewSantoro/status/1266916709304201216
@@ -446,6 +500,8 @@ A police officer has his knee on a woman's neck, who already had 3 police office
 tags: knee, knee-on-neck, protester
 
 id: ca-losangeles-7
+
+geolocation: 
 
 **Links**
 
@@ -460,6 +516,8 @@ tags: vehicle, rubber-bullet, protester
 
 id: ca-losangeles-8
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/SUNDAYLOVERBOY/status/1266890947888996352
@@ -472,6 +530,8 @@ Man receives a shot to head from what looks to be a large deterrent round, he cl
 tags: projectile, shoot, protester, bean-bag
 
 id: ca-losangeles-9
+
+geolocation: 
 
 **Links**
 
@@ -488,6 +548,8 @@ tags: tackle, arrest, beat, shoot, baton, projectile, protester
 
 id: ca-losangeles-11
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267095100166987778
@@ -501,6 +563,8 @@ LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting w
 tags: vehicle, drive, protester
 
 id: ca-losangeles-12
+
+geolocation: 
 
 **Links**
 
@@ -521,6 +585,8 @@ tags: shoot, projectile, bystander
 
 id: ca-losangeles-13
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/cwellborn3/status/1267318753571811329
@@ -533,6 +599,8 @@ A crowd of protesters chanting are shot with rubber bullets by a line of officer
 tags: shoot, rubber-bullet, protester
 
 id: ca-losangeles-16
+
+geolocation: 
 
 **Links**
 
@@ -547,6 +615,8 @@ tags: beat, shove, shield, arrest, protester
 
 id: ca-losangeles-28
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/jkishore/status/1267216022634999808
@@ -559,6 +629,8 @@ Protester who repeatedly says he cannot see is shoved by an officer with a baton
 tags: shove, strike, arrest, pepper-spray, spray, protester
 
 id: ca-losangeles-45
+
+geolocation: 
 
 **Links**
 
@@ -574,6 +646,8 @@ tags: shoot, rubber-bullet, protester
 
 id: ca-losangeles-15
 
+geolocation: 
+
 **Links**
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
@@ -587,6 +661,8 @@ LAPD seen smashing windows to drag passengers & driver out of a stopped car. The
 tags: property-destruction, protester
 
 id: ca-losangeles-25
+
+geolocation: 
 
 **Links**
 
@@ -602,6 +678,8 @@ The employee was arrested, along with her husband and others helping them, while
 tags: racial-profiling, arrest, shove, bystander
 
 id: ca-losangeles-26
+
+geolocation: 
 
 **Links**
 
@@ -620,6 +698,8 @@ A lawsuit has been filed in connection with these and other abuses by the Nation
 tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten, protester, zip-tie
 
 id: ca-losangeles-19
+
+geolocation: 
 
 **Links**
 
@@ -649,6 +729,8 @@ tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten, protester, z
 
 id: ca-losangeles-32
 
+geolocation: 
+
 **Links**
 
 * [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
@@ -665,6 +747,8 @@ A group of people walk down the street as a police car approaches. The police ca
 tags: shoot, pepper-ball, vehicle, drive, protester
 
 id: ca-losangeles-1
+
+geolocation: 
 
 **Links**
 
@@ -685,6 +769,8 @@ tags: shoot, projectile, homeless, person-with-disability, bystander
 
 id: ca-losangeles-17
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/LosAngeles/comments/gwzgn8/lapd_shoots_less_than_lethal_rounds_directly_at/
@@ -701,6 +787,8 @@ A handful of protesters are seen walking away from police with their hands up. P
 tags: shoot, projectile, protester
 
 id: ca-losangeles-27
+
+geolocation: 
 
 **Links**
 
@@ -719,6 +807,8 @@ tags: baton, strike, person-with-disability, shoot, shove, protester
 
 id: ca-losangeles-31
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
@@ -731,6 +821,8 @@ An officer rips a sign away from a protester then shoots him in the groin with a
 tags: protester, shoot, projectile, rubber-bullet
 
 id: ca-losangeles-57
+
+geolocation: 
 
 **Links**
 
@@ -746,6 +838,8 @@ tags: protester, shoot, projectile
 
 id: ca-losangeles-41
 
+geolocation: 
+
 **Links**
 
 * https://www.instagram.com/p/CBBpSZPnyke/
@@ -758,6 +852,8 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 tags: shoot, projectile, tear-gas, protester
 
 id: ca-losangeles-20
+
+geolocation: 
 
 **Links**
 
@@ -773,6 +869,8 @@ Footage from June 8th shows a medic treating a wound on the thigh of a female pr
 tags: protester, shoot, rubber-bullet
 
 id: ca-losangeles-42
+
+geolocation: 
 
 **Links**
 
@@ -792,6 +890,8 @@ Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges ag
 tags: arrest, shove, strike, property-destruction, person-with-disability, baton
 
 id: ca-losangeles-40
+
+geolocation: 
 
 **Links**
 
@@ -813,6 +913,8 @@ tags: shove, arrest, strike, baton, property-destruction, protester
 
 id: ca-losangeles-43
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KTLA/status/1287241665703374848
@@ -827,6 +929,8 @@ tags: shoot, projectile, protester
 
 id: ca-losangeles-44
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
@@ -839,6 +943,8 @@ A woman who was recording protests was shot with less lethals by LAPD officers. 
 tags: shoot, projectile, protester
 
 id: ca-losangeles-47
+
+geolocation: 
 
 **Links**
 
@@ -853,6 +959,8 @@ A man filming protesters being arrested is told by officers conflicting places t
 tags: shove, protester, push
 
 id: ca-losangeles-46
+
+geolocation: 
 
 **Links**
 
@@ -869,6 +977,8 @@ Officers shoved protesters with batons, then an officer with a riot gun fired in
 tags: protester, push, shove, baton, shoot, projectile
 
 id: ca-losangeles-48
+
+geolocation: 
 
 **Links**
 
@@ -887,6 +997,8 @@ tags: protester, shoot, projectile, tear-gas
 
 id: ca-losangeles-49
 
+geolocation: 
+
 **Links**
 
 * https://www.instagram.com/tv/CEV-cnggrvj/
@@ -899,6 +1011,8 @@ Protesters in LA were trapped by police in a tunnel. Police demanded that protes
 tags: protester, shoot, projectile, abuse-of-power
 
 id: ca-losangeles-50
+
+geolocation: 
 
 **Links**
 
@@ -917,6 +1031,8 @@ LA Sheriffs throw stun grenades and fire impact munitions at protesters on the s
 tags: protester, shoot, projectile, stun-grenade, foam-bullet, pepper-ball
 
 id: ca-losangeles-51
+
+geolocation: 
 
 **Links**
 
@@ -939,6 +1055,8 @@ At least one journalist was shot during the incident. The last link shows an ima
 tags: pepper-ball, stun-grenade, tear-gas, protester, journalist, shoot, projectile
 
 id: ca-losangeles-52
+
+geolocation: 
 
 **Links**
 
@@ -965,6 +1083,8 @@ tags: protester, bystander, property-destruction, shoot, projectile, pepper-ball
 
 id: ca-losangeles-53
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/SamBraslow/status/1303563878039658497
@@ -982,6 +1102,8 @@ tags: journalist, tackle, arrest
 
 id: ca-losangeles-54
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ClippingFor/status/1303586283504058368
@@ -997,6 +1119,8 @@ Huang was released early on September 13th. Footage Huang uploaded following her
 tags: journalist, arrest, property-destruction
 
 id: ca-losangeles-55
+
+geolocation: 
 
 **Links**
 
@@ -1018,6 +1142,8 @@ tags: protester, arrest
 
 id: ca-losangeles-56
 
+geolocation: 
+
 **Links**
 
 * [7:40](https://streamable.com/0z69lw#)
@@ -1035,6 +1161,8 @@ tags: journalist, push, shove
 
 id: ca-losangeles-58
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ShotOn35mm/status/1309007382345928705
@@ -1047,6 +1175,8 @@ Police in Los Angeles deploy impact munitions, believed to be pepper balls, agai
 tags: protester, shoot, projectile, pepper-ball
 
 id: ca-losangeles-59
+
+geolocation: 
 
 **Links**
 
@@ -1062,6 +1192,8 @@ During a protest, police made several arrests. One officer is seen detaining a p
 tags: protester, arrest, shield, strike
 
 id: ca-losangeles-60
+
+geolocation: 
 
 **Links**
 
@@ -1085,6 +1217,8 @@ tags: abuse-of-power, protester
 
 id: ca-norco-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/le_maria21/status/1277801107033481216
@@ -1101,6 +1235,8 @@ tags: vehicle, drive, protester
 
 id: ca-oakland-1
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
@@ -1115,6 +1251,8 @@ tags: journalist, shoot
 
 id: ca-oakland-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
@@ -1127,6 +1265,8 @@ Footage shows a water bottle lobbed towards police. Police then retaliate agains
 tags: tear-gas, protester
 
 id: ca-oakland-3
+
+geolocation: 
 
 **Links**
 
@@ -1141,6 +1281,8 @@ Police gather around a protester standing on a pedestrian median. He is singled 
 tags: protester, arrest, tackle
 
 id: ca-oakland-4
+
+geolocation: 
 
 **Links**
 
@@ -1157,6 +1299,8 @@ tags: property-destruction
 
 id: ca-riverside-1
 
+geolocation: 
+
 **Links**
 
 * https://old.reddit.com/r/PublicFreakout/comments/gv2lku/news_chopper_pans_out_as_riverside_county_sheriff/
@@ -1172,6 +1316,8 @@ tags: shoot, projectile, protester, tear-gas
 
 id: ca-sacramento-6
 
+geolocation: 
+
 **Links**
 
 * https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
@@ -1184,6 +1330,8 @@ A crowd of protesters demonstrating in front of a line of police officers was fi
 tags: shoot, projectile, protester
 
 id: ca-sacramento-1
+
+geolocation: 
 
 **Links**
 
@@ -1198,6 +1346,8 @@ Sacramento law enforcement shoot protesters and then announce their assembly is 
 tags: shoot, projectile, protester, legal-observer
 
 id: ca-sacramento-2
+
+geolocation: 
 
 **Links**
 
@@ -1214,6 +1364,8 @@ tags: stun-grenade, tear-gas, protester
 
 id: ca-sacramento-5
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Sacramento/comments/gul234/last_night_sacramento_protesters_for_george_floyd/
@@ -1227,6 +1379,8 @@ Two to three police officers choke a black man on the ground. The woman document
 tags: choke, shove, push, threaten, baton, protester
 
 id: ca-sacramento-3
+
+geolocation: 
 
 **Links**
 
@@ -1245,6 +1399,8 @@ tags: tear-gas, tear-gas-canister, shoot, protester
 
 id: ca-sandiego-2
 
+geolocation: 
+
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
@@ -1260,6 +1416,8 @@ tags: shoot, rubber-bullet, protester
 
 id: ca-sandiego-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/chadloder/status/1267290221562871809
@@ -1274,6 +1432,8 @@ tags: tear-gas, shoot, projectile, protester
 
 id: ca-sandiego-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/mariahalize3/status/1267225330093191168
@@ -1286,6 +1446,8 @@ A student journalist attended protests in San Diego on May 31st. San Diego Polic
 tags: journalist, tear-gas, shoot, pepper-ball
 
 id: ca-sandiego-5
+
+geolocation: 
 
 **Links**
 
@@ -1301,6 +1463,8 @@ tags: threaten, arrest, hide-badge, inhumane-treatment, protester
 
 id: ca-sandiego-1
 
+geolocation: 
+
 **Links**
 
 * [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
@@ -1314,6 +1478,8 @@ tags: protester, stun-grenade
 
 id: ca-sandiego-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/TheActivatedPod/status/1309169875064061954
@@ -1326,6 +1492,8 @@ Police pin protesters against a wall, shoving them with bikes. Protesters then p
 tags: bike, protester, shove, push
 
 id: ca-sandiego-7
+
+geolocation: 
 
 **Links**
 
@@ -1343,6 +1511,8 @@ tags: drive, shove, protester
 
 id: ca-sanfrancisco-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/caseylc9/status/1267285516262596608
@@ -1357,6 +1527,8 @@ A police officer shoots a projectile at a protester for yelling out profanities.
 tags: shoot, projectile, threaten, protester
 
 id: ca-sanjose-1
+
+geolocation: 
 
 **Links**
 
@@ -1376,6 +1548,8 @@ tags: knee-on-neck, arrest, protester
 
 id: ca-sanjose-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DeadByDawn101/status/1268825100385521665
@@ -1388,6 +1562,8 @@ A protester and community activist, known for work anti-bias and community build
 tags: shoot, rubber-bullet, protester
 
 id: ca-sanjose-2
+
+geolocation: 
 
 **Links**
 
@@ -1407,6 +1583,8 @@ tags: shove, property-destruction, shoot, rubber-bullet, tear-gas, protester
 
 id: ca-sanjose-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/itssdelilahh/status/1266575145537163269
@@ -1420,6 +1598,8 @@ tags: rubber-bullet, explosive, shoot, projectile, protester
 
 id: ca-sanjose-5
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=89mUHzu3480
@@ -1432,6 +1612,8 @@ A woman at a protest on May 29th was shot in the temple by a foam bullet. She st
 tags: protester, shoot, foam-bullet
 
 id: ca-sanjose-8
+
+geolocation: 
 
 **Links**
 
@@ -1449,6 +1631,8 @@ A man approaches police, filming with his camera. He is struck in the face by an
 tags: strike, beat, arrest, baton, protester
 
 id: ca-sanjose-9
+
+geolocation: 
 
 **Links**
 
@@ -1470,6 +1654,8 @@ tags: bystander, shoot, rubber-bullet, pepper-ball, property-destruction
 
 id: ca-sanjose-10
 
+geolocation: 
+
 **Links**
 
 * https://abc7news.com/video/embed/?pid=6260831
@@ -1486,6 +1672,8 @@ tags: vehicle, arrest, protester
 
 id: ca-sanjose-6
 
+geolocation: 
+
 **Links**
 
 * https://www.mercurynews.com/2020/06/03/video-of-police-motorcycle-hitting-man-brings-more-scrutiny-to-sjpd/
@@ -1500,6 +1688,8 @@ Additional footage shows numerous officers corralling protesters into a small ar
 tags: shoot, protester
 
 id: ca-sanjose-7
+
+geolocation: 
 
 **Links**
 
@@ -1517,6 +1707,8 @@ tags: shoot, tear-gas, protester
 
 id: ca-sanluisobispo-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ma7dz/status/1267697838244298752
@@ -1532,6 +1724,8 @@ tags: shoot, projectile, protester
 
 id: ca-santaana-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
@@ -1546,6 +1740,8 @@ Live on TV, police fire multiple pepper bullets at a second-story apartment wind
 tags: shoot, pepper-ball, protester
 
 id: ca-santamonica-1
+
+geolocation: 
 
 **Links**
 
@@ -1563,6 +1759,8 @@ Zip ties were put on too tight. Police attempted to remove zip ties with a long 
 tags: abuse-of-power, arrest, inhumane-treatment, protester, zip-tie
 
 id: ca-santamonica-2
+
+geolocation: 
 
 **Links**
 
@@ -1582,6 +1780,8 @@ A reporter for Primer Impacto was livestreaming a protest on Facebook. Around 12
 tags: journalist, shoot, rubber-bullet
 
 id: ca-santamonica-3
+
+geolocation: 
 
 **Links**
 
@@ -1603,6 +1803,8 @@ tags: shoot, live-round, death
 
 id: ca-vallejo-1
 
+geolocation: 
+
 **Links**
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
@@ -1619,6 +1821,8 @@ In this video, an armored law enforcement vehicle tells protesters blocking a hi
 tags: threaten, tear-gas, vehicle, protester
 
 id: ca-walnutcreek-1
+
+geolocation: 
 
 **Links**
 
@@ -1637,6 +1841,8 @@ tags: arrest, tear-gas, tear-gas-canister, dog, protester
 
 id: ca-walnutcreek-3
 
+geolocation: 
+
 **Links**
 
 * https://www.mercurynews.com/2020/06/06/protester-recounts-getting-attacked-by-police-dogs-tear-gassed-at-walnut-creek-demonstration/
@@ -1652,6 +1858,8 @@ tags: tear-gas, protester
 
 id: ca-walnutcreek-2
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
@@ -1666,6 +1874,8 @@ Footage shows police grabbing a woman at a protest, forcing her to the ground an
 tags: arrest, protester
 
 id: ca-whittier-1
+
+geolocation: 
 
 **Links**
 

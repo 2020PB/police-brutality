@@ -12,6 +12,8 @@ tags: tear-gas, tear-gas-canister, rubber-bullet, protester
 
 id: ar-bentonville-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/courtenay_roche/status/1267653137969623040
@@ -34,6 +36,8 @@ tags: protester, tear-gas
 
 id: ar-littlerock-2
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=Pfn65qaXosU
@@ -49,6 +53,8 @@ Police deployed tear gas to then clear protesters out of the street after deploy
 tags: explosive, projectile, protester, tear-gas, lrad
 
 id: ar-littlerock-1
+
+geolocation: 
 
 **Links**
 

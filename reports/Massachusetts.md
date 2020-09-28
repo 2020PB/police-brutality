@@ -8,6 +8,8 @@ tags: protester, beat, arrest, strike
 
 id: ma-boston-1
 
+geolocation: 
+
 **Links**
 
 * https://www.wcvb.com/article/boston-police-confront-protesters-in-downtown-crossing/32724753
@@ -20,6 +22,8 @@ id: ma-boston-1
 tags: property-destruction, protester
 
 id: ma-boston-2
+
+geolocation: 
 
 **Links**
 
@@ -35,6 +39,8 @@ id: ma-boston-2
 tags: hide-badge
 
 id: ma-worcester-1
+
+geolocation: 
 
 **Links**
 
@@ -53,6 +59,8 @@ tags: child, shove, arrest, throw, protester
 
 id: ma-worcester-2
 
+geolocation: 
+
 **Links**
 
 * [Police initially push protestors back](https://twitter.com/sebishop99/status/1267890659484143616)
@@ -68,6 +76,8 @@ Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful proteste
 tags: tear-gas, rubber-bullet, pepper-spray, spray, shoot, protester
 
 id: ma-worcester-3
+
+geolocation: 
 
 **Links**
 
@@ -85,6 +95,8 @@ Eyewitness reports being slammed from behind after obeying police order to raise
 tags: arrest, punch, tackle, knee, knee-on-neck, beat, protester
 
 id: ma-worcester-4
+
+geolocation: 
 
 **Links**
 

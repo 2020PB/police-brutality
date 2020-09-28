@@ -10,6 +10,8 @@ tags: arrest, journalist, zip-tie
 
 id: al-birmingham-1
 
+geolocation: 
+
 **Links**
 
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
@@ -26,6 +28,8 @@ According to Harriot, after being arrested, he and the other arrestees were take
 tags: arrest, journalist, racial-profiling, zip-tie
 
 id: al-birmingham-2
+
+geolocation: 
 
 **Links**
 
@@ -45,6 +49,8 @@ tags: arrest, shove, throw, push, knee, protester
 
 id: al-hoover-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269810926863163394
@@ -62,6 +68,8 @@ tags: baton, kick, beat, push, shove, protester
 
 id: al-huntsville-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ETfonehome97/status/1267657232411435008
@@ -75,6 +83,8 @@ tags: threaten, pepper-spray, spray, protester
 
 id: al-huntsville-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bitchthot420/status/1268350308398268416
@@ -87,6 +97,8 @@ Police use tear gas on reporters and protesters, who are then initially blocked 
 tags: tear-gas, tear-gas-canister, journalist, protester
 
 id: al-huntsville-3
+
+geolocation: 
 
 **Links**
 
@@ -102,6 +114,8 @@ Footage taken of a protester in a garage after shows bruises consistent with rub
 tags: tear-gas, tear-gas-canister, rubber-bullet, shoot, protester
 
 id: al-huntsville-4
+
+geolocation: 
 
 **Links**
 
@@ -121,6 +135,8 @@ June 5th date determined by Reddit submitter stating video, which is stamped "1d
 tags: rubber-bullet, threaten, protester
 
 id: al-huntsville-5
+
+geolocation: 
 
 **Links**
 

@@ -6,6 +6,8 @@ tags: horse, drive, pepper-spray, protester
 
 id: tbd-tbd-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/perfectlyg0lden/status/1267014293628870656
