@@ -34,7 +34,7 @@ url_regex = re.compile(
 )
 
 GEOLOCATION_REGEX = re.compile(
-    r"^\(?([-+]?(?:[1-8]?\d(?:\.\d+)?|90(?:\.0+)?)),\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d+)?))\)?$"
+    r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{6,7})?|90(?:\.0+)?)),\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{6,7})?))\)?$"
 )
 
 
@@ -127,9 +127,7 @@ def find_md_link_or_url(text):
 
 
 def _format_lat_or_long(val: str) -> None:
-    if val[0] == "-" or val[0] == "+":
-        return val
-    return "+" + val
+    return val.strip("+")
 
 
 def validate_geo(geo_body_raw: str) -> str:
@@ -139,10 +137,13 @@ def validate_geo(geo_body_raw: str) -> str:
 
     result = GEOLOCATION_REGEX.match(geo_body)
 
-    result_1 = _format_lat_or_long(result.group(1))
-    result_2 = _format_lat_or_long(result.group(2))
+    try:
+        result_1 = _format_lat_or_long(result.group(1))
+        result_2 = _format_lat_or_long(result.group(2))
+    except AttributeError:
+        ValueError(f"Could not parse geolocation: {geo_body}")
     if result:
-        return f"({result_1}, {result_2})"
+        return f"{result_1}, {result_2}"
     raise ValueError(f"Could not parse geolocation: {geo_body}")
 
 

@@ -366,7 +366,7 @@ tags: threaten, projectile, bystander
 
 id: nc-raleigh-1
 
-geolocation: (+35.7751916, -78.6399548)
+geolocation: 35.7751916, -78.6399548
 
 **Links**
 

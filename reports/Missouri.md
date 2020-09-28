@@ -103,7 +103,7 @@ tags: grab, spray, pepper-spray, protester
 
 id: mo-kansascity-4
 
-geolocation: (+39.0425007, -94.5880276)
+geolocation: 39.0425007, -94.5880276
 
 **Links**
 

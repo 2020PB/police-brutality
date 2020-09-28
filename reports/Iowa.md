@@ -23,7 +23,7 @@ tags: rubber-bullet, tear-gas, shoot, property-destruction, bystander
 
 id: ia-desmoines-3
 
-geolocation: (+41.6293563, -93.6988361)
+geolocation: 41.6293563, -93.6988361
 
 **Links**
 
@@ -133,7 +133,7 @@ tags: arrest, lgbtq+, protester
 
 id: ia-desmoines-5
 
-geolocation: (+41.590306, -93.6114412)
+geolocation: 41.590306, -93.6114412
 
 **Links**
 

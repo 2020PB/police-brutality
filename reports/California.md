@@ -61,7 +61,7 @@ tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatme
 
 id: ca-compton-1
 
-geolocation: (+33.9038142, -118.2141026)
+geolocation: 33.9038142, -118.2141026
 
 **Links**
 
@@ -130,7 +130,7 @@ tags: abuse-of-power, protester
 
 id: ca-gustine-1
 
-geolocation: (+37.2535159, -120.998706)
+geolocation: 37.2535159, -120.998706
 
 **Links**
 
@@ -296,7 +296,7 @@ tags: shoot, projectile, protester
 
 id: ca-losangeles-30
 
-geolocation: (+34.071154, -118.3583053)
+geolocation: 34.071154, -118.3583053
 
 **Links**
 

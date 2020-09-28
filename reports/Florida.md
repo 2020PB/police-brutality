@@ -354,7 +354,7 @@ tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear
 
 id: fl-tampa-1
 
-geolocation: (+27.9563654, -82.4569108)
+geolocation: 27.9563654, -82.4569108
 
 **Links**
 

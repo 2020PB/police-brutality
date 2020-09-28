@@ -99,7 +99,7 @@ tags: tear-gas, tear-gas-canister, protester
 
 id: wa-seattle-8
 
-geolocation: (+47.6117535, -122.3363867)
+geolocation: 47.6117535, -122.3363867
 
 **Links**
 

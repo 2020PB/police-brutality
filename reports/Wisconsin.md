@@ -236,7 +236,7 @@ tags: arrest, bike, knee, knee-on-neck, protester, strike, tackle
 
 id: wi-milwaukee-1
 
-geolocation: (+43.0470717, -87.9188693)
+geolocation: 43.0470717, -87.9188693
 
 **Links**
 
@@ -259,7 +259,7 @@ tags: gas, protester, rubber-bullet, shoot, tear-gas
 
 id: wi-milwaukee-2
 
-geolocation: (+43.0470717, -87.9188693)
+geolocation: 43.0470717, -87.9188693
 
 **Links**
 

@@ -8,7 +8,7 @@ tags: arrest, knee, tackle, protester
 
 id: ct-waterbury-2
 
-geolocation: (+41.5639908, -73.0095728)
+geolocation: 41.5639908, -73.0095728
 
 **Links**
 
@@ -34,7 +34,7 @@ tags: abuse-of-power, arrest, tackle, protester
 
 id: ct-waterbury-3
 
-geolocation: (+41.5545548, -73.0359702)
+geolocation: 41.5545548, -73.0359702
 
 **Links**
 
