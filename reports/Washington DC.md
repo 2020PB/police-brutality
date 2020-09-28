@@ -540,7 +540,7 @@ id: dc-dc-35
 
 ### Police charge, push, and shove protesters | September 26th
 
-Police charged into a crowd of protesters, pushing and shoving. Police then grabbed one protester for arrest without apparent reason. Police then dragged the protester to the ground and arrested him. 
+Police charged into a crowd of protesters, pushing and shoving. Police then grabbed one protester for arrest without apparent reason. Police then dragged the protester to the ground and arrested him.
 
 tags: protester, push, shove, grab, arrest
 
