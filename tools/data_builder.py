@@ -35,7 +35,7 @@ url_regex = re.compile(
 
 # Regex is used to ensure that lat/long is both in a valid format has has 6-7 decimal places (or is an exact 90/180) to improve data quality on the backend
 GEOLOCATION_REGEX = re.compile(
-    r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{6,7})?|90(?:\.0+)?)),\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{6,7})?))\)?$"
+    r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{6,7})|90(?:\.0+)?)),\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{6,7})))\)?$"
 )
 
 

@@ -83,5 +83,5 @@ def test_validate_geo_fail(given: str) -> None:
         ("47.1231231, 179.9999999", "47.1231231, 179.9999999"),
     ],
 )
-def test_validate_geo_fail(given: str, expected: str) -> None:
+def test_validate_geo_success(given: str, expected: str) -> None:
     assert expected == validate_geo(given)
