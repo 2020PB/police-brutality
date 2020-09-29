@@ -135,13 +135,11 @@ def validate_geo(geo_body_raw: str) -> str:
     if geo_body == "":
         return ""
 
-    try:
-        parsed_lat = _format_lat_or_long(LAT_REGEX.match(geo_body).group(1))
-        parsed_long = _format_lat_or_long(LONG_REGEX.match(geo_body).group(1))
-        return f"{parsed_lat}, {parsed_long}"
-    except AttributeError:
-        ValueError(f"Could not parse geolocation: {geo_body}")
-    raise ValueError(f"Could not parse geolocation: {geo_body}")
+    parsed_lat = _format_lat_or_long(LAT_REGEX.match(geo_body).group(1))
+    parsed_long = _format_lat_or_long(LONG_REGEX.match(geo_body).group(1))
+    if not parsed_lat and not parsed_long:
+        raise ValueError(f"Could not parse geolocation: {geo_body}")
+    return f"{parsed_lat}, {parsed_long}"
 
 
 def parse_state(state, text):
