@@ -16,6 +16,8 @@ tags: arrest, tear-gas, shoot, projectile, protester
 
 id: wa-olympia-1
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=s7MM1VauRHo
@@ -33,6 +35,8 @@ tags: knee-on-neck, arrest, protester
 
 id: wa-seattle-1
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
@@ -48,6 +52,8 @@ tags: beat, punch, protester
 
 id: wa-seattle-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/gunduzbaba1905/status/1266937500607614982
@@ -60,6 +66,8 @@ A police officer randomly and indiscriminately pepper sprays civilians walking a
 tags: pepper-spray, protester
 
 id: wa-seattle-3
+
+geolocation: 
 
 **Links**
 
@@ -76,6 +84,8 @@ tags: pepper-spray, child, inhumane-treatment, protester
 
 id: wa-seattle-4
 
+geolocation: 
+
 **Links**
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
@@ -88,6 +98,8 @@ A sheriff throws a canister of tear gas into a crowd of peaceful protesters.
 tags: tear-gas, tear-gas-canister, protester
 
 id: wa-seattle-8
+
+geolocation: 47.6117535, -122.3363867
 
 **Links**
 
@@ -102,6 +114,8 @@ An officer on a bike pulls down a protester walking by for seemingly no reason. 
 tags: tackle, protester
 
 id: wa-seattle-6
+
+geolocation: 
 
 **Links**
 
@@ -118,6 +132,8 @@ tags: tackle, punch, protester
 
 id: wa-seattle-12
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/The_Stepover/status/1267236742278463488
@@ -133,6 +149,8 @@ tags: stun-grenade, tear-gas, protester
 
 id: wa-seattle-7
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/The_Stepover/status/1267237940184231936
@@ -145,6 +163,8 @@ Police pepper spray peacefully protesting crowd.
 tags: pepper-spray, protester
 
 id: wa-seattle-9
+
+geolocation: 
 
 **Links**
 
@@ -160,6 +180,8 @@ Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
 tags: tear-gas, tear-gas-canister, journalist
 
 id: wa-seattle-10
+
+geolocation: 
 
 **Links**
 
@@ -178,6 +200,8 @@ tags: bystander, stun-grenade, homeless
 
 id: wa-seattle-54
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/kg.farmer/videos/278656296661372
@@ -190,6 +214,8 @@ Video shows officers deploying flashbangs into a crowd of peaceful protesters, a
 tags: stun-grenade, pepper-spray, protester
 
 id: wa-seattle-5
+
+geolocation: 
 
 **Links**
 
@@ -212,6 +238,8 @@ tags: arrest, abuse-of-power, protester
 
 id: wa-seattle-16
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269380431478173699
@@ -229,6 +257,8 @@ tags: tackle, headlock, knee, protester
 
 id: wa-seattle-11
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/i/status/1269352173663592449
@@ -241,6 +271,8 @@ Seattle Police told protesters disperse, but then used bikes to block exits. For
 tags: tear-gas, stun-grenade, protester
 
 id: wa-seattle-13
+
+geolocation: 
 
 **Links**
 
@@ -257,6 +289,8 @@ tags: pepper-spray, stun-grenade, projectile, tear-gas, protester
 
 id: wa-seattle-15
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269479158998011906
@@ -272,6 +306,8 @@ Video shows an individual getting hit by a police projectile, falling down, and 
 tags: projectile, medic, stun-grenade, tear-gas, protester
 
 id: wa-seattle-14
+
+geolocation: 
 
 **Links**
 
@@ -291,6 +327,8 @@ tags: arrest, tear-gas, pepper-spray, protester
 
 id: wa-seattle-17
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/menilivne/status/1269831790799159302
@@ -304,6 +342,8 @@ tags: shoot, rubber-bullet, protester
 
 id: wa-seattle-18
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/RisingAnons/status/1269904786108887045
@@ -316,6 +356,8 @@ While deploying flashbangs and tear gas against protesters, the police line pass
 tags: homeless, arrest, strike, beat, bystander, protester, tear-gas, stun-grenade
 
 id: wa-seattle-19
+
+geolocation: 
 
 **Links**
 
@@ -331,6 +373,8 @@ tags: pepper-spray, protester
 
 id: wa-seattle-20
 
+geolocation: 
+
 **Links**
 
 * [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
@@ -343,6 +387,8 @@ Footage shows police line approaching scattered peaceful protesters. Police snat
 tags: arrest, pepper-spray, spray, shove, strike, baton, protester
 
 id: wa-seattle-21
+
+geolocation: 
 
 **Links**
 
@@ -358,6 +404,8 @@ tags: arrest, tackle, knee, knee-on-neck, protester
 
 id: wa-seattle-22
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1278544686546911232
@@ -372,6 +420,8 @@ tags: arrest, tackle, knee, knee-on-neck, protester
 
 id: wa-seattle-23
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/sre_li/status/1278856204018565120
@@ -385,6 +435,8 @@ Footage beginning at 14:00 shows police begin to advance on protesters without w
 tags: arrest, pepper-spray, spray, strike, beat, shove, tackle, baton, shield, knee, protester
 
 id: wa-seattle-24
+
+geolocation: 
 
 **Links**
 
@@ -406,6 +458,8 @@ tags: arrest, beat, strike, baton, punch, knee, knee-on-neck, protester, hide-ba
 
 id: wa-seattle-25
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/own_the_libs_/status/1278765129752907777
@@ -419,6 +473,8 @@ A man returning to his apartment is followed by a police officer. The officer as
 tags: abuse-of-power, bystander
 
 id: wa-seattle-26
+
+geolocation: 
 
 **Links**
 
@@ -434,6 +490,8 @@ It is unclear why this individual was singled out.
 tags: protester, arrest
 
 id: wa-seattle-27
+
+geolocation: 
 
 **Links**
 
@@ -454,6 +512,8 @@ tags: journalist, arrest, abuse-of-power
 
 id: wa-seattle-28
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/spekulation/status/1281656761296936961
@@ -468,6 +528,8 @@ tags: pepper-spray, spray, protester, shove, grab, throw, kick, knee, arrest
 
 id: wa-seattle-29
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/spekulation/status/1285468287334141952
@@ -480,6 +542,8 @@ Footage shows Seattle police pinning a protester down against a concrete barrier
 tags: protester, arrest, pepper-spray, spray, shoot, projectile
 
 id: wa-seattle-30
+
+geolocation: 
 
 **Links**
 
@@ -496,6 +560,8 @@ tags: protester, shoot, projectile
 
 id: wa-seattle-31
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/pmalonedc/status/1287192637296934913
@@ -511,6 +577,8 @@ tags: protester, arrest, tackle, grab, tear-gas, pepper-spray, spray
 
 id: wa-seattle-32
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/BrandiKruse/status/1287190206408400897
@@ -524,6 +592,8 @@ Footage shows police using their bikes to push protesters back. One officer disc
 tags: protester, bike, pepper-spray, spray, property-destruction
 
 id: wa-seattle-33
+
+geolocation: 
 
 **Links**
 
@@ -540,6 +610,8 @@ tags: pepper-spray, spray, protester, shove, arrest, knee
 
 id: wa-seattle-34
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KittyLists/status/1287191491924779009
@@ -553,6 +625,8 @@ tags: arrest, protester, tackle, shove, pepper-spray, spray
 
 id: wa-seattle-35
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/VideosSeattle/status/1287195618247548928
@@ -565,6 +639,8 @@ Screen-capped footage from a journalist shows police pushing press and protester
 tags: journalist, protester, shove, pepper-spray, spray
 
 id: wa-seattle-36
+
+geolocation: 
 
 **Links**
 
@@ -580,6 +656,8 @@ tags: protester, pepper-spray, spray, bike
 
 id: wa-seattle-37
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/richsssmith/status/1287172691540115456
@@ -592,6 +670,8 @@ Police deploy tear gas and flashbangs against protesters at Broadway and Pine. T
 tags: protester, bystander, tear-gas, stun-grenade
 
 id: wa-seattle-38
+
+geolocation: 
 
 **Links**
 
@@ -606,6 +686,8 @@ tags: protester, shoot, projectile
 
 id: wa-seattle-39
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/franceschogan/status/1287202059691814912
@@ -618,6 +700,8 @@ A protester holding a bike and standing several feet away from police is pepper 
 tags: protester, pepper-spray, spray
 
 id: wa-seattle-40
+
+geolocation: 
 
 **Links**
 
@@ -632,6 +716,8 @@ tags: protester, grab, shove, throw, arrest
 
 id: wa-seattle-41
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LizTurnbull5/status/1287226515642449920
@@ -644,6 +730,8 @@ Footage shows police arrested a woman while others pepper spray the area to clea
 tags: protester, pepper-spray, spray, arrest, knee
 
 id: wa-seattle-42
+
+geolocation: 
 
 **Links**
 
@@ -660,6 +748,8 @@ tags: protester, tear-gas, push, shove, baton
 
 id: wa-seattle-43
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/davjhan/status/1287216171595345920
@@ -673,6 +763,8 @@ Footage shows police forcing protesters back and protesters obeying. Throughout 
 tags: protester, tear-gas, pepper-spray, spray, shove, push, property-destruction
 
 id: wa-seattle-44
+
+geolocation: 
 
 **Links**
 
@@ -688,6 +780,8 @@ tags: protester, pepper-spray, spray
 
 id: wa-seattle-45
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/decolonizemars/status/1287236773345599488
@@ -700,6 +794,8 @@ Police on Pine Street surge forward, pepper spraying several protesters, then sn
 tags: protester, pepper-spray, spray, arrest
 
 id: wa-seattle-46
+
+geolocation: 
 
 **Links**
 
@@ -715,6 +811,8 @@ tags: protester, bike, tackle, arrest
 
 id: wa-seattle-47
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/slydesilva/status/1287240894219841536
@@ -728,6 +826,8 @@ tags: protester, pepper-spray, spray
 
 id: wa-seattle-48
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/daeshikjr/status/1287263163159781376
@@ -740,6 +840,8 @@ Footage shows police charging at protesters without warning and pepper-spraying 
 tags: protester, pepper-spray, spray, baton, strike, shove
 
 id: wa-seattle-49
+
+geolocation: 
 
 **Links**
 
@@ -755,6 +857,8 @@ tags: arrest, bystander, bike, tackle
 
 id: wa-seattle-50
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/StellarArris/status/1287446170403508226
@@ -768,6 +872,8 @@ tags: protester, stun-grenade
 
 id: wa-seattle-51
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DickandSharon/status/1287653775042371585
@@ -780,6 +886,8 @@ Video shows the protester filming as police toss flash bangs and fire projectile
 tags: protester, stun-grenade
 
 id: wa-seattle-52
+
+geolocation: 
 
 **Links**
 
@@ -795,6 +903,8 @@ tags: protester, explosive, shove, grab, arrest, pepper-spray, spray
 
 id: wa-seattle-53
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=gvfPAYCwg2w
@@ -809,6 +919,8 @@ tags: legal-observer, pepper-spray, spray
 
 id: wa-seattle-55
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/NLG_Seattle/status/1287427693680582656
@@ -822,6 +934,8 @@ Police approach protesters standing in the street. A scuffle begins and proteste
 tags: protester, shove, push, baton, arrest
 
 id: wa-seattle-56
+
+geolocation: 
 
 **Links**
 
@@ -839,6 +953,8 @@ tags: protester, property-destruction, abuse-of-power
 
 id: wa-seattle-57
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/RebellionBaby/status/1294535563110825985
@@ -853,6 +969,8 @@ tags: legal-observer, push, shove
 
 id: wa-seattle-58
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/FirecrowTV/status/1295242437456048130
@@ -865,6 +983,8 @@ Footage shows police and protesters separated from one another after police decl
 tags: protester, shove, bike
 
 id: wa-seattle-59
+
+geolocation: 
 
 **Links**
 
@@ -879,6 +999,8 @@ tags: protester, bike, shove, tackle, punch
 
 id: wa-seattle-60
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/spekulation/status/1295946737069068288
@@ -891,6 +1013,8 @@ Police are seen walking protesters, legal observers and journalists backwards. A
 tags: journalist, shove, property-destruction
 
 id: wa-seattle-61
+
+geolocation: 
 
 **Links**
 
@@ -913,6 +1037,8 @@ tags: journalist, protester, push, shove, baton, pepper-spray, spray, arrest, pr
 
 id: wa-seattle-62
 
+geolocation: 
+
 **Links**
 
 * [Livestream; events at 5:30, 6:00, 7:20, 8:00](https://www.facebook.com/WWConverge/videos/355310738820842/)
@@ -927,6 +1053,8 @@ Protesters on foot and in vehicles blocked an interstate for a short time. Polic
 tags: protester, grab, arrest, abuse-of-power
 
 id: wa-seattle-63
+
+geolocation: 
 
 **Links**
 
@@ -946,6 +1074,8 @@ tags: protester, bike, arrest, stun-grenade, pepper-spray, shove, push, spray
 
 id: wa-seattle-64
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/okrrrralexa/status/1303161305704980480
@@ -961,6 +1091,8 @@ tags: protester, push, shove
 
 id: wa-seattle-65
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/RegretaGarbo/status/1303194153132519424
@@ -973,6 +1105,8 @@ At a protest on September 15th, police targeted a community member for arrest. T
 tags: protester, arrest, pepper-spray, spray, throw
 
 id: wa-seattle-66
+
+geolocation: 
 
 **Links**
 
@@ -989,6 +1123,8 @@ tags: protester, bike
 
 id: wa-seattle-67
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/rawsmedia/status/1309039696702574593
@@ -1003,6 +1139,8 @@ tags: protester, pepper-spray, spray, push, shove, bike
 
 id: wa-seattle-68
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/richsssmith/status/1309011578705137664
@@ -1016,6 +1154,8 @@ tags: protester, push, shove, bike, property-destruction, shoot, projectile, rub
 
 id: wa-seattle-69
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/richsssmith/status/1309041882929008642
@@ -1028,6 +1168,8 @@ Police charge protesters in the street, pushing them away from small fires lit b
 tags: protester, shoot, projectile
 
 id: wa-seattle-70
+
+geolocation: 
 
 **Links**
 

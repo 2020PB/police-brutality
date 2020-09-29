@@ -8,6 +8,8 @@ tags: child, tear-gas, rubber-bullet, shoot, protester
 
 id: nc-asheville-2
 
+geolocation: 
+
 **Links**
 
 * https://www.wyff4.com/article/tear-gas-rubber-bullets-reported-at-asheville-protest/32725369
@@ -23,6 +25,8 @@ Additional investigation found the station was on private property and conducted
 tags: medic, property-destruction
 
 id: nc-asheville-1
+
+geolocation: 
 
 **Links**
 
@@ -41,6 +45,8 @@ A man was shot in the head at close range with a pepper ball. Footage was upload
 tags: pepper-ball, shoot, protester
 
 id: nc-asheville-3
+
+geolocation: 
 
 **Links**
 
@@ -61,6 +67,8 @@ Images taken after release show significant bruising on one of the journalist's 
 tags: journalist, arrest, inhumane-treatment, zip-tie
 
 id: nc-asheville-4
+
+geolocation: 
 
 **Links**
 
@@ -85,6 +93,8 @@ tags: tear-gas, tear-gas-canister, pepper-ball, stun-grenade, protester
 
 id: nc-charlotte-1
 
+geolocation: 
+
 **Links**
 
 * https://www.instagram.com/tv/CA9UOKAj7MC/
@@ -106,6 +116,8 @@ tags: arrest, knee, shove, throw, inhumane-treatment, protester
 
 id: nc-charlotte-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1270185252665864193
@@ -122,6 +134,8 @@ tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, pro
 
 id: nc-charlotte-3
 
+geolocation: 
+
 **Links**
 
 * [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
@@ -135,6 +149,8 @@ tags: protester, shove, bike, pepper-spray, spray
 
 id: nc-charlotte-4
 
+geolocation: 
+
 **Links**
 
 * https://www.wbtv.com/2020/07/25/protesters-supporting-back-blue-defund-police-confront-marshall-park/
@@ -147,6 +163,8 @@ At a protest outside the Republican National Convention in Charlotte, NC, police
 tags: protester, journalist, shove, bike, pepper-spray, spray
 
 id: nc-charlotte-5
+
+geolocation: 
 
 **Links**
 
@@ -162,6 +180,8 @@ tags: protester, arrest
 
 id: nc-charlotte-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/queencitynerve/status/1297389564693295105
@@ -174,6 +194,8 @@ At an RNC protest in Charlotte, NC, police kettled protesters at College and 4th
 tags: protester, pepper-spray, spray
 
 id: nc-charlotte-7
+
+geolocation: 
 
 **Links**
 
@@ -191,6 +213,8 @@ In addition, Charlotte city councilman Braxton Winston was pepper sprayed during
 tags: protester, bike, pepper-spray, spray, push, shove, politician
 
 id: nc-charlotte-8
+
+geolocation: 
 
 **Links**
 
@@ -211,6 +235,8 @@ Activists were charged with misdemeanor failure to disperse. This charge is only
 tags: protester, arrest, abuse-of-power
 
 id: nc-charlotte-9
+
+geolocation: 
 
 **Links**
 
@@ -237,6 +263,8 @@ tags: abuse-of-power, threaten, arrest, gun
 
 id: nc-gastonia-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/jordangreentcb/status/1286110757223006208
@@ -253,6 +281,8 @@ Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a pe
 tags: tear-gas, tear-gas-canister, journalist, rubber-bullet, protester
 
 id: nc-raleigh-2
+
+geolocation: 
 
 **Links**
 
@@ -271,6 +301,8 @@ tags: tear-gas, tear-gas-canister, protester
 
 id: nc-raleigh-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KateMurphyNews/status/1267227888811741190
@@ -286,6 +318,8 @@ tags: tear-gas, shoot, rubber-bullet, strike, beat, arrest, throw, shove, protes
 
 id: nc-raleigh-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267295157885505537
@@ -299,6 +333,8 @@ Police fire tear gas at protesters throughout protests on May 31st. Footage show
 tags: tear-gas, protester
 
 id: nc-raleigh-6
+
+geolocation: 
 
 **Links**
 
@@ -314,6 +350,8 @@ tags: pepper-ball, shoot, protester
 
 id: nc-raleigh-7
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/LiamCurrie16/status/1266948510022320130
@@ -327,6 +365,8 @@ A group of police approach a man who identified himself as the owner of the busi
 tags: threaten, projectile, bystander
 
 id: nc-raleigh-1
+
+geolocation: 35.7751916, -78.6399548
 
 **Links**
 
@@ -347,6 +387,8 @@ tags: threaten, arrest, hide-badge, protester
 
 id: nc-raleigh-3
 
+geolocation: 
+
 **Links**
 
 * https://indyweek.com/news/wake/conrad-james-raleigh-city-council-arrest/
@@ -366,6 +408,8 @@ tags: shove, push, arrest, child, protester
 
 id: nc-raleigh-8
 
+geolocation: 
+
 **Links**
 
 * https://www.wral.com/two-arrested-after-n-c-born-protest-in-downtown-raleigh/19151333/
@@ -382,6 +426,8 @@ Police feign a show of support by kneeling and draw protesters closer. After pro
 tags: tear-gas, tear-gas-canister, protester
 
 id: nc-wilmington-1
+
+geolocation: 
 
 **Links**
 

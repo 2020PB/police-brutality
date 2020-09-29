@@ -8,6 +8,8 @@ tags: tear-gas, protester
 
 id: dc-dc-12
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ALT_uscis/status/1266939755381633024
@@ -20,6 +22,8 @@ A BBC cameraman was charged at by police and hit with a shield.
 tags: journalist, shield
 
 id: dc-dc-1
+
+geolocation: 
 
 **Links**
 
@@ -35,6 +39,8 @@ tags: tear-gas, medic, protester
 
 id: dc-dc-11
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/i/status/1267298316141899780
@@ -48,6 +54,8 @@ Protesters and an Australian reporter and cameraman were attacked by police whil
 tags: journalist, punch, tear-gas, rubber-bullet, projectile
 
 id: dc-dc-2
+
+geolocation: 
 
 **Links**
 
@@ -69,6 +77,8 @@ tags: tear-gas, stun-grenade, protester
 
 id: dc-dc-3
 
+geolocation: 
+
 **Links**
 
 * https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html
@@ -87,6 +97,8 @@ tags: tear-gas-canister, projectile, protester
 
 id: dc-dc-4
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267377374066167808
@@ -100,6 +112,8 @@ tags: stun-grenade, horse, protester
 
 id: dc-dc-5
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
@@ -112,6 +126,8 @@ A DC resident discusses being accosted by officers when trying to enter his home
 tags: threaten, tear-gas, protester, bystander
 
 id: dc-dc-6
+
+geolocation: 
 
 **Links**
 
@@ -127,6 +143,8 @@ tags: shield, beat, tackle, protester
 
 id: dc-dc-7
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
@@ -139,6 +157,8 @@ Police fire into crowd outside of White House. Protester is hit and falls to the
 tags: projectile, protester
 
 id: dc-dc-8
+
+geolocation: 
 
 **Links**
 
@@ -155,6 +175,8 @@ tags: shield, beat, shoot, shove, protester
 
 id: dc-dc-15
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
@@ -167,6 +189,8 @@ Armed men are seen supporting police efforts. When asked to identify themselves,
 tags: hide-badge, abuse-of-power
 
 id: dc-dc-13
+
+geolocation: 
 
 **Links**
 
@@ -181,6 +205,8 @@ In the first of these videos, a crowd can be seen shaking a piece of temporary f
 tags: rubber-bullet, pepper-spray, journalist, protester
 
 id: dc-dc-9
+
+geolocation: 
 
 **Links**
 
@@ -198,6 +224,8 @@ tags: stun-grenade, protester
 
 id: dc-dc-10
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268297598856765441
@@ -214,6 +242,8 @@ tags: hide-badge, abuse-of-power
 
 id: dc-dc-14
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bdaviskc/status/1268401251978563585
@@ -228,6 +258,8 @@ During a standoff around a statue of Andrew Jackson, footage shows multiple offi
 tags: beat, baton, arrest, knee, protester
 
 id: dc-dc-16
+
+geolocation: 
 
 **Links**
 
@@ -245,6 +277,8 @@ Police met the protesters with immediate violence. An account states police enci
 tags: beat, baton, pepper-spray, spray, shield, protester
 
 id: dc-dc-17
+
+geolocation: 
 
 **Links**
 
@@ -264,6 +298,8 @@ tags: beat, baton, protester
 
 id: dc-dc-19
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/JasonPatinkin/status/1275252759634329602
@@ -278,6 +314,8 @@ Police line begins shouting, "Move back" and using their bikes to push protester
 tags: shove, pepper-spray, spray, protester
 
 id: dc-dc-23
+
+geolocation: 
 
 **Links**
 
@@ -294,6 +332,8 @@ tags: hide-badge
 
 id: dc-dc-20
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/wyattreed13/status/1275623256406581251
@@ -306,6 +346,8 @@ Police can be heard chanting, "Move back," while pushing protesters back through
 tags: pepper-spray, spray, protester
 
 id: dc-dc-21
+
+geolocation: 
 
 **Links**
 
@@ -323,6 +365,8 @@ He says that volunteer medics had permission from the church where they set up, 
 tags: medic, tear-gas, beat, property-destruction, protester
 
 id: dc-dc-22
+
+geolocation: 
 
 **Links**
 
@@ -344,6 +388,8 @@ tags: pepper-spray, spray, tear-gas, stun-grenade, shove, push, strike, person-w
 
 id: dc-dc-18
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/rawsmedia/status/1275671784554221574
@@ -360,6 +406,8 @@ Footage from late on June 27th, police charge a protester walking away from them
 tags: arrest, abuse-of-power, protester
 
 id: dc-dc-24
+
+geolocation: 
 
 **Links**
 
@@ -378,6 +426,8 @@ tags: arrest, strike, protester
 
 id: dc-dc-25
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@organicgoodz/video/6846083256228580613
@@ -395,6 +445,8 @@ All 11 protesters arrested on July 7th were released without charges.
 tags: arrest, abuse-of-power, shove, bike, protester
 
 id: dc-dc-26
+
+geolocation: 
 
 **Links**
 
@@ -415,6 +467,8 @@ tags: arrest, shove, abuse-of-power, protester
 
 id: dc-dc-27
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1280712378225696769
@@ -430,6 +484,8 @@ tags: arrest, protester, abuse-of-power
 
 id: dc-dc-28
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/stillgray/status/1289558509500039174
@@ -444,6 +500,8 @@ tags: bystander, pepper-spray, spray, shove, push
 
 id: dc-dc-29
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/rawsmedia/status/1294137999517655041
@@ -457,6 +515,8 @@ tags: protester, grab, punch
 
 id: dc-dc-30
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ChuckModi1/status/1294497266250723328
@@ -469,6 +529,8 @@ After police make an arrest at a protest, the protesters become agitated and sho
 tags: protester, journalist, arrest, tear-gas, stun-grenade, shoot, rubber-bullet, pepper-spray, spray
 
 id: dc-dc-31
+
+geolocation: 
 
 **Links**
 
@@ -492,6 +554,8 @@ tags:
 
 id: dc-dc-32
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ChuckModi1/status/1299966217546067968
@@ -505,6 +569,8 @@ tags: protester, arrest, property-destruction
 
 id: dc-dc-33
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PotempkinBrain/status/1300267743057522689
@@ -517,6 +583,8 @@ Protesters and police faced off shortly after midnight on the morning of August 
 tags: protester, tear-gas
 
 id: dc-dc-34
+
+geolocation: 
 
 **Links**
 
@@ -533,6 +601,8 @@ tags: protester, shoot, rubber-bullet
 
 id: dc-dc-35
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ChuckModi1/status/1300308986428895240
@@ -546,6 +616,8 @@ tags: protester, push, shove, grab, arrest
 
 id: dc-dc-36
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/rawsmedia/status/1310039420716888066
@@ -558,6 +630,8 @@ Police make a violent arrest, allegedly for property damage. Police grab him by 
 tags: protester, grab, arrest
 
 id: dc-dc-37
+
+geolocation: 
 
 **Links**
 

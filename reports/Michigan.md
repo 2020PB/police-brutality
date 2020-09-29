@@ -8,6 +8,8 @@ tags: tackle, punch, protester
 
 id: mi-detroit-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/joeguillen/status/1266563974658744321
@@ -20,6 +22,8 @@ Riot police charge peaceful protesters without warning. The filming protester an
 tags: tackle, shield, beat, protester
 
 id: mi-detroit-5
+
+geolocation: 
 
 **Links**
 
@@ -34,6 +38,8 @@ tags: threaten, shove, protester
 
 id: mi-detroit-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AkramG03/status/1266876680142049282
@@ -47,6 +53,8 @@ Detroit Police pepper-spray a reporter in the face while he holds up a media bad
 tags: journalist, pepper-spray, spray
 
 id: mi-detroit-2
+
+geolocation: 
 
 **Links**
 
@@ -63,6 +71,8 @@ tags: journalist, tear-gas, rubber-bullet, shoot
 
 id: mi-detroit-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/reporterdavidj/status/1266966021077962752
@@ -75,6 +85,8 @@ Police charge protesters. One woman does not flee and a police officer knocks he
 tags: throw, punch, knee, arrest, protester
 
 id: mi-detroit-6
+
+geolocation: 
 
 **Links**
 
@@ -90,6 +102,8 @@ Footage from another reporter shows her handcuffed and led to the car. This repo
 tags: journalist, zip-tie
 
 id: mi-detroit-11
+
+geolocation: 
 
 **Links**
 
@@ -110,6 +124,8 @@ tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-des
 
 id: mi-detroit-7
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MCmuckraker/status/1267982859991728130
@@ -128,6 +144,8 @@ tags: lrad, protester
 
 id: mi-detroit-8
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MedvisJackson/status/1267984069905784832
@@ -140,6 +158,8 @@ A police cruiser begins to drive into a line of protesters. Protesters continue 
 tags: vehicle, protester
 
 id: mi-detroit-9
+
+geolocation: 
 
 **Links**
 
@@ -154,6 +174,8 @@ tags: tear-gas, protester, shield, baton, arrest, choke, tear-gas, tear-gas-cani
 
 id: mi-detroit-10
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AttorneyCrump/status/1282107085812047873
@@ -167,6 +189,8 @@ Police and protesters faced off at a protest in Detroit, Michigan around midnigh
 tags: protester, tear-gas, strike, baton, shield, arrest
 
 id: mi-detroit-12
+
+geolocation: 
 
 **Links**
 
@@ -188,6 +212,8 @@ tags: protester, tackle
 
 id: mi-detroit-13
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MCmuckraker/status/1298315127326900230
@@ -202,6 +228,8 @@ A single man walks down a street towards a line of police.  The man stops to tal
 tags: spray, shoot, pepper-spray, tear-gas, tear-gas-canister, protester
 
 id: mi-grandrapids-1
+
+geolocation: 
 
 **Links**
 
@@ -221,6 +249,8 @@ tags: shove, push, shield, hide-badge, body-cam, protester
 
 id: mi-grandrapids-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DJR2C2/status/1267006669583720448
@@ -239,6 +269,8 @@ tags: shove, push, arrest, protester
 
 id: mi-grandrapids-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/OfficAlyNicole/status/1283181085577420810
@@ -256,6 +288,8 @@ tags: shoot, pepper-ball, tear-gas, tear-gas-canister, protester
 
 id: mi-kalamazoo-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/i/status/1267677463850745858
@@ -270,6 +304,8 @@ A crowd of peaceful protesters downtown refused to disperse upon curfew taking e
 tags: tear-gas, arrest, protester
 
 id: mi-kalamazoo-2
+
+geolocation: 
 
 **Links**
 
@@ -287,6 +323,8 @@ tags: journalist, arrest
 
 id: mi-kalamazoo-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Phil_Lewis_/status/1294732715221286913
@@ -301,6 +339,8 @@ Police charge at protesters, pepper spraying indiscriminately. One protester is 
 tags: protester, tackle, pepper-spray, spray
 
 id: mi-kalamazoo-4
+
+geolocation: 
 
 **Links**
 

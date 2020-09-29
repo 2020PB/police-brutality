@@ -8,6 +8,8 @@ tags: shove, arrest, push, protester
 
 id: vt-stjohnsbury-1
 
+geolocation: 
+
 **Links**
 
 * https://www.facebook.com/story.php?story_fbid=3011143412313088&id=100002523772680

@@ -114,6 +114,8 @@ tags: {tags_md}
 
 id: {id}
 
+geolocation: {geolocation}
+
 **Links**
 
 {links_md}

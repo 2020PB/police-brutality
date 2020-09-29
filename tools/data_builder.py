@@ -33,6 +33,11 @@ url_regex = re.compile(
     r"(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))" r"([\w\-\.,@?^=%&amp;:/~\+#\!]*[\w\-\@?^=%&amp;/~\+#\!])?"
 )
 
+# Regex is used to ensure that lat/long is both in a valid format has has 6-7 decimal places (or is an exact 90/180) to improve data quality on the backend
+GEOLOCATION_REGEX = re.compile(
+    r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{6,7})|90(?:\.0+)?)),\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{6,7})))\)?$"
+)
+
 
 def critical_exit(msg):
     print(f"---CRITICAL FAILURE {msg}")
@@ -122,6 +127,27 @@ def find_md_link_or_url(text):
     return text_content.strip(), link_url.strip()
 
 
+def _format_lat_or_long(val: str) -> None:
+    return val.strip("+")
+
+
+def validate_geo(geo_body_raw: str) -> str:
+    geo_body = geo_body_raw.strip()
+    if geo_body == "":
+        return ""
+
+    result = GEOLOCATION_REGEX.match(geo_body)
+
+    try:
+        result_1 = _format_lat_or_long(result.group(1))
+        result_2 = _format_lat_or_long(result.group(2))
+    except AttributeError:
+        ValueError(f"Could not parse geolocation: {geo_body}")
+    if result:
+        return f"{result_1}, {result_2}"
+    raise ValueError(f"Could not parse geolocation: {geo_body}")
+
+
 def parse_state(state, text):
     source_link = f"https://github.com/2020PB/police-brutality/blob/main/reports/{state}.md"
     city = ""
@@ -138,6 +164,7 @@ def parse_state(state, text):
         "city": city,
         "description": "",
         "tags": [],
+        "geolocation": "",
     }
     entry = copy.deepcopy(clean_entry)
 
@@ -194,11 +221,15 @@ def parse_state(state, text):
             # Text without a markdown marker, this might be the description or metadata
             id_prefix = "id:"
             tags_prefix = "tags:"
+            lat_long_prefix = "geolocation:"
             if line.startswith(id_prefix):
                 entry["id"] = line[len(id_prefix) :].strip()
             elif line.startswith(tags_prefix):
                 spacey_tags = line[len(tags_prefix) :].split(",")
                 entry["tags"] = [tag.strip() for tag in spacey_tags]
+            elif line.startswith(lat_long_prefix):
+                entry["geolocation"] = validate_geo(line[len(lat_long_prefix) :].lstrip())
+                pass
             else:
                 # Add a line to the description, but make sure there are no extra
                 # new lines surrounding it.

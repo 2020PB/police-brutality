@@ -8,6 +8,8 @@ tags: protester, pepper-spray, spray
 
 id: ri-providence-1
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=c8MmfSfi2MA

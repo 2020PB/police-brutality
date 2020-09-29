@@ -8,6 +8,8 @@ tags: tackle, arrest, protester
 
 id: ny-buffalo-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/secretlaith/status/1268251322467450880
@@ -26,6 +28,8 @@ Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/
 tags: shove, strike, push, protester
 
 id: ny-buffalo-2
+
+geolocation: 
 
 **Links**
 
@@ -47,6 +51,8 @@ tags: journalist, shoot, threaten, projectile
 
 id: ny-buffalo-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PhotoJazzy/status/1269056626843099137
@@ -64,6 +70,8 @@ tags: arrest, shove, push, knee, knee-on-neck, throw, tackle, protester
 
 id: ny-eastmeadow-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/RexChapman/status/1271832001364979716
@@ -78,6 +86,8 @@ A police contingent far outnumbering protesters shows up to block roads. Protest
 tags: arrest, protester
 
 id: ny-merrick-1
+
+geolocation: 
 
 **Links**
 
@@ -96,6 +106,8 @@ tags: strike, arrest, grab, shove, protester, baton
 
 id: ny-newyorkcity-55
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ShimonPro/status/1266136557871869952
@@ -108,6 +120,8 @@ Footage shows a woman arguing with a police officer at a protest near Union Squa
 tags: shove, push, grab, protester, arrest
 
 id: ny-newyorkcity-56
+
+geolocation: 
 
 **Links**
 
@@ -126,6 +140,8 @@ tags: shove, throw, protester
 
 id: ny-newyorkcity-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/whitney_hu/status/1266540710188195843
@@ -143,6 +159,8 @@ tags: vehicle, drive, protester
 
 id: ny-newyorkcity-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DriveWendys/status/1266555286678048770
@@ -155,6 +173,8 @@ Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays 
 tags: politician, pepper-spray, spray, protester
 
 id: ny-newyorkcity-3
+
+geolocation: 
 
 **Links**
 
@@ -170,6 +190,8 @@ tags: shove, baton, protester
 
 id: ny-newyorkcity-58
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/nycDSA/status/1266562453686665217
@@ -182,6 +204,8 @@ Footage taken at a protest at Classon and Putnam Avenues in Brooklyn shows an of
 tags: shove, protester
 
 id: ny-newyorkcity-59
+
+geolocation: 
 
 **Links**
 
@@ -196,6 +220,8 @@ tags: shove, grab, protester
 
 id: ny-newyorkcity-60
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/JohnPhilpNY/status/1266595992427790338
@@ -208,6 +234,8 @@ Footage taken at 67 5th Avenue in Brooklyn shows police chasing down a protester
 tags: shove, tackle, protester, arrest
 
 id: ny-newyorkcity-61
+
+geolocation: 
 
 **Links**
 
@@ -227,6 +255,8 @@ tags: shove, protester
 
 id: ny-newyorkcity-62
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/NickAtNews/status/1266567790095486976
@@ -239,6 +269,8 @@ Footage taken at Flatbush and Pacific in Brooklyn shows a police officer punchin
 tags: punch, strike, protester
 
 id: ny-newyorkcity-63
+
+geolocation: 
 
 **Links**
 
@@ -253,6 +285,8 @@ tags: shove, protester
 
 id: ny-newyorkcity-64
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
@@ -266,6 +300,8 @@ tags: beat, baton, push, shove, protester
 
 id: ny-newyorkcity-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/j0ncampbell/status/1266514356071735296
@@ -278,6 +314,8 @@ A police officer shoves a man repeatedly off the road and into a metal fence by 
 tags: shove, push, protester
 
 id: ny-newyorkcity-6
+
+geolocation: 
 
 **Links**
 
@@ -293,6 +331,8 @@ tags: shove, push, protester
 
 id: ny-newyorkcity-7
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/crankberries/status/1266584559245803522
@@ -306,6 +346,8 @@ Despite clearly identifying himself, the reporter was taken into custody during 
 tags: journalist, arrest
 
 id: ny-newyorkcity-8
+
+geolocation: 
 
 **Links**
 
@@ -321,6 +363,8 @@ An NYPD SUV's path is blocked by a crowd of protesters. Protesters begin throwin
 tags: vehicle, drive, protester
 
 id: ny-newyorkcity-10
+
+geolocation: 
 
 **Links**
 
@@ -339,6 +383,8 @@ tags: shove, push, protester
 
 id: ny-newyorkcity-27
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/letsgomathias/status/1266903135303450631
@@ -352,6 +398,8 @@ tags: medic, knee, property-destruction
 
 id: ny-newyorkcity-28
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PNickCurran/status/1266966295653777408
@@ -364,6 +412,8 @@ CNN commentator, Keith Boykin, was arrested by the NYPD and detained for 6 hours
 tags: journalist, arrest, inhumane-treatment, zip-tie
 
 id: ny-newyorkcity-30
+
+geolocation: 
 
 **Links**
 
@@ -383,6 +433,8 @@ tags: arrest, push, shove, property-destruction, protester
 
 id: ny-newyorkcity-33
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/orsification/status/1266909241820004353
@@ -396,6 +448,8 @@ Footage from a Union Square protest shows an officer using his baton to shove a 
 tags: shove, baton, protester
 
 id: ny-newyorkcity-87
+
+geolocation: 
 
 **Links**
 
@@ -414,6 +468,8 @@ tags: pepper-spray, spray, shove, protester
 
 id: ny-newyorkcity-88
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594404564/new_155-1254w.mp4
@@ -429,6 +485,8 @@ tags: shove, grab, push, protester
 
 id: ny-newyorkcity-89
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/BrooklynSpoke/status/1266845497446318081
@@ -442,6 +500,8 @@ tags: shove, arrest, choke, throw, protester
 
 id: ny-newyorkcity-90
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/justawren/status/1266945853828280330
@@ -454,6 +514,8 @@ Footage taken by an off-duty journalist (at the protest to film but not on a man
 tags: shove, baton, strike, journalist, protester
 
 id: ny-newyorkcity-91
+
+geolocation: 
 
 **Links**
 
@@ -469,6 +531,8 @@ tags: pepper-spray, spray, protester
 
 id: ny-newyorkcity-92
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PNickCurran/status/1266959923641974784
@@ -482,6 +546,8 @@ tags: baton, strike, shove, protester
 
 id: ny-newyorkcity-93
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/spiccoli/status/1266861960982913030
@@ -494,6 +560,8 @@ Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on 
 tags: medic, beat, strike, shove, bystander
 
 id: ny-newyorkcity-32
+
+geolocation: 
 
 **Links**
 
@@ -510,6 +578,8 @@ tags: pepper-spray, spray, inhumane-treatment, protester
 
 id: ny-newyorkcity-9
 
+geolocation: 
+
 **Links**
 
 * [Original Post](https://twitter.com/ajrupchandani/status/1266889115288711168?s=21)
@@ -525,6 +595,8 @@ tags: beat, shove, arrest, baton, knee, protester
 
 id: ny-newyorkcity-11
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/theactivistTati/status/1266889419858075649
@@ -537,6 +609,8 @@ Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 tags: politician, pepper-spray, spray, protester
 
 id: ny-newyorkcity-12
+
+geolocation: 
 
 **Links**
 
@@ -551,6 +625,8 @@ tags: pepper-spray, spray, protester
 
 id: ny-newyorkcity-15
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gu2u28/more_documented_aggression_in_flatbush_brooklyn/
@@ -564,6 +640,8 @@ tags: journalist, property-destruction, strike, shield
 
 id: ny-newyorkcity-16
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/tylergabriel_/status/1267287516345925632
@@ -576,6 +654,8 @@ Videos showed police in New York hitting demonstrators with batons in several lo
 tags: baton, beat, strike, protester
 
 id: ny-newyorkcity-17
+
+geolocation: 
 
 **Links**
 
@@ -592,6 +672,8 @@ tags: inhumane-treatment, protester
 
 id: ny-newyorkcity-29
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GoodCallNYC/status/1267128759951523846
@@ -605,6 +687,8 @@ tags: shove, push, arrest, throw, strike, protester
 
 id: ny-newyorkcity-31
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/drivenbyboredom/status/1267263490009546753
@@ -617,6 +701,8 @@ A woman is seeing moving another protester from the scene in an apparent attempt
 tags: arrest, kick, punch, strike, beat, baton, protester
 
 id: ny-newyorkcity-48
+
+geolocation: 
 
 **Links**
 
@@ -632,6 +718,8 @@ tags: arrest, shove, beat, tackle, protester
 
 id: ny-newyorkcity-42
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/brandon212_/status/1267184037547986944
@@ -645,6 +733,8 @@ tags: push, shove, pepper-spray, spray, protester
 
 id: ny-newyorkcity-82
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DavidASiffert/status/1267297196157947904
@@ -657,6 +747,8 @@ Footage taken near Barclays Center and Atlantic Terminal in Brooklyn shows viole
 tags: beat, strike, baton, arrest, protester, shove
 
 id: ny-newyorkcity-83
+
+geolocation: 
 
 **Links**
 
@@ -676,6 +768,8 @@ tags: strike, shove, baton, protester
 
 id: ny-newyorkcity-84
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394783/0_id35-1254w.mp4
@@ -688,6 +782,8 @@ Footage taken at FDR drive and Houston street shows police and protesters separa
 tags: pepper-spray, spray, protester
 
 id: ny-newyorkcity-85
+
+geolocation: 
 
 **Links**
 
@@ -702,6 +798,8 @@ tags: shove, strike, beat, baton, protester
 
 id: ny-newyorkcity-86
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GwynneFitz/status/1267267195870097413
@@ -714,6 +812,8 @@ Officer is seen here brandishing what appears to be a handgun and pointing it at
 tags: threaten, gun, protester
 
 id: ny-newyorkcity-18
+
+geolocation: 
 
 **Links**
 
@@ -734,6 +834,8 @@ tags: beat, property-destruction, arrest, baton, kick, protester
 
 id: ny-newyorkcity-36
 
+geolocation: 
+
 **Links**
 
 * https://abc7ny.com/nyc-curfew-aftermath-looting-riots/6229025/
@@ -748,6 +850,8 @@ tags: bystander, pepper-spray, spray
 
 id: ny-newyorkcity-71
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=kkO0FLBKK6Y
@@ -760,6 +864,8 @@ A police officer comes from behind a protester, lifts him over shoulder height a
 tags: throw, strike, beat, protester
 
 id: ny-newyorkcity-19
+
+geolocation: 
 
 **Links**
 
@@ -775,6 +881,8 @@ tags: beat, strike, lgbtq+, protester
 
 id: ny-newyorkcity-20
 
+geolocation: 
+
 **Links**
 
 * https://www.lgbtqnation.com/2020/06/cops-beat-lgbtq-protestors-leaving-demonstration-stonewall-inn/
@@ -787,6 +895,8 @@ Police are seen here beating a man trying to escape, hitting him multiple times 
 tags: beat, baton, strike, punch, kick, baton, protester
 
 id: ny-newyorkcity-21
+
+geolocation: 
 
 **Links**
 
@@ -801,6 +911,8 @@ A man crossing the street with his bike at a stoplight crosswalk is beaten by po
 tags: beat, baton, strike, protester
 
 id: ny-newyorkcity-22
+
+geolocation: 
 
 **Links**
 
@@ -817,6 +929,8 @@ tags: beat, baton, strike, protester
 
 id: ny-newyorkcity-72
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394866/0_id140-1254w.mp4
@@ -829,6 +943,8 @@ In an incident at 17 Battery Place in Manhattan, police are forcibly arresting s
 tags: grab, knee, strike, protester, arrest
 
 id: ny-newyorkcity-73
+
+geolocation: 
 
 **Links**
 
@@ -843,6 +959,8 @@ tags: grab, knee, tackle, strike, baton, protester, arrest
 
 id: ny-newyorkcity-74
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394855/0_id131-1254w.mp4
@@ -855,6 +973,8 @@ In an incident outside the Hugh Carey Tunnel (West and Morris Streets in Manhatt
 tags: knee, arrest, zip-tie, protester, strike, baton, property-destruction
 
 id: ny-newyorkcity-zaxt
+
+geolocation: 
 
 **Links**
 
@@ -869,6 +989,8 @@ tags: arrest, protester, baton, beat, strike, kick
 
 id: ny-newyorkcity-75
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394791/id46_annote-1254w.mp4
@@ -881,6 +1003,8 @@ In an incident at Fifth Avenue and 83rd st in Manhattan, an officer moves into a
 tags: beat, strike, throw, grab, protester
 
 id: ny-newyorkcity-76
+
+geolocation: 
 
 **Links**
 
@@ -895,6 +1019,8 @@ tags: shove, beat, strike, punch, arrest, protester
 
 id: ny-newyorkcity-34
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Add_Boy/status/1268264728989626368
@@ -908,6 +1034,8 @@ A motorist driving by the protest honks in support. An NYPD officer approaches h
 tags: threaten, bystander
 
 id: ny-newyorkcity-35
+
+geolocation: 
 
 **Links**
 
@@ -924,6 +1052,8 @@ tags: journalist, bike, abuse-of-power, property-destruction, protester
 
 id: ny-newyorkcity-45
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268398967777308672
@@ -938,6 +1068,8 @@ tags: protester, arrest, punch
 
 id: ny-newyorkcity-77
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394876/0_id147-1254w.mp4
@@ -951,6 +1083,8 @@ tags: shove, protester
 
 id: ny-newyorkcity-78
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594404564/id137_annote-1254w.mp4
@@ -963,6 +1097,8 @@ Footage from Cadman Plaza in Brooklyn shows an officer grabbing a protester with
 tags: choke, throw, grab, arrest, protester
 
 id: ny-newyorkcity-79
+
+geolocation: 
 
 **Links**
 
@@ -978,6 +1114,8 @@ tags: push, shove, baton, protester
 
 id: ny-newyorkcity-80
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/mattieump/status/1269094834926649349
@@ -990,6 +1128,8 @@ Footage from Cadman Plaza in Brooklyn shows protesters lock arms on the sidewalk
 tags: push, shove, baton, strike, protester
 
 id: ny-newyorkcity-81
+
+geolocation: 
 
 **Links**
 
@@ -1007,6 +1147,8 @@ tags: journalist, shove, strike, throw, beat, arrest, baton, protester
 
 id: ny-newyorkcity-23
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/johnknefel/status/1268736946031001607
@@ -1022,6 +1164,8 @@ Two women with bikes are being questioned by officers. One woman is cuffed and a
 tags: arrest, strike, choke, baton, protester
 
 id: ny-newyorkcity-24
+
+geolocation: 
 
 **Links**
 
@@ -1039,6 +1183,8 @@ The NY Daily News cited that as of Thursday, June 4th, 202 people had been detai
 tags: arrest, inhumane-treatment, abuse-of-power, protester
 
 id: ny-newyorkcity-37
+
+geolocation: 
 
 **Links**
 
@@ -1058,6 +1204,8 @@ A news report states the worker was leaving a delivery as a protest passed by.
 tags: arrest, abuse-of-power, bystander
 
 id: ny-newyorkcity-38
+
+geolocation: 
 
 **Links**
 
@@ -1081,6 +1229,8 @@ tags: arrest, racial-profiling, inhumane-treatment, baton, beat, bystander, zip-
 
 id: ny-newyorkcity-39
 
+geolocation: 
+
 **Links**
 
 * https://www.buzzfeednews.com/article/amberjamieson/nypd-bbq-video-brooklyn-arrests
@@ -1101,6 +1251,8 @@ tags: arrest, abuse-of-power, legal-observer
 
 id: ny-newyorkcity-40
 
+geolocation: 
+
 **Links**
 
 * https://gothamist.com/news/round-green-hats-nypd-accused-deliberately-targeting-legal-observers-brutal-bronx-mass-arrest
@@ -1119,6 +1271,8 @@ One video additionally shows protesters shouting for a medic as a woman has gone
 tags: pepper-spray, spray, baton, beat, shield, strike, arrest, pregnant, protester
 
 id: ny-newyorkcity-25
+
+geolocation: 
 
 **Links**
 
@@ -1140,6 +1294,8 @@ tags: medic, arrest, abuse-of-power, inhumane-treatment
 
 id: ny-newyorkcity-47
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1269083492140408832
@@ -1153,6 +1309,8 @@ At protests on the night of June 4th, multiple reporters share footage of police
 tags: journalist, baton, strike, shove
 
 id: ny-newyorkcity-43
+
+geolocation: 
 
 **Links**
 
@@ -1168,6 +1326,8 @@ tags: arrest, abuse-of-power, bystander
 
 id: ny-newyorkcity-44
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/shainataub/status/1268919620456665088
@@ -1182,6 +1342,8 @@ tags: hide-badge, abuse-of-power
 
 id: ny-newyorkcity-46
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/BreezeCrypto/status/1268595409733156868
@@ -1194,6 +1356,8 @@ After a scuffle between protesters and police at Washington Ave and Fulton St in
 tags: grab, shove, throw, protester
 
 id: ny-newyorkcity-65
+
+geolocation: 
 
 **Links**
 
@@ -1208,6 +1372,8 @@ tags: shove, protester
 
 id: ny-newyorkcity-66
 
+geolocation: 
+
 **Links**
 
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394873/id145_annote-1254w.mp4
@@ -1220,6 +1386,8 @@ Footage taken at E 136th St and Brook Ave in the Bronx shows police pointing out
 tags: shove, arrest, choke, protester, punch, strike
 
 id: ny-newyorkcity-67
+
+geolocation: 
 
 **Links**
 
@@ -1234,6 +1402,8 @@ tags: shove, protester
 
 id: ny-newyorkcity-68
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/jangelooff/status/1268698274371944451
@@ -1247,6 +1417,8 @@ tags: arrest, protester, punch
 
 id: ny-newyorkcity-69
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/OLIVERIVARD/status/1268763639772839936
@@ -1259,6 +1431,8 @@ Footage taken from a Periscope stream filmed at Washington Ave and Fulton St in 
 tags: shove, protester, push, grab
 
 id: ny-newyorkcity-70
+
+geolocation: 
 
 **Links**
 
@@ -1275,6 +1449,8 @@ tags: shove, push, baton, protester
 
 id: ny-newyorkcity-101
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@kiakekate/video/6834753267575033093
@@ -1288,6 +1464,8 @@ tags: bike, shove, push, protester
 
 id: ny-newyorkcity-41
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/C_Sommerfeldt/status/1269110624132489217
@@ -1300,6 +1478,8 @@ Multiple police officers tackle a cyclist on a Black Lives Matter group ride. Th
 tags: tackle, punch, arrest, beat, strike, protester
 
 id: ny-newyorkcity-26
+
+geolocation: 
 
 **Links**
 
@@ -1321,6 +1501,8 @@ tags: shove, baton, strike, beat, arrest, pepper-spray, spray, lgbtq+, hide-badg
 
 id: ny-newyorkcity-49
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/elielcruz/status/1277346244952817669
@@ -1340,6 +1522,8 @@ tags: shove, baton, strike, protester
 
 id: ny-newyorkcity-51
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1277636698806116352
@@ -1352,6 +1536,8 @@ At part of the Pride March, protesters gathered inside the park, a pedestrian & 
 tags: shove, push, protester
 
 id: ny-newyorkcity-52
+
+geolocation: 
 
 **Links**
 
@@ -1374,6 +1560,8 @@ tags: shove, baton, strike, beat, arrest, choke, hide-badge, protester, zip-tie
 
 id: ny-newyorkcity-50
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1277987893248655361
@@ -1390,6 +1578,8 @@ tags: taser, tase, arrest, shove, push, grab, protester
 
 id: ny-newyorkcity-53
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ScooterCasterNY/status/1282464495839981569
@@ -1405,6 +1595,8 @@ tags: protester, bike, shove
 
 id: ny-newyorkcity-54
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/protest_nyc/status/1282480090702655492
@@ -1417,6 +1609,8 @@ During a July 16th protest on the Brooklyn Bridge, police made a series of viole
 tags: shove, tackle, strike, knee, arrest, inhumane-treatment
 
 id: ny-newyorkcity-94
+
+geolocation: 
 
 **Links**
 
@@ -1433,6 +1627,8 @@ The individual has been charged with inciting a riot, attempted assault, disorde
 tags: tackle, punch, arrest, abuse-of-power, protester
 
 id: ny-newyorkcity-96
+
+geolocation: 
 
 **Links**
 
@@ -1452,6 +1648,8 @@ tags: homeless, arrest, protester
 
 id: ny-newyorkcity-95
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/protest_nyc/status/1285891685608820738
@@ -1467,6 +1665,8 @@ tags: beat, shove, strike, protester, bike, baton, arrest
 
 id: ny-newyorkcity-99
 
+geolocation: 
+
 **Links**
 
 * https://www.instagram.com/p/CDDVu-Tlyiy/
@@ -1479,6 +1679,8 @@ Footage shows a woman yelling at police. From her words, police have asked her t
 tags: arrest, protester, abuse-of-power
 
 id: ny-newyorkcity-98
+
+geolocation: 
 
 **Links**
 
@@ -1493,6 +1695,8 @@ tags: protester, shove, shield
 
 id: ny-newyorkcity-97
 
+geolocation: 
+
 **Links**
 
 * https://www.instagram.com/tv/CDFndP4jem2/
@@ -1505,6 +1709,8 @@ A group of plain-clothes police officers who fail to identify themselves as poli
 tags: arrest, abuse-of-power, protester
 
 id: ny-newyorkcity-100
+
+geolocation: 
 
 **Links**
 
@@ -1526,6 +1732,8 @@ tags: push, shove, protester
 
 id: ny-newyorkcity-102
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1304958501580689408
@@ -1541,6 +1749,8 @@ tags: protester, push, shove, tackle, grab, arrest
 
 id: ny-newyorkcity-103
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ScooterCasterNY/status/1306716215977668608
@@ -1555,6 +1765,8 @@ tags: protester, push, tackle, arrest
 
 id: ny-newyorkcity-104
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/davenewworld_2/status/1306977155935592448
@@ -1568,6 +1780,8 @@ tags: protester, grab, arrest
 
 id: ny-newyorkcity-105
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/isabelle_leyva/status/1307377995691237378
@@ -1580,6 +1794,8 @@ Protesters were seen yelling at police from the sidewalk near an outside dining 
 tags: arrest, push, shove, grab, protester, bystander
 
 id: ny-newyorkcity-106
+
+geolocation: 
 
 **Links**
 
@@ -1598,6 +1814,8 @@ tags: shoot, rubber-bullet, protester
 
 id: ny-rochester-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bleeezyy_/status/1266894195865931778
@@ -1610,6 +1828,8 @@ A journalist filming protests in Rochester, New York was shot in the head by an 
 tags: journalist, shoot, projectile, pepper-ball
 
 id: ny-rochester-2
+
+geolocation: 
 
 **Links**
 
@@ -1627,6 +1847,8 @@ tags: protester, journalist, shoot, projectile, rubber-bullet, pepper-ball
 
 id: ny-rochester-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1301729199703707649
@@ -1642,6 +1864,8 @@ After declaring an unlawful assembly and firing pepper balls for some time, Roch
 tags: protester, tear-gas, shoot, projectile, pepper-ball
 
 id: ny-rochester-4
+
+geolocation: 
 
 **Links**
 
@@ -1663,6 +1887,8 @@ tags: protester, tear-gas, journalist, projectile
 
 id: ny-rochester-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AFriendlyDad/status/1302433343036780544
@@ -1682,6 +1908,8 @@ tags: protester, tear-gas, lrad, projectile
 
 id: ny-rochester-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AFriendlyDad/status/1302444567157907457
@@ -1695,6 +1923,8 @@ Multiple riot police officers in Rochester are seen with their badges covered.
 tags: hide-badge, abuse-of-power
 
 id: ny-rochester-7
+
+geolocation: 
 
 **Links**
 
@@ -1711,6 +1941,8 @@ tags: protester, lrad
 
 id: ny-rochester-8
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/adriawalkr/status/1304976173366235137
@@ -1724,6 +1956,8 @@ Protesters camped out front of city hall demanding the resignation of Rochester 
 tags: protester, push, shove
 
 id: ny-rochester-9
+
+geolocation: 
 
 **Links**
 
@@ -1745,6 +1979,8 @@ SSPD alleges that neither tear gas nor pepper balls were deployed.
 tags: shoot, projectile, protester, arrest
 
 id: ny-saratogasprings-1
+
+geolocation: 
 
 **Links**
 

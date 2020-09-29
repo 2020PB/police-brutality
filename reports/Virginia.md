@@ -10,6 +10,8 @@ tags: taser, strike, arrest, non-protest, knee-on-neck
 
 id: va-fairfax-1
 
+geolocation: 
+
 **Links**
 
 * https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
@@ -27,6 +29,8 @@ Footage shows deployment of tear gas by police on peaceful protest on the street
 tags: tear-gas, protester
 
 id: va-fredericksburg-2
+
+geolocation: 
 
 **Links**
 
@@ -48,6 +52,8 @@ tags: politician, push, shove, pepper-spray, spray, protester
 
 id: va-manassas-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/tristanshields/status/1266994214878932993
@@ -67,6 +73,8 @@ tags: vehicle, protester
 
 id: va-richmond-9
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/heif6m/an_older_video_from_the_beginning_of_protests_in/
@@ -79,6 +87,8 @@ A police officer pepper sprayed a man watching from his second floor apartment a
 tags: spray, pepper-spray, bystander
 
 id: va-richmond-1
+
+geolocation: 
 
 **Links**
 
@@ -94,6 +104,8 @@ Tear gas canisters were launched by police at peaceful protesters around Robert 
 tags: tear-gas, tear-gas-canister, protester
 
 id: va-richmond-2
+
+geolocation: 
 
 **Links**
 
@@ -115,6 +127,8 @@ tags: arrest, inhumane-treatment, protester
 
 id: va-richmond-3
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
@@ -129,6 +143,8 @@ In this video, an officer fires a tear gas canister at a slow moving vehicle. It
 tags: tear-gas, tear-gas-canister
 
 id: va-richmond-4
+
+geolocation: 
 
 **Links**
 
@@ -145,6 +161,8 @@ tags: vehicle, drive, protester
 
 id: va-richmond-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/BreRVA/status/1271982379180138502
@@ -158,6 +176,8 @@ Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidew
 tags: protester, pepper-spray, spray
 
 id: va-richmond-20
+
+geolocation: 
 
 **Links**
 
@@ -173,6 +193,8 @@ Footage uploaded 3 minutes later shows another officer discharging pepper spray 
 tags: protester, pepper-spray, spray
 
 id: va-richmond-21
+
+geolocation: 
 
 **Links**
 
@@ -191,6 +213,8 @@ In addition, one protester's phone was shot. Police also appear to deploy pepper
 tags: tear-gas, rubber-bullet, shoot, protester, property-destruction, pepper-spray, spray
 
 id: va-richmond-5
+
+geolocation: 
 
 **Links**
 
@@ -213,6 +237,8 @@ tags: pepper-spray, spray, shove, journalist
 
 id: va-richmond-7
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/aeringle/status/1274898298923606017
@@ -226,6 +252,8 @@ Officers quickly escalate against a peaceful nighttime protest outside city hall
 tags: shove, tear-gas, shoot, protester
 
 id: va-richmond-8
+
+geolocation: 
 
 **Links**
 
@@ -245,6 +273,8 @@ tags: shoot, projectile, explosive, protester
 
 id: va-richmond-10
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/woznyphoto/status/1276734657237864448
@@ -258,6 +288,8 @@ tags: bike, grab, arrest, knee, protester
 
 id: va-richmond-11
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/woznyphoto/status/1276727667979694081
@@ -270,6 +302,8 @@ Footage shows a police officer shoving a protester to the ground. The protester 
 tags: shove, pepper-spray, spray, protester
 
 id: va-richmond-12
+
+geolocation: 
 
 **Links**
 
@@ -290,6 +324,8 @@ tags: arrest, abuse-of-power, bystander, zip-tie
 
 id: va-richmond-13
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/rva_charlie/status/1276739841951248384
@@ -307,6 +343,8 @@ tags: protester, tear-gas
 
 id: va-richmond-14
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1287252197487648768
@@ -319,6 +357,8 @@ After a truck has been lit on fire, allegedly by protesters, police respond by f
 tags: protester, tear-gas
 
 id: va-richmond-15
+
+geolocation: 
 
 **Links**
 
@@ -338,6 +378,8 @@ tags: journalist, grab, abuse-of-power
 
 id: va-richmond-16
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/JLJLovesRVA/status/1287242052284096513
@@ -351,6 +393,8 @@ Richmond police officers were clearing Monroe Park. A journalist was attempting 
 tags: journalist, abuse-of-power
 
 id: va-richmond-17
+
+geolocation: 
 
 **Links**
 
@@ -367,6 +411,8 @@ tags: protester, arrest, abuse-of-power
 
 id: va-richmond-18
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/GoadGatsby/status/1287599473619861504
@@ -380,6 +426,8 @@ Police arrived at a group of protesters who gave out food and water to remove th
 tags: protester, taser, tase, arrest
 
 id: va-richmond-19
+
+geolocation: 
 
 **Links**
 
@@ -396,6 +444,8 @@ After the incident, the filmer attempted to get badge numbers and names from off
 tags: protester, arrest, push, shove, hide-badge, abuse-of-power
 
 id: va-richmond-22
+
+geolocation: 
 
 **Links**
 
@@ -414,6 +464,8 @@ tags: protester, tackle, arrest
 
 id: va-richmond-23
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/broadcastben_/status/1300932708634427392
@@ -427,6 +479,8 @@ After snatching a protester, police formed a riot shield line and told protester
 tags: protester, push, shove, shield
 
 id: va-richmond-24
+
+geolocation: 
 
 **Links**
 

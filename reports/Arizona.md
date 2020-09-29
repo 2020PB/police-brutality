@@ -8,6 +8,8 @@ tags: beat, arrest, inhumane-treatment, threaten, tackle, protester
 
 id: az-phoenix-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/PhxProtestLIVE/status/1268390978571825156?s=20
@@ -20,6 +22,8 @@ Officers arrested 114 people on Saturday, May 30, most for rioting (a low-level 
 tags: abuse-of-power, arrest, protester
 
 id: az-phoenix-2
+
+geolocation: 
 
 **Links**
 
@@ -37,6 +41,8 @@ tags: journalist, shoot, rubber-bullet
 
 id: az-phoenix-5
 
+geolocation: 
+
 **Links**
 
 * https://www.abc15.com/news/region-phoenix-metro/valley-photographer-injured-in-phoenix-protest-released-from-hospital
@@ -52,6 +58,8 @@ Several other residents of the Garfield neighborhood have complained of police b
 tags: arrest, tackle, tear-gas, bystander, zip-tie
 
 id: az-phoenix-3
+
+geolocation: 
 
 **Links**
 
@@ -74,6 +82,8 @@ Captions on Twitter and an NPR article state tear gas and flashbangs were deploy
 tags: pepper-spray, tear-gas, stun-grenade, spray, protester
 
 id: az-phoenix-4
+
+geolocation: 
 
 **Links**
 
@@ -102,6 +112,8 @@ tags: shove, pepper-spray, spray, tackle, knee, arrest, protester
 
 id: az-tempe-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1277432629353238535
@@ -116,6 +128,8 @@ Footage shows police charging protesters in the street without warning and tackl
 tags: shove, tackle, protester, arrest, pepper-spray, spray
 
 id: az-tempe-2
+
+geolocation: 
 
 **Links**
 

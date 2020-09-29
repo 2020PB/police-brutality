@@ -10,6 +10,8 @@ tags: arrest, protester, beat, strike, pepper-spray, spray, tackle, taser, tase
 
 id: ut-cottonwoodheights-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Harryson_james/status/1290094912805847041
@@ -31,6 +33,8 @@ tags: elderly, push, shove, shield, bystander
 
 id: ut-saltlakecity-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bubbaprog/status/1266908354821206016
@@ -43,6 +47,8 @@ The man on the ground was shot with a beanbag, resulting in heavy damage.
 tags: shoot, bean-bag, protester
 
 id: ut-saltlakecity-2
+
+geolocation: 
 
 **Links**
 
@@ -57,6 +63,8 @@ tags: tear-gas, shoot, tear-gas-canister, protester
 
 id: ut-saltlakecity-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268333029526843392
@@ -70,6 +78,8 @@ Police seemingly single out a person that is being the most vocal, push and tack
 tags: push, tackle, arrest, beat, knee, protester
 
 id: ut-saltlakecity-3
+
+geolocation: 
 
 **Links**
 
@@ -86,6 +96,8 @@ tags: protester, beat, strike, shield, baton
 
 id: ut-saltlakecity-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/kylemoonsgirl/status/1281446209618493445
@@ -101,6 +113,8 @@ Footage from a protest for Bernardo Palacios-Carbajal shows police chasing down 
 tags: journalist, abuse-of-power
 
 id: ut-saltlakecity-6
+
+geolocation: 
 
 **Links**
 

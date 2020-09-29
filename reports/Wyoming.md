@@ -8,6 +8,8 @@ tags: protester, vehicle
 
 id: wy-laramie-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/laramiehumans/status/1309117420167213062

@@ -8,6 +8,8 @@ tags: arrest, beat, knee-on-neck, protester
 
 id: il-chicago-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
@@ -20,6 +22,8 @@ Police pepper-spray reporter holding press pass and yelling press.
 tags: pepper-spray, spray, journalist
 
 id: il-chicago-5
+
+geolocation: 
 
 **Links**
 
@@ -34,6 +38,8 @@ tags: hide-badge, push, shove, baton
 
 id: il-chicago-11
 
+geolocation: 
+
 **Links**
 
 * https://old.reddit.com/r/PublicFreakout/comments/gtmbmh/cops_remove_badges_minutes_before_assault/
@@ -46,6 +52,8 @@ Police are apprehensive towards John Cusack recording a flaming car, proceed to 
 tags: celebrity, baton, protester
 
 id: il-chicago-3
+
+geolocation: 
 
 **Links**
 
@@ -67,6 +75,8 @@ tags: shove, throw, arrest, property-destruction, knee-on-neck, knee, inhumane-t
 
 id: il-chicago-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/cruzzzyc/status/1267185423333199874
@@ -87,6 +97,8 @@ tags: politician, beat, strike, baton, protester
 
 id: il-chicago-6
 
+geolocation: 
+
 **Links**
 
 * https://news.wttw.com/2020/06/05/police-board-president-officers-struck-me-5-times-their-batons-during-protest
@@ -99,6 +111,8 @@ Several photos and video in this Twitter thread show officers missing body cams,
 tags: hide-badge, body-cam
 
 id: il-chicago-10
+
+geolocation: 
 
 **Links**
 
@@ -118,6 +132,8 @@ tags: punch, protester
 
 id: il-chicago-7
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
@@ -133,6 +149,8 @@ tags: beat, shove, throw, baton, protester
 
 id: il-chicago-8
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/BLMChi/status/1267486699321544704
@@ -145,6 +163,8 @@ A police officer and a protester are walking down the sidewalk and begin to verb
 tags: shove, threaten, protester
 
 id: il-chicago-12
+
+geolocation: 
 
 **Links**
 
@@ -159,6 +179,8 @@ tags: push, shove, property-destruction, protester
 
 id: il-chicago-13
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
@@ -171,6 +193,8 @@ The cameraman films several groups of people on the street and sidewalk who are 
 tags: shove, throw, punch, beat, baton, protester
 
 id: il-chicago-9
+
+geolocation: 
 
 **Links**
 
@@ -185,6 +209,8 @@ tags: hide-badge, abuse-of-power
 
 id: il-chicago-14
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@sarahsoch/video/6834688359969918214
@@ -198,6 +224,8 @@ Cop punches an 18 year old Black woman activist at a protest in Grant Park. She 
 tags: punch, protester
 
 id: il-chicago-15
+
+geolocation: 
 
 **Links**
 
@@ -215,6 +243,8 @@ tags: strike, baton, protester, tackle, shove, push, pepper-spray, spray, arrest
 
 id: il-chicago-16
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/poonfarm/status/1284289077530054656
@@ -231,6 +261,8 @@ tags: strike, baton, protester
 
 id: il-chicago-17
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KeepinKidsSafe/status/1284289666615844871
@@ -243,6 +275,8 @@ First-person footage from a journalist shows a police officer shoving, threateni
 tags: threaten, shove, push, journalist
 
 id: il-chicago-18
+
+geolocation: 
 
 **Links**
 
@@ -257,6 +291,8 @@ tags: strike, journalist, property-destruction
 
 id: il-chicago-19
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MarParNews/status/1284306440971325440
@@ -269,6 +305,8 @@ Footage uploaded on July 19th shows an officer standing some distance from prote
 tags: pepper-spray, spray, protester
 
 id: il-chicago-20
+
+geolocation: 
 
 **Links**
 
@@ -283,6 +321,8 @@ tags: vehicle, strike, protester, property-destruction
 
 id: il-chicago-21
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/jamaicaponders/status/1284680046473621505
@@ -296,6 +336,8 @@ tags: protester, shove, bike
 
 id: il-chicago-22
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/BaburRealer/status/1294834101988597766
@@ -308,6 +350,8 @@ Police charge into a crowd of protesters. One protester falls and police surroun
 tags: protester, push, shove, pepper-spray, spray
 
 id: il-chicago-23
+
+geolocation: 
 
 **Links**
 
@@ -323,6 +367,8 @@ tags: protester, push, shove
 
 id: il-chicago-24
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/dudgedudy/status/1294762556901535744
@@ -336,6 +382,8 @@ In an incident that appears to occur in the background of il-chicago-22, a prote
 tags: protester, shove, push, tackle, punch, beat, baton, bike
 
 id: il-chicago-25
+
+geolocation: 
 
 **Links**
 
@@ -351,6 +399,8 @@ An alternate angle provided by the Chicago Police Department, shows police initi
 tags: protester, push, shove, property-destruction, strike, baton, pepper-spray, spray
 
 id: il-chicago-26
+
+geolocation: 
 
 **Links**
 
@@ -370,6 +420,8 @@ tags: protester, pepper-spray, spray
 
 id: il-chicago-27
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/lukeharuki92/status/1295167889876692992
@@ -384,6 +436,8 @@ tags: protester, pepper-spray, spray
 
 id: il-chicago-28
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/RealSaleemJuma/status/1294916491758854144
@@ -396,6 +450,8 @@ Footage shows police walking protesters down the street. Police begin shoving th
 tags: protester, push, shove, arrest
 
 id: il-chicago-29
+
+geolocation: 
 
 **Links**
 
@@ -416,6 +472,8 @@ tags: protester, abuse-of-power
 
 id: il-chicago-30
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/DominicGwinn/status/1294792483772268550
@@ -434,6 +492,8 @@ tags: beat, shove, throw, protester
 
 id: il-joliet-1
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=rllO2sdj1Ek
@@ -451,6 +511,8 @@ tags: beat, grab, arrest, bystander
 
 id: il-rockford-1
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=VfRZkKR9l3w
@@ -463,6 +525,8 @@ Police arrest, pepper spray, and tear gas BLM protesters who blocked the road in
 tags: protester, arrest, pepper-spray, spray, tear-gas
 
 id: il-rockford-2
+
+geolocation: 
 
 **Links**
 

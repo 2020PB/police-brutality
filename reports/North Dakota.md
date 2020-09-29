@@ -12,6 +12,8 @@ tags: abuse-of-power, incitement
 
 id: nd-fargo-2
 
+geolocation: 
+
 **Links**
 
 * https://www.grandforksherald.com/opinion/6520779-Port-Fargo-Deputy-Chief-sends-apology-email-after-he-was-seen-at-George-Floyd-protest-with-a-beer-can-cursing-at-law-enforcement
@@ -24,6 +26,8 @@ Multiple people pass by the police until they decide to arrest the only two blac
 tags: racial-profiling, arrest, shove, push, protester
 
 id: nd-fargo-1
+
+geolocation: 
 
 **Links**
 

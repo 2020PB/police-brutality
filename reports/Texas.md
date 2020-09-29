@@ -8,6 +8,8 @@ tags: choke, threaten, gun, beat, punch, baton, pepper-spray, spray, protester
 
 id: tx-austin-2
 
+geolocation: 
+
 **Links**
 
 * https://gfycat.com/tautimaginativedore
@@ -23,6 +25,8 @@ In the aftermath other protesters help the victim who is bleeding from a large h
 tags: child, shoot, rubber-bullet, bean-bag, protester
 
 id: tx-austin-3
+
+geolocation: 
 
 **Links**
 
@@ -41,6 +45,8 @@ tags: threaten, rubber-bullet, bean-bag, tear-gas, shoot, protester
 
 id: tx-austin-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/highsettler/status/1266876480929349633
@@ -55,6 +61,8 @@ Police were seen firing multiple shots of what were allegedly rubber bullets int
 tags: rubber-bullet, shoot, protester
 
 id: tx-austin-5
+
+geolocation: 
 
 **Links**
 
@@ -71,6 +79,8 @@ tags: pregnant, bean-bag, shoot, protester
 
 id: tx-austin-8
 
+geolocation: 
+
 **Links**
 
 * https://www.statesman.com/news/20200612/pregnant-woman-shot-with-beanbag-round-by-austin-police-wants-them-held-accountable
@@ -86,6 +96,8 @@ Charges were filed against the protester for swinging his sign at police. Police
 tags: horse, shove, pepper-spray, spray, protester
 
 id: tx-austin-10
+
+geolocation: 
 
 **Links**
 
@@ -105,6 +117,8 @@ tags: medic, bean-bag, shoot, protester
 
 id: tx-austin-1
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gwd37n/a_black_20yearold_student_justin_howell_is_in/
@@ -121,6 +135,8 @@ tags: shoot, rubber-bullet, protester
 
 id: tx-austin-6
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gwfu8e/apd_gets_water_splashed_on_them_and_immediately/
@@ -135,6 +151,8 @@ A man wearing glasses and with his hands in his pockets stands still approximate
 tags: pepper-spray, spray, protester
 
 id: tx-austin-7
+
+geolocation: 
 
 **Links**
 
@@ -152,6 +170,8 @@ tags: shoot, bean-bag, protester
 
 id: tx-austin-13
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/randomjhovall/status/1267309502845669376
@@ -167,6 +187,8 @@ tags: medic, shoot, protester
 
 id: tx-austin-9
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvjjwg/volunteer_medics_advised_by_police_to_bring_a/
@@ -181,6 +203,8 @@ Footage shows police kicking aside musician's gear. He falls off his stool and i
 tags: arrest, shove, property-destruction, knee, knee-on-neck, protester
 
 id: tx-austin-14
+
+geolocation: 
 
 **Links**
 
@@ -199,6 +223,8 @@ tags: arrest, knee, knee-on-neck, protester
 
 id: tx-austin-11
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=Thrvojgme5I
@@ -212,6 +238,8 @@ Police detained a protester for allegedly striking a barricade with a skateboard
 tags: punch, strike, arrest, knee, protester
 
 id: tx-austin-12
+
+geolocation: 
 
 **Links**
 
@@ -228,6 +256,8 @@ tags: journalist, punch, zip-tie, tackle, arrest
 
 id: tx-austin-15
 
+geolocation: 
+
 **Links**
 
 * https://streamable.com/srj5s7
@@ -241,6 +271,8 @@ Footage shows police surrounding protesters on the sidewalk. Police use bikes to
 tags: protester, shove, bike, push, pepper-spray, spray, arrest
 
 id: tx-austin-16
+
+geolocation: 
 
 **Links**
 
@@ -258,6 +290,8 @@ tags: protester, push, shove, horse
 
 id: tx-austin-17
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/CandiceBernd/status/1289734363933028352
@@ -270,6 +304,8 @@ A woman films an officer arresting a protester. A second officer walks by, knock
 tags: protester, push, shove, property-destruction
 
 id: tx-austin-18
+
+geolocation: 
 
 **Links**
 
@@ -284,6 +320,8 @@ Footage shows police chasing several protesters and throwing them to the ground 
 tags: protester, tackle, throw, grab, arrest
 
 id: tx-austin-19
+
+geolocation: 
 
 **Links**
 
@@ -301,6 +339,8 @@ tags: tackle, arrest, knee, protester
 
 id: tx-baytown-1
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gw2dpw/cop_in_baytown_tx_pulls_over_black_man_white_man/
@@ -317,6 +357,8 @@ tags: shoot, rubber-bullet, bystander
 
 id: tx-dallas-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/KevinRKrause/status/1266898396339675137
@@ -331,6 +373,8 @@ Man at the protests had been shot in the eye by officers.
 tags: shoot, projectile, protester
 
 id: tx-dallas-4
+
+geolocation: 
 
 **Links**
 
@@ -349,6 +393,8 @@ tags: stun-grenade, tear-gas, protester
 
 id: tx-dallas-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
@@ -364,6 +410,8 @@ tags: shoot, rubber-bullet, protester
 
 id: tx-dallas-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bubbaprog/status/1267542878118727680
@@ -377,6 +425,8 @@ On June 2nd, protesters are routed onto Margaret Hunt Hill Bridge. They are met 
 tags: shoot, rubber-bullet, tear-gas, protester
 
 id: tx-dallas-3
+
+geolocation: 
 
 **Links**
 
@@ -394,6 +444,8 @@ tags: tear-gas-canister, projectile, protester
 
 id: tx-elpaso-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1267430869154902019
@@ -409,6 +461,8 @@ tags: horse, protester
 
 id: tx-houston-1
 
+geolocation: 
+
 **Links**
 
 * [Video of trampling](https://twitter.com/vikthewild/status/1266538354939756544)
@@ -423,6 +477,8 @@ tags: shove, push, protester
 
 id: tx-houston-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/AbkTrauma/status/1266511972524269569
@@ -435,6 +491,8 @@ A protester is filming and asking "why?", referring to protesters being arrested
 tags: shove, push, property-destruction, arrest, protester
 
 id: tx-houston-3
+
+geolocation: 
 
 **Links**
 
@@ -449,6 +507,8 @@ tags: baton, pepper-spray, punch, protester
 
 id: tx-houston-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268392253665546245
@@ -461,6 +521,8 @@ Footage from an extended stream shows police and protesters facing off on the si
 tags: protester, arrest, grab, shove, push
 
 id: tx-houston-5
+
+geolocation: 
 
 **Links**
 
@@ -476,6 +538,8 @@ Police deploy tear gas against protesters after drunk driver ran into oncoming t
 tags: protester, arrest, tear-gas
 
 id: tx-lewisville-1
+
+geolocation: 
 
 **Links**
 
@@ -493,6 +557,8 @@ tags: shoot, rubber-bullet, protester
 
 id: tx-sanantonio-1
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gu3s6j/police_shoots_protestor_for_no_reason/
@@ -507,6 +573,8 @@ Police are protesters are gathered several feet apart. Between the two lines, a 
 tags: shoot, projectile, protester
 
 id: tx-sanantonio-2
+
+geolocation: 
 
 **Links**
 

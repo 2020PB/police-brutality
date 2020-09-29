@@ -8,6 +8,8 @@ tags: pepper-spray, spray, protester
 
 id: in-fortwayne-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266745200656990208
@@ -21,6 +23,8 @@ Karli VanCleave, a local journalist, was hit in the back with a tear gas caniste
 tags: journalist, tear-gas, tear-gas-canister
 
 id: in-fortwayne-6
+
+geolocation: 
 
 **Links**
 
@@ -37,6 +41,8 @@ tags: tear-gas, pepper-spray, protester
 
 id: in-fortwayne-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/blazedyukhei/status/1266533569029177346
@@ -49,6 +55,8 @@ A toddler and her mother were driving through downtown and had to leave their ca
 tags: tear-gas, child, bystander, medic
 
 id: in-fortwayne-3
+
+geolocation: 
 
 **Links**
 
@@ -63,6 +71,8 @@ A protester was hit in the face with a tear gas canister. He is now permanently 
 tags: tear-gas, tear-gas-canister, protester
 
 id: in-fortwayne-4
+
+geolocation: 
 
 **Links**
 
@@ -81,6 +91,8 @@ tags: rubber-bullet, inhumane-treatment, protester
 
 id: in-fortwayne-5
 
+geolocation: 
+
 **Links**
 
 * https://vm.tiktok.com/J1Vja3J/
@@ -96,6 +108,8 @@ Police confiscate medical supplies from a medical station at Monument Circle.
 tags: medic, property-destruction
 
 id: in-indianapolis-1
+
+geolocation: 
 
 **Links**
 
@@ -114,6 +128,8 @@ tags: tear-gas, tear-gas-canister, person-with-disability, protester
 
 id: in-indianapolis-3
 
+geolocation: 
+
 **Links**
 
 * https://www.theindychannel.com/news/local-news/police-apologize-after-non-violent-protesters-tear-gassed-on-monument-circle
@@ -129,6 +145,8 @@ Two IMPD officers have since been indicted for battery and other use of force ch
 tags: beat, shoot, strike, baton, pepper-ball, arrest, inhumane-treatment, shove, protester
 
 id: in-indianapolis-2
+
+geolocation: 
 
 **Links**
 
@@ -147,6 +165,8 @@ In this video, protesters are chanting peacefully when an officer drops tear gas
 tags: tear-gas, tear-gas-canister, protester
 
 id: in-lafayette-1
+
+geolocation: 
 
 **Links**
 

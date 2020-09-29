@@ -8,6 +8,8 @@ tags: journalist, protester, tear-gas, shoot, foam-bullet
 
 id: nm-albuquerque-1
 
+geolocation: 
+
 **Links**
 
 * [1:00 - mentions being struck](https://twitter.com/i/broadcasts/1DXxyeqvodExM)

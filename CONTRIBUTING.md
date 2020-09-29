@@ -224,6 +224,8 @@ tags: vehicle, celebrity, death (ex: check the link to tags below)
 
 id: state_abbreviation-city-number (ex: ca-losangeles-1)
 
+geolocation: latitude, longitude to 6-7 decimal places (eg: 1.1234567, -1.123456)
+
 **Links**
 
 * https://github.com/2020PB/police-brutality

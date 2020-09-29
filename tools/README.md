@@ -15,6 +15,9 @@ pip install -r requirements.txt
 
 # Run script from within root directory of project
 python tools/data_builder.py
+
+# Install nltk dependencies
+python -c "import nltk; nltk.download('wordnet')"
 ```
 
 ## Tests

@@ -8,6 +8,8 @@ tags: arrest, protester
 
 id: sc-charleston-1
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guxm5o/police_arresting_a_peaceful_protestor_for_simply/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
@@ -23,6 +25,8 @@ News footage shows a civilian car after a collision with a police APC. The drive
 tags: drive, vehicle, property-destruction, bystander
 
 id: sc-charleston-2
+
+geolocation: 
 
 **Links**
 
@@ -40,6 +44,8 @@ Police charged him with disobeying a lawful order and resisting arrest.
 tags: arrest, shove, strike, beat, tackle, hide-badge, protester
 
 id: sc-charleston-3
+
+geolocation: 
 
 **Links**
 

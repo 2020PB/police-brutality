@@ -8,6 +8,8 @@ tags: arrest, shove, knee, protester
 
 id: ne-lincoln-1
 
+geolocation: 
+
 **Links**
 
 * https://journalstar.com/news/local/crime-and-courts/watch-now-arrested-lincoln-protester-felt-violated-we-did-nothing-wrong-but-exercise-our-constitutional/article_aa0216d0-b79b-524b-9b6a-5db44a2d49dc.html
@@ -22,6 +24,8 @@ tags: journalist, tear-gas, tear-gas-canister
 
 id: ne-lincoln-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ChrisDunkerLJS/status/1268938853945167873
@@ -35,6 +39,8 @@ After a protester threw a firework at police, police shot tear gas and impact mu
 tags: protester, tear-gas, shoot, projectile
 
 id: ne-lincoln-3
+
+geolocation: 
 
 **Links**
 
@@ -52,6 +58,8 @@ tags: mace, spray, pepper-ball, protester
 
 id: ne-omaha-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/XruthxNthr/status/1266903223220097024
@@ -67,6 +75,8 @@ tags: journalist, kick, arrest, pepper-ball, protester
 
 id: ne-omaha-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/reecereports/status/1267629669093978117
@@ -80,6 +90,8 @@ Footage shows a police officer shoving a protester on a bike. Police then fire i
 tags: protester, journalist, shove, arrest, zip-tie, shoot, projectile
 
 id: ne-omaha-3
+
+geolocation: 
 
 **Links**
 

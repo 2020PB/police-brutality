@@ -8,6 +8,8 @@ tags: mace, pepper-spray, spray, kick
 
 id: pa-erie-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ItsKadynC/status/1266967646345613317
@@ -27,6 +29,8 @@ Following a police shooting in Lancaster, protesters gathered in the streets, fo
 tags: protester, tear-gas
 
 id: pa-lancaster-1
+
+geolocation: 
 
 **Links**
 
@@ -48,6 +52,8 @@ tags: pepper-spray, spray, protester
 
 id: pa-harrisburg-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266862623041167362
@@ -62,6 +68,8 @@ The journalist was trying to get a closer look at the police, while they were be
 tags: arrest, journalist, beat, threaten, baton, protester
 
 id: pa-philadelphia-1
+
+geolocation: 
 
 **Links**
 
@@ -80,6 +88,8 @@ tags: arrest, shove, push, threaten, punch, baton, beat, vehicle, protester, bys
 
 id: pa-philadelphia-2
 
+geolocation: 
+
 **Links**
 
 * https://youtu.be/QDcCFN_LQPA
@@ -94,6 +104,8 @@ tags: shove, push, protester
 
 id: pa-philadelphia-14
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MeKatharine/status/1266870362433822720
@@ -106,6 +118,8 @@ A man is being held on the ground by a police officer, who forces the man's hand
 tags: knee, knee-on-neck, beat, baton, strike, threaten, protester
 
 id: pa-philadelphia-3
+
+geolocation: 
 
 **Links**
 
@@ -120,6 +134,8 @@ An officer mounted atop a personnel carrier fires several tear gas rounds down a
 tags: tear-gas
 
 id: pa-philadelphia-9
+
+geolocation: 
 
 **Links**
 
@@ -137,6 +153,8 @@ Location: [Interstate 676 between N 20th/21st St](https://www.google.com/maps/pl
 tags: tear-gas, rubber-bullet, shoot, tear-gas-canister, protester
 
 id: pa-philadelphia-4
+
+geolocation: 
 
 **Links**
 
@@ -156,6 +174,8 @@ tags: pepper-spray, spray, protester
 
 id: pa-philadelphia-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
@@ -170,6 +190,8 @@ He now faces charges of aggravated assault, simple assault, possession of an ins
 tags: shove, baton, strike, beat, protester
 
 id: pa-philadelphia-7
+
+geolocation: 
 
 **Links**
 
@@ -189,6 +211,8 @@ tags: shove, arrest, push, protester
 
 id: pa-philadelphia-8
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/tippedminimum/status/1268001268406136832
@@ -203,6 +227,8 @@ Footage shows members of the groups threatening and shouting racial and homophob
 tags: abuse-of-power, protester
 
 id: pa-philadelphia-10
+
+geolocation: 
 
 **Links**
 
@@ -224,6 +250,8 @@ tags: pepper-spray, spray, protester
 
 id: pa-philadelphia-13
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/d0wnrrrrr/status/1267848782689054723
@@ -236,6 +264,8 @@ At least 6 officers surround a handcuffed man who says "I can't breathe". Office
 tags: threaten, arrest, knee, protester
 
 id: pa-philadelphia-6
+
+geolocation: 
 
 **Links**
 
@@ -256,6 +286,8 @@ tags: journalist, abuse-of-power
 
 id: pa-philadelphia-11
 
+geolocation: 
+
 **Links**
 
 * https://vimeo.com/428917635
@@ -272,6 +304,8 @@ Footage shows first-person video leading up to her arrest. It includes her clear
 tags: journalist, arrest, abuse-of-power, zip-tie
 
 id: pa-philadelphia-12
+
+geolocation: 
 
 **Links**
 
@@ -292,6 +326,8 @@ tags: tear-gas, tear-gas-canister, shoot, arrest, projectile, protester
 
 id: pa-pittsburgh-3
 
+geolocation: 
+
 **Links**
 
 * https://pittsburgh.cbslocal.com/2020/06/03/protester-hopes-cell-phone-video-clears-his-name/
@@ -305,6 +341,8 @@ A woman in East Liberty gets onto her knees and puts her hands in the air, while
 tags: pepper-spray, spray, threaten, protester
 
 id: pa-pittsburgh-1
+
+geolocation: 
 
 **Links**
 
@@ -320,6 +358,8 @@ Police declare a peaceful protest an unlawful assembly. They then escalate the s
 tags: shoot, tear-gas, rubber-bullet, protester
 
 id: pa-pittsburgh-2
+
+geolocation: 
 
 **Links**
 
@@ -341,6 +381,8 @@ tags: pepper-spray, spray, protester
 
 id: pa-pittsburgh-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/messiest_headd/status/1267816842413740034
@@ -356,6 +398,8 @@ The crowd begins to object and asks why she is being arrested. Another officer t
 tags: arrest, tear-gas, tear-gas-canister, protester
 
 id: pa-pittsburgh-5
+
+geolocation: 
 
 **Links**
 
@@ -373,6 +417,8 @@ tags: protester, shove, baton, push
 
 id: pa-pittsburgh-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/jackohrman/status/1287258983149993984
@@ -385,6 +431,8 @@ A protest marshal was singled out and arrested with charges of "Obstructing High
 tags: protester, abuse-of-power, arrest
 
 id: pa-pittsburgh-7
+
+geolocation: 
 
 **Links**
 
@@ -405,6 +453,8 @@ https://twitter.com/csnyderj/status/1296275426059472902
 tags: protester, shove, push, baton, pepper-spray, spray
 
 id: pa-pittsburgh-8
+
+geolocation: 
 
 **Links**
 

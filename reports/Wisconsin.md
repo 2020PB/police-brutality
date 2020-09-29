@@ -8,6 +8,8 @@ tags: protester, tear-gas, shoot, projectile
 
 id: wi-kenosha-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ABC/status/1297822172556165121
@@ -26,6 +28,8 @@ A student journalist from DePaul University was hit with a tear gas canister.
 tags: protester, shoot, projectile, lrad, tear-gas, tear-gas-canister, journalist
 
 id: wi-kenosha-2
+
+geolocation: 
 
 **Links**
 
@@ -58,6 +62,8 @@ tags: protester, shoot, projectile, tear-gas, pepper-spray, spray
 
 id: wi-kenosha-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ehamer7/status/1298135090682265601
@@ -70,6 +76,8 @@ Protesters gathered outside the courthouse in Kenosha, rattling a fence erected 
 tags: protester, tear-gas, lrad
 
 id: wi-kenosha-4
+
+geolocation: 
 
 **Links**
 
@@ -93,6 +101,8 @@ tags: journalist, arrest, abuse-of-power
 
 id: wi-kenosha-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/r2020PB/status/1300777629268795393
@@ -105,6 +115,8 @@ A woman is seen filming protests. She gets into an altercation with an officer. 
 tags: journalist, pepper-spray, spray
 
 id: wi-kenosha-5
+
+geolocation: 
 
 **Links**
 
@@ -124,6 +136,8 @@ tags: protester, arrest, property-destruction, abuse-of-power
 
 id: wi-kenosha-7
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/riotkitchen206/status/1298799200319074304
@@ -141,6 +155,8 @@ tags: protester, spray
 
 id: wi-madison-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
@@ -156,6 +172,8 @@ tags: pepper-spray, journalist, protester
 
 id: wi-madison-2
 
+geolocation: 
+
 **Links**
 
 * https://www.tiktok.com/@michelle_but_not_obama/video/6833371052198857990
@@ -170,6 +188,8 @@ tags: protester, pepper-spray, spray
 
 id: wi-madison-3
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/isthmus/status/1298324422336688130
@@ -182,6 +202,8 @@ Around 1 AM on August 25th, police arrest a protester in a park. Other protester
 tags: protester, arrest, pepper-spray, spray, tear-gas
 
 id: wi-madison-4
+
+geolocation: 
 
 **Links**
 
@@ -197,6 +219,8 @@ tags: bystander, homeless, tear-gas
 
 id: wi-madison-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/isthmus/status/1298145645665099776
@@ -211,6 +235,8 @@ Protesters were congregating at the intersection of North 6th Street and McKinle
 tags: arrest, bike, knee, knee-on-neck, protester, strike, tackle
 
 id: wi-milwaukee-1
+
+geolocation: 43.0470717, -87.9188693
 
 **Links**
 
@@ -232,6 +258,8 @@ NOTE: this incident immediately follows wi-milwaukee-1. Because the misconduct i
 tags: gas, protester, rubber-bullet, shoot, tear-gas
 
 id: wi-milwaukee-2
+
+geolocation: 43.0470717, -87.9188693
 
 **Links**
 
@@ -255,6 +283,8 @@ Footage shows protesters peacefully marching across Hoan Bridge. Protesters are 
 tags: gas, protester, projectile, shoot, arrest
 
 id: wi-milwaukee-3
+
+geolocation: 
 
 **Links**
 

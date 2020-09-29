@@ -12,6 +12,8 @@ tags: shove, protester
 
 id: fl-fortlauderdale-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/thickliljawn/status/1267239498083110913
@@ -29,6 +31,8 @@ tags: shoot, rubber-bullet, protester
 
 id: fl-fortlauderdale-2
 
+geolocation: 
+
 **Links**
 
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
@@ -43,6 +47,8 @@ Body cam video released by Fort Lauderdale PD on Youtube shows police laughing a
 tags: shoot, rubber-bullet, tear-gas, abuse-of-power, body-cam, incitement
 
 id: fl-fortlauderdale-3
+
+geolocation: 
 
 **Links**
 
@@ -62,6 +68,8 @@ tags: tackle, arrest, shove, throw, gun, tear-gas, protester
 
 id: fl-jacksonville-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/joiahhh/status/1266914558519775235
@@ -78,6 +86,8 @@ Miami PD states the man was arrested for breaking the 8pm curfew, but the poster
 tags: tackle, arrest, protester
 
 id: fl-miami-1
+
+geolocation: 
 
 **Links**
 
@@ -96,6 +106,8 @@ tags: tear-gas, protester
 
 id: fl-miami-2
 
+geolocation: 
+
 **Links**
 
 * [9:00 round](https://twitter.com/inaminorkey/status/1277070049518465032)
@@ -111,6 +123,8 @@ Additional footage shows an officer grabbing the breast of the woman arrested. I
 tags: arrest, shove, abuse-of-power, inhumane-treatment, protester
 
 id: fl-miami-3
+
+geolocation: 
 
 **Links**
 
@@ -129,6 +143,8 @@ tags: arrest, shove, protester, abuse-of-power
 
 id: fl-miami-4
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=-4h4uAIt52Q&feature=youtu.be
@@ -146,6 +162,8 @@ tags: protester, tear-gas, stun-grenade
 
 id: fl-orlando-7
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?v=vH5YyL-Q0-Q
@@ -160,6 +178,8 @@ tags: tackle, pepper-spray, spray, protester
 
 id: or-orlando-5
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Concerned407/status/1268339148131307524
@@ -172,6 +192,8 @@ During a protest in Orlando, at the intersection of W South St. and S Division A
 tags: protester, person-with-disability, pepper-spray, spray, tackle, arrest
 
 id: or-orlando-8
+
+geolocation: 
 
 **Links**
 
@@ -186,6 +208,8 @@ tags: tackle, pepper-spray, arrest, shove, spray, protester
 
 id: fl-orlando-1
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/ewcfilms/status/1268003421786906627
@@ -198,6 +222,8 @@ A man limping away from the protest is tackled by police and kneeled on to make 
 tags: tackle, arrest, knee, protester
 
 id: fl-orlando-3
+
+geolocation: 
 
 **Links**
 
@@ -213,6 +239,8 @@ tags: bike, shove, protester
 
 id: fl-orlando-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/Flygirl4477/status/1267968890975522816
@@ -227,6 +255,8 @@ Additional footage shows the incident was instigated when officers shoved a prot
 tags: shoot, tear-gas, stun-grenade, rubber-bullet, shove, push, tackle, protester
 
 id: fl-orlando-2
+
+geolocation: 
 
 **Links**
 
@@ -245,6 +275,8 @@ tags: arrest, property-destruction, protester
 
 id: fl-orlando-6
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/edgarcomellas/status/1268555233065668608
@@ -261,6 +293,8 @@ Police declare unlawful assembly on a small, peaceful protest outside of police 
 tags: protester, stun-grenade
 
 id: fl-stpetersburg-1
+
+geolocation: 
 
 **Links**
 
@@ -281,6 +315,8 @@ tags: rubber-bullet, shoot, protester
 
 id: fl-tampa-4
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268765546662805505
@@ -299,6 +335,8 @@ tags: pepper-spray, spray, protester
 
 id: fl-tampa-3
 
+geolocation: 
+
 **Links**
 
 * [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
@@ -315,6 +353,8 @@ Additional footage states the woman in a purple shirt is a minor.
 tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas, protester
 
 id: fl-tampa-1
+
+geolocation: 27.9563654, -82.4569108
 
 **Links**
 
@@ -334,6 +374,8 @@ tags: tear-gas, arrest, protester
 
 id: fl-tampa-2
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268694786485166081
@@ -346,6 +388,8 @@ Video shows a medic treating another woman for a bleeding wound to her head. The
 tags: shoot, projectile, rubber-bullet, medic
 
 id: fl-tampa-6
+
+geolocation: 
 
 **Links**
 
@@ -363,6 +407,8 @@ tags: tackle, strike, knee, arrest, pepper-spray, spray
 
 id: fl-tampa-7
 
+geolocation: 
+
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hmhcgz/tampa_police_department_4th_of_july_unprovoked/
@@ -376,6 +422,8 @@ Shortly after 8 PM on August 12th, an organizer leaving a protest was singled ou
 tags: protester, arrest, knee, knee-on-neck, inhumane-treatment
 
 id: fl-tampa-8
+
+geolocation: 
 
 **Links**
 

@@ -8,6 +8,8 @@ tags: journalist, rubber-bullet, pepper-ball, shoot
 
 id: ky-louisville-2
 
+geolocation: 
+
 **Links**
 
 * [Video](https://www.reddit.com/r/PublicFreakout/comments/gt69qe/police_start_shooting_press_with_some_kinda/)
@@ -22,6 +24,8 @@ A young woman was injured by a rubber bullet she took to the head.
 tags: rubber-bullet, shoot, protester
 
 id: ky-louisville-4
+
+geolocation: 
 
 **Links**
 
@@ -39,6 +43,8 @@ tags: rubber-bullet, projectile, shoot, protester
 
 id: ky-louisville-8
 
+geolocation: 
+
 **Links**
 
 * [Wave3 Article and Video](https://www.wave3.com/2020/06/12/protester-shot-head-files-lawsuit-against-law-enforcement/)
@@ -52,6 +58,8 @@ Several police officers shoot from an overpass at cars stuck in traffic. This ha
 tags: shoot, projectile, property-destruction, bystander
 
 id: ky-louisville-5
+
+geolocation: 
 
 **Links**
 
@@ -68,6 +76,8 @@ tags: property-destruction
 
 id: ky-louisville-1
 
+geolocation: 
+
 **Links**
 
 * [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
@@ -81,6 +91,8 @@ A man was pulled from a car and beaten by multiple police officers. In pictures 
 tags: arrest, beat, baton, strike, protester
 
 id: ky-louisville-9
+
+geolocation: 
 
 **Links**
 
@@ -96,6 +108,8 @@ tags: tear-gas, beat, tackle, protester
 
 id: ky-louisville-3
 
+geolocation: 
+
 **Links**
 
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
@@ -108,6 +122,8 @@ LMPD and KY National Guard were sent to 26th and Broadway to disperse a gatherin
 tags: death, body-cam, live-round, pepper-ball, bystander
 
 id: ky-louisville-6
+
+geolocation: 
 
 **Links**
 
@@ -133,6 +149,8 @@ tags: arrest, knee, abuse-of-power
 
 id: ky-louisville-14
 
+geolocation: 
+
 **Links**
 
 * https://www.youtube.com/watch?time_continue=38&v=NGwUsz_8T48
@@ -149,6 +167,8 @@ tags: pepper-ball, shoot, protester
 
 id: ky-louisville-7
 
+geolocation: 
+
 **Links**
 
 * [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
@@ -161,6 +181,8 @@ Police were moving down a street (9th and Muhammed Ali) in a line clearing prote
 tags: pepper-ball, shoot, shove, baton, arrest, protester
 
 id: ky-louisville-11
+
+geolocation: 
 
 **Links**
 
@@ -176,6 +198,8 @@ A guy records a half-dozen policemen dogpiling a protester and then one of them 
 tags: rubber-bullet, shoot, tackle, beat, baton, protester
 
 id: ky-louisville-10
+
+geolocation: 
 
 **Links**
 
@@ -194,6 +218,8 @@ tags: medic, baton, beat, shove, strike, arrest, inhumane-treatment, person-with
 
 id: ky-louisville-12
 
+geolocation: 
+
 **Links**
 
 * https://mobile.twitter.com/martasmom98/status/1278231132753080321
@@ -207,6 +233,8 @@ After an incident in which local photographer and protester Tyler Gerth was shot
 tags: protester, property-destruction
 
 id: ky-louisville-20
+
+geolocation: 
 
 **Links**
 
@@ -223,6 +251,8 @@ It should be noted that he is not a credentialed reporter, but is well known by 
 tags: journalist, arrest, tackle
 
 id: ky-louisville-13
+
+geolocation: 
 
 **Links**
 
@@ -241,6 +271,8 @@ Additional footage from a bystander shows the filmer running out of the way of t
 tags: vehicle, arrest, bystander, abuse-of-power
 
 id: ky-louisville-15
+
+geolocation: 
 
 **Links**
 
@@ -264,6 +296,8 @@ tags: journalist, arrest, property-destruction
 
 id: ky-louisville-16
 
+geolocation: 
+
 **Links**
 
 * https://www.wdrb.com/news/aclu-raises-first-amendment-concerns-after-louisville-police-arrest-independent-media-livestreaming-protests/article_9fc52ade-bcd4-11ea-b2a1-47cb6faa91e6.html
@@ -282,6 +316,8 @@ tags: protester, arrest, knee, abuse-of-power
 
 id: ky-louisville-17
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/bloosemore/status/1280659724015480837
@@ -298,6 +334,8 @@ tags: protester, shoot, projectile
 
 id: ky-louisville-18
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/HayesGardner/status/1281393307805978624
@@ -312,6 +350,8 @@ Kejohn Jennings was at the rear doors of the Hall of Justice, criticizing office
 tags: protester, pepper-spray, spray
 
 id: ky-louisville-19
+
+geolocation: 
 
 **Links**
 
@@ -330,6 +370,8 @@ tags: protester, vehicle
 
 id: ky-louisville-21
 
+geolocation: 
+
 **Links**
 
 * [1:54:00](https://www.facebook.com/maxwellamitchell/videos/10219351963573439/)
@@ -346,6 +388,8 @@ The incident may have been initiated when a protester with a shield stopped movi
 tags: protester, bystander, shoot, projectile, pepper-ball, arrest, beat, strike, baton, punch, zip-tie
 
 id: ky-louisville-22
+
+geolocation: 
 
 **Links**
 
@@ -371,6 +415,8 @@ tags: protester, arrest, push, shove, grab, strike, baton
 
 id: ky-louisville-23
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/SVNewsAlerts/status/1308888971070648323
@@ -388,6 +434,8 @@ tags: protester, kick, arrest, zip-tie
 
 id: ky-louisville-24
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/VenturaReport/status/1308888759589535751
@@ -400,6 +448,8 @@ A protester arrested after an early incident is tripped by police, slamming him 
 tags: protester, kick, arrest, zip-tie
 
 id: ky-louisville-25
+
+geolocation: 
 
 **Links**
 
@@ -416,6 +466,8 @@ tags: protester, arrest, zip-tie, inhumane-treatment
 
 id: ky-louisville-26
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/WHAS11Heather/status/1308865830927708163
@@ -429,6 +481,8 @@ Police kettle and arrest protesters en masse. One independent journalist was arr
 tags: protester, journalist, arrest
 
 id: ky-louisville-27
+
+geolocation: 
 
 **Links**
 
@@ -447,6 +501,8 @@ tags: arrest, protester, politician
 
 id: ky-louisville-28
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/RyanVanVelzer/status/1309308902643826690
@@ -463,6 +519,8 @@ Police declare an unlawful assembly in Louisville during a protest. Police then 
 tags: stun-grenade, protester
 
 id: ky-louisville-29
+
+geolocation: 
 
 **Links**
 
