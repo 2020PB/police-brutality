@@ -34,9 +34,8 @@ url_regex = re.compile(
 )
 
 # Regex is used to ensure that lat/long is both in a valid format has has 6-7 decimal places (or is an exact 90/180) to improve data quality on the backend
-GEOLOCATION_REGEX = re.compile(
-    r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{6,7})|90(?:\.0+)?)),\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{6,7})))\)?$"
-)
+LAT_REGEX = re.compile(r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{6,7})|90(?:\.0+)?)),")
+LONG_REGEX = re.compile(r".*,\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{6,7})))\)?$")
 
 
 def critical_exit(msg):
@@ -136,16 +135,11 @@ def validate_geo(geo_body_raw: str) -> str:
     if geo_body == "":
         return ""
 
-    result = GEOLOCATION_REGEX.match(geo_body)
-
-    try:
-        result_1 = _format_lat_or_long(result.group(1))
-        result_2 = _format_lat_or_long(result.group(2))
-    except AttributeError:
-        ValueError(f"Could not parse geolocation: {geo_body}")
-    if result:
-        return f"{result_1}, {result_2}"
-    raise ValueError(f"Could not parse geolocation: {geo_body}")
+    parsed_lat = _format_lat_or_long(LAT_REGEX.match(geo_body).group(1))
+    parsed_long = _format_lat_or_long(LONG_REGEX.match(geo_body).group(1))
+    if not parsed_lat and not parsed_long:
+        raise ValueError(f"Could not parse geolocation: {geo_body}")
+    return f"{parsed_lat}, {parsed_long}"
 
 
 def parse_state(state, text):
