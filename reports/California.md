@@ -210,7 +210,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-lamesa-2
 
-geolocation: 
+geolocation: 32.7668143,-117.0229441
 
 **Links**
 
@@ -225,7 +225,7 @@ tags: bean-bag, less-lethal, protester, shoot
 
 id: ca-lamesa-1
 
-geolocation: 
+geolocation: 32.7668143,-117.0229441
 
 **Links**
 
