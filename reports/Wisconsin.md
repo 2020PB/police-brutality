@@ -4,7 +4,7 @@
 
 At protests following the death of Jacob Blake, protesters gathered outside a Kenosha police precinct. Protesters threw water bottles and shot of fireworks. Police responded with tear gas and impact munitions.
 
-tags: less-lethal, projectile, protester, shoot, tear-gas
+tags: le-lethal, less-lethal, projectile, protester, shoot, tear-gas
 
 id: wi-kenosha-1
 
@@ -25,7 +25,7 @@ Protesters were ordered to disperse from the court house. The crowd remained in 
 
 A student journalist from DePaul University was hit with a tear gas canister.
 
-tags: journalist, less-lethal, lrad, projectile, protester, shoot, tear-gas, tear-gas-canister
+tags: journalist, le-lethal, less-lethal, lrad, projectile, protester, shoot, tear-gas, tear-gas-canister
 
 id: wi-kenosha-2
 
@@ -58,7 +58,7 @@ geolocation:
 
 After pushing protesters away from the courthouse, a small group of protesters is clustered on a sidewalk. From across the street, police fire tear gas and impact munitions, believed to be sponge rounds. Police also discharge pepper spray.
 
-tags: less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
+tags: le-lethal, less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
 
 id: wi-kenosha-3
 
@@ -73,7 +73,7 @@ geolocation:
 
 Protesters gathered outside the courthouse in Kenosha, rattling a fence erected that day. Police gave a dispersal order. Protesters did not disperse. Police then deployed tear gas and the LRAD alarm to disperse protesters.
 
-tags: less-lethal, lrad, protester, tear-gas
+tags: le-lethal, less-lethal, lrad, protester, tear-gas
 
 id: wi-kenosha-4
 
@@ -112,7 +112,7 @@ geolocation:
 
 A woman is seen filming protests. She gets into an altercation with an officer. The officer grabs her, then she shoves him away. The officer then pepper sprays her. She stated in an interview afterward that an officer grabbed her breast, so she pushed away; the officer then sprayed her.
 
-tags: journalist, less-lethal, pepper-spray, spray
+tags: journalist, le-lethal, less-lethal, pepper-spray, spray
 
 id: wi-kenosha-5
 
@@ -168,7 +168,7 @@ A group of protesters are standing on a road paved over for pedestrian-only traf
 
 The journalist filming is told he is not allowed to remain, despite identifying himself as press.
 
-tags: journalist, less-lethal, pepper-spray, protester
+tags: journalist, le-lethal, less-lethal, pepper-spray, protester
 
 id: wi-madison-2
 
@@ -184,7 +184,7 @@ geolocation:
 
 Police hold a line in Madison, Wisconsin. Several protesters mill about nearby. One stands near police, speaking into a megaphone. An officer pepper sprays this protester.
 
-tags: less-lethal, pepper-spray, protester, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: wi-madison-3
 
@@ -199,7 +199,7 @@ geolocation:
 
 Around 1 AM on August 25th, police arrest a protester in a park. Other protesters approach the police line, appearing to stop several feet away. Police then pepper spray these protesters. Police then deployed tear gas shortly after.
 
-tags: arrest, less-lethal, pepper-spray, protester, spray, tear-gas
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray, tear-gas
 
 id: wi-madison-4
 
@@ -215,7 +215,7 @@ geolocation:
 
 A homeless bystander sleeping on the street is caught in tear gas. Protesters wake him up and get him out of the area.
 
-tags: bystander, homeless, less-lethal, tear-gas
+tags: bystander, homeless, le-lethal, less-lethal, tear-gas
 
 id: wi-madison-5
 
@@ -255,7 +255,7 @@ Police claim they used force to disperse the crowd after rocks and glass were th
 
 NOTE: this incident immediately follows wi-milwaukee-1. Because the misconduct involved is substantially different, it has been given its own incident.
 
-tags: gas, less-lethal, protester, rubber-bullet, shoot, tear-gas
+tags: gas, le-lethal, less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: wi-milwaukee-2
 
@@ -280,7 +280,7 @@ geolocation: 43.0470717, -87.9188693
 
 Footage shows protesters peacefully marching across Hoan Bridge. Protesters are met by a line of police who force them back across the bridge. During this encounter, a scuffle breaks out - it is unclear what caused it. Police respond by shoving protesters and throwing smoke bombs. 2 protesters are arrested for unknown reasons. Police also fire less lethal munitions, hitting at least one person in the leg - seen in the second link.
 
-tags: arrest, gas, less-lethal, projectile, protester, shoot
+tags: arrest, gas, le-lethal, less-lethal, projectile, protester, shoot
 
 id: wi-milwaukee-3
 

@@ -37,7 +37,7 @@ A news article describes a photographer in full view of an ABC news crew as he w
 
 The photographer now has four staples in his head, a concussion, and a bruised lung.
 
-tags: journalist, less-lethal, rubber-bullet, shoot
+tags: journalist, le-lethal, less-lethal, rubber-bullet, shoot
 
 id: az-phoenix-5
 
@@ -55,7 +55,7 @@ On May 31, police forced protesters who were out after curfew into the Garfield 
 
 Several other residents of the Garfield neighborhood have complained of police behavior that night, including one who says she passed out in her yard due to a tear-gas-induced asthma attack and awoke to find an officer handcuffing her.
 
-tags: arrest, bystander, less-lethal, tackle, tear-gas, zip-tie
+tags: arrest, bystander, le-lethal, less-lethal, tackle, tear-gas, zip-tie
 
 id: az-phoenix-3
 
@@ -79,7 +79,7 @@ Footage shows police declaring the assembly unlawful and telling protesters to g
 
 Captions on Twitter and an NPR article state tear gas and flashbangs were deployed.
 
-tags: less-lethal, pepper-spray, protester, spray, stun-grenade, tear-gas
+tags: le-lethal, less-lethal, pepper-spray, protester, spray, stun-grenade, tear-gas
 
 id: az-phoenix-4
 
@@ -108,7 +108,7 @@ Several protesters, including the filmer, shouted at the police for treating the
 
 From an article in the Arizona Mirror, Tempe police are allowed to use pepper spray "against violent or non-compliant subjects, and on vicious animals." In addition, they must give verbal warning that they will escalate. No such warning was given.
 
-tags: arrest, knee, less-lethal, pepper-spray, protester, shove, spray, tackle
+tags: arrest, knee, le-lethal, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: az-tempe-1
 
@@ -125,7 +125,7 @@ geolocation:
 
 Footage shows police charging protesters in the street without warning and tackling an individual with a skateboard to arrest them. Additional footage shows police using pepper spray to clear the area. 7 protesters were arrested. One officer was allegedly injured when a projectile lacerated their face.
 
-tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tackle
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: az-tempe-2
 

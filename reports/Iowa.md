@@ -4,7 +4,7 @@
 
 Police throw multiple rounds of tear gas into crowd of protesters. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protesters were peaceful before the canisters were thrown.
 
-tags: less-lethal, mace, protester, spray, tear-gas
+tags: le-lethal, less-lethal, mace, protester, spray, tear-gas
 
 id: ia-desmoines-2
 
@@ -19,7 +19,7 @@ geolocation:
 
 Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure." A woman's phone is destroyed by a police round.
 
-tags: bystander, less-lethal, property-destruction, rubber-bullet, shoot, tear-gas
+tags: bystander, le-lethal, less-lethal, property-destruction, rubber-bullet, shoot, tear-gas
 
 id: ia-desmoines-3
 
@@ -36,7 +36,7 @@ geolocation: 41.6293563, -93.6988361
 
 Footage shows peaceful protesters chanting in the street. Around 1 minute, a tight group of police begins launching tear gas and pepper-spraying indiscriminately. Police advance as protesters flee. Footage shows numerous officers using shields and batons to strike a protester lying on the street. In addition, an officer shoves the filmer, who is standing on the sidewalk.
 
-tags: baton, beat, less-lethal, pepper-spray, protester, shield, shove, spray, strike, tear-gas
+tags: baton, beat, le-lethal, less-lethal, pepper-spray, protester, shield, shove, spray, strike, tear-gas
 
 id: ia-desmoines-11
 
@@ -52,7 +52,7 @@ geolocation:
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
-tags: arrest, journalist, less-lethal, pepper-spray, spray, zip-tie
+tags: arrest, journalist, le-lethal, less-lethal, pepper-spray, spray, zip-tie
 
 id: ia-desmoines-7
 
@@ -83,7 +83,7 @@ geolocation:
 
 Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye.
 
-tags: journalist, less-lethal, pepper-spray, spray
+tags: journalist, le-lethal, less-lethal, pepper-spray, spray
 
 id: ia-desmoines-4
 
@@ -99,7 +99,7 @@ geolocation:
 
 Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
 
-tags: arrest, bystander, less-lethal, pepper-spray, shove, spray, threaten
+tags: arrest, bystander, le-lethal, less-lethal, pepper-spray, shove, spray, threaten
 
 id: ia-desmoines-1
 
@@ -173,7 +173,7 @@ After this, footage cuts to a shot of the filmer turns the camera on herself and
 
 Additional links from a reporter discuss the tactics used by police to intimidate and harass protesters. They also capture the aftermath of the pepper-spraying.
 
-tags: child, less-lethal, pepper-spray, protester, push, shield, shove, spray
+tags: child, le-lethal, less-lethal, pepper-spray, protester, push, shield, shove, spray
 
 id: ia-desmoines-9
 
@@ -194,7 +194,7 @@ Black Lives Matter advocates gathered at the Capitol to lobby for the governor t
 
 White protesters were inside the Capitol, police identified some of them claimed to have vandalized police car in the past, and arrests were made inside the Capitol for those individuals. However, the arrested individuals declined the allegations. The protesters followed the police outside the Capitol, and one of the protesters blocked their path and later the crowd tried to pull the arrestees from the custody of the police officers. That is when more crowds and police started to get involved. Police used pepper spray to help disperse the crowd and arrested 17 people, including two juveniles.
 
-tags: arrest, beat, child, less-lethal, pepper-spray, protester, spray, tackle
+tags: arrest, beat, child, le-lethal, less-lethal, pepper-spray, protester, spray, tackle
 
 id: ia-desmoines-8
 
@@ -220,7 +220,7 @@ Police continued to deploy tear gas and flashbangs in the area where Iowa city E
 
 According to the mayor, Iowa State Patrol was in command of the scene (though some Iowa City Police were present) and it was determined that letting the protest onto I-80 was too dangerous.
 
-tags: less-lethal, medic, protester, stun-grenade, tear-gas
+tags: le-lethal, less-lethal, medic, protester, stun-grenade, tear-gas
 
 id: ia-iowacity-1
 

@@ -73,7 +73,7 @@ geolocation:
 
 Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protesters without warning. Police continue firing as protesters flee.
 
-tags: less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray, tear-gas
+tags: le-lethal, less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray, tear-gas
 
 id: ma-worcester-3
 

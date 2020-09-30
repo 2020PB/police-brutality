@@ -12,7 +12,7 @@ After police walk arrestee away, protesters continue to shout at police. Police 
 
 A racial slur can be heard shouted, although it is unsure who is shouting.
 
-tags: arrest, less-lethal, projectile, protester, shoot, tear-gas
+tags: arrest, le-lethal, less-lethal, projectile, protester, shoot, tear-gas
 
 id: wa-olympia-1
 
@@ -63,7 +63,7 @@ geolocation:
 
 A police officer randomly and indiscriminately pepper sprays civilians walking around, which then went on to spark a riot.
 
-tags: less-lethal, pepper-spray, protester
+tags: le-lethal, less-lethal, pepper-spray, protester
 
 id: wa-seattle-3
 
@@ -80,7 +80,7 @@ Police pepper sprays a young child who is seen crying, while protesters pour mil
 
 Related to Seattle OPA Case 2020OPA-0322.
 
-tags: child, inhumane-treatment, less-lethal, pepper-spray, protester
+tags: child, inhumane-treatment, le-lethal, less-lethal, pepper-spray, protester
 
 id: wa-seattle-4
 
@@ -95,7 +95,7 @@ geolocation:
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protesters.
 
-tags: less-lethal, protester, tear-gas, tear-gas-canister
+tags: le-lethal, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: wa-seattle-8
 
@@ -145,7 +145,7 @@ geolocation:
 
 Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
 
-tags: less-lethal, protester, stun-grenade, tear-gas
+tags: le-lethal, less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-7
 
@@ -160,7 +160,7 @@ geolocation:
 
 Police pepper spray peacefully protesting crowd.
 
-tags: less-lethal, pepper-spray, protester
+tags: le-lethal, less-lethal, pepper-spray, protester
 
 id: wa-seattle-9
 
@@ -177,7 +177,7 @@ geolocation:
 
 Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
 
-tags: journalist, less-lethal, tear-gas, tear-gas-canister
+tags: journalist, le-lethal, less-lethal, tear-gas, tear-gas-canister
 
 id: wa-seattle-10
 
@@ -196,7 +196,7 @@ Police flashbang hits a homeless man sleeping in a park.
 
 Related to OPD Case 2020OPA-0335 "Homeless man hit by an SPD flashbang while sleeping".
 
-tags: bystander, homeless, less-lethal, stun-grenade
+tags: bystander, homeless, le-lethal, less-lethal, stun-grenade
 
 id: wa-seattle-54
 
@@ -211,7 +211,7 @@ geolocation:
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
-tags: less-lethal, pepper-spray, protester, stun-grenade
+tags: le-lethal, less-lethal, pepper-spray, protester, stun-grenade
 
 id: wa-seattle-5
 
@@ -268,7 +268,7 @@ geolocation:
 
 Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs.
 
-tags: less-lethal, protester, stun-grenade, tear-gas
+tags: le-lethal, less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-13
 
@@ -285,7 +285,7 @@ geolocation:
 
 In a series of videos, we see police asking protesters to move back, but the crowd is too dense for them to do so. Police then start pepper-spraying protesters at the front of the crowd and launch flashbangs into and near the crowd. At 1:30 in the first video, it appears a protester is hit with a projectile. In the subsequent clips, teargas is seen being spread into a group of protesters by police.
 
-tags: less-lethal, pepper-spray, projectile, protester, stun-grenade, tear-gas
+tags: le-lethal, less-lethal, pepper-spray, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-15
 
@@ -303,7 +303,7 @@ geolocation:
 
 Video shows an individual getting hit by a police projectile, falling down, and becoming unresponsive. Medics drag the person away from the police. A medic's first-hand narrative account describes the victim as "a young woman in her 20s." Medics attempt to treat the young woman while police throw flash bang grenades directly into the first aid center where they are gathered. Several times the victim stops responding or breathing but becomes responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transports her by car to an Emergency Dept where she was delivered with a pulse. The person who filmed the incident from his workplace office is an editor at the local alt weekly, The Stranger; he reported in his twitter thread that the people in the office were having trouble breathing from teargas or some other chemical agent.
 
-tags: less-lethal, medic, projectile, protester, stun-grenade, tear-gas
+tags: le-lethal, less-lethal, medic, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-14
 
@@ -323,7 +323,7 @@ Police surrounded a barricade in the street and began arresting protesters. One 
 
 Police then retaliate against the crowd, firing tear gas and spraying pepper spray indiscriminately. Police continue to do so well after protesters have moved to the sides.
 
-tags: arrest, less-lethal, pepper-spray, protester, tear-gas
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, tear-gas
 
 id: wa-seattle-17
 
@@ -338,7 +338,7 @@ geolocation:
 
 A protester is seen off to the side of the protest, speaking with another protester and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
 
-tags: less-lethal, protester, rubber-bullet, shoot
+tags: le-lethal, less-lethal, protester, rubber-bullet, shoot
 
 id: wa-seattle-18
 
@@ -353,7 +353,7 @@ geolocation:
 
 While deploying flashbangs and tear gas against protesters, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
 
-tags: arrest, beat, bystander, homeless, less-lethal, protester, strike, stun-grenade, tear-gas
+tags: arrest, beat, bystander, homeless, le-lethal, less-lethal, protester, strike, stun-grenade, tear-gas
 
 id: wa-seattle-19
 
@@ -369,7 +369,7 @@ geolocation:
 
 Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
 
-tags: less-lethal, pepper-spray, protester
+tags: le-lethal, less-lethal, pepper-spray, protester
 
 id: wa-seattle-20
 
@@ -384,7 +384,7 @@ geolocation:
 
 Footage shows police line approaching scattered peaceful protesters. Police snatch and grab to make rough arrests. When protesters attempt to intervene they are shoved, struck with batons, and pepper sprayed.
 
-tags: arrest, baton, less-lethal, pepper-spray, protester, shove, spray, strike
+tags: arrest, baton, le-lethal, less-lethal, pepper-spray, protester, shove, spray, strike
 
 id: wa-seattle-21
 
@@ -432,7 +432,7 @@ geolocation:
 
 Footage beginning at 14:00 shows police begin to advance on protesters without warning. They use their shields and batons to strike and shove protesters. When protesters become agitated, police tackle protesters and discharge pepper spray. Footage shows police kneeling on one protester, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
 
-tags: arrest, baton, beat, knee, less-lethal, pepper-spray, protester, shield, shove, spray, strike, tackle
+tags: arrest, baton, beat, knee, le-lethal, less-lethal, pepper-spray, protester, shield, shove, spray, strike, tackle
 
 id: wa-seattle-24
 
@@ -524,7 +524,7 @@ geolocation:
 
 During protests in Seattle, some protesters walk past officers arresting a protester. Another officer pepper sprays these protesters. When a protester stops in the street after being pepper sprayed, they are grabbed and thrown to the ground. Another officer appears to kick the protester in the groin. Officers then pin the protester down to arrest them. When officers go to move the protester, the protester appears to be limp, apparently unconscious. Officers lift the protester off the ground and carry them away.
 
-tags: arrest, grab, kick, knee, less-lethal, pepper-spray, protester, shove, spray, throw
+tags: arrest, grab, kick, knee, le-lethal, less-lethal, pepper-spray, protester, shove, spray, throw
 
 id: wa-seattle-29
 
@@ -539,7 +539,7 @@ geolocation:
 
 Footage shows Seattle police pinning a protester down against a concrete barrier to arrest them. A nurse in scrubs grabs the protester. She says "something hit me in the ass," believed to be an impact munition She is then pepper sprayed.
 
-tags: arrest, less-lethal, pepper-spray, projectile, protester, shoot, spray
+tags: arrest, le-lethal, less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: wa-seattle-30
 
@@ -556,7 +556,7 @@ geolocation:
 
 A protester standing about 20ft from police bangs a stick on the ground. Police then shoot him in the arm.
 
-tags: less-lethal, projectile, protester, shoot
+tags: le-lethal, less-lethal, projectile, protester, shoot
 
 id: wa-seattle-31
 
@@ -573,7 +573,7 @@ Footage shows several officers grabbing a small woman to arrest her. She passive
 
 The incident appears to have been kicked off when a protester with a shield stepped between police and protesters. Additional footage also shows considerable use of pepper-spray
 
-tags: arrest, grab, less-lethal, pepper-spray, protester, spray, tackle, tear-gas
+tags: arrest, grab, le-lethal, less-lethal, pepper-spray, protester, spray, tackle, tear-gas
 
 id: wa-seattle-32
 
@@ -589,7 +589,7 @@ geolocation:
 
 Footage shows police using their bikes to push protesters back. One officer discharges pepper spray against protesters obeying the order to move back. Another officer grabs an umbrella held out by a protester, breaking it.
 
-tags: bike, less-lethal, pepper-spray, property-destruction, protester, spray
+tags: bike, le-lethal, less-lethal, pepper-spray, property-destruction, protester, spray
 
 id: wa-seattle-33
 
@@ -606,7 +606,7 @@ Footage shows police dragging off a woman in handcuffs. Another woman grabs the 
 
 The camera pans back to the protester on the ground. She is grabbed by an officer and walked away. She appears to be obeying the officer. She falls to the ground, passively resisting. The officer then holds her in what appears to be an arm bar, kneels on her, and arrests her.
 
-tags: arrest, knee, less-lethal, pepper-spray, protester, shove, spray
+tags: arrest, knee, le-lethal, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-34
 
@@ -621,7 +621,7 @@ geolocation:
 
 Overhead footage from a news report shows police charging across their bike line into the crowd to tackle protesters and make arrests. After one protester is subdued, police pepper spray the others to push them back.
 
-tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tackle
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: wa-seattle-35
 
@@ -636,7 +636,7 @@ geolocation:
 
 Screen-capped footage from a journalist shows police pushing press and protesters back. The filmer, a journalist, says he cannot move quickly because there is a crowd of people behind him. Police shove him and other protesters and press, then discharge pepper spray.
 
-tags: journalist, less-lethal, pepper-spray, protester, shove, spray
+tags: journalist, le-lethal, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-36
 
@@ -652,7 +652,7 @@ geolocation:
 
 Police approach protesters standing on the sidewalk and hiding behind umbrellas. Officers flank and pepper spray them. A protester crossing the street is then pepper sprayed. An officer holding a bike swings the bike's rear tire in the air at protesters. Police continue to discharge pepper spray.
 
-tags: bike, less-lethal, pepper-spray, protester, spray
+tags: bike, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-37
 
@@ -667,7 +667,7 @@ geolocation:
 
 Police deploy tear gas and flashbangs against protesters at Broadway and Pine. The filmer several blocks away states that the tear gas has drifted into his home and "is choking us."
 
-tags: bystander, less-lethal, protester, stun-grenade, tear-gas
+tags: bystander, le-lethal, less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-38
 
@@ -682,7 +682,7 @@ geolocation:
 
 Footage shows a protester standing about 3 feet away from police, holding a skateboard above his head. He appears to be speaking to police. Without warning, he is shot about about 6 times, in the groin, abdomen and shoulder. Firing at that range and at firing genital regions or above the breastbone are against recommended use of impact munitions.
 
-tags: less-lethal, projectile, protester, shoot
+tags: le-lethal, less-lethal, projectile, protester, shoot
 
 id: wa-seattle-39
 
@@ -697,7 +697,7 @@ geolocation:
 
 A protester holding a bike and standing several feet away from police is pepper sprayed. Protesters shout, "He did nothing wrong. Whatthe fuck?" Another protester helps the pepper-sprayed protester back away from police. At the end of the video, another protester picks up the bike to walk it back.
 
-tags: less-lethal, pepper-spray, protester, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-40
 
@@ -727,7 +727,7 @@ geolocation:
 
 Footage shows police arrested a woman while others pepper spray the area to clear protesters. The woman attempts to stand, then is forced back to the ground. The officer appears to hold her head facedown in the gravel. She passively resists by locking her arms. More officers join and kneel on her to arrest her.
 
-tags: arrest, knee, less-lethal, pepper-spray, protester, spray
+tags: arrest, knee, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-42
 
@@ -744,7 +744,7 @@ Footage shows protesters walking peacefully in the direction specified by SPD. P
 
 Officers also appear to shove stragglers with their batons.
 
-tags: baton, less-lethal, protester, push, shove, tear-gas
+tags: baton, le-lethal, less-lethal, protester, push, shove, tear-gas
 
 id: wa-seattle-43
 
@@ -760,7 +760,7 @@ geolocation:
 
 Footage shows police forcing protesters back and protesters obeying. Throughout the footage, police shove and pepper spray protesters. In addition, police snatch signs and umbrellas. Police also deploy tear gas.
 
-tags: less-lethal, pepper-spray, property-destruction, protester, push, shove, spray, tear-gas
+tags: le-lethal, less-lethal, pepper-spray, property-destruction, protester, push, shove, spray, tear-gas
 
 id: wa-seattle-44
 
@@ -776,7 +776,7 @@ geolocation:
 
 The filmer yells at police while he walks past them, calling them "a coward" or "a bitch." A police officer then pepper sprays him.
 
-tags: less-lethal, pepper-spray, protester, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-45
 
@@ -791,7 +791,7 @@ geolocation:
 
 Police on Pine Street surge forward, pepper spraying several protesters, then snatching others for arrest.
 
-tags: arrest, less-lethal, pepper-spray, protester, spray
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-46
 
@@ -822,7 +822,7 @@ geolocation:
 
 Police with batons push the crowd back, discharging pepper spray to speed protesters up.
 
-tags: less-lethal, pepper-spray, protester, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-48
 
@@ -837,7 +837,7 @@ geolocation:
 
 Footage shows police charging at protesters without warning and pepper-spraying them, including one protester lying on the ground. Police also strike protesters with batons and shove them.
 
-tags: baton, less-lethal, pepper-spray, protester, shove, spray, strike
+tags: baton, le-lethal, less-lethal, pepper-spray, protester, shove, spray, strike
 
 id: wa-seattle-49
 
@@ -868,7 +868,7 @@ geolocation:
 
 An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protester. The victim appears to have suffered lacerations and bruising as a result of the impact.
 
-tags: less-lethal, protester, stun-grenade
+tags: le-lethal, less-lethal, protester, stun-grenade
 
 id: wa-seattle-51
 
@@ -883,7 +883,7 @@ geolocation:
 
 Video shows the protester filming as police toss flash bangs and fire projectiles. He gets hit with something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
 
-tags: less-lethal, protester, stun-grenade
+tags: le-lethal, less-lethal, protester, stun-grenade
 
 id: wa-seattle-52
 
@@ -899,7 +899,7 @@ geolocation:
 
 Police push protesters down the street. Protester are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protesters. One protester appears to be directly hit. Police grab or shove protesters who are straggling and arrest them.
 
-tags: arrest, explosive, grab, less-lethal, pepper-spray, protester, shove, spray
+tags: arrest, explosive, grab, le-lethal, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-53
 
@@ -915,7 +915,7 @@ geolocation:
 
 A legal observer is seen filming a short distance from police. An officer then pepper sprays her in the face.
 
-tags: legal-observer, less-lethal, pepper-spray, spray
+tags: le-lethal, legal-observer, less-lethal, pepper-spray, spray
 
 id: wa-seattle-55
 
@@ -1033,7 +1033,7 @@ Around 7:20, police make an arrest.
 
 Around 8:00, the streamer pans to police breaking the window of a car. Police then arrest the driver of that car.
 
-tags: arrest, baton, journalist, less-lethal, pepper-spray, property-destruction, protester, push, shove, spray
+tags: arrest, baton, journalist, le-lethal, less-lethal, pepper-spray, property-destruction, protester, push, shove, spray
 
 id: wa-seattle-62
 
@@ -1070,7 +1070,7 @@ Protesters gathered outside the Seattle Police Officers Guild. Police rode their
 
 Police allegedly used pepper spray and stun grenades while making 22 arrests.
 
-tags: arrest, bike, less-lethal, pepper-spray, protester, push, shove, spray, stun-grenade
+tags: arrest, bike, le-lethal, less-lethal, pepper-spray, protester, push, shove, spray, stun-grenade
 
 id: wa-seattle-64
 
@@ -1102,7 +1102,7 @@ geolocation:
 
 At a protest on September 15th, police targeted a community member for arrest. They pointed out the individual and told them they were arresting the protester. They then grabbed the protester and pepper sprayed the crowd. Several protesters are then thrown to the ground and arrested.
 
-tags: arrest, less-lethal, pepper-spray, protester, spray, throw
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray, throw
 
 id: wa-seattle-66
 
@@ -1135,7 +1135,7 @@ geolocation:
 
 Police on bikes push protesters down the street. One officer pepper sprays protesters with umbrellas.
 
-tags: bike, less-lethal, pepper-spray, protester, push, shove, spray
+tags: bike, le-lethal, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: wa-seattle-68
 
@@ -1150,7 +1150,7 @@ geolocation:
 
 Police use bikes to shove protesters on the sidewalk. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
 
-tags: bike, less-lethal, projectile, property-destruction, protester, push, rubber-bullet, shoot, shove
+tags: bike, le-lethal, less-lethal, projectile, property-destruction, protester, push, rubber-bullet, shoot, shove
 
 id: wa-seattle-69
 
@@ -1165,7 +1165,7 @@ geolocation:
 
 Police charge protesters in the street, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
 
-tags: less-lethal, projectile, protester, shoot
+tags: le-lethal, less-lethal, projectile, protester, shoot
 
 id: wa-seattle-70
 

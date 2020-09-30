@@ -8,7 +8,7 @@ It is unclear whether any order to disperse was given before the first use of te
 
 Police posted on the City of Bentonville Facebook page that rubber bullets were not used. Police did, in fact, use rubber bullets (per 5 News); per the op ed, the police chief attributed the error to a "communication failure."
 
-tags: less-lethal, protester, rubber-bullet, tear-gas, tear-gas-canister
+tags: le-lethal, less-lethal, protester, rubber-bullet, tear-gas, tear-gas-canister
 
 id: ar-bentonville-1
 
@@ -32,7 +32,7 @@ geolocation:
 
 Protesters gathered on courthouse property during a May 30th protest. Some graffiti can be seen on the courthouse walls. Police deployed tear gas against protesters to push them off the courthouse lawn and into the street, after warning protesters they were not allowed to be on the courthouse lawn. Police continued to deploy tear gas as protesters moved towards Interstate 630, where they blocked the road for some time
 
-tags: less-lethal, protester, tear-gas
+tags: le-lethal, less-lethal, protester, tear-gas
 
 id: ar-littlerock-2
 
@@ -50,7 +50,7 @@ Peaceful protesters kneeling in the street are shot with an explosive projectile
 
 Police deployed tear gas to then clear protesters out of the street after deploying an LRAD dispersal function.
 
-tags: explosive, less-lethal, lrad, projectile, protester, tear-gas
+tags: explosive, le-lethal, less-lethal, lrad, projectile, protester, tear-gas
 
 id: ar-littlerock-1
 

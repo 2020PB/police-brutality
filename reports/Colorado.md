@@ -6,7 +6,7 @@ On June 27th, residents of Aurora held a violin vigil in honor of Elijah McClain
 
 Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
 
-tags: baton, beat, less-lethal, pepper-spray, protester, spray, strike
+tags: baton, beat, le-lethal, less-lethal, pepper-spray, protester, spray, strike
 
 id: co-aurora-1
 
@@ -28,7 +28,7 @@ geolocation:
 
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
-tags: arrest, beat, knee, less-lethal, protester, punch, rubber-bullet, tackle
+tags: arrest, beat, knee, le-lethal, less-lethal, protester, punch, rubber-bullet, tackle
 
 id: co-coloradosprings-1
 
@@ -46,7 +46,7 @@ After declaring a protest an unlawful assembly, police push protesters down the 
 
 Around 8:00, police advance, firing tear gas canisters at protesters. Multiple bystander vehicles appear to be caught in the gas. Around 9:50, an officer appears to reach out of a squad car and pepper spray protesters, but the sirens make it difficult to see.
 
-tags: bystander, less-lethal, lrad, pepper-spray, protester, spray, tear-gas
+tags: bystander, le-lethal, less-lethal, lrad, pepper-spray, protester, spray, tear-gas
 
 id: co-coloradosprings-2
 
@@ -65,7 +65,7 @@ geolocation:
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
 
-tags: journalist, less-lethal, pepper-ball, shoot
+tags: journalist, le-lethal, less-lethal, pepper-ball, shoot
 
 id: co-denver-1
 
@@ -81,7 +81,7 @@ geolocation:
 
 A man is filming police activity through his sunroof. An officer approaches, possibly strikes the person recording, and apparently peppersprays into the car, blinding the driver and passenger. The driver is then told to move his car away. The officer also peppersprays a second person recording in front of the car.
 
-tags: less-lethal, pepper-spray, protester, spray, vehicle
+tags: le-lethal, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: co-denver-2
 
@@ -99,7 +99,7 @@ geolocation:
 
 A reporter from Denver 7 news tweeted a photo showing one of their cameramen holding their camera with a bullet hole through its lens.  The caption states "Police just fired off paintballs and tear gas. Our photographer got hit four time and our camera got hit." (It later turned out that the projectile was a pepper ball, not a paintball.)
 
-tags: journalist, less-lethal, pepper-ball, projectile, shoot, tear-gas
+tags: journalist, le-lethal, less-lethal, pepper-ball, projectile, shoot, tear-gas
 
 id: co-denver-3
 
@@ -117,7 +117,7 @@ geolocation:
 A woman stops an armored SWAT car (marked APC01) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
 Three armored police get out from back of armored car. One walks around the side and shoots some projectile, hitting the ground in front of the woman.
 
-tags: less-lethal, projectile, protester, shoot, vehicle
+tags: le-lethal, less-lethal, projectile, protester, shoot, vehicle
 
 id: co-denver-4
 
@@ -132,7 +132,7 @@ geolocation:
 
 An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge.
 
-tags: less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
+tags: le-lethal, less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
 
 id: co-denver-13
 
@@ -164,7 +164,7 @@ geolocation:
 
 Police fired tear gas after allegedly turning off their body cams.
 
-tags: body-cam, less-lethal, protester, shoot, tear-gas
+tags: body-cam, le-lethal, less-lethal, protester, shoot, tear-gas
 
 id: co-denver-6
 
@@ -194,7 +194,7 @@ geolocation:
 
 A man was blinded in one eye in a manner consistent with a rubber bullet. He claims a law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, despite the fact that he wasn't provoking the officer (or even protesting) at the time, and didn't see anyone near him doing so.
 
-tags: less-lethal, projectile, protester, rubber-bullet, shoot
+tags: le-lethal, less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: co-denver-14
 
@@ -210,7 +210,7 @@ geolocation:
 
 A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
 
-tags: less-lethal, mace, protester, spray
+tags: le-lethal, less-lethal, mace, protester, spray
 
 id: co-denver-15
 
@@ -227,7 +227,7 @@ geolocation:
 
 Journalist Lindsay Fendt was standing with a group of other journalists. Protesters threw a tear gas canister back at police; police kicked it toward the journalist, tear gassing Fendt and others.
 
-tags: journalist, less-lethal, tear-gas, tear-gas-canister
+tags: journalist, le-lethal, less-lethal, tear-gas, tear-gas-canister
 
 id: co-denver-23
 
@@ -244,7 +244,7 @@ geolocation:
 
 The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
 
-tags: bystander, less-lethal, pepper-ball, pregnant, shoot, vehicle
+tags: bystander, le-lethal, less-lethal, pepper-ball, pregnant, shoot, vehicle
 
 id: co-denver-8
 
@@ -260,7 +260,7 @@ geolocation:
 
 Officers are on a police truck leaving the area. One officer fires a pepper ball directly at someone filming, hitting their phone.
 
-tags: less-lethal, pepper-ball, protester, shoot
+tags: le-lethal, less-lethal, pepper-ball, protester, shoot
 
 id: co-denver-9
 
@@ -275,7 +275,7 @@ geolocation:
 
 Police officer snatches away protester's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
-tags: less-lethal, pepper-spray, property-destruction, protester, spray, tear-gas
+tags: le-lethal, less-lethal, pepper-spray, property-destruction, protester, spray, tear-gas
 
 id: co-denver-10
 
@@ -293,7 +293,7 @@ Footage shows woman asking protester if he's okay. He says, "Fuck yeah."
 
 His sweatshirt is covered in blood and he has suffered a gash of 1-2 inches across his chin, with a chunk of his chin hanging off.
 
-tags: less-lethal, projectile, protester, shoot
+tags: le-lethal, less-lethal, projectile, protester, shoot
 
 id: co-denver-19
 
@@ -308,7 +308,7 @@ geolocation:
 
 Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas. Journalist Dave Sachs claims something similar happened to him -- he showed his press pass to police but they shoved him into tear gas.
 
-tags: journalist, less-lethal, projectile, shoot, shove, tear-gas, threaten
+tags: journalist, le-lethal, less-lethal, projectile, shoot, shove, tear-gas, threaten
 
 id: co-denver-22
 
@@ -348,7 +348,7 @@ geolocation:
 
 An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
 
-tags: less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
+tags: le-lethal, less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
 
 id: co-denver-11
 
@@ -384,7 +384,7 @@ It should be noted that these rounds are intended to be shot at the ground as th
 
 Footage was first posted on reddit.com/r/protest on June 5th.
 
-tags: explosive, less-lethal, projectile, protester, shoot
+tags: explosive, le-lethal, less-lethal, projectile, protester, shoot
 
 id: co-denver-18
 
@@ -399,7 +399,7 @@ geolocation:
 
 Protesters yell at a police officer to put his pepper spray away. The officer shakes his head, then pepper sprays the protesters.
 
-tags: less-lethal, pepper-spray, protester, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: co-denver-25
 
@@ -414,7 +414,7 @@ geolocation:
 
 Footage shows a protester following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protester continues to ask. Another officer approaches and discharges pepper spray without warning.
 
-tags: less-lethal, pepper-spray, protester, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: co-denver-20
 
@@ -433,7 +433,7 @@ The third link shows another angle on the incident at 1:28:00.
 
 The fourth link shows another angle on the incident at 1:38:00. In addition, the caption states that police were using pepper balls.
 
-tags: arrest, baton, knee, less-lethal, medic, pepper-ball, pepper-spray, protester, shoot, shove, spray, strike, tear-gas
+tags: arrest, baton, knee, le-lethal, less-lethal, medic, pepper-ball, pepper-spray, protester, shoot, shove, spray, strike, tear-gas
 
 id: co-denver-21
 
@@ -451,7 +451,7 @@ geolocation:
 
 Article discusses use of pepper spray at pro-police rally where Black Lives Matter groups counter-protested. “We had two pepper ball deployments and one hand-held fog device deployment, and we made one arrest for assault,” Denver police spokesman Tyrone Campbell said. The hand-held fog device is believed to refer to pepper spray. The spokesman goes on to say that "It seems as if [riot control devices] were used in an appropriate fashion." Some additional footage shows police pepper-spraying a retreating crowd. Riot guns can also be heard firing.
 
-tags: less-lethal, pepper-spray, projectile, protester, shoot, spray
+tags: le-lethal, less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: co-denver-24
 
@@ -489,7 +489,7 @@ Denver police have been routinely sweeping homeless encampments and displacing i
 
 On August 26th, police attempted to arrest an individual distributing food and aid. Other protesters intervened, pulling the individual away. Police then fired impact munitions at close range. They then tackled and arrested the individual and several others.
 
-tags: arrest, less-lethal, projectile, protester, shoot, tackle
+tags: arrest, le-lethal, less-lethal, projectile, protester, shoot, tackle
 
 id: co-denver-27
 

@@ -4,7 +4,7 @@
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
-tags: journalist, less-lethal, pepper-ball, rubber-bullet, shoot
+tags: journalist, le-lethal, less-lethal, pepper-ball, rubber-bullet, shoot
 
 id: ky-louisville-2
 
@@ -21,7 +21,7 @@ geolocation:
 
 A young woman was injured by a rubber bullet she took to the head.
 
-tags: less-lethal, protester, rubber-bullet, shoot
+tags: le-lethal, less-lethal, protester, rubber-bullet, shoot
 
 id: ky-louisville-4
 
@@ -39,7 +39,7 @@ geolocation:
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
-tags: less-lethal, projectile, protester, rubber-bullet, shoot
+tags: le-lethal, less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ky-louisville-8
 
@@ -55,7 +55,7 @@ geolocation:
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
 
-tags: bystander, less-lethal, projectile, property-destruction, shoot
+tags: bystander, le-lethal, less-lethal, projectile, property-destruction, shoot
 
 id: ky-louisville-5
 
@@ -104,7 +104,7 @@ geolocation:
 
 A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
-tags: beat, less-lethal, protester, tackle, tear-gas
+tags: beat, le-lethal, less-lethal, protester, tackle, tear-gas
 
 id: ky-louisville-3
 
@@ -119,7 +119,7 @@ geolocation:
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
-tags: body-cam, bystander, death, less-lethal, live-round, pepper-ball
+tags: body-cam, bystander, death, le-lethal, less-lethal, live-round, pepper-ball
 
 id: ky-louisville-6
 
@@ -163,7 +163,7 @@ geolocation:
 
 Police fired pepper rounds unprovoked at a group of protesters marching prior to curfew in St. Matthews.
 
-tags: less-lethal, pepper-ball, protester, shoot
+tags: le-lethal, less-lethal, pepper-ball, protester, shoot
 
 id: ky-louisville-7
 
@@ -178,7 +178,7 @@ geolocation:
 
 Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
 
-tags: arrest, baton, less-lethal, pepper-ball, protester, shoot, shove
+tags: arrest, baton, le-lethal, less-lethal, pepper-ball, protester, shoot, shove
 
 id: ky-louisville-11
 
@@ -195,7 +195,7 @@ geolocation:
 
 A guy records a half-dozen policemen dogpiling a protester and then one of them shoots the window to stop him from recording.
 
-tags: baton, beat, less-lethal, protester, rubber-bullet, shoot, tackle
+tags: baton, beat, le-lethal, less-lethal, protester, rubber-bullet, shoot, tackle
 
 id: ky-louisville-10
 
@@ -330,7 +330,7 @@ Footage shows a handful of peaceful protesters on the sidewalk. Shots can be hea
 
 Police alleged that a protester touched an officer's gun.
 
-tags: less-lethal, projectile, protester, shoot
+tags: le-lethal, less-lethal, projectile, protester, shoot
 
 id: ky-louisville-18
 
@@ -347,7 +347,7 @@ geolocation:
 
 Kejohn Jennings was at the rear doors of the Hall of Justice, criticizing officers and asking for their names and badge numbers through an opening in the chained shut doors. An officer approaches (alleged in the lawsuit to be Deputy George Grissom) and pepper-sprayed Mr. Jennings through the opening. Jennings is now suing the Jefferson County Sheriff's Office.
 
-tags: less-lethal, pepper-spray, protester, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: ky-louisville-19
 
@@ -385,7 +385,7 @@ A Fox News report estimates about a dozen arrests during this incident. The repo
 
 The incident may have been initiated when a protester with a shield stopped moving and an officer shoved him. The protester shoved back and a second protester threw a vial of liquid on an officer. Then a noise can be heard and protesters begin to scatter.
 
-tags: arrest, baton, beat, bystander, less-lethal, pepper-ball, projectile, protester, punch, shoot, strike, zip-tie
+tags: arrest, baton, beat, bystander, le-lethal, less-lethal, pepper-ball, projectile, protester, punch, shoot, strike, zip-tie
 
 id: ky-louisville-22
 
@@ -516,7 +516,7 @@ geolocation:
 
 Police declare an unlawful assembly in Louisville during a protest. Police then immediately throw stun grenades into the crowd without apparent provocation.
 
-tags: less-lethal, protester, stun-grenade
+tags: le-lethal, less-lethal, protester, stun-grenade
 
 id: ky-louisville-29
 
