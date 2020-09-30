@@ -10,12 +10,13 @@ tags: less-lethal, lrad, protester
 
 id: ca-beverlyhills-1
 
-geolocation: 
+geolocation: 34.0768046,-118.4025837
 
 **Links**
 
 * [1:34, 3:43](https://youtu.be/doQMq8Iwcjc?t=94)
 * [Photojournalist's account](https://twitter.com/bfeinzimer/status/1277014331968782339)
+* https://www.canyon-news.com/dozens-arrested-after-beverly-hills-protest/121082
 
 
 ### Officer shoves then pepper sprays protester | August 29th
@@ -26,7 +27,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: ca-beverlyhills-2
 
-geolocation: 
+geolocation: 34.0708678,-118.4045292
 
 **Links**
 
@@ -43,7 +44,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: ca-clayton-1
 
-geolocation: 
+geolocation: 37.9420027,-121.936336
 
 **Links**
 
@@ -87,7 +88,7 @@ tags: journalist, less-lethal, projectile, protester, rubber-bullet, shoot, tear
 
 id: ca-compton-2
 
-geolocation: 
+geolocation: 33.894415,-118.2242897
 
 **Links**
 
@@ -105,18 +106,19 @@ geolocation:
 
 ### Law enforcement concealing badge | June 3rd
 
-Law enforcement officer can be seen without a badge or name tag.
+An Orange County Sheriff's officer was spotted without a badge number at a protest outside the Costa Mesa Police Department. In addition, the officer wore several personal patches, one of which is associated with the "Three Percenters," an extremist right-wing militia.
 
 tags: hide-badge
 
 id: ca-costa-mesa-1
 
-geolocation: 
+geolocation: 33.6637315,-117.9048468
 
 **Links**
 
 * https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
-
+* https://twitter.com/OCSheriff/status/1268274765342490624
+* [ADL article concerning the Three Percenters](https://www.adl.org/resources/glossary-terms/three-percenters)
 
 ## Gustine
 
@@ -157,7 +159,7 @@ tags: arrest, inhumane-treatment, protester, threaten
 
 id: ca-hollywood-1
 
-geolocation: 
+geolocation: 34.1016738,-118.3242721
 
 **Links**
 
@@ -174,7 +176,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, shove
 
 id: ca-hollywood-2
 
-geolocation: 
+geolocation: 34.1016048,-118.3266439
 
 **Links**
 
@@ -191,7 +193,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-hungtingtonbeach-1
 
-geolocation: 
+geolocation: 33.65811,-118.0035402
 
 **Links**
 
