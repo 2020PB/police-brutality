@@ -31,6 +31,7 @@ kick
 knee
 knee-on-neck
 legal-observer
+less-lethal
 lgbtq+
 live-round
 lrad
@@ -106,6 +107,7 @@ headlock
 horse
 kick
 knee-on-neck
+less-lethal
 live-round
 lrad
 mace

@@ -19,6 +19,24 @@ TAG_OVERRIDES = {
     "real-bullet": "live-round",
 }
 
+LESS_LETHALS = {
+    "bean-bag",
+    "foam-bullet",
+    "marking-round",
+    "tear-gas",
+    "pepper-spray",
+    "mace",
+    "paintball",
+    "pepper-ball",
+    "projectile",
+    "rubber-bullet",
+    "stun-grenade",
+    "taser",
+    "tear-gas",
+    "tear-gas-canister",
+    "wooden-bullet",
+}
+
 COMMON_MISSPELLINGS = {"protestor": "protester", "taze": "tase"}
 
 WNL = WordNetLemmatizer()
@@ -37,7 +55,7 @@ def read_tag_file(tag_path):
 
 
 def format_tags(wnl, all_tags, tag_overrides, tags):
-    new_tags = []
+    new_tags = set()
     for tag in tags:
         if tag.strip() == "":
             continue
@@ -46,8 +64,10 @@ def format_tags(wnl, all_tags, tag_overrides, tags):
             raise ValueError(
                 f"Unsupported tag: {tag}, formatted as {new_tag}. Please check against possible tags or add a new tag."
             )
-        new_tags.append(new_tag)
-    return ", ".join(new_tags)
+        if new_tag in LESS_LETHALS:
+            new_tags.add("less-lethal")
+        new_tags.add(new_tag)
+    return ", ".join(sorted(new_tags))
 
 
 def format_tag(wnl, tag_overrides, tag):
