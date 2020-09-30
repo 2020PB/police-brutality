@@ -17,6 +17,7 @@ TAG_OVERRIDES = {
     "pepper-bullet": "pepper-ball",
     "protestor": "protester",
     "real-bullet": "live-round",
+    "le-lethal": "less-lethal",
 }
 
 LESS_LETHALS = {
