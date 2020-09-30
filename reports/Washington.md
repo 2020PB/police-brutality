@@ -1185,7 +1185,10 @@ tags: bystander, throw, arrest, push, shove, grab
 
 id: wa-seattle-71
 
+geolocation: 
+
 **Links**
 
 * https://twitter.com/MarcusKulik/status/1310847377092169728
 * [Earlier footage showing individual walking down street, not near protesters](https://twitter.com/MarcusKulik/status/1310850132892508160)
+
