@@ -8,7 +8,7 @@ tags: choke, threaten, gun, beat, punch, baton, pepper-spray, spray, protester
 
 id: tx-austin-2
 
-geolocation: 
+geolocation: 30.267860, -97.733482
 
 **Links**
 
@@ -26,7 +26,7 @@ tags: child, shoot, rubber-bullet, bean-bag, protester
 
 id: tx-austin-3
 
-geolocation: 
+geolocation: 30.268286, -97.732961
 
 **Links**
 
@@ -45,7 +45,7 @@ tags: threaten, rubber-bullet, bean-bag, tear-gas, shoot, protester
 
 id: tx-austin-4
 
-geolocation: 
+geolocation: 30.267861, -97.733568
 
 **Links**
 
@@ -62,7 +62,7 @@ tags: rubber-bullet, shoot, protester
 
 id: tx-austin-5
 
-geolocation: 
+geolocation: 30.267639, -97.734549
 
 **Links**
 
@@ -79,7 +79,7 @@ tags: pregnant, bean-bag, shoot, protester
 
 id: tx-austin-8
 
-geolocation: 
+geolocation: 30.267614, -97.734401
 
 **Links**
 
@@ -97,7 +97,7 @@ tags: horse, shove, pepper-spray, spray, protester
 
 id: tx-austin-10
 
-geolocation: 
+geolocation: 30.264420, -97.735186
 
 **Links**
 
@@ -117,7 +117,7 @@ tags: medic, bean-bag, shoot, protester
 
 id: tx-austin-1
 
-geolocation: 
+geolocation: 30.267560, -97.734260
 
 **Links**
 
@@ -135,7 +135,7 @@ tags: shoot, rubber-bullet, protester
 
 id: tx-austin-6
 
-geolocation: 
+geolocation: 30.267677, -97.734539
 
 **Links**
 
@@ -152,7 +152,7 @@ tags: pepper-spray, spray, protester
 
 id: tx-austin-7
 
-geolocation: 
+geolocation: 30.267612, -97.734508
 
 **Links**
 
@@ -170,7 +170,7 @@ tags: shoot, bean-bag, protester
 
 id: tx-austin-13
 
-geolocation: 
+geolocation: 30.267938, -97.734176
 
 **Links**
 
@@ -179,7 +179,7 @@ geolocation:
 * https://twitter.com/greg_doucette/status/1272386250058727425
 
 
-### Police fire upon protesters seeking medical help | June 2nd
+### Police fire upon protesters seeking medical help | May 31st
 
 Volunteer medics were advised to bring a critically wounded protester to the police line for medical attention and were subsequently fired upon.
 
@@ -187,7 +187,7 @@ tags: medic, shoot, protester
 
 id: tx-austin-9
 
-geolocation: 
+geolocation: 30.267553, -97.734424
 
 **Links**
 
@@ -204,7 +204,7 @@ tags: arrest, shove, property-destruction, knee, knee-on-neck, protester
 
 id: tx-austin-14
 
-geolocation: 
+geolocation: 30.267653, -97.734414
 
 **Links**
 
@@ -223,7 +223,7 @@ tags: arrest, knee, knee-on-neck, protester
 
 id: tx-austin-11
 
-geolocation: 
+geolocation: 30.267675, -97.734090
 
 **Links**
 
@@ -239,7 +239,7 @@ tags: punch, strike, arrest, knee, protester
 
 id: tx-austin-12
 
-geolocation: 
+geolocation: 30.267765, -97.734061
 
 **Links**
 
@@ -256,7 +256,7 @@ tags: journalist, punch, zip-tie, tackle, arrest
 
 id: tx-austin-15
 
-geolocation: 
+geolocation: 30.268062, -97.735116
 
 **Links**
 
@@ -272,7 +272,7 @@ tags: protester, shove, bike, push, pepper-spray, spray, arrest
 
 id: tx-austin-16
 
-geolocation: 
+geolocation: 30.266147, -97.743669
 
 **Links**
 
@@ -290,7 +290,7 @@ tags: protester, push, shove, horse
 
 id: tx-austin-17
 
-geolocation: 
+geolocation: 30.266287, -97.743463 
 
 **Links**
 
@@ -305,7 +305,7 @@ tags: protester, push, shove, property-destruction
 
 id: tx-austin-18
 
-geolocation: 
+geolocation: 30.264007, -97.747444
 
 **Links**
 
@@ -321,7 +321,7 @@ tags: protester, tackle, throw, grab, arrest
 
 id: tx-austin-19
 
-geolocation: 
+geolocation: 30.265678, -97.741671
 
 **Links**
 
