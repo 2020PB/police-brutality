@@ -6,7 +6,7 @@ Bodycam footage shows an unarmed man walking around in the street. The man alleg
 
 This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
 
-tags: taser, strike, arrest, non-protest, knee-on-neck
+tags: arrest, knee-on-neck, less-lethal, non-protest, strike, taser
 
 id: va-fairfax-1
 
@@ -26,7 +26,7 @@ geolocation:
 
 Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protesters are lying on the ground as tear gas canisters fall around them.
 
-tags: tear-gas, protester
+tags: less-lethal, protester, tear-gas
 
 id: va-fredericksburg-2
 
@@ -48,7 +48,7 @@ In this video, delegate Lee Carter asks officers questions about their methods i
 
 It is unclear how the protest unfolded, and why the police were advancing on the crowd wearing riot gear; police allege that the protest turned violent and some protesters say that they were tear-gassed or shot at with rubber bullets while peacefully protesting or retreating. (See fourth and fifth links.)
 
-tags: politician, push, shove, pepper-spray, spray, protester
+tags: less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: va-manassas-1
 
@@ -69,7 +69,7 @@ geolocation:
 
 Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protesters are gathered. Protesters are forced to run to avoid being hit.
 
-tags: vehicle, protester
+tags: protester, vehicle
 
 id: va-richmond-9
 
@@ -84,7 +84,7 @@ geolocation:
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
 
-tags: spray, pepper-spray, bystander
+tags: bystander, less-lethal, pepper-spray, spray
 
 id: va-richmond-1
 
@@ -101,7 +101,7 @@ geolocation:
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM. The police chief has said that the officers' actions were "unwarranted" and "outside dept protocols." At least one protester has sued the officers involved.
 
-tags: tear-gas, tear-gas-canister, protester
+tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: va-richmond-2
 
@@ -140,7 +140,7 @@ geolocation:
 
 In this video, an officer fires a tear gas canister at a slow moving vehicle. It appears that he was unaware the vehicle belonged to the police.
 
-tags: tear-gas, tear-gas-canister
+tags: less-lethal, tear-gas, tear-gas-canister
 
 id: va-richmond-4
 
@@ -157,7 +157,7 @@ In this video, protesters on bikes are shown blocking a police vehicle from prog
 
 The officer driving the vehicle has been cleared by the department of any wrongdoing.
 
-tags: vehicle, drive, protester
+tags: drive, protester, vehicle
 
 id: va-richmond-6
 
@@ -173,7 +173,7 @@ geolocation:
 
 Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidewalk. Police sprayed broadly at protesters several feet away, some locking arms with one another. No aggression on the part of protesters can be seen.
 
-tags: protester, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-20
 
@@ -190,7 +190,7 @@ A single water bottle can be seen thrown at and striking an officer. The bottle 
 
 Footage uploaded 3 minutes later shows another officer discharging pepper spray at a protester without apparent cause.
 
-tags: protester, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-21
 
@@ -210,7 +210,7 @@ Richmond was no longer under curfew restrictions at this time.
 
 In addition, one protester's phone was shot. Police also appear to deploy pepper spray about an hour after the initial shots.
 
-tags: tear-gas, rubber-bullet, shoot, protester, property-destruction, pepper-spray, spray
+tags: less-lethal, pepper-spray, property-destruction, protester, rubber-bullet, shoot, spray, tear-gas
 
 id: va-richmond-5
 
@@ -233,7 +233,7 @@ He states that shortly after this footage, he bumped into an officer and was sho
 
 Reddit link shows scuffle was instigated after a protester beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
 
-tags: pepper-spray, spray, shove, journalist
+tags: journalist, less-lethal, pepper-spray, shove, spray
 
 id: va-richmond-7
 
@@ -249,7 +249,7 @@ geolocation:
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
-tags: shove, tear-gas, shoot, protester
+tags: less-lethal, protester, shoot, shove, tear-gas
 
 id: va-richmond-8
 
@@ -269,7 +269,7 @@ geolocation:
 
 Footage shows a group of scattered protesters some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
-tags: shoot, projectile, explosive, protester
+tags: explosive, less-lethal, projectile, protester, shoot
 
 id: va-richmond-10
 
@@ -284,7 +284,7 @@ geolocation:
 
 Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protesters. He grabs a protester on a bike, then proceeds to drag the protester into the street and off the bike. Several officers aid the officer in arresting the protester, while the original officer kneels on the protester's back.
 
-tags: bike, grab, arrest, knee, protester
+tags: arrest, bike, grab, knee, protester
 
 id: va-richmond-11
 
@@ -299,7 +299,7 @@ geolocation:
 
 Footage shows a police officer shoving a protester to the ground. The protester scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protesters.
 
-tags: shove, pepper-spray, spray, protester
+tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: va-richmond-12
 
@@ -320,7 +320,7 @@ He states that he was told to leave. Then, when he tried to photograph the offic
 
 A few days earlier, the attorney had helped arrestees file a suit against the Richmond Police Department.
 
-tags: arrest, abuse-of-power, bystander, zip-tie
+tags: abuse-of-power, arrest, bystander, zip-tie
 
 id: va-richmond-13
 
@@ -339,7 +339,7 @@ geolocation:
 
 Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protesters.
 
-tags: protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: va-richmond-14
 
@@ -354,7 +354,7 @@ geolocation:
 
 After a truck has been lit on fire, allegedly by protesters, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
 
-tags: protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: va-richmond-15
 
@@ -374,7 +374,7 @@ Footage shows police grabbing two members of the press and detaining them. They 
 
 One of the journalists states that he was attempting to flush tear gas from his eyes when he was arrested.
 
-tags: journalist, grab, abuse-of-power
+tags: abuse-of-power, grab, journalist
 
 id: va-richmond-16
 
@@ -390,7 +390,7 @@ geolocation:
 
 Richmond police officers were clearing Monroe Park. A journalist was attempting to leave when he was detained and handcuffed by police, even though he had a press pass and repeatedly stated he was with the press. He states he was later released on the condition he did not return to the park that night.
 
-tags: journalist, abuse-of-power
+tags: abuse-of-power, journalist
 
 id: va-richmond-17
 
@@ -407,7 +407,7 @@ geolocation:
 
 The filmer, a protester, is standing on or near the sidewalk. Several officers approach him. The protester says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protester without charges.
 
-tags: protester, arrest, abuse-of-power
+tags: abuse-of-power, arrest, protester
 
 id: va-richmond-18
 
@@ -423,7 +423,7 @@ geolocation:
 
 Police arrived at a group of protesters who gave out food and water to remove the protesters' tents. During the removal, a protester was arrested, held on the ground, and tased repeatedly. Charges are unclear.
 
-tags: protester, taser, tase, arrest
+tags: arrest, less-lethal, protester, tase, taser
 
 id: va-richmond-19
 
@@ -441,7 +441,7 @@ Police grab and arrest a protester filming from the sidewalk. Officers then push
 
 After the incident, the filmer attempted to get badge numbers and names from officers, who refused him and requested his credentials instead.
 
-tags: protester, arrest, push, shove, hide-badge, abuse-of-power
+tags: abuse-of-power, arrest, hide-badge, protester, push, shove
 
 id: va-richmond-22
 
@@ -460,7 +460,7 @@ A cyclist is seen riding away from the demonstration. Footage shows that he appe
 
 Additional footage shows that police then make several more arrests though the reasoning for them is unclear.
 
-tags: protester, tackle, arrest
+tags: arrest, protester, tackle
 
 id: va-richmond-23
 
@@ -476,7 +476,7 @@ geolocation:
 
 After snatching a protester, police formed a riot shield line and told protesters to move back. Protesters yelled at police. Police shoved protesters with their shields.
 
-tags: protester, push, shove, shield
+tags: protester, push, shield, shove
 
 id: va-richmond-24
 

@@ -4,7 +4,7 @@
 
 At short range, officer fires a tear gas round directly at a protester. The round narrowly misses striking the protester in the face.
 
-tags: tear-gas, protester
+tags: less-lethal, protester, tear-gas
 
 id: dc-dc-12
 
@@ -35,7 +35,7 @@ geolocation:
 
 Tear gas is shot on ground near protesters. One protester is depicted needing water for eye wash. Calls for water and medics are heard.
 
-tags: tear-gas, medic, protester
+tags: less-lethal, medic, protester, tear-gas
 
 id: dc-dc-11
 
@@ -51,7 +51,7 @@ geolocation:
 
 Protesters and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
 
-tags: journalist, punch, tear-gas, rubber-bullet, projectile
+tags: journalist, less-lethal, projectile, punch, rubber-bullet, tear-gas
 
 id: dc-dc-2
 
@@ -73,7 +73,7 @@ geolocation:
 
 The protesters were given no warning to leave, resulting in forceful removal and injuries to protesters via tear gas and flashbangs.
 
-tags: tear-gas, stun-grenade, protester
+tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: dc-dc-3
 
@@ -93,7 +93,7 @@ geolocation:
 
 DCPD officer aims tear gas canister at protester's head, narrowly misses.
 
-tags: tear-gas-canister, projectile, protester
+tags: less-lethal, projectile, protester, tear-gas-canister
 
 id: dc-dc-4
 
@@ -108,7 +108,7 @@ geolocation:
 
 MSNBC captures mounted and regular police using flashbangs on peaceful protesters outside the White House. Someone injured by police is carried away live on camera.
 
-tags: stun-grenade, horse, protester
+tags: horse, less-lethal, protester, stun-grenade
 
 id: dc-dc-5
 
@@ -123,7 +123,7 @@ geolocation:
 
 A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protesters were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
-tags: threaten, tear-gas, protester, bystander
+tags: bystander, less-lethal, protester, tear-gas, threaten
 
 id: dc-dc-6
 
@@ -139,7 +139,7 @@ geolocation:
 
 Here, police are captured charging into a crowd of peaceful protesters and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
-tags: shield, beat, tackle, protester
+tags: beat, protester, shield, tackle
 
 id: dc-dc-7
 
@@ -154,7 +154,7 @@ geolocation:
 
 Police fire into crowd outside of White House. Protester is hit and falls to the ground. The same protester is then hit again after standing. Projectile used is unknown.
 
-tags: projectile, protester
+tags: less-lethal, projectile, protester
 
 id: dc-dc-8
 
@@ -171,7 +171,7 @@ Footage from Anderson Cooper 360 uploaded to Twitter on June 1st shows a protest
 
 Footage then shows the protester shoved to the ground and shot.
 
-tags: shield, beat, shoot, shove, protester
+tags: beat, protester, shield, shoot, shove
 
 id: dc-dc-15
 
@@ -186,7 +186,7 @@ geolocation:
 
 Armed men are seen supporting police efforts. When asked to identify themselves, they stated only that they work for the Department of Justice or "the federal government." They had no identifying names or numbers.
 
-tags: hide-badge, abuse-of-power
+tags: abuse-of-power, hide-badge
 
 id: dc-dc-13
 
@@ -202,7 +202,7 @@ geolocation:
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protester and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
-tags: rubber-bullet, pepper-spray, journalist, protester
+tags: journalist, less-lethal, pepper-spray, protester, rubber-bullet
 
 id: dc-dc-9
 
@@ -220,7 +220,7 @@ geolocation:
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protester.
 
-tags: stun-grenade, protester
+tags: less-lethal, protester, stun-grenade
 
 id: dc-dc-10
 
@@ -238,7 +238,7 @@ Footage shows a line of agents wearing riot gear. They do not have names, badges
 
 Additional reports suggest they are members of the federal Bureau of Prisons trained specifically for prison riots.
 
-tags: hide-badge, abuse-of-power
+tags: abuse-of-power, hide-badge
 
 id: dc-dc-14
 
@@ -255,7 +255,7 @@ geolocation:
 
 During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protester. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
 
-tags: beat, baton, arrest, knee, protester
+tags: arrest, baton, beat, knee, protester
 
 id: dc-dc-16
 
@@ -274,7 +274,7 @@ Protesters converged on the statue, pulled down the fence, and threw chains arou
 
 Police met the protesters with immediate violence. An account states police encircled the protesters, preventing any exit, then beat protesters with shields and batons. Police pepper-sprayed protesters as well. The account additionally states police ripped off her friend's glasses and mask to pepper-spray her.
 
-tags: beat, baton, pepper-spray, spray, shield, protester
+tags: baton, beat, less-lethal, pepper-spray, protester, shield, spray
 
 id: dc-dc-17
 
@@ -294,7 +294,7 @@ geolocation:
 
 Video shows police slowly advancing towards protesters, pushing them back. Alongside the police is a man conspicuously wearing "jeans and fatigue-colored ammo belt" wielding a baton. He has no police badge or other identification. He hits and shoves the individual filming. Neither he nor the officers answer when protesters demand to know who the man is and whether he is a cop or a vigilante. A second video in the same twitter thread shows the unidentified man striking a protester and talking with an officer. A third video in the thread shows the man assisting with an arrest. It is unclear whether the police were allowing a civilian without any authority to assault protesters, or whether they were protecting the identity of an officer from some special unit.
 
-tags: beat, baton, protester
+tags: baton, beat, protester
 
 id: dc-dc-19
 
@@ -311,7 +311,7 @@ geolocation:
 
 Police line begins shouting, "Move back" and using their bikes to push protesters back across a street. Protesters with hands up who refuse to move are shoved and told to keep moving. Protesters near the filmer shout at police, saying, "What's wrong with you?" An officer behind the line of bikes steps forward and sprays pepper spray at protesters, including the filmer.
 
-tags: shove, pepper-spray, spray, protester
+tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: dc-dc-23
 
@@ -343,7 +343,7 @@ geolocation:
 
 Police can be heard chanting, "Move back," while pushing protesters back through a park. Protesters obeying direction are still pepper sprayed.
 
-tags: pepper-spray, spray, protester
+tags: less-lethal, pepper-spray, protester, spray
 
 id: dc-dc-21
 
@@ -362,7 +362,7 @@ He states that police stole all food and other supplies before forcing protester
 
 He says that volunteer medics had permission from the church where they set up, but police ignored the permission and dispersed them regardless.
 
-tags: medic, tear-gas, beat, property-destruction, protester
+tags: beat, less-lethal, medic, property-destruction, protester, tear-gas
 
 id: dc-dc-22
 
@@ -384,7 +384,7 @@ The second clip from Raws shows protesters attempting to treat a fellow proteste
 
 Additional footage posted on Youtube shows similar events. Around 4 minutes, this footage also shows police pushing a man on crutches and harassing him to move faster. Protesters attempting to help the man on crutches are assaulted.
 
-tags: pepper-spray, spray, tear-gas, stun-grenade, shove, push, strike, person-with-disability, protester
+tags: less-lethal, pepper-spray, person-with-disability, protester, push, shove, spray, strike, stun-grenade, tear-gas
 
 id: dc-dc-18
 
@@ -403,7 +403,7 @@ geolocation:
 
 Footage from late on June 27th, police charge a protester walking away from them. She is grabbed by multiple officers, both on bike and on foot. The police then arrest her. She drops several water bottles out of her hands. Protesters state she was passing out water bottles to thirsty protesors.
 
-tags: arrest, abuse-of-power, protester
+tags: abuse-of-power, arrest, protester
 
 id: dc-dc-24
 
@@ -422,7 +422,7 @@ The protester can be heard screaming in pain as police force him into cuffs. Pol
 
 The third link appears to be the third in chronological order as the protesters arms are already cuffed. It is unclear why he is lying face down in the bushes at the beginning of this clip. It additionally shows the careless and physical manner of arrest used by the police.
 
-tags: arrest, strike, protester
+tags: arrest, protester, strike
 
 id: dc-dc-25
 
@@ -442,7 +442,7 @@ In the second video, four officers are shown to be directly involved in the arre
 
 All 11 protesters arrested on July 7th were released without charges.
 
-tags: arrest, abuse-of-power, shove, bike, protester
+tags: abuse-of-power, arrest, bike, protester, shove
 
 id: dc-dc-26
 
@@ -463,7 +463,7 @@ The second clip shows about 5 officers handcuffing the protester before carrying
 
 All 11 protesters arrested on July 7th were released without charges.
 
-tags: arrest, shove, abuse-of-power, protester
+tags: abuse-of-power, arrest, protester, shove
 
 id: dc-dc-27
 
@@ -480,7 +480,7 @@ geolocation:
 
 Pro-Life protesters held a permitted protest outside a D.C. area Planned Parenthood building. Several were arrested for vandalism after attempting to paint and chalk messages on the public sidewalk. The Metropolitan Police Department states that although the rally was permitted, they state a Department of Transportation permit would also have been needed to chalk on the sidewalk. A spokesperson for the protesters states that protesters were told they would not be phyiscally stopped from painting and were even advised on what paint to buy.
 
-tags: arrest, protester, abuse-of-power
+tags: abuse-of-power, arrest, protester
 
 id: dc-dc-28
 
@@ -496,7 +496,7 @@ geolocation:
 
 Shortly after midnight on August 14th, an individual - allegedly a bystander - is filming police. An officer shoves him away and pepper sprays him. The officer appears to catch another officer in the pepper spray.
 
-tags: bystander, pepper-spray, spray, shove, push
+tags: bystander, less-lethal, pepper-spray, push, shove, spray
 
 id: dc-dc-29
 
@@ -511,7 +511,7 @@ geolocation:
 
 A protester approaches cops making an arrest and is restrained by an officer while a 2nd officer punches her.
 
-tags: protester, grab, punch
+tags: grab, protester, punch
 
 id: dc-dc-30
 
@@ -526,7 +526,7 @@ geolocation:
 
 After police make an arrest at a protest, the protesters become agitated and shout at police. Police then throw tear gas canisters at protesters. Officers chase protesters down the street using tear gas, stun grenades and rubber bullets. One officer discharges pepper spray at protesters and the filmer, a journalist.
 
-tags: protester, journalist, arrest, tear-gas, stun-grenade, shoot, rubber-bullet, pepper-spray, spray
+tags: arrest, journalist, less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray, stun-grenade, tear-gas
 
 id: dc-dc-31
 
@@ -565,7 +565,7 @@ geolocation:
 
 The Snack Van from Portland joined protests in D.C. to hand out food, water and medical supplies to protesters. The driver rolled slowly alongside protesters as police began dispersal. Police told the driver to pull the van over and put in park. The driver began to comply. An officer then smashed the driver side window and arrested the occupants.
 
-tags: protester, arrest, property-destruction
+tags: arrest, property-destruction, protester
 
 id: dc-dc-33
 
@@ -580,7 +580,7 @@ geolocation:
 
 Protesters and police faced off shortly after midnight on the morning of August 31st. Protesters threw water bottles at police. Police escalated and used tear gas to disperse protesters.
 
-tags: protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: dc-dc-34
 
@@ -597,7 +597,7 @@ geolocation:
 
 Police behind a barricade in the street fire rubber bullets at protesters. Protesters appear to be doing no more than shouting at police to stop shooting.
 
-tags: protester, shoot, rubber-bullet
+tags: less-lethal, protester, rubber-bullet, shoot
 
 id: dc-dc-35
 
@@ -612,7 +612,7 @@ geolocation:
 
 Police charged into a crowd of protesters, pushing and shoving. Police then grabbed one protester for arrest without apparent reason. Police then dragged the protester to the ground and arrested him.
 
-tags: protester, push, shove, grab, arrest
+tags: arrest, grab, protester, push, shove
 
 id: dc-dc-36
 
@@ -627,7 +627,7 @@ geolocation:
 
 Police make a violent arrest, allegedly for property damage. Police grab him by the limbs and throw him face first into the ground.
 
-tags: protester, grab, arrest
+tags: arrest, grab, protester
 
 id: dc-dc-37
 
