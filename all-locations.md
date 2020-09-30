@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-30T16:27:27.435503+00:00
+UPDATED AT: 2020-09-30T17:45:23.094802+00:00
 
 
 # Alabama
@@ -19675,6 +19675,22 @@ geolocation:
 
 * https://twitter.com/MarcusKulik/status/1309395172187189248
 * https://twitter.com/mikescaturo/status/1309392513719963649
+
+
+### Individual thrown against concrete wall during arrest | September 28th
+
+Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
+
+tags: bystander, throw, arrest, push, shove, grab
+
+id: wa-seattle-71
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/MarcusKulik/status/1310847377092169728
+* [Earlier footage showing individual walking down street, not near protesters](https://twitter.com/MarcusKulik/status/1310850132892508160)
 
 
 
