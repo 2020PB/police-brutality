@@ -36,6 +36,7 @@ LESS_LETHALS = {
     "tear-gas",
     "tear-gas-canister",
     "wooden-bullet",
+    "lrad",
 }
 
 COMMON_MISSPELLINGS = {"protestor": "protester", "taze": "tase"}
