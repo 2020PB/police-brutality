@@ -10,7 +10,7 @@ tags: arrest, journalist, zip-tie
 
 id: al-birmingham-1
 
-geolocation: 33.520453,-86.8109093
+geolocation: 33.520453, -86.8109093
 
 **Links**
 
@@ -29,7 +29,7 @@ tags: arrest, journalist, racial-profiling, zip-tie
 
 id: al-birmingham-2
 
-geolocation: 33.520453,-86.8109093
+geolocation: 33.520453, -86.8109093
 
 **Links**
 
@@ -49,7 +49,7 @@ tags: arrest, shove, throw, push, knee, protester
 
 id: al-hoover-1
 
-geolocation: 33.385529,-86.805699
+geolocation: 33.385529, -86.805699
 
 **Links**
 
@@ -68,7 +68,7 @@ tags: baton, kick, beat, push, shove, protester
 
 id: al-huntsville-1
 
-geolocation: 34.7298523,-86.5854804
+geolocation: 34.7298523, -86.5854804
 
 **Links**
 
@@ -83,7 +83,7 @@ tags: threaten, pepper-spray, spray, protester
 
 id: al-huntsville-2
 
-geolocation: 34.7302616,-86.5858014
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
@@ -98,7 +98,7 @@ tags: tear-gas, tear-gas-canister, journalist, protester
 
 id: al-huntsville-3
 
-geolocation: 34.7302616,-86.5858014
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
@@ -115,7 +115,7 @@ tags: tear-gas, tear-gas-canister, rubber-bullet, shoot, protester
 
 id: al-huntsville-4
 
-geolocation: 34.7302616,-86.5858014
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
@@ -136,7 +136,7 @@ tags: rubber-bullet, threaten, protester
 
 id: al-huntsville-5
 
-geolocation: 34.7302616,-86.5858014
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
