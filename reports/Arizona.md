@@ -8,7 +8,7 @@ tags: beat, arrest, inhumane-treatment, threaten, tackle, protester
 
 id: az-phoenix-1
 
-geolocation: 
+geolocation: 33.4503981,-112.0756744
 
 **Links**
 
@@ -23,7 +23,7 @@ tags: abuse-of-power, arrest, protester
 
 id: az-phoenix-2
 
-geolocation: 
+geolocation: 33.4487285,-112.0795091
 
 **Links**
 
@@ -41,7 +41,7 @@ tags: journalist, shoot, rubber-bullet
 
 id: az-phoenix-5
 
-geolocation: 
+geolocation: 33.4492745,-112.0842197
 
 **Links**
 
@@ -59,7 +59,7 @@ tags: arrest, tackle, tear-gas, bystander, zip-tie
 
 id: az-phoenix-3
 
-geolocation: 
+geolocation: 33.4575409,-112.0642474
 
 **Links**
 
@@ -73,7 +73,7 @@ geolocation:
 
 ### Protests at Trump rally met with pepper spray | June 23rd
 
-Protesters gathered on the sidewalk and on a shut down street outside a Trump rally in Phoenix, Arizona.
+Protesters gathered on the sidewalk and on a shut down street outside a Trump rally at Dream City church in Phoenix, Arizona.
 
 Footage shows police declaring the assembly unlawful and telling protesters to get on the sidewalk even though the street has been shut down. Protesters comply, but later footage shows they are pepper-sprayed while on the sidewalk.
 
@@ -83,7 +83,7 @@ tags: pepper-spray, tear-gas, stun-grenade, spray, protester
 
 id: az-phoenix-4
 
-geolocation: 
+geolocation: 33.6099164,-112.0342738
 
 **Links**
 
@@ -112,7 +112,7 @@ tags: shove, pepper-spray, spray, tackle, knee, arrest, protester
 
 id: az-tempe-1
 
-geolocation: 
+geolocation: 33.4308852,-111.9092091
 
 **Links**
 
@@ -129,7 +129,7 @@ tags: shove, tackle, protester, arrest, pepper-spray, spray
 
 id: az-tempe-2
 
-geolocation: 
+geolocation: 33.4339886,-111.928524
 
 **Links**
 
