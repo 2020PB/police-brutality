@@ -10,7 +10,7 @@ Police fired a sustained barrage of tear gas for approximately one minute while 
 
 Later footage shows police continuing to fire tear gas down the street as students walk past with their hands up, obeying police orders.
 
-tags: tear-gas, protester
+tags: le-lethal, less-lethal, protester, tear-gas
 
 id: ga-athens-1
 
@@ -28,7 +28,7 @@ geolocation:
 
 On May 29th, an officer slams a woman on to the ground, breaking her clavicle. The incident took place near Lenox Square mall in the Buckhead area of Atlanta.
 
-tags: tackle, throw, shove, protester
+tags: protester, shove, tackle, throw
 
 id: ga-atlanta-1
 
@@ -43,7 +43,7 @@ geolocation:
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
-tags: shove, bike, protester
+tags: bike, protester, shove
 
 id: ga-atlanta-2
 
@@ -60,7 +60,7 @@ geolocation:
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
 
-tags: tase, vehicle, grab, bystander, taser
+tags: bystander, grab, le-lethal, less-lethal, tase, taser, vehicle
 
 id: ga-atlanta-3
 
@@ -79,7 +79,7 @@ geolocation:
 
 Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
 
-tags: punch, strike, arrest, knee, tackle, protester
+tags: arrest, knee, protester, punch, strike, tackle
 
 id: ga-atlanta-4
 
@@ -94,7 +94,7 @@ geolocation:
 
 A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.
 
-tags: journalist, tackle, arrest
+tags: arrest, journalist, tackle
 
 id: ga-atlanta-5
 
@@ -110,7 +110,7 @@ geolocation:
 
 Police shove and shoot protesters with rubber bullets. One man is shot in the head; he is seen being carried away unconscious.
 
-tags: shoot, shove, rubber-bullet, protester
+tags: le-lethal, less-lethal, protester, rubber-bullet, shoot, shove
 
 id: ga-atlanta-6
 
@@ -126,7 +126,7 @@ geolocation:
 
 Police deploy tear gas against a crowd of protesters gathered in protest of the grand jury charges in the Breonna Taylor case. It appears that Georgia State Police accidentally deployed tear gas in their own vicinity before throwing the canister to protesters and launching more.
 
-tags: protester, tear-gas
+tags: le-lethal, less-lethal, protester, tear-gas
 
 id: ga-atlanta-7
 
@@ -152,7 +152,7 @@ geolocation:
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
 
-tags: punch, tase, protester
+tags: protester, punch, tase
 
 id: ga-lawrenceville-1
 
@@ -170,7 +170,7 @@ geolocation:
 
 Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield.
 
-tags: journalist, push, shove, shield
+tags: journalist, push, shield, shove
 
 id: ga-stonemountain-1
 

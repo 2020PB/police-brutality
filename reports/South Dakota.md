@@ -8,7 +8,7 @@ Around 2:07:00, the police and National Guard line advances with shields. Protes
 
 News reports additionally state that pepper spray and tear gas were used. The tear gas was deployed by the Pennington County Sheriff's Office.
 
-tags: arrest, tear-gas, pepper-spray, spray, shoot, pepper-ball, protester
+tags: arrest, le-lethal, less-lethal, pepper-ball, pepper-spray, protester, shoot, spray, tear-gas
 
 id: sd-keystone-1
 

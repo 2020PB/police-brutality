@@ -19,7 +19,7 @@ geolocation:
 
 Officer line begins to advance towards protesters, shoving numerous protesters to the ground as they do.
 
-tags: shove, throw, strike, protester
+tags: protester, shove, strike, throw
 
 id: nv-lasvegas-4
 
@@ -34,7 +34,7 @@ geolocation:
 
 LVPD attacked and arrested peaceful protesters, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
-tags: journalist, threaten, arrest, strike, shove, kick, protester
+tags: arrest, journalist, kick, protester, shove, strike, threaten
 
 id: nv-lasvegas-2
 
@@ -65,7 +65,7 @@ geolocation:
 
 A police vehicle stops at an intersection; protesters are gathered on the sidewalk nearby. Several officers jump out of the car and rush onto the sidewalk, shoving and chasing protesters.
 
-tags: vehicle, shove, arrest, protester
+tags: arrest, protester, shove, vehicle
 
 id: nv-lasvegas-5
 
@@ -81,7 +81,7 @@ geolocation:
 
 Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protesters. They can be seen throwing multiple individuals to the ground and kicking one.
 
-tags: shove, tackle, throw, kick, protester
+tags: kick, protester, shove, tackle, throw
 
 id: nv-lasvegas-6
 

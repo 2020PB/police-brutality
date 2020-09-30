@@ -45,7 +45,7 @@ geolocation:
 
 During a peaceful protest, police corral protesters onto a hill. Officers snatch protesters at the edges and throw them to the ground to make arrests.
 
-tags: arrest, shove, throw, push, knee, protester
+tags: arrest, knee, protester, push, shove, throw
 
 id: al-hoover-1
 
@@ -64,7 +64,7 @@ geolocation:
 
 During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
 
-tags: baton, kick, beat, push, shove, protester
+tags: baton, beat, kick, protester, push, shove
 
 id: al-huntsville-1
 
@@ -79,7 +79,7 @@ geolocation:
 
 Police officer exits his vehicle and begins pepper spraying protesters for no apparent reason.
 
-tags: threaten, pepper-spray, spray, protester
+tags: le-lethal, less-lethal, pepper-spray, protester, spray, threaten
 
 id: al-huntsville-2
 
@@ -94,7 +94,7 @@ geolocation:
 
 Police use tear gas on reporters and protesters, who are then initially blocked from leaving the area by other officers.
 
-tags: tear-gas, tear-gas-canister, journalist, protester
+tags: journalist, le-lethal, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: al-huntsville-3
 
@@ -111,7 +111,7 @@ A Huntsville PD Lieutenant stated that they used tear gas on protesters before v
 
 Footage taken of a protester in a garage after shows bruises consistent with rubber bullet rounds. Another image shows a bloody wound allegedly caused by a rubber bullet.
 
-tags: tear-gas, tear-gas-canister, rubber-bullet, shoot, protester
+tags: le-lethal, less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: al-huntsville-4
 
@@ -132,7 +132,7 @@ After disperse order is given, protesters comply and begin to back away from the
 
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
 
-tags: rubber-bullet, threaten, protester
+tags: le-lethal, less-lethal, protester, rubber-bullet, threaten
 
 id: al-huntsville-5
 

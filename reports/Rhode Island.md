@@ -4,7 +4,7 @@
 
 Protesters and police argue as protesters attempt to block a highway. Police tell them it is unsafe. Protesters then move to the edge of the highway. One officer grabs a protester by the arm, pushing him away, as other protesters begin climbing a fence to leave the area. After a scuffle, police pepper spray protesters. Protesters then continue to climb the fence and leave the area.
 
-tags: protester, pepper-spray, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: ri-providence-1
 

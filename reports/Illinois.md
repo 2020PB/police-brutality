@@ -19,7 +19,7 @@ geolocation:
 
 Police pepper-spray reporter holding press pass and yelling press.
 
-tags: pepper-spray, spray, journalist
+tags: journalist, le-lethal, less-lethal, pepper-spray, spray
 
 id: il-chicago-5
 
@@ -34,7 +34,7 @@ geolocation:
 
 The video shows fficers standing in line, all missing the badges from their uniforms. The video poster, in the comments of the post, states that the officers took off their badges and then pushed protesters down the stairs and swung batons at them.
 
-tags: hide-badge, push, shove, baton
+tags: baton, hide-badge, push, shove
 
 id: il-chicago-11
 
@@ -49,7 +49,7 @@ geolocation:
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
-tags: celebrity, baton, protester
+tags: baton, celebrity, protester
 
 id: il-chicago-3
 
@@ -71,7 +71,7 @@ After release (with neither charges nor explanation), the victim attempted to fi
 
 This was reported to have happened at "2600 N. Narragansett Ave.", but 2700 N seems slightly more accurate. Google Streetview at that address shows the same "Show Carnival" store seen in the video.
 
-tags: shove, throw, arrest, property-destruction, knee-on-neck, knee, inhumane-treatment, bystander
+tags: arrest, bystander, inhumane-treatment, knee, knee-on-neck, property-destruction, shove, throw
 
 id: il-chicago-4
 
@@ -93,7 +93,7 @@ Cops struck Ghian Foreman, the Chicago Police Board President, five times in the
 
 Location: Hyde Park
 
-tags: politician, beat, strike, baton, protester
+tags: baton, beat, politician, protester, strike
 
 id: il-chicago-6
 
@@ -108,7 +108,7 @@ geolocation:
 
 Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
 
-tags: hide-badge, body-cam
+tags: body-cam, hide-badge
 
 id: il-chicago-10
 
@@ -128,7 +128,7 @@ geolocation:
 
 CPD officer chasing down and punching a protester who was walking away.
 
-tags: punch, protester
+tags: protester, punch
 
 id: il-chicago-7
 
@@ -145,7 +145,7 @@ geolocation:
 
 Police chase protester and attack him on the ground while on live TV.
 
-tags: beat, shove, throw, baton, protester
+tags: baton, beat, protester, shove, throw
 
 id: il-chicago-8
 
@@ -160,7 +160,7 @@ geolocation:
 
 A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall.
 
-tags: shove, threaten, protester
+tags: protester, shove, threaten
 
 id: il-chicago-12
 
@@ -175,7 +175,7 @@ geolocation:
 
 Footage shows a protester on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
 
-tags: push, shove, property-destruction, protester
+tags: property-destruction, protester, push, shove
 
 id: il-chicago-13
 
@@ -190,7 +190,7 @@ geolocation:
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
 
-tags: shove, throw, punch, beat, baton, protester
+tags: baton, beat, protester, punch, shove, throw
 
 id: il-chicago-9
 
@@ -205,7 +205,7 @@ geolocation:
 
 Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
 
-tags: hide-badge, abuse-of-power
+tags: abuse-of-power, hide-badge
 
 id: il-chicago-14
 
@@ -221,7 +221,7 @@ geolocation:
 
 Cop punches an 18 year old Black woman activist at a protest in Grant Park. She reportedly suffered multiple injuries to her face and had her teeth knocked out.
 
-tags: punch, protester
+tags: protester, punch
 
 id: il-chicago-15
 
@@ -239,7 +239,7 @@ geolocation:
 
 Footage shows a series of violent arrests and altercations between police and protesters. Police tackle, shove, strike and pepper spray protesters indiscriminately. Protesters are also struck with batons. One use states that police allegedly hit press during this series of events.
 
-tags: strike, baton, protester, tackle, shove, push, pepper-spray, spray, arrest
+tags: arrest, baton, le-lethal, less-lethal, pepper-spray, protester, push, shove, spray, strike, tackle
 
 id: il-chicago-16
 
@@ -257,7 +257,7 @@ geolocation:
 
 Footage from the protest in Grant Park shows an officer attempting to seize a bike from a protester for unknown reason. The police officer swats at the protester's hands with his baton in an apparent attempt to release the protester's hold on the bike.
 
-tags: strike, baton, protester
+tags: baton, protester, strike
 
 id: il-chicago-17
 
@@ -272,7 +272,7 @@ geolocation:
 
 First-person footage from a journalist shows a police officer shoving, threatening and harassing a journalist. Allegedly the officer began harassing the journalist, calling him a "smartass," after the journalist displayed his press badge.
 
-tags: threaten, shove, push, journalist
+tags: journalist, push, shove, threaten
 
 id: il-chicago-18
 
@@ -287,7 +287,7 @@ geolocation:
 
 Footage from a CBS Chicago reporter shows an officer knocking the phone out of her hand, then kicking it across the ground.
 
-tags: strike, journalist, property-destruction
+tags: journalist, property-destruction, strike
 
 id: il-chicago-19
 
@@ -302,7 +302,7 @@ geolocation:
 
 Footage uploaded on July 19th shows an officer standing some distance from protesters. He discharges pepper spray in the general direction of the protesters.
 
-tags: pepper-spray, spray, protester
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-20
 
@@ -317,7 +317,7 @@ geolocation:
 
 Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protester then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
 
-tags: vehicle, strike, protester, property-destruction
+tags: property-destruction, protester, strike, vehicle
 
 id: il-chicago-21
 
@@ -332,7 +332,7 @@ geolocation:
 
 Footage shows a line of police officers shouting, "Move," and shoving protesters backward with their bikes.
 
-tags: protester, shove, bike
+tags: bike, protester, shove
 
 id: il-chicago-22
 
@@ -347,7 +347,7 @@ geolocation:
 
 Police charge into a crowd of protesters. One protester falls and police surround them. Other protesters attempt to help the protester up and are pepper sprayed.
 
-tags: protester, push, shove, pepper-spray, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: il-chicago-23
 
@@ -379,7 +379,7 @@ geolocation:
 
 In an incident that appears to occur in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
 
-tags: protester, shove, push, tackle, punch, beat, baton, bike
+tags: baton, beat, bike, protester, punch, push, shove, tackle
 
 id: il-chicago-25
 
@@ -396,7 +396,7 @@ Police and protesters face off. Police rip umbrellas away from protesters. Polic
 
 An alternate angle provided by the Chicago Police Department, shows police initiating violence in the top left of the video at 0:52.
 
-tags: protester, push, shove, property-destruction, strike, baton, pepper-spray, spray
+tags: baton, le-lethal, less-lethal, pepper-spray, property-destruction, protester, push, shove, spray, strike
 
 id: il-chicago-26
 
@@ -416,7 +416,7 @@ geolocation:
 
 Footage shows protesters moving away from police. Officer discharge pepper spray at them.
 
-tags: protester, pepper-spray, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-27
 
@@ -432,7 +432,7 @@ geolocation:
 
 While clearing protesters from the street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
 
-tags: protester, pepper-spray, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-28
 
@@ -447,7 +447,7 @@ geolocation:
 
 Footage shows police walking protesters down the street. Police begin shoving their way through protesters after a white-shirted officer points out a protester. Officers take the protester to the ground and arrest her, shoving the crowd back.
 
-tags: protester, push, shove, arrest
+tags: arrest, protester, push, shove
 
 id: il-chicago-29
 
@@ -468,7 +468,7 @@ The Terry standard does allow police to briefly detain and search an individual 
 
 After reviewing the rights of protesters, it appears that police conducted these searches illegally, abusing their power to prevent protesters from leaving.
 
-tags: protester, abuse-of-power
+tags: abuse-of-power, protester
 
 id: il-chicago-30
 
@@ -488,7 +488,7 @@ geolocation:
 
 Protesters arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
-tags: beat, shove, throw, protester
+tags: beat, protester, shove, throw
 
 id: il-joliet-1
 
@@ -507,7 +507,7 @@ geolocation:
 
 An individual in a stopped car gets out and yells at police, ostensibly about the road closure by police vehicles. Police approach and a scuffle starts. It is difficult to see how it begins. The bystander is then thrown to the ground and arrested. Another bystander is pulled from the car and beaten.
 
-tags: beat, grab, arrest, bystander
+tags: arrest, beat, bystander, grab
 
 id: il-rockford-1
 
@@ -522,7 +522,7 @@ geolocation:
 
 Police arrest, pepper spray, and tear gas BLM protesters who blocked the road in counter-protest to a Back the Blue event. No indication has been given that protesters were violent in any way.
 
-tags: protester, arrest, pepper-spray, spray, tear-gas
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray, tear-gas
 
 id: il-rockford-2
 

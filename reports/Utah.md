@@ -6,7 +6,7 @@ During a protest on August 2nd over Zane James who was killed by police a few ye
 
 Police made 9 arrests, including the father of Zane James. Police beat multiple protesters with batons and pepper sprayed others. A Cottonwood Heights city councilwoman stated she was struck by police. Police state that one officer was choked to the point of unconsciousness and another was hospitalized. In addition, police state protesters used a water gun filled with "pepper and bodily fluids;" protesters state they were full of water in order to keep cool. A news report also states that some protesters were tased.
 
-tags: arrest, protester, beat, strike, pepper-spray, spray, tackle, taser, tase
+tags: arrest, beat, le-lethal, less-lethal, pepper-spray, protester, spray, strike, tackle, tase, taser
 
 id: ut-cottonwoodheights-1
 
@@ -29,7 +29,7 @@ geolocation:
 
 The old man was shoved and pushed by the police, which led him to hit the railing and collapse.
 
-tags: elderly, push, shove, shield, bystander
+tags: bystander, elderly, push, shield, shove
 
 id: ut-saltlakecity-1
 
@@ -44,7 +44,7 @@ geolocation:
 
 The man on the ground was shot with a beanbag, resulting in heavy damage.
 
-tags: shoot, bean-bag, protester
+tags: bean-bag, le-lethal, less-lethal, protester, shoot
 
 id: ut-saltlakecity-2
 
@@ -59,7 +59,7 @@ geolocation:
 
 Man standing in a crowd of protesters was struck with a tear gas canister.
 
-tags: tear-gas, shoot, tear-gas-canister, protester
+tags: le-lethal, less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: ut-saltlakecity-4
 
@@ -75,7 +75,7 @@ geolocation:
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
-tags: push, tackle, arrest, beat, knee, protester
+tags: arrest, beat, knee, protester, push, tackle
 
 id: ut-saltlakecity-3
 
@@ -92,7 +92,7 @@ In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Ca
 
 Footage from multiple angles shows police using shields and batons to strike peaceful protesters gathered in the street outside the DA's office.
 
-tags: protester, beat, strike, shield, baton
+tags: baton, beat, protester, shield, strike
 
 id: ut-saltlakecity-5
 
@@ -110,7 +110,7 @@ geolocation:
 
 Footage from a protest for Bernardo Palacios-Carbajal shows police chasing down a journalist with a camera mounted on his head. The journalist flees and police give up the chase. The journalist is allegedly affiliated with Just Media Utah
 
-tags: journalist, abuse-of-power
+tags: abuse-of-power, journalist
 
 id: ut-saltlakecity-6
 

@@ -4,7 +4,7 @@
 
 A crowd gathers around a woman who is being arrested. After she is pulled away, police give a dispersal order. Protesters comply, but appear to exchange words with officers while walking away. Police then shout that they are under arrest, shoving protesters to the ground and kneeling on them to make arrests.
 
-tags: arrest, shove, knee, protester
+tags: arrest, knee, protester, shove
 
 id: ne-lincoln-1
 
@@ -20,7 +20,7 @@ geolocation:
 
 A reporter posted a picture of a tear gas canister, allegedly used in Lincoln protests. In the tweet, he states he and his photographer were tear gassed twice by police.
 
-tags: journalist, tear-gas, tear-gas-canister
+tags: journalist, le-lethal, less-lethal, tear-gas, tear-gas-canister
 
 id: ne-lincoln-2
 
@@ -36,7 +36,7 @@ geolocation:
 
 After a protester threw a firework at police, police shot tear gas and impact munitions. A journalist livestreaming the incident shows a woman bleeding from the face after being shot by police. She states she was shot by a rubber bullet.
 
-tags: protester, tear-gas, shoot, projectile
+tags: le-lethal, less-lethal, projectile, protester, shoot, tear-gas
 
 id: ne-lincoln-3
 
@@ -54,7 +54,7 @@ geolocation:
 
 A bunch of protesters peacefully sitting on the ground were shot at and maced. A group of police officers pushed these civilians on to the ground and hit them.
 
-tags: mace, spray, pepper-ball, protester
+tags: le-lethal, less-lethal, mace, pepper-ball, protester, spray
 
 id: ne-omaha-1
 
@@ -71,7 +71,7 @@ Omaha law enforcement officer kicks protester already on the ground. Another off
 
 Twitter users also state police fired pepper-balls at peaceful protesters.
 
-tags: journalist, kick, arrest, pepper-ball, protester
+tags: arrest, journalist, kick, le-lethal, less-lethal, pepper-ball, protester
 
 id: ne-omaha-2
 
@@ -87,7 +87,7 @@ geolocation:
 
 Footage shows a police officer shoving a protester on a bike. Police then fire impact munitions at protesters and shove protesters back. Protesters are pushed back to the highway fence. An officer grabs a protester standing around and takes him to the ground to arrest him. Police arrest more individuals, including the filmer, a journalist. The journalist states she has a press badge. The officer says, "I don't know that that's real," and arrests her, cuffing her with zip-ties.
 
-tags: protester, journalist, shove, arrest, zip-tie, shoot, projectile
+tags: arrest, journalist, le-lethal, less-lethal, projectile, protester, shoot, shove, zip-tie
 
 id: ne-omaha-3
 

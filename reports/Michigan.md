@@ -4,7 +4,7 @@
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
-tags: tackle, punch, protester
+tags: protester, punch, tackle
 
 id: mi-detroit-4
 
@@ -19,7 +19,7 @@ geolocation:
 
 Riot police charge peaceful protesters without warning. The filming protester and numerous others are beaten with riot shields.
 
-tags: tackle, shield, beat, protester
+tags: beat, protester, shield, tackle
 
 id: mi-detroit-5
 
@@ -34,7 +34,7 @@ geolocation:
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
-tags: threaten, shove, protester
+tags: protester, shove, threaten
 
 id: mi-detroit-1
 
@@ -50,7 +50,7 @@ geolocation:
 
 Detroit Police pepper-spray a reporter in the face while he holds up a media badge.
 
-tags: journalist, pepper-spray, spray
+tags: journalist, le-lethal, less-lethal, pepper-spray, spray
 
 id: mi-detroit-2
 
@@ -67,7 +67,7 @@ geolocation:
 
 Police tear-gassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
 
-tags: journalist, tear-gas, rubber-bullet, shoot
+tags: journalist, le-lethal, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mi-detroit-3
 
@@ -82,7 +82,7 @@ geolocation:
 
 Police charge protesters. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
 
-tags: throw, punch, knee, arrest, protester
+tags: arrest, knee, protester, punch, throw
 
 id: mi-detroit-6
 
@@ -120,7 +120,7 @@ The footage becomes blurry as it appears that police strike the reporter, who re
 
 The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted.
 
-tags: pepper-spray, spray, shield, beat, strike, punch, journalist, property-destruction, protester
+tags: beat, journalist, le-lethal, less-lethal, pepper-spray, property-destruction, protester, punch, shield, spray, strike
 
 id: mi-detroit-7
 
@@ -155,7 +155,7 @@ geolocation:
 
 A police cruiser begins to drive into a line of protesters. Protesters continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protester onto the hood, and drives away.
 
-tags: vehicle, protester
+tags: protester, vehicle
 
 id: mi-detroit-9
 
@@ -170,7 +170,7 @@ geolocation:
 
 A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protesters were dispersed using shields and batons. Protesters retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
-tags: tear-gas, protester, shield, baton, arrest, choke, tear-gas, tear-gas-canister
+tags: arrest, baton, choke, le-lethal, less-lethal, protester, shield, tear-gas, tear-gas-canister
 
 id: mi-detroit-10
 
@@ -186,7 +186,7 @@ geolocation:
 
 Police and protesters faced off at a protest in Detroit, Michigan around midnight on August 22nd. Police deployed gas grenades, believed to be tear gas, and marched towards protesters. Police then struck protesters with batons and shields, arresting several.
 
-tags: protester, tear-gas, strike, baton, shield, arrest
+tags: arrest, baton, le-lethal, less-lethal, protester, shield, strike, tear-gas
 
 id: mi-detroit-12
 
@@ -225,7 +225,7 @@ geolocation:
 
 A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a tear-gas canister is shot by a different officer directly into the man's head.
 
-tags: spray, shoot, pepper-spray, tear-gas, tear-gas-canister, protester
+tags: le-lethal, less-lethal, pepper-spray, protester, shoot, spray, tear-gas, tear-gas-canister
 
 id: mi-grandrapids-1
 
@@ -245,7 +245,7 @@ Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
 Footage shows police have hidden badge numbers and are not wearing body cams.
 
-tags: shove, push, shield, hide-badge, body-cam, protester
+tags: body-cam, hide-badge, protester, push, shield, shove
 
 id: mi-grandrapids-2
 
@@ -265,7 +265,7 @@ The arresting officer appears to force the man to his knees before the other off
 
 Two different women, each in different videos, are shown falling or fallen over as a result of the shoving and pulling.
 
-tags: shove, push, arrest, protester
+tags: arrest, protester, push, shove
 
 id: mi-grandrapids-3
 
@@ -284,7 +284,7 @@ geolocation:
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
-tags: shoot, pepper-ball, tear-gas, tear-gas-canister, protester
+tags: le-lethal, less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
 
 id: mi-kalamazoo-1
 
@@ -301,7 +301,7 @@ geolocation:
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 
-tags: tear-gas, arrest, protester
+tags: arrest, le-lethal, less-lethal, protester, tear-gas
 
 id: mi-kalamazoo-2
 
@@ -319,7 +319,7 @@ geolocation:
 
 A journalist with MLive was covering a Proud Boys rally on August 15th. Footage shows him arrested while standing in the street. He states he was charged with impeding traffic.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: mi-kalamazoo-3
 
@@ -336,7 +336,7 @@ geolocation:
 
 Police charge at protesters, pepper spraying indiscriminately. One protester is also tackled to the ground.
 
-tags: protester, tackle, pepper-spray, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray, tackle
 
 id: mi-kalamazoo-4
 

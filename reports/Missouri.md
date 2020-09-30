@@ -4,7 +4,7 @@
 
 
 
-tags: pepper-spray, spray, arrest, protester
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-5
 
@@ -20,7 +20,7 @@ geolocation:
 
 A video linked shows the police pepper spraying some protesters who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
 
-tags: pepper-spray, spray, arrest, protester
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-6
 
@@ -36,7 +36,7 @@ geolocation:
 
 Video shows the police tear gassing an entire park, including one baby in Kansas City.
 
-tags: child, tear-gas, protester
+tags: child, le-lethal, less-lethal, protester, tear-gas
 
 id: mo-kansascity-1
 
@@ -51,7 +51,7 @@ geolocation:
 
 Footage shows a protester speaking to other protesters on a megaphone. Police grab him and drag him to arrest. Other protesters come to his aid and are pepper-sprayed.
 
-tags: arrest, pepper-spray, spray, protester
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-2
 
@@ -67,7 +67,7 @@ geolocation:
 
 With tactics remarkably similar to mo-kansascity-2, police grab a protester standing alone in the street. Other protesters come to aid him and are summarily pepper-sprayed. He is taken behind the police line and arrested.
 
-tags: arrest, pepper-spray, spray, protester
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-8
 
@@ -83,7 +83,7 @@ geolocation:
 
 A line of police stand well apart from a crowd of protesters, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
 
-tags: pepper-spray, spray, tear-gas, arrest, shove, protester
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, shove, spray, tear-gas
 
 id: mo-kansascity-3
 
@@ -99,7 +99,7 @@ geolocation:
 
 A police officer pulls away a protester standing still. When others come to the protester's aid they are pepper sprayed.
 
-tags: grab, spray, pepper-spray, protester
+tags: grab, le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-4
 
@@ -119,7 +119,7 @@ Around 9pm, one victim, Sean, states that police began pepper-spraying without w
 
 After arriving at the hospital, Sean was told he would be permanently blind, but had been spared broken bones or death by a matter of inches.
 
-tags: pepper-spray, rubber-bullet, spray, shoot, protester
+tags: le-lethal, less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray
 
 id: mo-kansascity-7
 
@@ -136,7 +136,7 @@ geolocation:
 
 At protests honoring the 6th anniversary of Mike Brown's death, police charged at protesters, pushing them from one side of the street to another. Police discharged pepper spray en masse and tackled numerous protesters to make arrests. One protester is seen helping another over a short fence; an officer grabs this protester by the backpack and hurls them to the ground. The officer continues to yank the backpack. The protester slips off the backpack and runs away.
 
-tags: pepper-spray, spray, push, shove, protester
+tags: le-lethal, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: mo-ferguson-1
 
@@ -153,7 +153,7 @@ geolocation:
 
 Chris Philips, a well known member of the media in the Ferguson area, discusses being pepper sprayed by police without and order to of dispersal. He states that he was not recording at the time and was preparing to head home when police decided to rush at protesters. Pepper spray is visible on his face and torso as he walks away and tries to recover
 
-tags: pepper-spray, spray, journalist
+tags: journalist, le-lethal, less-lethal, pepper-spray, spray
 
 id: mo-ferguson-2
 
@@ -174,7 +174,7 @@ Later updates note that the victim has taken to the hospital and the officer has
 
 The officer has since been fired.
 
-tags: vehicle, drive, kick, strike, beat, body-cam, non-protest
+tags: beat, body-cam, drive, kick, non-protest, strike, vehicle
 
 id: mo-florissant-1
 
@@ -195,7 +195,7 @@ Police continued to push protesters into the road. Filmers state that police mac
 
 Police continued to snag protesters and arrest them.
 
-tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, throw, protester
+tags: arrest, baton, le-lethal, less-lethal, mace, pepper-spray, protester, push, shield, shove, spray, strike, throw
 
 id: mo-florissant-2
 
@@ -215,7 +215,7 @@ geolocation:
 
 Footage shows police using shields and batons to shove protesters. Protesters attempting to flee are pepper sprayed. At least one protester is tackled to the ground and arrested. Police continue pushing protesters out of the precinct and into the street. More arrests are made and more pepper spray is deployed.
 
-tags: shield, baton, push, shove, strike, arrest, mace, pepper-spray, spray, protester
+tags: arrest, baton, le-lethal, less-lethal, mace, pepper-spray, protester, push, shield, shove, spray, strike
 
 id: mo-florissant-4
 
@@ -236,7 +236,7 @@ Footage shows police shooting riot rounds at protesters in the zone. The account
 
 Footage from the second link also shows violent arrests where police force protesters to the ground, pulling on limbs, punching and kneeling on protesters.
 
-tags: shoot, rubber-bullet, pepper-ball, projectile, mace, pepper-spray, spray, arrest, protester
+tags: arrest, le-lethal, less-lethal, mace, pepper-ball, pepper-spray, projectile, protester, rubber-bullet, shoot, spray
 
 id: mo-florissant-3
 

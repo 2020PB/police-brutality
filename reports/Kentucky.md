@@ -4,7 +4,7 @@
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
-tags: journalist, rubber-bullet, pepper-ball, shoot
+tags: journalist, le-lethal, less-lethal, pepper-ball, rubber-bullet, shoot
 
 id: ky-louisville-2
 
@@ -21,7 +21,7 @@ geolocation:
 
 A young woman was injured by a rubber bullet she took to the head.
 
-tags: rubber-bullet, shoot, protester
+tags: le-lethal, less-lethal, protester, rubber-bullet, shoot
 
 id: ky-louisville-4
 
@@ -39,7 +39,7 @@ geolocation:
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
-tags: rubber-bullet, projectile, shoot, protester
+tags: le-lethal, less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ky-louisville-8
 
@@ -55,7 +55,7 @@ geolocation:
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
 
-tags: shoot, projectile, property-destruction, bystander
+tags: bystander, le-lethal, less-lethal, projectile, property-destruction, shoot
 
 id: ky-louisville-5
 
@@ -88,7 +88,7 @@ geolocation:
 
 A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison.
 
-tags: arrest, beat, baton, strike, protester
+tags: arrest, baton, beat, protester, strike
 
 id: ky-louisville-9
 
@@ -104,7 +104,7 @@ geolocation:
 
 A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
-tags: tear-gas, beat, tackle, protester
+tags: beat, le-lethal, less-lethal, protester, tackle, tear-gas
 
 id: ky-louisville-3
 
@@ -119,7 +119,7 @@ geolocation:
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
-tags: death, body-cam, live-round, pepper-ball, bystander
+tags: body-cam, bystander, death, le-lethal, less-lethal, live-round, pepper-ball
 
 id: ky-louisville-6
 
@@ -145,7 +145,7 @@ After Findley was placed in a squad car, he told police he was a pastor. He was 
 
 The pastor is now suing the Louisville Metropolitan Police Department.
 
-tags: arrest, knee, abuse-of-power
+tags: abuse-of-power, arrest, knee
 
 id: ky-louisville-14
 
@@ -163,7 +163,7 @@ geolocation:
 
 Police fired pepper rounds unprovoked at a group of protesters marching prior to curfew in St. Matthews.
 
-tags: pepper-ball, shoot, protester
+tags: le-lethal, less-lethal, pepper-ball, protester, shoot
 
 id: ky-louisville-7
 
@@ -178,7 +178,7 @@ geolocation:
 
 Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
 
-tags: pepper-ball, shoot, shove, baton, arrest, protester
+tags: arrest, baton, le-lethal, less-lethal, pepper-ball, protester, shoot, shove
 
 id: ky-louisville-11
 
@@ -195,7 +195,7 @@ geolocation:
 
 A guy records a half-dozen policemen dogpiling a protester and then one of them shoots the window to stop him from recording.
 
-tags: rubber-bullet, shoot, tackle, beat, baton, protester
+tags: baton, beat, le-lethal, less-lethal, protester, rubber-bullet, shoot, tackle
 
 id: ky-louisville-10
 
@@ -214,7 +214,7 @@ Louisville police clear protest medics, shoving them and striking them with bato
 
 She alleges that she was held without her meds, which led to a seizure.
 
-tags: medic, baton, beat, shove, strike, arrest, inhumane-treatment, person-with-disability
+tags: arrest, baton, beat, inhumane-treatment, medic, person-with-disability, shove, strike
 
 id: ky-louisville-12
 
@@ -230,7 +230,7 @@ geolocation:
 
 After an incident in which local photographer and protester Tyler Gerth was shot by Steven Lopez, LMPD removed all protesters from Jefferson Square Park. While the park was empty, they removed all protester property including coolers, tents, cooking equipment, speakers, cameras and more. They told protesters they could retrieve the items from 600 Meriwether Ave without mentioning that the items were in a dumpster, having been carried away and compacted by garbage trucks. After public outrage, the mayor offered reimbursement, but only to those who could prove ownership and show receipts of purchase.
 
-tags: protester, property-destruction
+tags: property-destruction, protester
 
 id: ky-louisville-20
 
@@ -248,7 +248,7 @@ A livestreamer known by protesters in the Louisville area was arrested during a 
 
 It should be noted that he is not a credentialed reporter, but is well known by protesters in the area for his even-handed reporting, including his refusal to turn off his camera when protesters requested during a period of vandalism.
 
-tags: journalist, arrest, tackle
+tags: arrest, journalist, tackle
 
 id: ky-louisville-13
 
@@ -268,7 +268,7 @@ A woman filming the incident from her car stepped out and asked someone for thei
 
 Additional footage from a bystander shows the filmer running out of the way of the Bearcat to avoid being hit.
 
-tags: vehicle, arrest, bystander, abuse-of-power
+tags: abuse-of-power, arrest, bystander, vehicle
 
 id: ky-louisville-15
 
@@ -292,7 +292,7 @@ The journalist from MilkyMess TV took 1st person footage of their arrest. Around
 
 An additional livestream from a reporter affiliated with WDRB News shows the incident. Beginning at 3:05:00, police arrive, appear to single out MilkyMess and tackle her to the ground. The reporter asks why she is being arrested. A police officer says, "Trespassing." It should be noted that MilkyMess was on a public sidewalk and numerous other individuals were not arrested. Around 3:11:00, the WDRB reporter walks over to another arrestee. Shortly after, the reporter asks an officer if he should be in the street or sidewalk. The officer tells him he's "gotta go." The reporter crosses to the other side of the street and asks another person if there were arrests. The individual says there was one arrest. This totals 3 arrests for trespassing on a park/public sidewalk out of a group of 30-40 individuals.
 
-tags: journalist, arrest, property-destruction
+tags: arrest, journalist, property-destruction
 
 id: ky-louisville-16
 
@@ -312,7 +312,7 @@ Police are attempting to tow a car and protesters have gathered around in opposi
 
 The filmer also posted a screenshot, alleging that the protester was charged with disorderly conduct, possession of marijuana, inciting a riot, and third degree assault of an officer. Third degree assault is generally classified as the intent to cause serious bodily harm, generally with a deadly weapon. The filmer is a journalist with the Courier Journal and is verified on Twitter, lending some credence to her allegations about the charges.
 
-tags: protester, arrest, knee, abuse-of-power
+tags: abuse-of-power, arrest, knee, protester
 
 id: ky-louisville-17
 
@@ -330,7 +330,7 @@ Footage shows a handful of peaceful protesters on the sidewalk. Shots can be hea
 
 Police alleged that a protester touched an officer's gun.
 
-tags: protester, shoot, projectile
+tags: le-lethal, less-lethal, projectile, protester, shoot
 
 id: ky-louisville-18
 
@@ -347,7 +347,7 @@ geolocation:
 
 Kejohn Jennings was at the rear doors of the Hall of Justice, criticizing officers and asking for their names and badge numbers through an opening in the chained shut doors. An officer approaches (alleged in the lawsuit to be Deputy George Grissom) and pepper-sprayed Mr. Jennings through the opening. Jennings is now suing the Jefferson County Sheriff's Office.
 
-tags: protester, pepper-spray, spray
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: ky-louisville-19
 
@@ -385,7 +385,7 @@ A Fox News report estimates about a dozen arrests during this incident. The repo
 
 The incident may have been initiated when a protester with a shield stopped moving and an officer shoved him. The protester shoved back and a second protester threw a vial of liquid on an officer. Then a noise can be heard and protesters begin to scatter.
 
-tags: protester, bystander, shoot, projectile, pepper-ball, arrest, beat, strike, baton, punch, zip-tie
+tags: arrest, baton, beat, bystander, le-lethal, less-lethal, pepper-ball, projectile, protester, punch, shoot, strike, zip-tie
 
 id: ky-louisville-22
 
@@ -411,7 +411,7 @@ geolocation:
 
 Police push protesters down the sidewalk after declaring unlawful assembly. Protesters are largely compliant, though walking slowly. One officer reaches for a protester for unclear reason. The protester then flees and the officer chases for a moment before stopping. Several protesters are shoved by police. One is grabbed by the shirt. The protester slips out of the shirt and is struck by an officer with a baton. The protester then flees down the street. Police proceeded to arrest numerous protesters in the aftermath.
 
-tags: protester, arrest, push, shove, grab, strike, baton
+tags: arrest, baton, grab, protester, push, shove, strike
 
 id: ky-louisville-23
 
@@ -430,7 +430,7 @@ geolocation:
 
 Police make a series of arrests after an incident. One arrestee is pulled to their feet. The arrestee appears to jerk away from the arresting officers. The officers then trip the protester and bring them to the ground.
 
-tags: protester, kick, arrest, zip-tie
+tags: arrest, kick, protester, zip-tie
 
 id: ky-louisville-24
 
@@ -445,7 +445,7 @@ geolocation:
 
 A protester arrested after an early incident is tripped by police, slamming him to the ground. He is later seen bleeding from the head. Protesters attempt to wash his wound with water and give the arrestee a drink.
 
-tags: protester, kick, arrest, zip-tie
+tags: arrest, kick, protester, zip-tie
 
 id: ky-louisville-25
 
@@ -462,7 +462,7 @@ geolocation:
 
 Following an altercation between protesters and police, an arrestee is held in the air by their limbs while police search their pockets. They are then placed in a police van.
 
-tags: protester, arrest, zip-tie, inhumane-treatment
+tags: arrest, inhumane-treatment, protester, zip-tie
 
 id: ky-louisville-26
 
@@ -478,7 +478,7 @@ geolocation:
 
 Police kettle and arrest protesters en masse. One independent journalist was arrested and two journalists for The Daily Caller, a conservative news network, were arrested. An image from a Daily Caller reporter shows him handcuffed to a chain along with other protesters.
 
-tags: protester, journalist, arrest
+tags: arrest, journalist, protester
 
 id: ky-louisville-27
 
@@ -497,7 +497,7 @@ geolocation:
 
 At a protest on September 24th, police arrested Kentucky State Representative, Attica Scott, the author of Breonna's Law and the only black state representative for Kentucky. She has been charged with first-degree felony rioting, failure to disperse, and unlawful assembly.
 
-tags: arrest, protester, politician
+tags: arrest, politician, protester
 
 id: ky-louisville-28
 
@@ -516,7 +516,7 @@ geolocation:
 
 Police declare an unlawful assembly in Louisville during a protest. Police then immediately throw stun grenades into the crowd without apparent provocation.
 
-tags: stun-grenade, protester
+tags: le-lethal, less-lethal, protester, stun-grenade
 
 id: ky-louisville-29
 

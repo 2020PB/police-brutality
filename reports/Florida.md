@@ -8,7 +8,7 @@ Miami Herald later reports the officer has a history of drawing his weapon and u
 
 A more recent update states that the officer has been charged with battery.
 
-tags: shove, protester
+tags: protester, shove
 
 id: fl-fortlauderdale-1
 
@@ -27,7 +27,7 @@ geolocation:
 
 A line of police officers are standing in front of a building with shields, and protesters can be seen filming them with phones. A shot is heard, and a woman collapses. A news report indicates that she was hit with a foam rubber bullet in her head just above the right eye, fracturing her eye socket.
 
-tags: shoot, rubber-bullet, protester
+tags: le-lethal, less-lethal, protester, rubber-bullet, shoot
 
 id: fl-fortlauderdale-2
 
@@ -44,7 +44,7 @@ geolocation:
 
 Body cam video released by Fort Lauderdale PD on Youtube shows police laughing and joking after shooting protesters with rubber bullets and tear gas. They are speaking candidly to one another because they mistakenly believe their cams are in "standby" mode and not recording. Policing experts who reviewed the footage say that the behavior is unprofessional and that the officers felt "comfortable about talking about turning the camera off." At 2:55, a cop can be heard saying "if you need it, give me a target." The Miami Herald quotes a retired Lieutenant Colonel as commenting, "If you're not seeing a threat, why are you asking for a threat? That would almost lead you to believe that they were indiscriminately firing."
 
-tags: shoot, rubber-bullet, tear-gas, abuse-of-power, body-cam, incitement
+tags: abuse-of-power, body-cam, incitement, le-lethal, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: fl-fortlauderdale-3
 
@@ -64,7 +64,7 @@ A protester in the street can be seen milling about before an officer charges th
 
 Filmer also states that tear gas was used against a peaceful protest.
 
-tags: tackle, arrest, shove, throw, gun, tear-gas, protester
+tags: arrest, gun, le-lethal, less-lethal, protester, shove, tackle, tear-gas, throw
 
 id: fl-jacksonville-1
 
@@ -83,7 +83,7 @@ Police are in a van. A man walking on the sidewalk with another man begins to sp
 
 Miami PD states the man was arrested for breaking the 8pm curfew, but the poster states the arrest occurred around 5:45pm.
 
-tags: tackle, arrest, protester
+tags: arrest, protester, tackle
 
 id: fl-miami-1
 
@@ -102,7 +102,7 @@ In the 9:00 PM round, the filmer can be heard saying, "They're smoke bombs. No, 
 
 Around 9:09 PM, protesters gathered on the highway on-ramp. Police then, without warning, fired another round of tear gas, forcing protesters to flee. The caption states multiple protesters were shot with rubber bullets, but no shots can be heard in this footage.
 
-tags: tear-gas, protester
+tags: le-lethal, less-lethal, protester, tear-gas
 
 id: fl-miami-2
 
@@ -120,7 +120,7 @@ Footage shows police arresting a woman. A man who walked nearby with his hands u
 
 Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protester without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
 
-tags: arrest, shove, abuse-of-power, inhumane-treatment, protester
+tags: abuse-of-power, arrest, inhumane-treatment, protester, shove
 
 id: fl-miami-3
 
@@ -139,7 +139,7 @@ geolocation:
 
 Footage shows a small group of protesters on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protester who attempts to intervene.
 
-tags: arrest, shove, protester, abuse-of-power
+tags: abuse-of-power, arrest, protester, shove
 
 id: fl-miami-4
 
@@ -158,7 +158,7 @@ geolocation:
 
 A group of protesters is exiting the on ramp of I-4 on May 31st. A water bottle is thrown by a protester, landing far from police. Police throw a flashbang. A protester then throws a water bottle, landing near police. On both occasions, the crowd decries the actions of the bottle throwers. Police then deploy tear gas against the protesters.
 
-tags: protester, tear-gas, stun-grenade
+tags: le-lethal, less-lethal, protester, stun-grenade, tear-gas
 
 id: fl-orlando-7
 
@@ -174,7 +174,7 @@ geolocation:
 
 Footage shows police charging at protesters and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protester. Police continue to discharge pepper spray and force away protesters trying to aid victims.
 
-tags: tackle, pepper-spray, spray, protester
+tags: le-lethal, less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-orlando-5
 
@@ -189,7 +189,7 @@ geolocation:
 
 During a protest in Orlando, at the intersection of W South St. and S Division Ave, police tackle a protester and arrest them. The crowd becomes agitated and gathers around. Police pepper spray protesters, including one man in a wheelchair, who then has difficulty leaving the scene. Protesters then rush to aid the man in the wheelchair.
 
-tags: protester, person-with-disability, pepper-spray, spray, tackle, arrest
+tags: arrest, le-lethal, less-lethal, pepper-spray, person-with-disability, protester, spray, tackle
 
 id: or-orlando-8
 
@@ -204,7 +204,7 @@ geolocation:
 
 A police officer grabs a protester from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
 
-tags: tackle, pepper-spray, arrest, shove, spray, protester
+tags: arrest, le-lethal, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: fl-orlando-1
 
@@ -219,7 +219,7 @@ geolocation:
 
 A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protester begs police not to hurt him.
 
-tags: tackle, arrest, knee, protester
+tags: arrest, knee, protester, tackle
 
 id: fl-orlando-3
 
@@ -235,7 +235,7 @@ geolocation:
 
 A woman films a BLM protest in Orlando from a window. Protesters have gather around a police bike line blocking an intersection. Police begin shouting and shove protesters back with their bikes.
 
-tags: bike, shove, protester
+tags: bike, protester, shove
 
 id: fl-orlando-4
 
@@ -252,7 +252,7 @@ Police open fire on protesters outside of city hall with tear gas, flashbangs, a
 
 Additional footage shows the incident was instigated when officers shoved a protester. The protester then fled. Officers tackled another protester on the sidewalk, then began firing riot control rounds.
 
-tags: shoot, tear-gas, stun-grenade, rubber-bullet, shove, push, tackle, protester
+tags: le-lethal, less-lethal, protester, push, rubber-bullet, shoot, shove, stun-grenade, tackle, tear-gas
 
 id: fl-orlando-2
 
@@ -290,7 +290,7 @@ geolocation:
 
 Police declare unlawful assembly on a small, peaceful protest outside of police station a little bit before midnight. The police officer informs that they have 3 to 5 minutes to leave. In less than 3 minutes the police come out of their building and throw explosives at protesters. The explosives appear to be stun grenades.
 
-tags: protester, stun-grenade
+tags: le-lethal, less-lethal, protester, stun-grenade
 
 id: fl-stpetersburg-1
 
@@ -311,7 +311,7 @@ Incidents include firing at peaceful protesters, fleeing protesters and medics.
 
 Video also includes a bleeding eyewitness describing events.
 
-tags: rubber-bullet, shoot, protester
+tags: le-lethal, less-lethal, protester, rubber-bullet, shoot
 
 id: fl-tampa-4
 
@@ -331,7 +331,7 @@ Supercut video from June 5th shows multiple incidents where police sprayed peace
 
 Additional footage shows the isolated incident videos.
 
-tags: pepper-spray, spray, protester
+tags: le-lethal, less-lethal, pepper-spray, protester, spray
 
 id: fl-tampa-3
 
@@ -350,7 +350,7 @@ Police officers are walking down a street. A woman in a purple shirt is pulled t
 
 Additional footage states the woman in a purple shirt is a minor.
 
-tags: child, tackle, shove, throw, knee, knee-on-neck, pepper-spray, spray, tear-gas, protester
+tags: child, knee, knee-on-neck, le-lethal, less-lethal, pepper-spray, protester, shove, spray, tackle, tear-gas, throw
 
 id: fl-tampa-1
 
@@ -370,7 +370,7 @@ geolocation: 27.9563654, -82.4569108
 
 Police fire tear gas at peaceful protesters, while simultaneously ordering protesters to lie down, forcing them to remain in the immediate area.
 
-tags: tear-gas, arrest, protester
+tags: arrest, le-lethal, less-lethal, protester, tear-gas
 
 id: fl-tampa-2
 
@@ -385,7 +385,7 @@ geolocation:
 
 Video shows a medic treating another woman for a bleeding wound to her head. The filmer says the medic is her sister and a nurse; the filmer claims to be an Air Force medic. She states that the injured woman was struck by a less-than-lethal round. At the end of the video, the filmer says, "Here they come." She and her sister hurry to move the injured woman as shots are heard.
 
-tags: shoot, projectile, rubber-bullet, medic
+tags: le-lethal, less-lethal, medic, projectile, rubber-bullet, shoot
 
 id: fl-tampa-6
 
@@ -403,7 +403,7 @@ Footage is short, but it shows protesters chanting near police, asking why anoth
 
 Pepper spray can be heard in the audio.
 
-tags: tackle, strike, knee, arrest, pepper-spray, spray
+tags: arrest, knee, le-lethal, less-lethal, pepper-spray, spray, strike, tackle
 
 id: fl-tampa-7
 
@@ -419,7 +419,7 @@ geolocation:
 
 Shortly after 8 PM on August 12th, an organizer leaving a protest was singled out and arrested for unknown cause. During the arrest an officer knelt on her neck. Other protesters allege she was left without medical care for 20 minutes before being transported to the hospital. As of August 13th, she had not been booked by the Hillsborough County Sheriff's Office.
 
-tags: protester, arrest, knee, knee-on-neck, inhumane-treatment
+tags: arrest, inhumane-treatment, knee, knee-on-neck, protester
 
 id: fl-tampa-8
 
