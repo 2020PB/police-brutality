@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-30T17:45:23.094802+00:00
+UPDATED AT: 2020-09-30T18:30:25.958579+00:00
 
 
 # Alabama
@@ -18,7 +18,7 @@ tags: arrest, journalist, zip-tie
 
 id: al-birmingham-1
 
-geolocation: 
+geolocation: 33.520453, -86.8109093
 
 **Links**
 
@@ -37,7 +37,7 @@ tags: arrest, journalist, racial-profiling, zip-tie
 
 id: al-birmingham-2
 
-geolocation: 
+geolocation: 33.520453, -86.8109093
 
 **Links**
 
@@ -57,7 +57,7 @@ tags: arrest, knee, protester, push, shove, throw
 
 id: al-hoover-1
 
-geolocation: 
+geolocation: 33.385529, -86.805699
 
 **Links**
 
@@ -76,7 +76,7 @@ tags: baton, beat, kick, protester, push, shove
 
 id: al-huntsville-1
 
-geolocation: 
+geolocation: 34.7298523, -86.5854804
 
 **Links**
 
@@ -91,7 +91,7 @@ tags: less-lethal, pepper-spray, protester, spray, threaten
 
 id: al-huntsville-2
 
-geolocation: 
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
@@ -106,7 +106,7 @@ tags: journalist, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: al-huntsville-3
 
-geolocation: 
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
@@ -123,7 +123,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: al-huntsville-4
 
-geolocation: 
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
@@ -144,7 +144,7 @@ tags: less-lethal, protester, rubber-bullet, threaten
 
 id: al-huntsville-5
 
-geolocation: 
+geolocation: 34.7302616, -86.5858014
 
 **Links**
 
