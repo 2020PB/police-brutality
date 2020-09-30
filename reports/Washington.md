@@ -1181,7 +1181,7 @@ geolocation:
 
 Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
 
-tags: bystander, throw, arrest, push, shove, grab
+tags: arrest, bystander, grab, push, shove, throw
 
 id: wa-seattle-71
 

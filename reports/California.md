@@ -10,7 +10,7 @@ tags: less-lethal, lrad, protester
 
 id: ca-beverlyhills-1
 
-geolocation: 34.0768046,-118.4025837
+geolocation: 34.0768046, -118.4025837
 
 **Links**
 
@@ -27,7 +27,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: ca-beverlyhills-2
 
-geolocation: 34.0708678,-118.4045292
+geolocation: 34.0708678, -118.4045292
 
 **Links**
 
@@ -44,7 +44,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: ca-clayton-1
 
-geolocation: 37.9420027,-121.936336
+geolocation: 37.9420027, -121.936336
 
 **Links**
 
@@ -88,7 +88,7 @@ tags: journalist, less-lethal, projectile, protester, rubber-bullet, shoot, tear
 
 id: ca-compton-2
 
-geolocation: 33.894415,-118.2242897
+geolocation: 33.894415, -118.2242897
 
 **Links**
 
@@ -112,13 +112,14 @@ tags: hide-badge
 
 id: ca-costa-mesa-1
 
-geolocation: 33.6637315,-117.9048468
+geolocation: 33.6637315, -117.9048468
 
 **Links**
 
 * https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
 * https://twitter.com/OCSheriff/status/1268274765342490624
 * [ADL article concerning the Three Percenters](https://www.adl.org/resources/glossary-terms/three-percenters)
+
 
 ## Gustine
 
@@ -159,7 +160,7 @@ tags: arrest, inhumane-treatment, protester, threaten
 
 id: ca-hollywood-1
 
-geolocation: 34.1016738,-118.3242721
+geolocation: 34.1016738, -118.3242721
 
 **Links**
 
@@ -176,7 +177,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, shove
 
 id: ca-hollywood-2
 
-geolocation: 34.1016048,-118.3266439
+geolocation: 34.1016048, -118.3266439
 
 **Links**
 
@@ -193,7 +194,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-hungtingtonbeach-1
 
-geolocation: 33.65811,-118.0035402
+geolocation: 33.658110, -118.0035402
 
 **Links**
 
@@ -210,7 +211,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-lamesa-2
 
-geolocation: 32.7668143,-117.0229441
+geolocation: 32.7668143, -117.0229441
 
 **Links**
 
@@ -225,7 +226,7 @@ tags: bean-bag, less-lethal, protester, shoot
 
 id: ca-lamesa-1
 
-geolocation: 32.7668143,-117.0229441
+geolocation: 32.7668143, -117.0229441
 
 **Links**
 
