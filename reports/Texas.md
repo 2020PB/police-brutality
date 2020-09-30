@@ -4,7 +4,7 @@
 
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters. Another protester shouts at an officer from several feet away; the officer immediately discharges pepper spray.
 
-tags: choke, threaten, gun, beat, punch, baton, pepper-spray, spray, protester
+tags: baton, beat, choke, gun, less-lethal, pepper-spray, protester, punch, spray, threaten
 
 id: tx-austin-2
 
@@ -22,7 +22,7 @@ Here, a non-violent protester can be seen standing perfectly still when he is hi
 
 In the aftermath other protesters help the victim who is bleeding from a large head wound. Further reports state the victim was hospitalized
 
-tags: child, shoot, rubber-bullet, bean-bag, protester
+tags: bean-bag, child, less-lethal, protester, rubber-bullet, shoot
 
 id: tx-austin-3
 
@@ -41,7 +41,7 @@ geolocation:
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
 
-tags: threaten, rubber-bullet, bean-bag, tear-gas, shoot, protester
+tags: bean-bag, less-lethal, protester, rubber-bullet, shoot, tear-gas, threaten
 
 id: tx-austin-4
 
@@ -58,7 +58,7 @@ geolocation:
 
 Police were seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters downtown. Current source videos are from a distance of about 100-200 feet and it is unclear what exactly caused the officers to begin firing.
 
-tags: rubber-bullet, shoot, protester
+tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-austin-5
 
@@ -75,7 +75,7 @@ A pregnant woman in Austin states she was sitting during a May 30th protest. As 
 
 Fortunately, the woman did not suffer a miscarriage.
 
-tags: pregnant, bean-bag, shoot, protester
+tags: bean-bag, less-lethal, pregnant, protester, shoot
 
 id: tx-austin-8
 
@@ -93,7 +93,7 @@ In an attempt to clear protesters blocking a road, mounted police began walking 
 
 Charges were filed against the protester for swinging his sign at police. Police say the sign had a wooden stick attached, but footage indicates it was only a piece of cardboard, cardstock, or similar paper material.
 
-tags: horse, shove, pepper-spray, spray, protester
+tags: horse, less-lethal, pepper-spray, protester, shove, spray
 
 id: tx-austin-10
 
@@ -113,7 +113,7 @@ Police continued to fire on the crowd as well as medics attempting to assist the
 
 Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile.
 
-tags: medic, bean-bag, shoot, protester
+tags: bean-bag, less-lethal, medic, protester, shoot
 
 id: tx-austin-1
 
@@ -131,7 +131,7 @@ geolocation:
 
 Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
 
-tags: shoot, rubber-bullet, protester
+tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-austin-6
 
@@ -148,7 +148,7 @@ geolocation:
 
 A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face.
 
-tags: pepper-spray, spray, protester
+tags: less-lethal, pepper-spray, protester, spray
 
 id: tx-austin-7
 
@@ -166,7 +166,7 @@ A protester was shot in the face with a bean bag round on May 31st. She was hosp
 
 Footage in the third link shows the victim seated on the ground with a round stuck in her face. She is responsive and speaking with those around her. Several protest medics attend to her.
 
-tags: shoot, bean-bag, protester
+tags: bean-bag, less-lethal, protester, shoot
 
 id: tx-austin-13
 
@@ -183,7 +183,7 @@ geolocation:
 
 Volunteer medics were advised to bring a critically wounded protester to the police line for medical attention and were subsequently fired upon.
 
-tags: medic, shoot, protester
+tags: medic, protester, shoot
 
 id: tx-austin-9
 
@@ -200,7 +200,7 @@ geolocation:
 
 Footage shows police kicking aside musician's gear. He falls off his stool and is held to the ground. One officer kneels on him. He does not appear to resist at any point. Several protesters can be heard shouting, "Get your knee off his head," but the footage is obscured by the officers.
 
-tags: arrest, shove, property-destruction, knee, knee-on-neck, protester
+tags: arrest, knee, knee-on-neck, property-destruction, protester, shove
 
 id: tx-austin-14
 
@@ -235,7 +235,7 @@ geolocation:
 
 Police detained a protester for allegedly striking a barricade with a skateboard. He is shown behind a police bike line with four officers holding him on the ground. One officer punches him repeatedly.
 
-tags: punch, strike, arrest, knee, protester
+tags: arrest, knee, protester, punch, strike
 
 id: tx-austin-12
 
@@ -252,7 +252,7 @@ Footage shows police approaching a crowd of protesters, singling out livestreame
 
 Additional footage shows Gilberto tackled to the ground, zip-tied and punched.
 
-tags: journalist, punch, zip-tie, tackle, arrest
+tags: arrest, journalist, punch, tackle, zip-tie
 
 id: tx-austin-15
 
@@ -268,7 +268,7 @@ geolocation:
 
 Footage shows police surrounding protesters on the sidewalk. Police use bikes to hem protesters in and shove them. Police also discharge pepper spray at protesters without apparent justification. Police also arrest several protesters on the sidewalk. Some protesters attempt to grab onto the arrestees and are thrown aside by officers.
 
-tags: protester, shove, bike, push, pepper-spray, spray, arrest
+tags: arrest, bike, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: tx-austin-16
 
@@ -286,7 +286,7 @@ geolocation:
 
 Footage shows a small group of mounted officers riding into a group of protesters gathered in the street. The officers use their horses to shove protesters aside. No protesters were trampled underhoof, but the justification for escalation is unclear.
 
-tags: protester, push, shove, horse
+tags: horse, protester, push, shove
 
 id: tx-austin-17
 
@@ -301,7 +301,7 @@ geolocation:
 
 A woman films an officer arresting a protester. A second officer walks by, knocking the phone out of the filmer's hand.
 
-tags: protester, push, shove, property-destruction
+tags: property-destruction, protester, push, shove
 
 id: tx-austin-18
 
@@ -317,7 +317,7 @@ geolocation:
 
 Footage shows police chasing several protesters and throwing them to the ground for arrest. One protester stands up and is dragged from the sidewalk to the street by an officer. A news outlet has stated that all arrests at this protest were for class B and C misdemeanors, like obstructing a highway.
 
-tags: protester, tackle, throw, grab, arrest
+tags: arrest, grab, protester, tackle, throw
 
 id: tx-austin-19
 
@@ -335,7 +335,7 @@ geolocation:
 
 Cop in Baytown Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
 
-tags: tackle, arrest, knee, protester
+tags: arrest, knee, protester, tackle
 
 id: tx-baytown-1
 
@@ -353,7 +353,7 @@ geolocation:
 
 A woman who says she was simply walking home with groceries was shot in the face with a rubber bullet by Dallas police. She was seen bleeding profusely and some officers attempted to help her immediately afterwards.
 
-tags: shoot, rubber-bullet, bystander
+tags: bystander, less-lethal, rubber-bullet, shoot
 
 id: tx-dallas-1
 
@@ -370,7 +370,7 @@ geolocation:
 
 Man at the protests had been shot in the eye by officers.
 
-tags: shoot, projectile, protester
+tags: less-lethal, projectile, protester, shoot
 
 id: tx-dallas-4
 
@@ -389,7 +389,7 @@ The first-person video shows an individual running away from what seem to be lou
 
 Additional footage shows a protest in the same vicinity. Police sound a siren and protesters begin to back away. Police then begin releasing tear gas.
 
-tags: stun-grenade, tear-gas, protester
+tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: tx-dallas-2
 
@@ -406,7 +406,7 @@ geolocation:
 
 Without warning, police shoot protester with rubber bullet. Protester falls limp to the ground. Later image shows the protester helped to their feet and able to walk away
 
-tags: shoot, rubber-bullet, protester
+tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-dallas-5
 
@@ -422,7 +422,7 @@ geolocation:
 
 On June 2nd, protesters are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
 
-tags: shoot, rubber-bullet, tear-gas, protester
+tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: tx-dallas-3
 
@@ -440,7 +440,7 @@ geolocation:
 
 Police fire teargas cannisters into peaceful crowd of unarmed protesters.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
 
-tags: tear-gas-canister, projectile, protester
+tags: less-lethal, projectile, protester, tear-gas-canister
 
 id: tx-elpaso-1
 
@@ -473,7 +473,7 @@ geolocation:
 
 A large group of police officers were walking down the street when a woman standing near them was forcefully shoved to the ground by a police officer.
 
-tags: shove, push, protester
+tags: protester, push, shove
 
 id: tx-houston-2
 
@@ -488,7 +488,7 @@ geolocation:
 
 A protester is filming and asking "why?", referring to protesters being arrested. An officer then pushs the protester that is filming, knocking the camera to the ground.
 
-tags: shove, push, property-destruction, arrest, protester
+tags: arrest, property-destruction, protester, push, shove
 
 id: tx-houston-3
 
@@ -503,7 +503,7 @@ geolocation:
 
 Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
 
-tags: baton, pepper-spray, punch, protester
+tags: baton, less-lethal, pepper-spray, protester, punch
 
 id: tx-houston-4
 
@@ -518,7 +518,7 @@ geolocation:
 
 Footage from an extended stream shows police and protesters facing off on the sidewalk. Protesters are standing still several feet away from police. On multiple occasions, several officers push from the police line, seize protesters without warning and drag them behind police lines for arrest. Only after several minutes does an officer emerge to explain that protesters will be arrested. After this, protesters comply without resistance.
 
-tags: protester, arrest, grab, shove, push
+tags: arrest, grab, protester, push, shove
 
 id: tx-houston-5
 
@@ -535,7 +535,7 @@ geolocation:
 
 Police deploy tear gas against protesters after drunk driver ran into oncoming traffic, knocking over a woman and child. Police arrested the driver. Police said some protesters thought police were arresting a protester and attempted to intervene; the Lewisville mayor stated that police deployed tear gas because protesters were blocking a road. Police then deployed tear gas against the crowd and arrested 9 protesters. After tear gas was deployed, police allege that protesters threw bottles at officers.
 
-tags: protester, arrest, tear-gas
+tags: arrest, less-lethal, protester, tear-gas
 
 id: tx-lewisville-1
 
@@ -553,7 +553,7 @@ geolocation:
 
 A man was filming police walking down the street and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
 
-tags: shoot, rubber-bullet, protester
+tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-sanantonio-1
 
@@ -570,7 +570,7 @@ geolocation:
 
 Police are protesters are gathered several feet apart. Between the two lines, a protester is seen telling other protesters to put their hands up. Police then fire as protesters scatter.
 
-tags: shoot, projectile, protester
+tags: less-lethal, projectile, protester, shoot
 
 id: tx-sanantonio-2
 

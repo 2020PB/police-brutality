@@ -22,7 +22,7 @@ geolocation:
 
 News footage shows a civilian car after a collision with a police APC. The driver states that she was hit while driving through a green light by an APC without sirens.
 
-tags: drive, vehicle, property-destruction, bystander
+tags: bystander, drive, property-destruction, vehicle
 
 id: sc-charleston-2
 
@@ -41,7 +41,7 @@ Footage shows violence during the arrest of a protester as 3 police officers wea
 
 Police charged him with disobeying a lawful order and resisting arrest.
 
-tags: arrest, shove, strike, beat, tackle, hide-badge, protester
+tags: arrest, beat, hide-badge, protester, shove, strike, tackle
 
 id: sc-charleston-3
 

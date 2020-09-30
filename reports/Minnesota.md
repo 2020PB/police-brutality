@@ -4,7 +4,7 @@
 
 A group of cops start to approach a group of press taking photos and video. One press member repeats "we have our hands up and we have press passes". An officer walking by points in the direction of a photographer and says something indiscernable. The camera pans to show a cop hitting the photographer in the neck and head with a wooden baton.
 
-tags: journalist, baton, beat, strike
+tags: baton, beat, journalist, strike
 
 id: mn-minneapolis-21
 
@@ -35,7 +35,7 @@ geolocation:
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
-tags: stun-grenade, rubber-bullet, tear-gas, protester
+tags: less-lethal, protester, rubber-bullet, stun-grenade, tear-gas
 
 id: mn-minneapolis-14
 
@@ -51,7 +51,7 @@ geolocation:
 
 Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
-tags: journalist, spray, pepper-spray
+tags: journalist, less-lethal, pepper-spray, spray
 
 id: mn-minneapolis-1
 
@@ -69,7 +69,7 @@ geolocation:
 
 The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
 
-tags: shoot, rubber-bullet, tear-gas, bystander
+tags: bystander, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mn-minneapolis-20
 
@@ -84,7 +84,7 @@ geolocation:
 
 While sitting in their cars, the policemen proceed to pepper spray the protesters in a drive-by fashion
 
-tags: drive, vehicle, pepper-spray, spray, protester
+tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-3
 
@@ -100,7 +100,7 @@ geolocation:
 
 Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them information on where to relocate.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: mn-minneapolis-4
 
@@ -117,7 +117,7 @@ While trying to capture footage of the police tear-gassing a crowd of people, To
 
 Additional footage shows police fired on the press crew as well.
 
-tags: arrest, baton, journalist, projectile, shoot, shove
+tags: arrest, baton, journalist, less-lethal, projectile, shoot, shove
 
 id: mn-minneapolis-5
 
@@ -133,7 +133,7 @@ geolocation:
 
 CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
 
-tags: journalist, rubber-bullet, tear-gas, shoot
+tags: journalist, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mn-minneapolis-15
 
@@ -148,7 +148,7 @@ geolocation:
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
-tags: journalist, rubber-bullet, shoot
+tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-16
 
@@ -229,7 +229,7 @@ geolocation:
 
 In an attempt to move residents inside, the police fire shots at them.
 
-tags: shoot, pepper-ball, bystander
+tags: bystander, less-lethal, pepper-ball, shoot
 
 id: mn-minneapolis-2
 
@@ -244,7 +244,7 @@ geolocation:
 
 The woman proceeds to tell the story of what she faced while trying to get footage.
 
-tags: shoot, tear-gas, journalist
+tags: journalist, less-lethal, shoot, tear-gas
 
 id: mn-minneapolis-6
 
@@ -261,7 +261,7 @@ geolocation:
 
 Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger window with a marker round, and that he was cut by shards of glass. Videos show his face and arm bloodied, the passenger window of his car shattered, and glass spread over the floorboard and carseats. He says that he was driving away from a roadblock at the time.
 
-tags: marking-round, property-destruction, shoot, journalist
+tags: journalist, less-lethal, marking-round, property-destruction, shoot
 
 id: mn-minneapolis-7
 
@@ -300,7 +300,7 @@ geolocation:
 
 While filming, Mike George's CBS news crew is shot with rubber bullets.
 
-tags: journalist, rubber-bullet, shoot
+tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-9
 
@@ -316,7 +316,7 @@ geolocation:
 
 MSNBC reporters are with a crowd of people walking away from an advancing line of police. Police throw some sort of explosive device at the crowd, almost hitting the reporters. It is unclear what their purpose is in using the explosive
 
-tags: journalist, stun-grenade, explosive, projectile
+tags: explosive, journalist, less-lethal, projectile, stun-grenade
 
 id: mn-minneapolis-10
 
@@ -333,7 +333,7 @@ The picture shows the reporter's eye has been damaged, and potentially blinded.
 
 Journalist updated that she was permanently blinded in her left eye and her doctor has stated she cannot work for at least 6 weeks.
 
-tags: journalist, rubber-bullet, shoot
+tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-11
 
@@ -350,7 +350,7 @@ geolocation:
 
 The article given below shows that the Reuters crew was hit with rubber bullets
 
-tags: journalist, rubber-bullet, shoot
+tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-12
 
@@ -365,7 +365,7 @@ geolocation:
 
 German reporter for DW News is shot at by Minneapolis police, who then threaten to arrest him.
 
-tags: journalist, rubber-bullet, shoot, threaten, arrest
+tags: arrest, journalist, less-lethal, rubber-bullet, shoot, threaten
 
 id: mn-minneapolis-13
 
@@ -380,7 +380,7 @@ geolocation:
 
 Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
-tags: vehicle, drive, spray, pepper-spray, protester
+tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-17
 
@@ -395,7 +395,7 @@ geolocation:
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
-tags: medic, rubber-bullet, shoot
+tags: less-lethal, medic, rubber-bullet, shoot
 
 id: mn-minneapolis-18
 
@@ -410,7 +410,7 @@ geolocation:
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
 
-tags: journalist, pepper-spray, baton, beat, tear-gas, shoot, projectile, spray
+tags: baton, beat, journalist, less-lethal, pepper-spray, projectile, shoot, spray, tear-gas
 
 id: mn-minneapolis-19
 
@@ -442,7 +442,7 @@ geolocation:
 
 A protester and an officer exchange words at close distance. The officer then pepper sprays the protester.
 
-tags: protester, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: mn-minneapolis-31
 
@@ -457,7 +457,7 @@ geolocation:
 
 A protester says something to an officer in Minneapolis. The officer says, "What was that? You're becoming a problem." The protester runs away and the officer fires his riot gun at the protester.
 
-tags: protester, shoot, projectile
+tags: less-lethal, projectile, protester, shoot
 
 id: mn-minneapolis-32
 

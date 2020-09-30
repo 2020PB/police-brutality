@@ -34,7 +34,13 @@ def test_fix_common_misspellings(given_text: str, given_misspellings_dict: Dict[
             ["protesters", "banana", "tear-gas", "rubbers-bullets"],
             {"protester", "banana", "tear-gas", "rubber-bullet"},
             {},
-            "protester, banana, tear-gas, rubber-bullet",
+            "banana, less-lethal, protester, rubber-bullet, tear-gas",
+        ),
+        (
+            ["protesters", "banana", "tear-gas", "rubbers-bullets", "less-lethal"],
+            {"protester", "banana", "tear-gas", "rubber-bullet", "less-lethal"},
+            {"le-lethal": "less-lethal"},
+            "banana, less-lethal, protester, rubber-bullet, tear-gas",
         ),
     ],
 )

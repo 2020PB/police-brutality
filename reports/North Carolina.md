@@ -4,7 +4,7 @@
 
 According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protesters attempted to shield them from harm.
 
-tags: child, tear-gas, rubber-bullet, shoot, protester
+tags: child, less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: nc-asheville-2
 
@@ -42,7 +42,7 @@ geolocation:
 
 A man was shot in the head at close range with a pepper ball. Footage was uploaded on June 9th, but date of incident is unknown.
 
-tags: pepper-ball, shoot, protester
+tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-asheville-3
 
@@ -64,7 +64,7 @@ They were held in a cell for several hours, in and out of cuffs. Several police 
 
 Images taken after release show significant bruising on one of the journalist's arms.
 
-tags: journalist, arrest, inhumane-treatment, zip-tie
+tags: arrest, inhumane-treatment, journalist, zip-tie
 
 id: nc-asheville-4
 
@@ -89,7 +89,7 @@ Jeff Jackson, an NC State senator whose district contains the Uptown Charlotte a
 
 Body cam footage released several months later shows police coordinating the kettling and tear gassing.
 
-tags: tear-gas, tear-gas-canister, pepper-ball, stun-grenade, protester
+tags: less-lethal, pepper-ball, protester, stun-grenade, tear-gas, tear-gas-canister
 
 id: nc-charlotte-1
 
@@ -112,7 +112,7 @@ Video shows numerous police officers charging an individual, before throwing the
 
 Protesters identified this individual as a representative from The Bail Project who was slated to speak at a protest later that day.
 
-tags: arrest, knee, shove, throw, inhumane-treatment, protester
+tags: arrest, inhumane-treatment, knee, protester, shove, throw
 
 id: nc-charlotte-2
 
@@ -130,7 +130,7 @@ The Mecklenburg Sheriff's department declared a jail support site unlawful. The 
 
 Jail support providers refused to leave, so police began making mass arrests. During arrests, people were thrown from bikes, shoved and knelt on to zip tie. In addition, a reporter filming was struck by an officer and threatened with arrest.
 
-tags: arrest, knee, shove, throw, bike, medic, journalist, strike, threaten, protester, medic, zip-tie
+tags: arrest, bike, journalist, knee, medic, protester, shove, strike, threaten, throw, zip-tie
 
 id: nc-charlotte-3
 
@@ -145,7 +145,7 @@ geolocation:
 
 Police separated groups of Back the Blue and Defund the Police protesters. Police shoved Defund the Police protesters backwards with their bikes. Protesters then shove a police officer's bike back. The officer then discharges pepper spray at numerous protesters.
 
-tags: protester, shove, bike, pepper-spray, spray
+tags: bike, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-4
 
@@ -160,7 +160,7 @@ geolocation:
 
 At a protest outside the Republican National Convention in Charlotte, NC, police used bikes to shove protesters and pepper sprayed others. A journalist filming the scene was caught in the pepper spray.
 
-tags: protester, journalist, shove, bike, pepper-spray, spray
+tags: bike, journalist, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-5
 
@@ -176,7 +176,7 @@ geolocation:
 
 Police talk to a protester walking by their line. The protester steps forward and is held back by police. The protester then talks to another officer. That officer then grabs the protester without warning and arrests them.
 
-tags: protester, arrest
+tags: arrest, protester
 
 id: nc-charlotte-6
 
@@ -191,7 +191,7 @@ geolocation:
 
 At an RNC protest in Charlotte, NC, police kettled protesters at College and 4th Streets shortly after midnight. Police then begin shouting "Move" and pepper spray protesters.
 
-tags: protester, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: nc-charlotte-7
 
@@ -210,7 +210,7 @@ One individual beaten by police was taken away on a stretcher.
 
 In addition, Charlotte city councilman Braxton Winston was pepper sprayed during this incident.
 
-tags: protester, bike, pepper-spray, spray, push, shove, politician
+tags: bike, less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: nc-charlotte-8
 
@@ -232,7 +232,7 @@ Activists gathered for Jail Support in Charlotte, NC, offering food, water and o
 
 Activists were charged with misdemeanor failure to disperse. This charge is only valid, according to NC law, if officers believe a riot or disorderly conduct is imminent. There appeared to be no such threat.
 
-tags: protester, arrest, abuse-of-power
+tags: abuse-of-power, arrest, protester
 
 id: nc-charlotte-9
 
@@ -259,7 +259,7 @@ Footage shows militarized police with long guns carrying live ammo running up on
 
 According to the senior editor of the Triad City Beat, an NC news outlet, police arrested these protesters after an alleged dispute between BLM protesters and an older white couple, in which the couple allegedly pulled a gun and knife on protesters. According to the reporter, only protesters were charged with any offenses.
 
-tags: abuse-of-power, threaten, arrest, gun
+tags: abuse-of-power, arrest, gun, threaten
 
 id: nc-gastonia-1
 
@@ -278,7 +278,7 @@ geolocation:
 
 Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protesters surprised at the escalation and turning to flee, as well as multiple protesters hit directly by projectiles. In addition, the article claims police targeted both protesters and journalists with rubber bullets. The escalation did then incite some protesters to return fire with rocks, fireworks, and police tear gas canisters.
 
-tags: tear-gas, tear-gas-canister, journalist, rubber-bullet, protester
+tags: journalist, less-lethal, protester, rubber-bullet, tear-gas, tear-gas-canister
 
 id: nc-raleigh-2
 
@@ -297,7 +297,7 @@ Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful prote
 
 Police later justified the use of force by stating that protesters were blocking the path of an EMS vehicle, although no vehicle can be seen in the footage.
 
-tags: tear-gas, tear-gas-canister, protester
+tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-raleigh-4
 
@@ -314,7 +314,7 @@ geolocation:
 
 Police fire repeatedly at man who is attempting to leave the protest with his hands up. After shooting several times, an officer runs up and strikes the man in the back of the head and throw him to the ground to make an arrest. Tear gas begins to fill the road as officers arrest him.
 
-tags: tear-gas, shoot, rubber-bullet, strike, beat, arrest, throw, shove, protester
+tags: arrest, beat, less-lethal, protester, rubber-bullet, shoot, shove, strike, tear-gas, throw
 
 id: nc-raleigh-5
 
@@ -330,7 +330,7 @@ geolocation:
 
 Police fire tear gas at protesters throughout protests on May 31st. Footage show police firing into a crowd.
 
-tags: tear-gas, protester
+tags: less-lethal, protester, tear-gas
 
 id: nc-raleigh-6
 
@@ -346,7 +346,7 @@ geolocation:
 
 Footage shows a crowd protesting in place with hands up. Shots are heard and a protester runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
 
-tags: pepper-ball, shoot, protester
+tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-raleigh-7
 
@@ -362,7 +362,7 @@ geolocation:
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protester himself, but had been handing out refreshments to protesters. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
-tags: threaten, projectile, bystander
+tags: bystander, less-lethal, projectile, threaten
 
 id: nc-raleigh-1
 
@@ -383,7 +383,7 @@ In the early hours of the morning on June 5th, men in black, without visible bad
 
 Police scanner audio shows that Raleigh police officers were following him during protests later that day.
 
-tags: threaten, arrest, hide-badge, protester
+tags: arrest, hide-badge, protester, threaten
 
 id: nc-raleigh-3
 
@@ -404,7 +404,7 @@ One of the arrestees was a minor and charges were not filed against them. Police
 
 Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protester was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
 
-tags: shove, push, arrest, child, protester
+tags: arrest, child, protester, push, shove
 
 id: nc-raleigh-8
 
@@ -423,7 +423,7 @@ geolocation:
 
 Police feign a show of support by kneeling and draw protesters closer. After protesters kneel, police begin firing tear gas rounds.
 
-tags: tear-gas, tear-gas-canister, protester
+tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-wilmington-1
 

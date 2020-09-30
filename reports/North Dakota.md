@@ -23,7 +23,7 @@ geolocation:
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
 
-tags: racial-profiling, arrest, shove, push, protester
+tags: arrest, protester, push, racial-profiling, shove
 
 id: nd-fargo-1
 
