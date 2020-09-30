@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-29T22:10:59.261854+00:00
+UPDATED AT: 2020-09-30T00:43:13.101357+00:00
 
 
 # Alabama
@@ -16372,6 +16372,83 @@ geolocation:
 **Links**
 
 * https://twitter.com/KohzKah/status/1310144506457518081
+
+
+### Police pepper spray protester while confiscating sign | September 28th
+
+Police are seen attempting to take a sign from a protester. The protester refuses to give it to them. Other protesters argue with officers; one officer pepper sprays a protester. Police continue to grapple with the protester over the sign. One officer then pepper sprays the protester, causing him to release the sign. He is then arrested.
+
+tags: protester, pepper-spray, spray, arrest
+
+id: or-portland-379
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1310806057308971009
+
+
+### Police shove protester in street | September 28th
+
+A protester is seen standing in the street while police give a dispersal order. One officer shoves the protester to the ground. The protester is then pushed off towards the sidewalk as she refuses to move.
+
+tags: protester, push, shove
+
+id: or-portland-380
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/Cascadianphotog/status/1310843546249752576
+* https://twitter.com/MrOlmos/status/1310844887734972418
+
+
+### Police tackle and pepper spray protester during arrest | September 28th
+
+During an extended altercation outside a 7-11, during which police make several targeted arrests, police tackle a protester to the ground for arrest. One officer maces the protester as they are being brought down.
+
+tags: protester, tackle, arrest, pepper-spray, spray
+
+id: or-portland-381
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1310843395586142208
+* https://twitter.com/MrOlmos/status/1310843613220282369
+
+
+### Police assault and arrest motorcylce driver | September 28th
+
+Police knock a motorist driving through an intersection off their motorcycle and arrest them. The driver did not appear to be affiliated with protests.
+
+tags: bystander, tackle, arrest
+
+id: or-portland-382
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1310861974943617024
+
+
+### Police shove protesters and press, kick journalist's camera | September 28th
+
+Police shove press and protesters down the street after declaring unlawful assembly. The filmer, a journalist, is caught in the crowd and struck by a police officer with a baton. The filmer drops his camera, which is then stepped on and kicked by police.
+
+tags: protester, journalist, push, shove, baton, strike, property-destruction
+
+id: or-portland-383
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/andrewkimmel/status/1310786746615963648
 
 
 ## Salem
