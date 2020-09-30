@@ -79,7 +79,7 @@ geolocation:
 
 Police officer exits his vehicle and begins pepper spraying protesters for no apparent reason.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray, threaten
+tags: less-lethal, pepper-spray, protester, spray, threaten
 
 id: al-huntsville-2
 
@@ -94,7 +94,7 @@ geolocation:
 
 Police use tear gas on reporters and protesters, who are then initially blocked from leaving the area by other officers.
 
-tags: journalist, le-lethal, less-lethal, protester, tear-gas, tear-gas-canister
+tags: journalist, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: al-huntsville-3
 
@@ -111,7 +111,7 @@ A Huntsville PD Lieutenant stated that they used tear gas on protesters before v
 
 Footage taken of a protester in a garage after shows bruises consistent with rubber bullet rounds. Another image shows a bloody wound allegedly caused by a rubber bullet.
 
-tags: le-lethal, less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
+tags: less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: al-huntsville-4
 
@@ -132,7 +132,7 @@ After disperse order is given, protesters comply and begin to back away from the
 
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
 
-tags: le-lethal, less-lethal, protester, rubber-bullet, threaten
+tags: less-lethal, protester, rubber-bullet, threaten
 
 id: al-huntsville-5
 

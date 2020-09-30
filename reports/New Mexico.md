@@ -4,7 +4,7 @@
 
 Police deployed tear gas and foam bullets against protesters. One student journalist was struck by a ricocheting foam bullet.
 
-tags: foam-bullet, journalist, le-lethal, less-lethal, protester, shoot, tear-gas
+tags: foam-bullet, journalist, less-lethal, protester, shoot, tear-gas
 
 id: nm-albuquerque-1
 

@@ -4,7 +4,7 @@
 
 Person standing with hands up struck in chest by projectile; a second projectile is fired shortly after person is struck by the first.
 
-tags: le-lethal, less-lethal, projectile, protester, shoot
+tags: less-lethal, projectile, protester, shoot
 
 id: ok-oklahomacity-1
 
@@ -19,7 +19,7 @@ geolocation:
 
 Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protesters that are standing.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: ok-oklahomacity-2
 
@@ -54,7 +54,7 @@ geolocation:
 
 When Tulsa Police opened fire on peaceful protesters, reporters for Tulsa's channel 8 were struck by pepper balls while reporting live. Reporter also stated that police threw a flashbang, and tear gas can be seen in the background.
 
-tags: journalist, le-lethal, less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
+tags: journalist, less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
 
 id: ok-tulsa-1
 

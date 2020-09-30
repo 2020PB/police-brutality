@@ -4,7 +4,7 @@
 
 According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protesters attempted to shield them from harm.
 
-tags: child, le-lethal, less-lethal, protester, rubber-bullet, shoot, tear-gas
+tags: child, less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: nc-asheville-2
 
@@ -42,7 +42,7 @@ geolocation:
 
 A man was shot in the head at close range with a pepper ball. Footage was uploaded on June 9th, but date of incident is unknown.
 
-tags: le-lethal, less-lethal, pepper-ball, protester, shoot
+tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-asheville-3
 
@@ -89,7 +89,7 @@ Jeff Jackson, an NC State senator whose district contains the Uptown Charlotte a
 
 Body cam footage released several months later shows police coordinating the kettling and tear gassing.
 
-tags: le-lethal, less-lethal, pepper-ball, protester, stun-grenade, tear-gas, tear-gas-canister
+tags: less-lethal, pepper-ball, protester, stun-grenade, tear-gas, tear-gas-canister
 
 id: nc-charlotte-1
 
@@ -145,7 +145,7 @@ geolocation:
 
 Police separated groups of Back the Blue and Defund the Police protesters. Police shoved Defund the Police protesters backwards with their bikes. Protesters then shove a police officer's bike back. The officer then discharges pepper spray at numerous protesters.
 
-tags: bike, le-lethal, less-lethal, pepper-spray, protester, shove, spray
+tags: bike, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-4
 
@@ -160,7 +160,7 @@ geolocation:
 
 At a protest outside the Republican National Convention in Charlotte, NC, police used bikes to shove protesters and pepper sprayed others. A journalist filming the scene was caught in the pepper spray.
 
-tags: bike, journalist, le-lethal, less-lethal, pepper-spray, protester, shove, spray
+tags: bike, journalist, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-5
 
@@ -191,7 +191,7 @@ geolocation:
 
 At an RNC protest in Charlotte, NC, police kettled protesters at College and 4th Streets shortly after midnight. Police then begin shouting "Move" and pepper spray protesters.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: nc-charlotte-7
 
@@ -210,7 +210,7 @@ One individual beaten by police was taken away on a stretcher.
 
 In addition, Charlotte city councilman Braxton Winston was pepper sprayed during this incident.
 
-tags: bike, le-lethal, less-lethal, pepper-spray, politician, protester, push, shove, spray
+tags: bike, less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: nc-charlotte-8
 
@@ -278,7 +278,7 @@ geolocation:
 
 Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protesters surprised at the escalation and turning to flee, as well as multiple protesters hit directly by projectiles. In addition, the article claims police targeted both protesters and journalists with rubber bullets. The escalation did then incite some protesters to return fire with rocks, fireworks, and police tear gas canisters.
 
-tags: journalist, le-lethal, less-lethal, protester, rubber-bullet, tear-gas, tear-gas-canister
+tags: journalist, less-lethal, protester, rubber-bullet, tear-gas, tear-gas-canister
 
 id: nc-raleigh-2
 
@@ -297,7 +297,7 @@ Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful prote
 
 Police later justified the use of force by stating that protesters were blocking the path of an EMS vehicle, although no vehicle can be seen in the footage.
 
-tags: le-lethal, less-lethal, protester, tear-gas, tear-gas-canister
+tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-raleigh-4
 
@@ -314,7 +314,7 @@ geolocation:
 
 Police fire repeatedly at man who is attempting to leave the protest with his hands up. After shooting several times, an officer runs up and strikes the man in the back of the head and throw him to the ground to make an arrest. Tear gas begins to fill the road as officers arrest him.
 
-tags: arrest, beat, le-lethal, less-lethal, protester, rubber-bullet, shoot, shove, strike, tear-gas, throw
+tags: arrest, beat, less-lethal, protester, rubber-bullet, shoot, shove, strike, tear-gas, throw
 
 id: nc-raleigh-5
 
@@ -330,7 +330,7 @@ geolocation:
 
 Police fire tear gas at protesters throughout protests on May 31st. Footage show police firing into a crowd.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: nc-raleigh-6
 
@@ -346,7 +346,7 @@ geolocation:
 
 Footage shows a crowd protesting in place with hands up. Shots are heard and a protester runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
 
-tags: le-lethal, less-lethal, pepper-ball, protester, shoot
+tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-raleigh-7
 
@@ -362,7 +362,7 @@ geolocation:
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protester himself, but had been handing out refreshments to protesters. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
-tags: bystander, le-lethal, less-lethal, projectile, threaten
+tags: bystander, less-lethal, projectile, threaten
 
 id: nc-raleigh-1
 
@@ -423,7 +423,7 @@ geolocation:
 
 Police feign a show of support by kneeling and draw protesters closer. After protesters kneel, police begin firing tear gas rounds.
 
-tags: le-lethal, less-lethal, protester, tear-gas, tear-gas-canister
+tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-wilmington-1
 

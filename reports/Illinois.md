@@ -19,7 +19,7 @@ geolocation:
 
 Police pepper-spray reporter holding press pass and yelling press.
 
-tags: journalist, le-lethal, less-lethal, pepper-spray, spray
+tags: journalist, less-lethal, pepper-spray, spray
 
 id: il-chicago-5
 
@@ -239,7 +239,7 @@ geolocation:
 
 Footage shows a series of violent arrests and altercations between police and protesters. Police tackle, shove, strike and pepper spray protesters indiscriminately. Protesters are also struck with batons. One use states that police allegedly hit press during this series of events.
 
-tags: arrest, baton, le-lethal, less-lethal, pepper-spray, protester, push, shove, spray, strike, tackle
+tags: arrest, baton, less-lethal, pepper-spray, protester, push, shove, spray, strike, tackle
 
 id: il-chicago-16
 
@@ -302,7 +302,7 @@ geolocation:
 
 Footage uploaded on July 19th shows an officer standing some distance from protesters. He discharges pepper spray in the general direction of the protesters.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-20
 
@@ -347,7 +347,7 @@ geolocation:
 
 Police charge into a crowd of protesters. One protester falls and police surround them. Other protesters attempt to help the protester up and are pepper sprayed.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, push, shove, spray
+tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: il-chicago-23
 
@@ -396,7 +396,7 @@ Police and protesters face off. Police rip umbrellas away from protesters. Polic
 
 An alternate angle provided by the Chicago Police Department, shows police initiating violence in the top left of the video at 0:52.
 
-tags: baton, le-lethal, less-lethal, pepper-spray, property-destruction, protester, push, shove, spray, strike
+tags: baton, less-lethal, pepper-spray, property-destruction, protester, push, shove, spray, strike
 
 id: il-chicago-26
 
@@ -416,7 +416,7 @@ geolocation:
 
 Footage shows protesters moving away from police. Officer discharge pepper spray at them.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-27
 
@@ -432,7 +432,7 @@ geolocation:
 
 While clearing protesters from the street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-28
 
@@ -522,7 +522,7 @@ geolocation:
 
 Police arrest, pepper spray, and tear gas BLM protesters who blocked the road in counter-protest to a Back the Blue event. No indication has been given that protesters were violent in any way.
 
-tags: arrest, le-lethal, less-lethal, pepper-spray, protester, spray, tear-gas
+tags: arrest, less-lethal, pepper-spray, protester, spray, tear-gas
 
 id: il-rockford-2
 

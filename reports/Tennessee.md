@@ -12,7 +12,7 @@ The fourth clip shows protesters attempt to recover their belongings while polic
 
 An article from the Chattanoogan states Sheriffs threw the tear gas, not Chattanooga police.
 
-tags: arrest, le-lethal, less-lethal, protester, tear-gas
+tags: arrest, less-lethal, protester, tear-gas
 
 id: tn-chattanooga-1
 
@@ -50,7 +50,7 @@ geolocation:
 
 Police fire tear gas at a small group of peaceful protesters by the entrance to MTSU in Murfree. Police claim protesters were blocking traffic, which additional footage supports. However, the video in question shows continual deployment of tear gas after protesters moved off the road.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: tn-murfreesboro-1
 

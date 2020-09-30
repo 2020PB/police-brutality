@@ -50,7 +50,7 @@ geolocation:
 
 Detroit Police pepper-spray a reporter in the face while he holds up a media badge.
 
-tags: journalist, le-lethal, less-lethal, pepper-spray, spray
+tags: journalist, less-lethal, pepper-spray, spray
 
 id: mi-detroit-2
 
@@ -67,7 +67,7 @@ geolocation:
 
 Police tear-gassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
 
-tags: journalist, le-lethal, less-lethal, rubber-bullet, shoot, tear-gas
+tags: journalist, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mi-detroit-3
 
@@ -120,7 +120,7 @@ The footage becomes blurry as it appears that police strike the reporter, who re
 
 The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted.
 
-tags: beat, journalist, le-lethal, less-lethal, pepper-spray, property-destruction, protester, punch, shield, spray, strike
+tags: beat, journalist, less-lethal, pepper-spray, property-destruction, protester, punch, shield, spray, strike
 
 id: mi-detroit-7
 
@@ -140,7 +140,7 @@ The use of LRADs is a subject of much contention, with frequent reports of perma
 
 The ACLU's [position](https://www.aclu.org/fact-sheet/acoustic-weapons-fact-sheet) is that due to the high risk of damage and lack of research on lasting effects, LRADs should not be deployed to disperse protests.
 
-tags: lrad, protester
+tags: less-lethal, lrad, protester
 
 id: mi-detroit-8
 
@@ -170,7 +170,7 @@ geolocation:
 
 A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protesters were dispersed using shields and batons. Protesters retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
-tags: arrest, baton, choke, le-lethal, less-lethal, protester, shield, tear-gas, tear-gas-canister
+tags: arrest, baton, choke, less-lethal, protester, shield, tear-gas, tear-gas-canister
 
 id: mi-detroit-10
 
@@ -186,7 +186,7 @@ geolocation:
 
 Police and protesters faced off at a protest in Detroit, Michigan around midnight on August 22nd. Police deployed gas grenades, believed to be tear gas, and marched towards protesters. Police then struck protesters with batons and shields, arresting several.
 
-tags: arrest, baton, le-lethal, less-lethal, protester, shield, strike, tear-gas
+tags: arrest, baton, less-lethal, protester, shield, strike, tear-gas
 
 id: mi-detroit-12
 
@@ -225,7 +225,7 @@ geolocation:
 
 A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a tear-gas canister is shot by a different officer directly into the man's head.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, shoot, spray, tear-gas, tear-gas-canister
+tags: less-lethal, pepper-spray, protester, shoot, spray, tear-gas, tear-gas-canister
 
 id: mi-grandrapids-1
 
@@ -284,7 +284,7 @@ geolocation:
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
-tags: le-lethal, less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
+tags: less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
 
 id: mi-kalamazoo-1
 
@@ -301,7 +301,7 @@ geolocation:
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 
-tags: arrest, le-lethal, less-lethal, protester, tear-gas
+tags: arrest, less-lethal, protester, tear-gas
 
 id: mi-kalamazoo-2
 
@@ -336,7 +336,7 @@ geolocation:
 
 Police charge at protesters, pepper spraying indiscriminately. One protester is also tackled to the ground.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray, tackle
+tags: less-lethal, pepper-spray, protester, spray, tackle
 
 id: mi-kalamazoo-4
 

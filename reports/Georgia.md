@@ -10,7 +10,7 @@ Police fired a sustained barrage of tear gas for approximately one minute while 
 
 Later footage shows police continuing to fire tear gas down the street as students walk past with their hands up, obeying police orders.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: ga-athens-1
 
@@ -60,7 +60,7 @@ geolocation:
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
 
-tags: bystander, grab, le-lethal, less-lethal, tase, taser, vehicle
+tags: bystander, grab, less-lethal, tase, taser, vehicle
 
 id: ga-atlanta-3
 
@@ -110,7 +110,7 @@ geolocation:
 
 Police shove and shoot protesters with rubber bullets. One man is shot in the head; he is seen being carried away unconscious.
 
-tags: le-lethal, less-lethal, protester, rubber-bullet, shoot, shove
+tags: less-lethal, protester, rubber-bullet, shoot, shove
 
 id: ga-atlanta-6
 
@@ -126,7 +126,7 @@ geolocation:
 
 Police deploy tear gas against a crowd of protesters gathered in protest of the grand jury charges in the Breonna Taylor case. It appears that Georgia State Police accidentally deployed tear gas in their own vicinity before throwing the canister to protesters and launching more.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: ga-atlanta-7
 

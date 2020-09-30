@@ -47,7 +47,7 @@ geolocation:
 
 Reporter shot at over a dozen times at close range and arrested, despite identifying himself. Was told his 1st Amendment rights did not matter.
 
-tags: journalist, le-lethal, less-lethal, projectile, shoot, threaten
+tags: journalist, less-lethal, projectile, shoot, threaten
 
 id: ny-buffalo-3
 
@@ -170,7 +170,7 @@ geolocation:
 
 Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Centre.
 
-tags: le-lethal, less-lethal, pepper-spray, politician, protester, spray
+tags: less-lethal, pepper-spray, politician, protester, spray
 
 id: ny-newyorkcity-3
 
@@ -464,7 +464,7 @@ The first clip shows a protester speaking to an officer. The officer shoves him 
 
 Additional clips show scuffles between police and protesters where police use their batons to repeatedly shove protesters.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, shove, spray
+tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: ny-newyorkcity-88
 
@@ -527,7 +527,7 @@ geolocation:
 
 After 2 protesters allegedly threw objects at police at Church and Rogers Avenues in Brooklyn, an officer is seen discharging pepper spray on all protesters gathered near him.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-92
 
@@ -574,7 +574,7 @@ A police officer forcefully pulls off a protesters face mask and pepper sprays h
 
 The officer involved has been suspended.
 
-tags: inhumane-treatment, le-lethal, less-lethal, pepper-spray, protester, spray
+tags: inhumane-treatment, less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-9
 
@@ -606,7 +606,7 @@ geolocation:
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
-tags: le-lethal, less-lethal, pepper-spray, politician, protester, spray
+tags: less-lethal, pepper-spray, politician, protester, spray
 
 id: ny-newyorkcity-12
 
@@ -621,7 +621,7 @@ geolocation:
 
 Protesters had their hands up, yet were pepper sprayed in the face.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-15
 
@@ -729,7 +729,7 @@ geolocation:
 
 Footage from Broadway and E 12th Street in Manhattan shows an officer shoving, elbowing and pepper spraying numerous protesters standing on the sidewalk with their hands up.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, push, shove, spray
+tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: ny-newyorkcity-82
 
@@ -779,7 +779,7 @@ geolocation:
 
 Footage taken at FDR drive and Houston street shows police and protesters separated by a concrete barrier. Police are on the road side of the barrier. An officer approaches the barrier and discharges pepper spray at several protesters filming.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-85
 
@@ -846,7 +846,7 @@ geolocation:
 
 Footage taken at 41 E 57th St in Manhattan shows an officer running down the street. He pepper sprays several bystanders as he runs past them.
 
-tags: bystander, le-lethal, less-lethal, pepper-spray, spray
+tags: bystander, less-lethal, pepper-spray, spray
 
 id: ny-newyorkcity-71
 
@@ -1268,7 +1268,7 @@ Footage additionally shows officers standing on cars to swing batons at proteste
 
 One video additionally shows protesters shouting for a medic as a woman has gone into labor.
 
-tags: arrest, baton, beat, le-lethal, less-lethal, pepper-spray, pregnant, protester, shield, spray, strike
+tags: arrest, baton, beat, less-lethal, pepper-spray, pregnant, protester, shield, spray, strike
 
 id: ny-newyorkcity-25
 
@@ -1497,7 +1497,7 @@ Images of an arrest show multiple officers (including one white-shirted officer,
 
 Footage also shows an officer who was pepper-sprayed by another officer. That footage additionally shows officers on motorcycles forcing their way through the crowd.
 
-tags: arrest, baton, beat, hide-badge, le-lethal, less-lethal, lgbtq+, pepper-spray, protester, shove, spray, strike, vehicle
+tags: arrest, baton, beat, hide-badge, less-lethal, lgbtq+, pepper-spray, protester, shove, spray, strike, vehicle
 
 id: ny-newyorkcity-49
 
@@ -1574,7 +1574,7 @@ Footage shows a protester arguing with an officer in the street at 5th and 67th 
 
 A Freedom of Information Act requesting police footage has been [filed](https://www.muckrock.com/foi/new-york-city-17/foia-nypd-body-camera-footage-from-tasing-protester-on-july-12th-2020-98144/#).
 
-tags: arrest, grab, le-lethal, less-lethal, protester, push, shove, tase, taser
+tags: arrest, grab, less-lethal, protester, push, shove, tase, taser
 
 id: ny-newyorkcity-53
 
@@ -1810,7 +1810,7 @@ geolocation:
 
 Police are seen shooting at individuals who were recording an incident.
 
-tags: le-lethal, less-lethal, protester, rubber-bullet, shoot
+tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ny-rochester-1
 
@@ -1825,7 +1825,7 @@ geolocation:
 
 A journalist filming protests in Rochester, New York was shot in the head by an impact munition, believed to be a pepper ball.
 
-tags: journalist, le-lethal, less-lethal, pepper-ball, projectile, shoot
+tags: journalist, less-lethal, pepper-ball, projectile, shoot
 
 id: ny-rochester-2
 
@@ -1843,7 +1843,7 @@ Protesters can be seen milling about on the side of the road. Impact munition ro
 
 The munitions are believed to be rubber bullets and/or pepper balls.
 
-tags: journalist, le-lethal, less-lethal, pepper-ball, projectile, protester, rubber-bullet, shoot
+tags: journalist, less-lethal, pepper-ball, projectile, protester, rubber-bullet, shoot
 
 id: ny-rochester-3
 
@@ -1861,7 +1861,7 @@ geolocation:
 
 After declaring an unlawful assembly and firing pepper balls for some time, Rochester PD tear gassed protesters. Protesters responded with fireworks.
 
-tags: le-lethal, less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: ny-rochester-4
 
@@ -1883,7 +1883,7 @@ Police and protesters are on opposite sides of a metal barricade. Police pepper 
 
 During the incident, a photojournalist was shot with impact munitions.
 
-tags: journalist, le-lethal, less-lethal, projectile, protester, tear-gas
+tags: journalist, less-lethal, projectile, protester, tear-gas
 
 id: ny-rochester-5
 
@@ -1904,7 +1904,7 @@ geolocation:
 
 After an initial push, protesters begin to take the streets again. Police fire impact munitions and tear gas at them and deploy the LRAD dispersal function.
 
-tags: le-lethal, less-lethal, lrad, projectile, protester, tear-gas
+tags: less-lethal, lrad, projectile, protester, tear-gas
 
 id: ny-rochester-6
 
@@ -1937,7 +1937,7 @@ geolocation:
 
 At protests on September 12th, police deployed the LRAD dispersal function in an attempt to clear protesters.
 
-tags: lrad, protester
+tags: less-lethal, lrad, protester
 
 id: ny-rochester-8
 
@@ -1976,7 +1976,7 @@ Footage shows the incident begun by a scuffle between a protester and officers. 
 
 SSPD alleges that neither tear gas nor pepper balls were deployed.
 
-tags: arrest, le-lethal, less-lethal, projectile, protester, shoot
+tags: arrest, less-lethal, projectile, protester, shoot
 
 id: ny-saratogasprings-1
 

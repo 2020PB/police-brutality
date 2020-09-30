@@ -6,7 +6,7 @@ Bodycam footage shows an unarmed man walking around in the street. The man alleg
 
 This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
 
-tags: arrest, knee-on-neck, le-lethal, less-lethal, non-protest, strike, taser
+tags: arrest, knee-on-neck, less-lethal, non-protest, strike, taser
 
 id: va-fairfax-1
 
@@ -26,7 +26,7 @@ geolocation:
 
 Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protesters are lying on the ground as tear gas canisters fall around them.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: va-fredericksburg-2
 
@@ -48,7 +48,7 @@ In this video, delegate Lee Carter asks officers questions about their methods i
 
 It is unclear how the protest unfolded, and why the police were advancing on the crowd wearing riot gear; police allege that the protest turned violent and some protesters say that they were tear-gassed or shot at with rubber bullets while peacefully protesting or retreating. (See fourth and fifth links.)
 
-tags: le-lethal, less-lethal, pepper-spray, politician, protester, push, shove, spray
+tags: less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: va-manassas-1
 
@@ -84,7 +84,7 @@ geolocation:
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
 
-tags: bystander, le-lethal, less-lethal, pepper-spray, spray
+tags: bystander, less-lethal, pepper-spray, spray
 
 id: va-richmond-1
 
@@ -101,7 +101,7 @@ geolocation:
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM. The police chief has said that the officers' actions were "unwarranted" and "outside dept protocols." At least one protester has sued the officers involved.
 
-tags: le-lethal, less-lethal, protester, tear-gas, tear-gas-canister
+tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: va-richmond-2
 
@@ -140,7 +140,7 @@ geolocation:
 
 In this video, an officer fires a tear gas canister at a slow moving vehicle. It appears that he was unaware the vehicle belonged to the police.
 
-tags: le-lethal, less-lethal, tear-gas, tear-gas-canister
+tags: less-lethal, tear-gas, tear-gas-canister
 
 id: va-richmond-4
 
@@ -173,7 +173,7 @@ geolocation:
 
 Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidewalk. Police sprayed broadly at protesters several feet away, some locking arms with one another. No aggression on the part of protesters can be seen.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-20
 
@@ -190,7 +190,7 @@ A single water bottle can be seen thrown at and striking an officer. The bottle 
 
 Footage uploaded 3 minutes later shows another officer discharging pepper spray at a protester without apparent cause.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-21
 
@@ -210,7 +210,7 @@ Richmond was no longer under curfew restrictions at this time.
 
 In addition, one protester's phone was shot. Police also appear to deploy pepper spray about an hour after the initial shots.
 
-tags: le-lethal, less-lethal, pepper-spray, property-destruction, protester, rubber-bullet, shoot, spray, tear-gas
+tags: less-lethal, pepper-spray, property-destruction, protester, rubber-bullet, shoot, spray, tear-gas
 
 id: va-richmond-5
 
@@ -233,7 +233,7 @@ He states that shortly after this footage, he bumped into an officer and was sho
 
 Reddit link shows scuffle was instigated after a protester beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
 
-tags: journalist, le-lethal, less-lethal, pepper-spray, shove, spray
+tags: journalist, less-lethal, pepper-spray, shove, spray
 
 id: va-richmond-7
 
@@ -249,7 +249,7 @@ geolocation:
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
-tags: le-lethal, less-lethal, protester, shoot, shove, tear-gas
+tags: less-lethal, protester, shoot, shove, tear-gas
 
 id: va-richmond-8
 
@@ -269,7 +269,7 @@ geolocation:
 
 Footage shows a group of scattered protesters some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
-tags: explosive, le-lethal, less-lethal, projectile, protester, shoot
+tags: explosive, less-lethal, projectile, protester, shoot
 
 id: va-richmond-10
 
@@ -299,7 +299,7 @@ geolocation:
 
 Footage shows a police officer shoving a protester to the ground. The protester scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protesters.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, shove, spray
+tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: va-richmond-12
 
@@ -339,7 +339,7 @@ geolocation:
 
 Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protesters.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: va-richmond-14
 
@@ -354,7 +354,7 @@ geolocation:
 
 After a truck has been lit on fire, allegedly by protesters, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: va-richmond-15
 
@@ -423,7 +423,7 @@ geolocation:
 
 Police arrived at a group of protesters who gave out food and water to remove the protesters' tents. During the removal, a protester was arrested, held on the ground, and tased repeatedly. Charges are unclear.
 
-tags: arrest, le-lethal, less-lethal, protester, tase, taser
+tags: arrest, less-lethal, protester, tase, taser
 
 id: va-richmond-19
 

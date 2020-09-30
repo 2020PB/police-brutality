@@ -4,7 +4,7 @@
 
 The individual was sitting on the ground peacefully, yet the police maced her, and since she didn't move, they kicked her in the head.
 
-tags: kick, le-lethal, less-lethal, mace, pepper-spray, spray
+tags: kick, less-lethal, mace, pepper-spray, spray
 
 id: pa-erie-1
 
@@ -26,7 +26,7 @@ Following a police shooting in Lancaster, protesters gathered in the streets, fo
 
 12 Protesters were arrested. One was a minor who was shortly released. Seven are being held on $1,000,000 bail (current as of September 15th, 2020). The ACLU has released a statement decrying the high bail.
 
-tags: le-lethal, less-lethal, protester, tear-gas
+tags: less-lethal, protester, tear-gas
 
 id: pa-lancaster-1
 
@@ -48,7 +48,7 @@ geolocation:
 
 Protesters try to help someone stand up; police wait until the person is halfway up before pepper-spraying the helpers.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-harrisburg-1
 
@@ -131,7 +131,7 @@ geolocation:
 
 An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification
 
-tags: le-lethal, less-lethal, tear-gas
+tags: less-lethal, tear-gas
 
 id: pa-philadelphia-9
 
@@ -150,7 +150,7 @@ An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. P
 
 Location: [Interstate 676 between N 20th/21st St](https://www.google.com/maps/place/2053+Vine+St,+Philadelphia,+PA+19103,+USA/@39.9595383,-75.1746173,18z/data=!3m1!4b1!4m5!3m4!1s0x89c6c634c7345f49:0x40d2e85b82db34fb!8m2!3d39.9595362!4d-75.173523)
 
-tags: le-lethal, less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
+tags: less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: pa-philadelphia-4
 
@@ -170,7 +170,7 @@ geolocation:
 
 Three protesters kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-philadelphia-5
 
@@ -246,7 +246,7 @@ geolocation:
 
 Protesters are seen in the middle of the road on their knees with their hands up. Officers are seen walking on the median and indiscriminately pepper spraying the protesters below them.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-philadelphia-13
 
@@ -322,7 +322,7 @@ John Connors, a protester in Pittsburgh on Saturday, May 30th, was recording the
 
 He asks an officer, "Are you guys police officers or are you guys cops?" The officer then release a tear gas canister at his feet and shoots him at short range. Police then arrest Connors. Connors admits his question was antagonizing, but states he did nothing to threaten officers or escalate to violence, which is supported by the footage.
 
-tags: arrest, le-lethal, less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
+tags: arrest, less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
 
 id: pa-pittsburgh-3
 
@@ -338,7 +338,7 @@ geolocation:
 
 A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray, threaten
+tags: less-lethal, pepper-spray, protester, spray, threaten
 
 id: pa-pittsburgh-1
 
@@ -355,7 +355,7 @@ geolocation:
 
 Police declare a peaceful protest an unlawful assembly. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
 
-tags: le-lethal, less-lethal, protester, rubber-bullet, shoot, tear-gas
+tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: pa-pittsburgh-2
 
@@ -377,7 +377,7 @@ Users on Twitter allege the woman was a medic attempting to notify the police an
 
 Footage was posted on Twitter as a reply to footage of another incident on June 1st.
 
-tags: le-lethal, less-lethal, pepper-spray, protester, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-pittsburgh-4
 
@@ -395,7 +395,7 @@ Footage shows police officers around several protest-related arrestees. A woman 
 
 The crowd begins to object and asks why she is being arrested. Another officer then releases a tear gas canister and throws it at the crowd.
 
-tags: arrest, le-lethal, less-lethal, protester, tear-gas, tear-gas-canister
+tags: arrest, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: pa-pittsburgh-5
 
@@ -450,7 +450,7 @@ A protest in Pittsburgh faced off with police when protesters stood at the edge 
 
 https://twitter.com/csnyderj/status/1296275426059472902
 
-tags: baton, le-lethal, less-lethal, pepper-spray, protester, push, shove, spray
+tags: baton, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: pa-pittsburgh-8
 
