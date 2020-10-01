@@ -262,7 +262,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-longbeach-2
 
-geolocation: 
+geolocation: 33.7692847,-118.1924137
 
 **Links**
 
@@ -281,7 +281,7 @@ tags: gas, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-37
 
-geolocation: 
+geolocation: 34.0499617,-118.2576642
 
 **Links**
 
@@ -317,7 +317,7 @@ tags: baton, beat, less-lethal, projectile, protester
 
 id: ca-losangeles-2
 
-geolocation: 
+geolocation: 34.0716789,-118.3620601
 
 **Links**
 
@@ -332,7 +332,7 @@ tags: baton, beat, less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-3
 
-geolocation: 
+geolocation: 34.0716608,-118.3627601
 
 **Links**
 
@@ -352,7 +352,7 @@ tags: journalist, less-lethal, tear-gas
 
 id: ca-losangeles-4
 
-geolocation: 
+geolocation: 34.0718145,-118.4037679
 
 **Links**
 
@@ -367,7 +367,7 @@ tags: baton, beat, journalist, protester
 
 id: ca-losangeles-5
 
-geolocation: 
+geolocation: 34.0716789,-118.3620601
 
 **Links**
 
@@ -384,7 +384,7 @@ tags: baton, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-24
 
-geolocation: 
+geolocation: 34.0718292,-118.3632923
 
 **Links**
 
@@ -401,7 +401,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-33
 
-geolocation: 
+geolocation: 34.0762003,-118.3584538
 
 **Links**
 
@@ -420,7 +420,7 @@ tags: less-lethal, mace, pepper-spray, protester, spray, tear-gas
 
 id: ca-losangeles-34
 
-geolocation: 
+geolocation: 34.0760872,-118.3542065
 
 **Links**
 
@@ -429,7 +429,7 @@ geolocation:
 
 ### Protester shot in the head by rubber bullet | May 30th
 
-Images show a forehead injury received by a protester who had been hiding behind a dumpster.
+Images show a forehead injury received by a protester who had been hiding behind a dumpster at 3rd st and Fairfax Avenue.
 
 This, among other incidents, has led LA Mayor Garcetti to instruct the LAPD to limit its use of rubber bullets.
 
@@ -437,7 +437,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-35
 
-geolocation: 
+geolocation: 34.0716005,-118.361296
 
 **Links**
 
@@ -456,7 +456,7 @@ tags: bean-bag, bystander, less-lethal, property-destruction, shoot
 
 id: ca-losangeles-36
 
-geolocation: 
+geolocation: 34.0447132,-118.2521683
 
 **Links**
 
@@ -473,7 +473,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-39
 
-geolocation: 
+geolocation: 34.0450101,-118.249553
 
 **Links**
 
@@ -489,7 +489,7 @@ tags: less-lethal, pepper-ball, protester, rubber-bullet, shoot
 
 id: ca-losangeles-6
 
-geolocation: 
+geolocation: 34.0709188,-118.3566185
 
 **Links**
 
@@ -504,7 +504,7 @@ tags: knee, knee-on-neck, protester
 
 id: ca-losangeles-7
 
-geolocation: 
+geolocation: 34.0702948,-118.3527073
 
 **Links**
 
@@ -519,7 +519,7 @@ tags: less-lethal, protester, rubber-bullet, vehicle
 
 id: ca-losangeles-8
 
-geolocation: 
+geolocation: 34.0717309,-118.3619933
 
 **Links**
 
@@ -534,29 +534,13 @@ tags: bean-bag, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-9
 
-geolocation: 
+geolocation: 34.0760754,-118.3552518
 
 **Links**
 
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
 * https://www.latimes.com/california/story/2020-07-31/video-protester-had-hands-up-when-lapd-officer-shot
 * https://www.youtube.com/watch?v=msNyNyw0JUM
-
-
-### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
-
-LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
-
-tags: arrest, baton, beat, less-lethal, projectile, protester, shoot, tackle
-
-id: ca-losangeles-11
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1267095100166987778
-* https://twitter.com/sleepydayhana/status/1266930544811671552
 
 
 ### LAPD SUV drives into protesters, speeds away | May 31st
@@ -567,7 +551,7 @@ tags: drive, protester, vehicle
 
 id: ca-losangeles-12
 
-geolocation: 
+geolocation: 34.0487635,-118.2518526
 
 **Links**
 
@@ -582,17 +566,20 @@ geolocation:
 
 ### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
 
-Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
+Los Angeles police fire less lethal projectiles at several residents of the Ava and Wakaba apartments in Little Tokyo. All of the residents were filming quietly from their balconies.
 
 tags: bystander, less-lethal, projectile, shoot
 
 id: ca-losangeles-13
 
-geolocation: 
+geolocation: 34.0498992,-118.2426862
 
 **Links**
 
 * https://twitter.com/cwellborn3/status/1267318753571811329
+* https://twitter.com/jesse_erdek/status/1267322407884218368
+* https://twitter.com/o_morimori_/status/1267315391186919424
+* https://twitter.com/o_morimori_/status/1267315391186919424
 
 
 ### Police shoot crowd of unarmed protesters with rubber bullets | (Believed to be) May 31st
