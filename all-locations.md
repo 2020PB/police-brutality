@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-09-30T18:30:25.958579+00:00
+UPDATED AT: 2020-10-01T02:31:48.171491+00:00
 
 
 # Alabama
@@ -313,7 +313,7 @@ tags: less-lethal, protester, rubber-bullet, tear-gas, tear-gas-canister
 
 id: ar-bentonville-1
 
-geolocation: 
+geolocation: 36.3726466, -94.2106367
 
 **Links**
 
@@ -337,11 +337,10 @@ tags: less-lethal, protester, tear-gas
 
 id: ar-littlerock-2
 
-geolocation: 
+geolocation: 34.7443623, -92.2879971
 
 **Links**
 
-* https://www.youtube.com/watch?v=Pfn65qaXosU
 * https://www.youtube.com/watch?v=p7z-u_a8qo0
 
 
@@ -355,7 +354,7 @@ tags: explosive, less-lethal, lrad, projectile, protester, tear-gas
 
 id: ar-littlerock-1
 
-geolocation: 
+geolocation: 34.746483, -92.2880644
 
 **Links**
 
