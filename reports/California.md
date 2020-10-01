@@ -262,7 +262,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-longbeach-2
 
-geolocation: 33.7692847,-118.1924137
+geolocation: 33.7692847, -118.1924137
 
 **Links**
 
@@ -281,7 +281,7 @@ tags: gas, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-37
 
-geolocation: 34.0499617,-118.2576642
+geolocation: 34.0499617, -118.2576642
 
 **Links**
 
@@ -317,7 +317,7 @@ tags: baton, beat, less-lethal, projectile, protester
 
 id: ca-losangeles-2
 
-geolocation: 34.0716789,-118.3620601
+geolocation: 34.0716789, -118.3620601
 
 **Links**
 
@@ -332,7 +332,7 @@ tags: baton, beat, less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-3
 
-geolocation: 34.0716608,-118.3627601
+geolocation: 34.0716608, -118.3627601
 
 **Links**
 
@@ -352,7 +352,7 @@ tags: journalist, less-lethal, tear-gas
 
 id: ca-losangeles-4
 
-geolocation: 34.0718145,-118.4037679
+geolocation: 34.0718145, -118.4037679
 
 **Links**
 
@@ -367,7 +367,7 @@ tags: baton, beat, journalist, protester
 
 id: ca-losangeles-5
 
-geolocation: 34.0716789,-118.3620601
+geolocation: 34.0716789, -118.3620601
 
 **Links**
 
@@ -384,7 +384,7 @@ tags: baton, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-24
 
-geolocation: 34.0718292,-118.3632923
+geolocation: 34.0718292, -118.3632923
 
 **Links**
 
@@ -401,7 +401,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-33
 
-geolocation: 34.0762003,-118.3584538
+geolocation: 34.0762003, -118.3584538
 
 **Links**
 
@@ -420,7 +420,7 @@ tags: less-lethal, mace, pepper-spray, protester, spray, tear-gas
 
 id: ca-losangeles-34
 
-geolocation: 34.0760872,-118.3542065
+geolocation: 34.0760872, -118.3542065
 
 **Links**
 
@@ -437,7 +437,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-35
 
-geolocation: 34.0716005,-118.361296
+geolocation: 34.0716005, -118.361296
 
 **Links**
 
@@ -456,7 +456,7 @@ tags: bean-bag, bystander, less-lethal, property-destruction, shoot
 
 id: ca-losangeles-36
 
-geolocation: 34.0447132,-118.2521683
+geolocation: 34.0447132, -118.2521683
 
 **Links**
 
@@ -473,7 +473,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-39
 
-geolocation: 34.0450101,-118.249553
+geolocation: 34.0450101, -118.249553
 
 **Links**
 
@@ -489,7 +489,7 @@ tags: less-lethal, pepper-ball, protester, rubber-bullet, shoot
 
 id: ca-losangeles-6
 
-geolocation: 34.0709188,-118.3566185
+geolocation: 34.0709188, -118.3566185
 
 **Links**
 
@@ -504,7 +504,7 @@ tags: knee, knee-on-neck, protester
 
 id: ca-losangeles-7
 
-geolocation: 34.0702948,-118.3527073
+geolocation: 34.0702948, -118.3527073
 
 **Links**
 
@@ -519,7 +519,7 @@ tags: less-lethal, protester, rubber-bullet, vehicle
 
 id: ca-losangeles-8
 
-geolocation: 34.0717309,-118.3619933
+geolocation: 34.0717309, -118.3619933
 
 **Links**
 
@@ -534,7 +534,7 @@ tags: bean-bag, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-9
 
-geolocation: 34.0760754,-118.3552518
+geolocation: 34.0760754, -118.3552518
 
 **Links**
 
@@ -551,7 +551,7 @@ tags: drive, protester, vehicle
 
 id: ca-losangeles-12
 
-geolocation: 34.0487635,-118.2518526
+geolocation: 34.0487635, -118.2518526
 
 **Links**
 
@@ -572,7 +572,7 @@ tags: bystander, less-lethal, projectile, shoot
 
 id: ca-losangeles-13
 
-geolocation: 34.0498992,-118.2426862
+geolocation: 34.0498992, -118.2426862
 
 **Links**
 
