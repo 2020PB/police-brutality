@@ -246,7 +246,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: ca-longbeach-1
 
-geolocation: 33.7705086,-118.194586
+geolocation: 33.7705086, -118.194586
 
 **Links**
 
