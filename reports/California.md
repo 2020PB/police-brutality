@@ -201,6 +201,25 @@ geolocation: 33.658110, -118.0035402
 * https://twitter.com/Ricardo_4715/status/1267334754119999488
 
 
+## Lakewood
+
+### Police fire projectiles at protesters and discharge teargas | June 5th
+
+In Lakewood, police fire projectiles at protesters and discharge teargas. The protest began on Clark Avenue and marched to Lakewood City Hall.
+
+tags: less-lethal, projectile, protester, shoot, tear-gas
+
+id: ca-lakewood-1
+
+geolocation: 33.8681536,-118.2024624
+
+**Links**
+
+* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
@@ -797,7 +816,7 @@ tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-losangeles-57
 
-geolocation: 
+geolocation: 34.1015944,-118.328136
 
 **Links**
 
@@ -807,45 +826,30 @@ geolocation:
 
 ### Protester shows wound inflicted by less-lethal round | June 3rd
 
-Footage from June 3rd shows a still of a wound on a protester's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+Footage from June 3rd shows a still of a wound on a protester's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use. Footage was taken in Downtown LA. While it is not clear exactly where the shot was fired, the protester states at one point that he was near the harbor freeway entrance in downtown LA.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-41
 
-geolocation: 
+geolocation: 34.049168,-118.2595779
 
 **Links**
 
 * https://www.instagram.com/p/CBBpSZPnyke/
 
 
-### Police fire projectiles at protesters and discharge teargas | June 5th
-
-In Lakewood, police fire projectiles at protesters and discharge teargas.
-
-tags: less-lethal, projectile, protester, shoot, tear-gas
-
-id: ca-losangeles-20
-
-geolocation: 
-
-**Links**
-
-* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
-
-
 ### Medic treats rubber bullet wound | June 8th
 
 Footage from June 8th shows a medic treating a wound on the thigh of a female protester. The bullet broke the skin and has caused major bruising in a circle around the point of contact. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+While the location of the shooting is not certain, protesters can be heard saying they are on Melrose street. Protests tended to occur around the intersection of Melrose and Fairfax, radiating around the area.
 
 tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-42
 
-geolocation: 
+geolocation: 34.0838456,-118.3614283
 
 **Links**
 
@@ -860,13 +864,13 @@ Footage from instagram (second link, fourth in list) shows a man suffering an as
 
 Additional [footage](https://www.instagram.com/p/CCqPuekHCyg/) shows an officer striking a protester with a baton as the protester tries to help the man in the wheelchair.
 
-Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges against him were dropped.\
+Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges against him were dropped.
 
 tags: arrest, baton, person-with-disability, property-destruction, shove, strike
 
 id: ca-losangeles-40
 
-geolocation: 
+geolocation: 34.0509527,-118.2585966
 
 **Links**
 
@@ -888,7 +892,7 @@ tags: arrest, baton, property-destruction, protester, shove, strike
 
 id: ca-losangeles-43
 
-geolocation: 
+geolocation: 34.0509527,-118.2585966
 
 **Links**
 
@@ -904,7 +908,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-44
 
-geolocation: 
+geolocation: 34.0509527,-118.2585966
 
 **Links**
 
