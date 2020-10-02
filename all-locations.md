@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-02T12:29:32.100310+00:00
+UPDATED AT: 2020-10-02T12:29:59.714398+00:00
 
 
 # Alabama
@@ -17278,7 +17278,7 @@ tags: baton, beat, choke, gun, less-lethal, pepper-spray, protester, punch, spra
 
 id: tx-austin-2
 
-geolocation: 
+geolocation: 30.267860, -97.733482
 
 **Links**
 
@@ -17296,7 +17296,7 @@ tags: bean-bag, child, less-lethal, protester, rubber-bullet, shoot
 
 id: tx-austin-3
 
-geolocation: 
+geolocation: 30.268286, -97.732961
 
 **Links**
 
@@ -17315,7 +17315,7 @@ tags: bean-bag, less-lethal, protester, rubber-bullet, shoot, tear-gas, threaten
 
 id: tx-austin-4
 
-geolocation: 
+geolocation: 30.267861, -97.733568
 
 **Links**
 
@@ -17332,7 +17332,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-austin-5
 
-geolocation: 
+geolocation: 30.267639, -97.734549
 
 **Links**
 
@@ -17349,7 +17349,7 @@ tags: bean-bag, less-lethal, pregnant, protester, shoot
 
 id: tx-austin-8
 
-geolocation: 
+geolocation: 30.267614, -97.734401
 
 **Links**
 
@@ -17367,7 +17367,7 @@ tags: horse, less-lethal, pepper-spray, protester, shove, spray
 
 id: tx-austin-10
 
-geolocation: 
+geolocation: 30.264420, -97.735186
 
 **Links**
 
@@ -17387,7 +17387,7 @@ tags: bean-bag, less-lethal, medic, protester, shoot
 
 id: tx-austin-1
 
-geolocation: 
+geolocation: 30.267560, -97.734260
 
 **Links**
 
@@ -17405,7 +17405,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-austin-6
 
-geolocation: 
+geolocation: 30.267677, -97.734539
 
 **Links**
 
@@ -17422,7 +17422,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: tx-austin-7
 
-geolocation: 
+geolocation: 30.267612, -97.734508
 
 **Links**
 
@@ -17440,7 +17440,7 @@ tags: bean-bag, less-lethal, protester, shoot
 
 id: tx-austin-13
 
-geolocation: 
+geolocation: 30.267938, -97.734176
 
 **Links**
 
@@ -17449,7 +17449,7 @@ geolocation:
 * https://twitter.com/greg_doucette/status/1272386250058727425
 
 
-### Police fire upon protesters seeking medical help | June 2nd
+### Police fire upon protesters seeking medical help | May 31st
 
 Volunteer medics were advised to bring a critically wounded protester to the police line for medical attention and were subsequently fired upon.
 
@@ -17457,7 +17457,7 @@ tags: medic, protester, shoot
 
 id: tx-austin-9
 
-geolocation: 
+geolocation: 30.267553, -97.734424
 
 **Links**
 
@@ -17474,7 +17474,7 @@ tags: arrest, knee, knee-on-neck, property-destruction, protester, shove
 
 id: tx-austin-14
 
-geolocation: 
+geolocation: 30.267653, -97.734414
 
 **Links**
 
@@ -17493,7 +17493,7 @@ tags: arrest, knee, knee-on-neck, protester
 
 id: tx-austin-11
 
-geolocation: 
+geolocation: 30.267675, -97.734090
 
 **Links**
 
@@ -17509,7 +17509,7 @@ tags: arrest, knee, protester, punch, strike
 
 id: tx-austin-12
 
-geolocation: 
+geolocation: 30.267765, -97.734061
 
 **Links**
 
@@ -17526,7 +17526,7 @@ tags: arrest, journalist, punch, tackle, zip-tie
 
 id: tx-austin-15
 
-geolocation: 
+geolocation: 30.268062, -97.735116
 
 **Links**
 
@@ -17542,7 +17542,7 @@ tags: arrest, bike, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: tx-austin-16
 
-geolocation: 
+geolocation: 30.266147, -97.743669
 
 **Links**
 
@@ -17560,7 +17560,7 @@ tags: horse, protester, push, shove
 
 id: tx-austin-17
 
-geolocation: 
+geolocation: 30.266287, -97.743463 
 
 **Links**
 
@@ -17575,7 +17575,7 @@ tags: property-destruction, protester, push, shove
 
 id: tx-austin-18
 
-geolocation: 
+geolocation: 30.264007, -97.747444
 
 **Links**
 
@@ -17591,7 +17591,7 @@ tags: arrest, grab, protester, tackle, throw
 
 id: tx-austin-19
 
-geolocation: 
+geolocation: 30.265678, -97.741671
 
 **Links**
 
