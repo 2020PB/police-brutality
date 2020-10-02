@@ -625,22 +625,8 @@ geolocation:
 **Links**
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+* https://twitter.com/JacksonWMonroe/status/1267208621558915072
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
-
-
-### LAPD destroy car to drag out occupants | (Believed to be) June 1st
-
-LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
-
-tags: property-destruction, protester
-
-id: ca-losangeles-25
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/GadiNBC/status/1268016449320177665
 
 
 ### Business owner flags down police for protection from looters; she is arrested | June 1st
@@ -653,7 +639,7 @@ tags: arrest, bystander, racial-profiling, shove
 
 id: ca-losangeles-26
 
-geolocation: 
+geolocation: 34.2046129,-118.4511648
 
 **Links**
 
@@ -673,7 +659,7 @@ tags: abuse-of-power, arrest, homeless, inhumane-treatment, protester, threaten,
 
 id: ca-losangeles-19
 
-geolocation: 
+geolocation: 34.0593522,-118.4614724
 
 **Links**
 
@@ -691,6 +677,22 @@ geolocation:
 * https://www.tiktok.com/@manicxmel/video/6833292986214894853
 
 
+### LAPD destroy car to drag out occupants | June 2nd
+
+LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
+
+tags: property-destruction, protester
+
+id: ca-losangeles-25
+
+geolocation: 34.0908516,-118.3180258
+
+**Links**
+
+* https://twitter.com/GadiNBC/status/1268016449320177665
+* https://www.nbclosangeles.com/news/local/protests-george-floyd-los-angeles-curfew-downtown-la-venice/2373095/
+
+
 ### Police arrest protesters en masse and detain them in poor conditions | June 2nd
 
 Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city.
@@ -703,7 +705,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, protester, threaten, z
 
 id: ca-losangeles-32
 
-geolocation: 
+geolocation: 34.0591193,-118.3227323
 
 **Links**
 
