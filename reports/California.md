@@ -976,7 +976,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-losangeles-49
 
-geolocation: 34.051824,-118.2461446
+geolocation: 34.051824, -118.2461446
 
 **Links**
 
