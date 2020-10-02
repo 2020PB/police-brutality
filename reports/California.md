@@ -639,7 +639,7 @@ tags: arrest, bystander, racial-profiling, shove
 
 id: ca-losangeles-26
 
-geolocation: 34.2046129,-118.4511648
+geolocation: 34.2046129, -118.4511648
 
 **Links**
 
@@ -659,7 +659,7 @@ tags: abuse-of-power, arrest, homeless, inhumane-treatment, protester, threaten,
 
 id: ca-losangeles-19
 
-geolocation: 34.0593522,-118.4614724
+geolocation: 34.0593522, -118.4614724
 
 **Links**
 
@@ -685,7 +685,7 @@ tags: property-destruction, protester
 
 id: ca-losangeles-25
 
-geolocation: 34.0908516,-118.3180258
+geolocation: 34.0908516, -118.3180258
 
 **Links**
 
@@ -705,7 +705,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, protester, threaten, z
 
 id: ca-losangeles-32
 
-geolocation: 34.0591193,-118.3227323
+geolocation: 34.0591193, -118.3227323
 
 **Links**
 
