@@ -605,7 +605,7 @@ tags: arrest, beat, protester, shield, shove
 
 id: ca-losangeles-28
 
-geolocation: 
+geolocation: 34.0760986,-118.3566148
 
 **Links**
 
