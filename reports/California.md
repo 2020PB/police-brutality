@@ -724,7 +724,7 @@ tags: drive, less-lethal, pepper-ball, protester, shoot, vehicle
 
 id: ca-losangeles-1
 
-geolocation: 
+geolocation: 34.0944075,-118.3385753
 
 **Links**
 
@@ -732,7 +732,6 @@ geolocation:
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
-* https://twitter.com/ItsjustmeD_/status/1268596982966218752
 
 
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
@@ -745,7 +744,7 @@ tags: bystander, homeless, less-lethal, person-with-disability, projectile, shoo
 
 id: ca-losangeles-17
 
-geolocation: 
+geolocation: 34.0487865,-118.2504023
 
 **Links**
 
@@ -764,7 +763,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-27
 
-geolocation: 
+geolocation: 34.0944075,-118.3385753
 
 **Links**
 
