@@ -1198,7 +1198,7 @@ tags: abuse-of-power, protester
 
 id: ca-norco-1
 
-geolocation: 33.9311538,-117.5605275
+geolocation: 33.9311538, -117.5605275
 
 **Links**
 
@@ -1216,7 +1216,7 @@ tags: drive, protester, vehicle
 
 id: ca-oakland-1
 
-geolocation: 37.7730406,-122.2162003
+geolocation: 37.7730406, -122.2162003
 
 **Links**
 
@@ -1233,7 +1233,7 @@ tags: journalist, shoot
 
 id: ca-oakland-2
 
-geolocation: 37.8060529,-122.2705301
+geolocation: 37.8060529, -122.2705301
 
 **Links**
 
@@ -1248,7 +1248,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ca-oakland-3
 
-geolocation: 37.8002087,-122.2737406
+geolocation: 37.8002087, -122.2737406
 
 **Links**
 
@@ -1264,7 +1264,7 @@ tags: arrest, protester, tackle
 
 id: ca-oakland-4
 
-geolocation: 37.8059558,-122.2703161
+geolocation: 37.8059558, -122.2703161
 
 **Links**
 
@@ -1281,7 +1281,7 @@ tags: property-destruction
 
 id: ca-riverside-1
 
-geolocation: 33.9813734,-117.3754766
+geolocation: 33.9813734, -117.3754766
 
 **Links**
 
