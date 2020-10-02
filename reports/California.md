@@ -590,7 +590,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-16
 
-geolocation: 34.0761439,-118.3573996
+geolocation: 34.0761439, -118.3573996
 
 **Links**
 
