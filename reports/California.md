@@ -892,7 +892,7 @@ tags: arrest, baton, property-destruction, protester, shove, strike
 
 id: ca-losangeles-43
 
-geolocation: 34.0509527, -118.2585966
+geolocation: 34.0530795,-118.2440239
 
 **Links**
 
@@ -908,7 +908,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-44
 
-geolocation: 34.0509527, -118.2585966
+geolocation: 34.0535364,-118.2488016
 
 **Links**
 
@@ -923,7 +923,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-47
 
-geolocation: 
+geolocation: 34.0535364,-118.2488016
 
 **Links**
 
@@ -939,7 +939,7 @@ tags: protester, push, shove
 
 id: ca-losangeles-46
 
-geolocation: 
+geolocation: 34.2413537,-118.2675791
 
 **Links**
 
