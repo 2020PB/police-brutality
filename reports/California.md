@@ -579,7 +579,7 @@ geolocation: 34.0498992, -118.2426862
 * https://twitter.com/cwellborn3/status/1267318753571811329
 * https://twitter.com/jesse_erdek/status/1267322407884218368
 * https://twitter.com/o_morimori_/status/1267315391186919424
-* https://twitter.com/o_morimori_/status/1267315391186919424
+* https://twitter.com/o_morimori_/status/1267335590510424064
 
 
 ### Police shoot crowd of unarmed protesters with rubber bullets | (Believed to be) May 31st
@@ -590,7 +590,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-16
 
-geolocation: 
+geolocation: 34.0761439,-118.3573996
 
 **Links**
 
@@ -610,22 +610,6 @@ geolocation:
 **Links**
 
 * https://twitter.com/jkishore/status/1267216022634999808
-
-
-### Police beat and pepper spray protesters | May 31st
-
-Protester who repeatedly says he cannot see is shoved by an officer with a baton. The filmer yells at the officer that the protester is having trouble seeing. The officer pepper sprays the filmer.
-
-tags: arrest, less-lethal, pepper-spray, protester, shove, spray, strike
-
-id: ca-losangeles-45
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/r0seghoul/status/1268729811066740737
-* https://www.tiktok.com/@laurenxorose/video/6833031215541521669
 
 
 ### Police shoot rubber bullets at two peaceful protesters | June 1st
