@@ -211,7 +211,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-lakewood-1
 
-geolocation: 33.8681536,-118.2024624
+geolocation: 33.8681536, -118.2024624
 
 **Links**
 
@@ -816,7 +816,7 @@ tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-losangeles-57
 
-geolocation: 34.1015944,-118.328136
+geolocation: 34.1015944, -118.328136
 
 **Links**
 
@@ -832,7 +832,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-41
 
-geolocation: 34.049168,-118.2595779
+geolocation: 34.049168, -118.2595779
 
 **Links**
 
@@ -849,7 +849,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-42
 
-geolocation: 34.0838456,-118.3614283
+geolocation: 34.0838456, -118.3614283
 
 **Links**
 
@@ -870,7 +870,7 @@ tags: arrest, baton, person-with-disability, property-destruction, shove, strike
 
 id: ca-losangeles-40
 
-geolocation: 34.0509527,-118.2585966
+geolocation: 34.0509527, -118.2585966
 
 **Links**
 
@@ -892,7 +892,7 @@ tags: arrest, baton, property-destruction, protester, shove, strike
 
 id: ca-losangeles-43
 
-geolocation: 34.0509527,-118.2585966
+geolocation: 34.0509527, -118.2585966
 
 **Links**
 
@@ -908,7 +908,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-44
 
-geolocation: 34.0509527,-118.2585966
+geolocation: 34.0509527, -118.2585966
 
 **Links**
 
