@@ -993,7 +993,7 @@ tags: abuse-of-power, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-50
 
-geolocation: 34.0528905,-118.2532847
+geolocation: 34.0528905, -118.2532847
 
 **Links**
 
@@ -1013,7 +1013,7 @@ tags: foam-bullet, less-lethal, pepper-ball, projectile, protester, shoot, stun-
 
 id: ca-losangeles-51
 
-geolocation: 33.9296714,-118.3007234
+geolocation: 33.9296714, -118.3007234
 
 **Links**
 
@@ -1037,7 +1037,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, protester, shoot, stun-g
 
 id: ca-losangeles-52
 
-geolocation: 33.9308852,-118.2985867
+geolocation: 33.9308852, -118.2985867
 
 **Links**
 
@@ -1064,7 +1064,7 @@ tags: bystander, less-lethal, pepper-ball, projectile, property-destruction, pro
 
 id: ca-losangeles-53
 
-geolocation: 33.9309062,-118.3000642
+geolocation: 33.9309062, -118.3000642
 
 **Links**
 
@@ -1083,7 +1083,7 @@ tags: arrest, journalist, tackle
 
 id: ca-losangeles-54
 
-geolocation: 33.9317661,-118.300295
+geolocation: 33.9317661, -118.300295
 
 **Links**
 
@@ -1101,7 +1101,7 @@ tags: arrest, journalist, property-destruction
 
 id: ca-losangeles-55
 
-geolocation: 33.9305919,-118.2053695
+geolocation: 33.9305919, -118.2053695
 
 **Links**
 
@@ -1123,7 +1123,7 @@ tags: arrest, protester
 
 id: ca-losangeles-56
 
-geolocation: 34.0501764,-118.2490047
+geolocation: 34.0501764, -118.2490047
 
 **Links**
 
@@ -1142,7 +1142,7 @@ tags: journalist, push, shove
 
 id: ca-losangeles-58
 
-geolocation: 34.0518579,-118.2436692
+geolocation: 34.0518579, -118.2436692
 
 **Links**
 
@@ -1157,7 +1157,7 @@ tags: less-lethal, pepper-ball, projectile, protester, shoot
 
 id: ca-losangeles-59
 
-geolocation: 34.0906705,-118.3858618
+geolocation: 34.0906705, -118.3858618
 
 **Links**
 
@@ -1174,7 +1174,7 @@ tags: arrest, protester, shield, strike
 
 id: ca-losangeles-60
 
-geolocation: 34.0906705,-118.3858618
+geolocation: 34.0906705, -118.3858618
 
 **Links**
 
