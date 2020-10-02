@@ -1123,7 +1123,7 @@ tags: arrest, protester
 
 id: ca-losangeles-56
 
-geolocation: 34.0501764,-118.2490047,
+geolocation: 34.0501764,-118.2490047
 
 **Links**
 
