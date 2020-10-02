@@ -957,7 +957,7 @@ tags: baton, less-lethal, projectile, protester, push, shoot, shove
 
 id: ca-losangeles-48
 
-geolocation: 
+geolocation: 34.2413537, -118.2675791
 
 **Links**
 
@@ -976,11 +976,13 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-losangeles-49
 
-geolocation: 
+geolocation: 34.051824,-118.2461446
 
 **Links**
 
 * https://www.instagram.com/tv/CEV-cnggrvj/
+* https://www.latimes.com/california/story/2020-08-25/protesters-marching-in-downtown-l-a-monday-night-decry-police-shootings
+* https://losangeles.cbslocal.com/2020/08/25/jacob-blake-protesters-clash-with-officers-outside-lapd-headquarters/
 
 
 ### Officers trap protesters under bridge and shoot them | August 26th
