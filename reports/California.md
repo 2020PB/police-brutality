@@ -987,13 +987,13 @@ geolocation: 34.051824, -118.2461446
 
 ### Officers trap protesters under bridge and shoot them | August 26th
 
-Protesters in LA were trapped by police in a tunnel. Police demanded that protesters relinquish their shields. As protesters began to do so, police fired on the crowd. Police then held protesters at the scene, allegedly allowing them to leave in small groups after being frisked.
+Protesters in LA were trapped by police in the 3rd Street Tunnel. Police demanded that protesters relinquish their shields. As protesters began to do so, police fired on the crowd. Police then held protesters at the scene, allegedly allowing them to leave in small groups after being frisked.
 
 tags: abuse-of-power, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-50
 
-geolocation: 
+geolocation: 34.0528905,-118.2532847
 
 **Links**
 
@@ -1007,13 +1007,13 @@ geolocation:
 
 ### LA Sheriffs fire impact munitions at protesters | September 5th
 
-LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk. The LASD allegedly never declared an unlawful assembly.
+LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk outside the LASD station at 1310 West Imperial Highway. The LASD allegedly never declared an unlawful assembly.
 
 tags: foam-bullet, less-lethal, pepper-ball, projectile, protester, shoot, stun-grenade
 
 id: ca-losangeles-51
 
-geolocation: 
+geolocation: 33.9296714,-118.3007234
 
 **Links**
 
@@ -1037,7 +1037,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, protester, shoot, stun-g
 
 id: ca-losangeles-52
 
-geolocation: 
+geolocation: 33.9308852,-118.2985867
 
 **Links**
 
@@ -1064,7 +1064,7 @@ tags: bystander, less-lethal, pepper-ball, projectile, property-destruction, pro
 
 id: ca-losangeles-53
 
-geolocation: 
+geolocation: 33.9309062,-118.3000642
 
 **Links**
 
@@ -1083,7 +1083,7 @@ tags: arrest, journalist, tackle
 
 id: ca-losangeles-54
 
-geolocation: 
+geolocation: 33.9317661,-118.300295
 
 **Links**
 
@@ -1101,7 +1101,7 @@ tags: arrest, journalist, property-destruction
 
 id: ca-losangeles-55
 
-geolocation: 
+geolocation: 33.9305919,-118.2053695
 
 **Links**
 
@@ -1123,7 +1123,7 @@ tags: arrest, protester
 
 id: ca-losangeles-56
 
-geolocation: 
+geolocation: 34.0501764,-118.2490047,
 
 **Links**
 
@@ -1142,14 +1142,14 @@ tags: journalist, push, shove
 
 id: ca-losangeles-58
 
-geolocation: 
+geolocation: 34.0518579,-118.2436692
 
 **Links**
 
 * https://twitter.com/ShotOn35mm/status/1309007382345928705
 
 
-### Police fire impact munitions at protesters, then make several arrests | September 23rd
+### Police fire impact munitions at protesters, then make several arrests | September 25th
 
 Police in Los Angeles deploy impact munitions, believed to be pepper balls, against protesters in large quantities as they push back the crowd and make several arrests.
 
@@ -1157,7 +1157,7 @@ tags: less-lethal, pepper-ball, projectile, protester, shoot
 
 id: ca-losangeles-59
 
-geolocation: 
+geolocation: 34.0906705,-118.3858618
 
 **Links**
 
@@ -1166,7 +1166,7 @@ geolocation:
 * https://twitter.com/SamBraslow/status/1309734358564048896
 
 
-### Officer strikes detained protester with shield | September 23rd
+### Officer strikes detained protester with shield | September 25th
 
 During a protest, police made several arrests. One officer is seen detaining a protester, while a second uses his shield to subdue the protester. The officer swings the shield downward, striking the protester's ankle repeatedly with the edge of the shield.
 
@@ -1174,7 +1174,7 @@ tags: arrest, protester, shield, strike
 
 id: ca-losangeles-60
 
-geolocation: 
+geolocation: 34.0906705,-118.3858618
 
 **Links**
 
