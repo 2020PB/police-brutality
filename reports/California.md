@@ -1298,11 +1298,12 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sacramento-6
 
-geolocation: 
+geolocation: 8.5763383,-121.4807559
 
 **Links**
 
 * https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+* https://www.docdroid.com/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf#page=4
 
 
 ### Police shoot protester in the head | May 30th
@@ -1313,7 +1314,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-sacramento-1
 
-geolocation: 
+geolocation: 38.5827287,-121.4985581
 
 **Links**
 
@@ -1329,7 +1330,7 @@ tags: legal-observer, less-lethal, projectile, protester, shoot
 
 id: ca-sacramento-2
 
-geolocation: 
+geolocation: 8.5763383,-121.4807559
 
 **Links**
 
@@ -1346,7 +1347,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: ca-sacramento-5
 
-geolocation: 
+geolocation: 38.5781843,-121.4943541
 
 **Links**
 
@@ -1362,7 +1363,7 @@ tags: baton, choke, protester, push, shove, threaten
 
 id: ca-sacramento-3
 
-geolocation: 
+geolocation: 38.5784745,-121.4868259
 
 **Links**
 
