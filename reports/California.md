@@ -724,7 +724,7 @@ tags: drive, less-lethal, pepper-ball, protester, shoot, vehicle
 
 id: ca-losangeles-1
 
-geolocation: 34.0944075,-118.3385753
+geolocation: 34.0944075, -118.3385753
 
 **Links**
 
@@ -744,7 +744,7 @@ tags: bystander, homeless, less-lethal, person-with-disability, projectile, shoo
 
 id: ca-losangeles-17
 
-geolocation: 34.0487865,-118.2504023
+geolocation: 34.0487865, -118.2504023
 
 **Links**
 
@@ -763,7 +763,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-27
 
-geolocation: 34.0944075,-118.3385753
+geolocation: 34.0944075, -118.3385753
 
 **Links**
 
