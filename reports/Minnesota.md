@@ -422,6 +422,21 @@ geolocation:
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
 
+### Police beat and pepper spray protesters | May 31st
+
+Protester who repeatedly says he cannot see is shoved by an officer with a baton. The filmer yells at the officer that the protester is having trouble seeing. The officer pepper sprays the filmer.
+
+tags: arrest, less-lethal, pepper-spray, protester, shove, spray, strike
+
+id: mn-minneapolis-33
+
+geolocation: 44.9784885,-93.2755338
+
+**Links**
+
+* https://twitter.com/r0seghoul/status/1268729811066740737
+* https://www.tiktok.com/@laurenxorose/video/6833031215541521669
+
 
 ### Woman kicked in head | Unknown Date
 
