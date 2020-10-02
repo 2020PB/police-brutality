@@ -1198,7 +1198,7 @@ tags: abuse-of-power, protester
 
 id: ca-norco-1
 
-geolocation: 
+geolocation: 33.9311538,-117.5605275
 
 **Links**
 
@@ -1216,12 +1216,13 @@ tags: drive, protester, vehicle
 
 id: ca-oakland-1
 
-geolocation: 
+geolocation: 37.7730406,-122.2162003
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
 * https://tuckbot.tv/#/watch/gttdkj
+* https://imgur.com/a/Izbobvx
 
 
 ### Oakland law enforcement shoot a reporter | May 31st
@@ -1232,7 +1233,7 @@ tags: journalist, shoot
 
 id: ca-oakland-2
 
-geolocation: 
+geolocation: 37.8060529,-122.2705301
 
 **Links**
 
@@ -1247,7 +1248,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ca-oakland-3
 
-geolocation: 
+geolocation: 37.8002087,-122.2737406
 
 **Links**
 
@@ -1263,7 +1264,7 @@ tags: arrest, protester, tackle
 
 id: ca-oakland-4
 
-geolocation: 
+geolocation: 37.8059558,-122.2703161
 
 **Links**
 
@@ -1272,7 +1273,7 @@ geolocation:
 
 ## Riverside
 
-### Law enforcement break a car window for no apparent reason | June 2nd
+### Law enforcement break a car window for no apparent reason | June 1st
 
 A line of law enforcement officers are walking down the street.  When they approach a parked vehicle, law enforcement break the vehicle's window for no apparent reason.
 
@@ -1280,7 +1281,7 @@ tags: property-destruction
 
 id: ca-riverside-1
 
-geolocation: 
+geolocation: 33.9813734,-117.3754766
 
 **Links**
 
