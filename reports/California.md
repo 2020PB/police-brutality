@@ -201,6 +201,25 @@ geolocation: 33.658110, -118.0035402
 * https://twitter.com/Ricardo_4715/status/1267334754119999488
 
 
+## Lakewood
+
+### Police fire projectiles at protesters and discharge teargas | June 5th
+
+In Lakewood, police fire projectiles at protesters and discharge teargas. The protest began on Clark Avenue and marched to Lakewood City Hall.
+
+tags: less-lethal, projectile, protester, shoot, tear-gas
+
+id: ca-lakewood-1
+
+geolocation: 33.8681536, -118.2024624
+
+**Links**
+
+* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
@@ -262,7 +281,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-longbeach-2
 
-geolocation: 
+geolocation: 33.7692847, -118.1924137
 
 **Links**
 
@@ -281,7 +300,7 @@ tags: gas, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-37
 
-geolocation: 
+geolocation: 34.0499617, -118.2576642
 
 **Links**
 
@@ -317,7 +336,7 @@ tags: baton, beat, less-lethal, projectile, protester
 
 id: ca-losangeles-2
 
-geolocation: 
+geolocation: 34.0716789, -118.3620601
 
 **Links**
 
@@ -332,7 +351,7 @@ tags: baton, beat, less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-3
 
-geolocation: 
+geolocation: 34.0716608, -118.3627601
 
 **Links**
 
@@ -352,7 +371,7 @@ tags: journalist, less-lethal, tear-gas
 
 id: ca-losangeles-4
 
-geolocation: 
+geolocation: 34.0718145, -118.4037679
 
 **Links**
 
@@ -367,7 +386,7 @@ tags: baton, beat, journalist, protester
 
 id: ca-losangeles-5
 
-geolocation: 
+geolocation: 34.0716789, -118.3620601
 
 **Links**
 
@@ -384,7 +403,7 @@ tags: baton, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-24
 
-geolocation: 
+geolocation: 34.0718292, -118.3632923
 
 **Links**
 
@@ -401,7 +420,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-33
 
-geolocation: 
+geolocation: 34.0762003, -118.3584538
 
 **Links**
 
@@ -420,7 +439,7 @@ tags: less-lethal, mace, pepper-spray, protester, spray, tear-gas
 
 id: ca-losangeles-34
 
-geolocation: 
+geolocation: 34.0760872, -118.3542065
 
 **Links**
 
@@ -429,7 +448,7 @@ geolocation:
 
 ### Protester shot in the head by rubber bullet | May 30th
 
-Images show a forehead injury received by a protester who had been hiding behind a dumpster.
+Images show a forehead injury received by a protester who had been hiding behind a dumpster at 3rd st and Fairfax Avenue.
 
 This, among other incidents, has led LA Mayor Garcetti to instruct the LAPD to limit its use of rubber bullets.
 
@@ -437,7 +456,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-35
 
-geolocation: 
+geolocation: 34.0716005, -118.361296
 
 **Links**
 
@@ -456,7 +475,7 @@ tags: bean-bag, bystander, less-lethal, property-destruction, shoot
 
 id: ca-losangeles-36
 
-geolocation: 
+geolocation: 34.0447132, -118.2521683
 
 **Links**
 
@@ -473,7 +492,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-39
 
-geolocation: 
+geolocation: 34.0450101, -118.249553
 
 **Links**
 
@@ -489,7 +508,7 @@ tags: less-lethal, pepper-ball, protester, rubber-bullet, shoot
 
 id: ca-losangeles-6
 
-geolocation: 
+geolocation: 34.0709188, -118.3566185
 
 **Links**
 
@@ -504,7 +523,7 @@ tags: knee, knee-on-neck, protester
 
 id: ca-losangeles-7
 
-geolocation: 
+geolocation: 34.0702948, -118.3527073
 
 **Links**
 
@@ -519,7 +538,7 @@ tags: less-lethal, protester, rubber-bullet, vehicle
 
 id: ca-losangeles-8
 
-geolocation: 
+geolocation: 34.0717309, -118.3619933
 
 **Links**
 
@@ -534,29 +553,13 @@ tags: bean-bag, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-9
 
-geolocation: 
+geolocation: 34.0760754, -118.3552518
 
 **Links**
 
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
 * https://www.latimes.com/california/story/2020-07-31/video-protester-had-hands-up-when-lapd-officer-shot
 * https://www.youtube.com/watch?v=msNyNyw0JUM
-
-
-### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
-
-LAPD single out, tackle, and arrest an unarmed protester, then indiscriminately beat nearby protesters with batons and fire less lethals into the crowd.
-
-tags: arrest, baton, beat, less-lethal, projectile, protester, shoot, tackle
-
-id: ca-losangeles-11
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1267095100166987778
-* https://twitter.com/sleepydayhana/status/1266930544811671552
 
 
 ### LAPD SUV drives into protesters, speeds away | May 31st
@@ -567,7 +570,7 @@ tags: drive, protester, vehicle
 
 id: ca-losangeles-12
 
-geolocation: 
+geolocation: 34.0487635, -118.2518526
 
 **Links**
 
@@ -582,17 +585,20 @@ geolocation:
 
 ### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
 
-Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
+Los Angeles police fire less lethal projectiles at several residents of the Ava and Wakaba apartments in Little Tokyo. All of the residents were filming quietly from their balconies.
 
 tags: bystander, less-lethal, projectile, shoot
 
 id: ca-losangeles-13
 
-geolocation: 
+geolocation: 34.0498992, -118.2426862
 
 **Links**
 
 * https://twitter.com/cwellborn3/status/1267318753571811329
+* https://twitter.com/jesse_erdek/status/1267322407884218368
+* https://twitter.com/o_morimori_/status/1267315391186919424
+* https://twitter.com/o_morimori_/status/1267335590510424064
 
 
 ### Police shoot crowd of unarmed protesters with rubber bullets | (Believed to be) May 31st
@@ -603,7 +609,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-16
 
-geolocation: 
+geolocation: 34.0761439, -118.3573996
 
 **Links**
 
@@ -618,27 +624,11 @@ tags: arrest, beat, protester, shield, shove
 
 id: ca-losangeles-28
 
-geolocation: 
+geolocation: 34.0760986, -118.3566148
 
 **Links**
 
 * https://twitter.com/jkishore/status/1267216022634999808
-
-
-### Police beat and pepper spray protesters | May 31st
-
-Protester who repeatedly says he cannot see is shoved by an officer with a baton. The filmer yells at the officer that the protester is having trouble seeing. The officer pepper sprays the filmer.
-
-tags: arrest, less-lethal, pepper-spray, protester, shove, spray, strike
-
-id: ca-losangeles-45
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/r0seghoul/status/1268729811066740737
-* https://www.tiktok.com/@laurenxorose/video/6833031215541521669
 
 
 ### Police shoot rubber bullets at two peaceful protesters | June 1st
@@ -649,27 +639,13 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-15
 
-geolocation: 
+geolocation: 34.0488192, -118.2504901
 
 **Links**
 
 * [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+* https://twitter.com/JacksonWMonroe/status/1267208621558915072
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
-
-
-### LAPD destroy car to drag out occupants | (Believed to be) June 1st
-
-LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
-
-tags: property-destruction, protester
-
-id: ca-losangeles-25
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/GadiNBC/status/1268016449320177665
 
 
 ### Business owner flags down police for protection from looters; she is arrested | June 1st
@@ -682,7 +658,7 @@ tags: arrest, bystander, racial-profiling, shove
 
 id: ca-losangeles-26
 
-geolocation: 
+geolocation: 34.2046129, -118.4511648
 
 **Links**
 
@@ -702,7 +678,7 @@ tags: abuse-of-power, arrest, homeless, inhumane-treatment, protester, threaten,
 
 id: ca-losangeles-19
 
-geolocation: 
+geolocation: 34.0593522, -118.4614724
 
 **Links**
 
@@ -720,6 +696,22 @@ geolocation:
 * https://www.tiktok.com/@manicxmel/video/6833292986214894853
 
 
+### LAPD destroy car to drag out occupants | June 2nd
+
+LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
+
+tags: property-destruction, protester
+
+id: ca-losangeles-25
+
+geolocation: 34.0908516, -118.3180258
+
+**Links**
+
+* https://twitter.com/GadiNBC/status/1268016449320177665
+* https://www.nbclosangeles.com/news/local/protests-george-floyd-los-angeles-curfew-downtown-la-venice/2373095/
+
+
 ### Police arrest protesters en masse and detain them in poor conditions | June 2nd
 
 Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city.
@@ -732,7 +724,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, protester, threaten, z
 
 id: ca-losangeles-32
 
-geolocation: 
+geolocation: 34.0591193, -118.3227323
 
 **Links**
 
@@ -751,7 +743,7 @@ tags: drive, less-lethal, pepper-ball, protester, shoot, vehicle
 
 id: ca-losangeles-1
 
-geolocation: 
+geolocation: 34.0944075, -118.3385753
 
 **Links**
 
@@ -759,7 +751,6 @@ geolocation:
 * https://twitter.com/theweirdingwayy/status/1268048483920928768
 * https://twitter.com/EarvinD/status/1268087279458775040
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
-* https://twitter.com/ItsjustmeD_/status/1268596982966218752
 
 
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
@@ -772,7 +763,7 @@ tags: bystander, homeless, less-lethal, person-with-disability, projectile, shoo
 
 id: ca-losangeles-17
 
-geolocation: 
+geolocation: 34.0487865, -118.2504023
 
 **Links**
 
@@ -791,7 +782,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-27
 
-geolocation: 
+geolocation: 34.0944075, -118.3385753
 
 **Links**
 
@@ -825,7 +816,7 @@ tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-losangeles-57
 
-geolocation: 
+geolocation: 34.1015944, -118.328136
 
 **Links**
 
@@ -835,45 +826,30 @@ geolocation:
 
 ### Protester shows wound inflicted by less-lethal round | June 3rd
 
-Footage from June 3rd shows a still of a wound on a protester's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+Footage from June 3rd shows a still of a wound on a protester's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use. Footage was taken in Downtown LA. While it is not clear exactly where the shot was fired, the protester states at one point that he was near the harbor freeway entrance in downtown LA.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-41
 
-geolocation: 
+geolocation: 34.049168, -118.2595779
 
 **Links**
 
 * https://www.instagram.com/p/CBBpSZPnyke/
 
 
-### Police fire projectiles at protesters and discharge teargas | June 5th
-
-In Lakewood, police fire projectiles at protesters and discharge teargas.
-
-tags: less-lethal, projectile, protester, shoot, tear-gas
-
-id: ca-losangeles-20
-
-geolocation: 
-
-**Links**
-
-* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
-
-
 ### Medic treats rubber bullet wound | June 8th
 
 Footage from June 8th shows a medic treating a wound on the thigh of a female protester. The bullet broke the skin and has caused major bruising in a circle around the point of contact. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
+
+While the location of the shooting is not certain, protesters can be heard saying they are on Melrose street. Protests tended to occur around the intersection of Melrose and Fairfax, radiating around the area.
 
 tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-losangeles-42
 
-geolocation: 
+geolocation: 34.0838456, -118.3614283
 
 **Links**
 
@@ -888,13 +864,13 @@ Footage from instagram (second link, fourth in list) shows a man suffering an as
 
 Additional [footage](https://www.instagram.com/p/CCqPuekHCyg/) shows an officer striking a protester with a baton as the protester tries to help the man in the wheelchair.
 
-Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges against him were dropped.\
+Another [update](https://www.instagram.com/p/CCxPb28hRdN/) states all charges against him were dropped.
 
 tags: arrest, baton, person-with-disability, property-destruction, shove, strike
 
 id: ca-losangeles-40
 
-geolocation: 
+geolocation: 34.0509527, -118.2585966
 
 **Links**
 
@@ -916,7 +892,7 @@ tags: arrest, baton, property-destruction, protester, shove, strike
 
 id: ca-losangeles-43
 
-geolocation: 
+geolocation: 34.0530795, -118.2440239
 
 **Links**
 
@@ -932,7 +908,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-44
 
-geolocation: 
+geolocation: 34.0535364, -118.2488016
 
 **Links**
 
@@ -947,7 +923,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-47
 
-geolocation: 
+geolocation: 34.0535364, -118.2488016
 
 **Links**
 
@@ -963,7 +939,7 @@ tags: protester, push, shove
 
 id: ca-losangeles-46
 
-geolocation: 
+geolocation: 34.2413537, -118.2675791
 
 **Links**
 
@@ -981,7 +957,7 @@ tags: baton, less-lethal, projectile, protester, push, shoot, shove
 
 id: ca-losangeles-48
 
-geolocation: 
+geolocation: 34.2413537, -118.2675791
 
 **Links**
 
@@ -1000,22 +976,24 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-losangeles-49
 
-geolocation: 
+geolocation: 34.051824, -118.2461446
 
 **Links**
 
 * https://www.instagram.com/tv/CEV-cnggrvj/
+* https://www.latimes.com/california/story/2020-08-25/protesters-marching-in-downtown-l-a-monday-night-decry-police-shootings
+* https://losangeles.cbslocal.com/2020/08/25/jacob-blake-protesters-clash-with-officers-outside-lapd-headquarters/
 
 
 ### Officers trap protesters under bridge and shoot them | August 26th
 
-Protesters in LA were trapped by police in a tunnel. Police demanded that protesters relinquish their shields. As protesters began to do so, police fired on the crowd. Police then held protesters at the scene, allegedly allowing them to leave in small groups after being frisked.
+Protesters in LA were trapped by police in the 3rd Street Tunnel. Police demanded that protesters relinquish their shields. As protesters began to do so, police fired on the crowd. Police then held protesters at the scene, allegedly allowing them to leave in small groups after being frisked.
 
 tags: abuse-of-power, less-lethal, projectile, protester, shoot
 
 id: ca-losangeles-50
 
-geolocation: 
+geolocation: 34.0528905, -118.2532847
 
 **Links**
 
@@ -1029,13 +1007,13 @@ geolocation:
 
 ### LA Sheriffs fire impact munitions at protesters | September 5th
 
-LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk. The LASD allegedly never declared an unlawful assembly.
+LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk outside the LASD station at 1310 West Imperial Highway. The LASD allegedly never declared an unlawful assembly.
 
 tags: foam-bullet, less-lethal, pepper-ball, projectile, protester, shoot, stun-grenade
 
 id: ca-losangeles-51
 
-geolocation: 
+geolocation: 33.9296714, -118.3007234
 
 **Links**
 
@@ -1059,7 +1037,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, protester, shoot, stun-g
 
 id: ca-losangeles-52
 
-geolocation: 
+geolocation: 33.9308852, -118.2985867
 
 **Links**
 
@@ -1086,7 +1064,7 @@ tags: bystander, less-lethal, pepper-ball, projectile, property-destruction, pro
 
 id: ca-losangeles-53
 
-geolocation: 
+geolocation: 33.9309062, -118.3000642
 
 **Links**
 
@@ -1105,7 +1083,7 @@ tags: arrest, journalist, tackle
 
 id: ca-losangeles-54
 
-geolocation: 
+geolocation: 33.9317661, -118.300295
 
 **Links**
 
@@ -1123,7 +1101,7 @@ tags: arrest, journalist, property-destruction
 
 id: ca-losangeles-55
 
-geolocation: 
+geolocation: 33.9305919, -118.2053695
 
 **Links**
 
@@ -1145,7 +1123,7 @@ tags: arrest, protester
 
 id: ca-losangeles-56
 
-geolocation: 
+geolocation: 34.0501764, -118.2490047
 
 **Links**
 
@@ -1164,14 +1142,14 @@ tags: journalist, push, shove
 
 id: ca-losangeles-58
 
-geolocation: 
+geolocation: 34.0518579, -118.2436692
 
 **Links**
 
 * https://twitter.com/ShotOn35mm/status/1309007382345928705
 
 
-### Police fire impact munitions at protesters, then make several arrests | September 23rd
+### Police fire impact munitions at protesters, then make several arrests | September 25th
 
 Police in Los Angeles deploy impact munitions, believed to be pepper balls, against protesters in large quantities as they push back the crowd and make several arrests.
 
@@ -1179,7 +1157,7 @@ tags: less-lethal, pepper-ball, projectile, protester, shoot
 
 id: ca-losangeles-59
 
-geolocation: 
+geolocation: 34.0906705, -118.3858618
 
 **Links**
 
@@ -1188,7 +1166,7 @@ geolocation:
 * https://twitter.com/SamBraslow/status/1309734358564048896
 
 
-### Officer strikes detained protester with shield | September 23rd
+### Officer strikes detained protester with shield | September 25th
 
 During a protest, police made several arrests. One officer is seen detaining a protester, while a second uses his shield to subdue the protester. The officer swings the shield downward, striking the protester's ankle repeatedly with the edge of the shield.
 
@@ -1196,7 +1174,7 @@ tags: arrest, protester, shield, strike
 
 id: ca-losangeles-60
 
-geolocation: 
+geolocation: 34.0906705, -118.3858618
 
 **Links**
 
@@ -1220,7 +1198,7 @@ tags: abuse-of-power, protester
 
 id: ca-norco-1
 
-geolocation: 
+geolocation: 33.9311538, -117.5605275
 
 **Links**
 
@@ -1238,12 +1216,13 @@ tags: drive, protester, vehicle
 
 id: ca-oakland-1
 
-geolocation: 
+geolocation: 37.7730406, -122.2162003
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
 * https://tuckbot.tv/#/watch/gttdkj
+* https://imgur.com/a/Izbobvx
 
 
 ### Oakland law enforcement shoot a reporter | May 31st
@@ -1254,7 +1233,7 @@ tags: journalist, shoot
 
 id: ca-oakland-2
 
-geolocation: 
+geolocation: 37.8060529, -122.2705301
 
 **Links**
 
@@ -1269,7 +1248,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ca-oakland-3
 
-geolocation: 
+geolocation: 37.8002087, -122.2737406
 
 **Links**
 
@@ -1285,7 +1264,7 @@ tags: arrest, protester, tackle
 
 id: ca-oakland-4
 
-geolocation: 
+geolocation: 37.8059558, -122.2703161
 
 **Links**
 
@@ -1294,7 +1273,7 @@ geolocation:
 
 ## Riverside
 
-### Law enforcement break a car window for no apparent reason | June 2nd
+### Law enforcement break a car window for no apparent reason | June 1st
 
 A line of law enforcement officers are walking down the street.  When they approach a parked vehicle, law enforcement break the vehicle's window for no apparent reason.
 
@@ -1302,7 +1281,7 @@ tags: property-destruction
 
 id: ca-riverside-1
 
-geolocation: 
+geolocation: 33.9813734, -117.3754766
 
 **Links**
 
@@ -1319,11 +1298,12 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sacramento-6
 
-geolocation: 
+geolocation: 8.5763383, -121.4807559
 
 **Links**
 
 * https://www.kcra.com/article/sacramento-resident-needs-surgery-head-injuries-george-floyd-protest/32801846
+* https://www.docdroid.com/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf#page=4
 
 
 ### Police shoot protester in the head | May 30th
@@ -1334,7 +1314,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-sacramento-1
 
-geolocation: 
+geolocation: 38.5827287, -121.4985581
 
 **Links**
 
@@ -1350,7 +1330,7 @@ tags: legal-observer, less-lethal, projectile, protester, shoot
 
 id: ca-sacramento-2
 
-geolocation: 
+geolocation: 8.5763383, -121.4807559
 
 **Links**
 
@@ -1367,7 +1347,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: ca-sacramento-5
 
-geolocation: 
+geolocation: 38.5781843, -121.4943541
 
 **Links**
 
@@ -1383,7 +1363,7 @@ tags: baton, choke, protester, push, shove, threaten
 
 id: ca-sacramento-3
 
-geolocation: 
+geolocation: 38.5784745, -121.4868259
 
 **Links**
 
