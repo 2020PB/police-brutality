@@ -6657,6 +6657,7 @@ geolocation: 45.5231512, -122.6139196
 * https://twitter.com/Johnnthelefty/status/1312289903426723840
 * https://www.reddit.com/r/PublicFreakout/comments/j4fmov/motorcycle_cop_drives_over_a_protestor_after_a/
 * https://twitter.com/baaascom/status/1312293492702371842
+* https://twitter.com/AlexStojanovPDX/status/1312290472296022016
 
 
 ## Salem
