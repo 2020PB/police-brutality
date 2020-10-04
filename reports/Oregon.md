@@ -6640,6 +6640,23 @@ geolocation:
 * https://twitter.com/andrewkimmel/status/1310786746615963648
 
 
+### Officer on motorcylce rides over protestors | October 2nd
+
+An officer on a motorcycle pulls onto the street where a protester is standing. The officer drives into the protester. The protester does not move out of the way. The officer then accelerates down the street, dragging the protester with them.
+
+The protest began near the Penumbra Kelly Building and this incident appears to have occurred nearby.
+
+id: or-portland-384
+
+geolocation: 45.5231512,-122.6139196
+
+**Links**
+
+* https://twitter.com/Johnnthelefty/status/1312289903426723840
+* https://www.reddit.com/r/PublicFreakout/comments/j4fmov/motorcycle_cop_drives_over_a_protestor_after_a/
+* https://twitter.com/baaascom/status/1312293492702371842
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
