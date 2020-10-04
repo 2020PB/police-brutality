@@ -637,3 +637,18 @@ geolocation:
 
 * https://twitter.com/blackhousenew/status/1310090868494348288
 
+
+### Police wrestle with protesters | October 3rd
+
+Metro police grapple with counter-protesters at a WalkAway rally. Several Black Lives Matter protesters are pushed, tackled and arrested. It is unclear how the altercation began.
+
+tags: arrest, protester, push, shove, tackle
+
+id: dc-dc-38
+
+geolocation: 38.889484, -77.035278
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1312447763854974976
+
