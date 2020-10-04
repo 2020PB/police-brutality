@@ -6646,7 +6646,7 @@ An officer on a motorcycle pulls onto the street where a protester is standing. 
 
 The protest began near the Penumbra Kelly Building and this incident appears to have occurred nearby.
 
-tags: vehicle, protester
+tags: protester, vehicle
 
 id: or-portland-384
 
