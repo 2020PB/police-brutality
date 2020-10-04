@@ -290,7 +290,7 @@ tags: horse, protester, push, shove
 
 id: tx-austin-17
 
-geolocation: 30.266287, -97.743463 
+geolocation: 30.266287, -97.743463
 
 **Links**
 

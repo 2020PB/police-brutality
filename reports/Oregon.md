@@ -6640,15 +6640,17 @@ geolocation:
 * https://twitter.com/andrewkimmel/status/1310786746615963648
 
 
-### Officer on motorcylce rides over protestors | October 2nd
+### Officer on motorcylce rides over protesters | October 2nd
 
 An officer on a motorcycle pulls onto the street where a protester is standing. The officer drives into the protester. The protester does not move out of the way. The officer then accelerates down the street, dragging the protester with them.
 
 The protest began near the Penumbra Kelly Building and this incident appears to have occurred nearby.
 
+tags: 
+
 id: or-portland-384
 
-geolocation: 45.5231512,-122.6139196
+geolocation: 45.5231512, -122.6139196
 
 **Links**
 
