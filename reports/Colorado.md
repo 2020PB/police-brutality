@@ -491,7 +491,7 @@ After tackling the protester, officers punched him and struck him with a baton. 
 
 The protester will go to court on September 28th to fight the charge of disarming a police officer.
 
-tags: baton, strike, punch, arrest, sexual-assault, inhumane-treatment
+tags: arrest, baton, inhumane-treatment, punch, sexual-assault, strike
 
 id: co-denver-28
 
