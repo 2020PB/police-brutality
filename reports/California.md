@@ -1674,28 +1674,33 @@ tags: less-lethal, protester, shoot, tear-gas
 
 id: ca-sanluisobispo-1
 
-geolocation: 
+geolocation: 35.2855771,-120.6624956
 
 **Links**
 
 * https://twitter.com/ma7dz/status/1267697838244298752
+* https://twitter.com/ma7dz/status/1267723661122760705
 
 
 ## Santa Ana
 
 ### Police open fire on protesters | May 31st
 
-The individual recording the video is trying his best to save his fellow protester, however his cries are upon deaf ears, the police continue to shoot at them around 0:16
+The protester filming calls for a medic to help a fellow protester in a street median. A police line approaches. At 0:16, police fire on the protesters again.
+
+Tear gas was also deployed against protesters during this incident.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: ca-santaana-1
 
-geolocation: 
+geolocation: 35.2855771,-120.6624956
 
 **Links**
 
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
+* https://twitter.com/CBSmichelegile/status/1266956544647692288
+* https://losangeles.cbslocal.com/2020/05/31/santa-ana-protestors-throw-bottles-fireworks-at-officers/
 
 
 ## Santa Monica
