@@ -1376,35 +1376,19 @@ geolocation: 38.5784745, -121.4868259
 
 ### Police kettle and fire on fleeing protesters | May 31st
 
-Police block off sidewalks to kettle protesters. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protesters at close range. Protesters are shoved by authorities as they plead for officers to stop firing on them.
+Police block off sidewalks to kettle protesters outside the Edward J. Schwartz federal building in downtown San Diego. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protesters at close range. Protesters are shoved by authorities as they plead for officers to stop firing on them.
 
 tags: less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: ca-sandiego-2
 
-geolocation: 
+geolocation: 32.7144295,-117.1668697
 
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
 * [Youtube mirror](https://www.youtube.com/watch?v=dHji5Xrcbo8&feature=youtu.be)
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
-
-
-### Woman shot in the face with a rubber bullet | May 31st
-
-Footage of a woman bleeding profusely from the head. Poster says SDPB were using rubber bullets. The woman was taken to the hospital and was in stable condition as of May 31st
-
-tags: less-lethal, protester, rubber-bullet, shoot
-
-id: ca-sandiego-3
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/chadloder/status/1267290221562871809
-* https://twitter.com/MarajYikes/status/1267030131563827200
 
 
 ### Police fire on dancing protesters | May 31st
@@ -1415,7 +1399,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sandiego-4
 
-geolocation: 
+geolocation: 32.7164306,-117.1636962
 
 **Links**
 
@@ -1430,7 +1414,7 @@ tags: journalist, less-lethal, pepper-ball, shoot, tear-gas
 
 id: ca-sandiego-5
 
-geolocation: 
+geolocation: 32.7155187,-117.165556
 
 **Links**
 
@@ -1440,13 +1424,13 @@ geolocation:
 
 ### Police abduct woman in unmarked van | June 4th
 
-A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
+A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van. The incident occurred by the entrance to San Diego High School.
 
 tags: arrest, hide-badge, inhumane-treatment, protester, threaten
 
 id: ca-sandiego-1
 
-geolocation: 
+geolocation: 32.720796,-117.153584
 
 **Links**
 
@@ -1455,13 +1439,13 @@ geolocation:
 
 ### Police throw stun grenades at protesters changing flag | September 23rd
 
-Footage shows protesters attempting to lower a California state flag. Police charge at protesters. Protesters scatter. Police then deploy stun grenades at protesters after they have already cleared from around the flag.
+Footage shows protesters attempting to lower a California state flag outside the San Diego Police Department downtown headquarters. Police charge at protesters. Protesters scatter. Police then deploy stun grenades at protesters after they have already cleared from around the flag.
 
 tags: less-lethal, protester, stun-grenade
 
 id: ca-sandiego-6
 
-geolocation: 
+geolocation: 32.7153466,-117.1532613
 
 **Links**
 
@@ -1476,7 +1460,7 @@ tags: bike, protester, push, shove
 
 id: ca-sandiego-7
 
-geolocation: 
+geolocation: 32.7177756,-117.1695895
 
 **Links**
 
