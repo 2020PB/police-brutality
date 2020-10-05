@@ -1227,6 +1227,4 @@ geolocation: 47.6188863,-122.3253452
 
 **Links**
 
-* 
-
-https://twitter.com/iNFoPiG2/status/1312860281240907777
+* https://twitter.com/iNFoPiG2/status/1312860281240907777
