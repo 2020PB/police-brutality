@@ -495,7 +495,7 @@ tags: arrest, baton, inhumane-treatment, punch, sexual-assault, strike
 
 id: co-denver-28
 
-geolocation: 39.7394974,-104.9900945
+geolocation: 39.7394974, -104.9900945
 
 **Links**
 
