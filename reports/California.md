@@ -1382,7 +1382,7 @@ tags: less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: ca-sandiego-2
 
-geolocation: 32.7144295, -117.1668697
+geolocation: 32.7144295,-117.1668697
 
 **Links**
 
@@ -1399,7 +1399,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sandiego-4
 
-geolocation: 32.7164306, -117.1636962
+geolocation: 32.7164306,-117.1636962
 
 **Links**
 
@@ -1414,7 +1414,7 @@ tags: journalist, less-lethal, pepper-ball, shoot, tear-gas
 
 id: ca-sandiego-5
 
-geolocation: 32.7155187, -117.165556
+geolocation: 32.7155187,-117.165556
 
 **Links**
 
@@ -1430,7 +1430,7 @@ tags: arrest, hide-badge, inhumane-treatment, protester, threaten
 
 id: ca-sandiego-1
 
-geolocation: 32.720796, -117.153584
+geolocation: 32.720796,-117.153584
 
 **Links**
 
@@ -1445,7 +1445,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: ca-sandiego-6
 
-geolocation: 32.7153466, -117.1532613
+geolocation: 32.7153466,-117.1532613
 
 **Links**
 
@@ -1460,7 +1460,7 @@ tags: bike, protester, push, shove
 
 id: ca-sandiego-7
 
-geolocation: 32.7177756, -117.1695895
+geolocation: 32.7177756,-117.1695895
 
 **Links**
 
@@ -1478,7 +1478,7 @@ tags: drive, protester, shove
 
 id: ca-sanfrancisco-1
 
-geolocation: 
+geolocation: 37.7925758,-122.3974486
 
 **Links**
 
@@ -1495,7 +1495,7 @@ tags: less-lethal, projectile, protester, shoot, threaten
 
 id: ca-sanjose-1
 
-geolocation: 
+geolocation: 37.3381932,-121.8862008
 
 **Links**
 
@@ -1515,7 +1515,7 @@ tags: arrest, knee-on-neck, protester
 
 id: ca-sanjose-3
 
-geolocation: 
+geolocation: 37.3386496,-121.8852466
 
 **Links**
 
@@ -1530,7 +1530,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-sanjose-2
 
-geolocation: 
+geolocation: 37.3381942,-121.886265
 
 **Links**
 
@@ -1550,7 +1550,7 @@ tags: less-lethal, property-destruction, protester, rubber-bullet, shoot, shove,
 
 id: ca-sanjose-4
 
-geolocation: 
+geolocation: 37.3396426,-121.883425
 
 **Links**
 
@@ -1565,7 +1565,7 @@ tags: explosive, less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-sanjose-5
 
-geolocation: 
+geolocation: 37.3353196,-121.8893149
 
 **Links**
 
@@ -1580,7 +1580,7 @@ tags: foam-bullet, less-lethal, protester, shoot
 
 id: ca-sanjose-8
 
-geolocation: 
+geolocation: 37.3392172,-121.8863874
 
 **Links**
 
@@ -1599,7 +1599,7 @@ tags: arrest, baton, beat, protester, strike
 
 id: ca-sanjose-9
 
-geolocation: 
+geolocation: 37.3392126,-121.8843452
 
 **Links**
 
@@ -1621,7 +1621,7 @@ tags: bystander, less-lethal, pepper-ball, property-destruction, rubber-bullet, 
 
 id: ca-sanjose-10
 
-geolocation: 
+geolocation: 37.3387932,-121.8877422
 
 **Links**
 
@@ -1639,7 +1639,7 @@ tags: arrest, protester, vehicle
 
 id: ca-sanjose-6
 
-geolocation: 
+geolocation: 37.335747,-121.8860163
 
 **Links**
 
@@ -1656,7 +1656,7 @@ tags: protester, shoot
 
 id: ca-sanjose-7
 
-geolocation: 
+geolocation: 37.3381843,-121.8862205
 
 **Links**
 
