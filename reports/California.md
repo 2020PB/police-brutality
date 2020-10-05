@@ -1713,7 +1713,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: ca-santamonica-1
 
-geolocation: 
+geolocation: 34.0107251,-118.4940541
 
 **Links**
 
@@ -1726,13 +1726,15 @@ On May 31st, police arrested numerous protesters for curfew violations. These pr
 
 Zip ties were put on too tight. Police attempted to remove zip ties with a long knife (which is not the appropriate tool). This led to multiple protesters being injured, including one who required 21 stitches; it seems unlikely that the knife was appropriately sterilized between uses, raising the possibility of bloodborne pathogen transmission.
 
+One protester, who has lived in Santa Monica since high school, states police dropped him and other protesters off outside town late at night. Police then told him he would be arrested if he returned to Santa Monica.
+
 (See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
 
 tags: abuse-of-power, arrest, inhumane-treatment, protester, zip-tie
 
 id: ca-santamonica-2
 
-geolocation: 
+geolocation: 34.0164136,-118.4989781
 
 **Links**
 
@@ -1743,6 +1745,7 @@ geolocation:
 * [News article, mentioning incident with comment from Santa Monica police](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
 * [Example of the appropriate tool to cut zip ties](https://www.lawmens.com/safety-cutter-for-disposable-restraints/?gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUtIsFPg0gSDXLSKkG__DPSoK1K2bQ5d6PZBn-rO3U5rdBEMotdtR18aAjYgEALw_wcB)
 * https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/?utm_source=share&utm_medium=web2x
+* https://www.nbclosangeles.com/news/local/man-arrested-at-protest-said-he-was-told-he-cant-go-back-to-santa-monica-where-he-lives/2379044/
 
 
 ### Reporter shot with rubber bullets | May 31st
@@ -1753,7 +1756,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: ca-santamonica-3
 
-geolocation: 
+geolocation: 34.0107251,-118.4940541
 
 **Links**
 
@@ -1775,7 +1778,7 @@ tags: death, live-round, shoot
 
 id: ca-vallejo-1
 
-geolocation: 
+geolocation: 38.1231701,-122.2523552
 
 **Links**
 
@@ -1794,7 +1797,7 @@ tags: less-lethal, protester, tear-gas, threaten, vehicle
 
 id: ca-walnutcreek-1
 
-geolocation: 
+geolocation: 37.9148825,-122.0660187
 
 **Links**
 
@@ -1813,7 +1816,7 @@ tags: arrest, dog, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: ca-walnutcreek-3
 
-geolocation: 
+geolocation: 37.9151504,-122.0641695
 
 **Links**
 
@@ -1830,7 +1833,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ca-walnutcreek-2
 
-geolocation: 
+geolocation: 37.9034738,-122.0650245
 
 **Links**
 
@@ -1847,7 +1850,7 @@ tags: arrest, protester
 
 id: ca-whittier-1
 
-geolocation: 
+geolocation: 33.9751207,-118.0366598
 
 **Links**
 
