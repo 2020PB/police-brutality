@@ -1199,11 +1199,11 @@ At a protest in Seattle, police on bicycles shoved protesters walking away from 
 
 Prior to this incident, protesters allegedly damaged the windows of a Starbucks at East Olive Way.
 
-tags: arrest, push, shove, bicycle, shoot, projectile, less-lethal, pepper-ball, protester, journalist, pepper-spray, spray
+tags: arrest, bike, journalist, less-lethal, pepper-ball, pepper-spray, projectile, protester, push, shoot, shove, spray
 
 id: wa-seattle-72
 
-geolocation: 47.619373,-122.324992
+geolocation: 47.619373, -122.324992
 
 **Links**
 
@@ -1219,12 +1219,13 @@ geolocation: 47.619373,-122.324992
 
 Police push protesters back near the intersection of East Olive Way and Summit Avenue in Seattle. Several motorists are trapped in the push. They drive forward slowly in an attempt to leave. An officer bangs on the window of the minivan, telling the driver to move faster. The driver appears to attempt to continue leaving, but is unable to do so quickly. Officers then arrest the driver.
 
-tags: bystander, arrest
+tags: arrest, bystander
 
 id: wa-seattle-73
 
-geolocation: 47.6188863,-122.3253452
+geolocation: 47.6188863, -122.3253452
 
 **Links**
 
 * https://twitter.com/iNFoPiG2/status/1312860281240907777
+
