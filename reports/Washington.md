@@ -1192,3 +1192,41 @@ geolocation:
 * https://twitter.com/MarcusKulik/status/1310847377092169728
 * [Earlier footage showing individual walking down street, not near protesters](https://twitter.com/MarcusKulik/status/1310850132892508160)
 
+
+### Police shove, shoot at, and arrest protesters | October 3rd
+
+At a protest in Seattle, police on bicycles shoved protesters walking away from them. Protesters were complying with direction to "move back." Police charged and shoved protesters. Making multiple arrests. Police additionally fired impact munitions, believed to be pepper balls, into the crowd. Police also used mace to subdue the crowd. An independent journalist, Alissa Azar, was shot in the back of the neck.
+
+Prior to this incident, protesters allegedly damaged the windows of a Starbucks at East Olive Way.
+
+tags: arrest, push, shove, bicycle, shoot, projectile, less-lethal, pepper-ball, protester, journalist, pepper-spray, spray
+
+id: wa-seattle-72
+
+geolocation: 47.619373,-122.324992
+
+**Links**
+
+* https://twitter.com/MNMissy/status/1312625065851318274
+* https://twitter.com/R3volutionDaddy/status/1312612056600731650
+* https://twitter.com/R3volutionDaddy/status/1312612595380101120
+* https://www.reddit.com/r/PublicFreakout/comments/j503l5/seattle_police_make_an_arrest_threaten_press/
+* https://twitter.com/iNFoPiG2/status/1312862053141413888
+* https://twitter.com/iNFoPiG2/status/1312867227561979904
+
+
+### Police arrest bystander in minivan during protest | October 3rd
+
+Police push protesters back near the intersection of East Olive Way and Summit Avenue in Seattle. Several motorists are trapped in the push. They drive forward slowly in an attempt to leave. An officer bangs on the window of the minivan, telling the driver to move faster. The driver appears to attempt to continue leaving, but is unable to do so quickly. Officers then arrest the driver.
+
+tags: bystander, arrest
+
+id: wa-seattle-73
+
+geolocation: 47.6188863,-122.3253452
+
+**Links**
+
+* 
+
+https://twitter.com/iNFoPiG2/status/1312860281240907777
