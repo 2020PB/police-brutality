@@ -1713,7 +1713,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: ca-santamonica-1
 
-geolocation: 34.0107251,-118.4940541
+geolocation: 34.0107251, -118.4940541
 
 **Links**
 
@@ -1734,7 +1734,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, protester, zip-tie
 
 id: ca-santamonica-2
 
-geolocation: 34.0164136,-118.4989781
+geolocation: 34.0164136, -118.4989781
 
 **Links**
 
@@ -1756,7 +1756,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: ca-santamonica-3
 
-geolocation: 34.0107251,-118.4940541
+geolocation: 34.0107251, -118.4940541
 
 **Links**
 
@@ -1778,7 +1778,7 @@ tags: death, live-round, shoot
 
 id: ca-vallejo-1
 
-geolocation: 38.1231701,-122.2523552
+geolocation: 38.1231701, -122.2523552
 
 **Links**
 
@@ -1797,7 +1797,7 @@ tags: less-lethal, protester, tear-gas, threaten, vehicle
 
 id: ca-walnutcreek-1
 
-geolocation: 37.9148825,-122.0660187
+geolocation: 37.9148825, -122.0660187
 
 **Links**
 
@@ -1816,7 +1816,7 @@ tags: arrest, dog, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: ca-walnutcreek-3
 
-geolocation: 37.9151504,-122.0641695
+geolocation: 37.9151504, -122.0641695
 
 **Links**
 
@@ -1833,7 +1833,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ca-walnutcreek-2
 
-geolocation: 37.9034738,-122.0650245
+geolocation: 37.9034738, -122.0650245
 
 **Links**
 
@@ -1850,7 +1850,7 @@ tags: arrest, protester
 
 id: ca-whittier-1
 
-geolocation: 33.9751207,-118.0366598
+geolocation: 33.9751207, -118.0366598
 
 **Links**
 
