@@ -1382,7 +1382,7 @@ tags: less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: ca-sandiego-2
 
-geolocation: 32.7144295,-117.1668697
+geolocation: 32.7144295, -117.1668697
 
 **Links**
 
@@ -1399,7 +1399,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sandiego-4
 
-geolocation: 32.7164306,-117.1636962
+geolocation: 32.7164306, -117.1636962
 
 **Links**
 
@@ -1414,7 +1414,7 @@ tags: journalist, less-lethal, pepper-ball, shoot, tear-gas
 
 id: ca-sandiego-5
 
-geolocation: 32.7155187,-117.165556
+geolocation: 32.7155187, -117.165556
 
 **Links**
 
@@ -1430,7 +1430,7 @@ tags: arrest, hide-badge, inhumane-treatment, protester, threaten
 
 id: ca-sandiego-1
 
-geolocation: 32.720796,-117.153584
+geolocation: 32.720796, -117.153584
 
 **Links**
 
@@ -1445,7 +1445,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: ca-sandiego-6
 
-geolocation: 32.7153466,-117.1532613
+geolocation: 32.7153466, -117.1532613
 
 **Links**
 
@@ -1460,7 +1460,7 @@ tags: bike, protester, push, shove
 
 id: ca-sandiego-7
 
-geolocation: 32.7177756,-117.1695895
+geolocation: 32.7177756, -117.1695895
 
 **Links**
 
