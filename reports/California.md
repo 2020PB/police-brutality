@@ -1674,7 +1674,7 @@ tags: less-lethal, protester, shoot, tear-gas
 
 id: ca-sanluisobispo-1
 
-geolocation: 35.2855771,-120.6624956
+geolocation: 35.2855771, -120.6624956
 
 **Links**
 
@@ -1694,7 +1694,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ca-santaana-1
 
-geolocation: 35.2855771,-120.6624956
+geolocation: 35.2855771, -120.6624956
 
 **Links**
 
