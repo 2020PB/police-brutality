@@ -483,6 +483,29 @@ geolocation:
 * https://twitter.com/jquynhreports/status/1288527389253865472
 
 
+### Denver police tackle, arrest, and sexually assault protester | July 29th
+
+At a protest on July 29th, a protester was tackled by police. Police claim the man resisted arrest and attempted to disarm an officer. The protester denies these allegations, saying he was rattling a chain link fence and no more.
+
+After tackling the protester, officers punched him and struck him with a baton. One officer can be seen jabbing the protester in the rear end with a baton. The protester states he was sexually assault, with the officer shoving the baton into his rectum. That night, he was given a rape kit and examined for signs of sexual assault. Records from a specialist two weeks later diagnosed the protester with rectal and anal hemorrhage, as well as hemorrhoids.
+
+The protester will go to court on September 28th to fight the charge of disarming a police officer.
+
+tags: baton, strike, punch, arrest, sexual-assault, inhumane-treatment
+
+id: co-denver-28
+
+geolocation: 
+
+**Links**
+
+* https://nypost.com/2020/09/17/protester-accuses-denver-cop-of-sexual-assault-during-arrest/
+* https://twitter.com/MaxGeopolitics/status/1306098164202577920
+* https://newsmaven.io/pinacnews/cops-gone-rogue/watch-denver-cop-accused-of-ramming-baton-into-man-s-anus-during-protest-vwjx5DfGEUuKlHa1HAODbQ
+* https://streamable.com/3pn8wa
+* https://denverite.com/2020/09/21/everything-we-know-and-dont-about-the-claim-that-a-denver-police-officer-assaulted-a-protester-with-a-baton/
+
+
 ### Denver police arrest protester outside homeless encampment, fire impact munitions at others | August 26th
 
 Denver police have been routinely sweeping homeless encampments and displacing individuals staying in the park. Members of the community have gathered to protest and give aid, and NLG members often attend to observe.
