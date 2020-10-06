@@ -6664,11 +6664,11 @@ geolocation: 45.5231512, -122.6139196
 
 A protester is seen bleeding from the face. Protest medics treat them at the scene of the protest. The protester states they were shot with an impact munition by a sheriff deputy.
 
-tags: protester, shoot, projectile, less-lethal
+tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-385
 
-geolocation: 45.5151465,-122.6771864
+geolocation: 45.5151465, -122.6771864
 
 **Links**
 
@@ -6679,11 +6679,11 @@ geolocation: 45.5151465,-122.6771864
 
 Protesters are seen locking arms and bunching up on the sidewalk. Police target several individuals for arrest, without having declared an unlawful assembly. Protesters are ripped out of the clump and thrown to the ground before being arrested.
 
-tags: arrest, protester, shove, push, throw
+tags: arrest, protester, push, shove, throw
 
 id: or-portland-386
 
-geolocation: 45.5150764,-122.6783649
+geolocation: 45.5150764, -122.6783649
 
 **Links**
 
