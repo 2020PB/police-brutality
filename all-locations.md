@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-06T01:06:04.674634+00:00
+UPDATED AT: 2020-10-06T01:06:23.827660+00:00
 
 
 # Alabama
@@ -1745,35 +1745,19 @@ geolocation: 38.5784745, -121.4868259
 
 ### Police kettle and fire on fleeing protesters | May 31st
 
-Police block off sidewalks to kettle protesters. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protesters at close range. Protesters are shoved by authorities as they plead for officers to stop firing on them.
+Police block off sidewalks to kettle protesters outside the Edward J. Schwartz federal building in downtown San Diego. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protesters at close range. Protesters are shoved by authorities as they plead for officers to stop firing on them.
 
 tags: less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: ca-sandiego-2
 
-geolocation: 
+geolocation: 32.7144295, -117.1668697
 
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
 * [Youtube mirror](https://www.youtube.com/watch?v=dHji5Xrcbo8&feature=youtu.be)
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
-
-
-### Woman shot in the face with a rubber bullet | May 31st
-
-Footage of a woman bleeding profusely from the head. Poster says SDPB were using rubber bullets. The woman was taken to the hospital and was in stable condition as of May 31st
-
-tags: less-lethal, protester, rubber-bullet, shoot
-
-id: ca-sandiego-3
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/chadloder/status/1267290221562871809
-* https://twitter.com/MarajYikes/status/1267030131563827200
 
 
 ### Police fire on dancing protesters | May 31st
@@ -1784,7 +1768,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sandiego-4
 
-geolocation: 
+geolocation: 32.7164306, -117.1636962
 
 **Links**
 
@@ -1799,7 +1783,7 @@ tags: journalist, less-lethal, pepper-ball, shoot, tear-gas
 
 id: ca-sandiego-5
 
-geolocation: 
+geolocation: 32.7155187, -117.165556
 
 **Links**
 
@@ -1809,13 +1793,13 @@ geolocation:
 
 ### Police abduct woman in unmarked van | June 4th
 
-A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van.
+A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van. The incident occurred by the entrance to San Diego High School.
 
 tags: arrest, hide-badge, inhumane-treatment, protester, threaten
 
 id: ca-sandiego-1
 
-geolocation: 
+geolocation: 32.720796, -117.153584
 
 **Links**
 
@@ -1824,13 +1808,13 @@ geolocation:
 
 ### Police throw stun grenades at protesters changing flag | September 23rd
 
-Footage shows protesters attempting to lower a California state flag. Police charge at protesters. Protesters scatter. Police then deploy stun grenades at protesters after they have already cleared from around the flag.
+Footage shows protesters attempting to lower a California state flag outside the San Diego Police Department downtown headquarters. Police charge at protesters. Protesters scatter. Police then deploy stun grenades at protesters after they have already cleared from around the flag.
 
 tags: less-lethal, protester, stun-grenade
 
 id: ca-sandiego-6
 
-geolocation: 
+geolocation: 32.7153466, -117.1532613
 
 **Links**
 
@@ -1845,7 +1829,7 @@ tags: bike, protester, push, shove
 
 id: ca-sandiego-7
 
-geolocation: 
+geolocation: 32.7177756, -117.1695895
 
 **Links**
 
@@ -1863,7 +1847,7 @@ tags: drive, protester, shove
 
 id: ca-sanfrancisco-1
 
-geolocation: 
+geolocation: 37.7925758, -122.3974486
 
 **Links**
 
@@ -1880,7 +1864,7 @@ tags: less-lethal, projectile, protester, shoot, threaten
 
 id: ca-sanjose-1
 
-geolocation: 
+geolocation: 37.3381932, -121.8862008
 
 **Links**
 
@@ -1900,7 +1884,7 @@ tags: arrest, knee-on-neck, protester
 
 id: ca-sanjose-3
 
-geolocation: 
+geolocation: 37.3386496, -121.8852466
 
 **Links**
 
@@ -1915,7 +1899,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ca-sanjose-2
 
-geolocation: 
+geolocation: 37.3381942, -121.886265
 
 **Links**
 
@@ -1935,7 +1919,7 @@ tags: less-lethal, property-destruction, protester, rubber-bullet, shoot, shove,
 
 id: ca-sanjose-4
 
-geolocation: 
+geolocation: 37.3396426, -121.883425
 
 **Links**
 
@@ -1950,7 +1934,7 @@ tags: explosive, less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-sanjose-5
 
-geolocation: 
+geolocation: 37.3353196, -121.8893149
 
 **Links**
 
@@ -1965,7 +1949,7 @@ tags: foam-bullet, less-lethal, protester, shoot
 
 id: ca-sanjose-8
 
-geolocation: 
+geolocation: 37.3392172, -121.8863874
 
 **Links**
 
@@ -1984,7 +1968,7 @@ tags: arrest, baton, beat, protester, strike
 
 id: ca-sanjose-9
 
-geolocation: 
+geolocation: 37.3392126, -121.8843452
 
 **Links**
 
@@ -2006,7 +1990,7 @@ tags: bystander, less-lethal, pepper-ball, property-destruction, rubber-bullet, 
 
 id: ca-sanjose-10
 
-geolocation: 
+geolocation: 37.3387932, -121.8877422
 
 **Links**
 
@@ -2024,7 +2008,7 @@ tags: arrest, protester, vehicle
 
 id: ca-sanjose-6
 
-geolocation: 
+geolocation: 37.335747, -121.8860163
 
 **Links**
 
@@ -2041,7 +2025,7 @@ tags: protester, shoot
 
 id: ca-sanjose-7
 
-geolocation: 
+geolocation: 37.3381843, -121.8862205
 
 **Links**
 
@@ -2059,28 +2043,33 @@ tags: less-lethal, protester, shoot, tear-gas
 
 id: ca-sanluisobispo-1
 
-geolocation: 
+geolocation: 35.2855771, -120.6624956
 
 **Links**
 
 * https://twitter.com/ma7dz/status/1267697838244298752
+* https://twitter.com/ma7dz/status/1267723661122760705
 
 
 ## Santa Ana
 
 ### Police open fire on protesters | May 31st
 
-The individual recording the video is trying his best to save his fellow protester, however his cries are upon deaf ears, the police continue to shoot at them around 0:16
+The protester filming calls for a medic to help a fellow protester in a street median. A police line approaches. At 0:16, police fire on the protesters again.
+
+Tear gas was also deployed against protesters during this incident.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: ca-santaana-1
 
-geolocation: 
+geolocation: 35.2855771, -120.6624956
 
 **Links**
 
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
+* https://twitter.com/CBSmichelegile/status/1266956544647692288
+* https://losangeles.cbslocal.com/2020/05/31/santa-ana-protestors-throw-bottles-fireworks-at-officers/
 
 
 ## Santa Monica
@@ -2093,7 +2082,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: ca-santamonica-1
 
-geolocation: 
+geolocation: 34.0107251, -118.4940541
 
 **Links**
 
@@ -2106,13 +2095,15 @@ On May 31st, police arrested numerous protesters for curfew violations. These pr
 
 Zip ties were put on too tight. Police attempted to remove zip ties with a long knife (which is not the appropriate tool). This led to multiple protesters being injured, including one who required 21 stitches; it seems unlikely that the knife was appropriately sterilized between uses, raising the possibility of bloodborne pathogen transmission.
 
+One protester, who has lived in Santa Monica since high school, states police dropped him and other protesters off outside town late at night. Police then told him he would be arrested if he returned to Santa Monica.
+
 (See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
 
 tags: abuse-of-power, arrest, inhumane-treatment, protester, zip-tie
 
 id: ca-santamonica-2
 
-geolocation: 
+geolocation: 34.0164136, -118.4989781
 
 **Links**
 
@@ -2123,6 +2114,7 @@ geolocation:
 * [News article, mentioning incident with comment from Santa Monica police](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
 * [Example of the appropriate tool to cut zip ties](https://www.lawmens.com/safety-cutter-for-disposable-restraints/?gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUtIsFPg0gSDXLSKkG__DPSoK1K2bQ5d6PZBn-rO3U5rdBEMotdtR18aAjYgEALw_wcB)
 * https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/?utm_source=share&utm_medium=web2x
+* https://www.nbclosangeles.com/news/local/man-arrested-at-protest-said-he-was-told-he-cant-go-back-to-santa-monica-where-he-lives/2379044/
 
 
 ### Reporter shot with rubber bullets | May 31st
@@ -2133,7 +2125,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: ca-santamonica-3
 
-geolocation: 
+geolocation: 34.0107251, -118.4940541
 
 **Links**
 
@@ -2155,7 +2147,7 @@ tags: death, live-round, shoot
 
 id: ca-vallejo-1
 
-geolocation: 
+geolocation: 38.1231701, -122.2523552
 
 **Links**
 
@@ -2174,7 +2166,7 @@ tags: less-lethal, protester, tear-gas, threaten, vehicle
 
 id: ca-walnutcreek-1
 
-geolocation: 
+geolocation: 37.9148825, -122.0660187
 
 **Links**
 
@@ -2193,7 +2185,7 @@ tags: arrest, dog, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: ca-walnutcreek-3
 
-geolocation: 
+geolocation: 37.9151504, -122.0641695
 
 **Links**
 
@@ -2210,7 +2202,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ca-walnutcreek-2
 
-geolocation: 
+geolocation: 37.9034738, -122.0650245
 
 **Links**
 
@@ -2227,7 +2219,7 @@ tags: arrest, protester
 
 id: ca-whittier-1
 
-geolocation: 
+geolocation: 33.9751207, -118.0366598
 
 **Links**
 
