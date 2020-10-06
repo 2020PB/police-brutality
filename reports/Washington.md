@@ -1213,6 +1213,7 @@ geolocation: 47.619373, -122.324992
 * https://www.reddit.com/r/PublicFreakout/comments/j503l5/seattle_police_make_an_arrest_threaten_press/
 * https://twitter.com/iNFoPiG2/status/1312862053141413888
 * https://twitter.com/iNFoPiG2/status/1312867227561979904
+* https://twitter.com/spekulation/status/1313341906105982978
 
 
 ### Police arrest bystander in minivan during protest | October 3rd
