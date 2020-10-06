@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-06T01:06:23.827660+00:00
+UPDATED AT: 2020-10-06T17:42:22.245938+00:00
 
 
 # Alabama
@@ -16482,6 +16482,40 @@ geolocation: 45.5231512, -122.6139196
 * https://www.reddit.com/r/PublicFreakout/comments/j4fmov/motorcycle_cop_drives_over_a_protestor_after_a/
 * https://twitter.com/baaascom/status/1312293492702371842
 * https://twitter.com/AlexStojanovPDX/status/1312290472296022016
+
+
+### Protester shot by sheriff deputy | October 4th
+
+A protester is seen bleeding from the face. Protest medics treat them at the scene of the protest. The protester states they were shot with an impact munition by a sheriff deputy.
+
+tags: less-lethal, projectile, protester, shoot
+
+id: or-portland-385
+
+geolocation: 45.5151465, -122.6771864
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1312997624631357445
+
+
+### Police rip protesters off sidewalk for arrest | October 4th
+
+Protesters are seen locking arms and bunching up on the sidewalk. Police target several individuals for arrest, without having declared an unlawful assembly. Protesters are ripped out of the clump and thrown to the ground before being arrested.
+
+tags: arrest, protester, push, shove, throw
+
+id: or-portland-386
+
+geolocation: 45.5150764, -122.6783649
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1313009265267732480
+* https://twitter.com/MrOlmos/status/1313004031606833152
+* https://twitter.com/suzettesmith/status/1313006462042480645
+* https://twitter.com/1misanthrophile/status/1313006706687799296
+* https://twitter.com/PdxCoparazzi/status/1313002875245584384
 
 
 ## Salem
