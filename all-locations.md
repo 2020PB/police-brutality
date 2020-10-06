@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-06T18:06:12.201945+00:00
+UPDATED AT: 2020-10-06T18:12:59.006389+00:00
 
 
 # Alabama
@@ -2822,7 +2822,7 @@ tags: arrest, protester, push, shove
 
 id: ct-waterbury-1
 
-geolocation: 
+geolocation: 41.564042, -73.0333759
 
 **Links**
 
