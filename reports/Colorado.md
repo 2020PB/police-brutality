@@ -10,7 +10,7 @@ tags: baton, beat, less-lethal, pepper-spray, protester, spray, strike
 
 id: co-aurora-1
 
-geolocation: 
+geolocation: 39.7104976, -104.8128372
 
 **Links**
 
@@ -32,7 +32,7 @@ tags: arrest, beat, knee, less-lethal, protester, punch, rubber-bullet, tackle
 
 id: co-coloradosprings-1
 
-geolocation: 
+geolocation: 38.8282258, -104.8219674
 
 **Links**
 
@@ -50,7 +50,7 @@ tags: bystander, less-lethal, lrad, pepper-spray, protester, spray, tear-gas
 
 id: co-coloradosprings-2
 
-geolocation: 
+geolocation: 38.826817, -104.824381
 
 **Links**
 
@@ -69,7 +69,7 @@ tags: journalist, less-lethal, pepper-ball, shoot
 
 id: co-denver-1
 
-geolocation: 
+geolocation: 39.7384406, -104.9862618
 
 **Links**
 
@@ -77,15 +77,15 @@ geolocation:
 * https://www.nytimes.com/2020/06/01/business/media/reporters-protests-george-floyd.html
 
 
-### Police pepperspray people trying to record | May 29th
+### Police pepper spray people trying to record | May 29th
 
-A man is filming police activity through his sunroof. An officer approaches, possibly strikes the person recording, and apparently peppersprays into the car, blinding the driver and passenger. The driver is then told to move his car away. The officer also peppersprays a second person recording in front of the car.
+A man is filming police activity through his sunroof. An officer approaches, possibly strikes the person recording, and apparently pepper sprays into the car, blinding the driver and passenger. The driver is then told to move his car away. The officer also pepper sprays a second person recording in front of the car.
 
 tags: less-lethal, pepper-spray, protester, spray, vehicle
 
 id: co-denver-2
 
-geolocation: 
+geolocation: 39.7384406, -104.9862618
 
 **Links**
 
@@ -103,7 +103,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, shoot, tear-gas
 
 id: co-denver-3
 
-geolocation: 
+geolocation: 39.7401445, -104.9848038
 
 **Links**
 
@@ -121,7 +121,7 @@ tags: less-lethal, projectile, protester, shoot, vehicle
 
 id: co-denver-4
 
-geolocation: 
+geolocation: 39.7384949, -104.986315
 
 **Links**
 
@@ -136,7 +136,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
 
 id: co-denver-13
 
-geolocation: 
+geolocation: 39.7384406, -104.9862618
 
 **Links**
 
@@ -151,7 +151,7 @@ tags: journalist, push, shove, throw
 
 id: co-denver-5
 
-geolocation: 
+geolocation: 39.7384781, -104.984963
 
 **Links**
 
@@ -162,17 +162,19 @@ geolocation:
 
 ### Police tear gas and shoot protesters | May 30th
 
-Police fired tear gas after allegedly turning off their body cams.
+Police fired tear gas after allegedly turning off their body cams. The incident begins at the steps of the capitol building and continues down the street near the public library.
 
 tags: body-cam, less-lethal, protester, shoot, tear-gas
 
 id: co-denver-6
 
-geolocation: 
+geolocation: 39.7392162, -104.9860919
 
 **Links**
 
 * https://twitter.com/moneyroe99/status/1266956171409346566
+* https://twitter.com/moneyroe99/status/1266956525848932354
+* https://twitter.com/moneyroe99/status/1266957233117704192
 
 
 ### Denver law enforcement shoot at reporter standing on the sidewalk | May 30th
@@ -183,7 +185,7 @@ tags: journalist, shoot
 
 id: co-denver-7
 
-geolocation: 
+geolocation: 39.7392162, -104.9860919
 
 **Links**
 
@@ -198,7 +200,7 @@ tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: co-denver-14
 
-geolocation: 
+geolocation: 39.7404131, -104.9856867
 
 **Links**
 
@@ -214,7 +216,7 @@ tags: less-lethal, mace, protester, spray
 
 id: co-denver-15
 
-geolocation: 
+geolocation: 39.7368591, -104.9830047
 
 **Links**
 
@@ -231,7 +233,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: co-denver-23
 
-geolocation: 
+geolocation: 39.739129, -104.9887742
 
 **Links**
 
@@ -248,7 +250,7 @@ tags: bystander, less-lethal, pepper-ball, pregnant, shoot, vehicle
 
 id: co-denver-8
 
-geolocation: 
+geolocation: 39.7400076, -104.9895977
 
 **Links**
 
@@ -264,14 +266,14 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: co-denver-9
 
-geolocation: 
+geolocation: 39.7392624, -104.986139
 
 **Links**
 
 * https://twitter.com/heyydnae/status/1267139396278661121?s=21
 
 
-### Police pepper sprays peaceful protester and fires tear gas on crowd | Believed to be May 31st or June 1st
+### Police pepper sprays peaceful protester and fires tear gas on crowd | (Believed to be) May 31st
 
 Police officer snatches away protester's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
@@ -279,7 +281,7 @@ tags: less-lethal, pepper-spray, property-destruction, protester, spray, tear-ga
 
 id: co-denver-10
 
-geolocation: 
+geolocation: 39.7392497, -104.9865346
 
 **Links**
 
@@ -297,7 +299,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: co-denver-19
 
-geolocation: 
+geolocation: 39.7376003, -104.9874229
 
 **Links**
 
@@ -308,11 +310,13 @@ geolocation:
 
 Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas. Journalist Dave Sachs claims something similar happened to him -- he showed his press pass to police but they shoved him into tear gas.
 
+Burness states that he was gassed on Clarkson st near the Good Times restaurant (808 E Colfax).
+
 tags: journalist, less-lethal, projectile, shoot, shove, tear-gas, threaten
 
 id: co-denver-22
 
-geolocation: 
+geolocation: 39.7401208, -104.9775369
 
 **Links**
 
@@ -346,19 +350,19 @@ geolocation:
 
 ### Police shoot protester from behind with tear gas canister | June 2nd
 
-An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
+An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated. She has since resigned from the use of force committee, citing this incident as the reason.
 
 tags: less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
 
 id: co-denver-11
 
-geolocation: 
+geolocation: 39.7398303, -104.9858363
 
 **Links**
 
 * https://www.reddit.com/r/Denver/comments/gvhqs2/elisabeth_epps_use_of_force_committee_member_for/
 * [Local news report](https://www.denverpost.com/2020/06/02/denver-protests-police-force-tear-gas-george-floyd/)
-* [Local news report](https://www.greeleytribune.com/2020/06/05/denver-police-investigation-pepper-balls-shot-pregnant-woman-in-car-2/)
+* https://www.mintpressnews.com/attorney-elisabeth-epp-resigns-use-of-force-committee-shot-denver-police/268223/
 
 
 ### Police tackle group of peaceful protesters | June 4th
@@ -369,7 +373,7 @@ tags: arrest, protester, tackle
 
 id: co-denver-12
 
-geolocation: 
+geolocation: 39.7352686, -104.9850136
 
 **Links**
 
@@ -388,14 +392,14 @@ tags: explosive, less-lethal, projectile, protester, shoot
 
 id: co-denver-18
 
-geolocation: 
+geolocation: 39.740014, -104.9787015
 
 **Links**
 
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
 
 
-### Police pepper spray protesters without apparent cause | June 6th
+### Police pepper spray protesters without apparent cause | (Believed to be) June 5th
 
 Protesters yell at a police officer to put his pepper spray away. The officer shakes his head, then pepper sprays the protesters.
 
@@ -403,11 +407,12 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: co-denver-25
 
-geolocation: 
+geolocation: 39.7407647, -104.987515
 
 **Links**
 
-* https://mobile.twitter.com/greg_doucette/status/1287247799483092992
+* https://twitter.com/greg_doucette/status/1287247799483092992
+* https://twitter.com/Tommies_S/status/1268798926649348097
 
 
 ### Police pepper spray protester with hands up | (Believed to be) June 21st
@@ -418,7 +423,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: co-denver-20
 
-geolocation: 
+geolocation: 39.740008, -104.986338
 
 **Links**
 
@@ -427,7 +432,7 @@ geolocation:
 
 ### Police use excessive force to clear protester tent encampment | July 1st
 
-The first clip is a livestream from the night of the dispersal. Police standoff begins around 1:28:00. Police begin by snatching and grabbing protesters to arrest. Then a scuffle breaks out, the camera pans to show an officer striking protesters with his baton. Another officer approaches and pepper-sprays protesters. A third officer fires a riot gun, containing either pepper balls or paintballs, at protesters. Police then tear gas the area while protesters flee. At 1:34:00, police arrest a medic. At 1:38:00, police advance towards the protesters again, pushing them off the sidewalk to the far side of the street. A shot can be heard, then a scream. The camera pans to show a scuffle between police and protesters. Police then use pepper-spray and riot rounds to force protesters back. A protester is arrested. The arrest takes several minutes and it appears that police kneel on the woman's neck while making the arrest. At 1:51:00, one officer is shown without a badge number or body cam. The filmer then looks at several other officers.
+The first clip is a livestream from the night of the dispersal at Civic Center Park. Police standoff begins around 1:28:00. Police begin by snatching and grabbing protesters to arrest. Then a scuffle breaks out, the camera pans to show an officer striking protesters with his baton. Another officer approaches and pepper-sprays protesters. A third officer fires a riot gun, containing either pepper balls or paintballs, at protesters. Police then tear gas the area while protesters flee. At 1:34:00, police arrest a medic. At 1:38:00, police advance towards the protesters again, pushing them off the sidewalk to the far side of the street. A shot can be heard, then a scream. The camera pans to show a scuffle between police and protesters. Police then use pepper-spray and riot rounds to force protesters back. A protester is arrested. The arrest takes several minutes and it appears that police kneel on the woman's neck while making the arrest. At 1:51:00, one officer is shown without a badge number or body cam. The filmer then looks at several other officers.
 
 The third link shows another angle on the incident at 1:28:00.
 
@@ -437,7 +442,7 @@ tags: arrest, baton, knee, less-lethal, medic, pepper-ball, pepper-spray, protes
 
 id: co-denver-21
 
-geolocation: 
+geolocation: 39.7393006, -104.9867843
 
 **Links**
 
@@ -455,7 +460,7 @@ tags: less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: co-denver-24
 
-geolocation: 
+geolocation: 39.7378737, -104.9924535
 
 **Links**
 
@@ -472,7 +477,7 @@ tags: politician, strike
 
 id: co-denver-26
 
-geolocation: 
+geolocation: 39.7378737, -104.9924535
 
 **Links**
 
@@ -516,7 +521,7 @@ tags: arrest, less-lethal, projectile, protester, shoot, tackle
 
 id: co-denver-27
 
-geolocation: 
+geolocation: 39.7524036, -104.9868013
 
 **Links**
 
