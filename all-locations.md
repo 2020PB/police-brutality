@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-06T18:13:06.299103+00:00
+UPDATED AT: 2020-10-06T19:59:38.372930+00:00
 
 
 # Alabama
@@ -2846,11 +2846,13 @@ geolocation: 41.564042, -73.0333759
 
 A journalist is filming and asking the police why protesters are being arrested. The police tackle him and he states loudly, "I'm with the press" multiple times. The video ends with an officer confiscating his press badge and bag. Another officer off camera is heard saying to the journalist, "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest.
 
+The protest began on Route 13 near the Delaware State Capitol before moving to an area near a WAWA in Camden, Delaware, where police and protesters clashed.
+
 tags: arrest, journalist, tackle
 
 id: de-dover-1
 
-geolocation: 
+geolocation: 39.1068156, -75.5402313
 
 **Links**
 
@@ -2864,11 +2866,13 @@ The first two minutes of footage show police making a series of violent arrests:
 
 Dover PD is investigating the use of force incident.
 
+The protest began on Route 13 near the Delaware State Capitol before moving to an area near a WAWA in Camden, Delaware, where police and protesters clashed.
+
 tags: arrest, knee, protester, push, shove, strike, tackle
 
 id: de-dover-2
 
-geolocation: 
+geolocation: 39.1068156, -75.5402313
 
 **Links**
 
