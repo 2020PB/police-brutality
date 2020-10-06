@@ -57,7 +57,7 @@ tags: arrest, protester, push, shove
 
 id: ct-waterbury-1
 
-geolocation: 
+geolocation: 41.564042,-73.0333759
 
 **Links**
 
