@@ -6660,6 +6660,40 @@ geolocation: 45.5231512, -122.6139196
 * https://twitter.com/AlexStojanovPDX/status/1312290472296022016
 
 
+### Protester shot by sheriff deputy | October 4th
+
+A protester is seen bleeding from the face. Protest medics treat them at the scene of the protest. The protester states they were shot with an impact munition by a sheriff deputy.
+
+tags: protester, shoot, projectile, less-lethal
+
+id: or-portland-385
+
+geolocation: 45.5151465,-122.6771864
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1312997624631357445
+
+
+### Police rip protesters off sidewalk for arrest | October 4th
+
+Protesters are seen locking arms and bunching up on the sidewalk. Police target several individuals for arrest, without having declared an unlawful assembly. Protesters are ripped out of the clump and thrown to the ground before being arrested.
+
+tags: arrest, protester, shove, push, throw
+
+id: or-portland-386
+
+geolocation: 45.5150764,-122.6783649
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1313009265267732480
+* https://twitter.com/MrOlmos/status/1313004031606833152
+* https://twitter.com/suzettesmith/status/1313006462042480645
+* https://twitter.com/1misanthrophile/status/1313006706687799296
+* https://twitter.com/PdxCoparazzi/status/1313002875245584384
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
