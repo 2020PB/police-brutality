@@ -10,7 +10,7 @@ tags: baton, beat, less-lethal, pepper-spray, protester, spray, strike
 
 id: co-aurora-1
 
-geolocation: 39.7104976,-104.8128372
+geolocation: 39.7104976, -104.8128372
 
 **Links**
 
@@ -32,7 +32,7 @@ tags: arrest, beat, knee, less-lethal, protester, punch, rubber-bullet, tackle
 
 id: co-coloradosprings-1
 
-geolocation: 38.8282258,-104.8219674
+geolocation: 38.8282258, -104.8219674
 
 **Links**
 
@@ -50,7 +50,7 @@ tags: bystander, less-lethal, lrad, pepper-spray, protester, spray, tear-gas
 
 id: co-coloradosprings-2
 
-geolocation: 38.826817,-104.824381
+geolocation: 38.826817, -104.824381
 
 **Links**
 
@@ -69,7 +69,7 @@ tags: journalist, less-lethal, pepper-ball, shoot
 
 id: co-denver-1
 
-geolocation: 39.7384406,-104.9862618
+geolocation: 39.7384406, -104.9862618
 
 **Links**
 
@@ -85,7 +85,7 @@ tags: less-lethal, pepper-spray, protester, spray, vehicle
 
 id: co-denver-2
 
-geolocation: 39.7384406,-104.9862618
+geolocation: 39.7384406, -104.9862618
 
 **Links**
 
@@ -103,7 +103,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, shoot, tear-gas
 
 id: co-denver-3
 
-geolocation: 39.7401445,-104.9848038
+geolocation: 39.7401445, -104.9848038
 
 **Links**
 
@@ -121,7 +121,7 @@ tags: less-lethal, projectile, protester, shoot, vehicle
 
 id: co-denver-4
 
-geolocation: 39.7384949,-104.986315
+geolocation: 39.7384949, -104.986315
 
 **Links**
 
@@ -136,7 +136,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
 
 id: co-denver-13
 
-geolocation: 39.7384406,-104.9862618
+geolocation: 39.7384406, -104.9862618
 
 **Links**
 
@@ -151,7 +151,7 @@ tags: journalist, push, shove, throw
 
 id: co-denver-5
 
-geolocation: 39.7384781,-104.984963
+geolocation: 39.7384781, -104.984963
 
 **Links**
 
@@ -168,7 +168,7 @@ tags: body-cam, less-lethal, protester, shoot, tear-gas
 
 id: co-denver-6
 
-geolocation: 39.7392162,-104.9860919
+geolocation: 39.7392162, -104.9860919
 
 **Links**
 
@@ -185,7 +185,7 @@ tags: journalist, shoot
 
 id: co-denver-7
 
-geolocation: 39.7392162,-104.9860919
+geolocation: 39.7392162, -104.9860919
 
 **Links**
 
@@ -200,7 +200,7 @@ tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: co-denver-14
 
-geolocation: 39.7404131,-104.9856867
+geolocation: 39.7404131, -104.9856867
 
 **Links**
 
@@ -216,7 +216,7 @@ tags: less-lethal, mace, protester, spray
 
 id: co-denver-15
 
-geolocation: 39.7368591,-104.9830047
+geolocation: 39.7368591, -104.9830047
 
 **Links**
 
@@ -233,7 +233,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: co-denver-23
 
-geolocation: 39.739129,-104.9887742
+geolocation: 39.739129, -104.9887742
 
 **Links**
 
@@ -250,7 +250,7 @@ tags: bystander, less-lethal, pepper-ball, pregnant, shoot, vehicle
 
 id: co-denver-8
 
-geolocation: 39.7400076,-104.9895977
+geolocation: 39.7400076, -104.9895977
 
 **Links**
 
@@ -266,7 +266,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: co-denver-9
 
-geolocation: 39.7392624,-104.986139
+geolocation: 39.7392624, -104.986139
 
 **Links**
 
@@ -281,7 +281,7 @@ tags: less-lethal, pepper-spray, property-destruction, protester, spray, tear-ga
 
 id: co-denver-10
 
-geolocation: 39.7392497,-104.9865346
+geolocation: 39.7392497, -104.9865346
 
 **Links**
 
@@ -299,7 +299,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: co-denver-19
 
-geolocation: 39.7376003,-104.9874229
+geolocation: 39.7376003, -104.9874229
 
 **Links**
 
@@ -316,7 +316,7 @@ tags: journalist, less-lethal, projectile, shoot, shove, tear-gas, threaten
 
 id: co-denver-22
 
-geolocation: 39.7401208,-104.9775369
+geolocation: 39.7401208, -104.9775369
 
 **Links**
 
@@ -356,7 +356,7 @@ tags: less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
 
 id: co-denver-11
 
-geolocation: 39.7398303,-104.9858363
+geolocation: 39.7398303, -104.9858363
 
 **Links**
 
@@ -373,7 +373,7 @@ tags: arrest, protester, tackle
 
 id: co-denver-12
 
-geolocation: 39.7352686,-104.9850136
+geolocation: 39.7352686, -104.9850136
 
 **Links**
 
@@ -392,7 +392,7 @@ tags: explosive, less-lethal, projectile, protester, shoot
 
 id: co-denver-18
 
-geolocation: 39.740014,-104.9787015
+geolocation: 39.740014, -104.9787015
 
 **Links**
 
@@ -407,7 +407,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: co-denver-25
 
-geolocation: 39.7407647,-104.987515
+geolocation: 39.7407647, -104.987515
 
 **Links**
 
@@ -423,7 +423,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: co-denver-20
 
-geolocation: 39.740008,-104.986338
+geolocation: 39.740008, -104.986338
 
 **Links**
 
@@ -442,7 +442,7 @@ tags: arrest, baton, knee, less-lethal, medic, pepper-ball, pepper-spray, protes
 
 id: co-denver-21
 
-geolocation: 39.7393006,-104.9867843
+geolocation: 39.7393006, -104.9867843
 
 **Links**
 
@@ -460,7 +460,7 @@ tags: less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: co-denver-24
 
-geolocation: 39.7378737,-104.9924535
+geolocation: 39.7378737, -104.9924535
 
 **Links**
 
@@ -477,7 +477,7 @@ tags: politician, strike
 
 id: co-denver-26
 
-geolocation: 39.7378737,-104.9924535
+geolocation: 39.7378737, -104.9924535
 
 **Links**
 
@@ -521,7 +521,7 @@ tags: arrest, less-lethal, projectile, protester, shoot, tackle
 
 id: co-denver-27
 
-geolocation: 39.7524036,-104.9868013
+geolocation: 39.7524036, -104.9868013
 
 **Links**
 
