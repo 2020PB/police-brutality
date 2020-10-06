@@ -10,7 +10,7 @@ tags: arrest, journalist, tackle
 
 id: de-dover-1
 
-geolocation: 39.1068156,-75.5402313
+geolocation: 39.1068156, -75.5402313
 
 **Links**
 
@@ -30,7 +30,7 @@ tags: arrest, knee, protester, push, shove, strike, tackle
 
 id: de-dover-2
 
-geolocation: 39.1068156,-75.5402313
+geolocation: 39.1068156, -75.5402313
 
 **Links**
 
