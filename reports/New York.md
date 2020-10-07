@@ -1804,6 +1804,23 @@ geolocation:
 * https://twitter.com/KiranDhillonTV/status/1310055432900284416
 
 
+### Police arrest protesters on sidewalk | October 5th
+
+At a protest in NYC, protesters are seen standing on the sidewalk. Police charge without warning, grabbing several protesters. The protesters passively resist by falling to the ground. This devolves into a scuffle between protesters and police, much of which is obfuscated by additional officers forming a line around the incident. Police arrest and zip-tie two protesters, one of whom is a minor. In another video, the minor alleges they were punched by police.
+
+tags: protester, arrest, child
+
+id: ny-newyorkcity-107
+
+geolocation: 40.7300523,-73.9926555
+
+**Links**
+
+* https://twitter.com/seanobrd/status/1313371394735042560
+* https://twitter.com/itsa_talia/status/1313343956000931842
+* https://twitter.com/itsa_talia/status/1313347355094200321
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
