@@ -178,7 +178,7 @@ tags: less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-orlando-5
 
-geolocation: 28.53835,-81.3849232
+geolocation: 28.538350,-81.3849232
 
 **Links**
 
