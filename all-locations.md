@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-07T12:40:55.971063+00:00
+UPDATED AT: 2020-10-07T19:38:18.936055+00:00
 
 
 # Alabama
@@ -3329,7 +3329,7 @@ geolocation:
 
 ### Police fire tear gas at peaceful protest | June 1st
 
-During a peaceful protest near University of Georgia (UGA), police began firing tear gas indiscriminately and with excess.
+During a peaceful protest on Broad Street near University of Georgia (UGA), police began firing tear gas indiscriminately and with excess.
 
 One protester can be seen with a firework, similar to a Roman candle, firing from considerable distance and into the air.
 
@@ -3341,7 +3341,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ga-athens-1
 
-geolocation: 
+geolocation: 33.9576658, -83.3751742
 
 **Links**
 
@@ -3359,7 +3359,7 @@ tags: protester, shove, tackle, throw
 
 id: ga-atlanta-1
 
-geolocation: 
+geolocation: 33.8486545, -84.3628256
 
 **Links**
 
@@ -3391,7 +3391,7 @@ tags: bystander, grab, less-lethal, tase, taser, vehicle
 
 id: ga-atlanta-3
 
-geolocation: 
+geolocation: 33.7596997, -84.3912128
 
 **Links**
 
@@ -3410,7 +3410,7 @@ tags: arrest, knee, protester, punch, strike, tackle
 
 id: ga-atlanta-4
 
-geolocation: 
+geolocation: 33.7597026, -84.390599
 
 **Links**
 
