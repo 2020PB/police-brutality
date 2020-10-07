@@ -193,7 +193,7 @@ tags: arrest, less-lethal, pepper-spray, person-with-disability, protester, spra
 
 id: or-orlando-8
 
-geolocation: 28.53835,-81.3849232
+geolocation: 28.538350,-81.3849232
 
 **Links**
 
