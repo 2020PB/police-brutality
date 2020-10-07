@@ -12,7 +12,7 @@ tags: protester, shove
 
 id: fl-fortlauderdale-1
 
-geolocation: 
+geolocation: 26.120612, -80.1446222
 
 **Links**
 
@@ -31,7 +31,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: fl-fortlauderdale-2
 
-geolocation: 
+geolocation: 26.120612, -80.1446222
 
 **Links**
 
@@ -48,7 +48,7 @@ tags: abuse-of-power, body-cam, incitement, less-lethal, rubber-bullet, shoot, t
 
 id: fl-fortlauderdale-3
 
-geolocation: 
+geolocation: 26.120612, -80.1446222
 
 **Links**
 
@@ -68,7 +68,7 @@ tags: arrest, gun, less-lethal, protester, shove, tackle, tear-gas, throw
 
 id: fl-jacksonville-1
 
-geolocation: 
+geolocation: 30.3252674, -81.6556836
 
 **Links**
 
@@ -87,7 +87,7 @@ tags: arrest, protester, tackle
 
 id: fl-miami-1
 
-geolocation: 
+geolocation: 25.7796975, -80.1887776
 
 **Links**
 
@@ -106,7 +106,7 @@ tags: less-lethal, protester, tear-gas
 
 id: fl-miami-2
 
-geolocation: 
+geolocation: 25.7854266, -80.1923798
 
 **Links**
 
@@ -118,13 +118,13 @@ geolocation:
 
 Footage shows police arresting a woman. A man who walked nearby with his hands up is thrown to the ground by two officers and arrested.
 
-Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protester without warning is another subject of controversy, this incident appears to even be outside the bounds of "proper conduct" according to police guidelines.
+Additional footage shows an officer grabbing the breast of the woman arrested. It should be noted that police use an "open hand" frisking technique to check along the breasts during an arrest. However the officer does not appear to be using an open hand and appears to be grabbing the woman, rather than frisking her. While having a male officer frisk a female protester without warning is a point of controversy, this incident appears to be outside police guidelines even discounting that fact.
 
-tags: abuse-of-power, arrest, inhumane-treatment, protester, shove
+tags: abuse-of-power, arrest, inhumane-treatment, protester, sexual-assault, shove
 
 id: fl-miami-3
 
-geolocation: 
+geolocation: 25.7772583, -80.1879073
 
 **Links**
 
@@ -143,7 +143,7 @@ tags: abuse-of-power, arrest, protester, shove
 
 id: fl-miami-4
 
-geolocation: 
+geolocation: 25.774139, -80.1872472
 
 **Links**
 
@@ -162,7 +162,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: fl-orlando-7
 
-geolocation: 
+geolocation: 25.774139, -80.1872472
 
 **Links**
 
