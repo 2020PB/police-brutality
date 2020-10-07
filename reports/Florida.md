@@ -178,7 +178,7 @@ tags: less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-orlando-5
 
-geolocation: 28.538350,-81.3849232
+geolocation: 28.538350, -81.3849232
 
 **Links**
 
@@ -193,7 +193,7 @@ tags: arrest, less-lethal, pepper-spray, person-with-disability, protester, spra
 
 id: or-orlando-8
 
-geolocation: 28.538350,-81.3849232
+geolocation: 28.538350, -81.3849232
 
 **Links**
 
@@ -208,7 +208,7 @@ tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: fl-orlando-1
 
-geolocation: 28.540209,-81.384950
+geolocation: 28.540209, -81.384950
 
 **Links**
 
@@ -225,7 +225,7 @@ tags: arrest, knee, protester, tackle
 
 id: fl-orlando-3
 
-geolocation: 28.540190,-81.383462
+geolocation: 28.540190, -81.383462
 
 **Links**
 
@@ -243,7 +243,7 @@ tags: bike, protester, shove
 
 id: fl-orlando-4
 
-geolocation: 28.5384087,-81.3789384
+geolocation: 28.5384087, -81.3789384
 
 **Links**
 
@@ -260,7 +260,7 @@ tags: less-lethal, protester, push, rubber-bullet, shoot, shove, stun-grenade, t
 
 id: fl-orlando-2
 
-geolocation: 28.5373325,-81.3816748
+geolocation: 28.5373325, -81.3816748
 
 **Links**
 
@@ -279,7 +279,7 @@ tags: arrest, property-destruction, protester
 
 id: fl-orlando-6
 
-geolocation: 28.5100741,-81.2712266
+geolocation: 28.5100741, -81.2712266
 
 **Links**
 
@@ -298,7 +298,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: fl-stpetersburg-1
 
-geolocation: 27.7726986,-82.6548688
+geolocation: 27.7726986, -82.6548688
 
 **Links**
 
@@ -319,7 +319,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: fl-tampa-4
 
-geolocation: 27.9815017,-82.4554037
+geolocation: 27.9815017, -82.4554037
 
 **Links**
 
@@ -340,7 +340,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: fl-tampa-3
 
-geolocation: 27.9815017,-82.4554037
+geolocation: 27.9815017, -82.4554037
 
 **Links**
 
@@ -379,7 +379,7 @@ tags: arrest, less-lethal, protester, tear-gas
 
 id: fl-tampa-2
 
-geolocation: 27.9471043,-82.4595896
+geolocation: 27.9471043, -82.4595896
 
 **Links**
 
@@ -395,7 +395,7 @@ tags: less-lethal, medic, projectile, rubber-bullet, shoot
 
 id: fl-tampa-6
 
-geolocation: 27.981400,-82.4547943
+geolocation: 27.981400, -82.4547943
 
 **Links**
 
@@ -413,7 +413,7 @@ tags: arrest, knee, less-lethal, pepper-spray, spray, strike, tackle
 
 id: fl-tampa-7
 
-geolocation: 27.9595064,-82.5076696
+geolocation: 27.9595064, -82.5076696
 
 **Links**
 
@@ -429,7 +429,7 @@ tags: arrest, inhumane-treatment, knee, knee-on-neck, protester
 
 id: fl-tampa-8
 
-geolocation: 27.9479831,-82.4592753
+geolocation: 27.9479831, -82.4592753
 
 **Links**
 
