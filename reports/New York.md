@@ -1808,11 +1808,11 @@ geolocation:
 
 At a protest in NYC, protesters are seen standing on the sidewalk. Police charge without warning, grabbing several protesters. The protesters passively resist by falling to the ground. This devolves into a scuffle between protesters and police, much of which is obfuscated by additional officers forming a line around the incident. Police arrest and zip-tie two protesters, one of whom is a minor. In another video, the minor alleges they were punched by police.
 
-tags: protester, arrest, child
+tags: arrest, child, protester
 
 id: ny-newyorkcity-107
 
-geolocation: 40.7300523,-73.9926555
+geolocation: 40.7300523, -73.9926555
 
 **Links**
 
