@@ -6698,13 +6698,13 @@ geolocation: 45.5150764, -122.6783649
 
 Several young protesters are seen lying on the sidewalk, blocking the exit gate of the Portland ICE facility. Police warn that they will arrest protesters who continue to block the gate. Protesters do not move. Police charge out to arrest the protesters, dragging them across the pavement by their limbs.
 
-tags: arrest, protester, grab
+tags: arrest, grab, protester
 
 id: or-portland-387
 
-geolocation: 45.4928304,-122.6729251
+geolocation: 45.4928304, -122.6729251
 
-**Links** 
+**Links**
 
 * https://twitter.com/1misanthrophile/status/1313759658365001728
 
@@ -6715,11 +6715,11 @@ After declaring an unlawful assembly at a protest outside an ICE facility in Por
 
 A Portland resident living in a nearby apartment called an ambulance due to complications from tear gas exposure. She has since been discharged, but said in an interview that she "thought [she] was going to die."
 
-tags: tear-gas, projectile, stun-grenade, shoot, pepper-ball, less-lethal
+tags: less-lethal, pepper-ball, projectile, shoot, stun-grenade, tear-gas
 
 id: or-portland-388
 
-geolocation: 45.4928304,-122.6729251
+geolocation: 45.4928304, -122.6729251
 
 **Links**
 
