@@ -8,7 +8,7 @@ tags: arrest, beat, knee-on-neck, protester
 
 id: il-chicago-1
 
-geolocation: 41.8896989,-87.6244372
+geolocation: 41.8896989, -87.6244372
 
 **Links**
 
@@ -23,7 +23,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: il-chicago-5
 
-geolocation: 41.8916411,-87.6296891
+geolocation: 41.8916411, -87.6296891
 
 **Links**
 
@@ -38,7 +38,7 @@ tags: baton, hide-badge, push, shove
 
 id: il-chicago-11
 
-geolocation: 41.8893016,-87.6266744
+geolocation: 41.8893016, -87.6266744
 
 **Links**
 
@@ -53,7 +53,7 @@ tags: baton, celebrity, protester
 
 id: il-chicago-3
 
-geolocation: 41.8918426,-87.6253793
+geolocation: 41.8918426, -87.6253793
 
 **Links**
 
@@ -75,7 +75,7 @@ tags: arrest, bystander, inhumane-treatment, knee, knee-on-neck, property-destru
 
 id: il-chicago-4
 
-geolocation: 41.9296951,-87.7870102
+geolocation: 41.9296951, -87.7870102
 
 **Links**
 
@@ -95,7 +95,7 @@ tags: baton, beat, politician, protester, strike
 
 id: il-chicago-6
 
-geolocation: 41.8083477,-87.6039247
+geolocation: 41.8083477, -87.6039247
 
 **Links**
 
@@ -110,7 +110,7 @@ tags: body-cam, hide-badge
 
 id: il-chicago-10
 
-geolocation: 41.9035342,-87.6450887
+geolocation: 41.9035342, -87.6450887
 
 **Links**
 
@@ -130,7 +130,7 @@ tags: protester, punch
 
 id: il-chicago-7
 
-geolocation: 41.9649267,-87.6595648
+geolocation: 41.9649267, -87.6595648
 
 **Links**
 
@@ -147,7 +147,7 @@ tags: baton, beat, protester, shove, throw
 
 id: il-chicago-8
 
-geolocation: 41.7995803,-87.5895691
+geolocation: 41.7995803, -87.5895691
 
 **Links**
 
@@ -162,7 +162,7 @@ tags: protester, shove, threaten
 
 id: il-chicago-12
 
-geolocation: 41.9573248,-87.6601543
+geolocation: 41.9573248, -87.6601543
 
 **Links**
 
@@ -177,7 +177,7 @@ tags: property-destruction, protester, push, shove
 
 id: il-chicago-13
 
-geolocation: 41.8940961,-87.6240857
+geolocation: 41.8940961, -87.6240857
 
 **Links**
 
@@ -192,7 +192,7 @@ tags: abuse-of-power, hide-badge
 
 id: il-chicago-14
 
-geolocation: 41.9210355,-87.6972891
+geolocation: 41.9210355, -87.6972891
 
 **Links**
 
@@ -208,7 +208,7 @@ tags: protester, punch
 
 id: il-chicago-15
 
-geolocation: 41.8679405,-87.6196311
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -226,7 +226,7 @@ tags: arrest, baton, less-lethal, pepper-spray, protester, push, shove, spray, s
 
 id: il-chicago-16
 
-geolocation: 41.8679405,-87.6196311
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -244,7 +244,7 @@ tags: baton, protester, strike
 
 id: il-chicago-17
 
-geolocation: 41.8679405,-87.6196311
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -259,7 +259,7 @@ tags: journalist, push, shove, threaten
 
 id: il-chicago-18
 
-geolocation: 41.8679405,-87.6196311
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -274,7 +274,7 @@ tags: journalist, property-destruction, strike
 
 id: il-chicago-19
 
-geolocation: 41.8679405,-87.6196311
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -289,7 +289,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-20
 
-geolocation: 41.8679405,-87.6196311
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -475,7 +475,7 @@ tags: beat, protester, shove, throw
 
 id: il-joliet-1
 
-geolocation: 41.5227515,-88.1208659
+geolocation: 41.5227515, -88.1208659
 
 **Links**
 
@@ -494,7 +494,7 @@ tags: arrest, beat, bystander, grab
 
 id: il-rockford-1
 
-geolocation: 42.2777438,-89.1048211
+geolocation: 42.2777438, -89.1048211
 
 **Links**
 
@@ -509,7 +509,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray, tear-gas
 
 id: il-rockford-2
 
-geolocation: 42.2722168,-89.1020879
+geolocation: 42.2722168, -89.1020879
 
 **Links**
 
