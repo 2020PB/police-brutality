@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-08T01:04:35.333278+00:00
+UPDATED AT: 2020-10-08T16:13:03.759041+00:00
 
 
 # Alabama
@@ -16555,6 +16555,8 @@ geolocation: 45.5150764, -122.6783649
 
 Several young protesters are seen lying on the sidewalk, blocking the exit gate of the Portland ICE facility. Police warn that they will arrest protesters who continue to block the gate. Protesters do not move. Police charge out to arrest the protesters, dragging them across the pavement by their limbs.
 
+Two of the protesters, ages 18 and 20, were arraigned in federal court on October 7th and charged with failing to obey a lawful order and disorderly conduct on federal property.
+
 tags: arrest, grab, protester
 
 id: or-portland-387
@@ -16564,6 +16566,7 @@ geolocation: 45.4928304, -122.6729251
 **Links**
 
 * https://twitter.com/1misanthrophile/status/1313759658365001728
+* https://twitter.com/ryanjreilly/status/1313999250255212544
 
 
 ### Federal agents deploy tear gas and impact munitions | October 6th
