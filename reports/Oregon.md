@@ -6694,6 +6694,56 @@ geolocation: 45.5150764, -122.6783649
 * https://twitter.com/PdxCoparazzi/status/1313002875245584384
 
 
+### Police violently arrest several protesters for laying on the sidewalk | October 6th
+
+Several young protesters are seen lying on the sidewalk, blocking the exit gate of the Portland ICE facility. Police warn that they will arrest protesters who continue to block the gate. Protesters do not move. Police charge out to arrest the protesters, dragging them across the pavement by their limbs.
+
+tags: arrest, grab, protester
+
+id: or-portland-387
+
+geolocation: 45.4928304, -122.6729251
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1313759658365001728
+
+
+### Federal agents deploy tear gas and impact munitions | October 6th
+
+After declaring an unlawful assembly at a protest outside an ICE facility in Portland, federal agents emerge from the building, firing tear gas, impact munitions (believed to be pepper balls) and stun grenades. A smoke bomb was thrown by a protester onto the ICE building roof prior to officers declaring unlawful assembly, but no officers were outside at the time.
+
+A Portland resident living in a nearby apartment called an ambulance due to complications from tear gas exposure. She has since been discharged, but said in an interview that she "thought [she] was going to die."
+
+tags: less-lethal, pepper-ball, projectile, protester, shoot, stun-grenade, tear-gas
+
+id: or-portland-388
+
+geolocation: 45.4928304, -122.6729251
+
+**Links**
+
+* https://twitter.com/BridgetChavezTV/status/1313720605795999746
+* https://twitter.com/1misanthrophile/status/1313720270633365505
+* https://twitter.com/1misanthrophile/status/1313723328880758786
+* https://twitter.com/1misanthrophile/status/1313721245536378881
+* https://twitter.com/1misanthrophile/status/1313720892015276033
+* https://twitter.com/hungrybowtie/status/1313718225054490624
+* https://twitter.com/hungrybowtie/status/1313720052215029763
+* https://twitter.com/hungrybowtie/status/1313720624829747200
+* https://twitter.com/MrOlmos/status/1313723401152806913
+* https://twitter.com/MrOlmos/status/1313722381563686913
+* https://twitter.com/MrOlmos/status/1313723749808570368
+* https://twitter.com/MrOlmos/status/1313728005550743557
+* https://twitter.com/cdsupriyadi/status/1313723217312317441
+* https://twitter.com/PDocumentarians/status/1313721231573610497
+* https://twitter.com/R3volutionDaddy/status/1313723772747218949
+* https://twitter.com/R3volutionDaddy/status/1313724646970204161
+* https://twitter.com/KohzKah/status/1313722524849655808
+* https://twitter.com/_WhatRiot/status/1313726813172977664
+* https://twitter.com/MrOlmos/status/1313748616171847680
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
