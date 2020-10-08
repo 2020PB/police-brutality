@@ -6715,7 +6715,7 @@ After declaring an unlawful assembly at a protest outside an ICE facility in Por
 
 A Portland resident living in a nearby apartment called an ambulance due to complications from tear gas exposure. She has since been discharged, but said in an interview that she "thought [she] was going to die."
 
-tags: less-lethal, pepper-ball, projectile, shoot, stun-grenade, tear-gas
+tags: less-lethal, pepper-ball, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-388
 
