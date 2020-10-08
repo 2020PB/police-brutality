@@ -156,7 +156,7 @@ tags: protester, punch, tase
 
 id: ga-lawrenceville-1
 
-geolocation: 33.980685,-84.08317
+geolocation: 33.980685,-84.083170
 
 **Links**
 
