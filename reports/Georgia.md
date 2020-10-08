@@ -98,7 +98,7 @@ tags: arrest, journalist, tackle
 
 id: ga-atlanta-5
 
-geolocation: 
+geolocation: 33.7579387,-84.3934527
 
 **Links**
 
@@ -114,7 +114,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, shove
 
 id: ga-atlanta-6
 
-geolocation: 
+geolocation: 33.7498722,-84.3912296
 
 **Links**
 
@@ -130,7 +130,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ga-atlanta-7
 
-geolocation: 
+geolocation: 33.7488311,-84.3902752
 
 **Links**
 
@@ -156,7 +156,7 @@ tags: protester, punch, tase
 
 id: ga-lawrenceville-1
 
-geolocation: 
+geolocation: 33.980685,-84.08317
 
 **Links**
 
@@ -174,7 +174,7 @@ tags: journalist, push, shield, shove
 
 id: ga-stonemountain-1
 
-geolocation: 
+geolocation: 33.8052915,-84.147697
 
 **Links**
 
@@ -195,7 +195,7 @@ tags: abuse-of-power, choke, protester
 
 id: ga-valdosta-1
 
-geolocation: 
+geolocation: 30.8323921,-83.278646
 
 **Links**
 
@@ -212,7 +212,7 @@ tags: abuse-of-power, arrest, protester
 
 id: ga-valdosta-2
 
-geolocation: 
+geolocation: 30.8323921,-83.278646
 
 **Links**
 
