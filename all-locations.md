@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-08T01:04:26.263424+00:00
+UPDATED AT: 2020-10-08T01:04:35.333278+00:00
 
 
 # Alabama
@@ -17420,11 +17420,11 @@ geolocation: 30.267860, -97.733482
 
 ### Police shoot non-violent protester in the head | May 30th
 
-Here, a non-violent protester can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
+Here, a non-violent protester can be seen standing perfectly still when he is hit directly in the head by a bean bag round and knocked to the floor.
 
 In the aftermath other protesters help the victim who is bleeding from a large head wound. Further reports state the victim was hospitalized
 
-tags: bean-bag, child, less-lethal, protester, rubber-bullet, shoot
+tags: bean-bag, child, less-lethal, protester, shoot
 
 id: tx-austin-3
 
@@ -17441,7 +17441,7 @@ geolocation: 30.268286, -97.732961
 
 ### Police use tear gas & rubber bullets on protesters | May 30th
 
-Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag shells. Tear gas was later deployed on the crowd.
+Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag rounds. Tear gas was later deployed on the crowd.
 
 tags: bean-bag, less-lethal, protester, rubber-bullet, shoot, tear-gas, threaten
 
@@ -17509,7 +17509,7 @@ geolocation: 30.264420, -97.735186
 
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
-A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
+A 20-year-old black man is hospitalized in critical condition after police shot him with bean bag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
 
 Police continued to fire on the crowd as well as medics attempting to assist the man.
 
