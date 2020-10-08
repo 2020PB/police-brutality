@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-08T01:03:38.173710+00:00
+UPDATED AT: 2020-10-08T01:03:41.586039+00:00
 
 
 # Alabama
@@ -3067,7 +3067,7 @@ tags: less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-orlando-5
 
-geolocation: 
+geolocation: 28.538350, -81.3849232
 
 **Links**
 
@@ -3082,7 +3082,7 @@ tags: arrest, less-lethal, pepper-spray, person-with-disability, protester, spra
 
 id: or-orlando-8
 
-geolocation: 
+geolocation: 28.538350, -81.3849232
 
 **Links**
 
@@ -3097,7 +3097,7 @@ tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: fl-orlando-1
 
-geolocation: 
+geolocation: 28.540209, -81.384950
 
 **Links**
 
@@ -3108,11 +3108,13 @@ geolocation:
 
 A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protester begs police not to hurt him.
 
+This incident appears to have occurred outside the Amway Center, across from an Orlando Magic construction site.
+
 tags: arrest, knee, protester, tackle
 
 id: fl-orlando-3
 
-geolocation: 
+geolocation: 28.540190, -81.383462
 
 **Links**
 
@@ -3124,11 +3126,13 @@ geolocation:
 
 A woman films a BLM protest in Orlando from a window. Protesters have gather around a police bike line blocking an intersection. Police begin shouting and shove protesters back with their bikes.
 
+The incident appears to have occurred near Orlando City Hall.
+
 tags: bike, protester, shove
 
 id: fl-orlando-4
 
-geolocation: 
+geolocation: 28.5384087, -81.3789384
 
 **Links**
 
@@ -3145,7 +3149,7 @@ tags: less-lethal, protester, push, rubber-bullet, shoot, shove, stun-grenade, t
 
 id: fl-orlando-2
 
-geolocation: 
+geolocation: 28.5373325, -81.3816748
 
 **Links**
 
@@ -3156,7 +3160,7 @@ geolocation:
 
 ### Woman stopped by police while leaving protest; police break her car window | June 3rd
 
-A woman is in her car leaving a protest. Police stop her, stating she was blocking a roadway. The officer says she can exit the car or be removed. The woman says she doesn't believe she did anything wrong. The officer then reaches inside her window for the lock. He cannot, so the window is broken.
+A woman is in her car leaving a protest near the intersection of Curry Ford Road and Chickasaw Trail. Police stop her, stating she was blocking a roadway. The officer says she can exit the car or be removed. The woman says she doesn't believe she did anything wrong. The officer then reaches inside her window for the lock. He cannot, so the window is broken.
 
 She was released shortly after with minor abrasions and no charges.
 
@@ -3164,7 +3168,7 @@ tags: arrest, property-destruction, protester
 
 id: fl-orlando-6
 
-geolocation: 
+geolocation: 28.5100741, -81.2712266
 
 **Links**
 
@@ -3183,7 +3187,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: fl-stpetersburg-1
 
-geolocation: 
+geolocation: 27.7726986, -82.6548688
 
 **Links**
 
@@ -3204,7 +3208,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: fl-tampa-4
 
-geolocation: 
+geolocation: 27.9815017, -82.4554037
 
 **Links**
 
@@ -3212,6 +3216,7 @@ geolocation:
 * [Timestamps: 00:00-00:30, 00:38-00:45](https://twitter.com/flawlessfatigue/status/1267600280130109440)
 * https://twitter.com/flawlessfatigue/status/1267600280130109440
 * https://twitter.com/toastiepeach/status/1267243847446343682
+* https://www.tampabay.com/news/breaking-news/2020/05/31/black-lives-matter-protesters-gather-in-tampa-on-sunday/
 
 
 ### Police pepper-spray peaceful protesters | May 31st
@@ -3224,7 +3229,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: fl-tampa-3
 
-geolocation: 
+geolocation: 27.9815017, -82.4554037
 
 **Links**
 
@@ -3263,11 +3268,12 @@ tags: arrest, less-lethal, protester, tear-gas
 
 id: fl-tampa-2
 
-geolocation: 
+geolocation: 27.9471043, -82.4595896
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268694786485166081
+* https://www.baynews9.com/fl/tampa/news/2020/06/05/tampa-taking-steps-to-quell-protests-outside-of-police-department
 
 
 ### Police fire on medic | June 5th
@@ -3278,7 +3284,7 @@ tags: less-lethal, medic, projectile, rubber-bullet, shoot
 
 id: fl-tampa-6
 
-geolocation: 
+geolocation: 27.981400, -82.4547943
 
 **Links**
 
@@ -3296,7 +3302,7 @@ tags: arrest, knee, less-lethal, pepper-spray, spray, strike, tackle
 
 id: fl-tampa-7
 
-geolocation: 
+geolocation: 27.9595064, -82.5076696
 
 **Links**
 
@@ -3312,13 +3318,14 @@ tags: arrest, inhumane-treatment, knee, knee-on-neck, protester
 
 id: fl-tampa-8
 
-geolocation: 
+geolocation: 27.9479831, -82.4592753
 
 **Links**
 
 * https://www.instagram.com/p/CDzyyQOAKEh/
 * https://www.instagram.com/tv/CDz27yPp1wN/
 * https://www.msn.com/en-us/news/crime/black-lives-matter-activist-hospitalized-after-police-seen-kneeling-on-her-neck/ar-BB17UnHU
+* [Police footage](https://www.youtube.com/watch?v=y44uP-g7Tog)
 
 
 
