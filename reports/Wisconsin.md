@@ -302,11 +302,11 @@ Bystander vehicles were caught in the gas and had to use the sidewalk to flee.
 
 The incident occurred near North Ave and Menomonie River Parkway.
 
-tags: protester, less-lethal, shoot, projectile, tear-gas, pepper-ball
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: wi-wauwatosa-1
 
-geolocation: 43.0603597,-88.0341646
+geolocation: 43.0603597, -88.0341646
 
 **Links**
 
@@ -330,11 +330,11 @@ Several journalists, one independent reporter and several representing The Daily
 
 Additional footage shows a Daily Caller filming arrests of protesters made by National Guard. The officers tell the Daily Caller reporter to leave the are. He states he is press but returns to his car in the parking lot nonetheless. Officers follow him to his car, causing the incident.
 
-tags: journalist, arrest, throw, baton, strike
+tags: arrest, baton, journalist, strike, throw
 
 id: wa-wauwatosa-2
 
-geolocation: 43.0526323,-88.0080749
+geolocation: 43.0526323, -88.0080749
 
 **Links**
 
@@ -344,3 +344,4 @@ geolocation: 43.0526323,-88.0080749
 * https://dailycaller.com/2020/10/08/wisconsin-protesters-national-guard/
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
+
