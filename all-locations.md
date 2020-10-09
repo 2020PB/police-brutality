@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-08T17:40:06.439786+00:00
+UPDATED AT: 2020-10-09T13:24:43.737110+00:00
 
 
 # Alabama
@@ -3567,7 +3567,7 @@ tags: arrest, beat, knee-on-neck, protester
 
 id: il-chicago-1
 
-geolocation: 
+geolocation: 41.8896989, -87.6244372
 
 **Links**
 
@@ -3582,7 +3582,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: il-chicago-5
 
-geolocation: 
+geolocation: 41.8916411, -87.6296891
 
 **Links**
 
@@ -3597,7 +3597,7 @@ tags: baton, hide-badge, push, shove
 
 id: il-chicago-11
 
-geolocation: 
+geolocation: 41.8893016, -87.6266744
 
 **Links**
 
@@ -3612,7 +3612,7 @@ tags: baton, celebrity, protester
 
 id: il-chicago-3
 
-geolocation: 
+geolocation: 41.8918426, -87.6253793
 
 **Links**
 
@@ -3634,7 +3634,7 @@ tags: arrest, bystander, inhumane-treatment, knee, knee-on-neck, property-destru
 
 id: il-chicago-4
 
-geolocation: 
+geolocation: 41.9296951, -87.7870102
 
 **Links**
 
@@ -3648,15 +3648,13 @@ geolocation:
 
 ### Cops hit Chicago Police Board President | May 31st
 
-Cops struck Ghian Foreman, the Chicago Police Board President, five times in the legs with batons. He has filed a complaint with the Citizens Office of Police Accountability.
-
-Location: Hyde Park
+Cops struck Ghian Foreman, the Chicago Police Board President, five times in the legs with batons. He has filed a complaint with the Citizens Office of Police Accountability. Foreman states the incident occurred on 47th street near his Hyde Park home.
 
 tags: baton, beat, politician, protester, strike
 
 id: il-chicago-6
 
-geolocation: 
+geolocation: 41.8083477, -87.6039247
 
 **Links**
 
@@ -3665,13 +3663,13 @@ geolocation:
 
 ### Officers cover badges and remove body cams | May 31st
 
-Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
+Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st. The images are from several locations, but at least one can be confirmed to be outside Physical Therapy 360 Inc, located at 541 W Division st.
 
 tags: body-cam, hide-badge
 
 id: il-chicago-10
 
-geolocation: 
+geolocation: 41.9035342, -87.6450887
 
 **Links**
 
@@ -3691,7 +3689,7 @@ tags: protester, punch
 
 id: il-chicago-7
 
-geolocation: 
+geolocation: 41.9649267, -87.6595648
 
 **Links**
 
@@ -3708,22 +3706,22 @@ tags: baton, beat, protester, shove, throw
 
 id: il-chicago-8
 
-geolocation: 
+geolocation: 41.7995803, -87.5895691
 
 **Links**
 
 * https://twitter.com/BLMChi/status/1267486699321544704
 
 
-### Police grab protester and throw into brick wall | June 2nd
+### Police grab protester and throw into brick wall | June 1st
 
-A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall.
+A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall. The incident appears to have occurred on either the North or West edge of Graceland cemetary.
 
 tags: protester, shove, threaten
 
 id: il-chicago-12
 
-geolocation: 
+geolocation: 41.9573248, -87.6601543
 
 **Links**
 
@@ -3738,26 +3736,11 @@ tags: property-destruction, protester, push, shove
 
 id: il-chicago-13
 
-geolocation: 
+geolocation: 41.8940961, -87.6240857
 
 **Links**
 
 * https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
-
-
-### Police hit several protesters with batons | (Believed to be) June 3rd
-
-The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
-
-tags: baton, beat, protester, punch, shove, throw
-
-id: il-chicago-9
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/TomSchuba/status/1268312957752160257
 
 
 ### Police seen without badges | (Believed to be) June 4th
@@ -3768,7 +3751,7 @@ tags: abuse-of-power, hide-badge
 
 id: il-chicago-14
 
-geolocation: 
+geolocation: 41.9210355, -87.6972891
 
 **Links**
 
@@ -3784,7 +3767,7 @@ tags: protester, punch
 
 id: il-chicago-15
 
-geolocation: 
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -3802,7 +3785,7 @@ tags: arrest, baton, less-lethal, pepper-spray, protester, push, shove, spray, s
 
 id: il-chicago-16
 
-geolocation: 
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -3820,7 +3803,7 @@ tags: baton, protester, strike
 
 id: il-chicago-17
 
-geolocation: 
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -3835,7 +3818,7 @@ tags: journalist, push, shove, threaten
 
 id: il-chicago-18
 
-geolocation: 
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -3850,7 +3833,7 @@ tags: journalist, property-destruction, strike
 
 id: il-chicago-19
 
-geolocation: 
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -3865,7 +3848,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-20
 
-geolocation: 
+geolocation: 41.8679405, -87.6196311
 
 **Links**
 
@@ -4051,7 +4034,7 @@ tags: beat, protester, shove, throw
 
 id: il-joliet-1
 
-geolocation: 
+geolocation: 41.5227515, -88.1208659
 
 **Links**
 
@@ -4070,7 +4053,7 @@ tags: arrest, beat, bystander, grab
 
 id: il-rockford-1
 
-geolocation: 
+geolocation: 42.2777438, -89.1048211
 
 **Links**
 
@@ -4079,18 +4062,17 @@ geolocation:
 
 ### Police arrest, pepper spray, and tear gas protesters | July 31st
 
-Police arrest, pepper spray, and tear gas BLM protesters who blocked the road in counter-protest to a Back the Blue event. No indication has been given that protesters were violent in any way.
+Sheriffs arrest, pepper spray, and tear gas BLM protesters who blocked the road in counter-protest to a Back the Blue event outside the Winnebago County Criminal Justice Center. No indication has been given that protesters were violent in any way.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray, tear-gas
 
 id: il-rockford-2
 
-geolocation: 
+geolocation: 42.2722168, -89.1020879
 
 **Links**
 
 * https://www.rrstar.com/news/20200731/protesters-arrested-after-blocking-traffic-in-downtown-rockford
-* https://www.rrstar.com/news/20200801/protesters-arrested-for-second-straight-day-in-rockford
 
 
 
