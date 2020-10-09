@@ -304,7 +304,7 @@ tags: property-destruction, protester, strike, vehicle
 
 id: il-chicago-21
 
-geolocation: 
+geolocation: 41.9247068,-87.7095458
 
 **Links**
 
@@ -313,13 +313,13 @@ geolocation:
 
 ### Police shove protesters with bikes | August 15th
 
-Footage shows a line of police officers shouting, "Move," and shoving protesters backward with their bikes.
+Footage from West Marble Place and South LaSalle Street shows a line of police officers shouting, "Move," and shoving protesters backward with their bikes.
 
 tags: bike, protester, shove
 
 id: il-chicago-22
 
-geolocation: 
+geolocation: 41.8800529,-87.6322486
 
 **Links**
 
@@ -328,13 +328,13 @@ geolocation:
 
 ### Police shove and pepper spray protesters | August 15th
 
-Police charge into a crowd of protesters. One protester falls and police surround them. Other protesters attempt to help the protester up and are pepper sprayed.
+Police charge into a crowd of protesters at the intersection of North Dearborn and West Washington Streets. One protester falls and police surround them. Other protesters attempt to help the protester up and are pepper sprayed.
 
 tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: il-chicago-23
 
-geolocation: 
+geolocation: 41.8832394,-87.629571
 
 **Links**
 
@@ -344,13 +344,13 @@ geolocation:
 
 ### White-shirted officer shoves his way through a crowd of protesters | August 15th
 
-Footage shows police and protesters facing off. An officer in a white shirt, indicating higher rank, shoves his way into the crowd of protesters. Additional footage shows other officers shoving protesters as well.
+Footage shows police and protesters facing off at North Michigan Avenue and East Wacker Drive. An officer in a white shirt, indicating higher rank, shoves his way into the crowd of protesters. Additional footage shows other officers shoving protesters as well.
 
 tags: protester, push, shove
 
 id: il-chicago-24
 
-geolocation: 
+geolocation: 41.8881833,-87.6241811
 
 **Links**
 
@@ -366,7 +366,7 @@ tags: baton, beat, bike, protester, punch, push, shove, tackle
 
 id: il-chicago-25
 
-geolocation: 
+geolocation: 41.8800529,-87.6322486
 
 **Links**
 
@@ -375,7 +375,7 @@ geolocation:
 
 ### Police grab umbrellas from protesters, then escalate force | August 15th
 
-Police and protesters face off. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and allegedly discharging pepper spray. Police additionally pepper sprayed protesters.
+Police and protesters face off at North Michigan Avenue and East Wacker Drive. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and allegedly discharging pepper spray. Police additionally pepper sprayed protesters.
 
 An alternate angle provided by the Chicago Police Department, shows police initiating violence in the top left of the video at 0:52.
 
@@ -383,7 +383,7 @@ tags: baton, less-lethal, pepper-spray, property-destruction, protester, push, s
 
 id: il-chicago-26
 
-geolocation: 
+geolocation: 41.8881843,-87.624059
 
 **Links**
 
@@ -397,13 +397,13 @@ geolocation:
 
 ### Police pepper spray fleeing protesters | August 15th
 
-Footage shows protesters moving away from police. Officer discharge pepper spray at them.
+Footage shows protesters moving away from police at North Michigan Avenue and East Wacker Drive. Officer discharge pepper spray at them.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-27
 
-geolocation: 
+geolocation: 41.8881843,-87.624059
 
 **Links**
 
@@ -413,13 +413,13 @@ geolocation:
 
 ### Police pepper spray protesters | August 15th
 
-While clearing protesters from the street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
+While clearing protesters from the intersection at North Dearborn Street and West Randolph Street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-28
 
-geolocation: 
+geolocation: 41.8844556,-87.6293972
 
 **Links**
 
@@ -428,13 +428,13 @@ geolocation:
 
 ### Police shove through protesters to make targeted arrest | August 15th
 
-Footage shows police walking protesters down the street. Police begin shoving their way through protesters after a white-shirted officer points out a protester. Officers take the protester to the ground and arrest her, shoving the crowd back.
+Footage shows police walking protesters down the street at North Dearborn and West Randolph Streets. Police begin shoving their way through protesters after a white-shirted officer points out a protester. Officers take the protester to the ground and arrest her, shoving the crowd back.
 
 tags: arrest, protester, push, shove
 
 id: il-chicago-29
 
-geolocation: 
+geolocation: 41.8844556,-87.6293972
 
 **Links**
 
@@ -443,7 +443,7 @@ geolocation:
 
 ### Police surround protesters and search their bags | August 15th
 
-At a protest on August 15th, police kettled protesters and refused to allow them to leave without a bag search. Officers took protesters' bags and dumped them onto the sidewalk.
+At a protest on August 15th, police kettled protesters at West Marble Place and South LaSalle Street. Police refused to allow protesters to leave without a bag search. Officers took protesters' bags and dumped them onto the sidewalk.
 
 The 4th Amendment to the U.S. Constitution gives individuals the right to privacy and freedom from unreasonable searches. Most warrantless searches are considered unreasonable, with the exception of searches with consent of the searched or with probable cause. By disallowing protesters to leave, police did not allow protesters to consent. Further, probable cause has been determined on several occassions to be individualized, meaning that individuals on the premises of a crime scene cannot be searched simply for being present; rather, probable cause must be established for each individual, as in [Ybarra v. Illinois](https://www.oyez.org/cases/1979/78-5937) and [United States v. Di Re](https://supreme.justia.com/cases/federal/us/332/581/). This means that, in order to search protester's belongings, police would have needed to establish probable cause for each protester searched.
 
@@ -455,7 +455,7 @@ tags: abuse-of-power, protester
 
 id: il-chicago-30
 
-geolocation: 
+geolocation: 41.8800529,-87.6322486
 
 **Links**
 
