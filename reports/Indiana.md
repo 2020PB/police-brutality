@@ -8,7 +8,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: in-fortwayne-1
 
-geolocation: 
+geolocation: 41.0798711,-85.1391142
 
 **Links**
 
@@ -24,7 +24,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: in-fortwayne-6
 
-geolocation: 
+geolocation: 41.0798711,-85.1391142
 
 **Links**
 
@@ -41,11 +41,12 @@ tags: less-lethal, pepper-spray, protester, tear-gas
 
 id: in-fortwayne-2
 
-geolocation: 
+geolocation: 41.0798711,-85.1391142
 
 **Links**
 
 * https://twitter.com/blazedyukhei/status/1266533569029177346
+* [Archive link as Tweet has been deleted](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/in-fortwayne-2.1.mp4)
 
 
 ### Toddler tear-gassed by police | May 30th
@@ -56,7 +57,7 @@ tags: bystander, child, less-lethal, medic, tear-gas
 
 id: in-fortwayne-3
 
-geolocation: 
+geolocation: 41.0798711,-85.1391142
 
 **Links**
 
@@ -72,7 +73,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: in-fortwayne-4
 
-geolocation: 
+geolocation: 41.0798711,-85.1391142
 
 **Links**
 
@@ -91,7 +92,7 @@ tags: inhumane-treatment, less-lethal, protester, rubber-bullet
 
 id: in-fortwayne-5
 
-geolocation: 
+geolocation: 41.0800411,-85.1381721
 
 **Links**
 
@@ -109,7 +110,7 @@ tags: medic, property-destruction
 
 id: in-indianapolis-1
 
-geolocation: 
+geolocation: 39.7689795,-86.1606701
 
 **Links**
 
@@ -128,7 +129,7 @@ tags: less-lethal, person-with-disability, protester, tear-gas, tear-gas-caniste
 
 id: in-indianapolis-3
 
-geolocation: 
+geolocation: 39.7689795,-86.1606701
 
 **Links**
 
@@ -146,7 +147,7 @@ tags: arrest, baton, beat, inhumane-treatment, less-lethal, pepper-ball, protest
 
 id: in-indianapolis-2
 
-geolocation: 
+geolocation: 39.7670787,-86.1562681
 
 **Links**
 
@@ -166,7 +167,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: in-lafayette-1
 
-geolocation: 
+geolocation: 40.418707,-86.895723
 
 **Links**
 
