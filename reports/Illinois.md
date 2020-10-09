@@ -304,7 +304,7 @@ tags: property-destruction, protester, strike, vehicle
 
 id: il-chicago-21
 
-geolocation: 41.9247068,-87.7095458
+geolocation: 41.9247068, -87.7095458
 
 **Links**
 
@@ -319,7 +319,7 @@ tags: bike, protester, shove
 
 id: il-chicago-22
 
-geolocation: 41.8800529,-87.6322486
+geolocation: 41.8800529, -87.6322486
 
 **Links**
 
@@ -334,7 +334,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: il-chicago-23
 
-geolocation: 41.8832394,-87.629571
+geolocation: 41.8832394, -87.629571
 
 **Links**
 
@@ -350,7 +350,7 @@ tags: protester, push, shove
 
 id: il-chicago-24
 
-geolocation: 41.8881833,-87.6241811
+geolocation: 41.8881833, -87.6241811
 
 **Links**
 
@@ -366,7 +366,7 @@ tags: baton, beat, bike, protester, punch, push, shove, tackle
 
 id: il-chicago-25
 
-geolocation: 41.8800529,-87.6322486
+geolocation: 41.8800529, -87.6322486
 
 **Links**
 
@@ -383,7 +383,7 @@ tags: baton, less-lethal, pepper-spray, property-destruction, protester, push, s
 
 id: il-chicago-26
 
-geolocation: 41.8881843,-87.624059
+geolocation: 41.8881843, -87.624059
 
 **Links**
 
@@ -403,7 +403,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-27
 
-geolocation: 41.8881843,-87.624059
+geolocation: 41.8881843, -87.624059
 
 **Links**
 
@@ -419,7 +419,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: il-chicago-28
 
-geolocation: 41.8844556,-87.6293972
+geolocation: 41.8844556, -87.6293972
 
 **Links**
 
@@ -434,7 +434,7 @@ tags: arrest, protester, push, shove
 
 id: il-chicago-29
 
-geolocation: 41.8844556,-87.6293972
+geolocation: 41.8844556, -87.6293972
 
 **Links**
 
@@ -455,7 +455,7 @@ tags: abuse-of-power, protester
 
 id: il-chicago-30
 
-geolocation: 41.8800529,-87.6322486
+geolocation: 41.8800529, -87.6322486
 
 **Links**
 
