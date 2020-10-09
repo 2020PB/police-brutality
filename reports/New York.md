@@ -1821,6 +1821,21 @@ geolocation: 40.7300523, -73.9926555
 * https://twitter.com/itsa_talia/status/1313347355094200321
 
 
+### NYPD officer slaps a protesters phone | October 7th
+
+A protester outside the 79th precinct is seen filming an officer at close range. The officer, wearing a white shirt which denotes high rank, slaps the phone out of the protester's hand. The officer tells the protester "If you put it in my face, you'll be under arrest" in response to the protester filming him. 
+
+tags: protester, threaten
+
+id: ny-newyorkcity-108
+
+geolocation: 40.6888187,-73.9448449
+
+**Links**
+
+* https://twitter.com/chrisgelardi/status/1314204080252751880
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
