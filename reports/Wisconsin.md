@@ -291,3 +291,57 @@ geolocation:
 * https://www.youtube.com/watch?v=huAvoVlJVgc
 * https://twitter.com/StupidNeel/status/1268014836786528257
 
+
+## Wauwatosa
+
+### Police fire tear gas and pepper balls at protesters | October 7th
+
+Protesters rallied in Wauwatosa, Wisconsin after it was announced an officer would not be charged in the death of a black teen, which occurred in February. Protesters threw small projectiles at police and police in riot gear responded with tear gas and impact munitions (believed to be pepper balls). Prior to this, protesters had allegedly thrown objects at residential homes. However, it cannot be confirmed if those rioters were at all related to the group of protesters gassed here.
+
+Bystander vehicles were caught in the gas and had to use the sidewalk to flee.
+
+The incident occurred near North Ave and Menomonie River Parkway.
+
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
+
+id: wi-wauwatosa-1
+
+geolocation: 43.0603597, -88.0341646
+
+**Links**
+
+* https://twitter.com/RicoReporting/status/1314027504089341952
+* https://twitter.com/tr00p3rr/status/1314028178961248258
+* https://twitter.com/MegCarpenterTV/status/1314031060284583942
+* https://twitter.com/BGOnTheScene/status/1314035466262454278
+* https://twitter.com/CopsRBad/status/1314040430431023104
+* https://twitter.com/CopsRBad/status/1314039225365524480
+* https://twitter.com/CopsRBad/status/1314039524062879744
+* https://twitter.com/anoncatanoncat/status/1314039489254379522
+* https://twitter.com/BGOnTheScene/status/1314039265031053315
+* https://twitter.com/realblairnelson/status/1314050411628724226
+* https://twitter.com/BGOnTheScene/status/1314067726680444928
+* https://twitter.com/JohnD91394640/status/1314072964208431105
+
+
+### National Guard officers violently arrest journalists | October 8th
+
+Several journalists, one independent reporter and several representing The Daily Caller, were sitting in a car in the parking lot of St. Matthew's Evangelical Lutheran Church in Milwaukee, Wisconsin. A local news crew captured National Guard officers pulling them from the car, slamming the independent reporter to the pavement. The independent reporter and one Daily Caller reporter were arrested. The independent reporter was held longer than The Daily Caller reporter, but appears to have been released early on October 9th. One Daily Caller reporter also reports being struck with a baton.
+
+Additional footage shows a Daily Caller filming arrests of protesters made by National Guard. The officers tell the Daily Caller reporter to leave the are. He states he is press but returns to his car in the parking lot nonetheless. Officers follow him to his car, causing the incident.
+
+tags: arrest, baton, journalist, strike, throw
+
+id: wa-wauwatosa-2
+
+geolocation: 43.0526323, -88.0080749
+
+**Links**
+
+* https://twitter.com/WISN_Caroline/status/1314384786845249536
+* https://twitter.com/BGOnTheScene/status/1314521047547420672
+* https://twitter.com/BGOnTheScene/status/1314487821160325120
+* https://dailycaller.com/2020/10/08/wisconsin-protesters-national-guard/
+* https://twitter.com/ShelbyTalcott/status/1314386705475084288
+* https://twitter.com/ShelbyTalcott/status/1314386705475084288
+
