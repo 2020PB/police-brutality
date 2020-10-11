@@ -330,6 +330,8 @@ Several journalists, one independent reporter and several representing The Daily
 
 Additional footage shows a Daily Caller filming arrests of protesters made by National Guard. The officers tell the Daily Caller reporter to leave the are. He states he is press but returns to his car in the parking lot nonetheless. Officers follow him to his car, causing the incident.
 
+The independent journalist has since tweeted that he sustained a concussion.
+
 tags: arrest, baton, journalist, strike, throw
 
 id: wa-wauwatosa-2
@@ -344,6 +346,7 @@ geolocation: 43.0526323, -88.0080749
 * https://dailycaller.com/2020/10/08/wisconsin-protesters-national-guard/
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
+* https://twitter.com/BGOnTheScene/status/1315100569967697920
 
 
 ### Police tear gas protesters | October 9th
