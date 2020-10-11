@@ -345,3 +345,24 @@ geolocation: 43.0526323, -88.0080749
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
 
+
+### Police tear gas protesters | October 9th
+
+Police deployed tear gas against protesters gathered at Wauwatosa Avenue and West North Avenue. Protesters were in violation of curfew, and police allege that water bottles had been thrown at them, and that protesters had moved dumpsters into the street.
+
+Police additionally fired impact munitions at protesters. Reports are conflicted as to whether they were rubber bullets, pepper balls, or paint balls.
+
+tags: tear-gas, protester, less-lethal, shoot, projectile
+
+id: wa-wauwatosa-3
+
+geolocation: 43.0608482,-88.007371
+
+**Links**
+
+* https://twitter.com/TMJ4Stephanie/status/1314736308372287488
+* https://twitter.com/CearronBagenda/status/1314734800352301056
+* https://twitter.com/RicoReporting/status/1314735865919307777
+* https://twitter.com/BenJordan3/status/1314735112060309509
+* https://twitter.com/arson_ist/status/1314933427968389121
+* https://www.wisn.com/article/police-use-tear-gas-to-disperse-protesters-in-wauwatosa/34333420#
