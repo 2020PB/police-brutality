@@ -55,6 +55,7 @@ As these protests have continued, hundreds of incidents have been recorded where
 * [Frequently Asked Questions](./CONTRIBUTING.md#Frequently-Asked-Questions)
 * [Building with the API](./docs/building-with-the-api.md)
 * [IPFS Archive](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud)
+* [Raw Video Archive (not actively maintained)](https://github.com/pb-files/pb-videos)
 * **Incident Reports**
   * [Alabama](./reports/Alabama.md)
   * [Arizona](./reports/Arizona.md)
