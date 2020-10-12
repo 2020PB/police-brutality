@@ -8,7 +8,7 @@ tags: abuse-of-power, hide-badge
 
 id: ks-overlandpark-1
 
-geolocation: 
+geolocation: 38.9034131,-94.6730163
 
 **Links**
 
