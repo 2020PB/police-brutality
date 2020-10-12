@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-12T14:40:38.530509+00:00
+UPDATED AT: 2020-10-12T17:37:22.082257+00:00
 
 
 # Alabama
@@ -4511,7 +4511,7 @@ tags: abuse-of-power, hide-badge
 
 id: ks-overlandpark-1
 
-geolocation: 
+geolocation: 38.9034131, -94.6730163
 
 **Links**
 
