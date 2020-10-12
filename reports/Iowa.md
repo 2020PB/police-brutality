@@ -8,7 +8,7 @@ tags: less-lethal, mace, protester, spray, tear-gas
 
 id: ia-desmoines-2
 
-geolocation: 
+geolocation: 41.5865739,-93.6164429
 
 **Links**
 
@@ -40,7 +40,7 @@ tags: baton, beat, less-lethal, pepper-spray, protester, shield, shove, spray, s
 
 id: ia-desmoines-11
 
-geolocation: 
+geolocation: 41.5848318,-93.6228809
 
 **Links**
 
@@ -56,7 +56,7 @@ tags: arrest, journalist, less-lethal, pepper-spray, spray, zip-tie
 
 id: ia-desmoines-7
 
-geolocation: 
+geolocation: 41.6314304,-93.7020114
 
 **Links**
 
@@ -72,7 +72,7 @@ tags: bystander, gas, protester
 
 id: ia-desmoines-12
 
-geolocation: 
+geolocation: 41.6294934,-93.698504
 
 **Links**
 
@@ -87,7 +87,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: ia-desmoines-4
 
-geolocation: 
+geolocation: 41.5912062,-93.6058276
 
 **Links**
 
@@ -95,7 +95,7 @@ geolocation:
 * https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
 
 
-### Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | (believed to be) June 2nd
+### Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | June 2nd
 
 Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
 
@@ -103,11 +103,12 @@ tags: arrest, bystander, less-lethal, pepper-spray, shove, spray, threaten
 
 id: ia-desmoines-1
 
-geolocation: 
+geolocation: 41.5900114,-93.6154852
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
+* https://www.desmoinesregister.com/story/news/2020/06/03/iowa-protests-tuesday-arrests-after-leaving-peaceful-protest-des-moines-police-east-village/3135069001/
 
 
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
@@ -118,11 +119,11 @@ tags: arrest, protester, racial-profiling
 
 id: ia-desmoines-6
 
-geolocation: 
+geolocation: 41.5976077,-93.5995367
 
 **Links**
 
-* https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
+* https://twitter.com/DesMoinesBLM/status/1268710416219242496
 
 
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th
@@ -152,11 +153,15 @@ tags: abuse-of-power, arrest, knee, protester
 
 id: ia-desmoines-10
 
-geolocation: 
+geolocation: 41.5943362,-93.608093
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1275641933671673859
+* https://twitter.com/rom3robrix/status/1275287179632181255
+* https://twitter.com/rom3robrix/status/1275300903952822272
+* https://twitter.com/rom3robrix/status/1275303042242490374
+* https://twitter.com/sophiaxleza/status/1275296622524628993
 
 
 ### Police push, shove and pepper-spray protesters | June 22nd
@@ -177,7 +182,7 @@ tags: child, less-lethal, pepper-spray, protester, push, shield, shove, spray
 
 id: ia-desmoines-9
 
-geolocation: 
+geolocation: 41.5943362,-93.608093
 
 **Links**
 
@@ -198,7 +203,7 @@ tags: arrest, beat, child, less-lethal, pepper-spray, protester, spray, tackle
 
 id: ia-desmoines-8
 
-geolocation: 
+geolocation: 41.5903716,-93.6089672
 
 **Links**
 
@@ -224,7 +229,7 @@ tags: less-lethal, medic, protester, stun-grenade, tear-gas
 
 id: ia-iowacity-1
 
-geolocation: 
+geolocation: 41.6850919,-91.5384413
 
 **Links**
 
