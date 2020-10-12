@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-10T00:44:16.063848+00:00
+UPDATED AT: 2020-10-12T14:40:38.530509+00:00
 
 
 # Alabama
@@ -20878,6 +20878,8 @@ Several journalists, one independent reporter and several representing The Daily
 
 Additional footage shows a Daily Caller filming arrests of protesters made by National Guard. The officers tell the Daily Caller reporter to leave the are. He states he is press but returns to his car in the parking lot nonetheless. Officers follow him to his car, causing the incident.
 
+The independent journalist has since tweeted that he sustained a concussion.
+
 tags: arrest, baton, journalist, strike, throw
 
 id: wa-wauwatosa-2
@@ -20892,6 +20894,29 @@ geolocation: 43.0526323, -88.0080749
 * https://dailycaller.com/2020/10/08/wisconsin-protesters-national-guard/
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
 * https://twitter.com/ShelbyTalcott/status/1314386705475084288
+* https://twitter.com/BGOnTheScene/status/1315100569967697920
+
+
+### Police tear gas protesters | October 9th
+
+Police deployed tear gas against protesters gathered at Wauwatosa Avenue and West North Avenue. Protesters were in violation of curfew, and police allege that water bottles had been thrown at them, and that protesters had moved dumpsters into the street.
+
+Police additionally fired impact munitions at protesters. Reports are conflicted as to whether they were rubber bullets, pepper balls, or paint balls.
+
+tags: less-lethal, projectile, protester, shoot, tear-gas
+
+id: wa-wauwatosa-3
+
+geolocation: 43.0608482, -88.007371
+
+**Links**
+
+* https://twitter.com/TMJ4Stephanie/status/1314736308372287488
+* https://twitter.com/CearronBagenda/status/1314734800352301056
+* https://twitter.com/RicoReporting/status/1314735865919307777
+* https://twitter.com/BenJordan3/status/1314735112060309509
+* https://twitter.com/arson_ist/status/1314933427968389121
+* https://www.wisn.com/article/police-use-tear-gas-to-disperse-protesters-in-wauwatosa/34333420#
 
 
 
