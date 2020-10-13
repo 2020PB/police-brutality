@@ -8,11 +8,11 @@ Demonstrations have centered on Quitobaquito Springs, a local freshwater source 
 
 Protesters say 8 adults were taken into custody, as well as several minors.
 
-tags: protester, shoot, projectile, less-lethal, rubber-bullet
+tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: az-ajo-1
 
-geolocation: 32.2739671,-112.7419162
+geolocation: 32.2739671, -112.7419162
 
 **Links**
 
