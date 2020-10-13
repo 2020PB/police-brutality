@@ -6755,11 +6755,11 @@ In a press release posted after the fact, police alleged that the protesters wer
 
 Police later released charges, calling the arrests "targeted;" a journalist spoke with a Portland Police spokesperson who defined targeted arrests means "those committing a crime." 26 protesters were arrested; all were charged with interfering with a police officer and with disorderly conduct. Some others were charged with resisting arrest, attempted escape, and possession of a concealed weapon.
 
-tags: protester, journalist, push, shove, arrest
+tags: arrest, journalist, protester, push, shove
 
 id: or-portland-389
 
-geolocation: 45.5618069,-122.661302
+geolocation: 45.5618069, -122.661302
 
 **Links**
 
