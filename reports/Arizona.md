@@ -1,3 +1,28 @@
+## Ajo
+
+### Indigenous protesters shot and tear gassed | October 12th
+
+Members of the O'odham Anti Border Collective staged a protest near Border Patrol checkpoint SR-85 in Arizona on Indigenous People's Day (October 12th). Protesters blocking the street were met with impact munitions (allegedly rubber bullets) and tear gas fired by officers from the Arizona Department of Public Safety.
+
+Demonstrations have centered on Quitobaquito Springs, a local freshwater source along the border of Organ Pipe National Monument, part of the traditional Hia-Ced O'odham homeland. Construction of the border wall puts access to this traditional resource at risk for indigenous people living in the area.
+
+Protesters say 8 adults were taken into custody, as well as several minors.
+
+tags: protester, shoot, projectile, less-lethal, rubber-bullet
+
+id: az-ajo-1
+
+geolocation: 32.2739671,-112.7419162
+
+**Links**
+
+* https://twitter.com/NoBayouBridge/status/1315773267014299653
+* https://twitter.com/maxie_adler/status/1315704218116861960
+* https://vimeo.com/467449845
+* https://www.kold.com/2020/10/12/protesters-arrested-border-patrol-checkpoint-sr-/
+* https://www.azpm.org/p/home-articles-news/2020/10/12/182016-indigenous-peoples-day-border-demonstration-ends-with-tear-gas-arrests/
+
+
 ## Phoenix
 
 ### Officer tackles and arrests person walking home from protest | May 30th
