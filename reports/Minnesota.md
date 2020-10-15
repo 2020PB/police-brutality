@@ -137,7 +137,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mn-minneapolis-15
 
-geolocation: 
+geolocation: 44.961980, -93.277830
 
 **Links**
 
