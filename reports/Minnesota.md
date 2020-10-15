@@ -55,7 +55,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: mn-minneapolis-1
 
-geolocation: 
+geolocation: 44.947897, -93.233858
 
 **Links**
 
@@ -73,7 +73,7 @@ tags: bystander, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mn-minneapolis-20
 
-geolocation: 
+geolocation: 44.947897, -93.233858
 
 **Links**
 
