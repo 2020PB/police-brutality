@@ -23,7 +23,7 @@ tags: journalist, shield
 
 id: dc-dc-1
 
-geolocation: 
+geolocation: 38.900186, -77.0360547
 
 **Links**
 
