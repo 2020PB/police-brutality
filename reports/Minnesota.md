@@ -104,7 +104,7 @@ tags: arrest, journalist
 
 id: mn-minneapolis-4
 
-geolocation: 
+geolocation: 44.948388, -93.234033
 
 **Links**
 
