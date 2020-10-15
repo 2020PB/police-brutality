@@ -249,11 +249,11 @@ tags: journalist, less-lethal, shoot, tear-gas
 
 id: mn-minneapolis-6
 
-geolocation: 
+geolocation: 44.9462400, -93.277920
 
 **Links**
 
-* https://mobile.twitter.com/mollyhf/status/1266911382613692422
+* https://twitter.com/mollyhf/status/1266911382613692422
 * https://twitter.com/mollyhf/status/1269003675063799810
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
