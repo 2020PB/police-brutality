@@ -6749,7 +6749,7 @@ geolocation: 45.4928304, -122.6729251
 
 ### Police make violent mass arrests | October 10th
 
-15 minutes into a protest near the Blazers Boys and Girls Club, police violently arrest protesters en masse, tackling some protesters and deploying mace against others. Police also ripped umbrellas away from protesters, destroying them. Police had not declared an unlawful assembly, although police had allegedly issued a single warning to protesters to stay off the streets. Several journalists were shoved by police and forced disperse, in clear violation of the recently renewed TRO exempting members of the press from dispersal orders.
+15 minutes into a protest near the Blazers Boys and Girls Club, police violently arrest protesters en masse, tackling some protesters and deploying mace against others. Police also ripped umbrellas away from protesters, destroying them. Police had not declared an unlawful assembly, although police had allegedly issued a single warning to protesters to stay off the streets. Several journalists were shoved by police and forced to disperse, in clear violation of the recently renewed TRO exempting members of the press from dispersal orders.
 
 In a press release posted after the fact, police alleged that the protesters were blocking traffic and wearing all black, which would be difficult for motorists to see. As a result, Portland police said, they arrested protesters out of concern for their safety.
 
