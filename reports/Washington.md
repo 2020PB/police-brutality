@@ -289,7 +289,7 @@ tags: less-lethal, pepper-spray, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-15
 
-geolocation: 
+geolocation: 47.615175, -122.318159
 
 **Links**
 
