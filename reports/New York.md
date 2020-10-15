@@ -8,7 +8,7 @@ tags: arrest, protester, tackle
 
 id: ny-buffalo-1
 
-geolocation: 42.9288045,-78.815845
+geolocation: 42.9288045, -78.815845
 
 **Links**
 
@@ -29,7 +29,7 @@ tags: protester, push, shove, strike
 
 id: ny-buffalo-2
 
-geolocation: 42.886546,-78.8794732
+geolocation: 42.886546, -78.8794732
 
 **Links**
 
