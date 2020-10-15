@@ -369,7 +369,7 @@ tags: arrest, journalist, less-lethal, rubber-bullet, shoot, threaten
 
 id: mn-minneapolis-13
 
-geolocation: 
+geolocation: 44.94592, -93.276684
 
 **Links**
 
