@@ -574,7 +574,9 @@ tags: journalist, less-lethal, projectile, protester, shoot
 
 id: tx-sanantonio-2
 
+
 geolocation: 29.425163, -98.486998
+
 
 **Links**
 
@@ -582,4 +584,6 @@ geolocation: 29.425163, -98.486998
 * https://twitter.com/LenaBlietz/status/1268034667770511362
 * https://twitter.com/LenaBlietz/status/1268034875291992069
 * https://twitter.com/LenaBlietz/status/1268309812426784772
+* https://twitter.com/m_b_dunphy/status/1268027660732706816
+
 
