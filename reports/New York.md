@@ -1310,7 +1310,7 @@ tags: baton, journalist, shove, strike
 
 id: ny-newyorkcity-43
 
-geolocation: 
+geolocation: 40.764361, -73.973066
 
 **Links**
 
