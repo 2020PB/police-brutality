@@ -320,7 +320,7 @@ tags: explosive, journalist, less-lethal, projectile, stun-grenade
 
 id: mn-minneapolis-10
 
-geolocation: 
+geolocation: 44.947790, -93.279390
 
 **Links**
 
