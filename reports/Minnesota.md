@@ -168,11 +168,12 @@ tags: journalist, shoot
 
 id: mn-minneapolis-27
 
-geolocation: 
+geolocation: 44.947840, -93.277430
 
 **Links**
 
 * https://twitter.com/brianstelter/status/1266910826797113347
+* https://twitter.com/bubbaprog/status/1266912774833287169
 
 
 ### CBS crew fired upon by police. | May 30th
