@@ -189,7 +189,7 @@ tags: journalist, less-lethal, pepper-spray, protester, rubber-bullet
 
 id: dc-dc-9
 
-geolocation: 38.90028, -77.038115
+geolocation: 38.900280, -77.038115
 
 **Links**
 
