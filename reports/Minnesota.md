@@ -180,11 +180,11 @@ geolocation: 44.947840, -93.277430
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
 
-tags: 
+tags: journalist, shoot, projectile
 
 id: mn-minneapolis-23
 
-geolocation: 
+geolocation: 44.948590, -93.279250
 
 **Links**
 
