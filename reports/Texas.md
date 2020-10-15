@@ -568,15 +568,17 @@ geolocation:
 
 ### Police fire on protesters without warning | June 2nd
 
-Police are protesters are gathered several feet apart. Between the two lines, a protester is seen telling other protesters to put their hands up. Police then fire as protesters scatter.
+Police are protesters are gathered several feet apart. Between the two lines, a protester is seen telling other protesters to put their hands up. Police then fire as protesters scatter. A journalist was also shot in the leg.
 
-tags: less-lethal, projectile, protester, shoot
+tags: less-lethal, projectile, protester, shoot, journalist
 
 id: tx-sanantonio-2
 
-geolocation: 
+geolocation: 29.425163, -98.486998
 
 **Links**
 
 * https://twitter.com/SanAntonioProbz/status/1268027491987468288
-
+* https://twitter.com/LenaBlietz/status/1268034667770511362
+* https://twitter.com/LenaBlietz/status/1268034875291992069
+* https://twitter.com/LenaBlietz/status/1268309812426784772
