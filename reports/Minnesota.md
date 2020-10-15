@@ -414,7 +414,7 @@ tags: baton, beat, journalist, less-lethal, pepper-spray, projectile, shoot, spr
 
 id: mn-minneapolis-19
 
-geolocation: 44.9457, -93.277929
+geolocation: 44.945700, -93.277929
 
 **Links**
 
