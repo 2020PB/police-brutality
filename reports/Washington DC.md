@@ -55,7 +55,7 @@ tags: journalist, less-lethal, projectile, punch, rubber-bullet, tear-gas
 
 id: dc-dc-2
 
-geolocation: 
+geolocation: 38.900127, -77.036227
 
 **Links**
 
@@ -66,7 +66,6 @@ geolocation:
 * https://twitter.com/i/status/1267606685767667712
 * [Alternate footage](https://v.redd.it/qf9vf0hdrd251)
 * [Mirror of alternate footage](https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484)
-* [CW: Blood](https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/)
 
 
 ### Protesters are quickly and violently pushed out of Lafayette Square | June 1st
@@ -148,6 +147,7 @@ geolocation:
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
+* [CW: Blood](https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/)
 
 
 ### Police fire into crowd hitting one protester | June 1st
@@ -163,23 +163,6 @@ geolocation:
 **Links**
 
 * https://twitter.com/i/status/1269859559859871744
-
-
-### Protester bashed with riot shield, shoved and shot by police | June 1st
-
-Footage from Anderson Cooper 360 uploaded to Twitter on June 1st shows a protester struck by an officer with a riot shield. Blood is seen coming from the protester's face.
-
-Footage then shows the protester shoved to the ground and shot.
-
-tags: beat, protester, shield, shoot, shove
-
-id: dc-dc-15
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/WestofHereFox/status/1267615709791731713
 
 
 ### Unmarked federal agents aid police | June 2nd
@@ -206,7 +189,7 @@ tags: journalist, less-lethal, pepper-spray, protester, rubber-bullet
 
 id: dc-dc-9
 
-geolocation: 
+geolocation: 38.90028, -77.038115
 
 **Links**
 
