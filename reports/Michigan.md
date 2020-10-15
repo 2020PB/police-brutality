@@ -120,7 +120,7 @@ The footage becomes blurry as it appears that police strike the reporter, who re
 
 The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted. One journalist was briefly arrested and zip-tied before being released.
 
-tags: beat, journalist, less-lethal, pepper-spray, property-destruction, protester, punch, shield, spray, strike, arrest, zip-tie
+tags: arrest, beat, journalist, less-lethal, pepper-spray, property-destruction, protester, punch, shield, spray, strike, zip-tie
 
 id: mi-detroit-7
 
