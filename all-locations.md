@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-15T01:57:54.011059+00:00
+UPDATED AT: 2020-10-15T02:01:08.571292+00:00
 
 
 # Alabama
@@ -19000,7 +19000,7 @@ tags: less-lethal, pepper-spray, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-15
 
-geolocation: 
+geolocation: 47.615175, -122.318159
 
 **Links**
 
