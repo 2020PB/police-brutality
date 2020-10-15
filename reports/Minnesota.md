@@ -355,7 +355,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-12
 
-geolocation: 
+geolocation: 44.947610, -93.276739
 
 **Links**
 
