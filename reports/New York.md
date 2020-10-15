@@ -51,7 +51,7 @@ tags: journalist, less-lethal, projectile, shoot, threaten
 
 id: ny-buffalo-3
 
-geolocation: 42.88742, -78.877836
+geolocation: 42.887420, -78.877836
 
 **Links**
 
