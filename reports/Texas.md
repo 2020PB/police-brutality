@@ -574,9 +574,9 @@ tags: less-lethal, projectile, protester, shoot
 
 id: tx-sanantonio-2
 
-geolocation: 
+geolocation: 29.425178, -98.487098
 
 **Links**
 
 * https://twitter.com/SanAntonioProbz/status/1268027491987468288
-
+* https://twitter.com/m_b_dunphy/status/1268027660732706816
