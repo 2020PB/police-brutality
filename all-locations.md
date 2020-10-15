@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-15T20:25:56.956637+00:00
+UPDATED AT: 2020-10-15T20:28:36.104373+00:00
 
 
 # Alabama
@@ -6545,12 +6545,13 @@ tags: arrest, journalist, protester, push, shove, tackle
 
 id: nj-asburypark-1
 
-geolocation: 
+geolocation: 40.219163, -74.013538
 
 **Links**
 
 * https://www.northjersey.com/story/news/local/how-we-live/2020/06/01/app-reporter-apparently-arrested-asbury-park-george-floyd-protest/5314750002/
 * https://twitter.com/greg_doucette/status/1270480487249776641
+* https://www.app.com/story/news/local/emergencies/2020/06/02/reporter-arrest-asbury-park-george-floyd-protest-troubling-trend/5315221002/
 
 
 
