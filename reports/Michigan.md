@@ -118,18 +118,19 @@ Police line is seen using shields to push back a small group of protesters. The 
 
 The footage becomes blurry as it appears that police strike the reporter, who repeatedly states, "I am press," and is standing alongside several camera crews.
 
-The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted.
+The reporter states that they were beaten by police, their glasses were broken, and their phone thrown. In a subsequent video, the reporter speaks to the police chief and states in the description that they were pepper-sprayed. The police chief states that he will open an investigation. A second reporter off-screen tells the chief that multiple journalists were assaulted. One journalist was briefly arrested and zip-tied before being released.
 
-tags: beat, journalist, less-lethal, pepper-spray, property-destruction, protester, punch, shield, spray, strike
+tags: arrest, beat, journalist, less-lethal, pepper-spray, property-destruction, protester, punch, shield, spray, strike, zip-tie
 
 id: mi-detroit-7
 
-geolocation: 
+geolocation: 42.405542, -82.997185
 
 **Links**
 
 * https://twitter.com/MCmuckraker/status/1267982859991728130
 * https://twitter.com/MCmuckraker/status/1268011179986870273
+* https://twitter.com/JustCallmeBHunt/status/1267981691529957376
 
 
 ### Police use LRAD (sound cannon) to disperse protesters | June 2nd
