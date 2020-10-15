@@ -121,7 +121,7 @@ tags: arrest, baton, journalist, less-lethal, projectile, shoot, shove
 
 id: mn-minneapolis-5
 
-geolocation: 
+geolocation: 44.963300, -93.277390
 
 **Links**
 
