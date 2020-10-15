@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-12T17:38:07.661896+00:00
+UPDATED AT: 2020-10-15T01:57:47.131802+00:00
 
 
 # Alabama
@@ -16605,6 +16605,36 @@ geolocation: 45.4928304, -122.6729251
 * https://twitter.com/KohzKah/status/1313722524849655808
 * https://twitter.com/_WhatRiot/status/1313726813172977664
 * https://twitter.com/MrOlmos/status/1313748616171847680
+
+
+### Police make violent mass arrests | October 10th
+
+15 minutes into a protest near the Blazers Boys and Girls Club, police violently arrest protesters en masse, tackling some protesters and deploying mace against others. Police also ripped umbrellas away from protesters, destroying them. Police had not declared an unlawful assembly, although police had allegedly issued a single warning to protesters to stay off the streets. Several journalists were shoved by police and forced to disperse, in clear violation of the recently renewed TRO exempting members of the press from dispersal orders.
+
+In a press release posted after the fact, police alleged that the protesters were blocking traffic and wearing all black, which would be difficult for motorists to see. As a result, Portland police said, they arrested protesters out of concern for their safety.
+
+Police later released charges, calling the arrests "targeted;" a journalist spoke with a Portland Police spokesperson who defined targeted arrests means "those committing a crime." 26 protesters were arrested; all were charged with interfering with a police officer and with disorderly conduct. Some others were charged with resisting arrest, attempted escape, and possession of a concealed weapon.
+
+tags: arrest, journalist, protester, push, shove
+
+id: or-portland-389
+
+geolocation: 45.5618069, -122.661302
+
+**Links**
+
+* https://twitter.com/Claudio_Report/status/1315175466119045121
+* https://twitter.com/MrOlmos/status/1315327542350364672
+* https://twitter.com/R3volutionDaddy/status/1315160950303911938
+* https://twitter.com/R3volutionDaddy/status/1315244801722261504
+* https://twitter.com/PDocumentarians/status/1315162660694978561
+* https://twitter.com/PDocumentarians/status/1315164398650978304
+* https://twitter.com/MasonLakePhoto/status/1315176622782205958
+* https://www.opb.org/article/2020/10/11/portland-police-make-blanket-arrests-minutes-after-saturday-protest-starts/
+* https://reddit.com/r/2020PoliceBrutality/comments/j8zzxq/portland_police_assaulted_a_100_peaceful_protest/
+* https://www.portlandoregon.gov/police/news/read.cfm?id=271268
+* https://twitter.com/45thabsurdist/status/1315331704232452096
+* https://twitter.com/MrOlmos/status/1315324510573219841
 
 
 ## Salem
