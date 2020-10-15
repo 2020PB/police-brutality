@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-15T02:01:49.816161+00:00
+UPDATED AT: 2020-10-15T17:42:41.574758+00:00
 
 
 # Alabama
@@ -18037,11 +18037,12 @@ tags: less-lethal, projectile, protester, shoot
 
 id: tx-sanantonio-2
 
-geolocation: 
+geolocation: 29.425178, -98.487098
 
 **Links**
 
 * https://twitter.com/SanAntonioProbz/status/1268027491987468288
+* https://twitter.com/m_b_dunphy/status/1268027660732706816
 
 
 
