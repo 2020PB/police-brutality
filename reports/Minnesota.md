@@ -408,19 +408,20 @@ geolocation:
 
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
 
-South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches. One reporter states he and his colleagues suffered vomiting and burning skin as a result.
 
 tags: baton, beat, journalist, less-lethal, pepper-spray, projectile, shoot, spray, tear-gas
 
 id: mn-minneapolis-19
 
-geolocation: 
+geolocation: 44.9457, -93.277929
 
 **Links**
 
 * https://twitter.com/edouphoto/status/1267958349477249024
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
+* https://twitter.com/Wiita_BEST/status/1267128694616752130
 
 
 ### Police beat and pepper spray protesters | May 31st
