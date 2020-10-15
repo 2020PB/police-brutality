@@ -124,7 +124,7 @@ tags: beat, journalist, less-lethal, pepper-spray, property-destruction, protest
 
 id: mi-detroit-7
 
-geolocation: 
+geolocation: 42.405542, -82.997185
 
 **Links**
 
