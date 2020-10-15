@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-15T17:42:41.574758+00:00
+UPDATED AT: 2020-10-15T17:46:47.383112+00:00
 
 
 # Alabama
@@ -18031,18 +18031,24 @@ geolocation:
 
 ### Police fire on protesters without warning | June 2nd
 
-Police are protesters are gathered several feet apart. Between the two lines, a protester is seen telling other protesters to put their hands up. Police then fire as protesters scatter.
+Police are protesters are gathered several feet apart. Between the two lines, a protester is seen telling other protesters to put their hands up. Police then fire as protesters scatter. A journalist was also shot in the leg.
 
-tags: less-lethal, projectile, protester, shoot
+tags: journalist, less-lethal, projectile, protester, shoot
 
 id: tx-sanantonio-2
 
-geolocation: 29.425178, -98.487098
+
+geolocation: 29.425163, -98.486998
+
 
 **Links**
 
 * https://twitter.com/SanAntonioProbz/status/1268027491987468288
+* https://twitter.com/LenaBlietz/status/1268034667770511362
+* https://twitter.com/LenaBlietz/status/1268034875291992069
+* https://twitter.com/LenaBlietz/status/1268309812426784772
 * https://twitter.com/m_b_dunphy/status/1268027660732706816
+
 
 
 
