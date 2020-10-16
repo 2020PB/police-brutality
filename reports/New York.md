@@ -642,7 +642,7 @@ tags: journalist, property-destruction, shield, strike
 
 id: ny-newyorkcity-16
 
-geolocation: 40.678098, -73.94427
+geolocation: 40.678098, -73.944270
 
 **Links**
 
