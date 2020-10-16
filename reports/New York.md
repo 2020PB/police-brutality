@@ -413,7 +413,7 @@ tags: arrest, inhumane-treatment, journalist, zip-tie
 
 id: ny-newyorkcity-30
 
-geolocation: 40.79598, -73.97491
+geolocation: 40.795980, -73.97491
 
 **Links**
 
