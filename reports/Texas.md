@@ -41,7 +41,7 @@ geolocation: 30.268286, -97.732961
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag rounds. Tear gas was later deployed on the crowd. A journalist with Fox 7 Austin was caught in the tear gas.
 
-tags: bean-bag, less-lethal, protester, rubber-bullet, shoot, tear-gas, threaten, journalist
+tags: bean-bag, journalist, less-lethal, protester, rubber-bullet, shoot, tear-gas, threaten
 
 id: tx-austin-4
 
