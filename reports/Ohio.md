@@ -528,7 +528,7 @@ tags: bystander, less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-22
 
-geolocation: 
+geolocation: 40.005950, -83.009096
 
 **Links**
 
