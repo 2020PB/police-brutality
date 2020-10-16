@@ -210,7 +210,7 @@ Richmond was no longer under curfew restrictions at this time.
 
 In addition, one protester's phone was shot. Police also appear to deploy pepper spray and stun grenades after the initial shots.
 
-tags: less-lethal, pepper-spray, property-destruction, protester, rubber-bullet, shoot, spray, tear-gas, stun-grenade
+tags: less-lethal, pepper-spray, property-destruction, protester, rubber-bullet, shoot, spray, stun-grenade, tear-gas
 
 id: va-richmond-5
 
