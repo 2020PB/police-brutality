@@ -347,7 +347,7 @@ tags: arrest, journalist
 
 id: ny-newyorkcity-8
 
-geolocation: 
+geolocation: 40.650712, -73.951185
 
 **Links**
 
@@ -413,15 +413,15 @@ tags: arrest, inhumane-treatment, journalist, zip-tie
 
 id: ny-newyorkcity-30
 
-geolocation: 
+geolocation: 40.79598, -73.97491
 
 **Links**
 
 * https://www.advocate.com/news/2020/6/01/journalist-keith-boykin-arrested-nyc-protest-held-six-hours
 * https://twitter.com/keithboykin/status/1266933018570219520
-* https://twitter.com/keithboykin/status/1266933018570219520
-* https://twitter.com/keithboykin/status/1266933018570219520
-* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933659434655744
+* https://twitter.com/keithboykin/status/1266934106933407744
+* https://twitter.com/keithboykin/status/1266936136418701317
 * https://www.youtube.com/watch?v=tojt5i0dNV4
 
 
@@ -634,17 +634,21 @@ geolocation:
 
 ### Police injure journalist | May 31st
 
-Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
+Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed. 
+
+The Manhattan DA is investigating the incident.
 
 tags: journalist, property-destruction, shield, strike
 
 id: ny-newyorkcity-16
 
-geolocation: 
+geolocation: 40.678098, -73.94427
 
 **Links**
 
 * https://twitter.com/tylergabriel_/status/1267287516345925632
+* https://thehill.com/blogs/blog-briefing-room/news/500613-manhattan-da-investigating-alleged-assault-of-reporter-by-ny
+* https://www.cnn.com/2020/06/02/media/wall-street-journal-assault-nypd-protest-investigation/index.html
 
 
 ### Officers beat man until his face and belongings are bloody | May 31st
@@ -748,7 +752,7 @@ tags: arrest, baton, beat, protester, shove, strike
 
 id: ny-newyorkcity-83
 
-geolocation: 
+geolocation: 40.68426, -73.977522
 
 **Links**
 
