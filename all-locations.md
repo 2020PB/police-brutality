@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-15T20:28:36.104373+00:00
+UPDATED AT: 2020-10-16T13:53:08.400381+00:00
 
 
 # Alabama
@@ -9621,7 +9621,7 @@ tags: bystander, less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-22
 
-geolocation: 
+geolocation: 40.005950, -83.009096
 
 **Links**
 
