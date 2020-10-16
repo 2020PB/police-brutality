@@ -30,7 +30,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: or-eugene-3
 
-geolocation: 
+geolocation: 44.044728, -123.079238
 
 **Links**
 
