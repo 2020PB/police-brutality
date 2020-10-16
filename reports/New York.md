@@ -634,7 +634,7 @@ geolocation:
 
 ### Police injure journalist | May 31st
 
-Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed. 
+Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
 
 The Manhattan DA is investigating the incident.
 
