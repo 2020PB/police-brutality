@@ -752,7 +752,7 @@ tags: arrest, baton, beat, protester, shove, strike
 
 id: ny-newyorkcity-83
 
-geolocation: 40.68426, -73.977522
+geolocation: 40.684260, -73.977522
 
 **Links**
 
