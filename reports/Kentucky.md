@@ -8,7 +8,7 @@ tags: journalist, less-lethal, pepper-ball, rubber-bullet, shoot
 
 id: ky-louisville-2
 
-geolocation: 
+geolocation: 38.254123, -85.760135
 
 **Links**
 
