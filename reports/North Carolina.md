@@ -282,13 +282,15 @@ tags: journalist, less-lethal, protester, rubber-bullet, tear-gas, tear-gas-cani
 
 id: nc-raleigh-2
 
-geolocation: 
+geolocation: 35.776782, -78.639280
 
 **Links**
 
 * https://www.newsobserver.com/news/local/article243114301.html
 * https://twitter.com/vizjourno/status/1266954106998009857
 * https://twitter.com/vizjourno/status/1267494648680976395
+* https://twitter.com/bycharliemcgee/status/1266893726280007681
+* https://twitter.com/bycharliemcgee/status/1266897246030872578
 
 
 ### Police use tear gas to clear road | May 31st
