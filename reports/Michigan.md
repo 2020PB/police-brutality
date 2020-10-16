@@ -54,7 +54,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: mi-detroit-2
 
-geolocation: 
+geolocation: 42.330676, -83.042685
 
 **Links**
 
@@ -103,13 +103,14 @@ tags: journalist, zip-tie
 
 id: mi-detroit-11
 
-geolocation: 
+geolocation: 42.336723, -83.050693
 
 **Links**
 
 * https://www.facebook.com/DetroitNews/videos/855231228320197/
 * https://twitter.com/MKurlyandchik/status/1267269219789529090
 * https://pressfreedomtracker.us/all-incidents/detroit-news-journalist-captures-her-own-detention-livestream/
+* https://twitter.com/JustCallmeBHunt/status/1267268955191853057
 
 
 ### Police charge protesters and press | June 2nd
