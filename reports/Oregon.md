@@ -527,7 +527,7 @@ geolocation:
 
 After protesters lit a fire on Southwest 3rd street near the Justice Center, police arrived and declared a civil disturbance. Officers then deployed stun grenades against the retreating crowd.
 
-tags: protester, stun-grenade, less-lethal
+tags: less-lethal, protester, stun-grenade
 
 id: or-portland-391
 
@@ -574,11 +574,11 @@ geolocation:
 
 At a protest outside the Justice Center on June 20th, protesters shined laser pointers towards the entrance and attempted to tear down the fence. Officers then emerged to fire impact munitions at protesters, before additional riot police arrived and began pushing protesters away from the Justice Center using stun grenades and impact munitions. Later, a protester threw a firework, causing a second round of stun grenades and impact munitions.
 
-tags: protester, shoot, projectile, less-lethal, stun-grenade
+tags: less-lethal, projectile, protester, shoot, stun-grenade
 
 id: or-portland-390
 
-geolocation: 45.5152078,-122.676989
+geolocation: 45.5152078, -122.676989
 
 **Links**
 
@@ -5381,7 +5381,7 @@ geolocation:
 
 Footage shows police standing off against a small group of press on the sidewalk. Officers grab one individual, alleged to be press though not clearly marked, and force them to the ground for arrest. The individual passively resists by going limp. One officer kneels on the individual while making the arrest.
 
-tags: journalist, arrest, knee
+tags: arrest, journalist, knee
 
 id: or-portland-392
 
