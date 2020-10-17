@@ -69,7 +69,7 @@ tags: arrest, baton, beat, journalist, protester, threaten
 
 id: pa-philadelphia-1
 
-geolocation: 
+geolocation: 39.951190, -75.165580
 
 **Links**
 
