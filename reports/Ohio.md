@@ -352,7 +352,7 @@ tags: journalist, less-lethal, pepper-spray, protester, spray, threaten
 
 id: oh-columbus-15
 
-geolocation: 
+geolocation: 39.959741, -83.000085
 
 **Links**
 
