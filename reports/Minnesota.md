@@ -51,7 +51,7 @@ geolocation:
 
 A Unicorn Riot crew was interviewing the owner of Trio Plant Based, a local restaurant, when police began marching down the street. Police ordered the reporters to go inside the restaurant. The reporters refused, stating that they, as members of the press, are legally allowed to be on the sidewalk. Officers then shoved the restaurant owner and the journalists into the restaurant.
 
-tags: journalist, bystander, push, shove
+tags: bystander, journalist, push, shove
 
 id: mn-minneapolis-38
 
@@ -59,7 +59,7 @@ geolocation: 44.948400, -93.287540
 
 **Links**
 
-* https://twitter.com/UR_Ninja/status/1266652249650016257 
+* https://twitter.com/UR_Ninja/status/1266652249650016257
 
 
 ### Police storm gas station, attacking reporters who show press badges | May 30th
@@ -247,9 +247,9 @@ A journalist with Mill City Citizen Media is filming a street fire at a protest.
 
 As she is filming, several police vehicles arrive at the intersection. She tells one officer she is media and she will get out of their way; this officer points a direction for her to walk and she complies. Another officer repeatedly yells, "Get the hell out of here." She states that she is press and can provide credentials if asked. The officer does not request her credentials and instead continues to yell. The journalist complies with the first officer and continues walking away down the street. The second officer continues to follow her. They exchange words before the officer pepper sprays her from a distance before turning around. She then ends the recording.
 
-tags: journalist, pepper-spray, spray, lrad
+tags: journalist, less-lethal, lrad, pepper-spray, spray
 
-id: mn-minneapolis-36 
+id: mn-minneapolis-36
 
 geolocation: 44.948342, -93.288088
 
@@ -265,6 +265,8 @@ A French journalist is filming a city bus carrying riot police. Police disembark
 tags: journalist, push, shove
 
 id: mn-minneapolis-37
+
+geolocation: 
 
 **Links**
 
@@ -492,7 +494,7 @@ A news team for TF1, a major French network, was reporting at Minneapolis protes
 
 The correspondent, Amandine Atalya, later recounted her experience in an interview.
 
-tags: arrest, journalist, projectile, shoot, zip-tie
+tags: arrest, journalist, less-lethal, projectile, shoot, zip-tie
 
 id: mn-minneapolis-33
 
@@ -511,7 +513,7 @@ geolocation: 44.948348, -93.270319
 
 A CNN crew is filming protests in Minneapolis when police begin firing tear gas and impact munitions. The crew is standing off to the side, well away from the main protest. Police fire tear gas and other munitions in their direction, striking the producer. Omar Jimenez provides narration; he was arrested by Minneapolis police the same day.
 
-tags: journalist, shoot, projectile, tear-gas
+tags: journalist, less-lethal, projectile, shoot, tear-gas
 
 id: mn-minneapolis-34
 
@@ -527,7 +529,7 @@ geolocation: 44.946954, -93.277930
 
 A journalist shows a wound on his leg consistent with injuries from a non-lethal round. Forensic Architecture has stated he was hit with a rubber bullet.
 
-tags: journalist, rubber-bullet
+tags: journalist, less-lethal, rubber-bullet
 
 id: mn-minneapolis-35
 
