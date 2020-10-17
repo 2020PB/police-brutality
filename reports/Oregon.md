@@ -523,6 +523,21 @@ geolocation:
 * https://twitter.com/MrOlmos/status/1272796206071087105
 
 
+### Police use stun grenades to disperse protesters | June 16th
+
+After protesters lit a fire on Southwest 3rd street near the Justice Center, police arrived and declared a civil disturbance. Officers then deployed stun grenades against the retreating crowd.
+
+tags: less-lethal, protester, stun-grenade
+
+id: or-portland-391
+
+geolocation: 45.515646, -122.677034
+
+**Links**
+
+* https://twitter.com/AlexMilanTracy/status/1272829619763208192
+
+
 ### Evidence of badges being hidden during the June 6th incident | June 17th
 
 On June 6th, PNW Resistance reported that Portland Police was making a swap to Personal Identification Numbers, in attempt to curve "doxing of officers". This action lead to an incidents that are reported [here](#or-portland-6).
@@ -553,6 +568,28 @@ geolocation:
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hchk22/portland_police_shot_a_protester_in_the_head/
+
+
+### Police clear Justice Center protesters using impact munitions and stun grenades | June 20th
+
+At a protest outside the Justice Center on June 20th, protesters shined laser pointers towards the entrance and attempted to tear down the fence. Officers then emerged to fire impact munitions at protesters, before additional riot police arrived and began pushing protesters away from the Justice Center using stun grenades and impact munitions. Later, a protester threw a firework, causing a second round of stun grenades and impact munitions.
+
+tags: less-lethal, projectile, protester, shoot, stun-grenade
+
+id: or-portland-390
+
+geolocation: 45.5152078, -122.676989
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1274600755542933506
+* https://twitter.com/hungrybowtie/status/1274601264995684352
+* https://twitter.com/hungrybowtie/status/1274627556910628866
+* https://twitter.com/hungrybowtie/status/1274627848980975616
+* https://twitter.com/hungrybowtie/status/1274628193891147776
+* https://twitter.com/hungrybowtie/status/1274628824232112128
+* https://twitter.com/hungrybowtie/status/1274629465201504256
+* https://twitter.com/hungrybowtie/status/1274636212758704128
 
 
 ### Police tear gas fleeing protesters, pull individuals from cars | June 26th
@@ -5338,6 +5375,21 @@ geolocation:
 * https://twitter.com/katemshepherd/status/1297091224587735040
 * https://twitter.com/katemshepherd/status/1297099274757353474
 * https://twitter.com/MrOlmos/status/1297089248743452673
+
+
+### Police snatch, kneel on, and arrest individual | August 21st
+
+Footage shows police standing off against a small group of press on the sidewalk. Officers grab one individual, alleged to be press though not clearly marked, and force them to the ground for arrest. The individual passively resists by going limp. One officer kneels on the individual while making the arrest.
+
+tags: arrest, journalist, knee
+
+id: or-portland-392
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/coltshmolt/status/1296724524382093313
 
 
 ### Police shove protesters on the sidewalk | August 22nd
