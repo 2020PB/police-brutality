@@ -47,17 +47,22 @@ geolocation:
 * https://twitter.com/i/status/1267283580474085378
 
 
-### Australian news crew and protesters attacked by police | June 1st
+### NBC News reporter shot on air | May 31st
 
 A reporter for NBC News, Garrett Haake, is filming protests when he is shot on air with an impact munition, believed to be a rubber bullet.
 
+tags: journalist, shoot, projectile, less-lethal, rubber-bullet
+
+id: dc-dc-40
+
+geolocation: 38.902671, -77.036576
+
+**Links**
+
+* https://twitter.com/MSNBC/status/1267294124123750402
 
 
-
-
-https://twitter.com/MSNBC/status/1267294124123750402
-
-
+### Australian news crew and protesters attacked by police | June 1st
 
 Protesters and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
 
