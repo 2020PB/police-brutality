@@ -180,6 +180,23 @@ geolocation:
 * https://twitter.com/shadow_roses1/status/1268246561798205442
 
 
+### Police deploy smoke canister at reporter and protester | June 1st
+
+A reporter is seen walking down the street towards police while interviewing a protester. Police fire a canister which explodes at their feet. Initially, the reporter believed it to be tear gas, but it was in fact smoke. However, he states the protest was peaceful and officers gave no warning before firing. The journalist says he spoke with another officer who found the incident "odd" and additionally stated that smoke is sometimes used because protesters will disperse, thinking it's tear gas.
+
+tags: protester, journalist
+
+id: wi-madison-6
+
+geolocation: 43.074902, -89.396445
+
+**Links**
+
+* https://twitter.com/GeorgeBalekji/status/1267383314010312710
+* https://twitter.com/GeorgeBalekji/status/1267527075067506688
+* https://twitter.com/GeorgeBalekji/status/1267527157225533440
+
+
 ### Police pepper spray protester with megaphone | August 24th
 
 Police hold a line in Madison, Wisconsin. Several protesters mill about nearby. One stands near police, speaking into a megaphone. An officer pepper sprays this protester.
