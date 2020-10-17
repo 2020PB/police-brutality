@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:45:39.900882+00:00
+UPDATED AT: 2020-10-17T18:46:33.444227+00:00
 
 
 # Alabama
@@ -3066,6 +3066,25 @@ geolocation: 25.7796975, -80.1887776
 * https://twitter.com/BillyCorben/status/1267644127178563588
 
 
+### Journalist arrested for curfew violation | May 31st
+
+A reporter for WSVN 7News in Miami was arrested by police after livestreaming a protest. He was cited with a curfew violation; those charges were later dropped.
+
+The case has been confirmed in the Miami-Dade online system, with case number M-20-009323.
+
+tags: arrest, journalist
+
+id: fl-miami-5
+
+geolocation: 25.728420, -80.234645
+
+**Links**
+
+* https://pressfreedomtracker.us/all-incidents/miami-social-media-producer-arrested-curfew-violation-while-covering-protests-charges-dropped/
+* https://twitter.com/OfficialJoelF/status/1267483526917754880
+* https://wsvn.com/news/local/charges-dropped-against-7news-social-media-producer-after-being-arrested-and-jailed-while-covering-protests/
+
+
 ### Police deployed two rounds of tear gas against peaceful protesters | June 27th
 
 A group of protesters blocked highway 395 in Miami. Police deployed tear gas at 9:00 pm and 9:09 PM to clear protesters.
@@ -3319,6 +3338,22 @@ geolocation: 27.9815017, -82.4554037
 * [Timestamps at 00:30-00:38, 00:45-01:49, 02:01-02:17](https://twitter.com/greg_doucette/status/1268765759783796736)
 * https://twitter.com/breezybee97/status/1267244817786048512
 * https://twitter.com/breezybee97/status/1267226224662888448
+
+
+### Police deployed impact munitions and pepper spray against protesters before mass arrests | June 3rd
+
+Police at a Tampa protest violently dispersed protesters using smoke, impact munitions and pepper spray. A reporter states dozens of protesters were arrested. During this incident, a journalist was arrested and zip tied with her hands behind her back before being released about 15 minutes later.
+
+tags: arrest, journalist, less-lethal, pepper-spray, projectile, protester, shoot, spray, zip-tie
+
+id: fl-tampa-9
+
+geolocation: 27.771021, -82.652386
+
+**Links**
+
+* https://twitter.com/TBTphotog/status/1268057073151025152
+* https://twitter.com/jthalji/status/1268064444124401664
 
 
 ### One woman is pinned to the ground and another is pepper-sprayed | June 4th
