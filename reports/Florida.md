@@ -100,7 +100,7 @@ A reporter for WSVN 7News in Miami was arrested by police after livestreaming a 
 
 The case has been confirmed in the Miami-Dade online system, with case number M-20-009323.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: fl-miami-5
 
@@ -372,7 +372,7 @@ geolocation: 27.9815017, -82.4554037
 
 Police at a Tampa protest violently dispersed protesters using smoke, impact munitions and pepper spray. A reporter states dozens of protesters were arrested. During this incident, a journalist was arrested and zip tied with her hands behind her back before being released about 15 minutes later.
 
-tags: journalist, protester, projectile, shoot, arrest, zip-tie, pepper-spray, spray, less-lethal
+tags: arrest, journalist, less-lethal, pepper-spray, projectile, protester, shoot, spray, zip-tie
 
 id: fl-tampa-9
 
