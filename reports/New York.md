@@ -2032,7 +2032,7 @@ geolocation:
 
 A 60-year-old photographer working for Syracuse.com/The Post Standard was shoved by police while filming a protest in front of the Public Safety Building on South Street. He was wearing a company-issued identification card and had two cameras slung on his shoulders. He was knocked to the ground, and two camera lenses were broken in the process.
 
-tags: journalist, push, shove, property-destruction
+tags: journalist, property-destruction, push, shove
 
 id: ny-syracuse-1
 
@@ -2043,3 +2043,4 @@ geolocation: 43.046735, -76.147506
 * https://www.youtube.com/watch?v=1KDW8_8dVXg
 * https://www.syracuse.com/news/2020/06/syracuse-police-officer-shoves-news-photographer-to-the-ground-during-protest-video.html
 * https://twitter.com/syracusedotcom/status/1267520170278506501
+
