@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:20:44.157170+00:00
+UPDATED AT: 2020-10-17T18:21:17.896707+00:00
 
 
 # Alabama
@@ -17549,9 +17549,9 @@ geolocation: 30.268286, -97.732961
 
 ### Police use tear gas & rubber bullets on protesters | May 30th
 
-Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag rounds. Tear gas was later deployed on the crowd.
+Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag rounds. Tear gas was later deployed on the crowd. A journalist with Fox 7 Austin was caught in the tear gas.
 
-tags: bean-bag, less-lethal, protester, rubber-bullet, shoot, tear-gas, threaten
+tags: bean-bag, journalist, less-lethal, protester, rubber-bullet, shoot, tear-gas, threaten
 
 id: tx-austin-4
 
@@ -17562,6 +17562,8 @@ geolocation: 30.267861, -97.733568
 * https://twitter.com/highsettler/status/1266876480929349633
 * https://imgur.com/gallery/VKuIIvu
 * https://gfycat.com/weirdthankfulgnatcatcher
+* https://www.fox7austin.com/video/689954
+* https://www.facebook.com/FOX7austin/videos/fox-7-austin-reporter-caught-by-tear-gas-during-live-report/249854543103774/
 
 
 ### Police open fire on crowd with rubber bullets | May 30th
