@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T04:03:17.642744+00:00
+UPDATED AT: 2020-10-17T04:03:32.238419+00:00
 
 
 # Alabama
@@ -9919,7 +9919,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: or-eugene-3
 
-geolocation: 
+geolocation: 44.044728, -123.079238
 
 **Links**
 
@@ -15909,7 +15909,7 @@ tags: less-lethal, property-destruction, protester, tear-gas
 
 id: or-portland-350
 
-geolocation: 
+geolocation: 45.518991, -122.542948
 
 **Links**
 
@@ -15920,6 +15920,7 @@ geolocation:
 * https://twitter.com/IwriteOK/status/1302471377530703872
 * https://twitter.com/AndrewJank/status/1302465163325399042
 * https://twitter.com/BaghdadBrian/status/1302464110676729857
+* https://twitter.com/BitterTier/status/1302864639185674240
 
 
 ### Journalist shoved by police | September 5th
@@ -16062,7 +16063,7 @@ tags: arrest, less-lethal, pepper-ball, projectile, protester, shoot, stun-grena
 
 id: or-portland-358
 
-geolocation: 
+geolocation: 45.494128, -122.671993
 
 **Links**
 
@@ -16098,7 +16099,7 @@ tags: arrest, less-lethal, pepper-ball, projectile, property-destruction, protes
 
 id: or-portland-359
 
-geolocation: 
+geolocation: 45.494876, -122.671967
 
 **Links**
 
@@ -16149,7 +16150,7 @@ tags: bystander, less-lethal, pepper-ball, projectile, property-destruction, pro
 
 id: or-portland-361
 
-geolocation: 
+geolocation: 45.495187, -122.671979
 
 **Links**
 
