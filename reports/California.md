@@ -504,11 +504,11 @@ geolocation: 34.0450101, -118.249553
 
 A journalist photographing protests was detained and zip tied by police on Figueroa Street and Olympic Boulevard when he was caught in a rush of fleeing protesters. He was detained for 20 minutes before being released. He states he was not carrying a press badge at the time, but did have a camera, as is visible in the picture. He later posted that there is no mandate requiring members of the press to carry their badges at all times.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: ca-losangeles-61
 
-geolocation: 34.0449992,-118.2661443
+geolocation: 34.0449992, -118.2661443
 
 **Links**
 
