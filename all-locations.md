@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T20:36:47.120683+00:00
+UPDATED AT: 2020-10-17T22:12:57.930897+00:00
 
 
 # Alabama
@@ -21084,6 +21084,23 @@ geolocation:
 
 * https://www.tiktok.com/@michelle_but_not_obama/video/6833371052198857990
 * https://twitter.com/shadow_roses1/status/1268246561798205442
+
+
+### Police deploy smoke canister at reporter and protester | June 1st
+
+A reporter is seen walking down the street towards police while interviewing a protester. Police fire a canister which explodes at their feet. Initially, the reporter believed it to be tear gas, but it was in fact smoke. However, he states the protest was peaceful and officers gave no warning before firing. The journalist says he spoke with another officer who found the incident "odd" and additionally stated that smoke is sometimes used because protesters will disperse, thinking it's tear gas.
+
+tags: journalist, protester
+
+id: wi-madison-6
+
+geolocation: 43.074902, -89.396445
+
+**Links**
+
+* https://twitter.com/GeorgeBalekji/status/1267383314010312710
+* https://twitter.com/GeorgeBalekji/status/1267527075067506688
+* https://twitter.com/GeorgeBalekji/status/1267527157225533440
 
 
 ### Police pepper spray protester with megaphone | August 24th
