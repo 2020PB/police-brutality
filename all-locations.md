@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:19:25.481817+00:00
+UPDATED AT: 2020-10-17T18:20:15.478972+00:00
 
 
 # Alabama
@@ -16827,7 +16827,7 @@ tags: arrest, baton, beat, journalist, protester, threaten
 
 id: pa-philadelphia-1
 
-geolocation: 
+geolocation: 39.951190, -75.165580
 
 **Links**
 
