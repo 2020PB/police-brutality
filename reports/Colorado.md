@@ -59,6 +59,25 @@ geolocation: 38.826817, -104.824381
 * https://www.fox21news.com/news/local/more-protests-planned-monday-in-downtown-colorado-springs/
 
 
+### Police shoot at and pepper spray protesters and press | June 2nd
+
+Police advance on protesters without explanation, firing impact munitions and chasing protesters with pepper spray. A journalist reports seeing multiple protesters detained by police.
+
+Two journalists are pepper sprayed by police officers despite standing where they had been directed to, and displaying press credentials.
+
+tags: protester, journalist, less-lethal, shoot, projectile, pepper-spray, spray
+
+id: co-coloradosprings-3
+
+geolocation: 38.824391, -104.82232
+
+**Links**
+
+* https://twitter.com/Spencer_WNews/status/1268063831370104833
+* https://twitter.com/Spencer_WNews/status/1268062375657209857
+* https://twitter.com/Spencer_WNews/status/1268055487351672832
+
+
 ## Denver
 
 ### Reporter shot with multiple pepper balls | May 28th
