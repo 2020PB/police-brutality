@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:17:48.775890+00:00
+UPDATED AT: 2020-10-17T18:18:49.375967+00:00
 
 
 # Alabama
@@ -8919,13 +8919,15 @@ tags: journalist, less-lethal, protester, rubber-bullet, tear-gas, tear-gas-cani
 
 id: nc-raleigh-2
 
-geolocation: 
+geolocation: 35.776782, -78.639280
 
 **Links**
 
 * https://www.newsobserver.com/news/local/article243114301.html
 * https://twitter.com/vizjourno/status/1266954106998009857
 * https://twitter.com/vizjourno/status/1267494648680976395
+* https://twitter.com/bycharliemcgee/status/1266893726280007681
+* https://twitter.com/bycharliemcgee/status/1266897246030872578
 
 
 ### Police use tear gas to clear road | May 31st
@@ -8992,7 +8994,22 @@ geolocation:
 **Links**
 
 * https://twitter.com/LiamCurrie16/status/1266948510022320130
-* https://www.youtube.com/watch?v=_ciMl0fLcgY&feature=youtu.be
+* https://www.youtube.com/watch?v=_ciMl0fLcgY
+
+
+### Reporter shows rubber bullet injury | May 31st
+
+A reporter for Raleigh outlet, The News & Observer, shows off a wound consistent with injuries left by rubber bullets. The tweet states he "took a rubber bullet" during a protest.
+
+tags: journalist, less-lethal, projectile, rubber-bullet, shoot
+
+id: nc-raleigh-9
+
+geolocation: 
+
+**Links**
+
+* https://twitter.com/vizjourno/status/1266954106998009857
 
 
 ### Police shoot to intimidate owner of LGBTQ bar | June 2nd
