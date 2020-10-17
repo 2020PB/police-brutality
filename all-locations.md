@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:24:34.695792+00:00
+UPDATED AT: 2020-10-17T18:27:14.644509+00:00
 
 
 # Alabama
@@ -895,6 +895,25 @@ geolocation: 34.0450101, -118.249553
 * https://www.reddit.com/r/LosAngeles/comments/gtjd0p/rubber_bullets_at_2am_dtla/
 
 
+### Journalist arrested during protest | May 30th
+
+A journalist photographing protests was detained and zip tied by police on Figueroa Street and Olympic Boulevard when he was caught in a rush of fleeing protesters. He was detained for 20 minutes before being released. He states he was not carrying a press badge at the time, but did have a camera, as is visible in the picture. He later posted that there is no mandate requiring members of the press to carry their badges at all times.
+
+tags: arrest, journalist
+
+id: ca-losangeles-61
+
+geolocation: 34.0449992, -118.2661443
+
+**Links**
+
+* https://twitter.com/aaron_con_choco/status/1267185920995807233
+* https://twitter.com/aaron_con_choco/status/1267185923734659072
+* https://twitter.com/aaron_con_choco/status/1267185927836712960
+* https://twitter.com/aaron_con_choco/status/1267185931414409217
+* https://twitter.com/aaron_con_choco/status/1267185933293547520
+
+
 ### Police fire rubber/pepper bullets at peaceful protesters | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protesters, scattering them.
@@ -1649,6 +1668,25 @@ geolocation: 37.8002087, -122.2737406
 
 * https://twitter.com/byjacobward/status/1267695808784199680
 * https://twitter.com/greg_doucette/status/1270490060287344642
+
+
+### Reporter detained and handcuffed | June 2nd
+
+During an Oakland protest on June 2nd, police charged protesters and began a series of mass arrests. KPIX reporter Katie Nielsen was handcuffed and detained during the incident, though she was soon released. Images of her detention show a clearly visible press pass clipped to her belt loop. She was released several minutes later and issued an apology by a police spokesperson.
+
+tags: arrest, journalist
+
+id: ca-oakland-5
+
+geolocation: 37.800244, -122.273785
+
+**Links**
+
+* https://twitter.com/reuterspictures/status/1267864547253194752
+* https://www.facebook.com/1358662787515870/posts/2956866357695497/?d=n
+* https://sanfrancisco.cbslocal.com/2020/06/01/tear-gas-rubber-bullets-oakland-protest-george-floyd-kpix-katie-nielsen
+* https://twitter.com/e_baldi/status/1267652314619244545
+* https://www.youtube.com/watch?v=yM2VaCAeqqY
 
 
 ### Protester singled out, chased and arrested | July 26th
