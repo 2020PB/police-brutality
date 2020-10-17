@@ -500,6 +500,25 @@ geolocation: 34.0450101, -118.249553
 * https://www.reddit.com/r/LosAngeles/comments/gtjd0p/rubber_bullets_at_2am_dtla/
 
 
+### Journalist arrested during protest | May 30th
+
+A journalist photographing protests was detained and zip tied by police on Figueroa Street and Olympic Boulevard when he was caught in a rush of fleeing protesters. He was detained for 20 minutes before being released. He states he was not carrying a press badge at the time, but did have a camera, as is visible in the picture. He later posted that there is no mandate requiring members of the press to carry their badges at all times.
+
+tags: journalist, arrest
+
+id: ca-losangeles-61
+
+geolocation: 34.0449992,-118.2661443
+
+**Links**
+
+* https://twitter.com/aaron_con_choco/status/1267185920995807233
+* https://twitter.com/aaron_con_choco/status/1267185923734659072
+* https://twitter.com/aaron_con_choco/status/1267185927836712960
+* https://twitter.com/aaron_con_choco/status/1267185931414409217
+* https://twitter.com/aaron_con_choco/status/1267185933293547520
+
+
 ### Police fire rubber/pepper bullets at peaceful protesters | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protesters, scattering them.
