@@ -184,7 +184,7 @@ geolocation:
 
 A reporter is seen walking down the street towards police while interviewing a protester. Police fire a canister which explodes at their feet. Initially, the reporter believed it to be tear gas, but it was in fact smoke. However, he states the protest was peaceful and officers gave no warning before firing. The journalist says he spoke with another officer who found the incident "odd" and additionally stated that smoke is sometimes used because protesters will disperse, thinking it's tear gas.
 
-tags: protester, journalist
+tags: journalist, protester
 
 id: wi-madison-6
 
