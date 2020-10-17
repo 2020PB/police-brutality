@@ -379,14 +379,15 @@ Prior to the arrest, police were already blocking off the streets and redirectin
 
 Police then fired smoke at the crowd, causing them to dissipate.
 
-tags: protester, tackle, arrest
+tags: arrest, protester, tackle
 
 id: wa-wauwatosa-4
 
-geolocation: 43.0625506,-87.9957363
+geolocation: 43.0625506, -87.9957363
 
 **Links**
 
 * https://twitter.com/thugpatriot/status/1316219457308631040
 * https://twitter.com/indivisiwisco/status/1316214730718150658
 * https://www.jsonline.com/story/news/local/2020/10/13/wauwatosa-mensah-protests-police-arrest-man-fire-smoke-marchers/3647632001/
+
