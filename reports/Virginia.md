@@ -208,13 +208,13 @@ Around 10 pm on June 15th, peaceful protesters gathered outside the Richmond Pol
 
 Richmond was no longer under curfew restrictions at this time.
 
-In addition, one protester's phone was shot. Police also appear to deploy pepper spray about an hour after the initial shots.
+In addition, one protester's phone was shot. Police also appear to deploy pepper spray and stun grenades after the initial shots.
 
-tags: less-lethal, pepper-spray, property-destruction, protester, rubber-bullet, shoot, spray, tear-gas
+tags: less-lethal, pepper-spray, property-destruction, protester, rubber-bullet, shoot, spray, stun-grenade, tear-gas
 
 id: va-richmond-5
 
-geolocation: 
+geolocation: 37.545802, -77.444889
 
 **Links**
 
@@ -223,6 +223,9 @@ geolocation:
 * https://twitter.com/GoadGatsby/status/1272701413169287175
 * https://twitter.com/GoadGatsby/status/1272711269775224841
 * https://twitter.com/GoadGatsby/status/1272716271059173381
+* https://twitter.com/aeringle/status/1272715201675223042
+* https://twitter.com/aeringle/status/1272880751793582080
+* https://twitter.com/aeringle/status/1272885980563939329
 
 
 ### Police pepper-spray journalist | June 21st
