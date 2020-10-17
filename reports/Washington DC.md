@@ -51,7 +51,7 @@ geolocation:
 
 A reporter for NBC News, Garrett Haake, is filming protests when he is shot on air with an impact munition, believed to be a rubber bullet.
 
-tags: journalist, shoot, projectile, less-lethal, rubber-bullet
+tags: journalist, less-lethal, projectile, rubber-bullet, shoot
 
 id: dc-dc-40
 
