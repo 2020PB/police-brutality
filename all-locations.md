@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:20:15.478972+00:00
+UPDATED AT: 2020-10-17T18:20:44.157170+00:00
 
 
 # Alabama
@@ -9489,7 +9489,7 @@ tags: journalist, less-lethal, pepper-spray, protester, spray, threaten
 
 id: oh-columbus-15
 
-geolocation: 
+geolocation: 39.959741, -83.000085
 
 **Links**
 
