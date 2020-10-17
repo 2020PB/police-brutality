@@ -364,9 +364,11 @@ geolocation:
 
 A reporter for Raleigh outlet, The News & Observer, shows off a wound consistent with injuries left by rubber bullets. The tweet states he "took a rubber bullet" during a protest.
 
-tags: journalist, less-lethal, shoot, projectile, rubber-bullet
+tags: journalist, less-lethal, projectile, rubber-bullet, shoot
 
 id: nc-raleigh-9
+
+geolocation: 
 
 **Links**
 
