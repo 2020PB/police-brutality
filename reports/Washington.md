@@ -181,7 +181,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: wa-seattle-10
 
-geolocation: 
+geolocation: 47.615506, -122.318894
 
 **Links**
 
