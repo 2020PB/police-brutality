@@ -188,7 +188,7 @@ tags: journalist, strike, shield, baton
 
 id: dc-dc-39
 
-geolocation: 38.900198, -77.03616
+geolocation: 38.900198, -77.036160
 
 **Links**
 
