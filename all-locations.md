@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:21:50.178537+00:00
+UPDATED AT: 2020-10-17T18:24:34.695792+00:00
 
 
 # Alabama
@@ -21017,6 +21017,27 @@ geolocation: 43.0608482, -88.007371
 * https://twitter.com/BenJordan3/status/1314735112060309509
 * https://twitter.com/arson_ist/status/1314933427968389121
 * https://www.wisn.com/article/police-use-tear-gas-to-disperse-protesters-in-wauwatosa/34333420#
+
+
+### Police tackle a protester on a bike | October 13th
+
+A small group of protesters were marching through a Wauwatosa neighborhood when they were confronted by police. Police tackled tackled a protester off a bike and arrested them.
+
+Prior to the arrest, police were already blocking off the streets and redirecting traffic.
+
+Police then fired smoke at the crowd, causing them to dissipate.
+
+tags: arrest, protester, tackle
+
+id: wa-wauwatosa-4
+
+geolocation: 43.0625506, -87.9957363
+
+**Links**
+
+* https://twitter.com/thugpatriot/status/1316219457308631040
+* https://twitter.com/indivisiwisco/status/1316214730718150658
+* https://www.jsonline.com/story/news/local/2020/10/13/wauwatosa-mensah-protests-police-arrest-man-fire-smoke-marchers/3647632001/
 
 
 
