@@ -47,6 +47,21 @@ geolocation:
 * https://www.facebook.com/1462345700/posts/10220863812572745
 
 
+### Police force press and local business owner into store | May 29th
+
+A Unicorn Riot crew was interviewing the owner of Trio Plant Based, a local restaurant, when police began marching down the street. Police ordered the reporters to go inside the restaurant. The reporters refused, stating that they, as members of the press, are legally allowed to be on the sidewalk. Officers then shoved the restaurant owner and the journalists into the restaurant.
+
+tags: journalist, bystander, push, shove
+
+id: mn-minneapolis-38
+
+geolocation: 44.948400, -93.287540
+
+**Links**
+
+* https://twitter.com/UR_Ninja/status/1266652249650016257 
+
+
 ### Police storm gas station, attacking reporters who show press badges | May 30th
 
 Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
@@ -224,6 +239,36 @@ geolocation:
 
 * https://twitter.com/val_ebertz/status/1266975058230235137
 * https://twitter.com/Jeff_Wagner4/status/1266933139303268353
+
+
+### Police pepper spray journalist as she is walking away | May 30th
+
+A journalist with Mill City Citizen Media is filming a street fire at a protest. An LRAD dispersal weapon can be heard throughout the two minute footage.
+
+As she is filming, several police vehicles arrive at the intersection. She tells one officer she is media and she will get out of their way; this officer points a direction for her to walk and she complies. Another officer repeatedly yells, "Get the hell out of here." She states that she is press and can provide credentials if asked. The officer does not request her credentials and instead continues to yell. The journalist complies with the first officer and continues walking away down the street. The second officer continues to follow her. They exchange words before the officer pepper sprays her from a distance before turning around. She then ends the recording.
+
+tags: journalist, pepper-spray, spray, lrad
+
+id: mn-minneapolis-36 
+
+geolocation: 44.948342, -93.288088
+
+**Links**
+
+* https://www.facebook.com/MillCityCitizenMedia/videos/1000023607067899/
+
+
+### Minnesota state patrol push French journalist multiple times | May 30th
+
+A French journalist is filming a city bus carrying riot police. Police disembark from the bus and order the journalists in the area to move. As the filmer is walking in the direction specified by officers, police repeatedly shove them.
+
+tags: journalist, push, shove
+
+id: mn-minneapolis-37
+
+**Links**
+
+* https://twitter.com/phil_leblancSRC/status/1266907398003924992
 
 
 ### Police shoot at a woman on her porch | May 31st
@@ -431,7 +476,7 @@ Protester who repeatedly says he cannot see is shoved by an officer with a baton
 
 tags: arrest, less-lethal, pepper-spray, protester, shove, spray, strike
 
-id: mn-minneapolis-33
+id: mn-minneapolis-32
 
 geolocation: 44.9784885, -93.2755338
 
@@ -441,19 +486,56 @@ geolocation: 44.9784885, -93.2755338
 * https://www.tiktok.com/@laurenxorose/video/6833031215541521669
 
 
-### Woman kicked in head | Unknown Date
+### Police shoot impact munitions at French news team and arrest them | May 31st
 
-Footage shows a woman sitting on the ground, after allegedly having been maced. She is then kicked over by an officer.
+A news team for TF1, a major French network, was reporting at Minneapolis protests on May 31st. One member, the videographer, was driving a rental car when police shot the car with impact munitions, believed to be rubber bullets, foam bullets, or pepper balls. He and his colleague were then zip-tied and arrested despite showing officers their press badges. They were charged with misdemeanor curfew violation.
 
-tags: kick, protester
+The correspondent, Amandine Atalya, later recounted her experience in an interview.
 
-id: mn-minneapolis-30
+tags: arrest, journalist, projectile, shoot, zip-tie
 
-geolocation: 
+id: mn-minneapolis-33
+
+geolocation: 44.948348, -93.270319
 
 **Links**
 
-* https://www.tiktok.com/@montygeer/video/6840314007954509062
+* https://twitter.com/MatDerrien/status/1267095983084777472
+* https://pressfreedomtracker.us/all-incidents/french-videographer-arrested-colleague-curfew-violation-minneapolis/
+* https://pressfreedomtracker.us/all-incidents/french-television-correspondent-arrested-curfew-violation-minneapolis/
+* https://dai.ly/x7u8dvu
+* https://www.ozap.com/actu/une-equipe-de-tf1-prise-pour-cible-et-arretee-a-minneapolis/593563
+
+
+### Minnesota state patrol fire tear gas and impact munitions at press | May 31st
+
+A CNN crew is filming protests in Minneapolis when police begin firing tear gas and impact munitions. The crew is standing off to the side, well away from the main protest. Police fire tear gas and other munitions in their direction, striking the producer. Omar Jimenez provides narration; he was arrested by Minneapolis police the same day.
+
+tags: journalist, shoot, projectile, tear-gas
+
+id: mn-minneapolis-34
+
+geolocation: 44.946954, -93.27793
+
+**Links**
+
+* https://www.cnn.com/videos/us/2020/05/31/omar-jimenez-minneapolis-protest-george-floyd-vpx.cnn
+* https://twitter.com/RockodileCroc/status/1266963861040553985
+
+
+### Journalist shows alleged rubber bulet injury | June 1st
+
+A journalist shows a wound on his leg consistent with injuries from a non-lethal round. Forensic Architecture has stated he was hit with a rubber bullet.
+
+tags: journalist, rubber-bullet
+
+id: mn-minneapolis-35
+
+geolocation: 44.946633, -93.277938
+
+**Links**
+
+* https://twitter.com/LionelDonovan3/status/1267477984300208128
 
 
 ### Officer pepper sprays protester | August 26th
@@ -462,7 +544,7 @@ A protester and an officer exchange words at close distance. The officer then pe
 
 tags: less-lethal, pepper-spray, protester, spray
 
-id: mn-minneapolis-31
+id: mn-minneapolis-30
 
 geolocation: 
 
@@ -477,7 +559,7 @@ A protester says something to an officer in Minneapolis. The officer says, "What
 
 tags: less-lethal, projectile, protester, shoot
 
-id: mn-minneapolis-32
+id: mn-minneapolis-31
 
 geolocation: 
 
