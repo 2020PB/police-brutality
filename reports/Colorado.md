@@ -69,7 +69,7 @@ tags: protester, journalist, less-lethal, shoot, projectile, pepper-spray, spray
 
 id: co-coloradosprings-3
 
-geolocation: 38.824391, -104.82232
+geolocation: 38.824391, -104.822320
 
 **Links**
 
