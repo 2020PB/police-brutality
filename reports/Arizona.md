@@ -19,6 +19,7 @@ geolocation: 32.2739671, -112.7419162
 * https://twitter.com/NoBayouBridge/status/1315773267014299653
 * https://twitter.com/maxie_adler/status/1315704218116861960
 * https://vimeo.com/467449845
+* https://vimeo.com/468414474
 * https://www.kold.com/2020/10/12/protesters-arrested-border-patrol-checkpoint-sr-/
 * https://www.azpm.org/p/home-articles-news/2020/10/12/182016-indigenous-peoples-day-border-demonstration-ends-with-tear-gas-arrests/
 
