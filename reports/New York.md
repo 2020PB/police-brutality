@@ -347,7 +347,7 @@ tags: arrest, journalist
 
 id: ny-newyorkcity-8
 
-geolocation: 
+geolocation: 40.650712, -73.951185
 
 **Links**
 
@@ -413,15 +413,15 @@ tags: arrest, inhumane-treatment, journalist, zip-tie
 
 id: ny-newyorkcity-30
 
-geolocation: 
+geolocation: 40.795980, -73.974910
 
 **Links**
 
 * https://www.advocate.com/news/2020/6/01/journalist-keith-boykin-arrested-nyc-protest-held-six-hours
 * https://twitter.com/keithboykin/status/1266933018570219520
-* https://twitter.com/keithboykin/status/1266933018570219520
-* https://twitter.com/keithboykin/status/1266933018570219520
-* https://twitter.com/keithboykin/status/1266933018570219520
+* https://twitter.com/keithboykin/status/1266933659434655744
+* https://twitter.com/keithboykin/status/1266934106933407744
+* https://twitter.com/keithboykin/status/1266936136418701317
 * https://www.youtube.com/watch?v=tojt5i0dNV4
 
 
@@ -636,15 +636,19 @@ geolocation:
 
 Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
 
+The Manhattan DA is investigating the incident.
+
 tags: journalist, property-destruction, shield, strike
 
 id: ny-newyorkcity-16
 
-geolocation: 
+geolocation: 40.678098, -73.944270
 
 **Links**
 
 * https://twitter.com/tylergabriel_/status/1267287516345925632
+* https://thehill.com/blogs/blog-briefing-room/news/500613-manhattan-da-investigating-alleged-assault-of-reporter-by-ny
+* https://www.cnn.com/2020/06/02/media/wall-street-journal-assault-nypd-protest-investigation/index.html
 
 
 ### Officers beat man until his face and belongings are bloody | May 31st
@@ -748,7 +752,7 @@ tags: arrest, baton, beat, protester, shove, strike
 
 id: ny-newyorkcity-83
 
-geolocation: 
+geolocation: 40.684260, -73.977522
 
 **Links**
 
@@ -2020,4 +2024,23 @@ geolocation:
 * https://www.instagram.com/p/CDSdX-_nJ5h/
 * https://www.instagram.com/p/CDSgQWElLFg/
 * [1:15](https://www.instagram.com/tv/CDStYR-nC0t/)
+
+
+## Syracuse
+
+### Journalist shoved by police | June 1st
+
+A 60-year-old photographer working for Syracuse.com/The Post Standard was shoved by police while filming a protest in front of the Public Safety Building on South Street. He was wearing a company-issued identification card and had two cameras slung on his shoulders. He was knocked to the ground, and two camera lenses were broken in the process.
+
+tags: journalist, property-destruction, push, shove
+
+id: ny-syracuse-1
+
+geolocation: 43.046735, -76.147506
+
+**Links**
+
+* https://www.youtube.com/watch?v=1KDW8_8dVXg
+* https://www.syracuse.com/news/2020/06/syracuse-police-officer-shoves-news-photographer-to-the-ground-during-protest-video.html
+* https://twitter.com/syracusedotcom/status/1267520170278506501
 
