@@ -65,7 +65,7 @@ Police advance on protesters without explanation, firing impact munitions and ch
 
 Two journalists are pepper sprayed by police officers despite standing where they had been directed to, and displaying press credentials.
 
-tags: protester, journalist, less-lethal, shoot, projectile, pepper-spray, spray
+tags: journalist, less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: co-coloradosprings-3
 
