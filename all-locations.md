@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:17:30.802690+00:00
+UPDATED AT: 2020-10-17T18:17:48.775890+00:00
 
 
 # Alabama
@@ -18928,7 +18928,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: wa-seattle-10
 
-geolocation: 
+geolocation: 47.615506, -122.318894
 
 **Links**
 
