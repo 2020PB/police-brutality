@@ -357,7 +357,20 @@ geolocation:
 **Links**
 
 * https://twitter.com/LiamCurrie16/status/1266948510022320130
-* https://www.youtube.com/watch?v=_ciMl0fLcgY&feature=youtu.be
+* https://www.youtube.com/watch?v=_ciMl0fLcgY
+
+
+### Reporter shows rubber bullet injury | May 31st
+
+A reporter for Raleigh outlet, The News & Observer, shows off a wound consistent with injuries left by rubber bullets. The tweet states he "took a rubber bullet" during a protest.
+
+tags: journalist, less-lethal, shoot, projectile, rubber-bullet
+
+id: nc-raleigh-9
+
+**Links**
+
+* https://twitter.com/vizjourno/status/1266954106998009857
 
 
 ### Police shoot to intimidate owner of LGBTQ bar | June 2nd
