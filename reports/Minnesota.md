@@ -515,7 +515,7 @@ tags: journalist, shoot, projectile, tear-gas
 
 id: mn-minneapolis-34
 
-geolocation: 44.946954, -93.27793
+geolocation: 44.946954, -93.277930
 
 **Links**
 
