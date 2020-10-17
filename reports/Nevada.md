@@ -30,7 +30,7 @@ geolocation:
 * https://twitter.com/bridgetkbennett/status/1266561128185819136
 
 
-### Police charge into peaceful crowd shouting "grab anybody" | May 31st
+### Police charge into peaceful crowd shouting "grab anybody" | May 30th
 
 LVPD attacked and arrested peaceful protesters, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
@@ -38,11 +38,12 @@ tags: arrest, journalist, kick, protester, shove, strike, threaten
 
 id: nv-lasvegas-2
 
-geolocation: 
+geolocation: 36.117644, -115.173091
 
 **Links**
 
-* https://mobile.twitter.com/chadloder/status/1267168204863926274
+* https://twitter.com/chadloder/status/1267168204863926274
+* https://twitter.com/rickytwrites/status/1266596766021038080
 
 
 ### Police shove and drag man through the street | May 31st
