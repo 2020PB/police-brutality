@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:44:48.879668+00:00
+UPDATED AT: 2020-10-17T18:45:39.900882+00:00
 
 
 # Alabama
@@ -2356,6 +2356,25 @@ geolocation: 38.826817, -104.824381
 * https://www.youtube.com/watch?v=NrxBDk2g9H4
 * https://twitter.com/KristaWitiakTV/status/1267692960105353217
 * https://www.fox21news.com/news/local/more-protests-planned-monday-in-downtown-colorado-springs/
+
+
+### Police shoot at and pepper spray protesters and press | June 2nd
+
+Police advance on protesters without explanation, firing impact munitions and chasing protesters with pepper spray. A journalist reports seeing multiple protesters detained by police.
+
+Two journalists are pepper sprayed by police officers despite standing where they had been directed to, and displaying press credentials.
+
+tags: journalist, less-lethal, pepper-spray, projectile, protester, shoot, spray
+
+id: co-coloradosprings-3
+
+geolocation: 38.824391, -104.822320
+
+**Links**
+
+* https://twitter.com/Spencer_WNews/status/1268063831370104833
+* https://twitter.com/Spencer_WNews/status/1268062375657209857
+* https://twitter.com/Spencer_WNews/status/1268055487351672832
 
 
 ## Denver
