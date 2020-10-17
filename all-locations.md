@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:16:38.610230+00:00
+UPDATED AT: 2020-10-17T18:17:30.802690+00:00
 
 
 # Alabama
@@ -6465,7 +6465,7 @@ geolocation:
 * https://twitter.com/bridgetkbennett/status/1266561128185819136
 
 
-### Police charge into peaceful crowd shouting "grab anybody" | May 31st
+### Police charge into peaceful crowd shouting "grab anybody" | May 30th
 
 LVPD attacked and arrested peaceful protesters, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
@@ -6473,11 +6473,12 @@ tags: arrest, journalist, kick, protester, shove, strike, threaten
 
 id: nv-lasvegas-2
 
-geolocation: 
+geolocation: 36.117644, -115.173091
 
 **Links**
 
-* https://mobile.twitter.com/chadloder/status/1267168204863926274
+* https://twitter.com/chadloder/status/1267168204863926274
+* https://twitter.com/rickytwrites/status/1266596766021038080
 
 
 ### Police shove and drag man through the street | May 31st
