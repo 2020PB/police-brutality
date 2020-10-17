@@ -1256,6 +1256,25 @@ geolocation: 37.8002087, -122.2737406
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
+### Reporter detained and handcuffed | June 2nd
+
+During an Oakland protest on June 2nd, police charged protesters and began a series of mass arrests. KPIX reporter Katie Nielsen was handcuffed and detained during the incident, though she was soon released. Images of her detention show a clearly visible press pass clipped to her belt loop. She was released several minutes later and issued an apology by a police spokesperson.
+
+tags: journalist, arrest
+
+id: ca-oakland-5
+
+geolocation: 37.800244, -122.273785
+
+**Links**
+
+* https://twitter.com/reuterspictures/status/1267864547253194752
+* https://www.facebook.com/1358662787515870/posts/2956866357695497/?d=n
+* https://sanfrancisco.cbslocal.com/2020/06/01/tear-gas-rubber-bullets-oakland-protest-george-floyd-kpix-katie-nielsen
+* https://twitter.com/e_baldi/status/1267652314619244545
+* https://www.youtube.com/watch?v=yM2VaCAeqqY
+
+
 ### Protester singled out, chased and arrested | July 26th
 
 Police gather around a protester standing on a pedestrian median. He is singled out by police. He is threatened with arrest, then flees. A hissing sound can be heard prior to his flight, which may be pepper spray. Officers then chase, tackle, and arrest him. Motive for the arrest is unclear.
