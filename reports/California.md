@@ -1260,7 +1260,7 @@ geolocation: 37.8002087, -122.2737406
 
 During an Oakland protest on June 2nd, police charged protesters and began a series of mass arrests. KPIX reporter Katie Nielsen was handcuffed and detained during the incident, though she was soon released. Images of her detention show a clearly visible press pass clipped to her belt loop. She was released several minutes later and issued an apology by a police spokesperson.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: ca-oakland-5
 
