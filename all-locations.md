@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:16:13.851571+00:00
+UPDATED AT: 2020-10-17T18:16:38.610230+00:00
 
 
 # Alabama
@@ -4562,7 +4562,7 @@ tags: journalist, less-lethal, pepper-ball, rubber-bullet, shoot
 
 id: ky-louisville-2
 
-geolocation: 
+geolocation: 38.254123, -85.760135
 
 **Links**
 
