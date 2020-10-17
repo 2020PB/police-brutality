@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T18:46:33.444227+00:00
+UPDATED AT: 2020-10-17T20:35:40.995572+00:00
 
 
 # Alabama
@@ -20197,6 +20197,21 @@ geolocation:
 * https://twitter.com/i/status/1267283580474085378
 
 
+### NBC News reporter shot on air | May 31st
+
+A reporter for NBC News, Garrett Haake, is filming protests when he is shot on air with an impact munition, believed to be a rubber bullet.
+
+tags: journalist, less-lethal, projectile, rubber-bullet, shoot
+
+id: dc-dc-40
+
+geolocation: 38.902671, -77.036576
+
+**Links**
+
+* https://twitter.com/MSNBC/status/1267294124123750402
+
+
 ### Australian news crew and protesters attacked by police | June 1st
 
 Protesters and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
@@ -20313,6 +20328,21 @@ geolocation:
 **Links**
 
 * https://twitter.com/i/status/1269859559859871744
+
+
+### Reporter struck with shield and baton | June 1st
+
+As a reporter tries to let the police pass by him, they pin him to the wall with a shield and an officer hits his knee with a baton.
+
+tags: baton, journalist, shield, strike
+
+id: dc-dc-39
+
+geolocation: 38.900198, -77.036160
+
+**Links**
+
+* https://twitter.com/Joshrepp/status/1267422952691294208
 
 
 ### Unmarked federal agents aid police | June 2nd
