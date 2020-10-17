@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-16T13:53:08.400381+00:00
+UPDATED AT: 2020-10-17T04:03:17.642744+00:00
 
 
 # Alabama
@@ -5638,7 +5638,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: mn-minneapolis-1
 
-geolocation: 
+geolocation: 44.947897, -93.233858
 
 **Links**
 
@@ -5656,7 +5656,7 @@ tags: bystander, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mn-minneapolis-20
 
-geolocation: 
+geolocation: 44.947897, -93.233858
 
 **Links**
 
@@ -5687,7 +5687,7 @@ tags: arrest, journalist
 
 id: mn-minneapolis-4
 
-geolocation: 
+geolocation: 44.948388, -93.234033
 
 **Links**
 
@@ -5704,7 +5704,7 @@ tags: arrest, baton, journalist, less-lethal, projectile, shoot, shove
 
 id: mn-minneapolis-5
 
-geolocation: 
+geolocation: 44.963300, -93.277390
 
 **Links**
 
@@ -5720,7 +5720,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mn-minneapolis-15
 
-geolocation: 
+geolocation: 44.961980, -93.277830
 
 **Links**
 
@@ -5751,22 +5751,23 @@ tags: journalist, shoot
 
 id: mn-minneapolis-27
 
-geolocation: 
+geolocation: 44.947840, -93.277430
 
 **Links**
 
 * https://twitter.com/brianstelter/status/1266910826797113347
+* https://twitter.com/bubbaprog/status/1266912774833287169
 
 
 ### CBS crew fired upon by police. | May 30th
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
 
-tags: 
+tags: journalist, less-lethal, projectile, shoot
 
 id: mn-minneapolis-23
 
-geolocation: 
+geolocation: 44.948590, -93.279250
 
 **Links**
 
@@ -5831,11 +5832,11 @@ tags: journalist, less-lethal, shoot, tear-gas
 
 id: mn-minneapolis-6
 
-geolocation: 
+geolocation: 44.9462400, -93.277920
 
 **Links**
 
-* https://mobile.twitter.com/mollyhf/status/1266911382613692422
+* https://twitter.com/mollyhf/status/1266911382613692422
 * https://twitter.com/mollyhf/status/1269003675063799810
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
@@ -5903,7 +5904,7 @@ tags: explosive, journalist, less-lethal, projectile, stun-grenade
 
 id: mn-minneapolis-10
 
-geolocation: 
+geolocation: 44.947790, -93.279390
 
 **Links**
 
@@ -5920,7 +5921,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-11
 
-geolocation: 
+geolocation: 44.9484100, -93.234749
 
 **Links**
 
@@ -5937,7 +5938,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-12
 
-geolocation: 
+geolocation: 44.947610, -93.276739
 
 **Links**
 
@@ -5952,7 +5953,7 @@ tags: arrest, journalist, less-lethal, rubber-bullet, shoot, threaten
 
 id: mn-minneapolis-13
 
-geolocation: 
+geolocation: 44.945920, -93.276684
 
 **Links**
 
@@ -5991,19 +5992,20 @@ geolocation:
 
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
 
-South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches. One reporter states he and his colleagues suffered vomiting and burning skin as a result.
 
 tags: baton, beat, journalist, less-lethal, pepper-spray, projectile, shoot, spray, tear-gas
 
 id: mn-minneapolis-19
 
-geolocation: 
+geolocation: 44.945700, -93.277929
 
 **Links**
 
 * https://twitter.com/edouphoto/status/1267958349477249024
 * https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
+* https://twitter.com/Wiita_BEST/status/1267128694616752130
 
 
 ### Police beat and pepper spray protesters | May 31st
