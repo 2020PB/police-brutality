@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-17T22:12:57.930897+00:00
+UPDATED AT: 2020-10-18T15:12:28.834336+00:00
 
 
 # Alabama
@@ -5413,6 +5413,23 @@ geolocation:
 **Links**
 
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
+
+
+### Police shove reporters | May 31st
+
+Several reporters standing in a designated press zone were charged by Detroit police, shoved, and told to leave the area. The reporters all had visible press passes.
+
+tags: journalist, push, shove
+
+id: mi-detroit-14
+
+geolocation: 42.330079, -83.056530
+
+**Links**
+
+* https://twitter.com/MKurlyandchik/status/1267259635293204481
+* https://twitter.com/MKurlyandchik/status/1267259636610142210
+* https://twitter.com/MKurlyandchik/status/1267359959089586176
 
 
 ### Reporter detained without apparent cause | May 31st
