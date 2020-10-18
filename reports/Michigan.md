@@ -101,7 +101,7 @@ tags: journalist, push, shove
 
 id: mi-detroit-14
 
-geolocation: 42.330079, -83.05653
+geolocation: 42.330079, -83.056530
 
 **Links**
 
