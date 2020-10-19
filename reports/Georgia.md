@@ -128,11 +128,11 @@ A freelance journalist on assignment with the Washington Post to cover protests 
 
 Images posted by news outlets around the 9 PM for which this journalist was arrested place the protest in the vicinity of Centennial Olympic Park in Downtown Atlanta.
 
-tags: journalist, arrest, zip-tie
+tags: arrest, journalist, zip-tie
 
 id: ga-atlanta-8
 
-geolocation: 33.7578444,-84.3935502
+geolocation: 33.7578444, -84.3935502
 
 **Links**
 
@@ -147,11 +147,11 @@ A photojournalist with the Atlanta Journal Constitution was detained by police a
 
 The incident begins around 13:30 in the Facebook video.
 
-tags: journalist, arrest, zip-tie
+tags: arrest, journalist, zip-tie
 
 id: ga-atlanta-9
 
-geolocation: 33.745302,-84.3921536
+geolocation: 33.745302, -84.3921536
 
 **Links**
 
