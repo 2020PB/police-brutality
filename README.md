@@ -1,7 +1,9 @@
 
 # Police Brutality During the 2020 George Floyd Protests
 
-## Important Note on Branches
+Visit us at: https://2020pb.com/
+
+### Important Note on Branches
 
 As of September 15th at 3 PM EDT, the default branch is `main`.
 
