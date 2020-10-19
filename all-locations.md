@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-19T16:41:48.239221+00:00
+UPDATED AT: 2020-10-19T20:05:25.303433+00:00
 
 
 # Alabama
@@ -17039,6 +17039,8 @@ geolocation: 45.4927916, -122.6726079
 
 While dispersing protesters using tear gas and impact munitions (believed to be pepper balls), ICE agents shot an on-duty journalist for FOX 12 Oregon.
 
+Another journalist posted images of impact munition wounds received on October 17th, alongside the Press vest she was wearing.
+
 tags: journalist, less-lethal, pepper-ball, projectile, shoot
 
 id: or-portland-395
@@ -17048,6 +17050,7 @@ geolocation: 45.4927916, -122.6726079
 **Links**
 
 * https://twitter.com/DrewCMarine/status/1317687076461060096
+* https://twitter.com/MaranieRae/status/1318002478776942592
 
 
 ### Federal agents deploy second round of tear gas and impact munitions against protesters | October 17th
