@@ -6890,7 +6890,7 @@ geolocation: 45.4927916,-122.6726079
 
 After being dispersing around 10 PM PDT, protesters returned to the ICE facility and were met by a second round of tear gas and impact munitions around 11 PM - Midnight PDT. During this exchange, federal officers tear gassed themselves, lit small fires that were extinguished by protesters, and used a modified smoke blowing machine to deploy tear gas against protesters.
 
-tags: tags: protester, shoot, projectile, pepper-ball, less-lethal, tear-gas
+tags: protester, shoot, projectile, pepper-ball, less-lethal, tear-gas
 
 id: or-portland-396
 
