@@ -6834,11 +6834,11 @@ geolocation: 45.5618069, -122.661302
 
 Protesters marched to an ICE facility in Portland for a protest. Protesters attempted to tie balloons to the building gate. ICE agents emerged and pepper sprayed protesters to disperse them. Federal officers then fire pepper balls at protesters to push them back. Officers made several arrests.
 
-tags: protester, shoot, projectile, pepper-ball, less-lethal, spray, pepper-spray
+tags: less-lethal, pepper-ball, pepper-spray, projectile, protester, shoot, spray
 
 id: or-portland-393
 
-geolocation: 45.4927916,-122.6726079
+geolocation: 45.4927916, -122.6726079
 
 **Links**
 
@@ -6853,11 +6853,11 @@ geolocation: 45.4927916,-122.6726079
 
 After pushing protesters away from the ICE facility gate around 10 PM PDT, federal agents then deployed tear gas and other crowd control munitions to push protesters down the street. A tear gas canister launched by federal agents caught a plant on fire.
 
-tags: protester, shoot, projectile, pepper-ball, less-lethal, tear-gas
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-394
 
-geolocation: 45.4927916,-122.6726079
+geolocation: 45.4927916, -122.6726079
 
 **Links**
 
@@ -6875,11 +6875,11 @@ geolocation: 45.4927916,-122.6726079
 
 While dispersing protesters using tear gas and impact munitions (believed to be pepper balls), ICE agents shot an on-duty journalist for FOX 12 Oregon.
 
-tags: journalist, shoot, projectile, less-lethal, pepper-ball
+tags: journalist, less-lethal, pepper-ball, projectile, shoot
 
 id: or-portland-395
 
-geolocation: 45.4927916,-122.6726079
+geolocation: 45.4927916, -122.6726079
 
 **Links**
 
@@ -6890,11 +6890,11 @@ geolocation: 45.4927916,-122.6726079
 
 After being dispersing around 10 PM PDT, protesters returned to the ICE facility and were met by a second round of tear gas and impact munitions around 11 PM - Midnight PDT. During this exchange, federal officers tear gassed themselves, lit small fires that were extinguished by protesters, and used a modified smoke blowing machine to deploy tear gas against protesters.
 
-tags: protester, shoot, projectile, pepper-ball, less-lethal, tear-gas
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-396
 
-geolocation: 45.4927916,-122.6726079
+geolocation: 45.4927916, -122.6726079
 
 **Links**
 
@@ -6927,11 +6927,11 @@ geolocation: 45.4927916,-122.6726079
 
 A journalist filming near the DHS riot line began walking backwards as DHS agents advanced, shooting at protesters. The journalist moved to the sidewalk and was shoved over a journalist already on the ground. His phone was knocked out of his hand; he alleges that agents shot pepper balls at the phone.
 
-tags: journalist, push, shove, property-destruction
+tags: journalist, property-destruction, push, shove
 
 id: or-portland-397
 
-geolocation: 45.4927916,-122.6726079
+geolocation: 45.4927916, -122.6726079
 
 **Links**
 
