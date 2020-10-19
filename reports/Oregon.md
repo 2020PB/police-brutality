@@ -6853,7 +6853,7 @@ geolocation: 45.4927916,-122.6726079
 
 After pushing protesters away from the ICE facility gate around 10 PM PDT, federal agents then deployed tear gas and other crowd control munitions to push protesters down the street. A tear gas canister launched by federal agents caught a plant on fire.
 
-tags: tags: protester, shoot, projectile, pepper-ball, less-lethal, tear-gas
+tags: protester, shoot, projectile, pepper-ball, less-lethal, tear-gas
 
 id: or-portland-394
 
