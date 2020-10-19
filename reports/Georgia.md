@@ -122,6 +122,45 @@ geolocation: 33.7498722, -84.3912296
 * https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
 
 
+### Independent journalist detained by police | May 31st
+
+A freelance journalist on assignment with the Washington Post to cover protests in Atlanta was detained by police and zip tied on May 31st. His detention was captured live by CBS46. He did not have a physical press pass and police did not allow him to display his digital pass. After examining his business cards, which state he is a journalist, police released him, returning his phone and pen.
+
+Images posted by news outlets around the 9 PM for which this journalist was arrested place the protest in the vicinity of Centennial Olympic Park in Downtown Atlanta.
+
+tags: arrest, journalist, zip-tie
+
+id: ga-atlanta-8
+
+geolocation: 33.7578444, -84.3935502
+
+**Links**
+
+* https://www.facebook.com/CBS46/videos/275871367154904/
+* https://pressfreedomtracker.us/all-incidents/freelance-journalist-detained-while-covering-protests-washington-post-atlanta/
+* https://spjgeorgia.com/2020/06/01/spj-ga-aaja-and-aabj-condemn-detainment-of-journalists-in-atlanta-fight-for-freelancer-protections/
+
+
+### Journalist detained by police near downtown connector | June 1st
+
+A photojournalist with the Atlanta Journal Constitution was detained by police at a protest. Another journalist spotted her zip-tied with her hands behind her back and sitting under an overpass. He then began speaking with officers, who seemed confused as to why she had been arrested. It appears that one officer handcuffed her, then walked away. Another officer notes the journalist's press pass and asks who detained her. The journalist said the arresting officer left before giving a name. She was soon released, having been detained for about 10 minutes.
+
+The incident begins around 13:30 in the Facebook video.
+
+tags: arrest, journalist, zip-tie
+
+id: ga-atlanta-9
+
+geolocation: 33.745302, -84.3921536
+
+**Links**
+
+* [13:30](https://www.facebook.com/tvnewsgoon/videos/564953394445546)
+* https://www.ajc.com/news/state--regional/groups-condemn-detention-journalists-covering-atlanta-protests/ki7s5LUHU1n3dPLQgYN5aK
+* https://pressfreedomtracker.us/all-incidents/atlanta-photographer-detained-released-after-intervention-other-journalists/
+* https://spjgeorgia.com/2020/06/01/spj-ga-aaja-and-aabj-condemn-detainment-of-journalists-in-atlanta-fight-for-freelancer-protections/
+
+
 ### Police tear gas protesters | September 23rd
 
 Police deploy tear gas against a crowd of protesters gathered in protest of the grand jury charges in the Breonna Taylor case. It appears that Georgia State Police accidentally deployed tear gas in their own vicinity before throwing the canister to protesters and launching more.
