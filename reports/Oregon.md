@@ -6830,6 +6830,114 @@ geolocation: 45.5618069, -122.661302
 * https://twitter.com/MrOlmos/status/1315324510573219841
 
 
+### Federal agents pepper spray protesters carrying balloons | October 17th
+
+Protesters marched to an ICE facility in Portland for a protest. Protesters attempted to tie balloons to the building gate. ICE agents emerged and pepper sprayed protesters to disperse them. Federal officers then fire pepper balls at protesters to push them back. Officers made several arrests.
+
+tags: less-lethal, pepper-ball, pepper-spray, projectile, protester, shoot, spray
+
+id: or-portland-393
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/PDocumentarians/status/1317679090468495362
+* https://twitter.com/PDocumentarians/status/1317680947647500290
+* https://twitter.com/Johnnthelefty/status/1317697369601814528
+* https://twitter.com/Johnnthelefty/status/1317698469788741634
+* https://twitter.com/MaranieRae/status/1317685805767258114
+
+
+### Federal agents deploy tear gas and impact munitions against protesters | October 17th
+
+After pushing protesters away from the ICE facility gate around 10 PM PDT, federal agents then deployed tear gas and other crowd control munitions to push protesters down the street. A tear gas canister launched by federal agents caught a plant on fire.
+
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
+
+id: or-portland-394
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/DannyJPeterson/status/1317686893375451136
+* https://twitter.com/Johnnthelefty/status/1317699508927483904
+* https://twitter.com/Johnnthelefty/status/1317707843823259648
+* https://twitter.com/PDocumentarians/status/1317691218713747456
+* https://twitter.com/PDocumentarians/status/1317692619669917697
+* https://twitter.com/Cascadianphotog/status/1317693139960823809
+* https://twitter.com/MrOlmos/status/1317694668260270080
+* https://twitter.com/MaranieRae/status/1317690340036415490
+
+
+### Federal agents shoot journalist with impact munitions | October 17th
+
+While dispersing protesters using tear gas and impact munitions (believed to be pepper balls), ICE agents shot an on-duty journalist for FOX 12 Oregon.
+
+tags: journalist, less-lethal, pepper-ball, projectile, shoot
+
+id: or-portland-395
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/DrewCMarine/status/1317687076461060096
+
+
+### Federal agents deploy second round of tear gas and impact munitions against protesters | October 17th
+
+After being dispersing around 10 PM PDT, protesters returned to the ICE facility and were met by a second round of tear gas and impact munitions around 11 PM - Midnight PDT. During this exchange, federal officers tear gassed themselves, lit small fires that were extinguished by protesters, and used a modified smoke blowing machine to deploy tear gas against protesters.
+
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
+
+id: or-portland-396
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1317712844947742721
+* https://twitter.com/NDpendentPDX/status/1317713404207919105
+* https://twitter.com/cdsupriyadi/status/1317713652833644545
+* https://twitter.com/shanermurph/status/1317714896692387840
+* https://twitter.com/suzettesmith/status/1317712613610983425
+* https://twitter.com/gravemorgan/status/1317712298832580608
+* https://twitter.com/suzettesmith/status/1317715411765399552
+* https://twitter.com/Cascadianphotog/status/1317716028147691522
+* https://twitter.com/NDpendentPDX/status/1317716067356008449
+* https://twitter.com/Johnnthelefty/status/1317718821956808704
+* https://twitter.com/MaranieRae/status/1317717152795828224
+* https://twitter.com/MrOlmos/status/1317719967974871041
+* https://twitter.com/MrOlmos/status/1317720360284909570
+* https://twitter.com/MrOlmos/status/1317729548973166596
+* https://twitter.com/PDocumentarians/status/1317727136778575875
+* https://twitter.com/MrOlmos/status/1317729826401218560
+* https://twitter.com/MrOlmos/status/1317729548973166596
+* https://twitter.com/MrOlmos/status/1317730862545293312
+* https://twitter.com/MrOlmos/status/1317734127366402049
+* https://twitter.com/PDXGabs/status/1317766842157428736
+* https://twitter.com/anitanoelleg/status/1317741517126070272
+* https://twitter.com/RedheadNomad/status/1317719202086572032
+* https://www.reddit.com/r/2020PoliceBrutality/comments/jdknvj/dhs_throws_teargas_at_a_crowd_of_protesters/
+
+
+### Journalist shoved over by Federal agents | October 17th
+
+A journalist filming near the DHS riot line began walking backwards as DHS agents advanced, shooting at protesters. The journalist moved to the sidewalk and was shoved over a journalist already on the ground. His phone was knocked out of his hand; he alleges that agents shot pepper balls at the phone.
+
+tags: journalist, property-destruction, push, shove
+
+id: or-portland-397
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/BaghdadBrian/status/1317717834059837440
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
