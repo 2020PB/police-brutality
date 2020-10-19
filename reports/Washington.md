@@ -1236,13 +1236,14 @@ geolocation: 47.6188863, -122.3253452
 
 Seattle police officers on bikes charge protesters from behind, tackling and arresting them. There appeared to be no justification for the arrests. The incident occurred during a march in Seattle's Capitol Hill neighborhood, which passed the Big Mario's Pizza on East Pike Street shortly beforehand.
 
-tags: protester, bike, arrest, push, shove
+tags: arrest, bike, protester, push, shove
 
 id: wa-seattle-74
 
-geolocation: 47.6141198,-122.3189719
+geolocation: 47.6141198, -122.3189719
 
-**Links*
+**Links**
 
 * https://twitter.com/R3volutionDaddy/status/1317702275821834240
 * https://twitter.com/R3volutionDaddy/status/1317874394711011329
+
