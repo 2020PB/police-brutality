@@ -6875,7 +6875,7 @@ geolocation: 45.4927916,-122.6726079
 
 While dispersing protesters using tear gas and impact munitions (believed to be pepper balls), ICE agents shot an on-duty journalist for FOX 12 Oregon.
 
-tags: journalist, shoot, projectile, less-lethal, pepper ball
+tags: journalist, shoot, projectile, less-lethal, pepper-ball
 
 id: or-portland-395
 
@@ -6921,6 +6921,21 @@ geolocation: 45.4927916,-122.6726079
 * https://twitter.com/anitanoelleg/status/1317741517126070272
 * https://twitter.com/RedheadNomad/status/1317719202086572032
 * https://www.reddit.com/r/2020PoliceBrutality/comments/jdknvj/dhs_throws_teargas_at_a_crowd_of_protesters/
+
+
+### Journalist shoved over by Federal agents | October 17th
+
+A journalist filming near the DHS riot line began walking backwards as DHS agents advanced, shooting at protesters. The journalist moved to the sidewalk and was shoved over a journalist already on the ground. His phone was knocked out of his hand; he alleges that agents shot pepper balls at the phone.
+
+tags: journalist, push, shove, property-destruction
+
+id: or-portland-397
+
+geolocation: 45.4927916,-122.6726079
+
+**Links**
+
+* https://twitter.com/BaghdadBrian/status/1317717834059837440
 
 
 ## Salem
