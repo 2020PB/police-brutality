@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-19T16:13:05.972238+00:00
+UPDATED AT: 2020-10-19T16:41:48.239221+00:00
 
 
 # Alabama
@@ -20390,6 +20390,22 @@ geolocation: 47.6188863, -122.3253452
 **Links**
 
 * https://twitter.com/iNFoPiG2/status/1312860281240907777
+
+
+### Police tackle protesters without apparent justification | October 17th
+
+Seattle police officers on bikes charge protesters from behind, tackling and arresting them. There appeared to be no justification for the arrests. The incident occurred during a march in Seattle's Capitol Hill neighborhood, which passed the Big Mario's Pizza on East Pike Street shortly beforehand.
+
+tags: arrest, bike, protester, push, shove
+
+id: wa-seattle-74
+
+geolocation: 47.6141198, -122.3189719
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1317702275821834240
+* https://twitter.com/R3volutionDaddy/status/1317874394711011329
 
 
 
