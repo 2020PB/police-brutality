@@ -6847,6 +6847,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/Johnnthelefty/status/1317697369601814528
 * https://twitter.com/Johnnthelefty/status/1317698469788741634
 * https://twitter.com/MaranieRae/status/1317685805767258114
+* https://twitter.com/danielvmedia/status/1318323502701637632
 
 
 ### Federal agents deploy tear gas and impact munitions against protesters | October 17th
@@ -6924,6 +6925,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/anitanoelleg/status/1317741517126070272
 * https://twitter.com/RedheadNomad/status/1317719202086572032
 * https://www.reddit.com/r/2020PoliceBrutality/comments/jdknvj/dhs_throws_teargas_at_a_crowd_of_protesters/
+* https://twitter.com/danielvmedia/status/1318323611728449536
 
 
 ### Journalist shoved over by Federal agents | October 17th
@@ -6939,6 +6941,21 @@ geolocation: 45.4927916, -122.6726079
 **Links**
 
 * https://twitter.com/BaghdadBrian/status/1317717834059837440
+
+
+### Protester repeatedly shoved and shot at short range | October 17th
+
+A protesters carrying a flag is seen yelling at federal officers. One officer repeatedly shoves him into a fence, while others shoot pepper balls at him.
+
+tags: less-lethal, pepper-ball, projectile, protester, push, shoot, shove
+
+id: or-portland-398
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/poorfp/status/1318247511673335808
 
 
 ## Salem
