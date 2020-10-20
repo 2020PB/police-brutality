@@ -376,7 +376,7 @@ tags: protester, vehicle
 
 id: ky-louisville-21
 
-geolocation: 
+geolocation: 38.2527927,-85.7606082
 
 **Links**
 
@@ -395,7 +395,7 @@ tags: arrest, baton, beat, bystander, less-lethal, pepper-ball, projectile, prot
 
 id: ky-louisville-22
 
-geolocation: 
+geolocation: 38.2340347,-85.7129543
 
 **Links**
 
@@ -421,7 +421,7 @@ tags: arrest, baton, grab, protester, push, shove, strike
 
 id: ky-louisville-23
 
-geolocation: 
+geolocation: 38.2555508,-85.7596154
 
 **Links**
 
@@ -440,7 +440,7 @@ tags: arrest, kick, protester, zip-tie
 
 id: ky-louisville-24
 
-geolocation: 
+geolocation: 38.2340347,-85.7129543
 
 **Links**
 
@@ -455,7 +455,7 @@ tags: arrest, kick, protester, zip-tie
 
 id: ky-louisville-25
 
-geolocation: 
+geolocation: 38.2340347,-85.7129543
 
 **Links**
 
@@ -472,7 +472,7 @@ tags: arrest, inhumane-treatment, protester, zip-tie
 
 id: ky-louisville-26
 
-geolocation: 
+geolocation: 38.2340347,-85.7129543
 
 **Links**
 
@@ -488,7 +488,7 @@ tags: arrest, journalist, protester
 
 id: ky-louisville-27
 
-geolocation: 
+geolocation: 38.2532118,-85.7604924
 
 **Links**
 
@@ -507,7 +507,7 @@ tags: arrest, politician, protester
 
 id: ky-louisville-28
 
-geolocation: 
+geolocation: 38.2440129,-85.7606963
 
 **Links**
 
@@ -526,7 +526,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: ky-louisville-29
 
-geolocation: 
+geolocation: 38.2550354,-85.7419159
 
 **Links**
 
