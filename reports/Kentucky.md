@@ -25,7 +25,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ky-louisville-4
 
-geolocation: 38.2540079,-85.7590318
+geolocation: 38.2540079, -85.7590318
 
 **Links**
 
@@ -43,7 +43,7 @@ tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ky-louisville-8
 
-geolocation: 38.2528182,-85.7627649
+geolocation: 38.2528182, -85.7627649
 
 **Links**
 
@@ -59,7 +59,7 @@ tags: bystander, less-lethal, projectile, property-destruction, shoot
 
 id: ky-louisville-5
 
-geolocation: 38.2431293,-85.7560353
+geolocation: 38.2431293, -85.7560353
 
 **Links**
 
@@ -76,7 +76,7 @@ tags: property-destruction
 
 id: ky-louisville-1
 
-geolocation: 38.2538422,-85.7603751 
+geolocation: 38.2538422, -85.7603751
 
 **Links**
 
@@ -95,7 +95,7 @@ tags: arrest, baton, beat, protester, strike
 
 id: ky-louisville-9
 
-geolocation: 38.2456778,-85.7525681
+geolocation: 38.2456778, -85.7525681
 
 **Links**
 
@@ -111,7 +111,7 @@ tags: beat, less-lethal, protester, tackle, tear-gas
 
 id: ky-louisville-3
 
-geolocation: 38.2534825,-85.7604495
+geolocation: 38.2534825, -85.7604495
 
 **Links**
 
@@ -126,7 +126,7 @@ tags: body-cam, bystander, death, less-lethal, live-round, pepper-ball
 
 id: ky-louisville-6
 
-geolocation: 38.2494543,-85.7970747
+geolocation: 38.2494543, -85.7970747
 
 **Links**
 
@@ -152,7 +152,7 @@ tags: abuse-of-power, arrest, knee
 
 id: ky-louisville-14
 
-geolocation: 38.2491363,-85.6097483
+geolocation: 38.2491363, -85.6097483
 
 **Links**
 
@@ -170,7 +170,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: ky-louisville-7
 
-geolocation: 38.2518874,-85.6438328
+geolocation: 38.2518874, -85.6438328
 
 **Links**
 
@@ -186,7 +186,7 @@ tags: arrest, baton, less-lethal, pepper-ball, protester, shoot, shove
 
 id: ky-louisville-11
 
-geolocation: 38.252019,-85.7676495
+geolocation: 38.252019, -85.7676495
 
 **Links**
 
@@ -203,7 +203,7 @@ tags: baton, beat, less-lethal, protester, rubber-bullet, shoot, tackle
 
 id: ky-louisville-10
 
-geolocation: 38.2543333,-85.7619845
+geolocation: 38.2543333, -85.7619845
 
 **Links**
 
@@ -222,7 +222,7 @@ tags: arrest, baton, beat, inhumane-treatment, medic, person-with-disability, sh
 
 id: ky-louisville-12
 
-geolocation: 38.253765,-85.7603896
+geolocation: 38.253765, -85.7603896
 
 **Links**
 
@@ -238,7 +238,7 @@ tags: property-destruction, protester
 
 id: ky-louisville-20
 
-geolocation: 38.2539007,-85.7609873
+geolocation: 38.2539007, -85.7609873
 
 **Links**
 
@@ -256,7 +256,7 @@ tags: arrest, journalist, tackle
 
 id: ky-louisville-13
 
-geolocation: 38.2541035,-85.7602982
+geolocation: 38.2541035, -85.7602982
 
 **Links**
 
@@ -278,7 +278,7 @@ tags: abuse-of-power, arrest, bystander, vehicle
 
 id: ky-louisville-15
 
-geolocation: 38.2535046,-85.7588433
+geolocation: 38.2535046, -85.7588433
 
 **Links**
 
@@ -302,7 +302,7 @@ tags: arrest, journalist, property-destruction
 
 id: ky-louisville-16
 
-geolocation: 38.254079,-85.7624661
+geolocation: 38.254079, -85.7624661
 
 **Links**
 
@@ -322,7 +322,7 @@ tags: abuse-of-power, arrest, knee, protester
 
 id: ky-louisville-17
 
-geolocation: 38.2541758,-85.7603442
+geolocation: 38.2541758, -85.7603442
 
 **Links**
 
@@ -340,7 +340,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ky-louisville-18
 
-geolocation: 38.252771,-85.7596619
+geolocation: 38.252771, -85.7596619
 
 **Links**
 
@@ -357,7 +357,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ky-louisville-19
 
-geolocation: 38.253455,-85.7609173
+geolocation: 38.253455, -85.7609173
 
 **Links**
 
