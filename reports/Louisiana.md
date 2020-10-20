@@ -10,7 +10,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: la-neworleans-1
 
-geolocation: 
+geolocation: 29.9388613, -90.0575441
 
 **Links**
 
