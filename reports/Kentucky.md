@@ -25,7 +25,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ky-louisville-4
 
-geolocation: 
+geolocation: 38.2540079, -85.7590318
 
 **Links**
 
@@ -43,7 +43,7 @@ tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ky-louisville-8
 
-geolocation: 
+geolocation: 38.2528182, -85.7627649
 
 **Links**
 
@@ -59,7 +59,7 @@ tags: bystander, less-lethal, projectile, property-destruction, shoot
 
 id: ky-louisville-5
 
-geolocation: 
+geolocation: 38.2431293, -85.7560353
 
 **Links**
 
@@ -76,23 +76,26 @@ tags: property-destruction
 
 id: ky-louisville-1
 
-geolocation: 
+geolocation: 38.2538422, -85.7603751
 
 **Links**
 
 * [Video evidence](https://twitter.com/nataliealund/status/1266877181164089349)
 * [89.3 WFPL reporting the mayor's response](https://twitter.com/WFPLNews/status/1266923468102262784)
+* https://wfpl.org/louisville-mayor-claims-without-details-protesters-seized-supplies-were-hazardous/
 
 
 ### 5 police officers use batons to beat protester | May 31st
 
 A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison.
 
+A WFPL article states this occurred on Broadway near the I-65 overpass.
+
 tags: arrest, baton, beat, protester, strike
 
 id: ky-louisville-9
 
-geolocation: 
+geolocation: 38.2456778, -85.7525681
 
 **Links**
 
@@ -100,7 +103,7 @@ geolocation:
 * [Article and story](https://wfpl.org/protesters-say-they-were-assaulted-before-arrest-fear-covid-19-in-jail/)
 
 
-### Louisville police swarm and beat a man screaming on the ground | Believed to be June 1st
+### Louisville police swarm and beat a man screaming on the ground | (Believed to be) June 1st
 
 A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
@@ -108,7 +111,7 @@ tags: beat, less-lethal, protester, tackle, tear-gas
 
 id: ky-louisville-3
 
-geolocation: 
+geolocation: 38.2534825, -85.7604495
 
 **Links**
 
@@ -123,7 +126,7 @@ tags: body-cam, bystander, death, less-lethal, live-round, pepper-ball
 
 id: ky-louisville-6
 
-geolocation: 
+geolocation: 38.2494543, -85.7970747
 
 **Links**
 
@@ -139,7 +142,7 @@ geolocation:
 
 During a protest on June 1st, a pastor was arrested. He states officers yelled at him and told him to move. When he did not, he states that an officer ordered others to arrest him; those officers then threw him to the ground to handcuff him.
 
-Footage from news sources show 2 officers kneeling on his legs and back. It also shows an officer pressing what appears to be a service sidearm to the pastor's head.
+Footage from news sources show 2 officers kneeling on his legs and back. It also shows an officer pressing what appears to be a service sidearm to the pastor's head. One news sourcee and the pastor's official complaint state this occurred on Shelbyville Road in front of the Oxmoor Center mall.
 
 After Findley was placed in a squad car, he told police he was a pastor. He was then released without charges.
 
@@ -149,7 +152,7 @@ tags: abuse-of-power, arrest, knee
 
 id: ky-louisville-14
 
-geolocation: 
+geolocation: 38.2491363, -85.6097483
 
 **Links**
 
@@ -161,17 +164,18 @@ geolocation:
 
 ### Protesters in St. Matthews shot with pepper rounds | June 3rd
 
-Police fired pepper rounds unprovoked at a group of protesters marching prior to curfew in St. Matthews.
+Police fired pepper rounds unprovoked at a group of protesters marching prior to curfew in St. Matthews. The incident occurred in front of a Nissan dealership at 4136 Shelbyville road.
 
 tags: less-lethal, pepper-ball, protester, shoot
 
 id: ky-louisville-7
 
-geolocation: 
+geolocation: 38.2518874, -85.6438328
 
 **Links**
 
 * [Video taken from across the street](https://www.reddit.com/r/Louisville/comments/gw5joa/peaceful_protesters_marching_in_st_mathews_get/)
+* https://www.wave3.com/2020/06/04/st-matthews-police-used-pepper-balls-move-protesters/
 
 
 ### Police shove woman and then fire pepper balls at people who try to help her | Believed to be June 15th
@@ -182,7 +186,7 @@ tags: arrest, baton, less-lethal, pepper-ball, protester, shoot, shove
 
 id: ky-louisville-11
 
-geolocation: 
+geolocation: 38.252019, -85.7676495
 
 **Links**
 
@@ -199,7 +203,7 @@ tags: baton, beat, less-lethal, protester, rubber-bullet, shoot, tackle
 
 id: ky-louisville-10
 
-geolocation: 
+geolocation: 38.2543333, -85.7619845
 
 **Links**
 
@@ -218,7 +222,7 @@ tags: arrest, baton, beat, inhumane-treatment, medic, person-with-disability, sh
 
 id: ky-louisville-12
 
-geolocation: 
+geolocation: 38.253765, -85.7603896
 
 **Links**
 
@@ -234,7 +238,7 @@ tags: property-destruction, protester
 
 id: ky-louisville-20
 
-geolocation: 
+geolocation: 38.2539007, -85.7609873
 
 **Links**
 
@@ -252,7 +256,7 @@ tags: arrest, journalist, tackle
 
 id: ky-louisville-13
 
-geolocation: 
+geolocation: 38.2541035, -85.7602982
 
 **Links**
 
@@ -268,11 +272,13 @@ A woman filming the incident from her car stepped out and asked someone for thei
 
 Additional footage from a bystander shows the filmer running out of the way of the Bearcat to avoid being hit.
 
+A WDRB article states the incident occurred near a Chase bank by Jefferson Square Park.
+
 tags: abuse-of-power, arrest, bystander, vehicle
 
 id: ky-louisville-15
 
-geolocation: 
+geolocation: 38.2535046, -85.7588433
 
 **Links**
 
@@ -296,7 +302,7 @@ tags: arrest, journalist, property-destruction
 
 id: ky-louisville-16
 
-geolocation: 
+geolocation: 38.254079, -85.7624661
 
 **Links**
 
@@ -308,7 +314,7 @@ geolocation:
 
 ### Police respond to splashed water with excessive force | July 7th
 
-Police are attempting to tow a car and protesters have gathered around in opposition. A protester splashes water on an officer and attempts to run away. The officer chases her, holds her in a headlock, and forces her to the ground with the aid of several other officers. One officer kneels on the protester to arrest her while other officers hold the crowd back. One officer can be heard saying repeatedly saying, "Back the fuck off."
+Police are attempting to tow a car at 6th and Jefferson; protesters have gathered in opposition. A protester splashes water on an officer and attempts to run away. The officer chases her, holds her in a headlock, and forces her to the ground with the aid of several other officers. One officer kneels on the protester to arrest her while other officers hold the crowd back. One officer can be heard saying repeatedly saying, "Back the fuck off."
 
 The filmer also posted a screenshot, alleging that the protester was charged with disorderly conduct, possession of marijuana, inciting a riot, and third degree assault of an officer. Third degree assault is generally classified as the intent to cause serious bodily harm, generally with a deadly weapon. The filmer is a journalist with the Courier Journal and is verified on Twitter, lending some credence to her allegations about the charges.
 
@@ -316,7 +322,7 @@ tags: abuse-of-power, arrest, knee, protester
 
 id: ky-louisville-17
 
-geolocation: 
+geolocation: 38.2541758, -85.7603442
 
 **Links**
 
@@ -334,7 +340,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ky-louisville-18
 
-geolocation: 
+geolocation: 38.252771, -85.7596619
 
 **Links**
 
@@ -351,7 +357,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ky-louisville-19
 
-geolocation: 
+geolocation: 38.253455, -85.7609173
 
 **Links**
 
