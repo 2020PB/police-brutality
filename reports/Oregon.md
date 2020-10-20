@@ -6947,7 +6947,7 @@ geolocation: 45.4927916, -122.6726079
 
 A protesters carrying a flag is seen yelling at federal officers. One officer repeatedly shoves him into a fence, while others shoot pepper balls at him.
 
-tags: protester, push, shove, shoot, projectile, pepper-ball, less-lethal
+tags: less-lethal, pepper-ball, projectile, protester, push, shoot, shove
 
 id: or-portland-398
 
