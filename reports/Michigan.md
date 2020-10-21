@@ -23,7 +23,7 @@ tags: beat, protester, shield, tackle
 
 id: mi-detroit-5
 
-geolocation: 42.3309973,-83.04279
+geolocation: 42.3309973,-83.042790
 
 **Links**
 
