@@ -8,7 +8,7 @@ tags: protester, punch, tackle
 
 id: mi-detroit-4
 
-geolocation: 42.3312081,-83.043529
+geolocation: 42.3312081, -83.043529
 
 **Links**
 
@@ -23,7 +23,7 @@ tags: beat, protester, shield, tackle
 
 id: mi-detroit-5
 
-geolocation: 42.3309973,-83.042790
+geolocation: 42.3309973, -83.042790
 
 **Links**
 
@@ -38,7 +38,7 @@ tags: protester, shove, threaten
 
 id: mi-detroit-1
 
-geolocation: 42.3348206,-83.0448825
+geolocation: 42.3348206, -83.0448825
 
 **Links**
 
@@ -71,7 +71,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot, tear-gas
 
 id: mi-detroit-3
 
-geolocation: 42.332364,-83.0575983
+geolocation: 42.332364, -83.0575983
 
 **Links**
 
@@ -86,7 +86,7 @@ tags: arrest, knee, protester, punch, throw
 
 id: mi-detroit-6
 
-geolocation: 42.3331454,-83.0440872
+geolocation: 42.3331454, -83.0440872
 
 **Links**
 
@@ -101,7 +101,7 @@ tags: journalist, push, shove
 
 id: mi-detroit-14
 
-geolocation: 42.3302387,-83.0563789
+geolocation: 42.3302387, -83.0563789
 
 **Links**
 
@@ -163,7 +163,7 @@ tags: less-lethal, lrad, protester
 
 id: mi-detroit-8
 
-geolocation: 42.4057561,-82.9967976
+geolocation: 42.4057561, -82.9967976
 
 **Links**
 
@@ -178,7 +178,7 @@ tags: protester, vehicle
 
 id: mi-detroit-9
 
-geolocation: 42.3083773,-83.1346729
+geolocation: 42.3083773, -83.1346729
 
 **Links**
 
