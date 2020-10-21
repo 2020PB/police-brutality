@@ -8,7 +8,7 @@ tags: arrest, beat, protester, strike
 
 id: ma-boston-1
 
-geolocation: 42.3554362,-71.0605178
+geolocation: 42.3554362, -71.0605178
 
 **Links**
 
@@ -23,7 +23,7 @@ tags: property-destruction, protester
 
 id: ma-boston-2
 
-geolocation: 42.3566478,-71.0591705
+geolocation: 42.3566478, -71.0591705
 
 **Links**
 
@@ -34,13 +34,13 @@ geolocation: 42.3566478,-71.0591705
 
 Police are seen making arrests at a protest in Copley Square. As protesters attempt to move closer to film, officers pepper spray protesters and slash at them with their batons. The protest was held by Super Happy Fun America, known for its Straight Pride events. This even was called: "Peaceful Protest Against Democrat Violence." Counter-protesters held a "Kick Facists Out of Boston" rally; it was these counter-protesters who are arrested and assaulted by police.
 
-tags: protester, strike, baton, spray, pepper-spray, arrest
+tags: arrest, baton, less-lethal, pepper-spray, protester, spray, strike
 
 id: ma-boston-3
 
-geolocation: 42.350008,-71.0787445
+geolocation: 42.350008, -71.0787445
 
-**Links** 
+**Links**
 
 * https://twitter.com/hodayum/status/1318269883206012928
 * https://www.nbcboston.com/news/local/demonstrators-clash-in-dual-protest-at-copley-square/2213949/
@@ -56,7 +56,7 @@ tags: hide-badge
 
 id: ma-worcester-1
 
-geolocation: 42.2543994,-71.8168882
+geolocation: 42.2543994, -71.8168882
 
 **Links**
 
@@ -75,7 +75,7 @@ tags: arrest, child, protester, shove, throw
 
 id: ma-worcester-2
 
-geolocation: 42.2540061,-71.8153817
+geolocation: 42.2540061, -71.8153817
 
 **Links**
 
@@ -93,7 +93,7 @@ tags: less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray, tear-ga
 
 id: ma-worcester-3
 
-geolocation: 42.253576,-71.816079
+geolocation: 42.253576, -71.816079
 
 **Links**
 
@@ -114,7 +114,7 @@ tags: arrest, beat, knee, knee-on-neck, protester, punch, tackle
 
 id: ma-worcester-4
 
-geolocation: 42.2634268,-71.8022551
+geolocation: 42.2634268, -71.8022551
 
 **Links**
 
