@@ -8,39 +8,55 @@ tags: arrest, beat, protester, strike
 
 id: ma-boston-1
 
-geolocation: 
+geolocation: 42.3554362,-71.0605178
 
 **Links**
 
 * https://www.wcvb.com/article/boston-police-confront-protesters-in-downtown-crossing/32724753
 
 
-### A cop takes someone's protest sign and destroys it. | Unknown Date
+### A cop takes someone's protest sign and destroys it | Unknown Date
 
-
+An officer walks their bike up behind a protester and rips the sign out of the protester's hands. The officer then rips a chunk off the sign and throws it on the ground.
 
 tags: property-destruction, protester
 
 id: ma-boston-2
 
-geolocation: 
+geolocation: 42.3566478,-71.0591705
 
 **Links**
 
 * https://www.youtube.com/watch?v=egvPF75vWOA
 
 
+### Police arrest and pepper spray protesters in Copley Square | October 18th
+
+Police are seen making arrests at a protest in Copley Square. As protesters attempt to move closer to film, officers pepper spray protesters and slash at them with their batons. The protest was held by Super Happy Fun America, known for its Straight Pride events. This even was called: "Peaceful Protest Against Democrat Violence." Counter-protesters held a "Kick Facists Out of Boston" rally; it was these counter-protesters who are arrested and assaulted by police.
+
+tags: protester, strike, baton, spray, pepper-spray, arrest
+
+id: ma-boston-3
+
+geolocation: 42.350008,-71.0787445
+
+**Links** 
+
+* https://twitter.com/hodayum/status/1318269883206012928
+* https://www.nbcboston.com/news/local/demonstrators-clash-in-dual-protest-at-copley-square/2213949/
+
+
 ## Worcester
 
 ### Worcester police officers cover badge numbers during protest | June 1st
 
-
+A photo shows a Worcester police officer with tape over his badge number.
 
 tags: hide-badge
 
 id: ma-worcester-1
 
-geolocation: 
+geolocation: 42.2543994,-71.8168882
 
 **Links**
 
@@ -59,7 +75,7 @@ tags: arrest, child, protester, shove, throw
 
 id: ma-worcester-2
 
-geolocation: 
+geolocation: 42.2540061,-71.8153817
 
 **Links**
 
@@ -77,7 +93,7 @@ tags: less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray, tear-ga
 
 id: ma-worcester-3
 
-geolocation: 
+geolocation: 42.253576,-71.816079
 
 **Links**
 
@@ -92,11 +108,13 @@ Eyewitness reports seeing numerous people tackled.
 
 Eyewitness reports being slammed from behind after obeying police order to raise hands and disperse. He and his sister report police kneeled on the man's neck "in the same manner as George Floyd."
 
+All three events took place on Main St, at least one of which was near the Main Street Dunkin'.
+
 tags: arrest, beat, knee, knee-on-neck, protester, punch, tackle
 
 id: ma-worcester-4
 
-geolocation: 
+geolocation: 42.2634268,-71.8022551
 
 **Links**
 
