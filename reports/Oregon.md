@@ -225,7 +225,7 @@ geolocation:
 
 ### Police shove member of the press | June 4th
 
-In a live broadcast, police are seen shoving a member of the press. She states "An officer Kemmerer stuck his hand to my throat as I held up my press badge." The camera is turned to show that she is clearly labeled press on her ball cap and that she has a badge. The incident occurred at around the 9 minute mark of the 50 minute broadcast.
+In a live broadcast, police are seen shoving a member of the press. She states "An officer Kammerer stuck his hand to my throat as I held up my press badge." The camera is turned to show that she is clearly labeled press on her ball cap and that she has a badge. The incident occurred at around the 9 minute mark of the 50 minute broadcast.
 
 tags: journalist, push, shove
 
