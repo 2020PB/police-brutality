@@ -453,7 +453,7 @@ tags: less-lethal, medic, rubber-bullet, shoot
 
 id: mn-minneapolis-18
 
-geolocation: 44.948527,-93.2780103
+geolocation: 44.948527, -93.2780103
 
 **Links**
 
@@ -554,7 +554,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: mn-minneapolis-30
 
-geolocation: 44.9776884,-93.274012
+geolocation: 44.9776884, -93.274012
 
 **Links**
 
@@ -570,9 +570,10 @@ tags: less-lethal, projectile, protester, shoot
 
 id: mn-minneapolis-31
 
-geolocation: 44.9737913,-93.2712205
+geolocation: 44.9737913, -93.2712205
 
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1298835525479014400
 * [Full stream](https://youtu.be/ava1HJ4qIlg)
+
