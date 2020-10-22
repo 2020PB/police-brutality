@@ -324,7 +324,7 @@ tags: arrest, less-lethal, protester, tear-gas
 
 id: mi-kalamazoo-2
 
-geolocation: 42.29157,-85.5871492
+geolocation: 42.291570,-85.5871492
 
 **Links**
 
