@@ -8,7 +8,7 @@ tags: baton, beat, journalist, strike
 
 id: mn-minneapolis-21
 
-geolocation: 44.9478663,-93.2348835
+geolocation: 44.9478663, -93.2348835
 
 **Links**
 
@@ -24,7 +24,7 @@ tags: abuse-of-power, arrest, protester
 
 id: mn-minneapolis-28
 
-geolocation: 44.9413248,-93.2626097
+geolocation: 44.9413248, -93.2626097
 
 **Links**
 
@@ -39,7 +39,7 @@ tags: less-lethal, protester, rubber-bullet, stun-grenade, tear-gas
 
 id: mn-minneapolis-14
 
-geolocation: 44.948110,-93.2369906
+geolocation: 44.948110, -93.2369906
 
 **Links**
 
@@ -103,7 +103,7 @@ tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-3
 
-geolocation: 44.9797273,-93.2724735
+geolocation: 44.9797273, -93.2724735
 
 **Links**
 
@@ -169,7 +169,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-16
 
-geolocation: 44.9467051,-93.2775134
+geolocation: 44.9467051, -93.2775134
 
 **Links**
 
@@ -221,7 +221,7 @@ tags: medic, property-destruction
 
 id: mn-minneapolis-25
 
-geolocation: 44.9483554,-93.2801132
+geolocation: 44.9483554, -93.2801132
 
 **Links**
 
@@ -236,7 +236,7 @@ tags: abuse-of-power, property-destruction
 
 id: mn-minneapolis-29
 
-geolocation: 44.9483554,-93.2801132
+geolocation: 44.9483554, -93.2801132
 
 **Links**
 
@@ -269,7 +269,7 @@ tags: journalist, push, shove
 
 id: mn-minneapolis-37
 
-geolocation: 44.9449902,-93.2778787
+geolocation: 44.9449902, -93.2778787
 
 **Links**
 
@@ -280,11 +280,11 @@ geolocation: 44.9449902,-93.2778787
 
 In an attempt to move residents inside, the police fire shots at them.
 
-tags: bystander, less-lethal, paintball, shoot, projectile
+tags: bystander, less-lethal, paintball, projectile, shoot
 
 id: mn-minneapolis-2
 
-geolocation: 44.9528354,-93.2766137
+geolocation: 44.9528354, -93.2766137
 
 **Links**
 
