@@ -8,7 +8,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ri-providence-1
 
-geolocation: 41.8290546,-71.4177476
+geolocation: 41.8290546, -71.4177476
 
 **Links**
 
@@ -24,7 +24,7 @@ tags: protester, push, shove
 
 id: ri-providence-2
 
-geolocation: 41.8182264,-71.4201952
+geolocation: 41.8182264, -71.4201952
 
 **Links**
 
@@ -39,7 +39,7 @@ tags: protester, push, shove
 
 id: ri-providence-3
 
-geolocation: 41.8182264,-71.4201952
+geolocation: 41.8182264, -71.4201952
 
 **Links**
 
@@ -50,13 +50,13 @@ geolocation: 41.8182264,-71.4201952
 
 Brief footage taken from inside a car shows police chasing protesters. One protester is surrounded by officers and beaten with batons.
 
-tags: protester, strike, beat, baton
+tags: baton, beat, protester, strike
 
 id: ri-providence-4
 
-
-geolocation: 41.8182264,-71.4201952
+geolocation: 41.8182264, -71.4201952
 
 **Links**
 
 * https://twitter.com/FangCollective/status/1318983670255017984
+
