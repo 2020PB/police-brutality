@@ -447,11 +447,13 @@ geolocation: 44.9751649, -93.2487013
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
+On May 30th, the medical tent was staged at a Kmart on Nicolet and Lake, and is believed to have been staged there on the 31st as well.
+
 tags: less-lethal, medic, rubber-bullet, shoot
 
 id: mn-minneapolis-18
 
-geolocation: 
+geolocation: 44.948527,-93.2780103
 
 **Links**
 
@@ -552,11 +554,12 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: mn-minneapolis-30
 
-geolocation: 
+geolocation: 44.9776884,-93.274012
 
 **Links**
 
 * https://twitter.com/EvryDayEvryWay/status/1298794226033938432
+* [Full stream; 7:30](https://youtu.be/ava1HJ4qIlg?t=450)
 
 
 ### Officer shoots at fleeing protester | August 26th
@@ -567,9 +570,9 @@ tags: less-lethal, projectile, protester, shoot
 
 id: mn-minneapolis-31
 
-geolocation: 
+geolocation: 44.9737913,-93.2712205
 
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1298835525479014400
-
+* [Full stream](https://youtu.be/ava1HJ4qIlg)
