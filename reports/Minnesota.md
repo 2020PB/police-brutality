@@ -242,6 +242,9 @@ geolocation: 44.9483554, -93.2801132
 
 * https://twitter.com/val_ebertz/status/1266975058230235137
 * https://twitter.com/Jeff_Wagner4/status/1266933139303268353
+* https://twitter.com/val_ebertz/status/1266975058230235137
+* https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
+* https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
 
 
 ### Police pepper spray journalist as she is walking away | May 30th
@@ -330,21 +333,18 @@ geolocation:
 
 ### Police slashes tires | May 31st
 
-In the *Mother Jones* article linked below, video footage shows police slashing tires of vehicles on a highway overpass. Additional tweets indicate possible police slashing of cars in a Kmart parking lot.
+In the *Mother Jones* article linked below, video footage shows police slashing tires of vehicles on a highway overpass, believed to be the I-35 W bridge between University and Washington Avenues. Additional tweets indicate possible police slashing of cars in a Kmart parking lot, though these may be from May 30th (see mn-minneapolis-29).
 
 tags: property-destruction
 
 id: mn-minneapolis-8
 
-geolocation: 
+geolocation: 44.9756288,-93.2524958
 
 **Links**
 
 * https://www.motherjones.com/anti-racism-police-protest/2020/06/videos-show-cops-slashing-car-tires-at-protests-in-minneapolis/
 * https://youtu.be/sP7hM_sdpkQ?t=4209
-* https://twitter.com/val_ebertz/status/1266975058230235137
-* https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
-* https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
 * https://lawandcrime.com/george-floyd-death/strategically-deflated-authorities-admit-to-slashing-tires-on-cars-belonging-to-protesters-and-journalists-in-minneapolis/
 
 
@@ -356,7 +356,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-9
 
-geolocation: 
+geolocation: 44.9478956,-93.2797332
 
 **Links**
 
@@ -430,13 +430,13 @@ geolocation: 44.945920, -93.276684
 
 ### Police stop SUV to drive-by pepper-spray protesters through window | May 31st
 
-Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
+Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W Exit 17C off ramp. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
 tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-17
 
-geolocation: 
+geolocation: 44.9751649,-93.2487013
 
 **Links**
 
