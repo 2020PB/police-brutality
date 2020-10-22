@@ -339,7 +339,7 @@ tags: property-destruction
 
 id: mn-minneapolis-8
 
-geolocation: 44.9756288,-93.2524958
+geolocation: 44.9756288, -93.2524958
 
 **Links**
 
@@ -356,7 +356,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-9
 
-geolocation: 44.9478956,-93.2797332
+geolocation: 44.9478956, -93.2797332
 
 **Links**
 
@@ -436,7 +436,7 @@ tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-17
 
-geolocation: 44.9751649,-93.2487013
+geolocation: 44.9751649, -93.2487013
 
 **Links**
 
