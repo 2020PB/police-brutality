@@ -8,7 +8,7 @@ tags: baton, beat, journalist, strike
 
 id: mn-minneapolis-21
 
-geolocation: 
+geolocation: 44.9478663,-93.2348835
 
 **Links**
 
@@ -24,7 +24,7 @@ tags: abuse-of-power, arrest, protester
 
 id: mn-minneapolis-28
 
-geolocation: 
+geolocation: 44.9413248,-93.2626097
 
 **Links**
 
@@ -39,7 +39,7 @@ tags: less-lethal, protester, rubber-bullet, stun-grenade, tear-gas
 
 id: mn-minneapolis-14
 
-geolocation: 
+geolocation: 44.948110,-93.2369906
 
 **Links**
 
@@ -97,13 +97,13 @@ geolocation: 44.947897, -93.233858
 
 ### Police drive by spraying | May 30th
 
-While sitting in their cars, the policemen proceed to pepper spray the protesters in a drive-by fashion
+Police officers drive through a crowd of protesters at 5th and Hennepin, pepper spraying protesters out their windows as they pass.
 
 tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-3
 
-geolocation: 
+geolocation: 44.9797273,-93.2724735
 
 **Links**
 
@@ -163,16 +163,19 @@ geolocation: 44.961980, -93.277830
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
+The incident occurred in the vicinity of the 5th precinct, but the exact location is unclear. In addition, both Minneapolis Police Department and Minnesota State Police officers were on the scene, but it is unclear who fired the shots.
+
 tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-16
 
-geolocation: 
+geolocation: 44.9467051,-93.2775134
 
 **Links**
 
-* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
+* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a)
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
+* https://pressfreedomtracker.us/all-incidents/despite-identifying-press-multiple-journalists-shot-projectiles-minneapolis-law-enforcement/
 
 
 ### Camera man shot by police | May 30th
@@ -218,7 +221,7 @@ tags: medic, property-destruction
 
 id: mn-minneapolis-25
 
-geolocation: 
+geolocation: 44.9483554,-93.2801132
 
 **Links**
 
@@ -233,7 +236,7 @@ tags: abuse-of-power, property-destruction
 
 id: mn-minneapolis-29
 
-geolocation: 
+geolocation: 44.9483554,-93.2801132
 
 **Links**
 
@@ -266,7 +269,7 @@ tags: journalist, push, shove
 
 id: mn-minneapolis-37
 
-geolocation: 
+geolocation: 44.9449902,-93.2778787
 
 **Links**
 
@@ -277,15 +280,16 @@ geolocation:
 
 In an attempt to move residents inside, the police fire shots at them.
 
-tags: bystander, less-lethal, pepper-ball, shoot
+tags: bystander, less-lethal, paintball, shoot, projectile
 
 id: mn-minneapolis-2
 
-geolocation: 
+geolocation: 44.9528354,-93.2766137
 
 **Links**
 
 * https://twitter.com/tkerssen/status/1266921821653385225
+* https://www.abc.net.au/news/2020-06-02/minneapolis-woman-shot-at-by-police-during-george-floyd-protests/12310592
 
 
 ### LA Times employee recounts getting shot | May 31st
