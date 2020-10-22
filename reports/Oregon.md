@@ -6962,7 +6962,7 @@ geolocation: 45.4927916, -122.6726079
 
 DHS officers charge protesters on the sidewalk outside the Portland ICE facility to make arrests, shoving several protesters to the ground.
 
-tags: protester, push, shove, arrest
+tags: arrest, protester, push, shove
 
 id: or-portland-399
 
@@ -6977,7 +6977,7 @@ geolocation: 45.4927916, -122.6726079
 
 After several rounds of arrests outside the Portland ICE facility, DHS agents emerge once again to make targeted arrests, firing pepper balls at protesters while they do so.
 
-tags: protester, arrest, shoot, projectile, less-lethal, pepper-ball
+tags: arrest, less-lethal, pepper-ball, projectile, protester, shoot
 
 id: or-portland-400
 
