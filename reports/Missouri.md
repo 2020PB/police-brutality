@@ -2,18 +2,35 @@
 
 ### Police pepper spray and arrest protester holding sign | May 30th
 
-
+A freelance photographer captured an incident near J.C. Nichols and Ward parkways, showing a Kansas City Police officer pepper spraying a protester. The protester is standing several feet away and holding a sign above their head.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-5
 
-geolocation: 
+geolocation: 39.0408207,-94.587949
 
 **Links**
 
 * https://www.kansascity.com/news/local/article243188436.html
 * https://www.facebook.com/KuhlPics/photos/a.467614509924515/3214027235283215/?type=3&theater
+
+
+### Police arrest man for speaking and tear-gas nearby protesters | May 30th
+
+A line of police stand well apart from a crowd of protesters, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
+
+tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tear-gas
+
+id: mo-kansascity-3
+
+geolocation: 39.0425846,-94.5880446
+
+**Links**
+
+* [CNN Report](https://www.cnn.com/2020/06/02/us/kansas-city-police-spray-protester-who-yelled/index.html)
+* https://twitter.com/weslyinfinity/status/1267321172309544960
+* https://twitter.com/Elise_Villa/status/1266923192612016129
 
 
 ### Police pepper spray protesters walking away and later arrest one of them | May 31st
@@ -24,7 +41,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-6
 
-geolocation: 
+geolocation: 39.0452546,-94.588827
 
 **Links**
 
@@ -34,13 +51,13 @@ geolocation:
 
 ### Police tear gas a park | May 31st
 
-Video shows the police tear gassing an entire park, including one baby in Kansas City.
+Video shows the police tear gassing an entire park, including one baby in Kansas City. The incident appears to take place around the J.C. Nichols Memorial fountain.
 
 tags: child, less-lethal, protester, tear-gas
 
 id: mo-kansascity-1
 
-geolocation: 
+geolocation: 39.0426191,-94.5875483
 
 **Links**
 
@@ -55,7 +72,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-2
 
-geolocation: 
+geolocation: 39.043128,-94.5882934
 
 **Links**
 
@@ -71,28 +88,12 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-8
 
-geolocation: 
+geolocation: 39.0421858,-94.5890322
 
 **Links**
 
 * https://www.tiktok.com/@keraclark2/video/6833017428105055494
 * https://twitter.com/lovlitae/status/1268676585269473280
-
-
-### Police arrest man for speaking and tear-gas nearby protesters | June 1st
-
-A line of police stand well apart from a crowd of protesters, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
-
-tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tear-gas
-
-id: mo-kansascity-3
-
-geolocation: 
-
-**Links**
-
-* [CNN Report](https://www.cnn.com/2020/06/02/us/kansas-city-police-spray-protester-who-yelled/index.html)
-* https://twitter.com/weslyinfinity/status/1267321172309544960?
 
 
 ### Police pull away protester and pepper sprays others | June 1st
@@ -123,7 +124,7 @@ tags: less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray
 
 id: mo-kansascity-7
 
-geolocation: 
+geolocation: 39.0430404,-94.5882485
 
 **Links**
 
@@ -140,7 +141,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: mo-ferguson-1
 
-geolocation: 
+geolocation: 38.7406715,-90.3034495
 
 **Links**
 
@@ -157,7 +158,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: mo-ferguson-2
 
-geolocation: 
+geolocation: 38.7406715,-90.3034495
 
 **Links**
 
@@ -174,11 +175,13 @@ Later updates note that the victim has taken to the hospital and the officer has
 
 The officer has since been fired.
 
+The incident occurred in Dellwood, Missouri, a small St. Louis County town west of Ferguson and Southwest of Florissant. However, Florissant police confirmed a member of their staff struck the individual.
+
 tags: beat, body-cam, drive, kick, non-protest, strike, vehicle
 
 id: mo-florissant-1
 
-geolocation: 
+geolocation: 38.7470515,-90.2771242
 
 **Links**
 
@@ -199,7 +202,7 @@ tags: arrest, baton, less-lethal, mace, pepper-spray, protester, push, shield, s
 
 id: mo-florissant-2
 
-geolocation: 
+geolocation: 38.7984162,-90.3194466
 
 **Links**
 
@@ -219,7 +222,7 @@ tags: arrest, baton, less-lethal, mace, pepper-spray, protester, push, shield, s
 
 id: mo-florissant-4
 
-geolocation: 
+geolocation: 38.7984162,-90.3194466
 
 **Links**
 
@@ -240,7 +243,7 @@ tags: arrest, less-lethal, mace, pepper-ball, pepper-spray, projectile, proteste
 
 id: mo-florissant-3
 
-geolocation: 
+geolocation: 38.7984162,-90.3194466
 
 **Links**
 
