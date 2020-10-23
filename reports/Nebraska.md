@@ -8,7 +8,7 @@ tags: arrest, knee, protester, shove
 
 id: ne-lincoln-1
 
-geolocation: 40.8080063,-96.7098667
+geolocation: 40.8080063, -96.7098667
 
 **Links**
 
@@ -24,7 +24,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: ne-lincoln-2
 
-geolocation: 40.8080063,-96.7098667
+geolocation: 40.8080063, -96.7098667
 
 **Links**
 
@@ -36,11 +36,11 @@ geolocation: 40.8080063,-96.7098667
 
 After a protester threw a firework at police, police shot tear gas and impact munitions. A journalist livestreaming the incident shows a woman bleeding from the face after being shot by police. She states she was shot by a rubber bullet.
 
-tags: less-lethal, projectile, protester, shoot, tear-gas, rubber-bullet
+tags: less-lethal, projectile, protester, rubber-bullet, shoot, tear-gas
 
 id: ne-lincoln-3
 
-geolocation: 40.806950,-96.7062707
+geolocation: 40.806950, -96.7062707
 
 **Links**
 
@@ -58,7 +58,7 @@ tags: less-lethal, mace, pepper-ball, protester, spray
 
 id: ne-omaha-1
 
-geolocation: 41.2597757,-96.0279152
+geolocation: 41.2597757, -96.0279152
 
 **Links**
 
@@ -75,7 +75,7 @@ tags: arrest, journalist, kick, less-lethal, pepper-ball, protester
 
 id: ne-omaha-2
 
-geolocation: 41.2554905,-95.933442
+geolocation: 41.2554905, -95.933442
 
 **Links**
 
@@ -91,7 +91,7 @@ tags: arrest, journalist, less-lethal, projectile, protester, shoot, shove, zip-
 
 id: ne-omaha-3
 
-geolocation: 41.2576981,-95.953845
+geolocation: 41.2576981, -95.953845
 
 **Links**
 
