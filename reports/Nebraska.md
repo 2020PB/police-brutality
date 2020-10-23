@@ -40,7 +40,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas, rubber-bullet
 
 id: ne-lincoln-3
 
-geolocation: 40.80695,-96.7062707
+geolocation: 40.806950,-96.7062707
 
 **Links**
 
@@ -75,7 +75,7 @@ tags: arrest, journalist, kick, less-lethal, pepper-ball, protester
 
 id: ne-omaha-2
 
-geolocation: 1.2554905,-95.933442
+geolocation: 41.2554905,-95.933442
 
 **Links**
 
