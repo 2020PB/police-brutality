@@ -8,7 +8,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-5
 
-geolocation: 39.0408207,-94.587949
+geolocation: 39.0408207, -94.587949
 
 **Links**
 
@@ -24,7 +24,7 @@ tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tear-gas
 
 id: mo-kansascity-3
 
-geolocation: 39.0425846,-94.5880446
+geolocation: 39.0425846, -94.5880446
 
 **Links**
 
@@ -41,7 +41,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-6
 
-geolocation: 39.0452546,-94.588827
+geolocation: 39.0452546, -94.588827
 
 **Links**
 
@@ -57,7 +57,7 @@ tags: child, less-lethal, protester, tear-gas
 
 id: mo-kansascity-1
 
-geolocation: 39.0426191,-94.5875483
+geolocation: 39.0426191, -94.5875483
 
 **Links**
 
@@ -72,7 +72,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-2
 
-geolocation: 39.043128,-94.5882934
+geolocation: 39.043128, -94.5882934
 
 **Links**
 
@@ -88,7 +88,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: mo-kansascity-8
 
-geolocation: 39.0421858,-94.5890322
+geolocation: 39.0421858, -94.5890322
 
 **Links**
 
@@ -124,7 +124,7 @@ tags: less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray
 
 id: mo-kansascity-7
 
-geolocation: 39.0430404,-94.5882485
+geolocation: 39.0430404, -94.5882485
 
 **Links**
 
@@ -141,7 +141,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: mo-ferguson-1
 
-geolocation: 38.7406715,-90.3034495
+geolocation: 38.7406715, -90.3034495
 
 **Links**
 
@@ -158,7 +158,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: mo-ferguson-2
 
-geolocation: 38.7406715,-90.3034495
+geolocation: 38.7406715, -90.3034495
 
 **Links**
 
@@ -181,7 +181,7 @@ tags: beat, body-cam, drive, kick, non-protest, strike, vehicle
 
 id: mo-florissant-1
 
-geolocation: 38.7470515,-90.2771242
+geolocation: 38.7470515, -90.2771242
 
 **Links**
 
@@ -202,7 +202,7 @@ tags: arrest, baton, less-lethal, mace, pepper-spray, protester, push, shield, s
 
 id: mo-florissant-2
 
-geolocation: 38.7984162,-90.3194466
+geolocation: 38.7984162, -90.3194466
 
 **Links**
 
@@ -222,7 +222,7 @@ tags: arrest, baton, less-lethal, mace, pepper-spray, protester, push, shield, s
 
 id: mo-florissant-4
 
-geolocation: 38.7984162,-90.3194466
+geolocation: 38.7984162, -90.3194466
 
 **Links**
 
@@ -243,7 +243,7 @@ tags: arrest, less-lethal, mace, pepper-ball, pepper-spray, projectile, proteste
 
 id: mo-florissant-3
 
-geolocation: 38.7984162,-90.3194466
+geolocation: 38.7984162, -90.3194466
 
 **Links**
 
