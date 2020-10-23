@@ -6958,6 +6958,38 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/poorfp/status/1318247511673335808
 
 
+### DHS officers make violent arrests | October 20th
+
+DHS officers charge protesters on the sidewalk outside the Portland ICE facility to make arrests, shoving several protesters to the ground.
+
+tags: arrest, protester, push, shove
+
+id: or-portland-399
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/AFriendlyDad/status/1318740334541590529
+
+
+### DHS officers make targeted arrests, shoot protesters with pepper balls | October 20th
+
+After several rounds of arrests outside the Portland ICE facility, DHS agents emerge once again to make targeted arrests, firing pepper balls at protesters while they do so.
+
+tags: arrest, less-lethal, pepper-ball, projectile, protester, shoot
+
+id: or-portland-400
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1318815763885551617
+* https://twitter.com/hungrybowtie/status/1318804340849602560
+* https://twitter.com/PDocumentarians/status/1318805643852083212
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
