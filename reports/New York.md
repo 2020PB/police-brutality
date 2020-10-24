@@ -77,7 +77,7 @@ geolocation:
 * https://twitter.com/RexChapman/status/1271832001364979716
 
 
-### Ithaca
+## Ithaca
 
 ### Police pepper spray protesters in dispersal attempt | October 22nd
 
