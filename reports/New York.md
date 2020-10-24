@@ -85,11 +85,11 @@ Protesters gathered outside the Ithaca Police Headquarters on October 22nd. Afte
 
 However, police were seen deploying pepper spray against a group of protesters standing in the street with locked arms. Police aimed the pepper spray at the feet of protesters in an attempt to disperse them.
 
-tags: protester, pepper-spray, spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-ithaca-1
 
-geolocation: 42.4370354,-76.4996632
+geolocation: 42.4370354, -76.4996632
 
 **Links**
 
@@ -1867,11 +1867,11 @@ Footage from a protest that ended at Broadway and Dey St in Lower Manhattan show
 
 Additional video taken from a compilation (0:51-2:04) shows officers using their bikes to push back counter-protesters at a Trump rally. As the officers are shoving protesters, additional officers circle behind protesters and place their bikes in the protesters' paths, tripping them up. Officers then proceed to make arrests.
 
-tags: protester, bike, push, shove, tackle, arrest
+tags: arrest, bike, protester, push, shove, tackle
 
 id: ny-newyorkcity-109
 
-geolocation: 40.7047142,-74.0133129
+geolocation: 40.7047142, -74.0133129
 
 **Links**
 
@@ -1884,11 +1884,11 @@ geolocation: 40.7047142,-74.0133129
 
 At a protest that ended on the steps of the Museum of the American Indian, a protester is seen stepping away from officers. The protester's bike falls and the protester goes to grab it. A plainclothes officer then seizes the protester and is aided by several officers in arresting the protester. The bike is left behind.
 
-tags: protester, arrest
+tags: arrest, protester
 
 id: ny-newyorkcity-110
 
-geolocation: 40.7045406,-74.0137151
+geolocation: 40.7045406, -74.0137151
 
 **Links**
 
