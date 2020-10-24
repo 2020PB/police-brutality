@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-24T14:48:57.849141+00:00
+UPDATED AT: 2020-10-24T14:49:05.874887+00:00
 
 
 # Alabama
@@ -5765,7 +5765,7 @@ tags: baton, beat, journalist, strike
 
 id: mn-minneapolis-21
 
-geolocation: 
+geolocation: 44.9478663, -93.2348835
 
 **Links**
 
@@ -5781,7 +5781,7 @@ tags: abuse-of-power, arrest, protester
 
 id: mn-minneapolis-28
 
-geolocation: 
+geolocation: 44.9413248, -93.2626097
 
 **Links**
 
@@ -5796,7 +5796,7 @@ tags: less-lethal, protester, rubber-bullet, stun-grenade, tear-gas
 
 id: mn-minneapolis-14
 
-geolocation: 
+geolocation: 44.948110, -93.2369906
 
 **Links**
 
@@ -5854,13 +5854,13 @@ geolocation: 44.947897, -93.233858
 
 ### Police drive by spraying | May 30th
 
-While sitting in their cars, the policemen proceed to pepper spray the protesters in a drive-by fashion
+Police officers drive through a crowd of protesters at 5th and Hennepin, pepper spraying protesters out their windows as they pass.
 
 tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-3
 
-geolocation: 
+geolocation: 44.9797273, -93.2724735
 
 **Links**
 
@@ -5920,16 +5920,19 @@ geolocation: 44.961980, -93.277830
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
+The incident occurred in the vicinity of the 5th precinct, but the exact location is unclear. In addition, both Minneapolis Police Department and Minnesota State Police officers were on the scene, but it is unclear who fired the shots.
+
 tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-16
 
-geolocation: 
+geolocation: 44.9467051, -93.2775134
 
 **Links**
 
-* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
+* [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a)
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
+* https://pressfreedomtracker.us/all-incidents/despite-identifying-press-multiple-journalists-shot-projectiles-minneapolis-law-enforcement/
 
 
 ### Camera man shot by police | May 30th
@@ -5975,7 +5978,7 @@ tags: medic, property-destruction
 
 id: mn-minneapolis-25
 
-geolocation: 
+geolocation: 44.9483554, -93.2801132
 
 **Links**
 
@@ -5990,12 +5993,15 @@ tags: abuse-of-power, property-destruction
 
 id: mn-minneapolis-29
 
-geolocation: 
+geolocation: 44.9483554, -93.2801132
 
 **Links**
 
 * https://twitter.com/val_ebertz/status/1266975058230235137
 * https://twitter.com/Jeff_Wagner4/status/1266933139303268353
+* https://twitter.com/val_ebertz/status/1266975058230235137
+* https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
+* https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
 
 
 ### Police pepper spray journalist as she is walking away | May 30th
@@ -6023,7 +6029,7 @@ tags: journalist, push, shove
 
 id: mn-minneapolis-37
 
-geolocation: 
+geolocation: 44.9449902, -93.2778787
 
 **Links**
 
@@ -6034,15 +6040,16 @@ geolocation:
 
 In an attempt to move residents inside, the police fire shots at them.
 
-tags: bystander, less-lethal, pepper-ball, shoot
+tags: bystander, less-lethal, paintball, projectile, shoot
 
 id: mn-minneapolis-2
 
-geolocation: 
+geolocation: 44.9528354, -93.2766137
 
 **Links**
 
 * https://twitter.com/tkerssen/status/1266921821653385225
+* https://www.abc.net.au/news/2020-06-02/minneapolis-woman-shot-at-by-police-during-george-floyd-protests/12310592
 
 
 ### LA Times employee recounts getting shot | May 31st
@@ -6083,21 +6090,18 @@ geolocation:
 
 ### Police slashes tires | May 31st
 
-In the *Mother Jones* article linked below, video footage shows police slashing tires of vehicles on a highway overpass. Additional tweets indicate possible police slashing of cars in a Kmart parking lot.
+In the *Mother Jones* article linked below, video footage shows police slashing tires of vehicles on a highway overpass, believed to be the I-35 W bridge between University and Washington Avenues. Additional tweets indicate possible police slashing of cars in a Kmart parking lot, though these may be from May 30th (see mn-minneapolis-29).
 
 tags: property-destruction
 
 id: mn-minneapolis-8
 
-geolocation: 
+geolocation: 44.9756288, -93.2524958
 
 **Links**
 
 * https://www.motherjones.com/anti-racism-police-protest/2020/06/videos-show-cops-slashing-car-tires-at-protests-in-minneapolis/
 * https://youtu.be/sP7hM_sdpkQ?t=4209
-* https://twitter.com/val_ebertz/status/1266975058230235137
-* https://twitter.com/andrewkimmel/status/1266987126467461120?s=20
-* https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
 * https://lawandcrime.com/george-floyd-death/strategically-deflated-authorities-admit-to-slashing-tires-on-cars-belonging-to-protesters-and-journalists-in-minneapolis/
 
 
@@ -6109,7 +6113,7 @@ tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: mn-minneapolis-9
 
-geolocation: 
+geolocation: 44.9478956, -93.2797332
 
 **Links**
 
@@ -6183,13 +6187,13 @@ geolocation: 44.945920, -93.276684
 
 ### Police stop SUV to drive-by pepper-spray protesters through window | May 31st
 
-Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
+Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W Exit 17C off ramp. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
 tags: drive, less-lethal, pepper-spray, protester, spray, vehicle
 
 id: mn-minneapolis-17
 
-geolocation: 
+geolocation: 44.9751649, -93.2487013
 
 **Links**
 
@@ -6200,11 +6204,13 @@ geolocation:
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
+On May 30th, the medical tent was staged at a Kmart on Nicolet and Lake, and is believed to have been staged there on the 31st as well.
+
 tags: less-lethal, medic, rubber-bullet, shoot
 
 id: mn-minneapolis-18
 
-geolocation: 
+geolocation: 44.948527, -93.2780103
 
 **Links**
 
@@ -6305,11 +6311,12 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: mn-minneapolis-30
 
-geolocation: 
+geolocation: 44.9776884, -93.274012
 
 **Links**
 
 * https://twitter.com/EvryDayEvryWay/status/1298794226033938432
+* [Full stream; 7:30](https://youtu.be/ava1HJ4qIlg?t=450)
 
 
 ### Officer shoots at fleeing protester | August 26th
@@ -6320,11 +6327,12 @@ tags: less-lethal, projectile, protester, shoot
 
 id: mn-minneapolis-31
 
-geolocation: 
+geolocation: 44.9737913, -93.2712205
 
 **Links**
 
 * https://twitter.com/GriffinMalone6/status/1298835525479014400
+* [Full stream](https://youtu.be/ava1HJ4qIlg)
 
 
 
