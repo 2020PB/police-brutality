@@ -193,7 +193,7 @@ tags: arrest, baton, choke, less-lethal, protester, shield, tear-gas, tear-gas-c
 
 id: mi-detroit-10
 
-geolocation: 
+geolocation: 42.4171287, -83.148366
 
 **Links**
 
@@ -209,7 +209,7 @@ tags: arrest, baton, less-lethal, protester, shield, strike, tear-gas
 
 id: mi-detroit-12
 
-geolocation: 
+geolocation: 42.334943, -83.0515963
 
 **Links**
 
@@ -231,7 +231,7 @@ tags: protester, tackle
 
 id: mi-detroit-13
 
-geolocation: 
+geolocation: 42.334943, -83.0515963
 
 **Links**
 
@@ -248,7 +248,7 @@ tags: less-lethal, pepper-spray, protester, shoot, spray, tear-gas, tear-gas-can
 
 id: mi-grandrapids-1
 
-geolocation: 
+geolocation: 42.9632153, -85.6700793
 
 **Links**
 
@@ -268,7 +268,7 @@ tags: body-cam, hide-badge, protester, push, shield, shove
 
 id: mi-grandrapids-2
 
-geolocation: 
+geolocation: 42.9690723, -85.677825
 
 **Links**
 
@@ -288,7 +288,7 @@ tags: arrest, protester, push, shove
 
 id: mi-grandrapids-3
 
-geolocation: 
+geolocation: 42.9632491, -85.6680429
 
 **Links**
 
@@ -307,7 +307,7 @@ tags: less-lethal, pepper-ball, protester, shoot, tear-gas, tear-gas-canister
 
 id: mi-kalamazoo-1
 
-geolocation: 
+geolocation: 42.291586, -85.5850304
 
 **Links**
 
@@ -324,7 +324,7 @@ tags: arrest, less-lethal, protester, tear-gas
 
 id: mi-kalamazoo-2
 
-geolocation: 
+geolocation: 42.291570, -85.5871492
 
 **Links**
 
@@ -342,7 +342,7 @@ tags: arrest, journalist
 
 id: mi-kalamazoo-3
 
-geolocation: 
+geolocation: 42.2923954, -85.5847184
 
 **Links**
 
@@ -359,7 +359,7 @@ tags: less-lethal, pepper-spray, protester, spray, tackle
 
 id: mi-kalamazoo-4
 
-geolocation: 
+geolocation: 42.2916306, -85.5845007
 
 **Links**
 
