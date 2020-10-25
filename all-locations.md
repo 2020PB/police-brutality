@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-24T14:49:05.874887+00:00
+UPDATED AT: 2020-10-25T13:46:42.989730+00:00
 
 
 # Alabama
@@ -6929,6 +6929,27 @@ geolocation:
 * https://twitter.com/RexChapman/status/1271832001364979716
 
 
+## Ithaca
+
+### Police pepper spray protesters in dispersal attempt | October 22nd
+
+Protesters gathered outside the Ithaca Police Headquarters on October 22nd. After protesters allegedly climbed on the building and broke windows, police then allegedly deployed tear gas; neither of these claims have visual confirmation yet.
+
+However, police were seen deploying pepper spray against a group of protesters standing in the street with locked arms. Police aimed the pepper spray at the feet of protesters in an attempt to disperse them.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: ny-ithaca-1
+
+geolocation: 42.4370354, -76.4996632
+
+**Links**
+
+* [Erroneously claims tear gas; this depicts pepper spray](https://twitter.com/AllegedButler/status/1319419729761734656)
+* https://www.ithaca.com/news/ithaca/protesters-arrested-after-clash-with-police/article_bffcbffe-14c4-11eb-ba0e-73766e68958f.html
+* https://cnycentral.com/news/local/local-politician-event-in-ithaca-leads-to-police-using-tear-gas-on-protesters
+
+
 ## Merrick
 
 ### Police charge and arrest peaceful protesters | June 6th
@@ -8690,6 +8711,40 @@ geolocation: 40.6888187, -73.9448449
 **Links**
 
 * https://twitter.com/chrisgelardi/status/1314204080252751880
+
+
+### Police shove protesters with bikes, tackle and arrest them | October 21st
+
+Footage from a protest that ended at Broadway and Dey St in Lower Manhattan shows police officers swarming a protester, tackling them to the ground, and arresting them. The arrest was performed by a combination of plainclothes, white-shirted (denoting high rank), and bike officers.
+
+Additional video taken from a compilation (0:51-2:04) shows officers using their bikes to push back counter-protesters at a Trump rally. As the officers are shoving protesters, additional officers circle behind protesters and place their bikes in the protesters' paths, tripping them up. Officers then proceed to make arrests.
+
+tags: arrest, bike, protester, push, shove, tackle
+
+id: ny-newyorkcity-109
+
+geolocation: 40.7047142, -74.0133129
+
+**Links**
+
+* https://twitter.com/itsa_talia/status/1319035324488687616
+* [0:51-2:04](https://www.youtube.com/watch?v=haxAGejoGTA)
+* [0:51-2:04](https://twitter.com/greg_doucette/status/1319751090317987841)
+
+
+### Officers arrest protester without apparent cause | October 21st
+
+At a protest that ended on the steps of the Museum of the American Indian, a protester is seen stepping away from officers. The protester's bike falls and the protester goes to grab it. A plainclothes officer then seizes the protester and is aided by several officers in arresting the protester. The bike is left behind.
+
+tags: arrest, protester
+
+id: ny-newyorkcity-110
+
+geolocation: 40.7045406, -74.0137151
+
+**Links**
+
+* https://twitter.com/itsa_talia/status/1319035324488687616
 
 
 ## Rochester
