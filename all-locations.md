@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-25T13:46:42.989730+00:00
+UPDATED AT: 2020-10-25T13:47:01.133954+00:00
 
 
 # Alabama
@@ -6603,7 +6603,7 @@ tags: arrest, knee, protester, shove
 
 id: ne-lincoln-1
 
-geolocation: 
+geolocation: 40.8080063, -96.7098667
 
 **Links**
 
@@ -6619,7 +6619,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: ne-lincoln-2
 
-geolocation: 
+geolocation: 40.8080063, -96.7098667
 
 **Links**
 
@@ -6631,11 +6631,11 @@ geolocation:
 
 After a protester threw a firework at police, police shot tear gas and impact munitions. A journalist livestreaming the incident shows a woman bleeding from the face after being shot by police. She states she was shot by a rubber bullet.
 
-tags: less-lethal, projectile, protester, shoot, tear-gas
+tags: less-lethal, projectile, protester, rubber-bullet, shoot, tear-gas
 
 id: ne-lincoln-3
 
-geolocation: 
+geolocation: 40.806950, -96.7062707
 
 **Links**
 
@@ -6645,7 +6645,7 @@ geolocation:
 
 ## Omaha
 
-### Police Mace, shoot pepper bullets at protesters sitting on the ground | May 31st
+### Police mace, shoot pepper bullets at protesters sitting on the ground | May 31st
 
 A bunch of protesters peacefully sitting on the ground were shot at and maced. A group of police officers pushed these civilians on to the ground and hit them.
 
@@ -6653,7 +6653,7 @@ tags: less-lethal, mace, pepper-ball, protester, spray
 
 id: ne-omaha-1
 
-geolocation: 
+geolocation: 41.2597757, -96.0279152
 
 **Links**
 
@@ -6670,7 +6670,7 @@ tags: arrest, journalist, kick, less-lethal, pepper-ball, protester
 
 id: ne-omaha-2
 
-geolocation: 
+geolocation: 41.2554905, -95.933442
 
 **Links**
 
@@ -6686,7 +6686,7 @@ tags: arrest, journalist, less-lethal, projectile, protester, shoot, shove, zip-
 
 id: ne-omaha-3
 
-geolocation: 
+geolocation: 41.2576981, -95.953845
 
 **Links**
 
