@@ -8,7 +8,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: wi-kenosha-1
 
-geolocation: 42.5855286,-87.8243236
+geolocation: 42.5855286, -87.8243236
 
 **Links**
 
@@ -29,7 +29,7 @@ tags: journalist, less-lethal, lrad, projectile, protester, shoot, tear-gas, tea
 
 id: wi-kenosha-2
 
-geolocation: 42.5845595,-87.8229363
+geolocation: 42.5845595, -87.8229363
 
 **Links**
 
@@ -62,7 +62,7 @@ tags: less-lethal, lrad, protester, tear-gas
 
 id: wi-kenosha-4
 
-geolocation: 42.5845595,-87.8229363
+geolocation: 42.5845595, -87.8229363
 
 **Links**
 
@@ -86,7 +86,7 @@ tags: abuse-of-power, arrest, journalist
 
 id: wi-kenosha-6
 
-geolocation: 42.5845595,-87.8229363
+geolocation: 42.5845595, -87.8229363
 
 **Links**
 
@@ -101,7 +101,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: wi-kenosha-5
 
-geolocation: 42.5807922,-87.8218181
+geolocation: 42.5807922, -87.8218181
 
 **Links**
 
@@ -121,7 +121,7 @@ tags: abuse-of-power, arrest, property-destruction, protester
 
 id: wi-kenosha-7
 
-geolocation: 42.6027603,-87.8457037
+geolocation: 42.6027603, -87.8457037
 
 **Links**
 
@@ -140,7 +140,7 @@ tags: protester, spray
 
 id: wi-madison-1
 
-geolocation: 43.0748535,-89.3898311
+geolocation: 43.0748535, -89.3898311
 
 **Links**
 
@@ -157,7 +157,7 @@ tags: journalist, less-lethal, pepper-spray, protester
 
 id: wi-madison-2
 
-geolocation: 43.0747876,-89.3886324
+geolocation: 43.0747876, -89.3886324
 
 **Links**
 
@@ -190,7 +190,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: wi-madison-3
 
-geolocation: 3.0759943,-89.3844939
+geolocation: 3.0759943, -89.3844939
 
 **Links**
 
@@ -205,7 +205,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray, tear-gas
 
 id: wi-madison-4
 
-geolocation: 43.0759943,-89.3844939
+geolocation: 43.0759943, -89.3844939
 
 **Links**
 
@@ -221,7 +221,7 @@ tags: bystander, homeless, less-lethal, tear-gas
 
 id: wi-madison-5
 
-geolocation: 43.0722786,-89.3842245
+geolocation: 43.0722786, -89.3842245
 
 **Links**
 
@@ -236,7 +236,7 @@ tags: less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
 
 id: wi-madison-7
 
-geolocation: 43.0785888,-89.380999
+geolocation: 43.0785888, -89.380999
 
 **Links**
 
@@ -301,7 +301,7 @@ tags: arrest, gas, less-lethal, projectile, protester, shoot
 
 id: wi-milwaukee-3
 
-geolocation: 43.0251122,-87.902409
+geolocation: 43.0251122, -87.902409
 
 **Links**
 
@@ -394,11 +394,11 @@ Footage was taken at the intersection of N 70th Street and W North Avenue in Wau
 
 It is unclear if the individual was related to a protest, but they appear to be wearing a bathrobe, which might suggest they are not prepared for a protest.
 
-tags: bystander, arrest, knee
+tags: arrest, bystander, knee
 
 id: wa-wauwatosa-5
 
-geolocation: 43.0607428,-88.0019335
+geolocation: 43.0607428, -88.0019335
 
 **Links**
 
