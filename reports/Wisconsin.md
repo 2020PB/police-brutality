@@ -234,7 +234,7 @@ A small group of protesters is clustered on a sidewalk. From across the street, 
 
 tags: less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
 
-id: wi-madison-6
+id: wi-madison-7
 
 geolocation: 43.0785888,-89.380999
 
