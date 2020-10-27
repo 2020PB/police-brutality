@@ -8,7 +8,7 @@ tags: foam-bullet, journalist, less-lethal, protester, shoot, tear-gas
 
 id: nm-albuquerque-1
 
-geolocation: 
+geolocation: 35.0835569, -106.6518393
 
 **Links**
 
