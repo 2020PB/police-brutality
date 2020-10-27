@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-27T18:33:02.680246+00:00
+UPDATED AT: 2020-10-27T18:33:23.198451+00:00
 
 
 # Alabama
@@ -6844,7 +6844,7 @@ tags: foam-bullet, journalist, less-lethal, protester, shoot, tear-gas
 
 id: nm-albuquerque-1
 
-geolocation: 
+geolocation: 35.0835569, -106.6518393
 
 **Links**
 
