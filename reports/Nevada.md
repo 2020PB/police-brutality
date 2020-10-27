@@ -8,7 +8,7 @@ tags: arrest, protester
 
 id: nv-lasvegas-3
 
-geolocation: 36.1146208,-115.171627
+geolocation: 36.1146208, -115.171627
 
 **Links**
 
@@ -23,7 +23,7 @@ tags: protester, shove, strike, throw
 
 id: nv-lasvegas-4
 
-geolocation: 36.1149508,-115.173056
+geolocation: 36.1149508, -115.173056
 
 **Links**
 
@@ -38,7 +38,7 @@ tags: arrest, journalist, kick, protester, shove, strike, threaten
 
 id: nv-lasvegas-2
 
-geolocation: 36.1141356,-115.1639253
+geolocation: 36.1141356, -115.1639253
 
 **Links**
 
@@ -58,7 +58,7 @@ tags: arrest, inhumane-treatment, protester
 
 id: nv-lasvegas-1
 
-geolocation: 36.1715062,-115.1463527
+geolocation: 36.1715062, -115.1463527
 
 **Links**
 
@@ -74,7 +74,7 @@ tags: arrest, protester, shove, vehicle
 
 id: nv-lasvegas-5
 
-geolocation: 36.1200251,-115.1725831
+geolocation: 36.1200251, -115.1725831
 
 **Links**
 
@@ -90,7 +90,7 @@ tags: kick, protester, shove, tackle, throw
 
 id: nv-lasvegas-6
 
-geolocation: 36.1175823,-115.1730403
+geolocation: 36.1175823, -115.1730403
 
 **Links**
 
