@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-27T18:32:49.598798+00:00
+UPDATED AT: 2020-10-27T18:33:02.680246+00:00
 
 
 # Alabama
@@ -6704,7 +6704,7 @@ geolocation: 41.2576981, -95.953845
 
 ## Las Vegas
 
-### Police arrest a man for speaking at them from a distance. | May 29th
+### Police arrest a man for speaking at them from a distance | May 29th
 
 Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
@@ -6712,7 +6712,7 @@ tags: arrest, protester
 
 id: nv-lasvegas-3
 
-geolocation: 
+geolocation: 36.1146208, -115.171627
 
 **Links**
 
@@ -6727,7 +6727,7 @@ tags: protester, shove, strike, throw
 
 id: nv-lasvegas-4
 
-geolocation: 
+geolocation: 36.1149508, -115.173056
 
 **Links**
 
@@ -6742,23 +6742,27 @@ tags: arrest, journalist, kick, protester, shove, strike, threaten
 
 id: nv-lasvegas-2
 
-geolocation: 36.117644, -115.173091
+geolocation: 36.1141356, -115.1639253
 
 **Links**
 
 * https://twitter.com/chadloder/status/1267168204863926274
 * https://twitter.com/rickytwrites/status/1266596766021038080
+* https://twitter.com/LasVegasLocally/status/1266799993987280896
+* https://pressfreedomtracker.us/all-incidents/photojournalist-arrested-covering-las-vegas-protest/
 
 
 ### Police shove and drag man through the street | May 31st
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
 
+This occurred somewhere in the Fremont East Entertainment District.
+
 tags: arrest, inhumane-treatment, protester
 
 id: nv-lasvegas-1
 
-geolocation: 
+geolocation: 36.1715062, -115.1463527
 
 **Links**
 
@@ -6774,7 +6778,7 @@ tags: arrest, protester, shove, vehicle
 
 id: nv-lasvegas-5
 
-geolocation: 
+geolocation: 36.1200251, -115.1725831
 
 **Links**
 
@@ -6790,7 +6794,7 @@ tags: kick, protester, shove, tackle, throw
 
 id: nv-lasvegas-6
 
-geolocation: 
+geolocation: 36.1175823, -115.1730403
 
 **Links**
 
