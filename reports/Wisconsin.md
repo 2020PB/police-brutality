@@ -8,7 +8,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: wi-kenosha-1
 
-geolocation: 
+geolocation: 42.5855286, -87.8243236
 
 **Links**
 
@@ -29,7 +29,7 @@ tags: journalist, less-lethal, lrad, projectile, protester, shoot, tear-gas, tea
 
 id: wi-kenosha-2
 
-geolocation: 
+geolocation: 42.5845595, -87.8229363
 
 **Links**
 
@@ -54,21 +54,6 @@ geolocation:
 * https://twitter.com/RichieMcGinniss/status/1298101016995549185
 
 
-### Police fire tear gas, pepper spray and impact munitions at protesters on the sidewalk | August 24th
-
-After pushing protesters away from the courthouse, a small group of protesters is clustered on a sidewalk. From across the street, police fire tear gas and impact munitions, believed to be sponge rounds. Police also discharge pepper spray.
-
-tags: less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
-
-id: wi-kenosha-3
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/ehamer7/status/1298135090682265601
-
-
 ### Police and National Guard use tear gas and LRAD to disperse protesters | August 25th
 
 Protesters gathered outside the courthouse in Kenosha, rattling a fence erected that day. Police gave a dispersal order. Protesters did not disperse. Police then deployed tear gas and the LRAD alarm to disperse protesters.
@@ -77,7 +62,7 @@ tags: less-lethal, lrad, protester, tear-gas
 
 id: wi-kenosha-4
 
-geolocation: 
+geolocation: 42.5845595, -87.8229363
 
 **Links**
 
@@ -101,7 +86,7 @@ tags: abuse-of-power, arrest, journalist
 
 id: wi-kenosha-6
 
-geolocation: 
+geolocation: 42.5845595, -87.8229363
 
 **Links**
 
@@ -116,7 +101,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: wi-kenosha-5
 
-geolocation: 
+geolocation: 42.5807922, -87.8218181
 
 **Links**
 
@@ -136,7 +121,7 @@ tags: abuse-of-power, arrest, property-destruction, protester
 
 id: wi-kenosha-7
 
-geolocation: 
+geolocation: 42.6027603, -87.8457037
 
 **Links**
 
@@ -155,7 +140,7 @@ tags: protester, spray
 
 id: wi-madison-1
 
-geolocation: 
+geolocation: 43.0748535, -89.3898311
 
 **Links**
 
@@ -172,7 +157,7 @@ tags: journalist, less-lethal, pepper-spray, protester
 
 id: wi-madison-2
 
-geolocation: 
+geolocation: 43.0747876, -89.3886324
 
 **Links**
 
@@ -205,7 +190,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: wi-madison-3
 
-geolocation: 
+geolocation: 3.0759943, -89.3844939
 
 **Links**
 
@@ -214,13 +199,13 @@ geolocation:
 
 ### Police pepper spray and tear gas protester | August 24th
 
-Around 1 AM on August 25th, police arrest a protester in a park. Other protesters approach the police line, appearing to stop several feet away. Police then pepper spray these protesters. Police then deployed tear gas shortly after.
+Around 1 AM on August 25th, police arrest a protester on the Capitol building lawn. Other protesters approach the police line, appearing to stop several feet away. Police then pepper spray these protesters. Police then deployed tear gas shortly after.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray, tear-gas
 
 id: wi-madison-4
 
-geolocation: 
+geolocation: 43.0759943, -89.3844939
 
 **Links**
 
@@ -236,11 +221,26 @@ tags: bystander, homeless, less-lethal, tear-gas
 
 id: wi-madison-5
 
-geolocation: 
+geolocation: 43.0722786, -89.3842245
 
 **Links**
 
 * https://twitter.com/isthmus/status/1298145645665099776
+
+
+### Police fire tear gas, pepper spray and impact munitions at protesters on the sidewalk | August 24th
+
+A small group of protesters is clustered on a sidewalk. From across the street, police fire tear gas and impact munitions, believed to be sponge rounds. Police also discharge pepper spray.
+
+tags: less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
+
+id: wi-madison-7
+
+geolocation: 43.0785888, -89.380999
+
+**Links**
+
+* https://twitter.com/ehamer7/status/1298135090682265601
 
 
 ## Milwaukee
@@ -301,7 +301,7 @@ tags: arrest, gas, less-lethal, projectile, protester, shoot
 
 id: wi-milwaukee-3
 
-geolocation: 
+geolocation: 43.0251122, -87.902409
 
 **Links**
 
@@ -386,6 +386,25 @@ geolocation: 43.0608482, -88.007371
 * https://twitter.com/BenJordan3/status/1314735112060309509
 * https://twitter.com/arson_ist/status/1314933427968389121
 * https://www.wisn.com/article/police-use-tear-gas-to-disperse-protesters-in-wauwatosa/34333420#
+
+
+### Police violently arrest man in bathrobe for curfew violation | October 9th
+
+Footage was taken at the intersection of N 70th Street and W North Avenue in Wauwatosa, Wisconsin. Officers in a passing car yell at an individual on the sidewalk to go inside. The officer clarifies that the filmer is exempt, as "ACLU is fine." The officer then proceeds to arrest the individual on the sidewalk, flipping the individual over his knee, and kneeling on his back. Several officers come to aid in making the arrest. Officers continue to tell the individual to stop resisting, though the individual is pinned to the ground.
+
+It is unclear if the individual was related to a protest, but they appear to be wearing a bathrobe, which might suggest they are not prepared for a protest.
+
+tags: arrest, bystander, knee
+
+id: wa-wauwatosa-5
+
+geolocation: 43.0607428, -88.0019335
+
+**Links**
+
+* https://www.instagram.com/tv/CGsFmGdn80E/
+* https://twitter.com/greg_doucette/status/1319746640480210946
+* https://twitter.com/Fascist_Fighter/status/1319696152606904321
 
 
 ### Police tackle a protester on a bike | October 13th
