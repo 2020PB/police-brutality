@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-27T18:33:23.198451+00:00
+UPDATED AT: 2020-10-27T21:05:01.718003+00:00
 
 
 # Alabama
@@ -6919,7 +6919,7 @@ geolocation: 42.887420, -78.877836
 
 ## East Meadow
 
-### Police officer stops abrubtly so protester bumps into him; police arrest him after this | June 13th
+### Police officer stops abrubtly so protester bumps into him; police arrest him after this | June 12th
 
 A protester is seen walk side-by-side with an officer. The officer steps in front of him and stops such that the protester lightly grazes the officer.
 
@@ -6967,7 +6967,7 @@ tags: arrest, protester
 
 id: ny-merrick-1
 
-geolocation: 
+geolocation: 40.688831, -73.5624529
 
 **Links**
 
@@ -6986,7 +6986,7 @@ tags: arrest, baton, grab, protester, shove, strike
 
 id: ny-newyorkcity-55
 
-geolocation: 
+geolocation: 40.7365484, -73.991144
 
 **Links**
 
@@ -7001,7 +7001,7 @@ tags: arrest, grab, protester, push, shove
 
 id: ny-newyorkcity-56
 
-geolocation: 
+geolocation: 40.7360037, -73.9936554
 
 **Links**
 
@@ -7020,7 +7020,7 @@ tags: protester, shove, throw
 
 id: ny-newyorkcity-1
 
-geolocation: 
+geolocation: 40.6839626, -73.9772962
 
 **Links**
 
@@ -7054,7 +7054,7 @@ tags: less-lethal, pepper-spray, politician, protester, spray
 
 id: ny-newyorkcity-3
 
-geolocation: 
+geolocation: 40.6839626, -73.9772962
 
 **Links**
 
@@ -7070,7 +7070,7 @@ tags: baton, protester, shove
 
 id: ny-newyorkcity-58
 
-geolocation: 
+geolocation: 40.6883824, -73.9471136
 
 **Links**
 
@@ -7085,7 +7085,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-59
 
-geolocation: 
+geolocation: 40.6830306, -73.9610349
 
 **Links**
 
@@ -7100,7 +7100,7 @@ tags: grab, protester, shove
 
 id: ny-newyorkcity-60
 
-geolocation: 
+geolocation: 40.6888887, -73.962207
 
 **Links**
 
@@ -7115,7 +7115,7 @@ tags: arrest, protester, shove, tackle
 
 id: ny-newyorkcity-61
 
-geolocation: 
+geolocation: 40.6805929, -73.9795787
 
 **Links**
 
@@ -7135,7 +7135,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-62
 
-geolocation: 
+geolocation: 40.6888887, -73.962207
 
 **Links**
 
@@ -7150,7 +7150,7 @@ tags: protester, punch, strike
 
 id: ny-newyorkcity-63
 
-geolocation: 
+geolocation: 40.6831133, -73.978948
 
 **Links**
 
@@ -7165,7 +7165,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-64
 
-geolocation: 
+geolocation: 40.6903649, -73.9624829
 
 **Links**
 
@@ -7180,7 +7180,7 @@ tags: baton, beat, protester, push, shove
 
 id: ny-newyorkcity-5
 
-geolocation: 
+geolocation: 40.6839626, -73.9772962
 
 **Links**
 
@@ -7195,7 +7195,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-6
 
-geolocation: 
+geolocation: 40.6944043, -74.0091173
 
 **Links**
 
