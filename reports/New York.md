@@ -1899,11 +1899,11 @@ geolocation: 40.7045406, -74.0137151
 
 Police approach a vehicle near Atlantic Avenue and Smith Street in Brooklyn. The driver begins to drive away, but police surround the vehicle, striking it with batons. Officers then break several of the vehicle's windows. The driver then speeds away unimpeded.
 
-tags: bystander, property-destruction, strike, baton
+tags: baton, bystander, property-destruction, strike
 
 id: ny-newyorkcity-111
 
-geolocation: 40.6887408,-73.9894258
+geolocation: 40.6887408, -73.9894258
 
 **Links**
 
