@@ -314,6 +314,111 @@ geolocation:
 * https://twitter.com/samanthamelamed/status/1275524750316535810
 
 
+### Police officer shoves protester to the ground | October 27th
+
+Footage from a protest in West Philadelphia (intersection of Market and 52nd Streets) shows a police officer running up to a protester on the sidewalk and using his baton to shove the protester to the ground.
+
+tags: protester, push, shove, baton
+
+id: pa-philadelphia-15
+
+geolocation: 39.9599534,-75.2249261
+
+**Links**
+
+* https://twitter.com/Clyatt/status/1321281954579279873
+
+
+### Officer slams protester to the ground during arrest | October 27th
+
+At a protest in West Philadelphia, several police officers arrest a protester for unknown cause. One officer grabs the protester around the waist, lifts them up, and slams them to the ground.
+
+Location is approximate.
+
+tags: protester, grab, throw, arrest
+
+id: pa-philadelphia-16
+
+geolocation: 39.953632,-75.2284997
+
+**Links**
+
+* https://twitter.com/RobertKlemko/status/1321279977300647937
+
+
+### Police push, shove, and strike protesters with batons | October 27th
+
+Police are seen shoving a protester and striking him with batons before knocking him to the ground. During the exchange, an object is thrown by protesters, striking one officer; however, this appears to occur in an attempt to free the protester from police violence. It appears that the protester is then arrested as additional officers form a barrier.
+
+This appears to have occurred during a push on Pine street, between 52nd and 55th streets. In additional footage, officers can be seen shoving protesters to the ground.
+
+tags: protester, push, shove, strike, baton
+
+id: pa-philadelphia-17
+
+geolocation: 39.953632,-75.2284997
+
+**Links**
+
+* https://twitter.com/StatusCoup/status/1321264026299584514
+* https://twitter.com/JPeters2100/status/1321263829951590406
+
+
+### Police break car windows, pull passengers from vehicle, and beat them | October 27th
+
+Philadelphia police approach a car in the street, beating it with their batons. Officers then smash out the driver side window before opening the door, beating the driver and front passenger with batons. There appeared to be a child in the car as well.
+
+Location is approximate.
+
+tags: property-destruction, bystander, beat, strike, baton
+
+id: pa-philadelphia-18
+
+geolocation: 39.954587,-75.2281502
+
+**Links**
+
+* https://twitter.com/chadloder/status/1321274917023674368
+* https://twitter.com/berniebromanny/status/1321275608186408963
+* https://www.reddit.com/r/PublicFreakout/comments/jjhuiv/gang_of_philadelphia_police_officers_swarm_car/
+
+
+### Officer pins woman to the ground and punches her | October 27th
+
+At a protest near 52nd and Spruce in West Philadelphia, an officer is seen pinning a woman to the ground. The officer then punches the woman repeatedly to subdue her. She does not appear to be resisting in any way.
+
+Location is approximate.
+
+tags: protester, punch, beat, tackle
+
+id: pa-philadelphia-19
+
+geolocation: 39.954587,-75.2281502
+
+**Links**
+
+* https://twitter.com/RaquelEvita/status/1321078695080185856
+* https://www.instagram.com/p/CG1U-azH4zV/
+
+
+### Police officers strike protesters with batons | October 27th
+
+At a protest near 52nd and Spruce in West Philadelphia, police are seen slashing at protesters with their batons. It should be noted that most departmental rules of force specify that batons should only be used to shove, except in life-threatening situations.
+
+Location is approximate.
+
+tags: protester, strike, baton
+
+id: pa-philadelphia-20
+
+geolocation: 39.954587,-75.2281502
+
+**Links**
+
+* https://twitter.com/xxxtarynxx/status/1320925136573313025
+* https://twitter.com/greg_doucette/status/1321094598622674945
+
+
 ## Pittsburgh
 
 ### Police tear-gas, shoot and arrest protester confused by contradicting police instructions | May 30th
@@ -445,11 +550,6 @@ geolocation:
 
 A protest in Pittsburgh faced off with police when protesters stood at the edge of a sidewalk, while police stood in the road. Police then pushed protesters from the sidewalk into the park. Protesters passively resisted the shoving and were pepper sprayed.
 
-
-
-
-https://twitter.com/csnyderj/status/1296275426059472902
-
 tags: baton, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: pa-pittsburgh-8
@@ -460,4 +560,4 @@ geolocation:
 
 * https://twitter.com/csnyderj/status/1296291561622429696
 * https://twitter.com/csnyderj/status/1296292637738176512
-
+* https://twitter.com/csnyderj/status/1296275426059472902
