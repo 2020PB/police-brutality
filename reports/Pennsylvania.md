@@ -318,11 +318,11 @@ geolocation:
 
 Footage from a protest in West Philadelphia (intersection of Market and 52nd Streets) shows a police officer running up to a protester on the sidewalk and using his baton to shove the protester to the ground.
 
-tags: protester, push, shove, baton
+tags: baton, protester, push, shove
 
 id: pa-philadelphia-15
 
-geolocation: 39.9599534,-75.2249261
+geolocation: 39.9599534, -75.2249261
 
 **Links**
 
@@ -335,11 +335,11 @@ At a protest in West Philadelphia, several police officers arrest a protester fo
 
 Location is approximate.
 
-tags: protester, grab, throw, arrest
+tags: arrest, grab, protester, throw
 
 id: pa-philadelphia-16
 
-geolocation: 39.953632,-75.2284997
+geolocation: 39.953632, -75.2284997
 
 **Links**
 
@@ -352,11 +352,11 @@ Police are seen shoving a protester and striking him with batons before knocking
 
 This appears to have occurred during a push on Pine street, between 52nd and 55th streets. In additional footage, officers can be seen shoving protesters to the ground.
 
-tags: protester, push, shove, strike, baton
+tags: baton, protester, push, shove, strike
 
 id: pa-philadelphia-17
 
-geolocation: 39.953632,-75.2284997
+geolocation: 39.953632, -75.2284997
 
 **Links**
 
@@ -370,11 +370,11 @@ Philadelphia police approach a car in the street, beating it with their batons. 
 
 Location is approximate.
 
-tags: property-destruction, bystander, beat, strike, baton
+tags: baton, beat, bystander, property-destruction, strike
 
 id: pa-philadelphia-18
 
-geolocation: 39.954587,-75.2281502
+geolocation: 39.954587, -75.2281502
 
 **Links**
 
@@ -389,11 +389,11 @@ At a protest near 52nd and Spruce in West Philadelphia, an officer is seen pinni
 
 Location is approximate.
 
-tags: protester, punch, beat, tackle
+tags: beat, protester, punch, tackle
 
 id: pa-philadelphia-19
 
-geolocation: 39.954587,-75.2281502
+geolocation: 39.954587, -75.2281502
 
 **Links**
 
@@ -407,11 +407,11 @@ At a protest near 52nd and Spruce in West Philadelphia, police are seen slashing
 
 Location is approximate.
 
-tags: protester, strike, baton
+tags: baton, protester, strike
 
 id: pa-philadelphia-20
 
-geolocation: 39.954587,-75.2281502
+geolocation: 39.954587, -75.2281502
 
 **Links**
 
@@ -561,3 +561,4 @@ geolocation:
 * https://twitter.com/csnyderj/status/1296291561622429696
 * https://twitter.com/csnyderj/status/1296292637738176512
 * https://twitter.com/csnyderj/status/1296275426059472902
+
