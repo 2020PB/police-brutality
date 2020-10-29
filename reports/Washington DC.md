@@ -665,3 +665,82 @@ geolocation: 38.889484, -77.035278
 
 * https://twitter.com/rawsmedia/status/1312447763854974976
 
+
+### Police pepper spray protesters after one protester splashes water | October 27th
+
+At a protest near the 4th precinct, a protester throws water at an officer. The officer then responds by discharging pepper spray at the entire crowd, including the mother of Karon Hylton, the young man killed in a chase with police over his lack of helmet. One user alleges Karon Hylton's father was pepper sprayed as well.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: dc-dc-41
+
+geolocation: 38.961307, -77.0280925
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1321332555656953857
+* https://twitter.com/TSand83/status/1321262723552944129
+* https://twitter.com/SS_Capo/status/1321248119015804928
+
+
+### Stun grenade explodes near reporter's head | October 27th
+
+In an incident that appears to have occurred near a Walmart by the 4th Police Precinct, a journalist is seen standing close to a police riot line. A stun grenade then whizzes by the journalists head, exploding near him.
+
+tags: journalist, less-lethal, stun-grenade
+
+id: dc-dc-42
+
+geolocation: 38.961307, -77.0280925
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1321252001737572356
+
+
+### Police pepper spray crowd after protesters yell at officers | October 27th
+
+In an incident that appears to occur outside the 4th District Police Station in Washington D.C., several protesters approach police while yelling. Police then discharge pepper spray without warning.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: dc-dc-43
+
+geolocation: 38.9626774, -77.0274563
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1321297567976751108
+
+
+### Police pepper spray crowd after protester yells at officers | October 27th
+
+At a protest near the 4th precinct, a protester is seen yelling at police. Police then discharge pepper spray at him and other protesters.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: dc-dc-44
+
+geolocation: 38.961307, -77.0280925
+
+**Links**
+
+* https://twitter.com/ltrain87x/status/1321247689904922624
+
+
+### Police deploy tear gas and stun grenades | October 27th
+
+Footage shows tear gas and stun grenades were deployed outside the 4th precinct in Washington, D.C. Several bystander vehicles appear to have been caught in the gas.
+
+tags: less-lethal, protester, stun-grenade, tear-gas
+
+id: dc-dc-45
+
+geolocation: 38.9609143, -77.0279237
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1321241424847929350
+* https://twitter.com/rawsmedia/status/1321245195371978755
+* https://twitter.com/rawsmedia/status/1321246974914580480
+
