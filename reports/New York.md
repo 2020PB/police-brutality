@@ -1912,6 +1912,7 @@ geolocation: 40.6887408, -73.9894258
 * https://twitter.com/greg_doucette/status/1321334416787034114
 * https://www.amny.com/news/30-arrested-as-downtown-brooklyn-protest-leads-to-chaos/
 
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
