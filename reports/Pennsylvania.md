@@ -374,7 +374,7 @@ tags: baton, beat, bystander, property-destruction, strike
 
 id: pa-philadelphia-18
 
-geolocation: 39.9585788,-75.2261555
+geolocation: 39.9585788, -75.2261555
 
 **Links**
 
