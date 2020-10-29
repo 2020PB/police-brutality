@@ -1895,6 +1895,24 @@ geolocation: 40.7045406, -74.0137151
 * https://twitter.com/itsa_talia/status/1319035324488687616
 
 
+### Officers attack vehicle | October 27th
+
+Police approach a vehicle near Atlantic Avenue and Smith Street in Brooklyn. The driver begins to drive away, but police surround the vehicle, striking it with batons. Officers then break several of the vehicle's windows. The driver then speeds away unimpeded. A local news report states the vehicle had Taxi and Limousine Commission plates.
+
+tags: baton, bystander, property-destruction, strike
+
+id: ny-newyorkcity-111
+
+geolocation: 40.6887408, -73.9894258
+
+**Links**
+
+* https://twitter.com/itsa_talia/status/1321286102028849152
+* https://twitter.com/ScooterCasterNY/status/1321299978418032642
+* https://twitter.com/greg_doucette/status/1321334416787034114
+* https://www.amny.com/news/30-arrested-as-downtown-brooklyn-protest-leads-to-chaos/
+
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
