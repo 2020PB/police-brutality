@@ -1178,7 +1178,7 @@ tags: arrest, baton, beat, journalist, protester, shove, strike, throw
 
 id: ny-newyorkcity-23
 
-geolocation: 40.6656956,-73.9509033
+geolocation: 40.6656956, -73.9509033
 
 **Links**
 
@@ -1196,7 +1196,7 @@ tags: arrest, baton, choke, protester, strike
 
 id: ny-newyorkcity-24
 
-geolocation: 40.693804,-73.9905544
+geolocation: 40.693804, -73.9905544
 
 **Links**
 
@@ -1215,7 +1215,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, protester
 
 id: ny-newyorkcity-37
 
-geolocation: 40.7120659,-74.004574
+geolocation: 40.7120659, -74.004574
 
 **Links**
 
@@ -1236,7 +1236,7 @@ tags: abuse-of-power, arrest, bystander
 
 id: ny-newyorkcity-38
 
-geolocation: 40.7993739,-73.961277
+geolocation: 40.7993739, -73.961277
 
 **Links**
 
@@ -1260,7 +1260,7 @@ tags: arrest, baton, beat, bystander, inhumane-treatment, racial-profiling, zip-
 
 id: ny-newyorkcity-39
 
-geolocation: 0.6690594,-73.9472662
+geolocation: 0.6690594, -73.9472662
 
 **Links**
 
