@@ -796,3 +796,17 @@ geolocation: 38.9610023, -77.030211
 * https://twitter.com/rawsmedia/status/1321679662402146304
 * https://twitter.com/FordFischer/status/1321905940086534144
 
+
+### Police pepper spray crowd of protesters | October 28th
+
+Footage taken at the entrance to the 4th precinct in D.C. shows a scuffle between protesters and police. Police then blanket the crowd with pepper spray.
+
+tags: protester, pepper-spray, spray, less-lethal
+
+id: dc-dc-49
+
+geolocation: 38.9624407,-77.0286733
+
+**Links**
+
+* https://twitter.com/FordFischer/status/1321905855281958913
