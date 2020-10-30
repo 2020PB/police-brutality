@@ -6996,11 +6996,11 @@ At a protest outside the ICE facility in Portland, DHS agents began firing tear 
 
 The volume of tear gas in the neighborhood raises some longstanding concerns held by protesters about the safety of local residents during these protests.
 
-tags: protester, tear-gas, stun-grenade, shoot, projectile, less-lethal
+tags: less-lethal, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-401
 
-geolocation: 45.4939191,-122.6721446
+geolocation: 45.4939191, -122.6721446
 
 **Links**
 
@@ -7028,13 +7028,13 @@ geolocation: 45.4939191,-122.6721446
 
 After retreating back into the ICE facility once, DHS agents emerge and push protesters into the street, where agents fire a second round of tear gas and impact munitions.
 
-tags: protester, tear-gas, shoot, projectile, less-lethal
+tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-402
 
-geolocation: 45.493797,-122.6728732
+geolocation: 45.493797, -122.6728732
 
-**Links** 
+**Links**
 
 * https://twitter.com/BaghdadBrian/status/1321736048875982848
 * https://twitter.com/BaghdadBrian/status/1321743599063609346
@@ -7047,11 +7047,11 @@ geolocation: 45.493797,-122.6728732
 
 DHS agents charge out of the ICE facility and tackle a protester. She was taken away in an ambulance and later posted that her ribs had been injured but she left the hospital, feeling well enough to go home.
 
-tags: protester, tackle, arrest
+tags: arrest, protester, tackle
 
 id: or-portland-403
 
-geolocation: 45.493797,-122.6728732
+geolocation: 45.493797, -122.6728732
 
 **Links**
 
