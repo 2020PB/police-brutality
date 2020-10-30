@@ -2004,7 +2004,7 @@ tags: journalist, less-lethal, projectile, protester, tear-gas
 
 id: ny-rochester-5
 
-geolocation: 43.1545488,-77.6141816,
+geolocation: 43.1545488,-77.6141816
 
 **Links**
 
