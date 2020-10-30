@@ -1282,7 +1282,7 @@ tags: abuse-of-power, arrest, legal-observer
 
 id: ny-newyorkcity-40
 
-geolocation: 40.806283,-73.9223574
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
@@ -1303,7 +1303,7 @@ tags: arrest, baton, beat, less-lethal, pepper-spray, pregnant, protester, shiel
 
 id: ny-newyorkcity-25
 
-geolocation: 40.806283,-73.9223574
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
@@ -1325,7 +1325,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, medic
 
 id: ny-newyorkcity-47
 
-geolocation: 40.8072338,-73.920519
+geolocation: 40.8072338, -73.920519
 
 **Links**
 
@@ -1373,7 +1373,7 @@ tags: abuse-of-power, hide-badge
 
 id: ny-newyorkcity-46
 
-geolocation: 40.6976763,-73.992832
+geolocation: 40.6976763, -73.992832
 
 **Links**
 
@@ -1388,7 +1388,7 @@ tags: grab, protester, shove, throw
 
 id: ny-newyorkcity-65
 
-geolocation: 40.6830473,-73.9669762
+geolocation: 40.6830473, -73.9669762
 
 **Links**
 
@@ -1403,7 +1403,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-66
 
-geolocation: 40.6997763,-73.9522988
+geolocation: 40.6997763, -73.9522988
 
 **Links**
 
@@ -1418,7 +1418,7 @@ tags: arrest, choke, protester, punch, shove, strike
 
 id: ny-newyorkcity-67
 
-geolocation: 40.806283,-73.9223574
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
@@ -1433,7 +1433,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-68
 
-geolocation: 40.806283,-73.9223574
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
@@ -1448,7 +1448,7 @@ tags: arrest, protester, punch
 
 id: ny-newyorkcity-69
 
-geolocation: 40.7019419,-73.9579104
+geolocation: 40.7019419, -73.9579104
 
 **Links**
 
@@ -1463,7 +1463,7 @@ tags: grab, protester, push, shove
 
 id: ny-newyorkcity-70
 
-geolocation: 40.6830473,-73.9669762
+geolocation: 40.6830473, -73.9669762
 
 **Links**
 
@@ -1480,7 +1480,7 @@ tags: baton, protester, push, shove
 
 id: ny-newyorkcity-101
 
-geolocation: 40.6941007,-73.9905591
+geolocation: 40.6941007, -73.9905591
 
 **Links**
 
@@ -1495,7 +1495,7 @@ tags: bike, protester, push, shove
 
 id: ny-newyorkcity-41
 
-geolocation: 40.666299,-73.9530244
+geolocation: 40.666299, -73.9530244
 
 **Links**
 
@@ -1510,7 +1510,7 @@ tags: arrest, beat, protester, punch, strike, tackle
 
 id: ny-newyorkcity-26
 
-geolocation: 40.6982906,-73.9848027
+geolocation: 40.6982906, -73.9848027
 
 **Links**
 
@@ -1532,7 +1532,7 @@ tags: arrest, baton, beat, hide-badge, less-lethal, lgbtq+, pepper-spray, protes
 
 id: ny-newyorkcity-49
 
-geolocation: 40.7316366,-73.9991034
+geolocation: 40.7316366, -73.9991034
 
 **Links**
 
@@ -1553,7 +1553,7 @@ tags: baton, protester, shove, strike
 
 id: ny-newyorkcity-51
 
-geolocation: 40.7322033,-73.9986267
+geolocation: 40.7322033, -73.9986267
 
 **Links**
 
@@ -1568,7 +1568,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-52
 
-geolocation: 40.7322138,-73.9986388
+geolocation: 40.7322138, -73.9986388
 
 **Links**
 
@@ -1591,7 +1591,7 @@ tags: arrest, baton, beat, choke, hide-badge, protester, shove, strike, zip-tie
 
 id: ny-newyorkcity-50
 
-geolocation: 40.7124182,-74.0087051
+geolocation: 40.7124182, -74.0087051
 
 **Links**
 
@@ -1609,7 +1609,7 @@ tags: arrest, grab, less-lethal, protester, push, shove, tase, taser
 
 id: ny-newyorkcity-53
 
-geolocation: 40.6355789,-74.0223473
+geolocation: 40.6355789, -74.0223473
 
 **Links**
 
@@ -1626,7 +1626,7 @@ tags: bike, protester, shove
 
 id: ny-newyorkcity-54
 
-geolocation: 40.6355789,-74.0223473
+geolocation: 40.6355789, -74.0223473
 
 **Links**
 
@@ -1641,7 +1641,7 @@ tags: arrest, inhumane-treatment, knee, shove, strike, tackle
 
 id: ny-newyorkcity-94
 
-geolocation: 40.7058134,-73.9981622
+geolocation: 40.7058134, -73.9981622
 
 **Links**
 
@@ -1659,7 +1659,7 @@ tags: abuse-of-power, arrest, protester, punch, tackle
 
 id: ny-newyorkcity-96
 
-geolocation: 40.7718347,-73.7698317
+geolocation: 40.7718347, -73.7698317
 
 **Links**
 
@@ -1679,7 +1679,7 @@ tags: arrest, homeless, protester
 
 id: ny-newyorkcity-95
 
-geolocation: 40.7124182,-74.0087051
+geolocation: 40.7124182, -74.0087051
 
 **Links**
 
@@ -1696,7 +1696,7 @@ tags: arrest, baton, beat, bike, protester, shove, strike
 
 id: ny-newyorkcity-99
 
-geolocation: 40.7136898,-74.0053181
+geolocation: 40.7136898, -74.0053181
 
 **Links**
 
@@ -1711,7 +1711,7 @@ tags: abuse-of-power, arrest, protester
 
 id: ny-newyorkcity-98
 
-geolocation: 40.718918,-73.9891763
+geolocation: 40.718918, -73.9891763
 
 **Links**
 
@@ -1743,7 +1743,7 @@ tags: abuse-of-power, arrest, protester
 
 id: ny-newyorkcity-100
 
-geolocation: 40.7391905,-73.9821784
+geolocation: 40.7391905, -73.9821784
 
 **Links**
 
@@ -1765,7 +1765,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-102
 
-geolocation: 40.8515213,-73.9375686
+geolocation: 40.8515213, -73.9375686
 
 **Links**
 
@@ -1782,7 +1782,7 @@ tags: arrest, grab, protester, push, shove, tackle
 
 id: ny-newyorkcity-103
 
-geolocation: 40.7141798,-74.0062972
+geolocation: 40.7141798, -74.0062972
 
 **Links**
 
@@ -1798,7 +1798,7 @@ tags: arrest, protester, push, tackle
 
 id: ny-newyorkcity-104
 
-geolocation: 40.7097149,-74.0117508
+geolocation: 40.7097149, -74.0117508
 
 **Links**
 
@@ -1813,7 +1813,7 @@ tags: arrest, grab, protester
 
 id: ny-newyorkcity-105
 
-geolocation: 40.7574221,-73.9890894
+geolocation: 40.7574221, -73.9890894
 
 **Links**
 
@@ -1828,7 +1828,7 @@ tags: arrest, bystander, grab, protester, push, shove
 
 id: ny-newyorkcity-106
 
-geolocation: 40.7337626,-74.0084911
+geolocation: 40.7337626, -74.0084911
 
 **Links**
 
@@ -1931,7 +1931,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ny-rochester-1
 
-geolocation: 43.1521207,-77.6113836
+geolocation: 43.1521207, -77.6113836
 
 **Links**
 
@@ -1946,7 +1946,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, shoot
 
 id: ny-rochester-2
 
-geolocation: 43.1521207,-77.6113836
+geolocation: 43.1521207, -77.6113836
 
 **Links**
 
@@ -1964,7 +1964,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, protester, rubber-bullet
 
 id: ny-rochester-3
 
-geolocation: 43.1521207,-77.6113836
+geolocation: 43.1521207, -77.6113836
 
 **Links**
 
@@ -1982,7 +1982,7 @@ tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: ny-rochester-4
 
-geolocation: 43.1541549,-77.6047805
+geolocation: 43.1541549, -77.6047805
 
 **Links**
 
@@ -2004,7 +2004,7 @@ tags: journalist, less-lethal, projectile, protester, tear-gas
 
 id: ny-rochester-5
 
-geolocation: 43.1545488,-77.6141816
+geolocation: 43.1545488, -77.6141816
 
 **Links**
 
@@ -2025,7 +2025,7 @@ tags: less-lethal, lrad, projectile, protester, tear-gas
 
 id: ny-rochester-6
 
-geolocation: 43.1537841,-77.611749
+geolocation: 43.1537841, -77.611749
 
 **Links**
 
@@ -2041,7 +2041,7 @@ tags: abuse-of-power, hide-badge
 
 id: ny-rochester-7
 
-geolocation: 43.1562969,-77.6410873
+geolocation: 43.1562969, -77.6410873
 
 **Links**
 
@@ -2058,7 +2058,7 @@ tags: less-lethal, lrad, protester
 
 id: ny-rochester-8
 
-geolocation: 43.1562969,-77.6410873
+geolocation: 43.1562969, -77.6410873
 
 **Links**
 
@@ -2074,7 +2074,7 @@ tags: protester, push, shove
 
 id: ny-rochester-9
 
-geolocation: 43.1569579,-77.6170956
+geolocation: 43.1569579, -77.6170956
 
 **Links**
 
@@ -2097,7 +2097,7 @@ tags: arrest, less-lethal, projectile, protester, shoot
 
 id: ny-saratogasprings-1
 
-geolocation: 43.0788043,-73.7861109
+geolocation: 43.0788043, -73.7861109
 
 **Links**
 
