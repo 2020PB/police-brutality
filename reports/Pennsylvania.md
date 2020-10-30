@@ -385,6 +385,7 @@ geolocation: 39.9585788, -75.2261555
 * https://twitter.com/ryanjreilly/status/1321848960869421058
 * https://twitter.com/GLFOP/status/1322233296277954563
 
+
 ### Officer pins woman to the ground and punches her | October 27th
 
 At a protest near 52nd and Spruce in West Philadelphia, an officer is seen pinning a woman to the ground. The officer then punches the woman repeatedly to subdue her. She does not appear to be resisting in any way.
