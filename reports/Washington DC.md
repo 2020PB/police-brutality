@@ -801,12 +801,13 @@ geolocation: 38.9610023, -77.030211
 
 Footage taken at the entrance to the 4th precinct in D.C. shows a scuffle between protesters and police. Police then blanket the crowd with pepper spray.
 
-tags: protester, pepper-spray, spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: dc-dc-49
 
-geolocation: 38.9624407,-77.0286733
+geolocation: 38.9624407, -77.0286733
 
 **Links**
 
 * https://twitter.com/FordFischer/status/1321905855281958913
+
