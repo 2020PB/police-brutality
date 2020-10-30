@@ -346,13 +346,13 @@ geolocation: 40.6944043, -74.0091173
 
 ### Cop shoving a person to the ground towards metal trash bins | May 30th
 
-An NYPD officer pushes a civilian down towards trash cans.
+At the intersection of Bergen and 5th, an NYPD officer pushes a civilian down towards trash cans.
 
 tags: protester, push, shove
 
 id: ny-newyorkcity-7
 
-geolocation: 
+geolocation: 40.6814898, -73.9770145
 
 **Links**
 
@@ -379,13 +379,13 @@ geolocation: 40.650712, -73.951185
 
 ### NYPD rams protesters | May 30th
 
-An NYPD SUV's path is blocked by a crowd of protesters. Protesters begin throwing things at the SUV. Another NYPD SUV drives up alongside the first, then drives through the crowd, forcing protesters out of its way. The first car then drives forward, ramming the dense crowd of civilians in front of it. NYPD's internal affairs bureau conducted a review and found no wrongdoing. The police commissioner said that "preliminarily we have an accounting of that incident where we have officers in a situation where they're essentially being penned in by protesters," but it seems from the video as though, throughout the incident, both cars have a clear route of escape behind them.
+An NYPD SUV's path is blocked by a crowd of protesters at Flatbush and St. Marks. Protesters begin throwing things at the SUV. Another NYPD SUV drives up alongside the first, then drives through the crowd, forcing protesters out of its way. The first car then drives forward, ramming the dense crowd of civilians in front of it. NYPD's internal affairs bureau conducted a review and found no wrongdoing. The police commissioner said that "preliminarily we have an accounting of that incident where we have officers in a situation where they're essentially being penned in by protesters," but it seems from the video as though, throughout the incident, both cars have a clear route of escape behind them.
 
 tags: drive, protester, vehicle
 
 id: ny-newyorkcity-10
 
-geolocation: 
+geolocation: 40.6796161, -73.9741384
 
 **Links**
 
@@ -404,7 +404,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-27
 
-geolocation: 
+geolocation: 40.6819992, -73.9762472
 
 **Links**
 
@@ -413,13 +413,13 @@ geolocation:
 
 ### Street medic is arrested | May 30th
 
-An NYPD officer kneels on the back of a street medic to arrest him. Footage additionally shows the officer destroying medical supplies used to aid tear gas victims
+An NYPD officer kneels on the back of a street medic to arrest him. Footage additionally shows the officer destroying medical supplies used to aid tear gas victims. This occurred near 2807 Church Avenue in Brooklyn.
 
 tags: knee, medic, property-destruction
 
 id: ny-newyorkcity-28
 
-geolocation: 
+geolocation: 40.6507626, -73.9509756
 
 **Links**
 
@@ -448,13 +448,13 @@ geolocation: 40.795980, -73.974910
 
 ### Police arrest woman on bike | May 30th
 
-A woman on a bike attempts to maneuver around a police van. An officer jumps out and yanks her from the bike. Another officer throws the bike to the side as several slam her against the van to arrest her.
+A woman on a bike attempts to maneuver around a police van near Cooper Union. An officer jumps out and yanks her from the bike. Another officer throws the bike to the side as several slam her against the van to arrest her.
 
 tags: arrest, property-destruction, protester, push, shove
 
 id: ny-newyorkcity-33
 
-geolocation: 
+geolocation: 40.7285093, -73.9906297
 
 **Links**
 
@@ -470,7 +470,7 @@ tags: baton, protester, shove
 
 id: ny-newyorkcity-87
 
-geolocation: 
+geolocation: 40.7362553, -73.9924972
 
 **Links**
 
@@ -489,7 +489,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: ny-newyorkcity-88
 
-geolocation: 
+geolocation: 40.6936936, -73.9833128
 
 **Links**
 
@@ -506,7 +506,7 @@ tags: grab, protester, push, shove
 
 id: ny-newyorkcity-89
 
-geolocation: 
+geolocation: 40.6463818, -73.957429
 
 **Links**
 
@@ -521,7 +521,7 @@ tags: arrest, choke, protester, shove, throw
 
 id: ny-newyorkcity-90
 
-geolocation: 
+geolocation: 40.6463818, -73.957429
 
 **Links**
 
@@ -536,7 +536,7 @@ tags: baton, journalist, protester, shove, strike
 
 id: ny-newyorkcity-91
 
-geolocation: 
+geolocation: 40.7335782, -73.9918699
 
 **Links**
 
@@ -552,7 +552,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-92
 
-geolocation: 
+geolocation: 40.6506757, -73.9546764
 
 **Links**
 
@@ -567,7 +567,7 @@ tags: baton, protester, shove, strike
 
 id: ny-newyorkcity-93
 
-geolocation: 
+geolocation: 40.6463818, -73.957429
 
 **Links**
 
@@ -582,7 +582,7 @@ tags: beat, bystander, medic, shove, strike
 
 id: ny-newyorkcity-32
 
-geolocation: 
+geolocation: 40.6508346, -73.949475
 
 **Links**
 
@@ -616,7 +616,7 @@ tags: arrest, baton, beat, knee, protester, shove
 
 id: ny-newyorkcity-11
 
-geolocation: 
+geolocation: 40.6867584, -73.9754921
 
 **Links**
 
@@ -631,7 +631,7 @@ tags: less-lethal, pepper-spray, politician, protester, spray
 
 id: ny-newyorkcity-12
 
-geolocation: 
+geolocation: 40.6823663, -73.9764769
 
 **Links**
 
@@ -646,7 +646,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-15
 
-geolocation: 
+geolocation: 40.6447837, -73.9547017
 
 **Links**
 
@@ -676,11 +676,13 @@ geolocation: 40.678098, -73.944270
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
+The incident appears to have occurred near Atlantic Terminal in Brooklyn.
+
 tags: baton, beat, protester, strike
 
 id: ny-newyorkcity-17
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -697,7 +699,7 @@ tags: inhumane-treatment, protester
 
 id: ny-newyorkcity-29
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -712,7 +714,7 @@ tags: arrest, protester, push, shove, strike, throw
 
 id: ny-newyorkcity-31
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -727,7 +729,7 @@ tags: arrest, baton, beat, kick, protester, punch, strike
 
 id: ny-newyorkcity-48
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -743,7 +745,7 @@ tags: arrest, beat, protester, shove, tackle
 
 id: ny-newyorkcity-42
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -758,7 +760,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: ny-newyorkcity-82
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -793,7 +795,7 @@ tags: baton, protester, shove, strike
 
 id: ny-newyorkcity-84
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -808,7 +810,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-85
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -823,7 +825,7 @@ tags: baton, beat, protester, shove, strike
 
 id: ny-newyorkcity-86
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -832,13 +834,13 @@ geolocation:
 
 ### Officer threatens protesters with what appears to be a handgun | June 1st
 
-Officer is seen here brandishing what appears to be a handgun and pointing it at protesters.
+Officer is seen at 12th and Broadway brandishing what appears to be a handgun and pointing it at protesters.
 
 tags: gun, protester, threaten
 
 id: ny-newyorkcity-18
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -859,7 +861,7 @@ tags: arrest, baton, beat, kick, property-destruction, protester
 
 id: ny-newyorkcity-36
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -875,7 +877,7 @@ tags: bystander, less-lethal, pepper-spray, spray
 
 id: ny-newyorkcity-71
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -886,15 +888,18 @@ geolocation:
 
 A police officer comes from behind a protester, lifts him over shoulder height and then slams him into the road, head first.
 
+Note: major construction was occurring on this date, causing the area to look slightly different.
+
 tags: beat, protester, strike, throw
 
 id: ny-newyorkcity-19
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
 * https://twitter.com/jhermann/status/1268043720399691776
+* https://twitter.com/altochulo/status/1268008988211400704
 * https://twitter.com/altochulo/status/1268018561571840000
 
 
@@ -906,7 +911,7 @@ tags: beat, lgbtq+, protester, strike
 
 id: ny-newyorkcity-20
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -915,13 +920,13 @@ geolocation:
 
 ### Officers beat man with batons | (Believed to be) June 2nd
 
-Police are seen here beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
+Police are seen on Greene Street in SoHo, beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
 
 tags: baton, beat, kick, protester, punch, strike
 
 id: ny-newyorkcity-21
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -931,13 +936,13 @@ geolocation:
 
 ### Man walking his bike beaten by officers with batons | June 3rd
 
-A man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
+At 50th Street and 3rd Avenue, a man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
 tags: baton, beat, protester, strike
 
 id: ny-newyorkcity-22
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -954,7 +959,7 @@ tags: baton, beat, protester, strike
 
 id: ny-newyorkcity-72
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -969,7 +974,7 @@ tags: arrest, grab, knee, protester, strike
 
 id: ny-newyorkcity-73
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -984,7 +989,7 @@ tags: arrest, baton, grab, knee, protester, strike, tackle
 
 id: ny-newyorkcity-74
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -999,7 +1004,7 @@ tags: arrest, baton, knee, property-destruction, protester, strike, zip-tie
 
 id: ny-newyorkcity-zaxt
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1014,7 +1019,7 @@ tags: arrest, baton, beat, kick, protester, strike
 
 id: ny-newyorkcity-75
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1029,7 +1034,7 @@ tags: beat, grab, protester, strike, throw
 
 id: ny-newyorkcity-76
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1038,13 +1043,13 @@ geolocation:
 
 ### NYPD officers beat woman | June 2nd
 
-A woman is walking on the sidewalk with a peaceful protest. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
+A woman is walking on the sidewalk with a peaceful protest near the China Institute. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
 
 tags: arrest, beat, protester, punch, shove, strike
 
 id: ny-newyorkcity-34
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1069,7 +1074,7 @@ geolocation:
 
 ### Police confiscate protester's bike | June 3rd
 
-Footage shows NYPD officer grabbing a protester's bike and walking away with it, citing curfew restrictions as the reason for seizure.
+Footage from outside Borough Hall shows NYPD officer grabbing a protester's bike and walking away with it, citing curfew restrictions as the reason for seizure.
 
 A thread on Twitter from an alleged victim and member of the press who states that police stole their bike and roughed them up.
 
@@ -1077,12 +1082,13 @@ tags: abuse-of-power, bike, journalist, property-destruction, protester
 
 id: ny-newyorkcity-45
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268398967777308672
 * https://twitter.com/ArminRosen/status/1268353044896505867
+* https://twitter.com/ArminRosen/status/1268353371318214660
 
 
 ### Police officer punches detained protester repeatedly | June 3rd
@@ -1093,7 +1099,7 @@ tags: arrest, protester, punch
 
 id: ny-newyorkcity-77
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1108,7 +1114,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-78
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1123,7 +1129,7 @@ tags: arrest, choke, grab, protester, throw
 
 id: ny-newyorkcity-79
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1139,7 +1145,7 @@ tags: baton, protester, push, shove
 
 id: ny-newyorkcity-80
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1154,7 +1160,7 @@ tags: baton, protester, push, shove, strike
 
 id: ny-newyorkcity-81
 
-geolocation: 
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
