@@ -6990,6 +6990,77 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/PDocumentarians/status/1318805643852083212
 
 
+### DHS officers use tear gas, stun grenades, and impact munitions against protesters | October 28th
+
+At a protest outside the ICE facility in Portland, DHS agents began firing tear gas, stun grenades, and impact munitions at protesters and press without apparent justification. Federal agents push protesters to Lowell Street before returning to the ICE facility.
+
+The volume of tear gas in the neighborhood raises some longstanding concerns held by protesters about the safety of local residents during these protests.
+
+tags: protester, tear-gas, stun-grenade, shoot, projectile, less-lethal
+
+id: or-portland-401
+
+geolocation: 45.4939191,-122.6721446
+
+**Links**
+
+* https://twitter.com/BaghdadBrian/status/1321722352699256834
+* https://twitter.com/BaghdadBrian/status/1321730247516016645
+* https://twitter.com/MrOlmos/status/1321718209611882497
+* https://twitter.com/MrOlmos/status/1321718747137126400
+* https://twitter.com/MrOlmos/status/1321719889451642885
+* https://twitter.com/MrOlmos/status/1321723923696820224
+* https://twitter.com/MrOlmos/status/1321724767905275904
+* https://twitter.com/hungrybowtie/status/1321719869662916610
+* https://twitter.com/hungrybowtie/status/1321720887385616384
+* https://twitter.com/hungrybowtie/status/1321723752489447424
+* https://twitter.com/hungrybowtie/status/1321724603039805443
+* https://twitter.com/PDocumentarians/status/1321721128574881792
+* https://twitter.com/PDocumentarians/status/1321726226852057088
+* https://twitter.com/PDocumentarians/status/1321726110409715712
+* https://twitter.com/MaranieRae/status/1321720811485474816
+* https://twitter.com/MaranieRae/status/1321726603617951744
+* https://twitter.com/Ninja_StuntZ/status/1321725709740552193
+* https://twitter.com/econbrkfst/status/1321750809768456193
+
+
+### DHS officers deploy tear gas and impact munitions for a second time the same night | October 28th
+
+After retreating back into the ICE facility once, DHS agents emerge and push protesters into the street, where agents fire a second round of tear gas and impact munitions.
+
+tags: protester, tear-gas, shoot, projectile, less-lethal
+
+id: or-portland-402
+
+geolocation: 45.493797,-122.6728732
+
+**Links** 
+
+* https://twitter.com/BaghdadBrian/status/1321736048875982848
+* https://twitter.com/BaghdadBrian/status/1321743599063609346
+* https://twitter.com/hungrybowtie/status/1321727934512594944
+* https://twitter.com/Claudio_Report/status/1321759171709054976
+* https://twitter.com/MrOlmos/status/1321726307428757504
+
+
+### Protester tackled, arrested, and hospitalized by DHS agents | October 28th
+
+DHS agents charge out of the ICE facility and tackle a protester. She was taken away in an ambulance and later posted that her ribs had been injured but she left the hospital, feeling well enough to go home.
+
+tags: protester, tackle, arrest
+
+id: or-portland-403
+
+geolocation: 45.493797,-122.6728732
+
+**Links**
+
+* https://twitter.com/Claudio_Report/status/1321755369543139328
+* https://twitter.com/MaranieRae/status/1321731557665566721
+* https://twitter.com/hungrybowtie/status/1321725808709234688
+* https://twitter.com/KohzKah/status/1321758357317824512
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
