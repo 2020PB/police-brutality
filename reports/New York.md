@@ -352,7 +352,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-7
 
-geolocation: 40.6814898,-73.9770145
+geolocation: 40.6814898, -73.9770145
 
 **Links**
 
@@ -385,7 +385,7 @@ tags: drive, protester, vehicle
 
 id: ny-newyorkcity-10
 
-geolocation: 40.6796161,-73.9741384
+geolocation: 40.6796161, -73.9741384
 
 **Links**
 
@@ -404,7 +404,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-27
 
-geolocation: 40.6819992,-73.9762472
+geolocation: 40.6819992, -73.9762472
 
 **Links**
 
@@ -419,7 +419,7 @@ tags: knee, medic, property-destruction
 
 id: ny-newyorkcity-28
 
-geolocation: 40.6507626,-73.9509756
+geolocation: 40.6507626, -73.9509756
 
 **Links**
 
@@ -454,7 +454,7 @@ tags: arrest, property-destruction, protester, push, shove
 
 id: ny-newyorkcity-33
 
-geolocation: 40.7285093,-73.9906297
+geolocation: 40.7285093, -73.9906297
 
 **Links**
 
@@ -470,7 +470,7 @@ tags: baton, protester, shove
 
 id: ny-newyorkcity-87
 
-geolocation: 40.7362553,-73.9924972
+geolocation: 40.7362553, -73.9924972
 
 **Links**
 
@@ -489,7 +489,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: ny-newyorkcity-88
 
-geolocation: 40.6936936,-73.9833128
+geolocation: 40.6936936, -73.9833128
 
 **Links**
 
@@ -506,7 +506,7 @@ tags: grab, protester, push, shove
 
 id: ny-newyorkcity-89
 
-geolocation: 40.6463818,-73.957429
+geolocation: 40.6463818, -73.957429
 
 **Links**
 
@@ -521,7 +521,7 @@ tags: arrest, choke, protester, shove, throw
 
 id: ny-newyorkcity-90
 
-geolocation: 40.6463818,-73.957429
+geolocation: 40.6463818, -73.957429
 
 **Links**
 
@@ -536,7 +536,7 @@ tags: baton, journalist, protester, shove, strike
 
 id: ny-newyorkcity-91
 
-geolocation: 40.7335782,-73.9918699
+geolocation: 40.7335782, -73.9918699
 
 **Links**
 
@@ -552,7 +552,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-92
 
-geolocation: 40.6506757,-73.9546764
+geolocation: 40.6506757, -73.9546764
 
 **Links**
 
@@ -567,7 +567,7 @@ tags: baton, protester, shove, strike
 
 id: ny-newyorkcity-93
 
-geolocation: 40.6463818,-73.957429
+geolocation: 40.6463818, -73.957429
 
 **Links**
 
@@ -582,7 +582,7 @@ tags: beat, bystander, medic, shove, strike
 
 id: ny-newyorkcity-32
 
-geolocation: 40.6508346,-73.949475
+geolocation: 40.6508346, -73.949475
 
 **Links**
 
@@ -616,7 +616,7 @@ tags: arrest, baton, beat, knee, protester, shove
 
 id: ny-newyorkcity-11
 
-geolocation: 40.6867584,-73.9754921
+geolocation: 40.6867584, -73.9754921
 
 **Links**
 
@@ -631,7 +631,7 @@ tags: less-lethal, pepper-spray, politician, protester, spray
 
 id: ny-newyorkcity-12
 
-geolocation: 40.6823663,-73.9764769
+geolocation: 40.6823663, -73.9764769
 
 **Links**
 
@@ -646,7 +646,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-15
 
-geolocation: 40.6447837,-73.9547017
+geolocation: 40.6447837, -73.9547017
 
 **Links**
 
@@ -682,7 +682,7 @@ tags: baton, beat, protester, strike
 
 id: ny-newyorkcity-17
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -699,7 +699,7 @@ tags: inhumane-treatment, protester
 
 id: ny-newyorkcity-29
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -714,7 +714,7 @@ tags: arrest, protester, push, shove, strike, throw
 
 id: ny-newyorkcity-31
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -729,7 +729,7 @@ tags: arrest, baton, beat, kick, protester, punch, strike
 
 id: ny-newyorkcity-48
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -745,7 +745,7 @@ tags: arrest, beat, protester, shove, tackle
 
 id: ny-newyorkcity-42
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -760,7 +760,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: ny-newyorkcity-82
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -795,7 +795,7 @@ tags: baton, protester, shove, strike
 
 id: ny-newyorkcity-84
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -810,7 +810,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-85
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -825,7 +825,7 @@ tags: baton, beat, protester, shove, strike
 
 id: ny-newyorkcity-86
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -840,7 +840,7 @@ tags: gun, protester, threaten
 
 id: ny-newyorkcity-18
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -861,7 +861,7 @@ tags: arrest, baton, beat, kick, property-destruction, protester
 
 id: ny-newyorkcity-36
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -877,7 +877,7 @@ tags: bystander, less-lethal, pepper-spray, spray
 
 id: ny-newyorkcity-71
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -894,7 +894,7 @@ tags: beat, protester, strike, throw
 
 id: ny-newyorkcity-19
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -911,7 +911,7 @@ tags: beat, lgbtq+, protester, strike
 
 id: ny-newyorkcity-20
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -926,7 +926,7 @@ tags: baton, beat, kick, protester, punch, strike
 
 id: ny-newyorkcity-21
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -942,7 +942,7 @@ tags: baton, beat, protester, strike
 
 id: ny-newyorkcity-22
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -959,7 +959,7 @@ tags: baton, beat, protester, strike
 
 id: ny-newyorkcity-72
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -974,7 +974,7 @@ tags: arrest, grab, knee, protester, strike
 
 id: ny-newyorkcity-73
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -989,7 +989,7 @@ tags: arrest, baton, grab, knee, protester, strike, tackle
 
 id: ny-newyorkcity-74
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1004,7 +1004,7 @@ tags: arrest, baton, knee, property-destruction, protester, strike, zip-tie
 
 id: ny-newyorkcity-zaxt
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1019,7 +1019,7 @@ tags: arrest, baton, beat, kick, protester, strike
 
 id: ny-newyorkcity-75
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1034,7 +1034,7 @@ tags: beat, grab, protester, strike, throw
 
 id: ny-newyorkcity-76
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1049,7 +1049,7 @@ tags: arrest, beat, protester, punch, shove, strike
 
 id: ny-newyorkcity-34
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1082,7 +1082,7 @@ tags: abuse-of-power, bike, journalist, property-destruction, protester
 
 id: ny-newyorkcity-45
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1099,7 +1099,7 @@ tags: arrest, protester, punch
 
 id: ny-newyorkcity-77
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1114,7 +1114,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-78
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1129,7 +1129,7 @@ tags: arrest, choke, grab, protester, throw
 
 id: ny-newyorkcity-79
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1145,7 +1145,7 @@ tags: baton, protester, push, shove
 
 id: ny-newyorkcity-80
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
@@ -1160,7 +1160,7 @@ tags: baton, protester, push, shove, strike
 
 id: ny-newyorkcity-81
 
-geolocation: 40.6851078,-73.9782489
+geolocation: 40.6851078, -73.9782489
 
 **Links**
 
