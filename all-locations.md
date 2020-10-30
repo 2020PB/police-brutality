@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-30T17:04:35.629979+00:00
+UPDATED AT: 2020-10-30T17:31:39.632013+00:00
 
 
 # Alabama
@@ -8037,7 +8037,7 @@ tags: arrest, baton, beat, journalist, protester, shove, strike, throw
 
 id: ny-newyorkcity-23
 
-geolocation: 
+geolocation: 40.6656956, -73.9509033
 
 **Links**
 
@@ -8055,7 +8055,7 @@ tags: arrest, baton, choke, protester, strike
 
 id: ny-newyorkcity-24
 
-geolocation: 
+geolocation: 40.693804, -73.9905544
 
 **Links**
 
@@ -8074,7 +8074,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, protester
 
 id: ny-newyorkcity-37
 
-geolocation: 
+geolocation: 40.7120659, -74.004574
 
 **Links**
 
@@ -8095,7 +8095,7 @@ tags: abuse-of-power, arrest, bystander
 
 id: ny-newyorkcity-38
 
-geolocation: 
+geolocation: 40.7993739, -73.961277
 
 **Links**
 
@@ -8105,7 +8105,7 @@ geolocation:
 
 ### Police break up neighborhood BBQ, beating and arresting partygoers | June 4th
 
-Police shut down a birthday party on private property. The party was occurring after curfew, but witnesses say police first claimed they wree responding to a noise complaint. Then allegedly stated the partygoers needed to go inside due to the curfew, the curfew restrictions did not apply to private property, which includes the building's stoop and yard. A partygoer states that he and others begain to clean up, but police then began forcing people back into the building before they had time to comply.
+Police shut down a birthday party on private property on Eastern Parkway in Crown Heights. The party was occurring after curfew, but witnesses say police first claimed they wree responding to a noise complaint. Then allegedly stated the partygoers needed to go inside due to the curfew, the curfew restrictions did not apply to private property, which includes the building's stoop and yard. A partygoer states that he and others begain to clean up, but police then began forcing people back into the building before they had time to comply.
 
 Police continued shoving protesters already inside the building. Footage shows verbal altercation between police and partygoers before an officer forced his way past a door, shoving several partygoers. Police then began arresting partygoers and beating them with batons.
 
@@ -8119,7 +8119,7 @@ tags: arrest, baton, beat, bystander, inhumane-treatment, racial-profiling, zip-
 
 id: ny-newyorkcity-39
 
-geolocation: 
+geolocation: 0.6690594, -73.9472662
 
 **Links**
 
