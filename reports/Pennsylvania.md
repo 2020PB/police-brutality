@@ -368,7 +368,7 @@ geolocation: 39.953632, -75.2284997
 
 Philadelphia police approach a car in the street on the 5200 block of Chestnut Street, beating it with their batons. Officers then smash out the driver side window before opening the door, beating the driver and front passenger with batons. Police also pulled a child out of the backseat of the car.
 
-Several days later, the Fraternal Order of Police posted on several social media outlets that they had rescued a child wandering barefoot on the streets during the protest, following by several police slogans, like "We are the thin blue line," and reiterating a common pro-police point about standing between order and anarchy. The child in the post was in fact the child pulled by police from the car. The posts have since been deleted.
+Several days later, the Fraternal Order of Police posted on several social media outlets that they had rescued a child wandering barefoot on the streets during the protest, following by several police slogans, like "We are the thin blue line," and reiterating a common pro-police point about standing between order and anarchy. The child in the post was in fact the child pulled by police from the car. The posts have since been deleted. The day after the posts (10/30), the Fraternal Order of Police released a statement saying there were "conflicted accounts under which the child came to be assisted by the officer."
 
 tags: baton, beat, bystander, property-destruction, strike
 
@@ -383,7 +383,7 @@ geolocation: 39.9585788, -75.2261555
 * https://www.reddit.com/r/PublicFreakout/comments/jjhuiv/gang_of_philadelphia_police_officers_swarm_car/
 * https://www.inquirer.com/news/philadelphia-police-car-video-west-unrest-child-backseat-20201028.html
 * https://twitter.com/ryanjreilly/status/1321848960869421058
-
+* https://twitter.com/GLFOP/status/1322233296277954563
 
 ### Officer pins woman to the ground and punches her | October 27th
 
