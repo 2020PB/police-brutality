@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-30T15:12:03.801946+00:00
+UPDATED AT: 2020-10-30T16:59:32.398271+00:00
 
 
 # Alabama
@@ -21475,6 +21475,73 @@ geolocation: 38.9609143, -77.0279237
 * https://twitter.com/rawsmedia/status/1321241424847929350
 * https://twitter.com/rawsmedia/status/1321245195371978755
 * https://twitter.com/rawsmedia/status/1321246974914580480
+
+
+### Officer pepper sprays journalist | October 28th
+
+A journalist films police as they advance against protesters. A protester detonates a firework about 10 feet away. An officer then turns to the journalist and pepper sprays him.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: dc-dc-46
+
+geolocation: 38.9613382, -77.0279777
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1321648372642697217
+
+
+### Officers pepper spray protesters and journalists | October 28th
+
+Footage taken near the intersection of Georgia and Missouri Avenues in DC shows police deploying pepper spray against protesters as well as the filmer, a journalist.
+
+tags: journalist, less-lethal, pepper-spray, protester, spray
+
+id: dc-dc-47
+
+geolocation: 38.9610023, -77.030211
+
+**Links**
+
+* https://twitter.com/blackhousenew/status/1321640256244981760
+* https://twitter.com/wyattreed13/status/1321680750060646400
+* https://twitter.com/BLMHCo_Op/status/1321887454744481792
+* https://twitter.com/wyattreed13/status/1321924488834011136
+* https://twitter.com/ChuckModi1/status/1321965169652703233
+
+
+### Police use tear gas and stun grenades against protesters | October 28th
+
+Footage taken at the intersection of Georgia and Missouri Avenues in DC shows a riot police line, having deployed tear gas and stun grenades in an effort to keep protesters away from an area Walmart.
+
+tags: less-lethal, protester, stun-grenade, tear-gas
+
+id: dc-dc-48
+
+geolocation: 38.9610023, -77.030211
+
+**Links**
+
+* https://twitter.com/pearlorwell/status/1321626776502734850
+* https://twitter.com/rawsmedia/status/1321675455532093440
+* https://twitter.com/rawsmedia/status/1321679662402146304
+* https://twitter.com/FordFischer/status/1321905940086534144
+
+
+### Police pepper spray crowd of protesters | October 28th
+
+Footage taken at the entrance to the 4th precinct in D.C. shows a scuffle between protesters and police. Police then blanket the crowd with pepper spray.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: dc-dc-49
+
+geolocation: 38.9624407, -77.0286733
+
+**Links**
+
+* https://twitter.com/FordFischer/status/1321905855281958913
 
 
 
