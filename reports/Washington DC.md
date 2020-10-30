@@ -749,11 +749,11 @@ geolocation: 38.9609143, -77.0279237
 
 A journalist films police as they advance against protesters. A protester detonates a firework about 10 feet away. An officer then turns to the journalist and pepper sprays him.
 
-tags: protester, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: dc-dc-46
 
-geolocation: 38.9613382,-77.0279777
+geolocation: 38.9613382, -77.0279777
 
 **Links**
 
@@ -764,11 +764,11 @@ geolocation: 38.9613382,-77.0279777
 
 Footage taken near the intersection of Georgia and Missouri Avenues in DC shows police deploying pepper spray against protesters as well as the filmer, a journalist.
 
-tags: protester, pepper-spray, spray, journalist
+tags: journalist, less-lethal, pepper-spray, protester, spray
 
 id: dc-dc-47
 
-geolocation: 38.9610023,-77.030211
+geolocation: 38.9610023, -77.030211
 
 **Links**
 
@@ -783,11 +783,11 @@ geolocation: 38.9610023,-77.030211
 
 Footage taken at the intersection of Georgia and Missouri Avenues in DC shows a riot police line, having deployed tear gas and stun grenades in an effort to keep protesters away from an area Walmart.
 
-tags: protester, stun-grenade, tear-gas, less-lethal
+tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: dc-dc-48
 
-geolocation: 38.9610023,-77.030211
+geolocation: 38.9610023, -77.030211
 
 **Links**
 
@@ -795,4 +795,4 @@ geolocation: 38.9610023,-77.030211
 * https://twitter.com/rawsmedia/status/1321675455532093440
 * https://twitter.com/rawsmedia/status/1321679662402146304
 * https://twitter.com/FordFischer/status/1321905940086534144
-  
+
