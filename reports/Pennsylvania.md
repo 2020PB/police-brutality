@@ -366,9 +366,9 @@ geolocation: 39.953632, -75.2284997
 
 ### Police break car windows, pull passengers from vehicle, and beat them | October 27th
 
-Philadelphia police approach a car in the street on the 5200 block of Chestnut Street, beating it with their batons. Officers then smash out the driver side window before opening the door, beating the driver and front passenger with batons. Police also pulled a child out of the backseat of the car.
+Philadelphia police approach a car in the street on the 5200 block of Chestnut Street, beating it with their batons. Officers then smash out the driver side window before opening the door, beating the driver and front passenger with batons. Police also pulled a child out of the backseat of the car. Later reporting has stated that the driver and her 16 year old out of the car. They were hospitalized and handcuffed to their hospital beds while being treated. The following morning they were released without charges, though the mother's hospital bracelet read: "assault on police." The driver was able to contact her mother, the grandmother of the child pulled from the backseat. The grandmother went to the scene of the incident, then was directed four miles away, where she found the boy in a squad car. She said the boy had a lump on his head and his carseat still contained glass from the broken windows. An attorney representing the family has stated they have been told neither the current location of the family's SUV nor any process to retrieve the vehicle. The lawyer also states that the family is showing signs of trauma, including the young boy, who is hearing impaired and still learning to speak.
 
-Several days later, the Fraternal Order of Police posted on several social media outlets that they had rescued a child wandering barefoot on the streets during the protest, following by several police slogans, like "We are the thin blue line," and reiterating a common pro-police point about standing between order and anarchy. The child in the post was in fact the child pulled by police from the car. The posts have since been deleted.
+Several days later, the Fraternal Order of Police posted on several social media outlets that they had rescued a child wandering barefoot on the streets during the protest, following by several police slogans, like "We are the thin blue line," and reiterating a common pro-police point about standing between order and anarchy. The child in the post was in fact the child pulled by police from the car. The posts have since been deleted. The day after the posts (10/30), the Fraternal Order of Police released a statement saying there were "conflicted accounts under which the child came to be assisted by the officer."
 
 tags: baton, beat, bystander, property-destruction, strike
 
@@ -383,6 +383,8 @@ geolocation: 39.9585788, -75.2261555
 * https://www.reddit.com/r/PublicFreakout/comments/jjhuiv/gang_of_philadelphia_police_officers_swarm_car/
 * https://www.inquirer.com/news/philadelphia-police-car-video-west-unrest-child-backseat-20201028.html
 * https://twitter.com/ryanjreilly/status/1321848960869421058
+* https://twitter.com/GLFOP/status/1322233296277954563
+* https://www.inquirer.com/news/philadelphia/philadelphia-police-suv-video-protests-child-walter-wallace-jr-20201030.html
 
 
 ### Officer pins woman to the ground and punches her | October 27th
