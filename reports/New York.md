@@ -1260,7 +1260,7 @@ tags: arrest, baton, beat, bystander, inhumane-treatment, racial-profiling, zip-
 
 id: ny-newyorkcity-39
 
-geolocation: 0.6690594, -73.9472662
+geolocation: 40.6690594, -73.9472662
 
 **Links**
 
@@ -1282,13 +1282,13 @@ tags: abuse-of-power, arrest, legal-observer
 
 id: ny-newyorkcity-40
 
-geolocation: 
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
 * https://gothamist.com/news/round-green-hats-nypd-accused-deliberately-targeting-legal-observers-brutal-bronx-mass-arrest
-* https://www.youtube.com/watch?v=OLn2iy-ia24&feature=emb_logo
-* https://www.youtube.com/watch?v=yuJWAEqfHO8&feature=emb_logo
+* https://www.youtube.com/watch?v=OLn2iy-ia24
+* https://www.youtube.com/watch?v=yuJWAEqfHO8
 
 
 ### NYPD pushes crowd into tight space and makes violent mass arrests | June 4th
@@ -1303,7 +1303,7 @@ tags: arrest, baton, beat, less-lethal, pepper-spray, pregnant, protester, shiel
 
 id: ny-newyorkcity-25
 
-geolocation: 
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
@@ -1325,7 +1325,7 @@ tags: abuse-of-power, arrest, inhumane-treatment, medic
 
 id: ny-newyorkcity-47
 
-geolocation: 
+geolocation: 40.8072338, -73.920519
 
 **Links**
 
@@ -1357,7 +1357,7 @@ tags: abuse-of-power, arrest, bystander
 
 id: ny-newyorkcity-44
 
-geolocation: 
+geolocation: 40.7993739, -73.961277
 
 **Links**
 
@@ -1373,7 +1373,7 @@ tags: abuse-of-power, hide-badge
 
 id: ny-newyorkcity-46
 
-geolocation: 
+geolocation: 40.6976763, -73.992832
 
 **Links**
 
@@ -1388,7 +1388,7 @@ tags: grab, protester, shove, throw
 
 id: ny-newyorkcity-65
 
-geolocation: 
+geolocation: 40.6830473, -73.9669762
 
 **Links**
 
@@ -1397,13 +1397,13 @@ geolocation:
 
 ### Polie shove protester on bike | June 4th
 
-A person at Flushing and Marcy Aves in Brooklyn, is walking a bicycle and appears to be holding a pizza. A white-shirted officer shoves them into the side of a car, sending the pizza flying.
+A person at Flushing and Marcy Avenues in Brooklyn, is walking a bicycle and appears to be holding a pizza. A white-shirted officer shoves them into the side of a car, sending the pizza flying.
 
 tags: protester, shove
 
 id: ny-newyorkcity-66
 
-geolocation: 
+geolocation: 40.6997763, -73.9522988
 
 **Links**
 
@@ -1418,7 +1418,7 @@ tags: arrest, choke, protester, punch, shove, strike
 
 id: ny-newyorkcity-67
 
-geolocation: 
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
@@ -1433,7 +1433,7 @@ tags: protester, shove
 
 id: ny-newyorkcity-68
 
-geolocation: 
+geolocation: 40.806283, -73.9223574
 
 **Links**
 
@@ -1448,7 +1448,7 @@ tags: arrest, protester, punch
 
 id: ny-newyorkcity-69
 
-geolocation: 
+geolocation: 40.7019419, -73.9579104
 
 **Links**
 
@@ -1463,7 +1463,7 @@ tags: grab, protester, push, shove
 
 id: ny-newyorkcity-70
 
-geolocation: 
+geolocation: 40.6830473, -73.9669762
 
 **Links**
 
@@ -1480,7 +1480,7 @@ tags: baton, protester, push, shove
 
 id: ny-newyorkcity-101
 
-geolocation: 
+geolocation: 40.6941007, -73.9905591
 
 **Links**
 
@@ -1489,13 +1489,13 @@ geolocation:
 
 ### Police shove protester off bike | June 5th
 
-Footage shoves a small crowd of protesters arguing with police. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
+Footage shoves a small crowd of protesters arguing with police at Nostrand Avenue and Crown Street. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
 
 tags: bike, protester, push, shove
 
 id: ny-newyorkcity-41
 
-geolocation: 
+geolocation: 40.666299, -73.9530244
 
 **Links**
 
@@ -1510,7 +1510,7 @@ tags: arrest, beat, protester, punch, strike, tackle
 
 id: ny-newyorkcity-26
 
-geolocation: 
+geolocation: 40.6982906, -73.9848027
 
 **Links**
 
@@ -1532,7 +1532,7 @@ tags: arrest, baton, beat, hide-badge, less-lethal, lgbtq+, pepper-spray, protes
 
 id: ny-newyorkcity-49
 
-geolocation: 
+geolocation: 40.7316366, -73.9991034
 
 **Links**
 
@@ -1553,7 +1553,7 @@ tags: baton, protester, shove, strike
 
 id: ny-newyorkcity-51
 
-geolocation: 
+geolocation: 40.7322033, -73.9986267
 
 **Links**
 
@@ -1568,7 +1568,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-52
 
-geolocation: 
+geolocation: 40.7322138, -73.9986388
 
 **Links**
 
@@ -1591,7 +1591,7 @@ tags: arrest, baton, beat, choke, hide-badge, protester, shove, strike, zip-tie
 
 id: ny-newyorkcity-50
 
-geolocation: 
+geolocation: 40.7124182, -74.0087051
 
 **Links**
 
@@ -1609,7 +1609,7 @@ tags: arrest, grab, less-lethal, protester, push, shove, tase, taser
 
 id: ny-newyorkcity-53
 
-geolocation: 
+geolocation: 40.6355789, -74.0223473
 
 **Links**
 
@@ -1626,7 +1626,7 @@ tags: bike, protester, shove
 
 id: ny-newyorkcity-54
 
-geolocation: 
+geolocation: 40.6355789, -74.0223473
 
 **Links**
 
@@ -1641,7 +1641,7 @@ tags: arrest, inhumane-treatment, knee, shove, strike, tackle
 
 id: ny-newyorkcity-94
 
-geolocation: 
+geolocation: 40.7058134, -73.9981622
 
 **Links**
 
@@ -1659,7 +1659,7 @@ tags: abuse-of-power, arrest, protester, punch, tackle
 
 id: ny-newyorkcity-96
 
-geolocation: 
+geolocation: 40.7718347, -73.7698317
 
 **Links**
 
@@ -1679,7 +1679,7 @@ tags: arrest, homeless, protester
 
 id: ny-newyorkcity-95
 
-geolocation: 
+geolocation: 40.7124182, -74.0087051
 
 **Links**
 
@@ -1696,7 +1696,7 @@ tags: arrest, baton, beat, bike, protester, shove, strike
 
 id: ny-newyorkcity-99
 
-geolocation: 
+geolocation: 40.7136898, -74.0053181
 
 **Links**
 
@@ -1705,13 +1705,13 @@ geolocation:
 
 ### Police arrest woman yelling at them | July 25th
 
-Footage shows a woman yelling at police. From her words, police have asked her to back up. Police say, "Back up" again. She steps forward, saying, "Or fucking what?" An officer in a white shirt pushes through the officers to grab her. Several officers then assist him in arresting the woman.
+Footage from Ludlow and Delancey shows a woman yelling at police. From her words, police have asked her to back up. Police say, "Back up" again. She steps forward, saying, "Or fucking what?" An officer in a white shirt pushes through the officers to grab her. Several officers then assist him in arresting the woman.
 
 tags: abuse-of-power, arrest, protester
 
 id: ny-newyorkcity-98
 
-geolocation: 
+geolocation: 40.718918, -73.9891763
 
 **Links**
 
@@ -1737,11 +1737,13 @@ geolocation:
 
 A group of plain-clothes police officers who fail to identify themselves as police surround and grab a protester. After a brief struggle, protester is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protesters from intervening and then the van drives away. The abductee's alleged crime was spraypainting over police cameras and graffiti.
 
+This occurred at 2nd Ave and 25th Street.
+
 tags: abuse-of-power, arrest, protester
 
 id: ny-newyorkcity-100
 
-geolocation: 
+geolocation: 40.7391905, -73.9821784
 
 **Links**
 
@@ -1763,7 +1765,7 @@ tags: protester, push, shove
 
 id: ny-newyorkcity-102
 
-geolocation: 
+geolocation: 40.8515213, -73.9375686
 
 **Links**
 
@@ -1780,7 +1782,7 @@ tags: arrest, grab, protester, push, shove, tackle
 
 id: ny-newyorkcity-103
 
-geolocation: 
+geolocation: 40.7141798, -74.0062972
 
 **Links**
 
@@ -1796,7 +1798,7 @@ tags: arrest, protester, push, tackle
 
 id: ny-newyorkcity-104
 
-geolocation: 
+geolocation: 40.7097149, -74.0117508
 
 **Links**
 
@@ -1805,13 +1807,13 @@ geolocation:
 
 ### Police violently arrest protesters at anti-ICE protest in Times Square | September 19th
 
-Footage shows NYPD officers grabbing protesters off the sidewalk and arresting them. One protester holds onto a stop light pole; police lift him by his limbs and carry him away.
+Footage taken near Zuccotti Park shows NYPD officers grabbing protesters off the sidewalk and arresting them. One protester holds onto a stop light pole; police lift him by his limbs and carry him away.
 
 tags: arrest, grab, protester
 
 id: ny-newyorkcity-105
 
-geolocation: 
+geolocation: 40.7574221, -73.9890894
 
 **Links**
 
@@ -1820,13 +1822,13 @@ geolocation:
 
 ### Police charge protesters and bystanders | September 26th
 
-Protesters were seen yelling at police from the sidewalk near an outside dining area. Without warning, police charged, pushing, shoving, and arresting numerous protesters. Police disrupted diners, forcing them to move from their tables as bike police formed a line cutting through the outdoor dining area.
+Protesters were seen yelling at police from the sidewalk near an outside dining area on Hudson Street and West 10th. Without warning, police charged, pushing, shoving, and arresting numerous protesters. Police disrupted diners, forcing them to move from their tables as bike police formed a line cutting through the outdoor dining area.
 
 tags: arrest, bystander, grab, protester, push, shove
 
 id: ny-newyorkcity-106
 
-geolocation: 
+geolocation: 40.7337626, -74.0084911
 
 **Links**
 
@@ -1929,7 +1931,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: ny-rochester-1
 
-geolocation: 
+geolocation: 43.1521207, -77.6113836
 
 **Links**
 
@@ -1944,7 +1946,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, shoot
 
 id: ny-rochester-2
 
-geolocation: 
+geolocation: 43.1521207, -77.6113836
 
 **Links**
 
@@ -1962,7 +1964,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, protester, rubber-bullet
 
 id: ny-rochester-3
 
-geolocation: 
+geolocation: 43.1521207, -77.6113836
 
 **Links**
 
@@ -1980,7 +1982,7 @@ tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: ny-rochester-4
 
-geolocation: 
+geolocation: 43.1541549, -77.6047805
 
 **Links**
 
@@ -2002,7 +2004,7 @@ tags: journalist, less-lethal, projectile, protester, tear-gas
 
 id: ny-rochester-5
 
-geolocation: 
+geolocation: 43.1545488, -77.6141816
 
 **Links**
 
@@ -2023,7 +2025,7 @@ tags: less-lethal, lrad, projectile, protester, tear-gas
 
 id: ny-rochester-6
 
-geolocation: 
+geolocation: 43.1537841, -77.611749
 
 **Links**
 
@@ -2039,7 +2041,7 @@ tags: abuse-of-power, hide-badge
 
 id: ny-rochester-7
 
-geolocation: 
+geolocation: 43.1562969, -77.6410873
 
 **Links**
 
@@ -2056,7 +2058,7 @@ tags: less-lethal, lrad, protester
 
 id: ny-rochester-8
 
-geolocation: 
+geolocation: 43.1562969, -77.6410873
 
 **Links**
 
@@ -2072,7 +2074,7 @@ tags: protester, push, shove
 
 id: ny-rochester-9
 
-geolocation: 
+geolocation: 43.1569579, -77.6170956
 
 **Links**
 
@@ -2095,7 +2097,7 @@ tags: arrest, less-lethal, projectile, protester, shoot
 
 id: ny-saratogasprings-1
 
-geolocation: 
+geolocation: 43.0788043, -73.7861109
 
 **Links**
 
