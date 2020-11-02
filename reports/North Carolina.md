@@ -284,11 +284,11 @@ The last link shows US House candidate Scott Huffman giving his account for the 
 
 Actions seem to have been committed jointly by Graham Police and Alamance County Sheriffs.
 
-tags: child, person-with-disability, protester, pepper-spray, spray, less-lethal
+tags: child, less-lethal, pepper-spray, person-with-disability, protester, spray
 
 id: nc-graham-1
 
-geolocation: 36.0692831,-79.4025114
+geolocation: 36.0692831, -79.4025114
 
 **Links**
 
@@ -315,11 +315,11 @@ geolocation: 36.0692831,-79.4025114
 
 Footage from a Souls to the Polls rally after police and sheriffs pepper sprayed the audience shows a police officer repeatedly harassing a photojournalist and covering the journalist's camera.
 
-tags: journalist, threaten, push
+tags: journalist, push, threaten
 
 id: nc-graham-2
 
-geolocation: 36.0692831,-79.4025114
+geolocation: 36.0692831, -79.4025114
 
 **Links**
 
