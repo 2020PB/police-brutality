@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-02T02:28:31.781233+00:00
+UPDATED AT: 2020-11-02T13:29:45.964387+00:00
 
 
 # Alabama
@@ -9282,6 +9282,7 @@ geolocation: 35.776782, -78.639280
 * https://twitter.com/vizjourno/status/1267494648680976395
 * https://twitter.com/bycharliemcgee/status/1266893726280007681
 * https://twitter.com/bycharliemcgee/status/1266897246030872578
+* https://www.youtube.com/watch?v=GCmVhSZqmZc
 
 
 ### Police use tear gas to clear road | May 31st
