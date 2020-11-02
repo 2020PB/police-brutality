@@ -34,6 +34,24 @@ geolocation: 34.0708678, -118.4045292
 * https://twitter.com/SamBraslow/status/1299848702748536834
 
 
+### Beverly Hills police strike protesters with batons | October 31st
+
+Footage from a pair of dueling protests in Beverly Hills shows police slashing at protesters with batons.
+
+tags: baton, protester, strike
+
+id: ca-beverlyhills-3
+
+geolocation: 34.0716265, -118.4036599
+
+**Links**
+
+* https://twitter.com/desertborder/status/1322653721130536961
+* https://twitter.com/greg_doucette/status/1322668845845413889
+* https://twitter.com/waterspider__/status/1322664445990985728
+* https://twitter.com/ACatWithNews/status/1322677918611300352
+
+
 ## Clayton
 
 ### Law enforcement gas teenagers at a park | June 2nd
