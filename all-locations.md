@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-02T15:20:04.869810+00:00
+UPDATED AT: 2020-11-02T19:43:51.500124+00:00
 
 
 # Alabama
@@ -8778,6 +8778,24 @@ geolocation: 40.6887408, -73.9894258
 * https://twitter.com/ScooterCasterNY/status/1321299978418032642
 * https://twitter.com/greg_doucette/status/1321334416787034114
 * https://www.amny.com/news/30-arrested-as-downtown-brooklyn-protest-leads-to-chaos/
+
+
+### NYPD officers arrest journalist on sidewalk | November 1st
+
+Police officers grab a journalist walking on the sidewalk alongside a march at 10th Avenue and 24th Street. Police arrest the journalist. According the the NYPD, the arrested journalist was not an NYPD-credentialed journalist, therefore they do not have the same exemptions.
+
+tags: arrest, journalist
+
+id: ny-newyorkcity-112
+
+geolocation: 40.7483593, -74.0058763
+
+**Links**
+
+* https://twitter.com/AshAgony/status/1322977608766787595
+* https://twitter.com/greg_doucette/status/1322997629232570378
+* https://twitter.com/protest_nyc/status/1322960650402934784
+* https://twitter.com/JoshuaPotash/status/1323021628733853696
 
 
 ## Rochester
