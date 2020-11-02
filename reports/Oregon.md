@@ -7022,6 +7022,7 @@ geolocation: 45.4939191, -122.6721446
 * https://twitter.com/MaranieRae/status/1321726603617951744
 * https://twitter.com/Ninja_StuntZ/status/1321725709740552193
 * https://twitter.com/econbrkfst/status/1321750809768456193
+* https://twitter.com/R3volutionDaddy/status/1322662093577887744
 
 
 ### DHS officers deploy tear gas and impact munitions for a second time the same night | October 28th
