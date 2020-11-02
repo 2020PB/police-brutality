@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-10-31T14:33:46.119048+00:00
+UPDATED AT: 2020-11-02T02:28:31.781233+00:00
 
 
 # Alabama
@@ -17306,6 +17306,7 @@ geolocation: 45.4939191, -122.6721446
 * https://twitter.com/MaranieRae/status/1321726603617951744
 * https://twitter.com/Ninja_StuntZ/status/1321725709740552193
 * https://twitter.com/econbrkfst/status/1321750809768456193
+* https://twitter.com/R3volutionDaddy/status/1322662093577887744
 
 
 ### DHS officers deploy tear gas and impact munitions for a second time the same night | October 28th
