@@ -1925,11 +1925,11 @@ geolocation: 40.6887408, -73.9894258
 
 Police officers grab a journalist walking on the sidewalk alongside a march at 10th Avenue and 24th Street. Police arrest the journalist. According the the NYPD, the arrested journalist was not an NYPD-credentialed journalist, therefore they do not have the same exemptions.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: ny-newyorkcity-112
 
-geolocation: 40.7483593,-74.0058763
+geolocation: 40.7483593, -74.0058763
 
 **Links**
 
