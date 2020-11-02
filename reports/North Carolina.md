@@ -272,6 +272,61 @@ geolocation:
 * https://twitter.com/jordangreentcb/status/1286110761727787009
 
 
+## Graham
+
+### Police and sherriffs pepper spray protesters on their way to polls | October 31st
+
+Police pepper sprayed BLM protesters on their way to early voting during a "Souls to the Polls" rally. Several arrests were made including Reverend Drumwright of the Citadel Church and Rion Thompson who was the campaign manager for Dreama Caldwell, a Democratic candidate for county commissioner.
+
+One woman in a wheelchair suffered a seizure as a result of the pepper spray. Several children including two young girls ages 5 and 11 were caught by the pepper spray. The mother of the two girls said her daughters both vomited due to the effects of the spray. Several journalists were also pepper sprayed.
+
+The last link shows US House candidate Scott Huffman giving his account for the events that transpired.
+
+Actions seem to have been committed jointly by Graham Police and Alamance County Sheriffs.
+
+tags: child, less-lethal, pepper-spray, person-with-disability, protester, spray
+
+id: nc-graham-1
+
+geolocation: 36.0692831, -79.4025114
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1322620451680587777
+* https://twitter.com/alexcovello/status/1322599033899200512
+* https://twitter.com/will_doran/status/1322609416173244416
+* https://twitter.com/natfrum/status/1322644016945635332
+* https://twitter.com/greg_doucette/status/1322667413075333122
+* https://www.reddit.com/r/PublicFreakout/comments/jm24ht/in_north_carolina_alamance_county_polls_ends_with/
+* https://twitter.com/natalie_allison/status/1322675282277474304
+* https://twitter.com/carlibrosseau/status/1322656931174141953
+* https://twitter.com/carlibrosseau/status/1322665705565753350
+* https://twitter.com/carlibrosseau/status/1322674957244051456
+* https://www.newsobserver.com/news/local/article246861942.html
+* https://www.newsobserver.com/news/local/article246870132.html
+* https://www.reddit.com/r/PublicFreakout/comments/jlrlz0/north_carolina_police_pepper_spray_disorderly/
+* https://twitter.com/greg_doucette/status/1322678067685412864
+* https://news.yahoo.com/north-carolina-voter-rally-ends-203308262.html
+* https://twitter.com/democracynow/status/1323254430813331456
+* https://twitter.com/HuffmanForNC/status/1322592328503144449
+
+
+### Officer harasses journalist and covers their camera | October 28th
+
+Footage from a Souls to the Polls rally after police and sheriffs pepper sprayed the audience shows a police officer repeatedly harassing a photojournalist and covering the journalist's camera.
+
+tags: journalist, push, threaten
+
+id: nc-graham-2
+
+geolocation: 36.0692831, -79.4025114
+
+**Links**
+
+* https://www.newsobserver.com/news/local/article246869592.html
+* https://twitter.com/greg_doucette/status/1322744319678259203
+
+
 ## Raleigh
 
 ### Police fire tear gas at peaceful protests | May 30th
