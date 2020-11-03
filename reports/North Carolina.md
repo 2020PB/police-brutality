@@ -46,7 +46,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-asheville-3
 
-geolocation: 35.5903468,-82.57427
+geolocation: 35.5903468,-82.574270
 
 **Links**
 
