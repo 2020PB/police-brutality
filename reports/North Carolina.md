@@ -8,7 +8,7 @@ tags: child, less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: nc-asheville-2
 
-geolocation: 35.5909699,-82.5737781
+geolocation: 35.5909699, -82.5737781
 
 **Links**
 
@@ -26,7 +26,7 @@ tags: medic, property-destruction
 
 id: nc-asheville-1
 
-geolocation: 35.5948849,-82.5523578
+geolocation: 35.5948849, -82.5523578
 
 **Links**
 
@@ -46,7 +46,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-asheville-3
 
-geolocation: 35.5903468,-82.574270
+geolocation: 35.5903468, -82.574270
 
 **Links**
 
@@ -68,7 +68,7 @@ tags: arrest, inhumane-treatment, journalist, zip-tie
 
 id: nc-asheville-4
 
-geolocation: 35.5950462,-82.5564847
+geolocation: 35.5950462, -82.5564847
 
 **Links**
 
@@ -93,7 +93,7 @@ tags: less-lethal, pepper-ball, protester, stun-grenade, tear-gas, tear-gas-cani
 
 id: nc-charlotte-1
 
-geolocation: 35.2254977,-80.8452494
+geolocation: 35.2254977, -80.8452494
 
 **Links**
 
@@ -116,7 +116,7 @@ tags: arrest, inhumane-treatment, knee, protester, shove, throw
 
 id: nc-charlotte-2
 
-geolocation: 35.2205048,-80.8373121
+geolocation: 35.2205048, -80.8373121
 
 **Links**
 
@@ -134,7 +134,7 @@ tags: arrest, bike, journalist, knee, medic, protester, shove, strike, threaten,
 
 id: nc-charlotte-3
 
-geolocation: 35.2199889,-80.8356949
+geolocation: 35.2199889, -80.8356949
 
 **Links**
 
@@ -149,7 +149,7 @@ tags: bike, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-4
 
-geolocation: 35.2193485,-80.8408325
+geolocation: 35.2193485, -80.8408325
 
 **Links**
 
@@ -164,7 +164,8 @@ tags: bike, journalist, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-5
 
-geolocation: 35.2268539,-80.8443788
+geolocation: 35.2268539, -80.8443788
+
 **Links**
 
 * https://twitter.com/queencitynerve/status/1297004840644739072
@@ -179,7 +180,7 @@ tags: arrest, protester
 
 id: nc-charlotte-6
 
-geolocation: 35.2187516,-80.8372017
+geolocation: 35.2187516, -80.8372017
 
 **Links**
 
@@ -194,7 +195,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: nc-charlotte-7
 
-geolocation: 35.2254977,-80.8452494
+geolocation: 35.2254977, -80.8452494
 
 **Links**
 
@@ -213,7 +214,7 @@ tags: bike, less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: nc-charlotte-8
 
-geolocation: 35.2196314,-80.8525358
+geolocation: 35.2196314, -80.8525358
 
 **Links**
 
@@ -235,7 +236,7 @@ tags: abuse-of-power, arrest, protester
 
 id: nc-charlotte-9
 
-geolocation: 35.2200169,-80.8353978
+geolocation: 35.2200169, -80.8353978
 
 **Links**
 
