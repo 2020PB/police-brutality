@@ -12,7 +12,7 @@ tags: abuse-of-power, incitement
 
 id: nd-fargo-2
 
-geolocation: 46.8782517,-96.7850301
+geolocation: 46.8782517, -96.7850301
 
 **Links**
 
@@ -27,7 +27,7 @@ tags: arrest, protester, push, racial-profiling, shove
 
 id: nd-fargo-1
 
-geolocation: 46.8769193,-96.789768
+geolocation: 46.8769193, -96.789768
 
 **Links**
 
