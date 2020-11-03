@@ -306,9 +306,10 @@ geolocation: 36.0692831, -79.4025114
 * https://www.newsobserver.com/news/local/article246870132.html
 * https://www.reddit.com/r/PublicFreakout/comments/jlrlz0/north_carolina_police_pepper_spray_disorderly/
 * https://twitter.com/greg_doucette/status/1322678067685412864
+* [NowThis](https://www.youtube.com/watch?v=S50yzKv1cLY)
 * https://news.yahoo.com/north-carolina-voter-rally-ends-203308262.html
-* https://twitter.com/democracynow/status/1323254430813331456
-* https://twitter.com/HuffmanForNC/status/1322592328503144449
+* [Rev. Greg Drumwright on DemocracyNow](https://twitter.com/democracynow/status/1323254430813331456)
+* [Scott Huffman](https://twitter.com/HuffmanForNC/status/1322592328503144449)
 
 
 ### Officer harasses journalist and covers their camera | October 28th
