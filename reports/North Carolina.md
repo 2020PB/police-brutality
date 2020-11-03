@@ -263,7 +263,7 @@ tags: abuse-of-power, arrest, gun, threaten
 
 id: nc-gastonia-1
 
-geolocation: 
+geolocation: 35.2669284,-81.181915
 
 **Links**
 
@@ -359,7 +359,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-raleigh-4
 
-geolocation: 
+geolocation: 35.7796476,-78.6391259
 
 **Links**
 
@@ -376,7 +376,7 @@ tags: arrest, beat, less-lethal, protester, rubber-bullet, shoot, shove, strike,
 
 id: nc-raleigh-5
 
-geolocation: 
+geolocation: 35.7802865,-78.6401054
 
 **Links**
 
@@ -392,7 +392,7 @@ tags: less-lethal, protester, tear-gas
 
 id: nc-raleigh-6
 
-geolocation: 
+geolocation: 35.7802865,-78.6401054
 
 **Links**
 
@@ -408,7 +408,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-raleigh-7
 
-geolocation: 
+geolocation: 35.7811388,-78.6381613
 
 **Links**
 
@@ -424,7 +424,7 @@ tags: journalist, less-lethal, projectile, rubber-bullet, shoot
 
 id: nc-raleigh-9
 
-geolocation: 
+geolocation: 35.7804275,-78.6392513
 
 **Links**
 
@@ -460,7 +460,7 @@ tags: arrest, hide-badge, protester, threaten
 
 id: nc-raleigh-3
 
-geolocation: 
+geolocation: 35.5951262,-78.7354873
 
 **Links**
 
@@ -475,13 +475,13 @@ Footage shows violent arrests of 2 protesters. Multiple officers grab the indivi
 
 One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protester.
 
-Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protester was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
+Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protester was arrested for assault of an officer, while the adult was arrested for resist, delay and obstruct.
 
 tags: arrest, child, protester, push, shove
 
 id: nc-raleigh-8
 
-geolocation: 
+geolocation: 35.7342263,-78.6413227
 
 **Links**
 
@@ -500,10 +500,12 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-wilmington-1
 
-geolocation: 
+geolocation: 34.2371113,-77.9461782
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268047376008216576
 * https://twitter.com/greg_doucette/status/1268047092079112198
+* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.1.mp4)
+* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.2.mp4)
 
