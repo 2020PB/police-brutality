@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-02T19:44:39.143520+00:00
+UPDATED AT: 2020-11-03T14:20:19.670753+00:00
 
 
 # Alabama
@@ -8814,6 +8814,7 @@ geolocation: 40.7483593, -74.0058763
 * https://twitter.com/greg_doucette/status/1322997629232570378
 * https://twitter.com/protest_nyc/status/1322960650402934784
 * https://twitter.com/JoshuaPotash/status/1323021628733853696
+* https://twitter.com/ScooterCasterNY/status/1322977073078640641
 
 
 ## Rochester
