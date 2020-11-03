@@ -1937,6 +1937,7 @@ geolocation: 40.7483593, -74.0058763
 * https://twitter.com/greg_doucette/status/1322997629232570378
 * https://twitter.com/protest_nyc/status/1322960650402934784
 * https://twitter.com/JoshuaPotash/status/1323021628733853696
+* https://twitter.com/ScooterCasterNY/status/1322977073078640641
 
 
 ## Rochester
