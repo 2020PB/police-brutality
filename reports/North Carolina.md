@@ -263,7 +263,7 @@ tags: abuse-of-power, arrest, gun, threaten
 
 id: nc-gastonia-1
 
-geolocation: 35.2669284,-81.181915
+geolocation: 35.2669284, -81.181915
 
 **Links**
 
@@ -359,7 +359,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-raleigh-4
 
-geolocation: 35.7796476,-78.6391259
+geolocation: 35.7796476, -78.6391259
 
 **Links**
 
@@ -376,7 +376,7 @@ tags: arrest, beat, less-lethal, protester, rubber-bullet, shoot, shove, strike,
 
 id: nc-raleigh-5
 
-geolocation: 35.7802865,-78.6401054
+geolocation: 35.7802865, -78.6401054
 
 **Links**
 
@@ -392,7 +392,7 @@ tags: less-lethal, protester, tear-gas
 
 id: nc-raleigh-6
 
-geolocation: 35.7802865,-78.6401054
+geolocation: 35.7802865, -78.6401054
 
 **Links**
 
@@ -408,7 +408,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-raleigh-7
 
-geolocation: 35.7811388,-78.6381613
+geolocation: 35.7811388, -78.6381613
 
 **Links**
 
@@ -424,7 +424,7 @@ tags: journalist, less-lethal, projectile, rubber-bullet, shoot
 
 id: nc-raleigh-9
 
-geolocation: 35.7804275,-78.6392513
+geolocation: 35.7804275, -78.6392513
 
 **Links**
 
@@ -460,7 +460,7 @@ tags: arrest, hide-badge, protester, threaten
 
 id: nc-raleigh-3
 
-geolocation: 35.5951262,-78.7354873
+geolocation: 35.5951262, -78.7354873
 
 **Links**
 
@@ -481,7 +481,7 @@ tags: arrest, child, protester, push, shove
 
 id: nc-raleigh-8
 
-geolocation: 35.7342263,-78.6413227
+geolocation: 35.7342263, -78.6413227
 
 **Links**
 
@@ -500,7 +500,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-wilmington-1
 
-geolocation: 34.2371113,-77.9461782
+geolocation: 34.2371113, -77.9461782
 
 **Links**
 
