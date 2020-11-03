@@ -10,7 +10,7 @@ tags: arrest, beat, less-lethal, pepper-spray, protester, spray, strike, tackle,
 
 id: ut-cottonwoodheights-1
 
-geolocation: 
+geolocation: 40.6292192,-111.8216915
 
 **Links**
 
