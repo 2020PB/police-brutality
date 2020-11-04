@@ -1528,11 +1528,11 @@ geolocation: 32.7177756, -117.1695895
 
 Police make several violent arrests, allegedly for knocking over barricades near the San Diego Police Headquarters. Officers then threaten the filmer with pepper spray.
 
-tags: protester, arrest, push, shove, threaten
+tags: arrest, protester, push, shove, threaten
 
 id: ca-sandiego-8
 
-geolocation: 32.7153421,-117.1532613
+geolocation: 32.7153421, -117.1532613
 
 **Links**
 
