@@ -27,7 +27,7 @@ tags: abuse-of-power, protester
 
 id: oh-bethel-1
 
-geolocation: 38.9633126,-84.0775977
+geolocation: 38.9633126, -84.0775977
 
 **Links**
 
@@ -45,7 +45,7 @@ tags: less-lethal, pepper-spray, protester, stun-grenade, tear-gas
 
 id: oh-canton-1
 
-geolocation: 40.8093732,-81.3778773
+geolocation: 40.8093732, -81.3778773
 
 **Links**
 
@@ -64,7 +64,7 @@ tags: less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
 
 id: oh-cincinnati-1
 
-geolocation: 39.1091309,-84.5209572
+geolocation: 39.1091309, -84.5209572
 
 **Links**
 
@@ -81,7 +81,7 @@ tags: less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray, stun-gr
 
 id: oh-cincinnati-7
 
-geolocation: 39.1091904,-84.5203794
+geolocation: 39.1091904, -84.5203794
 
 **Links**
 
@@ -97,7 +97,7 @@ tags: beat, less-lethal, protester, tear-gas
 
 id: oh-cincinnati-2
 
-geolocation: 39.1071253,-84.5124637
+geolocation: 39.1071253, -84.5124637
 
 **Links**
 
@@ -115,7 +115,7 @@ tags: arrest, inhumane-treatment, protester, zip-tie
 
 id: oh-cincinnati-5
 
-geolocation: 39.1071253,-84.5124637
+geolocation: 39.1071253, -84.5124637
 
 **Links**
 
@@ -134,7 +134,7 @@ tags: abuse-of-power, arrest, bystander, less-lethal, taser
 
 id: oh-cincinnati-6
 
-geolocation: 39.1059716,-84.5171367
+geolocation: 39.1059716, -84.5171367
 
 **Links**
 
@@ -155,7 +155,7 @@ tags: arrest, journalist, shove
 
 id: oh-cincinnati-3
 
-geolocation: 39.1214602,-84.5261651
+geolocation: 39.1214602, -84.5261651
 
 **Links**
 
@@ -170,7 +170,7 @@ tags: arrest, inhumane-treatment, protester
 
 id: oh-cincinnati-4
 
-geolocation: 39.1201795,-84.524284
+geolocation: 39.1201795, -84.524284
 
 **Links**
 
