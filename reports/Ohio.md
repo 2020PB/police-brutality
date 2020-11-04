@@ -8,7 +8,7 @@ tags: less-lethal, protester, tear-gas
 
 id: oh-beavercreek-1
 
-geolocation: 
+geolocation: 39.7701315, -84.0543829
 
 **Links**
 
