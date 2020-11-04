@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-04T09:04:16.827353+00:00
+UPDATED AT: 2020-11-04T18:28:10.446294+00:00
 
 
 # Alabama
@@ -1917,6 +1917,22 @@ geolocation: 32.7177756, -117.1695895
 
 * https://twitter.com/TheActivatedPod/status/1309745516247351296
 * https://www.reddit.com/r/PublicFreakout/comments/j06kl7/protestors_and_san_diego_police_clash_last_night/
+
+
+### Police make violent arrests | October 31st
+
+Police make several violent arrests, allegedly for knocking over barricades near the San Diego Police Headquarters. Officers then threaten the filmer with pepper spray.
+
+tags: arrest, protester, push, shove, threaten
+
+id: ca-sandiego-8
+
+geolocation: 32.7153421, -117.1532613
+
+**Links**
+
+* https://www.youtube.com/watch?v=r74JUAjXsuk
+* https://twitter.com/TheActivatedPod/status/1323407925935706112
 
 
 ## San Francisco
