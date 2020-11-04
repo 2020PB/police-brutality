@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-03T14:20:19.670753+00:00
+UPDATED AT: 2020-11-04T09:02:45.446318+00:00
 
 
 # Alabama
@@ -19137,7 +19137,7 @@ tags: arrest, protester, push, shove
 
 id: vt-stjohnsbury-1
 
-geolocation: 
+geolocation: 44.4226883, -72.0071364
 
 **Links**
 
