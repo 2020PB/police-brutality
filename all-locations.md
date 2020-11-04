@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-04T09:03:53.197219+00:00
+UPDATED AT: 2020-11-04T09:04:16.827353+00:00
 
 
 # Alabama
@@ -9036,7 +9036,7 @@ tags: child, less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: nc-asheville-2
 
-geolocation: 
+geolocation: 35.5909699, -82.5737781
 
 **Links**
 
@@ -9048,13 +9048,13 @@ geolocation:
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
 
-Additional investigation found the station was on private property and conducted with approval from the property owner.
+Additional investigation found the station was on private property and conducted with approval from the property owner. The station was in an alley near One World Brewing on Patton Avenue.
 
 tags: medic, property-destruction
 
 id: nc-asheville-1
 
-geolocation: 
+geolocation: 35.5948849, -82.5523578
 
 **Links**
 
@@ -9074,7 +9074,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-asheville-3
 
-geolocation: 
+geolocation: 35.5903468, -82.574270
 
 **Links**
 
@@ -9096,7 +9096,7 @@ tags: arrest, inhumane-treatment, journalist, zip-tie
 
 id: nc-asheville-4
 
-geolocation: 
+geolocation: 35.5950462, -82.5564847
 
 **Links**
 
@@ -9121,7 +9121,7 @@ tags: less-lethal, pepper-ball, protester, stun-grenade, tear-gas, tear-gas-cani
 
 id: nc-charlotte-1
 
-geolocation: 
+geolocation: 35.2254977, -80.8452494
 
 **Links**
 
@@ -9144,7 +9144,7 @@ tags: arrest, inhumane-treatment, knee, protester, shove, throw
 
 id: nc-charlotte-2
 
-geolocation: 
+geolocation: 35.2205048, -80.8373121
 
 **Links**
 
@@ -9162,7 +9162,7 @@ tags: arrest, bike, journalist, knee, medic, protester, shove, strike, threaten,
 
 id: nc-charlotte-3
 
-geolocation: 
+geolocation: 35.2199889, -80.8356949
 
 **Links**
 
@@ -9177,7 +9177,7 @@ tags: bike, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-4
 
-geolocation: 
+geolocation: 35.2193485, -80.8408325
 
 **Links**
 
@@ -9186,13 +9186,13 @@ geolocation:
 
 ### Police shove and pepper spray RNC protesters | August 21st
 
-At a protest outside the Republican National Convention in Charlotte, NC, police used bikes to shove protesters and pepper sprayed others. A journalist filming the scene was caught in the pepper spray.
+At a protest outside the Republican National Convention in Charlotte, NC (Trade and Tryon Streets), police used bikes to shove protesters and pepper sprayed others. A journalist filming the scene was caught in the pepper spray.
 
 tags: bike, journalist, less-lethal, pepper-spray, protester, shove, spray
 
 id: nc-charlotte-5
 
-geolocation: 
+geolocation: 35.2268539, -80.8443788
 
 **Links**
 
@@ -9202,13 +9202,13 @@ geolocation:
 
 ### Police arrest protester without warning or clear justification | August 23rd
 
-Police talk to a protester walking by their line. The protester steps forward and is held back by police. The protester then talks to another officer. That officer then grabs the protester without warning and arrests them.
+Police talk to a protester walking by their line at 3rd and McDowell. The protester steps forward and is held back by police. The protester then talks to another officer. That officer then grabs the protester without warning and arrests them.
 
 tags: arrest, protester
 
 id: nc-charlotte-6
 
-geolocation: 
+geolocation: 35.2187516, -80.8372017
 
 **Links**
 
@@ -9223,7 +9223,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: nc-charlotte-7
 
-geolocation: 
+geolocation: 35.2254977, -80.8452494
 
 **Links**
 
@@ -9242,7 +9242,7 @@ tags: bike, less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: nc-charlotte-8
 
-geolocation: 
+geolocation: 35.2196314, -80.8525358
 
 **Links**
 
@@ -9264,7 +9264,7 @@ tags: abuse-of-power, arrest, protester
 
 id: nc-charlotte-9
 
-geolocation: 
+geolocation: 35.2200169, -80.8353978
 
 **Links**
 
@@ -9291,7 +9291,7 @@ tags: abuse-of-power, arrest, gun, threaten
 
 id: nc-gastonia-1
 
-geolocation: 
+geolocation: 35.2669284, -81.181915
 
 **Links**
 
@@ -9388,7 +9388,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-raleigh-4
 
-geolocation: 
+geolocation: 35.7796476, -78.6391259
 
 **Links**
 
@@ -9405,7 +9405,7 @@ tags: arrest, beat, less-lethal, protester, rubber-bullet, shoot, shove, strike,
 
 id: nc-raleigh-5
 
-geolocation: 
+geolocation: 35.7802865, -78.6401054
 
 **Links**
 
@@ -9421,7 +9421,7 @@ tags: less-lethal, protester, tear-gas
 
 id: nc-raleigh-6
 
-geolocation: 
+geolocation: 35.7802865, -78.6401054
 
 **Links**
 
@@ -9437,7 +9437,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: nc-raleigh-7
 
-geolocation: 
+geolocation: 35.7811388, -78.6381613
 
 **Links**
 
@@ -9453,7 +9453,7 @@ tags: journalist, less-lethal, projectile, rubber-bullet, shoot
 
 id: nc-raleigh-9
 
-geolocation: 
+geolocation: 35.7804275, -78.6392513
 
 **Links**
 
@@ -9489,7 +9489,7 @@ tags: arrest, hide-badge, protester, threaten
 
 id: nc-raleigh-3
 
-geolocation: 
+geolocation: 35.5951262, -78.7354873
 
 **Links**
 
@@ -9504,13 +9504,13 @@ Footage shows violent arrests of 2 protesters. Multiple officers grab the indivi
 
 One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protester.
 
-Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protester was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
+Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protester was arrested for assault of an officer, while the adult was arrested for resist, delay and obstruct.
 
 tags: arrest, child, protester, push, shove
 
 id: nc-raleigh-8
 
-geolocation: 
+geolocation: 35.7342263, -78.6413227
 
 **Links**
 
@@ -9529,12 +9529,14 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: nc-wilmington-1
 
-geolocation: 
+geolocation: 34.2371113, -77.9461782
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268047376008216576
 * https://twitter.com/greg_doucette/status/1268047092079112198
+* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.1.mp4)
+* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.2.mp4)
 
 
 
