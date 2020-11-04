@@ -190,7 +190,7 @@ tags: arrest, baton, beat, protester
 
 id: oh-cleveland-1
 
-geolocation: 41.5037487,-81.6978239
+geolocation: 41.5037487, -81.6978239
 
 **Links**
 
@@ -205,7 +205,7 @@ tags: less-lethal, protester, tear-gas
 
 id: oh-cleveland-2
 
-geolocation: 41.502496,-81.6976416
+geolocation: 41.502496, -81.6976416
 
 **Links**
 
@@ -224,7 +224,7 @@ tags: less-lethal, medic, protester, rubber-bullet, shoot
 
 id: oh-cleveland-3
 
-geolocation: 41.5017244,-81.6981333
+geolocation: 41.5017244, -81.6981333
 
 **Links**
 
@@ -242,7 +242,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: oh-cleveland-4
 
-geolocation: 41.5019212,-81.6979831
+geolocation: 41.5019212, -81.6979831
 
 **Links**
 
@@ -257,7 +257,7 @@ tags: bean-bag, less-lethal, protester, shoot
 
 id: oh-cleveland-5
 
-geolocation: 41.5019212,-81.6979831
+geolocation: 41.5019212, -81.6979831
 
 **Links**
 
@@ -275,7 +275,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-cleveland-6
 
-geolocation: 41.5027596,-81.6971191
+geolocation: 41.5027596, -81.6971191
 
 **Links**
 
@@ -677,7 +677,7 @@ tags: less-lethal, protester, tear-gas
 
 id: oh-dayton-1
 
-geolocation: 39.7592073,-84.1935745
+geolocation: 39.7592073, -84.1935745
 
 **Links**
 
@@ -694,7 +694,7 @@ tags: less-lethal, protester, rubber-bullet, tear-gas
 
 id: oh-toledo-1
 
-geolocation: 41.6642615,-83.5381045
+geolocation: 41.6642615, -83.5381045
 
 **Links**
 
