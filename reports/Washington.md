@@ -1254,12 +1254,13 @@ geolocation: 47.6141198, -122.3189719
 
 Police arrest 2 members of the press near the Juvenile Detention Center for "not walking fast enough."
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: wa-vancouver-1
 
-geolocation: 45.6295982,-122.676611
+geolocation: 45.6295982, -122.676611
 
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1322455020684546048
+
