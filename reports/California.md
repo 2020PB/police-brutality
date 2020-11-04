@@ -1524,6 +1524,22 @@ geolocation: 32.7177756, -117.1695895
 * https://www.reddit.com/r/PublicFreakout/comments/j06kl7/protestors_and_san_diego_police_clash_last_night/
 
 
+### Police make violent arrests | October 31st
+
+Police make several violent arrests, allegedly for knocking over barricades near the San Diego Police Headquarters. Officers then threaten the filmer with pepper spray.
+
+tags: protester, arrest, push, shove, threaten
+
+id: ca-sandiego-8
+
+geolocation: 32.7153421,-117.1532613
+
+**Links**
+
+* https://www.youtube.com/watch?v=r74JUAjXsuk
+* https://twitter.com/TheActivatedPod/status/1323407925935706112
+
+
 ## San Francisco
 
 ### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
