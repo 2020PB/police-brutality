@@ -19,7 +19,7 @@ geolocation: 39.7701315, -84.0543829
 
 ### Man struck by counter-protester while police look on | June 14th
 
-During a BLM protest in Bethel, Ohio, protesters were met by a substantial counter-protest, which allegedly harrassed and assaulted them. In one particular video, a counter-protester strikes a BLM protester on the back of the head and walk away. There are police officers directly in front of and behind the incident. The man tells the officer he just got punched. The officer's response is difficult to hear above the crowd, but he appears to offer little help, instead telling the protester he is not allowed to demonstrate there (on a public sidewalk).
+During a BLM protest in Bethel, Ohio near the Christian Community Church on Plane Street, protesters were met by a substantial counter-protest, which allegedly harrassed and assaulted them. In one particular video, a counter-protester strikes a BLM protester on the back of the head and walk away. There are police officers directly in front of and behind the incident. The man tells the officer he just got punched. The officer's response is difficult to hear above the crowd, but he appears to offer little help, instead telling the protester he is not allowed to demonstrate there (on a public sidewalk).
 
 News report includes footage of counter-protesters using racial slurs, harassing protesters and rip signs out of protester hands while police look on.
 
@@ -27,7 +27,7 @@ tags: abuse-of-power, protester
 
 id: oh-bethel-1
 
-geolocation: 
+geolocation: 38.9633126,-84.0775977
 
 **Links**
 
@@ -45,7 +45,7 @@ tags: less-lethal, pepper-spray, protester, stun-grenade, tear-gas
 
 id: oh-canton-1
 
-geolocation: 
+geolocation: 40.8093732,-81.3778773
 
 **Links**
 
@@ -58,13 +58,13 @@ geolocation:
 
 ### Police disperse peaceful protest with tear gas, flashbangs and pepper bullets | May 30th
 
-A peaceful protest was dispersed with tear gas and flashbangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
+A peaceful protest near the Cincinnati police headquarters was dispersed with tear gas and flashbangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
 
 tags: less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
 
 id: oh-cincinnati-1
 
-geolocation: 
+geolocation: 39.1091309,-84.5209572
 
 **Links**
 
@@ -73,7 +73,7 @@ geolocation:
 
 ### Peaceful protester on sidewalk pepper sprayed | May 30th
 
-Footage from a news report shows a protester standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes, seemingly unprovoked.
+Footage from a news report outside the Cincinnati police headquarters shows a protester standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes, seemingly unprovoked.
 
 The reporter states that rubber bullets and flashbangs are also being used on the crowd.
 
@@ -81,7 +81,7 @@ tags: less-lethal, pepper-spray, protester, rubber-bullet, shoot, spray, stun-gr
 
 id: oh-cincinnati-7
 
-geolocation: 
+geolocation: 39.1091904,-84.5203794
 
 **Links**
 
@@ -91,13 +91,13 @@ geolocation:
 
 ### Police violently disperse crowds, before curfew and allegedly without provocation | May 31st
 
-Police use tear gas to disperse a crowd before curfew. No provocation is mentioned in the news article; a first-hand account posted to facebook claims there was none. The account posted to Facebook claims that no order to disperse was given; local news coverage does not mention any order to disperse being given. Mass arrests were conducted at some point the night of the 31st. The account posted to Facebook claims that police surrounded and trapped protesters before curfew, and beat some protesters.
+Police use tear gas to disperse a crowd near the Hamilton County Courthouse before curfew. No provocation is mentioned in the news article; a first-hand account posted to facebook claims there was none. The account posted to Facebook claims that no order to disperse was given; local news coverage does not mention any order to disperse being given. Mass arrests were conducted at some point the night of the 31st. The account posted to Facebook claims that police surrounded and trapped protesters before curfew, and beat some protesters.
 
 tags: beat, less-lethal, protester, tear-gas
 
 id: oh-cincinnati-2
 
-geolocation: 
+geolocation: 39.1071253,-84.5124637
 
 **Links**
 
@@ -115,18 +115,18 @@ tags: arrest, inhumane-treatment, protester, zip-tie
 
 id: oh-cincinnati-5
 
-geolocation: 
+geolocation: 39.1071253,-84.5124637
 
 **Links**
 
-* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+* https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful
 * [Screenshot of Facebook post](https://i.imgur.com/mECPaWe.jpg)
 * [Local news coverage](https://www.cincinnatimagazine.com/article/protesters-speak-up-about-police-treatment-during-peaceful-demonstrations/)
 
 
 ### Tattoo artist arrested while painting the outside of his shop; police fail to deescalate | May 31st
 
-Jamison Walker, a Cincinnati tattoo artist, with the owner's permission, was painting the outside of the shop where he works after curfew. He alleges that a police officer told him he could finish his work. The Instagram video begins at some later point as several cops approach. They tell Walker (and at least two other persons present) to "get inside." For around 12 seconds, two police officers, Walker, and one other tattoo shop employee are talking simultaneously; Walker told local news he tried to go inside but one officer blocked his path. One officer can be heard to say "I'm giving you a chance, go in," then another can be heard to say "That's exactly what's going to happen -- no -- no no -- inside, go inside, inside -- go inside, there's no debate -- no, you may not." Said officer then begins arresting Walker. Officers shove Walker against a wall and grab his arms; they yell for him to put his hands behind his back. One officer draws a taser and holds it near Walker's shoulder. Meanwhile, one of Walker's colleagues is filming; police scream at her to "get the fuck back -- get back." It's unclear whether she's standing in a doorway or backed up against a wall. Another officer is acting very aggressively and has his taser drawn until the cop next to him taps him on the arm, at which point he holsters his taser and steps back. In total, at least eight police officers are present, of whom at least two draw their tasers, despite facing little to no resistance.
+Jamison Walker, a Cincinnati tattoo artist at Black Fern Tattoo, was painting the outside of the shop after curfew (with the owner's permission). He alleges that a police officer told him he could finish his work. The Instagram video begins at some later point as several cops approach. They tell Walker (and at least two other persons present) to "get inside." For around 12 seconds, two police officers, Walker, and one other tattoo shop employee are talking simultaneously; Walker told local news he tried to go inside but one officer blocked his path. One officer can be heard to say "I'm giving you a chance, go in," then another can be heard to say "That's exactly what's going to happen -- no -- no no -- inside, go inside, inside -- go inside, there's no debate -- no, you may not." Said officer then begins arresting Walker. Officers shove Walker against a wall and grab his arms; they yell for him to put his hands behind his back. One officer draws a taser and holds it near Walker's shoulder. Meanwhile, one of Walker's colleagues is filming; police scream at her to "get the fuck back -- get back." It's unclear whether she's standing in a doorway or backed up against a wall. Another officer is acting very aggressively and has his taser drawn until the cop next to him taps him on the arm, at which point he holsters his taser and steps back. In total, at least eight police officers are present, of whom at least two draw their tasers, despite facing little to no resistance.
 
 NOTE: While curfews in many cities exempted anyone going to or from work, Cincinnati's exempted only essential workers. Tattoo artists are not essential, so Walker's arrest was likely lawful, though officers unnecessarily escalated the situation as they were arresting him.
 
@@ -134,14 +134,13 @@ tags: abuse-of-power, arrest, bystander, less-lethal, taser
 
 id: oh-cincinnati-6
 
-geolocation: 
+geolocation: 39.1059716,-84.5171367
 
 **Links**
 
 * [Instagram post](https://www.instagram.com/p/CA6Aa5TB1Ml/)
-* [Video from Instagram post](https://instagram.fric1-2.fna.fbcdn.net/v/t50.2886-16/100852726_279345510107610_3998981863448833499_n.mp4?_nc_ht=instagram.fric1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=YFSefphKcIYAX_M32_q&oe=5F09000E&oh=6775ecc754bbee9e3d7929587e31bf72)
-* [Corresponding Reddit post](https://www.reddit.com/r/cincinnati/comments/gutrgk/cincinnati_police_arrest_working_painting_shop/?utm_medium=android_app&utm_source=share)
-* [Fox 19 Coverage](https://www.fox19.com/2020/06/03/cincy-tattoo-artist-says-curfew-arrest-was-bait-and-switch-by-police/#:~:text=Jamison%20Walker%20works%20at%20a,wide%20curfew%20went%20into%20effect.)
+* [Corresponding Reddit post](https://www.reddit.com/r/cincinnati/comments/gutrgk/cincinnati_police_arrest_working_painting_shop/)
+* [Fox 19 Coverage](https://www.fox19.com/2020/06/03/cincy-tattoo-artist-says-curfew-arrest-was-bait-and-switch-by-police/)
 * [WCPO Coverage](https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/local-tattoo-artist-arrested-with-protesters-despite-not-being-involved)
 * [Curfew exempts essential workers, not all workers](https://www.cincinnati.com/story/news/2020/05/30/cincinnati-curfew-protest-george-floyd-what-you-need-to-know/5295220002/)
 
@@ -150,11 +149,13 @@ geolocation:
 
 Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
 
+The incident appears to have occurred near Ravine Street and McMicken Avenue
+
 tags: arrest, journalist, shove
 
 id: oh-cincinnati-3
 
-geolocation: 
+geolocation: 39.1214602,-84.5261651
 
 **Links**
 
@@ -169,7 +170,7 @@ tags: arrest, inhumane-treatment, protester
 
 id: oh-cincinnati-4
 
-geolocation: 
+geolocation: 39.1201795,-84.524284
 
 **Links**
 
