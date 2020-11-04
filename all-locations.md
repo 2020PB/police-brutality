@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-04T18:28:10.446294+00:00
+UPDATED AT: 2020-11-04T18:28:38.274368+00:00
 
 
 # Alabama
@@ -20913,6 +20913,23 @@ geolocation: 47.6141198, -122.3189719
 
 * https://twitter.com/R3volutionDaddy/status/1317702275821834240
 * https://twitter.com/R3volutionDaddy/status/1317874394711011329
+
+
+## Vancouver
+
+### Police arrest journalists | October 31st
+
+Police arrest 2 members of the press near the Juvenile Detention Center for "not walking fast enough."
+
+tags: arrest, journalist
+
+id: wa-vancouver-1
+
+geolocation: 45.6295982, -122.676611
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1322455020684546048
 
 
 
