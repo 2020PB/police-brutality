@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-04T09:03:15.781840+00:00
+UPDATED AT: 2020-11-04T09:03:33.706651+00:00
 
 
 # Alabama
@@ -9592,7 +9592,7 @@ tags: less-lethal, protester, tear-gas
 
 id: oh-beavercreek-1
 
-geolocation: 
+geolocation: 39.7701315, -84.0543829
 
 **Links**
 
