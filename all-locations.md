@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-04T09:02:52.481189+00:00
+UPDATED AT: 2020-11-04T09:03:15.781840+00:00
 
 
 # Alabama
@@ -19013,7 +19013,7 @@ tags: arrest, beat, less-lethal, pepper-spray, protester, spray, strike, tackle,
 
 id: ut-cottonwoodheights-1
 
-geolocation: 
+geolocation: 40.6292192, -111.8216915
 
 **Links**
 
