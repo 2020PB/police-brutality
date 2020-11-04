@@ -13,6 +13,7 @@ geolocation: 39.7701315, -84.0543829
 **Links**
 
 * [Video; tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
+* https://twitter.com/greg_doucette/status/1279832182463365125
 
 
 ## Bethel
@@ -181,15 +182,15 @@ geolocation: 39.1201795, -84.524284
 
 ## Cleveland
 
-### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
+### Officer swings baton at protesters, beats one who is trying to keep crowd back | (Believed to be) May 30th
 
-Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back.
+Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back. The incident occurred outside the Cleveland Justice Center.
 
 tags: arrest, baton, beat, protester
 
 id: oh-cleveland-1
 
-geolocation: 
+geolocation: 41.5037487,-81.6978239
 
 **Links**
 
@@ -198,13 +199,13 @@ geolocation:
 
 ### Police fire tear gas at peaceful protest | May 30th
 
-Without warning, police fire tear gas at peaceful protesters.
+Without warning, police fire tear gas at peaceful protesters outside The Justice Center in Cleveland.
 
 tags: less-lethal, protester, tear-gas
 
 id: oh-cleveland-2
 
-geolocation: 
+geolocation: 41.502496,-81.6976416
 
 **Links**
 
@@ -217,11 +218,13 @@ Twitter user who relays Cleveland police scanner says transmission went over rad
 
 Additional footage shows a street medic patching a wound in the back of a protester. The description of this footage states that police were aiming at the crowd.
 
+See oh-cleveland-4 and oh-cleveland-5 for additional specific incidents.
+
 tags: less-lethal, medic, protester, rubber-bullet, shoot
 
 id: oh-cleveland-3
 
-geolocation: 
+geolocation: 41.5017244,-81.6981333
 
 **Links**
 
@@ -239,7 +242,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: oh-cleveland-4
 
-geolocation: 
+geolocation: 41.5019212,-81.6979831
 
 **Links**
 
@@ -248,13 +251,13 @@ geolocation:
 
 ### Protester shot in the eye with pellet round | May 30th
 
-Footage shows a protester show in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protester's eye. Another image from the protester shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
+Footage shows a protester shot in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protester's eye. Another image from the protester shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
 
 tags: bean-bag, less-lethal, protester, shoot
 
 id: oh-cleveland-5
 
-geolocation: 
+geolocation: 41.5019212,-81.6979831
 
 **Links**
 
@@ -272,7 +275,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-cleveland-6
 
-geolocation: 
+geolocation: 41.5027596,-81.6971191
 
 **Links**
 
@@ -674,39 +677,24 @@ tags: less-lethal, protester, tear-gas
 
 id: oh-dayton-1
 
-geolocation: 
+geolocation: 39.7592073,-84.1935745
 
 **Links**
 
 * [Tear gas at 18:20 and 34:00](https://www.facebook.com/daytondailynews/videos/276588847040795)
 
 
-### Police tear gas peaceful protest | June 1st
-
-Footage shows peaceful protesters occupying a road. They are chanting. Without warning, police fire tear gas, scattering the protesters
-
-tags: less-lethal, protester, tear-gas
-
-id: oh-dayton-2
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1279832182463365125
-
-
 ## Toledo
 
 ### Police use tear gas on protesters | May 30th
 
-Around 7:30pm, the police used tear gas on protesters after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protesters. Later, in the second video, the police use tear gas on the protesters shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
+Around 7:30pm near Cherry and Bancroft, the police used tear gas on protesters after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protesters. Later, in the second video, the police use tear gas on the protesters shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
 
 tags: less-lethal, protester, rubber-bullet, tear-gas
 
 id: oh-toledo-1
 
-geolocation: 
+geolocation: 41.6642615,-83.5381045
 
 **Links**
 
