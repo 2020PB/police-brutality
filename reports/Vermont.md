@@ -8,7 +8,7 @@ tags: arrest, protester, push, shove
 
 id: vt-stjohnsbury-1
 
-geolocation: 
+geolocation: 44.4226883, -72.0071364
 
 **Links**
 
