@@ -816,13 +816,13 @@ geolocation: 38.9624407, -77.0286733
 
 Violent arrests made by MPD during an Election day protest at Black Lives Matter plaza.
 
-tags: protester, push, shove, tackle, grab, arrest
+tags: arrest, grab, protester, push, shove, tackle
 
 id: dc-dc-50
 
-geolocation: 38.9013441,-77.0387466
+geolocation: 38.9013441, -77.0387466
 
-**Links** 
+**Links**
 
 * https://twitter.com/itakeshots1/status/1323760660044488706
 * https://twitter.com/itakeshots1/status/1323760754105978886
@@ -830,3 +830,4 @@ geolocation: 38.9013441,-77.0387466
 * https://twitter.com/duckdiver19/status/1323759348808474624
 * https://twitter.com/blackhousenew/status/1323756565384564740
 * https://twitter.com/brutamerica/status/1323825313575567361
+
