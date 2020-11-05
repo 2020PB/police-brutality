@@ -7062,6 +7062,89 @@ geolocation: 45.493797, -122.6728732
 * https://twitter.com/KohzKah/status/1321758357317824512
 
 
+### Officers charged protesters & press | November 4th
+
+Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) charged protesters at Harvey Milk and 10th Streets, knocking several protesters to the ground, as well as a 75 year old photojournalist.
+
+tags: protester, journalist, push, shove
+
+id: or-portland-404
+
+geolocation: 45.522035,-122.6810836
+
+**Links**
+
+* https://twitter.com/Cascadianphotog/status/1324192820542885888
+* https://twitter.com/ByMikeBaker/status/1324187985680633858
+* https://twitter.com/hungrybowtie/status/1324190515252797440
+
+
+### Officers shove, strike, and arrest protesters | November 4th
+
+Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) pushed protesters back (on the 600 block of SW Alder St). One officer strikes a protester repeatedly with their baton. That protester was later arrested.
+
+tags: protester, push, shove, strike, baton, arrest
+
+id: or-portland-405
+
+geolocation: 45.5198559,-122.6787256
+
+**Links**
+
+* https://twitter.com/ByMikeBaker/status/1324202544403341312
+* https://twitter.com/MrOlmos/status/1324202913841860608
+* https://mobile.twitter.com/hungrybowtie/status/1324206454446854145
+
+
+### Officers make violent arrests | November 4th
+
+Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) made several violent arrests at SW Park and Washington, with one officer knocking a protester to the ground as they attempted to stand.
+
+tags: protester, push, shove, arrest
+
+id: or-portland-406
+
+geolocation: 45.521009,-122.6800833
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1324204007489900545
+* https://twitter.com/MrOlmos/status/1324204345445920770
+* https://twitter.com/PDocumentarians/status/1324205397322838017
+* https://twitter.com/suzettesmith/status/1324204617857523712
+
+### Protester tackled and arrested | November 4th
+
+Members of the Oregon State Police charged an individual wearing a green helmet, tackling and pinning them to the ground. It was believed that this individual is a member of the NLG, but the NLG has said the individual is not affiliated with them.
+
+tags: protester, tackle, arrest
+
+id: or-portland-407
+
+geolocation: 45.5216957,-122.6801068
+
+**Links**
+
+* https://mobile.twitter.com/jovannithe1st/status/1324204608026103808
+* https://mobile.twitter.com/GriffinMalone6/status/1324205516784951296
+
+
+### Member of Vice film crew harassed and assaulted | November 4th
+
+A VICE film crew was harassed by members of the Unified Command and National Guard in downtown Portland (near Park and Taylor) on November 4th. A member of the Unified Command repeatedly jabbed the cameraman with a baton, then dragged him to the ground.
+
+tags: journalist, push, shove, strike, baton, tackle, grab
+
+id: or-portland-408
+
+geolocation: 45.5183617,-122.6815986
+
+**Links**
+
+* https://twitter.com/misstessowen/status/1324249670999109634
+* https://twitter.com/misstessowen/status/1324249958980046853
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns white armed men | June 4th
