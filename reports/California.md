@@ -1229,11 +1229,11 @@ Members of the LAPD arrested several legal observers and at least one member of 
 
 The incident is believed to have occurred near the Staples Center.
 
-tags: journalist, legal-observer, arrest
+tags: arrest, journalist, legal-observer
 
 id: ca-losangeles-62
 
-geolocation: 34.0430219,-118.2694428
+geolocation: 34.0430219, -118.2694428
 
 **Links**
 
@@ -1246,11 +1246,11 @@ LAPD officers grab and arrest an individual wearing a clearly-labeled PRESS vest
 
 Another journalist was also arrested in this incident.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: ca-losangeles-63
 
-geolocation: 34.048569,-118.2550804
+geolocation: 34.048569, -118.2550804
 
 **Links**
 
@@ -1261,7 +1261,7 @@ geolocation: 34.048569,-118.2550804
 * https://twitter.com/ACatWithNews/status/1324224193202855937
 * https://www.latimes.com/california/story/2020-11-04/lapd-detain-cite-two-videographers-after-declaring-downtown-protest-unlawful
 
- 
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
