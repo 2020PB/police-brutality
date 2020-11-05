@@ -547,3 +547,34 @@ geolocation: 39.7524036, -104.9868013
 * https://www.youtube.com/watch?v=LPgsnF1Pxzc
 * https://twitter.com/wallofmomsden/status/1298655891131179020
 
+
+### Police charge and arrest protesters | November 4th
+
+Police charge protesters at Colfax and Williams. One officer tackles a fleeing protester to the ground. Police arrest at least one protester. An arrestee was seen beaten and dragged across the pavement by officers.
+
+tags: arrest, beat, grab, protester, tackle
+
+id: co-denver-29
+
+geolocation: 39.7399842, -104.9659509
+
+**Links**
+
+* https://twitter.com/__ovas__/status/1324216171093086208
+* https://twitter.com/colpeoplespress/status/1324227487539335168
+
+
+### Officer shoots protester in head | November 4th
+
+Footage shows a protester walking away from police near Colfax and Gilpin. Police fire less-lethal rounds and the protester recoils, grabbing their head, as a cloud of dust consistent with pepper balls bursts on the protester's head.
+
+tags: less-lethal, pepper-ball, projectile, protester, shoot
+
+id: co-denver-30
+
+geolocation: 39.7399582, -104.9670282
+
+**Links**
+
+* https://twitter.com/__ovas__/status/1324213218143694849
+
