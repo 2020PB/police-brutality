@@ -1252,11 +1252,11 @@ geolocation: 47.6141198, -122.3189719
 
 A bike officer singles out a car driving with protesters (near Mercer and 4th Ave N) for no clear reason; the car was one of several. The officer begins banging on the car window with his bicycle. A second officer joins him. They smash the window, arrest the driver, and leave the vehicle in the street.
 
-tags: bystander, arrest, property-destruction, bike
+tags: arrest, bike, bystander, property-destruction
 
 id: wa-seattle-75
 
-geolocation: 47.6246164,-122.3488599
+geolocation: 47.6246164, -122.3488599
 
 **Links**
 
@@ -1272,11 +1272,11 @@ The individual is currently being treated at Harborview Medical Center. Early on
 
 A Seattle Police Department report stated that the protester "experienc[ed] a medical episode during an arrest." The individual was arrested for suspicion of property damage.
 
-tags: protester, tackle, arrest, punch
+tags: arrest, protester, punch, tackle
 
 id: wa-seattle-76
 
-geolocation: 47.6152719,-122.319049
+geolocation: 47.6152719, -122.319049
 
 **Links**
 
