@@ -827,7 +827,6 @@ geolocation: 38.9013441, -77.0387466
 * https://twitter.com/itakeshots1/status/1323760660044488706
 * https://twitter.com/itakeshots1/status/1323760754105978886
 * https://twitter.com/itakeshots1/status/1323828366806523904
-* https://twitter.com/duckdiver19/status/1323759348808474624
 * https://twitter.com/blackhousenew/status/1323756565384564740
 * https://twitter.com/brutamerica/status/1323825313575567361
 
