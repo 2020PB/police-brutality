@@ -1944,11 +1944,11 @@ geolocation: 40.7483593, -74.0058763
 
 Police shout "Move back" as they push protesters down the street. One protester is shoved over a garbage can. Police then swarm the sidewalk, shoving protesters away. Police then drag the protester whom they knocked over behind their riot line.
 
-tags: push, shove, grab, arrest, protester
+tags: arrest, grab, protester, push, shove
 
 id: ny-newyorkcity-113
 
-geolocation: 40.7303242,-74.0047987
+geolocation: 40.7303242, -74.0047987
 
 **Links**
 
@@ -1968,11 +1968,11 @@ geolocation: 40.7303242,-74.0047987
 
 Protesters were kettled by police at 5th Avenue and 8th Street in Manhattan. Police then charged protesters to make arrests, tackling, shoving and striking protesters with batons, without apparent justification.
 
-tags: protester, arrest, tackle, push, shove, strike, baton
+tags: arrest, baton, protester, push, shove, strike, tackle
 
 id: ny-newyorkcity-114
 
-geolocation: 40.7323365,-73.9965724
+geolocation: 40.7323365, -73.9965724
 
 **Links**
 
