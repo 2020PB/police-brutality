@@ -1248,6 +1248,48 @@ geolocation: 47.6141198, -122.3189719
 * https://twitter.com/R3volutionDaddy/status/1317874394711011329
 
 
+### Police arrest bystander in vehicle | November 4th
+
+A bike officer singles out a car driving with protesters (near Mercer and 4th Ave N) for no clear reason; the car was one of several. The officer begins banging on the car window with his bicycle. A second officer joins him. They smash the window, arrest the driver, and leave the vehicle in the street.
+
+tags: arrest, bike, bystander, property-destruction
+
+id: wa-seattle-75
+
+geolocation: 47.6246164, -122.3488599
+
+**Links**
+
+* https://twitter.com/onelung_/status/1324206511640305666
+* https://www.youtube.com/watch?v=FRwNmCd8X8o
+
+
+### Police assault and hospitalize protester | November 4th
+
+Police push protesters back at 12th and Pine, tackling one to the ground and punching them. Several officers hold this individual to the ground after they become non-responsive. The protester was taken away in a Fire Department aid vehicle after several minutes.
+
+The individual is currently being treated at Harborview Medical Center. Early on November 5th, a spokesperson for Harborview described the individual's condition as "critical," before downgrading it later in the day to "serious" condition in intensive care.
+
+A Seattle Police Department report stated that the protester "experienc[ed] a medical episode during an arrest." The individual was arrested for suspicion of property damage.
+
+tags: arrest, protester, punch, tackle
+
+id: wa-seattle-76
+
+geolocation: 47.6152719, -122.319049
+
+**Links**
+
+* https://twitter.com/MarcusKulik/status/1324252487616917504
+* https://twitter.com/MarcusKulik/status/1324252568118206464
+* https://twitter.com/MarcusKulik/status/1324252696556101632
+* https://twitter.com/MarcusKulik/status/1324467741206536192
+* https://twitter.com/richsssmith/status/1324244835679657984
+* https://twitter.com/mechangel/status/1324295907693658113
+* https://www.thestranger.com/slog/2020/11/05/50171900/protester-in-critical-condition-after-an-arrest-outside-the-east-precinct
+* https://spdblotter.seattle.gov/2020/11/05/seven-arrested-at-capitol-hill-demonstration/
+
+
 ## Vancouver
 
 ### Police arrest journalists | October 31st
