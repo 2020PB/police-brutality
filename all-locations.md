@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-05T22:34:50.490334+00:00
+UPDATED AT: 2020-11-05T22:36:15.075270+00:00
 
 
 # Alabama
@@ -8870,6 +8870,45 @@ geolocation: 40.7483593, -74.0058763
 * https://twitter.com/protest_nyc/status/1322960650402934784
 * https://twitter.com/JoshuaPotash/status/1323021628733853696
 * https://twitter.com/ScooterCasterNY/status/1322977073078640641
+
+
+### Police assault and arrest protesters | November 4th
+
+Police shout "Move back" as they push protesters down the street. One protester is shoved over a garbage can. Police then swarm the sidewalk, shoving protesters away. Police then drag the protester whom they knocked over behind their riot line.
+
+tags: arrest, grab, protester, push, shove
+
+id: ny-newyorkcity-113
+
+geolocation: 40.7303242, -74.0047987
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1324157520945053696
+* https://go.citizen.com/U46Mny5z9ab
+* https://twitter.com/itsa_talia/status/1324154580196884488
+* https://twitter.com/itsa_talia/status/1324162367375200262
+* https://twitter.com/AshAgony/status/1324157247845445634
+* https://twitter.com/greg_doucette/status/1324173289015681024
+* https://twitter.com/Kyle_McMorrow/status/1324165671014510593
+* https://twitter.com/left_voice/status/1324161820618301440
+* https://twitter.com/left_voice/status/1324159897471197187
+* https://twitter.com/left_voice/status/1324159897471197187
+
+
+### Police kettle, assault, and arrest protesters | November 4th
+
+Protesters were kettled by police at 5th Avenue and 8th Street in Manhattan. Police then charged protesters to make arrests, tackling, shoving and striking protesters with batons, without apparent justification.
+
+tags: arrest, baton, protester, push, shove, strike, tackle
+
+id: ny-newyorkcity-114
+
+geolocation: 40.7323365, -73.9965724
+
+**Links**
+
+* https://twitter.com/jangelooff/status/1324167123925651459
 
 
 ## Rochester
