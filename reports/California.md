@@ -1223,6 +1223,45 @@ geolocation: 34.0906705, -118.3858618
 * https://twitter.com/TinaDesireeBerg/status/1309935292246261763
 
 
+### Police arrest legal observers and members of the press | November 3rd
+
+Members of the LAPD arrested several legal observers and at least one member of the press at a protest in Los Angeles. The cited reason was for being a "pedestrian on the roadway." A jaywalking charge is generally a citation and ticket, but rarely an arrest.
+
+The incident is believed to have occurred near the Staples Center.
+
+tags: arrest, journalist, legal-observer
+
+id: ca-losangeles-62
+
+geolocation: 34.0430219, -118.2694428
+
+**Links**
+
+* https://twitter.com/ACatWithNews/status/1323941258574716929
+
+
+### Police arrest journalists | November 4th
+
+LAPD officers grab and arrest an individual wearing a clearly-labeled PRESS vest. The journalist was covering a protest near Pershing Square. In a later tweet, the journalist confirms their arrest.
+
+Another journalist was also arrested in this incident.
+
+tags: arrest, journalist
+
+id: ca-losangeles-63
+
+geolocation: 34.048569, -118.2550804
+
+**Links**
+
+* https://twitter.com/desertborder/status/1324196358002155520
+* https://twitter.com/VPS_Reports/status/1324235124519526400
+* https://twitter.com/VPS_Reports/status/1324217037195862016
+* https://twitter.com/SamBraslow/status/1324246891903610880
+* https://twitter.com/ACatWithNews/status/1324224193202855937
+* https://www.latimes.com/california/story/2020-11-04/lapd-detain-cite-two-videographers-after-declaring-downtown-protest-unlawful
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
