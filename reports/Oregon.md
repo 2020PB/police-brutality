@@ -7066,11 +7066,11 @@ geolocation: 45.493797, -122.6728732
 
 Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) charged protesters at Harvey Milk and 10th Streets, knocking several protesters to the ground, as well as a 75 year old photojournalist.
 
-tags: protester, journalist, push, shove
+tags: journalist, protester, push, shove
 
 id: or-portland-404
 
-geolocation: 45.522035,-122.6810836
+geolocation: 45.522035, -122.6810836
 
 **Links**
 
@@ -7083,11 +7083,11 @@ geolocation: 45.522035,-122.6810836
 
 Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) pushed protesters back (on the 600 block of SW Alder St). One officer strikes a protester repeatedly with their baton. That protester was later arrested.
 
-tags: protester, push, shove, strike, baton, arrest
+tags: arrest, baton, protester, push, shove, strike
 
 id: or-portland-405
 
-geolocation: 45.5198559,-122.6787256
+geolocation: 45.5198559, -122.6787256
 
 **Links**
 
@@ -7100,11 +7100,11 @@ geolocation: 45.5198559,-122.6787256
 
 Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) made several violent arrests at SW Park and Washington, with one officer knocking a protester to the ground as they attempted to stand.
 
-tags: protester, push, shove, arrest
+tags: arrest, protester, push, shove
 
 id: or-portland-406
 
-geolocation: 45.521009,-122.6800833
+geolocation: 45.521009, -122.6800833
 
 **Links**
 
@@ -7113,15 +7113,16 @@ geolocation: 45.521009,-122.6800833
 * https://twitter.com/PDocumentarians/status/1324205397322838017
 * https://twitter.com/suzettesmith/status/1324204617857523712
 
+
 ### Protester tackled and arrested | November 4th
 
 Members of the Oregon State Police charged an individual wearing a green helmet, tackling and pinning them to the ground. It was believed that this individual is a member of the NLG, but the NLG has said the individual is not affiliated with them.
 
-tags: protester, tackle, arrest
+tags: arrest, protester, tackle
 
 id: or-portland-407
 
-geolocation: 45.5216957,-122.6801068
+geolocation: 45.5216957, -122.6801068
 
 **Links**
 
@@ -7133,11 +7134,11 @@ geolocation: 45.5216957,-122.6801068
 
 A VICE film crew was harassed by members of the Unified Command and National Guard in downtown Portland (near Park and Taylor) on November 4th. A member of the Unified Command repeatedly jabbed the cameraman with a baton, then dragged him to the ground.
 
-tags: journalist, push, shove, strike, baton, tackle, grab
+tags: baton, grab, journalist, push, shove, strike, tackle
 
 id: or-portland-408
 
-geolocation: 45.5183617,-122.6815986
+geolocation: 45.5183617, -122.6815986
 
 **Links**
 
