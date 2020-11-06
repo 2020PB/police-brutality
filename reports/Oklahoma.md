@@ -1,6 +1,5 @@
 ## Oklahoma City
 
-
 ### Police try to snatch sign, make violent arrests and cause scuffle | May 30th
 
 Footage shows police approaching a small march at 23rd and Classon. They arrest one woman holding a banner without incident. An officer then begins to walk away with one end of the banner. Protesters try to pull it back, and a scuffle follows where police attempt to arrest one protester and a second appears to approach to stop it. The second protester and the officer exchange pushes, then another officer charges the protester from behind and shoves him. Police then shove several more protesters and kneel on one to make an arrest.
@@ -9,7 +8,7 @@ tags: arrest, knee, protester, shove
 
 id: ok-oklahomacity-3
 
-geolocation: 35.493266,-97.5337749
+geolocation: 35.493266, -97.5337749
 
 **Links**
 
@@ -24,7 +23,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: ok-oklahomacity-1
 
-geolocation: 35.4688914,-97.5257481
+geolocation: 35.4688914, -97.5257481
 
 **Links**
 
@@ -39,7 +38,7 @@ tags: less-lethal, protester, tear-gas
 
 id: ok-oklahomacity-2
 
-geolocation: 35.4688914,-97.5257481
+geolocation: 35.4688914, -97.5257481
 
 **Links**
 
@@ -59,7 +58,7 @@ tags: journalist, less-lethal, pepper-ball, protester, shoot, stun-grenade, tear
 
 id: ok-tulsa-1
 
-geolocation: 36.1106601,-95.9778974
+geolocation: 36.1106601, -95.9778974
 
 **Links**
 
