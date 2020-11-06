@@ -2,13 +2,13 @@
 
 ### Police officer maces woman and kicks her in the head | May 31st
 
-The individual was sitting on the ground peacefully, yet the police maced her, and since she didn't move, they kicked her in the head.
+A woman was seen sitting on the ground at North Park Row and State Street. Officers approached and pepper-sprayed her, then kicked her in the head.
 
-tags: kick, less-lethal, mace, pepper-spray, spray
+tags: kick, less-lethal, mace, pepper-spray, spray, protester
 
 id: pa-erie-1
 
-geolocation: 
+geolocation: 42.1299041,-80.0854743
 
 **Links**
 
@@ -22,7 +22,7 @@ geolocation:
 
 ### Police tear gas protesters | September 13th
 
-Following a police shooting in Lancaster, protesters gathered in the streets, forming makeshift barricades. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
+Following a police shooting in Lancaster, protesters gathered at West Chestnut and North Prince Streets, forming makeshift barricades in the road. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
 
 12 Protesters were arrested. One was a minor who was shortly released. Seven are being held on $1,000,000 bail (current as of September 15th, 2020). The ACLU has released a statement decrying the high bail.
 
@@ -30,7 +30,7 @@ tags: less-lethal, protester, tear-gas
 
 id: pa-lancaster-1
 
-geolocation: 
+geolocation: 40.0409191,-76.3105339
 
 **Links**
 
@@ -46,17 +46,18 @@ geolocation:
 
 ### Police pepperspray protesters helping someone stand up | May 30th
 
-Protesters try to help someone stand up; police wait until the person is halfway up before pepper-spraying the helpers.
+Protesters try to help someone stand up at the intersection of Front and Forster. Several police officers move in; one officer canvases the crowd with pepper spray.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-harrisburg-1
 
-geolocation: 
+geolocation: 40.2647834,-76.8903048
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266862623041167362
+* https://twitter.com/gonzaloaflores/status/1266815380619702273
 
 
 ## Philadelphia
@@ -427,7 +428,7 @@ geolocation: 39.954587, -75.2281502
 
 ### Police tear-gas, shoot and arrest protester confused by contradicting police instructions | May 30th
 
-John Connors, a protester in Pittsburgh on Saturday, May 30th, was recording the protest on his phone, when police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
+John Connors, a protester in Pittsburgh on Saturday, May 30th, was recording the protest on his phone near Liberty Avenue and 7th Street. Police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
 
 He asks an officer, "Are you guys police officers or are you guys cops?" The officer then release a tear gas canister at his feet and shoots him at short range. Police then arrest Connors. Connors admits his question was antagonizing, but states he did nothing to threaten officers or escalate to violence, which is supported by the footage.
 
@@ -435,7 +436,7 @@ tags: arrest, less-lethal, projectile, protester, shoot, tear-gas, tear-gas-cani
 
 id: pa-pittsburgh-3
 
-geolocation: 
+geolocation: 40.4424746,-79.9999118
 
 **Links**
 
@@ -445,30 +446,36 @@ geolocation:
 
 ### Officer pepper-sprays a woman who is on her knees with her hands up | June 1st
 
-A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board
+A woman in East Liberty (5700 Centre Avenue) gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board.
 
-tags: less-lethal, pepper-spray, protester, spray, threaten
+Users on Twitter allege the woman was a medic attempting to notify the police and/or provide aid to an injured person in a nearby parking garage.
+
+The LRAD dispersal function can also be heard.
+
+tags: less-lethal, pepper-spray, protester, spray, threaten, lrad
 
 id: pa-pittsburgh-1
 
-geolocation: 
+geolocation: 0.457474,-79.9333042
 
 **Links**
 
 * [Video of the incident](https://www.youtube.com/watch?v=TxHxU6nhzzQ)
+* https://twitter.com/messiest_headd/status/1267816842413740034
+* https://twitter.com/stabpossum/status/1268203842174361600
 * [Twitter link alleging intimidation](https://twitter.com/PaulaReedWard/status/1268547369618026503)
 * [Post Gazette article about alleged police intimidation](https://www.post-gazette.com/news/crime-courts/2020/06/03/East-Liberty-protest-Abigail-Rubio-says-Pittsburgh-police-intimidated-video/stories/202006030158)
 
 
 ### Police fire tear gas and rubber bullets on peaceful assembly | June 1st
 
-Police declare a peaceful protest an unlawful assembly. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
+Police declare an unlawful assembly at Centre and Negley Avenues without clear justification. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
 
 tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: pa-pittsburgh-2
 
-geolocation: 
+geolocation: 40.4572499,-79.93408
 
 **Links**
 
@@ -477,30 +484,9 @@ geolocation:
 * https://twitter.com/gautamyadav818/status/1267606317893550080
 * [Extended Facebook Live video; police begin firing at 9:00; phone is dropped at 10:53 and not recovered until the end](https://www.facebook.com/shawn.green.311/videos/2935858916468885/)
 
-
-### Police pepper spray two kneeling protesters | June 1st
-
-Two protesters kneel with their hands up 5-10 feet from police. One of the protesters appears to try to talk to the police. Police then pepper-spray the protesters, who then flee.
-
-Users on Twitter allege the woman was a medic attempting to notify the police and/or provide aid to an injured person in a nearby parking garage.
-
-Footage was posted on Twitter as a reply to footage of another incident on June 1st.
-
-tags: less-lethal, pepper-spray, protester, spray
-
-id: pa-pittsburgh-4
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/messiest_headd/status/1267816842413740034
-* https://twitter.com/stabpossum/status/1268203842174361600
-
-
 ### Police arrest protester then tear gas crowd | June 1st
 
-Footage shows police officers around several protest-related arrestees. A woman argues with them at a distance. Police then approach her and arrest her. They force her to a seated position on the ground. They then lift her and place her face down on the ground.
+Footage shows police officers around several protest-related arrestees at North Beatty and Broad Streets. A woman argues with them at a distance. Police then approach her and arrest her. They force her to a seated position on the ground. They then lift her and place her face down on the ground.
 
 The crowd begins to object and asks why she is being arrested. Another officer then releases a tear gas canister and throws it at the crowd.
 
@@ -508,7 +494,7 @@ tags: arrest, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: pa-pittsburgh-5
 
-geolocation: 
+geolocation: 40.4631367,-79.9261927
 
 **Links**
 
@@ -520,13 +506,13 @@ geolocation:
 
 ### Protester shoved into median | July 25th
 
-Footage shows a protester standing in the street filming police. One officer shoves the protester, then another shoves the protester with his baton. The protester falls into the concrete median then to the ground.
+Footage shows a protester filming police on the south side of the Birmingham Bridge. One officer shoves the protester, then another shoves the protester with his baton. The protester falls into the concrete median then to the ground.
 
 tags: baton, protester, push, shove
 
 id: pa-pittsburgh-6
 
-geolocation: 
+geolocation: 40.4292654,-79.9735501
 
 **Links**
 
@@ -535,13 +521,13 @@ geolocation:
 
 ### Protest marshal abducted by officers in unmarked van | August 15th
 
-A protest marshal was singled out and arrested with charges of "Obstructing Highways and Other Public Passages." He was arrested while on the sidewalk when plainclothes officers emerged from an unmarked van, grabbed him, and drove away.
+A protest marshal was singled out and arrested near Forbes and Oakland. Plainclothes officers emerged from an unmarked van, grabbed him off the sidewalk, and drove away. He was charged with "Obstructing Highways and Other Public Passages."
 
 tags: abuse-of-power, arrest, protester
 
 id: pa-pittsburgh-7
 
-geolocation: 
+geolocation: 40.4415967,-79.9570021
 
 **Links**
 
@@ -552,13 +538,13 @@ geolocation:
 
 ### Police pepper spray protesters as they push protest into park | August 19th
 
-A protest in Pittsburgh faced off with police when protesters stood at the edge of a sidewalk, while police stood in the road. Police then pushed protesters from the sidewalk into the park. Protesters passively resisted the shoving and were pepper sprayed.
+A protest in Pittsburgh faced off with police when protesters stood at the edge of a sidewalk, while police stood in the road, believed to be on Penn Avenue near Bakery Square. Police then pushed protesters from the sidewalk into the park. Protesters passively resisted the shoving and were pepper sprayed.
 
 tags: baton, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: pa-pittsburgh-8
 
-geolocation: 
+geolocation: 40.4559469,-79.9152413
 
 **Links**
 
