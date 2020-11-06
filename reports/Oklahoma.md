@@ -1,29 +1,45 @@
 ## Oklahoma City
 
-### Person with hands up struck in chest by projectile | May 30th
 
-Person standing with hands up struck in chest by projectile; a second projectile is fired shortly after person is struck by the first.
+### Police try to snatch sign, make violent arrests and cause scuffle | May 30th
+
+Footage shows police approaching a small march at 23rd and Classon. They arrest one woman holding a banner without incident. An officer then begins to walk away with one end of the banner. Protesters try to pull it back, and a scuffle follows where police attempt to arrest one protester and a second appears to approach to stop it. The second protester and the officer exchange pushes, then another officer charges the protester from behind and shoves him. Police then shove several more protesters and kneel on one to make an arrest.
+
+tags: arrest, knee, protester, shove
+
+id: ok-oklahomacity-3
+
+geolocation: 35.493266,-97.5337749
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269790337075228679
+
+
+### Person with hands up struck in chest by projectile | May 31st
+
+Person standing with hands up struck in chest by projectile near the Oklahoma City police headquarters around 1:25 AM; a second projectile is fired shortly after person is struck by the first.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: ok-oklahomacity-1
 
-geolocation: 
+geolocation: 35.4688914,-97.5257481
 
 **Links**
 
 * https://twitter.com/BruceBrownJr/status/1266979654499479552
 
 
-### Law enforcement uses tear-gas several times | May 30th
+### Law enforcement uses tear-gas several times | May 31st
 
-Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protesters that are standing.
+Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protesters that are standing near the Police Headquarters just after midnight.
 
 tags: less-lethal, protester, tear-gas
 
 id: ok-oklahomacity-2
 
-geolocation: 
+geolocation: 35.4688914,-97.5257481
 
 **Links**
 
@@ -33,32 +49,17 @@ geolocation:
 * https://twitter.com/benfelder_okc/status/1266966743404236800
 
 
-### Police try to snatch sign, make violent arrests and cause scuffle | May 30th
-
-Footage shows police approaching a small march. They arrest one woman holding a banner without incident. An officer then begins to walk away with one end of the banner. Protesters try to pull it back, and a scuffle follows where police attempt to arrest one protester and a second appears to approach to stop it. The second protester and the officer exchange pushes, then another officer charges the protester from behind and shoves him. Police then shove several more protesters and kneel on one to make an arrest.
-
-tags: arrest, knee, protester, shove
-
-id: ok-oklahomacity-3
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1269790337075228679
-
-
 ## Tulsa
 
 ### Reporters shot by pepper balls on air | June 1st
 
-When Tulsa Police opened fire on peaceful protesters, reporters for Tulsa's channel 8 were struck by pepper balls while reporting live. Reporter also stated that police threw a flashbang, and tear gas can be seen in the background.
+When Tulsa Police opened fire on peaceful protesters at 36th and Peoria, reporters for Tulsa's channel 8 were struck by pepper balls while reporting live. Reporter also stated that police threw a flashbang, and tear gas can be seen in the background.
 
 tags: journalist, less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
 
 id: ok-tulsa-1
 
-geolocation: 
+geolocation: 36.1106601,-95.9778974
 
 **Links**
 
