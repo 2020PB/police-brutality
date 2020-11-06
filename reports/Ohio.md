@@ -559,7 +559,7 @@ tags: bike, less-lethal, mace, pepper-spray, protester, shoot, tear-gas, tear-ga
 
 id: oh-columbus-18
 
-geolocation: 39.9599466,-83.0006052
+geolocation: 39.9599466, -83.0006052
 
 **Links**
 
@@ -573,11 +573,11 @@ Footage shows two police SUVs accelerating past the police line, knocking over a
 
 The LRAD dispersal function can also be heard.
 
-tags: arrest, knee, protester, tackle, vehicle, lrad
+tags: arrest, knee, less-lethal, lrad, protester, tackle, vehicle
 
 id: oh-columbus-24
 
-geolocation: 39.9755934,-83.0032034
+geolocation: 39.9755934, -83.0032034
 
 **Links**
 
@@ -597,7 +597,7 @@ tags: less-lethal, mace, pepper-spray, person-with-disability, protester, shove,
 
 id: oh-columbus-19
 
-geolocation: 39.9611957,-83.0004795
+geolocation: 39.9611957, -83.0004795
 
 **Links**
 
@@ -616,7 +616,7 @@ tags: arrest, grab, knee, protester, shove, throw
 
 id: oh-columbus-20
 
-geolocation: 39.962211,-83.0006803
+geolocation: 39.962211, -83.0006803
 
 **Links**
 
@@ -631,7 +631,7 @@ tags: bike, less-lethal, pepper-spray, protester, shove, spray
 
 id: oh-columbus-21
 
-geolocation: 39.962211,-83.0006803
+geolocation: 39.962211, -83.0006803
 
 **Links**
 
@@ -648,7 +648,7 @@ tags: arrest, knee, protester, push, shove, throw
 
 id: oh-columbus-23
 
-geolocation: 39.9621811,-83.0005525
+geolocation: 39.9621811, -83.0005525
 
 **Links**
 
