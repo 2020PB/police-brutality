@@ -475,7 +475,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: pa-pittsburgh-2
 
-geolocation: 40.4572499,-79.93408
+geolocation: 40.4572499,-79.934080
 
 **Links**
 
