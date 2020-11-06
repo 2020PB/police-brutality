@@ -4,11 +4,11 @@
 
 A woman was seen sitting on the ground at North Park Row and State Street. Officers approached and pepper-sprayed her, then kicked her in the head.
 
-tags: kick, less-lethal, mace, pepper-spray, spray, protester
+tags: kick, less-lethal, mace, pepper-spray, protester, spray
 
 id: pa-erie-1
 
-geolocation: 42.1299041,-80.0854743
+geolocation: 42.1299041, -80.0854743
 
 **Links**
 
@@ -30,7 +30,7 @@ tags: less-lethal, protester, tear-gas
 
 id: pa-lancaster-1
 
-geolocation: 40.0409191,-76.3105339
+geolocation: 40.0409191, -76.3105339
 
 **Links**
 
@@ -52,7 +52,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-harrisburg-1
 
-geolocation: 40.2647834,-76.8903048
+geolocation: 40.2647834, -76.8903048
 
 **Links**
 
@@ -436,7 +436,7 @@ tags: arrest, less-lethal, projectile, protester, shoot, tear-gas, tear-gas-cani
 
 id: pa-pittsburgh-3
 
-geolocation: 40.4424746,-79.9999118
+geolocation: 40.4424746, -79.9999118
 
 **Links**
 
@@ -452,11 +452,11 @@ Users on Twitter allege the woman was a medic attempting to notify the police an
 
 The LRAD dispersal function can also be heard.
 
-tags: less-lethal, pepper-spray, protester, spray, threaten, lrad
+tags: less-lethal, lrad, pepper-spray, protester, spray, threaten
 
 id: pa-pittsburgh-1
 
-geolocation: 0.457474,-79.9333042
+geolocation: 0.457474, -79.9333042
 
 **Links**
 
@@ -475,7 +475,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: pa-pittsburgh-2
 
-geolocation: 40.4572499,-79.934080
+geolocation: 40.4572499, -79.934080
 
 **Links**
 
@@ -483,6 +483,7 @@ geolocation: 40.4572499,-79.934080
 * https://www.facebook.com/BenjaminKFerris/posts/3091613010894973
 * https://twitter.com/gautamyadav818/status/1267606317893550080
 * [Extended Facebook Live video; police begin firing at 9:00; phone is dropped at 10:53 and not recovered until the end](https://www.facebook.com/shawn.green.311/videos/2935858916468885/)
+
 
 ### Police arrest protester then tear gas crowd | June 1st
 
@@ -494,7 +495,7 @@ tags: arrest, less-lethal, protester, tear-gas, tear-gas-canister
 
 id: pa-pittsburgh-5
 
-geolocation: 40.4631367,-79.9261927
+geolocation: 40.4631367, -79.9261927
 
 **Links**
 
@@ -512,7 +513,7 @@ tags: baton, protester, push, shove
 
 id: pa-pittsburgh-6
 
-geolocation: 40.4292654,-79.9735501
+geolocation: 40.4292654, -79.9735501
 
 **Links**
 
@@ -527,7 +528,7 @@ tags: abuse-of-power, arrest, protester
 
 id: pa-pittsburgh-7
 
-geolocation: 40.4415967,-79.9570021
+geolocation: 40.4415967, -79.9570021
 
 **Links**
 
@@ -544,7 +545,7 @@ tags: baton, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: pa-pittsburgh-8
 
-geolocation: 40.4559469,-79.9152413
+geolocation: 40.4559469, -79.9152413
 
 **Links**
 
