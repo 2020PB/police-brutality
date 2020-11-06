@@ -287,13 +287,13 @@ geolocation: 41.5027596, -81.6971191
 
 ### Cop hits a protester in the face, escalates to whole crowd being pepper sprayed | May 29th
 
-A cop hits a protester in the face. Then a different cop pepper-sprays the person hit, as well as nerby protesters. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times.
+A cop hits a protester in the face near High and Broad Streets. Then a different cop pepper-sprays the person hit, as well as nerby protesters. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times. The LRAD dispersal function was also used.
 
-tags: arrest, less-lethal, pepper-spray, protester, spray, strike
+tags: arrest, less-lethal, pepper-spray, protester, spray, strike, lrad
 
 id: oh-columbus-1
 
-geolocation: 
+geolocation: 39.9625022,-83.0007349
 
 **Links**
 
@@ -302,13 +302,13 @@ geolocation:
 
 ### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | May 30th
 
-Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus.
+Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus (near High and Broad Streets).
 
 tags: less-lethal, mace, pepper-spray, politician, protester, spray
 
 id: oh-columbus-2
 
-geolocation: 
+geolocation: 39.9620498,-83.0006563
 
 **Links**
 
@@ -320,31 +320,17 @@ geolocation:
 
 ### Peaceful protester sprayed in the face with mace | May 30th
 
-Seemingly without warning, a protester holding a sign was maced in the face.
+Seemingly without warning, a protester holding a sign was maced in the face near High and Broad streets.
 
 tags: less-lethal, mace, pepper-spray, protester, spray
 
 id: oh-columbus-3
 
-geolocation: 
+geolocation: 39.9621421,-83.0006729
 
 **Links**
 
 * https://twitter.com/rottenstrwbry/status/1266805467990446081
-
-
-### Police pepperspray protesters for chanting | May 30th
-
-Unarmed protesters peacefully chanting when an officer starts randomly pepper-spraying them.
-
-tags: less-lethal, pepper-spray, protester, spray
-
-id: oh-columbus-4
-
-geolocation: 
-
-**Links**
-
 * https://twitter.com/greg_doucette/status/1266878189537824772
 
 
@@ -366,28 +352,43 @@ geolocation: 39.959741, -83.000085
 
 ### Police pepper spray protesters; rip mask off protester | May 30th
 
-Police pepper spray protesters walking away from them. One protester shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
+Police pepper spray protesters walking away from them near High and State Streets. One protester shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
 
 tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: oh-columbus-16
 
-geolocation: 
+geolocation: 39.9603201,-83.0002362
 
 **Links**
 
 * https://twitter.com/bwk1992/status/1266833971570237442
 
 
+### Police intimidating campus protesters by driving car towards them | May 30th
+
+Police drive their car towards protesters in the Columbus Commons in order to disperse them.
+
+tags: drive, protester, vehicle
+
+id: oh-columbus-7
+
+geolocation: 39.9592534,-82.9989859
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
+
+
 ### Police pepper-spray a medic | May 31st
 
-Police point blank pepper spray a medic who was tending to a protester
+Police point blank pepper spray a medic who was tending to a protester near the Rhodes Tower.
 
 tags: less-lethal, medic, pepper-spray, spray
 
 id: oh-columbus-5
 
-geolocation: 
+geolocation: 39.9623134,-82.999572
 
 **Links**
 
@@ -397,33 +398,18 @@ geolocation:
 
 ### Police mace a woman as she walks away | May 31st
 
-Police pepper spray a woman who was walking away from the confrontation
+Police pepper spray a woman who was walking away from the confrontation near the Rhodes Tower.
 
 tags: less-lethal, mace, pepper-spray, protester, spray
 
 id: oh-columbus-6
 
-geolocation: 
+geolocation: 39.9623134,-82.999572
 
 **Links**
 
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
 * https://twitter.com/MarioLeUgly/status/1266933807929798656
-
-
-### Police intimidating campus protesters by driving car towards them | May 31st
-
-Police drive their car towards protesters in order to disperse them
-
-tags: drive, protester, vehicle
-
-id: oh-columbus-7
-
-geolocation: 
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
 
 
 ### Police pepper spray two kneeling protesters | May 31st
@@ -436,7 +422,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-8
 
-geolocation: 
+geolocation: 39.9633459,-82.9932531
 
 **Links**
 
@@ -446,13 +432,13 @@ geolocation:
 
 ### Police pepper spray African-American photographer | May 31st
 
-Photographer being sprayed while seemingly calmly standing 10 feet away from the police line.
+Photographer being sprayed while seemingly calmly standing 10 feet away from the police line at Broad and Front Streets.
 
 tags: journalist, less-lethal, pepper-spray, spray
 
 id: oh-columbus-9
 
-geolocation: 
+geolocation: 39.9620141,-83.0023832
 
 **Links**
 
@@ -463,13 +449,13 @@ geolocation:
 
 ### Police pepper spray sitting protesters | May 31st
 
-Police pepper spraying peaceful unarmed protesters as they sit on the ground.
+Police pepper spraying peaceful unarmed protesters as they sit on the ground near Broad and High.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-10
 
-geolocation: 
+geolocation: 39.9622233,-83.0017371
 
 **Links**
 
@@ -478,13 +464,13 @@ geolocation:
 
 ### Woman holding a sign is shot with rubber bullets | May 31st
 
-A woman standing alone holding a sign is shot with rubber bullets. She falls to the ground and is carried away by other protesters.
+A woman standing alone holding a sign at Broad and Grant is shot with rubber bullets. She falls to the ground and is carried away by other protesters.
 
 tags: less-lethal, protester, rubber-bullet, shoot
 
 id: oh-columbus-11
 
-geolocation: 
+geolocation: 39.9632569,-82.9910614
 
 **Links**
 
@@ -494,13 +480,13 @@ geolocation:
 
 ### Man pepper-sprayed at close range | (Believed to be) May 31st
 
-Image shows a police officer pepper-spraying a man with his hands up at a short distance. Exact date is unknown, but earliest appearance found on Twitter was May 31st.
+Image shows a police officer pepper-spraying a man with his hands up at a short distance. Exact date is unknown, but earliest appearance found on Twitter was May 31st. Location appears to be near Broad and High Streets.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-17
 
-geolocation: 
+geolocation: 39.9626564,-83.0007682
 
 **Links**
 
@@ -510,13 +496,13 @@ geolocation:
 
 ### Woman shot in hand by wooden bullet | May 31st
 
-Police fire at protesters on the sidewalk while giving dispersal order. The filmer is shot in the hand with a wooden bullet. Several images show the recovered round and the damage to her hand.
+Police fire at protesters on the sidewalk near Broad and High while giving dispersal order. The filmer is shot in the hand with a wooden bullet. Several images show the recovered round and the damage to her hand.
 
 tags: less-lethal, protester, shoot, wooden-bullet
 
 id: oh-columbus-25
 
-geolocation: 
+geolocation: 39.9623049,-83.0006986
 
 **Links**
 
@@ -526,13 +512,16 @@ geolocation:
 
 ### Police casually pepper spray passers by | (believed to be) June 1st
 
-Two squad cars full of police arrive at an intersection, sirens wailing. Police get out and start pepper-spraying people. Notably, there are two people on a fire escape who look like they may be treating two others for pepper-spray or tear gas exposure. Police pepper-spray them. Police later pepper spray one a second time, as she's in the process of retreating and rinsing her eyes with milk due to the first pepper spray exposure.
+Two squad cars full of police arrive at the intersection of Russell and High. Police get out and start pepper-spraying people. Notably, there are two people on a fire escape who look like they may be treating two others for pepper-spray or tear gas exposure. Police pepper-spray them. Police later pepper spray one a second time, as she's in the process of retreating and rinsing her eyes with milk due to the first pepper spray exposure.
 
-tags: bystander, less-lethal, pepper-spray, protester, spray
+The LRAD dispersal function can also be heard.
+
+tags: bystander, less-lethal, pepper-spray, protester, spray, lrad
 
 id: oh-columbus-22
 
-geolocation: 40.005950, -83.009096
+geolocation: 39.9755471,-83.0031941
+
 
 **Links**
 
@@ -550,7 +539,7 @@ tags: journalist, less-lethal, pepper-spray, push, shove, spray
 
 id: oh-columbus-13
 
-geolocation: 
+geolocation: 40.005950, -83.009096
 
 **Links**
 
