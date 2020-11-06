@@ -289,11 +289,11 @@ geolocation: 41.5027596, -81.6971191
 
 A cop hits a protester in the face near High and Broad Streets. Then a different cop pepper-sprays the person hit, as well as nerby protesters. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times. The LRAD dispersal function was also used.
 
-tags: arrest, less-lethal, pepper-spray, protester, spray, strike, lrad
+tags: arrest, less-lethal, lrad, pepper-spray, protester, spray, strike
 
 id: oh-columbus-1
 
-geolocation: 39.9625022,-83.0007349
+geolocation: 39.9625022, -83.0007349
 
 **Links**
 
@@ -308,7 +308,7 @@ tags: less-lethal, mace, pepper-spray, politician, protester, spray
 
 id: oh-columbus-2
 
-geolocation: 39.9620498,-83.0006563
+geolocation: 39.9620498, -83.0006563
 
 **Links**
 
@@ -326,7 +326,7 @@ tags: less-lethal, mace, pepper-spray, protester, spray
 
 id: oh-columbus-3
 
-geolocation: 39.9621421,-83.0006729
+geolocation: 39.9621421, -83.0006729
 
 **Links**
 
@@ -358,7 +358,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: oh-columbus-16
 
-geolocation: 39.9603201,-83.0002362
+geolocation: 39.9603201, -83.0002362
 
 **Links**
 
@@ -373,7 +373,7 @@ tags: drive, protester, vehicle
 
 id: oh-columbus-7
 
-geolocation: 39.9592534,-82.9989859
+geolocation: 39.9592534, -82.9989859
 
 **Links**
 
@@ -388,7 +388,7 @@ tags: less-lethal, medic, pepper-spray, spray
 
 id: oh-columbus-5
 
-geolocation: 39.9623134,-82.999572
+geolocation: 39.9623134, -82.999572
 
 **Links**
 
@@ -404,7 +404,7 @@ tags: less-lethal, mace, pepper-spray, protester, spray
 
 id: oh-columbus-6
 
-geolocation: 39.9623134,-82.999572
+geolocation: 39.9623134, -82.999572
 
 **Links**
 
@@ -422,7 +422,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-8
 
-geolocation: 39.9633459,-82.9932531
+geolocation: 39.9633459, -82.9932531
 
 **Links**
 
@@ -438,7 +438,7 @@ tags: journalist, less-lethal, pepper-spray, spray
 
 id: oh-columbus-9
 
-geolocation: 39.9620141,-83.0023832
+geolocation: 39.9620141, -83.0023832
 
 **Links**
 
@@ -455,7 +455,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-10
 
-geolocation: 39.9622233,-83.0017371
+geolocation: 39.9622233, -83.0017371
 
 **Links**
 
@@ -470,7 +470,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: oh-columbus-11
 
-geolocation: 39.9632569,-82.9910614
+geolocation: 39.9632569, -82.9910614
 
 **Links**
 
@@ -486,7 +486,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: oh-columbus-17
 
-geolocation: 39.9626564,-83.0007682
+geolocation: 39.9626564, -83.0007682
 
 **Links**
 
@@ -502,7 +502,7 @@ tags: less-lethal, protester, shoot, wooden-bullet
 
 id: oh-columbus-25
 
-geolocation: 39.9623049,-83.0006986
+geolocation: 39.9623049, -83.0006986
 
 **Links**
 
@@ -516,12 +516,11 @@ Two squad cars full of police arrive at the intersection of Russell and High. Po
 
 The LRAD dispersal function can also be heard.
 
-tags: bystander, less-lethal, pepper-spray, protester, spray, lrad
+tags: bystander, less-lethal, lrad, pepper-spray, protester, spray
 
 id: oh-columbus-22
 
-geolocation: 39.9755471,-83.0031941
-
+geolocation: 39.9755471, -83.0031941
 
 **Links**
 
