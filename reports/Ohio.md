@@ -559,7 +559,7 @@ tags: bike, less-lethal, mace, pepper-spray, protester, shoot, tear-gas, tear-ga
 
 id: oh-columbus-18
 
-geolocation: 
+geolocation: 39.9599466,-83.0006052
 
 **Links**
 
@@ -569,13 +569,15 @@ geolocation:
 
 ### Police drive up to protesters, jump out and tackle them | (Believed to be) June 6th
 
-Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protesters and jump out of the car. Police from the vehicles and on the street charge protesters, tackle them, and arrest them. Police appear to kneel on protesters while making arrests.
+Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protesters at High and Russell Streets and jump out of the car. Police from the vehicles and on the street charge protesters, tackle them, and arrest them. Police appear to kneel on protesters while making arrests.
 
-tags: arrest, knee, protester, tackle, vehicle
+The LRAD dispersal function can also be heard.
+
+tags: arrest, knee, protester, tackle, vehicle, lrad
 
 id: oh-columbus-24
 
-geolocation: 
+geolocation: 39.9755934,-83.0032034
 
 **Links**
 
@@ -585,7 +587,7 @@ geolocation:
 
 ### Man maced by police | June 21st
 
-Footage shows the aftermath of police macing a man with prosthetic legs. Protesters have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
+Footage shows the aftermath of police macing a man with prosthetic legs on the High Street side of the Ohio Statehouse. Protesters have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
 
 Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protesters.
 
@@ -595,7 +597,7 @@ tags: less-lethal, mace, pepper-spray, person-with-disability, protester, shove,
 
 id: oh-columbus-19
 
-geolocation: 
+geolocation: 39.9611957,-83.0004795
 
 **Links**
 
@@ -606,7 +608,7 @@ geolocation:
 
 ### Protester dragged into street, thrown to ground and arrested | June 21st
 
-Footage depicts multiple police officers grabbing a protester. They drag the protester into the street and one officer flips the protester over his knee onto the ground. He then kneels on the protester to arrest them while other officers form a barrier around him.
+Footage depicts multiple police officers grabbing a protester at High and Broad Streets. They drag the protester into the street and one officer flips the protester over his knee onto the ground. He then kneels on the protester to arrest them while other officers form a barrier around him.
 
 Post title states the protester is a medic, but visual evidence is unclear.
 
@@ -614,7 +616,7 @@ tags: arrest, grab, knee, protester, shove, throw
 
 id: oh-columbus-20
 
-geolocation: 
+geolocation: 39.962211,-83.0006803
 
 **Links**
 
@@ -623,13 +625,13 @@ geolocation:
 
 ### Police shove protesters, ram them with bikes | June 21st
 
-In an apparent attempt to clear a street, police have formed a bike line. They shove protesters with shields and ram their bikes into the crowd. Protesters can be seen throwing water at officers. Officers then discharge pepper spray.
+In an apparent attempt to clear the intersection of High and Broad Streets, police have formed a bike line. They shove protesters with shields and ram their bikes into the crowd. Protesters can be seen throwing water at officers. Officers then discharge pepper spray.
 
 tags: bike, less-lethal, pepper-spray, protester, shove, spray
 
 id: oh-columbus-21
 
-geolocation: 
+geolocation: 39.962211,-83.0006803
 
 **Links**
 
@@ -638,7 +640,7 @@ geolocation:
 
 ### Police drag seated protester, body slam a second | June 29th
 
-Footage shows a protester seated on the edge of the road. An officer drags the protester into the street and forces her to lay down to arrest. As other protesters express frustration, another officer runs over, lifts a protester off the ground and slams her on her back. Police kneel on both protesters to make arrests.
+Footage shows a protester seated on the edge of the road at High and Broad Streets. An officer drags the protester into the street and forces her to lay down to arrest. As other protesters express frustration, another officer runs over, lifts a protester off the ground and slams her on her back. Police kneel on both protesters to make arrests.
 
 The second clip is a lengthy (53 minute) account from the original filmer.
 
@@ -646,7 +648,7 @@ tags: arrest, knee, protester, push, shove, throw
 
 id: oh-columbus-23
 
-geolocation: 
+geolocation: 39.9621811,-83.0005525
 
 **Links**
 
