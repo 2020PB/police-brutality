@@ -1270,7 +1270,7 @@ Police push protesters back at 12th and Pine, tackling one to the ground and pun
 
 The individual is currently being treated at Harborview Medical Center. Early on November 5th, a spokesperson for Harborview described the individual's condition as "critical," before downgrading it later in the day to "serious" condition in intensive care.
 
-A Seattle Police Department report stated that the protester "experienc[ed] a medical episode during an arrest." The individual was arrested for suspicion of property damage.
+A Seattle Police Department report stated that the protester "experienc[ed] a medical episode during an arrest." Police later claimed without evidence the episode was brought on by something ingested by the protester. The individual was arrested for suspicion of property damage.
 
 tags: arrest, protester, punch, tackle
 
@@ -1288,6 +1288,7 @@ geolocation: 47.6152719, -122.319049
 * https://twitter.com/mechangel/status/1324295907693658113
 * https://www.thestranger.com/slog/2020/11/05/50171900/protester-in-critical-condition-after-an-arrest-outside-the-east-precinct
 * https://spdblotter.seattle.gov/2020/11/05/seven-arrested-at-capitol-hill-demonstration/
+* https://twitter.com/MarcusKulik/status/1324885077478633472
 
 
 ## Vancouver
