@@ -7112,6 +7112,7 @@ geolocation: 45.521009, -122.6800833
 * https://twitter.com/MrOlmos/status/1324204345445920770
 * https://twitter.com/PDocumentarians/status/1324205397322838017
 * https://twitter.com/suzettesmith/status/1324204617857523712
+* https://twitter.com/danielvmedia/status/1324857891161923585
 
 
 ### Protester tackled and arrested | November 4th
