@@ -7151,11 +7151,11 @@ geolocation: 45.5183617, -122.6815986
 
 Shortly after midnight on November 8th, DHS agents charged a group of 20 protesters and 5 press outside the ICE facility in Portland. DHS agents made a targeted arrest while shooting pepper balls at the crowd. One officer then tossed a tear gas canister at a journalist. The arrest was allegedly due to a protester flipping a water bottle onto the ICE driveway.
 
-tags: protester, arrest, shoot, projectile, less-lethal, pepper-ball, tear-gas, journalist
+tags: arrest, journalist, less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-409
 
-geolocation: 45.4927916,-122.6726079
+geolocation: 45.4927916, -122.6726079
 
 **Links**
 
