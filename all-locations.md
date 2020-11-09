@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-09T03:02:06.620162+00:00
+UPDATED AT: 2020-11-09T17:34:05.856902+00:00
 
 
 # Alabama
@@ -21951,6 +21951,25 @@ geolocation: 38.9624407, -77.0286733
 **Links**
 
 * https://twitter.com/FordFischer/status/1321905855281958913
+
+
+### Police make violent arrests | November 3rd
+
+Violent arrests made by MPD during an Election day protest at Black Lives Matter plaza.
+
+tags: arrest, grab, protester, push, shove, tackle
+
+id: dc-dc-50
+
+geolocation: 38.9013441, -77.0387466
+
+**Links**
+
+* https://twitter.com/itakeshots1/status/1323760660044488706
+* https://twitter.com/itakeshots1/status/1323760754105978886
+* https://twitter.com/itakeshots1/status/1323828366806523904
+* https://twitter.com/blackhousenew/status/1323756565384564740
+* https://twitter.com/brutamerica/status/1323825313575567361
 
 
 
