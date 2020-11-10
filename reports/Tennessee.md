@@ -2,7 +2,7 @@
 
 ### Sheriffs tear gas crowd after accidental vandalism | May 31st
 
-Footage from the first link shows two protesters attempting to remove a sign strung between two lampposts on a mezzanine. The lampposts fall over during this process. Then at 00:40, officers rush out of the building, seizing protesters.
+Footage from the first link shows two protesters attempting to remove a sign strung between two lampposts on the County Courthouse mezzanine. The lampposts fall over during this process. Then at 00:40, officers rush out of the building, seizing protesters.
 
 The second clip shows officers with rifles making arrests on the mezzanine. Officers then pull what appear to be service pistols and point them at protesters. More officers step out of the building onto the mezzanine and take the staircase. Protesters and police face each other at the foot of the stairs. Protesters begin chanting.
 
@@ -16,7 +16,7 @@ tags: arrest, less-lethal, protester, tear-gas
 
 id: tn-chattanooga-1
 
-geolocation: 
+geolocation: 35.0494539, -85.3064104
 
 **Links**
 
@@ -31,13 +31,13 @@ geolocation:
 
 ### Police swarm a woman without provocation | May 31st
 
-A group of police officers targeted and swarmed a woman and pushed her to the ground, using excessive force.
+A group of police officers targeted and swarmed a woman at Beale and Main Streets and pushed her to the ground, using excessive force.
 
 tags: arrest, baton, beat, protester, shield, shove, strike
 
 id: tn-memphis-1
 
-geolocation: 
+geolocation: 35.1403161, -90.0547568
 
 **Links**
 
@@ -54,7 +54,7 @@ tags: less-lethal, protester, tear-gas
 
 id: tn-murfreesboro-1
 
-geolocation: 
+geolocation: 35.8482336, -86.3535392
 
 **Links**
 
@@ -89,7 +89,7 @@ tags: abuse-of-power, property-destruction, protester, threaten
 
 id: tn-nashville-2
 
-geolocation: 
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -109,7 +109,7 @@ tags: abuse-of-power, arrest, protester
 
 id: tn-nashville-3
 
-geolocation: 
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -129,7 +129,7 @@ tags: abuse-of-power, arrest, protester, zip-tie
 
 id: tn-nashville-4
 
-geolocation: 
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -145,7 +145,7 @@ tags: arrest, knee, protester
 
 id: tn-nashville-5
 
-geolocation: 
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -160,7 +160,7 @@ tags: arrest, protester, push, shove
 
 id: tn-nashville-6
 
-geolocation: 
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
