@@ -89,7 +89,7 @@ tags: arrest, baton, beat, bystander, protester, punch, push, shove, threaten, v
 
 id: pa-philadelphia-2
 
-geolocation: 40.0123079,-75.150498
+geolocation: 40.0123079, -75.150498
 
 **Links**
 
@@ -107,7 +107,7 @@ tags: protester, push, shove
 
 id: pa-philadelphia-14
 
-geolocation: 39.9495468,-75.1654699
+geolocation: 39.9495468, -75.1654699
 
 **Links**
 
@@ -124,7 +124,7 @@ tags: baton, beat, knee, knee-on-neck, protester, strike, threaten
 
 id: pa-philadelphia-3
 
-geolocation: 39.9829056,-75.1788406
+geolocation: 39.9829056, -75.1788406
 
 **Links**
 
@@ -140,7 +140,7 @@ tags: less-lethal, tear-gas
 
 id: pa-philadelphia-9
 
-geolocation: 39.9555724,-75.2259593
+geolocation: 39.9555724, -75.2259593
 
 **Links**
 
@@ -159,7 +159,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: pa-philadelphia-4
 
-geolocation: 39.9595383,-75.1746173
+geolocation: 39.9595383, -75.1746173
 
 **Links**
 
@@ -179,7 +179,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-philadelphia-5
 
-geolocation: 39.9593861,-75.1734591
+geolocation: 39.9593861, -75.1734591
 
 **Links**
 
@@ -196,7 +196,7 @@ tags: baton, beat, protester, shove, strike
 
 id: pa-philadelphia-7
 
-geolocation: 39.9616615,-75.1761279
+geolocation: 39.9616615, -75.1761279
 
 **Links**
 
@@ -216,7 +216,7 @@ tags: arrest, protester, push, shove
 
 id: pa-philadelphia-8
 
-geolocation: 39.9515585,-75.1567218
+geolocation: 39.9515585, -75.1567218
 
 **Links**
 
@@ -233,7 +233,7 @@ tags: abuse-of-power, protester
 
 id: pa-philadelphia-10
 
-geolocation: 39.9721817,-75.1374295
+geolocation: 39.9721817, -75.1374295
 
 **Links**
 
@@ -255,7 +255,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-philadelphia-13
 
-geolocation: 39.9593861,-75.1734591
+geolocation: 39.9593861, -75.1734591
 
 **Links**
 
@@ -272,7 +272,7 @@ tags: arrest, knee, protester, threaten
 
 id: pa-philadelphia-6
 
-geolocation: 40.0434604,-75.1889323
+geolocation: 40.0434604, -75.1889323
 
 **Links**
 
@@ -293,7 +293,7 @@ tags: abuse-of-power, journalist
 
 id: pa-philadelphia-11
 
-geolocation: 40.7699243,-73.9749736
+geolocation: 40.7699243, -73.9749736
 
 **Links**
 
@@ -312,7 +312,7 @@ tags: abuse-of-power, arrest, journalist, zip-tie
 
 id: pa-philadelphia-12
 
-geolocation: 39.953937,-75.1666453
+geolocation: 39.953937, -75.1666453
 
 **Links**
 
