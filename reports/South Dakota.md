@@ -12,7 +12,7 @@ tags: arrest, less-lethal, pepper-ball, pepper-spray, protester, shoot, spray, t
 
 id: sd-keystone-1
 
-geolocation: 43.8873015,-103.4348387,
+geolocation: 43.8873015,-103.4348387
 
 **Links**
 
