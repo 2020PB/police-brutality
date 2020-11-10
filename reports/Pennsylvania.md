@@ -79,7 +79,7 @@ geolocation: 39.951190, -75.165580
 
 ### Protester fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protester, then arrest him, the driver and a passerby filming | (Believed to be) May 30th
 
-Two protesters run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protester can enter. The driver then pulls over to the side of the road shortly after.
+Two protesters run from police across the intersection of Pike and Broad Streets. One jumps into a car's open passenger window. The driver pulls away before the other protester can enter. The driver then pulls over to the side of the road shortly after.
 
 Police drag the protester from the car and beat him with batons. After he is arrested, a police officer punches him in the face.
 
@@ -89,7 +89,7 @@ tags: arrest, baton, beat, bystander, protester, punch, push, shove, threaten, v
 
 id: pa-philadelphia-2
 
-geolocation: 
+geolocation: 40.0123079,-75.150498
 
 **Links**
 
@@ -101,11 +101,13 @@ geolocation:
 
 A protester is seen in a scuffle with police. It is unknown what caused this interaction. Police repeatedly push and shove the protester with no attempt to detain the individual.
 
+The incident is believed to have occurred near City Hall.
+
 tags: protester, push, shove
 
 id: pa-philadelphia-14
 
-geolocation: 
+geolocation: 39.9495468,-75.1654699
 
 **Links**
 
@@ -116,11 +118,13 @@ geolocation:
 
 A man is being held on the ground by a police officer, who forces the man's hand onto a baton. Another officer joins in to force the man flat on the ground, kneeling on either the man's head or neck. The second officer then begins to strike the man on the head. A third officer joins in and grabs the man's arms. The police yell at witnesses to "back off", while someone yells "he can't breathe".
 
+The incident is believed to have occurred in North Philadelphia East.
+
 tags: baton, beat, knee, knee-on-neck, protester, strike, threaten
 
 id: pa-philadelphia-3
 
-geolocation: 
+geolocation: 39.9829056,-75.1788406
 
 **Links**
 
@@ -130,13 +134,13 @@ geolocation:
 
 ### Police fire tear gas down empty streets | May 31st
 
-An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification
+An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification. The incident is believed to have occurred at South 51st and Locust Streets.
 
 tags: less-lethal, tear-gas
 
 id: pa-philadelphia-9
 
-geolocation: 
+geolocation: 39.9555724,-75.2259593
 
 **Links**
 
@@ -155,7 +159,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas, tear-gas-canister
 
 id: pa-philadelphia-4
 
-geolocation: 
+geolocation: 39.9595383,-75.1746173
 
 **Links**
 
@@ -167,7 +171,7 @@ geolocation:
 * https://youtu.be/srC5l--cn14
 
 
-### Police officer pepper-sprays three people on their knees | believed to be June 1st
+### Police officer pepper-sprays three people on their knees | (Believed to be) June 1st
 
 Three protesters kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
 
@@ -175,16 +179,16 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-philadelphia-5
 
-geolocation: 
+geolocation: 39.9593861,-75.1734591
 
 **Links**
 
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
 
-### Police shove protesters and strike man across the face with a baton | Jun 1st
+### Police shove protesters and strike man across the face with a baton | June 1st
 
-Police shove a group of protesters. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
+Police shove a group of protesters near the Benjamin Franklin Parkway. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
 He now faces charges of aggravated assault, simple assault, possession of an instrument of crime and recklessly endangering another person. His bail was set at $10,000. The officer has been suspended with intent to dismiss him. The protester was detained for 24 hours, but ultimately released without charges.
 
@@ -192,7 +196,7 @@ tags: baton, beat, protester, shove, strike
 
 id: pa-philadelphia-7
 
-geolocation: 
+geolocation: 39.9616615,-75.1761279
 
 **Links**
 
@@ -206,13 +210,13 @@ geolocation:
 
 ### Officer attacks woman for no apparent reason | June 1st
 
-An officer in a white shirt is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer.
+An officer in a white shirt is seen grabbing a woman at Market and 10th, then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer.
 
 tags: arrest, protester, push, shove
 
 id: pa-philadelphia-8
 
-geolocation: 
+geolocation: 39.9515585,-75.1567218
 
 **Links**
 
@@ -229,7 +233,7 @@ tags: abuse-of-power, protester
 
 id: pa-philadelphia-10
 
-geolocation: 
+geolocation: 39.9721817,-75.1374295
 
 **Links**
 
@@ -251,7 +255,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: pa-philadelphia-13
 
-geolocation: 
+geolocation: 39.9593861,-75.1734591
 
 **Links**
 
@@ -262,11 +266,13 @@ geolocation:
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
+The incident is believed to have occurred in Germantown.
+
 tags: arrest, knee, protester, threaten
 
 id: pa-philadelphia-6
 
-geolocation: 
+geolocation: 40.0434604,-75.1889323
 
 **Links**
 
@@ -287,7 +293,7 @@ tags: abuse-of-power, journalist
 
 id: pa-philadelphia-11
 
-geolocation: 
+geolocation: 40.7699243,-73.9749736
 
 **Links**
 
@@ -306,7 +312,7 @@ tags: abuse-of-power, arrest, journalist, zip-tie
 
 id: pa-philadelphia-12
 
-geolocation: 
+geolocation: 39.953937,-75.1666453
 
 **Links**
 
