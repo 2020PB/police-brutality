@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-10T22:59:02.897481+00:00
+UPDATED AT: 2020-11-10T22:59:27.026455+00:00
 
 
 # Alabama
@@ -18402,7 +18402,7 @@ tags: arrest, less-lethal, pepper-ball, pepper-spray, protester, shoot, spray, t
 
 id: sd-keystone-1
 
-geolocation: 
+geolocation: 43.8873015, -103.4348387
 
 **Links**
 
