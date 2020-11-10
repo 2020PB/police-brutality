@@ -335,13 +335,13 @@ geolocation: 30.265678, -97.741671
 
 ### Police officer tackles and knees man on the ground | June 2nd
 
-Cop in Baytown Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
+Cop in Baytown, Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
 
-tags: arrest, knee, protester, tackle
+tags: arrest, knee, non-protest, tackle
 
 id: tx-baytown-1
 
-geolocation: 
+geolocation: 29.7280005,-95.0027144
 
 **Links**
 
@@ -355,11 +355,13 @@ geolocation:
 
 A woman who says she was simply walking home with groceries was shot in the face with a rubber bullet by Dallas police. She was seen bleeding profusely and some officers attempted to help her immediately afterwards.
 
+Still images can be located at Commerce and South St. Paul Streets.
+
 tags: bystander, less-lethal, rubber-bullet, shoot
 
 id: tx-dallas-1
 
-geolocation: 
+geolocation: 32.7806765,-96.7954728
 
 **Links**
 
@@ -370,13 +372,13 @@ geolocation:
 
 ### Man shot in the eye | May 30th
 
-Man at the protests had been shot in the eye by officers.
+Dallas police shot a protester in the eye with near Pegasus Plaza. The projectile was later identified as a sponge round. Doctors say the eye has been damaged beyond repair, the left side of his face has been shattered, his jaw has been twisted, and his teeth have been knocked out.
 
-tags: less-lethal, projectile, protester, shoot
+tags: less-lethal, projectile, protester, shoot, sponge-round
 
 id: tx-dallas-4
 
-geolocation: 
+geolocation: 32.7805348,-96.8007618
 
 **Links**
 
@@ -387,7 +389,7 @@ geolocation:
 
 ### Police use flashbangs and tear gas on protesters | May 30th
 
-The first-person video shows an individual running away from what seem to be loud explosions.
+The first-person video shows an individual running away from what seem to be loud explosions near Dallas City Hall.
 
 Additional footage shows a protest in the same vicinity. Police sound a siren and protesters begin to back away. Police then begin releasing tear gas.
 
@@ -395,7 +397,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: tx-dallas-2
 
-geolocation: 
+geolocation: 32.7767514,-96.801171
 
 **Links**
 
@@ -406,13 +408,13 @@ geolocation:
 
 ### Police fire rubber bullet on peaceful protester | June 1st
 
-Without warning, police shoot protester with rubber bullet. Protester falls limp to the ground. Later image shows the protester helped to their feet and able to walk away
+Without warning, police shoot a protester with a rubber bullet at South Akard and Canton Streets. The protester falls limp to the ground. A subsequent image shows the protester helped to their feet and able to walk away.
 
 tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-dallas-5
 
-geolocation: 
+geolocation: 32.7745023,-96.7967547
 
 **Links**
 
@@ -428,7 +430,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: tx-dallas-3
 
-geolocation: 
+geolocation: 32.781075,-96.8186896
 
 **Links**
 
@@ -438,15 +440,15 @@ geolocation:
 
 ## El Paso
 
-### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protesters | (believed to be) May 31st
+### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protesters | (Believed to be) May 31st
 
-Police fire teargas cannisters into peaceful crowd of unarmed protesters.  Amongst the chaos you can hear the popping sounds of police firing projectiles.
+Police fire teargas cannisters into peaceful crowd of unarmed protesters outside the El Paso Public Library. Amongst the chaos you can hear the popping sounds of police firing projectiles.
 
 tags: less-lethal, projectile, protester, tear-gas-canister
 
 id: tx-elpaso-1
 
-geolocation: 
+geolocation: 31.7903715,-106.4556773
 
 **Links**
 
@@ -457,13 +459,13 @@ geolocation:
 
 ### Police trample protester with horse | May 29th
 
-A mounted police officer in Houston trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
+On Travis Street near the Houston Police Headquarters, a mounted police officer trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
 
 tags: horse, protester
 
 id: tx-houston-1
 
-geolocation: 
+geolocation: 29.7557168,-95.3672083
 
 **Links**
 
@@ -473,13 +475,13 @@ geolocation:
 
 ### Officers shove a woman to the pavement | May 29th
 
-A large group of police officers were walking down the street when a woman standing near them was forcefully shoved to the ground by a police officer.
+A large group of police officers follow protestors on Capitol Street between LaBranch and Austin. A woman standing near them is then shoved to the ground by an officer with a baton.
 
-tags: protester, push, shove
+tags: protester, push, shove, baton
 
 id: tx-houston-2
 
-geolocation: 
+geolocation: 29.7568021,-95.3590948
 
 **Links**
 
@@ -490,26 +492,31 @@ geolocation:
 
 A protester is filming and asking "why?", referring to protesters being arrested. An officer then pushs the protester that is filming, knocking the camera to the ground.
 
+The incident appears to have occurred near the junction of I-45 and I-10 by White Oak Bayou Greenway.
+
 tags: arrest, property-destruction, protester, push, shove
 
 id: tx-houston-3
 
-geolocation: 
+geolocation: 29.7694732,-95.3649221
 
 **Links**
 
 * https://twitter.com/DomSkyeRN/status/1270185401060294656
+* https://twitter.com/DomSkyeRN/status/1270193973462695936
 
 
-### Police beat protester with batons, then pepper spray another man for recording | (believed to be) June 2nd
+### Police beat protester with batons, then pepper spray another man for recording | (Believed to be) June 2nd
 
-Police isolate protester and then 4 to 5 officers beat him with a baton.  When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
+Police isolate protester and then 4 to 5 officers beat him with a baton. When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
+
+The precise location of this incident is uncertain, but the scheduled protest for June 2nd concluded at City Hall.
 
 tags: baton, less-lethal, pepper-spray, protester, punch
 
 id: tx-houston-4
 
-geolocation: 
+geolocation: 29.7609263,-95.3693927
 
 **Links**
 
@@ -518,30 +525,31 @@ geolocation:
 
 ### Officers violently arrest protesters on the sidewalk | June 2nd
 
-Footage from an extended stream shows police and protesters facing off on the sidewalk. Protesters are standing still several feet away from police. On multiple occasions, several officers push from the police line, seize protesters without warning and drag them behind police lines for arrest. Only after several minutes does an officer emerge to explain that protesters will be arrested. After this, protesters comply without resistance.
+Footage from an extended stream shows police and protesters facing off on the sidewalk near Walker and McKinney. Protesters are standing still several feet away from police. On multiple occasions, several officers push from the police line, seize protesters without warning and drag them behind police lines for arrest. Only after several minutes does an officer emerge to explain that protesters will be arrested. After this, protesters comply without resistance.
 
 tags: arrest, grab, protester, push, shove
 
 id: tx-houston-5
 
-geolocation: 
+geolocation: 29.7539214,-95.3576028
 
 **Links**
 
 * [33:00, 35:30](https://www.youtube.com/watch?v=1ppU0XVuQI4&t=2130s)
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/tx-houston-5.1.mp4)
 
 
 ## Lewisville
 
 ### Officers deploy tear gas against peaceful protesters | June 2nd
 
-Police deploy tear gas against protesters after drunk driver ran into oncoming traffic, knocking over a woman and child. Police arrested the driver. Police said some protesters thought police were arresting a protester and attempted to intervene; the Lewisville mayor stated that police deployed tear gas because protesters were blocking a road. Police then deployed tear gas against the crowd and arrested 9 protesters. After tear gas was deployed, police allege that protesters threw bottles at officers.
+Police deploy tear gas against protesters after drunk driver ran into oncoming traffic near Lewisville High School, knocking over a woman and child. Police arrested the driver. Police said some protesters thought police were arresting a protester and attempted to intervene; the Lewisville mayor stated that police deployed tear gas because protesters were blocking a road. Police then deployed tear gas against the crowd and arrested 9 protesters. After tear gas was deployed, police allege that protesters threw bottles at officers.
 
 tags: arrest, less-lethal, protester, tear-gas
 
 id: tx-lewisville-1
 
-geolocation: 
+geolocation: 33.0398797,-97.0214116
 
 **Links**
 
@@ -553,13 +561,13 @@ geolocation:
 
 ### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
 
-A man was filming police walking down the street and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
+A man was filming police walking down Presa Street (at the intersection of College Street) and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
 
-tags: less-lethal, protester, rubber-bullet, shoot
+tags: less-lethal, bystander, rubber-bullet, shoot
 
 id: tx-sanantonio-1
 
-geolocation: 
+geolocation: 29.426000,-98.4887064
 
 **Links**
 
