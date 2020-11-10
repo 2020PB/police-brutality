@@ -8,7 +8,7 @@ tags: arrest, protester
 
 id: sc-charleston-1
 
-geolocation: 32.7869083,-79.9357083
+geolocation: 32.7869083, -79.9357083
 
 **Links**
 
@@ -26,7 +26,7 @@ tags: bystander, drive, property-destruction, vehicle
 
 id: sc-charleston-2
 
-geolocation: 32.7864776,-79.9403569
+geolocation: 32.7864776, -79.9403569
 
 **Links**
 
@@ -45,7 +45,7 @@ tags: arrest, beat, hide-badge, protester, shove, strike, tackle
 
 id: sc-charleston-3
 
-geolocation: 32.7867424,-79.9378098
+geolocation: 32.7867424, -79.9378098
 
 **Links**
 
