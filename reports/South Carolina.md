@@ -8,7 +8,7 @@ tags: arrest, protester
 
 id: sc-charleston-1
 
-geolocation: 
+geolocation: 32.7869083,-79.9357083
 
 **Links**
 
@@ -20,13 +20,13 @@ geolocation:
 
 ### APC collides with bystander car | May 31st
 
-News footage shows a civilian car after a collision with a police APC. The driver states that she was hit while driving through a green light by an APC without sirens.
+News footage shows a civilian car after a collision with a police APC at Vanderhorst and Coming Streets. The driver states that she was hit while driving through a green light by an APC without sirens.
 
 tags: bystander, drive, property-destruction, vehicle
 
 id: sc-charleston-2
 
-geolocation: 
+geolocation: 32.7864776,-79.9403569
 
 **Links**
 
@@ -35,7 +35,7 @@ geolocation:
 
 ### Police violently arrest protester | June 22nd
 
-A protest and counter-protest between BLM supporters and statue supporters. Groups shouted at one another but stayed separate. After the protest, BLM supporters marched down the street followed by police.
+A protest and counter-protest occurred on June 22nd between BLM supporters and statue supporters at the John C. Calhoun Monument in Marion Square. Groups shouted at one another but stayed separate. After the protest, BLM supporters marched down the street followed by police.
 
 Footage shows violence during the arrest of a protester as 3 police officers wearing hoods that resemble balaclavas. They tackle the protester to the ground. One officer then kneels on his back to make the arrest. A fourth officer in a patrol uniform comes to assist. The man is seen bleeding from the face. The masked officers do not appear to be wearing badges.
 
@@ -45,7 +45,7 @@ tags: arrest, beat, hide-badge, protester, shove, strike, tackle
 
 id: sc-charleston-3
 
-geolocation: 
+geolocation: 32.7867424,-79.9378098
 
 **Links**
 
