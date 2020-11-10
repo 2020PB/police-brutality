@@ -56,6 +56,7 @@ sexual-assault
 shield
 shoot
 shove
+sponge-round
 spray
 strike
 stun-grenade
@@ -120,6 +121,7 @@ projectile
 punch
 rubber-bullet
 shield
+sponge-round
 stun-grenade
 taser
 tear-gas
