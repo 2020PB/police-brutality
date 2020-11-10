@@ -341,7 +341,7 @@ tags: arrest, knee, non-protest, tackle
 
 id: tx-baytown-1
 
-geolocation: 29.7280005,-95.0027144
+geolocation: 29.7280005, -95.0027144
 
 **Links**
 
@@ -361,7 +361,7 @@ tags: bystander, less-lethal, rubber-bullet, shoot
 
 id: tx-dallas-1
 
-geolocation: 32.7806765,-96.7954728
+geolocation: 32.7806765, -96.7954728
 
 **Links**
 
@@ -378,7 +378,7 @@ tags: less-lethal, projectile, protester, shoot, sponge-round
 
 id: tx-dallas-4
 
-geolocation: 32.7805348,-96.8007618
+geolocation: 32.7805348, -96.8007618
 
 **Links**
 
@@ -397,7 +397,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: tx-dallas-2
 
-geolocation: 32.7767514,-96.801171
+geolocation: 32.7767514, -96.801171
 
 **Links**
 
@@ -414,7 +414,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: tx-dallas-5
 
-geolocation: 32.7745023,-96.7967547
+geolocation: 32.7745023, -96.7967547
 
 **Links**
 
@@ -430,7 +430,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: tx-dallas-3
 
-geolocation: 32.781075,-96.8186896
+geolocation: 32.781075, -96.8186896
 
 **Links**
 
@@ -448,7 +448,7 @@ tags: less-lethal, projectile, protester, tear-gas-canister
 
 id: tx-elpaso-1
 
-geolocation: 31.7903715,-106.4556773
+geolocation: 31.7903715, -106.4556773
 
 **Links**
 
@@ -465,7 +465,7 @@ tags: horse, protester
 
 id: tx-houston-1
 
-geolocation: 29.7557168,-95.3672083
+geolocation: 29.7557168, -95.3672083
 
 **Links**
 
@@ -475,13 +475,13 @@ geolocation: 29.7557168,-95.3672083
 
 ### Officers shove a woman to the pavement | May 29th
 
-A large group of police officers follow protestors on Capitol Street between LaBranch and Austin. A woman standing near them is then shoved to the ground by an officer with a baton.
+A large group of police officers follow protesters on Capitol Street between LaBranch and Austin. A woman standing near them is then shoved to the ground by an officer with a baton.
 
-tags: protester, push, shove, baton
+tags: baton, protester, push, shove
 
 id: tx-houston-2
 
-geolocation: 29.7568021,-95.3590948
+geolocation: 29.7568021, -95.3590948
 
 **Links**
 
@@ -498,7 +498,7 @@ tags: arrest, property-destruction, protester, push, shove
 
 id: tx-houston-3
 
-geolocation: 29.7694732,-95.3649221
+geolocation: 29.7694732, -95.3649221
 
 **Links**
 
@@ -516,7 +516,7 @@ tags: baton, less-lethal, pepper-spray, protester, punch
 
 id: tx-houston-4
 
-geolocation: 29.7609263,-95.3693927
+geolocation: 29.7609263, -95.3693927
 
 **Links**
 
@@ -531,7 +531,7 @@ tags: arrest, grab, protester, push, shove
 
 id: tx-houston-5
 
-geolocation: 29.7539214,-95.3576028
+geolocation: 29.7539214, -95.3576028
 
 **Links**
 
@@ -549,7 +549,7 @@ tags: arrest, less-lethal, protester, tear-gas
 
 id: tx-lewisville-1
 
-geolocation: 33.0398797,-97.0214116
+geolocation: 33.0398797, -97.0214116
 
 **Links**
 
@@ -563,11 +563,11 @@ geolocation: 33.0398797,-97.0214116
 
 A man was filming police walking down Presa Street (at the intersection of College Street) and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
 
-tags: less-lethal, bystander, rubber-bullet, shoot
+tags: bystander, less-lethal, rubber-bullet, shoot
 
 id: tx-sanantonio-1
 
-geolocation: 29.426000,-98.4887064
+geolocation: 29.426000, -98.4887064
 
 **Links**
 
