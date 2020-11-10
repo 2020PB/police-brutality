@@ -16,7 +16,7 @@ tags: arrest, less-lethal, protester, tear-gas
 
 id: tn-chattanooga-1
 
-geolocation: 35.0494539,-85.3064104
+geolocation: 35.0494539, -85.3064104
 
 **Links**
 
@@ -37,7 +37,7 @@ tags: arrest, baton, beat, protester, shield, shove, strike
 
 id: tn-memphis-1
 
-geolocation: 35.1403161,-90.0547568
+geolocation: 35.1403161, -90.0547568
 
 **Links**
 
@@ -54,7 +54,7 @@ tags: less-lethal, protester, tear-gas
 
 id: tn-murfreesboro-1
 
-geolocation: 35.8482336,-86.3535392
+geolocation: 35.8482336, -86.3535392
 
 **Links**
 
@@ -89,7 +89,7 @@ tags: abuse-of-power, property-destruction, protester, threaten
 
 id: tn-nashville-2
 
-geolocation: 36.1650698,-86.7836512
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -109,7 +109,7 @@ tags: abuse-of-power, arrest, protester
 
 id: tn-nashville-3
 
-geolocation: 36.1650698,-86.7836512
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -129,7 +129,7 @@ tags: abuse-of-power, arrest, protester, zip-tie
 
 id: tn-nashville-4
 
-geolocation: 36.1650698,-86.7836512
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -145,7 +145,7 @@ tags: arrest, knee, protester
 
 id: tn-nashville-5
 
-geolocation: 36.1650698,-86.7836512
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
@@ -160,7 +160,7 @@ tags: arrest, protester, push, shove
 
 id: tn-nashville-6
 
-geolocation: 36.1650698,-86.7836512
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
