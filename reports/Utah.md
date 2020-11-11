@@ -35,7 +35,7 @@ tags: bystander, elderly, push, shield, shove
 
 id: ut-saltlakecity-1
 
-geolocation: 40.7605681,-111.8848045
+geolocation: 40.7605681, -111.8848045
 
 **Links**
 
@@ -52,7 +52,7 @@ tags: bean-bag, less-lethal, protester, shoot
 
 id: ut-saltlakecity-2
 
-geolocation: 40.7600121,-111.8853097
+geolocation: 40.7600121, -111.8853097
 
 **Links**
 
@@ -67,7 +67,7 @@ tags: less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: ut-saltlakecity-4
 
-geolocation: 40.7605534,-111.8853025
+geolocation: 40.7605534, -111.8853025
 
 **Links**
 
@@ -85,7 +85,7 @@ tags: arrest, beat, knee, protester, push, tackle
 
 id: ut-saltlakecity-3
 
-geolocation: 40.7757703,-111.888239
+geolocation: 40.7757703, -111.888239
 
 **Links**
 
@@ -102,7 +102,7 @@ tags: baton, beat, protester, shield, strike
 
 id: ut-saltlakecity-5
 
-geolocation: 40.7585004,-111.8894887
+geolocation: 40.7585004, -111.8894887
 
 **Links**
 
@@ -120,7 +120,7 @@ tags: abuse-of-power, journalist
 
 id: ut-saltlakecity-6
 
-geolocation: 40.7585004,-111.8894887
+geolocation: 40.7585004, -111.8894887
 
 **Links**
 
