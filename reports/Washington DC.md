@@ -8,7 +8,7 @@ tags: less-lethal, protester, tear-gas
 
 id: dc-dc-12
 
-geolocation: 38.9001869,-77.0375393
+geolocation: 38.9001869, -77.0375393
 
 **Links**
 
@@ -40,7 +40,7 @@ tags: less-lethal, medic, protester, tear-gas
 
 id: dc-dc-11
 
-geolocation: 38.9001869,-77.0375393
+geolocation: 38.9001869, -77.0375393
 
 **Links**
 
@@ -92,7 +92,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: dc-dc-3
 
-geolocation: 38.9001869,-77.0375393
+geolocation: 38.9001869, -77.0375393
 
 **Links**
 
@@ -112,7 +112,7 @@ tags: horse, less-lethal, protester, stun-grenade
 
 id: dc-dc-5
 
-geolocation: 38.9001858,-77.037084
+geolocation: 38.9001858, -77.037084
 
 **Links**
 
@@ -127,7 +127,7 @@ tags: bystander, less-lethal, protester, tear-gas, threaten
 
 id: dc-dc-6
 
-geolocation: 38.9148329,-77.0334411
+geolocation: 38.9148329, -77.0334411
 
 **Links**
 
@@ -143,7 +143,7 @@ tags: beat, protester, shield, tackle
 
 id: dc-dc-7
 
-geolocation: 38.9001851,-77.0378836
+geolocation: 38.9001851, -77.0378836
 
 **Links**
 
@@ -159,7 +159,7 @@ tags: less-lethal, projectile, protester
 
 id: dc-dc-8
 
-geolocation: 38.9001864,-77.0366859
+geolocation: 38.9001864, -77.0366859
 
 **Links**
 
@@ -192,7 +192,7 @@ tags: abuse-of-power, hide-badge
 
 id: dc-dc-13
 
-geolocation: 38.8931622,-77.0272225
+geolocation: 38.8931622, -77.0272225
 
 **Links**
 
@@ -226,7 +226,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: dc-dc-10
 
-geolocation: 38.9001858,-77.037084
+geolocation: 38.9001858, -77.037084
 
 **Links**
 
@@ -244,7 +244,7 @@ tags: abuse-of-power, hide-badge
 
 id: dc-dc-14
 
-geolocation: 38.8931622,-77.0272225
+geolocation: 38.8931622, -77.0272225
 
 **Links**
 
@@ -261,7 +261,7 @@ tags: arrest, baton, beat, knee, protester
 
 id: dc-dc-16
 
-geolocation: 38.8995177,-77.0387365
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -280,7 +280,7 @@ tags: baton, beat, less-lethal, pepper-spray, protester, shield, spray
 
 id: dc-dc-17
 
-geolocation: 38.8995177,-77.0387365
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -300,7 +300,7 @@ tags: baton, beat, protester
 
 id: dc-dc-19
 
-geolocation: 38.8995177,-77.0387365
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -312,7 +312,6 @@ geolocation: 38.8995177,-77.0387365
 * [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.3.mp4)
 
 
-
 ### Police pepper spray protesters with hands up | June 22nd
 
 Police line begins shouting, "Move back" and using their bikes to push protesters back across a street. Protesters with hands up who refuse to move are shoved and told to keep moving. Protesters near the filmer shout at police, saying, "What's wrong with you?" An officer behind the line of bikes steps forward and sprays pepper spray at protesters, including the filmer.
@@ -321,7 +320,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: dc-dc-23
 
-geolocation: 38.8995177,-77.0387365
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -338,7 +337,7 @@ tags: hide-badge
 
 id: dc-dc-20
 
-geolocation: 38.9012203,-77.0365494
+geolocation: 38.9012203, -77.0365494
 
 **Links**
 
@@ -353,7 +352,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: dc-dc-21
 
-geolocation: 38.8995177,-77.0387365
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -372,7 +371,7 @@ tags: beat, less-lethal, medic, property-destruction, protester, tear-gas
 
 id: dc-dc-22
 
-geolocation: 38.9002291,-77.0365354
+geolocation: 38.9002291, -77.0365354
 
 **Links**
 
@@ -396,7 +395,7 @@ tags: less-lethal, pepper-spray, person-with-disability, protester, push, shove,
 
 id: dc-dc-18
 
-geolocation: 38.9008853,-77.0365427
+geolocation: 38.9008853, -77.0365427
 
 **Links**
 
@@ -415,7 +414,7 @@ tags: abuse-of-power, arrest, protester
 
 id: dc-dc-24
 
-geolocation: 38.9004848,-77.0365451
+geolocation: 38.9004848, -77.0365451
 
 **Links**
 
@@ -434,7 +433,7 @@ tags: arrest, protester, strike
 
 id: dc-dc-25
 
-geolocation: 38.9018705,-77.0365674
+geolocation: 38.9018705, -77.0365674
 
 **Links**
 
@@ -454,7 +453,7 @@ tags: abuse-of-power, arrest, bike, protester, shove
 
 id: dc-dc-26
 
-geolocation: 38.9001858,-77.036514
+geolocation: 38.9001858, -77.036514
 
 **Links**
 
@@ -475,7 +474,7 @@ tags: abuse-of-power, arrest, protester, shove
 
 id: dc-dc-27
 
-geolocation: 38.9001858,-77.036514
+geolocation: 38.9001858, -77.036514
 
 **Links**
 
@@ -492,7 +491,7 @@ tags: abuse-of-power, arrest, protester
 
 id: dc-dc-28
 
-geolocation: 38.9041438,-77.0336351
+geolocation: 38.9041438, -77.0336351
 
 **Links**
 
@@ -510,7 +509,7 @@ tags: bystander, less-lethal, pepper-spray, push, shove, spray
 
 id: dc-dc-29
 
-geolocation: 38.9163131,-77.0416043
+geolocation: 38.9163131, -77.0416043
 
 **Links**
 
@@ -528,7 +527,7 @@ tags: grab, protester, punch
 
 id: dc-dc-30
 
-geolocation: 38.9163131,-77.0416043
+geolocation: 38.9163131, -77.0416043
 
 **Links**
 
@@ -544,7 +543,7 @@ tags: arrest, journalist, less-lethal, pepper-spray, protester, rubber-bullet, s
 
 id: dc-dc-31
 
-geolocation: 38.9002465,-77.0365341
+geolocation: 38.9002465, -77.0365341
 
 **Links**
 
@@ -568,7 +567,7 @@ tags:
 
 id: dc-dc-32
 
-geolocation: 38.9025186,-77.0371451
+geolocation: 38.9025186, -77.0371451
 
 **Links**
 
@@ -583,7 +582,7 @@ tags: arrest, property-destruction, protester
 
 id: dc-dc-33
 
-geolocation: 38.9024285,-77.0364604
+geolocation: 38.9024285, -77.0364604
 
 **Links**
 
@@ -598,7 +597,7 @@ tags: less-lethal, protester, tear-gas
 
 id: dc-dc-34
 
-geolocation: 38.9001083,-77.0365829
+geolocation: 38.9001083, -77.0365829
 
 **Links**
 
@@ -615,7 +614,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: dc-dc-35
 
-geolocation: 38.900764,-77.0365423
+geolocation: 38.900764, -77.0365423
 
 **Links**
 
@@ -630,7 +629,7 @@ tags: arrest, grab, protester, push, shove
 
 id: dc-dc-36
 
-geolocation: 38.9169607,-77.0329333
+geolocation: 38.9169607, -77.0329333
 
 **Links**
 
@@ -645,7 +644,7 @@ tags: arrest, grab, protester
 
 id: dc-dc-37
 
-geolocation: 38.9002536,-77.0365248
+geolocation: 38.9002536, -77.0365248
 
 **Links**
 
