@@ -247,11 +247,13 @@ He states that shortly after this footage, he bumped into an officer and was sho
 
 Reddit link shows scuffle was instigated after a protester beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
 
+This protest occurred near the J.E.B. Stuart statue on Monument Avenue.
+
 tags: journalist, less-lethal, pepper-spray, shove, spray
 
 id: va-richmond-7
 
-geolocation: 
+geolocation: 37.5529536,-77.4576011
 
 **Links**
 
@@ -267,7 +269,7 @@ tags: less-lethal, protester, shoot, shove, tear-gas
 
 id: va-richmond-8
 
-geolocation: 
+geolocation: 37.5413144,-77.4354564
 
 **Links**
 
@@ -283,11 +285,13 @@ geolocation:
 
 Footage shows a group of scattered protesters some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
+Protests on June 26th occurred near the Robert E. Lee Memorial.
+
 tags: explosive, less-lethal, projectile, protester, shoot
 
 id: va-richmond-10
 
-geolocation: 
+geolocation: 37.5551189,-77.4650724
 
 **Links**
 
@@ -298,11 +302,13 @@ geolocation:
 
 Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protesters. He grabs a protester on a bike, then proceeds to drag the protester into the street and off the bike. Several officers aid the officer in arresting the protester, while the original officer kneels on the protester's back.
 
+Protests on June 26th occurred near the Robert E. Lee Memorial.
+
 tags: arrest, bike, grab, knee, protester
 
 id: va-richmond-11
 
-geolocation: 
+geolocation: 37.5551189,-77.4650724
 
 **Links**
 
@@ -313,11 +319,13 @@ geolocation:
 
 Footage shows a police officer shoving a protester to the ground. The protester scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protesters.
 
+Protests on June 26th occurred near the Robert E. Lee Memorial.
+
 tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: va-richmond-12
 
-geolocation: 
+geolocation: 37.5551189,-77.4650724
 
 **Links**
 
@@ -328,7 +336,7 @@ geolocation:
 
 ### Attorney arrested for photographing police staging area | June 26th
 
-Around midnight on June 26th, an attorney recounts his experience with Richmond police at a staging area in the parking lot of a Whole Foods. The attorney states the parking lot was open, there were no signs, and there was no trespassing order given.
+Around midnight on June 26th, an attorney recounts his experience with Richmond police at a staging area in the parking lot of the Broad Street Whole Foods. The attorney states the parking lot was open, there were no signs, and there was no trespassing order given.
 
 He states that he was told to leave. Then, when he tried to photograph the officer, he was yanked out of his car and arrested. Image shows marks left by zip ties. He states that eventually he was released with a summons.
 
@@ -338,7 +346,7 @@ tags: abuse-of-power, arrest, bystander, zip-tie
 
 id: va-richmond-13
 
-geolocation: 
+geolocation: 37.5582,-77.4634053
 
 **Links**
 
@@ -353,11 +361,13 @@ geolocation:
 
 Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protesters.
 
+Protests on June 26th occurred near the Robert E. Lee Memorial.
+
 tags: less-lethal, protester, tear-gas
 
 id: va-richmond-14
 
-geolocation: 
+geolocation: 37.5582,-77.4634053
 
 **Links**
 
@@ -366,13 +376,13 @@ geolocation:
 
 ### Police tear gas protesters | July 25th
 
-After a truck has been lit on fire, allegedly by protesters, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
+After a truck has been lit on fire outside the Richmond Police Headquarters, allegedly by protesters, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
 
 tags: less-lethal, protester, tear-gas
 
 id: va-richmond-15
 
-geolocation: 
+geolocation: 37.5462104,-77.4451222
 
 **Links**
 
@@ -384,7 +394,7 @@ geolocation:
 
 ### Police attempt to arrest press | July 25th
 
-Footage shows police grabbing two members of the press and detaining them. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protesters away. The journalists are eventually released.
+Footage shows police grabbing two members of the press and detaining them in a parking lot at North Madison and West Grace Streets. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protesters away. The journalists are eventually released.
 
 One of the journalists states that he was attempting to flush tear gas from his eyes when he was arrested.
 
@@ -392,7 +402,7 @@ tags: abuse-of-power, grab, journalist
 
 id: va-richmond-16
 
-geolocation: 
+geolocation: 37.5460473,-77.4456778
 
 **Links**
 
@@ -408,7 +418,7 @@ tags: abuse-of-power, journalist
 
 id: va-richmond-17
 
-geolocation: 
+geolocation: 37.5467591,-77.4514553
 
 **Links**
 
@@ -419,13 +429,13 @@ geolocation:
 
 ### Protester arrested without probable cause, later released without charges | July 26th
 
-The filmer, a protester, is standing on or near the sidewalk. Several officers approach him. The protester says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protester without charges.
+The filmer, a protester, is standing on or near the sidewalk in the vicinity of Monroe Park. Several officers approach him. The protester says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protester without charges.
 
 tags: abuse-of-power, arrest, protester
 
 id: va-richmond-18
 
-geolocation: 
+geolocation: 37.5467591,-77.4514553
 
 **Links**
 
@@ -433,15 +443,17 @@ geolocation:
 * https://twitter.com/GoadGatsby/status/1287600241068449792
 
 
-### Encapment serving food and water dismantled; protester arrested and tased | July 31st
+### Encapment serving food and water dismantled; protester arrested and tased | July 30th
 
 Police arrived at a group of protesters who gave out food and water to remove the protesters' tents. During the removal, a protester was arrested, held on the ground, and tased repeatedly. Charges are unclear.
+
+The incident occurred near the Rober E. Lee Statue (rebranded by protests as MPD Circle, after Marcus-David Peters who was killed by police).
 
 tags: arrest, less-lethal, protester, tase, taser
 
 id: va-richmond-19
 
-geolocation: 
+geolocation: 37.5542929,-77.4604981
 
 **Links**
 
@@ -451,7 +463,7 @@ geolocation:
 
 ### Police arrest protester on private property and shove others | August 20th
 
-Police grab and arrest a protester filming from the sidewalk. Officers then push other protesters away, shoving several to the ground. Justification for the arrest is unclear. Protesters were standing on private property, allegedly with permission from the property owner.
+Police grab and arrest a protester filming from the sidewalk. Officers then push other protesters away, shoving several to the ground. Justification for the arrest is unclear. Protesters were standing on private property (the parking lot of GWARbar), allegedly with permission from the property owner.
 
 After the incident, the filmer attempted to get badge numbers and names from officers, who refused him and requested his credentials instead.
 
@@ -459,7 +471,7 @@ tags: abuse-of-power, arrest, hide-badge, protester, push, shove
 
 id: va-richmond-22
 
-geolocation: 
+geolocation: 37.5488003,-77.4452045
 
 **Links**
 
@@ -470,7 +482,7 @@ geolocation:
 
 ### Police tackle and arrest cyclist | September 1st
 
-A cyclist is seen riding away from the demonstration. Footage shows that he appears to be moving on to the grass. An officer in an unmarked vehicle then gets out of the car, chases the cyclist down then violently tackles and arrests him.
+A cyclist is seen riding away from a demonstration near the Richmond City Jail. Footage shows that he appears to be moving off Ollie Highway onto the grass. An officer in an unmarked vehicle then gets out of the car, chases the cyclist down then violently tackles and arrests him.
 
 Additional footage shows that police then make several more arrests though the reasoning for them is unclear.
 
@@ -478,7 +490,7 @@ tags: arrest, protester, tackle
 
 id: va-richmond-23
 
-geolocation: 
+geolocation: 37.5473373,-77.424255
 
 **Links**
 
@@ -488,13 +500,13 @@ geolocation:
 
 ### Police shove protesters with shields | September 23rd
 
-After snatching a protester, police formed a riot shield line and told protesters to move back. Protesters yelled at police. Police shoved protesters with their shields.
+After snatching a protester outside the Richmond Police Headquarters, police formed a riot shield line and told protesters to move back. Protesters yelled at police. Police shoved protesters with their shields.
 
 tags: protester, push, shield, shove
 
 id: va-richmond-24
 
-geolocation: 
+geolocation: 37.5460391,-77.4448378
 
 **Links**
 
