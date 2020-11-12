@@ -346,7 +346,7 @@ tags: abuse-of-power, arrest, bystander, zip-tie
 
 id: va-richmond-13
 
-geolocation: 37.55820,-77.4634053
+geolocation: 37.558200,-77.4634053
 
 **Links**
 
