@@ -27,28 +27,32 @@ geolocation: 40.6292192, -111.8216915
 
 ### Police shove an old man with a cane to the ground | May 30th
 
-The old man was shoved and pushed by the police, which led him to hit the railing and collapse.
+A man was waiting for a bus at Library Station on the South side of University Boulevard. He was approached by two officers, one of whom shoved him repeatedly, knocking him into a nearby railing.
+
+An internal investigation has been opened by the Salt Lake City Police, and the officer has since been relieved of patrol duties.
 
 tags: bystander, elderly, push, shield, shove
 
 id: ut-saltlakecity-1
 
-geolocation: 
+geolocation: 40.7605681, -111.8848045
 
 **Links**
 
 * https://twitter.com/bubbaprog/status/1266908354821206016
+* https://www.abc4.com/news/top-stories/abc-4-news-captures-police-officer-armed-in-protest-gear-pushing-down-man-with-cane/
+* https://www.abc4.com/news/salt-lake-city-protests/salt-lake-city-officer-who-pushed-down-elderly-man-removed-from-patrol-duties-during-investigation/
 
 
 ### Police shoot man on the ground in the spine with a beanbag point-blank | May 30th
 
-The man on the ground was shot with a beanbag, resulting in heavy damage.
+A man laying on the ground was shot at close range by an officer with a bean bag round. This occurred as officers were pushing protesters down South 200 East outside the Public Library.
 
 tags: bean-bag, less-lethal, protester, shoot
 
 id: ut-saltlakecity-2
 
-geolocation: 
+geolocation: 40.7600121, -111.8853097
 
 **Links**
 
@@ -57,13 +61,13 @@ geolocation:
 
 ### Police shoot tear gas canister at man from close range, striking him in the chest | May 30th
 
-Man standing in a crowd of protesters was struck with a tear gas canister.
+Man standing in a crowd of protesters was struck with a tear gas canister. This occurred near the Public Library, at the intersection of South 200 East Street and University Boulevard.
 
 tags: less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: ut-saltlakecity-4
 
-geolocation: 
+geolocation: 40.7605534, -111.8853025
 
 **Links**
 
@@ -75,11 +79,13 @@ geolocation:
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
+This occurred near the State Capitol Building at East 300 North Street and North State Street.
+
 tags: arrest, beat, knee, protester, push, tackle
 
 id: ut-saltlakecity-3
 
-geolocation: 
+geolocation: 40.7757703, -111.888239
 
 **Links**
 
@@ -96,7 +102,7 @@ tags: baton, beat, protester, shield, strike
 
 id: ut-saltlakecity-5
 
-geolocation: 
+geolocation: 40.7585004, -111.8894887
 
 **Links**
 
@@ -114,7 +120,7 @@ tags: abuse-of-power, journalist
 
 id: ut-saltlakecity-6
 
-geolocation: 
+geolocation: 40.7585004, -111.8894887
 
 **Links**
 
