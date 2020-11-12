@@ -346,7 +346,7 @@ tags: abuse-of-power, arrest, bystander, zip-tie
 
 id: va-richmond-13
 
-geolocation: 37.5582,-77.4634053
+geolocation: 37.55820,-77.4634053
 
 **Links**
 
@@ -367,7 +367,7 @@ tags: less-lethal, protester, tear-gas
 
 id: va-richmond-14
 
-geolocation: 37.5582,-77.4634053
+geolocation: 37.5551189,-77.4650724
 
 **Links**
 
