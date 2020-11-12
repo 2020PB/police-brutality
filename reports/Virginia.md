@@ -12,7 +12,7 @@ tags: arrest, knee-on-neck, less-lethal, non-protest, strike, taser
 
 id: va-fairfax-1
 
-geolocation: 38.7162297,-77.1419689
+geolocation: 38.7162297, -77.1419689
 
 **Links**
 
@@ -32,7 +32,7 @@ tags: less-lethal, protester, tear-gas
 
 id: va-fredericksburg-2
 
-geolocation: 38.3041361,-77.4862634
+geolocation: 38.3041361, -77.4862634
 
 **Links**
 
@@ -56,7 +56,7 @@ tags: less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: va-manassas-1
 
-geolocation: 38.7849774,-77.5156431
+geolocation: 38.7849774, -77.5156431
 
 **Links**
 
@@ -77,7 +77,7 @@ tags: protester, vehicle
 
 id: va-richmond-9
 
-geolocation: 37.5584926,-77.4677205
+geolocation: 37.5584926, -77.4677205
 
 **Links**
 
@@ -92,7 +92,7 @@ tags: bystander, less-lethal, pepper-spray, spray
 
 id: va-richmond-1
 
-geolocation: 37.5503078,-77.4495356
+geolocation: 37.5503078, -77.4495356
 
 **Links**
 
@@ -109,7 +109,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: va-richmond-2
 
-geolocation: 37.5538363,-77.4645138
+geolocation: 37.5538363, -77.4645138
 
 **Links**
 
@@ -135,7 +135,7 @@ tags: arrest, inhumane-treatment, protester
 
 id: va-richmond-3
 
-geolocation: 37.5533455,-77.460387
+geolocation: 37.5533455, -77.460387
 
 **Links**
 
@@ -155,7 +155,7 @@ tags: less-lethal, tear-gas, tear-gas-canister
 
 id: va-richmond-4
 
-geolocation: 37.5538363,-77.4645138
+geolocation: 37.5538363, -77.4645138
 
 **Links**
 
@@ -172,7 +172,7 @@ tags: drive, protester, vehicle
 
 id: va-richmond-6
 
-geolocation: 37.5538363,-77.4645138
+geolocation: 37.5538363, -77.4645138
 
 **Links**
 
@@ -188,7 +188,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-20
 
-geolocation: 37.5462104,-77.4451222
+geolocation: 37.5462104, -77.4451222
 
 **Links**
 
@@ -205,7 +205,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-21
 
-geolocation: 37.5462104,-77.4451222
+geolocation: 37.5462104, -77.4451222
 
 **Links**
 
@@ -253,7 +253,7 @@ tags: journalist, less-lethal, pepper-spray, shove, spray
 
 id: va-richmond-7
 
-geolocation: 37.5529536,-77.4576011
+geolocation: 37.5529536, -77.4576011
 
 **Links**
 
@@ -269,7 +269,7 @@ tags: less-lethal, protester, shoot, shove, tear-gas
 
 id: va-richmond-8
 
-geolocation: 37.5413144,-77.4354564
+geolocation: 37.5413144, -77.4354564
 
 **Links**
 
@@ -291,7 +291,7 @@ tags: explosive, less-lethal, projectile, protester, shoot
 
 id: va-richmond-10
 
-geolocation: 37.5551189,-77.4650724
+geolocation: 37.5551189, -77.4650724
 
 **Links**
 
@@ -308,7 +308,7 @@ tags: arrest, bike, grab, knee, protester
 
 id: va-richmond-11
 
-geolocation: 37.5551189,-77.4650724
+geolocation: 37.5551189, -77.4650724
 
 **Links**
 
@@ -325,7 +325,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: va-richmond-12
 
-geolocation: 37.5551189,-77.4650724
+geolocation: 37.5551189, -77.4650724
 
 **Links**
 
@@ -346,7 +346,7 @@ tags: abuse-of-power, arrest, bystander, zip-tie
 
 id: va-richmond-13
 
-geolocation: 37.558200,-77.4634053
+geolocation: 37.558200, -77.4634053
 
 **Links**
 
@@ -367,7 +367,7 @@ tags: less-lethal, protester, tear-gas
 
 id: va-richmond-14
 
-geolocation: 37.5551189,-77.4650724
+geolocation: 37.5551189, -77.4650724
 
 **Links**
 
@@ -382,7 +382,7 @@ tags: less-lethal, protester, tear-gas
 
 id: va-richmond-15
 
-geolocation: 37.5462104,-77.4451222
+geolocation: 37.5462104, -77.4451222
 
 **Links**
 
@@ -402,7 +402,7 @@ tags: abuse-of-power, grab, journalist
 
 id: va-richmond-16
 
-geolocation: 37.5460473,-77.4456778
+geolocation: 37.5460473, -77.4456778
 
 **Links**
 
@@ -418,7 +418,7 @@ tags: abuse-of-power, journalist
 
 id: va-richmond-17
 
-geolocation: 37.5467591,-77.4514553
+geolocation: 37.5467591, -77.4514553
 
 **Links**
 
@@ -435,7 +435,7 @@ tags: abuse-of-power, arrest, protester
 
 id: va-richmond-18
 
-geolocation: 37.5467591,-77.4514553
+geolocation: 37.5467591, -77.4514553
 
 **Links**
 
@@ -453,7 +453,7 @@ tags: arrest, less-lethal, protester, tase, taser
 
 id: va-richmond-19
 
-geolocation: 37.5542929,-77.4604981
+geolocation: 37.5542929, -77.4604981
 
 **Links**
 
@@ -471,7 +471,7 @@ tags: abuse-of-power, arrest, hide-badge, protester, push, shove
 
 id: va-richmond-22
 
-geolocation: 37.5488003,-77.4452045
+geolocation: 37.5488003, -77.4452045
 
 **Links**
 
@@ -490,7 +490,7 @@ tags: arrest, protester, tackle
 
 id: va-richmond-23
 
-geolocation: 37.5473373,-77.424255
+geolocation: 37.5473373, -77.424255
 
 **Links**
 
@@ -506,7 +506,7 @@ tags: protester, push, shield, shove
 
 id: va-richmond-24
 
-geolocation: 37.5460391,-77.4448378
+geolocation: 37.5460391, -77.4448378
 
 **Links**
 
