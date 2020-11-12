@@ -2,15 +2,17 @@
 
 ### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
 
-Bodycam footage shows an unarmed man walking around in the street. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".
+Bodycam footage shows an unarmed man walking around in the street in Mount Vernon, Virginia. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".
 
 This footage does not appear to be protest related, but demonstrates a severe escalation in force dealing with a man not in a fit mental state.
+
+The officer was placed on administrative leave and was later arrested for unspecified charges related to the incident.
 
 tags: arrest, knee-on-neck, less-lethal, non-protest, strike, taser
 
 id: va-fairfax-1
 
-geolocation: 
+geolocation: 38.7162297,-77.1419689
 
 **Links**
 
@@ -24,13 +26,13 @@ geolocation:
 
 ### Police fire tear gas at peaceful protest | May 31st
 
-Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protesters are lying on the ground as tear gas canisters fall around them.
+Footage shows deployment of tear gas by police on peaceful protest on Cowan Boulevard in front of Hugh Mercer School. In one image, protesters are lying on the ground as tear gas canisters fall around them.
 
 tags: less-lethal, protester, tear-gas
 
 id: va-fredericksburg-2
 
-geolocation: 
+geolocation: 38.3041361,-77.4862634
 
 **Links**
 
@@ -44,15 +46,17 @@ geolocation:
 
 ### Officers pepper-spray Virginia state delegate peacefully protesting | May 30
 
-In this video, delegate Lee Carter asks officers questions about their methods in the protests. He stands in the way of an advancing line of law enforcement officers; he is pushed to the ground at 1:30 and pepper-sprayed at 2:27. He also claims to have been hit by a flashbang grenade earlier in the protest (see also third link). At some point (see Facebook video), someone who seems to be the delegate shouts "I'm a member of the general assembly. I write the state police budget. They're gonna fucking regret that."
+In this video, delegate Lee Carter asks officers questions about their methods during protests. He stands in the way of an advancing line of law enforcement officers; he is pushed to the ground at 1:30 and pepper-sprayed at 2:27. He also claims to have been hit by a flashbang grenade earlier in the protest (see also third link). At some point (see Facebook video), someone who seems to be the delegate shouts "I'm a member of the general assembly. I write the state police budget. They're gonna fucking regret that."
 
 It is unclear how the protest unfolded, and why the police were advancing on the crowd wearing riot gear; police allege that the protest turned violent and some protesters say that they were tear-gassed or shot at with rubber bullets while peacefully protesting or retreating. (See fourth and fifth links.)
+
+The incident occurred at the intersection of Sudley Road and Sudley Manor Drive near Manassas.
 
 tags: less-lethal, pepper-spray, politician, protester, push, shove, spray
 
 id: va-manassas-1
 
-geolocation: 
+geolocation: 38.7849774,-77.5156431
 
 **Links**
 
@@ -67,13 +71,13 @@ geolocation:
 
 ### Police SUV jumps median toward protesters | May 30th
 
-Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protesters are gathered. Protesters are forced to run to avoid being hit.
+Footage taken on May 30th near Monument Ave near the Jefferson Davis Statue shows a police cruiser jump the median where a crowd of protesters are gathered. Protesters are forced to run to avoid being hit.
 
 tags: protester, vehicle
 
 id: va-richmond-9
 
-geolocation: 
+geolocation: 37.5584926,-77.4677205
 
 **Links**
 
@@ -82,13 +86,13 @@ geolocation:
 
 ### Officer sprays a man watching from his balcony | May 31st
 
-A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
+A police officer pepper sprayed a man watching from his second floor apartment at Broad and Goshen after spraying three people just walking down the sidewalk.
 
 tags: bystander, less-lethal, pepper-spray, spray
 
 id: va-richmond-1
 
-geolocation: 
+geolocation: 37.5503078,-77.4495356
 
 **Links**
 
@@ -105,7 +109,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: va-richmond-2
 
-geolocation: 
+geolocation: 37.5538363,-77.4645138
 
 **Links**
 
@@ -123,28 +127,35 @@ geolocation:
 
 A police officer spits on a detained protester who is restrained and sitting on the ground. The officer appears to repeat the action after other protesters mention that he's on camera. Extended footage shows the officer continuing to spit on the protester.
 
+The incident appears to have occurred at the enrance to the Robert E. Lee Memorial roundabout on North Allen Avenue.
+
+After a police investigation, Richmond Police stated that a slow-motion review showed the officer was spitting near, rather than at the protester. The protester responded by asking in the media why the officer was spitting so close to him at all.
+
 tags: arrest, inhumane-treatment, protester
 
 id: va-richmond-3
 
-geolocation: 
+geolocation: 37.5533455,-77.460387
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
 * [Extended Footage](https://twitter.com/greg_doucette/status/1269504306836799489)
 * [Youtube mirror of extended footage](https://www.youtube.com/watch?v=6hLCNhZC7Uo)
+* https://vpm.org/news/articles/13954/video-richmond-police-spit-at-or-near-detained-protester
 
 
-### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 4th
+### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 1st
 
-In this video, an officer fires a tear gas canister at a slow moving vehicle. It appears that he was unaware the vehicle belonged to the police.
+In this video, an officer fires a tear gas canister at a slow moving vehicle in the Robert E. Lee Memorial roundabout. It appears that he was unaware the vehicle belonged to the police.
+
+This action directly preceded the events of va-richmond-2.
 
 tags: less-lethal, tear-gas, tear-gas-canister
 
 id: va-richmond-4
 
-geolocation: 
+geolocation: 37.5538363,-77.4645138
 
 **Links**
 
@@ -153,7 +164,7 @@ geolocation:
 
 ### Police SUV pushes through protesters, knocks over protester on bike | (believed to be) June 13th
 
-In this video, protesters on bikes are shown blocking a police vehicle from progressing down a road. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protesters and knocks a protester off of their bike.
+In this video, protesters on bikes are shown blocking a police vehicle from progressing down a road near the Robert E. Lee Monument. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protesters and knocks a protester off of their bike.
 
 The officer driving the vehicle has been cleared by the department of any wrongdoing.
 
@@ -161,7 +172,7 @@ tags: drive, protester, vehicle
 
 id: va-richmond-6
 
-geolocation: 
+geolocation: 37.5538363,-77.4645138
 
 **Links**
 
@@ -171,13 +182,13 @@ geolocation:
 
 ### Police pepper spray protesters on sidewalk | June 14th
 
-Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidewalk. Police sprayed broadly at protesters several feet away, some locking arms with one another. No aggression on the part of protesters can be seen.
+Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidewalk outside the Richmond Police Headquarters. Police sprayed broadly at protesters several feet away, some locking arms with one another. No aggression on the part of protesters can be seen.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-20
 
-geolocation: 
+geolocation: 37.5462104,-77.4451222
 
 **Links**
 
@@ -194,7 +205,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: va-richmond-21
 
-geolocation: 
+geolocation: 37.5462104,-77.4451222
 
 **Links**
 
