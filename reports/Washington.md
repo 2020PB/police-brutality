@@ -16,7 +16,7 @@ tags: arrest, less-lethal, projectile, protester, shoot, tear-gas
 
 id: wa-olympia-1
 
-geolocation: 
+geolocation: 47.0450936,-122.8973967
 
 **Links**
 
@@ -25,26 +25,11 @@ geolocation:
 
 ## Seattle
 
-### Officer pins protester by pushing his knee into his neck | May 30th
+### Police beat unarmed man on the ground | May 29th
 
-Officer pins protester with his knee on his neck. His partner intervenes and moves his knee onto the individual's back.
+A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned. Additional video shows the protester swung a water bottle at officers.
 
-Possibly related to OPD Case 2020OPA-0324 - "Placing the knee on the neck area of two people who had been arrested"
-
-tags: arrest, knee-on-neck, protester
-
-id: wa-seattle-1
-
-geolocation: 
-
-**Links**
-
-* https://mobile.twitter.com/chadloder/status/1267011092045115392
-
-
-### Police beat unarmed man on the ground | May 31st
-
-A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned.
+This incident is believed to have occurred near Jackson and 10th in the Chinatown/International District of Seattle.
 
 Related to Seattle OPA Case 2020OPA-0330.
 
@@ -57,17 +42,39 @@ geolocation:
 **Links**
 
 * https://twitter.com/gunduzbaba1905/status/1266937500607614982
+* https://twitter.com/Jevne_Turqvie/status/1266871649288232965
+* https://www.seattletimes.com/seattle-news/seattle-officer-who-repeatedly-punched-man-during-protest-arrest-used-excessive-force-investigation-finds/
+* https://www.king5.com/article/news/local/seattle/seattle-police-use-of-force-george-floyd-protests/281-bd7fc669-6e8a-4717-9156-fe45c7407ef2
+
+
+### Officer pins protester by pushing his knee into his neck | May 30th
+
+Officer pins protester with his knee on his neck near 6th and Pine. His partner intervenes and moves his knee onto the individual's back.
+
+Possibly related to OPD Case 2020OPA-0324 - "Placing the knee on the neck area of two people who had been arrested."
+
+This individual may have been a looter; however, the violent arrest appears to be unwarranted.
+
+tags: arrest, knee-on-neck, protester
+
+id: wa-seattle-1
+
+geolocation: 47.6121745,-122.3354217
+
+**Links**
+
+* https://mobile.twitter.com/chadloder/status/1267011092045115392
 
 
 ### Police indiscriminately pepper spray peaceful protesters | May 31st
 
-A police officer randomly and indiscriminately pepper sprays civilians walking around, which then went on to spark a riot.
+A police officer randomly and indiscriminately pepper sprays civilians walking around near 5th and Pine, which then went on to spark a riot.
 
 tags: less-lethal, pepper-spray, protester
 
 id: wa-seattle-3
 
-geolocation: 
+geolocation: 47.6117187,-122.3366142
 
 **Links**
 
@@ -76,7 +83,11 @@ geolocation:
 
 ### Police pepper spray young child | May 31st
 
-Police pepper sprays a young child who is seen crying, while protesters pour milk on the distressed girl.
+Police pepper spray a young child who is seen crying, while protesters pour milk on the distressed child. 
+
+The incident occurred on 3rd Avenue, near Westlake Center.
+
+After an internal investigation, police have stated the pepper spraying of the child was indavertent and did not violate department policy.
 
 Related to Seattle OPA Case 2020OPA-0322.
 
@@ -84,11 +95,12 @@ tags: child, inhumane-treatment, less-lethal, pepper-spray, protester
 
 id: wa-seattle-4
 
-geolocation: 
+geolocation: 47.6112539,-122.3392275
 
 **Links**
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
+* https://www.seattletimes.com/seattle-news/crime/officers-pepper-spraying-of-boy-at-seattle-protest-was-inadvertent-didnt-violate-policy-review-finds/
 
 
 ### Police throw tear gas at peaceful protesters | May 31st
@@ -115,7 +127,7 @@ tags: protester, tackle
 
 id: wa-seattle-6
 
-geolocation: 
+geolocation: 47.6124917,-122.3279498
 
 **Links**
 
@@ -126,13 +138,13 @@ geolocation:
 
 ### Law enforcement officer punches pinned protester | May 31st
 
-In this video, officers wrestle with two protesters on the floor. One officer punches the protester he has pinned at 0:15.
+In this video, officers wrestle with two protesters on the sidewalk near 4th and Spring. One officer punches the protester he has pinned at 0:15.
 
 tags: protester, punch, tackle
 
 id: wa-seattle-12
 
-geolocation: 
+geolocation: 47.606835,-122.333563
 
 **Links**
 
@@ -143,13 +155,13 @@ geolocation:
 
 ### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
 
-Police are standing in a row holding bikes and pepper spray canisters. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
+Police are standing in a row holding bikes and pepper spray canisters near 4th and Spring. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
 
 tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-7
 
-geolocation: 
+geolocation: 47.6071398,-122.3339336
 
 **Links**
 
@@ -158,24 +170,27 @@ geolocation:
 
 ### Police pepper spray crowd | June 1st
 
-Police pepper spray peacefully protesting crowd.
+Police pepper spray peacefully protesting crowd near 11th and Pine.
+
+Related to Seattle OPD Case 2020OPA-0334
 
 tags: less-lethal, pepper-spray, protester
 
 id: wa-seattle-9
 
-geolocation: 
+geolocation: 47.6152896,-122.3181832
 
 **Links**
 
 * [Rooftop view](https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/)
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
-* Seattle OPD Case 2020OPA-0334
 
 
 ### Police strike active news crew with tear gas | June 1st
 
 Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
+
+Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
 tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
@@ -187,12 +202,11 @@ geolocation: 47.615506, -122.318894
 
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
 * https://twitter.com/greg_doucette/status/1267694239028334592
-* Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
 
 ### Police injure sleeping homeless man with flashbang | June 1st
 
-Police flashbang hits a homeless man sleeping in a park.
+Police flashbang hits a homeless man sleeping by the fields in Cal Anderson Park.
 
 Related to OPD Case 2020OPA-0335 "Homeless man hit by an SPD flashbang while sleeping".
 
@@ -200,7 +214,7 @@ tags: bystander, homeless, less-lethal, stun-grenade
 
 id: wa-seattle-54
 
-geolocation: 
+geolocation: 47.615716, -122.318701
 
 **Links**
 
@@ -209,13 +223,13 @@ geolocation:
 
 ### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
 
-Video shows officers deploying flashbangs into a crowd of peaceful protesters, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
+Video shows officers deploying flashbangs into a crowd of peaceful protesters near 11th and Pine, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
 tags: less-lethal, pepper-spray, protester, stun-grenade
 
 id: wa-seattle-5
 
-geolocation: 
+geolocation: 47.6152896,-122.3181832
 
 **Links**
 
@@ -234,11 +248,13 @@ Officers cited a Star Wars meme depicting a Landspeeder with a caption saying, "
 
 The woman states she tried to help a friend who was being shot with rubber bullets.
 
+The woman lives somewhere in the Capitol Hill neighborhood of Seattle.
+
 tags: abuse-of-power, arrest, protester
 
 id: wa-seattle-16
 
-geolocation: 
+geolocation: 47.6278921,-122.3333217
 
 **Links**
 
@@ -257,7 +273,7 @@ tags: headlock, knee, protester, tackle
 
 id: wa-seattle-11
 
-geolocation: 
+geolocation: 47.6149796,-122.3193951
 
 **Links**
 
@@ -272,7 +288,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-13
 
-geolocation: 
+geolocation: 47.6151981,-122.3182049
 
 **Links**
 
@@ -289,7 +305,7 @@ tags: less-lethal, pepper-spray, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-15
 
-geolocation: 47.615175, -122.318159
+geolocation: 47.6151981,-122.3182049
 
 **Links**
 
@@ -303,11 +319,13 @@ geolocation: 47.615175, -122.318159
 
 Video shows an individual getting hit by a police projectile, falling down, and becoming unresponsive. Medics drag the person away from the police. A medic's first-hand narrative account describes the victim as "a young woman in her 20s." Medics attempt to treat the young woman while police throw flash bang grenades directly into the first aid center where they are gathered. Several times the victim stops responding or breathing but becomes responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transports her by car to an Emergency Dept where she was delivered with a pulse. The person who filmed the incident from his workplace office is an editor at the local alt weekly, The Stranger; he reported in his twitter thread that the people in the office were having trouble breathing from teargas or some other chemical agent.
 
+The incident occurred near 11th and Pine.
+
 tags: less-lethal, medic, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-14
 
-geolocation: 
+geolocation: 47.6151981,-122.3182049
 
 **Links**
 
@@ -319,7 +337,7 @@ geolocation:
 
 ### During arrests, man yells at police; police retaliate against crowd | June 7th
 
-Police surrounded a barricade in the street and began arresting protesters. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing.
+Police surrounded a barricade in the street near 11th and Pine and began arresting protesters. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing.
 
 Police then retaliate against the crowd, firing tear gas and spraying pepper spray indiscriminately. Police continue to do so well after protesters have moved to the sides.
 
@@ -327,7 +345,7 @@ tags: arrest, less-lethal, pepper-spray, protester, tear-gas
 
 id: wa-seattle-17
 
-geolocation: 
+geolocation: 47.6152866,-122.3168341
 
 **Links**
 
@@ -336,13 +354,13 @@ geolocation:
 
 ### Police shoot peaceful protester | June 7th
 
-A protester is seen off to the side of the protest, speaking with another protester and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
+A protester is seen off to the side of the protest near 11th and Pine, speaking with another protester and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
 
 tags: less-lethal, protester, rubber-bullet, shoot
 
 id: wa-seattle-18
 
-geolocation: 
+geolocation: 47.6152333,-122.3182451
 
 **Links**
 
@@ -351,13 +369,13 @@ geolocation:
 
 ### Police arrest homeless man | June 7th
 
-While deploying flashbangs and tear gas against protesters, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
+While deploying flashbangs and tear gas against protesters near 11th and Pine, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
 
 tags: arrest, beat, bystander, homeless, less-lethal, protester, strike, stun-grenade, tear-gas
 
 id: wa-seattle-19
 
-geolocation: 
+geolocation: 47.6152914,-122.3179077
 
 **Links**
 
@@ -373,11 +391,12 @@ tags: less-lethal, pepper-spray, protester
 
 id: wa-seattle-20
 
-geolocation: 
+geolocation: 47.6152942,-122.3173764
 
 **Links**
 
 * [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-20.1.mp4)
 
 
 ### Police strike and pepper spray protesters while marching on 13th Precinct | July 1st
