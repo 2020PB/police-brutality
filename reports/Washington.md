@@ -16,7 +16,7 @@ tags: arrest, less-lethal, projectile, protester, shoot, tear-gas
 
 id: wa-olympia-1
 
-geolocation: 47.0450936,-122.8973967
+geolocation: 47.0450936, -122.8973967
 
 **Links**
 
@@ -59,7 +59,7 @@ tags: arrest, knee-on-neck, protester
 
 id: wa-seattle-1
 
-geolocation: 47.6121745,-122.3354217
+geolocation: 47.6121745, -122.3354217
 
 **Links**
 
@@ -74,7 +74,7 @@ tags: less-lethal, pepper-spray, protester
 
 id: wa-seattle-3
 
-geolocation: 47.6117187,-122.3366142
+geolocation: 47.6117187, -122.3366142
 
 **Links**
 
@@ -83,7 +83,7 @@ geolocation: 47.6117187,-122.3366142
 
 ### Police pepper spray young child | May 31st
 
-Police pepper spray a young child who is seen crying, while protesters pour milk on the distressed child. 
+Police pepper spray a young child who is seen crying, while protesters pour milk on the distressed child.
 
 The incident occurred on 3rd Avenue, near Westlake Center.
 
@@ -95,7 +95,7 @@ tags: child, inhumane-treatment, less-lethal, pepper-spray, protester
 
 id: wa-seattle-4
 
-geolocation: 47.6112539,-122.3392275
+geolocation: 47.6112539, -122.3392275
 
 **Links**
 
@@ -127,7 +127,7 @@ tags: protester, tackle
 
 id: wa-seattle-6
 
-geolocation: 47.6124917,-122.3279498
+geolocation: 47.6124917, -122.3279498
 
 **Links**
 
@@ -144,7 +144,7 @@ tags: protester, punch, tackle
 
 id: wa-seattle-12
 
-geolocation: 47.606835,-122.333563
+geolocation: 47.606835, -122.333563
 
 **Links**
 
@@ -161,7 +161,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-7
 
-geolocation: 47.6071398,-122.3339336
+geolocation: 47.6071398, -122.3339336
 
 **Links**
 
@@ -178,7 +178,7 @@ tags: less-lethal, pepper-spray, protester
 
 id: wa-seattle-9
 
-geolocation: 47.6152896,-122.3181832
+geolocation: 47.6152896, -122.3181832
 
 **Links**
 
@@ -229,7 +229,7 @@ tags: less-lethal, pepper-spray, protester, stun-grenade
 
 id: wa-seattle-5
 
-geolocation: 47.6152896,-122.3181832
+geolocation: 47.6152896, -122.3181832
 
 **Links**
 
@@ -254,7 +254,7 @@ tags: abuse-of-power, arrest, protester
 
 id: wa-seattle-16
 
-geolocation: 47.6278921,-122.3333217
+geolocation: 47.6278921, -122.3333217
 
 **Links**
 
@@ -273,7 +273,7 @@ tags: headlock, knee, protester, tackle
 
 id: wa-seattle-11
 
-geolocation: 47.6149796,-122.3193951
+geolocation: 47.6149796, -122.3193951
 
 **Links**
 
@@ -288,7 +288,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-13
 
-geolocation: 47.6151981,-122.3182049
+geolocation: 47.6151981, -122.3182049
 
 **Links**
 
@@ -305,7 +305,7 @@ tags: less-lethal, pepper-spray, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-15
 
-geolocation: 47.6151981,-122.3182049
+geolocation: 47.6151981, -122.3182049
 
 **Links**
 
@@ -325,7 +325,7 @@ tags: less-lethal, medic, projectile, protester, stun-grenade, tear-gas
 
 id: wa-seattle-14
 
-geolocation: 47.6151981,-122.3182049
+geolocation: 47.6151981, -122.3182049
 
 **Links**
 
@@ -345,7 +345,7 @@ tags: arrest, less-lethal, pepper-spray, protester, tear-gas
 
 id: wa-seattle-17
 
-geolocation: 47.6152866,-122.3168341
+geolocation: 47.6152866, -122.3168341
 
 **Links**
 
@@ -360,7 +360,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: wa-seattle-18
 
-geolocation: 47.6152333,-122.3182451
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -375,7 +375,7 @@ tags: arrest, beat, bystander, homeless, less-lethal, protester, strike, stun-gr
 
 id: wa-seattle-19
 
-geolocation: 47.6152914,-122.3179077
+geolocation: 47.6152914, -122.3179077
 
 **Links**
 
@@ -391,7 +391,7 @@ tags: less-lethal, pepper-spray, protester
 
 id: wa-seattle-20
 
-geolocation: 47.6152942,-122.3173764
+geolocation: 47.6152942, -122.3173764
 
 **Links**
 
