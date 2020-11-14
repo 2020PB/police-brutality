@@ -407,7 +407,7 @@ tags: arrest, baton, less-lethal, pepper-spray, protester, shove, spray, strike
 
 id: wa-seattle-21
 
-geolocation: 47.6141379,-122.3168800
+geolocation: 47.6141379, -122.3168800
 
 **Links**
 
@@ -423,7 +423,7 @@ tags: arrest, knee, knee-on-neck, protester, tackle
 
 id: wa-seattle-22
 
-geolocation: 47.615225,-122.320777
+geolocation: 47.615225, -122.320777
 
 **Links**
 
@@ -441,7 +441,7 @@ tags: arrest, knee, knee-on-neck, protester, tackle
 
 id: wa-seattle-23
 
-geolocation: 47.615225,-122.320777
+geolocation: 47.615225, -122.320777
 
 **Links**
 
@@ -457,7 +457,7 @@ tags: arrest, baton, beat, knee, less-lethal, pepper-spray, protester, shield, s
 
 id: wa-seattle-24
 
-geolocation: 47.615225,-122.3207773
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -479,7 +479,7 @@ tags: arrest, baton, beat, hide-badge, knee, knee-on-neck, protester, punch, str
 
 id: wa-seattle-25
 
-geolocation: 47.615225,-122.3207773
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -495,7 +495,7 @@ tags: abuse-of-power, bystander
 
 id: wa-seattle-26
 
-geolocation: 47.614682,-122.3181893
+geolocation: 47.614682, -122.3181893
 
 **Links**
 
@@ -512,7 +512,7 @@ tags: arrest, protester
 
 id: wa-seattle-27
 
-geolocation: 47.623129,-122.3317629
+geolocation: 47.623129, -122.3317629
 
 **Links**
 
@@ -535,7 +535,7 @@ tags: abuse-of-power, arrest, journalist
 
 id: wa-seattle-28
 
-geolocation: 47.6030859,-122.3283201
+geolocation: 47.6030859, -122.3283201
 
 **Links**
 
