@@ -838,7 +838,7 @@ tags: baton, person-with-disability, protester, shoot, shove, strike
 
 id: ca-losangeles-31
 
-geolocation: 34.0689615,-118.3440646
+geolocation: 34.0689615, -118.3440646
 
 **Links**
 
