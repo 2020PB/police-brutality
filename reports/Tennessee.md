@@ -73,7 +73,7 @@ tags: abuse-of-power, property-destruction, protester, threaten
 
 id: tn-nashville-1
 
-geolocation: 
+geolocation: 36.1650698, -86.7836512
 
 **Links**
 
