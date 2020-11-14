@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-12T19:43:45.524907+00:00
+UPDATED AT: 2020-11-14T05:19:31.443050+00:00
 
 
 # Alabama
@@ -21203,17 +21203,18 @@ geolocation: 45.6295982, -122.676611
 
 ### Riot police fire tear gas round at protester | May 30th
 
-At short range, officer fires a tear gas round directly at a protester. The round narrowly misses striking the protester in the face.
+At short range, officer fires a tear gas round directly at a protester outside 1615 H Street. The round narrowly misses striking the protester in the face.
 
 tags: less-lethal, protester, tear-gas
 
 id: dc-dc-12
 
-geolocation: 
+geolocation: 38.9001869, -77.0375393
 
 **Links**
 
 * https://twitter.com/ALT_uscis/status/1266939755381633024
+* https://mobile.twitter.com/chadloder/status/1267377374066167808
 
 
 ### Riot Police rams shield into BBC cameraman | May 31st
@@ -21240,7 +21241,7 @@ tags: less-lethal, medic, protester, tear-gas
 
 id: dc-dc-11
 
-geolocation: 
+geolocation: 38.9001869, -77.0375393
 
 **Links**
 
@@ -21292,7 +21293,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: dc-dc-3
 
-geolocation: 
+geolocation: 38.9001869, -77.0375393
 
 **Links**
 
@@ -21304,21 +21305,6 @@ geolocation:
 * https://twitter.com/nytimes/status/1267638330654625794
 
 
-### Officer fires tear gas canister at protester's head | June 1st
-
-DCPD officer aims tear gas canister at protester's head, narrowly misses.
-
-tags: less-lethal, projectile, protester, tear-gas-canister
-
-id: dc-dc-4
-
-geolocation: 
-
-**Links**
-
-* https://mobile.twitter.com/chadloder/status/1267377374066167808
-
-
 ### Police violence outside the White House | June 1st
 
 MSNBC captures mounted and regular police using flashbangs on peaceful protesters outside the White House. Someone injured by police is carried away live on camera.
@@ -21327,22 +21313,22 @@ tags: horse, less-lethal, protester, stun-grenade
 
 id: dc-dc-5
 
-geolocation: 
+geolocation: 38.9001858, -77.037084
 
 **Links**
 
-* https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+* https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/
 
 
 ### Man who sheltered protesters discusses law enforcement officers shooting tear gas into his house | June 1st
 
-A DC resident discusses being accosted by officers when trying to enter his home. Once inside, a crowd of protesters were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
+A DC resident discusses being accosted by officers when trying to enter his home on Swann Street between 14th and 15th. Once inside, a crowd of protesters were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
 tags: bystander, less-lethal, protester, tear-gas, threaten
 
 id: dc-dc-6
 
-geolocation: 
+geolocation: 38.9148329, -77.0334411
 
 **Links**
 
@@ -21358,7 +21344,7 @@ tags: beat, protester, shield, tackle
 
 id: dc-dc-7
 
-geolocation: 
+geolocation: 38.9001851, -77.0378836
 
 **Links**
 
@@ -21374,11 +21360,12 @@ tags: less-lethal, projectile, protester
 
 id: dc-dc-8
 
-geolocation: 
+geolocation: 38.9001864, -77.0366859
 
 **Links**
 
 * https://twitter.com/i/status/1269859559859871744
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-8.1.mp4)
 
 
 ### Reporter struck with shield and baton | June 1st
@@ -21400,11 +21387,13 @@ geolocation: 38.900198, -77.036160
 
 Armed men are seen supporting police efforts. When asked to identify themselves, they stated only that they work for the Department of Justice or "the federal government." They had no identifying names or numbers.
 
+Individuals were seen at several locations around D.C., including the Department of Justice.
+
 tags: abuse-of-power, hide-badge
 
 id: dc-dc-13
 
-geolocation: 
+geolocation: 38.8931622, -77.0272225
 
 **Links**
 
@@ -21438,7 +21427,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: dc-dc-10
 
-geolocation: 
+geolocation: 38.9001858, -77.037084
 
 **Links**
 
@@ -21456,7 +21445,7 @@ tags: abuse-of-power, hide-badge
 
 id: dc-dc-14
 
-geolocation: 
+geolocation: 38.8931622, -77.0272225
 
 **Links**
 
@@ -21473,7 +21462,7 @@ tags: arrest, baton, beat, knee, protester
 
 id: dc-dc-16
 
-geolocation: 
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -21492,7 +21481,7 @@ tags: baton, beat, less-lethal, pepper-spray, protester, shield, spray
 
 id: dc-dc-17
 
-geolocation: 
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -21512,13 +21501,16 @@ tags: baton, beat, protester
 
 id: dc-dc-19
 
-geolocation: 
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
 * https://twitter.com/JasonPatinkin/status/1275252759634329602
 * https://twitter.com/JasonPatinkin/status/1275294052372615169
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
+* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.1.mp4)
+* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.2.mp4)
+* [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.3.mp4)
 
 
 ### Police pepper spray protesters with hands up | June 22nd
@@ -21529,7 +21521,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: dc-dc-23
 
-geolocation: 
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -21546,7 +21538,7 @@ tags: hide-badge
 
 id: dc-dc-20
 
-geolocation: 
+geolocation: 38.9012203, -77.0365494
 
 **Links**
 
@@ -21561,7 +21553,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: dc-dc-21
 
-geolocation: 
+geolocation: 38.8995177, -77.0387365
 
 **Links**
 
@@ -21580,12 +21572,14 @@ tags: beat, less-lethal, medic, property-destruction, protester, tear-gas
 
 id: dc-dc-22
 
-geolocation: 
+geolocation: 38.9002291, -77.0365354
 
 **Links**
 
 * https://twitter.com/maryamnayebyazd/status/1275493238619635714
 * https://twitter.com/maryamnayebyazd/status/1275493885188485120
+* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-22.1.mp4)
+* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-22.2.mp4)
 
 
 ### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
@@ -21602,7 +21596,7 @@ tags: less-lethal, pepper-spray, person-with-disability, protester, push, shove,
 
 id: dc-dc-18
 
-geolocation: 
+geolocation: 38.9008853, -77.0365427
 
 **Links**
 
@@ -21621,7 +21615,7 @@ tags: abuse-of-power, arrest, protester
 
 id: dc-dc-24
 
-geolocation: 
+geolocation: 38.9004848, -77.0365451
 
 **Links**
 
@@ -21640,7 +21634,7 @@ tags: arrest, protester, strike
 
 id: dc-dc-25
 
-geolocation: 
+geolocation: 38.9018705, -77.0365674
 
 **Links**
 
@@ -21651,7 +21645,7 @@ geolocation:
 
 ### Multiple officers arrest peaceful protester | July 7th
 
-The following two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protester into the concrete and is quickly aided by at least one other officer.
+The first two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protester into the concrete and is quickly aided by at least one other officer.
 In the second video, four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back. The arrest is then made with the man on the ground.
 
 All 11 protesters arrested on July 7th were released without charges.
@@ -21660,7 +21654,7 @@ tags: abuse-of-power, arrest, bike, protester, shove
 
 id: dc-dc-26
 
-geolocation: 
+geolocation: 38.9001858, -77.036514
 
 **Links**
 
@@ -21681,7 +21675,7 @@ tags: abuse-of-power, arrest, protester, shove
 
 id: dc-dc-27
 
-geolocation: 
+geolocation: 38.9001858, -77.036514
 
 **Links**
 
@@ -21692,13 +21686,13 @@ geolocation:
 
 ### Pro-life protesters arrested for chalking sidewalk | August 1st
 
-Pro-Life protesters held a permitted protest outside a D.C. area Planned Parenthood building. Several were arrested for vandalism after attempting to paint and chalk messages on the public sidewalk. The Metropolitan Police Department states that although the rally was permitted, they state a Department of Transportation permit would also have been needed to chalk on the sidewalk. A spokesperson for the protesters states that protesters were told they would not be phyiscally stopped from painting and were even advised on what paint to buy.
+Pro-Life protesters held a permitted protest outside the Planned Parenthood National Headquarters. Several were arrested for vandalism after attempting to paint and chalk messages on the public sidewalk. The Metropolitan Police Department states that although the rally was permitted, they state a Department of Transportation permit would also have been needed to chalk on the sidewalk. A spokesperson for the protesters states that protesters were told they would not be phyiscally stopped from painting and were even advised on what paint to buy.
 
 tags: abuse-of-power, arrest, protester
 
 id: dc-dc-28
 
-geolocation: 
+geolocation: 38.9041438, -77.0336351
 
 **Links**
 
@@ -21710,30 +21704,36 @@ geolocation:
 
 Shortly after midnight on August 14th, an individual - allegedly a bystander - is filming police. An officer shoves him away and pepper sprays him. The officer appears to catch another officer in the pepper spray.
 
+The Washington Post reports police confronted protesters in the vicinity of 18th and Willard.
+
 tags: bystander, less-lethal, pepper-spray, push, shove, spray
 
 id: dc-dc-29
 
-geolocation: 
+geolocation: 38.9163131, -77.0416043
 
 **Links**
 
 * https://twitter.com/rawsmedia/status/1294137999517655041
+* https://www.washingtonpost.com/local/public-safety/dc-police-surround-protesters-in-adams-morgan-area/2020/08/14/f3970ff2-dddf-11ea-8051-d5f887d73381_story.html
 
 
 ### Protester grabbed and punched | August 14th
 
 A protester approaches cops making an arrest and is restrained by an officer while a 2nd officer punches her.
 
+The Washington Post reports police confronted protesters in the vicinity of 18th and Willard.
+
 tags: grab, protester, punch
 
 id: dc-dc-30
 
-geolocation: 
+geolocation: 38.9163131, -77.0416043
 
 **Links**
 
 * https://twitter.com/ChuckModi1/status/1294497266250723328
+* https://www.washingtonpost.com/local/public-safety/dc-police-surround-protesters-in-adams-morgan-area/2020/08/14/f3970ff2-dddf-11ea-8051-d5f887d73381_story.html
 
 
 ### Police arrest, tear gas, pepper spray, and shoot protesters | August 29th
@@ -21744,7 +21744,7 @@ tags: arrest, journalist, less-lethal, pepper-spray, protester, rubber-bullet, s
 
 id: dc-dc-31
 
-geolocation: 
+geolocation: 38.9002465, -77.0365341
 
 **Links**
 
@@ -21768,7 +21768,7 @@ tags:
 
 id: dc-dc-32
 
-geolocation: 
+geolocation: 38.9025186, -77.0371451
 
 **Links**
 
@@ -21783,7 +21783,7 @@ tags: arrest, property-destruction, protester
 
 id: dc-dc-33
 
-geolocation: 
+geolocation: 38.9024285, -77.0364604
 
 **Links**
 
@@ -21798,7 +21798,7 @@ tags: less-lethal, protester, tear-gas
 
 id: dc-dc-34
 
-geolocation: 
+geolocation: 38.9001083, -77.0365829
 
 **Links**
 
@@ -21815,7 +21815,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: dc-dc-35
 
-geolocation: 
+geolocation: 38.900764, -77.0365423
 
 **Links**
 
@@ -21830,7 +21830,7 @@ tags: arrest, grab, protester, push, shove
 
 id: dc-dc-36
 
-geolocation: 
+geolocation: 38.9169607, -77.0329333
 
 **Links**
 
@@ -21845,7 +21845,7 @@ tags: arrest, grab, protester
 
 id: dc-dc-37
 
-geolocation: 
+geolocation: 38.9002536, -77.0365248
 
 **Links**
 
