@@ -8,7 +8,7 @@ tags: protester, vehicle
 
 id: wy-laramie-1
 
-geolocation: 41.3107583,-105.5895736
+geolocation: 41.3107583, -105.5895736
 
 **Links**
 
