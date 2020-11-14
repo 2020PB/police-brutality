@@ -407,7 +407,7 @@ tags: arrest, baton, less-lethal, pepper-spray, protester, shove, spray, strike
 
 id: wa-seattle-21
 
-geolocation: 47.6141379,-122.31688
+geolocation: 47.6141379,-122.3168800
 
 **Links**
 
