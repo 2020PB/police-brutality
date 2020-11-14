@@ -551,7 +551,7 @@ tags: arrest, grab, kick, knee, less-lethal, pepper-spray, protester, shove, spr
 
 id: wa-seattle-29
 
-geolocation: 47.6054117,-122.3530468
+geolocation: 47.6054117, -122.3530468
 
 **Links**
 
@@ -568,7 +568,7 @@ tags: arrest, less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: wa-seattle-30
 
-geolocation: 47.6152219,-122.3217589
+geolocation: 47.6152219, -122.3217589
 
 **Links**
 
@@ -587,7 +587,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: wa-seattle-31
 
-geolocation: 47.6152218,-122.3216313
+geolocation: 47.6152218, -122.3216313
 
 **Links**
 
@@ -604,7 +604,7 @@ tags: arrest, grab, less-lethal, pepper-spray, protester, spray, tackle, tear-ga
 
 id: wa-seattle-32
 
-geolocation: 47.615225,-122.3207773
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -620,7 +620,7 @@ tags: bike, less-lethal, pepper-spray, property-destruction, protester, spray
 
 id: wa-seattle-33
 
-geolocation: 47.6152759,-122.3199594
+geolocation: 47.6152759, -122.3199594
 
 **Links**
 
@@ -638,7 +638,7 @@ tags: arrest, knee, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-34
 
-geolocation: 47.615225,-122.3207773
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -653,7 +653,7 @@ tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: wa-seattle-35
 
-geolocation: 47.6152218,-122.3216313
+geolocation: 47.6152218, -122.3216313
 
 **Links**
 
@@ -668,7 +668,7 @@ tags: journalist, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-36
 
-geolocation: 47.6152444,-122.3191508
+geolocation: 47.6152444, -122.3191508
 
 **Links**
 
@@ -684,7 +684,7 @@ tags: bike, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-37
 
-geolocation: 47.6152444,-122.3191508
+geolocation: 47.6152444, -122.3191508
 
 **Links**
 
@@ -699,7 +699,7 @@ tags: bystander, less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-38
 
-geolocation: 47.615225,-122.3207773
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -714,7 +714,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: wa-seattle-39
 
-geolocation: 47.6152333,-122.3182451
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -731,7 +731,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-40
 
-geolocation: 47.6152813,-122.3200405
+geolocation: 47.6152813, -122.3200405
 
 **Links**
 
@@ -746,7 +746,7 @@ tags: arrest, grab, protester, shove, throw
 
 id: wa-seattle-41
 
-geolocation: 47.617716,-122.3193748
+geolocation: 47.617716, -122.3193748
 
 **Links**
 
@@ -761,7 +761,7 @@ tags: arrest, knee, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-42
 
-geolocation: 47.6151981,-122.3182049
+geolocation: 47.6151981, -122.3182049
 
 **Links**
 
@@ -778,7 +778,7 @@ tags: baton, less-lethal, protester, push, shove, tear-gas
 
 id: wa-seattle-43
 
-geolocation: 47.6187642,-122.3211018
+geolocation: 47.6187642, -122.3211018
 
 **Links**
 
@@ -794,7 +794,7 @@ tags: less-lethal, pepper-spray, property-destruction, protester, push, shove, s
 
 id: wa-seattle-44
 
-geolocation: 47.6155228,-122.3221322
+geolocation: 47.6155228, -122.3221322
 
 **Links**
 
@@ -812,7 +812,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-45
 
-geolocation: 47.6152017,-122.3200929
+geolocation: 47.6152017, -122.3200929
 
 **Links**
 
@@ -827,7 +827,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-46
 
-geolocation: 47.6152333,-122.3182451
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -843,7 +843,7 @@ tags: arrest, bike, protester, tackle
 
 id: wa-seattle-47
 
-geolocation: 47.6152481,-122.3184919
+geolocation: 47.6152481, -122.3184919
 
 **Links**
 
@@ -858,7 +858,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-48
 
-geolocation: 47.6152333,-122.3182451
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -873,7 +873,7 @@ tags: baton, less-lethal, pepper-spray, protester, shove, spray, strike
 
 id: wa-seattle-49
 
-geolocation: 47.6152333,-122.3182451
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -891,7 +891,7 @@ tags: arrest, bike, bystander, tackle
 
 id: wa-seattle-50
 
-geolocation: 47.6152866,-122.3168341
+geolocation: 47.6152866, -122.3168341
 
 **Links**
 
@@ -908,7 +908,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: wa-seattle-51
 
-geolocation: 47.6152252,-122.3207071
+geolocation: 47.6152252, -122.3207071
 
 **Links**
 
@@ -923,7 +923,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: wa-seattle-52
 
-geolocation: 47.6151981,-122.3182049
+geolocation: 47.6151981, -122.3182049
 
 **Links**
 
@@ -939,7 +939,7 @@ tags: arrest, explosive, grab, less-lethal, pepper-spray, protester, shove, spra
 
 id: wa-seattle-53
 
-geolocation: 47.6152444,-122.3191508
+geolocation: 47.6152444, -122.3191508
 
 **Links**
 
@@ -955,7 +955,7 @@ tags: legal-observer, less-lethal, pepper-spray, spray
 
 id: wa-seattle-55
 
-geolocation: 47.6152896,-122.3181832
+geolocation: 47.6152896, -122.3181832
 
 **Links**
 
