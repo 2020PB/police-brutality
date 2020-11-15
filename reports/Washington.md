@@ -37,7 +37,7 @@ tags: beat, protester, punch
 
 id: wa-seattle-2
 
-geolocation: 
+geolocation: 47.5991922,-122.3218263
 
 **Links**
 
@@ -965,13 +965,13 @@ geolocation: 47.6152896, -122.3181832
 
 ### Police tackle protesters in street | August 13th
 
-Police approach protesters standing in the street. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
+Police approach protesters standing in the street near 11th and Pine. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
 
 tags: arrest, baton, protester, push, shove
 
 id: wa-seattle-56
 
-geolocation: 
+geolocation: 47.6153176,-122.3181502
 
 **Links**
 
@@ -983,13 +983,13 @@ geolocation:
 
 ### Police damage vehicles supporting protesters | August 14th
 
-Police walk behind a line of cars driving slowly to protect protesters ahead of them. Police overtake the cars and an officer smashes the window of one.
+Police walk behind a line of cars driving slowly to protect protesters ahead of them near Broadway and Thomas. Police overtake the cars and an officer smashes the window of one.
 
 tags: abuse-of-power, property-destruction, protester
 
 id: wa-seattle-57
 
-geolocation: 
+geolocation: 47.6210987,-122.3208649
 
 **Links**
 
@@ -999,13 +999,13 @@ geolocation:
 
 ### Legal observer shoved to the ground | August 16th
 
-During a standoff between police and protesters, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
+During a standoff between police and protesters near the Seattle Police Officers Guild building, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
 
 tags: legal-observer, push, shove
 
 id: wa-seattle-58
 
-geolocation: 
+geolocation: 47.5761869,-122.3468958
 
 **Links**
 
@@ -1014,28 +1014,28 @@ geolocation:
 
 ### Police charge protesters without warning | August 16th
 
-Footage shows police and protesters separated from one another after police declared a riot. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
+Footage shows police and protesters separated from one another after police declared a riot near the Seattle Police Officers Guild building. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
 
 tags: bike, protester, shove
 
 id: wa-seattle-59
 
-geolocation: 
+geolocation: 47.5761869,-122.3468958
 
 **Links**
 
 * https://twitter.com/zmboop/status/1295242820786110469
 
 
-### Police on bicycles chase down and beat alleged protester | August 17th
+### Police on bicycles chase down and beat alleged protester | August 16th
 
-Footage shows several officers on bikes chasing after an individual believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
+Footage shows several officers on bikes chasing after an individual in the International District. The individual is believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
 
 tags: bike, protester, punch, shove, tackle
 
 id: wa-seattle-60
 
-geolocation: 
+geolocation: 47.5988346,-122.3246141
 
 **Links**
 
@@ -1046,11 +1046,13 @@ geolocation:
 
 Police are seen walking protesters, legal observers and journalists backwards. A journalist talks to police as they walk her. An officer then shoves her, knocking the phone out of her hand. The phone was allegedly confiscated and destroyed.
 
+This incident occurred at a vigil for Summer Taylor outside the Washington State Patrol building on East Roanoke.
+
 tags: journalist, property-destruction, shove
 
 id: wa-seattle-61
 
-geolocation: 
+geolocation: 47.642982,-122.3236502
 
 **Links**
 
@@ -1061,7 +1063,7 @@ geolocation:
 
 ### Police shove protesters, mace journalist, arrest drivers and damage cars | August 26th
 
-A journalist, Omari Salisbury, was livestreaming a protest in Seattle. About 5:30 into his livestream, he explains that police intend to push protesters back so they can remove vehicles in the street. Police begin shouting, "Move back," and shove protesters back. Police then mace protesters, as well as the journalist.
+A journalist, Omari Salisbury, was livestreaming a protest in Seattle near the Washington State Patrol Building on East Roanoke. About 5:30 into his livestream, he explains that police intend to push protesters back so they can remove vehicles in the street. Police begin shouting, "Move back," and shove protesters back. Police then mace protesters, as well as the journalist.
 
 Police then push protesters back past the cars, slamming one protester into a car (6:08).
 
@@ -1073,7 +1075,7 @@ tags: arrest, baton, journalist, less-lethal, pepper-spray, property-destruction
 
 id: wa-seattle-62
 
-geolocation: 
+geolocation: 47.642982,-122.3236502
 
 **Links**
 
@@ -1084,13 +1086,13 @@ geolocation:
 
 ### Police drag protester from car | September 4th
 
-Protesters on foot and in vehicles blocked an interstate for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
+Protesters on foot and in vehicles blocked I-5 near exit 168 for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
 
 tags: abuse-of-power, arrest, grab, protester
 
 id: wa-seattle-63
 
-geolocation: 
+geolocation: 47.6467988,-122.3228219
 
 **Links**
 
@@ -1110,7 +1112,7 @@ tags: arrest, bike, less-lethal, pepper-spray, protester, push, shove, spray, st
 
 id: wa-seattle-64
 
-geolocation: 
+geolocation: 47.5761869,-122.3468958
 
 **Links**
 
@@ -1127,7 +1129,7 @@ tags: protester, push, shove
 
 id: wa-seattle-65
 
-geolocation: 
+geolocation: 47.5761869,-122.3468958
 
 **Links**
 
@@ -1138,11 +1140,13 @@ geolocation:
 
 At a protest on September 15th, police targeted a community member for arrest. They pointed out the individual and told them they were arresting the protester. They then grabbed the protester and pepper sprayed the crowd. Several protesters are then thrown to the ground and arrested.
 
+The incident is believed to have occurred somewhere on 5th Avenue North.
+
 tags: arrest, less-lethal, pepper-spray, protester, spray, throw
 
 id: wa-seattle-66
 
-geolocation: 
+geolocation: 47.6244606,-122.3474776
 
 **Links**
 
@@ -1155,11 +1159,13 @@ A protester wearing a helmet is seen lying on the ground while SPD officers on b
 
 The officer has since been placed on administrative leave and is facing a criminal probe at the request of the Office of Police Accountability.
 
+The incident is believed to have occurred in the Capitol Hill neighborhood, potentially near 11th and Pine as did other incidents on September 23rd.
+
 tags: bike, protester
 
 id: wa-seattle-67
 
-geolocation: 
+geolocation: 47.6152896,-122.3181832
 
 **Links**
 
@@ -1169,13 +1175,13 @@ geolocation:
 
 ### Police shove and pepper spray protesters | September 23rd
 
-Police on bikes push protesters down the street. One officer pepper sprays protesters with umbrellas.
+Police on bikes push protesters down the street near 11th and Pine. One officer pepper sprays protesters with umbrellas.
 
 tags: bike, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: wa-seattle-68
 
-geolocation: 
+geolocation: 47.6152896,-122.3181832
 
 **Links**
 
@@ -1184,13 +1190,13 @@ geolocation:
 
 ### Police knock protester over, then shoot them with impact munitions | September 23rd
 
-Police use bikes to shove protesters on the sidewalk. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
+Police use bikes to shove protesters on the sidewalk near Broadway and Howell. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
 
 tags: bike, less-lethal, projectile, property-destruction, protester, push, rubber-bullet, shoot, shove
 
 id: wa-seattle-69
 
-geolocation: 
+geolocation: 47.6175651,-122.3230289
 
 **Links**
 
@@ -1199,13 +1205,13 @@ geolocation:
 
 ### Police fire impact munitions in response to trash fires | September 24th
 
-Police charge protesters in the street, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
+Police charge protesters in the street at 12th and Pine, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: wa-seattle-70
 
-geolocation: 
+geolocation: 47.6152538,-122.3168999
 
 **Links**
 
@@ -1215,13 +1221,13 @@ geolocation:
 
 ### Individual thrown against concrete wall during arrest | September 28th
 
-Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
+Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street near 12th and Pine in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
 
 tags: arrest, bystander, grab, push, shove, throw
 
 id: wa-seattle-71
 
-geolocation: 
+geolocation: 47.6152538,-122.3168999
 
 **Links**
 
