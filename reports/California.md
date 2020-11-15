@@ -838,11 +838,12 @@ tags: baton, person-with-disability, protester, shoot, shove, strike
 
 id: ca-losangeles-31
 
-geolocation: 
+geolocation: 34.0689615, -118.3440646
 
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ca-losangeles-31.1.mp4)
 
 
 ### Police shoot man in groin with rubber bullet | June 2nd
