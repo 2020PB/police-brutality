@@ -74,24 +74,6 @@ geolocation: 44.0521386,-123.0972978
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-eugene-4.1.mp4)
 
 
-## Everett
-
-### Protester arrested after dangling doughnut in front of officers | July 17th
-
-Footage shows a protester dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protester. The protester tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protester, stating, "It's time for you to go," evidently arresting the protester. Another officer states that the protester "assaulted a lieutenant." This same officer threatens other protesters to back off or they will go to jail. His badge number is covered by a piece of tape. Protesters then follow police to the entrance of a building where the original protester is being cuffed. Protesters and counter-protesters then argue with one another.
-
-tags: abuse-of-power, arrest, hide-badge, protester, shove, threaten
-
-id: or-everett-1
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1284628789134229504
-* https://www.youtube.com/watch?v=iLHv642byAc
-
-
 ## Portland
 
 ### Police violently break up peaceful protest | May 30th
