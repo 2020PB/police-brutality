@@ -7149,7 +7149,7 @@ geolocation: 45.4927916, -122.6726079
 
 ## Salem
 
-### Before firing tear gas, Salem PD warns white armed men | June 4th
+### Before firing tear gas, Salem PD warns armed white men | June 4th
 
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
@@ -7157,7 +7157,7 @@ tags: inhumane-treatment, less-lethal, tear-gas
 
 id: or-salem-1
 
-geolocation: 
+geolocation: 44.9393713,-123.0418957
 
 **Links**
 
@@ -7170,7 +7170,7 @@ geolocation:
 
 ### Police charge protesters, make violent arrest | July 29th
 
-Springfield police charge protesters in the street, striking protesters with batons and shoving them with both their hands and metal barricades. One protester is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protester while another officer continues dragging the protester. The officers then roll the protester on his stomach; one officer strikes him in the neck as he does so.
+Springfield police charge protesters in the street near 68th and Glacier, striking protesters with batons and shoving them with both their hands and metal barricades. One protester is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protester while another officer continues dragging the protester. The officers then roll the protester on his stomach; one officer strikes him in the neck as he does so.
 
 A filmer and a journalist allege a taser was used. The alleged use of the taser can be heard [here at 0:06](https://twitter.com/mgbelka/status/1288685746476310530)
 
@@ -7178,7 +7178,7 @@ tags: arrest, baton, grab, less-lethal, protester, punch, push, shove, strike, t
 
 id: or-springfield-1
 
-geolocation: 
+geolocation: 44.040519,-122.9088528
 
 **Links**
 
