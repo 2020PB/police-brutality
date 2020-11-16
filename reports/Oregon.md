@@ -2,7 +2,7 @@
 
 ### Peaceful protester tear gassed | May 30th
 
-Footage shows a small cluster of protesters chanting "I can't breathe." At 1:15 in the footage, without warning, police fire tear gas, causing most protesters flee. Some canisters can be seen thrown back towards police.
+Footage shows a small cluster of protesters chanting "I can't breathe" near Lincoln and Broadway. At 1:15 in the footage, without warning, police fire tear gas, causing most protesters flee. Some canisters can be seen thrown back towards police.
 
 Police then proceed down the street. More tear gas is fired at 4:30 in the footage.
 
@@ -10,7 +10,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-eugene-2
 
-geolocation: 
+geolocation: 44.0499131,-123.0973905
 
 **Links**
 
@@ -60,17 +60,18 @@ geolocation:
 
 ### Underage protester tackled and arrested | July 26th
 
-During a protest at which both pro-police and Black Lives Matter protesters were present, members of the two protests appear to exchange words in an intersection. Police charge a protester, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
+During a protest at which both pro-police and Black Lives Matter protesters were present near West 7th and Lincoln, members of the two protests appear to exchange words in an intersection. Police charge a protester, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
 
 tags: arrest, child, knee, protester, tackle
 
 id: or-eugene-4
 
-geolocation: 
+geolocation: 44.0521386,-123.0972978
 
 **Links**
 
 * https://www.facebook.com/levimadison/videos/10220891720496082/
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-eugene-4.1.mp4)
 
 
 ## Everett
