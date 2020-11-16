@@ -316,11 +316,13 @@ geolocation: 44.9462400, -93.277920
 
 Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger window with a marker round, and that he was cut by shards of glass. Videos show his face and arm bloodied, the passenger window of his car shattered, and glass spread over the floorboard and carseats. He says that he was driving away from a roadblock at the time.
 
+A police roadblock was established on the 3100 block of East Lake Street, near the 3rd precinct, suggesting the incident may have occurred in this vicinity.
+
 tags: journalist, less-lethal, marking-round, property-destruction, shoot
 
 id: mn-minneapolis-7
 
-geolocation: 
+geolocation: 44.9483807,-93.2292709
 
 **Links**
 

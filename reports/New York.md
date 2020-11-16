@@ -174,22 +174,28 @@ geolocation: 40.6839626, -73.9772962
 
 ### Police drive by man and hit him with car door | May 29th
 
-Policeman deliberately opens car door to knock an individual down to the ground.
+A police officer opens their car door to knock an individual down to the ground. The incident on Classon Avenue between Gates and Quincy in Brooklyn.
+
+NYPD Internal Affairs has placed the officer on modified duty and has referred the case the Department Advocate for disciplinary action.
+
+A NY Times journalist alleges some protesters at the scene had been throwing cement at officers.
 
 tags: drive, protester, vehicle
 
 id: ny-newyorkcity-2
 
-geolocation: 
+geolocation: 40.6852172,-73.9592084
 
 **Links**
 
 * https://twitter.com/DriveWendys/status/1266555286678048770
+* https://twitter.com/NickAtNews/status/1266537738364477446
+* https://abc7ny.com/caught-on-camera-nypd-brutality-nyc-curfew-george-floyd-protests/6239075/
 
 
 ### Member of the New York State Assembly pepper-sprayed | May 29th
 
-Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Centre.
+Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Center.
 
 tags: less-lethal, pepper-spray, politician, protester, spray
 
@@ -595,18 +601,20 @@ A police officer forcefully pulls off a protesters face mask and pepper sprays h
 
 The officer involved has been suspended.
 
+The incident occurred somewhere in Brooklyn, at a protest which began outside Barclays Center.
+
 tags: inhumane-treatment, less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-9
 
-geolocation: 
+geolocation: 40.6831896,-73.9767184
 
 **Links**
 
-* [Original Post](https://twitter.com/ajrupchandani/status/1266889115288711168?s=21)
-* [Cross Post](https://twitter.com/_doreenpt/status/1266994439039455232)
+* [Archive Link for 2nd Video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-9..mp4)
+* 
+* https://www.nbcnewyork.com/news/local/protester-speaks-out-after-mask-ripped-off-by-nypd-and-pepper-sprayed-in-brooklyn/2448135/
 * https://twitter.com/AliVelshi/status/1269079615080890368
-
 
 ### Police assault protesters | May 31st
 
@@ -911,7 +919,7 @@ tags: beat, lgbtq+, protester, strike
 
 id: ny-newyorkcity-20
 
-geolocation: 40.6851078, -73.9782489
+geolocation: 40.7338366,-74.0043513
 
 **Links**
 
@@ -1059,17 +1067,18 @@ geolocation: 40.6851078, -73.9782489
 
 ### Motorist honks in support of protest; Police stop her | June 3rd
 
-A motorist driving by the protest honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protesters intervene and distract the officers so the motorist is able to leave.
+A motorist driving by the protest outside Barclays Center honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protesters intervene and distract the officers so the motorist is able to leave.
 
 tags: bystander, threaten
 
 id: ny-newyorkcity-35
 
-geolocation: 
+geolocation: 40.6831896,-73.9767184
 
 **Links**
 
 * https://twitter.com/NoahHurowitz/status/1268363104502657024
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-35.1.mp4)
 
 
 ### Police confiscate protester's bike | June 3rd
@@ -1720,17 +1729,18 @@ geolocation: 40.718918, -73.9891763
 
 ### Police shove protesters with shields | July 25th
 
-Police shield line forces protesters back. Protesters trapped between police and barricades are squeezed and shoved over the barricades.
+Police shield line forces protesters back near Delancey and Ludlow. Protesters trapped between police and barricades are squeezed and shoved over the barricades.
 
 tags: protester, shield, shove
 
 id: ny-newyorkcity-97
 
-geolocation: 
+geolocation: 40.7188905,-73.9891713
 
 **Links**
 
 * https://www.instagram.com/tv/CDFndP4jem2/
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-97.1.mp4)
 
 
 ### Non-uniformed police arrest protester without identifying selves | July 28th

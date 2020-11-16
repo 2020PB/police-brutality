@@ -43,11 +43,13 @@ geolocation: 33.8486545, -84.3628256
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
+The incident appears to have occurred outside the CNN center.
+
 tags: bike, protester, shove
 
 id: ga-atlanta-2
 
-geolocation: 
+geolocation: 33.7579008,-84.3951319
 
 **Links**
 
