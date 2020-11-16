@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-15T19:17:42.700355+00:00
+UPDATED AT: 2020-11-16T14:27:21.061811+00:00
 
 
 # Alabama
@@ -10587,7 +10587,7 @@ tags: baton, beat, protester, strike
 
 id: or-portland-1
 
-geolocation: 
+geolocation: 45.515586, -122.676994
 
 **Links**
 
@@ -10603,7 +10603,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: or-portland-2
 
-geolocation: 
+geolocation: 45.515468, -122.676571
 
 **Links**
 
@@ -10618,7 +10618,7 @@ tags: bystander, homeless, less-lethal, tear-gas
 
 id: or-portland-3
 
-geolocation: 
+geolocation: 45.512416, -122.675332
 
 **Links**
 
@@ -10633,7 +10633,7 @@ tags: less-lethal, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-4
 
-geolocation: 
+geolocation: 45.516878, -122.676268
 
 **Links**
 
@@ -10648,7 +10648,7 @@ tags: less-lethal, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-5
 
-geolocation: 
+geolocation: 45.516721, -122.678358
 
 **Links**
 
@@ -10666,7 +10666,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-22
 
-geolocation: 
+geolocation: 45.516146, -122.676663
 
 **Links**
 
@@ -10684,7 +10684,7 @@ tags: baton, less-lethal, pepper-spray, protester, spray, strike, tear-gas, tear
 
 id: or-portland-26
 
-geolocation: 
+geolocation: 45.515775, -122.674833
 
 **Links**
 
@@ -10702,7 +10702,7 @@ tags: protester, vehicle
 
 id: or-portland-23
 
-geolocation: 
+geolocation: 45.515564, -122.679517
 
 **Links**
 
@@ -10717,7 +10717,7 @@ tags: journalist, push, shove
 
 id: or-portland-258
 
-geolocation: 
+geolocation: 45.516155, -122.678943
 
 **Links**
 
