@@ -2,7 +2,7 @@
 
 ### Peaceful protester tear gassed | May 30th
 
-Footage shows a small cluster of protesters chanting "I can't breathe." At 1:15 in the footage, without warning, police fire tear gas, causing most protesters flee. Some canisters can be seen thrown back towards police.
+Footage shows a small cluster of protesters chanting "I can't breathe" near Lincoln and Broadway. At 1:15 in the footage, without warning, police fire tear gas, causing most protesters flee. Some canisters can be seen thrown back towards police.
 
 Police then proceed down the street. More tear gas is fired at 4:30 in the footage.
 
@@ -10,7 +10,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-eugene-2
 
-geolocation: 
+geolocation: 44.0499131, -123.0973905
 
 **Links**
 
@@ -60,35 +60,18 @@ geolocation:
 
 ### Underage protester tackled and arrested | July 26th
 
-During a protest at which both pro-police and Black Lives Matter protesters were present, members of the two protests appear to exchange words in an intersection. Police charge a protester, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
+During a protest at which both pro-police and Black Lives Matter protesters were present near West 7th and Lincoln, members of the two protests appear to exchange words in an intersection. Police charge a protester, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
 
 tags: arrest, child, knee, protester, tackle
 
 id: or-eugene-4
 
-geolocation: 
+geolocation: 44.0521386, -123.0972978
 
 **Links**
 
 * https://www.facebook.com/levimadison/videos/10220891720496082/
-
-
-## Everett
-
-### Protester arrested after dangling doughnut in front of officers | July 17th
-
-Footage shows a protester dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protester. The protester tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protester, stating, "It's time for you to go," evidently arresting the protester. Another officer states that the protester "assaulted a lieutenant." This same officer threatens other protesters to back off or they will go to jail. His badge number is covered by a piece of tape. Protesters then follow police to the entrance of a building where the original protester is being cuffed. Protesters and counter-protesters then argue with one another.
-
-tags: abuse-of-power, arrest, hide-badge, protester, shove, threaten
-
-id: or-everett-1
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1284628789134229504
-* https://www.youtube.com/watch?v=iLHv642byAc
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-eugene-4.1.mp4)
 
 
 ## Portland
@@ -7166,7 +7149,7 @@ geolocation: 45.4927916, -122.6726079
 
 ## Salem
 
-### Before firing tear gas, Salem PD warns white armed men | June 4th
+### Before firing tear gas, Salem PD warns armed white men | June 4th
 
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
@@ -7174,7 +7157,7 @@ tags: inhumane-treatment, less-lethal, tear-gas
 
 id: or-salem-1
 
-geolocation: 
+geolocation: 44.9393713, -123.0418957
 
 **Links**
 
@@ -7187,7 +7170,7 @@ geolocation:
 
 ### Police charge protesters, make violent arrest | July 29th
 
-Springfield police charge protesters in the street, striking protesters with batons and shoving them with both their hands and metal barricades. One protester is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protester while another officer continues dragging the protester. The officers then roll the protester on his stomach; one officer strikes him in the neck as he does so.
+Springfield police charge protesters in the street near 68th and Glacier, striking protesters with batons and shoving them with both their hands and metal barricades. One protester is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protester while another officer continues dragging the protester. The officers then roll the protester on his stomach; one officer strikes him in the neck as he does so.
 
 A filmer and a journalist allege a taser was used. The alleged use of the taser can be heard [here at 0:06](https://twitter.com/mgbelka/status/1288685746476310530)
 
@@ -7195,7 +7178,7 @@ tags: arrest, baton, grab, less-lethal, protester, punch, push, shove, strike, t
 
 id: or-springfield-1
 
-geolocation: 
+geolocation: 44.040519, -122.9088528
 
 **Links**
 
