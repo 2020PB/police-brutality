@@ -184,7 +184,7 @@ tags: drive, protester, vehicle
 
 id: ny-newyorkcity-2
 
-geolocation: 40.6852172,-73.9592084
+geolocation: 40.6852172, -73.9592084
 
 **Links**
 
@@ -607,7 +607,7 @@ tags: inhumane-treatment, less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-9
 
-geolocation: 40.6831896,-73.9767184
+geolocation: 40.6831896, -73.9767184
 
 **Links**
 
@@ -918,7 +918,7 @@ tags: beat, lgbtq+, protester, strike
 
 id: ny-newyorkcity-20
 
-geolocation: 40.7338366,-74.0043513
+geolocation: 40.7338366, -74.0043513
 
 **Links**
 
@@ -1072,7 +1072,7 @@ tags: bystander, threaten
 
 id: ny-newyorkcity-35
 
-geolocation: 40.6831896,-73.9767184
+geolocation: 40.6831896, -73.9767184
 
 **Links**
 
@@ -1734,7 +1734,7 @@ tags: protester, shield, shove
 
 id: ny-newyorkcity-97
 
-geolocation: 40.7188905,-73.9891713
+geolocation: 40.7188905, -73.9891713
 
 **Links**
 

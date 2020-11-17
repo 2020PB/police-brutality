@@ -10,7 +10,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-eugene-2
 
-geolocation: 44.0499131,-123.0973905
+geolocation: 44.0499131, -123.0973905
 
 **Links**
 
@@ -66,7 +66,7 @@ tags: arrest, child, knee, protester, tackle
 
 id: or-eugene-4
 
-geolocation: 44.0521386,-123.0972978
+geolocation: 44.0521386, -123.0972978
 
 **Links**
 
@@ -7157,7 +7157,7 @@ tags: inhumane-treatment, less-lethal, tear-gas
 
 id: or-salem-1
 
-geolocation: 44.9393713,-123.0418957
+geolocation: 44.9393713, -123.0418957
 
 **Links**
 
@@ -7178,7 +7178,7 @@ tags: arrest, baton, grab, less-lethal, protester, punch, push, shove, strike, t
 
 id: or-springfield-1
 
-geolocation: 44.040519,-122.9088528
+geolocation: 44.040519, -122.9088528
 
 **Links**
 

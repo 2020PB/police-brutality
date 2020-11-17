@@ -322,7 +322,7 @@ tags: journalist, less-lethal, marking-round, property-destruction, shoot
 
 id: mn-minneapolis-7
 
-geolocation: 44.9483807,-93.2292709
+geolocation: 44.9483807, -93.2292709
 
 **Links**
 

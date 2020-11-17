@@ -10,7 +10,7 @@ tags: abuse-of-power, arrest, hide-badge, protester, shove, threaten
 
 id: or-everett-1
 
-geolocation: 47.9779407,-122.2059514
+geolocation: 47.9779407, -122.2059514
 
 **Links**
 

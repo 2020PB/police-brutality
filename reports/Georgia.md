@@ -49,7 +49,7 @@ tags: bike, protester, shove
 
 id: ga-atlanta-2
 
-geolocation: 33.7579008,-84.3951319
+geolocation: 33.7579008, -84.3951319
 
 **Links**
 
