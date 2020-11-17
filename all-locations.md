@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-16T14:27:21.061811+00:00
+UPDATED AT: 2020-11-17T22:17:45.293242+00:00
 
 
 # Alabama
@@ -3600,11 +3600,13 @@ geolocation: 33.8486545, -84.3628256
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
+The incident appears to have occurred outside the CNN center.
+
 tags: bike, protester, shove
 
 id: ga-atlanta-2
 
-geolocation: 
+geolocation: 33.7579008, -84.3951319
 
 **Links**
 
@@ -6178,11 +6180,13 @@ geolocation: 44.9462400, -93.277920
 
 Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger window with a marker round, and that he was cut by shards of glass. Videos show his face and arm bloodied, the passenger window of his car shattered, and glass spread over the floorboard and carseats. He says that he was driving away from a roadblock at the time.
 
+A police roadblock was established on the 3100 block of East Lake Street, near the 3rd precinct, suggesting the incident may have occurred in this vicinity.
+
 tags: journalist, less-lethal, marking-round, property-destruction, shoot
 
 id: mn-minneapolis-7
 
-geolocation: 
+geolocation: 44.9483807, -93.2292709
 
 **Links**
 
@@ -7138,22 +7142,28 @@ geolocation: 40.6839626, -73.9772962
 
 ### Police drive by man and hit him with car door | May 29th
 
-Policeman deliberately opens car door to knock an individual down to the ground.
+A police officer opens their car door to knock an individual down to the ground. The incident on Classon Avenue between Gates and Quincy in Brooklyn.
+
+NYPD Internal Affairs has placed the officer on modified duty and has referred the case the Department Advocate for disciplinary action.
+
+A NY Times journalist alleges some protesters at the scene had been throwing cement at officers.
 
 tags: drive, protester, vehicle
 
 id: ny-newyorkcity-2
 
-geolocation: 
+geolocation: 40.6852172, -73.9592084
 
 **Links**
 
 * https://twitter.com/DriveWendys/status/1266555286678048770
+* https://twitter.com/NickAtNews/status/1266537738364477446
+* https://abc7ny.com/caught-on-camera-nypd-brutality-nyc-curfew-george-floyd-protests/6239075/
 
 
 ### Member of the New York State Assembly pepper-sprayed | May 29th
 
-Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Centre.
+Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Center.
 
 tags: less-lethal, pepper-spray, politician, protester, spray
 
@@ -7559,16 +7569,17 @@ A police officer forcefully pulls off a protesters face mask and pepper sprays h
 
 The officer involved has been suspended.
 
+The incident occurred somewhere in Brooklyn, at a protest which began outside Barclays Center.
+
 tags: inhumane-treatment, less-lethal, pepper-spray, protester, spray
 
 id: ny-newyorkcity-9
 
-geolocation: 
+geolocation: 40.6831896, -73.9767184
 
 **Links**
 
-* [Original Post](https://twitter.com/ajrupchandani/status/1266889115288711168?s=21)
-* [Cross Post](https://twitter.com/_doreenpt/status/1266994439039455232)
+* https://www.nbcnewyork.com/news/local/protester-speaks-out-after-mask-ripped-off-by-nypd-and-pepper-sprayed-in-brooklyn/2448135/
 * https://twitter.com/AliVelshi/status/1269079615080890368
 
 
@@ -7875,7 +7886,7 @@ tags: beat, lgbtq+, protester, strike
 
 id: ny-newyorkcity-20
 
-geolocation: 40.6851078, -73.9782489
+geolocation: 40.7338366, -74.0043513
 
 **Links**
 
@@ -8023,17 +8034,18 @@ geolocation: 40.6851078, -73.9782489
 
 ### Motorist honks in support of protest; Police stop her | June 3rd
 
-A motorist driving by the protest honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protesters intervene and distract the officers so the motorist is able to leave.
+A motorist driving by the protest outside Barclays Center honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protesters intervene and distract the officers so the motorist is able to leave.
 
 tags: bystander, threaten
 
 id: ny-newyorkcity-35
 
-geolocation: 
+geolocation: 40.6831896, -73.9767184
 
 **Links**
 
 * https://twitter.com/NoahHurowitz/status/1268363104502657024
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-35.1.mp4)
 
 
 ### Police confiscate protester's bike | June 3rd
@@ -8684,17 +8696,18 @@ geolocation: 40.718918, -73.9891763
 
 ### Police shove protesters with shields | July 25th
 
-Police shield line forces protesters back. Protesters trapped between police and barricades are squeezed and shoved over the barricades.
+Police shield line forces protesters back near Delancey and Ludlow. Protesters trapped between police and barricades are squeezed and shoved over the barricades.
 
 tags: protester, shield, shove
 
 id: ny-newyorkcity-97
 
-geolocation: 
+geolocation: 40.7188905, -73.9891713
 
 **Links**
 
 * https://www.instagram.com/tv/CDFndP4jem2/
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-97.1.mp4)
 
 
 ### Non-uniformed police arrest protester without identifying selves | July 28th
@@ -10488,7 +10501,7 @@ geolocation: 36.1106601, -95.9778974
 
 ### Peaceful protester tear gassed | May 30th
 
-Footage shows a small cluster of protesters chanting "I can't breathe." At 1:15 in the footage, without warning, police fire tear gas, causing most protesters flee. Some canisters can be seen thrown back towards police.
+Footage shows a small cluster of protesters chanting "I can't breathe" near Lincoln and Broadway. At 1:15 in the footage, without warning, police fire tear gas, causing most protesters flee. Some canisters can be seen thrown back towards police.
 
 Police then proceed down the street. More tear gas is fired at 4:30 in the footage.
 
@@ -10496,7 +10509,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-eugene-2
 
-geolocation: 
+geolocation: 44.0499131, -123.0973905
 
 **Links**
 
@@ -10546,35 +10559,18 @@ geolocation:
 
 ### Underage protester tackled and arrested | July 26th
 
-During a protest at which both pro-police and Black Lives Matter protesters were present, members of the two protests appear to exchange words in an intersection. Police charge a protester, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
+During a protest at which both pro-police and Black Lives Matter protesters were present near West 7th and Lincoln, members of the two protests appear to exchange words in an intersection. Police charge a protester, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
 
 tags: arrest, child, knee, protester, tackle
 
 id: or-eugene-4
 
-geolocation: 
+geolocation: 44.0521386, -123.0972978
 
 **Links**
 
 * https://www.facebook.com/levimadison/videos/10220891720496082/
-
-
-## Everett
-
-### Protester arrested after dangling doughnut in front of officers | July 17th
-
-Footage shows a protester dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protester. The protester tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protester, stating, "It's time for you to go," evidently arresting the protester. Another officer states that the protester "assaulted a lieutenant." This same officer threatens other protesters to back off or they will go to jail. His badge number is covered by a piece of tape. Protesters then follow police to the entrance of a building where the original protester is being cuffed. Protesters and counter-protesters then argue with one another.
-
-tags: abuse-of-power, arrest, hide-badge, protester, shove, threaten
-
-id: or-everett-1
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1284628789134229504
-* https://www.youtube.com/watch?v=iLHv642byAc
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-eugene-4.1.mp4)
 
 
 ## Portland
@@ -17652,7 +17648,7 @@ geolocation: 45.4927916, -122.6726079
 
 ## Salem
 
-### Before firing tear gas, Salem PD warns white armed men | June 4th
+### Before firing tear gas, Salem PD warns armed white men | June 4th
 
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
@@ -17660,7 +17656,7 @@ tags: inhumane-treatment, less-lethal, tear-gas
 
 id: or-salem-1
 
-geolocation: 
+geolocation: 44.9393713, -123.0418957
 
 **Links**
 
@@ -17673,7 +17669,7 @@ geolocation:
 
 ### Police charge protesters, make violent arrest | July 29th
 
-Springfield police charge protesters in the street, striking protesters with batons and shoving them with both their hands and metal barricades. One protester is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protester while another officer continues dragging the protester. The officers then roll the protester on his stomach; one officer strikes him in the neck as he does so.
+Springfield police charge protesters in the street near 68th and Glacier, striking protesters with batons and shoving them with both their hands and metal barricades. One protester is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protester while another officer continues dragging the protester. The officers then roll the protester on his stomach; one officer strikes him in the neck as he does so.
 
 A filmer and a journalist allege a taser was used. The alleged use of the taser can be heard [here at 0:06](https://twitter.com/mgbelka/status/1288685746476310530)
 
@@ -17681,7 +17677,7 @@ tags: arrest, baton, grab, less-lethal, protester, punch, push, shove, strike, t
 
 id: or-springfield-1
 
-geolocation: 
+geolocation: 44.040519, -122.9088528
 
 **Links**
 
@@ -19885,6 +19881,26 @@ geolocation: 37.5460391, -77.4448378
 
 
 # Washington
+
+## Everett
+
+### Protester arrested after dangling doughnut in front of officers | July 17th
+
+Footage shows a protester dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protester. The protester tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protester, stating, "It's time for you to go," evidently arresting the protester. Another officer states that the protester "assaulted a lieutenant." This same officer threatens other protesters to back off or they will go to jail. His badge number is covered by a piece of tape. Protesters then follow police to the entrance of a building where the original protester is being cuffed. Protesters and counter-protesters then argue with one another.
+
+The incident appears to be near the county courthouse complex.
+
+tags: abuse-of-power, arrest, hide-badge, protester, shove, threaten
+
+id: or-everett-1
+
+geolocation: 47.9779407, -122.2059514
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1284628789134229504
+* https://www.youtube.com/watch?v=iLHv642byAc
+
 
 ## Olympia
 
