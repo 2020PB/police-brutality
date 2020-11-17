@@ -611,10 +611,9 @@ geolocation: 40.6831896,-73.9767184
 
 **Links**
 
-* [Archive Link for 2nd Video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-9..mp4)
-* 
 * https://www.nbcnewyork.com/news/local/protester-speaks-out-after-mask-ripped-off-by-nypd-and-pepper-sprayed-in-brooklyn/2448135/
 * https://twitter.com/AliVelshi/status/1269079615080890368
+
 
 ### Police assault protesters | May 31st
 
