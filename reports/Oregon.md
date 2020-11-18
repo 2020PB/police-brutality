@@ -6500,11 +6500,13 @@ geolocation:
 
 A protester holds a sign up at an officer, then retracts it and shows the officer his middle finger. The officer then pepper sprays the protester.
 
+The incident occurred near the Justice Center.
+
 tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-373
 
-geolocation: 
+geolocation: 45.5149116,-122.6772692
 
 **Links**
 
@@ -6516,11 +6518,13 @@ geolocation:
 
 Police knock a delivery driver wearing a specialized food delivery backpack off his bike. He is then arrested and cuffed using zip ties despite no affiliation with the protests.
 
+The delivery driver was passing by a protest outside the Justice Center.
+
 tags: arrest, bystander, tackle, zip-tie
 
 id: or-portland-374
 
-geolocation: 
+geolocation: 45.5149116,-122.6772692
 
 **Links**
 
@@ -6532,22 +6536,22 @@ geolocation:
 
 ### Police pepper spray protesters, then slam protester to the ground | September 26th
 
-While charging protesters, police deploy pepper spray, then grab a protester around the waist and slam him to the ground in order to make an arrest.
+While charging protesters near the Justic Center, police deploy pepper spray, then grab a protester around the waist and slam him to the ground in order to make an arrest.
 
 tags: arrest, grab, less-lethal, pepper-spray, protester, spray, throw
 
 id: or-portland-375
 
-geolocation: 
+geolocation: 45.5149116,-122.6772692
 
 **Links**
 
-* https://twitter.com/MrOlmos/status/1310080211342340097
+* https://twitter.com/MrOlmos/status/1310114627024334848
 
 
 ### Police shove press and legal observers | September 26th
 
-Police shove a group of press and legal observers as they walk down the sidewalk. At one point, a journalist filming is shoved into a tree, causing him to drop his camera.
+Police shove a group of press and legal observers as they walk down the sidewalk near SW Morrison and SW 6th. At one point, a journalist filming is shoved into a tree, causing him to drop his camera.
 
 One of the journalists in the group is a guide for a blind journalist. Police arrested this guide during the night, leaving the blind journalist without her guide.
 
@@ -6555,25 +6559,25 @@ tags: journalist, legal-observer, person-with-disability, push, shove
 
 id: or-portland-376
 
-geolocation: 
+geolocation: 45.5190881,-122.6786056
 
 **Links**
 
-* https://twitter.com/MrOlmos/status/1310080211342340097
-* https://twitter.com/MrOlmos/status/1310080211342340097
+* https://twitter.com/MrOlmos/status/1310118106568650752
+* https://twitter.com/MrOlmos/status/1310118171060256768
 * https://twitter.com/MrOlmos/status/1310116575668658176
 * https://twitter.com/RedheadNomad/status/1310365046724321283
 
 
 ### Police charge, shove, and harass protesters | September 26th
 
-Police shove a protester to the ground. A second protester helps her up. A protester off screen calls the officer who pushed her "a piece of shit." The officer then shoves that protester. Protesters and police then stand off, yelling. An officer then attempts to grab something out of a protester's hands, causing a scuffle. Police then push protesters down the sidewalk, before charging without warning. Police drag a protester to his knees, ripping out the contents of his backpack and throwing them on the ground. Another protester approaches them and is immediately shoved to the ground. Police then release both protesters.
+Police shove a protester to the ground near SW 6th and S Yamhill. A second protester helps her up. A protester off screen calls the officer who pushed her "a piece of shit." The officer then shoves that protester. Protesters and police then stand off, yelling. An officer then attempts to grab something out of a protester's hands, causing a scuffle. Police then push protesters down the sidewalk, before charging without warning. Police drag a protester to his knees, ripping out the contents of his backpack and throwing them on the ground. Another protester approaches them and is immediately shoved to the ground. Police then release both protesters.
 
 tags: grab, property-destruction, protester, push, shove
 
 id: or-portland-377
 
-geolocation: 
+geolocation: 45.5184262,-122.6790246
 
 **Links**
 
@@ -6586,28 +6590,29 @@ geolocation:
 
 ### Police shove protester leaving park | September 26th
 
-A protester in Portland is shoved to the ground by police as the officer tells her to leave the park. The officer then allegedly pulls her to her feet by the hood of her sweatshirt, although the first-person footage prevents this from being seen.
+A protester in Portland is shoved to the ground by police as the officer tells her to leave the park across from the Justic Center. The officer then allegedly pulls her to her feet by the hood of her sweatshirt, although the first-person footage prevents this from being seen.
 
 tags: protester, push, shove
 
 id: or-portland-378
 
-geolocation: 
+geolocation: 45.515075,-122.6772178
 
 **Links**
 
 * https://twitter.com/KohzKah/status/1310144506457518081
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-378.1.mp4)
 
 
 ### Police pepper spray protester while confiscating sign | September 28th
 
-Police are seen attempting to take a sign from a protester. The protester refuses to give it to them. Other protesters argue with officers; one officer pepper sprays a protester. Police continue to grapple with the protester over the sign. One officer then pepper sprays the protester, causing him to release the sign. He is then arrested.
+Police are seen attempting to take a sign from a protester in Kenton Park. The protester refuses to give it to them. Other protesters argue with officers; one officer pepper sprays a protester. Police continue to grapple with the protester over the sign. One officer then pepper sprays the protester, causing him to release the sign. He is then arrested.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-379
 
-geolocation: 
+geolocation: 45.5834036,-122.6923462
 
 **Links**
 
@@ -6616,13 +6621,13 @@ geolocation:
 
 ### Police shove protester in street | September 28th
 
-A protester is seen standing in the street while police give a dispersal order. One officer shoves the protester to the ground. The protester is then pushed off towards the sidewalk as she refuses to move.
+A protester is seen standing in the street near the Portland Police Association while police give a dispersal order. One officer shoves the protester to the ground. The protester is then pushed off towards the sidewalk as she refuses to move.
 
 tags: protester, push, shove
 
 id: or-portland-380
 
-geolocation: 
+geolocation: 45.577154,-122.6868429
 
 **Links**
 
@@ -6632,13 +6637,13 @@ geolocation:
 
 ### Police tackle and pepper spray protester during arrest | September 28th
 
-During an extended altercation outside a 7-11, during which police make several targeted arrests, police tackle a protester to the ground for arrest. One officer maces the protester as they are being brought down.
+During an extended altercation outside a 7-11 at North Denver and North Lombard, during which police make several targeted arrests, police tackle a protester to the ground for arrest. One officer maces the protester as they are being brought down.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-portland-381
 
-geolocation: 
+geolocation: 45.577154,-122.6868429
 
 **Links**
 
@@ -6648,13 +6653,13 @@ geolocation:
 
 ### Police assault and arrest motorcylce driver | September 28th
 
-Police knock a motorist driving through an intersection off their motorcycle and arrest them. The driver did not appear to be affiliated with protests.
+A motorist is seen driving through the intersection of North Denver and North Lombard. Police knock the motorist off their motorcycle and arrest them. The driver did not appear to be affiliated with protests.
 
 tags: arrest, bystander, tackle
 
 id: or-portland-382
 
-geolocation: 
+geolocation: 45.577154,-122.6868429
 
 **Links**
 
@@ -6663,13 +6668,13 @@ geolocation:
 
 ### Police shove protesters and press, kick journalist's camera | September 28th
 
-Police shove press and protesters down the street after declaring unlawful assembly. The filmer, a journalist, is caught in the crowd and struck by a police officer with a baton. The filmer drops his camera, which is then stepped on and kicked by police.
+After declaring unlawful assembly, police shove press and protesters down the street near 3rd and Madison. The filmer, a journalist, is caught in the crowd and struck by a police officer with a baton. The filmer drops his camera, which is then stepped on and kicked by police.
 
 tags: baton, journalist, property-destruction, protester, push, shove, strike
 
 id: or-portland-383
 
-geolocation: 
+geolocation: 45.5149116,-122.677269
 
 **Links**
 
