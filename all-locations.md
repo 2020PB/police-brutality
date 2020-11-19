@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-17T22:17:45.293242+00:00
+UPDATED AT: 2020-11-19T20:29:40.903083+00:00
 
 
 # Alabama
@@ -9271,6 +9271,7 @@ geolocation: 35.2254977, -80.8452494
 * https://www.youtube.com/watch?v=Y3Hgwp--XVc&feature=youtu.be
 * https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
 * https://twitter.com/queencitynerve/status/1298718282082467847
+* https://www.youtube.com/watch?v=jo0cF-qMa50
 
 
 ### Police arrest representative from The Bail Project | June 8th
