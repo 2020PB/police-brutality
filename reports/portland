@@ -247,7 +247,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-9
 
-geolocation: 45.514871, -122.680014 // Unitus Plaza caught on video
+geolocation: 45.514871, -122.680014 
 
 **Links**
 
@@ -262,7 +262,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-21
 
-geolocation: 45.516589, -122.677616 // Salmon & Main caught on video
+geolocation: 45.516589, -122.677616 
 
 **Links**
 
@@ -277,7 +277,7 @@ tags: baton, beat, journalist, less-lethal, pepper-spray, spray, strike
 
 id: or-portland-6
 
-geolocation: 45.515540, -122.677147 // Chapman Square cited
+geolocation: 45.515540, -122.677147 
 
 **Links**
 
@@ -295,7 +295,7 @@ tags: baton, protester, push, shove, strike
 
 id: or-portland-18
 
-geolocation: 45.515507, -122.677484 // Chapman Square caught on video
+geolocation: 45.515507, -122.677484 
 
 **Links**
 
@@ -310,7 +310,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-24
 
-geolocation: 45.514266, -122.677721 // Terry Schrunk Plaza caught on video
+geolocation: 45.514266, -122.677721 
 
 **Links**
 
@@ -325,7 +325,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: or-portland-20
 
-geolocation: 45.515624, -122.677091 // Chapman Square caught on video
+geolocation: 45.515624, -122.677091 
 
 **Links**
 
@@ -355,7 +355,7 @@ tags: arrest, bike, property-destruction, protester, shove
 
 id: or-portland-11
 
-geolocation: 45.520774, -122.676372 // Small Pharaoah's caught on video
+geolocation: 45.520774, -122.676372 
 
 **Links**
 
@@ -370,7 +370,7 @@ tags: journalist, less-lethal, mace, pepper-spray, spray
 
 id: or-portland-12
 
-geolocation: 45.516130, -122.677278 // Lownsdale caught on video
+geolocation: 45.516130, -122.677278 
 
 **Links**
 
@@ -402,7 +402,7 @@ tags: arrest, baton, beat, protester, strike
 
 id: or-portland-16
 
-geolocation: 45.515478, -122.677229 // Chapman Square caught on video
+geolocation: 45.515478, -122.677229 
 
 **Links**
 
@@ -417,7 +417,7 @@ tags: beat, less-lethal, property-destruction, protester, strike, tear-gas
 
 id: or-portland-17
 
-geolocation: 45.515867, -122.677448 // Lownsdale caught on video
+geolocation: 45.515867, -122.677448 
 
 **Links**
 
