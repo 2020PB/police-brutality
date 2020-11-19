@@ -6508,7 +6508,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-373
 
-geolocation: 45.5149116,-122.6772692
+geolocation: 45.5149116, -122.6772692
 
 **Links**
 
@@ -6526,7 +6526,7 @@ tags: arrest, bystander, tackle, zip-tie
 
 id: or-portland-374
 
-geolocation: 45.5149116,-122.6772692
+geolocation: 45.5149116, -122.6772692
 
 **Links**
 
@@ -6544,7 +6544,7 @@ tags: arrest, grab, less-lethal, pepper-spray, protester, spray, throw
 
 id: or-portland-375
 
-geolocation: 45.5149116,-122.6772692
+geolocation: 45.5149116, -122.6772692
 
 **Links**
 
@@ -6561,7 +6561,7 @@ tags: journalist, legal-observer, person-with-disability, push, shove
 
 id: or-portland-376
 
-geolocation: 45.5190881,-122.6786056
+geolocation: 45.5190881, -122.6786056
 
 **Links**
 
@@ -6579,7 +6579,7 @@ tags: grab, property-destruction, protester, push, shove
 
 id: or-portland-377
 
-geolocation: 45.5184262,-122.6790246
+geolocation: 45.5184262, -122.6790246
 
 **Links**
 
@@ -6598,7 +6598,7 @@ tags: protester, push, shove
 
 id: or-portland-378
 
-geolocation: 45.515075,-122.6772178
+geolocation: 45.515075, -122.6772178
 
 **Links**
 
@@ -6614,7 +6614,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-379
 
-geolocation: 45.5834036,-122.6923462
+geolocation: 45.5834036, -122.6923462
 
 **Links**
 
@@ -6629,7 +6629,7 @@ tags: protester, push, shove
 
 id: or-portland-380
 
-geolocation: 45.577154,-122.6868429
+geolocation: 45.577154, -122.6868429
 
 **Links**
 
@@ -6645,7 +6645,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-portland-381
 
-geolocation: 45.577154,-122.6868429
+geolocation: 45.577154, -122.6868429
 
 **Links**
 
@@ -6661,7 +6661,7 @@ tags: arrest, bystander, tackle
 
 id: or-portland-382
 
-geolocation: 45.577154,-122.6868429
+geolocation: 45.577154, -122.6868429
 
 **Links**
 
@@ -6676,7 +6676,7 @@ tags: baton, journalist, property-destruction, protester, push, shove, strike
 
 id: or-portland-383
 
-geolocation: 45.5149116,-122.677269
+geolocation: 45.5149116, -122.677269
 
 **Links**
 
