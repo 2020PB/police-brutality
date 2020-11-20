@@ -5828,7 +5828,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-336
 
-geolocation: 
+geolocation: 45.5769153,-122.6882507
 
 **Links**
 
@@ -5838,13 +5838,13 @@ geolocation:
 
 ### Police shove member of the press | August 28th
 
-A reporter attempts to film arrests being made in the lot of a gas station. As they approach, an officer confronts them, shoving the reporter back.
+A reporter attempts to film arrests being made in the lot of the Chevron gas station at N Denver and N Lombard. As they approach, an officer confronts them, shoving the reporter back.
 
 tags: journalist, push, shove
 
 id: or-portland-337
 
-geolocation: 
+geolocation: 45.577083,-122.6869451
 
 **Links**
 
@@ -5854,13 +5854,13 @@ geolocation:
 
 ### Police arrest protester on sidewalk | August 28th
 
-A journalist captures an exchange between an officer and a protester. The protester is filming the officer. The officer tells the protester that he cannot be here without a press pass. The protester asks why. The officer says that it's been declared a riot. The protester asks the officer to define a riot. Officers then arrest the protester.
+A journalist captures an exchange between an officer and a protester outside Heavenly Donuts on N Lombard. The protester is filming the officer. The officer tells the protester that he cannot be here without a press pass. The protester asks why. The officer says that it's been declared a riot. The protester asks the officer to define a riot. Officers then arrest the protester.
 
 tags: abuse-of-power, arrest, protester
 
 id: or-portland-338
 
-geolocation: 
+geolocation: 45.577083,-122.686945
 
 **Links**
 
