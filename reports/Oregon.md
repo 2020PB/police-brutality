@@ -5987,7 +5987,7 @@ tags: arrest, protester, push, shove, tackle
 
 id: or-portland-346
 
-geolocation: 45.5770984,-122.6867857
+geolocation: 45.5770984, -122.6867857
 
 **Links**
 
@@ -6008,7 +6008,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-347
 
-geolocation: 45.577097,-122.6861626
+geolocation: 45.577097, -122.6861626
 
 **Links**
 
@@ -6023,7 +6023,7 @@ tags: journalist, push, shove
 
 id: or-portland-351
 
-geolocation: 45.5771748,-122.6864379
+geolocation: 45.5771748, -122.6864379
 
 **Links**
 
@@ -6038,7 +6038,7 @@ tags: journalist, push, shove
 
 id: or-portland-348
 
-geolocation: 45.5189392,-122.5437546
+geolocation: 45.5189392, -122.5437546
 
 **Links**
 
@@ -6054,7 +6054,7 @@ tags: protester, tackle
 
 id: or-portland-349
 
-geolocation: 45.5189209,-122.5469154
+geolocation: 45.5189209, -122.5469154
 
 **Links**
 
@@ -6070,7 +6070,7 @@ tags: less-lethal, property-destruction, protester, tear-gas
 
 id: or-portland-350
 
-geolocation: 45.5190077,-122.5429058
+geolocation: 45.5190077, -122.5429058
 
 **Links**
 
@@ -6092,7 +6092,7 @@ tags: arrest, protester, punch
 
 id: or-portland-352
 
-geolocation: 45.5187387,-122.544683
+geolocation: 45.5187387, -122.544683
 
 **Links**
 
@@ -6107,7 +6107,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-353
 
-geolocation: 45.5148415,-122.6774467
+geolocation: 45.5148415, -122.6774467
 
 **Links**
 
@@ -6122,7 +6122,7 @@ tags: arrest, homeless, tackle
 
 id: or-portland-354
 
-geolocation: 45.5148415,-122.6774467
+geolocation: 45.5148415, -122.6774467
 
 **Links**
 
@@ -6141,7 +6141,7 @@ tags: protester, push, shove
 
 id: or-portland-355
 
-geolocation: 45.516015,-122.6814311
+geolocation: 45.516015, -122.6814311
 
 **Links**
 
