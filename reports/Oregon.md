@@ -5716,13 +5716,13 @@ geolocation:
 
 ### Police charge protesters with shields | August 25th
 
-Police charge at a line of protesters with shields. Police use batons to strike protesters repeatedly, then make several arrests.
+Police charge at a line of protesters with shields near SW Jefferson and SW 4th. Police use batons to strike protesters repeatedly, then make several arrests.
 
 tags: arrest, baton, beat, protester, strike
 
 id: or-portland-330
 
-geolocation: 
+geolocation: 45.5144977,-122.678743
 
 **Links**
 
@@ -5734,13 +5734,13 @@ geolocation:
 
 ### Police arrest woman yelling at them | August 25th
 
-A woman is seen yelling at police while police push protesters along the sidewalk. Although yelling, she is obeying police instruction. She says, after a while, "I don't listen to pigs." One officers then charges forward and grabs her to arrest her. Additional officers help make the arrest.
+A woman is seen yelling at police while police push protesters along the sidewalk near SW Jefferson and SW 4th. Although yelling, she is obeying police instruction. She says, after a while, "I don't listen to pigs." One officers then charges forward and grabs her to arrest her. Additional officers help make the arrest.
 
 tags: abuse-of-power, arrest, protester
 
 id: or-portland-331
 
-geolocation: 
+geolocation: 45.5146818,-122.6785842
 
 **Links**
 
@@ -5750,13 +5750,13 @@ geolocation:
 
 ### Officer throws stun grenade at protesters on sidewalk | August 25th
 
-A small group of protesters is on the sidewalk, chanting and yelling. An officers runs up and lobs a stun grenade at them.
+A small group of protesters is on the sidewalk at S 5th and SW Jefferson, chanting and yelling. An officers runs up and lobs a stun grenade at them.
 
 tags: less-lethal, protester, stun-grenade
 
 id: or-portland-332
 
-geolocation: 
+geolocation: 45.5147756,-122.6797709
 
 **Links**
 
@@ -5766,13 +5766,13 @@ geolocation:
 
 ### Police puncture tires of multiple cars | August 25th
 
-Footage shows an officer puncturing the tires of multiple cars. One is stopped on the side of the street with the headlights on. The other is parked, with no one inside.
+Footage shows an officer puncturing the tires of multiple cars in front of City Hall on S 5th. One is stopped on the side of the street with the headlights on. The other is parked, with no one inside.
 
 tags: property-destruction
 
 id: or-portland-333
 
-geolocation: 
+geolocation: 45.5151061,-122.6795829
 
 **Links**
 
@@ -5782,13 +5782,13 @@ geolocation:
 
 ### Police shoot at protesters in street | August 25th
 
-Several protesters stand in the street some distance from police. Police shoot at them with impact munitions. The camera pans away due to a technical issue. The filmer recovers what appears to be a foam bullet. The filmer then shows a protester attempting to pick up a spent tear gas canister; police shoot this protester repeatedly.
+Several protesters stand in the street (SW Jefferson and S 3rd) some distance from police. Police shoot at them with impact munitions. The camera pans away due to a technical issue. The filmer recovers what appears to be a foam bullet. The filmer then shows a protester attempting to pick up a spent tear gas canister; police shoot this protester repeatedly.
 
 tags: foam-bullet, less-lethal, projectile, protester, shoot
 
 id: or-portland-334
 
-geolocation: 
+geolocation: 45.5142272,-122.677725
 
 **Links**
 
