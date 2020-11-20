@@ -5869,13 +5869,13 @@ geolocation:
 
 ### Police punch arrestee | August 30th
 
-After declaring an unlawful assembly, police make several arrests. In this footage, police can be seen repeatedly punching a detained protester to subdue them.
+After declaring an unlawful assembly at E 47th and E Burnside, police make several arrests. In this footage, police can be seen repeatedly punching a detained protester to subdue them.
 
 tags: arrest, protester, punch
 
 id: or-portland-339
 
-geolocation: 
+geolocation: 45.5230061,-122.6149833
 
 **Links**
 
@@ -5887,7 +5887,7 @@ geolocation:
 
 ### Police tackle and arrest protesters; shove and shoot press and legal observers | August 30th
 
-Police snatch protesters standing among press on the sidewalk, throw them to the ground and arrest them. Other officers then shove press and legal observers away. Impact munitions can be heard fired; the filmer, a journalist, posted that police shot them in the feet.
+Police snatch protesters standing among press on the sidewalk at E 47th and E Burnside, throw them to the ground and arrest them. Other officers then shove press and legal observers away. Impact munitions can be heard fired; the filmer, a journalist, posted that police shot them in the feet.
 
 Police snatched protesters off the sidewalk on several occasions throughout the protest, including across the street from this incident at the same time (3rd link).
 
@@ -5895,24 +5895,25 @@ tags: arrest, journalist, legal-observer, less-lethal, projectile, protester, pu
 
 id: or-portland-340
 
-geolocation: 
+geolocation: 45.5230061,-122.6149833
 
 **Links**
 
 * https://twitter.com/_WhatRiot/status/1300315083352887296
 * https://twitter.com/suzettesmith/status/1300315898725543938
 * https://twitter.com/suzettesmith/status/1300314437660803075
+* https://twitter.com/GriffinMalone6/status/1300315878014160896
 
 
 ### Police tackle and arrest protester carrying flag | August 30th
 
-Police charge and tackle a protester carrying a flag. They arrest the protester, pulling their hair during the arrest. Other officers then shove press away.
+Police charge and tackle a protester carrying a flag near the Penumbra Kelly Building. They arrest the protester, pulling their hair during the arrest. Other officers then shove press away.
 
 tags: arrest, journalist, protester, push, shove, tackle
 
 id: or-portland-341
 
-geolocation: 
+geolocation: 45.5230061,-122.6149833
 
 **Links**
 
@@ -5921,13 +5922,13 @@ geolocation:
 
 ### Police shoot impact munitions into crowd | August 30th
 
-Around midnight on August 30th, Portland police retreat. An officer fires impact munitions into the crowd without a discernible reason. A water bottle is thrown in response and the officer fires again.
+Around midnight on August 30th, Portland police retreat from E 47th down E Burnside toward the Penumbra Kelly Building. An officer fires impact munitions into the crowd without a discernible reason. A water bottle is thrown in response and the officer fires again.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-342
 
-geolocation: 
+geolocation: 45.5229315,-122.6140182
 
 **Links**
 
