@@ -5981,13 +5981,13 @@ geolocation:
 
 ### Police make violent arrests | September 4th
 
-Police make a series of violent arrests after declaring an unlawful assembly. One protester was seen bleeding from the face while being arrested.
+Police make a series of violent arrests after declaring an unlawful assembly near N Lombard and N Denver. One protester was seen bleeding from the face while being arrested.
 
 tags: arrest, protester, push, shove, tackle
 
 id: or-portland-346
 
-geolocation: 
+geolocation: 45.5770984,-122.6867857
 
 **Links**
 
@@ -6002,28 +6002,43 @@ geolocation:
 
 ### Police fire on protesters | September 4th
 
-While police advance against protesters and make arrests, an officers aims a riot gun at protesters and shoots repeatedly. The protesters did not appear to be acting aggressively.
+While police advance down N Lombard against protesters and make arrests, an officers aims a riot gun at protesters and shoots repeatedly. The protesters did not appear to be acting aggressively.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-347
 
-geolocation: 
+geolocation: 45.577097,-122.6861626
 
 **Links**
 
 * https://twitter.com/MrOlmos/status/1302144388718501888
 
 
+### Journalist shoved by police | September 4th
+
+A photojournalist documenting an arrest is shoved to the ground by police. The incident appears to occur in the parking lot of Heavenly Donuts on North Lombard Street.
+
+tags: journalist, push, shove
+
+id: or-portland-351
+
+geolocation: 45.5771748,-122.6864379
+
+**Links**
+
+* https://twitter.com/MathieuLRolland/status/1302141026329456640
+
+
 ### Police charge protesters, knocking member of press to the ground | September 5th
 
-After declaring an unlawful assembly, police charge protesters to disperse them. One journalist was caught in the charge and thrown to the ground.
+After declaring an unlawful assembly near Ventura Park, police charge protesters to disperse them. One journalist was caught in the charge and thrown to the ground.
 
 tags: journalist, push, shove
 
 id: or-portland-348
 
-geolocation: 
+geolocation: 45.5189392,-122.5437546
 
 **Links**
 
@@ -6033,13 +6048,13 @@ geolocation:
 
 ### Officer tackles protester | September 5th
 
-During another charge after declaring unlawful assembly, an officer tackles a protester to the ground. The protester is slammed face first into the pavement.
+During another charge near Ventura Park after declaring unlawful assembly, an officer tackles a protester to the ground. The protester is slammed face first into the pavement.
 
 tags: protester, tackle
 
 id: or-portland-349
 
-geolocation: 
+geolocation: 45.5189209,-122.5469154
 
 **Links**
 
@@ -6048,14 +6063,14 @@ geolocation:
 
 ### Police escalate vandalism with tear gas | September 5th
 
-After protesters build barricades in the street and light small trash fires, police escalate by deploying tear gas and charging protesters. Some petrol bombs had been thrown into the barricades (not at police)
+After protesters build barricades in the street at SE Stark and SE 117th and light small trash fires, police escalate by deploying tear gas and charging protesters. Some petrol bombs had been thrown into the barricades (not at police)
 by protesters earlier in the night, but this event comes about half an hour later. Police munitions set off a Prius' alarm system and appeared to light a fire on the hood.
 
 tags: less-lethal, property-destruction, protester, tear-gas
 
 id: or-portland-350
 
-geolocation: 45.518991, -122.542948
+geolocation: 45.5190077,-122.5429058
 
 **Links**
 
@@ -6069,30 +6084,15 @@ geolocation: 45.518991, -122.542948
 * https://twitter.com/BitterTier/status/1302864639185674240
 
 
-### Journalist shoved by police | September 5th
-
-A photojournalist documenting an arrest is shoved to the ground by police.
-
-tags: journalist, push, shove
-
-id: or-portland-351
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/MathieuLRolland/status/1302141026329456640
-
-
 ### Police punch a detained protester repeatedly | September 5th
 
-A journalist captured mass arrests made by police during a protest on September 5th. During these arrests, two officers pinned down a protester, and one punched the protester repeatedly in order to subdue them.
+A journalist captured mass arrests made by police during a protest on September 5th near Ventura Park. During these arrests, two officers pinned down a protester, and one punched the protester repeatedly in order to subdue them.
 
 tags: arrest, protester, punch
 
 id: or-portland-352
 
-geolocation: 
+geolocation: 45.5187387,-122.544683
 
 **Links**
 
@@ -6101,13 +6101,13 @@ geolocation:
 
 ### Police pepper spray protester after they are restrained | September 8th
 
-Two officers restrain a protester. A third officer lifts the protesters head by his hair pepper sprays the him in the face.
+Two officers restrain a protester near the Justice Center. A third officer lifts the protesters head by his hair pepper sprays the him in the face.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-353
 
-geolocation: 
+geolocation: 45.5148415,-122.6774467
 
 **Links**
 
@@ -6116,13 +6116,13 @@ geolocation:
 
 ### Police tackle and arrest houseless individual | September 8th
 
-Police tackle and arrest a houseless individual by a protest. The charges are unclear. However, the man has a seizure during the arrest and is taken away on a stretcher. Police shove press away from the scene.
+Police tackle and arrest a houseless individual by a protest near the Justice Center. The charges are unclear. However, the man has a seizure during the arrest and is taken away on a stretcher. Police shove press away from the scene.
 
 tags: arrest, homeless, tackle
 
 id: or-portland-354
 
-geolocation: 
+geolocation: 45.5148415,-122.6774467
 
 **Links**
 
@@ -6135,17 +6135,17 @@ geolocation:
 
 ### Police violently shove protester | September 8th
 
-Police shove an individual standing on the sidewalk. No justification is evident.
+Police shove an individual standing on the sidewalk near SW Madison and SW Broadway. No justification is evident.
 
 tags: protester, push, shove
 
 id: or-portland-355
 
-geolocation: 
+geolocation: 45.516015,-122.6814311
 
 **Links**
 
-* https://clips.twitch.tv/embed?clip=LightHilariousEyeballPlanking
+* https://clips.twitch.tv/embed?clip=LightHilariousEyeballPlanking&parent=meta.tag
 * https://twitter.com/greg_doucette/status/1303708876295024643
 
 
