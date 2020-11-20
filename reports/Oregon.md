@@ -5014,6 +5014,21 @@ geolocation:
 * https://twitter.com/Spronsenite/status/1294954167874670596
 
 
+### Officer gropes and shoves woman, arrests protester trying to intervene | August 16th
+
+Officers push protesters down the street. One protester turns to face officers. An officer squeezes one of her breasts, then the other, to push her away. Another individual, allegedly her boyfriend, tries to intervene and is shoved into the bushes then arrested. The woman is shoved down the street.
+
+tags: arrest, protester, push, sexual-assault, shove
+
+id: or-portland-326
+
+geolocation: 45.5180473,-122.5538771
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/ighh02/portland_police_grabs_womans_chest_then_arrest/
+
+
 ### Police beat protester crawling on the ground | August 18th
 
 Footage shows a protester shoved to the ground. She is carrying a small speaker and attempts to crawl forward. Police continue to strike her with batons before releasing her without making an arrest.
@@ -5539,7 +5554,7 @@ tags: arrest, less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-319
 
-geolocation: 
+geolocation: 45.5618067,-122.6613015
 
 **Links**
 
@@ -5560,7 +5575,7 @@ tags: abuse-of-power, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-320
 
-geolocation: 
+geolocation: 45.5618067,-122.6613015
 
 **Links**
 
@@ -5568,15 +5583,15 @@ geolocation:
 * https://twitter.com/MasonLakePhoto/status/1297977922301521920
 
 
-### Police throw stun grenades and tear gas canisters from rooftop | August 24th
+### Police throw stun grenades and tear gas canisters from rooftop | August 23rd
 
-After protesters set an awning on fire, police emerged to extinguish the fire. Police threw stun grenades and tear gas at a handful of protesters standing around below.
+After protesters set an awning on fire near the North Precinct, police emerged to extinguish it. Police threw stun grenades and tear gas at a handful of protesters standing around below.
 
 tags: less-lethal, protester, stun-grenade, tear-gas, tear-gas-canister
 
 id: or-portland-321
 
-geolocation: 
+geolocation: 45.562427,-122.6608987
 
 **Links**
 
@@ -5584,15 +5599,15 @@ geolocation:
 * https://twitter.com/R3volutionDaddy/status/1297979906626789376
 
 
-### Police throw stun grenade at independent journalist | August 24th
+### Police throw stun grenade at independent journalist | August 23rd
 
-An independent journalist films police from the sidewalk as they emerge from a building. A projectile is seen flying towards her and explodes before it lands. She does not appear to be standing near any other members of the press or protesters.
+An independent journalist films police from the sidewalk as they emerge from the North Precinct. A projectile is seen flying towards her and explodes before it lands. She does not appear to be standing near any other members of the press or protesters.
 
 tags: journalist, less-lethal, stun-grenade
 
 id: or-portland-322
 
-geolocation: 
+geolocation: 45.5618067,-122.6613015
 
 **Links**
 
@@ -5601,13 +5616,13 @@ geolocation:
 
 ### Police beat and arrest multiple protesters | August 24th
 
-Footage shows police following dispersing protesters. One protester is shoved repeatedly and knocked to the ground. Another protester is dragged into a corner and arrested. A third talks to police and is singled out. An officer grabs them by the neck, while others grab the protester's body. The protester is knocked unconscious and falls to the ground. Officers then arrest the protester.
+Footage shows police following dispersing protesters at N Fenwick and N Lombard. One protester is shoved repeatedly and knocked to the ground. Another protester is dragged into a corner and arrested. A third talks to police and is singled out. An officer grabs them by the neck, while others grab the protester's body. The protester is knocked unconscious and falls to the ground. Officers then arrest the protester.
 
 tags: arrest, beat, protester, push, shove, strike, tackle
 
 id: or-portland-323
 
-geolocation: 
+geolocation: 45.5770333,-122.6852822
 
 **Links**
 
@@ -5618,13 +5633,13 @@ geolocation:
 
 ### Police tear gas protesters and make violent arrest | August 24th
 
-Police continuously fire tear gas at dispersing protesters. One protester in a parking lot is tackled to the ground by several officers and arrested.
+Police continuously fire tear gas at dispersing protesters near N Elmore and N Lombard. One protester in a parking lot is tackled to the ground by several officers and arrested.
 
 tags: arrest, less-lethal, protester, tackle, tear-gas
 
 id: or-portland-324
 
-geolocation: 
+geolocation: 45.577358,-122.6858069
 
 **Links**
 
@@ -5635,7 +5650,7 @@ geolocation:
 
 ### Officer bludgeons protester with pepper spray can, then sprays crowd | August 24th
 
-A police officer following retreating protesters can be seen repeatedly striking a woman with his pepper spray can. He then discharges pepper spray on the crowd.
+A police officer following retreating protesters near N Lombard and N Denver can be seen repeatedly striking a woman with his pepper spray can. He then discharges pepper spray on the crowd.
 
 A woman claiming to be the victim alleges her right wrist was broken in the incident.
 
@@ -5643,7 +5658,7 @@ tags: beat, less-lethal, pepper-spray, protester, spray, strike
 
 id: or-portland-325
 
-geolocation: 
+geolocation: 45.5772191,-122.6867849
 
 **Links**
 
@@ -5651,30 +5666,15 @@ geolocation:
 * https://twitter.com/marisaforBLM/status/1298314312008626179
 
 
-### Officer gropes and shoves woman, arrests protester trying to intervene | (Believed to be) August 24th
-
-Officers push protesters down the street. One protester turns to face officers. An officer squeezes one of her breasts, then the other, to push her away. Another individual, allegedly her boyfriend, tries to intervene and is shoved into the bushes then arrested. The woman is shoved down the street.
-
-tags: arrest, protester, push, sexual-assault, shove
-
-id: or-portland-326
-
-geolocation: 
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/ighh02/portland_police_grabs_womans_chest_then_arrest/
-
-
 ### Police shove independent journalist | August 24th
 
-Footage shows an officer walking a journalist filming from the sidewalk back. The officer then shoves the journalist to the ground.
+Footage shows an officer walking a journalist filming from the sidewalk back. The officer then shoves the journalist to the ground near N Lombard and N Fenwick.
 
 tags: journalist, push, shove
 
 id: or-portland-327
 
-geolocation: 
+geolocation: 45.5770333,-122.6852822
 
 **Links**
 
@@ -5685,13 +5685,13 @@ geolocation:
 
 ### Police charge across the street, tackle, beat and arrest protester | August 24th
 
-Footage shows police charging across the street at a protester who begins jogging away. Police tackle the protester to arrest them and can be seen repeatedly punching the protester to subdue them.
+Footage shows police charging across the street (N Lombard and N Denver) at a protester who begins jogging away. Police tackle the protester to arrest them and can be seen repeatedly punching the protester to subdue them.
 
 tags: arrest, beat, protester, punch, strike, tackle
 
 id: or-portland-328
 
-geolocation: 
+geolocation: 45.5772191,-122.6867849
 
 **Links**
 
@@ -5702,11 +5702,13 @@ geolocation:
 
 As police prepare to ride away, some protesters throw objects at them. Police hurl a canister at journalists standing well away from these protesters, striking a journalist in the shin.
 
+This occurred near Heavenly Donuts on N Lombard.
+
 tags: journalist, less-lethal, tear-gas-canister
 
 id: or-portland-329
 
-geolocation: 
+geolocation: 45.577097,-122.686162
 
 **Links**
 
