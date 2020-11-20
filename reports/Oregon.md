@@ -5938,11 +5938,13 @@ geolocation:
 
 Police charge protesters without warning, shoving several to the ground. One officer grabs a protester's belongings, throwing and kicking them away.
 
+This occurred at a protest outside Mayor Ted Wheeler's condo on NW Glisan and NW 10th.
+
 tags: property-destruction, protester, push, shove
 
 id: or-portland-343
 
-geolocation: 
+geolocation: 45.5265304,-122.6812125
 
 **Links**
 
@@ -5953,26 +5955,31 @@ geolocation:
 
 An officer runs ahead of the police line and violently tackles a protester. He then proceeds to punch the protester multiple times in the head and neck area.
 
+This occurred at NW Glisan and NW 12th.
+
 tags: protester, punch, tackle
 
 id: or-portland-344
 
-geolocation: 
+geolocation: 45.526523,-122.6832899
 
 **Links**
 
 * https://twitter.com/MrOlmos/status/1300685679291109376
+* https://twitter.com/catalinagaitan_/status/1300680129866346496
 
 
 ### Police arrest member of the press | August 31st
 
 An officer points out and targets a woman who appears to be a member of the press. The officer says “You’re not press. You’re under arrest.” The woman responds, “You ripped off my press pass!” they respond. “No you’re not,” the officer says. The woman is the pulled away in what seems to be an arrest.
 
+This occurred at NW Glisan and NW 11th.
+
 tags: arrest, journalist
 
 id: or-portland-345
 
-geolocation: 
+geolocation: 45.526596,-122.6822874
 
 **Links**
 
