@@ -5803,7 +5803,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-335
 
-geolocation: 45.4927953,-122.6747966
+geolocation: 45.4927953, -122.6747966
 
 **Links**
 
