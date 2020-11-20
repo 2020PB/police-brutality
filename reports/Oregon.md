@@ -5828,7 +5828,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-336
 
-geolocation: 45.5769153,-122.6882507
+geolocation: 45.5769153, -122.6882507
 
 **Links**
 
@@ -5844,7 +5844,7 @@ tags: journalist, push, shove
 
 id: or-portland-337
 
-geolocation: 45.577083,-122.6869451
+geolocation: 45.577083, -122.6869451
 
 **Links**
 
@@ -5860,7 +5860,7 @@ tags: abuse-of-power, arrest, protester
 
 id: or-portland-338
 
-geolocation: 45.577083,-122.686945
+geolocation: 45.577083, -122.686945
 
 **Links**
 
