@@ -104,12 +104,13 @@ geolocation: 41.2576981, -95.953845
 
 At a protest outside the Omaha Police Headquarters, a police officer shoves a group of protesters on the sidewalk, kicking off a shoving match between police and protesters. Several other officers join, striking protesters with batons and spraying them with pepper spray.
 
-tags: push, shove, strike, baton, protester, spray, pepper-spray
+tags: baton, less-lethal, pepper-spray, protester, push, shove, spray, strike
 
 id: ne-omaha-4
 
-geolocation: 41.2555701,-95.9357824
+geolocation: 41.2555701, -95.9357824
 
 **Links**
 
 * https://twitter.com/AuntTed/status/1330051350273675265
+
