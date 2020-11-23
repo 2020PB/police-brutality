@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-20T22:18:39.954623+00:00
+UPDATED AT: 2020-11-23T15:16:59.420752+00:00
 
 
 # Alabama
@@ -10917,7 +10917,7 @@ tags: arrest, grab, journalist, threaten
 
 id: or-portland-7
 
-geolocation: 
+geolocation: 45.515557, -122.676821 
 
 **Links**
 
@@ -10935,7 +10935,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-10
 
-geolocation: 
+geolocation: 45.515641, -122.677136 
 
 **Links**
 
@@ -10999,7 +10999,7 @@ tags: journalist, threaten
 
 id: or-portland-14
 
-geolocation: 
+geolocation: 45.517616, -122.675936  
 
 **Links**
 
@@ -11014,7 +11014,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: or-portland-391
 
-geolocation: 45.515646, -122.677034
+geolocation: 45.514879, -122.677353 
 
 **Links**
 
@@ -11046,7 +11046,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: or-portland-29
 
-geolocation: 
+geolocation: 45.515243, -122.677090 
 
 **Links**
 
@@ -11083,7 +11083,7 @@ tags: bystander, grab, less-lethal, protester, tear-gas, vehicle
 
 id: or-portland-27
 
-geolocation: 
+geolocation: 45.563947, -122.661452  
 
 **Links**
 
@@ -11102,7 +11102,7 @@ tags: foam-bullet, journalist, legal-observer, less-lethal, projectile, proteste
 
 id: or-portland-28
 
-geolocation: 
+geolocation: 45.565273, -122.661381 
 
 **Links**
 
@@ -11136,7 +11136,7 @@ tags: explosive, less-lethal, projectile, protester
 
 id: or-portland-40
 
-geolocation: 
+geolocation: 45.515507, -122.676783 
 
 **Links**
 
@@ -11151,7 +11151,7 @@ tags: baton, beat, protester, shove, strike, throw
 
 id: or-portland-30
 
-geolocation: 
+geolocation: 45.515311, -122.675940  
 
 **Links**
 
