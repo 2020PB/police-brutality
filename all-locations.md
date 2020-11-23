@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-23T17:37:30.611976+00:00
+UPDATED AT: 2020-11-23T17:44:47.928789+00:00
 
 
 # Alabama
@@ -6805,6 +6805,21 @@ geolocation: 41.2576981, -95.953845
 * https://twitter.com/greg_doucette/status/1287403828086738944
 * https://twitter.com/greg_doucette/status/1287404544893358081
 * https://twitter.com/greg_doucette/status/1287443337440616450
+
+
+### Police initiate and escalate violence against protesters | November 21st
+
+At a protest outside the Omaha Police Headquarters, a police officer shoves a group of protesters on the sidewalk, kicking off a shoving match between police and protesters. Several other officers join, striking protesters with batons and spraying them with pepper spray.
+
+tags: baton, less-lethal, pepper-spray, protester, push, shove, spray, strike
+
+id: ne-omaha-4
+
+geolocation: 41.2555701, -95.9357824
+
+**Links**
+
+* https://twitter.com/AuntTed/status/1330051350273675265
 
 
 
