@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-23T15:16:59.420752+00:00
+UPDATED AT: 2020-11-23T17:37:30.611976+00:00
 
 
 # Alabama
@@ -10917,7 +10917,7 @@ tags: arrest, grab, journalist, threaten
 
 id: or-portland-7
 
-geolocation: 45.515557, -122.676821 
+geolocation: 45.515557, -122.676821
 
 **Links**
 
@@ -10935,7 +10935,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-10
 
-geolocation: 45.515641, -122.677136 
+geolocation: 45.515641, -122.677136
 
 **Links**
 
@@ -10999,7 +10999,7 @@ tags: journalist, threaten
 
 id: or-portland-14
 
-geolocation: 45.517616, -122.675936  
+geolocation: 45.517616, -122.675936
 
 **Links**
 
@@ -11014,7 +11014,7 @@ tags: less-lethal, protester, stun-grenade
 
 id: or-portland-391
 
-geolocation: 45.514879, -122.677353 
+geolocation: 45.514879, -122.677353
 
 **Links**
 
@@ -11046,7 +11046,7 @@ tags: less-lethal, protester, rubber-bullet, shoot
 
 id: or-portland-29
 
-geolocation: 45.515243, -122.677090 
+geolocation: 45.515243, -122.677090
 
 **Links**
 
@@ -11083,7 +11083,7 @@ tags: bystander, grab, less-lethal, protester, tear-gas, vehicle
 
 id: or-portland-27
 
-geolocation: 45.563947, -122.661452  
+geolocation: 45.563947, -122.661452
 
 **Links**
 
@@ -11102,7 +11102,7 @@ tags: foam-bullet, journalist, legal-observer, less-lethal, projectile, proteste
 
 id: or-portland-28
 
-geolocation: 45.565273, -122.661381 
+geolocation: 45.565273, -122.661381
 
 **Links**
 
@@ -11136,7 +11136,7 @@ tags: explosive, less-lethal, projectile, protester
 
 id: or-portland-40
 
-geolocation: 45.515507, -122.676783 
+geolocation: 45.515507, -122.676783
 
 **Links**
 
@@ -11151,7 +11151,7 @@ tags: baton, beat, protester, shove, strike, throw
 
 id: or-portland-30
 
-geolocation: 45.515311, -122.675940  
+geolocation: 45.515311, -122.675940
 
 **Links**
 
@@ -15894,11 +15894,13 @@ geolocation:
 
 Police disperse protesters on the sidewalk. Protesters walk in the direction stated by police. Police threaten to arrest protesters who linger. Protesters at the back of the group are pushed and shoved. One is shoved to the ground and harassed again as they attempt to stand.
 
+This occurred at a protest near the North Precinct.
+
 tags: protester, push, shove
 
 id: or-portland-309
 
-geolocation: 
+geolocation: 45.5618378, -122.6613771
 
 **Links**
 
@@ -15909,11 +15911,13 @@ geolocation:
 
 A member of the press is filming police from several feet away. He tells an officer to go fuck himself. The officer then swats the camera out of his hand.
 
+This protest occurred on residential streets near Normandale Park.
+
 tags: journalist, property-destruction, strike
 
 id: or-portland-310
 
-geolocation: 
+geolocation: 45.5329487, -122.6079188
 
 **Links**
 
@@ -15931,7 +15935,7 @@ tags: less-lethal, projectile, protester, push, shoot, shove
 
 id: or-portland-311
 
-geolocation: 
+geolocation: 45.5146547, -122.680197
 
 **Links**
 
@@ -15942,11 +15946,13 @@ geolocation:
 
 Around midnight on August 22nd, police gave conflicting orders to protesters regarding the direction to go. Protesters stopped, confused. Police then shoved protesters around, striking one with a baton. A representative from the National Lawyer's Guild was also knocked to the ground.
 
+This protest occurred on residential streets near Normandale Park.
+
 tags: baton, legal-observer, protester, push, shove, strike
 
 id: or-portland-314
 
-geolocation: 
+geolocation: 45.5329487, -122.6079188
 
 **Links**
 
@@ -15958,11 +15964,13 @@ geolocation:
 
 Police drag a man off the sidewalk into the street and lay him face down on the ground. Officers kneel on him as they arrest him. Officers then release him without explanation.
 
+This protest occurred on residential streets near Normandale Park.
+
 tags: abuse-of-power, grab, knee, protester
 
 id: or-portland-315
 
-geolocation: 
+geolocation: 45.5329487, -122.6079188
 
 **Links**
 
@@ -15972,17 +15980,18 @@ geolocation:
 
 ### Police shove legal observer | August 22nd
 
-A legal observer is seen talking to police, about events happening behind the police line. The officer shoves the legal observer. The observer then steps forward again and is thrown to the ground.
+A legal observer is seen talking to police about events happening behind the police line. The officer shoves the legal observer. The observer then steps forward again and is thrown to the ground.
+
+This protest occurred on residential streets near Normandale Park.
 
 tags: legal-observer, push, shove
 
 id: or-portland-316
 
-geolocation: 
+geolocation: 45.5329487, -122.6079188
 
 **Links**
 
-* https://twitter.com/DrylyRiley/status/1297443368587399168
 * https://clips.twitch.tv/SilkyLovelySandpiperSwiftRage
 
 
@@ -15990,11 +15999,13 @@ geolocation:
 
 A protester, who had allegedly been blinded by pepper spray and was having trouble getting their bearings, is shoved to the ground by police. Police then lift the protester off the ground and shove them forward again.
 
+This protest occurred on residential streets near Normandale Park.
+
 tags: protester, push, shove
 
 id: or-portland-317
 
-geolocation: 
+geolocation: 45.5329487, -122.6079188
 
 **Links**
 
@@ -16003,13 +16014,13 @@ geolocation:
 
 ### Police pepper spray a protester attempting to help another up | August 22nd
 
-A protester falls to the ground during a police advance. Another protester runs to help them up. Police pepper spray both of them.
+A protester falls to the ground during a police advance near the North Precinct. Another protester runs to help them up. Police pepper spray both of them.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-318
 
-geolocation: 
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -16020,11 +16031,13 @@ geolocation:
 
 About one hour after midnight on August 23rd, police attempted to disperse protesters on the sidewalk. Protesters walked backwards away from police, but were still shoved and pepper sprayed by officers.
 
+This protest occurred on residential streets near Normandale Park.
+
 tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: or-portland-312
 
-geolocation: 
+geolocation: 45.5329487, -122.6079188
 
 **Links**
 
@@ -16035,11 +16048,13 @@ geolocation:
 
 Shortly after midnight on August 23rd, police disperse protesters on the sidewalk. Police can be seen shoving two individuals obeying police direction. Officers then confront members of the Wall of Moms (noted by yellow shirts) sitting on the grass and shove them.
 
+This protest occurred on residential streets near Normandale Park.
+
 tags: protester, push, shove
 
 id: or-portland-313
 
-geolocation: 
+geolocation: 45.5329487, -122.6079188
 
 **Links**
 
