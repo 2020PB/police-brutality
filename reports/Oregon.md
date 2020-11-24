@@ -5126,7 +5126,7 @@ tags: journalist, property-destruction, push, shove
 
 id: or-portland-294
 
-geolocation: 45.517304,-122.6566336
+geolocation: 45.517304, -122.6566336
 
 **Links**
 
@@ -5142,7 +5142,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-295
 
-geolocation: 45.4931857,-122.6722262
+geolocation: 45.4931857, -122.6722262
 
 **Links**
 
@@ -5160,7 +5160,7 @@ tags: baton, less-lethal, pepper-spray, protester, push, shove, spray, strike
 
 id: or-portland-296
 
-geolocation: 45.496446,-122.671915
+geolocation: 45.496446, -122.671915
 
 **Links**
 
@@ -5178,7 +5178,7 @@ tags: protester, push, shove
 
 id: or-portland-297
 
-geolocation: 45.4945142,-122.6709487
+geolocation: 45.4945142, -122.6709487
 
 **Links**
 
@@ -5193,7 +5193,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-298
 
-geolocation: 45.4932015,-122.6719535
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5216,7 +5216,7 @@ tags: arrest, journalist, legal-observer, less-lethal, push, shove, tear-gas
 
 id: or-portland-299
 
-geolocation: 45.4932015,-122.6719535
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5234,7 +5234,7 @@ tags: property-destruction, protester
 
 id: or-portland-300
 
-geolocation: 45.4932015,-122.6719535
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5251,7 +5251,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-301
 
-geolocation: 45.4927953,-122.6747966
+geolocation: 45.4927953, -122.6747966
 
 **Links**
 
@@ -5270,7 +5270,7 @@ tags: explosive, journalist, less-lethal, projectile
 
 id: or-portland-302
 
-geolocation: 45.4927953,-122.6747966
+geolocation: 45.4927953, -122.6747966
 
 **Links**
 
@@ -5286,7 +5286,7 @@ tags: journalist, less-lethal, projectile, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-303
 
-geolocation: 45.4932015,-122.6719535
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5304,7 +5304,7 @@ tags: protester, push, shove
 
 id: or-portland-304
 
-geolocation: 45.4964374,-122.6709359
+geolocation: 45.4964374, -122.6709359
 
 **Links**
 
@@ -5319,7 +5319,7 @@ tags: arrest, property-destruction, protester
 
 id: or-portland-305
 
-geolocation: 45.5618067,-122.6613015
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -5334,7 +5334,7 @@ tags: journalist, push, shove
 
 id: or-portland-306
 
-geolocation: 45.5618067,-122.6613015
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -5349,7 +5349,7 @@ tags: protester, push, shove
 
 id: or-portland-307
 
-geolocation: 45.5616007,-122.6616028
+geolocation: 45.5616007, -122.6616028
 
 **Links**
 
@@ -5366,7 +5366,7 @@ tags: baton, gas, less-lethal, protester, punch, strike, stun-grenade
 
 id: or-portland-308
 
-geolocation: 45.5618067,-122.6613015
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -5385,7 +5385,7 @@ tags: arrest, journalist, knee
 
 id: or-portland-392
 
-geolocation: 45.4992208,-122.6718084
+geolocation: 45.4992208, -122.6718084
 
 **Links**
 
