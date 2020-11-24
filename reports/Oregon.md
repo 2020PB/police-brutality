@@ -5120,13 +5120,13 @@ geolocation:
 
 ### Police shove videographer | August 18th
 
-A videographer on the sidewalk is shoved repeatedly by police, knocking their helmet off. The videographer is then shoved to the ground and the phone is swatted out of their hand. The videographer states they were prevented by police from retrieving their phone, which had fallen into the street. They state another individual later retrieved their phone.
+A videographer on the sidewalk near SE 9th and Morrison is shoved repeatedly by police, knocking their helmet off. The videographer is then shoved to the ground and the phone is swatted out of their hand. The videographer states they were prevented by police from retrieving their phone, which had fallen into the street. They state another individual later retrieved their phone.
 
 tags: journalist, property-destruction, push, shove
 
 id: or-portland-294
 
-geolocation: 
+geolocation: 45.517304, -122.6566336
 
 **Links**
 
@@ -5142,7 +5142,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-295
 
-geolocation: 
+geolocation: 45.4931857, -122.6722262
 
 **Links**
 
@@ -5154,13 +5154,13 @@ geolocation:
 
 ### Police shove protesters following directions | August 19th
 
-While moving protesters down the street, police can be seen shoving protesters and medics complying with directions.  In addition, one protester dropped a phone when shoved, then was struck and pepper sprayed when he attempted to retrieve it.
+While moving protesters down the street near Moody and Gaines, police can be seen shoving protesters and medics complying with directions.  In addition, one protester dropped a phone when shoved, then was struck and pepper sprayed when he attempted to retrieve it.
 
 tags: baton, less-lethal, pepper-spray, protester, push, shove, spray, strike
 
 id: or-portland-296
 
-geolocation: 
+geolocation: 45.496446, -122.671915
 
 **Links**
 
@@ -5172,13 +5172,13 @@ geolocation:
 
 ### Officer shoves protester on the sidewalk | August 19th
 
-A PPB officer shoves a protester, yelling, "Get on the sidewalk." After the protester is on the sidewalk, the officer shoves the protester to the ground and trains his gun on the protester.
+A PPB officer shoves a protester down S Bond Ave, yelling, "Get on the sidewalk." After the protester is on the sidewalk, the officer shoves the protester to the ground and trains his gun on the protester.
 
 tags: protester, push, shove
 
 id: or-portland-297
 
-geolocation: 
+geolocation: 45.4945142, -122.6709487
 
 **Links**
 
@@ -5193,7 +5193,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-298
 
-geolocation: 
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5210,13 +5210,13 @@ geolocation:
 
 ### Police shove press and legal observers, then release tear gas | August 19th
 
-Legal observers and press are documenting the arrest of a journalist on the sidewalk, several feet away from the incident. An officer approaches and shoves members of the press back. He then releases a tear gas canister at their feet.
+Legal observers and press are documenting the arrest of a journalist on the sidewalk outside the ICE facility, several feet away from the incident. An officer approaches and shoves members of the press back. He then releases a tear gas canister at their feet.
 
 tags: arrest, journalist, legal-observer, less-lethal, push, shove, tear-gas
 
 id: or-portland-299
 
-geolocation: 
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5228,13 +5228,13 @@ geolocation:
 
 ### Police puncture the tires of the Snack Van a second night in a row | August 19th
 
-The Snack Van, a protest vehicle offering free food, water and medical supplies to protesters, was driving slowly alongside protesters. Police charged the vehicle and punctured its tires.
+The Snack Van, a protest vehicle offering free food, water and medical supplies to protesters, was driving slowly alongside protesters near the ICE facility. Police charged the vehicle and punctured its tires.
 
 tags: property-destruction, protester
 
 id: or-portland-300
 
-geolocation: 
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5251,7 +5251,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-301
 
-geolocation: 
+geolocation: 45.4927953, -122.6747966
 
 **Links**
 
@@ -5270,7 +5270,7 @@ tags: explosive, journalist, less-lethal, projectile
 
 id: or-portland-302
 
-geolocation: 
+geolocation: 45.4927953, -122.6747966
 
 **Links**
 
@@ -5280,13 +5280,13 @@ geolocation:
 
 ### Journalist struck with tear gas canister and impact munitions | August 20th
 
-An independent journalist wearing a press badge around her neck is seen filming protests in the street. She then runs back after an explosive device strikes her in the ankle and is shot in the hip while running.
+An independent journalist wearing a press badge around her neck is seen filming protests in the street near the ICE facility. She then runs back after an explosive device strikes her in the ankle and is shot in the hip while running.
 
 tags: journalist, less-lethal, projectile, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-303
 
-geolocation: 
+geolocation: 45.4932015, -122.6719535
 
 **Links**
 
@@ -5298,13 +5298,13 @@ geolocation:
 
 ### Police shove protesters following directions | August 20th
 
-After declaring an unlawful assembly and pushing protesters through the streets, Portland police moved onto the sidewalk, shoving protesters who were obeying directions.
+After declaring an unlawful assembly and pushing protesters through the streets, Portland police moved onto the sidewalk near Gaines and Moody, shoving protesters who were obeying directions.
 
 tags: protester, push, shove
 
 id: or-portland-304
 
-geolocation: 
+geolocation: 45.4964374, -122.6709359
 
 **Links**
 
@@ -5313,13 +5313,13 @@ geolocation:
 
 ### Police break protester's phone | August 21st
 
-While being arrested, a protester can be heard saying, "Let me get my phone. Don't let them take me." The phone is on the ground, by the protester's feet. An officer then stomps on the protester's phone.
+While being arrested near the North Precinct, a protester can be heard saying, "Let me get my phone. Don't let them take me." The phone is on the ground, by the protester's feet. An officer then stomps on the protester's phone.
 
 tags: arrest, property-destruction, protester
 
 id: or-portland-305
 
-geolocation: 
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -5328,13 +5328,13 @@ geolocation:
 
 ### Officer shoves members of the press | August 21st
 
-Police arrest a protester and press gather around to document. An officer shoves members of the press away. The journalists had allegedly been told minutes prior by another officer that their distance to the arrest was allowed.
+Police arrest a protester near the North Precinct; press gather around to document. An officer shoves members of the press away. The journalists had allegedly been told minutes prior by another officer that their distance to the arrest was allowed.
 
 tags: journalist, push, shove
 
 id: or-portland-306
 
-geolocation: 
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -5343,13 +5343,13 @@ geolocation:
 
 ### Police shove protesters | August 21st
 
-During dispersal at a protest, police walk protesters backwards. Protesters obey. Police shove protesters moving slowly, and shove them and protesters helping them as they try to stand.
+During dispersal at a protest, police walk protesters backwards near MLK and Emerson. Protesters obey. Police shove protesters moving slowly, and shove them and protesters helping them as they try to stand.
 
 tags: protester, push, shove
 
 id: or-portland-307
 
-geolocation: 
+geolocation: 45.5616007, -122.6616028
 
 **Links**
 
@@ -5358,7 +5358,7 @@ geolocation:
 
 ### Police violently respond to vandalism | August 21st
 
-After protesters broke a few police vehicle windows, police gave a dispersal order and fired smoke and stun grenades. Police then dispersed protesters violently, striking several with batons and punching others.
+After protesters broke a few police vehicle windows near the North Precinct, police gave a dispersal order and fired smoke and stun grenades. Police then dispersed protesters violently, striking several with batons and punching others.
 
 One protester is punched repeatedly by an officer while being arrested before a second officer tells the first to stop.
 
@@ -5366,7 +5366,7 @@ tags: baton, gas, less-lethal, protester, punch, strike, stun-grenade
 
 id: or-portland-308
 
-geolocation: 
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -5379,11 +5379,13 @@ geolocation:
 
 Footage shows police standing off against a small group of press on the sidewalk. Officers grab one individual, alleged to be press though not clearly marked, and force them to the ground for arrest. The individual passively resists by going limp. One officer kneels on the individual while making the arrest.
 
+The event is believed to have occurred on Moody Street near the ICE facility.
+
 tags: arrest, journalist, knee
 
 id: or-portland-392
 
-geolocation: 
+geolocation: 45.4992208, -122.6718084
 
 **Links**
 
