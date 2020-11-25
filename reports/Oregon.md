@@ -4718,18 +4718,18 @@ geolocation:
 
 **Links**
 
-* https://mobile.twitter.com/Johnnthelefty/status/1293807313417957376
+* https://twitter.com/Johnnthelefty/status/1293807313417957376
 
 
 ### Police charge at and beat protesters with shields | August 14th
 
-Protesters and police stand off in the streets. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
+Protesters and police stand off in the streets near Peninsula Park. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
 
 tags: baton, protester, push, shove, strike, tackle
 
 id: or-portland-271
 
-geolocation: 
+geolocation: 45.5664094,-122.6749006
 
 **Links**
 
@@ -4739,13 +4739,13 @@ geolocation:
 
 ### Officer stomps on protester trapped under shield | August 14th
 
-After police charge the protester shield line, an officer stomps on a protester trapped under their shield.
+After police charge the protester shield line near Peninsula Park, an officer stomps on a protester trapped under their shield.
 
 tags: kick, protester
 
 id: or-portland-286
 
-geolocation: 
+geolocation: 45.5664094,-122.6749006
 
 **Links**
 
@@ -4756,11 +4756,13 @@ geolocation:
 
 A protester trips and attempts to stand. While trying to stand, an officer throws them to the sidewalk.
 
+This occurred near Peninsula Park.
+
 tags: protester, push, shove
 
 id: or-portland-273
 
-geolocation: 
+geolocation: 45.5664094,-122.6749006
 
 **Links**
 
@@ -4769,13 +4771,13 @@ geolocation:
 
 ### Officer shoves reporter | August 14th
 
-Around midnight on August 14th, an officer confronts a journalist standing on the sidewalk. The officer repeatedly shoves the journalist, striking their phone at one point.
+Around midnight on August 14th, an officer confronts a journalist standing on the sidewalk near Peninsula Park. The officer repeatedly shoves the journalist, striking their phone at one point.
 
 tags: journalist, push, shove
 
 id: or-portland-274
 
-geolocation: 
+geolocation: 45.5664094,-122.6749006
 
 **Links**
 
@@ -4784,13 +4786,13 @@ geolocation:
 
 ### Officer shove compliant protesters | August 14th
 
-After police clear the protester shield line, protesters follow dispersal orders. Police continue to charge at protesters, shoving them with batons.
+After police clear the protester shield line near Peninsula Park, protesters follow dispersal orders. Police continue to charge at protesters, shoving them with batons.
 
 tags: baton, protester, push, shove
 
 id: or-portland-275
 
-geolocation: 
+geolocation: 45.5664094,-122.6749006
 
 **Links**
 
@@ -4805,7 +4807,7 @@ tags: protester, push, shove
 
 id: or-portland-276
 
-geolocation: 
+geolocation: 45.5671799,-122.6772338
 
 **Links**
 
@@ -4814,13 +4816,13 @@ geolocation:
 
 ### Police repeatedly shove drummer | August 14th
 
-A drummer walks toward police. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
+A drummer walks toward police near Killingsworth and Albina. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
 
 tags: baton, protester, push, shove
 
 id: or-portland-278
 
-geolocation: 
+geolocation: 45.5626699,-122.6749649
 
 **Links**
 
@@ -4835,7 +4837,7 @@ tags: abuse-of-power, bystander, property-destruction
 
 id: or-portland-270
 
-geolocation: 
+geolocation: 45.5771911,-122.6770689
 
 **Links**
 
@@ -4852,7 +4854,7 @@ tags: baton, protester, push, shove
 
 id: or-portland-272
 
-geolocation: 
+geolocation: 45.5771911,-122.6770689
 
 **Links**
 
@@ -4862,13 +4864,13 @@ geolocation:
 
 ### Livestreamer shoved from behind | August 15th
 
-A livestreamer dropped some of their equipment during a police push. The streamer picked up their equipment and began walking backwards. An officer approaches the streamer from behind and shoves them to the ground.
+A livestreamer dropped some of their equipment during a police push down N Lombard St. The streamer picked up their equipment and began walking backwards. An officer approaches the streamer from behind and shoves them to the ground.
 
 tags: journalist, push, shove
 
 id: or-portland-277
 
-geolocation: 
+geolocation: 45.5771911,-122.6770689
 
 **Links**
 
