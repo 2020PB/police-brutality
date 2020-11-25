@@ -4729,7 +4729,7 @@ tags: baton, protester, push, shove, strike, tackle
 
 id: or-portland-271
 
-geolocation: 45.5664094,-122.6749006
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -4745,7 +4745,7 @@ tags: kick, protester
 
 id: or-portland-286
 
-geolocation: 45.5664094,-122.6749006
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -4762,7 +4762,7 @@ tags: protester, push, shove
 
 id: or-portland-273
 
-geolocation: 45.5664094,-122.6749006
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -4777,7 +4777,7 @@ tags: journalist, push, shove
 
 id: or-portland-274
 
-geolocation: 45.5664094,-122.6749006
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -4792,7 +4792,7 @@ tags: baton, protester, push, shove
 
 id: or-portland-275
 
-geolocation: 45.5664094,-122.6749006
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -4807,7 +4807,7 @@ tags: protester, push, shove
 
 id: or-portland-276
 
-geolocation: 45.5671799,-122.6772338
+geolocation: 45.5671799, -122.6772338
 
 **Links**
 
@@ -4822,7 +4822,7 @@ tags: baton, protester, push, shove
 
 id: or-portland-278
 
-geolocation: 45.5626699,-122.6749649
+geolocation: 45.5626699, -122.6749649
 
 **Links**
 
@@ -4837,7 +4837,7 @@ tags: abuse-of-power, bystander, property-destruction
 
 id: or-portland-270
 
-geolocation: 45.5771911,-122.6770689
+geolocation: 45.5771911, -122.6770689
 
 **Links**
 
@@ -4854,7 +4854,7 @@ tags: baton, protester, push, shove
 
 id: or-portland-272
 
-geolocation: 45.5771911,-122.6770689
+geolocation: 45.5771911, -122.6770689
 
 **Links**
 
@@ -4870,7 +4870,7 @@ tags: journalist, push, shove
 
 id: or-portland-277
 
-geolocation: 45.5771911,-122.6770689
+geolocation: 45.5771911, -122.6770689
 
 **Links**
 
