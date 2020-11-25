@@ -5031,13 +5031,13 @@ geolocation: 45.5180473, -122.5538771
 
 ### Police beat protester crawling on the ground | August 18th
 
-Footage shows a protester shoved to the ground. She is carrying a small speaker and attempts to crawl forward. Police continue to strike her with batons before releasing her without making an arrest.
+Footage shows a protester shoved to the ground near SE 12th and SE Salmon. She is carrying a small speaker and attempts to crawl forward. Police continue to strike her with batons before releasing her without making an arrest.
 
 tags: baton, beat, protester, push, shove, strike
 
 id: or-portland-289
 
-geolocation: 
+geolocation: 45.5143468,-122.6535597
 
 **Links**
 
@@ -5048,7 +5048,7 @@ geolocation:
 
 ### Woman shoved to the ground | August 18th
 
-An officer shoves a journalist from behind in the head with a baton. She falls to the ground and sits up. The officer strikes her in the head again.
+An officer shoves a journalist from behind in the head with a baton near SE 12th and SE Salmon. She falls to the ground and sits up. The officer strikes her in the head again.
 
 This incident ocurrs directly after or-portland-289 and the events of that incident can be seen in this footage.
 
@@ -5058,7 +5058,7 @@ tags: baton, journalist, push, shove, strike
 
 id: or-portland-290
 
-geolocation: 
+geolocation: 45.5143468,-122.6535597
 
 **Links**
 
@@ -5069,13 +5069,13 @@ geolocation:
 
 ### Police tackle protester, confiscate shield, then pepper spray her | August 18th
 
-Footage shows a protester running by police. She is tackled to the ground and an officer strips away her shield. She stands and confronts the officer. Officer shove her away and pepper spray her.
+Footage shows a protester running by police at Hawthorne and 7th. She is tackled to the ground and an officer strips away her shield. She stands and confronts the officer. Officer shove her away and pepper spray her.
 
 tags: less-lethal, pepper-spray, protester, push, shove, spray, tackle
 
 id: or-portland-291
 
-geolocation: 
+geolocation: 45.5122079,-122.6586218
 
 **Links**
 
@@ -5088,13 +5088,13 @@ geolocation:
 
 ### Police puncture Snack Van's tires | August 18th
 
-The Snack Van, which offers free snacks, water and medical supplies to protesters, joined protests on August 18th and drove slowly along side protesters following dispersal order. Officers punctured the van's tires.
+The Snack Van, which offers free snacks, water and medical supplies to protesters, joined protests on August 18th and drove slowly along side protesters following dispersal order. Officers punctured the van's tires near 6th and Hawthorne.
 
 tags: property-destruction, protester
 
 id: or-portland-292
 
-geolocation: 
+geolocation: 45.5122408,-122.6597632
 
 **Links**
 
@@ -5104,13 +5104,13 @@ geolocation:
 
 ### Police charge and tackle protesters | August 18th
 
-Police charge protesters, tackling several to the ground. Other officer shoves protesters and strike them with batons.
+Police charge protesters near 7th and Madison, tackling several to the ground. Other officer shoves protesters and strike them with batons.
 
 tags: baton, protester, push, shove, strike, tackle
 
 id: or-portland-293
 
-geolocation: 
+geolocation: 45.5129108,-122.658811
 
 **Links**
 
