@@ -4877,13 +4877,13 @@ geolocation:
 
 ### Police charge protesters with shields | August 15th
 
-Around midnight on August 15th, police declared a protest a riot. Protesters assembled behind wooden shields. Police charged the protesters, striking them repeatedly. One officer is seen swinging his fists at scattering protesters.
+Around midnight on August 15th outside the Penumbra Kelly Building, police declared a protest a riot. Protesters assembled behind wooden shields. Police charged the protesters, striking them repeatedly. One officer is seen swinging his fists at scattering protesters.
 
 tags: baton, protester, punch, strike
 
 id: or-portland-279
 
-geolocation: 
+geolocation: 45.523019,-122.6143974
 
 **Links**
 
@@ -4894,43 +4894,44 @@ geolocation:
 
 ### Officer tackles multiple protesters | August 15th
 
-While dispersing protesters, an officer tackles two protesters and the filmer, a journalist, all of whom are standing on the sidewalk
+While dispersing protesters at Main and 3rd, an officer tackles two protesters and the filmer, a journalist, all of whom are standing on the sidewalk
 
 tags: journalist, protester, tackle
 
 id: or-portland-284
 
-geolocation: 
+geolocation: 45.5156185,-122.6770321
 
 **Links**
 
 * https://twitter.com/KohzKah/status/1295016916625395713
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-284.1.mp4)
 
 
 ### Officer shoots then clubs protester | August 15th
 
-An officer fires at a protester at a distance of several feet (far closer then recommended). The protester then appears to say "Ah fuck you." The officer charges the protester and strikes them with his riot gun.
+Outside the Penumbra Kelly building, an officer fires at a protester at a distance of several feet (far closer than recommended). The protester then appears to say "Ah fuck you." The officer charges the protester and strikes them with his riot gun.
 
 tags: less-lethal, projectile, protester, shoot, strike
 
 id: or-portland-287
 
-geolocation: 
+geolocation: 45.523019,-122.6143974
 
 **Links**
 
-* https://mobile.twitter.com/gravemorgan/status/1295116634583994369
+* https://twitter.com/gravemorgan/status/1295116634583994369
 
 
 ### Police officer rips mask off protester, shoves reporter | August 15th
 
-A journalist films as officers push through a line of protesters with shields. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
+A journalist films as officers push through a line of protesters with shields outside the Penumbra Kelly building. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
 
 tags: journalist, protester, push, shove
 
 id: or-portland-288
 
-geolocation: 
+geolocation: 45.523019,-122.6143974
 
 **Links**
 
@@ -4940,13 +4941,13 @@ geolocation:
 
 ### Police throw stun grenade at retreating protesters | August 16th
 
-Footage shows protesters walking away from police. An officer throws a stun grenade, which explodes at the protesters' feet.
+Footage shows protesters walking away from police near the Penumbra Kelly building. An officer throws a stun grenade, which explodes at the protesters' feet.
 
 tags: less-lethal, protester, stun-grenade
 
 id: or-portland-280
 
-geolocation: 
+geolocation: 45.5229431,-122.6144319
 
 **Links**
 
@@ -4955,13 +4956,13 @@ geolocation:
 
 ### Police slash the tires of vehicles supporting protesters | August 16th
 
-Police officers charge at protesters. A white pickup truck rolls along slowly with protesters. Police puncture the truck's tires.
+Police officers charge at protesters near the Penumbra Kelly. A white pickup truck rolls along slowly with protesters. Police puncture the truck's tires.
 
 tags: property-destruction, protester
 
 id: or-portland-281
 
-geolocation: 
+geolocation: 45.5229431,-122.6144319
 
 **Links**
 
@@ -4971,13 +4972,13 @@ geolocation:
 
 ### Police shove press on the sidewalk | August 16th
 
-Footage shows police charging at protesters in the street. The filmer, a journalist, is standing on the sidewalk with other journalists. Two officers run onto the sidewalk and shove members of the press with their batons.
+Footage shows police charging at protesters in the street near the Penumbra Kelly building. The filmer, a journalist, is standing on the sidewalk with other journalists. Two officers run onto the sidewalk and shove members of the press with their batons.
 
 tags: baton, journalist, push, shove
 
 id: or-portland-282
 
-geolocation: 
+geolocation: 45.5229431,-122.6144319
 
 **Links**
 
@@ -4986,13 +4987,13 @@ geolocation:
 
 ### Police shove protester from behind | August 16th
 
-Footage shows a protester holding a sign above their head and walking slowly away from police. An officer runs up in the protester's blind spot and shoves the protester to the ground.
+Footage shows a protester holding a sign above their head and walking slowly away from police on residential streets near the Penumbra Kelly building. An officer runs up in the protester's blind spot and shoves the protester to the ground.
 
 tags: protester, push, shove
 
 id: or-portland-283
 
-geolocation: 
+geolocation: 45.5229431,-122.6144319
 
 **Links**
 
@@ -5001,13 +5002,13 @@ geolocation:
 
 ### Police shove protesters and confiscate guitar | August 16th
 
-Police shove protesters on the sidewalk. One officer grabs a protester's guitar and walks away with it. The protester chases the officer and is shoved and shot at.
+Police shove protesters on the sidewalk near the Penumbra Kelly building. One officer grabs a protester's guitar and walks away with it. The protester chases the officer and is shoved and shot at.
 
 tags: abuse-of-power, protester, push, shove
 
 id: or-portland-285
 
-geolocation: 
+geolocation: 45.5229431,-122.6144319
 
 **Links**
 
