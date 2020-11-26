@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-24T17:46:18.709649+00:00
+UPDATED AT: 2020-11-26T06:11:30.029580+00:00
 
 
 # Alabama
@@ -15233,18 +15233,18 @@ geolocation:
 
 **Links**
 
-* https://mobile.twitter.com/Johnnthelefty/status/1293807313417957376
+* https://twitter.com/Johnnthelefty/status/1293807313417957376
 
 
 ### Police charge at and beat protesters with shields | August 14th
 
-Protesters and police stand off in the streets. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
+Protesters and police stand off in the streets near Peninsula Park. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
 
 tags: baton, protester, push, shove, strike, tackle
 
 id: or-portland-271
 
-geolocation: 
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -15254,13 +15254,13 @@ geolocation:
 
 ### Officer stomps on protester trapped under shield | August 14th
 
-After police charge the protester shield line, an officer stomps on a protester trapped under their shield.
+After police charge the protester shield line near Peninsula Park, an officer stomps on a protester trapped under their shield.
 
 tags: kick, protester
 
 id: or-portland-286
 
-geolocation: 
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -15271,11 +15271,13 @@ geolocation:
 
 A protester trips and attempts to stand. While trying to stand, an officer throws them to the sidewalk.
 
+This occurred near Peninsula Park.
+
 tags: protester, push, shove
 
 id: or-portland-273
 
-geolocation: 
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -15284,13 +15286,13 @@ geolocation:
 
 ### Officer shoves reporter | August 14th
 
-Around midnight on August 14th, an officer confronts a journalist standing on the sidewalk. The officer repeatedly shoves the journalist, striking their phone at one point.
+Around midnight on August 14th, an officer confronts a journalist standing on the sidewalk near Peninsula Park. The officer repeatedly shoves the journalist, striking their phone at one point.
 
 tags: journalist, push, shove
 
 id: or-portland-274
 
-geolocation: 
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -15299,13 +15301,13 @@ geolocation:
 
 ### Officer shove compliant protesters | August 14th
 
-After police clear the protester shield line, protesters follow dispersal orders. Police continue to charge at protesters, shoving them with batons.
+After police clear the protester shield line near Peninsula Park, protesters follow dispersal orders. Police continue to charge at protesters, shoving them with batons.
 
 tags: baton, protester, push, shove
 
 id: or-portland-275
 
-geolocation: 
+geolocation: 45.5664094, -122.6749006
 
 **Links**
 
@@ -15320,7 +15322,7 @@ tags: protester, push, shove
 
 id: or-portland-276
 
-geolocation: 
+geolocation: 45.5671799, -122.6772338
 
 **Links**
 
@@ -15329,13 +15331,13 @@ geolocation:
 
 ### Police repeatedly shove drummer | August 14th
 
-A drummer walks toward police. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
+A drummer walks toward police near Killingsworth and Albina. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
 
 tags: baton, protester, push, shove
 
 id: or-portland-278
 
-geolocation: 
+geolocation: 45.5626699, -122.6749649
 
 **Links**
 
@@ -15350,7 +15352,7 @@ tags: abuse-of-power, bystander, property-destruction
 
 id: or-portland-270
 
-geolocation: 
+geolocation: 45.5771911, -122.6770689
 
 **Links**
 
@@ -15367,7 +15369,7 @@ tags: baton, protester, push, shove
 
 id: or-portland-272
 
-geolocation: 
+geolocation: 45.5771911, -122.6770689
 
 **Links**
 
@@ -15377,13 +15379,13 @@ geolocation:
 
 ### Livestreamer shoved from behind | August 15th
 
-A livestreamer dropped some of their equipment during a police push. The streamer picked up their equipment and began walking backwards. An officer approaches the streamer from behind and shoves them to the ground.
+A livestreamer dropped some of their equipment during a police push down N Lombard St. The streamer picked up their equipment and began walking backwards. An officer approaches the streamer from behind and shoves them to the ground.
 
 tags: journalist, push, shove
 
 id: or-portland-277
 
-geolocation: 
+geolocation: 45.5771911, -122.6770689
 
 **Links**
 
@@ -15392,13 +15394,13 @@ geolocation:
 
 ### Police charge protesters with shields | August 15th
 
-Around midnight on August 15th, police declared a protest a riot. Protesters assembled behind wooden shields. Police charged the protesters, striking them repeatedly. One officer is seen swinging his fists at scattering protesters.
+Around midnight on August 15th outside the Penumbra Kelly Building, police declared a protest a riot. Protesters assembled behind wooden shields. Police charged the protesters, striking them repeatedly. One officer is seen swinging his fists at scattering protesters.
 
 tags: baton, protester, punch, strike
 
 id: or-portland-279
 
-geolocation: 
+geolocation: 45.523019, -122.6143974
 
 **Links**
 
@@ -15409,43 +15411,44 @@ geolocation:
 
 ### Officer tackles multiple protesters | August 15th
 
-While dispersing protesters, an officer tackles two protesters and the filmer, a journalist, all of whom are standing on the sidewalk
+While dispersing protesters at Main and 3rd, an officer tackles two protesters and the filmer, a journalist, all of whom are standing on the sidewalk
 
 tags: journalist, protester, tackle
 
 id: or-portland-284
 
-geolocation: 
+geolocation: 45.5156185, -122.6770321
 
 **Links**
 
 * https://twitter.com/KohzKah/status/1295016916625395713
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-284.1.mp4)
 
 
 ### Officer shoots then clubs protester | August 15th
 
-An officer fires at a protester at a distance of several feet (far closer then recommended). The protester then appears to say "Ah fuck you." The officer charges the protester and strikes them with his riot gun.
+Outside the Penumbra Kelly building, an officer fires at a protester at a distance of several feet (far closer than recommended). The protester then appears to say "Ah fuck you." The officer charges the protester and strikes them with his riot gun.
 
 tags: less-lethal, projectile, protester, shoot, strike
 
 id: or-portland-287
 
-geolocation: 
+geolocation: 45.523019, -122.6143974
 
 **Links**
 
-* https://mobile.twitter.com/gravemorgan/status/1295116634583994369
+* https://twitter.com/gravemorgan/status/1295116634583994369
 
 
 ### Police officer rips mask off protester, shoves reporter | August 15th
 
-A journalist films as officers push through a line of protesters with shields. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
+A journalist films as officers push through a line of protesters with shields outside the Penumbra Kelly building. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
 
 tags: journalist, protester, push, shove
 
 id: or-portland-288
 
-geolocation: 
+geolocation: 45.523019, -122.6143974
 
 **Links**
 
@@ -15455,13 +15458,13 @@ geolocation:
 
 ### Police throw stun grenade at retreating protesters | August 16th
 
-Footage shows protesters walking away from police. An officer throws a stun grenade, which explodes at the protesters' feet.
+Footage shows protesters walking away from police near the Penumbra Kelly building. An officer throws a stun grenade, which explodes at the protesters' feet.
 
 tags: less-lethal, protester, stun-grenade
 
 id: or-portland-280
 
-geolocation: 
+geolocation: 45.5229431, -122.6144319
 
 **Links**
 
@@ -15470,13 +15473,13 @@ geolocation:
 
 ### Police slash the tires of vehicles supporting protesters | August 16th
 
-Police officers charge at protesters. A white pickup truck rolls along slowly with protesters. Police puncture the truck's tires.
+Police officers charge at protesters near the Penumbra Kelly. A white pickup truck rolls along slowly with protesters. Police puncture the truck's tires.
 
 tags: property-destruction, protester
 
 id: or-portland-281
 
-geolocation: 
+geolocation: 45.5229431, -122.6144319
 
 **Links**
 
@@ -15486,13 +15489,13 @@ geolocation:
 
 ### Police shove press on the sidewalk | August 16th
 
-Footage shows police charging at protesters in the street. The filmer, a journalist, is standing on the sidewalk with other journalists. Two officers run onto the sidewalk and shove members of the press with their batons.
+Footage shows police charging at protesters in the street near the Penumbra Kelly building. The filmer, a journalist, is standing on the sidewalk with other journalists. Two officers run onto the sidewalk and shove members of the press with their batons.
 
 tags: baton, journalist, push, shove
 
 id: or-portland-282
 
-geolocation: 
+geolocation: 45.5229431, -122.6144319
 
 **Links**
 
@@ -15501,13 +15504,13 @@ geolocation:
 
 ### Police shove protester from behind | August 16th
 
-Footage shows a protester holding a sign above their head and walking slowly away from police. An officer runs up in the protester's blind spot and shoves the protester to the ground.
+Footage shows a protester holding a sign above their head and walking slowly away from police on residential streets near the Penumbra Kelly building. An officer runs up in the protester's blind spot and shoves the protester to the ground.
 
 tags: protester, push, shove
 
 id: or-portland-283
 
-geolocation: 
+geolocation: 45.5229431, -122.6144319
 
 **Links**
 
@@ -15516,13 +15519,13 @@ geolocation:
 
 ### Police shove protesters and confiscate guitar | August 16th
 
-Police shove protesters on the sidewalk. One officer grabs a protester's guitar and walks away with it. The protester chases the officer and is shoved and shot at.
+Police shove protesters on the sidewalk near the Penumbra Kelly building. One officer grabs a protester's guitar and walks away with it. The protester chases the officer and is shoved and shot at.
 
 tags: abuse-of-power, protester, push, shove
 
 id: or-portland-285
 
-geolocation: 
+geolocation: 45.5229431, -122.6144319
 
 **Links**
 
@@ -15546,13 +15549,13 @@ geolocation: 45.5180473, -122.5538771
 
 ### Police beat protester crawling on the ground | August 18th
 
-Footage shows a protester shoved to the ground. She is carrying a small speaker and attempts to crawl forward. Police continue to strike her with batons before releasing her without making an arrest.
+Footage shows a protester shoved to the ground near SE 12th and SE Salmon. She is carrying a small speaker and attempts to crawl forward. Police continue to strike her with batons before releasing her without making an arrest.
 
 tags: baton, beat, protester, push, shove, strike
 
 id: or-portland-289
 
-geolocation: 
+geolocation: 45.5143468, -122.6535597
 
 **Links**
 
@@ -15563,7 +15566,7 @@ geolocation:
 
 ### Woman shoved to the ground | August 18th
 
-An officer shoves a journalist from behind in the head with a baton. She falls to the ground and sits up. The officer strikes her in the head again.
+An officer shoves a journalist from behind in the head with a baton near SE 12th and SE Salmon. She falls to the ground and sits up. The officer strikes her in the head again.
 
 This incident ocurrs directly after or-portland-289 and the events of that incident can be seen in this footage.
 
@@ -15573,7 +15576,7 @@ tags: baton, journalist, push, shove, strike
 
 id: or-portland-290
 
-geolocation: 
+geolocation: 45.5143468, -122.6535597
 
 **Links**
 
@@ -15584,13 +15587,13 @@ geolocation:
 
 ### Police tackle protester, confiscate shield, then pepper spray her | August 18th
 
-Footage shows a protester running by police. She is tackled to the ground and an officer strips away her shield. She stands and confronts the officer. Officer shove her away and pepper spray her.
+Footage shows a protester running by police at Hawthorne and 7th. She is tackled to the ground and an officer strips away her shield. She stands and confronts the officer. Officer shove her away and pepper spray her.
 
 tags: less-lethal, pepper-spray, protester, push, shove, spray, tackle
 
 id: or-portland-291
 
-geolocation: 
+geolocation: 45.5122079, -122.6586218
 
 **Links**
 
@@ -15603,13 +15606,13 @@ geolocation:
 
 ### Police puncture Snack Van's tires | August 18th
 
-The Snack Van, which offers free snacks, water and medical supplies to protesters, joined protests on August 18th and drove slowly along side protesters following dispersal order. Officers punctured the van's tires.
+The Snack Van, which offers free snacks, water and medical supplies to protesters, joined protests on August 18th and drove slowly along side protesters following dispersal order. Officers punctured the van's tires near 6th and Hawthorne.
 
 tags: property-destruction, protester
 
 id: or-portland-292
 
-geolocation: 
+geolocation: 45.5122408, -122.6597632
 
 **Links**
 
@@ -15619,13 +15622,13 @@ geolocation:
 
 ### Police charge and tackle protesters | August 18th
 
-Police charge protesters, tackling several to the ground. Other officer shoves protesters and strike them with batons.
+Police charge protesters near 7th and Madison, tackling several to the ground. Other officer shoves protesters and strike them with batons.
 
 tags: baton, protester, push, shove, strike, tackle
 
 id: or-portland-293
 
-geolocation: 
+geolocation: 45.5129108, -122.658811
 
 **Links**
 
