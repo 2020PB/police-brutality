@@ -4526,7 +4526,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-253
 
-geolocation: 45.5834306,-122.6928113
+geolocation: 45.5834306, -122.6928113
 
 **Links**
 
@@ -4541,7 +4541,7 @@ tags: journalist, push, shove
 
 id: or-portland-256
 
-geolocation: 45.5834306,-122.6928113
+geolocation: 45.5834306, -122.6928113
 
 **Links**
 
@@ -4557,7 +4557,7 @@ tags: baton, bystander, less-lethal, rubber-bullet, shoot
 
 id: or-portland-257
 
-geolocation: 45.5769153,-122.6882507
+geolocation: 45.5769153, -122.6882507
 
 **Links**
 
@@ -4572,7 +4572,7 @@ tags: baton, protester, push, shove
 
 id: or-portland-259
 
-geolocation: 45.5622509,-122.6630238
+geolocation: 45.5622509, -122.6630238
 
 **Links**
 
@@ -4588,7 +4588,7 @@ tags: abuse-of-power, journalist, threaten
 
 id: or-portland-260
 
-geolocation: 45.5627124,-122.6648518
+geolocation: 45.5627124, -122.6648518
 
 **Links**
 
@@ -4603,7 +4603,7 @@ tags: journalist, push, shove
 
 id: or-portland-261
 
-geolocation: 45.5618067,-122.6613015
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -4619,7 +4619,7 @@ tags: arrest, baton, protester, push, shove, strike
 
 id: or-portland-269
 
-geolocation: 45.5169327,-122.6762642
+geolocation: 45.5169327, -122.6762642
 
 **Links**
 
@@ -4636,7 +4636,7 @@ tags: baton, journalist, protester, push, shove, strike
 
 id: or-portland-264
 
-geolocation: 45.5176116,-122.6758578
+geolocation: 45.5176116, -122.6758578
 
 **Links**
 
@@ -4653,7 +4653,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-265
 
-geolocation: 45.5176116,-122.6758578
+geolocation: 45.5176116, -122.6758578
 
 **Links**
 
@@ -4677,7 +4677,7 @@ tags: arrest, journalist, protester, punch, push, shove
 
 id: or-portland-266
 
-geolocation: 45.5169675,-122.6820327
+geolocation: 45.5169675, -122.6820327
 
 **Links**
 
@@ -4697,7 +4697,7 @@ tags: property-destruction, protester
 
 id: or-portland-267
 
-geolocation: 45.5163008,-122.6797286
+geolocation: 45.5163008, -122.6797286
 
 **Links**
 
@@ -4716,7 +4716,7 @@ tags: baton, protester, push, shove, strike
 
 id: or-portland-268
 
-geolocation: 45.5146719,-122.6763902
+geolocation: 45.5146719, -122.6763902
 
 **Links**
 
@@ -7190,11 +7190,11 @@ geolocation: 45.4927916, -122.6726079
 
 FPS agents make a violent arrest at a small protest outside the Portland ICE facility, slamming a protester into a light pole.
 
-tags: protester, arrest, tackle
+tags: arrest, protester, tackle
 
 id: or-portland-410
 
-geolocation: 45.4931857,-122.6722262
+geolocation: 45.4931857, -122.6722262
 
 **Links**
 
@@ -7207,11 +7207,11 @@ geolocation: 45.4931857,-122.6722262
 
 Federal Protective Services agents pepper spray a protester walking stereo equipment away from them at Moody and Bancroft.
 
-tags: protester, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-411
 
-geolocation: 45.4931755,-122.6718966
+geolocation: 45.4931755, -122.6718966
 
 **Links**
 
