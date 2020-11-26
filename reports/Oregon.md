@@ -4582,13 +4582,13 @@ geolocation: 45.5622509,-122.6630238
 
 ### Police threaten journalist | August 10th
 
-Officer threatens journalist with arrest. The journalist is standing on the sidewalk at some distance from police. Another journalist can be heard saying, "[The filmer] was nowhere near police."
+Officer threatens journalist with arrest near Killingsworth and Rodney. The journalist is standing on the sidewalk at some distance from police. Another journalist can be heard saying, "[The filmer] was nowhere near police."
 
 tags: abuse-of-power, journalist, threaten
 
 id: or-portland-260
 
-geolocation: 
+geolocation: 45.5627124,-122.6648518
 
 **Links**
 
@@ -4597,13 +4597,13 @@ geolocation:
 
 ### Police shove members of the press | August 11th
 
-Police give conflicting orders to press attempting to film an arrest. Police repeatedly shove members of the press, throwing one to the ground.
+Police give conflicting orders to press attempting to film an arrest near the north precinct. Police repeatedly shove members of the press, throwing one to the ground.
 
 tags: journalist, push, shove
 
 id: or-portland-261
 
-geolocation: 
+geolocation: 45.5618067,-122.6613015
 
 **Links**
 
