@@ -4526,7 +4526,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-253
 
-geolocation: 
+geolocation: 45.5834306, -122.6928113
 
 **Links**
 
@@ -4541,7 +4541,7 @@ tags: journalist, push, shove
 
 id: or-portland-256
 
-geolocation: 
+geolocation: 45.5834306, -122.6928113
 
 **Links**
 
@@ -4551,13 +4551,13 @@ geolocation:
 
 ### Bystander shot in the head | August 10th
 
-A man said he was walking home shows injuries to his head and arms, allegedly received from police. He states that he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
+A man shows injuries to his head and arms, allegedly received from police. He states that he was walking home near the Portland Police Assocation when he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
 
 tags: baton, bystander, less-lethal, rubber-bullet, shoot
 
 id: or-portland-257
 
-geolocation: 
+geolocation: 45.5769153, -122.6882507
 
 **Links**
 
@@ -4566,13 +4566,13 @@ geolocation:
 
 ### Police charge at protesters | August 10th
 
-Police declare unlawful assembly at a protest outside a police precinct. Police allege that protesters had been throwing things at them. Police begin walking protesters backwards. Protesters appear to be obeying. Police then charge at protesters, shoving several to the ground and into bushes.
+Police declare unlawful assembly at a protest outside the north police precinct. Police allege that protesters had been throwing things at them. Police begin walking protesters backwards. Protesters appear to be obeying. Police then charge at protesters, shoving several to the ground and into bushes.
 
 tags: baton, protester, push, shove
 
 id: or-portland-259
 
-geolocation: 
+geolocation: 45.5622509, -122.6630238
 
 **Links**
 
@@ -4582,13 +4582,13 @@ geolocation:
 
 ### Police threaten journalist | August 10th
 
-Officer threatens journalist with arrest. The journalist is standing on the sidewalk at some distance from police. Another journalist can be heard saying, "[The filmer] was nowhere near police."
+Officer threatens journalist with arrest near Killingsworth and Rodney. The journalist is standing on the sidewalk at some distance from police. Another journalist can be heard saying, "[The filmer] was nowhere near police."
 
 tags: abuse-of-power, journalist, threaten
 
 id: or-portland-260
 
-geolocation: 
+geolocation: 45.5627124, -122.6648518
 
 **Links**
 
@@ -4597,13 +4597,13 @@ geolocation:
 
 ### Police shove members of the press | August 11th
 
-Police give conflicting orders to press attempting to film an arrest. Police repeatedly shove members of the press, throwing one to the ground.
+Police give conflicting orders to press attempting to film an arrest near the north precinct. Police repeatedly shove members of the press, throwing one to the ground.
 
 tags: journalist, push, shove
 
 id: or-portland-261
 
-geolocation: 
+geolocation: 45.5618067, -122.6613015
 
 **Links**
 
@@ -4613,13 +4613,13 @@ geolocation:
 
 ### Police shove and arrest protester | August 12th
 
-Police shove a protester into the crowd. The protester falls over. Police then strike the protester repeatedly and arrest them.
+Police shove a protester into the crowd near 3rd and Taylor. The protester falls over. Police then strike the protester repeatedly and arrest them.
 
 tags: arrest, baton, protester, push, shove, strike
 
 id: or-portland-269
 
-geolocation: 
+geolocation: 45.5169327, -122.6762642
 
 **Links**
 
@@ -4636,7 +4636,7 @@ tags: baton, journalist, protester, push, shove, strike
 
 id: or-portland-264
 
-geolocation: 
+geolocation: 45.5176116, -122.6758578
 
 **Links**
 
@@ -4647,13 +4647,13 @@ geolocation:
 
 ### Police tear gas protesters | August 13th
 
-Police fire tear gas at protesters after several attempts at dispersal, during which protesters threw paint balloons and fireworks back. The PPB is currently restricted to using tear gas only as a life-saving measure. Police fire tear gas ahead of protesters while pushing them back, forcing protesters to walk through the tear gas.
+Police fire tear gas at protesters after several attempts at dispersal near 3rd and Yamhill, during which protesters threw paint balloons and fireworks back. The PPB is currently restricted to using tear gas only as a life-saving measure. Police fire tear gas ahead of protesters while pushing them back, forcing protesters to walk through the tear gas.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-265
 
-geolocation: 
+geolocation: 45.5176116, -122.6758578
 
 **Links**
 
@@ -4671,13 +4671,13 @@ geolocation:
 
 ### Police shove protesters on staircase, punch arrestee in stomach | August 13th
 
-Police make a violent arrest on an outdoor staircase. The arrestee is punched repeatedly in the abdomen. Police then push press back.
+Police make a violent arrest on an outdoor staircase near Park and Main. The arrestee is punched repeatedly in the abdomen. Police then push press back.
 
 tags: arrest, journalist, protester, punch, push, shove
 
 id: or-portland-266
 
-geolocation: 
+geolocation: 45.5169675, -122.6820327
 
 **Links**
 
@@ -4687,15 +4687,17 @@ geolocation:
 
 ### Police slash tires of van | August 13th
 
-Police approach a van belonging to Timbers Army, which was slowly driving away from police alongside protesters and slash the tires of the vehicle.
+Police approach a van belonging to Timbers Army, which was slowly driving away from police alongside protesters. Police slash the tires of the vehicle.
 
 In a statement posted on Twitter, Timbers Army said the vehicle was on-site to provide supplies for medics, as well as PPE and water for protesters.
+
+This incident occurred near Main and 6th.
 
 tags: property-destruction, protester
 
 id: or-portland-267
 
-geolocation: 
+geolocation: 45.5163008, -122.6797286
 
 **Links**
 
@@ -4708,13 +4710,13 @@ geolocation:
 
 ### Police throw protester to the ground | August 13th
 
-A man following dispersal orders turns and speaks to police. Police throw him to the ground and strike him repeatedly.
+A man following dispersal orders turns and speaks to police at 2nd and Madison. Police throw him to the ground and strike him repeatedly.
 
 tags: baton, protester, push, shove, strike
 
 id: or-portland-268
 
-geolocation: 
+geolocation: 45.5146719, -122.6763902
 
 **Links**
 
@@ -7182,6 +7184,38 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/AdamnCostelloTV/status/1325355256960569344
 * https://twitter.com/BoopTroopEugene/status/1325392406154416129
 * https://twitter.com/PDocumentarians/status/1325378950000832512
+
+
+### Federal Protective Services agents make violent arrest | November 24th
+
+FPS agents make a violent arrest at a small protest outside the Portland ICE facility, slamming a protester into a light pole.
+
+tags: arrest, protester, tackle
+
+id: or-portland-410
+
+geolocation: 45.4931857, -122.6722262
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1331630328469917697
+* https://twitter.com/PDocumentarians/status/1331475057755910144
+* https://twitter.com/gravemorgan/status/1331469631396057089
+
+
+### Federal Protective Services agents pepper spray protester | November 24th
+
+Federal Protective Services agents pepper spray a protester walking stereo equipment away from them at Moody and Bancroft.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: or-portland-411
+
+geolocation: 45.4931755, -122.6718966
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1331488049516195841
 
 
 ## Salem
