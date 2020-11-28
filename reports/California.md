@@ -1267,11 +1267,11 @@ geolocation: 34.048569, -118.2550804
 
 Following evictions of squatting families from CalTrans-owned homes by California State Police on November 24th, protesters gathered at 2970 Lowell Ave to bar the way in an attempt to prevent these evictions. Officers swing batons at protesters and make violent arrests. Several protesters were knelt on during arrests; some were also hog-tied and carried away to vans
 
-tags: protester, strike, beat, baton, arrest
+tags: arrest, baton, beat, protester, strike
 
 id: ca-losangeles-64
 
-geolocation: 34.080414,-118.1642954
+geolocation: 34.080414, -118.1642954
 
 **Links**
 
