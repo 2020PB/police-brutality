@@ -4033,13 +4033,13 @@ geolocation:
 
 ### Journalist shoved and pepper-sprayed | August 1st
 
-When police rush at protesters, a journalist is shoved into the side of a car then pepper sprayed.
+When police rush at protesters on Burnside near the Penumbra Kelly building, a journalist is shoved into the side of a car then pepper sprayed.
 
 tags: journalist, less-lethal, pepper-spray, shove, spray
 
 id: or-portland-224
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
