@@ -1263,9 +1263,9 @@ geolocation: 34.048569, -118.2550804
 * https://www.latimes.com/california/story/2020-11-04/lapd-detain-cite-two-videographers-after-declaring-downtown-protest-unlawful
 
 
-### Police beat and arrest anti-eviction protesters | November 25th
+### Police beat and arrest anti-eviction protesters | November 26th
 
-Following evictions of squatting families from CalTrans-owned homes by California State Police on November 24th, protesters gathered at 2970 Lowell Ave to bar the way in an attempt to prevent these evictions. Officers swing batons at protesters and make violent arrests. Several protesters were knelt on during arrests; some were also hog-tied and carried away to vans
+Following evictions of squatting families from CalTrans-owned homes by California State Police on November 25th, protesters gathered at 2970 Lowell Ave to bar the way in an attempt to prevent these evictions. Officers swing batons at protesters and make violent arrests. Several protesters were knelt on during arrests; some were also hog-tied and carried away to vans
 
 tags: arrest, baton, beat, protester, strike
 
