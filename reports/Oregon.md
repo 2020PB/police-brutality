@@ -4039,7 +4039,7 @@ tags: journalist, less-lethal, pepper-spray, shove, spray
 
 id: or-portland-224
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
