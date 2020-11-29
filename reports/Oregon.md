@@ -4059,7 +4059,7 @@ tags: grab, less-lethal, pepper-spray, protester, shove, spray, strike, tackle
 
 id: or-portland-225
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4083,7 +4083,7 @@ tags: abuse-of-power, journalist, property-destruction
 
 id: or-portland-226
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4100,7 +4100,7 @@ tags: protester, push, shove
 
 id: or-portland-227
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4115,7 +4115,7 @@ tags: baton, less-lethal, pepper-spray, property-destruction, protester, shove, 
 
 id: or-portland-228
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4138,7 +4138,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-229
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4153,7 +4153,7 @@ tags: arrest, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: or-portland-230
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4170,7 +4170,7 @@ tags: arrest, journalist, less-lethal, pepper-spray, protester, push, shove, spr
 
 id: or-portland-231
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4191,7 +4191,7 @@ tags: explosive, gas, less-lethal, projectile, protester, stun-grenade
 
 id: or-portland-232
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4208,7 +4208,7 @@ tags: less-lethal, pepper-spray, protester, push, shove, spray, tear-gas
 
 id: or-portland-235
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4234,7 +4234,7 @@ tags: arrest, journalist, protester, push, shove
 
 id: or-portland-236
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -4256,7 +4256,7 @@ tags: journalist, legal-observer, push, shove
 
 id: or-portland-237
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
