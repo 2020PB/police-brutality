@@ -4049,7 +4049,7 @@ geolocation:
 
 ### Police charge, tackle, and pepper spray protesters | August 1st
 
-Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protesters, shoving many to the ground.
+Police gave directions to protesters to walk west down Burnside, away from the Penumbra Kelly building. Protesters followed directions. Police charged at protesters, shoving many to the ground.
 
 One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well, including one on the ground. One woman is shoved as she tries to stand; she states repeatedly that she cannot see.
 
@@ -4059,7 +4059,7 @@ tags: grab, less-lethal, pepper-spray, protester, shove, spray, strike, tackle
 
 id: or-portland-225
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4077,13 +4077,13 @@ geolocation:
 
 ### Police slash journalist's tires | August 1st
 
-A parked car attempts to pull out and drive away. OFficers slash the car's tires and shatter the rear windshield. The woman driving the car is wearing a helmet and PRESS shirt.
+A parked car attempts to pull out and drive from a protest near the Penumbra Kelly building. Officers slash the car's tires and shatter the rear windshield. The woman driving the car is wearing a helmet and PRESS shirt.
 
 tags: abuse-of-power, journalist, property-destruction
 
 id: or-portland-226
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4094,28 +4094,28 @@ geolocation:
 
 ### Police charge at protesters | August 1st
 
-After pushing protesters into residential streets, police again charge at protesters, shoving many to the ground.
+After pushing protesters into residential streets west of the Penumbra Kelly building, police again charge at protesters, shoving many to the ground.
 
 tags: protester, push, shove
 
 id: or-portland-227
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
-* https://github.com/2020PB/police-brutality/issues/1270
+* https://twitter.com/hungrybowtie/status/1289801996799578114
 
 
 ### Police charge and assault protesters | August 3rd
 
-Police charge protesters, shoving and striking with batons. Several of the moms against police brutality are thrown to the ground. Police use pepper spray liberally. One person is trampled by officers. Police smash a protester's megaphone.
+Police charge protesters at 53rd and Burnside, shoving and striking with batons. Several of the moms against police brutality are thrown to the ground. Police use pepper spray liberally. One person is trampled by officers. Police smash a protester's megaphone.
 
 tags: baton, less-lethal, pepper-spray, property-destruction, protester, shove, spray, strike
 
 id: or-portland-228
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4132,13 +4132,13 @@ geolocation:
 
 ### Police pepper spray protester | August 3rd
 
-Footage taken during the events of or-portland-228 shows multiple officers repeatedly pepper spraying a protester. The protester then collapses on the ground before being arrested.
+Footage taken during the events of or-portland-228 near 53rd and Burnside shows multiple officers repeatedly pepper spraying a protester. The protester then collapses on the ground before being arrested.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-229
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4147,13 +4147,13 @@ geolocation:
 
 ### Individuals pepper sprayed | August 3rd
 
-Two individuals with cameras are standing between parked cars on the edge of the road. An officer tells them to get on the sidewalk and pushes them; the individuals back towards the sidewalk. When the individuals bat the officer's hand away, he pepper sprays them. It is unclear if these individuals were protesters with cameras or journalists.
+Two individuals with cameras are standing between parked cars on the edge of the road (N 53rd and N Burnside). An officer tells them to get on the sidewalk and pushes them; the individuals back towards the sidewalk. When the individuals bat the officer's hand away, he pepper sprays them. It is unclear if these individuals were protesters with cameras or journalists.
 
 tags: arrest, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: or-portland-230
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4162,7 +4162,7 @@ geolocation:
 
 ### Journalist hospitalized after arrest; protesters and journalists pepper sprayed | August 4th
 
-Police shove and pepper spray protesters while making arrest. The arrestee, a member of the press, was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
+Police shove and pepper spray protesters while making an arrest near N Denver and N Russet. The arrestee, a member of the press, was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
 
 Several members of the press were pushed away from the arrest.
 
@@ -4170,7 +4170,7 @@ tags: arrest, journalist, less-lethal, pepper-spray, protester, push, shove, spr
 
 id: or-portland-231
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4185,13 +4185,13 @@ geolocation:
 
 ### Police throw explosives as they leave | August 4th
 
-After arresting a protester while investigating a shooting, police board a van to leave the area. Police then throw a stun grenade and smoke gas at protesters. Police allege that protesters threw a projectile at police, but footage does not show anything.
+After arresting a protester while investigating a shooting at N Lombard and N Denver, police board a van to leave the area. Police then throw a stun grenade and smoke gas at protesters. Police allege that protesters threw a projectile at police, but footage does not show anything.
 
 tags: explosive, gas, less-lethal, projectile, protester, stun-grenade
 
 id: or-portland-232
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4202,13 +4202,13 @@ geolocation:
 
 ### Police respond to vandalism with excessive force | August 5th
 
-After some protesters attempted to break into a Portland Police precinct, officers declare the protest a riot. Police take action against all protesters, including those not involved in the vandalism. Officers deploy tear gas to disperse protesters. Police also charge at protesters, shoving and pepper-spraying them. Additionally, police allegedly slashed the tires of multiple cars.
+After some protesters attempted to break into the Portland Police East precinct, officers declare the protest a riot. Police take action against all protesters, including those not involved in the vandalism. Officers deploy tear gas to disperse protesters. Police also charge at protesters, shoving and pepper-spraying them. Additionally, police allegedly slashed the tires of multiple cars.
 
 tags: less-lethal, pepper-spray, protester, push, shove, spray, tear-gas
 
 id: or-portland-235
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4228,11 +4228,13 @@ One member of the MomBloc (noted by the yellow shirt) is thrown to the ground du
 
 At least one member of the press is struck by police during this charge.
 
+This occurred as police pushed protesters North from the East precinct.
+
 tags: arrest, journalist, protester, push, shove
 
 id: or-portland-236
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
@@ -4248,11 +4250,13 @@ geolocation:
 
 While police make arrests after charging protesters (see: or-portland-237), legal observers and journalist gather around the officers to document the arrests. One legal observer is shoved in the head. Officers then unholster pepper spray and approach the press and legal observers. Officers then shove the filmer, a journalist.
 
+This occurred as police pushed protesters North from the East precinct.
+
 tags: journalist, legal-observer, push, shove
 
 id: or-portland-237
 
-geolocation: 
+geolocation: 45.5171945,-122.5538792
 
 **Links**
 
