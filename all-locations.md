@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-11-29T19:13:54.689126+00:00
+UPDATED AT: 2020-11-29T19:46:15.420264+00:00
 
 
 # Alabama
@@ -14566,13 +14566,13 @@ geolocation:
 
 ### Journalist shoved and pepper-sprayed | August 1st
 
-When police rush at protesters, a journalist is shoved into the side of a car then pepper sprayed.
+When police rush at protesters on Burnside near the Penumbra Kelly building, a journalist is shoved into the side of a car then pepper sprayed.
 
 tags: journalist, less-lethal, pepper-spray, shove, spray
 
 id: or-portland-224
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14582,7 +14582,7 @@ geolocation:
 
 ### Police charge, tackle, and pepper spray protesters | August 1st
 
-Police gave directions to protesters to walk in a certain direction. Protesters followed directions. Police charged at protesters, shoving many to the ground.
+Police gave directions to protesters to walk west down Burnside, away from the Penumbra Kelly building. Protesters followed directions. Police charged at protesters, shoving many to the ground.
 
 One protester on a bicycle is knocked over. The protester lands on top of the bike and has trouble getting up. Police pepper spray protesters as well, including one on the ground. One woman is shoved as she tries to stand; she states repeatedly that she cannot see.
 
@@ -14592,7 +14592,7 @@ tags: grab, less-lethal, pepper-spray, protester, shove, spray, strike, tackle
 
 id: or-portland-225
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14610,13 +14610,13 @@ geolocation:
 
 ### Police slash journalist's tires | August 1st
 
-A parked car attempts to pull out and drive away. OFficers slash the car's tires and shatter the rear windshield. The woman driving the car is wearing a helmet and PRESS shirt.
+A parked car attempts to pull out and drive from a protest near the Penumbra Kelly building. Officers slash the car's tires and shatter the rear windshield. The woman driving the car is wearing a helmet and PRESS shirt.
 
 tags: abuse-of-power, journalist, property-destruction
 
 id: or-portland-226
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14627,28 +14627,28 @@ geolocation:
 
 ### Police charge at protesters | August 1st
 
-After pushing protesters into residential streets, police again charge at protesters, shoving many to the ground.
+After pushing protesters into residential streets west of the Penumbra Kelly building, police again charge at protesters, shoving many to the ground.
 
 tags: protester, push, shove
 
 id: or-portland-227
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
-* https://github.com/2020PB/police-brutality/issues/1270
+* https://twitter.com/hungrybowtie/status/1289801996799578114
 
 
 ### Police charge and assault protesters | August 3rd
 
-Police charge protesters, shoving and striking with batons. Several of the moms against police brutality are thrown to the ground. Police use pepper spray liberally. One person is trampled by officers. Police smash a protester's megaphone.
+Police charge protesters at 53rd and Burnside, shoving and striking with batons. Several of the moms against police brutality are thrown to the ground. Police use pepper spray liberally. One person is trampled by officers. Police smash a protester's megaphone.
 
 tags: baton, less-lethal, pepper-spray, property-destruction, protester, shove, spray, strike
 
 id: or-portland-228
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14665,13 +14665,13 @@ geolocation:
 
 ### Police pepper spray protester | August 3rd
 
-Footage taken during the events of or-portland-228 shows multiple officers repeatedly pepper spraying a protester. The protester then collapses on the ground before being arrested.
+Footage taken during the events of or-portland-228 near 53rd and Burnside shows multiple officers repeatedly pepper spraying a protester. The protester then collapses on the ground before being arrested.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-229
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14680,13 +14680,13 @@ geolocation:
 
 ### Individuals pepper sprayed | August 3rd
 
-Two individuals with cameras are standing between parked cars on the edge of the road. An officer tells them to get on the sidewalk and pushes them; the individuals back towards the sidewalk. When the individuals bat the officer's hand away, he pepper sprays them. It is unclear if these individuals were protesters with cameras or journalists.
+Two individuals with cameras are standing between parked cars on the edge of the road (N 53rd and N Burnside). An officer tells them to get on the sidewalk and pushes them; the individuals back towards the sidewalk. When the individuals bat the officer's hand away, he pepper sprays them. It is unclear if these individuals were protesters with cameras or journalists.
 
 tags: arrest, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: or-portland-230
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14695,7 +14695,7 @@ geolocation:
 
 ### Journalist hospitalized after arrest; protesters and journalists pepper sprayed | August 4th
 
-Police shove and pepper spray protesters while making arrest. The arrestee, a member of the press, was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
+Police shove and pepper spray protesters while making an arrest near N Denver and N Russet. The arrestee, a member of the press, was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
 
 Several members of the press were pushed away from the arrest.
 
@@ -14703,7 +14703,7 @@ tags: arrest, journalist, less-lethal, pepper-spray, protester, push, shove, spr
 
 id: or-portland-231
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14718,13 +14718,13 @@ geolocation:
 
 ### Police throw explosives as they leave | August 4th
 
-After arresting a protester while investigating a shooting, police board a van to leave the area. Police then throw a stun grenade and smoke gas at protesters. Police allege that protesters threw a projectile at police, but footage does not show anything.
+After arresting a protester while investigating a shooting at N Lombard and N Denver, police board a van to leave the area. Police then throw a stun grenade and smoke gas at protesters. Police allege that protesters threw a projectile at police, but footage does not show anything.
 
 tags: explosive, gas, less-lethal, projectile, protester, stun-grenade
 
 id: or-portland-232
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14735,13 +14735,13 @@ geolocation:
 
 ### Police respond to vandalism with excessive force | August 5th
 
-After some protesters attempted to break into a Portland Police precinct, officers declare the protest a riot. Police take action against all protesters, including those not involved in the vandalism. Officers deploy tear gas to disperse protesters. Police also charge at protesters, shoving and pepper-spraying them. Additionally, police allegedly slashed the tires of multiple cars.
+After some protesters attempted to break into the Portland Police East precinct, officers declare the protest a riot. Police take action against all protesters, including those not involved in the vandalism. Officers deploy tear gas to disperse protesters. Police also charge at protesters, shoving and pepper-spraying them. Additionally, police allegedly slashed the tires of multiple cars.
 
 tags: less-lethal, pepper-spray, protester, push, shove, spray, tear-gas
 
 id: or-portland-235
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14761,11 +14761,13 @@ One member of the MomBloc (noted by the yellow shirt) is thrown to the ground du
 
 At least one member of the press is struck by police during this charge.
 
+This occurred as police pushed protesters North from the East precinct.
+
 tags: arrest, journalist, protester, push, shove
 
 id: or-portland-236
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14781,11 +14783,13 @@ geolocation:
 
 While police make arrests after charging protesters (see: or-portland-237), legal observers and journalist gather around the officers to document the arrests. One legal observer is shoved in the head. Officers then unholster pepper spray and approach the press and legal observers. Officers then shove the filmer, a journalist.
 
+This occurred as police pushed protesters North from the East precinct.
+
 tags: journalist, legal-observer, push, shove
 
 id: or-portland-237
 
-geolocation: 
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
@@ -14794,13 +14798,13 @@ geolocation:
 
 ### Police puncture tires of Snack Van | August 6th
 
-After giving dispersal directions, police chase protesters and the protest Snack Van, which dispenses food and water to protesters. The driver of the van was driving in the direction police stated, but police slashed his tires nonetheless.
+After giving dispersal directions during a protest outside the East Precinct, police chase protesters and the protest Snack Van, which dispenses food and water to protesters. The driver of the van was driving in the direction police stated, but police slashed his tires nonetheless.
 
 tags: property-destruction, protester
 
 id: or-portland-238
 
-geolocation: 
+geolocation: 45.5169372, -122.5539076
 
 **Links**
 
@@ -14810,46 +14814,17 @@ geolocation:
 * https://twitter.com/hungrybowtie/status/1291611883502362624
 
 
-### Police shove man with disability | August 6th
-
-As the police line pushes protesters down the street, an officer shoves a man because he isn't walking quickly. The man states he is disabled; an officer says, "You shouldn't have come here then." Other protesters argue with the officer and he shoves them as well.
-
-tags: person-with-disability, protester, push, shove
-
-id: or-portland-239
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/GriffinMalone6/status/1291644306323673090
-* https://twitter.com/Muzzakh/status/1291741137896476672
-
-
-### Officer singles out and pepper sprays protester without apparent cause | August 6th
-
-An officer is seen walking into a crowd of protesters standing still on the sidewalk. The officer discharges his pepper spray at a protester then walks away.
-
-tags: less-lethal, pepper-spray, protester, spray
-
-id: or-portland-240
-
-geolocation: 
-
-**Links**
-
-* https://twitter.com/GriffinMalone6/status/1291649145363554309
-
-
 ### Police shove members of the press | August 6th
 
 During a dispersal order, press are moving away from police according to the dispersal directions. Press continue to film police and are shoved repeatedly by officers.
+
+This occurred at Floyd Light Middle School following a protest outside the East Precinct.
 
 tags: protester, push, shove
 
 id: or-portland-241
 
-geolocation: 
+geolocation: 45.5174533, -122.5528255
 
 **Links**
 
@@ -14859,13 +14834,13 @@ geolocation:
 
 ### Woman arrested and pepper sprayed after yelling at police | August 6th
 
-Footage shows a woman yelling at police in the street. After about a minute, police tell her to get off the street, then arrest her. While she is being held down, another officer pepper sprays her.
+Footage shows a woman yelling at police in the street near the Penumbra Kelly building. After about a minute, police tell her to get off the street, then arrest her. While she is being held down, another officer pepper sprays her.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-247
 
-geolocation: 
+geolocation: 45.5230061, -122.6149833
 
 **Links**
 
@@ -14873,30 +14848,46 @@ geolocation:
 * https://www.reddit.com/r/PublicFreakout/comments/i6dg76/portland_police_arrest_women_for_standing_on/
 
 
-### Member of the press pepper sprayed | August 7th
+### Police shove man with disability | August 6th
 
-A member of the press stands in a crowd of protesters, shining a bright light in the direction of officers as they are documenting. An officer pepper sprays this individual.
+As the police line pushes protesters down residential streets near the Penumbra Kelly building, an officer shoves a man because he isn't walking quickly. The man states he is disabled; an officer says, "You shouldn't have come here then." Other protesters argue with the officer and he shoves them as well.
 
-tags: journalist, less-lethal, pepper-spray, spray
+tags: person-with-disability, protester, push, shove
 
-id: or-portland-242
+id: or-portland-239
 
-geolocation: 
+geolocation: 45.5230061, -122.6149833
 
 **Links**
 
-* https://twitter.com/GriffinMalone6/status/1291645839681576960
+* https://twitter.com/GriffinMalone6/status/1291644306323673090
+* https://twitter.com/Muzzakh/status/1291741137896476672
+
+
+### Officer singles out and pepper sprays protester without apparent cause | August 7th
+
+An officer is seen walking into a crowd of protesters standing still on the sidewalk down the street from the Penumbra Kelly building. The officer discharges his pepper spray at a protester then walks away.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: or-portland-240
+
+geolocation: 45.5230061, -122.6149833
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1291649145363554309
 
 
 ### Officers grab and shove protesters | August 7th
 
-Police repeatedly shove woman on the sidewalk. One protester attempts to intervene and is thrown into the nearby bushes. A second protester runs up and bumps into an officer, ostensibly trying to intervene. The officer then grabs the protester by the collar and slams him into the hood of a car.
+Police repeatedly shove woman on the sidewalk down the street from the Penumbra Kelly building. One protester attempts to intervene and is thrown into the nearby bushes. A second protester runs up and bumps into an officer, ostensibly trying to intervene. The officer then grabs the protester by the collar and slams him into the hood of a car.
 
 tags: grab, protester, push, shove, throw
 
 id: or-portland-243
 
-geolocation: 
+geolocation: 45.5230061, -122.6149833
 
 **Links**
 
@@ -14907,21 +14898,24 @@ geolocation:
 
 Press and protesters pepper sprayed and shoved while trying to follow orders to move backward.
 
+This occurred down the street from the Penumbra Kelly building after police had pushed protesters away from the building.
+
 tags: journalist, less-lethal, pepper-spray, push, shove, spray
 
 id: or-portland-244
 
-geolocation: 
+geolocation: 45.5230061, -122.6149833
 
 **Links**
 
 * https://twitter.com/R3volutionDaddy/status/1291652345613312000
 * https://twitter.com/R3volutionDaddy/status/1291676448026050560
+* https://twitter.com/GriffinMalone6/status/1291645839681576960
 
 
 ### Reporter arrested | August 7th
 
-Footage shows police approaching an individual and arresting them. No justification is apparent. The individual is believed to be a reporter for the Daily Mail.
+Footage shows police approaching an individual outside the Penumbra Kelly building and arresting them. No justification is apparent. The individual is believed to be a reporter for the Daily Mail.
 
 The journalist recovered his gear from the precinct several days later, to find much of it had been rendered unusable.
 
@@ -14929,7 +14923,7 @@ tags: arrest, journalist, property-destruction
 
 id: or-portland-245
 
-geolocation: 
+geolocation: 45.522950, -122.6145843
 
 **Links**
 
@@ -14943,11 +14937,13 @@ geolocation:
 
 Footage shows an individual walking away from officers while a dispersal order is being given. An officer approaches and knocks the protester's helmet off. The protester then attempts to retrieve the helmet, but several officers block his path.
 
+This occurred at a protest in front of the Penumbra Kelly building.
+
 tags: abuse-of-power, protester
 
 id: or-portland-250
 
-geolocation: 
+geolocation: 45.522950, -122.6145843
 
 **Links**
 
@@ -14958,11 +14954,13 @@ geolocation:
 
 Footage shows several officers holding a protester down for arrest while several more strike the protester with batons.
 
+This occurred at a protest in front of the Penumbra Kelly building.
+
 tags: arrest, baton, beat, protester, strike
 
 id: or-portland-251
 
-geolocation: 
+geolocation: 45.522950, -122.6145843
 
 **Links**
 
@@ -14971,13 +14969,13 @@ geolocation:
 
 ### Individual held on the ground, pepper sprayed, punched, and arrested | August 8th
 
-Footage shows an officer sitting on an individual, believed to be a medic. The individual is immobile. An officer pepper sprays them, then the officer on their back punches them in the head.
+Footage shows an officer sitting on an individual, believed to be a medic, at a protest near the Penumbra Kelly building. The individual is immobile. An officer pepper sprays them, then the officer on their back punches them in the head.
 
 tags: arrest, less-lethal, medic, pepper-spray, punch, spray
 
 id: or-portland-246
 
-geolocation: 
+geolocation: 45.522950, -122.6145843
 
 **Links**
 
@@ -14986,13 +14984,13 @@ geolocation:
 
 ### Violent charge made by police | August 8th
 
-Around 2 AM Pacfic time, police charged at the line of protester shields, using excessive force to detain protesters who had thrown only eggs up to that point. Police can be seen dragging protesters, throwing protesters to the ground, shoving others, and arresting several.
+Around 2 AM Pacfic time outside the Penumbra Kelly Building, police charged at the line of protester shields, using excessive force to detain protesters who had thrown only eggs up to that point. Police can be seen dragging protesters, throwing protesters to the ground, shoving others, and arresting several.
 
 tags: arrest, protester, push, shove
 
 id: or-portland-248
 
-geolocation: 
+geolocation: 45.523019, -122.6143974
 
 **Links**
 
@@ -15008,7 +15006,7 @@ tags: baton, less-lethal, projectile, protester, push, shoot, shove, stun-grenad
 
 id: or-portland-252
 
-geolocation: 
+geolocation: 45.5770994, -122.6861654
 
 **Links**
 
@@ -15021,13 +15019,13 @@ geolocation:
 
 ### Journalist shot in arm | August 8th
 
-A journalist with Frontline Access was struck in the arm around midnight on August 8th by "a flashbang or something." Another journalist states he was unresponsive for a short time. He was attended at the scene by protest medics. He states in a tweet the following day that he lost most of the feeling in his arm and went to the ER, where doctors said his arm was fractured.
+A journalist with Frontline Access was struck in the arm around midnight on August 8th by "a flashbang or something" near North Lombard and North Denver. Another journalist states he was unresponsive for a short time. He was attended at the scene by protest medics. He states in a tweet the following day that he lost most of the feeling in his arm and went to the ER, where doctors said his arm was fractured.
 
 tags: explosive, journalist, less-lethal, projectile
 
 id: or-portland-254
 
-geolocation: 
+geolocation: 45.5772306, -122.6868992
 
 **Links**
 
@@ -15038,13 +15036,13 @@ geolocation:
 
 ### Journalist shoved by police | August 8th
 
-A group of press and legal observers are gathered on the sidewalk. Police direct them into the street to the other side. The group begins to obey. Officers shoves the filmer, a journalist, from behind.
+A group of press and legal observers are gathered on the sidewalk in Kenton near Kilpatrick. Police direct them into the street to the other side. The group begins to obey. Officers shoves the filmer, a journalist, from behind.
 
 tags: journalist, push, shove
 
 id: or-portland-255
 
-geolocation: 
+geolocation: 45.5823765, -122.6868794
 
 **Links**
 
