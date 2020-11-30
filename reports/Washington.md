@@ -1359,11 +1359,11 @@ While police are dispersing protesters at E Olive Way and E Denny Way, an office
 
 While it is clear the protester did strike the officer, the question of brutality lies in the force used by the officer: the use of pepper spray and the tackling a man using a cane appear to be disproportionate to the protester's light strike.
 
-tags: protester, arrest, tackle, pepper-spray, spray, person-with-disability, elderly
+tags: arrest, elderly, less-lethal, pepper-spray, person-with-disability, protester, spray, tackle
 
 id: wa-seattle-77
 
-geolocation: 45.5171945,-122.5538792
+geolocation: 45.5171945, -122.5538792
 
 **Links**
 
