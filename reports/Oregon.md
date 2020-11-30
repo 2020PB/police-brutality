@@ -4010,15 +4010,11 @@ geolocation: 45.5157823, -122.6757574
 
 An officer at 2nd and Salmon shoots at a crowd of protesters some distance away. No justification is apparent. Protesters stand down the street with shields. Some are milling about. The filmer alleges the officer was aiming at head height.
 
-
-
-45.5159969,-122.6778299
-
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-213
 
-geolocation: 
+geolocation: 45.5159969,-122.6778299
 
 **Links**
 
