@@ -3389,7 +3389,7 @@ tags: arrest, knee, knee-on-neck, protester
 
 id: or-portland-199
 
-geolocation: 45.518572,-122.6766718
+geolocation: 45.518572, -122.6766718
 
 **Links**
 
@@ -3405,7 +3405,7 @@ tags: arrest, journalist
 
 id: or-portland-203
 
-geolocation: 45.5162412,-122.6765964
+geolocation: 45.5162412, -122.6765964
 
 **Links**
 
@@ -3422,7 +3422,7 @@ tags: less-lethal, medic, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-214
 
-geolocation: 45.5160628,-122.6773818
+geolocation: 45.5160628, -122.6773818
 
 **Links**
 
