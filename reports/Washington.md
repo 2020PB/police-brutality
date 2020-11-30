@@ -1353,6 +1353,23 @@ geolocation: 47.6152719, -122.319049
 * https://twitter.com/MarcusKulik/status/1324885077478633472
 
 
+### Officer escalates scuffle by pepper spraying and arresting protester | November 27th
+
+While police are dispersing protesters at E Olive Way and E Denny Way, an officer and an elderly man holding a cane are seen in the street. The officer is pushing the man back across the street and the man is attempting to walk the opposite direction. After the officer pushes the protester to the sidewalk, the officer turns to walk away. The protester then lightly strikes the body-armored officer on the back with his cane; the cane then collapses, suggesting it is a collapsible cane, not capable of striking forcefully. The officer then pepper sprays the protester and tackles him to the ground for arrest.
+
+While it is clear the protester did strike the officer, the question of brutality lies in the force used by the officer: the use of pepper spray and the tackling a man using a cane appear to be disproportionate to the protester's light strike.
+
+tags: arrest, elderly, less-lethal, pepper-spray, person-with-disability, protester, spray, tackle
+
+id: wa-seattle-77
+
+geolocation: 45.5171945, -122.5538792
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/k30e8h/capitol_hill_seattle_11272020_police_dispersing
+
+
 ## Vancouver
 
 ### Police arrest journalists | October 31st
