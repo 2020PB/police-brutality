@@ -3383,13 +3383,13 @@ geolocation:
 
 ### Officer kneels on protesters neck | July 26th
 
-Portland police arrest a protester. While handcuffing him, one officer kneels on the arrestee's neck.
+Portland police arrest a protester near Morrison and 4th. While handcuffing him, one officer kneels on the arrestee's neck.
 
 tags: arrest, knee, knee-on-neck, protester
 
 id: or-portland-199
 
-geolocation: 
+geolocation: 45.518572,-122.6766718
 
 **Links**
 
@@ -3399,13 +3399,13 @@ geolocation:
 
 ### Journalist arrested without cause | July 26th
 
-An independent photojournalist was arrested after a protester threw a firework at an officer. The journalist was charged with "assault of an officer;" these charges were later dropped. The journalist may have accidentally kicked the firework, but it appears to be incidental as the firework landed in his path.
+An independent photojournalist was arrested near 3rd and Salmon after a protester threw a firework at an officer. The journalist was charged with "assault of an officer;" these charges were later dropped. The journalist may have accidentally kicked the firework, but it appears to be incidental as the firework landed in his path.
 
 tags: arrest, journalist
 
 id: or-portland-203
 
-geolocation: 
+geolocation: 45.5162412,-122.6765964
 
 **Links**
 
@@ -3414,13 +3414,15 @@ geolocation:
 
 ### Medic shot in chest | July 26th
 
-Around 7:30, shots can be heard fired by Portland police. Protesters can be heard calling for a medic. Then several protesters state that a medic was shot with a tear gas canister. They state the medic was clearly marked as such. The medic was taken to the hospital and reported in a Facebook post that he suffered a "severe chest wall contusion," but nothing more major or permanent. In the same post, he states he was shot after attempting to douse a tear gas canister with water.
+Around 7:30 in the video, shots can be heard fired by Portland police. Protesters can be heard calling for a medic. Then several protesters state that a medic was shot with a tear gas canister. They state the medic was clearly marked as such. The medic was taken to the hospital and reported in a Facebook post that he suffered a "severe chest wall contusion," but nothing more major or permanent. In the same post, he states he was shot after attempting to douse a tear gas canister with water.
+
+In a facebook post, the medic stated they were in the park across from the courthouse (Lownsdale Square).
 
 tags: less-lethal, medic, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-214
 
-geolocation: 
+geolocation: 45.5160628,-122.6773818
 
 **Links**
 
