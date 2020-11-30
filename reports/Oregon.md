@@ -4014,7 +4014,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-213
 
-geolocation: 45.5159969,-122.6778299
+geolocation: 45.5159969, -122.6778299
 
 **Links**
 
