@@ -3436,7 +3436,7 @@ tags: arrest, baton, less-lethal, projectile, protester, shoot, strike, tackle
 
 id: or-portland-178
 
-geolocation: 45.5162412,-122.6765964
+geolocation: 45.5162412, -122.6765964
 
 **Links**
 
@@ -3451,7 +3451,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-175
 
-geolocation: 45.5159923,-122.6767309
+geolocation: 45.5159923, -122.6767309
 
 **Links**
 
@@ -3473,7 +3473,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-176
 
-geolocation: 45.5159923,-122.6767309
+geolocation: 45.5159923, -122.6767309
 
 **Links**
 
@@ -3500,7 +3500,7 @@ tags: arrest, less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-177
 
-geolocation: 45.5159923,-122.6767309
+geolocation: 45.5159923, -122.6767309
 
 **Links**
 
@@ -3525,7 +3525,7 @@ tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-179
 
-geolocation: 45.5162412,-122.6765964
+geolocation: 45.5162412, -122.6765964
 
 **Links**
 
@@ -3541,7 +3541,7 @@ tags: arrest, baton, knee, zip-tie
 
 id: or-portland-181
 
-geolocation: 45.5162412,-122.6765964
+geolocation: 45.5162412, -122.6765964
 
 **Links**
 
@@ -3558,7 +3558,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-182
 
-geolocation: 45.5162412,-122.6765964
+geolocation: 45.5162412, -122.6765964
 
 **Links**
 
@@ -3574,7 +3574,7 @@ tags: journalist, less-lethal, projectile, shoot, stun-grenade, tear-gas
 
 id: or-portland-183
 
-geolocation: 45.5164574,-122.6764795
+geolocation: 45.5164574, -122.6764795
 
 **Links**
 
@@ -3592,7 +3592,7 @@ tags: journalist, less-lethal, pepper-ball, projectile, shoot
 
 id: or-portland-188
 
-geolocation: 45.5167862,-122.6786821
+geolocation: 45.5167862, -122.6786821
 
 **Links**
 
@@ -3611,7 +3611,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-189
 
-geolocation: 45.5159068,-122.6767751
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -3627,7 +3627,7 @@ tags: bystander, less-lethal, projectile, shoot
 
 id: or-portland-204
 
-geolocation: 45.515573,-122.6769583
+geolocation: 45.515573, -122.6769583
 
 **Links**
 
@@ -3647,7 +3647,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-233
 
-geolocation: 45.5167862,-122.6786821
+geolocation: 45.5167862, -122.6786821
 
 **Links**
 
@@ -3667,7 +3667,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-190
 
-geolocation: 45.5156595,-122.6769109
+geolocation: 45.5156595, -122.6769109
 
 **Links**
 
@@ -3697,7 +3697,7 @@ tags: less-lethal, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-191
 
-geolocation: 45.5156595,-122.6769109
+geolocation: 45.5156595, -122.6769109
 
 **Links**
 
@@ -3725,7 +3725,7 @@ tags: arrest, baton, protester, punch, strike
 
 id: or-portland-192
 
-geolocation: 5.5161982,-122.6766199
+geolocation: 5.5161982, -122.6766199
 
 **Links**
 
@@ -3741,7 +3741,7 @@ tags: abuse-of-power, property-destruction, protester
 
 id: or-portland-195
 
-geolocation: 45.5156595,-122.6769109
+geolocation: 45.5156595, -122.6769109
 
 **Links**
 
@@ -3757,7 +3757,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: or-portland-196
 
-geolocation: 45.5165538,-122.6764329
+geolocation: 45.5165538, -122.6764329
 
 **Links**
 
@@ -3772,7 +3772,7 @@ tags: explosive, less-lethal, person-with-disability, projectile, protester, sho
 
 id: or-portland-197
 
-geolocation: 45.5159068,-122.6767751
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -3788,7 +3788,7 @@ tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-201
 
-geolocation: 45.5162424,-122.6766617
+geolocation: 45.5162424, -122.6766617
 
 **Links**
 
@@ -3819,7 +3819,7 @@ tags: arrest, journalist
 
 id: or-portland-205
 
-geolocation: 45.5162424,-122.6766617
+geolocation: 45.5162424, -122.6766617
 
 **Links**
 
@@ -3837,7 +3837,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-202
 
-geolocation: 45.5164817,-122.6776398
+geolocation: 45.5164817, -122.6776398
 
 **Links**
 
@@ -3852,7 +3852,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-206
 
-geolocation: 45.5158255,-122.6768183
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
@@ -3870,7 +3870,7 @@ tags: journalist, less-lethal, marking-round, shoot
 
 id: or-portland-207
 
-geolocation: 45.5161982,-122.6766199
+geolocation: 45.5161982, -122.6766199
 
 **Links**
 
@@ -3893,7 +3893,7 @@ tags: gas, journalist, less-lethal, projectile, protester, shoot, tear-gas, tear
 
 id: or-portland-208
 
-geolocation: 45.5159923,-122.6767309
+geolocation: 45.5159923, -122.6767309
 
 **Links**
 
@@ -3923,7 +3923,7 @@ tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-209
 
-geolocation: 45.5160149,-122.6756916
+geolocation: 45.5160149, -122.6756916
 
 **Links**
 
@@ -3944,7 +3944,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-210
 
-geolocation: 45.5160149,-122.6756916
+geolocation: 45.5160149, -122.6756916
 
 **Links**
 
@@ -3973,7 +3973,7 @@ tags: arrest, property-destruction, protester, push, shove
 
 id: or-portland-211
 
-geolocation: 45.5160149,-122.6756916
+geolocation: 45.5160149, -122.6756916
 
 **Links**
 
@@ -3988,7 +3988,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-212
 
-geolocation: 45.5157823,-122.6757574
+geolocation: 45.5157823, -122.6757574
 
 **Links**
 
@@ -4010,12 +4010,16 @@ geolocation: 45.5157823,-122.6757574
 
 An officer at 2nd and Salmon shoots at a crowd of protesters some distance away. No justification is apparent. Protesters stand down the street with shields. Some are milling about. The filmer alleges the officer was aiming at head height.
 
+
+
+45.5159969,-122.6778299
+
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-213
 
 geolocation: 
-45.5159969,-122.6778299
+
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1288734291334053888
@@ -4031,7 +4035,7 @@ tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-234
 
-geolocation: 45.514466,-122.679468
+geolocation: 45.514466, -122.679468
 
 **Links**
 
