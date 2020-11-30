@@ -3262,7 +3262,7 @@ geolocation:
 
 ### Second exchange of tear gas and impact munitions between federal officers and protesters | July 26th
 
-Protesters and police face off at torn-down fence outside the Justice center. Protesters throw fireworks and shine lasers. Federal police respond with tear gas and impact munitions.
+Protesters and police face off at torn-down fence outside the courthouse. Protesters throw fireworks and shine lasers. Federal police respond with tear gas and impact munitions.
 
 [A journalist is shot in the hand during the incident](https://twitter.com/MrOlmos/status/1287301148748046336).
 
@@ -3274,7 +3274,7 @@ tags: journalist, less-lethal, projectile, protester, shoot, shove, tear-gas, th
 
 id: or-portland-171
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -3288,13 +3288,13 @@ geolocation:
 
 ### Vietnam veteran pepper sprayed in the face | July 26th
 
-Footage shows a Vietname veteran talking to federal officers from a distance of several feet. An officer approaches him, shines a light in his face, pepper sprays him, then tells him to back up.
+Footage shows a Vietname veteran talking to federal officers from a distance of several feet at 3rd and Main. An officer approaches him, shines a light in his face, pepper sprays him, then tells him to back up.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-172
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -3303,13 +3303,13 @@ geolocation:
 
 ### Federal officer pepper sprays journalist | July 26th
 
-Footage shows federal officers walking through clouds of tear gas. An officer pepper sprays the filmer, a journalist.
+Footage shows federal officers walking through clouds of tear gas at 6th and Salmon. An officer pepper sprays the filmer, a journalist.
 
 tags: journalist, less-lethal, pepper-spray, spray, tear-gas
 
 id: or-portland-173
 
-geolocation: 
+geolocation: 45.5170553,-122.6797039
 
 **Links**
 
@@ -3318,13 +3318,13 @@ geolocation:
 
 ### Officers hold arrestee down in tear gas | July 26th
 
-Footage shows several officers detaining a protester in a cloud of tear gas. They bring the protester to his feet, then he stumbles back down to the ground. It is unclear if the protester is suffering ill effects from the tear gas or if he is passively resisting. One officer holds his head in the pavement while tear gas blows across the frame. Another officer appears to jab him with a baton. The protester can be heard screaming that he cannot breathe.
+Footage shows several officers detaining a protester in a cloud of tear gas near 4th and Salmon. They bring the protester to his feet, then he stumbles back down to the ground. It is unclear if the protester is suffering ill effects from the tear gas or if he is passively resisting. One officer holds his head in the pavement while tear gas blows across the frame. Another officer appears to jab him with a baton. The protester can be heard screaming that he cannot breathe.
 
 tags: arrest, baton, inhumane-treatment, less-lethal, protester, strike, tear-gas
 
 id: or-portland-184
 
-geolocation: 
+geolocation: 45.5164817,-122.6776398
 
 **Links**
 
@@ -3337,13 +3337,13 @@ geolocation:
 
 ### Riot police shove woman to the ground | (Believed to be) July 26th
 
-Riot police charge across the street at protesters walking away from them. A woman at the back begins to jog away from police. Police catch up to her and an officer shoves her to the ground with his baton.
+Riot police charge across the street (6th and Salmon) at protesters walking away from them. A woman at the back begins to jog away from police. Police catch up to her and an officer shoves her to the ground with his baton.
 
 tags: baton, protester, shove
 
 id: or-portland-187
 
-geolocation: 
+geolocation: 45.5153351,-122.676005
 
 **Links**
 
@@ -3358,11 +3358,12 @@ tags: baton, beat, protester, shove, strike
 
 id: or-portland-193
 
-geolocation: 
+geolocation: 45.5172076,-122.6772031
 
 **Links**
 
 * https://twitter.com/KohzKah/status/1287449509929213952
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-193.1.mp4)
 
 
 ### Protester shot in eye | July 26th
@@ -3373,7 +3374,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-198
 
-geolocation: 
+geolocation: 45.5159923,-122.6767309
 
 **Links**
 
