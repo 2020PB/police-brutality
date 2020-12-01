@@ -34,8 +34,8 @@ url_regex = re.compile(
 )
 
 # Regex is used to ensure that lat/long is both in a valid format has has 6-7 decimal places (or is an exact 90/180) to improve data quality on the backend
-LAT_REGEX = re.compile(r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{6,7})|90(?:\.0+)?)),")
-LONG_REGEX = re.compile(r".*,\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{6,7})))\)?$")
+LAT_REGEX = re.compile(r"^\(?([-+]?(?:[1-8]?\d(?:\.\d{5,7})|90(?:\.0+)?)),")
+LONG_REGEX = re.compile(r".*,\s*([-+]?(?:180(?:\.0+)?|(?:(?:1[0-7]\d)|(?:[1-9]?\d))(?:\.\d{5,7})))\)?$")
 
 
 def critical_exit(msg):
@@ -206,7 +206,10 @@ def parse_state(state, text):
             if link_url:
                 entry["links"].append(link_url)
                 entry["links_v2"].append(
-                    {"url": link_url, "text": link_text,}
+                    {
+                        "url": link_url,
+                        "text": link_text,
+                    }
                 )
             else:
                 print("Data build failed, exiting")
