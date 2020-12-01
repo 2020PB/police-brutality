@@ -3104,7 +3104,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-164
 
-geolocation: 45.51587,-122.677982
+geolocation: 45.515870,-122.677982
 
 **Links**
 
