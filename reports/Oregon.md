@@ -1990,26 +1990,29 @@ Early in the morning on July 19th, police arrest the driver of the Snack Van, a 
 
 An officer approaches a car behind the Snack Van and appears to say, "You're next. If I see you again, I'm blowing out your tires."
 
+The arrest occurred near 4th and Yamhill.
+
 tags: abuse-of-power, arrest, protester, threaten
 
 id: or-portland-108
 
-geolocation: 
+geolocation: 45.5181745,-122.6767151
 
 **Links**
 
 * https://twitter.com/ekkabeen/status/1284454435473637377
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-108.1.mp4)
 
 
 ### Federal agents shoot at protesters behind fence | July 19th
 
-Footage shows protesters and federal agents separated by a chain-link fence. Protesters are shouting at officers. Riot guns can be heard firing at protesters.
+Footage shows protesters and federal agents separated by a chain-link fence outside the US District Courthouse. Protesters are shouting at officers. Riot guns can be heard firing at protesters.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-109
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2018,7 +2021,7 @@ geolocation:
 
 ### Journalist displays wound received | July 19th
 
-A journalist shows a wound he received from an impact munition while filming embedded in the crowd. He states he was holding his press badge up.
+A journalist shows a wound he received from an impact munition while filming embedded in the crowd outside the US District Courthouse. He states he was holding his press badge up.
 
 He states he received medical care, but had trouble breathing and left the protest for the night.
 
@@ -2026,7 +2029,7 @@ tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-110
 
-geolocation: 
+geolocation: 45.5157426,-122.6768636
 
 **Links**
 
@@ -2038,13 +2041,13 @@ geolocation:
 
 ### Federal agents fire tear gas, impact munitions and flashbangs at protesters | July 19th
 
-Footage from the evening of July 19th shows the initial push by federal officers to move protesters away from the Justice Center. In a 20 minute engagement beginning just before midnight, officers fired considerable tear gas, impact munitions (including pepper balls and rubber bullets) and flashbangs at protesters, pushing them into the park and down the street. Victims include protesters, Moms Against Police Brutality and journalists. One Mom Against Police Brutality tear-gassed the previous day was pregnant; it is unknown if she was present at this incident.
+Footage from the evening of July 19th shows the initial push by federal officers to move protesters away from the US District Courthouse. In a 20 minute engagement beginning just before midnight, officers fired considerable tear gas, impact munitions (including pepper balls and rubber bullets) and flashbangs at protesters, pushing them into the park and down the street. Victims include protesters, Moms Against Police Brutality and journalists. One Mom Against Police Brutality tear-gassed the previous day was pregnant; it is unknown if she was present at this incident.
 
 tags: journalist, less-lethal, pepper-ball, protester, rubber-bullet, shoot, stun-grenade, tear-gas
 
 id: or-portland-111
 
-geolocation: 
+geolocation: 45.5157769,-122.6774779
 
 **Links**
 
@@ -2067,7 +2070,7 @@ geolocation:
 
 ### Federal agents continue to push protesters | July 20th
 
-In the second part of a push by Federal agents, after a lull ending or-portland-111, officers resumed pushing protesters down the street. They continued to deploy tear gas, pepper balls, rubber bullets and flashbangs in an effort to move the protest down the street.
+In the second part of a push by Federal agents down SW Main, after a lull ending or-portland-111, officers resumed pushing protesters down the street. They continued to deploy tear gas, pepper balls, rubber bullets and flashbangs in an effort to move the protest down the street.
 
 Tear gas engulfed the Riot Ribs mutual aid tents which provided food, water, medical aid and other supplies to protesters and homeless folks in the area.
 
@@ -2075,7 +2078,7 @@ tags: less-lethal, medic, pepper-ball, property-destruction, protester, rubber-b
 
 id: or-portland-112
 
-geolocation: 
+geolocation: 45.5157769,-122.6774779
 
 **Links**
 
@@ -2089,28 +2092,29 @@ geolocation:
 
 ### Federal officer fire tear gas during retreat, filmer shot in hand | July 20th
 
-After the push in or-portland-112, federal officers began to retreat from the crowd, firing tear gas and other impact munitions. Footage shows an explosive projectile striking the filmer in the hand before the footage ends.
+After the push in or-portland-112, federal officers began to retreat from the crowd at 4th and Main, firing tear gas and other impact munitions. Footage shows an explosive projectile striking the filmer in the hand before the footage ends.
 
 tags: explosive, less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-113
 
-geolocation: 
+geolocation: 45.51587,-122.677982
 
 **Links**
 
 * https://twitter.com/PDXAndy_/status/1285111515897421825
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-113.1.mp4)
 
 
 ### Federal officers fire tear gas and pepper balls at protesters | July 20th
 
-Protesters with hands up are seen opposite the Justice Center around 1 AM PST. Clouds of tear gas are seen on the street. Additional munitions can be heard throughout the footage.
+Protesters with hands up are seen opposite the US District Courthouse around 1 AM PST. Clouds of tear gas are seen on the street. Additional munitions can be heard throughout the footage.
 
 tags: less-lethal, pepper-ball, protester, shoot, tear-gas
 
 id: or-portland-116
 
-geolocation: 
+geolocation: 45.5156595,-122.6769109
 
 **Links**
 
@@ -2121,11 +2125,13 @@ geolocation:
 
 Footage from a journalist shows officers firing tear gas and impact munitions down the street at protesters. At 7:05, the journalist is shot in the stomach with an impact munition. He is standing well away from protesters and states he has written "press" clearly on his helmet.
 
+This appears to have occurred on Main Street, between 3rd and 4th Avenues.
+
 tags: journalist, less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-114
 
-geolocation: 
+geolocation: 45.515732,-122.6773736
 
 **Links**
 
@@ -2134,13 +2140,13 @@ geolocation:
 
 ### Indiscriminate tear gas after protesters light small fire | July 20th
 
-After protesters allegedly lit a small fire, federal officers fired tear gas indiscriminately into the park, though according to the poster, most protesters were not in the park. Footage shows substantial clouds of tear gas with no protesters nearby.
+After protesters allegedly lit a small fire, federal officers fired tear gas indiscriminately into the Lownsdale and Chapman Squares, though according to the poster, most protesters were not in these areas. Footage shows substantial clouds of tear gas with no protesters nearby.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-115
 
-geolocation: 
+geolocation: 45.515732,-122.6773736
 
 **Links**
 
@@ -2149,13 +2155,13 @@ geolocation:
 
 ### Journalist shot in leg | July 20th
 
-First-person footage shows a journalist groaning in pain after he is shot. Later footage shows a medic treating his leg. And a final image from another journalists confirms he is okay.
+First-person footage shows a journalist groaning in pain after he is shot near 3rd and Main. Later footage shows a medic treating his leg. And a final image from another journalists confirms he is okay.
 
 tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-117
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2168,11 +2174,13 @@ geolocation:
 
 A journalist interviewed a bandaged protester who was allegedly struck by officers with a munition in the head. The protester says he believes it was a a flashbang, because there was a ringing in his ears. He says that protest medics treated him at the scene. The journalist pans over the top of his head; the skin is red and there are traces of blood still on his scalp.
 
+The interview appears to be conducted down the street from the US District Courthouse, the focal point of the protest.
+
 tags: explosive, less-lethal, projectile, protester
 
 id: or-portland-263
 
-geolocation: 
+geolocation: 45.5156595,-122.6769109
 
 **Links**
 
@@ -2181,7 +2189,7 @@ geolocation:
 
 ### Federal officers retaliate to protesters with tear gas, flashbangs and impact munitions | July 21st
 
-After a small group of protesters damaged the plywood barricade on the Justice Center doors around 12:30 AM PST, federal agents emerged from the Justice Center and deployed a variety of riot control munitions against all protesters for a period lasting about half an hour. These munitions include tear gas, flashbangs and unknown less-lethal projectiles.
+After a small group of protesters damaged the plywood barricade on the US District Courthouse doors around 12:30 AM PST, federal agents emerged from the US District Courthouse and deployed a variety of riot control munitions against all protesters for a period lasting about half an hour. These munitions include tear gas, flashbangs and unknown less-lethal projectiles.
 
 Prior to emerging, officers dropped a tear gas canister out of a window in the barricade, seen [here](https://twitter.com/ByMikeBaker/status/1285465270685859841).
 
@@ -2191,7 +2199,7 @@ One reporter [states](https://twitter.com/ByMikeBaker/status/1285465270685859841
 
 [This footage](https://twitter.com/defendpdx/status/1285481849372831749) shows officers throwing explosives at a protester attempting to collect garbage from the street.
 
-It appears that protesters did damage part of the plywood barricade around the Justice Center doors, seen [here](https://twitter.com/ByMikeBaker/status/1285482389628583936).
+It appears that protesters did damage part of the plywood barricade around the US District Courthouse doors, seen [here](https://twitter.com/ByMikeBaker/status/1285482389628583936).
 
 An [image](https://twitter.com/ProudBulba/status/1285671820637732867) from a protester shows a wound received allegedly at this protest. The protester also displays the projectile that hit her, a pepper ball.
 
@@ -2201,7 +2209,7 @@ tags: grab, less-lethal, pepper-ball, projectile, property-destruction, proteste
 
 id: or-portland-118
 
-geolocation: 
+geolocation: 45.5159068,-122.6767751
 
 **Links**
 
@@ -2229,13 +2237,13 @@ geolocation:
 
 ### Indiscriminate shooting of less-lethal projectiles | July 21st
 
-Footage shows a federal officer firing a riot gun with a paintball frame - like a pepper ball round - at protesters gathered on the far side of the street. Some protesters are crouched behind signs and umbrellas, but there is no evident threat to the officer.
+Footage shows a federal officer firing a riot gun with a paintball frame - likely a pepper ball round - at protesters gathered on Main Street, across 3rd Avenue from the officers. Some protesters are crouched behind signs and umbrellas, but there is no evident threat to the officer.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-119
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2244,7 +2252,7 @@ geolocation:
 
 ### Federal officers shoot at reporter | July 21st
 
-Footage shows federal officers shooting at a woman wearing a yellow press vest, a helmet labeled PRESS, and carrying a press badge. After she is shot at, other journalists and protesters shout that she is press.
+Footage from 3rd and Salmon shows federal officers shooting at a woman wearing a yellow press vest, a helmet labeled PRESS, and carrying a press badge. After she is shot at, other journalists and protesters shout that she is press.
 
 Officers also continue to fire tear gas throughout this incident.
 
@@ -2252,7 +2260,7 @@ tags: journalist, less-lethal, projectile, shoot, tear-gas
 
 id: or-portland-120
 
-geolocation: 
+geolocation: 45.5162412,-122.6765964
 
 **Links**
 
@@ -2262,7 +2270,7 @@ geolocation:
 
 ### Federal officers retaliate to fire and thrown water bottles | July 21st
 
-After protesters light small fire and throw water bottles at Justice Center around 2:30 AM PST, federal police emerge and fire various munitions at protesters. These munitions include tear gas, impact munitions and flashbangs.
+After protesters light small fire and throw water bottles at the US District Courthouse around 2:30 AM PST, federal police emerge and fire various munitions at protesters. These munitions include tear gas, impact munitions and flashbangs.
 
 Footage from [here](https://twitter.com/defendpdx/status/1285513893146619904) and [here](https://twitter.com/defendpdx/status/1285515077848666113) shows protesters returning to food and supply stations in the park after police retreated. Tables have been overturned and much of the supplies have been destroyed.
 
@@ -2274,7 +2282,7 @@ tags: foam-bullet, less-lethal, projectile, property-destruction, protester, sho
 
 id: or-portland-121
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2301,25 +2309,27 @@ tags: journalist, less-lethal, pepper-spray, protester, shove, spray
 
 id: or-portland-123
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
 * https://twitter.com/itsmikebivins/status/1285480935098667008
 * https://twitter.com/itsmikebivins/status/1285486725406457856
+* [1st Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-123.1.mp4)
+* [2nd Archive Link](https://web.archive.org/web/20200830160001/https://twitter.com/itsmikebivins/status/1285486725406457856)
 
 
 ### Federal officers use tear gas to push protesters | July 21st
 
-Shortly before midnight on July 21st, federal officers used a variety of munitions to push protesters away from the Justice Center. Munitions include flashbangs, tear gas and impact munitions.
+Shortly before midnight on July 21st, federal officers used a variety of munitions to push protesters away from the US District Courthouse. Munitions include flashbangs, tear gas and impact munitions.
 
-The footage shows a push back and forth between federal officers and a shield wall of protesters, ending in protesters deploying fireworks and smoke to push federal officers back into the Justice Center.
+The footage shows a push back and forth between federal officers and a shield wall of protesters, ending in protesters deploying fireworks and smoke to push federal officers back into the US District Courthouse.
 
 tags: journalist, legal-observer, less-lethal, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-125
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2335,13 +2345,13 @@ geolocation:
 
 ### Flashbang thrown at press and legal observers | July 21st
 
-Footage from shortly before midnight on July 21st shows press and legal observers hit by a flashbang, as well as a protester shot by a projectile.
+Footage from 3rd and Salmon, shortly before midnight on July 21st shows press and legal observers hit by a flashbang, as well as a protester shot by a projectile.
 
 tags: journalist, legal-observer, less-lethal, projectile, protester, shoot, stun-grenade
 
 id: or-portland-126
 
-geolocation: 
+geolocation: 45.5162412,-122.6765964
 
 **Links**
 
@@ -2350,13 +2360,13 @@ geolocation:
 
 ### Moms Against Police Brutality tear-gassed | July 21st
 
-Right before midnight on July 21st, federal officers fired tear gas at the group, Moms Against Police Brutality. The Moms had locked arms and were standing still.
+Right before midnight on July 21st, federal officers fired tear gas at the group, Moms Against Police Brutality. The Moms had locked arms and were standing still near 3rd and Main.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-130
 
-geolocation: 
+geolocation: 45.5156595,-122.6769109
 
 **Links**
 
@@ -2368,13 +2378,13 @@ geolocation:
 
 ### Officer destroys individual's flashlight | July 21st
 
-Footage from July 21st shows Portland police and a federal officers in a scuffle with a protester carrying a shield with a camera mounted in it. The individual is not labeled press, but carries a camera and is called press by the filmer. Officers attempt to push the individual out of the street onto the sidewalk. A federal officer steals the individual's flashlight and later stomps on it for unknown reason. The officer then kicks the remnants back towards the individual.
+Footage from July 21st shows Portland police and a federal officers in a scuffle near 4th and Main. The protester is carrying a shield with a camera mounted in it. The individual is not labeled press, but carries a camera and is called press by the filmer. Officers attempt to push the individual out of the street onto the sidewalk. A federal officer steals the individual's flashlight and later stomps on it for unknown reason. The officer then kicks the remnants back towards the individual.
 
 tags: abuse-of-power, property-destruction
 
 id: or-portland-157
 
-geolocation: 
+geolocation: 45.51587,-122.677982
 
 **Links**
 
@@ -2383,28 +2393,31 @@ geolocation:
 
 ### Protester bowing on sidewalk is pepper sprayed | July 21st
 
-A protester kneels then stands on the sidewalk, bowing repeatedly at officers. The officer line moves forward. If something is said to the protester, it is not audible in the footage. An officer then shoves the protester, who is standing still. The protester steps back. Another officer then pepper sprays the protester.
+A protester kneels then stands on the sidewalk at 3rd and Main, bowing repeatedly toward officers. The officer line moves forward. If something is said to the protester, it is not audible in the footage. An officer then shoves the protester, who is standing still. The protester steps back. Another officer then pepper sprays the protester.
 
 tags: less-lethal, pepper-spray, protester, shove, spray
 
 id: or-portland-194
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
 * https://twitter.com/begoniacloak/status/1285516032459673600
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-194.1.mp4)
 
 
 ### History professor shot in head | July 21st
 
 The chair of the history department at Lewis & Clark College states she attended a protest on July 21st. After being tear gassed, she was struck in the head by an impact munition. Several protest medics, including some members of Rosehip Medic Collective, administered first aid before bringing her to the hospital. A later report states she suffered a black eye and a concussion.
 
+The exact location is unknown, but likely occurred at or near the US District Courthouse.
+
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-200
 
-geolocation: 
+geolocation: 45.5159068,-122.6767751
 
 **Links**
 
@@ -2416,13 +2429,13 @@ geolocation:
 
 ### Protester shoved onto tear gas canister, which then explodes | July 22nd
 
-During a series of events around 1 AM outside the Justice Center, a federal officer grabs a protester and throws him to the ground. The protester lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protester.
+During a series of events around 1 AM outside the US District Courthouse, a federal officer grabs a protester and throws him to the ground. The protester lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protester.
 
 tags: less-lethal, protester, shove, tear-gas, tear-gas-canister, throw
 
 id: or-portland-127
 
-geolocation: 
+geolocation: 45.5159068,-122.6767751
 
 **Links**
 
@@ -2431,13 +2444,13 @@ geolocation:
 
 ### Photographer shoved onto their back | July 22nd
 
-Footage from around 1:30 AM outside the Justice Center shows a federal officer shoving an individual to the ground. The individual was standing still and holding a large camera.
+Footage from around 1:30 AM outside the US District Courthouse shows a federal officer shoving an individual to the ground. The individual was standing still and holding a large camera.
 
 tags: journalist, shove
 
 id: or-portland-128
 
-geolocation: 
+geolocation: 45.5159068,-122.6767751
 
 **Links**
 
@@ -2446,13 +2459,13 @@ geolocation:
 
 ### Federal officers use flashbangs, tear gas and impact munitions to push protesters | July 22nd
 
-During a series of events around 1 AM outside the Justice Center, federal officers emerge from the building to douse a small fire lit apparently by protesters. Officers then push protesters back through the park. Protesters eventually push officers back inside the building. Throughout the series of events, officers fire flashbangs, tear gas and less-lethal projectiles liberally.
+During a series of events around 1 AM outside the US District Courthouse, federal officers emerge from the building to douse a small fire lit apparently by protesters. Officers then push protesters down Main Street. Protesters eventually push officers back inside the building. Throughout the series of events, officers fire flashbangs, tear gas and less-lethal projectiles liberally.
 
 tags: less-lethal, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-129
 
-geolocation: 
+geolocation: 45.515783,-122.6775997
 
 **Links**
 
@@ -2472,17 +2485,17 @@ geolocation:
 
 ### Federal officers use flashbangs, tear gas and impact munitions to push protesters a third time | July 22nd
 
-In the final push of the night, federal officers once again used flashbangs, tear gas and less-lethal projectiles to push protesters out of the park. Protesters eventually retook the park, to find officers had destroyed much of the Riot Ribs medical tent, flipping tables and pepper-spraying supplies.
+In the final push of the night, federal officers once again used flashbangs, tear gas and less-lethal projectiles to push protesters down Main Street, out of Chapman and Lownsdale Squares. Protesters eventually returned to the squares, to find officers had destroyed much of the Riot Ribs medical tent, flipping tables and pepper-spraying supplies.
 
 Footage [here](https://twitter.com/defendpdx/status/1285866491275931649) shows officers charging at the crowd, at which point a protester launched a firework. Officers then continued to deploy riot control munitions.
 
-The officers appear to have exited the building initially because protesters were tearing at the building's plywood barricade.
+The officers appear to have initially exited the US District Courthouse because protesters were tearing at the building's plywood barricade.
 
 tags: less-lethal, projectile, property-destruction, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-131
 
-geolocation: 
+geolocation: 45.5156527,-122.6771482
 
 **Links**
 
@@ -2510,13 +2523,13 @@ geolocation:
 
 ### Federal officers make violent arrest | July 22nd
 
-Footage shows officers approaching a protester with their hands up. The camera pans away for a moment. When it returns, several officers have tackled the protester and appear to be striking and kicking them. Another officer approaches the filmer, a journalist, and backs her away.
+Footage of Chapman Square shows officers approaching a protester with their hands up. The camera pans away for a moment. When it returns, several officers have tackled the protester and appear to be striking and kicking them. Another officer approaches the filmer, a journalist, and backs her away.
 
 tags: arrest, kick, protester, strike, tackle
 
 id: or-portland-132
 
-geolocation: 
+geolocation: 45.5153952,-122.6776722
 
 **Links**
 
@@ -2525,7 +2538,7 @@ geolocation:
 
 ### Federal officers remove individuals from their vehicles | July 22nd
 
-Federal officers stop a car apparently caught between protesters and officers. Officers force the occupants to exit the vehicle. When the protesters become agitated as a result, officers fire flashbangs and push press down the street.
+Federal officers stop a car apparently caught between protesters and officers at 4th and Main. Officers force the occupants to exit the vehicle. When the protesters become agitated as a result, officers fire flashbangs and push press down the street.
 
 It is unclear what relation, if any, the occupants of the vehicle had to the protest. It is also unclear if the occupants were then arrested.
 
@@ -2533,7 +2546,7 @@ tags: abuse-of-power, bystander, less-lethal, protester, stun-grenade
 
 id: or-portland-133
 
-geolocation: 
+geolocation: 45.5158499,-122.6781006
 
 **Links**
 
@@ -2544,13 +2557,13 @@ geolocation:
 
 ### Federal officers shove protesters, chase journalists | July 22nd
 
-Footage shows federal officers emerging from the Justice Center. A handful of protesters stand at the edge of the sidewalk with their hands up. An officer shoves them into the street. The officer then brandishes his baton and chases nearby journalists, who flee.
+Footage shows federal officers emerging from the US District Courthouse. A handful of protesters stand at the edge of the sidewalk with their hands up. An officer shoves them into the street. The officer then brandishes his baton and chases nearby journalists, who flee.
 
 tags: abuse-of-power, journalist, protester, shove, threaten
 
 id: or-portland-134
 
-geolocation: 
+geolocation: 45.5156595,-122.6769109
 
 **Links**
 
@@ -2560,13 +2573,13 @@ geolocation:
 
 ### Journalist shot with rubber bullets | July 22nd
 
-Footage shows federal officers firing into the crowd as they retreat into the Justice Center. During this, the filmer states he was shot by a rubber bullet. An image shows the wound left by the projectile.
+Footage shows federal officers firing into the crowd as they retreat into the US District Courthouse. During this, the filmer states he was shot by a rubber bullet. An image shows the wound left by the projectile.
 
 tags: journalist, less-lethal, rubber-bullet, shoot
 
 id: or-portland-135
 
-geolocation: 
+geolocation: 45.5156595,-122.6769109
 
 **Links**
 
@@ -2576,13 +2589,13 @@ geolocation:
 
 ### Federal officer tackles two protesters | July 22nd
 
-Footage shows a federal officer running up to two protesters from behind, grabbing them by the neck, then tackling them to the ground. The protesters attempt to clear out. The officer shoves one of those protesters as he tries to stand, then shoves another protester standing nearby.
+Footage taken outside the US District Courthouse shows a federal officer running up to two protesters from behind, grabbing them by the neck, then tackling them to the ground. The protesters attempt to clear out. The officer shoves one of those protesters as he tries to stand, then shoves another protester standing nearby.
 
 tags: protester, shove, tackle
 
 id: or-portland-136
 
-geolocation: 
+geolocation: 45.5158255,-122.6768183
 
 **Links**
 
@@ -2593,21 +2606,24 @@ geolocation:
 
 First person footage from a livestreamer shows a tear gas canister shot at the livestreamer. It then strikes him. Images show the wound he received.
 
+This occurred near 3rd and Main.
+
 tags: journalist, less-lethal, tear-gas-canister
 
 id: or-portland-140
 
-geolocation: 
+geolocation: 45.5156185,-122.6770321
 
 **Links**
 
-* https://mobile.twitter.com/chefboykhari/status/1285967763878494213
-* https://mobile.twitter.com/chefboykhari/status/1285968225243561984
+* https://twitter.com/chefboykhari/status/1285967763878494213
+* https://twitter.com/chefboykhari/status/1285968225243561984
+* https://twitter.com/chefboykhari/status/1286419252543541248
 
 
 ### Federal officers use excessive force to push protesters | July 22nd
 
-After protesters fire flares and roman candles across the fence, small fires begin in the courtyard. In addition, protesters tear a small breach in the fence.
+After protesters fire flares and roman candles across the US District Courthouse fence, small fires begin in the courtyard. In addition, protesters tear a small breach in the fence.
 
 Federal officers deploy tear gas, flashbangs and impact munitions in massive quantities at protesters separated from them by a fence.
 
@@ -2619,7 +2635,7 @@ tags: less-lethal, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-137
 
-geolocation: 
+geolocation: 45.5159923,-122.6767309
 
 **Links**
 
@@ -2636,7 +2652,7 @@ geolocation:
 
 ### Portland mayor caught in tear gas | July 22nd
 
-Portland mayor Ted Wheeler attended protests on July 22nd alongside protesters. Federal officers fired tear gas into the area, gassing Ted Wheeler. The mayor and other protesters aound him appear to be standing still, causing no damage.
+On July 22nd, Portland mayor Ted Wheeler attended protests outside the US District Courthouse. Federal officers fired tear gas into the area, gassing Ted Wheeler. The mayor and other protesters aound him appear to be standing still, causing no damage.
 
 In an interview with a journalist after the gassing, Wheeler states that he saw nothign justifying the response from federal officers. He calls the situation an "egregious overreaction." Less lethal rounds can be heard in the background.
 
@@ -2644,7 +2660,7 @@ tags: less-lethal, politician, protester, tear-gas
 
 id: or-portland-142
 
-geolocation: 
+geolocation: 45.5160732,-122.6766882
 
 **Links**
 
@@ -2656,15 +2672,15 @@ geolocation:
 
 ### Officer throws explosive at reporter | July 22nd
 
-Footage shows an officer lobbing an explosive over the fence, nearly striking the filmer, a reporter. However, the projectile explodes in midair before reaching the journalist.
+Footage shows an officer lobbing an explosive over the US District Courthouse fence, nearly striking the filmer, a reporter. However, the projectile explodes in midair before reaching the journalist.
 
-The journalist refers to the projectile as "a spicy present," where the phrase "spicy" is generally used to refer to tear gas.
+The journalist refers to the projectile as "a spicy present;" "spicy" has become a common vernacular for tear gas among protesters.
 
 tags: explosive, journalist, less-lethal, projectile
 
 id: or-portland-143
 
-geolocation: 
+geolocation: 45.5162412,-122.6765964
 
 **Links**
 
@@ -2673,7 +2689,7 @@ geolocation:
 
 ### Two protesters hospitalized after being shot by less-lethal munitions | July 22nd
 
-Two individuals who attended protests in Portland on July 22nd have been hospitalized for injuries sustained from less lethal rounds used by federal officers.
+Two individuals who attended protests in Portland on July 22nd have been hospitalized for injuries sustained from less lethal rounds used by federal officers near 3rd and Madison.
 
 One protester was shot in the head just below his helmet. A medic who attended him on site says he lost consciousness repeatedly on the way to the hospital. A CT scan revealed metal shrapnel in his head. The protester is now home and is expected to make a full recovery.
 
@@ -2683,7 +2699,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-186
 
-geolocation: 
+geolocation: 45.5149116,-122.6772692
 
 **Links**
 
@@ -2692,13 +2708,13 @@ geolocation:
 
 ### Federal officers again use excessive force to push protesters | July 23rd
 
-Approximately one hour after the events of or-portland-137 began, officers again emerged from the Justice Center to douse a small fire and push protesters back usinig tear gas, flashbangs and impact munitions. Officers then continued to push protesters onto Salmon and W 3rd, well past the borders of the Justice Center fence.
+Approximately one hour after the events of or-portland-137 began, officers again emerged from the US District Courthouse to douse a small fire and push protesters back usinig tear gas, flashbangs and impact munitions.
 
 tags: less-lethal, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-138
 
-geolocation: 
+geolocation: 45.5161982,-122.6766199
 
 **Links**
 
@@ -2712,13 +2728,13 @@ geolocation:
 
 ### Federal officers deploy tear gas a second time | July 23rd
 
-Around 3 AM on July 23rd, federal officers deploy tear gas against protesters in the park as protesters had gathered around a statue, allegedly attempting to tear it down.
+Around 3 AM on July 23rd, federal officers deploy tear gas against protesters in the park as protesters had gathered around a statue in Lownsdale Square, allegedly attempting to tear it down.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-144
 
-geolocation: 
+geolocation: 45.5160628,-122.6773818
 
 **Links**
 
@@ -2727,7 +2743,7 @@ geolocation:
 
 ### Federal officers drag protester away, fire munitions at crowd to cover | July 23rd
 
-Around 1:30 AM on July 23rd, federal officers are seen scuffling with protesters at the entrance to the fence surrounding the Justice Center. Protesters had broken the lock on the fence, opening the gate.
+Around 1:30 AM on July 23rd, federal officers are seen scuffling with protesters at the entrance to the fence surrounding the US District Courthouse. Protesters had broken the lock on the fence, opening the gate.
 
 Federal officers seize a woman and close the fence again. Officers drag the woman away, presumably to arrest her. They also fix the fence, securing the lock again. Officers then fire impact munitions and pepper spray through the fence.
 
@@ -2735,7 +2751,7 @@ tags: grab, less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: or-portland-141
 
-geolocation: 
+geolocation: 45.5162412,-122.6765964
 
 **Links**
 
@@ -2744,13 +2760,13 @@ geolocation:
 
 ### Federal officer kicks tear gas at protesters, fires at short range | July 23rd
 
-Footage shows a federal officer kicking a tear gas canister towards protesters on the opposite sides of a fence. One protester yells at him. The officer then fires a tear gas canister at the protester at short range, presumably striking the fence.
+Footage shows a federal officer kicking a tear gas canister towards protesters on the opposite sides of the District Courthouse fence. One protester yells at him. The officer then fires a tear gas canister at the protester at short range, presumably striking the fence.
 
 tags: less-lethal, protester, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-145
 
-geolocation: 
+geolocation: 45.5159923,-122.6767309
 
 **Links**
 
@@ -2759,13 +2775,13 @@ geolocation:
 
 ### Federal officers fire tear gas in response to fire | July 24th
 
-In response to a small trash fire started by protesters, federal officers fire a considerable amount of tear gas at the fence, much of it landing on the officers' own side.
+In response to a small trash fire started by protesters in the District Courthouse fence, federal officers fire a considerable amount of tear gas at the fence, much of it landing on the officers' own side.
 
 tags: less-lethal, protester, shoot, tear-gas
 
 id: or-portland-146
 
-geolocation: 
+geolocation: 45.5158255,-122.6768183
 
 **Links**
 
@@ -2775,13 +2791,13 @@ geolocation:
 
 ### Journalist shot in hand with explosive | July 24th
 
-Around 1:30 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a journalist films an explosive projectile shot in their direction. The projectile explodes, striking the journalist in the hand.
+Around 1:30 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a journalist films an explosive projectile shot in their direction at 3rd and Main. The projectile explodes, striking the journalist in the hand.
 
 tags: explosive, journalist, less-lethal, projectile, shoot
 
 id: or-portland-147
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2790,13 +2806,13 @@ geolocation:
 
 ### Protesters struck in face | July 24th
 
-Footage shows a protester standing in the way of federal officers attempting to cross the fence. An officer strikes him in the face with their baton, even after the protester has begun moving backward.
+Footage shows a protester standing in the way of federal officers attempting to cross the District Courthouse fence at 3rd and Salmon. An officer strikes him in the face with their baton, even after the protester has begun moving backward.
 
 tags: baton, protester, strike
 
 id: or-portland-148
 
-geolocation: 
+geolocation: 45.5161982,-122.6766199
 
 **Links**
 
@@ -2805,13 +2821,13 @@ geolocation:
 
 ### Federal officer fire second round of tear gas | July 24th
 
-Around 1:15 AM on July 24th, federal officers declared an unlawful assembly and began pushing protesters north from the Justice Center using tear gas and impact munitions, allegedly pepper balls. The justification for the unlawful assembly declaration appears to be fireworks and a second small trash fire.
+Around 1:15 AM on July 24th, federal officers declared an unlawful assembly and began pushing protesters north from the US District Courhouse using tear gas and impact munitions, allegedly pepper balls. The justification for the unlawful assembly declaration appears to be fireworks and a second small trash fire.
 
 tags: less-lethal, pepper-ball, protester, shoot, tear-gas
 
 id: or-portland-149
 
-geolocation: 
+geolocation: 45.5161982,-122.6766199
 
 **Links**
 
@@ -2827,13 +2843,13 @@ geolocation:
 
 ### Journalist shot, allegedly in the face | July 24th
 
-Around 4 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a clearly marked member of the press stands at a gap between pieces of fencing. She appears to be filming officers. Several shots are fired and the impact can be seen as they ricochet off her arm. The filmer alleges that at least one projectile struck her in the face.
+Around 4 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a clearly marked member of the press stands at a gap between pieces of District Courthouse fencing. She appears to be filming officers. Several shots are fired and the impact can be seen as they ricochet off her arm. The filmer alleges that at least one projectile struck her in the face.
 
 tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-150
 
-geolocation: 
+geolocation: 45.5161982,-122.6766199
 
 **Links**
 
@@ -2842,7 +2858,7 @@ geolocation:
 
 ### Officers fire tear gas at protesters without apparent cause | July 24th
 
-Around 1 AM on July 24th, protesters and federal officers stand off in the street. One protester walks between the two lines, shouting on a megaphone. Without warning, federal officers fire tear gas at the group of protesters.
+Around 1 AM on July 24th, protesters and federal officers stand off in the street at 4th and Salmon. One protester walks between the two lines, shouting on a megaphone. Without warning, federal officers fire tear gas at the group of protesters.
 
 During this incident, a protester steps forward and stands with his back facing officers. An officer runs forward and kicks a tear gas canister at the protester.
 
@@ -2850,7 +2866,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-151
 
-geolocation: 
+geolocation: 45.516566,-122.677593
 
 **Links**
 
@@ -2860,13 +2876,13 @@ geolocation:
 
 ### Officers fire tear gas as they leave the scene | July 24th
 
-As federal officers retreat into the Justice Center, they fire tear gas at a group of protesters on the opposite side of the fence. There is no fire, there are no objects thrown by protesters, so justification for the tear gas is unclear.
+As federal officers retreat into the US District Courthouse, they fire tear gas at a group of protesters on the opposite side of the fence. There is no fire, there are no objects thrown by protesters, so justification for the tear gas is unclear.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-152
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2875,13 +2891,13 @@ geolocation:
 
 ### Federal officers respond to breach in fence with tear gas | July 24th
 
-After protesters manage to create a small breach in the fence surrounding the Justice Center around 1:45 AM, federal officers emerge to push protesters back using tear gas, pepper balls and flashbangs. Officers pushed protesters down the street before protesters were able to reform a shield wall and slowly push officers back towards the Justice Center. Footage shows a considerable amount of munitions used and protesters suffering from negative effects of prolonged tear gas exposure, like [here](https://twitter.com/hungrybowtie/status/1286588583067807745)
+After protesters manage to create a small breach in the fence surrounding the U.S. District Courthouse around 1:45 AM, federal officers emerge to push protesters back using tear gas, pepper balls and flashbangs. Officers pushed protesters down the street before protesters were able to reform a shield wall and slowly push officers back toward the courthouse. Footage shows a considerable amount of munitions used and protesters suffering from negative effects of prolonged tear gas exposure, like [here](https://twitter.com/hungrybowtie/status/1286588583067807745)
 
 tags: less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-153
 
-geolocation: 
+geolocation: 45.515573,-122.6769583
 
 **Links**
 
@@ -2897,13 +2913,13 @@ geolocation:
 
 ### Journalist struck in hand and knee by tear gas canister | July 24th
 
-Footage from a journalist shows blood on his hand and knee, which he says was sustained by a tear gas canister which struck him while he was sitting down. This comes hours after a U.S. District Court Order against federal troops harming journalists.
+Footage from a journalist shows blood on his hand and knee, which he says was sustained by a tear gas canister which struck him while he was sitting down near 4th and Main. This comes hours after a U.S. District Court Order against federal troops harming journalists.
 
 tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: or-portland-154
 
-geolocation: 
+geolocation: 45.51587,-122.677982
 
 **Links**
 
@@ -2913,13 +2929,13 @@ geolocation:
 
 ### Federal officers arrest woman dancing with flowers | July 24th
 
-Footage shows a woman dancing in front of officers with flowers in her hand. Officers grab her without warning. Another protester attempts to help the protester with flowers. Both are dragged away and arrested. Officers fire pepper balls at crowd to suppress protesters.
+Footage from 3rd and Salmon shows a woman dancing in front of officers with flowers in her hand. Officers grab her without warning. Another protester attempts to help the protester with flowers. Both are dragged away and arrested. Officers fire pepper balls at crowd to suppress protesters.
 
 tags: arrest, grab, less-lethal, pepper-ball, protester, shoot
 
 id: or-portland-155
 
-geolocation: 
+geolocation: 45.5161982,-122.6766199
 
 **Links**
 
@@ -2928,13 +2944,13 @@ geolocation:
 
 ### Federal officer tackle man to the ground | July 24th
 
-Footage shows a man walking down the street. Two federal officers charge up behind him and tackle him to the ground. From protester response, it appears that the man was not a protester.
+Footage shows a man walking down the street at 3rd and Salmon. Two federal officers charge up behind him and tackle him to the ground. From protester response, it appears that the man was not a protester.
 
 tags: arrest, bystander, tackle
 
 id: or-portland-156
 
-geolocation: 
+geolocation: 45.5161982,-122.6766199
 
 **Links**
 
@@ -3231,13 +3247,13 @@ geolocation: 45.5162729, -122.6767797
 
 ### Tear gas canister shot through window of car | July 26th
 
-An image shows the aftermath of a tear gas canister shot through the window of an empty parked car on SW 4th between Taylor and Yamhill.
+An image shows the aftermath of a tear gas canister shot through the window of an empty parked car on SW 4th between Taylor and Salmon.
 
 tags: bystander, less-lethal, property-destruction, tear-gas
 
 id: or-portland-169
 
-geolocation: 45.5176293, -122.6770152
+geolocation: 45.5168236,-122.6774529
 
 **Links**
 
