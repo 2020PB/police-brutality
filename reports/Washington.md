@@ -1,3 +1,23 @@
+## Everett
+
+### Protester arrested after dangling doughnut in front of officers | July 17th
+
+Footage shows a protester dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protester. The protester tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protester, stating, "It's time for you to go," evidently arresting the protester. Another officer states that the protester "assaulted a lieutenant." This same officer threatens other protesters to back off or they will go to jail. His badge number is covered by a piece of tape. Protesters then follow police to the entrance of a building where the original protester is being cuffed. Protesters and counter-protesters then argue with one another.
+
+The incident appears to be near the county courthouse complex.
+
+tags: abuse-of-power, arrest, hide-badge, protester, shove, threaten
+
+id: or-everett-1
+
+geolocation: 47.9779407, -122.2059514
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1284628789134229504
+* https://www.youtube.com/watch?v=iLHv642byAc
+
+
 ## Olympia
 
 ### Police respond to broken windows with excessive force | May 31st
@@ -37,7 +57,7 @@ tags: beat, protester, punch
 
 id: wa-seattle-2
 
-geolocation: 
+geolocation: 47.5991922, -122.3218263
 
 **Links**
 
@@ -545,13 +565,13 @@ geolocation: 47.6030859, -122.3283201
 
 ### Protester violently arrested | July 20th
 
-During protests in Seattle, some protesters walk past officers arresting a protester. Another officer pepper sprays these protesters. When a protester stops in the street after being pepper sprayed, they are grabbed and thrown to the ground. Another officer appears to kick the protester in the groin. Officers then pin the protester down to arrest them. When officers go to move the protester, the protester appears to be limp, apparently unconscious. Officers lift the protester off the ground and carry them away.
+During protests in Downtown Seattle, some protesters walk past officers arresting a protester. Another officer pepper sprays these protesters. When a protester stops in the street after being pepper sprayed, they are grabbed and thrown to the ground. Another officer appears to kick the protester in the groin. Officers then pin the protester down to arrest them. When officers go to move the protester, the protester appears to be limp, apparently unconscious. Officers lift the protester off the ground and carry them away.
 
 tags: arrest, grab, kick, knee, less-lethal, pepper-spray, protester, shove, spray, throw
 
 id: wa-seattle-29
 
-geolocation: 
+geolocation: 47.6054117, -122.3530468
 
 **Links**
 
@@ -562,11 +582,13 @@ geolocation:
 
 Footage shows Seattle police pinning a protester down against a concrete barrier to arrest them. A nurse in scrubs grabs the protester. She says "something hit me in the ass," believed to be an impact munition She is then pepper sprayed.
 
+This incident occurred on Pine between Harvard and Broadway.
+
 tags: arrest, less-lethal, pepper-spray, projectile, protester, shoot, spray
 
 id: wa-seattle-30
 
-geolocation: 
+geolocation: 47.6152219, -122.3217589
 
 **Links**
 
@@ -579,11 +601,13 @@ geolocation:
 
 A protester standing about 20ft from police bangs a stick on the ground. Police then shoot him in the arm.
 
+The exact location of this incident is unclear, but protests occurred in Capitol Hill, on and around Pine Street.
+
 tags: less-lethal, projectile, protester, shoot
 
 id: wa-seattle-31
 
-geolocation: 
+geolocation: 47.6152218, -122.3216313
 
 **Links**
 
@@ -592,7 +616,7 @@ geolocation:
 
 ### Violent arrest made by police, tear gas deployed | July 25th
 
-Footage shows several officers grabbing a small woman to arrest her. She passively resists. Three officers then tackle her to the ground while another officer deploys tear gas against the crowd of protesters.
+Footage from Broadway and Pine shows several officers grabbing a small woman to arrest her. She passively resists. Three officers then tackle her to the ground while another officer deploys tear gas against the crowd of protesters.
 
 The incident appears to have been kicked off when a protester with a shield stepped between police and protesters. Additional footage also shows considerable use of pepper-spray
 
@@ -600,7 +624,7 @@ tags: arrest, grab, less-lethal, pepper-spray, protester, spray, tackle, tear-ga
 
 id: wa-seattle-32
 
-geolocation: 
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -610,22 +634,23 @@ geolocation:
 
 ### Police use bikes and pepper spray to push protesters | July 25th
 
-Footage shows police using their bikes to push protesters back. One officer discharges pepper spray against protesters obeying the order to move back. Another officer grabs an umbrella held out by a protester, breaking it.
+Footage shows police using their bikes to push protesters back near Pine and Nagle. One officer discharges pepper spray against protesters obeying the order to move back. Another officer grabs an umbrella held out by a protester, breaking it.
 
 tags: bike, less-lethal, pepper-spray, property-destruction, protester, spray
 
 id: wa-seattle-33
 
-geolocation: 
+geolocation: 47.6152759, -122.3199594
 
 **Links**
 
 * https://twitter.com/dailydigger19/status/1287194441858588672
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-33.1.mp4)
 
 
 ### Police make violent arrests and pepper spray crowd | July 25th
 
-Footage shows police dragging off a woman in handcuffs. Another woman grabs the protester, but (off camera) lets go and falls to the ground. Police pepper spray nearby protesters.
+Footage shows police dragging a woman in handcuffs at Pine and Broadway. Another woman grabs the protester, but (off camera) lets go and falls to the ground. Police pepper spray nearby protesters.
 
 The camera pans back to the protester on the ground. She is grabbed by an officer and walked away. She appears to be obeying the officer. She falls to the ground, passively resisting. The officer then holds her in what appears to be an arm bar, kneels on her, and arrests her.
 
@@ -633,7 +658,7 @@ tags: arrest, knee, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-34
 
-geolocation: 
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -648,7 +673,7 @@ tags: arrest, less-lethal, pepper-spray, protester, shove, spray, tackle
 
 id: wa-seattle-35
 
-geolocation: 
+geolocation: 47.6152218, -122.3216313
 
 **Links**
 
@@ -657,13 +682,13 @@ geolocation:
 
 ### Police shove and pepper spray press and protesters | July 25th
 
-Screen-capped footage from a journalist shows police pushing press and protesters back. The filmer, a journalist, says he cannot move quickly because there is a crowd of people behind him. Police shove him and other protesters and press, then discharge pepper spray.
+Screen-capped footage from a journalist shows police pushing press and protesters back near Pine and 10th. The filmer, a journalist, says he cannot move quickly because there is a crowd of people behind him. Police shove him and other protesters and press, then discharge pepper spray.
 
 tags: journalist, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-36
 
-geolocation: 
+geolocation: 47.6152444, -122.3191508
 
 **Links**
 
@@ -673,13 +698,13 @@ geolocation:
 
 ### Police pepper spray protesters on sidewalk | July 25th
 
-Police approach protesters standing on the sidewalk and hiding behind umbrellas. Officers flank and pepper spray them. A protester crossing the street is then pepper sprayed. An officer holding a bike swings the bike's rear tire in the air at protesters. Police continue to discharge pepper spray.
+Police approach protesters hiding behind umbrellas on the sidewalk near 10th and Pine. Officers flank and pepper spray them. A protester crossing the street is then pepper sprayed. An officer holding a bike swings the bike's rear tire in the air at protesters. Police continue to discharge pepper spray.
 
 tags: bike, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-37
 
-geolocation: 
+geolocation: 47.6152444, -122.3191508
 
 **Links**
 
@@ -694,7 +719,7 @@ tags: bystander, less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-seattle-38
 
-geolocation: 
+geolocation: 47.615225, -122.3207773
 
 **Links**
 
@@ -703,13 +728,13 @@ geolocation:
 
 ### Protester shot at point blank | July 25th
 
-Footage shows a protester standing about 3 feet away from police, holding a skateboard above his head. He appears to be speaking to police. Without warning, he is shot about about 6 times, in the groin, abdomen and shoulder. Firing at that range and at firing genital regions or above the breastbone are against recommended use of impact munitions.
+Footage from 11th and Pine shows a protester standing about 3 feet away from police, holding a skateboard above his head. He appears to be speaking to police. Without warning, he is shot about about 6 times, in the groin, abdomen and shoulder. Firing at that range and at firing genital regions or above the breastbone are against recommended use of impact munitions.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: wa-seattle-39
 
-geolocation: 
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -720,11 +745,13 @@ geolocation:
 
 A protester holding a bike and standing several feet away from police is pepper sprayed. Protesters shout, "He did nothing wrong. Whatthe fuck?" Another protester helps the pepper-sprayed protester back away from police. At the end of the video, another protester picks up the bike to walk it back.
 
+This incident occurred at Pine and Nagle.
+
 tags: less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-40
 
-geolocation: 
+geolocation: 47.6152813, -122.3200405
 
 **Links**
 
@@ -739,7 +766,7 @@ tags: arrest, grab, protester, shove, throw
 
 id: wa-seattle-41
 
-geolocation: 
+geolocation: 47.617716, -122.3193748
 
 **Links**
 
@@ -754,7 +781,7 @@ tags: arrest, knee, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-42
 
-geolocation: 
+geolocation: 47.6151981, -122.3182049
 
 **Links**
 
@@ -763,7 +790,7 @@ geolocation:
 
 ### Police fire tear gas at protesters following directions | July 25th
 
-Footage shows protesters walking peacefully in the direction specified by SPD. Police launch tear gas into the crowd. Justification is not clear.
+Footage shows protesters walking peacefully in the direction specified by SPD near Broadway and East Denny Way. Police launch tear gas into the crowd. Justification is not clear.
 
 Officers also appear to shove stragglers with their batons.
 
@@ -771,7 +798,7 @@ tags: baton, less-lethal, protester, push, shove, tear-gas
 
 id: wa-seattle-43
 
-geolocation: 
+geolocation: 47.6187642, -122.3211018
 
 **Links**
 
@@ -781,13 +808,13 @@ geolocation:
 
 ### Police shove and pepper spray protesters, grab signs | July 25th
 
-Footage shows police forcing protesters back and protesters obeying. Throughout the footage, police shove and pepper spray protesters. In addition, police snatch signs and umbrellas. Police also deploy tear gas.
+Footage shows police forcing protesters back up Harvard Avenue near Pine Stree. Protesters are obeying. Throughout the footage, police shove and pepper spray protesters. In addition, police snatch signs and umbrellas. Police also deploy tear gas.
 
 tags: less-lethal, pepper-spray, property-destruction, protester, push, shove, spray, tear-gas
 
 id: wa-seattle-44
 
-geolocation: 
+geolocation: 47.6155228, -122.3221322
 
 **Links**
 
@@ -799,11 +826,13 @@ geolocation:
 
 The filmer yells at police while he walks past them, calling them "a coward" or "a bitch." A police officer then pepper sprays him.
 
+This appears to occur in the parking lot of Rancho Bravo Tacos at Pine and 10th.
+
 tags: less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-45
 
-geolocation: 
+geolocation: 47.6152017, -122.3200929
 
 **Links**
 
@@ -812,13 +841,13 @@ geolocation:
 
 ### Police snatch and pepper spray protesters | July 25th
 
-Police on Pine Street surge forward, pepper spraying several protesters, then snatching others for arrest.
+Police at Pine and 11th surge forward, pepper spraying several protesters, then snatching others for arrest.
 
 tags: arrest, less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-46
 
-geolocation: 
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -828,13 +857,13 @@ geolocation:
 
 ### Police ride bikes into crowd and arrest protesters | July 25th
 
-Police on Pine Street again surged forward. This time, police on bikes ride into the crowd, jump off and tackle protesters for arrest.
+Police on Pine Street (between 10th and 11th) again surged forward. This time, police on bikes ride into the crowd, jump off and tackle protesters for arrest.
 
 tags: arrest, bike, protester, tackle
 
 id: wa-seattle-47
 
-geolocation: 
+geolocation: 47.6152481, -122.3184919
 
 **Links**
 
@@ -843,13 +872,13 @@ geolocation:
 
 ### Police use pepper spray to push protesters back | July 25th
 
-Police with batons push the crowd back, discharging pepper spray to speed protesters up.
+Police with batons push the crowd back at 1tth and Pine, discharging pepper spray to speed protesters up.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: wa-seattle-48
 
-geolocation: 
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -858,13 +887,13 @@ geolocation:
 
 ### Police charge and pepper-spray protesters | July 25th
 
-Footage shows police charging at protesters without warning and pepper-spraying them, including one protester lying on the ground. Police also strike protesters with batons and shove them.
+Footage from 11th and Pine shows police charging at protesters without warning and pepper-spraying them, including one protester lying on the ground. Police also strike protesters with batons and shove them.
 
 tags: baton, less-lethal, pepper-spray, protester, shove, spray, strike
 
 id: wa-seattle-49
 
-geolocation: 
+geolocation: 47.6152333, -122.3182451
 
 **Links**
 
@@ -876,11 +905,13 @@ geolocation:
 
 Video shows a cyclist who appears to be unassociated with the protest slowly approaching an area where cops and police vans are in the process of blocking off the street. A cop walking away from the camera clearly glances at the cyclist but doesn't appear to issue any warning and looks away. Presumably unaware of what's happening, the cyclist tries to ride through. The cop then suddenly rushes the cyclist and tackles them off the bicycle. Other cops converge to arrest the cyclist.
 
+The incident appears to have occurred near 12th and Pine.
+
 tags: arrest, bike, bystander, tackle
 
 id: wa-seattle-50
 
-geolocation: 
+geolocation: 47.6152866, -122.3168341
 
 **Links**
 
@@ -891,11 +922,13 @@ geolocation:
 
 An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protester. The victim appears to have suffered lacerations and bruising as a result of the impact.
 
+The exact location of this incident is unknown, but protests occurred primarily on Pine Street between Broadway and 12th.
+
 tags: less-lethal, protester, stun-grenade
 
 id: wa-seattle-51
 
-geolocation: 
+geolocation: 47.6152252, -122.3207071
 
 **Links**
 
@@ -904,13 +937,13 @@ geolocation:
 
 ### Protester struck in head by flashbang, gets 4 staples | July 25th
 
-Video shows the protester filming as police toss flash bangs and fire projectiles. He gets hit with something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
+Video taken by a protester at 11th and Pine shows police tossing stun grenades and shooting projectiles. The filmer is struck by something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
 
 tags: less-lethal, protester, stun-grenade
 
 id: wa-seattle-52
 
-geolocation: 
+geolocation: 47.6151981, -122.3182049
 
 **Links**
 
@@ -920,13 +953,13 @@ geolocation:
 
 ### Police violently push protesters down the street | July 25th
 
-Police push protesters down the street. Protester are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protesters. One protester appears to be directly hit. Police grab or shove protesters who are straggling and arrest them.
+Police push protesters down Pine between 10th and 11th. Protester are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protesters. One protester appears to be directly hit. Police grab or shove protesters who are straggling and arrest them.
 
 tags: arrest, explosive, grab, less-lethal, pepper-spray, protester, shove, spray
 
 id: wa-seattle-53
 
-geolocation: 
+geolocation: 47.6152444, -122.3191508
 
 **Links**
 
@@ -936,13 +969,13 @@ geolocation:
 
 ### Police pepper spray legal observer | July 25th
 
-A legal observer is seen filming a short distance from police. An officer then pepper sprays her in the face.
+A legal observer is seen filming a short distance from police near 11th and Pine. An officer then pepper sprays her in the face.
 
 tags: legal-observer, less-lethal, pepper-spray, spray
 
 id: wa-seattle-55
 
-geolocation: 
+geolocation: 47.6152896, -122.3181832
 
 **Links**
 
@@ -952,13 +985,13 @@ geolocation:
 
 ### Police tackle protesters in street | August 13th
 
-Police approach protesters standing in the street. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
+Police approach protesters standing in the street near 11th and Pine. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
 
 tags: arrest, baton, protester, push, shove
 
 id: wa-seattle-56
 
-geolocation: 
+geolocation: 47.6153176, -122.3181502
 
 **Links**
 
@@ -970,13 +1003,13 @@ geolocation:
 
 ### Police damage vehicles supporting protesters | August 14th
 
-Police walk behind a line of cars driving slowly to protect protesters ahead of them. Police overtake the cars and an officer smashes the window of one.
+Police walk behind a line of cars driving slowly to protect protesters ahead of them near Broadway and Thomas. Police overtake the cars and an officer smashes the window of one.
 
 tags: abuse-of-power, property-destruction, protester
 
 id: wa-seattle-57
 
-geolocation: 
+geolocation: 47.6210987, -122.3208649
 
 **Links**
 
@@ -986,13 +1019,13 @@ geolocation:
 
 ### Legal observer shoved to the ground | August 16th
 
-During a standoff between police and protesters, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
+During a standoff between police and protesters near the Seattle Police Officers Guild building, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
 
 tags: legal-observer, push, shove
 
 id: wa-seattle-58
 
-geolocation: 
+geolocation: 47.5761869, -122.3468958
 
 **Links**
 
@@ -1001,28 +1034,28 @@ geolocation:
 
 ### Police charge protesters without warning | August 16th
 
-Footage shows police and protesters separated from one another after police declared a riot. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
+Footage shows police and protesters separated from one another after police declared a riot near the Seattle Police Officers Guild building. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
 
 tags: bike, protester, shove
 
 id: wa-seattle-59
 
-geolocation: 
+geolocation: 47.5761869, -122.3468958
 
 **Links**
 
 * https://twitter.com/zmboop/status/1295242820786110469
 
 
-### Police on bicycles chase down and beat alleged protester | August 17th
+### Police on bicycles chase down and beat alleged protester | August 16th
 
-Footage shows several officers on bikes chasing after an individual believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
+Footage shows several officers on bikes chasing after an individual in the International District. The individual is believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
 
 tags: bike, protester, punch, shove, tackle
 
 id: wa-seattle-60
 
-geolocation: 
+geolocation: 47.5988346, -122.3246141
 
 **Links**
 
@@ -1033,11 +1066,13 @@ geolocation:
 
 Police are seen walking protesters, legal observers and journalists backwards. A journalist talks to police as they walk her. An officer then shoves her, knocking the phone out of her hand. The phone was allegedly confiscated and destroyed.
 
+This incident occurred at a vigil for Summer Taylor outside the Washington State Patrol building on East Roanoke.
+
 tags: journalist, property-destruction, shove
 
 id: wa-seattle-61
 
-geolocation: 
+geolocation: 47.642982, -122.3236502
 
 **Links**
 
@@ -1048,7 +1083,7 @@ geolocation:
 
 ### Police shove protesters, mace journalist, arrest drivers and damage cars | August 26th
 
-A journalist, Omari Salisbury, was livestreaming a protest in Seattle. About 5:30 into his livestream, he explains that police intend to push protesters back so they can remove vehicles in the street. Police begin shouting, "Move back," and shove protesters back. Police then mace protesters, as well as the journalist.
+A journalist, Omari Salisbury, was livestreaming a protest in Seattle near the Washington State Patrol Building on East Roanoke. About 5:30 into his livestream, he explains that police intend to push protesters back so they can remove vehicles in the street. Police begin shouting, "Move back," and shove protesters back. Police then mace protesters, as well as the journalist.
 
 Police then push protesters back past the cars, slamming one protester into a car (6:08).
 
@@ -1060,7 +1095,7 @@ tags: arrest, baton, journalist, less-lethal, pepper-spray, property-destruction
 
 id: wa-seattle-62
 
-geolocation: 
+geolocation: 47.642982, -122.3236502
 
 **Links**
 
@@ -1071,13 +1106,13 @@ geolocation:
 
 ### Police drag protester from car | September 4th
 
-Protesters on foot and in vehicles blocked an interstate for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
+Protesters on foot and in vehicles blocked I-5 near exit 168 for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
 
 tags: abuse-of-power, arrest, grab, protester
 
 id: wa-seattle-63
 
-geolocation: 
+geolocation: 47.6467988, -122.3228219
 
 **Links**
 
@@ -1097,7 +1132,7 @@ tags: arrest, bike, less-lethal, pepper-spray, protester, push, shove, spray, st
 
 id: wa-seattle-64
 
-geolocation: 
+geolocation: 47.5761869, -122.3468958
 
 **Links**
 
@@ -1114,7 +1149,7 @@ tags: protester, push, shove
 
 id: wa-seattle-65
 
-geolocation: 
+geolocation: 47.5761869, -122.3468958
 
 **Links**
 
@@ -1125,11 +1160,13 @@ geolocation:
 
 At a protest on September 15th, police targeted a community member for arrest. They pointed out the individual and told them they were arresting the protester. They then grabbed the protester and pepper sprayed the crowd. Several protesters are then thrown to the ground and arrested.
 
+The incident is believed to have occurred somewhere on 5th Avenue North.
+
 tags: arrest, less-lethal, pepper-spray, protester, spray, throw
 
 id: wa-seattle-66
 
-geolocation: 
+geolocation: 47.6244606, -122.3474776
 
 **Links**
 
@@ -1142,11 +1179,13 @@ A protester wearing a helmet is seen lying on the ground while SPD officers on b
 
 The officer has since been placed on administrative leave and is facing a criminal probe at the request of the Office of Police Accountability.
 
+The incident is believed to have occurred in the Capitol Hill neighborhood, potentially near 11th and Pine as did other incidents on September 23rd.
+
 tags: bike, protester
 
 id: wa-seattle-67
 
-geolocation: 
+geolocation: 47.6152896, -122.3181832
 
 **Links**
 
@@ -1156,13 +1195,13 @@ geolocation:
 
 ### Police shove and pepper spray protesters | September 23rd
 
-Police on bikes push protesters down the street. One officer pepper sprays protesters with umbrellas.
+Police on bikes push protesters down the street near 11th and Pine. One officer pepper sprays protesters with umbrellas.
 
 tags: bike, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: wa-seattle-68
 
-geolocation: 
+geolocation: 47.6152896, -122.3181832
 
 **Links**
 
@@ -1171,13 +1210,13 @@ geolocation:
 
 ### Police knock protester over, then shoot them with impact munitions | September 23rd
 
-Police use bikes to shove protesters on the sidewalk. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
+Police use bikes to shove protesters on the sidewalk near Broadway and Howell. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
 
 tags: bike, less-lethal, projectile, property-destruction, protester, push, rubber-bullet, shoot, shove
 
 id: wa-seattle-69
 
-geolocation: 
+geolocation: 47.6175651, -122.3230289
 
 **Links**
 
@@ -1186,13 +1225,13 @@ geolocation:
 
 ### Police fire impact munitions in response to trash fires | September 24th
 
-Police charge protesters in the street, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
+Police charge protesters in the street at 12th and Pine, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: wa-seattle-70
 
-geolocation: 
+geolocation: 47.6152538, -122.3168999
 
 **Links**
 
@@ -1202,13 +1241,13 @@ geolocation:
 
 ### Individual thrown against concrete wall during arrest | September 28th
 
-Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
+Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street near 12th and Pine in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
 
 tags: arrest, bystander, grab, push, shove, throw
 
 id: wa-seattle-71
 
-geolocation: 
+geolocation: 47.6152538, -122.3168999
 
 **Links**
 
@@ -1312,6 +1351,23 @@ geolocation: 47.6152719, -122.319049
 * https://www.thestranger.com/slog/2020/11/05/50171900/protester-in-critical-condition-after-an-arrest-outside-the-east-precinct
 * https://spdblotter.seattle.gov/2020/11/05/seven-arrested-at-capitol-hill-demonstration/
 * https://twitter.com/MarcusKulik/status/1324885077478633472
+
+
+### Officer escalates scuffle by pepper spraying and arresting protester | November 27th
+
+While police are dispersing protesters at E Olive Way and E Denny Way, an officer and an elderly man holding a cane are seen in the street. The officer is pushing the man back across the street and the man is attempting to walk the opposite direction. After the officer pushes the protester to the sidewalk, the officer turns to walk away. The protester then lightly strikes the body-armored officer on the back with his cane; the cane then collapses, suggesting it is a collapsible cane, not capable of striking forcefully. The officer then pepper sprays the protester and tackles him to the ground for arrest.
+
+While it is clear the protester did strike the officer, the question of brutality lies in the force used by the officer: the use of pepper spray and the tackling a man using a cane appear to be disproportionate to the protester's light strike.
+
+tags: arrest, elderly, less-lethal, pepper-spray, person-with-disability, protester, spray, tackle
+
+id: wa-seattle-77
+
+geolocation: 45.5171945, -122.5538792
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/k30e8h/capitol_hill_seattle_11272020_police_dispersing
 
 
 ## Vancouver

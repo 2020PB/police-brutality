@@ -838,11 +838,12 @@ tags: baton, person-with-disability, protester, shoot, shove, strike
 
 id: ca-losangeles-31
 
-geolocation: 
+geolocation: 34.0689615, -118.3440646
 
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ca-losangeles-31.1.mp4)
 
 
 ### Police shoot man in groin with rubber bullet | June 2nd
@@ -1260,6 +1261,24 @@ geolocation: 34.048569, -118.2550804
 * https://twitter.com/SamBraslow/status/1324246891903610880
 * https://twitter.com/ACatWithNews/status/1324224193202855937
 * https://www.latimes.com/california/story/2020-11-04/lapd-detain-cite-two-videographers-after-declaring-downtown-protest-unlawful
+
+
+### Police beat and arrest anti-eviction protesters | November 26th
+
+Following evictions of squatting families from CalTrans-owned homes by California State Police on November 25th, protesters gathered at 2970 Lowell Ave to bar the way in an attempt to prevent these evictions. Officers swing batons at protesters and make violent arrests. Several protesters were knelt on during arrests; some were also hog-tied and carried away to vans
+
+tags: arrest, baton, beat, protester, strike
+
+id: ca-losangeles-64
+
+geolocation: 34.080414, -118.1642954
+
+**Links**
+
+* https://twitter.com/chadloder/status/1332242220590665728
+* https://twitter.com/chadloder/status/1332244234540175364
+* https://twitter.com/chadloder/status/1332246600660381697
+* https://twitter.com/chadloder/status/1332249085382836225
 
 
 ## Norco
