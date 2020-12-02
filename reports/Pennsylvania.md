@@ -462,7 +462,7 @@ tags: less-lethal, lrad, pepper-spray, protester, spray, threaten
 
 id: pa-pittsburgh-1
 
-geolocation: 0.457474, -79.9333042
+geolocation: 40.457474, -79.9333042
 
 **Links**
 

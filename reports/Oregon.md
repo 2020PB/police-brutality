@@ -3745,7 +3745,7 @@ tags: arrest, baton, protester, punch, strike
 
 id: or-portland-192
 
-geolocation: 5.5161982, -122.6766199
+geolocation: 45.5161982, -122.6766199
 
 **Links**
 

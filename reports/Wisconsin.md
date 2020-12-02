@@ -190,7 +190,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: wi-madison-3
 
-geolocation: 3.0759943, -89.3844939
+geolocation: 43.0759943, -89.3844939
 
 **Links**
 
