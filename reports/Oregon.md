@@ -50,7 +50,7 @@ tags: less-lethal, projectile, protester, shoot, vehicle
 
 id: or-eugene-1
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -323,7 +323,7 @@ tags: baton, less-lethal, pepper-spray, protester, push, shove, spray, strike
 
 id: or-portland-249
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -362,13 +362,13 @@ geolocation: 45.516130, -122.677278
 
 ### Police arrest people taking pictures, threaten to arrest press | June 7th
 
-Footage shows a squad car pulling up next to two individuals and a police officer on foot. One officer can be heard saying, "You were standing there taking photos," as he arrests the individuals. Another officer then shouts: "Leave the area or you will be arrested." The filmer states that he is press and the officer reiterates that he will be arrested if he remains.
+Footage from Salmon between 4th and 5th shows a squad car pulling up next to two individuals and a police officer on foot. One officer can be heard saying, "You were standing there taking photos," as he arrests the individuals. Another officer then shouts: "Leave the area or you will be arrested." The filmer states that he is press and the officer reiterates that he will be arrested if he remains.
 
 tags: arrest, journalist
 
 id: or-portland-13
 
-geolocation: 
+geolocation: 45.516639,-122.6781337
 
 **Links**
 
@@ -454,7 +454,7 @@ tags: baton, beat, explosive, kick, less-lethal, projectile, protester, strike
 
 id: or-portland-25
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -463,13 +463,13 @@ geolocation:
 
 ### Officer strikes journalist with baton | June 14th
 
-Footage depicts a journalist retreating from a charging police line. The journalist rounds the corner, chased by an officer. The officer strikes the journalist with his baton. The journalist shouts, "Media," and the officer replies, "I don't give a shit."
+Footage depicts a journalist retreating from  police charging down SW Broadway between Adler and Washington. The journalist rounds the corner, chased by an officer. The officer strikes the journalist with his baton. The journalist shouts, "Media," and the officer replies, "I don't give a shit."
 
 tags: baton, journalist, strike
 
 id: or-portland-15
 
-geolocation: 
+geolocation: 45.5203778,-122.6791044
 
 **Links**
 
@@ -478,13 +478,13 @@ geolocation:
 
 ### Police apply no-assembly order to journalists | June 15th
 
-Early in the morning on June 15th, a police car announces to a journalist walking home that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
+Early in the morning on June 15th, a police car announces to a journalist walking home near Salmon and 4th that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
 
 tags: journalist
 
 id: or-portland-8
 
-geolocation: 
+geolocation: 45.516566,-122.677593
 
 **Links**
 
@@ -531,7 +531,7 @@ tags: hide-badge
 
 id: or-portland-19
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -617,11 +617,13 @@ geolocation: 45.565273, -122.661381
 
 Images show aftermath of protester who was shot in the eye with a Stinger rubber pellet. Additional screencap shows instruction for proper use state that it is necessary to keep trajectory low to avoid striking above the breast line - this suggests a misuse of riot rounds by officers.
 
+The exact location is not known, but is assumed to have occurred in the vicinity of protests on June 26th.
+
 tags: less-lethal, protester, rubber-bullet, shoot
 
 id: or-portland-31
 
-geolocation: 
+geolocation:45.5652027,-122.6618933
 
 **Links**
 
@@ -662,13 +664,13 @@ geolocation: 45.515311, -122.675940
 
 ### Police tear gas protesters for no evident reason | June 28th
 
-Footage shows police slowly retreating from protesters. Protesters remain in place. Police fire tear gas continually throughout their retreat.
+Footage shows police slowly retreating from protesters near Chapman Square. Protesters remain in place. Police fire tear gas continually throughout their retreat.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-35
 
-geolocation: 
+geolocation: 45.5157769,-122.6774779
 
 **Links**
 
@@ -679,13 +681,13 @@ geolocation:
 
 ### Police beat wrong person for vandalism | June 28th
 
-Footage shows a protester spray-painting a building. Another protester with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protester with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protesters intervene and push the officers back into the building.
+Footage shows a protester spray-painting the Justice Center. Another protester with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protester with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protesters intervene and push the officers back into the building.
 
 tags: beat, property-destruction, protester, strike
 
 id: or-portland-32
 
-geolocation: 
+geolocation: 45.5156185,-122.6770321
 
 **Links**
 
@@ -694,13 +696,13 @@ geolocation:
 
 ### Riot police charge, tackle and arrest protesters | June 28th
 
-Footage shows riot police charging at a handful of protesters walking away. Several of these protesters are shoved, thrown to the ground or tackled. Police arrest a handful of these protesters.
+Footage shows riot police charging at a handful of protesters walking away down 2nd between Main and Madison. Several of these protesters are shoved, thrown to the ground or tackled. Police arrest a handful of these protesters.
 
 tags: arrest, protester, push, shove, tackle, throw
 
 id: or-portland-33
 
-geolocation: 
+geolocation:45.5149013,-122.6762385
 
 **Links**
 
@@ -712,13 +714,13 @@ geolocation:
 
 ### Police retaliate to thrown water bottle with excessive force | June 28th
 
-Footage shows three officers with riot guns outside a building. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protesters for a thrown water bottle.
+Footage shows three officers with riot guns outside the Justice Center. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protesters for a thrown water bottle.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-34
 
-geolocation: 
+geolocation:45.5153208,-122.6770923
 
 **Links**
 
@@ -727,13 +729,13 @@ geolocation:
 
 ### Police charge crowd; shove multiple protesters | June 28th
 
-In footage from the night of June 28th, police charge protesters while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
+In footage from the night of June 28th, police charge protesters at 2nd and Main while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
 
 tags: protester, push, shove, strike
 
 id: or-portland-37
 
-geolocation: 
+geolocation: 45.5153351,-122.676005
 
 **Links**
 
@@ -742,13 +744,13 @@ geolocation:
 
 ### Police shove and mace protester with hands up | June 28th
 
-Footage shows a police line advancing towards protesters. A protester is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
+Footage shows a police line advancing down Main towards protesters. A protester is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
 
 tags: less-lethal, mace, pepper-spray, protester, push, shove, spray
 
 id: or-portland-36
 
-geolocation: 
+geolocation:45.5157288,-122.677482
 
 **Links**
 
@@ -757,13 +759,13 @@ geolocation:
 
 ### Journalist shot with foam round | June 29th
 
-After an empty water bottle was thrown, police fired foam rounds into a crowd, striking a journalist on the hip.
+After an empty water bottle was thrown, police fired foam rounds into a crowd outside the Justice Center, striking a journalist on the hip.
 
 tags: foam-bullet, less-lethal, shoot
 
 id: or-portland-38
 
-geolocation: 
+geolocation:45.5155444,-122.6768958
 
 **Links**
 
@@ -774,7 +776,7 @@ geolocation:
 
 ### Police shove, tackle and kneel on protesters | June 29th
 
-Footage shows a handful of protesters talking to police on the sidewalk. After a few seconds, officers take down a protester. Another officer charges across the street to tackle other protesters gathered on the sidewalk.
+Footage shows a handful of protesters talking to police on the sidewalk at 3rd and Main. After a few seconds, officers take down a protester. Another officer charges across the street to tackle other protesters gathered on the sidewalk.
 
 Police then fan out across the street. Around 1:30, a protester is seen lying on the ground behind the police line. A second protester goes to help them up. Police shove this protester to the ground.
 
@@ -784,7 +786,7 @@ tags: journalist, knee, protester, shove, tackle
 
 id: or-portland-39
 
-geolocation: 
+geolocation: 45.5155444,-122.6768958
 
 **Links**
 
@@ -794,7 +796,7 @@ geolocation:
 
 ### Police pepper-spray, strike and shoot protesters at point-blank range | June 30th
 
-Full footage shows police pushing protesters east under dispersal order from LRAD speaker. Protesters move slowly and walk backwards. Two officers then shove protesters with their batons. Another protester steps in between them and is pepper-sprayed.
+Full footage shows police pushing protesters east down Lombard under dispersal order from LRAD speaker. Protesters move slowly and walk backwards. Two officers then shove protesters with their batons. Another protester steps in between them and is pepper-sprayed.
 
 Footage then shows police attempting to tear banner out of the hands of protesters obeying dispersal instructions. Another officer runs over and shoots protesters repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
 
@@ -802,7 +804,7 @@ tags: baton, less-lethal, pepper-spray, projectile, property-destruction, protes
 
 id: or-portland-41
 
-geolocation: 
+geolocation:45.5770977,-122.6859028
 
 **Links**
 
@@ -812,7 +814,7 @@ geolocation:
 
 ### Reporter arrested after identifying officer | June 30th
 
-Footage shows police pushing protesters east under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
+Footage shows police pushing protesters east down Lombard (near Albina) under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
 
 Then for several minutes, police argue with him about his presence and whether he as a journalist is allowed on the scene.
 
@@ -824,7 +826,7 @@ tags: arrest, journalist, threaten
 
 id: or-portland-42
 
-geolocation: 
+geolocation: 45.5771659,-122.6754077
 
 **Links**
 
@@ -836,13 +838,13 @@ geolocation:
 
 ### Police fire tear gas at protesters | June 30th
 
-In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protesters. A handful of canisters are thrown back, but the vast majority of protesters flee as police continue to fire.
+In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protesters on North Lombard near Pacific Highway. A handful of canisters are thrown back, but the vast majority of protesters flee as police continue to fire.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-43
 
-geolocation: 
+geolocation: 45.5771143,-122.6829384
 
 **Links**
 
@@ -853,26 +855,30 @@ geolocation:
 
 Footage shows police arresting a member of the press. Her hands are cuffed behind her back. She coughs and vomits, allegedly from tear gas exposure. Police remove her press badge and search her. She states that police are taking cash from her back right pocket. Protesters shout that police are laughing, but it is not audible in the footage.
 
+She is believed to have been arrested alongside the journalist Cory Elia (or-portland-42) on North Lombard Street.
+
 tags: abuse-of-power, arrest, journalist, less-lethal, tear-gas
 
 id: or-portland-44
 
-geolocation: 
+geolocation: 45.5771659,-122.6754077
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
+* https://www.pscp.tv/w/1RDGlrBaEVjxL?q=portland
+* https://twitter.com/Human42LM/status/1278747482034335744
 
 
-### Police tackle fleeing protesters | (Believed to be) June 30th
+### Police tackle fleeing protesters | June 30th
 
-Footage shows protesters fleeing while police give chase. Several protesters are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
+Footage shows protesters fleeing down North Lombard while police give chase. Several protesters are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
 
 tags: arrest, baton, beat, knee, knee-on-neck, protester, strike, tackle
 
 id: or-portland-49
 
-geolocation: 
+geolocation: 45.5771009,-122.6843737
 
 **Links**
 
@@ -888,7 +894,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-46
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -905,7 +911,7 @@ tags: journalist, less-lethal, pepper-ball, shoot
 
 id: or-portland-45
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -920,7 +926,7 @@ tags: less-lethal, pepper-ball, protester, shoot
 
 id: or-portland-47
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -939,7 +945,7 @@ tags: journalist, less-lethal, pepper-ball, pepper-spray, projectile, property-d
 
 id: or-portland-48
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -956,7 +962,7 @@ tags: journalist, less-lethal, pepper-ball, protester, shoot, tackle, tear-gas
 
 id: or-portland-50
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -974,7 +980,7 @@ tags: abuse-of-power, property-destruction, protester
 
 id: or-portland-51
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -990,7 +996,7 @@ tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: or-portland-52
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1005,7 +1011,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-53
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1020,7 +1026,7 @@ tags: arrest, journalist, less-lethal, protester, shove, tackle, tear-gas, throw
 
 id: or-portland-54
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1037,7 +1043,7 @@ tags: baton, bystander, homeless, journalist, less-lethal, protester, strike, te
 
 id: or-portland-57
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1056,7 +1062,7 @@ tags: hide-badge, less-lethal, protester, tear-gas
 
 id: or-portland-55
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1077,7 +1083,7 @@ tags: arrest, journalist, knee, protester
 
 id: or-portland-56
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1096,7 +1102,7 @@ tags: less-lethal, projectile, protester, shoot, stun-grenade
 
 id: or-portland-58
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1113,7 +1119,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-59
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1130,7 +1136,7 @@ tags: journalist, less-lethal, lrad, protester
 
 id: or-portland-68
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1146,7 +1152,7 @@ tags: protester, shove
 
 id: or-portland-69
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1161,7 +1167,7 @@ tags: journalist, less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-124
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1179,7 +1185,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-60
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1196,7 +1202,7 @@ tags: abuse-of-power, protester
 
 id: or-portland-61
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1211,7 +1217,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: or-portland-62
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1228,7 +1234,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-63
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1246,7 +1252,7 @@ tags: arrest, journalist, less-lethal, protester, shove, tackle, tear-gas
 
 id: or-portland-64
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1270,7 +1276,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-65
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1288,7 +1294,7 @@ tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-66
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1303,7 +1309,7 @@ tags: baton, beat, medic, shove, strike
 
 id: or-portland-67
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1318,7 +1324,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: or-portland-70
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1334,7 +1340,7 @@ tags: abuse-of-power, property-destruction, protester
 
 id: or-portland-71
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1349,7 +1355,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-72
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1365,7 +1371,7 @@ tags: arrest, knee, less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-portland-73
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1380,7 +1386,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-75
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1395,7 +1401,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-76
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1410,7 +1416,7 @@ tags: less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-74
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1429,7 +1435,7 @@ tags: abuse-of-power, arrest
 
 id: or-portland-77
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1446,7 +1452,7 @@ tags: gun, protester, shove, vehicle
 
 id: or-portland-78
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1462,7 +1468,7 @@ tags: arrest, knee, protester, tackle
 
 id: or-portland-86
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1484,7 +1490,7 @@ tags: less-lethal, lrad, pepper-ball, shoot, stun-grenade, tear-gas
 
 id: or-portland-79
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1512,7 +1518,7 @@ tags: homeless, less-lethal, projectile, protester
 
 id: or-portland-80
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1530,7 +1536,7 @@ tags: bystander, less-lethal, tear-gas
 
 id: or-portland-81
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1545,7 +1551,7 @@ tags: journalist, less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-82
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1561,7 +1567,7 @@ tags: arrest, protester, shove, strike, tackle
 
 id: or-portland-83
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1576,7 +1582,7 @@ tags: less-lethal, medic, projectile, shoot
 
 id: or-portland-122
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1593,7 +1599,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-84
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1613,7 +1619,7 @@ tags: arrest, baton, knee, protester, shove
 
 id: or-portland-85
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1631,7 +1637,7 @@ tags: bystander, property-destruction, vehicle
 
 id: or-portland-87
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1649,7 +1655,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-92
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1664,7 +1670,7 @@ tags: abuse-of-power, arrest, protester, tackle
 
 id: or-portland-107
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1682,7 +1688,7 @@ tags: protester, push, shove, strike, throw
 
 id: or-portland-88
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1700,7 +1706,7 @@ tags: protester, shove
 
 id: or-portland-90
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1717,7 +1723,7 @@ tags: journalist, less-lethal, projectile, protester, shoot, stun-grenade, tear-
 
 id: or-portland-91
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1735,7 +1741,7 @@ tags: protester, punch, push, shove, strike
 
 id: or-portland-93
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1750,7 +1756,7 @@ tags: gas, less-lethal, projectile, protester, shoot
 
 id: or-portland-94
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1765,7 +1771,7 @@ tags: baton, protester, push, shove, strike, threaten
 
 id: or-portland-95
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1780,7 +1786,7 @@ tags: less-lethal, pepper-ball, protester, rubber-bullet, shoot
 
 id: or-portland-96
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1795,7 +1801,7 @@ tags: grab, protester, shove, throw
 
 id: or-portland-89
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1812,7 +1818,7 @@ tags: baton, beat, less-lethal, pepper-spray, protester, spray, strike
 
 id: or-portland-97
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1830,7 +1836,7 @@ tags: less-lethal, pepper-spray, protester, shove, spray, tear-gas
 
 id: or-portland-139
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1845,7 +1851,7 @@ tags: less-lethal, pregnant, protester, shove, stun-grenade
 
 id: or-portland-98
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1863,7 +1869,7 @@ tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-99
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1878,7 +1884,7 @@ tags: less-lethal, protester, push, shove, tear-gas, tear-gas-canister
 
 id: or-portland-100
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1893,7 +1899,7 @@ tags: property-destruction, protester, push, shove, tackle
 
 id: or-portland-101
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1908,7 +1914,7 @@ tags: gas, protester
 
 id: or-portland-102
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1923,7 +1929,7 @@ tags: less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
 
 id: or-portland-103
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1939,7 +1945,7 @@ tags: less-lethal, protester, shove, stun-grenade, tear-gas
 
 id: or-portland-104
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1958,7 +1964,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-105
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -1977,7 +1983,7 @@ tags: legal-observer, protester, shove
 
 id: or-portland-106
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -6457,7 +6463,7 @@ tags: protester, push, shove
 
 id: or-portland-366
 
-geolocation: 
+geolocation:
 
 **Links**
 
