@@ -66,15 +66,18 @@ A protester is seen walk side-by-side with an officer. The officer steps in fron
 
 Numerous police officers then throw the man to the ground and kneel on his neck to make the arrest.
 
+News outlets state this occurred near Hempstead and Merrick.
+
 tags: arrest, knee, knee-on-neck, protester, push, shove, tackle, throw
 
 id: ny-eastmeadow-1
 
-geolocation: 
+geolocation: 40.7251255,-73.5570234
 
 **Links**
 
 * https://twitter.com/RexChapman/status/1271832001364979716
+* https://www.liherald.com/stories/three-arrested-at-black-lives-matter-protest-in-east-meadow,125891
 
 
 ## Ithaca
