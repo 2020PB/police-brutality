@@ -1412,7 +1412,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sacramento-6
 
-geolocation: 8.5763383, -121.4807559
+geolocation: 38.5763383, -121.4807559
 
 **Links**
 
@@ -1444,7 +1444,7 @@ tags: legal-observer, less-lethal, projectile, protester, shoot
 
 id: ca-sacramento-2
 
-geolocation: 8.5763383, -121.4807559
+geolocation: 38.5763383, -121.4807559
 
 **Links**
 
