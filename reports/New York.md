@@ -72,7 +72,7 @@ tags: arrest, knee, knee-on-neck, protester, push, shove, tackle, throw
 
 id: ny-eastmeadow-1
 
-geolocation: 40.7251255,-73.5570234
+geolocation: 40.7251255, -73.5570234
 
 **Links**
 
