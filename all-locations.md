@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-12-02T18:56:08.421428+00:00
+UPDATED AT: 2020-12-05T02:14:41.184305+00:00
 
 
 # Alabama
@@ -1807,7 +1807,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: ca-sacramento-6
 
-geolocation: 8.5763383, -121.4807559
+geolocation: 38.5763383, -121.4807559
 
 **Links**
 
@@ -1839,7 +1839,7 @@ tags: legal-observer, less-lethal, projectile, protester, shoot
 
 id: ca-sacramento-2
 
-geolocation: 8.5763383, -121.4807559
+geolocation: 38.5763383, -121.4807559
 
 **Links**
 
@@ -10763,7 +10763,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-9
 
-geolocation: 45.514871, -122.680014 
+geolocation: 45.514871, -122.680014
 
 **Links**
 
@@ -10778,7 +10778,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-21
 
-geolocation: 45.516589, -122.677616 
+geolocation: 45.516589, -122.677616
 
 **Links**
 
@@ -10793,7 +10793,7 @@ tags: baton, beat, journalist, less-lethal, pepper-spray, spray, strike
 
 id: or-portland-6
 
-geolocation: 45.515540, -122.677147 
+geolocation: 45.515540, -122.677147
 
 **Links**
 
@@ -10811,7 +10811,7 @@ tags: baton, protester, push, shove, strike
 
 id: or-portland-18
 
-geolocation: 45.515507, -122.677484 
+geolocation: 45.515507, -122.677484
 
 **Links**
 
@@ -10826,7 +10826,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-24
 
-geolocation: 45.514266, -122.677721 
+geolocation: 45.514266, -122.677721
 
 **Links**
 
@@ -10841,7 +10841,7 @@ tags: less-lethal, protester, rubber-bullet, shoot, tear-gas
 
 id: or-portland-20
 
-geolocation: 45.515624, -122.677091 
+geolocation: 45.515624, -122.677091
 
 **Links**
 
@@ -10871,7 +10871,7 @@ tags: arrest, bike, property-destruction, protester, shove
 
 id: or-portland-11
 
-geolocation: 45.520774, -122.676372 
+geolocation: 45.520774, -122.676372
 
 **Links**
 
@@ -10886,7 +10886,7 @@ tags: journalist, less-lethal, mace, pepper-spray, spray
 
 id: or-portland-12
 
-geolocation: 45.516130, -122.677278 
+geolocation: 45.516130, -122.677278
 
 **Links**
 
@@ -10918,7 +10918,7 @@ tags: arrest, baton, beat, protester, strike
 
 id: or-portland-16
 
-geolocation: 45.515478, -122.677229 
+geolocation: 45.515478, -122.677229
 
 **Links**
 
@@ -10933,7 +10933,7 @@ tags: beat, less-lethal, property-destruction, protester, strike, tear-gas
 
 id: or-portland-17
 
-geolocation: 45.515867, -122.677448 
+geolocation: 45.515867, -122.677448
 
 **Links**
 
@@ -14278,7 +14278,7 @@ tags: arrest, baton, protester, punch, strike
 
 id: or-portland-192
 
-geolocation: 5.5161982, -122.6766199
+geolocation: 45.5161982, -122.6766199
 
 **Links**
 
@@ -18290,7 +18290,7 @@ tags: less-lethal, lrad, pepper-spray, protester, spray, threaten
 
 id: pa-pittsburgh-1
 
-geolocation: 0.457474, -79.9333042
+geolocation: 40.457474, -79.9333042
 
 **Links**
 
@@ -22437,7 +22437,7 @@ tags: less-lethal, pepper-spray, protester, spray
 
 id: wi-madison-3
 
-geolocation: 3.0759943, -89.3844939
+geolocation: 43.0759943, -89.3844939
 
 **Links**
 
