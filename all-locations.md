@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-12-05T02:14:41.184305+00:00
+UPDATED AT: 2020-12-05T02:27:43.465282+00:00
 
 
 # Alabama
@@ -7067,15 +7067,18 @@ A protester is seen walk side-by-side with an officer. The officer steps in fron
 
 Numerous police officers then throw the man to the ground and kneel on his neck to make the arrest.
 
+News outlets state this occurred near Hempstead and Merrick.
+
 tags: arrest, knee, knee-on-neck, protester, push, shove, tackle, throw
 
 id: ny-eastmeadow-1
 
-geolocation: 
+geolocation: 40.7251255, -73.5570234
 
 **Links**
 
 * https://twitter.com/RexChapman/status/1271832001364979716
+* https://www.liherald.com/stories/three-arrested-at-black-lives-matter-protest-in-east-meadow,125891
 
 
 ## Ithaca
@@ -10720,6 +10723,7 @@ geolocation: 45.515775, -122.674833
 
 * https://www.tiktok.com/@officersiggity/video/6834194381126323462
 * https://twitter.com/greg_doucette/status/1269082018542956545
+* [Tiktok Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-26.1.unknown_video)
 
 
 ### Police SUV accelerates towards protesters | June 3rd
@@ -10850,17 +10854,18 @@ geolocation: 45.515624, -122.677091
 
 ### Officer chases man filming, beats with baton and pepper sprays in the face twice | (Believed to be) June 6th
 
-Aerial footage shows a protester filming the arrest of another protester. An officer approaches him and shoves him away. The man pulls his arm away and yells at the officer. The officer then strikes him with a baton and pepper sprays him.
+Aerial footage shows a protester filming the arrest of another protester near 4th and Main. An officer approaches him and shoves him away. The man pulls his arm away and yells at the officer. The officer then strikes him with a baton and pepper sprays him.
 
 tags: baton, less-lethal, pepper-spray, protester, push, shove, spray, strike
 
 id: or-portland-249
 
-geolocation: 
+geolocation: 45.51587, -122.677982
 
 **Links**
 
 * https://clips.twitch.tv/BoringMotionlessConsoleTebowing
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-249.1.mp4)
 
 
 ### Police pull departing protester from bike to arrest them | June 7th
@@ -10895,13 +10900,13 @@ geolocation: 45.516130, -122.677278
 
 ### Police arrest people taking pictures, threaten to arrest press | June 7th
 
-Footage shows a squad car pulling up next to two individuals and a police officer on foot. One officer can be heard saying, "You were standing there taking photos," as he arrests the individuals. Another officer then shouts: "Leave the area or you will be arrested." The filmer states that he is press and the officer reiterates that he will be arrested if he remains.
+Footage from Salmon between 4th and 5th shows a squad car pulling up next to two individuals and a police officer on foot. One officer can be heard saying, "You were standing there taking photos," as he arrests the individuals. Another officer then shouts: "Leave the area or you will be arrested." The filmer states that he is press and the officer reiterates that he will be arrested if he remains.
 
 tags: arrest, journalist
 
 id: or-portland-13
 
-geolocation: 
+geolocation: 45.516639, -122.6781337
 
 **Links**
 
@@ -10987,22 +10992,23 @@ tags: baton, beat, explosive, kick, less-lethal, projectile, protester, strike
 
 id: or-portland-25
 
-geolocation: 
+geolocation: 45.51587, -122.677982
 
 **Links**
 
 * https://www.tiktok.com/@officersiggity/video/6838314162192485638
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-25.1.unknown_video)
 
 
 ### Officer strikes journalist with baton | June 14th
 
-Footage depicts a journalist retreating from a charging police line. The journalist rounds the corner, chased by an officer. The officer strikes the journalist with his baton. The journalist shouts, "Media," and the officer replies, "I don't give a shit."
+Footage depicts a journalist retreating from  police charging down SW Broadway between Adler and Washington. The journalist rounds the corner, chased by an officer. The officer strikes the journalist with his baton. The journalist shouts, "Media," and the officer replies, "I don't give a shit."
 
 tags: baton, journalist, strike
 
 id: or-portland-15
 
-geolocation: 
+geolocation: 45.5203778, -122.6791044
 
 **Links**
 
@@ -11011,13 +11017,13 @@ geolocation:
 
 ### Police apply no-assembly order to journalists | June 15th
 
-Early in the morning on June 15th, a police car announces to a journalist walking home that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
+Early in the morning on June 15th, a police car announces to a journalist walking home near Salmon and 4th that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
 
 tags: journalist
 
 id: or-portland-8
 
-geolocation: 
+geolocation: 45.516566, -122.677593
 
 **Links**
 
@@ -11150,11 +11156,13 @@ geolocation: 45.565273, -122.661381
 
 Images show aftermath of protester who was shot in the eye with a Stinger rubber pellet. Additional screencap shows instruction for proper use state that it is necessary to keep trajectory low to avoid striking above the breast line - this suggests a misuse of riot rounds by officers.
 
+The exact location is not known, but is assumed to have occurred in the vicinity of protests on June 26th.
+
 tags: less-lethal, protester, rubber-bullet, shoot
 
 id: or-portland-31
 
-geolocation: 
+geolocation: 45.5652027, -122.6618933
 
 **Links**
 
@@ -11195,13 +11203,13 @@ geolocation: 45.515311, -122.675940
 
 ### Police tear gas protesters for no evident reason | June 28th
 
-Footage shows police slowly retreating from protesters. Protesters remain in place. Police fire tear gas continually throughout their retreat.
+Footage shows police slowly retreating from protesters near Chapman Square. Protesters remain in place. Police fire tear gas continually throughout their retreat.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-35
 
-geolocation: 
+geolocation: 45.5157769, -122.6774779
 
 **Links**
 
@@ -11212,13 +11220,13 @@ geolocation:
 
 ### Police beat wrong person for vandalism | June 28th
 
-Footage shows a protester spray-painting a building. Another protester with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protester with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protesters intervene and push the officers back into the building.
+Footage shows a protester spray-painting the Justice Center. Another protester with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protester with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protesters intervene and push the officers back into the building.
 
 tags: beat, property-destruction, protester, strike
 
 id: or-portland-32
 
-geolocation: 
+geolocation: 45.5156185, -122.6770321
 
 **Links**
 
@@ -11227,13 +11235,13 @@ geolocation:
 
 ### Riot police charge, tackle and arrest protesters | June 28th
 
-Footage shows riot police charging at a handful of protesters walking away. Several of these protesters are shoved, thrown to the ground or tackled. Police arrest a handful of these protesters.
+Footage shows riot police charging at a handful of protesters walking away down 2nd between Main and Madison. Several of these protesters are shoved, thrown to the ground or tackled. Police arrest a handful of these protesters.
 
 tags: arrest, protester, push, shove, tackle, throw
 
 id: or-portland-33
 
-geolocation: 
+geolocation: 45.5149013, -122.6762385
 
 **Links**
 
@@ -11245,13 +11253,13 @@ geolocation:
 
 ### Police retaliate to thrown water bottle with excessive force | June 28th
 
-Footage shows three officers with riot guns outside a building. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protesters for a thrown water bottle.
+Footage shows three officers with riot guns outside the Justice Center. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protesters for a thrown water bottle.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-34
 
-geolocation: 
+geolocation: 45.5153208, -122.6770923
 
 **Links**
 
@@ -11260,13 +11268,13 @@ geolocation:
 
 ### Police charge crowd; shove multiple protesters | June 28th
 
-In footage from the night of June 28th, police charge protesters while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
+In footage from the night of June 28th, police charge protesters at 2nd and Main while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
 
 tags: protester, push, shove, strike
 
 id: or-portland-37
 
-geolocation: 
+geolocation: 45.5153351, -122.676005
 
 **Links**
 
@@ -11275,13 +11283,13 @@ geolocation:
 
 ### Police shove and mace protester with hands up | June 28th
 
-Footage shows a police line advancing towards protesters. A protester is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
+Footage shows a police line advancing down Main towards protesters. A protester is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
 
 tags: less-lethal, mace, pepper-spray, protester, push, shove, spray
 
 id: or-portland-36
 
-geolocation: 
+geolocation: 45.5157288, -122.677482
 
 **Links**
 
@@ -11290,13 +11298,13 @@ geolocation:
 
 ### Journalist shot with foam round | June 29th
 
-After an empty water bottle was thrown, police fired foam rounds into a crowd, striking a journalist on the hip.
+After an empty water bottle was thrown, police fired foam rounds into a crowd outside the Justice Center, striking a journalist on the hip.
 
 tags: foam-bullet, less-lethal, shoot
 
 id: or-portland-38
 
-geolocation: 
+geolocation: 45.5155444, -122.6768958
 
 **Links**
 
@@ -11307,7 +11315,7 @@ geolocation:
 
 ### Police shove, tackle and kneel on protesters | June 29th
 
-Footage shows a handful of protesters talking to police on the sidewalk. After a few seconds, officers take down a protester. Another officer charges across the street to tackle other protesters gathered on the sidewalk.
+Footage shows a handful of protesters talking to police on the sidewalk at 3rd and Main. After a few seconds, officers take down a protester. Another officer charges across the street to tackle other protesters gathered on the sidewalk.
 
 Police then fan out across the street. Around 1:30, a protester is seen lying on the ground behind the police line. A second protester goes to help them up. Police shove this protester to the ground.
 
@@ -11317,7 +11325,7 @@ tags: journalist, knee, protester, shove, tackle
 
 id: or-portland-39
 
-geolocation: 
+geolocation: 45.5155444, -122.6768958
 
 **Links**
 
@@ -11327,7 +11335,7 @@ geolocation:
 
 ### Police pepper-spray, strike and shoot protesters at point-blank range | June 30th
 
-Full footage shows police pushing protesters east under dispersal order from LRAD speaker. Protesters move slowly and walk backwards. Two officers then shove protesters with their batons. Another protester steps in between them and is pepper-sprayed.
+Full footage shows police pushing protesters east down Lombard under dispersal order from LRAD speaker. Protesters move slowly and walk backwards. Two officers then shove protesters with their batons. Another protester steps in between them and is pepper-sprayed.
 
 Footage then shows police attempting to tear banner out of the hands of protesters obeying dispersal instructions. Another officer runs over and shoots protesters repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
 
@@ -11335,7 +11343,7 @@ tags: baton, less-lethal, pepper-spray, projectile, property-destruction, protes
 
 id: or-portland-41
 
-geolocation: 
+geolocation: 45.5770977, -122.6859028
 
 **Links**
 
@@ -11345,7 +11353,7 @@ geolocation:
 
 ### Reporter arrested after identifying officer | June 30th
 
-Footage shows police pushing protesters east under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
+Footage shows police pushing protesters east down Lombard (near Albina) under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
 
 Then for several minutes, police argue with him about his presence and whether he as a journalist is allowed on the scene.
 
@@ -11357,7 +11365,7 @@ tags: arrest, journalist, threaten
 
 id: or-portland-42
 
-geolocation: 
+geolocation: 45.5771659, -122.6754077
 
 **Links**
 
@@ -11369,13 +11377,13 @@ geolocation:
 
 ### Police fire tear gas at protesters | June 30th
 
-In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protesters. A handful of canisters are thrown back, but the vast majority of protesters flee as police continue to fire.
+In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protesters on North Lombard near Pacific Highway. A handful of canisters are thrown back, but the vast majority of protesters flee as police continue to fire.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-43
 
-geolocation: 
+geolocation: 45.5771143, -122.6829384
 
 **Links**
 
@@ -11386,51 +11394,57 @@ geolocation:
 
 Footage shows police arresting a member of the press. Her hands are cuffed behind her back. She coughs and vomits, allegedly from tear gas exposure. Police remove her press badge and search her. She states that police are taking cash from her back right pocket. Protesters shout that police are laughing, but it is not audible in the footage.
 
+She is believed to have been arrested alongside the journalist Cory Elia (or-portland-42) on North Lombard Street.
+
 tags: abuse-of-power, arrest, journalist, less-lethal, tear-gas
 
 id: or-portland-44
 
-geolocation: 
+geolocation: 45.5771659, -122.6754077
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
+* https://www.pscp.tv/w/1RDGlrBaEVjxL?q=portland
+* https://twitter.com/Human42LM/status/1278747482034335744
 
 
-### Police tackle fleeing protesters | (Believed to be) June 30th
+### Police tackle fleeing protesters | June 30th
 
-Footage shows protesters fleeing while police give chase. Several protesters are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
+Footage shows protesters fleeing down North Lombard while police give chase. Several protesters are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
 
 tags: arrest, baton, beat, knee, knee-on-neck, protester, strike, tackle
 
 id: or-portland-49
 
-geolocation: 
+geolocation: 45.5771009, -122.6843737
 
 **Links**
 
 * https://www.tiktok.com/@dollface999/video/6845321520802467077
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hkv6fb/what_kind_of_dystopian_police_state_shit_is_this/
+* [Tiktok Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-49.1.unknown_video)
 
 
 ### Police shoot protesters | July 2nd
 
-Around 2:30 in the morning on July 2nd, footage shows police shooting at protesters (off-screen). The filmer states that protesters are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
+Around 2:30 in the morning on July 2nd, footage shows police shooting at protesters (off-screen) outside the US District Courthouse. The filmer states that protesters are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
 
 tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-46
 
-geolocation: 
+geolocation: 45.5157426, -122.6768636
 
 **Links**
 
 * https://twitter.com/KohzKah/status/1278578914613288961
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-46.1.mp4)
 
 
 ### Journalist shot by police | July 2nd
 
-Footage shows a streamer approaching the boarded-up justice center. Without warning, shots can be heard and the streamer, with a handful of other protesters, flees to the opposite side of the street. Police continue to fire.
+Footage shows a streamer approaching the US District Courthouse. Without warning, shots can be heard and the streamer, with a handful of other protesters, flees to the opposite side of the street. Police continue to fire.
 
 Journalist states they were hit by "some kind of pepper shrapnel," suggesting the police were firing pepper balls.
 
@@ -11438,22 +11452,22 @@ tags: journalist, less-lethal, pepper-ball, shoot
 
 id: or-portland-45
 
-geolocation: 
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
 * https://twitter.com/PredatorFiles/status/1278635513746870276
 
 
-### Police fire on gathered protesters from within Justice Center | July 3rd
+### Police fire on gathered protesters from within US District Courthouse | July 3rd
 
-Prior to incident or-portland-48, where police charged protesters, police inside the Justic Center fired pepper balls at gathered protesters.
+Prior to incident or-portland-48, where police charged protesters, police inside the US District Courthouse fired pepper balls at gathered protesters.
 
 tags: less-lethal, pepper-ball, protester, shoot
 
 id: or-portland-47
 
-geolocation: 
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
@@ -11462,7 +11476,7 @@ geolocation:
 
 ### Local and Federal Police fire on protesters, shove journalist | July 3rd
 
-Footage shows local and federal police emerge quickly from a building, firing riot rounds and spraying pepper spray. Footage shows police shoving a man clearly taking pictures.
+Footage shows local and federal police emerge quickly from the US District Courthouse, firing riot rounds and spraying pepper spray. Footage shows police shoving a man clearly taking pictures.
 
 The second link shows police rushing out and tackling a protester, punching him repeatedly to subdue him.
 
@@ -11472,24 +11486,25 @@ tags: journalist, less-lethal, pepper-ball, pepper-spray, projectile, property-d
 
 id: or-portland-48
 
-geolocation: 
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
 * https://mobile.twitter.com/KohzKah/status/1278944647151104000
 * https://mobile.twitter.com/Johnnthelefty/status/1278969777831079937
 * https://mobile.twitter.com/Johnnthelefty/status/1278989366816239619
+* [Archive Link for First Video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-48.1.mp4)
 
 
 ### Police declare riot, fire pepper balls and tear gas | July 3rd
 
-Portland changed regulations so that police must declare a riot before using tear gas. Police did so and fired pepper balls and used tear gas against protesters. One journalist was shoved by police. She states that she was released after she started shouting her Twitter handle. Police then retreated into the Justice Center.
+Portland changed regulations so that police must declare a riot before using tear gas. Police did so and fired pepper balls and used tear gas against protesters. One journalist was shoved by police. She states that she was released after she started shouting her Twitter handle. Police then retreated into the US District Courthouse.
 
 tags: journalist, less-lethal, pepper-ball, protester, shoot, tackle, tear-gas
 
 id: or-portland-50
 
-geolocation: 
+geolocation: 45.5156185, -122.6770321
 
 **Links**
 
@@ -11501,13 +11516,13 @@ geolocation:
 
 ### Police slash tires of snack van | July 4th
 
-Footage taken around 11:30pm on July 4th, shows the "Snack Van" - a protester van known to come to protests with food and water - driving slowly away from police. Officers rush up to the van and puncture its tires.
+Footage taken around 11:30pm on July 4th near 3rd and Harvey Milk, shows the "Snack Van" - a protester van known to come to protests with food and water - driving slowly away from police. Officers rush up to the van and puncture its tires.
 
 tags: abuse-of-power, property-destruction, protester
 
 id: or-portland-51
 
-geolocation: 
+geolocation: 45.5202558, -122.6744446
 
 **Links**
 
@@ -11515,15 +11530,15 @@ geolocation:
 * [Alternate angle at 1:10:00](https://twitter.com/AbeReviate/status/1279666998809485312)
 
 
-### Police tear gas protesters from within Justice Center | July 5th
+### Police tear gas protesters from within US District Courthouse | July 5th
 
-Early on July 5th, protesters are gathered outside the Justic Center. Several windows in the boards open and tear gas is released. There are no police outside the building. All of the breakable glass windows have been covered with plywood. Some protesters throw the tear gas canisters back toward the building.
+Early on July 5th, protesters are gathered outside the US District Courthouse. Several windows in the boards open and tear gas is released. There are no police outside the building. All of the breakable glass windows have been covered with plywood. Some protesters throw the tear gas canisters back toward the building.
 
 tags: less-lethal, protester, tear-gas, tear-gas-canister
 
 id: or-portland-52
 
-geolocation: 
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
@@ -11532,13 +11547,13 @@ geolocation:
 
 ### Unknown officers tear gas and shoot at protesters | July 5th
 
-A small group of officers is gathered on the sidewalk. Protesters have been referring to them habitually as an "unnamed Federal Terrorist militia." Protesters begin shouting at the group and approaching them. They respond by throwing tear gas and shooting at protesters.
+A small group of officers is gathered on the sidewalk at 3rd and Main. Protesters have been referring to them habitually as an "unnamed Federal Terrorist militia." Protesters begin shouting at the group and approaching them. They respond by throwing tear gas and shooting at protesters.
 
 tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-53
 
-geolocation: 
+geolocation: 45.5155444, -122.6768958
 
 **Links**
 
@@ -11547,13 +11562,13 @@ geolocation:
 
 ### Violent arrests made by police | July 5th
 
-Footage shows police declaring the protest a riot. They fire tear gas at protesters. Protesters begin to retreat and police follow. Several officers then break from the line, brandishing pepper spray, and shove their way through the crowd. Protesters can be heard shouting, "That's press, that's press." Police throw several protesters to the ground (including the filmer). They then beat protesters with batons, punch them, and arrest them.
+Footage shows police declaring the protest a riot. They fire tear gas at protesters near 4th and Taylor. Protesters begin to retreat and police follow. Several officers then break from the line, brandishing pepper spray, and shove their way through the crowd. Protesters can be heard shouting, "That's press, that's press." Police throw several protesters to the ground (including the filmer). They then beat protesters with batons, punch them, and arrest them.
 
 tags: arrest, journalist, less-lethal, protester, shove, tackle, tear-gas, throw
 
 id: or-portland-54
 
-geolocation: 
+geolocation: 45.517233, -122.6773747
 
 **Links**
 
@@ -11562,7 +11577,7 @@ geolocation:
 
 ### Police tear gas and shove protesters | July 5th
 
-Footage shows heavy tear gas usage as protesters flee. A protester has fallen and other protesters rush to help them up; police charge in swinging batons at these protesters. A protester can be heard saying, "There's homeless people here," assumed to mean in the vicinity of the tear gas.
+Footage shows heavy tear gas usage as protesters flee near 5th and Taylor. A protester has fallen and other protesters rush to help them up; police charge in swinging batons at these protesters. A protester can be heard saying, "There's homeless people here," assumed to mean in the vicinity of the tear gas.
 
 Footage also shows a reporter shoved by police, knocking the phone out of his hand.
 
@@ -11570,7 +11585,7 @@ tags: baton, bystander, homeless, journalist, less-lethal, protester, strike, te
 
 id: or-portland-57
 
-geolocation: 
+geolocation: 45.5174864, -122.6783183
 
 **Links**
 
@@ -11589,7 +11604,7 @@ tags: hide-badge, less-lethal, protester, tear-gas
 
 id: or-portland-55
 
-geolocation: 
+geolocation: 45.51587, -122.677982
 
 **Links**
 
@@ -11604,13 +11619,13 @@ geolocation:
 
 ### Confirmed report of U.S. Federal agents kneeling on protester | July 6th
 
-Footage shows 2 agents in fatigues, either DHS or U.S. Marshals, kneeling on a protester to make an arrest. A journalist attempting to film is harassed and told to move faster by a third agent.
+Footage shows 2 agents in fatigues, either DHS or U.S. Marshals, kneeling on a protester to make an arrest near 4th and Main. A journalist attempting to film is harassed and told to move faster by a third agent.
 
 tags: arrest, journalist, knee, protester
 
 id: or-portland-56
 
-geolocation: 
+geolocation: 45.515932, -122.678325
 
 **Links**
 
@@ -11629,7 +11644,7 @@ tags: less-lethal, projectile, protester, shoot, stun-grenade
 
 id: or-portland-58
 
-geolocation: 
+geolocation: 45.5153952, -122.6776722
 
 **Links**
 
@@ -11640,13 +11655,13 @@ geolocation:
 
 ### Federal agents fire tear gas during shift change | July 11th
 
-Early in the morning on July 11th, federal agents retreated into the courthouse for a shift change (1st link). The second link shows tear gas released after protester pushed towards the door into which federal agents were retreating.
+Early in the morning on July 11th, federal agents retreated into the US District courthouse for a shift change (1st link). The second link shows tear gas released after protester pushed towards the door into which federal agents were retreating.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-59
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -11659,11 +11674,13 @@ geolocation:
 
 In footage from a journalist, an LRAD's dispersal siren can be clearly heard. Antecdotally, the journalist filming writes, "it definitely hurts."
 
+The journalist states the weapon is being operated from within the US District Courthouse.
+
 tags: journalist, less-lethal, lrad, protester
 
 id: or-portland-68
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -11673,13 +11690,13 @@ geolocation:
 
 ### Federal agent shoves protester | July 11th
 
-Footage shows a federal agent running on the sidewalk, screaming "Get out of the way." He then shoves an individual to the ground. The individual does not appear to be in his way. Another federal agent walks behind, telling protesters to "Get off the sidewalk." Protesters ask where they are supposed to go and the agent does not answer.
+Footage shows a federal agent running down the 4th Avenue sidewalk (between Salmon and Taylor), screaming "Get out of the way." He then shoves an individual to the ground. The individual does not appear to be in his way. Another federal agent walks behind, telling protesters to "Get off the sidewalk." Protesters ask where they are supposed to go and the agent does not answer.
 
 tags: protester, shove
 
 id: or-portland-69
 
-geolocation: 
+geolocation: 45.5168236, -122.6774529
 
 **Links**
 
@@ -11688,13 +11705,13 @@ geolocation:
 
 ### Journalist shot by federal officers | July 11th
 
-Footage shows federal officers rolling tear gas canisters into a crowd. Officers also fire less-lethal munitions, at least one of which strikes the filmer, a photographer.
+Footage shows federal officers on Main Street (between 3rd and 4th) rolling tear gas canisters into a crowd. Officers also fire less-lethal munitions, at least one of which strikes the filmer, a photographer.
 
 tags: journalist, less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-124
 
-geolocation: 
+geolocation: 45.5157288, -122.6774829
 
 **Links**
 
@@ -11706,30 +11723,33 @@ geolocation:
 
 ### Police fire tear gas and riot rounds at peaceful protesters | July 12th
 
-Protesters are gathered around the Portland Justice Center. Police and Federal agents are massed in a Justice Center doorway. The fire and throw tear gas canisters. In addition, riot rounds can be heard fired repeatedly.
+Protesters are gathered around the US District Courthouse. Police and Federal agents are massed in a doorway. The fire and throw tear gas canisters. In addition, riot rounds can be heard fired repeatedly.
 
 tags: less-lethal, projectile, protester, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-60
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
 * https://twitter.com/hungrybowtie/status/1282217421739225088
 * https://twitter.com/KohzKah/status/1282218847018168321
 * https://twitter.com/KohzKah/status/1282223079519739904
+* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-60.1.mp4)
+* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-60.2.mp4)
+* [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-60.3.mp4)
 
 
 ### Police and federal agents chase down protester writing in chalk | July 12th
 
-Footage shows a protester on the approved side of the Justice Center line. Without warning, federal agents charge out of the Justice Center at the protester. The protester flees and the agents continue to give chase. They can be heard shouting, "Get her."
+Footage shows a protester on the approved side of the US District Courthouse line. Without warning, federal agents charge out of the Justice Center at the protester. The protester flees and the agents continue to give chase. They can be heard shouting, "Get her."
 
 tags: abuse-of-power, protester
 
 id: or-portland-61
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -11744,7 +11764,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: or-portland-62
 
-geolocation: 
+geolocation: 45.5153952, -122.6776722
 
 **Links**
 
@@ -11753,7 +11773,7 @@ geolocation:
 
 ### Police and federal agents tear gas protesters again | July 12th
 
-After police and federal agents retreated into the Justice Center, protesters followed. Footage shows agents emerging from the Justice Center and firing tear gas and other riot rounds. Most protesters flee, but some remain to film. A single firework can be heard at the end of the footage.
+After police and federal agents retreated into the US District Courthouse, protesters followed. Footage shows agents emerging from the US District Courthouse and firing tear gas and other riot rounds. Most protesters flee, but some remain to film. A single firework can be heard at the end of the footage.
 
 Additional footage shows police and federal agents continuing to tear gas protesters into the park.
 
@@ -11761,7 +11781,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-63
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -11773,13 +11793,13 @@ geolocation:
 
 ### Police and federal agents tackle, arrest, and tear gas protesters | July 12th
 
-In what is allegedly the fourth distinct tear gassing of the night, federal agents and police charged out from the Justice Center. They tackle and arrest at least one protester, then deploy tear gas to cover their retreat. In addition, officers are seen shoving both protesters and journalists, and threatening them with batons while pushing protests out of the park. They continually disperse tear gas while doing so. In particular, the last link shows an officer pushing an individual clearly marked press off a set of steps and into bushes.
+In what is allegedly the fourth distinct tear gassing of the night, federal agents and police charged out from the US District Courthouse. They tackle and arrest at least one protester, then deploy tear gas to cover their retreat. In addition, officers are seen shoving both protesters and journalists, and threatening them with batons while pushing protests out of the park. They continually disperse tear gas while doing so. In particular, the last link shows an officer pushing an individual clearly marked press off a set of steps and into bushes.
 
 tags: arrest, journalist, less-lethal, protester, shove, tackle, tear-gas
 
 id: or-portland-64
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -11795,7 +11815,7 @@ geolocation:
 
 ### Protester shot in the head | July 12th
 
-Footage taken just after midnight on July 12th shows a protester holding a stereo above his head across the street from the Justice Center. A shot can be heard and the protester crumples to the ground, bleeding heavily.
+Footage taken just after midnight on July 12th shows a protester holding a stereo above his head across the street from the US District Courthouse. A shot can be heard and the protester crumples to the ground, bleeding heavily.
 
 Reports from protesters say he was taken to the hospital.
 
@@ -11803,7 +11823,7 @@ tags: less-lethal, projectile, protester, shoot
 
 id: or-portland-65
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -11815,28 +11835,29 @@ geolocation:
 
 ### Photojournalist shows wounds from less-lethal rounds | July 12th
 
-Footage shows an individual wearing a t-shirt that clearly states "PRESS" on the back. He has rolled up his shirt to reveal 2 bleeding spots on his back, as well as a series of bruises. An individual can be heard stating that the journalist was "shot in the back."
+Footage taken at 3rd and Main shows an individual wearing a t-shirt that clearly states "PRESS" on the back. He has rolled up his shirt to reveal 2 bleeding spots on his back, as well as a series of bruises. An individual can be heard stating that the journalist was "shot in the back."
 
 tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-66
 
-geolocation: 
+geolocation: 45.51587, -122.677982
 
 **Links**
 
 * https://twitter.com/greg_doucette/status/1282338521802563584
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-66.1.mp4)
 
 
 ### Protest medics shoved and struck by batons after trying to give aid to protester | July 12th
 
-Footage shows 3 protest medics standing around a protester on the ground. Federal agents approach and motion for them to leave. The medics obey the orders, but federal agents shove them to the ground and strike them with batons regardless.
+Footage taken near 5th and Salmon shows 3 protest medics standing around a protester on the ground. Federal agents approach and motion for them to leave. The medics obey the orders, but federal agents shove them to the ground and strike them with batons regardless.
 
 tags: baton, beat, medic, shove, strike
 
 id: or-portland-67
 
-geolocation: 
+geolocation: 45.5167388, -122.6784982
 
 **Links**
 
@@ -11851,7 +11872,7 @@ tags: journalist, less-lethal, tear-gas, tear-gas-canister
 
 id: or-portland-70
 
-geolocation: 
+geolocation: 45.5162424, -122.6766617
 
 **Links**
 
@@ -11867,7 +11888,7 @@ tags: abuse-of-power, property-destruction, protester
 
 id: or-portland-71
 
-geolocation: 
+geolocation: 45.5164231, -122.6773197
 
 **Links**
 
@@ -11876,13 +11897,13 @@ geolocation:
 
 ### Police tear gas protesters in residential area | July 13th
 
-Around 12:30 AM PST, police arrive and declare a riot, giving a dispersal order. Police then fire a considerable amount of tear gas at protesters milling about. Protesters were allegedly gathered in a residential area, where bystanders could easily have been caught in the gas.
+Around 12:30 AM PST, police arrive at Lombard and Denver and declare a riot, giving a dispersal order. Police then fire a considerable amount of tear gas at protesters milling about. Protesters were allegedly gathered in a residential area, where bystanders could easily have been caught in the gas.
 
 tags: less-lethal, protester, tear-gas
 
 id: or-portland-72
 
-geolocation: 
+geolocation: 45.5770984, -122.6867857
 
 **Links**
 
@@ -11892,13 +11913,13 @@ geolocation:
 
 ### Police pepper-spray and kneel on protesters | July 13th
 
-After declaring the protest a riot and firing tear gas, police made several violent arrests. Footage shows officers tackling 2 protesters and kneeling on them to arrest them. They also fire pepper spray indiscriminately, at both the arrestees and other protesters. One officer is falling over tackling a protester while discharging pepper spray. Protesters can be heard shouting that police allegedly ripped off a protester's mask to pepper spray her.
+After declaring the protest a riot and firing tear gas, police made several violent arrests. Footage taken at Lombard and Fenwick shows officers tackling 2 protesters and kneeling on them to arrest them. They also fire pepper spray indiscriminately, at both the arrestees and other protesters. One officer is falling over tackling a protester while discharging pepper spray. Protesters can be heard shouting that police allegedly ripped off a protester's mask to pepper spray her.
 
 tags: arrest, knee, less-lethal, pepper-spray, protester, spray, tackle
 
 id: or-portland-73
 
-geolocation: 
+geolocation: 45.577101, -122.6852215
 
 **Links**
 
@@ -11907,13 +11928,13 @@ geolocation:
 
 ### Police officer rips off protester's mask and pepper sprays them | July 14th
 
-Footage shows a protester standing on the sidewalk with her hands up. An officer rips her mask off and pepper sprays her.
+Footage taken near Lombard and Fenwick shows a protester standing on the sidewalk with her hands up. An officer rips her mask off and pepper sprays her.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-75
 
-geolocation: 
+geolocation: 45.5771004, -122.6847064
 
 **Links**
 
@@ -11922,13 +11943,13 @@ geolocation:
 
 ### Police pepper spray protesters with hands up | July 14th
 
-Footage shows police approaching protesters in the street. A speaker can be heard declaring the protest a riot and giving a dispersal order. Protesters stand with their hands up or with arms interlocked. Police pepper spray them during the dispersal order.
+Footage taken near Lombard and Elmore shows police approaching protesters in the street. A speaker can be heard declaring the protest a riot and giving a dispersal order. Protesters stand with their hands up or with arms interlocked. Police pepper spray them during the dispersal order.
 
 tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-76
 
-geolocation: 
+geolocation: 45.5770986, -122.685807
 
 **Links**
 
@@ -11937,13 +11958,13 @@ geolocation:
 
 ### Federal agents use explosive munitions to clear protesters | July 15th
 
-Footage shows U.S. Marshals using a variety of munitions (tear gas, flashbangs, pepper balls) to clear protesters from the street. In the second link, protesters are behind makeshift barricades, but in the first and third, they are just in the street.
+Footage shows U.S. Marshals using a variety of munitions (tear gas, flashbangs, pepper balls) to clear protesters from the street and through Chapman and Lownsdale Squares. In the second link, protesters are behind makeshift barricades, but in the first and third, they are just in the street.
 
 tags: less-lethal, pepper-ball, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-74
 
-geolocation: 
+geolocation: 45.5157288, -122.6774829
 
 **Links**
 
@@ -11954,7 +11975,7 @@ geolocation:
 
 ### Federal agents arrest protester without identifying themselves or stating charges | July 15th
 
-Federal agents approach a small group of protesters on the sidewalk. They seize a protester, place them in an unmarked car, and drive off. They make no attempt to identify themselves, to read the protester their rights, or to state the charges against the protester.
+Federal agents approach a small group of protesters on the sidewalk near 2nd and Main. They seize a protester, place them in an unmarked car, and drive off. They make no attempt to identify themselves, to read the protester their rights, or to state the charges against the protester.
 
 Additional footage and news establish that this is a pattern of behavior, not an isolated incident.
 
@@ -11962,7 +11983,7 @@ tags: abuse-of-power, arrest
 
 id: or-portland-77
 
-geolocation: 
+geolocation: 45.5153351, -122.676005
 
 **Links**
 
@@ -11973,13 +11994,13 @@ geolocation:
 
 ### Officer leaving Justice Center shoves protester and threatens with gun | July 15th
 
-An officer in street clothes is leaving the Justice Center through the garage, possibly at the end of his shift. A protester runs across the street and blocks the truck's path. The protester and officer argue for a moment, then the officer exits his vehicle, charges the protester and shoves him to the ground. The protester then approaches and shoves the truck door. The officer then brandishes a sidearm, shouting, "I'm a fucking cop. I will fucking shoot you. Back the fuck off."
+An officer in street clothes is leaving the Justice Center through the garage on 2nd Avenue, possibly at the end of his shift. A protester runs across the street and blocks the truck's path. The protester and officer argue for a moment, then the officer exits his vehicle, charges the protester and shoves him to the ground. The protester then approaches and shoves the truck door. The officer then brandishes a sidearm, shouting, "I'm a fucking cop. I will fucking shoot you. Back the fuck off."
 
 tags: gun, protester, shove, vehicle
 
 id: or-portland-78
 
-geolocation: 
+geolocation: 45.5149836, -122.676194
 
 **Links**
 
@@ -11989,13 +12010,13 @@ geolocation:
 
 ### Police tackle protester off bike and into lightpole | July 16th
 
-Footage shows a protester riding down the street. He appears to say something to an officer on the far side of the street. Then an officer in the intersection tackles him to the ground, kneels on him and arrests him.
+Footage shows a protester riding down the street at 4th and Salmon. He appears to say something to an officer on the far side of the street. Then an officer in the intersection tackles him to the ground, kneels on him and arrests him.
 
 tags: arrest, knee, protester, tackle
 
 id: or-portland-86
 
-geolocation: 
+geolocation: 45.5164817, -122.6776398
 
 **Links**
 
@@ -12017,7 +12038,7 @@ tags: less-lethal, lrad, pepper-ball, shoot, stun-grenade, tear-gas
 
 id: or-portland-79
 
-geolocation: 
+geolocation: 45.5162412, -122.6765964
 
 **Links**
 
@@ -12037,7 +12058,7 @@ geolocation:
 
 ### Protester shows wound left by less-lethal round | July 16th
 
-Initial footage shows protesters carrying a wounded man to safety. Medics come to treat him and give him an inhaler. A reporter later states he is a homeless man who was at the Riot Ribs mutual aid station.
+Initial footage taken near 3rd and Salmon shows protesters carrying a wounded man to safety. Medics come to treat him and give him an inhaler. A reporter later states he is a homeless man who was at the Riot Ribs mutual aid station.
 
 He shares his experience with another reporter in English and Spanish, stating that he was crossing the crosswalk as part of the protest when he was shot. He states he has asthma and also is now suffering pain whenever he moves his right arm.
 
@@ -12045,7 +12066,7 @@ tags: homeless, less-lethal, projectile, protester
 
 id: or-portland-80
 
-geolocation: 
+geolocation: 45.5162424, -122.6766617
 
 **Links**
 
@@ -12057,28 +12078,29 @@ geolocation:
 
 ### Bystander recounts experience being tear-gassed while walking home | July 16th
 
-A man interviewed by a journalist says he was walking home and saw a small group of police. He says he was shot at and struck by police with tear gas. He says that now he is standing among the protesters to understand what's going on.
+A man interviewed by a journalist at 3rd and Salmon says he was walking home and saw a small group of police. He says he was shot at and struck by police with tear gas. He says that now he is standing among the protesters to understand what's going on.
 
 tags: bystander, less-lethal, tear-gas
 
 id: or-portland-81
 
-geolocation: 
+geolocation: 45.5162424, -122.6766617
 
 **Links**
 
 * https://twitter.com/MrOlmos/status/1284025326612254720
+* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-81.1.mp4)
 
 
 ### Protester and reporter struck by impact munitions | July 16th
 
-At the beginning of the series of events in or-portland-79, police and federal agetns fire pepper balls and tear gas. Footage clearly shows a protester struck by a round, who then retreats. In a second video, the filmer, a journalist, is hit in the ankle.
+At the beginning of the series of events in or-portland-79, police and federal agents fire pepper balls and tear gas at protesters near 3rd and Salmon. Footage clearly shows a protester struck by a round, who then retreats. In a second video, the filmer, a journalist, is hit in the ankle.
 
 tags: journalist, less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-82
 
-geolocation: 
+geolocation: 45.5162424, -122.6766617
 
 **Links**
 
@@ -12088,13 +12110,13 @@ geolocation:
 
 ### Police charge, strike and arrest protesters | July 16th
 
-Footage uploaded shortly before midnight on July 16th shows police and protesters standing off. Without warning, police charge at protesters, striking, shoving and arresting them.
+Footage uploaded shortly before midnight on July 16th shows police and protesters standing off outside the Penumbra Kelly Building. Without warning, police charge at protesters, striking, shoving and arresting them.
 
 tags: arrest, protester, shove, strike, tackle
 
 id: or-portland-83
 
-geolocation: 
+geolocation: 45.523019, -122.6143974
 
 **Links**
 
@@ -12105,11 +12127,13 @@ geolocation:
 
 Images from a medic show a bruise left a rubber bullet on July 16th. Other images of the medic consistently show them wearing marked clearly as a medic, like [here](https://twitter.com/peyhubbard/status/1285369254234083330?s=20)
 
+The exact location is unknown, but officers did fire less-lethal rounds at protesters near the US District Courthouse on July 16th.
+
 tags: less-lethal, medic, projectile, shoot
 
 id: or-portland-122
 
-geolocation: 
+geolocation: 45.5159923, -122.6767309
 
 **Links**
 
@@ -12118,7 +12142,7 @@ geolocation:
 
 ### Police fire second round of tear gas at protesters | July 17th
 
-Shortly after midnight on the morning of July 17th, about two hours after the last round of tear gas and munitions, police and federal agents fire tear gas and impact munitions at protesters for a second time.
+Shortly after midnight on the morning of July 17th, about two hours after the last round of tear gas and munitions, police and federal agents fire a second round of tear gas and impact munitions at protesters gathered outside the US District Courthouse.
 
 Protesters appear to be standing spread out with their hands up when police and federal agents begin firing.
 
@@ -12126,7 +12150,7 @@ tags: less-lethal, projectile, protester, shoot, tear-gas
 
 id: or-portland-84
 
-geolocation: 
+geolocation: 45.5161982, -122.6766199
 
 **Links**
 
@@ -12136,7 +12160,7 @@ geolocation:
 
 ### Police shove protesters down street | July 17th
 
-Footage taken shortly after midnight shows police giving dispersal orders to protesters, then using batons to shove them down the street. Several protesters are seen knocked to the ground.
+Footage taken shortly after midnight shows police giving dispersal orders to protesters outside the Penumbra Kelly Building, then using batons to shove them down the street. Several protesters are seen knocked to the ground.
 
 The second clip shows police suddenly charging at protesters and shoving them. Several arrests are made, during which police appear to kneel on detainees.
 
@@ -12146,7 +12170,7 @@ tags: arrest, baton, knee, protester, shove
 
 id: or-portland-85
 
-geolocation: 
+geolocation: 45.523019, -122.6143974
 
 **Links**
 
@@ -12158,13 +12182,13 @@ geolocation:
 
 ### Police break windows of car, then ram car when it reverses | July 17th
 
-Footage shows police speaking to a driver in a stopped car behind the police line. The road was supposed to be closed, so it is unclear how the driver came to be there. One reporter suggests the car was trapped behind the police line after police pushed protesters down the street. The car edges forward slightly and police halt it, screaming. They then bash the windows of the car with batons. The car reverses and attempts to flee, but is rammed by a police vehicle.
+Footage shows police speaking to a driver in a stopped car behind the police line at SE 47th and E Burnside. The road was supposed to be closed, so it is unclear how the driver came to be there. One reporter suggests the car was trapped behind the police line after police pushed protesters down the street. The car edges forward slightly and police halt it, screaming. They then bash the windows of the car with batons. The car reverses and attempts to flee, but is rammed by a police vehicle.
 
 tags: bystander, property-destruction, vehicle
 
 id: or-portland-87
 
-geolocation: 
+geolocation: 45.5230061, -122.6149833
 
 **Links**
 
@@ -12174,7 +12198,7 @@ geolocation:
 
 ### Federal officers tear gas protesters outside Justice Center | July 17th
 
-Footage uploaded a few hours before midnight on July 17th shows widespread use of tear gas against protesters outside the Justice Center. A reporter on the scene alleges all tear gas was fired by federal officers.
+Footage uploaded a few hours before midnight on July 17th shows widespread use of tear gas against protesters at 4th and Madison. A reporter on the scene alleges all tear gas was fired by federal officers.
 
 The tear gas is used to push protesters away from the Justice Center, past the park, and onto the street.
 
@@ -12182,7 +12206,7 @@ tags: less-lethal, protester, tear-gas
 
 id: or-portland-92
 
-geolocation: 
+geolocation: 45.5151289, -122.6782573
 
 **Links**
 
@@ -12191,13 +12215,13 @@ geolocation:
 
 ### Police and federal officers arrest protester writing in chalk | (Believed to be) July 17th
 
-Footage shows approximately a dozen police and federal officers emerging from a building and approaching a protester writing in chalk. The protester stands to flee and is tackled to the ground by the officers. The individual is then arrested. The protester had a dog, whose leash is held by a federal officer.
+Footage shows approximately a dozen police and federal officers emerging from the IRS building at 3rd and Madison. Officers approach a protester writing in chalk. The protester stands to flee and is tackled to the ground by the officers. The individual is then arrested. The protester had a dog, whose leash is held by a federal officer.
 
 tags: abuse-of-power, arrest, protester, tackle
 
 id: or-portland-107
 
-geolocation: 
+geolocation: 45.5148378, -122.6773971
 
 **Links**
 
@@ -12209,13 +12233,13 @@ geolocation:
 
 ### Police charge at and trample protesters | July 18th
 
-Early in the morning on July 18th, police give a dispersal order and walk protesters down the street. Protesters appear to be complying. Police then charge without warning and treat protesters violently. Police are seen shoving, dragging, throwing and striking protesters.
+Early in the morning on July 18th, police give a dispersal order and walk protesters down the street from Chapman Square. Protesters appear to be complying. Police then charge without warning and treat protesters violently. Police are seen shoving, dragging, throwing and striking protesters.
 
 tags: protester, push, shove, strike, throw
 
 id: or-portland-88
 
-geolocation: 
+geolocation: 45.5153952, -122.6776722
 
 **Links**
 
@@ -12227,13 +12251,13 @@ geolocation:
 
 ### Police repeatedly shove protester | July 18th
 
-Footage from early on July 18th shows police repeatedly shoving a protester on the sidewalk. Police appear to be walking the protesters backwards and while the protester was not walking quickly, he was obeying the police order.
+Footage from early on July 18th shows police repeatedly shoving a protester on the sidewalk near Park and Yamhill. Police appear to be walking the protesters backwards and while the protester was not walking quickly, he was obeying the police order.
 
 tags: protester, shove
 
 id: or-portland-90
 
-geolocation: 
+geolocation: 45.5189515, -122.6810696
 
 **Links**
 
@@ -12242,7 +12266,7 @@ geolocation:
 
 ### Federal agents fire tear gas and impact munitions at crowd | July 18th
 
-Footage uploaded around 2 AM on July 18th shows federal agents firing tear gas and impact munitions at scattered protesters.
+Footage uploaded around 2 AM on July 18th shows federal agents firing tear gas and impact munitions at scattered protesters near 6th and Main.
 
 Additional footage shows flashbangs used at that time. In addition, a reporter claims a flashbang exploded on his foot.
 
@@ -12250,7 +12274,7 @@ tags: journalist, less-lethal, projectile, protester, shoot, stun-grenade, tear-
 
 id: or-portland-91
 
-geolocation: 
+geolocation: 45.5164032, -122.6800923
 
 **Links**
 
@@ -12262,13 +12286,13 @@ geolocation:
 
 ### Police chase, shove and punch protesters | July 18th
 
-Footage shows police chasing protesters while a dispersal order is being given. At various points during the footage, police can be seen striking, punching and shoving protesters.
+Footage shows police chasing protesters near 4th and Taylor while a dispersal order is being given. At various points during the footage, police can be seen striking, punching and shoving protesters.
 
 tags: protester, punch, push, shove, strike
 
 id: or-portland-93
 
-geolocation: 
+geolocation: 45.5172076, -122.6772031
 
 **Links**
 
@@ -12279,11 +12303,13 @@ geolocation:
 
 Footage uploaded around 4 AM PST shows a small cluster of protesters, approximately 50, fleeing down the street from gas launched by federal agents. It appears to be tear gas, by the continual coughing of protesters, but smoke grenades were also deployed at other times in the night. Towards the end of the footage, riot guns can be heard firing.
 
+This incident occurred around the US District Courthouse.
+
 tags: gas, less-lethal, projectile, protester, shoot
 
 id: or-portland-94
 
-geolocation: 
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
@@ -12292,13 +12318,13 @@ geolocation:
 
 ### Police shove protesters obeying directions | July 18th
 
-Footage shows a police line marching protesters down the street. All protesters appear to be following police direction. However, some protesters move slower and are shoved by police. Police also brandish their batons while threatening protesters to move faster. Batons are used to shove protesters to the ground on multiple occasions. Towards the end of the footage, one protester is thrown to the ground and struck with a baton.
+Footage shows a police line marching protesters down Yamhill between 5th and 6th. All protesters appear to be following police direction. However, some protesters move slower and are shoved by police. Police also brandish their batons while threatening protesters to move faster. Batons are used to shove protesters to the ground on multiple occasions. Towards the end of the footage, one protester is thrown to the ground and struck with a baton.
 
 tags: baton, protester, push, shove, strike, threaten
 
 id: or-portland-95
 
-geolocation: 
+geolocation: 45.5182424, -122.6784001
 
 **Links**
 
@@ -12307,13 +12333,13 @@ geolocation:
 
 ### Police and federal agents fire impact munitions at crowd | July 18th
 
-Footage shows police and federal agents working together to push protesters down the street. Continual riot gun fire is heard throughout the footag at a peaceful crowd wherein most protesters have their hands raised. The reporter who took the footage does state that the majority of fire followed procedure (i.e. at the feet), but police were still firing on a peaceful, obeying crowd.
+Footage shows police and federal agents working together to push protesters down the street near 3rd and Salmon. Continual riot gun fire is heard throughout the footag at a peaceful crowd wherein most protesters have their hands raised. The reporter who took the footage does state that the majority of fire followed procedure (i.e. at the feet), but police were still firing on a peaceful, obeying crowd.
 
 tags: less-lethal, pepper-ball, protester, rubber-bullet, shoot
 
 id: or-portland-96
 
-geolocation: 
+geolocation: 45.5162412, -122.6765964
 
 **Links**
 
@@ -12322,13 +12348,13 @@ geolocation:
 
 ### Police officer hurls protester to the ground | July 18th
 
-Footage shows a police officer grabbing a protester by the collar and hurling him to the ground.
+Footage taken near 2nd and MAdison shows a police officer grabbing a protester by the collar and hurling him to the ground.
 
 tags: grab, protester, shove, throw
 
 id: or-portland-89
 
-geolocation: 
+geolocation: 45.5146554, -122.6763743
 
 **Links**
 
@@ -12337,7 +12363,7 @@ geolocation:
 
 ### Protest struck repeatedly and pepper-sprayed | July 18th
 
-A protester standing still is struck repeatedly by an officer with a baton. Another officer then pepper sprays him. The man then gives the officers the finger and walks away.
+A protester standing still outside the US District Courthouse is struck repeatedly by an officer with a baton. Another officer then pepper sprays him. The man then gives the officers the finger and walks away.
 
 The protester later tweeted that a surgeon has splinted it, but he will require an operation on Friday (presumed to be July 24th).
 
@@ -12345,7 +12371,7 @@ tags: baton, beat, less-lethal, pepper-spray, protester, spray, strike
 
 id: or-portland-97
 
-geolocation: 
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
@@ -12357,13 +12383,13 @@ geolocation:
 
 ### Two USNA graduates pepper sprayed | July 18th
 
-First person footage from one of two US Naval Academy graduates shows the graduates approaching federal officers, standing still several feet away. Tear gas rolls into view. Officers then shove the protesters and pepper spray them without warning.
+First person footage from one of two US Naval Academy graduates shows the graduates approaching federal officers outside the US District Courthouse. The graduates then stand still several feet away. Tear gas rolls into view. Officers then shove the protesters and pepper spray them without warning.
 
 tags: less-lethal, pepper-spray, protester, shove, spray, tear-gas
 
 id: or-portland-139
 
-geolocation: 
+geolocation: 45.5158255, -122.6768183
 
 **Links**
 
@@ -12372,13 +12398,13 @@ geolocation:
 
 ### Federal officers fire on Moms Against Police Brutality | July 18th
 
-A group of women calling themselves Moms Against Police Brutality locked arms in the street. Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
+A group of women calling themselves Moms Against Police Brutality locked arms in the street (3rd and Main). Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
 
 tags: less-lethal, pregnant, protester, shove, stun-grenade
 
 id: or-portland-98
 
-geolocation: 
+geolocation: 45.5156595, -122.6769109
 
 **Links**
 
@@ -12390,28 +12416,29 @@ geolocation:
 
 ### Journalist shows wound from impact munition | July 18th
 
-A journalist shows a bloody wound on her leg from a undetermined impact munition. She states she is wearing a bress badge and yellow vest.
+A journalist shows a bloody wound on her leg from a undetermined impact munition at 3rd and Taylor. She states she is wearing a bress badge and yellow vest.
 
 tags: journalist, less-lethal, projectile, shoot
 
 id: or-portland-99
 
-geolocation: 
+geolocation: 45.5169327, -122.6762642
 
 **Links**
 
+* https://twitter.com/defendpdx/status/1284409572740874240
 * https://twitter.com/defendpdx/status/1284410083661582337
 
 
 ### Police charge and tear gas protesters | July 18th
 
-Footage shows the end of a dispersal as police chase fleeing protesters. They hurl several tear gas canisters. One protester is helped to their feet by others; an officer runs up to the group and shoves them.
+Footage shows the end of a dispersal from the Portland Police Assocation down N Lombard. The footage was taken at Lombard and Concord. Police chase fleeing protesters. They hurl several tear gas canisters. One protester is helped to their feet by others; an officer runs up to the group and shoves them.
 
 tags: less-lethal, protester, push, shove, tear-gas, tear-gas-canister
 
 id: or-portland-100
 
-geolocation: 
+geolocation: 45.5771017, -122.6841839
 
 **Links**
 
@@ -12420,13 +12447,13 @@ geolocation:
 
 ### Police charge protesters | July 18th
 
-Footage shows police rushing at protesters. Several protesters are tackled and shoved to the ground. The reporter filming states that at least one bike was confiscated.
+Footage shows police rushing at protesters near Lombard and Pacific Highway. Several protesters are tackled and shoved to the ground. The reporter filming states that at least one bike was confiscated.
 
 tags: property-destruction, protester, push, shove, tackle
 
 id: or-portland-101
 
-geolocation: 
+geolocation: 45.5771371, -122.6822306
 
 **Links**
 
@@ -12435,13 +12462,13 @@ geolocation:
 
 ### Police drop gas out window | July 18th
 
-Footage from outside the Justice Center shows police or federal agents dropping a gas canister out a window of the barricaded Justice Center. It is unclear if the gas is smoke or CS. Protesters were some distance from the entrance and no officers were outside the Justice Center.
+Footage from outside the US District Courthouse shows police or federal agents dropping a gas canister out a window. It is unclear if the gas is smoke or CS. Protesters were some distance from the entrance and no officers were outside the Justice Center.
 
 tags: gas, protester
 
 id: or-portland-102
 
-geolocation: 
+geolocation: 45.5159068, -122.6767751
 
 **Links**
 
@@ -12456,7 +12483,7 @@ tags: less-lethal, pepper-spray, projectile, protester, shoot, spray, tear-gas
 
 id: or-portland-103
 
-geolocation: 
+geolocation: 45.5156595, -122.6769109
 
 **Links**
 
@@ -12464,15 +12491,15 @@ geolocation:
 * https://twitter.com/defendpdx/status/1284357202866663425
 
 
-### Federal officers tear gas protesters outside Justice Center | July 18th
+### Federal officers tear gas protesters outside US District Courthouse | July 18th
 
-Footage taken outside the Justice Center shows federal agents shoving protesters and firing off tear gas. In the second clip, a protester with a leaf blower helps get tear gas off protesters; flashbangs can be heard during this footage.
+Footage taken at 3rd and Main shows federal agents shoving protesters and firing off tear gas. In the second clip, a protester with a leaf blower helps get tear gas off protesters; flashbangs can be heard during this footage.
 
 tags: less-lethal, protester, shove, stun-grenade, tear-gas
 
 id: or-portland-104
 
-geolocation: 
+geolocation: 45.5156595, -122.6769109
 
 **Links**
 
@@ -12481,9 +12508,9 @@ geolocation:
 * https://twitter.com/LindseyPSmith7/status/1284727105121443840
 
 
-### Federal officers tear gas protesters outside Justice Center a second time | July 18th
+### Federal officers tear gas protesters outside US District Courthouse a second time | July 18th
 
-Footage shows federal officers outside the Justice Center firing tear gas at protesters. Munitions recovered during the incident also show police fired smoke grenades.
+Footage shows federal officers near 3rd and Main firing tear gas at protesters. Munitions recovered during the incident also show police fired smoke grenades.
 
 Police also used flashbangs.
 
@@ -12491,7 +12518,7 @@ tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: or-portland-105
 
-geolocation: 
+geolocation: 45.5156595, -122.6769109
 
 **Links**
 
@@ -12504,13 +12531,13 @@ geolocation:
 
 ### Police shove legal observer | July 18th
 
-Footage shows protesters retreating at direction of a police line. One legal observer is shoved to the ground on camera. A protester is seen lying in the street. A medic approaches to aid the protester, but it is unclear what caused the protester's injury.
+Footage shows protesters retreating north on 4th past Salmon, following police directions. One legal observer is shoved to the ground on camera. A protester is seen lying in the street. A medic approaches to aid the protester, but it is unclear what caused the protester's injury.
 
 tags: legal-observer, protester, shove
 
 id: or-portland-106
 
-geolocation: 
+geolocation: 45.5164817, -122.6776398
 
 **Links**
 
@@ -16986,11 +17013,13 @@ geolocation: 45.5171098, -122.6797405
 
 A protester wearing a reflective vest walks away from police with their hands up. An officer charges them from behind and shoves them to the ground.
 
+This occurred near 6th and Main
+
 tags: protester, push, shove
 
 id: or-portland-366
 
-geolocation: 
+geolocation: 45.5163685, -122.679971
 
 **Links**
 
@@ -17000,7 +17029,7 @@ geolocation:
 
 ### Police shove medic to the ground | September 23rd
 
-A police officer charges at a protest medic walking in the street nera SW Main and SW 6th and shoves the medic to the ground.
+A police officer charges at a protest medic walking in the street near SW Main and SW 6th and shoves the medic to the ground.
 
 tags: medic, push, shove
 
