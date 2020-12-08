@@ -1287,11 +1287,11 @@ On the 13th day of protests outside the Getty House, the official Los Angeles ma
 
 Protests have been intended to show popular discontent with the possibility of President-Elect Biden nominating Mayor Garcetti to a position in his cabinet.
 
-tags: protester, legal-observer, strike, baton
+tags: baton, legal-observer, protester, strike
 
 id: ca-losangeles-65
 
-geolocation: 34.063557,-118.3186402
+geolocation: 34.063557, -118.3186402
 
 **Links**
 
