@@ -1281,6 +1281,26 @@ geolocation: 34.080414, -118.1642954
 * https://twitter.com/chadloder/status/1332249085382836225
 
 
+### Protesters outside Mayor's home beaten with batons | December 6th
+
+On the 13th day of protests outside the Getty House, the official Los Angeles mayoral residence, police charged protesters, striking them and legal observers with batons.
+
+Protests have been intended to show popular discontent with the possibility of President-Elect Biden nominating Mayor Garcetti to a position in his cabinet.
+
+tags: baton, legal-observer, protester, strike
+
+id: ca-losangeles-65
+
+geolocation: 34.063557, -118.3186402
+
+**Links**
+
+* https://twitter.com/PplsCityCouncil/status/1335651332179386368
+* https://twitter.com/PplsCityCouncil/status/1335814255212314624
+* https://www.reddit.com/r/PublicFreakout/comments/k8a6iy/chaos_erupts_as_lapd_officers_swings_wildly_at/
+* https://www.reddit.com/r/PublicFreakout/comments/k8jlae/la_cops_doing_what_they_do_best/
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | June 29th
