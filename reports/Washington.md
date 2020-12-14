@@ -43,6 +43,21 @@ geolocation: 47.0450936, -122.8973967
 * https://www.youtube.com/watch?v=s7MM1VauRHo
 
 
+### Police tear gas left wing protesters following shooting | December 12th
+
+After a right wing protester shot a counter protester, Olympia police proceeded to throw tear gas and stun grenades at counter protesters still gathered near Capitol and Union.
+
+tags: less-lethal, protester, stun-grenade, tear-gas
+
+id: wa-olympia-2
+
+geolocation: 47.0387384, -122.9008782
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1337887693724811266
+
+
 ## Seattle
 
 ### Police beat unarmed man on the ground | May 29th
