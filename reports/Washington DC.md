@@ -835,11 +835,11 @@ geolocation: 38.9013441, -77.0387466
 
 After shoving between Black Lives Matter protesters and Metropolitan Police officers starts on I street (between 16th and 17th), a police officer blankets the crowd with pepper spray, spraying a credentialed journalist who is carrying a camera.
 
-tags: protester, journalist, spray, pepper-spray
+tags: journalist, less-lethal, pepper-spray, protester, spray
 
 id: dc-dc-51
 
-geolocation: 38.9013276,-77.0380352
+geolocation: 38.9013276, -77.0380352
 
 **Links**
 
@@ -850,14 +850,15 @@ geolocation: 38.9013276,-77.0380352
 
 On K street between 16th and 17th, a white-shirted officer lifts an individual in the counter protester crowd (believed to be a medic) off the ground, carries them several feet, and hurls them to the ground. There is no clear justification and the officer made no attempt at arrest.
 
-tags: medic, throw, grab
+tags: grab, medic, throw
 
 id: dc-dc-52
 
-geolocation: 38.9025183,-77.0377747
+geolocation: 38.9025183, -77.0377747
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/kc3l78/a_dc_police_officer_literally_picked_up_a/
 * https://twitter.com/urbanek_nick/status/1337956620157014016
 * https://twitter.com/TSand83/status/1338328098106957829
+
