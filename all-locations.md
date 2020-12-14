@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-12-14T19:48:46.271874+00:00
+UPDATED AT: 2020-12-14T19:49:29.932209+00:00
 
 
 # Alabama
@@ -20122,6 +20122,21 @@ geolocation: 47.0450936, -122.8973967
 **Links**
 
 * https://www.youtube.com/watch?v=s7MM1VauRHo
+
+
+### Police tear gas left wing protesters following shooting | December 12th
+
+After a right wing protester shot a counter protester, Olympia police proceeded to throw tear gas and stun grenades at counter protesters still gathered near Capitol and Union.
+
+tags: less-lethal, protester, stun-grenade, tear-gas
+
+id: wa-olympia-2
+
+geolocation: 47.0387384, -122.9008782
+
+**Links**
+
+* https://twitter.com/R3volutionDaddy/status/1337887693724811266
 
 
 ## Seattle
