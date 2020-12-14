@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-12-08T19:22:48.120160+00:00
+UPDATED AT: 2020-12-14T19:43:04.258108+00:00
 
 
 # Alabama
@@ -6480,6 +6480,21 @@ geolocation: 44.9737913, -93.2712205
 
 * https://twitter.com/GriffinMalone6/status/1298835525479014400
 * [Full stream](https://youtu.be/ava1HJ4qIlg)
+
+
+### Police arrest and injure protester | December 4th
+
+During a small protest on December 4th, police made several arrests, mostly for obstructing the legal system. During one of these arrests at Chicago and 38th, an officer singled out a black protester watching the arrest. The officer approaches the protester, who begins to step away. The officer then chases the protester and throws him to the ground, allegedly dislocating his shoulder.
+
+tags: arrest, protester, tackle, throw
+
+id: mn-minneapolis-39
+
+geolocation: 44.9342249, -93.2624022
+
+**Links**
+
+* https://twitter.com/929_julian/status/1337531637026971649
 
 
 
