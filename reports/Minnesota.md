@@ -584,12 +584,13 @@ geolocation: 44.9737913, -93.2712205
 
 During a small protest on December 4th, police made several arrests, mostly for obstructing the legal system. During one of these arrests at Chicago and 38th, an officer singled out a black protester watching the arrest. The officer approaches the protester, who begins to step away. The officer then chases the protester and throws him to the ground, allegedly dislocating his shoulder.
 
-tags: protester, arrest, tackle, throw
+tags: arrest, protester, tackle, throw
 
 id: mn-minneapolis-39
 
-geolocation: 44.9342249,-93.2624022
+geolocation: 44.9342249, -93.2624022
 
 **Links**
 
 * https://twitter.com/929_julian/status/1337531637026971649
+
