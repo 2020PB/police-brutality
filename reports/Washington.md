@@ -47,11 +47,11 @@ geolocation: 47.0450936, -122.8973967
 
 After a right wing protester shot a counter protester, Olympia police proceeded to throw tear gas and stun grenades at counter protesters still gathered near Capitol and Union.
 
-tags: protester, tear-gas, stun-grenade, less-lethal
+tags: less-lethal, protester, stun-grenade, tear-gas
 
 id: wa-olympia-2
 
-geolocation: 47.0387384,-122.9008782
+geolocation: 47.0387384, -122.9008782
 
 **Links**
 
