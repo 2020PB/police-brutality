@@ -869,11 +869,11 @@ At a Jail Support event near the Henry J Daly building, police blanketed the cro
 
 Footage seems to indicate the police escalated the conflict by repeatedly shoving protesters back.
 
-tags: protester, shove, push, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: dc-dc-53
 
-geolocation: 38.8940291,-77.0151978
+geolocation: 38.8940291, -77.0151978
 
 **Links**
 
@@ -883,3 +883,4 @@ geolocation: 38.8940291,-77.0151978
 * https://twitter.com/ChuckModi1/status/1338622027138265091
 * https://twitter.com/ChuckModi1/status/1338626246947840000
 * https://twitter.com/ChuckModi1/status/1338640096862609409
+
