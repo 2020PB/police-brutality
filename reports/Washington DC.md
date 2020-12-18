@@ -862,3 +862,25 @@ geolocation: 38.9025183, -77.0377747
 * https://twitter.com/urbanek_nick/status/1337956620157014016
 * https://twitter.com/TSand83/status/1338328098106957829
 
+
+### Police pepper spray jail support | December 13th
+
+At a Jail Support event near the Henry J Daly building, police blanketed the crowd with pepper spray after an altercation between police and protesters where police shoved protesters and a protester allegedly sprayed water on an officer. At least one protester was arrested during the event.
+
+Footage seems to indicate the police escalated the conflict by repeatedly shoving protesters back.
+
+tags: less-lethal, pepper-spray, protester, push, shove, spray
+
+id: dc-dc-53
+
+geolocation: 38.8940291, -77.0151978
+
+**Links**
+
+* https://twitter.com/StreamerWayward/status/1338624467224891395
+* https://twitter.com/TrendingThisIs/status/1338643460136579082
+* https://twitter.com/TrendingThisIs/status/1338644007560249344
+* https://twitter.com/ChuckModi1/status/1338622027138265091
+* https://twitter.com/ChuckModi1/status/1338626246947840000
+* https://twitter.com/ChuckModi1/status/1338640096862609409
+
