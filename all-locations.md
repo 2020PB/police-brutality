@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-12-18T20:27:51.157225+00:00
+UPDATED AT: 2020-12-22T19:55:54.393288+00:00
 
 
 # Alabama
@@ -22372,6 +22372,22 @@ geolocation: 38.8940291, -77.0151978
 * https://twitter.com/ChuckModi1/status/1338622027138265091
 * https://twitter.com/ChuckModi1/status/1338626246947840000
 * https://twitter.com/ChuckModi1/status/1338640096862609409
+
+
+### Police arrest mother of Karon Hylton | December 19th
+
+At a protest outside the MPD headquarters, the mother of Karon Hylton, a young black man killed during a police chase, is seen speaking on a megaphone outside the building. Several officers exit the building and arrest her. Officers do not state charges to her, nor do they answer protester inquiries. She is released several hours late.
+
+tags: arrest, protester
+
+id: dc-dc-54
+
+geolocation: 38.894212, -77.0165467
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1340468013804507137
+* https://twitter.com/ChuckModi1/status/1340477683340357633
 
 
 
