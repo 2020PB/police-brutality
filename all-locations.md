@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-12-22T19:55:54.393288+00:00
+UPDATED AT: 2020-12-23T05:47:00.346953+00:00
 
 
 # Alabama
@@ -20581,6 +20581,7 @@ geolocation: 47.615225, -122.3207773
 * [A still of the bicyclist's arrest](https://twitter.com/spekulation/status/1278593887410372608)
 * [Footage of the arrest and of police shoving the crowd](https://twitter.com/itsjosephryan/status/1278627952914075648)
 * [Footage of the arrest and of police shoving the crowd](https://www.reddit.com/r/CapHillAutonomousZone/comments/hjuwkk/bop_shield_cop_goes_agro_on_the_bike_brigade/)
+* https://streamable.com/grkofc
 
 
 ### Police make violent arrest | July 2nd
