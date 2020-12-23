@@ -19,11 +19,11 @@ geolocation: 42.3554362, -71.0605178
 
 Footage from shortly after midnight on June 1st shows two Boston Police officer pepper spraying protesters standing near the Emerson Paramount Center.
 
-tags: protester, pepper-spray, spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ma-boston-4
 
-geolocation: 42.3538167,-71.0621531
+geolocation: 42.3538167, -71.0621531
 
 **Links**
 
@@ -34,11 +34,11 @@ geolocation: 42.3538167,-71.0621531
 
 Bodycam footage from Washington Street, taken around 1:11 AM, shows a protester walking while gesturing with their hands. A police officer off to the side then pepper sprays the protester.
 
-tags: protester, pepper-spray, spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ma-boston-5
 
-geolocation: 42.3553433,-71.060696
+geolocation: 42.3553433, -71.060696
 
 **Links**
 
@@ -49,11 +49,11 @@ geolocation: 42.3553433,-71.060696
 
 Bodycam footage from early on June 1st, taken near Washington and Hawley, shows several officers surrounding a protester. One officer taps the protester on the shoulder then pepper sprays the protester as they turn.
 
-tags: protester, pepper-spray, spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ma-boston-6
 
-geolocation: 42.3557014,-71.0589667
+geolocation: 42.3557014, -71.0589667
 
 **Links**
 
@@ -64,11 +64,11 @@ geolocation: 42.3557014,-71.0589667
 
 Bodycam footage from 1:20 AM on June 1st, on the East side of Boston Commons, shows officers shouting "Move Back" at protesters while blanketing them with pepper spray.
 
-tags: protester, pepper-spray, spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ma-boston-7
 
-geolocation: 42.3551191,-71.0633205
+geolocation: 42.3551191, -71.0633205
 
 **Links**
 
@@ -79,11 +79,11 @@ geolocation: 42.3551191,-71.0633205
 
 Footage taken around 2:10 AM June 1st near Tremont and Bromfield, shows an officer approaching a crowd of protesters and pepper spraying them.
 
-tags: protester, pepper-spray, spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ma-boston-8
 
-geolocation: 42.3569304,-71.0615786
+geolocation: 42.3569304, -71.0615786
 
 **Links**
 
@@ -94,11 +94,11 @@ geolocation: 42.3569304,-71.0615786
 
 Footage from the Boston Commons (Tremont and Park) around 2 AM shows an officer approaching a protester with their hands up. The officer then shoves the protester to the ground with their baton.
 
-tags: protester, push, shove, baton
+tags: baton, protester, push, shove
 
 id: ma-boston-9
 
-geolocation: 42.3564833,-71.0620985
+geolocation: 42.3564833, -71.0620985
 
 **Links**
 
@@ -112,11 +112,11 @@ geolocation: 42.3564833,-71.0620985
 
 Footage near Tremont and Bromfield on June 1st shows police facing off against a crowd of protesters. A hissing sound can be heard (likely pepper spray) and protesters begin to scatter away from police. On individual on a bike has trouble moving. An officer then knocks the individual off the bike with their baton.
 
-tags: protester, push, shove, baton
+tags: baton, protester, push, shove
 
 id: ma-boston-10
 
-geolocation: 42.3557595,-71.0628073
+geolocation: 42.3557595, -71.0628073
 
 **Links**
 
@@ -129,11 +129,11 @@ geolocation: 42.3557595,-71.0628073
 
 Footage from around 1 AM June 1st, that appears to be on the Tremont side of the Boston Commons, shows a protester kicking back a smoke or gas grenade launched by police. Police can then be heard saying, "Let's get this fucker," and "Lock him up," then charge, tackle, and arrest the protester.
 
-tags: protester, tackle, arrest
+tags: arrest, protester, tackle
 
 id: ma-boston-11
 
-geolocation: 42.3557595,-71.0628073
+geolocation: 42.3557595, -71.0628073
 
 **Links**
 
