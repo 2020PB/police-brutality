@@ -15,6 +15,133 @@ geolocation: 42.3554362, -71.0605178
 * https://www.wcvb.com/article/boston-police-confront-protesters-in-downtown-crossing/32724753
 
 
+### Police pepper spray protester near Paramount Center | June 1st
+
+Footage from shortly after midnight on June 1st shows two Boston Police officer pepper spraying protesters standing near the Emerson Paramount Center.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: ma-boston-4
+
+geolocation: 42.3538167, -71.0621531
+
+**Links**
+
+* https://youtu.be/wiaLoeDH-FY?t=7
+
+
+### Officer pepper sprays protester passing by him | June 2nd
+
+Bodycam footage from Washington Street, taken around 1:11 AM, shows a protester walking while gesturing with their hands. A police officer off to the side then pepper sprays the protester.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: ma-boston-5
+
+geolocation: 42.3553433, -71.060696
+
+**Links**
+
+* https://youtu.be/wiaLoeDH-FY?t=29
+
+
+### Officers surround and pepper spray protester | June 2nd
+
+Bodycam footage from early on June 1st, taken near Washington and Hawley, shows several officers surrounding a protester. One officer taps the protester on the shoulder then pepper sprays the protester as they turn.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: ma-boston-6
+
+geolocation: 42.3557014, -71.0589667
+
+**Links**
+
+* https://youtu.be/wiaLoeDH-FY?t=32
+
+
+### Officers push protesters back and pepper spray them | June 2nd
+
+Bodycam footage from 1:20 AM on June 1st, on the East side of Boston Commons, shows officers shouting "Move Back" at protesters while blanketing them with pepper spray.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: ma-boston-7
+
+geolocation: 42.3551191, -71.0633205
+
+**Links**
+
+* https://youtu.be/wiaLoeDH-FY?t=36
+
+
+### Police approach and pepper spray protesters | June 2nd
+
+Footage taken around 2:10 AM June 1st near Tremont and Bromfield, shows an officer approaching a crowd of protesters and pepper spraying them.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: ma-boston-8
+
+geolocation: 42.3569304, -71.0615786
+
+**Links**
+
+* https://youtu.be/wiaLoeDH-FY?t=40
+
+
+### Officer shoves protester in Boston Commons | June 2nd
+
+Footage from the Boston Commons (Tremont and Park) around 2 AM shows an officer approaching a protester with their hands up. The officer then shoves the protester to the ground with their baton.
+
+tags: baton, protester, push, shove
+
+id: ma-boston-9
+
+geolocation: 42.3564833, -71.0620985
+
+**Links**
+
+* https://streamable.com/aqe2g7
+* https://streamable.com/jwuypr
+* https://www.youtube.com/watch?v=2p_PRbucpYM
+* https://theappeal.org/bodycam-video-shows-mob-mentality-of-boston-police-who-responded-to-george-floyd-protests-lawyer-says/
+
+
+### Officer knocks protester off bike | June 2nd
+
+Footage near Tremont and Bromfield on June 1st shows police facing off against a crowd of protesters. A hissing sound can be heard (likely pepper spray) and protesters begin to scatter away from police. On individual on a bike has trouble moving. An officer then knocks the individual off the bike with their baton.
+
+tags: baton, protester, push, shove
+
+id: ma-boston-10
+
+geolocation: 42.3557595, -71.0628073
+
+**Links**
+
+* https://streamable.com/k8aof9
+* https://www.youtube.com/watch?v=2p_PRbucpYM
+* https://theappeal.org/bodycam-video-shows-mob-mentality-of-boston-police-who-responded-to-george-floyd-protests-lawyer-says/
+
+
+### Officers arrest protester who kicks gas canister | June 2nd
+
+Footage from around 1 AM June 1st, that appears to be on the Tremont side of the Boston Commons, shows a protester kicking back a smoke or gas grenade launched by police. Police can then be heard saying, "Let's get this fucker," and "Lock him up," then charge, tackle, and arrest the protester.
+
+tags: arrest, protester, tackle
+
+id: ma-boston-11
+
+geolocation: 42.3557595, -71.0628073
+
+**Links**
+
+* https://streamable.com/82t0n3
+* https://www.youtube.com/watch?v=2p_PRbucpYM
+* https://theappeal.org/bodycam-video-shows-mob-mentality-of-boston-police-who-responded-to-george-floyd-protests-lawyer-says/
+
+
 ### A cop takes someone's protest sign and destroys it | Unknown Date
 
 An officer walks their bike up behind a protester and rips the sign out of the protester's hands. The officer then rips a chunk off the sign and throws it on the ground.
