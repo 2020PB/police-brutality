@@ -1,6 +1,6 @@
 ## Louisville
 
-### Police shoot rubber bullets at reporter | 2021-05-30
+### Police shoot rubber bullets at reporter | 2020-05-30
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
@@ -17,7 +17,7 @@ geolocation: 38.254123, -85.760135
 * [Victim's response](https://twitter.com/KaitlinRustWAVE/status/1268218653104693248)
 
 
-### Police shoot young woman in the head with a rubber bullet | 2021-05-30
+### Police shoot young woman in the head with a rubber bullet | 2020-05-30
 
 A young woman was injured by a rubber bullet she took to the head.
 
@@ -35,7 +35,7 @@ geolocation: 38.2540079, -85.7590318
 * [Reddit Thread](https://www.reddit.com/r/Louisville/comments/gtk5a1/police_aiming_rubber_bullets_at_protestors_heads/)
 
 
-### Police shoot man in the head with rubber bullet while he is walking away | 2021-05-30
+### Police shoot man in the head with rubber bullet while he is walking away | 2020-05-30
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
@@ -51,7 +51,7 @@ geolocation: 38.2528182, -85.7627649
 * [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
 
 
-### Police shoot at cars in traffic from overpass | 2021-05-30
+### Police shoot at cars in traffic from overpass | 2020-05-30
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
 
@@ -68,7 +68,7 @@ geolocation: 38.2431293, -85.7560353
 * [Reddit Thread](https://www.reddit.com/r/Louisville/comments/guxosk/lmpd_shooting_pepperballs_at_moving_vehicles_in/)
 
 
-### Police smashing water bottles | 2021-05-31
+### Police smashing water bottles | 2020-05-31
 
 Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
 
@@ -85,7 +85,7 @@ geolocation: 38.2538422, -85.7603751
 * https://wfpl.org/louisville-mayor-claims-without-details-protesters-seized-supplies-were-hazardous/
 
 
-### 5 police officers use batons to beat protester | 2021-05-31
+### 5 police officers use batons to beat protester | 2020-05-31
 
 A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison.
 
@@ -103,7 +103,7 @@ geolocation: 38.2456778, -85.7525681
 * [Article and story](https://wfpl.org/protesters-say-they-were-assaulted-before-arrest-fear-covid-19-in-jail/)
 
 
-### Louisville police swarm and beat a man screaming on the ground | (Believed to be) 2021-06-01
+### Louisville police swarm and beat a man screaming on the ground | (Believed to be) 2020-06-01
 
 A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
@@ -118,7 +118,7 @@ geolocation: 38.2534825, -85.7604495
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
 
 
-### Restaurant owner shot and killed | 2021-06-01
+### Restaurant owner shot and killed | 2020-06-01
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
@@ -138,7 +138,7 @@ geolocation: 38.2494543, -85.7970747
 * [Facebook post by officer involved glorifying violence (prior to shooting)](https://i.imgur.com/wZUnHYi.jpg)
 
 
-### Pastor violently arrested during protest | 2021-06-01
+### Pastor violently arrested during protest | 2020-06-01
 
 During a protest on June 1st, a pastor was arrested. He states officers yelled at him and told him to move. When he did not, he states that an officer ordered others to arrest him; those officers then threw him to the ground to handcuff him.
 
@@ -162,7 +162,7 @@ geolocation: 38.2491363, -85.6097483
 * [Complaint filed with LMPD, posted to facebook by the pastor](https://www.facebook.com/story.php?story_fbid=10160169890587516&id=601637515)
 
 
-### Protesters in St. Matthews shot with pepper rounds | 2021-06-03
+### Protesters in St. Matthews shot with pepper rounds | 2020-06-03
 
 Police fired pepper rounds unprovoked at a group of protesters marching prior to curfew in St. Matthews. The incident occurred in front of a Nissan dealership at 4136 Shelbyville road.
 
@@ -178,7 +178,7 @@ geolocation: 38.2518874, -85.6438328
 * https://www.wave3.com/2020/06/04/st-matthews-police-used-pepper-balls-move-protesters/
 
 
-### Police shove woman and then fire pepper balls at people who try to help her | (Believed to be) 2021-06-15
+### Police shove woman and then fire pepper balls at people who try to help her | (Believed to be) 2020-06-15
 
 Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
 
@@ -195,7 +195,7 @@ geolocation: 38.252019, -85.7676495
 * [Victim's account](https://www.instagram.com/p/CBleLePnpR_/)
 
 
-### Police tackle protester, then target witness | 2021-06-16
+### Police tackle protester, then target witness | 2020-06-16
 
 A guy records a half-dozen policemen dogpiling a protester and then one of them shoots the window to stop him from recording.
 
@@ -212,7 +212,7 @@ geolocation: 38.2543333, -85.7619845
 * [Police confirm it was an officer](https://www.buzzfeednews.com/article/amberjamieson/louisville-shot-fired-security-guard-video)
 
 
-### Protester medic beaten and arrested | 2021-06-19
+### Protester medic beaten and arrested | 2020-06-19
 
 Louisville police clear protest medics, shoving them and striking them with batons. Medics clearly identify themselves. One medic is shoved to the ground; she states to officers numerous times that she has a disability.
 
@@ -230,7 +230,7 @@ geolocation: 38.253765, -85.7603896
 * https://mobile.twitter.com/martasmom98/status/1278231277649514496
 
 
-### Police destroy protester belongings after clearing park | 2021-06-27
+### Police destroy protester belongings after clearing park | 2020-06-27
 
 After an incident in which local photographer and protester Tyler Gerth was shot by Steven Lopez, LMPD removed all protesters from Jefferson Square Park. While the park was empty, they removed all protester property including coolers, tents, cooking equipment, speakers, cameras and more. They told protesters they could retrieve the items from 600 Meriwether Ave without mentioning that the items were in a dumpster, having been carried away and compacted by garbage trucks. After public outrage, the mayor offered reimbursement, but only to those who could prove ownership and show receipts of purchase.
 
@@ -246,7 +246,7 @@ geolocation: 38.2539007, -85.7609873
 * https://www.facebook.com/MayorGregFischer/posts/3360993443931596
 
 
-### Livestreamer arrested while filming protest | 2021-06-30
+### Livestreamer arrested while filming protest | 2020-06-30
 
 A livestreamer known by protesters in the Louisville area was arrested during a protest. Police gave a dispersal order and the journalist began backing up as the police line approached. An officer says, "You're under arrest," despite the fact that he obeys the order. Police then tackle him to the ground.
 
@@ -264,7 +264,7 @@ geolocation: 38.2541035, -85.7602982
 * https://www.reddit.com/r/Louisville/comments/hj3cqn/jason_downey_just_got_arrested_for_filming_the/
 
 
-### LMPD Bearcat strikes vehicle; police initially state vehicle hit them, then retract the statement; in addition, bystander filming is arrested | 2021-07-01
+### LMPD Bearcat strikes vehicle; police initially state vehicle hit them, then retract the statement; in addition, bystander filming is arrested | 2020-07-01
 
 On July 1st, a collision was reported between a bystander vehicle and an LMPD armored car, also called a Bearcat. Police initially stated that the Bearcat was rammed by a protester vehicle. They later retracted this statement, saying that in fact the Bearcat hit the vehicle. It is not clear if the vehicle was related to the protest at all. However, police state that they intentionally hit the vehicle to prevent further harm, stating that they recognized the vehicle from an incident the previous night.
 
@@ -288,7 +288,7 @@ geolocation: 38.2535046, -85.7588433
 * [Additional footage from bystander](https://www.instagram.com/p/CCFueedBWrK/?igshid=16m4ancp3anxd)
 
 
-### Police target independent journalists and livestreamers for second consecutive night | 2021-07-01
+### Police target independent journalists and livestreamers for second consecutive night | 2020-07-01
 
 Footage from two livestreamers on July 1st shows their arrests. LMPD arrested livestreamers the previous night as well. It should be noted that these independent journalists are not always credentialed, but they are known for releasing full, unedited footage of the protests.
 
@@ -312,7 +312,7 @@ geolocation: 38.254079, -85.7624661
 * https://www.reddit.com/r/Louisville/comments/hjqt9m/lmpd_again_targeted_live_streamers_tonight_steph/
 
 
-### Police respond to splashed water with excessive force | 2021-07-07
+### Police respond to splashed water with excessive force | 2020-07-07
 
 Police are attempting to tow a car at 6th and Jefferson; protesters have gathered in opposition. A protester splashes water on an officer and attempts to run away. The officer chases her, holds her in a headlock, and forces her to the ground with the aid of several other officers. One officer kneels on the protester to arrest her while other officers hold the crowd back. One officer can be heard saying repeatedly saying, "Back the fuck off."
 
@@ -330,7 +330,7 @@ geolocation: 38.2541758, -85.7603442
 * https://twitter.com/bloosemore/status/1280692574949462025
 
 
-### Police fire at peaceful protesters | 2021-07-09
+### Police fire at peaceful protesters | 2020-07-09
 
 Footage shows a handful of peaceful protesters on the sidewalk. Shots can be heard and one of the protesters begins running. The shots are alleged to have been fired from a rooftop. The footage shows officers on the roof of a nearby building. It is believed that they fired the shots, but cannot be verified.
 
@@ -349,7 +349,7 @@ geolocation: 38.252771, -85.7596619
 * https://twitter.com/HayesGardner/status/1281393822786781185
 
 
-### Protester pepper sprayed through open door | 2021-07-10
+### Protester pepper sprayed through open door | 2020-07-10
 
 Kejohn Jennings was at the rear doors of the Hall of Justice, criticizing officers and asking for their names and badge numbers through an opening in the chained shut doors. An officer approaches (alleged in the lawsuit to be Deputy George Grissom) and pepper-sprayed Mr. Jennings through the opening. Jennings is now suing the Jefferson County Sheriff's Office.
 
@@ -366,7 +366,7 @@ geolocation: 38.253455, -85.7609173
 * [Wave3 Story and Video](https://www.wave3.com/2020/07/15/lawyer-alleged-pepper-sprayed-protester-calls-jefferson-co-deputy-danger-our-community/)
 
 
-### Protester hit by police car | 2021-08-25
+### Protester hit by police car | 2020-08-25
 
 A police cruiser peels away from a protest with lights and sirens on. The car takes a rapid turn around a corner and hits a protester crossing the street. The officer emerges from the car and stands over the woman while protesters gather around. The officer states he did not hit the protester.
 
@@ -383,7 +383,7 @@ geolocation: 38.2527927, -85.7606082
 * [1:54:00](https://www.facebook.com/maxwellamitchell/videos/10219351963573439/)
 
 
-### Police fire impact munitions, make violent arrests | 2021-09-23
+### Police fire impact munitions, make violent arrests | 2020-09-23
 
 Police surround protesters, forming lines across the street that kettle the protesters in place. Police fire pepper balls at protesters and some protesters respond with water bottles, but the vast majority stand around. Arrests were also made at the time. One arrestee appeared to be a bystander attempting to turn their moped around; the individual was knocked to the ground, then pulled off the moped by police.
 
@@ -413,7 +413,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/KEYCNewsNow/status/1308886456644055044
 
 
-### Police shove, grab and arrest protesters on sidewalk | 2021-09-23
+### Police shove, grab and arrest protesters on sidewalk | 2020-09-23
 
 Police push protesters down the sidewalk after declaring unlawful assembly. Protesters are largely compliant, though walking slowly. One officer reaches for a protester for unclear reason. The protester then flees and the officer chases for a moment before stopping. Several protesters are shoved by police. One is grabbed by the shirt. The protester slips out of the shirt and is struck by an officer with a baton. The protester then flees down the street. Police proceeded to arrest numerous protesters in the aftermath.
 
@@ -432,7 +432,7 @@ geolocation: 38.2555508, -85.7596154
 * https://twitter.com/BGOnTheScene/status/1308889378291355649
 
 
-### Police trip arrestee after bringing them to their feet | 2021-09-23
+### Police trip arrestee after bringing them to their feet | 2020-09-23
 
 Police make a series of arrests after an incident. One arrestee is pulled to their feet. The arrestee appears to jerk away from the arresting officers. The officers then trip the protester and bring them to the ground.
 
@@ -447,7 +447,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/VenturaReport/status/1308888759589535751
 
 
-### Police trip arrestee; arrestee later seen bleeding from the head | 2021-09-23
+### Police trip arrestee; arrestee later seen bleeding from the head | 2020-09-23
 
 A protester arrested after an early incident is tripped by police, slamming him to the ground. He is later seen bleeding from the head. Protesters attempt to wash his wound with water and give the arrestee a drink.
 
@@ -464,7 +464,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/tr00p3rr/status/1308858613222572034
 
 
-### Police hold bound protester in the air while searching them | 2021-09-23
+### Police hold bound protester in the air while searching them | 2020-09-23
 
 Following an altercation between protesters and police, an arrestee is held in the air by their limbs while police search their pockets. They are then placed in a police van.
 
@@ -480,7 +480,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/sethdunlap/status/1308867981724745729
 
 
-### Police arrest protesters and press en masse | 2021-09-23
+### Police arrest protesters and press en masse | 2020-09-23
 
 Police kettle and arrest protesters en masse. One independent journalist was arrested and two journalists for The Daily Caller, a conservative news network, were arrested. An image from a Daily Caller reporter shows him handcuffed to a chain along with other protesters.
 
@@ -499,7 +499,7 @@ geolocation: 38.2532118, -85.7604924
 * https://twitter.com/SVNewsAlerts/status/1308969768121229312
 
 
-### Police arrest Kentucky State Representative | 2021-09-24
+### Police arrest Kentucky State Representative | 2020-09-24
 
 At a protest on September 24th, police arrested Kentucky State Representative, Attica Scott, the author of Breonna's Law and the only black state representative for Kentucky. She has been charged with first-degree felony rioting, failure to disperse, and unlawful assembly.
 
@@ -518,7 +518,7 @@ geolocation: 38.2440129, -85.7606963
 * https://www.wdrb.com/news/police-arrest-24-including-kentucky-state-rep-attica-scott-during-louisville-protests-thursday/article_666e3cf2-fed4-11ea-8b77-032140df7cd0.html
 
 
-### Police throw stun grenades at peaceful protesters | 2021-09-25
+### Police throw stun grenades at peaceful protesters | 2020-09-25
 
 Police declare an unlawful assembly in Louisville during a protest. Police then immediately throw stun grenades into the crowd without apparent provocation.
 

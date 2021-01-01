@@ -1,6 +1,6 @@
 ## Bentonville
 
-### Law enforcement tear-gas a crowd chanting “we want peace” right after exiting the building. | 2021-06-01
+### Law enforcement tear-gas a crowd chanting “we want peace” right after exiting the building. | 2020-06-01
 
 A crowd gathered on the Bentonville Square to protest. Around 9 PM, law enforcement gassed a crowd chanting “we want peace.” Local news says some people were throwing water bottles and firecrackers. Police also claim rocks were thrown. Police claim that at least one police vehicle was damaged. Local news reports vary -- some reports have protesters "kicking" a police vehicle; some televised reports have protesters "damaging" a police vehicle; most written articles merely report that police say protesters damaged a police vehicle.
 
@@ -28,7 +28,7 @@ geolocation: 36.3726466, -94.2106367
 
 ## Little Rock
 
-### Protesters tear gas protesters | 2021-05-30
+### Protesters tear gas protesters | 2020-05-30
 
 Protesters gathered on courthouse property during a May 30th protest. Some graffiti can be seen on the courthouse walls. Police deployed tear gas against protesters to push them off the courthouse lawn and into the street, after warning protesters they were not allowed to be on the courthouse lawn. Police continued to deploy tear gas as protesters moved towards Interstate 630, where they blocked the road for some time
 
@@ -43,7 +43,7 @@ geolocation: 34.7443623, -92.2879971
 * https://www.youtube.com/watch?v=p7z-u_a8qo0
 
 
-### Peaceful protesters kneeling are shot with an explosive projectile. | 2021-05-31
+### Peaceful protesters kneeling are shot with an explosive projectile. | 2020-05-31
 
 Peaceful protesters kneeling in the street are shot with an explosive projectile.
 

@@ -1,6 +1,6 @@
 ## Everett
 
-### Protester arrested after dangling doughnut in front of officers | 2021-07-17
+### Protester arrested after dangling doughnut in front of officers | 2020-07-17
 
 Footage shows a protester dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protester. The protester tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protester, stating, "It's time for you to go," evidently arresting the protester. Another officer states that the protester "assaulted a lieutenant." This same officer threatens other protesters to back off or they will go to jail. His badge number is covered by a piece of tape. Protesters then follow police to the entrance of a building where the original protester is being cuffed. Protesters and counter-protesters then argue with one another.
 
@@ -20,7 +20,7 @@ geolocation: 47.9779407, -122.2059514
 
 ## Olympia
 
-### Police respond to broken windows with excessive force | 2021-05-31
+### Police respond to broken windows with excessive force | 2020-05-31
 
 Footage shows a few individuals break off from a protest to smash City Hall windows. Protesters shout at vandals to stop.
 
@@ -43,7 +43,7 @@ geolocation: 47.0450936, -122.8973967
 * https://www.youtube.com/watch?v=s7MM1VauRHo
 
 
-### Police tear gas left wing protesters following shooting | 2021-12-12
+### Police tear gas left wing protesters following shooting | 2020-12-12
 
 After a right wing protester shot a counter protester, Olympia police proceeded to throw tear gas and stun grenades at counter protesters still gathered near Capitol and Union.
 
@@ -60,7 +60,7 @@ geolocation: 47.0387384, -122.9008782
 
 ## Seattle
 
-### Police beat unarmed man on the ground | 2021-05-29
+### Police beat unarmed man on the ground | 2020-05-29
 
 A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned. Additional video shows the protester swung a water bottle at officers.
 
@@ -82,7 +82,7 @@ geolocation: 47.5991922, -122.3218263
 * https://www.king5.com/article/news/local/seattle/seattle-police-use-of-force-george-floyd-protests/281-bd7fc669-6e8a-4717-9156-fe45c7407ef2
 
 
-### Officer pins protester by pushing his knee into his neck | 2021-05-30
+### Officer pins protester by pushing his knee into his neck | 2020-05-30
 
 Officer pins protester with his knee on his neck near 6th and Pine. His partner intervenes and moves his knee onto the individual's back.
 
@@ -101,7 +101,7 @@ geolocation: 47.6121745, -122.3354217
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
 
 
-### Police indiscriminately pepper spray peaceful protesters | 2021-05-31
+### Police indiscriminately pepper spray peaceful protesters | 2020-05-31
 
 A police officer randomly and indiscriminately pepper sprays civilians walking around near 5th and Pine, which then went on to spark a riot.
 
@@ -116,7 +116,7 @@ geolocation: 47.6117187, -122.3366142
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gtt3w8/i_caught_the_moment_seattle_police_pepper_sprayed/
 
 
-### Police pepper spray young child | 2021-05-31
+### Police pepper spray young child | 2020-05-31
 
 Police pepper spray a young child who is seen crying, while protesters pour milk on the distressed child.
 
@@ -138,7 +138,7 @@ geolocation: 47.6112539, -122.3392275
 * https://www.seattletimes.com/seattle-news/crime/officers-pepper-spraying-of-boy-at-seattle-protest-was-inadvertent-didnt-violate-policy-review-finds/
 
 
-### Police throw tear gas at peaceful protesters | 2021-05-31
+### Police throw tear gas at peaceful protesters | 2020-05-31
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protesters.
 
@@ -154,7 +154,7 @@ geolocation: 47.6117535, -122.3363867
 * [Location via Google Street View](https://www.google.ca/maps/@47.6117535,-122.3363867,3a,75y,340.76h,98.03t/data=!3m7!1e1!3m5!1s3_dezBzQDIEjlJ1L0qu2QA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3D3_dezBzQDIEjlJ1L0qu2QA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D141.4241%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
 
 
-### Police officer pulls protester to the ground unprovoked | 2021-05-31
+### Police officer pulls protester to the ground unprovoked | 2020-05-31
 
 An officer on a bike pulls down a protester walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
 
@@ -171,7 +171,7 @@ geolocation: 47.6124917, -122.3279498
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
 
 
-### Law enforcement officer punches pinned protester | 2021-05-31
+### Law enforcement officer punches pinned protester | 2020-05-31
 
 In this video, officers wrestle with two protesters on the sidewalk near 4th and Spring. One officer punches the protester he has pinned at 0:15.
 
@@ -188,7 +188,7 @@ geolocation: 47.606835, -122.333563
 * https://twitter.com/samjwc/status/1267355060666654720
 
 
-### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) 2021-05-31
+### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) 2020-05-31
 
 Police are standing in a row holding bikes and pepper spray canisters near 4th and Spring. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
 
@@ -203,7 +203,7 @@ geolocation: 47.6071398, -122.3339336
 * https://twitter.com/The_Stepover/status/1267237940184231936
 
 
-### Police pepper spray crowd | 2021-06-01
+### Police pepper spray crowd | 2020-06-01
 
 Police pepper spray peacefully protesting crowd near 11th and Pine.
 
@@ -221,7 +221,7 @@ geolocation: 47.6152896, -122.3181832
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
 
 
-### Police strike active news crew with tear gas | 2021-06-01
+### Police strike active news crew with tear gas | 2020-06-01
 
 Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
 
@@ -239,7 +239,7 @@ geolocation: 47.615506, -122.318894
 * https://twitter.com/greg_doucette/status/1267694239028334592
 
 
-### Police injure sleeping homeless man with flashbang | 2021-06-01
+### Police injure sleeping homeless man with flashbang | 2020-06-01
 
 Police flashbang hits a homeless man sleeping by the fields in Cal Anderson Park.
 
@@ -256,7 +256,7 @@ geolocation: 47.615716, -122.318701
 * https://www.facebook.com/kg.farmer/videos/278656296661372
 
 
-### Officers deploy flashbangs and pepper spray peaceful protesters | 2021-06-02
+### Officers deploy flashbangs and pepper spray peaceful protesters | 2020-06-02
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters near 11th and Pine, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
@@ -273,7 +273,7 @@ geolocation: 47.6152896, -122.3181832
 * https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
 
 
-### Protester targeted days after protest | 2021-06-05
+### Protester targeted days after protest | 2020-06-05
 
 Footage and reports show approximately 30 police officers in 6-7 squad cars arrive to arrest a woman in a car with her 9 year old child.
 
@@ -299,7 +299,7 @@ geolocation: 47.6278921, -122.3333217
 * https://twitter.com/greg_doucette/status/1269393375146446850
 
 
-### Officer chokes and places knee on neck of woman | 2021-06-06
+### Officer chokes and places knee on neck of woman | 2020-06-06
 
 Video shows officer on back of woman laying face down. Officer has the woman in a choke hold. Officer then moves to place both
 knees on back during arrest, one knee on middle of the back and the other behind the neck of the woman. Officer is reported to work for Bellevue Police Department. Arrest made over what twitter user @_SJPeace_ described as a title transfer.
@@ -315,7 +315,7 @@ geolocation: 47.6149796, -122.3193951
 * https://twitter.com/i/status/1269352173663592449
 
 
-### Police kettle protesters to force them to disperse through tear-gas | 2021-06-06
+### Police kettle protesters to force them to disperse through tear-gas | 2020-06-06
 
 Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs.
 
@@ -332,7 +332,7 @@ geolocation: 47.6151981, -122.3182049
 * https://twitter.com/ColeMillerTV/status/1269459358288494592
 
 
-### Police pepper spray protesters who can't move back | 2021-06-06
+### Police pepper spray protesters who can't move back | 2020-06-06
 
 In a series of videos, we see police asking protesters to move back, but the crowd is too dense for them to do so. Police then start pepper-spraying protesters at the front of the crowd and launch flashbangs into and near the crowd. At 1:30 in the first video, it appears a protester is hit with a projectile. In the subsequent clips, teargas is seen being spread into a group of protesters by police.
 
@@ -350,7 +350,7 @@ geolocation: 47.6151981, -122.3182049
 * https://twitter.com/greg_doucette/status/1269481868245819393
 
 
-### Woman hit with police projectile resumes breathing after CPR, delivered to hospital | 2021-06-07
+### Woman hit with police projectile resumes breathing after CPR, delivered to hospital | 2020-06-07
 
 Video shows an individual getting hit by a police projectile, falling down, and becoming unresponsive. Medics drag the person away from the police. A medic's first-hand narrative account describes the victim as "a young woman in her 20s." Medics attempt to treat the young woman while police throw flash bang grenades directly into the first aid center where they are gathered. Several times the victim stops responding or breathing but becomes responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transports her by car to an Emergency Dept where she was delivered with a pulse. The person who filmed the incident from his workplace office is an editor at the local alt weekly, The Stranger; he reported in his twitter thread that the people in the office were having trouble breathing from teargas or some other chemical agent.
 
@@ -370,7 +370,7 @@ geolocation: 47.6151981, -122.3182049
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
 
 
-### During arrests, man yells at police; police retaliate against crowd | 2021-06-07
+### During arrests, man yells at police; police retaliate against crowd | 2020-06-07
 
 Police surrounded a barricade in the street near 11th and Pine and began arresting protesters. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing.
 
@@ -387,7 +387,7 @@ geolocation: 47.6152866, -122.3168341
 * https://twitter.com/menilivne/status/1269831790799159302
 
 
-### Police shoot peaceful protester | 2021-06-07
+### Police shoot peaceful protester | 2020-06-07
 
 A protester is seen off to the side of the protest near 11th and Pine, speaking with another protester and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
 
@@ -402,7 +402,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/RisingAnons/status/1269904786108887045
 
 
-### Police arrest homeless man | 2021-06-07
+### Police arrest homeless man | 2020-06-07
 
 While deploying flashbangs and tear gas against protesters near 11th and Pine, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
 
@@ -418,7 +418,7 @@ geolocation: 47.6152914, -122.3179077
 * https://twitter.com/slydesilva/status/1270120960440459264
 
 
-### Police pepper spray protesters standing in their way | 2021-06-11
+### Police pepper spray protesters standing in their way | 2020-06-11
 
 Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
 
@@ -434,7 +434,7 @@ geolocation: 47.6152942, -122.3173764
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-20.1.mp4)
 
 
-### Police strike and pepper spray protesters while marching on 13th Precinct | 2021-07-01
+### Police strike and pepper spray protesters while marching on 13th Precinct | 2020-07-01
 
 Footage shows police line approaching scattered protesters near 12th and Pike. Police snatch and grab to make rough arrests. When protesters attempt to intervene they are shoved, struck with batons, and pepper sprayed.
 
@@ -450,7 +450,7 @@ geolocation: 47.6141379, -122.3168800
 * https://twitter.com/greg_doucette/status/1278565827747471361
 
 
-### Police arrest protester during CHAZ/CHOP clearing | 2021-07-01
+### Police arrest protester during CHAZ/CHOP clearing | 2020-07-01
 
 As police prepare to clear CHOP (near Pine and Broadway), a protester asks a question. Police then attempt to arrest him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
 
@@ -466,7 +466,7 @@ geolocation: 47.615225, -122.320777
 * https://clips.twitch.tv/LittleProtectiveDillAsianGlow
 
 
-### Officers tackle protesters, put a knee on least one of their necks | 2021-07-02
+### Officers tackle protesters, put a knee on least one of their necks | 2020-07-02
 
 Video shows bicycle cops quickly approaching a group of protesters just outside an area cordoned off with police tape, presumably because they considered one or more of them to have crossed the boundary. Without warning, the cops tackle two protesters to the ground. Someone can be heard shouting "get your knee off their neck!" One of the videos clearly shows an officer placing his knee on the neck of one of the individuals.
 
@@ -484,7 +484,7 @@ geolocation: 47.615225, -122.320777
 * https://twitter.com/1stRoundFinish/status/1278854169743388672
 
 
-### Violent arrests made at protests near CHOP | 2021-07-02
+### Violent arrests made at protests near CHOP | 2020-07-02
 
 Footage beginning at 14:00 shows police begin to advance on protesters at Broadway and Pine without warning. They use their shields and batons to strike and shove protesters. When protesters become agitated, police tackle protesters and discharge pepper spray. Footage shows police kneeling on one protester, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
 
@@ -503,7 +503,7 @@ geolocation: 47.615225, -122.3207773
 * https://streamable.com/grkofc
 
 
-### Police make violent arrest | 2021-07-02
+### Police make violent arrest | 2020-07-02
 
 Footage taken around midnight the morning of July 2nd shows multiple officers arresting a protester, striking him with batons, punching him, and kneeling on his neck.
 
@@ -523,7 +523,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/own_the_libs_/status/1278765575494266881
 
 
-### Police harass man attempting to go to his apartment | 2021-07-03
+### Police harass man attempting to go to his apartment | 2020-07-03
 
 A man returning to his apartment on 11th near Pike and Pine is followed by a police officer. The officer asks the man where he lives. The man responds with his address. The officer is joined by a second and they ask the filmer for ID. The filmer states he does not have ID and that the Mayor said police should stop asking for ID. The police say that the order just came in to start asking for ID again. They give the filmer three options: leave the area, be arrested, or allow the police to escort him to his home. The filmer decides to leave the area.
 
@@ -538,7 +538,7 @@ geolocation: 47.614682, -122.3181893
 * https://twitter.com/slydesilva/status/1279107834739736576
 
 
-### Police arrest peaceful protester | 2021-07-09
+### Police arrest peaceful protester | 2020-07-09
 
 Footage shows a handful of protesters marching in the street at Republican Street and Pontius Avenue. Protesters clear to the sidewalks as police arrive. Officers approach the crowd and single out one black woman. At 1:58 in the Reddit link, an officer can be heard saying, "You were blocking earlier." Officers then grab her and arrest her. Additional officers brandishing tasers and pepper spray surround the arrest. Police then place the protester in an unmarked van.
 
@@ -557,7 +557,7 @@ geolocation: 47.623129, -122.3317629
 * [Alternate angle](https://twitter.com/greg_doucette/status/1281430922064211968)
 
 
-### Police arrest journalist | 2021-07-10
+### Police arrest journalist | 2020-07-10
 
 First person footage from a photojournalist shows the journalist filming a police car while stating that allegedly the officer in the car said that the officer has the photojournalist's address. The journalist repeats these words back, including the exact phrase, "I have your address." The officer then approaches him and arrests him for threatening an officer, alleging that the journalist claimed to have the officer's address.
 
@@ -579,7 +579,7 @@ geolocation: 47.6030859, -122.3283201
 * [Full livestream; begins around 40:00](https://youtu.be/K8cBDtCYI4o?t=2360)
 
 
-### Protester violently arrested | 2021-07-20
+### Protester violently arrested | 2020-07-20
 
 During protests in Downtown Seattle, some protesters walk past officers arresting a protester. Another officer pepper sprays these protesters. When a protester stops in the street after being pepper sprayed, they are grabbed and thrown to the ground. Another officer appears to kick the protester in the groin. Officers then pin the protester down to arrest them. When officers go to move the protester, the protester appears to be limp, apparently unconscious. Officers lift the protester off the ground and carry them away.
 
@@ -594,7 +594,7 @@ geolocation: 47.6054117, -122.3530468
 * https://twitter.com/spekulation/status/1285468287334141952
 
 
-### Officer holds down protester to arrest, pepper sprays nurse | 2021-07-25
+### Officer holds down protester to arrest, pepper sprays nurse | 2020-07-25
 
 Footage shows Seattle police pinning a protester down against a concrete barrier to arrest them. A nurse in scrubs grabs the protester. She says "something hit me in the ass," believed to be an impact munition She is then pepper sprayed.
 
@@ -613,7 +613,7 @@ geolocation: 47.6152219, -122.3217589
 * https://twitter.com/greg_doucette/status/1287252831620206598
 
 
-### Officer shoots protester who bangs stick on ground | 2021-07-25
+### Officer shoots protester who bangs stick on ground | 2020-07-25
 
 A protester standing about 20ft from police bangs a stick on the ground. Police then shoot him in the arm.
 
@@ -630,7 +630,7 @@ geolocation: 47.6152218, -122.3216313
 * https://mobile.twitter.com/pmalonedc/status/1287192637296934913
 
 
-### Violent arrest made by police, tear gas deployed | 2021-07-25
+### Violent arrest made by police, tear gas deployed | 2020-07-25
 
 Footage from Broadway and Pine shows several officers grabbing a small woman to arrest her. She passively resists. Three officers then tackle her to the ground while another officer deploys tear gas against the crowd of protesters.
 
@@ -648,7 +648,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/AGarlandPhoto/status/1287177533113262081
 
 
-### Police use bikes and pepper spray to push protesters | 2021-07-25
+### Police use bikes and pepper spray to push protesters | 2020-07-25
 
 Footage shows police using their bikes to push protesters back near Pine and Nagle. One officer discharges pepper spray against protesters obeying the order to move back. Another officer grabs an umbrella held out by a protester, breaking it.
 
@@ -664,7 +664,7 @@ geolocation: 47.6152759, -122.3199594
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-33.1.mp4)
 
 
-### Police make violent arrests and pepper spray crowd | 2021-07-25
+### Police make violent arrests and pepper spray crowd | 2020-07-25
 
 Footage shows police dragging a woman in handcuffs at Pine and Broadway. Another woman grabs the protester, but (off camera) lets go and falls to the ground. Police pepper spray nearby protesters.
 
@@ -681,7 +681,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/KittyLists/status/1287191491924779009
 
 
-### Police make violent arrests and discharge pepper spray | 2021-07-25
+### Police make violent arrests and discharge pepper spray | 2020-07-25
 
 Overhead footage from a news report shows police charging across their bike line into the crowd to tackle protesters and make arrests. After one protester is subdued, police pepper spray the others to push them back.
 
@@ -696,7 +696,7 @@ geolocation: 47.6152218, -122.3216313
 * https://twitter.com/VideosSeattle/status/1287195618247548928
 
 
-### Police shove and pepper spray press and protesters | 2021-07-25
+### Police shove and pepper spray press and protesters | 2020-07-25
 
 Screen-capped footage from a journalist shows police pushing press and protesters back near Pine and 10th. The filmer, a journalist, says he cannot move quickly because there is a crowd of people behind him. Police shove him and other protesters and press, then discharge pepper spray.
 
@@ -712,7 +712,7 @@ geolocation: 47.6152444, -122.3191508
 * https://twitter.com/ZeldaWarriorCat/status/1287203846071099394
 
 
-### Police pepper spray protesters on sidewalk | 2021-07-25
+### Police pepper spray protesters on sidewalk | 2020-07-25
 
 Police approach protesters hiding behind umbrellas on the sidewalk near 10th and Pine. Officers flank and pepper spray them. A protester crossing the street is then pepper sprayed. An officer holding a bike swings the bike's rear tire in the air at protesters. Police continue to discharge pepper spray.
 
@@ -727,7 +727,7 @@ geolocation: 47.6152444, -122.3191508
 * https://twitter.com/richsssmith/status/1287172691540115456
 
 
-### Police deploy tear gas and flashbangs against protesters | 2021-07-25
+### Police deploy tear gas and flashbangs against protesters | 2020-07-25
 
 Police deploy tear gas and flashbangs against protesters at Broadway and Pine. The filmer several blocks away states that the tear gas has drifted into his home and "is choking us."
 
@@ -742,7 +742,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/menilivne/status/1287181347845365760
 
 
-### Protester shot at point blank | 2021-07-25
+### Protester shot at point blank | 2020-07-25
 
 Footage from 11th and Pine shows a protester standing about 3 feet away from police, holding a skateboard above his head. He appears to be speaking to police. Without warning, he is shot about about 6 times, in the groin, abdomen and shoulder. Firing at that range and at firing genital regions or above the breastbone are against recommended use of impact munitions.
 
@@ -757,7 +757,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/franceschogan/status/1287202059691814912
 
 
-### Police pepper spray man holding bike | 2021-07-25
+### Police pepper spray man holding bike | 2020-07-25
 
 A protester holding a bike and standing several feet away from police is pepper sprayed. Protesters shout, "He did nothing wrong. Whatthe fuck?" Another protester helps the pepper-sprayed protester back away from police. At the end of the video, another protester picks up the bike to walk it back.
 
@@ -774,7 +774,7 @@ geolocation: 47.6152813, -122.3200405
 * https://twitter.com/pmalonedc/status/1287213310505410562
 
 
-### Police make violent arrest | 2021-07-25
+### Police make violent arrest | 2020-07-25
 
 Footage from Cal Anderson shows police dragging a woman across the gravel. She screams. Police then chase off other protesters. The camera pans back to the woman as she is shoved against a knee high concrete barrier. Officers then grab her again and throw her to the ground to arrest her. Other officers then crowd around to inhibit filming. The protester does not appear to resist arrest at any point.
 
@@ -789,7 +789,7 @@ geolocation: 47.617716, -122.3193748
 * https://twitter.com/LizTurnbull5/status/1287226515642449920
 
 
-### Violent arrest made near 11th and Pine | 2021-07-25
+### Violent arrest made near 11th and Pine | 2020-07-25
 
 Footage shows police arrested a woman while others pepper spray the area to clear protesters. The woman attempts to stand, then is forced back to the ground. The officer appears to hold her head facedown in the gravel. She passively resists by locking her arms. More officers join and kneel on her to arrest her.
 
@@ -804,7 +804,7 @@ geolocation: 47.6151981, -122.3182049
 * https://twitter.com/richsssmith/status/1287176053073408000
 
 
-### Police fire tear gas at protesters following directions | 2021-07-25
+### Police fire tear gas at protesters following directions | 2020-07-25
 
 Footage shows protesters walking peacefully in the direction specified by SPD near Broadway and East Denny Way. Police launch tear gas into the crowd. Justification is not clear.
 
@@ -822,7 +822,7 @@ geolocation: 47.6187642, -122.3211018
 * https://twitter.com/sean_roulette/status/1287216968320212993
 
 
-### Police shove and pepper spray protesters, grab signs | 2021-07-25
+### Police shove and pepper spray protesters, grab signs | 2020-07-25
 
 Footage shows police forcing protesters back up Harvard Avenue near Pine Stree. Protesters are obeying. Throughout the footage, police shove and pepper spray protesters. In addition, police snatch signs and umbrellas. Police also deploy tear gas.
 
@@ -838,7 +838,7 @@ geolocation: 47.6155228, -122.3221322
 * https://twitter.com/tetraphis_/status/1287221855779090433
 
 
-### Police pepper spray man who is yelling at them | 2021-07-25
+### Police pepper spray man who is yelling at them | 2020-07-25
 
 The filmer yells at police while he walks past them, calling them "a coward" or "a bitch." A police officer then pepper sprays him.
 
@@ -855,7 +855,7 @@ geolocation: 47.6152017, -122.3200929
 * https://twitter.com/decolonizemars/status/1287236773345599488
 
 
-### Police snatch and pepper spray protesters | 2021-07-25
+### Police snatch and pepper spray protesters | 2020-07-25
 
 Police at Pine and 11th surge forward, pepper spraying several protesters, then snatching others for arrest.
 
@@ -871,7 +871,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/GoldsteinStreet/status/1287236138604703746
 
 
-### Police ride bikes into crowd and arrest protesters | 2021-07-25
+### Police ride bikes into crowd and arrest protesters | 2020-07-25
 
 Police on Pine Street (between 10th and 11th) again surged forward. This time, police on bikes ride into the crowd, jump off and tackle protesters for arrest.
 
@@ -886,7 +886,7 @@ geolocation: 47.6152481, -122.3184919
 * https://twitter.com/slydesilva/status/1287240894219841536
 
 
-### Police use pepper spray to push protesters back | 2021-07-25
+### Police use pepper spray to push protesters back | 2020-07-25
 
 Police with batons push the crowd back at 1tth and Pine, discharging pepper spray to speed protesters up.
 
@@ -901,7 +901,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/daeshikjr/status/1287263163159781376
 
 
-### Police charge and pepper-spray protesters | 2021-07-25
+### Police charge and pepper-spray protesters | 2020-07-25
 
 Footage from 11th and Pine shows police charging at protesters without warning and pepper-spraying them, including one protester lying on the ground. Police also strike protesters with batons and shove them.
 
@@ -917,7 +917,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/greg_doucette/status/1287405595801325569
 
 
-### Cop tackles cyclist | 2021-07-25
+### Cop tackles cyclist | 2020-07-25
 
 Video shows a cyclist who appears to be unassociated with the protest slowly approaching an area where cops and police vans are in the process of blocking off the street. A cop walking away from the camera clearly glances at the cyclist but doesn't appear to issue any warning and looks away. Presumably unaware of what's happening, the cyclist tries to ride through. The cop then suddenly rushes the cyclist and tackles them off the bicycle. Other cops converge to arrest the cyclist.
 
@@ -934,7 +934,7 @@ geolocation: 47.6152866, -122.3168341
 * https://twitter.com/StellarArris/status/1287446170403508226
 
 
-### Effects of flashbang | 2021-07-25
+### Effects of flashbang | 2020-07-25
 
 An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protester. The victim appears to have suffered lacerations and bruising as a result of the impact.
 
@@ -951,7 +951,7 @@ geolocation: 47.6152252, -122.3207071
 * https://twitter.com/DickandSharon/status/1287653775042371585
 
 
-### Protester struck in head by flashbang, gets 4 staples | 2021-07-25
+### Protester struck in head by flashbang, gets 4 staples | 2020-07-25
 
 Video taken by a protester at 11th and Pine shows police tossing stun grenades and shooting projectiles. The filmer is struck by something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
 
@@ -967,7 +967,7 @@ geolocation: 47.6151981, -122.3182049
 * https://www.facebook.com/photo.php?fbid=10217824199217111&set=a.10201512323190405&type=3
 
 
-### Police violently push protesters down the street | 2021-07-25
+### Police violently push protesters down the street | 2020-07-25
 
 Police push protesters down Pine between 10th and 11th. Protester are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protesters. One protester appears to be directly hit. Police grab or shove protesters who are straggling and arrest them.
 
@@ -983,7 +983,7 @@ geolocation: 47.6152444, -122.3191508
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hzdd88/police_brutality_seattlepd_push_protestorsfire/
 
 
-### Police pepper spray legal observer | 2021-07-25
+### Police pepper spray legal observer | 2020-07-25
 
 A legal observer is seen filming a short distance from police near 11th and Pine. An officer then pepper sprays her in the face.
 
@@ -999,7 +999,7 @@ geolocation: 47.6152896, -122.3181832
 * [NLG Press release regarding the protest](https://www.nlg.org/seattle/2020/07/26/legal-observers-from-seattles-national-lawyers-guild-aggressively-targeted-by-law-enforcement/)
 
 
-### Police tackle protesters in street | 2021-08-13
+### Police tackle protesters in street | 2020-08-13
 
 Police approach protesters standing in the street near 11th and Pine. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
 
@@ -1017,7 +1017,7 @@ geolocation: 47.6153176, -122.3181502
 * [Full video; incident at 7:45](https://www.instagram.com/p/CD174Q_gMvH/)
 
 
-### Police damage vehicles supporting protesters | 2021-08-14
+### Police damage vehicles supporting protesters | 2020-08-14
 
 Police walk behind a line of cars driving slowly to protect protesters ahead of them near Broadway and Thomas. Police overtake the cars and an officer smashes the window of one.
 
@@ -1033,7 +1033,7 @@ geolocation: 47.6210987, -122.3208649
 * https://twitter.com/TirisTogia/status/1294520513306300416
 
 
-### Legal observer shoved to the ground | 2021-08-16
+### Legal observer shoved to the ground | 2020-08-16
 
 During a standoff between police and protesters near the Seattle Police Officers Guild building, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
 
@@ -1048,7 +1048,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/FirecrowTV/status/1295242437456048130
 
 
-### Police charge protesters without warning | 2021-08-16
+### Police charge protesters without warning | 2020-08-16
 
 Footage shows police and protesters separated from one another after police declared a riot near the Seattle Police Officers Guild building. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
 
@@ -1063,7 +1063,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/zmboop/status/1295242820786110469
 
 
-### Police on bicycles chase down and beat alleged protester | 2021-08-16
+### Police on bicycles chase down and beat alleged protester | 2020-08-16
 
 Footage shows several officers on bikes chasing after an individual in the International District. The individual is believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
 
@@ -1078,7 +1078,7 @@ geolocation: 47.5988346, -122.3246141
 * https://twitter.com/spekulation/status/1295946737069068288
 
 
-### Police shove member of the press | 2021-08-26
+### Police shove member of the press | 2020-08-26
 
 Police are seen walking protesters, legal observers and journalists backwards. A journalist talks to police as they walk her. An officer then shoves her, knocking the phone out of her hand. The phone was allegedly confiscated and destroyed.
 
@@ -1097,7 +1097,7 @@ geolocation: 47.642982, -122.3236502
 * https://twitter.com/ACABSea/status/1299044335183228930
 
 
-### Police shove protesters, mace journalist, arrest drivers and damage cars | 2021-08-26
+### Police shove protesters, mace journalist, arrest drivers and damage cars | 2020-08-26
 
 A journalist, Omari Salisbury, was livestreaming a protest in Seattle near the Washington State Patrol Building on East Roanoke. About 5:30 into his livestream, he explains that police intend to push protesters back so they can remove vehicles in the street. Police begin shouting, "Move back," and shove protesters back. Police then mace protesters, as well as the journalist.
 
@@ -1120,7 +1120,7 @@ geolocation: 47.642982, -122.3236502
 * [Additional footage of charge](https://twitter.com/TheBageler7/status/1299003806928105480)
 
 
-### Police drag protester from car | 2021-09-04
+### Police drag protester from car | 2020-09-04
 
 Protesters on foot and in vehicles blocked I-5 near exit 168 for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
 
@@ -1138,7 +1138,7 @@ geolocation: 47.6467988, -122.3228219
 * https://www.thestranger.com/slog/2020/09/04/44418202/nine-marchers-arrested-after-shutting-down-i-5
 
 
-### Police use bikes to ride into and shove protesters | 2021-09-07
+### Police use bikes to ride into and shove protesters | 2020-09-07
 
 Protesters gathered outside the Seattle Police Officers Guild. Police rode their bikes into protesters, then used their bikes to shove protesters back. No provocation on the part of protesters can be seen.
 
@@ -1157,7 +1157,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/KatieDaviscourt/status/1303143732519165952
 
 
-### Police officer shoves protester | 2021-09-07
+### Police officer shoves protester | 2020-09-07
 
 Protesters are seen arguing with police in the street. One protester approaches police then runs away as police converge. Another protester stands in the way and is shoved to the ground.
 
@@ -1172,7 +1172,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/RegretaGarbo/status/1303194153132519424
 
 
-### Police target protester, pepper spray crowd | 2021-09-15
+### Police target protester, pepper spray crowd | 2020-09-15
 
 At a protest on September 15th, police targeted a community member for arrest. They pointed out the individual and told them they were arresting the protester. They then grabbed the protester and pepper sprayed the crowd. Several protesters are then thrown to the ground and arrested.
 
@@ -1189,7 +1189,7 @@ geolocation: 47.6244606, -122.3474776
 * https://twitter.com/Sadenochill/status/1306755438839382016
 
 
-### Police ride bike over protester's head | 2021-09-23
+### Police ride bike over protester's head | 2020-09-23
 
 A protester wearing a helmet is seen lying on the ground while SPD officers on bikes approach protesters. One officer rides their bike over the protester's head. The rear wheel of the bike appears to catch on the protester's head and yanks the protester.
 
@@ -1209,7 +1209,7 @@ geolocation: 47.6152896, -122.3181832
 * https://www.q13fox.com/news/seattle-officer-who-ran-over-mans-head-with-bicycle-facing-criminal-probe
 
 
-### Police shove and pepper spray protesters | 2021-09-23
+### Police shove and pepper spray protesters | 2020-09-23
 
 Police on bikes push protesters down the street near 11th and Pine. One officer pepper sprays protesters with umbrellas.
 
@@ -1224,7 +1224,7 @@ geolocation: 47.6152896, -122.3181832
 * https://twitter.com/richsssmith/status/1309011578705137664
 
 
-### Police knock protester over, then shoot them with impact munitions | 2021-09-23
+### Police knock protester over, then shoot them with impact munitions | 2020-09-23
 
 Police use bikes to shove protesters on the sidewalk near Broadway and Howell. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
 
@@ -1239,7 +1239,7 @@ geolocation: 47.6175651, -122.3230289
 * https://twitter.com/richsssmith/status/1309041882929008642
 
 
-### Police fire impact munitions in response to trash fires | 2021-09-24
+### Police fire impact munitions in response to trash fires | 2020-09-24
 
 Police charge protesters in the street at 12th and Pine, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
 
@@ -1255,7 +1255,7 @@ geolocation: 47.6152538, -122.3168999
 * https://twitter.com/mikescaturo/status/1309392513719963649
 
 
-### Individual thrown against concrete wall during arrest | 2021-09-28
+### Individual thrown against concrete wall during arrest | 2020-09-28
 
 Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street near 12th and Pine in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
 
@@ -1271,7 +1271,7 @@ geolocation: 47.6152538, -122.3168999
 * [Earlier footage showing individual walking down street, not near protesters](https://twitter.com/MarcusKulik/status/1310850132892508160)
 
 
-### Police shove, shoot at, and arrest protesters | 2021-10-03
+### Police shove, shoot at, and arrest protesters | 2020-10-03
 
 At a protest in Seattle, police on bicycles shoved protesters walking away from them. Protesters were complying with direction to "move back." Police charged and shoved protesters. Making multiple arrests. Police additionally fired impact munitions, believed to be pepper balls, into the crowd. Police also used mace to subdue the crowd. An independent journalist, Alissa Azar, was shot in the back of the neck.
 
@@ -1295,7 +1295,7 @@ geolocation: 47.619373, -122.324992
 * https://twitter.com/spekulation/status/1313351287035944962
 
 
-### Police arrest bystander in minivan during protest | 2021-10-03
+### Police arrest bystander in minivan during protest | 2020-10-03
 
 Police push protesters back near the intersection of East Olive Way and Summit Avenue in Seattle. Several motorists are trapped in the push. They drive forward slowly in an attempt to leave. An officer bangs on the window of the minivan, telling the driver to move faster. The driver appears to attempt to continue leaving, but is unable to do so quickly. Officers then arrest the driver.
 
@@ -1310,7 +1310,7 @@ geolocation: 47.6188863, -122.3253452
 * https://twitter.com/iNFoPiG2/status/1312860281240907777
 
 
-### Police tackle protesters without apparent justification | 2021-10-17
+### Police tackle protesters without apparent justification | 2020-10-17
 
 Seattle police officers on bikes charge protesters from behind, tackling and arresting them. There appeared to be no justification for the arrests. The incident occurred during a march in Seattle's Capitol Hill neighborhood, which passed the Big Mario's Pizza on East Pike Street shortly beforehand.
 
@@ -1326,7 +1326,7 @@ geolocation: 47.6141198, -122.3189719
 * https://twitter.com/R3volutionDaddy/status/1317874394711011329
 
 
-### Police arrest bystander in vehicle | 2021-11-04
+### Police arrest bystander in vehicle | 2020-11-04
 
 A bike officer singles out a car driving with protesters (near Mercer and 4th Ave N) for no clear reason; the car was one of several. The officer begins banging on the car window with his bicycle. A second officer joins him. They smash the window, arrest the driver, and leave the vehicle in the street.
 
@@ -1342,7 +1342,7 @@ geolocation: 47.6246164, -122.3488599
 * https://www.youtube.com/watch?v=FRwNmCd8X8o
 
 
-### Police assault and hospitalize protester | 2021-11-04
+### Police assault and hospitalize protester | 2020-11-04
 
 Police push protesters back at 12th and Pine, tackling one to the ground and punching them. Several officers hold this individual to the ground after they become non-responsive. The protester was taken away in a Fire Department aid vehicle after several minutes.
 
@@ -1369,7 +1369,7 @@ geolocation: 47.6152719, -122.319049
 * https://twitter.com/MarcusKulik/status/1324885077478633472
 
 
-### Officer escalates scuffle by pepper spraying and arresting protester | 2021-11-27
+### Officer escalates scuffle by pepper spraying and arresting protester | 2020-11-27
 
 While police are dispersing protesters at E Olive Way and E Denny Way, an officer and an elderly man holding a cane are seen in the street. The officer is pushing the man back across the street and the man is attempting to walk the opposite direction. After the officer pushes the protester to the sidewalk, the officer turns to walk away. The protester then lightly strikes the body-armored officer on the back with his cane; the cane then collapses, suggesting it is a collapsible cane, not capable of striking forcefully. The officer then pepper sprays the protester and tackles him to the ground for arrest.
 
@@ -1388,7 +1388,7 @@ geolocation: 45.5171945, -122.5538792
 
 ## Vancouver
 
-### Police arrest journalists | 2021-10-31
+### Police arrest journalists | 2020-10-31
 
 Police arrest 2 members of the press near the Juvenile Detention Center for "not walking fast enough."
 

@@ -1,6 +1,6 @@
 ## Asbury Park
 
-### Police arrest woman and reporter | 2021-06-01
+### Police arrest woman and reporter | 2020-06-01
 
 Footage shows a woman tackled by multiple officers and thrown into bushes before an officer kneels on her to make an arrest. Another protester is arrested in the background.
 

@@ -1,6 +1,6 @@
 ## Asheville
 
-### Police fire tear gas and rubber bullets at protesters | 2021-05-31
+### Police fire tear gas and rubber bullets at protesters | 2020-05-31
 
 According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protesters attempted to shield them from harm.
 
@@ -16,7 +16,7 @@ geolocation: 35.5909699, -82.5737781
 * https://www.citizen-times.com/story/news/local/2020/05/31/bowen-bridge-shut-down-protesters-block-highway/5304001002/
 
 
-### Police surround approved medical station and destroy supplies | 2021-06-02
+### Police surround approved medical station and destroy supplies | 2020-06-02
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
 
@@ -54,7 +54,7 @@ geolocation: 35.5903468, -82.574270
 * https://twitter.com/greg_doucette/status/1270378863219138561
 
 
-### Reporter for The Blade arrested at protest | 2021-08-09
+### Reporter for The Blade arrested at protest | 2020-08-09
 
 A journalist working for The Asheville Blade was following protests in their car on August 9th. They state that police stopped them without warning, pulled them out of their car, zip-tied and arrested them. They state that because of the heat, their sweat made their hands slippery and their zip-ties fell off; an officer then replaced them with standard handcuffs, cuffing the journalist's arms tightly behind their back.
 
@@ -81,7 +81,7 @@ geolocation: 35.5950462, -82.5564847
 
 ## Charlotte
 
-### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | 2021-06-02
+### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | 2020-06-02
 
 Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
 
@@ -107,7 +107,7 @@ geolocation: 35.2254977, -80.8452494
 * https://www.youtube.com/watch?v=jo0cF-qMa50
 
 
-### Police arrest representative from The Bail Project | 2021-06-08
+### Police arrest representative from The Bail Project | 2020-06-08
 
 Video shows numerous police officers charging an individual, before throwing them to the ground and kneeling on them to make an arrest. As they walk the individual from the scene, she states her restraints are too tight, but police do not acknowledge her. Protesters nearby ask why she is being arrested; police say, "Watch the news video."
 
@@ -125,7 +125,7 @@ geolocation: 35.2205048, -80.8373121
 * https://twitter.com/kaitlinwa24/status/1270113046606864389
 
 
-### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | 2021-06-18
+### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | 2020-06-18
 
 The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protesters.
 
@@ -142,7 +142,7 @@ geolocation: 35.2199889, -80.8356949
 * [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
 
 
-### Police shove and pepper spray protesters | 2021-07-25
+### Police shove and pepper spray protesters | 2020-07-25
 
 Police separated groups of Back the Blue and Defund the Police protesters. Police shoved Defund the Police protesters backwards with their bikes. Protesters then shove a police officer's bike back. The officer then discharges pepper spray at numerous protesters.
 
@@ -157,7 +157,7 @@ geolocation: 35.2193485, -80.8408325
 * https://www.wbtv.com/2020/07/25/protesters-supporting-back-blue-defund-police-confront-marshall-park/
 
 
-### Police shove and pepper spray RNC protesters | 2021-08-21
+### Police shove and pepper spray RNC protesters | 2020-08-21
 
 At a protest outside the Republican National Convention in Charlotte, NC (Trade and Tryon Streets), police used bikes to shove protesters and pepper sprayed others. A journalist filming the scene was caught in the pepper spray.
 
@@ -173,7 +173,7 @@ geolocation: 35.2268539, -80.8443788
 * https://twitter.com/queencitynerve/status/1297007019346583552
 
 
-### Police arrest protester without warning or clear justification | 2021-08-23
+### Police arrest protester without warning or clear justification | 2020-08-23
 
 Police talk to a protester walking by their line at 3rd and McDowell. The protester steps forward and is held back by police. The protester then talks to another officer. That officer then grabs the protester without warning and arrests them.
 
@@ -188,7 +188,7 @@ geolocation: 35.2187516, -80.8372017
 * https://twitter.com/queencitynerve/status/1297389564693295105
 
 
-### Police pepper spray kettled protesters | 2021-08-24
+### Police pepper spray kettled protesters | 2020-08-24
 
 At an RNC protest in Charlotte, NC, police kettled protesters at College and 4th Streets shortly after midnight. Police then begin shouting "Move" and pepper spray protesters.
 
@@ -203,7 +203,7 @@ geolocation: 35.2254977, -80.8452494
 * https://twitter.com/queencitynerve/status/1297757281359208450
 
 
-### Police charge protesters with bikes, discharge pepper spray | 2021-08-24
+### Police charge protesters with bikes, discharge pepper spray | 2020-08-24
 
 After protesters allegedly attempted to light something on fire or lowered a flag to the ground, police on bikes charged protesters, knocking several down. Police then discharged pepper spray at protesters.
 
@@ -227,7 +227,7 @@ geolocation: 35.2196314, -80.8525358
 * https://www.charlotteobserver.com/news/politics-government/rnc-2020/article245198720.html
 
 
-### Jail support activists arrested | 2021-09-21
+### Jail support activists arrested | 2020-09-21
 
 Activists gathered for Jail Support in Charlotte, NC, offering food, water and other necessities to protesters released from detention. Activists set up on the sidewalk. Mecklenburg county sheriffs ordered jail support activists to disperse. When they refused, officers arrested them. Several activists passively resisted by going limp and were carried away by officers. Sheriffs also arrested several protesters present to morally support jail support activists.
 
@@ -254,7 +254,7 @@ geolocation: 35.2200169, -80.8353978
 
 ## Gastonia
 
-### Police with live ammo arrest protesters sitting in cars | 2021-07-22
+### Police with live ammo arrest protesters sitting in cars | 2020-07-22
 
 Footage shows militarized police with long guns carrying live ammo running up on protesters. Black protesters are removed from their vehicles and arrested.
 
@@ -275,7 +275,7 @@ geolocation: 35.2669284, -81.181915
 
 ## Graham
 
-### Police and sherriffs pepper spray protesters on their way to polls | 2021-10-31
+### Police and sherriffs pepper spray protesters on their way to polls | 2020-10-31
 
 Police pepper sprayed BLM protesters on their way to early voting during a "Souls to the Polls" rally. Several arrests were made including Reverend Drumwright of the Citadel Church and Rion Thompson who was the campaign manager for Dreama Caldwell, a Democratic candidate for county commissioner.
 
@@ -313,7 +313,7 @@ geolocation: 36.0692831, -79.4025114
 * [Scott Huffman](https://twitter.com/HuffmanForNC/status/1322592328503144449)
 
 
-### Officer harasses journalist and covers their camera | 2021-10-28
+### Officer harasses journalist and covers their camera | 2020-10-28
 
 Footage from a Souls to the Polls rally after police and sheriffs pepper sprayed the audience shows a police officer repeatedly harassing a photojournalist and covering the journalist's camera.
 
@@ -331,7 +331,7 @@ geolocation: 36.0692831, -79.4025114
 
 ## Raleigh
 
-### Police fire tear gas at peaceful protests | 2021-05-30
+### Police fire tear gas at peaceful protests | 2020-05-30
 
 Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protesters surprised at the escalation and turning to flee, as well as multiple protesters hit directly by projectiles. In addition, the article claims police targeted both protesters and journalists with rubber bullets. The escalation did then incite some protesters to return fire with rocks, fireworks, and police tear gas canisters.
 
@@ -351,7 +351,7 @@ geolocation: 35.776782, -78.639280
 * https://www.youtube.com/watch?v=GCmVhSZqmZc
 
 
-### Police use tear gas to clear road | 2021-05-31
+### Police use tear gas to clear road | 2020-05-31
 
 Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful protesters gathered on the street before advancing across the intersection.
 
@@ -370,7 +370,7 @@ geolocation: 35.7796476, -78.6391259
 * https://www.wral.com/raleigh-police-fire-tear-gas-again-on-second-day-of-downtown-protests/19123254/
 
 
-### Police shoot fleeing man at short range | 2021-05-31
+### Police shoot fleeing man at short range | 2020-05-31
 
 Police fire repeatedly at man who is attempting to leave the protest with his hands up. After shooting several times, an officer runs up and strikes the man in the back of the head and throw him to the ground to make an arrest. Tear gas begins to fill the road as officers arrest him.
 
@@ -386,7 +386,7 @@ geolocation: 35.7802865, -78.6401054
 * https://twitter.com/greg_doucette/status/1267836827328819200
 
 
-### Police fire tear gas at peacful protesters | 2021-05-31
+### Police fire tear gas at peacful protesters | 2020-05-31
 
 Police fire tear gas at protesters throughout protests on May 31st. Footage show police firing into a crowd.
 
@@ -402,7 +402,7 @@ geolocation: 35.7802865, -78.6401054
 * https://youtu.be/hZsQY1XagKc
 
 
-### Police fire riot control rounds into protest | 2021-05-31
+### Police fire riot control rounds into protest | 2020-05-31
 
 Footage shows a crowd protesting in place with hands up. Shots are heard and a protester runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
 
@@ -418,7 +418,7 @@ geolocation: 35.7811388, -78.6381613
 * https://www.youtube.com/watch?v=_ciMl0fLcgY
 
 
-### Reporter shows rubber bullet injury | 2021-05-31
+### Reporter shows rubber bullet injury | 2020-05-31
 
 A reporter for Raleigh outlet, The News & Observer, shows off a wound consistent with injuries left by rubber bullets. The tweet states he "took a rubber bullet" during a protest.
 
@@ -433,7 +433,7 @@ geolocation: 35.7804275, -78.6392513
 * https://twitter.com/vizjourno/status/1266954106998009857
 
 
-### Police shoot to intimidate owner of LGBTQ bar | 2021-06-02
+### Police shoot to intimidate owner of LGBTQ bar | 2020-06-02
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protester himself, but had been handing out refreshments to protesters. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
@@ -450,7 +450,7 @@ geolocation: 35.7751916, -78.6399548
 * [Location via Google Street View](https://www.google.ca/maps/place/Ruby+Deluxe/@35.7751916,-78.6399548,3a,75y,200h,110t/data=!3m8!1e1!3m6!1sAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf%3Dw203-h100-k-no-pi-20-ya200-ro0-fo100!7i13090!8i6545!4m14!1m6!3m5!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!2sRuby+Deluxe!8m2!3d35.7751916!4d-78.6399548!3m6!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!8m2!3d35.7751916!4d-78.6399548!14m1!1BCgIgARICCAI)
 
 
-### Police target, follow and arrest protester | 2021-06-04
+### Police target, follow and arrest protester | 2020-06-04
 
 On June 4th, Conrad James, a prominent protester in Raleigh, threatened to file a class action lawsuit against the Raleigh police departments.
 
@@ -471,7 +471,7 @@ geolocation: 35.5951262, -78.7354873
 * https://abc11.com/activist-who-made-demands-to-raleigh-leaders-arrested-for-unrelated-incident/6234238/
 
 
-### Raleigh police roughly arrest protesters | 2021-06-18
+### Raleigh police roughly arrest protesters | 2020-06-18
 
 Footage shows violent arrests of 2 protesters. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protesters out of the way.
 
@@ -494,7 +494,7 @@ geolocation: 35.7342263, -78.6413227
 
 ## Wilmington
 
-### Police kneel to lure protesters closer before firing | 2021-06-03
+### Police kneel to lure protesters closer before firing | 2020-06-03
 
 Police feign a show of support by kneeling and draw protesters closer. After protesters kneel, police begin firing tear gas rounds.
 

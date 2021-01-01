@@ -1,6 +1,6 @@
 ## St. Johnsbury
 
-### Police shove a protesting woman down a set of concrete steps. | 2021-06-03
+### Police shove a protesting woman down a set of concrete steps. | 2020-06-03
 
 Police shove a protesting woman down a set of concrete steps.
 

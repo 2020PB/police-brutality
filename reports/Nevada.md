@@ -1,6 +1,6 @@
 ## Las Vegas
 
-### Police arrest a man for speaking at them from a distance | 2021-05-29
+### Police arrest a man for speaking at them from a distance | 2020-05-29
 
 Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
@@ -15,7 +15,7 @@ geolocation: 36.1146208, -115.171627
 * https://twitter.com/itsraiialex/status/1266770032719040513
 
 
-### Police shove numerous protesters to the ground | 2021-05-29
+### Police shove numerous protesters to the ground | 2020-05-29
 
 Officer line begins to advance towards protesters, shoving numerous protesters to the ground as they do.
 
@@ -30,7 +30,7 @@ geolocation: 36.1149508, -115.173056
 * https://twitter.com/bridgetkbennett/status/1266561128185819136
 
 
-### Police charge into peaceful crowd shouting "grab anybody" | 2021-05-30
+### Police charge into peaceful crowd shouting "grab anybody" | 2020-05-30
 
 LVPD attacked and arrested peaceful protesters, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
@@ -48,7 +48,7 @@ geolocation: 36.1141356, -115.1639253
 * https://pressfreedomtracker.us/all-incidents/photojournalist-arrested-covering-las-vegas-protest/
 
 
-### Police shove and drag man through the street | 2021-05-31
+### Police shove and drag man through the street | 2020-05-31
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
 
@@ -66,7 +66,7 @@ geolocation: 36.1715062, -115.1463527
 * https://www.instagram.com/p/CA14rooHIC6/?utm_source=ig_web_copy_link
 
 
-### Police jump out of car to shove protesters | 2021-06-01
+### Police jump out of car to shove protesters | 2020-06-01
 
 A police vehicle stops at an intersection; protesters are gathered on the sidewalk nearby. Several officers jump out of the car and rush onto the sidewalk, shoving and chasing protesters.
 
@@ -82,7 +82,7 @@ geolocation: 36.1200251, -115.1725831
 * https://www.tiktok.com/@lord.vizi/video/6833963763486461190
 
 
-### Police charge and shove protesters | 2021-06-20
+### Police charge and shove protesters | 2020-06-20
 
 Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protesters. They can be seen throwing multiple individuals to the ground and kicking one.
 
