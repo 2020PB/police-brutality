@@ -7,9 +7,10 @@ from data_builder import find_md_link_or_url, title_to_name_date, validate_geo
 @pytest.mark.parametrize(
     "given, expected",
     [
-        ("Title here | May 30th", ("Title here", "2021-05-30", "2021-05-30")),
-        ("Title here | Jan 15th", ("Title here", "2021-01-15", "2021-01-15")),
-        ("Title here | (Believed to be) Jan 15th", ("Title here", "2021-01-15", "(Believed to be) 2021-01-15")),
+        ("Title here | May 30th", ("Title here", "2020-05-30", "2020-05-30")),
+        ("Title here | May 30th 2021", ("Title here", "2021-05-30", "2021-05-30")),
+        ("Title here | Jan 15th", ("Title here", "2020-01-15", "2020-01-15")),
+        ("Title here | (Believed to be) Jan 15th", ("Title here", "2020-01-15", "(Believed to be) 2020-01-15")),
         ("Title here | (Believed to be) 2020-01-15", ("Title here", "2020-01-15", "(Believed to be) 2020-01-15")),
         ("Title here | (believed to be) 2020-01-15", ("Title here", "2020-01-15", "(Believed to be) 2020-01-15")),
         ("Title here | 2020-01-15", ("Title here", "2020-01-15", "2020-01-15")),

@@ -61,6 +61,8 @@ def title_to_name_date(line):
     date_found = date_text.lower().replace("(believed to be)", "").strip()
     if date_search:
         date_found = date_search.group()
+        if "202" not in date_text:
+            date_found += ", 2020"
 
     date = parse(date_found).strftime("%Y-%m-%d")
     new_date_text = date
