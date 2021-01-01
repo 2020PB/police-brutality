@@ -1,4 +1,4 @@
-### Compilation of incidents | May 31st
+### Compilation of incidents | 2021-05-31
 
 Police officers are seen pushing around and even driving into crowds of people. People are being pepper sprayed for walking around near protests. A mounted police officer tramples a person with a horse.
 

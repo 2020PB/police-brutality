@@ -7,8 +7,12 @@ from data_builder import find_md_link_or_url, title_to_name_date, validate_geo
 @pytest.mark.parametrize(
     "given, expected",
     [
-        ("Title here | May 30th", ("Title here", "2020-05-30", "May 30th")),
-        ("Title here | Jan 15th", ("Title here", "2020-01-15", "Jan 15th")),
+        ("Title here | May 30th", ("Title here", "2021-05-30", "2021-05-30")),
+        ("Title here | Jan 15th", ("Title here", "2021-01-15", "2021-01-15")),
+        ("Title here | (Believed to be) Jan 15th", ("Title here", "2021-01-15", "(Believed to be) 2021-01-15")),
+        ("Title here | (Believed to be) 2020-01-15", ("Title here", "2020-01-15", "(Believed to be) 2020-01-15")),
+        ("Title here | (believed to be) 2020-01-15", ("Title here", "2020-01-15", "(Believed to be) 2020-01-15")),
+        ("Title here | 2020-01-15", ("Title here", "2020-01-15", "2020-01-15")),
         ("Title here | Date Unknown", ("Title here", "", "Unknown Date")),
         ("Title here | Unknown Date", ("Title here", "", "Unknown Date")),
     ],
@@ -24,7 +28,6 @@ def test_title_to_name_date__success_cases(given: str, expected: str) -> None:
         ("|"),
         ("| May 30th"),
         ("something something |"),
-        ("title tile | 2020-01-01"),
         ("Thing happened | this day | May 30th"),
         ("Title | Leb 21"),
         ("Title here | Unknown Datessssss"),

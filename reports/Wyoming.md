@@ -1,6 +1,6 @@
 ## Laramie
 
-### Officer strikes protester with vehicle | September 23rd
+### Officer strikes protester with vehicle | 2021-09-23
 
 After arresting a protester, officers in a patrol vehicle drove up to protesters standing in the road at Grand and 6th. Some protesters stood in front of the car. Although there was ample room for the driver to reverse, the driver chose to accelerate rapidly into the protesters, striking one.
 

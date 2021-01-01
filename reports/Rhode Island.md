@@ -1,6 +1,6 @@
 ## Providence
 
-### Police pepper spray protesters attempting to block highway | September 23rd
+### Police pepper spray protesters attempting to block highway | 2021-09-23
 
 Protesters and police argue as protesters attempt to block a highway. Police tell them it is unsafe. Protesters then move to the edge of the highway. One officer grabs a protester by the arm, pushing him away, as other protesters begin climbing a fence to leave the area. After a scuffle, police pepper spray protesters. Protesters then continue to climb the fence and leave the area.
 
@@ -16,7 +16,7 @@ geolocation: 41.8290546, -71.4177476
 * https://twitter.com/UpriseRI/status/1308982906258423810
 
 
-### Police tackle protester standing in street | October 20th
+### Police tackle protester standing in street | 2021-10-20
 
 Police and protesters face off in the street. Police charge without warning, tackling a protester facing the other direction. The protester is then arrested.
 
@@ -31,7 +31,7 @@ geolocation: 41.8182264, -71.4201952
 * https://twitter.com/AFriendlyDad/status/1318723628049989632
 
 
-### Police shove protester to the ground | October 20th
+### Police shove protester to the ground | 2021-10-20
 
 A woman is seen standing in the street as police advance. One officer is walking several feet in front of the riot line. This officer shoves the woman to the ground.
 
@@ -46,7 +46,7 @@ geolocation: 41.8182264, -71.4201952
 * https://twitter.com/AFriendlyDad/status/1318740334541590529
 
 
-### Police beat protester with batons | October 20th
+### Police beat protester with batons | 2021-10-20
 
 Brief footage taken from inside a car shows police chasing protesters. One protester is surrounded by officers and beaten with batons.
 

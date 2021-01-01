@@ -1,6 +1,6 @@
 ## Athens
 
-### Police fire tear gas at peaceful protest | June 1st
+### Police fire tear gas at peaceful protest | 2021-06-01
 
 During a peaceful protest on Broad Street near University of Georgia (UGA), police began firing tear gas indiscriminately and with excess.
 
@@ -24,7 +24,7 @@ geolocation: 33.9576658, -83.3751742
 
 ## Atlanta
 
-### Officer body slams woman onto ground | May 29th
+### Officer body slams woman onto ground | 2021-05-29
 
 On May 29th, an officer slams a woman on to the ground, breaking her clavicle. The incident took place near Lenox Square mall in the Buckhead area of Atlanta.
 
@@ -39,7 +39,7 @@ geolocation: 33.8486545, -84.3628256
 * https://www.cnn.com/2020/06/05/us/atlanta-police-body-slam-woman/index.html
 
 
-### Officer shoves a woman with his bike | May 29th
+### Officer shoves a woman with his bike | 2021-05-29
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
@@ -58,7 +58,7 @@ geolocation: 33.7579008, -84.3951319
 * https://www.youtube.com/watch?v=VzRK2__u47M
 
 
-### Cops pull people out of their car, tase them | May 30th
+### Cops pull people out of their car, tase them | 2021-05-30
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
 
@@ -77,7 +77,7 @@ geolocation: 33.7596997, -84.3912128
 * https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0
 
 
-### Police punch man on the ground, then tackle woman to ground who objects | May 30th
+### Police punch man on the ground, then tackle woman to ground who objects | 2021-05-30
 
 Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
 
@@ -92,7 +92,7 @@ geolocation: 33.7597026, -84.390599
 * https://twitter.com/ANGELCUCCl/status/1266939757252280321
 
 
-### Photographer tackled to the ground by four police officers | May 30th
+### Photographer tackled to the ground by four police officers | 2021-05-30
 
 A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.
 
@@ -108,7 +108,7 @@ geolocation: 33.7579387, -84.3934527
 * https://www.google.ca/maps/@33.7579387,-84.3934527,3a,75y,90.87h,90t/data=!3m7!1e1!3m5!1sHv2SqQHuYHJLG3QMKJ5srw!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DHv2SqQHuYHJLG3QMKJ5srw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D91.04821%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192
 
 
-### Police shove and shoot protesters | May 31st
+### Police shove and shoot protesters | 2021-05-31
 
 Police shove and shoot protesters with rubber bullets. One man is shot in the head; he is seen being carried away unconscious.
 
@@ -124,7 +124,7 @@ geolocation: 33.7498722, -84.3912296
 * https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
 
 
-### Independent journalist detained by police | May 31st
+### Independent journalist detained by police | 2021-05-31
 
 A freelance journalist on assignment with the Washington Post to cover protests in Atlanta was detained by police and zip tied on May 31st. His detention was captured live by CBS46. He did not have a physical press pass and police did not allow him to display his digital pass. After examining his business cards, which state he is a journalist, police released him, returning his phone and pen.
 
@@ -143,7 +143,7 @@ geolocation: 33.7578444, -84.3935502
 * https://spjgeorgia.com/2020/06/01/spj-ga-aaja-and-aabj-condemn-detainment-of-journalists-in-atlanta-fight-for-freelancer-protections/
 
 
-### Journalist detained by police near downtown connector | June 1st
+### Journalist detained by police near downtown connector | 2021-06-01
 
 A photojournalist with the Atlanta Journal Constitution was detained by police at a protest. Another journalist spotted her zip-tied with her hands behind her back and sitting under an overpass. He then began speaking with officers, who seemed confused as to why she had been arrested. It appears that one officer handcuffed her, then walked away. Another officer notes the journalist's press pass and asks who detained her. The journalist said the arresting officer left before giving a name. She was soon released, having been detained for about 10 minutes.
 
@@ -163,7 +163,7 @@ geolocation: 33.745302, -84.3921536
 * https://spjgeorgia.com/2020/06/01/spj-ga-aaja-and-aabj-condemn-detainment-of-journalists-in-atlanta-fight-for-freelancer-protections/
 
 
-### Police tear gas protesters | September 23rd
+### Police tear gas protesters | 2021-09-23
 
 Police deploy tear gas against a crowd of protesters gathered in protest of the grand jury charges in the Breonna Taylor case. It appears that Georgia State Police accidentally deployed tear gas in their own vicinity before throwing the canister to protesters and launching more.
 
@@ -189,7 +189,7 @@ geolocation: 33.7488311, -84.3902752
 
 ## Lawrenceville
 
-### Man tased in back for speaking up after man on ground is punched in face by cop | May 30th
+### Man tased in back for speaking up after man on ground is punched in face by cop | 2021-05-30
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
 
@@ -207,7 +207,7 @@ geolocation: 33.980685, -84.083170
 
 ## Stone Mountain
 
-### Officer shoves press | August 15th
+### Officer shoves press | 2021-08-15
 
 Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield.
 
@@ -224,7 +224,7 @@ geolocation: 33.8052915, -84.147697
 
 ## Valdosta
 
-### Sheriff scuffles with protester over "F\*ck Trump" sign | June 3rd
+### Sheriff scuffles with protester over "F\*ck Trump" sign | 2021-06-03
 
 Lowndes County sheriff, Ashley Paulk, confiscated a "F\*ck Trump" sign from a protester, citing it as "evidence" for a crime not stated, in itself a violation of 1st Amendment rights. The woman attempted to grab the sign back and the sheriff choked her in response, before protesters separated the two.
 
@@ -245,7 +245,7 @@ geolocation: 30.8323921, -83.278646
 * https://www.wctv.tv/content/news/Video-captures-Lowndes-sheriff-trying-to-take-sign-from-protestors-571016801.html
 
 
-### Sheriff arrests woman for sign containing profanity | June 4th
+### Sheriff arrests woman for sign containing profanity | 2021-06-04
 
 In a continuation of events from June 3rd (ga-valdosta-1), sheriff Ashley Paulk arrested a woman carrying a sign suggestive of a "lewd act" between Paulk and Donald Trump, fulfilling his threat to arrest protesters carrying signs containing profanity. He cited a Georgia law allowing misdemeanor charges for profanity in the presence of an individual under 14 years of age, despite [U.S. Supreme Court cases](https://scholar.google.com/scholar_case?case=7398433541275578772&q=cohen+v.+california&hl=en&as_sdt=3,39) and [Georgia Supreme Court cases](https://law.justia.com/cases/georgia/supreme-court/2017/s17a1040.html) exonerating individuals charged with similar crimes.
 

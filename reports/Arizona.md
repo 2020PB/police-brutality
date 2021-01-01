@@ -1,6 +1,6 @@
 ## Ajo
 
-### Indigenous protesters shot and tear gassed | October 12th
+### Indigenous protesters shot and tear gassed | 2021-10-12
 
 Members of the O'odham Anti Border Collective staged a protest near Border Patrol checkpoint SR-85 in Arizona on Indigenous People's Day (October 12th). Protesters blocking the street were met with impact munitions (allegedly rubber bullets) and tear gas fired by officers from the Arizona Department of Public Safety.
 
@@ -26,7 +26,7 @@ geolocation: 32.2739671, -112.7419162
 
 ## Phoenix
 
-### Officer tackles and arrests person walking home from protest | May 30th
+### Officer tackles and arrests person walking home from protest | 2021-05-30
 
 An officer tackles a protester who is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice; the protester responds "I'm not". The officer yells "put your hands behind your head" several times, and the protester responds "I'm trying".
 
@@ -41,7 +41,7 @@ geolocation: 33.4503981, -112.0756744
 * https://twitter.com/PhxProtestLIVE/status/1268390978571825156?s=20
 
 
-### Officers arrest dozens of people, fail to exhibit probable cause | May 30th
+### Officers arrest dozens of people, fail to exhibit probable cause | 2021-05-30
 
 Officers arrested 114 people on Saturday, May 30, most for rioting (a low-level felony). The probable cause statements submitted to the court by police justifying the arrests of many defendants were identical from one defendant to another, and alleged only that a crowd of people had engaged in criminal activity, without alleging that the particular defendant arrested had engaged in criminal activity. One defendant, a DACA recipient, was transferred to ICE custody despite a judge finding that her arrest lacked probable cause. She has since been released.
 
@@ -57,7 +57,7 @@ geolocation: 33.4487285, -112.0795091
 * [Video of the night's protests -- mostly peaceful until police disperse the crowd with flash bangs and tear gas around 1:08:40; shortly afterward the assembly turns violent.](https://www.youtube.com/watch?v=ecwUweozAXE&feature=emb_title)
 
 
-### Photographer injured by rubber bullets | May 30th
+### Photographer injured by rubber bullets | 2021-05-30
 
 A news article describes a photographer in full view of an ABC news crew as he was shot repeatedly by rubber bullets. Protesters took him to police to get him medical care. Police struggled to get an ambulance, so they took him to the fire station, who then brough him to the hospital.
 
@@ -75,7 +75,7 @@ geolocation: 33.4492745, -112.0842197
 * https://pressfreedomtracker.us/all-incidents/head-wound-bruised-lung-and-concussion-photographer-covering-phoenix-protests/
 
 
-### Officer arrests a woman on the sidewalk outside her home for curfew violation | May 31st
+### Officer arrests a woman on the sidewalk outside her home for curfew violation | 2021-05-31
 
 On May 31, police forced protesters who were out after curfew into the Garfield neighborhood using tear gas and other means. Police then began arresting protesters in the Garfield neighborhood en masse. Officers approached Elizabeth Lemay, who was not part of the protests and was standing on the sidewalk outside her home. They tried to arrest her and tackled her in the process. She told the officers "I live here" and "I'm allowed to be on my own property;" the officer responded (in a cheerful tone of voice) "You're on the sidewalk. You guys think you know. You think you know everything."
 
@@ -97,7 +97,7 @@ geolocation: 33.4575409, -112.0642474
 * [MSN Report with HiRes Photos](https://www.msn.com/en-us/news/crime/phoenix-crowds-protest-deaths-of-george-floyd-dion-johnson/ss-BB14SxJ4?parent-title=more-than-200-arrested-by-phoenix-police-during-protests-on-sunday-night&parent-ns=ar&parent-content-id=BB14Taoq&fullscreen=true#image=BB14SxJ4|9)
 
 
-### Protests at Trump rally met with pepper spray | June 23rd
+### Protests at Trump rally met with pepper spray | 2021-06-23
 
 Protesters gathered on the sidewalk and on a shut down street outside a Trump rally at Dream City church in Phoenix, Arizona.
 
@@ -122,7 +122,7 @@ geolocation: 33.6099164, -112.0342738
 
 ## Tempe
 
-### Police pepper spray protesters on sidewalk | June 27th
+### Police pepper spray protesters on sidewalk | 2021-06-27
 
 On June 27th, protesters gathered on the sidewalk for a 'chalk walk' protest.
 
@@ -147,7 +147,7 @@ geolocation: 33.4308852, -111.9092091
 * https://www.azmirror.com/2020/06/28/tempe-pd-pepper-sprayed-demonstrators-at-saturday-chalk-walk-protest/
 
 
-### Police charge and arrest protesters | July 27th
+### Police charge and arrest protesters | 2021-07-27
 
 Footage shows police charging protesters in the street without warning and tackling an individual with a skateboard to arrest them. Additional footage shows police using pepper spray to clear the area. 7 protesters were arrested. One officer was allegedly injured when a projectile lacerated their face.
 

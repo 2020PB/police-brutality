@@ -1,6 +1,6 @@
 ## Waterbury
 
-### Police tackle and detain 6 protesters | May 31st
+### Police tackle and detain 6 protesters | 2021-05-31
 
 Waterbury police detain at least 6 people at an assembly at the intersection of Wolcott St. and Long Hill Rd., apparently for blocking the road. Police had warned protesters several times that if they remained on Wolcott St., they would be arrested. Police tackle multiple protesters, including one (who one post claims is 15 years old) who is thrown to the ground and pinned down for an extended period, with one officer kneeling on him, in what appears to be excessive force. A dog is present, but apparently not used. Waterbury authorities say no property was damaged during the protest. Arrested protesters were not charged.
 
@@ -26,7 +26,7 @@ geolocation: 41.5639908, -73.0095728
 * [Protesters will not be charged](https://www.courant.com/breaking-news/hc-br-waterbury-protester-charges-dropped-20200618-33u442hdwfbu7pnb7zbdsdivaa-story.html)
 
 
-### Police detain protesters | May 31st
+### Police detain protesters | 2021-05-31
 
 A group of people are protesting outside Waterbury police headquarters around 5:30PM. Police are lined up blocking the roadway; they warn protesters to clear the roadway. Police declare the assembly unlawful, apparently in response to the protesters standing in the roadway. Police again warn protesters to clear the roadway, and say that anyone in the roadway will be arrested. A woman steps out into the street, walking slowly across holding a sign. Police tell her to get out of the roadway; she continues across to the other side. Police move forward and arrest numerous protesters, several of whom do not appear to have been in the roadway to begin with. Several protesters are forced to the ground, including one who is slammed against a police car (see second link). Later in the same incident (around 6:30 in the first link), police aggressively and without apparent reason arrest another protester. An LRAD is mentioned, but apparently not deployed. Waterbury authorities say no property was damaged during the protest. Arrested protesters were not charged. (Note: this is a different incident from ct-waterbury-2 -- see street view.)
 
@@ -49,7 +49,7 @@ geolocation: 41.5545548, -73.0359702
 * [Protesters will not be charged](https://www.courant.com/breaking-news/hc-br-waterbury-protester-charges-dropped-20200618-33u442hdwfbu7pnb7zbdsdivaa-story.html)
 
 
-### Officer forces woman into car and wrestles with another | June 3rd
+### Officer forces woman into car and wrestles with another | 2021-06-03
 
 Officer forces woman into cop car and wrestles with another woman on her phone.
 

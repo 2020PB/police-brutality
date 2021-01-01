@@ -1,6 +1,6 @@
 ## Cottonwood Heights
 
-### Police beat and pepper spray protesters during violent arrests | August 2nd
+### Police beat and pepper spray protesters during violent arrests | 2021-08-02
 
 During a protest on August 2nd over Zane James who was killed by police a few years ago, police blocked off a residential road, down which protesters were travelling. Police then ordered protesters to the sidewalk. It is difficult to ascertain how the scuffle began; both protesters and police place the blame on the other. It appears that one officer and one protester got into a verbal altercation, after which the two go to the ground, grappling. The officer ends up holding the protester down, but it is difficult to determine how the incident began. This protester was apparently the father of Zane James. After this, protesters and police both became agitated and the scuffle escalated.
 
@@ -25,7 +25,7 @@ geolocation: 40.6292192, -111.8216915
 
 ## Salt Lake City
 
-### Police shove an old man with a cane to the ground | May 30th
+### Police shove an old man with a cane to the ground | 2021-05-30
 
 A man was waiting for a bus at Library Station on the South side of University Boulevard. He was approached by two officers, one of whom shoved him repeatedly, knocking him into a nearby railing.
 
@@ -44,7 +44,7 @@ geolocation: 40.7605681, -111.8848045
 * https://www.abc4.com/news/salt-lake-city-protests/salt-lake-city-officer-who-pushed-down-elderly-man-removed-from-patrol-duties-during-investigation/
 
 
-### Police shoot man on the ground in the spine with a beanbag point-blank | May 30th
+### Police shoot man on the ground in the spine with a beanbag point-blank | 2021-05-30
 
 A man laying on the ground was shot at close range by an officer with a bean bag round. This occurred as officers were pushing protesters down South 200 East outside the Public Library.
 
@@ -59,7 +59,7 @@ geolocation: 40.7600121, -111.8853097
 * https://www.reddit.com/r/nextfuckinglevel/comments/gtv4co/downtown_salt_lake_city_may_30th_2020_unarmed/
 
 
-### Police shoot tear gas canister at man from close range, striking him in the chest | May 30th
+### Police shoot tear gas canister at man from close range, striking him in the chest | 2021-05-30
 
 Man standing in a crowd of protesters was struck with a tear gas canister. This occurred near the Public Library, at the intersection of South 200 East Street and University Boulevard.
 
@@ -75,7 +75,7 @@ geolocation: 40.7605534, -111.8853025
 * https://www.instagram.com/p/CA148-0B14t6mQZqJZYzwq25KdoPzZ5CJmV3oQ0/
 
 
-### Police push and tackle man that is being vocal | June 1st
+### Police push and tackle man that is being vocal | 2021-06-01
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
@@ -92,7 +92,7 @@ geolocation: 40.7757703, -111.888239
 * https://v.redd.it/fl4y919v1q251
 
 
-### Police beat protesters with shields and batons | July 9th
+### Police beat protesters with shields and batons | 2021-07-09
 
 In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protesters took to the streets.
 
@@ -112,7 +112,7 @@ geolocation: 40.7585004, -111.8894887
 * https://twitter.com/JoshuaPotash/status/1281434273459900418
 
 
-### Police chase journalist | July 9th
+### Police chase journalist | 2021-07-09
 
 Footage from a protest for Bernardo Palacios-Carbajal shows police chasing down a journalist with a camera mounted on his head. The journalist flees and police give up the chase. The journalist is allegedly affiliated with Just Media Utah
 

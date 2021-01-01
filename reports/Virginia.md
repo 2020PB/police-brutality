@@ -1,6 +1,6 @@
 ## Fairfax
 
-### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
+### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | 2021-06-05
 
 Bodycam footage shows an unarmed man walking around in the street in Mount Vernon, Virginia. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".
 
@@ -24,7 +24,7 @@ geolocation: 38.7162297, -77.1419689
 
 ## Fredericksburg
 
-### Police fire tear gas at peaceful protest | May 31st
+### Police fire tear gas at peaceful protest | 2021-05-31
 
 Footage shows deployment of tear gas by police on peaceful protest on Cowan Boulevard in front of Hugh Mercer School. In one image, protesters are lying on the ground as tear gas canisters fall around them.
 
@@ -44,7 +44,7 @@ geolocation: 38.3041361, -77.4862634
 
 ## Manassas
 
-### Officers pepper-spray Virginia state delegate peacefully protesting | May 30
+### Officers pepper-spray Virginia state delegate peacefully protesting | 2021-05-30
 
 In this video, delegate Lee Carter asks officers questions about their methods during protests. He stands in the way of an advancing line of law enforcement officers; he is pushed to the ground at 1:30 and pepper-sprayed at 2:27. He also claims to have been hit by a flashbang grenade earlier in the protest (see also third link). At some point (see Facebook video), someone who seems to be the delegate shouts "I'm a member of the general assembly. I write the state police budget. They're gonna fucking regret that."
 
@@ -69,7 +69,7 @@ geolocation: 38.7849774, -77.5156431
 
 ## Richmond
 
-### Police SUV jumps median toward protesters | May 30th
+### Police SUV jumps median toward protesters | 2021-05-30
 
 Footage taken on May 30th near Monument Ave near the Jefferson Davis Statue shows a police cruiser jump the median where a crowd of protesters are gathered. Protesters are forced to run to avoid being hit.
 
@@ -84,7 +84,7 @@ geolocation: 37.5584926, -77.4677205
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/heif6m/an_older_video_from_the_beginning_of_protests_in/
 
 
-### Officer sprays a man watching from his balcony | May 31st
+### Officer sprays a man watching from his balcony | 2021-05-31
 
 A police officer pepper sprayed a man watching from his second floor apartment at Broad and Goshen after spraying three people just walking down the sidewalk.
 
@@ -101,7 +101,7 @@ geolocation: 37.5503078, -77.4495356
 * [Full video](https://m.facebook.com/story.php?story_fbid=1123349158037544&id=100010874104187)
 
 
-### Tear gas fired at peaceful protest | June 1st
+### Tear gas fired at peaceful protest | 2021-06-01
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM. The police chief has said that the officers' actions were "unwarranted" and "outside dept protocols." At least one protester has sued the officers involved.
 
@@ -123,7 +123,7 @@ geolocation: 37.5538363, -77.4645138
 * [Court filing](https://ewscripps.brightspotcdn.com/ff/05/d77e0dd14f0187f803ec26baadc8/6-4-2020-civil-rights-lawsuit-vs-richmond-police.pdf)
 
 
-### Officer spits on detained protester | June 1st
+### Officer spits on detained protester | 2021-06-01
 
 A police officer spits on a detained protester who is restrained and sitting on the ground. The officer appears to repeat the action after other protesters mention that he's on camera. Extended footage shows the officer continuing to spit on the protester.
 
@@ -145,7 +145,7 @@ geolocation: 37.5533455, -77.460387
 * https://vpm.org/news/articles/13954/video-richmond-police-spit-at-or-near-detained-protester
 
 
-### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 1st
+### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | 2021-06-01
 
 In this video, an officer fires a tear gas canister at a slow moving vehicle in the Robert E. Lee Memorial roundabout. It appears that he was unaware the vehicle belonged to the police.
 
@@ -162,7 +162,7 @@ geolocation: 37.5538363, -77.4645138
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
 
 
-### Police SUV pushes through protesters, knocks over protester on bike | (believed to be) June 13th
+### Police SUV pushes through protesters, knocks over protester on bike | (Believed to be) 2021-06-13
 
 In this video, protesters on bikes are shown blocking a police vehicle from progressing down a road near the Robert E. Lee Monument. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protesters and knocks a protester off of their bike.
 
@@ -180,7 +180,7 @@ geolocation: 37.5538363, -77.4645138
 * https://richmond.com/news/local/crime/richmond-prosecutor-clears-richmond-police-in-several-complaints-related-to-civil-unrest/article_7bb5a33f-0b35-5d19-9416-a3049a9670b0.html
 
 
-### Police pepper spray protesters on sidewalk | June 14th
+### Police pepper spray protesters on sidewalk | 2021-06-14
 
 Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidewalk outside the Richmond Police Headquarters. Police sprayed broadly at protesters several feet away, some locking arms with one another. No aggression on the part of protesters can be seen.
 
@@ -195,7 +195,7 @@ geolocation: 37.5462104, -77.4451222
 * https://twitter.com/aeringle/status/1272347287902130177
 
 
-### Police respond to thrown water bottle with excessive force | June 14th
+### Police respond to thrown water bottle with excessive force | 2021-06-14
 
 A single water bottle can be seen thrown at and striking an officer. The bottle appears to be empty. Water is then sloshed in the officer's direction. The officer unholsters his pepper spray.
 
@@ -213,7 +213,7 @@ geolocation: 37.5462104, -77.4451222
 * https://twitter.com/aeringle/status/1272358269122723846
 
 
-### Police fire tear gas and rubber bullets at peaceful protest | June 15th
+### Police fire tear gas and rubber bullets at peaceful protest | 2021-06-15
 
 Around 10 pm on June 15th, peaceful protesters gathered outside the Richmond Police Headquarters at some distance from the officers. Officers fired tear gas and rubber bullets at protesters.
 
@@ -239,7 +239,7 @@ geolocation: 37.545802, -77.444889
 * https://twitter.com/aeringle/status/1272885980563939329
 
 
-### Police pepper-spray journalist | June 21st
+### Police pepper-spray journalist | 2021-06-21
 
 First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately.
 
@@ -261,7 +261,7 @@ geolocation: 37.5529536, -77.4576011
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
 
-### Police escalate against protesters outside city hall | June 23rd
+### Police escalate against protesters outside city hall | 2021-06-23
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
@@ -281,7 +281,7 @@ geolocation: 37.5413144, -77.4354564
 * [Additional shot of individual struck in head](https://twitter.com/nilsrva/status/1275500062903320582)
 
 
-### Man struck in face by explosive round | June 26th
+### Man struck in face by explosive round | 2021-06-26
 
 Footage shows a group of scattered protesters some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
@@ -298,7 +298,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/woznyphoto/status/1276734657237864448
 
 
-### Police drag protester off bike | June 26th
+### Police drag protester off bike | 2021-06-26
 
 Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protesters. He grabs a protester on a bike, then proceeds to drag the protester into the street and off the bike. Several officers aid the officer in arresting the protester, while the original officer kneels on the protester's back.
 
@@ -315,7 +315,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/woznyphoto/status/1276727667979694081
 
 
-### Police shove and pepper-spray protester | June 26th
+### Police shove and pepper-spray protester | 2021-06-26
 
 Footage shows a police officer shoving a protester to the ground. The protester scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protesters.
 
@@ -334,7 +334,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/nilsrva/status/1276752643528982530
 
 
-### Attorney arrested for photographing police staging area | June 26th
+### Attorney arrested for photographing police staging area | 2021-06-26
 
 Around midnight on June 26th, an attorney recounts his experience with Richmond police at a staging area in the parking lot of the Broad Street Whole Foods. The attorney states the parking lot was open, there were no signs, and there was no trespassing order given.
 
@@ -357,7 +357,7 @@ geolocation: 37.558200, -77.4634053
 * https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
 
 
-### Police fire tear gas at protesters | June 26th
+### Police fire tear gas at protesters | 2021-06-26
 
 Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protesters.
 
@@ -374,7 +374,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/greg_doucette/status/1287252197487648768
 
 
-### Police tear gas protesters | July 25th
+### Police tear gas protesters | 2021-07-25
 
 After a truck has been lit on fire outside the Richmond Police Headquarters, allegedly by protesters, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
 
@@ -392,7 +392,7 @@ geolocation: 37.5462104, -77.4451222
 * https://twitter.com/hannaheason_/status/1287228239388258307
 
 
-### Police attempt to arrest press | July 25th
+### Police attempt to arrest press | 2021-07-25
 
 Footage shows police grabbing two members of the press and detaining them in a parking lot at North Madison and West Grace Streets. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protesters away. The journalists are eventually released.
 
@@ -410,7 +410,7 @@ geolocation: 37.5460473, -77.4456778
 * https://twitter.com/edace2936/status/1287226623348137984
 
 
-### Reporter handcuffed and detained | July 26th
+### Reporter handcuffed and detained | 2021-07-26
 
 Richmond police officers were clearing Monroe Park. A journalist was attempting to leave when he was detained and handcuffed by police, even though he had a press pass and repeatedly stated he was with the press. He states he was later released on the condition he did not return to the park that night.
 
@@ -427,7 +427,7 @@ geolocation: 37.5467591, -77.4514553
 * https://twitter.com/edace2936/status/1287574364490289152
 
 
-### Protester arrested without probable cause, later released without charges | July 26th
+### Protester arrested without probable cause, later released without charges | 2021-07-26
 
 The filmer, a protester, is standing on or near the sidewalk in the vicinity of Monroe Park. Several officers approach him. The protester says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protester without charges.
 
@@ -443,7 +443,7 @@ geolocation: 37.5467591, -77.4514553
 * https://twitter.com/GoadGatsby/status/1287600241068449792
 
 
-### Encapment serving food and water dismantled; protester arrested and tased | July 30th
+### Encapment serving food and water dismantled; protester arrested and tased | 2021-07-30
 
 Police arrived at a group of protesters who gave out food and water to remove the protesters' tents. During the removal, a protester was arrested, held on the ground, and tased repeatedly. Charges are unclear.
 
@@ -461,7 +461,7 @@ geolocation: 37.5542929, -77.4604981
 * https://imgur.com/Ye9Sy5Y
 
 
-### Police arrest protester on private property and shove others | August 20th
+### Police arrest protester on private property and shove others | 2021-08-20
 
 Police grab and arrest a protester filming from the sidewalk. Officers then push other protesters away, shoving several to the ground. Justification for the arrest is unclear. Protesters were standing on private property (the parking lot of GWARbar), allegedly with permission from the property owner.
 
@@ -480,7 +480,7 @@ geolocation: 37.5488003, -77.4452045
 * https://twitter.com/JLJLovesRVA/status/1296700265102483457
 
 
-### Police tackle and arrest cyclist | September 1st
+### Police tackle and arrest cyclist | 2021-09-01
 
 A cyclist is seen riding away from a demonstration near the Richmond City Jail. Footage shows that he appears to be moving off Ollie Highway onto the grass. An officer in an unmarked vehicle then gets out of the car, chases the cyclist down then violently tackles and arrests him.
 
@@ -498,7 +498,7 @@ geolocation: 37.5473373, -77.424255
 * https://twitter.com/tormaid/status/1300959166937395201
 
 
-### Police shove protesters with shields | September 23rd
+### Police shove protesters with shields | 2021-09-23
 
 After snatching a protester outside the Richmond Police Headquarters, police formed a riot shield line and told protesters to move back. Protesters yelled at police. Police shoved protesters with their shields.
 

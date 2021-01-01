@@ -57,9 +57,16 @@ def title_to_name_date(line):
     if date_text in ("Date Unknown", "Unknown Date"):
         return name, "", "Unknown Date"
 
-    date_found = date_regex.search(date_text).group()
+    date_search = date_regex.search(date_text)
+    date_found = date_text.lower().replace("(believed to be)", "").strip()
+    if date_search:
+        date_found = date_search.group()
+
     date = parse(date_found).strftime("%Y-%m-%d")
-    return name, date, date_text
+    new_date_text = date
+    if "believed" in date_text.lower():
+        new_date_text = f"(Believed to be) {date}"
+    return name, date, new_date_text
 
 
 def read_all_md_files(base_dir):

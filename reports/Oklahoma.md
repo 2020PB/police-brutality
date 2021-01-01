@@ -1,6 +1,6 @@
 ## Oklahoma City
 
-### Police try to snatch sign, make violent arrests and cause scuffle | May 30th
+### Police try to snatch sign, make violent arrests and cause scuffle | 2021-05-30
 
 Footage shows police approaching a small march at 23rd and Classon. They arrest one woman holding a banner without incident. An officer then begins to walk away with one end of the banner. Protesters try to pull it back, and a scuffle follows where police attempt to arrest one protester and a second appears to approach to stop it. The second protester and the officer exchange pushes, then another officer charges the protester from behind and shoves him. Police then shove several more protesters and kneel on one to make an arrest.
 
@@ -15,7 +15,7 @@ geolocation: 35.493266, -97.5337749
 * https://twitter.com/greg_doucette/status/1269790337075228679
 
 
-### Person with hands up struck in chest by projectile | May 31st
+### Person with hands up struck in chest by projectile | 2021-05-31
 
 Person standing with hands up struck in chest by projectile near the Oklahoma City police headquarters around 1:25 AM; a second projectile is fired shortly after person is struck by the first.
 
@@ -30,7 +30,7 @@ geolocation: 35.4688914, -97.5257481
 * https://twitter.com/BruceBrownJr/status/1266979654499479552
 
 
-### Law enforcement uses tear-gas several times | May 31st
+### Law enforcement uses tear-gas several times | 2021-05-31
 
 Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protesters that are standing near the Police Headquarters just after midnight.
 
@@ -50,7 +50,7 @@ geolocation: 35.4688914, -97.5257481
 
 ## Tulsa
 
-### Reporters shot by pepper balls on air | June 1st
+### Reporters shot by pepper balls on air | 2021-06-01
 
 When Tulsa Police opened fire on peaceful protesters at 36th and Peoria, reporters for Tulsa's channel 8 were struck by pepper balls while reporting live. Reporter also stated that police threw a flashbang, and tear gas can be seen in the background.
 
