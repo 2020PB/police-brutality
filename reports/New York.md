@@ -1,6 +1,6 @@
 ## Buffalo
 
-### Police tackle man giving interview | June 1st
+### Police tackle man giving interview | 2020-06-01
 
 Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
 
@@ -15,7 +15,7 @@ geolocation: 42.9288045, -78.815845
 * https://twitter.com/secretlaith/status/1268251322467450880
 
 
-### Police shove elderly man, causing him to fall and hit the back of his head | June 4th
+### Police shove elderly man, causing him to fall and hit the back of his head | 2020-06-04
 
 Two police officers shove an unarmed, elderly man ([reportedly 75 years old](https://twitter.com/HannahBuehler/status/1268742666210226177)), who falls backwards and strikes his head on the concrete sidewalk. He appears to begin bleeding from his ear and passes out.
 
@@ -43,7 +43,7 @@ geolocation: 42.886546, -78.8794732
 * [Follow-up story](https://www.wkbw.com/news/local-news/suspended-buffalo-police-officers-back-on-payroll)
 
 
-### Reporter shot at after identifying himself | June 5th
+### Reporter shot at after identifying himself | 2020-06-05
 
 Reporter shot at over a dozen times at close range and arrested, despite identifying himself. Was told his 1st Amendment rights did not matter.
 
@@ -60,7 +60,7 @@ geolocation: 42.887420, -78.877836
 
 ## East Meadow
 
-### Police officer stops abrubtly so protester bumps into him; police arrest him after this | June 12th
+### Police officer stops abrubtly so protester bumps into him; police arrest him after this | 2020-06-12
 
 A protester is seen walk side-by-side with an officer. The officer steps in front of him and stops such that the protester lightly grazes the officer.
 
@@ -82,7 +82,7 @@ geolocation: 40.7251255, -73.5570234
 
 ## Ithaca
 
-### Police pepper spray protesters in dispersal attempt | October 22nd
+### Police pepper spray protesters in dispersal attempt | 2020-10-22
 
 Protesters gathered outside the Ithaca Police Headquarters on October 22nd. After protesters allegedly climbed on the building and broke windows, police then allegedly deployed tear gas; neither of these claims have visual confirmation yet.
 
@@ -103,7 +103,7 @@ geolocation: 42.4370354, -76.4996632
 
 ## Merrick
 
-### Police charge and arrest peaceful protesters | June 6th
+### Police charge and arrest peaceful protesters | 2020-06-06
 
 A police contingent far outnumbering protesters shows up to block roads. Protesters are peaceful and the majority follow order to back away. Nonetheless, footage shows arrests and police charging at protesters.
 
@@ -122,7 +122,7 @@ geolocation: 40.688831, -73.5624529
 
 ## New York City
 
-### Police make violent arrests, officer breaks baton striking protester | May 28th
+### Police make violent arrests, officer breaks baton striking protester | 2020-05-28
 
 Footage taken at Union Square and East 17th street shows multiple officers grabbing and shoving a protester to make an arrest. Another protester confronts an officer who strikes the protester in the legs with a baton. The baton snaps in two.
 
@@ -137,7 +137,7 @@ geolocation: 40.7365484, -73.991144
 * https://twitter.com/ShimonPro/status/1266136557871869952
 
 
-### Police make violent arrest at Union Square | May 28th
+### Police make violent arrest at Union Square | 2020-05-28
 
 Footage shows a woman arguing with a police officer at a protest near Union Square. The officer grabs her by the backpack and pulls her. Other protesters attempt to help and police intervene. Police then shove the crowd back and arrest the protester. Allegedly, 33 people were arrested at this scene.
 
@@ -152,7 +152,7 @@ geolocation: 40.7360037, -73.9936554
 * https://twitter.com/NY1/status/1266159669262893057
 
 
-### Police shove woman to the ground, inducing a seizure | May 29th
+### Police shove woman to the ground, inducing a seizure | 2020-05-29
 
 Footage shows police using bikes to shove protesters on the sidewalk. One protester appears to be forced over a concrete divider by the chassis of a bike.
 
@@ -175,7 +175,7 @@ geolocation: 40.6839626, -73.9772962
 * https://www.democracynow.org/2020/6/15/dounya_zayer_nypd_attack
 
 
-### Police drive by man and hit him with car door | May 29th
+### Police drive by man and hit him with car door | 2020-05-29
 
 A police officer opens their car door to knock an individual down to the ground. The incident on Classon Avenue between Gates and Quincy in Brooklyn.
 
@@ -196,7 +196,7 @@ geolocation: 40.6852172, -73.9592084
 * https://abc7ny.com/caught-on-camera-nypd-brutality-nyc-curfew-george-floyd-protests/6239075/
 
 
-### Member of the New York State Assembly pepper-sprayed | May 29th
+### Member of the New York State Assembly pepper-sprayed | 2020-05-29
 
 Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Center.
 
@@ -212,7 +212,7 @@ geolocation: 40.6839626, -73.9772962
 * https://twitter.com/GwynneFitz/status/1266522692326428672
 
 
-### Police shove protester to the ground | May 29th
+### Police shove protester to the ground | 2020-05-29
 
 Footage taken at a protest at Tompkins and Lexington Avenues in Brooklyn shows a police officer using batons to shove a protester backwards onto the ground.
 
@@ -227,7 +227,7 @@ geolocation: 40.6883824, -73.9471136
 * https://twitter.com/nycDSA/status/1266562453686665217
 
 
-### Police shove protesters to the ground | May 29th
+### Police shove protesters to the ground | 2020-05-29
 
 Footage taken at a protest at Classon and Putnam Avenues in Brooklyn shows an officer approaching a protester and shoving her to the ground without warning.
 
@@ -242,7 +242,7 @@ geolocation: 40.6830306, -73.9610349
 * https://twitter.com/mfstange/status/1266564340381036544
 
 
-### Police shove and grab protesters | May 29th
+### Police shove and grab protesters | 2020-05-29
 
 Footage taken at a protest at Classon and Lafayette Avenues in Brooklyn shows police shoving numerous protesters. Police shove several into the road. A woman then argues with police. She is shoved by one officer, then a second officer grabs her, pushing her down the street. Officers then charge down the street, one of whom makes a clear effort to shove a protester on a bicycle as he passes.
 
@@ -257,7 +257,7 @@ geolocation: 40.6888887, -73.962207
 * https://twitter.com/JohnPhilpNY/status/1266595992427790338
 
 
-### Police chase and tackle protester, shove a second protester into a car | May 29th
+### Police chase and tackle protester, shove a second protester into a car | 2020-05-29
 
 Footage taken at 67 5th Avenue in Brooklyn shows police chasing down a protester. They tackle the protester and hold them down to arrest. Another protester approaches and is thrown against the side of a car. This protester then falls to the ground and appears to be unconscious.
 
@@ -275,7 +275,7 @@ geolocation: 40.6805929, -73.9795787
 * https://www.instagram.com/p/CAzSOtGlKQY/
 
 
-### Police shove protester into the road | May 29th
+### Police shove protester into the road | 2020-05-29
 
 Footage taken by a reporter at Classon and Lafayette Avenues in Brooklyn shows police chasing a protester who allegedly threw eggs at the police. A protester stands on the sidewalk and is shoved into the road, falling to the ground.
 
@@ -292,7 +292,7 @@ geolocation: 40.6888887, -73.962207
 * https://twitter.com/NickAtNews/status/1266567790095486976
 
 
-### Police officer strikes protester | May 29th
+### Police officer strikes protester | 2020-05-29
 
 Footage taken at Flatbush and Pacific in Brooklyn shows a police officer punching a protester who approached him in the face.
 
@@ -307,7 +307,7 @@ geolocation: 40.6831133, -73.978948
 * https://twitter.com/nateschweber/status/1266539107632758784
 
 
-### Police officer shoves protesters | May 29th
+### Police officer shoves protesters | 2020-05-29
 
 At the corner of Classon and DeKalb in Brooklyn, footage shows two protesters standing off with police. An officer in their blind spot shoves them, knocking one to the ground.
 
@@ -322,7 +322,7 @@ geolocation: 40.6903649, -73.9624829
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
 
 
-### NYPD beat people with batons | May 30th
+### NYPD beat people with batons | 2020-05-30
 
 The NYPD Squad are seen beating protesters with batons and pushing them around.
 
@@ -337,7 +337,7 @@ geolocation: 40.6839626, -73.9772962
 * https://twitter.com/j0ncampbell/status/1266514356071735296
 
 
-### Cop shoves a guy into a metal fence | May 30th
+### Cop shoves a guy into a metal fence | 2020-05-30
 
 A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
 
@@ -353,7 +353,7 @@ geolocation: 40.6944043, -74.0091173
 * https://twitter.com/BTSsavedmylife9/status/1266754310161006594
 
 
-### Cop shoving a person to the ground towards metal trash bins | May 30th
+### Cop shoving a person to the ground towards metal trash bins | 2020-05-30
 
 At the intersection of Bergen and 5th, an NYPD officer pushes a civilian down towards trash cans.
 
@@ -369,7 +369,7 @@ geolocation: 40.6814898, -73.9770145
 * https://twitter.com/greg_doucette/status/1266850004720812032
 
 
-### Huffpost reporter is arrested by NYPD | May 30th
+### Huffpost reporter is arrested by NYPD | 2020-05-30
 
 Despite clearly identifying himself, the reporter was taken into custody during a protest.
 
@@ -386,7 +386,7 @@ geolocation: 40.650712, -73.951185
 * https://twitter.com/greg_doucette/status/1268205679292055552
 
 
-### NYPD rams protesters | May 30th
+### NYPD rams protesters | 2020-05-30
 
 An NYPD SUV's path is blocked by a crowd of protesters at Flatbush and St. Marks. Protesters begin throwing things at the SUV. Another NYPD SUV drives up alongside the first, then drives through the crowd, forcing protesters out of its way. The first car then drives forward, ramming the dense crowd of civilians in front of it. NYPD's internal affairs bureau conducted a review and found no wrongdoing. The police commissioner said that "preliminarily we have an accounting of that incident where we have officers in a situation where they're essentially being penned in by protesters," but it seems from the video as though, throughout the incident, both cars have a clear route of escape behind them.
 
@@ -405,7 +405,7 @@ geolocation: 40.6796161, -73.9741384
 * https://thehill.com/homenews/state-watch/503967-nypd-commissioner-officers-who-drove-into-protesters-did-not-violate-use?amp
 
 
-### High-ranking NYPD officer shoves protesters with plastic barricade | May 30th
+### High-ranking NYPD officer shoves protesters with plastic barricade | 2020-05-30
 
 An NYPD officer in a white shirt, denoting a rank of Lieutenant or higher, uses a plastic barricade to shove protesters back. He then topples the barricade and charges at protesters.
 
@@ -420,7 +420,7 @@ geolocation: 40.6819992, -73.9762472
 * https://twitter.com/letsgomathias/status/1266903135303450631
 
 
-### Street medic is arrested | May 30th
+### Street medic is arrested | 2020-05-30
 
 An NYPD officer kneels on the back of a street medic to arrest him. Footage additionally shows the officer destroying medical supplies used to aid tear gas victims. This occurred near 2807 Church Avenue in Brooklyn.
 
@@ -435,7 +435,7 @@ geolocation: 40.6507626, -73.9509756
 * https://twitter.com/PNickCurran/status/1266966295653777408
 
 
-### Reporter is arrested and detained for 6 hours | May 30th
+### Reporter is arrested and detained for 6 hours | 2020-05-30
 
 CNN commentator, Keith Boykin, was arrested by the NYPD and detained for 6 hours. He was released with a summons for "walking on the highway," and for "disorderly conduct - blocking vehicle traffic." He claims traffic was already blocked by both police and protesters.
 
@@ -455,7 +455,7 @@ geolocation: 40.795980, -73.974910
 * https://www.youtube.com/watch?v=tojt5i0dNV4
 
 
-### Police arrest woman on bike | May 30th
+### Police arrest woman on bike | 2020-05-30
 
 A woman on a bike attempts to maneuver around a police van near Cooper Union. An officer jumps out and yanks her from the bike. Another officer throws the bike to the side as several slam her against the van to arrest her.
 
@@ -471,7 +471,7 @@ geolocation: 40.7285093, -73.9906297
 * https://twitter.com/greg_doucette/status/1268189319002537989
 
 
-### Police officer shoves protester | May 30th
+### Police officer shoves protester | 2020-05-30
 
 Footage from a Union Square protest shows an officer using his baton to shove a protester.
 
@@ -486,7 +486,7 @@ geolocation: 40.7362553, -73.9924972
 * https://twitter.com/annikahouse/status/1266931806563176451
 
 
-### Police shove protesters | May 30th
+### Police shove protesters | 2020-05-30
 
 Footage from at protest along the Flatbush Avenue Extension in Brooklyn shows several instances of police shoving protesters.
 
@@ -507,7 +507,7 @@ geolocation: 40.6936936, -73.9833128
 * https://twitter.com/jeancosme/status/1266938900184006656
 
 
-### Officers shove and grab protesters | May 30th
+### Officers shove and grab protesters | 2020-05-30
 
 In an incident at Bedford and Tilden Avenues in Brooklyn, an officer pushes through a crowd and grabs a person by the neck to push them aside. Another officer knocks the person over, and the first officer throws the person down again when they try to get up.
 
@@ -522,7 +522,7 @@ geolocation: 40.6463818, -73.957429
 * https://twitter.com/BrooklynSpoke/status/1266845497446318081
 
 
-### Already-arrested protester is choked and thrown to the ground | May 30th
+### Already-arrested protester is choked and thrown to the ground | 2020-05-30
 
 Footage from Bedford and Tilden Avenues in Brooklyn shows a protester with his hands behind his back being walked away by police. Another officer approaches, grabs him by the neck and throws him to the ground.
 
@@ -537,7 +537,7 @@ geolocation: 40.6463818, -73.957429
 * https://twitter.com/justawren/status/1266945853828280330
 
 
-### Journalist and protesters beaten with batons | May 30th
+### Journalist and protesters beaten with batons | 2020-05-30
 
 Footage taken by an off-duty journalist (at the protest to film but not on a mandate from their employer) at 137 Fourth Avenue in Manhattan shows a fire on a sidewalk. Police clear the area around the fire, then begin indiscriminately striking the filmer and protesters with batons. Another individual struck by police can be seen holding a camera and is heard stating he is press.
 
@@ -553,7 +553,7 @@ geolocation: 40.7335782, -73.9918699
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394878/id149_annote-1254w.mp4
 
 
-### Indiscriminate use of pepper spray | May 30th
+### Indiscriminate use of pepper spray | 2020-05-30
 
 After 2 protesters allegedly threw objects at police at Church and Rogers Avenues in Brooklyn, an officer is seen discharging pepper spray on all protesters gathered near him.
 
@@ -568,7 +568,7 @@ geolocation: 40.6506757, -73.9546764
 * https://twitter.com/PNickCurran/status/1266959923641974784
 
 
-### Police violently clear protesters around squad car | May 30th
+### Police violently clear protesters around squad car | 2020-05-30
 
 After protesters had gathered around a squad car near Bedford and Tilden Avenues in Brooklyn, police are seen shoving protesters and striking them with batons - knocking one protester to the ground - in an effort to clear the area around the car.
 
@@ -583,7 +583,7 @@ geolocation: 40.6463818, -73.957429
 * https://twitter.com/spiccoli/status/1266861960982913030
 
 
-### Police beat hospital employee walking home | May 31st
+### Police beat hospital employee walking home | 2020-05-31
 
 Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples.
 
@@ -598,7 +598,7 @@ geolocation: 40.6508346, -73.949475
 * https://www.thedailybeast.com/even-medical-workers-fighting-covid-say-cops-are-attacking-them-at-george-floyd-protests?ref=home
 
 
-### Police pull off protesters mask to pepper spray him | May 31st
+### Police pull off protesters mask to pepper spray him | 2020-05-31
 
 A police officer forcefully pulls off a protesters face mask and pepper sprays him. The protester had his hands up in surrender when this happened.
 
@@ -618,7 +618,7 @@ geolocation: 40.6831896, -73.9767184
 * https://twitter.com/AliVelshi/status/1269079615080890368
 
 
-### Police assault protesters | May 31st
+### Police assault protesters | 2020-05-31
 
 Police officers are seen beating and assaulting men and women for standing around peacefully.
 
@@ -633,7 +633,7 @@ geolocation: 40.6867584, -73.9754921
 * https://twitter.com/theactivistTati/status/1266889419858075649
 
 
-### State senator pepper sprayed | May 31st
+### State senator pepper sprayed | 2020-05-31
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
@@ -648,7 +648,7 @@ geolocation: 40.6823663, -73.9764769
 * https://twitter.com/zellnor4ny/status/1266802303807500288
 
 
-### Protesters with hands up assaulted by police | May 31st
+### Protesters with hands up assaulted by police | 2020-05-31
 
 Protesters had their hands up, yet were pepper sprayed in the face.
 
@@ -663,7 +663,7 @@ geolocation: 40.6447837, -73.9547017
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gu2u28/more_documented_aggression_in_flatbush_brooklyn/
 
 
-### Police injure journalist | May 31st
+### Police injure journalist | 2020-05-31
 
 Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
 
@@ -682,7 +682,7 @@ geolocation: 40.678098, -73.944270
 * https://www.cnn.com/2020/06/02/media/wall-street-journal-assault-nypd-protest-investigation/index.html
 
 
-### Officers beat man until his face and belongings are bloody | May 31st
+### Officers beat man until his face and belongings are bloody | 2020-05-31
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
@@ -701,7 +701,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/greg_doucette/status/1268649158761689089
 
 
-### NYPD denies 6th amendment rights to protesters | May 31st
+### NYPD denies 6th amendment rights to protesters | 2020-05-31
 
 Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
 
@@ -716,7 +716,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/GoodCallNYC/status/1267128759951523846
 
 
-### Police charge at peaceful crowd | May 31st
+### Police charge at peaceful crowd | 2020-05-31
 
 Police charge at a peaceful protest, knocking protesters off bikes, throwing others to the ground, and making numerous arrests
 
@@ -731,7 +731,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/drivenbyboredom/status/1267263490009546753
 
 
-### Multiple police officers assault woman | May 31st
+### Multiple police officers assault woman | 2020-05-31
 
 A woman is seeing moving another protester from the scene in an apparent attempt at de-escalation. She is shoved by multiple officers. She appears to jerk her hand back from an officer, at which point, several officers pull her away, striking her with their fists, feet and batons.
 
@@ -747,7 +747,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.tiktok.com/@skoodupcam1/video/6833172353724239109
 
 
-### Police chase and beat protesters | May 31st
+### Police chase and beat protesters | 2020-05-31
 
 Footage shows a man with his hands up backing away from a band of police officers (approximately 10-20). As the man backs across an intersection, an officer charges up to shove him. Officers then chase him and several bystanders, before tackling the man to the ground and beating him.
 
@@ -762,7 +762,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/brandon212_/status/1267184037547986944
 
 
-### Police pepper spray and assault protesters | May 31st
+### Police pepper spray and assault protesters | 2020-05-31
 
 Footage from Broadway and E 12th Street in Manhattan shows an officer shoving, elbowing and pepper spraying numerous protesters standing on the sidewalk with their hands up.
 
@@ -777,7 +777,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/DavidASiffert/status/1267297196157947904
 
 
-### Several violent arrests made by police | May 31st
+### Several violent arrests made by police | 2020-05-31
 
 Footage taken near Barclays Center and Atlantic Terminal in Brooklyn shows violent arrests made by police. Allegedly kicked off by a protester throwing a water bottle, police shove protesters and strike them with batons. In particular, footage shows multiple officers striking one protester on the ground with batons.
 
@@ -797,7 +797,7 @@ geolocation: 40.684260, -73.977522
 * https://int.nyt.com/data/videotape/finished/2020/07/1594412956/id109_annote-1254w.mp4
 
 
-### Protester shoved into trash | May 31st
+### Protester shoved into trash | 2020-05-31
 
 Footage taken at Fourth Ave and Pacific St in Brooklyn shows an officer using his baton to shove a protester holding his hands up into a pile of curbside trash set out for pickup.
 
@@ -812,7 +812,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394783/0_id35-1254w.mp4
 
 
-### Police officer pepper sprays protesters across barricade | May 31st
+### Police officer pepper sprays protesters across barricade | 2020-05-31
 
 Footage taken at FDR drive and Houston street shows police and protesters separated by a concrete barrier. Police are on the road side of the barrier. An officer approaches the barrier and discharges pepper spray at several protesters filming.
 
@@ -827,7 +827,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394781/0_id34-1254w.mp4
 
 
-### Police strike protesters with batons | May 31st
+### Police strike protesters with batons | 2020-05-31
 
 Footage from Canal and Green St in Manhattan shows protesters walking backwards away from police. Police shove protesters who are walking slowly. After shoving a protester, an officer gets into an alercation with that protester. Several officers beat the protester with their batons.
 
@@ -842,7 +842,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/GwynneFitz/status/1267267195870097413
 
 
-### Officer threatens protesters with what appears to be a handgun | June 1st
+### Officer threatens protesters with what appears to be a handgun | 2020-06-01
 
 Officer is seen at 12th and Broadway brandishing what appears to be a handgun and pointing it at protesters.
 
@@ -857,7 +857,7 @@ geolocation: 40.6851078, -73.9782489
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
 
 
-### Alleged looter pulled from car and beaten | June 1st
+### Alleged looter pulled from car and beaten | 2020-06-01
 
 Footage shows a cluster of NYPD officers striking a vehicle with batons and kicking it, before pulling the driver onto the street and arresting them. Footage shows police smashed several of the car's windows.
 
@@ -879,7 +879,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/greg_doucette/status/1270020411443613696
 
 
-### Officer pepper sprays passerby | June 1st
+### Officer pepper sprays passerby | 2020-06-01
 
 Footage taken at 41 E 57th St in Manhattan shows an officer running down the street. He pepper sprays several bystanders as he runs past them.
 
@@ -894,7 +894,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.youtube.com/watch?v=kkO0FLBKK6Y
 
 
-### Police officer body slams protester | June 2nd
+### Police officer body slams protester | 2020-06-02
 
 A police officer comes from behind a protester, lifts him over shoulder height and then slams him into the road, head first.
 
@@ -913,7 +913,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/altochulo/status/1268018561571840000
 
 
-### Police beat protesters leaving Stonewall Inn solidarity protest | June 2nd
+### Police beat protesters leaving Stonewall Inn solidarity protest | 2020-06-02
 
 Police beat protesters leaving Stonewall Inn after a demonstration honoring queer and people of color who died at hands of police, in solidarity with George Floyd. One man had his arm broken and required multiple staples to close wounds on his head.
 
@@ -928,7 +928,7 @@ geolocation: 40.7338366, -74.0043513
 * https://www.lgbtqnation.com/2020/06/cops-beat-lgbtq-protestors-leaving-demonstration-stonewall-inn/
 
 
-### Officers beat man with batons | (Believed to be) June 2nd
+### Officers beat man with batons | (Believed to be) 2020-06-02
 
 Police are seen on Greene Street in SoHo, beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
 
@@ -944,7 +944,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.reddit.com/r/PublicFreakout/comments/gv43ar/police_beat_man_without_even_attempting_to_arrest/
 
 
-### Man walking his bike beaten by officers with batons | June 3rd
+### Man walking his bike beaten by officers with batons | 2020-06-03
 
 At 50th Street and 3rd Avenue, a man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
@@ -961,7 +961,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
 
-### Protester beaten with baton | June 2nd
+### Protester beaten with baton | 2020-06-02
 
 Footage taken at West and Rector Streets in Manhattan shows a protester in the road with a bike. An officer attempts to take it, but the protester holds on. The officer then uses his baton to press against the protester's neck before striking the protester in the legs. Other officers join to separate the protester from their bike.
 
@@ -976,7 +976,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394866/0_id140-1254w.mp4
 
 
-### Protester grabbed by hair | June 2nd
+### Protester grabbed by hair | 2020-06-02
 
 In an incident at 17 Battery Place in Manhattan, police are forcibly arresting several protesters on a paved pedestrian area. A protester argues with an officer. The officer shoves her and grabs her by the hair. Another officer joins in; the two grab her by the arms, force her to the ground, and one officer kneels on the protester to arrest her.
 
@@ -991,7 +991,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394858/id136_annote-1254w.mp4
 
 
-### Protester with bike tackled by police | June 2nd
+### Protester with bike tackled by police | 2020-06-02
 
 In an incident at West and Rector Streets in Manhattan, a protester is confronted by an officer, who grabs his bike and tells him to release it. A second officer charges into frame, tackling the protester and grabbing him by the backpack. More officers join to separate the protester from his bike. The initial officer brandishes his baton and strikes either the bike or the protester. A final officer kneels on the protester.
 
@@ -1006,7 +1006,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394855/0_id131-1254w.mp4
 
 
-### Violent arrests made at entrance to Hugh Carey Tunnel | June 2nd
+### Violent arrests made at entrance to Hugh Carey Tunnel | 2020-06-02
 
 In an incident outside the Hugh Carey Tunnel (West and Morris Streets in Manhattan), police are seen kneeling on a protester to arrest them. The filmer walks down the street, following the advancing police line. An NYPD official wearing a jacket bearing the word "LEGAL," throws a protester's skateboard off the road. The filmer then captures several officers pinning down a protester to arrest them. An officer stands and strikes the protester with his baton repeatedly.
 
@@ -1021,7 +1021,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/awinston/status/1267975128324898818
 
 
-### Police collide with woman; she pushes back; police escalate | June 2nd
+### Police collide with woman; she pushes back; police escalate | 2020-06-02
 
 In an incident at Fourth and Atlantic Avenues in Brooklyn, footage shows police chasing a protester down the sidewalk. Police appear to trip the protester, who falls to the ground. Police then strike and jab him with batons. A white-shirted officer arrives and steps on the protester's neck
 
@@ -1036,7 +1036,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394791/id46_annote-1254w.mp4
 
 
-### Police assault peaceful protesters | June 2nd
+### Police assault peaceful protesters | 2020-06-02
 
 In an incident at Fifth Avenue and 83rd st in Manhattan, an officer moves into a crowd of protesters, grabs a protester by the shirt from behind and drags them. When the protester resists and another attempts to help, police tackle the first protester. The second protester is lifted and thrown to the ground.
 
@@ -1051,7 +1051,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394788/id45_annote-1254w.mp4
 
 
-### NYPD officers beat woman | June 2nd
+### NYPD officers beat woman | 2020-06-02
 
 A woman is walking on the sidewalk with a peaceful protest near the China Institute. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
 
@@ -1067,7 +1067,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/beustmode/status/1268190262355988481
 
 
-### Motorist honks in support of protest; Police stop her | June 3rd
+### Motorist honks in support of protest; Police stop her | 2020-06-03
 
 A motorist driving by the protest outside Barclays Center honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protesters intervene and distract the officers so the motorist is able to leave.
 
@@ -1083,7 +1083,7 @@ geolocation: 40.6831896, -73.9767184
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-35.1.mp4)
 
 
-### Police confiscate protester's bike | June 3rd
+### Police confiscate protester's bike | 2020-06-03
 
 Footage from outside Borough Hall shows NYPD officer grabbing a protester's bike and walking away with it, citing curfew restrictions as the reason for seizure.
 
@@ -1102,7 +1102,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/ArminRosen/status/1268353371318214660
 
 
-### Police officer punches detained protester repeatedly | June 3rd
+### Police officer punches detained protester repeatedly | 2020-06-03
 
 Footage taken at Cadman Plaza in Brooklyn shows several officers detaining a protester. One officer approaches and punches the protester repeatedly.
 
@@ -1117,7 +1117,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394876/0_id147-1254w.mp4
 
 
-### Police shove protesters | June 3rd
+### Police shove protesters | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows officers pushing a protest. Several officers are seen shoving protesters.
 
@@ -1132,7 +1132,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594404564/id137_annote-1254w.mp4
 
 
-### Police choke and beat bicyclist | June 3rd
+### Police choke and beat bicyclist | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows an officer grabbing a protester with a bicycle and choking them before slamming them to the ground and arresting them.
 
@@ -1148,7 +1148,7 @@ geolocation: 40.6851078, -73.9782489
 * [Full Video](https://twitter.com/Axelohh/status/1268649155595055104)
 
 
-### Police strike and shove protesters | June 3rd
+### Police strike and shove protesters | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows officers and protesters meeting. Officers use their batons to shove protesters, including one astride a bike.
 
@@ -1163,7 +1163,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/mattieump/status/1269094834926649349
 
 
-### Police shove their way through a crowd of protesters | June 3rd
+### Police shove their way through a crowd of protesters | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows protesters lock arms on the sidewalk to protect injured protesters as police approach. Police begin shoving the protesters and striking them with batons, including the injured protester lying on the ground.
 
@@ -1179,7 +1179,7 @@ geolocation: 40.6851078, -73.9782489
 * [Full 15 minute video](https://www.instagram.com/tv/CA_odIIjXCM/?igshid=1x9dd6psx40tj)
 
 
-### NYPD Officers hit and knock down a protester and a journalist | June 4th
+### NYPD Officers hit and knock down a protester and a journalist | 2020-06-04
 
 Police strike a protester with batons, before tackling him and arresting him. They shove other protesters with batons. Shortly after, police pin a man to the ground and kneel on him to make an arrest. A journalist identifies herself at the scene (link 3) and is credited with a first-person video (link 2) of the incident where she is shoved by police as she displays her press badge and films.
 
@@ -1199,7 +1199,7 @@ geolocation: 40.6656956, -73.9509033
 * https://twitter.com/greg_doucette/status/1269103085584093184
 
 
-### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
+### Officers arrest cyclists; a man who questions police is clubbed in the neck | 2020-06-04
 
 Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
 
@@ -1214,7 +1214,7 @@ geolocation: 40.693804, -73.9905544
 * https://twitter.com/sa0un/status/1268933117827571714
 
 
-### Protesters detained more than 24 hours by police; upheld by NY Judge | June 4th
+### Protesters detained more than 24 hours by police; upheld by NY Judge | 2020-06-04
 
 The Legal Aid Society, a law firm for low-income families and individuals, filed an emergency lawsuit after learning protesters had been detained for over 24 hours without arraignment, in violation of New York state law.
 
@@ -1235,7 +1235,7 @@ geolocation: 40.7120659, -74.004574
 * https://twitter.com/LegalAidNYC/status/1268680588753547265
 
 
-### Food delivery driver arrested | June 4th
+### Food delivery driver arrested | 2020-06-04
 
 NYPD arrested a DoorDash/Caviar delivery person for violating the curfew, although food delivery workers are exempt from curfew restrictions.
 
@@ -1255,7 +1255,7 @@ geolocation: 40.7993739, -73.961277
 * https://twitter.com/greg_doucette/status/1268767102623715329
 
 
-### Police break up neighborhood BBQ, beating and arresting partygoers | June 4th
+### Police break up neighborhood BBQ, beating and arresting partygoers | 2020-06-04
 
 Police shut down a birthday party on private property on Eastern Parkway in Crown Heights. The party was occurring after curfew, but witnesses say police first claimed they wree responding to a noise complaint. Then allegedly stated the partygoers needed to go inside due to the curfew, the curfew restrictions did not apply to private property, which includes the building's stoop and yard. A partygoer states that he and others begain to clean up, but police then began forcing people back into the building before they had time to comply.
 
@@ -1283,7 +1283,7 @@ geolocation: 40.6690594, -73.9472662
 * https://twitter.com/greg_doucette/status/1269788200630996993
 
 
-### NYPD target non-protesting legal observers | June 4th
+### NYPD target non-protesting legal observers | 2020-06-04
 
 A CUNY grad student working with the National Lawyers Guild (NLG), often identified by neon hats, states he was approached by eight officers emerging from an unmarked van. He states he told police he was working with the NLG and that the curfew had not yet begun.
 
@@ -1302,7 +1302,7 @@ geolocation: 40.806283, -73.9223574
 * https://www.youtube.com/watch?v=yuJWAEqfHO8
 
 
-### NYPD pushes crowd into tight space and makes violent mass arrests | June 4th
+### NYPD pushes crowd into tight space and makes violent mass arrests | 2020-06-04
 
 At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protesters into an increasingly tight space and use pepper spray and batons. Police then proceeded to make violent mass arrests. Footage shows use of batons and shields to strike protesters and police kneeling on protesters to make arrests.
 
@@ -1326,7 +1326,7 @@ geolocation: 40.806283, -73.9223574
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394851/id126_annote-1254w.mp4
 
 
-### Police arrest hospital employee acting as medic | June 4th
+### Police arrest hospital employee acting as medic | 2020-06-04
 
 A crowd gathers around as a man in scrubs is arrested.
 
@@ -1344,7 +1344,7 @@ geolocation: 40.8072338, -73.920519
 * https://twitter.com/left_voice/status/1268897203508084736
 
 
-### Police shove multiple reporters | June 4th
+### Police shove multiple reporters | 2020-06-04
 
 At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first.
 
@@ -1360,7 +1360,7 @@ geolocation: 40.764361, -73.973066
 * https://twitter.com/RosalindZAdams/status/1268729386213298180
 
 
-### Couple arrested on their stoop for cheering protesters | June 4th
+### Couple arrested on their stoop for cheering protesters | 2020-06-04
 
 A woman states she was arrested on the stoop of her home (which is private property and exempt from curfew restrictions) after cheering on passing protesters. Her footage shows a man being arrested while police tell the others to go inside because of the curfew, despite the fact that their stoop is acceptable under curfew restrictions.
 
@@ -1376,7 +1376,7 @@ geolocation: 40.7993739, -73.961277
 * https://twitter.com/shainataub/status/1268920887467802625
 
 
-### Police officer hides badge number and name | June 4th
+### Police officer hides badge number and name | 2020-06-04
 
 Video shows a police officer with a strip of tape covering his badge number. In addition, he has removed his name tag. He states he has received direct orders from above to do so.
 
@@ -1391,7 +1391,7 @@ geolocation: 40.6976763, -73.992832
 * https://twitter.com/BreezeCrypto/status/1268595409733156868
 
 
-### Police grab protester by the hair, shove her into car | June 4th
+### Police grab protester by the hair, shove her into car | 2020-06-04
 
 After a scuffle between protesters and police at Washington Ave and Fulton St in Brooklyn, a protester walking away is grabbed by the hair and thrown into the side of a police car. The officer shoves a second protester into the car as well.
 
@@ -1406,7 +1406,7 @@ geolocation: 40.6830473, -73.9669762
 * https://twitter.com/Axelohh/status/1268750326150111232
 
 
-### Polie shove protester on bike | June 4th
+### Polie shove protester on bike | 2020-06-04
 
 A person at Flushing and Marcy Avenues in Brooklyn, is walking a bicycle and appears to be holding a pizza. A white-shirted officer shoves them into the side of a car, sending the pizza flying.
 
@@ -1421,7 +1421,7 @@ geolocation: 40.6997763, -73.9522988
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394873/id145_annote-1254w.mp4
 
 
-### Police single out, choke, and arrest protest organizer | June 4th
+### Police single out, choke, and arrest protest organizer | 2020-06-04
 
 Footage taken at E 136th St and Brook Ave in the Bronx shows police pointing out and attempting to apprehend protest organizer Shannon Jones. She retreats onto the sidewalk and the crowd of protesters protects her. Police then charge into the crowd. A white-shirted officer isolates Shannon, chokes, grabs, and shoves her. When another protester intervenes, the officer punches him and shoves him away. Jones is then arrested.
 
@@ -1436,7 +1436,7 @@ geolocation: 40.806283, -73.9223574
 * https://www.youtube.com/watch?v=eXceGpFwVEE
 
 
-### Officer shoves protester | June 4th
+### Officer shoves protester | 2020-06-04
 
 Footage taken at E 136th St and Brook Ave in the Bronx shows protesters confronting police on bikes. A protester steps forward near police and appears to say something. An officer shoves the protester and yells: "Back up."
 
@@ -1451,7 +1451,7 @@ geolocation: 40.806283, -73.9223574
 * https://twitter.com/jangelooff/status/1268698274371944451
 
 
-### Officer punches protester repeatedly | June 4th
+### Officer punches protester repeatedly | 2020-06-04
 
 Footage from Lee Avenue and Heyward Street in Brooklyn shows police piling on multiple protesters. Notably, one officer punches a protester repeatedly.
 
@@ -1466,7 +1466,7 @@ geolocation: 40.7019419, -73.9579104
 * https://twitter.com/OLIVERIVARD/status/1268763639772839936
 
 
-### White-shirted officers shove protesters | June 4th
+### White-shirted officers shove protesters | 2020-06-04
 
 Footage taken from a Periscope stream filmed at Washington Ave and Fulton St in Brooklyn shows a crowd of protesters marching. Two white-shirted officers push through the crowd, shoving protesters. An officer appears to grab a protester in a manner similar to a horse collar before releasing them and chasing after another protester.
 
@@ -1483,7 +1483,7 @@ geolocation: 40.6830473, -73.9669762
 * [Full Periscope Video](https://www.pscp.tv/w/1MYxNklkrlvKw)
 
 
-### Police shove protester to the ground | (Believed to be) June 4th
+### Police shove protester to the ground | (Believed to be) 2020-06-04
 
 After a protester is pepper sprayed, other protesters gather around the protester while a medic treats them. The filmer is struck repeatedly by an officer with a baton and shoved to the ground, apparently injuring his knee.
 
@@ -1498,7 +1498,7 @@ geolocation: 40.6941007, -73.9905591
 * https://www.tiktok.com/@kiakekate/video/6834753267575033093
 
 
-### Police shove protester off bike | June 5th
+### Police shove protester off bike | 2020-06-05
 
 Footage shoves a small crowd of protesters arguing with police at Nostrand Avenue and Crown Street. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
 
@@ -1513,7 +1513,7 @@ geolocation: 40.666299, -73.9530244
 * https://twitter.com/C_Sommerfeldt/status/1269110624132489217
 
 
-### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
+### Multiple police officers tackle cyclist protester one officer punches head of protester | 2020-06-06
 
 Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
 
@@ -1529,7 +1529,7 @@ geolocation: 40.6982906, -73.9848027
 * https://nyc.streetsblog.org/2020/06/08/see-it-police-beat-up-cyclist-during-black-lives-matter-protest/
 
 
-### Police escalate to violence at Queer Liberation March | June 28th
+### Police escalate to violence at Queer Liberation March | 2020-06-28
 
 The NYC queer liberation march occupied streets around Washington Square Park. Police arrived and forcefully moved protesters off the streets, beginning by shoving protesters and by striking them with batons. Police escalated to using pepper-spray. Police made several arrests.
 
@@ -1556,7 +1556,7 @@ geolocation: 40.7316366, -73.9991034
 * [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
 
 
-### Police shove bicyclist to the ground | June 28th
+### Police shove bicyclist to the ground | 2020-06-28
 
 Footage shows a protester with a bicycle standing behind a police van. An officer walks over and shoves him to the ground with his baton.
 
@@ -1571,7 +1571,7 @@ geolocation: 40.7322033, -73.9986267
 * https://twitter.com/greg_doucette/status/1277636698806116352
 
 
-### Police shove their way through crowd | June 28th
+### Police shove their way through crowd | 2020-06-28
 
 At part of the Pride March, protesters gathered inside the park, a pedestrian & bike only zone. Footage shows crowd chanting "Shame" as 3 police officers make their way through the crowd. One officer appears to shove his way through. As he exits the crowd, he continues to shove protesters who are standing idly by. The other two officers walk him away, appearing to try and calm him down.
 
@@ -1586,7 +1586,7 @@ geolocation: 40.7322138, -73.9986388
 * https://twitter.com/GaelicSteel/status/1277344251970494469
 
 
-### Police violently arrest protesters camped out for budget vote | June 30th
+### Police violently arrest protesters camped out for budget vote | 2020-06-30
 
 Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protesters. Footage shows violent arrests.
 
@@ -1610,7 +1610,7 @@ geolocation: 40.7124182, -74.0087051
 * https://twitter.com/NelStamp/status/1277985126228557825
 
 
-### Police tackle, shove, tase and arrest protester | July 12th
+### Police tackle, shove, tase and arrest protester | 2020-07-12
 
 Footage shows a protester arguing with an officer in the street at 5th and 67th Street in Bay Ridge, Brooklyn. The officer yells, "Get back," and shoves the protester. Another officer charges and grabs the protester before shoving the protester away. The officer then unholsters his taser and fires at the protester without warning. The protester falls to the ground, then in apparent pain and panic attempts to stand and free himself while numerous officers hold him against a car to arrest him.
 
@@ -1629,7 +1629,7 @@ geolocation: 40.6355789, -74.0223473
 * https://freedomnews.tv/2020/07/13/person-tased-at-pro-police-rally-counter-protested-by-black-lives-matter-in-bay-ridge/
 
 
-### Police use bikes to shove protesters | July 12th
+### Police use bikes to shove protesters | 2020-07-12
 
 Footage shows protesters and police in the road. A dispersal order can be heard. As soon as it ends, the police chant, "Move back," and use their bikes to shove protesters.
 
@@ -1644,7 +1644,7 @@ geolocation: 40.6355789, -74.0223473
 * https://twitter.com/protest_nyc/status/1282480090702655492
 
 
-### Police make violent arrests on Brooklyn Bridge | July 16th
+### Police make violent arrests on Brooklyn Bridge | 2020-07-16
 
 During a July 16th protest on the Brooklyn Bridge, police made a series of violent arrests, including shoving, tackling, striking and kneeling on protesters. In addition, the end of the first clip shows a protester with a shoe tied around her mouth. The second clip shows several officers holding a protester off the ground; one officer holds the protester by her hair.
 
@@ -1660,7 +1660,7 @@ geolocation: 40.7058134, -73.9981622
 * https://mobile.twitter.com/awilli33/status/1283440443909459968
 
 
-### BLM Protester beaten and arrested after scuffle with pro-police protesters | July 16th
+### BLM Protester beaten and arrested after scuffle with pro-police protesters | 2020-07-16
 
 After a scuffle between Pro-Police and BLM protesters, police single out black protester, punch him, tackle him to the ground, and arrest him. No pro-police protesters were arrested. It is unclear who instigated the interaction, but additional footage does show a pro-police protester shoving BLM supporters.
 
@@ -1680,7 +1680,7 @@ geolocation: 40.7718347, -73.7698317
 * https://www.instagram.com/p/CCjjt_YF6sT
 
 
-### Homeless man arrested and hospitalized during clearing of OccupyCityHall | July 22nd
+### Homeless man arrested and hospitalized during clearing of OccupyCityHall | 2020-07-22
 
 Around 7 AM during the sudden clearing of OccupyCityHall protesters, a homeless man who had been receiving food and aid at OccupyCityHall was violently arrested by police. Footage shows multiple officers holding him down while others prevent protesters from approaching and filming the arrest.
 
@@ -1699,7 +1699,7 @@ geolocation: 40.7124182, -74.0087051
 * https://twitter.com/protest_nyc/status/1285900885957255168
 
 
-### Police beat protesters with batons | July 24th
+### Police beat protesters with batons | 2020-07-24
 
 Footage shows a small group of protesters walking down the street. Police charge them without warning. One protester is slammed against the hood of a squad car. Several protesters are beaten with batons and shoved with police bicycles.
 
@@ -1714,7 +1714,7 @@ geolocation: 40.7136898, -74.0053181
 * https://www.instagram.com/p/CDDVu-Tlyiy/
 
 
-### Police arrest woman yelling at them | July 25th
+### Police arrest woman yelling at them | 2020-07-25
 
 Footage from Ludlow and Delancey shows a woman yelling at police. From her words, police have asked her to back up. Police say, "Back up" again. She steps forward, saying, "Or fucking what?" An officer in a white shirt pushes through the officers to grab her. Several officers then assist him in arresting the woman.
 
@@ -1729,7 +1729,7 @@ geolocation: 40.718918, -73.9891763
 * https://twitter.com/JoshuaPotash/status/1287203714562953216
 
 
-### Police shove protesters with shields | July 25th
+### Police shove protesters with shields | 2020-07-25
 
 Police shield line forces protesters back near Delancey and Ludlow. Protesters trapped between police and barricades are squeezed and shoved over the barricades.
 
@@ -1745,7 +1745,7 @@ geolocation: 40.7188905, -73.9891713
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-97.1.mp4)
 
 
-### Non-uniformed police arrest protester without identifying selves | July 28th
+### Non-uniformed police arrest protester without identifying selves | 2020-07-28
 
 A group of plain-clothes police officers who fail to identify themselves as police surround and grab a protester. After a brief struggle, protester is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protesters from intervening and then the van drives away. The abductee's alleged crime was spraypainting over police cameras and graffiti.
 
@@ -1769,7 +1769,7 @@ geolocation: 40.7391905, -73.9821784
 * https://www.ny1.com/nyc/all-boroughs/news/2020/07/29/video-shows-protester-being-pulled-into-unmarked-van-by-nypd
 
 
-### Police shove protester | September 12th
+### Police shove protester | 2020-09-12
 
 At a protest outside the 34th precinct, police stood off with protesters. Protesters were giving speeches. Police then decided to make arrests for standing in the street. Pushing and shoving ensued. Footage shows a protester grab an arrestee. Another officer then grabs the protester by the back and throws them to the ground, allegedly breaking their arm.
 
@@ -1786,7 +1786,7 @@ geolocation: 40.8515213, -73.9375686
 * https://twitter.com/KimmyB_the1/status/1305043196423147520
 
 
-### Violent arrests made by police | September 17th
+### Violent arrests made by police | 2020-09-17
 
 Multiple violent arrests were made by police after anti-ICE protesters blocked a street for about 20 minutes. In one incident (around 1:45 in the first link), an officer is pushing a protester backward toward the sidewalk. The protester is complying. A plainclothes officer then grabs the protester from behind and drags him away for arrest. A woman then pushes another officer involved in the arrest. The officer then yells, "Don't fucking touch me," and drags her from the sidewalk into the street. She is pulled face down on the ground while the plainclothes officer straddles her to arrest her.
 
@@ -1802,7 +1802,7 @@ geolocation: 40.7141798, -74.0062972
 * [Additional composite footage of various arrests](https://www.instagram.com/tv/CFQdePNBfZn/?igshid=m5enp1idnzq6)
 
 
-### Protester tackled and arrested after stepping into sidewalk | September 17th
+### Protester tackled and arrested after stepping into sidewalk | 2020-09-17
 
 During the an anti-ICE protest in NYC, protesters waited on the sidewalk during a red light. After the light turned green and the crosswalk was lit up, a protester began to cross the street before the rest of the march. Police charged the protester, allegedly a minor, and tackled them to the ground, arresting them. Police then pushed other protesters away.
 
@@ -1817,7 +1817,7 @@ geolocation: 40.7097149, -74.0117508
 * https://twitter.com/davenewworld_2/status/1306977155935592448
 
 
-### Police violently arrest protesters at anti-ICE protest in Times Square | September 19th
+### Police violently arrest protesters at anti-ICE protest in Times Square | 2020-09-19
 
 Footage taken near Zuccotti Park shows NYPD officers grabbing protesters off the sidewalk and arresting them. One protester holds onto a stop light pole; police lift him by his limbs and carry him away.
 
@@ -1832,7 +1832,7 @@ geolocation: 40.7574221, -73.9890894
 * https://twitter.com/isabelle_leyva/status/1307377995691237378
 
 
-### Police charge protesters and bystanders | September 26th
+### Police charge protesters and bystanders | 2020-09-26
 
 Protesters were seen yelling at police from the sidewalk near an outside dining area on Hudson Street and West 10th. Without warning, police charged, pushing, shoving, and arresting numerous protesters. Police disrupted diners, forcing them to move from their tables as bike police formed a line cutting through the outdoor dining area.
 
@@ -1849,7 +1849,7 @@ geolocation: 40.7337626, -74.0084911
 * https://twitter.com/KiranDhillonTV/status/1310055432900284416
 
 
-### Police arrest protesters on sidewalk | October 5th
+### Police arrest protesters on sidewalk | 2020-10-05
 
 At a protest in NYC, protesters are seen standing on the sidewalk. Police charge without warning, grabbing several protesters. The protesters passively resist by falling to the ground. This devolves into a scuffle between protesters and police, much of which is obfuscated by additional officers forming a line around the incident. Police arrest and zip-tie two protesters, one of whom is a minor. In another video, the minor alleges they were punched by police.
 
@@ -1866,7 +1866,7 @@ geolocation: 40.7300523, -73.9926555
 * https://twitter.com/itsa_talia/status/1313347355094200321
 
 
-### NYPD officer slaps a protesters phone | October 7th
+### NYPD officer slaps a protesters phone | 2020-10-07
 
 A protester outside the 79th precinct is seen filming an officer at close range. The officer, wearing a white shirt which denotes high rank, slaps the phone out of the protester's hand. The officer tells the protester "If you put it in my face, you'll be under arrest" in response to the protester filming him.
 
@@ -1881,7 +1881,7 @@ geolocation: 40.6888187, -73.9448449
 * https://twitter.com/chrisgelardi/status/1314204080252751880
 
 
-### Police shove protesters with bikes, tackle and arrest them | October 21st
+### Police shove protesters with bikes, tackle and arrest them | 2020-10-21
 
 Footage from a protest that ended at Broadway and Dey St in Lower Manhattan shows police officers swarming a protester, tackling them to the ground, and arresting them. The arrest was performed by a combination of plainclothes, white-shirted (denoting high rank), and bike officers.
 
@@ -1900,7 +1900,7 @@ geolocation: 40.7047142, -74.0133129
 * [0:51-2:04](https://twitter.com/greg_doucette/status/1319751090317987841)
 
 
-### Officers arrest protester without apparent cause | October 21st
+### Officers arrest protester without apparent cause | 2020-10-21
 
 At a protest that ended on the steps of the Museum of the American Indian, a protester is seen stepping away from officers. The protester's bike falls and the protester goes to grab it. A plainclothes officer then seizes the protester and is aided by several officers in arresting the protester. The bike is left behind.
 
@@ -1915,7 +1915,7 @@ geolocation: 40.7045406, -74.0137151
 * https://twitter.com/itsa_talia/status/1319035324488687616
 
 
-### Officers attack vehicle | October 27th
+### Officers attack vehicle | 2020-10-27
 
 Police approach a vehicle near Atlantic Avenue and Smith Street in Brooklyn. The driver begins to drive away, but police surround the vehicle, striking it with batons. Officers then break several of the vehicle's windows. The driver then speeds away unimpeded. A local news report states the vehicle had Taxi and Limousine Commission plates.
 
@@ -1933,7 +1933,7 @@ geolocation: 40.6887408, -73.9894258
 * https://www.amny.com/news/30-arrested-as-downtown-brooklyn-protest-leads-to-chaos/
 
 
-### NYPD officers arrest journalist on sidewalk | November 1st
+### NYPD officers arrest journalist on sidewalk | 2020-11-01
 
 Police officers grab a journalist walking on the sidewalk alongside a march at 10th Avenue and 24th Street. Police arrest the journalist. According the the NYPD, the arrested journalist was not an NYPD-credentialed journalist, therefore they do not have the same exemptions.
 
@@ -1952,7 +1952,7 @@ geolocation: 40.7483593, -74.0058763
 * https://twitter.com/ScooterCasterNY/status/1322977073078640641
 
 
-### Police assault and arrest protesters | November 4th
+### Police assault and arrest protesters | 2020-11-04
 
 Police shout "Move back" as they push protesters down the street. One protester is shoved over a garbage can. Police then swarm the sidewalk, shoving protesters away. Police then drag the protester whom they knocked over behind their riot line.
 
@@ -1976,7 +1976,7 @@ geolocation: 40.7303242, -74.0047987
 * https://twitter.com/left_voice/status/1324159897471197187
 
 
-### Police kettle, assault, and arrest protesters | November 4th
+### Police kettle, assault, and arrest protesters | 2020-11-04
 
 Protesters were kettled by police at 5th Avenue and 8th Street in Manhattan. Police then charged protesters to make arrests, tackling, shoving and striking protesters with batons, without apparent justification.
 
@@ -1993,7 +1993,7 @@ geolocation: 40.7323365, -73.9965724
 
 ## Rochester
 
-### Police shoot at people filming | May 31st
+### Police shoot at people filming | 2020-05-31
 
 Police are seen shooting at individuals who were recording an incident.
 
@@ -2008,7 +2008,7 @@ geolocation: 43.1521207, -77.6113836
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
 
-### Journalist shot in head | September 3rd
+### Journalist shot in head | 2020-09-03
 
 A journalist filming protests in Rochester, New York was shot in the head by an impact munition, believed to be a pepper ball.
 
@@ -2024,7 +2024,7 @@ geolocation: 43.1521207, -77.6113836
 * https://twitter.com/tyee23/status/1301724881609003015
 
 
-### Police shoot impact munitions at protesters | September 3rd
+### Police shoot impact munitions at protesters | 2020-09-03
 
 Protesters can be seen milling about on the side of the road. Impact munition rounds can then be heard. One protester then runs up to a barricade, is shot repeatedly, and runs away. No justification for the burst of fire is clear.
 
@@ -2044,7 +2044,7 @@ geolocation: 43.1521207, -77.6113836
 * https://twitter.com/SarahMaslinNir/status/1301709280052211714
 
 
-### Police declare unlawful assembly, shoot pepper balls and tear gas | September 4th
+### Police declare unlawful assembly, shoot pepper balls and tear gas | 2020-09-04
 
 After declaring an unlawful assembly and firing pepper balls for some time, Rochester PD tear gassed protesters. Protesters responded with fireworks.
 
@@ -2064,7 +2064,7 @@ geolocation: 43.1541549, -77.6047805
 * https://twitter.com/the_other_aoc_/status/1302114962417082368
 
 
-### Police deploy tear gas and impact munitions | September 5th
+### Police deploy tear gas and impact munitions | 2020-09-05
 
 Police and protesters are on opposite sides of a metal barricade. Police pepper spray protesters and fire impact munitions without clear justification. Police appear to have deployed tear gas and stun grenades as well.
 
@@ -2087,7 +2087,7 @@ geolocation: 43.1545488, -77.6141816
 * [Article about protester injuries](https://www.democratandchronicle.com/story/news/2020/09/11/how-many-injuries-protesters-sept-5-2020-rochester-ny/3466996001/)
 
 
-### Police deploy impact munitions and use sound cannon | September 5th
+### Police deploy impact munitions and use sound cannon | 2020-09-05
 
 After an initial push, protesters begin to take the streets again. Police fire impact munitions and tear gas at them and deploy the LRAD dispersal function.
 
@@ -2103,7 +2103,7 @@ geolocation: 43.1537841, -77.611749
 * https://twitter.com/msantiagophotos/status/1302436634881916933
 
 
-### Officers cover badges | September 12th
+### Officers cover badges | 2020-09-12
 
 Multiple riot police officers in Rochester are seen with their badges covered.
 
@@ -2120,7 +2120,7 @@ geolocation: 43.1562969, -77.6410873
 * https://twitter.com/DjKellex/status/1304994886647795712
 
 
-### LRAD deployed against protesters | September 12th
+### LRAD deployed against protesters | 2020-09-12
 
 At protests on September 12th, police deployed the LRAD dispersal function in an attempt to clear protesters.
 
@@ -2136,7 +2136,7 @@ geolocation: 43.1562969, -77.6410873
 * https://www.democratandchronicle.com/story/news/2020/09/12/protests-rochester-ny-daniel-prude-11-straight-days-free-the-people-roc/5782445002/
 
 
-### Police charge protesters without warning | September 16th
+### Police charge protesters without warning | 2020-09-16
 
 Protesters camped out front of city hall demanding the resignation of Rochester mayor, Lovely Warren, and the arrests of the officers involved in the Daniel Prude case. Police assembled around 8:30 AM on Wednesday to disperse protesters. Police first pushed protesters off City Hall property, into the street. Police then gave a dispersal order, telling protesters to leave the street and sidewalk. Two officers suddenly charged at protesters, shoving one to the ground. Police chased several other protesters then returned to their line.
 
@@ -2155,7 +2155,7 @@ geolocation: 43.1569579, -77.6170956
 
 ## Saratoga Springs
 
-### Police shoot at and arrest Black Lives Matter protesters | July 30th
+### Police shoot at and arrest Black Lives Matter protesters | 2020-07-30
 
 At protests between Back the Blue and Black Lives Matter protests, mounted units were deployed to keep Back the Blue and BLM counter-protesters apart. BLM protesters were arrested and shot at with impact munitions, allegedly pepper balls. Some protesters allege tear gas was deployed but this cannot be confirmed.
 
@@ -2179,7 +2179,7 @@ geolocation: 43.0788043, -73.7861109
 
 ## Syracuse
 
-### Journalist shoved by police | June 1st
+### Journalist shoved by police | 2020-06-01
 
 A 60-year-old photographer working for Syracuse.com/The Post Standard was shoved by police while filming a protest in front of the Public Safety Building on South Street. He was wearing a company-issued identification card and had two cameras slung on his shoulders. He was knocked to the ground, and two camera lenses were broken in the process.
 

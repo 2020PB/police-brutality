@@ -1,6 +1,6 @@
 ## New Orleans
 
-### Police throw tear-gas at protesters on a bridge. | June 3rd
+### Police throw tear-gas at protesters on a bridge. | 2020-06-03
 
 Police throw tear-gas at protesters that are on the Crescent City Connection bridge and cannot easily disperse.
 

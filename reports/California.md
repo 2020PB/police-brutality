@@ -1,6 +1,6 @@
 ## Beverly Hills
 
-### Beverly Hills police use LRAD (sound cannon) at protest | June 26th
+### Beverly Hills police use LRAD (sound cannon) at protest | 2020-06-26
 
 During a peaceful protest in Beverly Hills, police used the dispersal function of a LRAD (or sound cannon) on protesters. Footage is pointed at the ground, but audio shows individuals arguing. The LRAD's characteristic dispersal signal is used twice, each time without warning and for about 30 seconds. In addition, a photojournalist at the scene confirms the LRAD was used.
 
@@ -19,7 +19,7 @@ geolocation: 34.0768046, -118.4025837
 * https://www.canyon-news.com/dozens-arrested-after-beverly-hills-protest/121082
 
 
-### Officer shoves then pepper sprays protester | August 29th
+### Officer shoves then pepper sprays protester | 2020-08-29
 
 A protester in the street argues with a police officer. The officer shoves the protester. The protester then says, "Don't fucking touch me." A second officer then pepper sprays the protester.
 
@@ -34,7 +34,7 @@ geolocation: 34.0708678, -118.4045292
 * https://twitter.com/SamBraslow/status/1299848702748536834
 
 
-### Beverly Hills police strike protesters with batons | October 31st
+### Beverly Hills police strike protesters with batons | 2020-10-31
 
 Footage from a pair of dueling protests in Beverly Hills shows police slashing at protesters with batons.
 
@@ -54,7 +54,7 @@ geolocation: 34.0716265, -118.4036599
 
 ## Clayton
 
-### Law enforcement gas teenagers at a park | June 2nd
+### Law enforcement gas teenagers at a park | 2020-06-02
 
 Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
 
@@ -72,7 +72,7 @@ geolocation: 37.9420027, -121.936336
 
 ## Compton
 
-### Police beat person on the ground | May 31st
+### Police beat person on the ground | 2020-05-31
 
 Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person. The beating continues until a woman yells "why are y'all beating him?"
 
@@ -90,7 +90,7 @@ geolocation: 33.9038142, -118.2141026
 * [Street View](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
 
 
-### Sheriff's Deputies fire less-lethal rounds, tear gas at protesters | June 21st
+### Sheriff's Deputies fire less-lethal rounds, tear gas at protesters | 2020-06-21
 
 Several thousand protesters marched on Father's Day from the site of Los Angeles Sheriff's Department shooting of Andrés Guardado on June 18 to the Los Angeles Sheriff's station in Compton. Andrés' father addressed the crowd in English and in Spanish. Deputies in riot gear pointed guns at protesters who chanted "put down your guns." A Sheriff Department helicopter flew overhead urging local residents who had joined the march to leave and go home so that they would not be tear-gassed when outside agitators were dealt with. Black protesters and protest leaders shared hugs with Guardado's family to show solidarity between the Black and Latino communities. As a few mothers of children slain by LAPD or LASD told their stories, a group of protesters split off to confront a second band of Deputies in riot gear. One protester yelled "F*** the police!" The deputies opened fire with non-lethal rounds, tear gas, and flash bangs.
 
@@ -122,7 +122,7 @@ geolocation: 33.894415, -118.2242897
 
 ## Costa Mesa
 
-### Law enforcement concealing badge | June 3rd
+### Law enforcement concealing badge | 2020-06-03
 
 An Orange County Sheriff's officer was spotted without a badge number at a protest outside the Costa Mesa Police Department. In addition, the officer wore several personal patches, one of which is associated with the "Three Percenters," an extremist right-wing militia.
 
@@ -141,7 +141,7 @@ geolocation: 33.6637315, -117.9048468
 
 ## Gustine
 
-### Protesters attacked; police shake hands of attackers; tell protesters to wait in patrol cars | June 28th
+### Protesters attacked; police shake hands of attackers; tell protesters to wait in patrol cars | 2020-06-28
 
 About twenty anti-BLM protesters (holding a thin blue line flag and affiliated with California Valley Patriots (CVP)) were holding a rally in Gustine California (at the corner of Grove Avenue and 5th Street). A group of around 3 young people decided to hold an impromptu counter-protest, and parked across the street from the CVP protesters. CVP protesters came across the street and began shouting at the counter-protesters. Some time later, video shows one counter-protester on the ground, on the CVP proesters' side of the street, being beaten by CVP protesters. Another counter-protester is trying to intervene but being physically restrained by CVP protesters; a third is filming the incident as CVP protesters heckle her. Photos taken after the incident show at least two of the protesters badly beaten. Each side says the other started the altercation.
 
@@ -170,7 +170,7 @@ geolocation: 37.2535159, -120.998706
 
 ## Hollywood
 
-### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
+### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | 2020-06-01
 
 Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it still looks to be light outside.
 
@@ -185,7 +185,7 @@ geolocation: 34.1016738, -118.3242721
 * https://twitter.com/AdoreDelano/status/1267688320735166465
 
 
-### Police fire into a crowd of peaceful protesters at short range | June 2nd
+### Police fire into a crowd of peaceful protesters at short range | 2020-06-02
 
 Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
 
@@ -204,7 +204,7 @@ geolocation: 34.1016048, -118.3266439
 
 ## Huntington Beach
 
-### Police fire at protesters on ground | June 1st
+### Police fire at protesters on ground | 2020-06-01
 
 Protesters laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protesters began standing, police fired projectiles at protesters. Police continued to fire off and on for at least one minute while protesters obeyed order to retreat.
 
@@ -221,7 +221,7 @@ geolocation: 33.658110, -118.0035402
 
 ## Lakewood
 
-### Police fire projectiles at protesters and discharge teargas | June 5th
+### Police fire projectiles at protesters and discharge teargas | 2020-06-05
 
 In Lakewood, police fire projectiles at protesters and discharge teargas. The protest began on Clark Avenue and marched to Lakewood City Hall.
 
@@ -240,7 +240,7 @@ geolocation: 33.8681536, -118.2024624
 
 ## La Mesa
 
-### Law enforcement shoot and throw tear gas at protesters | May 30th
+### Law enforcement shoot and throw tear gas at protesters | 2020-05-30
 
 Law enforcement stand off with protesters. Seemingly without provocation they start gassing and shooting at the protesters.
 
@@ -255,7 +255,7 @@ geolocation: 32.7668143, -117.0229441
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face with bean bag | May 31st
+### Police shoot woman in the face with bean bag | 2020-05-31
 
 La Mesa PD shoot a woman in the face with a bean bag round.
 
@@ -275,7 +275,7 @@ geolocation: 32.7668143, -117.0229441
 
 ## Long Beach
 
-### Reporter shot in neck by rubber bullet | May 31st
+### Reporter shot in neck by rubber bullet | 2020-05-31
 
 Photo shows large bruise the reporter got from a rubber bullet
 
@@ -291,7 +291,7 @@ geolocation: 33.7705086, -118.194586
 * https://twitter.com/AGuzmanLopez/status/1267269781805137920
 
 
-### Woman struck in finger by projectile; police quell crowd with tear gas | June 1st
+### Woman struck in finger by projectile; police quell crowd with tear gas | 2020-06-01
 
 A crowd of protesters is chanting peacefully. A shot is fired offscreen and a woman screams. Footage shows the woman clutching her bleeding hand. The caption states her finger was "cut off." The crowd becomes agitated and police respond with tear gas.
 
@@ -310,7 +310,7 @@ geolocation: 33.7692847, -118.1924137
 
 ## Los Angeles
 
-### Police use tear gas and riot rounds against protesters | May 29th
+### Police use tear gas and riot rounds against protesters | 2020-05-29
 
 In footage taken by a bystander filming from her apartment, police advance down a street near a Downtown LA shopping center. Protesters retreat from police. Police continuously fire less-lethal rounds and chemical agents at protesters. Towards the end of the footage, a single firework is thrown at police by protesters.
 
@@ -326,7 +326,7 @@ geolocation: 34.0499617, -118.2576642
 * https://www.reddit.com/r/LosAngeles/comments/gti4eg/la_riots_5292020_police_line_advances_with_their/
 
 
-### Protester shot in head | (believed to be) May 30th
+### Protester shot in head | (Believed to be) 2020-05-30
 
 Footage shows a protester sitting on the curb. They are bleeding from a wound to the head. Other protesters are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
 
@@ -346,7 +346,7 @@ geolocation: 34.071154, -118.3583053
 * [Street View](https://www.google.com/maps/@34.071154,-118.3583053,3a,60y,332.25h,94.01t/data=!3m6!1e1!3m4!1sBMaXVOuAN0T9coL-PijVSA!2e0!7i16384!8i8192)
 
 
-### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
+### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | 2020-05-30
 
 An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
@@ -361,7 +361,7 @@ geolocation: 34.0716789, -118.3620601
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
 
-### Los Angeles law enforcement beat protesters with batons | May 30th
+### Los Angeles law enforcement beat protesters with batons | 2020-05-30
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
 
@@ -381,7 +381,7 @@ geolocation: 34.0716608, -118.3627601
 * [LAPD Body cam footage](https://www.youtube.com/embed/hwZMZvlHEI4)
 
 
-### ABC7 reporters are hit by tear gas | May 30th
+### ABC7 reporters are hit by tear gas | 2020-05-30
 
 ABC7 reporters are hit by a cloud of tear gas after protesters were gassed up the street by Los Angeles law enforcement, as reported in this news coverage.
 
@@ -396,7 +396,7 @@ geolocation: 34.0718145, -118.4037679
 * https://twitter.com/GMA/status/1266934049098121216
 
 
-### Police beat protesters with batons | May 30th
+### Police beat protesters with batons | 2020-05-30
 
 In the video, protesters can be seen kneeling. Police swing batons at several protesters and a journalist pressed against the side of a building.
 
@@ -413,7 +413,7 @@ geolocation: 34.0716789, -118.3620601
 * https://twitter.com/ShotOn35mm/status/1267158399772491777
 
 
-### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
+### Los Angeles law enforcement beat protesters with batons while they have their hands up | 2020-05-30
 
 LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
 
@@ -430,7 +430,7 @@ geolocation: 34.0718292, -118.3632923
 * https://twitter.com/greg_doucette/status/1267605209745887233
 
 
-### Los Angeles law enforcement hit protester in the face with rubber bullet | May 30th
+### Los Angeles law enforcement hit protester in the face with rubber bullet | 2020-05-30
 
 Activist and former White House and congressional staffer Deon Jones was hit in the face with a rubber bullet, fracturing two bones and nearly costing him one eye. Jones also alleges assorted other misconduct, reminiscent of incidents CA-LosAngeles-19, CA-LosAngeles32, and CA-SantaMonica-2
 
@@ -449,7 +449,7 @@ geolocation: 34.0762003, -118.3584538
 * https://www.foxla.com/news/i-felt-like-i-was-on-the-timeline-to-my-death-local-man-speaks-out-after-weekend-protest-ends-in-violence
 
 
-### Riot police fire tear gas at peaceful protest, then use mace to corral protesters | May 30th
+### Riot police fire tear gas at peaceful protest, then use mace to corral protesters | 2020-05-30
 
 Footage shows a peaceful protest opposite a police line. Around 50 seconds, police fire tear gas behind protesters, trapping them between tear gas and the police line. Police tell protesters to move, but protesters insist they cannot leave because of the gas behind them. Around 1:40, police then pepper spray protesters, forcing them to retreat into the tear gas.
 
@@ -464,7 +464,7 @@ geolocation: 34.0760872, -118.3542065
 * https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
 
 
-### Protester shot in the head by rubber bullet | May 30th
+### Protester shot in the head by rubber bullet | 2020-05-30
 
 Images show a forehead injury received by a protester who had been hiding behind a dumpster at 3rd st and Fairfax Avenue.
 
@@ -483,7 +483,7 @@ geolocation: 34.0716005, -118.361296
 * https://www.latimes.com/california/story/2020-06-02/lapd-will-limit-use-of-rubber-bullets-on-protesters-garcetti-says
 
 
-### Police fire at bystander filming from apartment | May 30th
+### Police fire at bystander filming from apartment | 2020-05-30
 
 Early in the morning on May 30th, a streamer is filming arrests from her apartment. She captures police pointing riot guns at another apartment in her building. Police fire one shot.
 
@@ -502,7 +502,7 @@ geolocation: 34.0447132, -118.2521683
 * https://twitter.com/tracemeYo/status/1266633586322497538
 
 
-### Police fire rubber bullets at small group of peaceful protesters | May 30th
+### Police fire rubber bullets at small group of peaceful protesters | 2020-05-30
 
 Around 2AM on May 30th, a bystander films police from his apartment. Police fire projectiles - the filmer claims, based on a livestreamer's feed, that they are rubber bullets - at a small group of protesters from across an intersection. Police then take the intersection and march down the street, continuing to fire at protesters. At one point, another bystander asks the filmer who the police are shooting at. After the filmer points out the protesters, the other bystander states, "There are like 4 of them."
 
@@ -518,7 +518,7 @@ geolocation: 34.0450101, -118.249553
 * https://www.reddit.com/r/LosAngeles/comments/gtjd0p/rubber_bullets_at_2am_dtla/
 
 
-### Journalist arrested during protest | May 30th
+### Journalist arrested during protest | 2020-05-30
 
 A journalist photographing protests was detained and zip tied by police on Figueroa Street and Olympic Boulevard when he was caught in a rush of fleeing protesters. He was detained for 20 minutes before being released. He states he was not carrying a press badge at the time, but did have a camera, as is visible in the picture. He later posted that there is no mandate requiring members of the press to carry their badges at all times.
 
@@ -537,7 +537,7 @@ geolocation: 34.0449992, -118.2661443
 * https://twitter.com/aaron_con_choco/status/1267185933293547520
 
 
-### Police fire rubber/pepper bullets at peaceful protesters | May 31st
+### Police fire rubber/pepper bullets at peaceful protesters | 2020-05-31
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protesters, scattering them.
 
@@ -552,7 +552,7 @@ geolocation: 34.0709188, -118.3566185
 * https://twitter.com/MatthewSantoro/status/1266916709304201216
 
 
-### Police officer puts his knee on a protesters neck, is pulled off | May 31st
+### Police officer puts his knee on a protesters neck, is pulled off | 2020-05-31
 
 A police officer has his knee on a woman's neck, who already had 3 police officers on her. A different officer had to pull him away.
 
@@ -567,7 +567,7 @@ geolocation: 34.0702948, -118.3527073
 * https://www.reddit.com/r/PublicFreakout/comments/gturig/cop_has_his_knee_on_a_womans_neck_even_though/
 
 
-### Police shoot rubber bullets at protesters | May 31st
+### Police shoot rubber bullets at protesters | 2020-05-31
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby.
 
@@ -582,7 +582,7 @@ geolocation: 34.0717309, -118.3619933
 * https://twitter.com/SUNDAYLOVERBOY/status/1266890947888996352
 
 
-### Man shot in the head with deterrent rounds, is sent to hospital | May 31st
+### Man shot in the head with deterrent rounds, is sent to hospital | 2020-05-31
 
 Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head. The LAPD has released body cam footage confirming he was shot in the head with a bean bag round while his hands were up. The LAPD says it is investigating the incident.
 
@@ -599,7 +599,7 @@ geolocation: 34.0760754, -118.3552518
 * https://www.youtube.com/watch?v=msNyNyw0JUM
 
 
-### LAPD SUV drives into protesters, speeds away | May 31st
+### LAPD SUV drives into protesters, speeds away | 2020-05-31
 
 LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protesters, then throws it in reverse and speeds away
 
@@ -620,7 +620,7 @@ geolocation: 34.0487635, -118.2518526
 * https://www.tiktok.com/@youarelwl/video/6833135548887043334
 
 
-### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
+### Los Angeles law enforcement shoot at a man on his own balcony | 2020-05-31
 
 Los Angeles police fire less lethal projectiles at several residents of the Ava and Wakaba apartments in Little Tokyo. All of the residents were filming quietly from their balconies.
 
@@ -638,7 +638,7 @@ geolocation: 34.0498992, -118.2426862
 * https://twitter.com/o_morimori_/status/1267335590510424064
 
 
-### Police shoot crowd of unarmed protesters with rubber bullets | (Believed to be) May 31st
+### Police shoot crowd of unarmed protesters with rubber bullets | (Believed to be) 2020-05-31
 
 A crowd of protesters chanting are shot with rubber bullets by a line of officers.
 
@@ -653,7 +653,7 @@ geolocation: 34.0761439, -118.3573996
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
 
-### Police beat kneeling protesters | (Believed to be) May 31st
+### Police beat kneeling protesters | (Believed to be) 2020-05-31
 
 Protesters kneeling in the street are approached by a line of police in riot gear. Police beat them with their shields, shove them, and appear to be arresting them when a riot round is fired and the camera moves.
 
@@ -668,7 +668,7 @@ geolocation: 34.0760986, -118.3566148
 * https://twitter.com/jkishore/status/1267216022634999808
 
 
-### Police shoot rubber bullets at two peaceful protesters | June 1st
+### Police shoot rubber bullets at two peaceful protesters | 2020-06-01
 
 Two peaceful protesters are standing in an empty street.  Dozens of police officers move forward and the protesters are shot by rubber bullets fired from officers.
 
@@ -685,7 +685,7 @@ geolocation: 34.0488192, -118.2504901
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
-### Business owner flags down police for protection from looters; she is arrested | June 1st
+### Business owner flags down police for protection from looters; she is arrested | 2020-06-01
 
 Alleged looters and the owner and employees at a liquor store stood off outside store. A crowd had assembled to help the employees. Seeing a police cruiser passing by, one black employee flagged down the officers to request help.
 
@@ -703,7 +703,7 @@ geolocation: 34.2046129, -118.4511648
 * https://twitter.com/bubbaprog/status/1267641851215036416
 
 
-### Police arrest protesters en masse and detain them in poor conditions | June 1st
+### Police arrest protesters en masse and detain them in poor conditions | 2020-06-01
 
 Police arrested protesters en masse in downtown Los Angeles. Protesters hands were zip tied excessively tightly behind their backs and they were loaded onto buses and driven around the city. Some were taken to a temporary field jail at UCLA's Jackie Robinson stadium; UCLA claims it "failed to stop" LAPD from using the stadium as a "staging area," but was not told about the field jail until after the fact. Arestees were detained for long periods, still in excessively tight zip ties. Social distancing procedures were not observed.
 
@@ -733,7 +733,7 @@ geolocation: 34.0593522, -118.4614724
 * https://www.tiktok.com/@manicxmel/video/6833292986214894853
 
 
-### LAPD destroy car to drag out occupants | June 2nd
+### LAPD destroy car to drag out occupants | 2020-06-02
 
 LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
 
@@ -749,7 +749,7 @@ geolocation: 34.0908516, -118.3180258
 * https://www.nbclosangeles.com/news/local/protests-george-floyd-los-angeles-curfew-downtown-la-venice/2373095/
 
 
-### Police arrest protesters en masse and detain them in poor conditions | June 2nd
+### Police arrest protesters en masse and detain them in poor conditions | 2020-06-02
 
 Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city.
 
@@ -772,7 +772,7 @@ geolocation: 34.0591193, -118.3227323
 * https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
 
 
-### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
+### LAPD officers fire at passers by out of the window of a patrol car | 2020-06-02
 
 A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way.
 
@@ -790,7 +790,7 @@ geolocation: 34.0944075, -118.3385753
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 
-### Police shoot unarmed man in a wheelchair in the face | June 2nd
+### Police shoot unarmed man in a wheelchair in the face | 2020-06-02
 
 A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting less-than-lethal round at the man.
 
@@ -811,7 +811,7 @@ geolocation: 34.0487865, -118.2504023
 * https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
 
 
-### Police fire into backs of protesters | June 2nd
+### Police fire into backs of protesters | 2020-06-02
 
 A handful of protesters are seen walking away from police with their hands up. Police shoot at the protesters repeatedly for the duration of the video, about 40 seconds.
 
@@ -826,7 +826,7 @@ geolocation: 34.0944075, -118.3385753
 * https://twitter.com/MattMcGorry/status/1268455032032133122
 
 
-### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) June 2nd
+### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) 2020-06-02
 
 Footage shows police near a group of protesters. One officer walks across the line of protesters, shoving many of them with his baton. Another officer then shoves an individual in a wheelchair. A third officer then grabs the wheelchair and pushes that individual away, back behind the police line.
 
@@ -846,7 +846,7 @@ geolocation: 34.0689615, -118.3440646
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ca-losangeles-31.1.mp4)
 
 
-### Police shoot man in groin with rubber bullet | June 2nd
+### Police shoot man in groin with rubber bullet | 2020-06-02
 
 An officer rips a sign away from a protester then shoots him in the groin with a rubber bullet at close range. The protester suffered serious injuries to his testicles and was rushed to an emergency room.
 
@@ -862,7 +862,7 @@ geolocation: 34.1015944, -118.328136
 * https://www.latimes.com/california/story/2020-09-19/video-shows-lapd-officers-protesters-shoot-him-in-groin
 
 
-### Protester shows wound inflicted by less-lethal round | June 3rd
+### Protester shows wound inflicted by less-lethal round | 2020-06-03
 
 Footage from June 3rd shows a still of a wound on a protester's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use. Footage was taken in Downtown LA. While it is not clear exactly where the shot was fired, the protester states at one point that he was near the harbor freeway entrance in downtown LA.
 
@@ -877,7 +877,7 @@ geolocation: 34.049168, -118.2595779
 * https://www.instagram.com/p/CBBpSZPnyke/
 
 
-### Medic treats rubber bullet wound | June 8th
+### Medic treats rubber bullet wound | 2020-06-08
 
 Footage from June 8th shows a medic treating a wound on the thigh of a female protester. The bullet broke the skin and has caused major bruising in a circle around the point of contact. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
 
@@ -894,7 +894,7 @@ geolocation: 34.0838456, -118.3614283
 * https://www.instagram.com/p/CBKohCXnJld/
 
 
-### Police make violent arrests, including ripping a protester out of his wheelchair and inducing an asthma attack | July 15th
+### Police make violent arrests, including ripping a protester out of his wheelchair and inducing an asthma attack | 2020-07-15
 
 Footage shows a scuffle as police arrest protesters. A protester in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protester grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protester. The protester who was in the wheelchair passively resists by locking his arms while police arrest him. Body cam footage released by the LAPD shows the man in the wheelchair striking an officer in the face during a physical altercation between the protester and the officer. Notably, the LAPD footage fails to show the lead up to the protester in the wheelchair slapping the officer.
 
@@ -922,7 +922,7 @@ geolocation: 34.0509527, -118.2585966
 * https://www.instagram.com/p/CCxPb28hRdN/
 
 
-### Violent arrests after police initiate scuffle | July 25th
+### Violent arrests after police initiate scuffle | 2020-07-25
 
 Footage shows police approaching a protester in the street and shoving her to the ground, knocking the phone out of her hand. As police continue to shove the protester, another runs into frame and knocks an officer to the ground. More police then join to arrest the two protesters. Two other protesters come into frame, yelling at police. One is thrown to the ground and knelt on by an officer to arrest her. The other is shoved over a vertical ring used to lock bikes. She is then repeatedly shoved as she tries to stand and approach her fellow protester on the ground.
 
@@ -938,7 +938,7 @@ geolocation: 34.0530795, -118.2440239
 * https://ktla.com/news/local-news/hundreds-of-protesters-gather-in-downtown-l-a-as-some-march-onto-101-freeway/
 
 
-### Police officer fires riot gun at protester; other officers then fire as well | July 25th
+### Police officer fires riot gun at protester; other officers then fire as well | 2020-07-25
 
 LAPD stand-off with protesters during a Portland Solidarity march on 7/25. Officers advance towards protesters, who slowly back away. One officer fires a riot gun at protesters without apparent provocation and at a dangerously close range. Several officers then begin firing at protesters. Protesters throw small projectiles in response.
 
@@ -953,7 +953,7 @@ geolocation: 34.0535364, -118.2488016
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
 
 
-### Woman recording peaceful protests shot by less lethals | July 25th
+### Woman recording peaceful protests shot by less lethals | 2020-07-25
 
 A woman who was recording protests was shot with less lethals by LAPD officers. She states that bystanders and peaceful protesters were struck.
 
@@ -969,7 +969,7 @@ geolocation: 34.0535364, -118.2488016
 * https://twitter.com/Jas20274433/status/1288141708484464641
 
 
-### Man filming arrests is thrown to the ground | July 31st
+### Man filming arrests is thrown to the ground | 2020-07-31
 
 A man filming protesters being arrested is told by officers conflicting places to stand. One officer then shoves him to the ground and tells him to back up.
 
@@ -985,7 +985,7 @@ geolocation: 34.2413537, -118.2675791
 * https://twitter.com/chadloder/status/1289395335211540481
 
 
-### Officers shove and shoot Black Lives Matter protesters | August 21st
+### Officers shove and shoot Black Lives Matter protesters | 2020-08-21
 
 At a dual protest between pro-Trump and Black Lives Matter protesters, BLM protesters entered the street and were confronted by police. This occurred after a member of the pro-Trump protest pepper sprayed BLM protesters.
 
@@ -1006,7 +1006,7 @@ geolocation: 34.2413537, -118.2675791
 * https://twitter.com/WallofVets/status/1297351314653896704
 
 
-### LA Sheriffs tear gas protesters | August 25th
+### LA Sheriffs tear gas protesters | 2020-08-25
 
 LA Sheriffs surround protesters and begin firing tear gas and impact munitions without warning. Protesters do not appear to be inciting violence or agitating in any way.
 
@@ -1023,7 +1023,7 @@ geolocation: 34.051824, -118.2461446
 * https://losangeles.cbslocal.com/2020/08/25/jacob-blake-protesters-clash-with-officers-outside-lapd-headquarters/
 
 
-### Officers trap protesters under bridge and shoot them | August 26th
+### Officers trap protesters under bridge and shoot them | 2020-08-26
 
 Protesters in LA were trapped by police in the 3rd Street Tunnel. Police demanded that protesters relinquish their shields. As protesters began to do so, police fired on the crowd. Police then held protesters at the scene, allegedly allowing them to leave in small groups after being frisked.
 
@@ -1043,7 +1043,7 @@ geolocation: 34.0528905, -118.2532847
 * https://www.instagram.com/p/CEY5r64AEip/
 
 
-### LA Sheriffs fire impact munitions at protesters | September 5th
+### LA Sheriffs fire impact munitions at protesters | 2020-09-05
 
 LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk outside the LASD station at 1310 West Imperial Highway. The LASD allegedly never declared an unlawful assembly.
 
@@ -1065,7 +1065,7 @@ geolocation: 33.9296714, -118.3007234
 * https://clips.twitch.tv/GeniusPrettyPartridgeHeyGirl
 
 
-### LA Sheriffs deploy less lethals at peaceful protesters | September 7th
+### LA Sheriffs deploy less lethals at peaceful protesters | 2020-09-07
 
 Police fire impact munitions (believed to be pepper balls), stun grenades and tear gas at protesters without provocation. Police then continue to fire on protesters as they retreat.
 
@@ -1094,7 +1094,7 @@ geolocation: 33.9308852, -118.2985867
 * https://twitter.com/jintakhan/status/1303422157578412033
 
 
-### Police deploy tear gas and impact munitions against protesters | September 8th
+### Police deploy tear gas and impact munitions against protesters | 2020-09-08
 
 Protesters gathered in the street in Los Angeles on September 8th. Police approached in a line, flanking an armored vehicle. Police then charged protesters without warning and fired impact munitions (both rubber bullets and pepper balls) and stun grenades for several minutes. Several bystander cars were struck by munitions.
 
@@ -1113,7 +1113,7 @@ geolocation: 33.9309062, -118.3000642
 * [36:00-42:00; filmer then shows recovered rubber bullet at 55:00](https://www.instagram.com/p/CE5rJzPpZKP/)
 
 
-### Livestreamer tackled off bike and arrested | September 8th
+### Livestreamer tackled off bike and arrested | 2020-09-08
 
 An independent journalist, AlienAlphabet, was livestreaming as they biked away from a protest. The livestream shows the journalist knocked off their bike. Police yell for them to get on the ground. Police then arrest the journalist.
 
@@ -1129,7 +1129,7 @@ geolocation: 33.9317661, -118.300295
 * [Livestream; 34:00](https://www.youtube.com/watch?v=t3iFkuOWpYY)
 
 
-### Reporter arrested during protests | September 12th
+### Reporter arrested during protests | 2020-09-12
 
 Reporter Josie Huang was covering the shooting of 2 LASD officers and a small ensuing protest in LA when she was arrested for "obstruction of justice;" Huang states she was simply documenting an arrest. In addition, officers claim she was not properly identified, but footage shows a LASD-issued press pass around her neck.
 
@@ -1153,7 +1153,7 @@ geolocation: 33.9305919, -118.2053695
 * https://twitter.com/josie_huang/status/1305265782352310273
 
 
-### Police charge protesters without warning, make violent arrest | September 13th
+### Police charge protesters without warning, make violent arrest | 2020-09-13
 
 Footage shows a standoff between protesters and police. Police tape divides the two groups. Additional officers approach the line, then charge across at protesters without warning. One protester, Sean, is seen thrown to the ground and arrested with his hands held behind his back. Sean labels himself a "protest observer;" while not officially press, he focuses on filming protests, rather than participating. He can be heard screaming in pain during the arrest. He allegedly waited 20 minutes in handcuffs for EMS to arrive.
 
@@ -1172,7 +1172,7 @@ geolocation: 34.0501764, -118.2490047
 * https://www.tiktok.com/@sunflower_haze_/video/6872019962655984902
 
 
-### Police push and harass journalist | September 23rd
+### Police push and harass journalist | 2020-09-23
 
 A journalist films an argument with police as police tell him to leave the area. The journalist states repeatedly that he is press. He also asks why he must leave the area and if there has been a declaration of unlawful assembly. Police do not respond. One officer then walks him down the street, pushing him. The officer's response to all questions asked by the journalist is: "It is not hard for you to comply."
 
@@ -1187,7 +1187,7 @@ geolocation: 34.0518579, -118.2436692
 * https://twitter.com/ShotOn35mm/status/1309007382345928705
 
 
-### Police fire impact munitions at protesters, then make several arrests | September 25th
+### Police fire impact munitions at protesters, then make several arrests | 2020-09-25
 
 Police in Los Angeles deploy impact munitions, believed to be pepper balls, against protesters in large quantities as they push back the crowd and make several arrests.
 
@@ -1204,7 +1204,7 @@ geolocation: 34.0906705, -118.3858618
 * https://twitter.com/SamBraslow/status/1309734358564048896
 
 
-### Officer strikes detained protester with shield | September 25th
+### Officer strikes detained protester with shield | 2020-09-25
 
 During a protest, police made several arrests. One officer is seen detaining a protester, while a second uses his shield to subdue the protester. The officer swings the shield downward, striking the protester's ankle repeatedly with the edge of the shield.
 
@@ -1224,7 +1224,7 @@ geolocation: 34.0906705, -118.3858618
 * https://twitter.com/TinaDesireeBerg/status/1309935292246261763
 
 
-### Police arrest legal observers and members of the press | November 3rd
+### Police arrest legal observers and members of the press | 2020-11-03
 
 Members of the LAPD arrested several legal observers and at least one member of the press at a protest in Los Angeles. The cited reason was for being a "pedestrian on the roadway." A jaywalking charge is generally a citation and ticket, but rarely an arrest.
 
@@ -1241,7 +1241,7 @@ geolocation: 34.0430219, -118.2694428
 * https://twitter.com/ACatWithNews/status/1323941258574716929
 
 
-### Police arrest journalists | November 4th
+### Police arrest journalists | 2020-11-04
 
 LAPD officers grab and arrest an individual wearing a clearly-labeled PRESS vest. The journalist was covering a protest near Pershing Square. In a later tweet, the journalist confirms their arrest.
 
@@ -1263,7 +1263,7 @@ geolocation: 34.048569, -118.2550804
 * https://www.latimes.com/california/story/2020-11-04/lapd-detain-cite-two-videographers-after-declaring-downtown-protest-unlawful
 
 
-### Police beat and arrest anti-eviction protesters | November 26th
+### Police beat and arrest anti-eviction protesters | 2020-11-26
 
 Following evictions of squatting families from CalTrans-owned homes by California State Police on November 25th, protesters gathered at 2970 Lowell Ave to bar the way in an attempt to prevent these evictions. Officers swing batons at protesters and make violent arrests. Several protesters were knelt on during arrests; some were also hog-tied and carried away to vans
 
@@ -1281,7 +1281,7 @@ geolocation: 34.080414, -118.1642954
 * https://twitter.com/chadloder/status/1332249085382836225
 
 
-### Protesters outside Mayor's home beaten with batons | December 6th
+### Protesters outside Mayor's home beaten with batons | 2020-12-06
 
 On the 13th day of protests outside the Getty House, the official Los Angeles mayoral residence, police charged protesters, striking them and legal observers with batons.
 
@@ -1303,7 +1303,7 @@ geolocation: 34.063557, -118.3186402
 
 ## Norco
 
-### Woman struck by white supremacist while police look on | June 29th
+### Woman struck by white supremacist while police look on | 2020-06-29
 
 A man wearing a shirt with two SS lightning bolts harasses a filming BLM protester. He and another counter-protester call her a bitch repeatedly, then slaps the phone out of her hand. Police state they did not see the incident, although the link shows clearly that an officer is standing next to them. The officer is joined by another. They stand between the groups of protesters and tell the BLM protesters to keep moving. The woman says she needs to find her phone and the officer says they have to come back for it later.
 
@@ -1323,7 +1323,7 @@ geolocation: 33.9311538, -117.5605275
 
 ## Oakland
 
-### Officer runs down protesters with police cruiser | (believed to be) May 30th
+### Officer runs down protesters with police cruiser | (Believed to be) 2020-05-30
 
 A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
 
@@ -1340,7 +1340,7 @@ geolocation: 37.7730406, -122.2162003
 * https://imgur.com/a/Izbobvx
 
 
-### Oakland law enforcement shoot a reporter | May 31st
+### Oakland law enforcement shoot a reporter | 2020-05-31
 
 A reporter films a street with a few protesters walking around.  In the distance, a line of Oakland law enforcement is standing. The law enforcement officers shoot the reporter.
 
@@ -1355,7 +1355,7 @@ geolocation: 37.8060529, -122.2705301
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
 
 
-### Water bottle tossed at police; police retaliate against crowd | June 2nd
+### Water bottle tossed at police; police retaliate against crowd | 2020-06-02
 
 Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately.
 
@@ -1371,7 +1371,7 @@ geolocation: 37.8002087, -122.2737406
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
-### Reporter detained and handcuffed | June 2nd
+### Reporter detained and handcuffed | 2020-06-02
 
 During an Oakland protest on June 2nd, police charged protesters and began a series of mass arrests. KPIX reporter Katie Nielsen was handcuffed and detained during the incident, though she was soon released. Images of her detention show a clearly visible press pass clipped to her belt loop. She was released several minutes later and issued an apology by a police spokesperson.
 
@@ -1390,7 +1390,7 @@ geolocation: 37.800244, -122.273785
 * https://www.youtube.com/watch?v=yM2VaCAeqqY
 
 
-### Protester singled out, chased and arrested | July 26th
+### Protester singled out, chased and arrested | 2020-07-26
 
 Police gather around a protester standing on a pedestrian median. He is singled out by police. He is threatened with arrest, then flees. A hissing sound can be heard prior to his flight, which may be pepper spray. Officers then chase, tackle, and arrest him. Motive for the arrest is unclear.
 
@@ -1407,7 +1407,7 @@ geolocation: 37.8059558, -122.2703161
 
 ## Riverside
 
-### Law enforcement break a car window for no apparent reason | June 1st
+### Law enforcement break a car window for no apparent reason | 2020-06-01
 
 A line of law enforcement officers are walking down the street.  When they approach a parked vehicle, law enforcement break the vehicle's window for no apparent reason.
 
@@ -1424,7 +1424,7 @@ geolocation: 33.9813734, -117.3754766
 
 ## Sacramento
 
-### Man severely injured by tear gas and impact munitions | May 30th
+### Man severely injured by tear gas and impact munitions | 2020-05-30
 
 A man who said he was bringing snacks to protesters says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw. He is part of a lawsuit against the city, along with lawyer Danny Garza.
 
@@ -1440,7 +1440,7 @@ geolocation: 38.5763383, -121.4807559
 * https://www.docdroid.com/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf#page=4
 
 
-### Police shoot protester in the head | May 30th
+### Police shoot protester in the head | 2020-05-30
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
@@ -1456,7 +1456,7 @@ geolocation: 38.5827287, -121.4985581
 * https://twitter.com/mynameschazz/status/1266978442722947072
 
 
-### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
+### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | 2020-05-31
 
 Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protesters have brought a lawsuit against the city of Sacramento.
 
@@ -1473,7 +1473,7 @@ geolocation: 38.5763383, -121.4807559
 * https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pd
 
 
-### Police fire tear gas and flashbangs without apparent cause | May 31st
+### Police fire tear gas and flashbangs without apparent cause | 2020-05-31
 
 Footage shows protesters facing off against police. Without warning, police fire tear gas and flashbangs, causing protesters to flee.
 
@@ -1489,7 +1489,7 @@ geolocation: 38.5781843, -121.4943541
 * https://www.youtube.com/watch?v=TSshaAoTuUw
 
 
-### Police choke man and push woman filming event to the ground | June 1st
+### Police choke man and push woman filming event to the ground | 2020-06-01
 
 Two to three police officers choke a black man on the ground. The woman documenting this on video is then pushed away/over.
 
@@ -1508,7 +1508,7 @@ geolocation: 38.5784745, -121.4868259
 
 ## San Diego
 
-### Police kettle and fire on fleeing protesters | May 31st
+### Police kettle and fire on fleeing protesters | 2020-05-31
 
 Police block off sidewalks to kettle protesters outside the Edward J. Schwartz federal building in downtown San Diego. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protesters at close range. Protesters are shoved by authorities as they plead for officers to stop firing on them.
 
@@ -1525,7 +1525,7 @@ geolocation: 32.7144295, -117.1668697
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
-### Police fire on dancing protesters | May 31st
+### Police fire on dancing protesters | 2020-05-31
 
 Footage shows protesters playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protesters then flee.
 
@@ -1540,7 +1540,7 @@ geolocation: 32.7164306, -117.1636962
 * https://twitter.com/mariahalize3/status/1267225330093191168
 
 
-### Student journalist shot and tear gassed | May 31st
+### Student journalist shot and tear gassed | 2020-05-31
 
 A student journalist attended protests in San Diego on May 31st. San Diego Police declared an unlawful assembly, then began firing tear gas and pepper balls at protesters. The journalist was standing on the sidewalk filming, when tear gas drifted into his eyes. He then turned for cover and was shot with pepper balls.
 
@@ -1556,7 +1556,7 @@ geolocation: 32.7155187, -117.165556
 * https://twitter.com/plutotoplato/status/1267224695239131137
 
 
-### Police abduct woman in unmarked van | June 4th
+### Police abduct woman in unmarked van | 2020-06-04
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van. The incident occurred by the entrance to San Diego High School.
 
@@ -1571,7 +1571,7 @@ geolocation: 32.720796, -117.153584
 * [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
 
 
-### Police throw stun grenades at protesters changing flag | September 23rd
+### Police throw stun grenades at protesters changing flag | 2020-09-23
 
 Footage shows protesters attempting to lower a California state flag outside the San Diego Police Department downtown headquarters. Police charge at protesters. Protesters scatter. Police then deploy stun grenades at protesters after they have already cleared from around the flag.
 
@@ -1586,7 +1586,7 @@ geolocation: 32.7153466, -117.1532613
 * https://twitter.com/TheActivatedPod/status/1309169875064061954
 
 
-### Police shove protesters with bikes and arrest them | September 25th
+### Police shove protesters with bikes and arrest them | 2020-09-25
 
 Police pin protesters against a wall, shoving them with bikes. Protesters then push back, knocking one officer to the ground.
 
@@ -1602,7 +1602,7 @@ geolocation: 32.7177756, -117.1695895
 * https://www.reddit.com/r/PublicFreakout/comments/j06kl7/protestors_and_san_diego_police_clash_last_night/
 
 
-### Police make violent arrests | October 31st
+### Police make violent arrests | 2020-10-31
 
 Police make several violent arrests, allegedly for knocking over barricades near the San Diego Police Headquarters. Officers then threaten the filmer with pepper spray.
 
@@ -1620,7 +1620,7 @@ geolocation: 32.7153421, -117.1532613
 
 ## San Francisco
 
-### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
+### San Francisco law enforcement shove man off the sidewalk onto the ground | 2020-05-31
 
 A police SUV is attempting to drive through a crowd.  A law enforcement officer shoves the man from behind off the sidewalk onto the ground in front of the vehicle.
 
@@ -1637,7 +1637,7 @@ geolocation: 37.7925758, -122.3974486
 
 ## San Jose
 
-### Police shoot a projectile at a protester | May 29th
+### Police shoot a projectile at a protester | 2020-05-29
 
 A police officer shoots a projectile at a protester for yelling out profanities. The same officer is seen excited about the protests yelling "let's get this motherfucker".
 
@@ -1657,7 +1657,7 @@ geolocation: 37.3381932, -121.8862008
 * https://twitter.com/venomwithinher/status/1266826205833031680
 
 
-### Officer puts knee on neck of protester | May 29th
+### Officer puts knee on neck of protester | 2020-05-29
 
 A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck.
 
@@ -1672,7 +1672,7 @@ geolocation: 37.3386496, -121.8852466
 * https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 
-### Police fire on community activist | May 29th
+### Police fire on community activist | 2020-05-29
 
 A protester and community activist, known for work anti-bias and community building work with the San Jose PD, is fired upon by police. Though he has his hands in the air, police fire on him numerous times, striking him once in the groin. Later reports state the man suffered a ruptured testicle.
 
@@ -1690,7 +1690,7 @@ geolocation: 37.3381942, -121.886265
 * https://www.fox23.com/news/trending/george-floyd-protests-san-jose-police-fire-rubber-bullets-own-bias-trainer-rupture-his-testicle/K5HUBNAHTJERPBKA2CVC2B5LRU/
 
 
-### Police knocks phone out of protester's hand; riot control measures follow | May 29th
+### Police knocks phone out of protester's hand; riot control measures follow | 2020-05-29
 
 A protester can be seen filming SJPD officers' badge numbers. One officer swats the phone out of the protester's hand. The camera angle shifts, but the protester appears to retaliate by punching the officer.
 
@@ -1707,7 +1707,7 @@ geolocation: 37.3396426, -121.883425
 * https://twitter.com/itssdelilahh/status/1266575145537163269
 
 
-### Man struck by rubber bullet and explosive device | May 29th
+### Man struck by rubber bullet and explosive device | 2020-05-29
 
 A protester filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the crowd. The man is hit and is helped by a second protester. While the second protester is attempting to help, a canister explodes at the man's feet.
 
@@ -1722,7 +1722,7 @@ geolocation: 37.3353196, -121.8893149
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
-### Woman shot in the head with foam round | May 29th
+### Woman shot in the head with foam round | 2020-05-29
 
 A woman at a protest on May 29th was shot in the temple by a foam bullet. She stated in an interview, "she heard no audible verbal warning from SJPD about their intent to use riot guns or physical force." The SJPD stated several verbal warnings were given. The woman stated she was assisted by a paramedic, given an ice pack, and told to see a doctor.
 
@@ -1741,7 +1741,7 @@ geolocation: 37.3392172, -121.8863874
 * https://www.sanjoseinside.com/wp-content/uploads/2020/06/Breanna2-768x1024.jpg
 
 
-### Man struck in face by police, severely injured | May 29th
+### Man struck in face by police, severely injured | 2020-05-29
 
 A man approaches police, filming with his camera. He is struck in the face by an officer with a baton. He then throws a punch back and is wrestled to the ground by several officers and arrested. He was taken to a hospital for arrestees and diagnosed with a shattered kneecap. He says that the recovery is expected to take months.
 
@@ -1759,7 +1759,7 @@ geolocation: 37.3392126, -121.8843452
 * https://www.sanjoseinside.com/wp-content/uploads/2020/06/DSC08021.jpg
 
 
-### Police shoot at woman in apartment | May 30th
+### Police shoot at woman in apartment | 2020-05-30
 
 A woman was yelling at police during a May 30th protest from her apartment window. Shortly after starting a recording on her cell phone, police fired projectiles at the woman's apartment. She recovered 13 projectiles, including rubber bullets and pepper balls. Several of her windows were damaged.
 
@@ -1779,7 +1779,7 @@ geolocation: 37.3387932, -121.8877422
 * https://abc7news.com/new-excessive-force-complaint-against-sjpd/6260863/
 
 
-### Police strike man with motorcycle | May 31st
+### Police strike man with motorcycle | 2020-05-31
 
 A man is seen running across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
 
@@ -1796,7 +1796,7 @@ geolocation: 37.335747, -121.8860163
 * https://www.mercurynews.com/2020/06/03/video-of-police-motorcycle-hitting-man-brings-more-scrutiny-to-sjpd/
 
 
-### Police shoot small group of unarmed protesters | June 3rd
+### Police shoot small group of unarmed protesters | 2020-06-03
 
 Police give orders to disperse and subsequently to lay on the ground. Protesters attempt to flee and first-person footage states a protester was tripped and shot at short range.
 
@@ -1816,7 +1816,7 @@ geolocation: 37.3381843, -121.8862205
 
 ## San Luis Obispo
 
-### Law enforcement fire on crowd with their arms up chanting | June 1st
+### Law enforcement fire on crowd with their arms up chanting | 2020-06-01
 
 Protesters standing with their arms raised are chanting "This is what democracy looks like".  Law enforcement fire on the crowd and gas can be seen.
 
@@ -1834,7 +1834,7 @@ geolocation: 35.2855771, -120.6624956
 
 ## Santa Ana
 
-### Police open fire on protesters | May 31st
+### Police open fire on protesters | 2020-05-31
 
 The protester filming calls for a medic to help a fellow protester in a street median. A police line approaches. At 0:16, police fire on the protesters again.
 
@@ -1855,7 +1855,7 @@ geolocation: 35.2855771, -120.6624956
 
 ## Santa Monica
 
-### Police fire pepper bullets into apartment | May 31st
+### Police fire pepper bullets into apartment | 2020-05-31
 
 Live on TV, police fire multiple pepper bullets at a second-story apartment window from the street below.
 
@@ -1870,7 +1870,7 @@ geolocation: 34.0107251, -118.4940541
 * https://twitter.com/GIFsZP/status/1267241803750813703
 
 
-### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | May 31st
+### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | 2020-05-31
 
 On May 31st, police arrested numerous protesters for curfew violations. These protesters were zip tied and held for long periods, in tight quarters which did not permit social distancing, then released late at night with no way to get home. At least one detainee alleges that detainees were denied medical care and permission to use the restroom.
 
@@ -1898,7 +1898,7 @@ geolocation: 34.0164136, -118.4989781
 * https://www.nbclosangeles.com/news/local/man-arrested-at-protest-said-he-was-told-he-cant-go-back-to-santa-monica-where-he-lives/2379044/
 
 
-### Reporter shot with rubber bullets | May 31st
+### Reporter shot with rubber bullets | 2020-05-31
 
 A reporter for Primer Impacto was livestreaming a protest on Facebook. Around 12 minutes into the video, shots are fired without warning and the woman screams. She says to a man on her crew (in Spanish), "They just hit me, Patricio, in the leg."
 
@@ -1916,7 +1916,7 @@ geolocation: 34.0107251, -118.4940541
 
 ## Vallejo
 
-### Police fatally shoot unarmed 22 year old | June 1st
+### Police fatally shoot unarmed 22 year old | 2020-06-01
 
 Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family.
 
@@ -1939,7 +1939,7 @@ geolocation: 38.1231701, -122.2523552
 
 ## Walnut Creek
 
-### Armored law enforcement vehicle threatens protesters, deploys tear gas on highway | June 1st
+### Armored law enforcement vehicle threatens protesters, deploys tear gas on highway | 2020-06-01
 
 In this video, an armored law enforcement vehicle tells protesters blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas, coating the highway in dense, opaque clouds of blinding fog. Vehicles are seen waiting to continue on their way; it is unclear whether these vehicles attempted to navigate the clouds of tear gas. (Note: Jalopnik reports that this happened on June 2; however, protests consistent with the video were only reported on June 1, and other sources place the video on June 1.)
 
@@ -1958,7 +1958,7 @@ geolocation: 37.9148825, -122.0660187
 * https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
 
 
-### Police arrest man using excessive force, dogs | June 1st
+### Police arrest man using excessive force, dogs | 2020-06-01
 
 Police threw tear gas at protesters blocking a roadway in an effort to disperse them. One protester, Joseph Malott, allegedly threw a tear gas canister back at police. Police arrested him for (per Mercury News) “assaulting a police officer with a deadly weapon.” During the arrest, Malott was bitten and scratched repeatedly by a police dog, leaving bite marks and scratches all over his back and a wound on his leg which required 10 stitches. During the arrest, he says he was slammed against a fence then thrown to the ground, and recalls thinking “when are they going to take the dogs off me?”
 
@@ -1975,7 +1975,7 @@ geolocation: 37.9151504, -122.0641695
 * https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
 
 
-### Police fire tear gas at peaceful protesters | June 2nd
+### Police fire tear gas at peaceful protesters | 2020-06-02
 
 A small number of peaceful protesters are scattered in the street. Someone shouts, "Get back," and protesters begin running. Shots can be heard and tear gas is fired into the crowd.
 
@@ -1992,7 +1992,7 @@ geolocation: 37.9034738, -122.0650245
 
 ## Whittier
 
-### Protesters violently arrested without apparent reason | July 29th
+### Protesters violently arrested without apparent reason | 2020-07-29
 
 Footage shows police grabbing a woman at a protest, forcing her to the ground and arresting her. A male protester attempts to intervene and is arrested as well. The filmer states the victims were his sister and her boyfriend and provided continued updates on their status. She states that when she attempted to call the precinct, she was told that the arrestees had waived their rights and were sleeping and could not be woken up. They were released about 8 hours after being arrested. The filmer responded to a request from 2020PB stating that her sister has been charged with obstruction of justice, battery of an officer, and a crosswalk violation; her boyfriend has been charged with resisting arrest.
 

@@ -1,6 +1,6 @@
 ## Keystone
 
-### Native protesters shot at and arrested on native land | July 3rd
+### Native protesters shot at and arrested on native land | 2020-07-03
 
 Native protesters in Keystone, South Dakota blocked a highway in anticipation of a Trump rally. Though blocking a highway is indeed illegal, the highway is also on unceded Indigenous land.
 

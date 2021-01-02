@@ -1,6 +1,6 @@
 ## Erie
 
-### Police officer maces woman and kicks her in the head | May 31st
+### Police officer maces woman and kicks her in the head | 2020-05-31
 
 A woman was seen sitting on the ground at North Park Row and State Street. Officers approached and pepper-sprayed her, then kicked her in the head.
 
@@ -20,7 +20,7 @@ geolocation: 42.1299041, -80.0854743
 
 ## Lancaster
 
-### Police tear gas protesters | September 13th
+### Police tear gas protesters | 2020-09-13
 
 Following a police shooting in Lancaster, protesters gathered at West Chestnut and North Prince Streets, forming makeshift barricades in the road. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
 
@@ -44,7 +44,7 @@ geolocation: 40.0409191, -76.3105339
 
 ## Harrisburg
 
-### Police pepperspray protesters helping someone stand up | May 30th
+### Police pepperspray protesters helping someone stand up | 2020-05-30
 
 Protesters try to help someone stand up at the intersection of Front and Forster. Several police officers move in; one officer canvases the crowd with pepper spray.
 
@@ -62,7 +62,7 @@ geolocation: 40.2647834, -76.8903048
 
 ## Philadelphia
 
-### Police beat down man | May 30th
+### Police beat down man | 2020-05-30
 
 The journalist was trying to get a closer look at the police, while they were beating an individual.
 
@@ -77,7 +77,7 @@ geolocation: 39.951190, -75.165580
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Protester fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protester, then arrest him, the driver and a passerby filming | (Believed to be) May 30th
+### Protester fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protester, then arrest him, the driver and a passerby filming | (Believed to be) 2020-05-30
 
 Two protesters run from police across the intersection of Pike and Broad Streets. One jumps into a car's open passenger window. The driver pulls away before the other protester can enter. The driver then pulls over to the side of the road shortly after.
 
@@ -97,7 +97,7 @@ geolocation: 40.0123079, -75.150498
 * [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)](https://twitter.com/greg_doucette/status/1269303637060325377)
 
 
-### Police repeatedly shove protester | May 30th
+### Police repeatedly shove protester | 2020-05-30
 
 A protester is seen in a scuffle with police. It is unknown what caused this interaction. Police repeatedly push and shove the protester with no attempt to detain the individual.
 
@@ -114,7 +114,7 @@ geolocation: 39.9495468, -75.1654699
 * https://twitter.com/MeKatharine/status/1266870362433822720
 
 
-### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
+### Philadelphia cops beat man and forcefully put his fingers on their baton. | 2020-05-31
 
 A man is being held on the ground by a police officer, who forces the man's hand onto a baton. Another officer joins in to force the man flat on the ground, kneeling on either the man's head or neck. The second officer then begins to strike the man on the head. A third officer joins in and grabs the man's arms. The police yell at witnesses to "back off", while someone yells "he can't breathe".
 
@@ -132,7 +132,7 @@ geolocation: 39.9829056, -75.1788406
 * https://twitter.com/mkultranews/status/1267305587206807553
 
 
-### Police fire tear gas down empty streets | May 31st
+### Police fire tear gas down empty streets | 2020-05-31
 
 An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification. The incident is believed to have occurred at South 51st and Locust Streets.
 
@@ -148,7 +148,7 @@ geolocation: 39.9555724, -75.2259593
 * https://twitter.com/greg_doucette/status/1267859272639164416
 
 
-### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
+### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | 2020-06-01
 
 An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
 
@@ -171,7 +171,7 @@ geolocation: 39.9595383, -75.1746173
 * https://youtu.be/srC5l--cn14
 
 
-### Police officer pepper-sprays three people on their knees | (Believed to be) June 1st
+### Police officer pepper-sprays three people on their knees | (Believed to be) 2020-06-01
 
 Three protesters kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
 
@@ -186,7 +186,7 @@ geolocation: 39.9593861, -75.1734591
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
 
-### Police shove protesters and strike man across the face with a baton | June 1st
+### Police shove protesters and strike man across the face with a baton | 2020-06-01
 
 Police shove a group of protesters near the Benjamin Franklin Parkway. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
@@ -208,7 +208,7 @@ geolocation: 39.9616615, -75.1761279
 * https://www.cnn.com/2020/06/06/us/philly-student-protester/index.html
 
 
-### Officer attacks woman for no apparent reason | June 1st
+### Officer attacks woman for no apparent reason | 2020-06-01
 
 An officer in a white shirt is seen grabbing a woman at Market and 10th, then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer.
 
@@ -223,7 +223,7 @@ geolocation: 39.9515585, -75.1567218
 * https://twitter.com/tippedminimum/status/1268001268406136832
 
 
-### Police selectively enforce curfew and dispersal orders | June 1st
+### Police selectively enforce curfew and dispersal orders | 2020-06-01
 
 During protests, groups of men armed with guns, bats, and other blunt instruments roved around the Fishtown neighborhood of Philadelphia. They continued patrolling after curfew. Footage shows Philadelphia police warning militia to leave so they could enforce arrests of BLM protesters. In addition, images show police chatting and taking photos with the groups. One video taken by a gunman states that the police want to take pictures with them.
 
@@ -247,7 +247,7 @@ geolocation: 39.9721817, -75.1374295
 * https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
-### Police pepper spray protesters on their knees | June 1st
+### Police pepper spray protesters on their knees | 2020-06-01
 
 Protesters are seen in the middle of the road on their knees with their hands up. Officers are seen walking on the median and indiscriminately pepper spraying the protesters below them.
 
@@ -262,7 +262,7 @@ geolocation: 39.9593861, -75.1734591
 * https://twitter.com/d0wnrrrrr/status/1267848782689054723
 
 
-### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
+### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) 2020-06-03
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
@@ -279,7 +279,7 @@ geolocation: 40.0434604, -75.1889323
 * https://twitter.com/greg_doucette/status/1268200800649707526
 
 
-### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | June 13th
+### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | 2020-06-13
 
 A reporter from Unicorn Riot showed up at a pro-Columbus rally at a statue of Christopher Columbus in Philadelphia. He is harassed, threatened and assaulted by members of the rally. In addition, an article published by Unicorn Riot states that members of the rally slashed the journalist's tires.  After several minutes, police intervene to push protesters back, but make no arrests. They appear to say nothing more to members of the rally than, "Leave him alone."
 
@@ -302,7 +302,7 @@ geolocation: 40.7699243, -73.9749736
 * https://unicornriot.ninja/2020/philadelphia-police-threaten-unicorn-riot-reporter-after-vigilante-assault/
 
 
-### Counter-Terrorism Unit detains reporter | June 23rd
+### Counter-Terrorism Unit detains reporter | 2020-06-23
 
 A reporter recounts on Twitter that she was arrested despite telling an officer she was a reporter. She states she was zip-tied, mocked and then dragged backwards down two flights of stairs to a detention area. She states that later an officer came and asked, "Are you Samantha?" When she confirmed her name, she was released.
 
@@ -321,7 +321,7 @@ geolocation: 39.953937, -75.1666453
 * https://twitter.com/samanthamelamed/status/1275524750316535810
 
 
-### Police officer shoves protester to the ground | October 27th
+### Police officer shoves protester to the ground | 2020-10-27
 
 Footage from a protest in West Philadelphia (intersection of Market and 52nd Streets) shows a police officer running up to a protester on the sidewalk and using his baton to shove the protester to the ground.
 
@@ -336,7 +336,7 @@ geolocation: 39.9599534, -75.2249261
 * https://twitter.com/Clyatt/status/1321281954579279873
 
 
-### Officer slams protester to the ground during arrest | October 27th
+### Officer slams protester to the ground during arrest | 2020-10-27
 
 At a protest in West Philadelphia, several police officers arrest a protester for unknown cause. One officer grabs the protester around the waist, lifts them up, and slams them to the ground.
 
@@ -353,7 +353,7 @@ geolocation: 39.953632, -75.2284997
 * https://twitter.com/RobertKlemko/status/1321279977300647937
 
 
-### Police push, shove, and strike protesters with batons | October 27th
+### Police push, shove, and strike protesters with batons | 2020-10-27
 
 Police are seen shoving a protester and striking him with batons before knocking him to the ground. During the exchange, an object is thrown by protesters, striking one officer; however, this appears to occur in an attempt to free the protester from police violence. It appears that the protester is then arrested as additional officers form a barrier.
 
@@ -371,7 +371,7 @@ geolocation: 39.953632, -75.2284997
 * https://twitter.com/JPeters2100/status/1321263829951590406
 
 
-### Police break car windows, pull passengers from vehicle, and beat them | October 27th
+### Police break car windows, pull passengers from vehicle, and beat them | 2020-10-27
 
 Philadelphia police approach a car in the street on the 5200 block of Chestnut Street, beating it with their batons. Officers then smash out the driver side window before opening the door, beating the driver and front passenger with batons. Police also pulled a child out of the backseat of the car. Later reporting has stated that the driver and her 16 year old out of the car. They were hospitalized and handcuffed to their hospital beds while being treated. The following morning they were released without charges, though the mother's hospital bracelet read: "assault on police." The driver was able to contact her mother, the grandmother of the child pulled from the backseat. The grandmother went to the scene of the incident, then was directed four miles away, where she found the boy in a squad car. She said the boy had a lump on his head and his carseat still contained glass from the broken windows. An attorney representing the family has stated they have been told neither the current location of the family's SUV nor any process to retrieve the vehicle. The lawyer also states that the family is showing signs of trauma, including the young boy, who is hearing impaired and still learning to speak.
 
@@ -394,7 +394,7 @@ geolocation: 39.9585788, -75.2261555
 * https://www.inquirer.com/news/philadelphia/philadelphia-police-suv-video-protests-child-walter-wallace-jr-20201030.html
 
 
-### Officer pins woman to the ground and punches her | October 27th
+### Officer pins woman to the ground and punches her | 2020-10-27
 
 At a protest near 52nd and Spruce in West Philadelphia, an officer is seen pinning a woman to the ground. The officer then punches the woman repeatedly to subdue her. She does not appear to be resisting in any way.
 
@@ -412,7 +412,7 @@ geolocation: 39.954587, -75.2281502
 * https://www.instagram.com/p/CG1U-azH4zV/
 
 
-### Police officers strike protesters with batons | October 27th
+### Police officers strike protesters with batons | 2020-10-27
 
 At a protest near 52nd and Spruce in West Philadelphia, police are seen slashing at protesters with their batons. It should be noted that most departmental rules of force specify that batons should only be used to shove, except in life-threatening situations.
 
@@ -432,7 +432,7 @@ geolocation: 39.954587, -75.2281502
 
 ## Pittsburgh
 
-### Police tear-gas, shoot and arrest protester confused by contradicting police instructions | May 30th
+### Police tear-gas, shoot and arrest protester confused by contradicting police instructions | 2020-05-30
 
 John Connors, a protester in Pittsburgh on Saturday, May 30th, was recording the protest on his phone near Liberty Avenue and 7th Street. Police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
 
@@ -450,7 +450,7 @@ geolocation: 40.4424746, -79.9999118
 * https://twitter.com/greg_doucette/status/1270149233673469957
 
 
-### Officer pepper-sprays a woman who is on her knees with her hands up | June 1st
+### Officer pepper-sprays a woman who is on her knees with her hands up | 2020-06-01
 
 A woman in East Liberty (5700 Centre Avenue) gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board.
 
@@ -473,7 +473,7 @@ geolocation: 40.457474, -79.9333042
 * [Post Gazette article about alleged police intimidation](https://www.post-gazette.com/news/crime-courts/2020/06/03/East-Liberty-protest-Abigail-Rubio-says-Pittsburgh-police-intimidated-video/stories/202006030158)
 
 
-### Police fire tear gas and rubber bullets on peaceful assembly | June 1st
+### Police fire tear gas and rubber bullets on peaceful assembly | 2020-06-01
 
 Police declare an unlawful assembly at Centre and Negley Avenues without clear justification. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
 
@@ -491,7 +491,7 @@ geolocation: 40.4572499, -79.934080
 * [Extended Facebook Live video; police begin firing at 9:00; phone is dropped at 10:53 and not recovered until the end](https://www.facebook.com/shawn.green.311/videos/2935858916468885/)
 
 
-### Police arrest protester then tear gas crowd | June 1st
+### Police arrest protester then tear gas crowd | 2020-06-01
 
 Footage shows police officers around several protest-related arrestees at North Beatty and Broad Streets. A woman argues with them at a distance. Police then approach her and arrest her. They force her to a seated position on the ground. They then lift her and place her face down on the ground.
 
@@ -511,7 +511,7 @@ geolocation: 40.4631367, -79.9261927
 * https://www.facebook.com/chilcottj/videos/10223908609851965/
 
 
-### Protester shoved into median | July 25th
+### Protester shoved into median | 2020-07-25
 
 Footage shows a protester filming police on the south side of the Birmingham Bridge. One officer shoves the protester, then another shoves the protester with his baton. The protester falls into the concrete median then to the ground.
 
@@ -526,7 +526,7 @@ geolocation: 40.4292654, -79.9735501
 * https://twitter.com/jackohrman/status/1287258983149993984
 
 
-### Protest marshal abducted by officers in unmarked van | August 15th
+### Protest marshal abducted by officers in unmarked van | 2020-08-15
 
 A protest marshal was singled out and arrested near Forbes and Oakland. Plainclothes officers emerged from an unmarked van, grabbed him off the sidewalk, and drove away. He was charged with "Obstructing Highways and Other Public Passages."
 
@@ -543,7 +543,7 @@ geolocation: 40.4415967, -79.9570021
 * https://twitter.com/samm_bones/status/1294769302348890113
 
 
-### Police pepper spray protesters as they push protest into park | August 19th
+### Police pepper spray protesters as they push protest into park | 2020-08-19
 
 A protest in Pittsburgh faced off with police when protesters stood at the edge of a sidewalk, while police stood in the road, believed to be on Penn Avenue near Bakery Square. Police then pushed protesters from the sidewalk into the park. Protesters passively resisted the shoving and were pepper sprayed.
 

@@ -1,6 +1,6 @@
 ## Kansas City
 
-### Police pepper spray and arrest protester holding sign | May 30th
+### Police pepper spray and arrest protester holding sign | 2020-05-30
 
 A freelance photographer captured an incident near J.C. Nichols and Ward parkways, showing a Kansas City Police officer pepper spraying a protester. The protester is standing several feet away and holding a sign above their head.
 
@@ -16,7 +16,7 @@ geolocation: 39.0408207, -94.587949
 * https://www.facebook.com/KuhlPics/photos/a.467614509924515/3214027235283215/?type=3&theater
 
 
-### Police arrest man for speaking and tear-gas nearby protesters | May 30th
+### Police arrest man for speaking and tear-gas nearby protesters | 2020-05-30
 
 A line of police stand well apart from a crowd of protesters, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
 
@@ -33,7 +33,7 @@ geolocation: 39.0425846, -94.5880446
 * https://twitter.com/Elise_Villa/status/1266923192612016129
 
 
-### Police pepper spray protesters walking away and later arrest one of them | May 31st
+### Police pepper spray protesters walking away and later arrest one of them | 2020-05-31
 
 A video linked shows the police pepper spraying some protesters who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
 
@@ -49,7 +49,7 @@ geolocation: 39.0452546, -94.588827
 * https://twitter.com/whoareyoujudy_/status/1266968858159702017
 
 
-### Police tear gas a park | May 31st
+### Police tear gas a park | 2020-05-31
 
 Video shows the police tear gassing an entire park, including one baby in Kansas City. The incident appears to take place around the J.C. Nichols Memorial fountain.
 
@@ -64,7 +64,7 @@ geolocation: 39.0426191, -94.5875483
 * https://twitter.com/imunoz03/status/1266908372881768448
 
 
-### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
+### Kansas City police attempt to arrest a man leading the protest then spray the crowd | 2020-05-31
 
 Footage shows a protester speaking to other protesters on a megaphone. Police grab him and drag him to arrest. Other protesters come to his aid and are pepper-sprayed.
 
@@ -80,7 +80,7 @@ geolocation: 39.043128, -94.5882934
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
 
 
-### Police arrest peaceful protester, pepper-spray others | May 31st
+### Police arrest peaceful protester, pepper-spray others | 2020-05-31
 
 With tactics remarkably similar to mo-kansascity-2, police grab a protester standing alone in the street. Other protesters come to aid him and are summarily pepper-sprayed. He is taken behind the police line and arrested.
 
@@ -96,7 +96,7 @@ geolocation: 39.0421858, -94.5890322
 * https://twitter.com/lovlitae/status/1268676585269473280
 
 
-### Police pull away protester and pepper sprays others | June 1st
+### Police pull away protester and pepper sprays others | 2020-06-01
 
 A police officer pulls away a protester standing still. When others come to the protester's aid they are pepper sprayed.
 
@@ -112,7 +112,7 @@ geolocation: 39.0425007, -94.5880276
 * [Location via Google Street View](https://www.google.ca/maps/place/Giralda/@39.0425007,-94.5880276,3a,75y,208.49h,97.09t/data=!3m6!1e1!3m4!1sJzy4NglPGxJe3YarImT1Og!2e0!7i16384!8i8192!4m5!3m4!1s0x87c0efb6174d21e9:0xa50781025e9c6d35!8m2!3d39.0417847!4d-94.5879815)
 
 
-### Couple pepper-sprayed; woman knocked unconscious; man blinded by rubber bullet | June 2nd
+### Couple pepper-sprayed; woman knocked unconscious; man blinded by rubber bullet | 2020-06-02
 
 A couple states that they attended a peaceful protest in the early afternoon with their dog. After seeing police allegedly beat a trumpeter, they took their dog home and returned.
 
@@ -133,7 +133,7 @@ geolocation: 39.0430404, -94.5882485
 
 ## Ferguson
 
-### Police violently push, shove, and arrest protesters | August 8th
+### Police violently push, shove, and arrest protesters | 2020-08-08
 
 At protests honoring the 6th anniversary of Mike Brown's death, police charged at protesters, pushing them from one side of the street to another. Police discharged pepper spray en masse and tackled numerous protesters to make arrests. One protester is seen helping another over a short fence; an officer grabs this protester by the backpack and hurls them to the ground. The officer continues to yank the backpack. The protester slips off the backpack and runs away.
 
@@ -150,7 +150,7 @@ geolocation: 38.7406715, -90.3034495
 * https://twitter.com/RachelDRice/status/1292663621852573696
 
 
-### Police pepper spray media personel | August 8th
+### Police pepper spray media personel | 2020-08-08
 
 Chris Philips, a well known member of the media in the Ferguson area, discusses being pepper sprayed by police without and order to of dispersal. He states that he was not recording at the time and was preparing to head home when police decided to rush at protesters. Pepper spray is visible on his face and torso as he walks away and tries to recover
 
@@ -167,7 +167,7 @@ geolocation: 38.7406715, -90.3034495
 
 ## Florissant
 
-### Florissant officer hits man with unmarked police vehicle | June 2nd
+### Florissant officer hits man with unmarked police vehicle | 2020-06-02
 
 A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm.
 
@@ -190,7 +190,7 @@ geolocation: 38.7470515, -90.2771242
 * https://www.ksdk.com/article/news/crime/florissant-officer-fired/63-022e88b0-2926-4716-9576-de0f212f52e7
 
 
-### Police push protesters off lawn | June 27th
+### Police push protesters off lawn | 2020-06-27
 
 Protesters gathered in the parking lot of a Florissant police station. Officers declared the assembly unlawful and began to push protesters from the lawn into the parking lot. Officers used shields & batons to strike and shove protesters. Numerous protesters were arrested. Footage shows one arrested protester hurled violently to the ground. Footage also shows police targeting individuals taking photos and video on the side of the protests; these individuals were pushed back among the protesters as well. Additionally, multiple witnesses state protesters with megaphones were targeted.
 
@@ -214,7 +214,7 @@ geolocation: 38.7984162, -90.3194466
 * https://twitter.com/NassimBnchabane/status/1277056390314541056
 
 
-### Police shove, pepper spray, and arrest protesters | July 5th
+### Police shove, pepper spray, and arrest protesters | 2020-07-05
 
 Footage shows police using shields and batons to shove protesters. Protesters attempting to flee are pepper sprayed. At least one protester is tackled to the ground and arrested. Police continue pushing protesters out of the precinct and into the street. More arrests are made and more pepper spray is deployed.
 
@@ -231,7 +231,7 @@ geolocation: 38.7984162, -90.3194466
 * https://twitter.com/Ohun_Ashe/status/1280150603839295490
 
 
-### Police shoot at protesters in designated protest area | July 6th
+### Police shoot at protesters in designated protest area | 2020-07-06
 
 Police created a designated protest zone for protesters. Protesters allegedly stepped outside the protest zone, so the protest was deemed an unlawful assembly. However, protesters state that police continued to fire at them after they returned to the protest zone.
 

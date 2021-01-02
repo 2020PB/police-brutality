@@ -1,6 +1,6 @@
 ## Chattanooga
 
-### Sheriffs tear gas crowd after accidental vandalism | May 31st
+### Sheriffs tear gas crowd after accidental vandalism | 2020-05-31
 
 Footage from the first link shows two protesters attempting to remove a sign strung between two lampposts on the County Courthouse mezzanine. The lampposts fall over during this process. Then at 00:40, officers rush out of the building, seizing protesters.
 
@@ -29,7 +29,7 @@ geolocation: 35.0494539, -85.3064104
 
 ## Memphis
 
-### Police swarm a woman without provocation | May 31st
+### Police swarm a woman without provocation | 2020-05-31
 
 A group of police officers targeted and swarmed a woman at Beale and Main Streets and pushed her to the ground, using excessive force.
 
@@ -46,7 +46,7 @@ geolocation: 35.1403161, -90.0547568
 
 ## Murfreesboro
 
-### Police tear gas peaceful protesters | May 31st
+### Police tear gas peaceful protesters | 2020-05-31
 
 Police fire tear gas at a small group of peaceful protesters by the entrance to MTSU in Murfree. Police claim protesters were blocking traffic, which additional footage supports. However, the video in question shows continual deployment of tear gas after protesters moved off the road.
 
@@ -65,7 +65,7 @@ geolocation: 35.8482336, -86.3535392
 
 ## Nashville
 
-### Police confiscate protester supplies | June 23rd
+### Police confiscate protester supplies | 2020-06-23
 
 Police shut down a protester station on Capitol Hill in Nashville, confiscating food, water, medical supplies, personal belongings and signs. Caption states that police shoved protesters trying to keep hold of their belongings.
 
@@ -81,7 +81,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1275539159030140929
 
 
-### Police confiscate protester supplies | June 25th
+### Police confiscate protester supplies | 2020-06-25
 
 In an early morning raid, Nashville police confiscated water, food and other supplies shared among protesters. In addition, officers harassed resting protesters, threatening to take their belongings and arrest them.
 
@@ -97,7 +97,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1276139027612291073
 
 
-### Police target activist leader | June 26th
+### Police target activist leader | 2020-06-26
 
 Justin Jones, a prominent activist in Nashville, was arrested on June 26th for taking a step too far on public property. Officers states at that point he was considered trespassing.
 
@@ -119,7 +119,7 @@ geolocation: 36.1650698, -86.7836512
 * https://imgur.com/a/ULAxpXi
 
 
-### Police arrest protesters on questionable charges, harm protesters with zip ties | June 29th
+### Police arrest protesters on questionable charges, harm protesters with zip ties | 2020-06-29
 
 Justin Jones, a prominent activist in Nashville, states that protesters were arrested around 6:30 AM on June 29th and charged with "camping on state property." Protesters had no intention of camping.
 
@@ -137,7 +137,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1277694340534546433
 
 
-### Police drag protesters down Capitol steps | July 4th
+### Police drag protesters down Capitol steps | 2020-07-04
 
 In footage provided by a prominent Nashville activist, state troopers drag protesters down the steps of the Capitol building. Many troopers can be seen kneeling on protesters, both on the flat pavement and on the steps.
 
@@ -152,7 +152,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1280211300082122758
 
 
-### Protesters shoved down stairs and arrested | July 31st
+### Protesters shoved down stairs and arrested | 2020-07-31
 
 After being ordered to leave Capitol Hill Plaza, protesters leaving the plaza were shoved down stairs and subsequently arrested.
 

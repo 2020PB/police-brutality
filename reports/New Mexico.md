@@ -1,6 +1,6 @@
 ## Albuquerque
 
-### Student journalist struck by ricocheting foam bullet | June 1st
+### Student journalist struck by ricocheting foam bullet | 2020-06-01
 
 Police deployed tear gas and foam bullets against protesters. One student journalist was struck by a ricocheting foam bullet.
 

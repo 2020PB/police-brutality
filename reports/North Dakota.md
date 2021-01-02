@@ -1,6 +1,6 @@
 ## Fargo
 
-### Fargo deputy police chief instigates unrest during protest | June 1st
+### Fargo deputy police chief instigates unrest during protest | 2020-06-01
 
 In an email sent to the Fargo PD, the deputy chief of police, Todd Osmundson, apologized for instigating unrest during George Floyd protests. He admits to carrying alcoholic containers and to cursing at police officers.
 
@@ -19,7 +19,7 @@ geolocation: 46.8782517, -96.7850301
 * https://www.grandforksherald.com/opinion/6520779-Port-Fargo-Deputy-Chief-sends-apology-email-after-he-was-seen-at-George-Floyd-protest-with-a-beer-can-cursing-at-law-enforcement
 
 
-### Police using selective enforcement on black individuals | June 3rd
+### Police using selective enforcement on black individuals | 2020-06-03
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
 
