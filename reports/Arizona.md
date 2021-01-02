@@ -101,11 +101,11 @@ geolocation: 33.4575409, -112.0642474
 
 A protester was shot by police with a bean bag round at a protest on May 31st outside the Phoenix police headquarters. The bean bag fractured the radial bone in his forearm. He is one of several plaintiffs alleging police violence in a suit against the department. Another plaintiff states that police shot her car with less lethal rounds, and a third states that police cornered them against a wall and shot them with rubber bullets.
 
-tags: protester, shoot, less-lethal, bean-bag, rubber-bullet
+tags: bean-bag, less-lethal, protester, rubber-bullet, shoot
 
 id: az-phoenix-6
 
-geolocation: 33.4487123,-112.0818697
+geolocation: 33.4487123, -112.0818697
 
 **Links**
 
