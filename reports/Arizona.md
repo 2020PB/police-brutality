@@ -97,6 +97,21 @@ geolocation: 33.4575409, -112.0642474
 * [MSN Report with HiRes Photos](https://www.msn.com/en-us/news/crime/phoenix-crowds-protest-deaths-of-george-floyd-dion-johnson/ss-BB14SxJ4?parent-title=more-than-200-arrested-by-phoenix-police-during-protests-on-sunday-night&parent-ns=ar&parent-content-id=BB14Taoq&fullscreen=true#image=BB14SxJ4|9)
 
 
+### Protesters bring suit against police for injuries sustained at protests | 2020-05-31
+
+A protester was shot by police with a bean bag round at a protest on May 31st outside the Phoenix police headquarters. The bean bag fractured the radial bone in his forearm. He is one of several plaintiffs alleging police violence in a suit against the department. Another plaintiff states that police shot her car with less lethal rounds, and a third states that police cornered them against a wall and shot them with rubber bullets.
+
+tags: bean-bag, less-lethal, protester, rubber-bullet, shoot
+
+id: az-phoenix-6
+
+geolocation: 33.4487123, -112.0818697
+
+**Links**
+
+* https://www.phoenixnewtimes.com/news/floyd-protests-lawsuits-filed-over-phoenix-cops-crackdown-broken-arm-11477443
+
+
 ### Protests at Trump rally met with pepper spray | 2020-06-23
 
 Protesters gathered on the sidewalk and on a shut down street outside a Trump rally at Dream City church in Phoenix, Arizona.
