@@ -7280,11 +7280,11 @@ Leading up to this exchange, protesters had thrown paint, fireworks and other sm
 
 An independent photographer was at one point struck in the foot with a tear gas canister, and another journalist was shoved to the ground.
 
-tags: protester, journalist, push, shove, arrest, tear-gas, tear-gas-canister, less-lethal, pepper-spray, spray, shoot, pepper-ball, projectile
+tags: arrest, journalist, less-lethal, pepper-ball, pepper-spray, projectile, protester, push, shoot, shove, spray, tear-gas, tear-gas-canister
 
 id: or-portland-412
 
-geolocation: 45.5152115,-122.6791777
+geolocation: 45.5152115, -122.6791777
 
 **Links**
 
