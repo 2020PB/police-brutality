@@ -1,14 +1,14 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-12-25T03:40:58.204878+00:00
+UPDATED AT: 2021-01-02T14:27:38.778838+00:00
 
 
 # Alabama
 
 ## Birmingham
 
-### Police arrest two reporters | June 3
+### Police arrest two reporters | 2020-06-03
 
 Police arrested two AL.com journalists covering a protest at 7:35 on June 3. There was a 7PM curfew in effect, which exempted journalists who were carrying a letter from their media outlet; both arrested journalists were carrying such a letter and had press lanyards. Both journalists were released shortly thereafter; while in custody, they were photographed. Birmingham police later said that the arrest was made for the journalists' safety.
 
@@ -25,7 +25,7 @@ geolocation: 33.520453, -86.8109093
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
 
 
-### Police arrest journalist Michael Harriot | June 4
+### Police arrest journalist Michael Harriot | 2020-06-04
 
 Journalist Michael Harriot was covering a protest with a group of journalists; he was the only black journalist present. He left his press pass in the car for fear of being targeted by protesters, but he says he had a digital press pass on his phone.
 
@@ -49,7 +49,7 @@ geolocation: 33.520453, -86.8109093
 
 ## Hoover
 
-### Police make a series of violent arrests | May 31st
+### Police make a series of violent arrests | 2020-05-31
 
 During a peaceful protest, police corral protesters onto a hill. Officers snatch protesters at the edges and throw them to the ground to make arrests.
 
@@ -68,7 +68,7 @@ geolocation: 33.385529, -86.805699
 
 ## Huntsville
 
-### Protester falls and is stepped on | June 1st
+### Protester falls and is stepped on | 2020-06-01
 
 During an altercation with protesters, a woman falls to the ground and other protesters are pushed away after trying to help her, while an officer steps on and trips over the woman.
 
@@ -83,7 +83,7 @@ geolocation: 34.7298523, -86.5854804
 * https://twitter.com/ETfonehome97/status/1267657232411435008
 
 
-### Police officer pepper sprays protesters for no reason | June 3rd
+### Police officer pepper sprays protesters for no reason | 2020-06-03
 
 Police officer exits his vehicle and begins pepper spraying protesters for no apparent reason.
 
@@ -98,7 +98,7 @@ geolocation: 34.7302616, -86.5858014
 * https://twitter.com/bitchthot420/status/1268350308398268416
 
 
-### Police tear gas reporters | June 3rd
+### Police tear gas reporters | 2020-06-03
 
 Police use tear gas on reporters and protesters, who are then initially blocked from leaving the area by other officers.
 
@@ -113,7 +113,7 @@ geolocation: 34.7302616, -86.5858014
 * https://twitter.com/greg_doucette/status/1268397070563414016
 
 
-### Police preemptively tear gas peaceful protesters | June 3rd
+### Police preemptively tear gas peaceful protesters | 2020-06-03
 
 A Huntsville PD Lieutenant stated that they used tear gas on protesters before violence occurred, adding that "they weren't going to roll the dice".
 
@@ -134,7 +134,7 @@ geolocation: 34.7302616, -86.5858014
 * https://twitter.com/taylorcanerday_/status/1268405230338813952
 
 
-### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
+### Police fire rubber bullets on dispersing crowd | (Believed to be) 2020-06-05
 
 After disperse order is given, protesters comply and begin to back away from the police line. Police fire rubber bullets at dispersing protesters and harrass woman (filmer) who has been shot in the leg and is unable to move quickly.
 
@@ -157,7 +157,7 @@ geolocation: 34.7302616, -86.5858014
 
 ## Ajo
 
-### Indigenous protesters shot and tear gassed | October 12th
+### Indigenous protesters shot and tear gassed | 2020-10-12
 
 Members of the O'odham Anti Border Collective staged a protest near Border Patrol checkpoint SR-85 in Arizona on Indigenous People's Day (October 12th). Protesters blocking the street were met with impact munitions (allegedly rubber bullets) and tear gas fired by officers from the Arizona Department of Public Safety.
 
@@ -183,7 +183,7 @@ geolocation: 32.2739671, -112.7419162
 
 ## Phoenix
 
-### Officer tackles and arrests person walking home from protest | May 30th
+### Officer tackles and arrests person walking home from protest | 2020-05-30
 
 An officer tackles a protester who is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice; the protester responds "I'm not". The officer yells "put your hands behind your head" several times, and the protester responds "I'm trying".
 
@@ -198,7 +198,7 @@ geolocation: 33.4503981, -112.0756744
 * https://twitter.com/PhxProtestLIVE/status/1268390978571825156?s=20
 
 
-### Officers arrest dozens of people, fail to exhibit probable cause | May 30th
+### Officers arrest dozens of people, fail to exhibit probable cause | 2020-05-30
 
 Officers arrested 114 people on Saturday, May 30, most for rioting (a low-level felony). The probable cause statements submitted to the court by police justifying the arrests of many defendants were identical from one defendant to another, and alleged only that a crowd of people had engaged in criminal activity, without alleging that the particular defendant arrested had engaged in criminal activity. One defendant, a DACA recipient, was transferred to ICE custody despite a judge finding that her arrest lacked probable cause. She has since been released.
 
@@ -214,7 +214,7 @@ geolocation: 33.4487285, -112.0795091
 * [Video of the night's protests -- mostly peaceful until police disperse the crowd with flash bangs and tear gas around 1:08:40; shortly afterward the assembly turns violent.](https://www.youtube.com/watch?v=ecwUweozAXE&feature=emb_title)
 
 
-### Photographer injured by rubber bullets | May 30th
+### Photographer injured by rubber bullets | 2020-05-30
 
 A news article describes a photographer in full view of an ABC news crew as he was shot repeatedly by rubber bullets. Protesters took him to police to get him medical care. Police struggled to get an ambulance, so they took him to the fire station, who then brough him to the hospital.
 
@@ -232,7 +232,7 @@ geolocation: 33.4492745, -112.0842197
 * https://pressfreedomtracker.us/all-incidents/head-wound-bruised-lung-and-concussion-photographer-covering-phoenix-protests/
 
 
-### Officer arrests a woman on the sidewalk outside her home for curfew violation | May 31st
+### Officer arrests a woman on the sidewalk outside her home for curfew violation | 2020-05-31
 
 On May 31, police forced protesters who were out after curfew into the Garfield neighborhood using tear gas and other means. Police then began arresting protesters in the Garfield neighborhood en masse. Officers approached Elizabeth Lemay, who was not part of the protests and was standing on the sidewalk outside her home. They tried to arrest her and tackled her in the process. She told the officers "I live here" and "I'm allowed to be on my own property;" the officer responded (in a cheerful tone of voice) "You're on the sidewalk. You guys think you know. You think you know everything."
 
@@ -254,7 +254,7 @@ geolocation: 33.4575409, -112.0642474
 * [MSN Report with HiRes Photos](https://www.msn.com/en-us/news/crime/phoenix-crowds-protest-deaths-of-george-floyd-dion-johnson/ss-BB14SxJ4?parent-title=more-than-200-arrested-by-phoenix-police-during-protests-on-sunday-night&parent-ns=ar&parent-content-id=BB14Taoq&fullscreen=true#image=BB14SxJ4|9)
 
 
-### Protests at Trump rally met with pepper spray | June 23rd
+### Protests at Trump rally met with pepper spray | 2020-06-23
 
 Protesters gathered on the sidewalk and on a shut down street outside a Trump rally at Dream City church in Phoenix, Arizona.
 
@@ -279,7 +279,7 @@ geolocation: 33.6099164, -112.0342738
 
 ## Tempe
 
-### Police pepper spray protesters on sidewalk | June 27th
+### Police pepper spray protesters on sidewalk | 2020-06-27
 
 On June 27th, protesters gathered on the sidewalk for a 'chalk walk' protest.
 
@@ -304,7 +304,7 @@ geolocation: 33.4308852, -111.9092091
 * https://www.azmirror.com/2020/06/28/tempe-pd-pepper-sprayed-demonstrators-at-saturday-chalk-walk-protest/
 
 
-### Police charge and arrest protesters | July 27th
+### Police charge and arrest protesters | 2020-07-27
 
 Footage shows police charging protesters in the street without warning and tackling an individual with a skateboard to arrest them. Additional footage shows police using pepper spray to clear the area. 7 protesters were arrested. One officer was allegedly injured when a projectile lacerated their face.
 
@@ -327,7 +327,7 @@ geolocation: 33.4339886, -111.928524
 
 ## Bentonville
 
-### Law enforcement tear-gas a crowd chanting “we want peace” right after exiting the building. | June 1st
+### Law enforcement tear-gas a crowd chanting “we want peace” right after exiting the building. | 2020-06-01
 
 A crowd gathered on the Bentonville Square to protest. Around 9 PM, law enforcement gassed a crowd chanting “we want peace.” Local news says some people were throwing water bottles and firecrackers. Police also claim rocks were thrown. Police claim that at least one police vehicle was damaged. Local news reports vary -- some reports have protesters "kicking" a police vehicle; some televised reports have protesters "damaging" a police vehicle; most written articles merely report that police say protesters damaged a police vehicle.
 
@@ -355,7 +355,7 @@ geolocation: 36.3726466, -94.2106367
 
 ## Little Rock
 
-### Protesters tear gas protesters | May 30th
+### Protesters tear gas protesters | 2020-05-30
 
 Protesters gathered on courthouse property during a May 30th protest. Some graffiti can be seen on the courthouse walls. Police deployed tear gas against protesters to push them off the courthouse lawn and into the street, after warning protesters they were not allowed to be on the courthouse lawn. Police continued to deploy tear gas as protesters moved towards Interstate 630, where they blocked the road for some time
 
@@ -370,7 +370,7 @@ geolocation: 34.7443623, -92.2879971
 * https://www.youtube.com/watch?v=p7z-u_a8qo0
 
 
-### Peaceful protesters kneeling are shot with an explosive projectile. | May 31st
+### Peaceful protesters kneeling are shot with an explosive projectile. | 2020-05-31
 
 Peaceful protesters kneeling in the street are shot with an explosive projectile.
 
@@ -395,7 +395,7 @@ geolocation: 34.746483, -92.2880644
 
 ## Beverly Hills
 
-### Beverly Hills police use LRAD (sound cannon) at protest | June 26th
+### Beverly Hills police use LRAD (sound cannon) at protest | 2020-06-26
 
 During a peaceful protest in Beverly Hills, police used the dispersal function of a LRAD (or sound cannon) on protesters. Footage is pointed at the ground, but audio shows individuals arguing. The LRAD's characteristic dispersal signal is used twice, each time without warning and for about 30 seconds. In addition, a photojournalist at the scene confirms the LRAD was used.
 
@@ -414,7 +414,7 @@ geolocation: 34.0768046, -118.4025837
 * https://www.canyon-news.com/dozens-arrested-after-beverly-hills-protest/121082
 
 
-### Officer shoves then pepper sprays protester | August 29th
+### Officer shoves then pepper sprays protester | 2020-08-29
 
 A protester in the street argues with a police officer. The officer shoves the protester. The protester then says, "Don't fucking touch me." A second officer then pepper sprays the protester.
 
@@ -429,7 +429,7 @@ geolocation: 34.0708678, -118.4045292
 * https://twitter.com/SamBraslow/status/1299848702748536834
 
 
-### Beverly Hills police strike protesters with batons | October 31st
+### Beverly Hills police strike protesters with batons | 2020-10-31
 
 Footage from a pair of dueling protests in Beverly Hills shows police slashing at protesters with batons.
 
@@ -449,7 +449,7 @@ geolocation: 34.0716265, -118.4036599
 
 ## Clayton
 
-### Law enforcement gas teenagers at a park | June 2nd
+### Law enforcement gas teenagers at a park | 2020-06-02
 
 Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
 
@@ -467,7 +467,7 @@ geolocation: 37.9420027, -121.936336
 
 ## Compton
 
-### Police beat person on the ground | May 31st
+### Police beat person on the ground | 2020-05-31
 
 Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person. The beating continues until a woman yells "why are y'all beating him?"
 
@@ -485,7 +485,7 @@ geolocation: 33.9038142, -118.2141026
 * [Street View](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
 
 
-### Sheriff's Deputies fire less-lethal rounds, tear gas at protesters | June 21st
+### Sheriff's Deputies fire less-lethal rounds, tear gas at protesters | 2020-06-21
 
 Several thousand protesters marched on Father's Day from the site of Los Angeles Sheriff's Department shooting of Andrés Guardado on June 18 to the Los Angeles Sheriff's station in Compton. Andrés' father addressed the crowd in English and in Spanish. Deputies in riot gear pointed guns at protesters who chanted "put down your guns." A Sheriff Department helicopter flew overhead urging local residents who had joined the march to leave and go home so that they would not be tear-gassed when outside agitators were dealt with. Black protesters and protest leaders shared hugs with Guardado's family to show solidarity between the Black and Latino communities. As a few mothers of children slain by LAPD or LASD told their stories, a group of protesters split off to confront a second band of Deputies in riot gear. One protester yelled "F*** the police!" The deputies opened fire with non-lethal rounds, tear gas, and flash bangs.
 
@@ -517,7 +517,7 @@ geolocation: 33.894415, -118.2242897
 
 ## Costa Mesa
 
-### Law enforcement concealing badge | June 3rd
+### Law enforcement concealing badge | 2020-06-03
 
 An Orange County Sheriff's officer was spotted without a badge number at a protest outside the Costa Mesa Police Department. In addition, the officer wore several personal patches, one of which is associated with the "Three Percenters," an extremist right-wing militia.
 
@@ -536,7 +536,7 @@ geolocation: 33.6637315, -117.9048468
 
 ## Gustine
 
-### Protesters attacked; police shake hands of attackers; tell protesters to wait in patrol cars | June 28th
+### Protesters attacked; police shake hands of attackers; tell protesters to wait in patrol cars | 2020-06-28
 
 About twenty anti-BLM protesters (holding a thin blue line flag and affiliated with California Valley Patriots (CVP)) were holding a rally in Gustine California (at the corner of Grove Avenue and 5th Street). A group of around 3 young people decided to hold an impromptu counter-protest, and parked across the street from the CVP protesters. CVP protesters came across the street and began shouting at the counter-protesters. Some time later, video shows one counter-protester on the ground, on the CVP proesters' side of the street, being beaten by CVP protesters. Another counter-protester is trying to intervene but being physically restrained by CVP protesters; a third is filming the incident as CVP protesters heckle her. Photos taken after the incident show at least two of the protesters badly beaten. Each side says the other started the altercation.
 
@@ -565,7 +565,7 @@ geolocation: 37.2535159, -120.998706
 
 ## Hollywood
 
-### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
+### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | 2020-06-01
 
 Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”, seemingly indiscriminately making arrests even as people are walking and it still looks to be light outside.
 
@@ -580,7 +580,7 @@ geolocation: 34.1016738, -118.3242721
 * https://twitter.com/AdoreDelano/status/1267688320735166465
 
 
-### Police fire into a crowd of peaceful protesters at short range | June 2nd
+### Police fire into a crowd of peaceful protesters at short range | 2020-06-02
 
 Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
 
@@ -599,7 +599,7 @@ geolocation: 34.1016048, -118.3266439
 
 ## Huntington Beach
 
-### Police fire at protesters on ground | June 1st
+### Police fire at protesters on ground | 2020-06-01
 
 Protesters laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protesters began standing, police fired projectiles at protesters. Police continued to fire off and on for at least one minute while protesters obeyed order to retreat.
 
@@ -616,7 +616,7 @@ geolocation: 33.658110, -118.0035402
 
 ## Lakewood
 
-### Police fire projectiles at protesters and discharge teargas | June 5th
+### Police fire projectiles at protesters and discharge teargas | 2020-06-05
 
 In Lakewood, police fire projectiles at protesters and discharge teargas. The protest began on Clark Avenue and marched to Lakewood City Hall.
 
@@ -635,7 +635,7 @@ geolocation: 33.8681536, -118.2024624
 
 ## La Mesa
 
-### Law enforcement shoot and throw tear gas at protesters | May 30th
+### Law enforcement shoot and throw tear gas at protesters | 2020-05-30
 
 Law enforcement stand off with protesters. Seemingly without provocation they start gassing and shooting at the protesters.
 
@@ -650,7 +650,7 @@ geolocation: 32.7668143, -117.0229441
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face with bean bag | May 31st
+### Police shoot woman in the face with bean bag | 2020-05-31
 
 La Mesa PD shoot a woman in the face with a bean bag round.
 
@@ -670,7 +670,7 @@ geolocation: 32.7668143, -117.0229441
 
 ## Long Beach
 
-### Reporter shot in neck by rubber bullet | May 31st
+### Reporter shot in neck by rubber bullet | 2020-05-31
 
 Photo shows large bruise the reporter got from a rubber bullet
 
@@ -686,7 +686,7 @@ geolocation: 33.7705086, -118.194586
 * https://twitter.com/AGuzmanLopez/status/1267269781805137920
 
 
-### Woman struck in finger by projectile; police quell crowd with tear gas | June 1st
+### Woman struck in finger by projectile; police quell crowd with tear gas | 2020-06-01
 
 A crowd of protesters is chanting peacefully. A shot is fired offscreen and a woman screams. Footage shows the woman clutching her bleeding hand. The caption states her finger was "cut off." The crowd becomes agitated and police respond with tear gas.
 
@@ -705,7 +705,7 @@ geolocation: 33.7692847, -118.1924137
 
 ## Los Angeles
 
-### Police use tear gas and riot rounds against protesters | May 29th
+### Police use tear gas and riot rounds against protesters | 2020-05-29
 
 In footage taken by a bystander filming from her apartment, police advance down a street near a Downtown LA shopping center. Protesters retreat from police. Police continuously fire less-lethal rounds and chemical agents at protesters. Towards the end of the footage, a single firework is thrown at police by protesters.
 
@@ -721,7 +721,7 @@ geolocation: 34.0499617, -118.2576642
 * https://www.reddit.com/r/LosAngeles/comments/gti4eg/la_riots_5292020_police_line_advances_with_their/
 
 
-### Protester shot in head | (believed to be) May 30th
+### Protester shot in head | (Believed to be) 2020-05-30
 
 Footage shows a protester sitting on the curb. They are bleeding from a wound to the head. Other protesters are attempting to treat them. Greg Doucette says that, per the journalist who submitted the video, police shot first, then gave the dispersal order.
 
@@ -741,7 +741,7 @@ geolocation: 34.071154, -118.3583053
 * [Street View](https://www.google.com/maps/@34.071154,-118.3583053,3a,60y,332.25h,94.01t/data=!3m6!1e1!3m4!1sBMaXVOuAN0T9coL-PijVSA!2e0!7i16384!8i8192)
 
 
-### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
+### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | 2020-05-30
 
 An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
@@ -756,7 +756,7 @@ geolocation: 34.0716789, -118.3620601
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
 
-### Los Angeles law enforcement beat protesters with batons | May 30th
+### Los Angeles law enforcement beat protesters with batons | 2020-05-30
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
 
@@ -776,7 +776,7 @@ geolocation: 34.0716608, -118.3627601
 * [LAPD Body cam footage](https://www.youtube.com/embed/hwZMZvlHEI4)
 
 
-### ABC7 reporters are hit by tear gas | May 30th
+### ABC7 reporters are hit by tear gas | 2020-05-30
 
 ABC7 reporters are hit by a cloud of tear gas after protesters were gassed up the street by Los Angeles law enforcement, as reported in this news coverage.
 
@@ -791,7 +791,7 @@ geolocation: 34.0718145, -118.4037679
 * https://twitter.com/GMA/status/1266934049098121216
 
 
-### Police beat protesters with batons | May 30th
+### Police beat protesters with batons | 2020-05-30
 
 In the video, protesters can be seen kneeling. Police swing batons at several protesters and a journalist pressed against the side of a building.
 
@@ -808,7 +808,7 @@ geolocation: 34.0716789, -118.3620601
 * https://twitter.com/ShotOn35mm/status/1267158399772491777
 
 
-### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
+### Los Angeles law enforcement beat protesters with batons while they have their hands up | 2020-05-30
 
 LAPD swinging batons and shooting projectiles at people simply standing there with their hands up.
 
@@ -825,7 +825,7 @@ geolocation: 34.0718292, -118.3632923
 * https://twitter.com/greg_doucette/status/1267605209745887233
 
 
-### Los Angeles law enforcement hit protester in the face with rubber bullet | May 30th
+### Los Angeles law enforcement hit protester in the face with rubber bullet | 2020-05-30
 
 Activist and former White House and congressional staffer Deon Jones was hit in the face with a rubber bullet, fracturing two bones and nearly costing him one eye. Jones also alleges assorted other misconduct, reminiscent of incidents CA-LosAngeles-19, CA-LosAngeles32, and CA-SantaMonica-2
 
@@ -844,7 +844,7 @@ geolocation: 34.0762003, -118.3584538
 * https://www.foxla.com/news/i-felt-like-i-was-on-the-timeline-to-my-death-local-man-speaks-out-after-weekend-protest-ends-in-violence
 
 
-### Riot police fire tear gas at peaceful protest, then use mace to corral protesters | May 30th
+### Riot police fire tear gas at peaceful protest, then use mace to corral protesters | 2020-05-30
 
 Footage shows a peaceful protest opposite a police line. Around 50 seconds, police fire tear gas behind protesters, trapping them between tear gas and the police line. Police tell protesters to move, but protesters insist they cannot leave because of the gas behind them. Around 1:40, police then pepper spray protesters, forcing them to retreat into the tear gas.
 
@@ -859,7 +859,7 @@ geolocation: 34.0760872, -118.3542065
 * https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
 
 
-### Protester shot in the head by rubber bullet | May 30th
+### Protester shot in the head by rubber bullet | 2020-05-30
 
 Images show a forehead injury received by a protester who had been hiding behind a dumpster at 3rd st and Fairfax Avenue.
 
@@ -878,7 +878,7 @@ geolocation: 34.0716005, -118.361296
 * https://www.latimes.com/california/story/2020-06-02/lapd-will-limit-use-of-rubber-bullets-on-protesters-garcetti-says
 
 
-### Police fire at bystander filming from apartment | May 30th
+### Police fire at bystander filming from apartment | 2020-05-30
 
 Early in the morning on May 30th, a streamer is filming arrests from her apartment. She captures police pointing riot guns at another apartment in her building. Police fire one shot.
 
@@ -897,7 +897,7 @@ geolocation: 34.0447132, -118.2521683
 * https://twitter.com/tracemeYo/status/1266633586322497538
 
 
-### Police fire rubber bullets at small group of peaceful protesters | May 30th
+### Police fire rubber bullets at small group of peaceful protesters | 2020-05-30
 
 Around 2AM on May 30th, a bystander films police from his apartment. Police fire projectiles - the filmer claims, based on a livestreamer's feed, that they are rubber bullets - at a small group of protesters from across an intersection. Police then take the intersection and march down the street, continuing to fire at protesters. At one point, another bystander asks the filmer who the police are shooting at. After the filmer points out the protesters, the other bystander states, "There are like 4 of them."
 
@@ -913,7 +913,7 @@ geolocation: 34.0450101, -118.249553
 * https://www.reddit.com/r/LosAngeles/comments/gtjd0p/rubber_bullets_at_2am_dtla/
 
 
-### Journalist arrested during protest | May 30th
+### Journalist arrested during protest | 2020-05-30
 
 A journalist photographing protests was detained and zip tied by police on Figueroa Street and Olympic Boulevard when he was caught in a rush of fleeing protesters. He was detained for 20 minutes before being released. He states he was not carrying a press badge at the time, but did have a camera, as is visible in the picture. He later posted that there is no mandate requiring members of the press to carry their badges at all times.
 
@@ -932,7 +932,7 @@ geolocation: 34.0449992, -118.2661443
 * https://twitter.com/aaron_con_choco/status/1267185933293547520
 
 
-### Police fire rubber/pepper bullets at peaceful protesters | May 31st
+### Police fire rubber/pepper bullets at peaceful protesters | 2020-05-31
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protesters, scattering them.
 
@@ -947,7 +947,7 @@ geolocation: 34.0709188, -118.3566185
 * https://twitter.com/MatthewSantoro/status/1266916709304201216
 
 
-### Police officer puts his knee on a protesters neck, is pulled off | May 31st
+### Police officer puts his knee on a protesters neck, is pulled off | 2020-05-31
 
 A police officer has his knee on a woman's neck, who already had 3 police officers on her. A different officer had to pull him away.
 
@@ -962,7 +962,7 @@ geolocation: 34.0702948, -118.3527073
 * https://www.reddit.com/r/PublicFreakout/comments/gturig/cop_has_his_knee_on_a_womans_neck_even_though/
 
 
-### Police shoot rubber bullets at protesters | May 31st
+### Police shoot rubber bullets at protesters | 2020-05-31
 
 After a driver forces their way through a crowd, the police start shooting rubber bullets at the people nearby.
 
@@ -977,7 +977,7 @@ geolocation: 34.0717309, -118.3619933
 * https://twitter.com/SUNDAYLOVERBOY/status/1266890947888996352
 
 
-### Man shot in the head with deterrent rounds, is sent to hospital | May 31st
+### Man shot in the head with deterrent rounds, is sent to hospital | 2020-05-31
 
 Man receives a shot to head from what looks to be a large deterrent round, he claims police shot him and he now has internal bleeding in the head. The LAPD has released body cam footage confirming he was shot in the head with a bean bag round while his hands were up. The LAPD says it is investigating the incident.
 
@@ -994,7 +994,7 @@ geolocation: 34.0760754, -118.3552518
 * https://www.youtube.com/watch?v=msNyNyw0JUM
 
 
-### LAPD SUV drives into protesters, speeds away | May 31st
+### LAPD SUV drives into protesters, speeds away | 2020-05-31
 
 LAPD officer quickly drives his SUV into a crowd near Pershing Square, hitting what looks like two protesters, then throws it in reverse and speeds away
 
@@ -1015,7 +1015,7 @@ geolocation: 34.0487635, -118.2518526
 * https://www.tiktok.com/@youarelwl/video/6833135548887043334
 
 
-### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
+### Los Angeles law enforcement shoot at a man on his own balcony | 2020-05-31
 
 Los Angeles police fire less lethal projectiles at several residents of the Ava and Wakaba apartments in Little Tokyo. All of the residents were filming quietly from their balconies.
 
@@ -1033,7 +1033,7 @@ geolocation: 34.0498992, -118.2426862
 * https://twitter.com/o_morimori_/status/1267335590510424064
 
 
-### Police shoot crowd of unarmed protesters with rubber bullets | (Believed to be) May 31st
+### Police shoot crowd of unarmed protesters with rubber bullets | (Believed to be) 2020-05-31
 
 A crowd of protesters chanting are shot with rubber bullets by a line of officers.
 
@@ -1048,7 +1048,7 @@ geolocation: 34.0761439, -118.3573996
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
 
-### Police beat kneeling protesters | (Believed to be) May 31st
+### Police beat kneeling protesters | (Believed to be) 2020-05-31
 
 Protesters kneeling in the street are approached by a line of police in riot gear. Police beat them with their shields, shove them, and appear to be arresting them when a riot round is fired and the camera moves.
 
@@ -1063,7 +1063,7 @@ geolocation: 34.0760986, -118.3566148
 * https://twitter.com/jkishore/status/1267216022634999808
 
 
-### Police shoot rubber bullets at two peaceful protesters | June 1st
+### Police shoot rubber bullets at two peaceful protesters | 2020-06-01
 
 Two peaceful protesters are standing in an empty street.  Dozens of police officers move forward and the protesters are shot by rubber bullets fired from officers.
 
@@ -1080,7 +1080,7 @@ geolocation: 34.0488192, -118.2504901
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
-### Business owner flags down police for protection from looters; she is arrested | June 1st
+### Business owner flags down police for protection from looters; she is arrested | 2020-06-01
 
 Alleged looters and the owner and employees at a liquor store stood off outside store. A crowd had assembled to help the employees. Seeing a police cruiser passing by, one black employee flagged down the officers to request help.
 
@@ -1098,7 +1098,7 @@ geolocation: 34.2046129, -118.4511648
 * https://twitter.com/bubbaprog/status/1267641851215036416
 
 
-### Police arrest protesters en masse and detain them in poor conditions | June 1st
+### Police arrest protesters en masse and detain them in poor conditions | 2020-06-01
 
 Police arrested protesters en masse in downtown Los Angeles. Protesters hands were zip tied excessively tightly behind their backs and they were loaded onto buses and driven around the city. Some were taken to a temporary field jail at UCLA's Jackie Robinson stadium; UCLA claims it "failed to stop" LAPD from using the stadium as a "staging area," but was not told about the field jail until after the fact. Arestees were detained for long periods, still in excessively tight zip ties. Social distancing procedures were not observed.
 
@@ -1128,7 +1128,7 @@ geolocation: 34.0593522, -118.4614724
 * https://www.tiktok.com/@manicxmel/video/6833292986214894853
 
 
-### LAPD destroy car to drag out occupants | June 2nd
+### LAPD destroy car to drag out occupants | 2020-06-02
 
 LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
 
@@ -1144,7 +1144,7 @@ geolocation: 34.0908516, -118.3180258
 * https://www.nbclosangeles.com/news/local/protests-george-floyd-los-angeles-curfew-downtown-la-venice/2373095/
 
 
-### Police arrest protesters en masse and detain them in poor conditions | June 2nd
+### Police arrest protesters en masse and detain them in poor conditions | 2020-06-02
 
 Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city.
 
@@ -1167,7 +1167,7 @@ geolocation: 34.0591193, -118.3227323
 * https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
 
 
-### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
+### LAPD officers fire at passers by out of the window of a patrol car | 2020-06-02
 
 A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way.
 
@@ -1185,7 +1185,7 @@ geolocation: 34.0944075, -118.3385753
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 
-### Police shoot unarmed man in a wheelchair in the face | June 2nd
+### Police shoot unarmed man in a wheelchair in the face | 2020-06-02
 
 A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting less-than-lethal round at the man.
 
@@ -1206,7 +1206,7 @@ geolocation: 34.0487865, -118.2504023
 * https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
 
 
-### Police fire into backs of protesters | June 2nd
+### Police fire into backs of protesters | 2020-06-02
 
 A handful of protesters are seen walking away from police with their hands up. Police shoot at the protesters repeatedly for the duration of the video, about 40 seconds.
 
@@ -1221,7 +1221,7 @@ geolocation: 34.0944075, -118.3385753
 * https://twitter.com/MattMcGorry/status/1268455032032133122
 
 
-### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) June 2nd
+### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) 2020-06-02
 
 Footage shows police near a group of protesters. One officer walks across the line of protesters, shoving many of them with his baton. Another officer then shoves an individual in a wheelchair. A third officer then grabs the wheelchair and pushes that individual away, back behind the police line.
 
@@ -1241,7 +1241,7 @@ geolocation: 34.0689615, -118.3440646
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ca-losangeles-31.1.mp4)
 
 
-### Police shoot man in groin with rubber bullet | June 2nd
+### Police shoot man in groin with rubber bullet | 2020-06-02
 
 An officer rips a sign away from a protester then shoots him in the groin with a rubber bullet at close range. The protester suffered serious injuries to his testicles and was rushed to an emergency room.
 
@@ -1257,7 +1257,7 @@ geolocation: 34.1015944, -118.328136
 * https://www.latimes.com/california/story/2020-09-19/video-shows-lapd-officers-protesters-shoot-him-in-groin
 
 
-### Protester shows wound inflicted by less-lethal round | June 3rd
+### Protester shows wound inflicted by less-lethal round | 2020-06-03
 
 Footage from June 3rd shows a still of a wound on a protester's abdomen, inflicted by a less-lethal round. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use. Footage was taken in Downtown LA. While it is not clear exactly where the shot was fired, the protester states at one point that he was near the harbor freeway entrance in downtown LA.
 
@@ -1272,7 +1272,7 @@ geolocation: 34.049168, -118.2595779
 * https://www.instagram.com/p/CBBpSZPnyke/
 
 
-### Medic treats rubber bullet wound | June 8th
+### Medic treats rubber bullet wound | 2020-06-08
 
 Footage from June 8th shows a medic treating a wound on the thigh of a female protester. The bullet broke the skin and has caused major bruising in a circle around the point of contact. This is in the wake of a Mayoral ordinance for the LAPD to restrict their use of kinetic projectiles, particularly rubber bullets, and the injury is more consistent with direct, close range fire than proper use.
 
@@ -1289,7 +1289,7 @@ geolocation: 34.0838456, -118.3614283
 * https://www.instagram.com/p/CBKohCXnJld/
 
 
-### Police make violent arrests, including ripping a protester out of his wheelchair and inducing an asthma attack | July 15th
+### Police make violent arrests, including ripping a protester out of his wheelchair and inducing an asthma attack | 2020-07-15
 
 Footage shows a scuffle as police arrest protesters. A protester in a wheelchair pushes police away from him. Police then knock him backwards out of his chair. The man attempts to pull himself away. Police close in. The protester grabs the officer's baton, but multiple officers restrain him and take his wheelchair away. One officer drags the chair and appears to knock a wheel loose, which then falls off after the officer scuffles with another protester. The protester who was in the wheelchair passively resists by locking his arms while police arrest him. Body cam footage released by the LAPD shows the man in the wheelchair striking an officer in the face during a physical altercation between the protester and the officer. Notably, the LAPD footage fails to show the lead up to the protester in the wheelchair slapping the officer.
 
@@ -1317,7 +1317,7 @@ geolocation: 34.0509527, -118.2585966
 * https://www.instagram.com/p/CCxPb28hRdN/
 
 
-### Violent arrests after police initiate scuffle | July 25th
+### Violent arrests after police initiate scuffle | 2020-07-25
 
 Footage shows police approaching a protester in the street and shoving her to the ground, knocking the phone out of her hand. As police continue to shove the protester, another runs into frame and knocks an officer to the ground. More police then join to arrest the two protesters. Two other protesters come into frame, yelling at police. One is thrown to the ground and knelt on by an officer to arrest her. The other is shoved over a vertical ring used to lock bikes. She is then repeatedly shoved as she tries to stand and approach her fellow protester on the ground.
 
@@ -1333,7 +1333,7 @@ geolocation: 34.0530795, -118.2440239
 * https://ktla.com/news/local-news/hundreds-of-protesters-gather-in-downtown-l-a-as-some-march-onto-101-freeway/
 
 
-### Police officer fires riot gun at protester; other officers then fire as well | July 25th
+### Police officer fires riot gun at protester; other officers then fire as well | 2020-07-25
 
 LAPD stand-off with protesters during a Portland Solidarity march on 7/25. Officers advance towards protesters, who slowly back away. One officer fires a riot gun at protesters without apparent provocation and at a dangerously close range. Several officers then begin firing at protesters. Protesters throw small projectiles in response.
 
@@ -1348,7 +1348,7 @@ geolocation: 34.0535364, -118.2488016
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hzol2y/lapd_standoff_with_protesters_during_a_portland/
 
 
-### Woman recording peaceful protests shot by less lethals | July 25th
+### Woman recording peaceful protests shot by less lethals | 2020-07-25
 
 A woman who was recording protests was shot with less lethals by LAPD officers. She states that bystanders and peaceful protesters were struck.
 
@@ -1364,7 +1364,7 @@ geolocation: 34.0535364, -118.2488016
 * https://twitter.com/Jas20274433/status/1288141708484464641
 
 
-### Man filming arrests is thrown to the ground | July 31st
+### Man filming arrests is thrown to the ground | 2020-07-31
 
 A man filming protesters being arrested is told by officers conflicting places to stand. One officer then shoves him to the ground and tells him to back up.
 
@@ -1380,7 +1380,7 @@ geolocation: 34.2413537, -118.2675791
 * https://twitter.com/chadloder/status/1289395335211540481
 
 
-### Officers shove and shoot Black Lives Matter protesters | August 21st
+### Officers shove and shoot Black Lives Matter protesters | 2020-08-21
 
 At a dual protest between pro-Trump and Black Lives Matter protesters, BLM protesters entered the street and were confronted by police. This occurred after a member of the pro-Trump protest pepper sprayed BLM protesters.
 
@@ -1401,7 +1401,7 @@ geolocation: 34.2413537, -118.2675791
 * https://twitter.com/WallofVets/status/1297351314653896704
 
 
-### LA Sheriffs tear gas protesters | August 25th
+### LA Sheriffs tear gas protesters | 2020-08-25
 
 LA Sheriffs surround protesters and begin firing tear gas and impact munitions without warning. Protesters do not appear to be inciting violence or agitating in any way.
 
@@ -1418,7 +1418,7 @@ geolocation: 34.051824, -118.2461446
 * https://losangeles.cbslocal.com/2020/08/25/jacob-blake-protesters-clash-with-officers-outside-lapd-headquarters/
 
 
-### Officers trap protesters under bridge and shoot them | August 26th
+### Officers trap protesters under bridge and shoot them | 2020-08-26
 
 Protesters in LA were trapped by police in the 3rd Street Tunnel. Police demanded that protesters relinquish their shields. As protesters began to do so, police fired on the crowd. Police then held protesters at the scene, allegedly allowing them to leave in small groups after being frisked.
 
@@ -1438,7 +1438,7 @@ geolocation: 34.0528905, -118.2532847
 * https://www.instagram.com/p/CEY5r64AEip/
 
 
-### LA Sheriffs fire impact munitions at protesters | September 5th
+### LA Sheriffs fire impact munitions at protesters | 2020-09-05
 
 LA Sheriffs throw stun grenades and fire impact munitions at protesters on the sidewalk outside the LASD station at 1310 West Imperial Highway. The LASD allegedly never declared an unlawful assembly.
 
@@ -1460,7 +1460,7 @@ geolocation: 33.9296714, -118.3007234
 * https://clips.twitch.tv/GeniusPrettyPartridgeHeyGirl
 
 
-### LA Sheriffs deploy less lethals at peaceful protesters | September 7th
+### LA Sheriffs deploy less lethals at peaceful protesters | 2020-09-07
 
 Police fire impact munitions (believed to be pepper balls), stun grenades and tear gas at protesters without provocation. Police then continue to fire on protesters as they retreat.
 
@@ -1489,7 +1489,7 @@ geolocation: 33.9308852, -118.2985867
 * https://twitter.com/jintakhan/status/1303422157578412033
 
 
-### Police deploy tear gas and impact munitions against protesters | September 8th
+### Police deploy tear gas and impact munitions against protesters | 2020-09-08
 
 Protesters gathered in the street in Los Angeles on September 8th. Police approached in a line, flanking an armored vehicle. Police then charged protesters without warning and fired impact munitions (both rubber bullets and pepper balls) and stun grenades for several minutes. Several bystander cars were struck by munitions.
 
@@ -1508,7 +1508,7 @@ geolocation: 33.9309062, -118.3000642
 * [36:00-42:00; filmer then shows recovered rubber bullet at 55:00](https://www.instagram.com/p/CE5rJzPpZKP/)
 
 
-### Livestreamer tackled off bike and arrested | September 8th
+### Livestreamer tackled off bike and arrested | 2020-09-08
 
 An independent journalist, AlienAlphabet, was livestreaming as they biked away from a protest. The livestream shows the journalist knocked off their bike. Police yell for them to get on the ground. Police then arrest the journalist.
 
@@ -1524,7 +1524,7 @@ geolocation: 33.9317661, -118.300295
 * [Livestream; 34:00](https://www.youtube.com/watch?v=t3iFkuOWpYY)
 
 
-### Reporter arrested during protests | September 12th
+### Reporter arrested during protests | 2020-09-12
 
 Reporter Josie Huang was covering the shooting of 2 LASD officers and a small ensuing protest in LA when she was arrested for "obstruction of justice;" Huang states she was simply documenting an arrest. In addition, officers claim she was not properly identified, but footage shows a LASD-issued press pass around her neck.
 
@@ -1548,7 +1548,7 @@ geolocation: 33.9305919, -118.2053695
 * https://twitter.com/josie_huang/status/1305265782352310273
 
 
-### Police charge protesters without warning, make violent arrest | September 13th
+### Police charge protesters without warning, make violent arrest | 2020-09-13
 
 Footage shows a standoff between protesters and police. Police tape divides the two groups. Additional officers approach the line, then charge across at protesters without warning. One protester, Sean, is seen thrown to the ground and arrested with his hands held behind his back. Sean labels himself a "protest observer;" while not officially press, he focuses on filming protests, rather than participating. He can be heard screaming in pain during the arrest. He allegedly waited 20 minutes in handcuffs for EMS to arrive.
 
@@ -1567,7 +1567,7 @@ geolocation: 34.0501764, -118.2490047
 * https://www.tiktok.com/@sunflower_haze_/video/6872019962655984902
 
 
-### Police push and harass journalist | September 23rd
+### Police push and harass journalist | 2020-09-23
 
 A journalist films an argument with police as police tell him to leave the area. The journalist states repeatedly that he is press. He also asks why he must leave the area and if there has been a declaration of unlawful assembly. Police do not respond. One officer then walks him down the street, pushing him. The officer's response to all questions asked by the journalist is: "It is not hard for you to comply."
 
@@ -1582,7 +1582,7 @@ geolocation: 34.0518579, -118.2436692
 * https://twitter.com/ShotOn35mm/status/1309007382345928705
 
 
-### Police fire impact munitions at protesters, then make several arrests | September 25th
+### Police fire impact munitions at protesters, then make several arrests | 2020-09-25
 
 Police in Los Angeles deploy impact munitions, believed to be pepper balls, against protesters in large quantities as they push back the crowd and make several arrests.
 
@@ -1599,7 +1599,7 @@ geolocation: 34.0906705, -118.3858618
 * https://twitter.com/SamBraslow/status/1309734358564048896
 
 
-### Officer strikes detained protester with shield | September 25th
+### Officer strikes detained protester with shield | 2020-09-25
 
 During a protest, police made several arrests. One officer is seen detaining a protester, while a second uses his shield to subdue the protester. The officer swings the shield downward, striking the protester's ankle repeatedly with the edge of the shield.
 
@@ -1619,7 +1619,7 @@ geolocation: 34.0906705, -118.3858618
 * https://twitter.com/TinaDesireeBerg/status/1309935292246261763
 
 
-### Police arrest legal observers and members of the press | November 3rd
+### Police arrest legal observers and members of the press | 2020-11-03
 
 Members of the LAPD arrested several legal observers and at least one member of the press at a protest in Los Angeles. The cited reason was for being a "pedestrian on the roadway." A jaywalking charge is generally a citation and ticket, but rarely an arrest.
 
@@ -1636,7 +1636,7 @@ geolocation: 34.0430219, -118.2694428
 * https://twitter.com/ACatWithNews/status/1323941258574716929
 
 
-### Police arrest journalists | November 4th
+### Police arrest journalists | 2020-11-04
 
 LAPD officers grab and arrest an individual wearing a clearly-labeled PRESS vest. The journalist was covering a protest near Pershing Square. In a later tweet, the journalist confirms their arrest.
 
@@ -1658,7 +1658,7 @@ geolocation: 34.048569, -118.2550804
 * https://www.latimes.com/california/story/2020-11-04/lapd-detain-cite-two-videographers-after-declaring-downtown-protest-unlawful
 
 
-### Police beat and arrest anti-eviction protesters | November 26th
+### Police beat and arrest anti-eviction protesters | 2020-11-26
 
 Following evictions of squatting families from CalTrans-owned homes by California State Police on November 25th, protesters gathered at 2970 Lowell Ave to bar the way in an attempt to prevent these evictions. Officers swing batons at protesters and make violent arrests. Several protesters were knelt on during arrests; some were also hog-tied and carried away to vans
 
@@ -1676,7 +1676,7 @@ geolocation: 34.080414, -118.1642954
 * https://twitter.com/chadloder/status/1332249085382836225
 
 
-### Protesters outside Mayor's home beaten with batons | December 6th
+### Protesters outside Mayor's home beaten with batons | 2020-12-06
 
 On the 13th day of protests outside the Getty House, the official Los Angeles mayoral residence, police charged protesters, striking them and legal observers with batons.
 
@@ -1698,7 +1698,7 @@ geolocation: 34.063557, -118.3186402
 
 ## Norco
 
-### Woman struck by white supremacist while police look on | June 29th
+### Woman struck by white supremacist while police look on | 2020-06-29
 
 A man wearing a shirt with two SS lightning bolts harasses a filming BLM protester. He and another counter-protester call her a bitch repeatedly, then slaps the phone out of her hand. Police state they did not see the incident, although the link shows clearly that an officer is standing next to them. The officer is joined by another. They stand between the groups of protesters and tell the BLM protesters to keep moving. The woman says she needs to find her phone and the officer says they have to come back for it later.
 
@@ -1718,7 +1718,7 @@ geolocation: 33.9311538, -117.5605275
 
 ## Oakland
 
-### Officer runs down protesters with police cruiser | (believed to be) May 30th
+### Officer runs down protesters with police cruiser | (Believed to be) 2020-05-30
 
 A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
 
@@ -1735,7 +1735,7 @@ geolocation: 37.7730406, -122.2162003
 * https://imgur.com/a/Izbobvx
 
 
-### Oakland law enforcement shoot a reporter | May 31st
+### Oakland law enforcement shoot a reporter | 2020-05-31
 
 A reporter films a street with a few protesters walking around.  In the distance, a line of Oakland law enforcement is standing. The law enforcement officers shoot the reporter.
 
@@ -1750,7 +1750,7 @@ geolocation: 37.8060529, -122.2705301
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
 
 
-### Water bottle tossed at police; police retaliate against crowd | June 2nd
+### Water bottle tossed at police; police retaliate against crowd | 2020-06-02
 
 Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately.
 
@@ -1766,7 +1766,7 @@ geolocation: 37.8002087, -122.2737406
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
-### Reporter detained and handcuffed | June 2nd
+### Reporter detained and handcuffed | 2020-06-02
 
 During an Oakland protest on June 2nd, police charged protesters and began a series of mass arrests. KPIX reporter Katie Nielsen was handcuffed and detained during the incident, though she was soon released. Images of her detention show a clearly visible press pass clipped to her belt loop. She was released several minutes later and issued an apology by a police spokesperson.
 
@@ -1785,7 +1785,7 @@ geolocation: 37.800244, -122.273785
 * https://www.youtube.com/watch?v=yM2VaCAeqqY
 
 
-### Protester singled out, chased and arrested | July 26th
+### Protester singled out, chased and arrested | 2020-07-26
 
 Police gather around a protester standing on a pedestrian median. He is singled out by police. He is threatened with arrest, then flees. A hissing sound can be heard prior to his flight, which may be pepper spray. Officers then chase, tackle, and arrest him. Motive for the arrest is unclear.
 
@@ -1802,7 +1802,7 @@ geolocation: 37.8059558, -122.2703161
 
 ## Riverside
 
-### Law enforcement break a car window for no apparent reason | June 1st
+### Law enforcement break a car window for no apparent reason | 2020-06-01
 
 A line of law enforcement officers are walking down the street.  When they approach a parked vehicle, law enforcement break the vehicle's window for no apparent reason.
 
@@ -1819,7 +1819,7 @@ geolocation: 33.9813734, -117.3754766
 
 ## Sacramento
 
-### Man severely injured by tear gas and impact munitions | May 30th
+### Man severely injured by tear gas and impact munitions | 2020-05-30
 
 A man who said he was bringing snacks to protesters says he was caught in police fire and severely injured. He states he a tear gas canister exploded in his face and he was shot with impact munitions. He required a titanium plate in his skull to repair the damage caused by a tear gas canister striking him in the head. He also requires surgery to repair his jaw. He is part of a lawsuit against the city, along with lawyer Danny Garza.
 
@@ -1835,7 +1835,7 @@ geolocation: 38.5763383, -121.4807559
 * https://www.docdroid.com/veyoGHL/phansopha-v-city-of-sacramento-complaint-pdf#page=4
 
 
-### Police shoot protester in the head | May 30th
+### Police shoot protester in the head | 2020-05-30
 
 A crowd of protesters demonstrating in front of a line of police officers was fired upon, after which a man fell to the ground. He was carried away and seen to be bleeding profusely.
 
@@ -1851,7 +1851,7 @@ geolocation: 38.5827287, -121.4985581
 * https://twitter.com/mynameschazz/status/1266978442722947072
 
 
-### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | May 31st
+### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | 2020-05-31
 
 Sacramento law enforcement shoot protesters and then announce their assembly is unlawful. A legal observer, Danny Garza, was shot in the eye during the incident. He and several other protesters have brought a lawsuit against the city of Sacramento.
 
@@ -1868,7 +1868,7 @@ geolocation: 38.5763383, -121.4807559
 * https://www.docdroid.net/veyoGHL/phansopha-v-city-of-sacramento-complaint-pd
 
 
-### Police fire tear gas and flashbangs without apparent cause | May 31st
+### Police fire tear gas and flashbangs without apparent cause | 2020-05-31
 
 Footage shows protesters facing off against police. Without warning, police fire tear gas and flashbangs, causing protesters to flee.
 
@@ -1884,7 +1884,7 @@ geolocation: 38.5781843, -121.4943541
 * https://www.youtube.com/watch?v=TSshaAoTuUw
 
 
-### Police choke man and push woman filming event to the ground | June 1st
+### Police choke man and push woman filming event to the ground | 2020-06-01
 
 Two to three police officers choke a black man on the ground. The woman documenting this on video is then pushed away/over.
 
@@ -1903,7 +1903,7 @@ geolocation: 38.5784745, -121.4868259
 
 ## San Diego
 
-### Police kettle and fire on fleeing protesters | May 31st
+### Police kettle and fire on fleeing protesters | 2020-05-31
 
 Police block off sidewalks to kettle protesters outside the Edward J. Schwartz federal building in downtown San Diego. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protesters at close range. Protesters are shoved by authorities as they plead for officers to stop firing on them.
 
@@ -1920,7 +1920,7 @@ geolocation: 32.7144295, -117.1668697
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
-### Police fire on dancing protesters | May 31st
+### Police fire on dancing protesters | 2020-05-31
 
 Footage shows protesters playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protesters then flee.
 
@@ -1935,7 +1935,7 @@ geolocation: 32.7164306, -117.1636962
 * https://twitter.com/mariahalize3/status/1267225330093191168
 
 
-### Student journalist shot and tear gassed | May 31st
+### Student journalist shot and tear gassed | 2020-05-31
 
 A student journalist attended protests in San Diego on May 31st. San Diego Police declared an unlawful assembly, then began firing tear gas and pepper balls at protesters. The journalist was standing on the sidewalk filming, when tear gas drifted into his eyes. He then turned for cover and was shot with pepper balls.
 
@@ -1951,7 +1951,7 @@ geolocation: 32.7155187, -117.165556
 * https://twitter.com/plutotoplato/status/1267224695239131137
 
 
-### Police abduct woman in unmarked van | June 4th
+### Police abduct woman in unmarked van | 2020-06-04
 
 A group of police officers carry a woman into an unmarked van. They state they will shoot anybody that follows the van. The incident occurred by the entrance to San Diego High School.
 
@@ -1966,7 +1966,7 @@ geolocation: 32.720796, -117.153584
 * [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
 
 
-### Police throw stun grenades at protesters changing flag | September 23rd
+### Police throw stun grenades at protesters changing flag | 2020-09-23
 
 Footage shows protesters attempting to lower a California state flag outside the San Diego Police Department downtown headquarters. Police charge at protesters. Protesters scatter. Police then deploy stun grenades at protesters after they have already cleared from around the flag.
 
@@ -1981,7 +1981,7 @@ geolocation: 32.7153466, -117.1532613
 * https://twitter.com/TheActivatedPod/status/1309169875064061954
 
 
-### Police shove protesters with bikes and arrest them | September 25th
+### Police shove protesters with bikes and arrest them | 2020-09-25
 
 Police pin protesters against a wall, shoving them with bikes. Protesters then push back, knocking one officer to the ground.
 
@@ -1997,7 +1997,7 @@ geolocation: 32.7177756, -117.1695895
 * https://www.reddit.com/r/PublicFreakout/comments/j06kl7/protestors_and_san_diego_police_clash_last_night/
 
 
-### Police make violent arrests | October 31st
+### Police make violent arrests | 2020-10-31
 
 Police make several violent arrests, allegedly for knocking over barricades near the San Diego Police Headquarters. Officers then threaten the filmer with pepper spray.
 
@@ -2015,7 +2015,7 @@ geolocation: 32.7153421, -117.1532613
 
 ## San Francisco
 
-### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
+### San Francisco law enforcement shove man off the sidewalk onto the ground | 2020-05-31
 
 A police SUV is attempting to drive through a crowd.  A law enforcement officer shoves the man from behind off the sidewalk onto the ground in front of the vehicle.
 
@@ -2032,7 +2032,7 @@ geolocation: 37.7925758, -122.3974486
 
 ## San Jose
 
-### Police shoot a projectile at a protester | May 29th
+### Police shoot a projectile at a protester | 2020-05-29
 
 A police officer shoots a projectile at a protester for yelling out profanities. The same officer is seen excited about the protests yelling "let's get this motherfucker".
 
@@ -2052,7 +2052,7 @@ geolocation: 37.3381932, -121.8862008
 * https://twitter.com/venomwithinher/status/1266826205833031680
 
 
-### Officer puts knee on neck of protester | May 29th
+### Officer puts knee on neck of protester | 2020-05-29
 
 A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck.
 
@@ -2067,7 +2067,7 @@ geolocation: 37.3386496, -121.8852466
 * https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 
-### Police fire on community activist | May 29th
+### Police fire on community activist | 2020-05-29
 
 A protester and community activist, known for work anti-bias and community building work with the San Jose PD, is fired upon by police. Though he has his hands in the air, police fire on him numerous times, striking him once in the groin. Later reports state the man suffered a ruptured testicle.
 
@@ -2085,7 +2085,7 @@ geolocation: 37.3381942, -121.886265
 * https://www.fox23.com/news/trending/george-floyd-protests-san-jose-police-fire-rubber-bullets-own-bias-trainer-rupture-his-testicle/K5HUBNAHTJERPBKA2CVC2B5LRU/
 
 
-### Police knocks phone out of protester's hand; riot control measures follow | May 29th
+### Police knocks phone out of protester's hand; riot control measures follow | 2020-05-29
 
 A protester can be seen filming SJPD officers' badge numbers. One officer swats the phone out of the protester's hand. The camera angle shifts, but the protester appears to retaliate by punching the officer.
 
@@ -2102,7 +2102,7 @@ geolocation: 37.3396426, -121.883425
 * https://twitter.com/itssdelilahh/status/1266575145537163269
 
 
-### Man struck by rubber bullet and explosive device | May 29th
+### Man struck by rubber bullet and explosive device | 2020-05-29
 
 A protester filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the crowd. The man is hit and is helped by a second protester. While the second protester is attempting to help, a canister explodes at the man's feet.
 
@@ -2117,7 +2117,7 @@ geolocation: 37.3353196, -121.8893149
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
-### Woman shot in the head with foam round | May 29th
+### Woman shot in the head with foam round | 2020-05-29
 
 A woman at a protest on May 29th was shot in the temple by a foam bullet. She stated in an interview, "she heard no audible verbal warning from SJPD about their intent to use riot guns or physical force." The SJPD stated several verbal warnings were given. The woman stated she was assisted by a paramedic, given an ice pack, and told to see a doctor.
 
@@ -2136,7 +2136,7 @@ geolocation: 37.3392172, -121.8863874
 * https://www.sanjoseinside.com/wp-content/uploads/2020/06/Breanna2-768x1024.jpg
 
 
-### Man struck in face by police, severely injured | May 29th
+### Man struck in face by police, severely injured | 2020-05-29
 
 A man approaches police, filming with his camera. He is struck in the face by an officer with a baton. He then throws a punch back and is wrestled to the ground by several officers and arrested. He was taken to a hospital for arrestees and diagnosed with a shattered kneecap. He says that the recovery is expected to take months.
 
@@ -2154,7 +2154,7 @@ geolocation: 37.3392126, -121.8843452
 * https://www.sanjoseinside.com/wp-content/uploads/2020/06/DSC08021.jpg
 
 
-### Police shoot at woman in apartment | May 30th
+### Police shoot at woman in apartment | 2020-05-30
 
 A woman was yelling at police during a May 30th protest from her apartment window. Shortly after starting a recording on her cell phone, police fired projectiles at the woman's apartment. She recovered 13 projectiles, including rubber bullets and pepper balls. Several of her windows were damaged.
 
@@ -2174,7 +2174,7 @@ geolocation: 37.3387932, -121.8877422
 * https://abc7news.com/new-excessive-force-complaint-against-sjpd/6260863/
 
 
-### Police strike man with motorcycle | May 31st
+### Police strike man with motorcycle | 2020-05-31
 
 A man is seen running across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
 
@@ -2191,7 +2191,7 @@ geolocation: 37.335747, -121.8860163
 * https://www.mercurynews.com/2020/06/03/video-of-police-motorcycle-hitting-man-brings-more-scrutiny-to-sjpd/
 
 
-### Police shoot small group of unarmed protesters | June 3rd
+### Police shoot small group of unarmed protesters | 2020-06-03
 
 Police give orders to disperse and subsequently to lay on the ground. Protesters attempt to flee and first-person footage states a protester was tripped and shot at short range.
 
@@ -2211,7 +2211,7 @@ geolocation: 37.3381843, -121.8862205
 
 ## San Luis Obispo
 
-### Law enforcement fire on crowd with their arms up chanting | June 1st
+### Law enforcement fire on crowd with their arms up chanting | 2020-06-01
 
 Protesters standing with their arms raised are chanting "This is what democracy looks like".  Law enforcement fire on the crowd and gas can be seen.
 
@@ -2229,7 +2229,7 @@ geolocation: 35.2855771, -120.6624956
 
 ## Santa Ana
 
-### Police open fire on protesters | May 31st
+### Police open fire on protesters | 2020-05-31
 
 The protester filming calls for a medic to help a fellow protester in a street median. A police line approaches. At 0:16, police fire on the protesters again.
 
@@ -2250,7 +2250,7 @@ geolocation: 35.2855771, -120.6624956
 
 ## Santa Monica
 
-### Police fire pepper bullets into apartment | May 31st
+### Police fire pepper bullets into apartment | 2020-05-31
 
 Live on TV, police fire multiple pepper bullets at a second-story apartment window from the street below.
 
@@ -2265,7 +2265,7 @@ geolocation: 34.0107251, -118.4940541
 * https://twitter.com/GIFsZP/status/1267241803750813703
 
 
-### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | May 31st
+### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | 2020-05-31
 
 On May 31st, police arrested numerous protesters for curfew violations. These protesters were zip tied and held for long periods, in tight quarters which did not permit social distancing, then released late at night with no way to get home. At least one detainee alleges that detainees were denied medical care and permission to use the restroom.
 
@@ -2293,7 +2293,7 @@ geolocation: 34.0164136, -118.4989781
 * https://www.nbclosangeles.com/news/local/man-arrested-at-protest-said-he-was-told-he-cant-go-back-to-santa-monica-where-he-lives/2379044/
 
 
-### Reporter shot with rubber bullets | May 31st
+### Reporter shot with rubber bullets | 2020-05-31
 
 A reporter for Primer Impacto was livestreaming a protest on Facebook. Around 12 minutes into the video, shots are fired without warning and the woman screams. She says to a man on her crew (in Spanish), "They just hit me, Patricio, in the leg."
 
@@ -2311,7 +2311,7 @@ geolocation: 34.0107251, -118.4940541
 
 ## Vallejo
 
-### Police fatally shoot unarmed 22 year old | June 1st
+### Police fatally shoot unarmed 22 year old | 2020-06-01
 
 Police in northern California fatally shot an unarmed 22-year-old who was on his knees with his hands up outside a Walgreens store while responding to a call of alleged looting, officials said... An officer in the city of Vallejo was inside his car when he shot Sean Monterrosa on Monday night amid local and national protests against police brutality. Police said an officer mistakenly believed Monterrosa had a gun, but later determined he had a hammer in his pocket... 'When confronted by the police, he dropped to his knees and surrendered, and they fired at him,' said Melissa Nold, a Vallejo civil rights attorney representing Monterrosa’s family.
 
@@ -2334,7 +2334,7 @@ geolocation: 38.1231701, -122.2523552
 
 ## Walnut Creek
 
-### Armored law enforcement vehicle threatens protesters, deploys tear gas on highway | June 1st
+### Armored law enforcement vehicle threatens protesters, deploys tear gas on highway | 2020-06-01
 
 In this video, an armored law enforcement vehicle tells protesters blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas, coating the highway in dense, opaque clouds of blinding fog. Vehicles are seen waiting to continue on their way; it is unclear whether these vehicles attempted to navigate the clouds of tear gas. (Note: Jalopnik reports that this happened on June 2; however, protests consistent with the video were only reported on June 1, and other sources place the video on June 1.)
 
@@ -2353,7 +2353,7 @@ geolocation: 37.9148825, -122.0660187
 * https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
 
 
-### Police arrest man using excessive force, dogs | June 1st
+### Police arrest man using excessive force, dogs | 2020-06-01
 
 Police threw tear gas at protesters blocking a roadway in an effort to disperse them. One protester, Joseph Malott, allegedly threw a tear gas canister back at police. Police arrested him for (per Mercury News) “assaulting a police officer with a deadly weapon.” During the arrest, Malott was bitten and scratched repeatedly by a police dog, leaving bite marks and scratches all over his back and a wound on his leg which required 10 stitches. During the arrest, he says he was slammed against a fence then thrown to the ground, and recalls thinking “when are they going to take the dogs off me?”
 
@@ -2370,7 +2370,7 @@ geolocation: 37.9151504, -122.0641695
 * https://www.ktvu.com/news/walnut-creek-police-says-mutual-aid-officer-did-not-say-what-many-thought-they-heard
 
 
-### Police fire tear gas at peaceful protesters | June 2nd
+### Police fire tear gas at peaceful protesters | 2020-06-02
 
 A small number of peaceful protesters are scattered in the street. Someone shouts, "Get back," and protesters begin running. Shots can be heard and tear gas is fired into the crowd.
 
@@ -2387,7 +2387,7 @@ geolocation: 37.9034738, -122.0650245
 
 ## Whittier
 
-### Protesters violently arrested without apparent reason | July 29th
+### Protesters violently arrested without apparent reason | 2020-07-29
 
 Footage shows police grabbing a woman at a protest, forcing her to the ground and arresting her. A male protester attempts to intervene and is arrested as well. The filmer states the victims were his sister and her boyfriend and provided continued updates on their status. She states that when she attempted to call the precinct, she was told that the arrestees had waived their rights and were sleeping and could not be woken up. They were released about 8 hours after being arrested. The filmer responded to a request from 2020PB stating that her sister has been charged with obstruction of justice, battery of an officer, and a crosswalk violation; her boyfriend has been charged with resisting arrest.
 
@@ -2411,7 +2411,7 @@ geolocation: 33.9751207, -118.0366598
 
 ## Aurora
 
-### Aurora police violently disperse violin vigil | June 27th
+### Aurora police violently disperse violin vigil | 2020-06-27
 
 On June 27th, residents of Aurora held a violin vigil in honor of Elijah McClain. Footage shows several violinists around a fountain and a small crowd of people scattered through the park, most sitting on picnic blankets or the grass.
 
@@ -2435,7 +2435,7 @@ geolocation: 39.7104976, -104.8128372
 
 ## Colorado Springs
 
-### Multiple cops pin man to ground while repeatedly punching him | June 1st
+### Multiple cops pin man to ground while repeatedly punching him | 2020-06-01
 
 Police officers tell a man standing in an intersection to get on the ground then shoot him (apparently with rubber bullets). He falls to the ground. He attempts to get up; an officer tackles him. At least 5 cops pin him down. Several of them punch him repeatedly even though he appears to not be resisting. At one point a bystander says "yeah, punch him again -- I'm filming you!" An officer punches the man again.
 
@@ -2451,7 +2451,7 @@ geolocation: 38.8282258, -104.8219674
 * https://www.kktv.com/content/news/Colorado-Springs-police-issue-statement-following-use-of-force-arrest-during-protest-570969681.html
 
 
-### Police use LRAD, tear gas and pepper spray to dispers protesters | June 1st
+### Police use LRAD, tear gas and pepper spray to dispers protesters | 2020-06-01
 
 After declaring a protest an unlawful assembly, police push protesters down the street, continuing to give dispersal order. A single firework is shot off by protesters. At 5:30, police use the LRAD dispersal function. Once again at 7:00.
 
@@ -2470,7 +2470,7 @@ geolocation: 38.826817, -104.824381
 * https://www.fox21news.com/news/local/more-protests-planned-monday-in-downtown-colorado-springs/
 
 
-### Police shoot at and pepper spray protesters and press | June 2nd
+### Police shoot at and pepper spray protesters and press | 2020-06-02
 
 Police advance on protesters without explanation, firing impact munitions and chasing protesters with pepper spray. A journalist reports seeing multiple protesters detained by police.
 
@@ -2491,7 +2491,7 @@ geolocation: 38.824391, -104.822320
 
 ## Denver
 
-### Reporter shot with multiple pepper balls | May 28th
+### Reporter shot with multiple pepper balls | 2020-05-28
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
 
@@ -2507,7 +2507,7 @@ geolocation: 39.7384406, -104.9862618
 * https://www.nytimes.com/2020/06/01/business/media/reporters-protests-george-floyd.html
 
 
-### Police pepper spray people trying to record | May 29th
+### Police pepper spray people trying to record | 2020-05-29
 
 A man is filming police activity through his sunroof. An officer approaches, possibly strikes the person recording, and apparently pepper sprays into the car, blinding the driver and passenger. The driver is then told to move his car away. The officer also pepper sprays a second person recording in front of the car.
 
@@ -2525,7 +2525,7 @@ geolocation: 39.7384406, -104.9862618
 * [Local news coverage](https://www.9news.com/article/news/local/local-politics/denver-police-chief-wants-videos-of-force-used-on-protesters-investigated/73-127e08b7-f648-459f-9687-b67c45ab8259)
 
 
-### Denver law enforcement shoot at reporters | May 29th
+### Denver law enforcement shoot at reporters | 2020-05-29
 
 A reporter from Denver 7 news tweeted a photo showing one of their cameramen holding their camera with a bullet hole through its lens.  The caption states "Police just fired off paintballs and tear gas. Our photographer got hit four time and our camera got hit." (It later turned out that the projectile was a pepper ball, not a paintball.)
 
@@ -2542,7 +2542,7 @@ geolocation: 39.7401445, -104.9848038
 * https://www.thedenverchannel.com/news/local-news/peaceful-protests-demanding-justice-for-george-floyd-in-denver-turn-violent-for-a-2nd-straight-day
 
 
-### Denver SWAT shoot at woman trying to stop armored car | May 29th
+### Denver SWAT shoot at woman trying to stop armored car | 2020-05-29
 
 A woman stops an armored SWAT car (marked APC01) on the corner of [Lincoln and 14th](https://www.google.com/maps/place/E+14th+Ave+%26+Lincoln+St,+Denver,+CO+80202,+USA/@39.7384949,-104.986315,18z).
 Three armored police get out from back of armored car. One walks around the side and shoots some projectile, hitting the ground in front of the woman.
@@ -2558,7 +2558,7 @@ geolocation: 39.7384949, -104.986315
 * https://twitter.com/DoughertyKMGH/status/1266560264918491138/video/1
 
 
-### Police discharge tear gas into group of protesters | May 29th
+### Police discharge tear gas into group of protesters | 2020-05-29
 
 An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge.
 
@@ -2573,7 +2573,7 @@ geolocation: 39.7384406, -104.9862618
 * https://www.reddit.com/r/Denver/comments/gslcxb/the_moment_the_cops_tear_gassed_the_protesters_at/
 
 
-### Police throw reporter into fire | May 30th
+### Police throw reporter into fire | 2020-05-30
 
 Policemen throw a reporter to the ground, apparently with little or no warning and possibly toward a fire.
 
@@ -2590,7 +2590,7 @@ geolocation: 39.7384781, -104.984963
 * https://www.youtube.com/watch?v=zhIWohJsRyM&feature=youtu.be&t=4225
 
 
-### Police tear gas and shoot protesters | May 30th
+### Police tear gas and shoot protesters | 2020-05-30
 
 Police fired tear gas after allegedly turning off their body cams. The incident begins at the steps of the capitol building and continues down the street near the public library.
 
@@ -2607,7 +2607,7 @@ geolocation: 39.7392162, -104.9860919
 * https://twitter.com/moneyroe99/status/1266957233117704192
 
 
-### Denver law enforcement shoot at reporter standing on the sidewalk | May 30th
+### Denver law enforcement shoot at reporter standing on the sidewalk | 2020-05-30
 
 A member of the press is filming from an empty sidewalk. Law enforcement shoot at him, and he yells "I'm media, we're press, we're press, don't shoot at us".
 
@@ -2622,7 +2622,7 @@ geolocation: 39.7392162, -104.9860919
 * https://youtu.be/xNLZ7exVxq4?t=110
 
 
-### Bystander claims police shoot him in the eye | May 30th
+### Bystander claims police shoot him in the eye | 2020-05-30
 
 A man was blinded in one eye in a manner consistent with a rubber bullet. He claims a law enforcement officer riding on the back of a Denver Police Department truck fired a projectile at him without warning, despite the fact that he wasn't provoking the officer (or even protesting) at the time, and didn't see anyone near him doing so.
 
@@ -2638,7 +2638,7 @@ geolocation: 39.7404131, -104.9856867
 * https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
-### Police spray two people who are backing away | May 30th
+### Police spray two people who are backing away | 2020-05-30
 
 A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
 
@@ -2655,7 +2655,7 @@ geolocation: 39.7368591, -104.9830047
 * [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
 
 
-### Crowd of journalists tear gassed | May 30th
+### Crowd of journalists tear gassed | 2020-05-30
 
 Journalist Lindsay Fendt was standing with a group of other journalists. Protesters threw a tear gas canister back at police; police kicked it toward the journalist, tear gassing Fendt and others.
 
@@ -2672,7 +2672,7 @@ geolocation: 39.739129, -104.9887742
 * https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
 
 
-### Police fire pepper balls at car with pregnant woman | May 31st
+### Police fire pepper balls at car with pregnant woman | 2020-05-31
 
 The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
 
@@ -2688,7 +2688,7 @@ geolocation: 39.7400076, -104.9895977
 * https://www.denverpost.com/2020/06/04/denver-police-investigation-pepper-balls-shot-pregnant-woman-in-car/
 
 
-### Police officer fires at protester while driving away | May 31st
+### Police officer fires at protester while driving away | 2020-05-31
 
 Officers are on a police truck leaving the area. One officer fires a pepper ball directly at someone filming, hitting their phone.
 
@@ -2703,7 +2703,7 @@ geolocation: 39.7392624, -104.986139
 * https://twitter.com/heyydnae/status/1267139396278661121?s=21
 
 
-### Police pepper sprays peaceful protester and fires tear gas on crowd | (Believed to be) May 31st
+### Police pepper sprays peaceful protester and fires tear gas on crowd | (Believed to be) 2020-05-31
 
 Police officer snatches away protester's sign and and sprays them with pepper spray. They soon begin firing tear gas on the crowd.
 
@@ -2719,7 +2719,7 @@ geolocation: 39.7392497, -104.9865346
 * https://www.tiktok.com/@yazzdazzz/video/6832896487207243014
 
 
-### Man's face injured by less-lethal round | May 31st
+### Man's face injured by less-lethal round | 2020-05-31
 
 Footage shows woman asking protester if he's okay. He says, "Fuck yeah."
 
@@ -2736,7 +2736,7 @@ geolocation: 39.7376003, -104.9874229
 * https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
 
 
-### Journalist injured by tear gas, less-than-lethal round | May 31st
+### Journalist injured by tear gas, less-than-lethal round | 2020-05-31
 
 Journalist Alex Burness was hit by some sort of projectile. Later in the night, an officer ordered Burness to turn around and walk in the opposite direction (toward a large cloud of tear gas). He shouted "press," but the officer raised his weapon, forcing Burness (and an associate in a neon "press" vest) to walk into the tear gas. Journalist Dave Sachs claims something similar happened to him -- he showed his press pass to police but they shoved him into tear gas.
 
@@ -2760,7 +2760,7 @@ geolocation: 39.7401208, -104.9775369
 * https://coloradofoic.org/cfoic-journalism-groups-decry-law-enforcement-targeting-of-reporters-and-photographers-during-george-floyd-protests/
 
 
-### Officer incites violence on social media | June 1st
+### Officer incites violence on social media | 2020-06-01
 
 In a since-deleted post on Instagram featuring 3 DPD officers in riot gear, the poster captioned the image: "Let's start a riot."
 
@@ -2778,7 +2778,7 @@ geolocation:
 * https://twitter.com/DenverPolice/status/1267933192805216256
 
 
-### Police shoot protester from behind with tear gas canister | June 2nd
+### Police shoot protester from behind with tear gas canister | 2020-06-02
 
 An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated. She has since resigned from the use of force committee, citing this incident as the reason.
 
@@ -2795,7 +2795,7 @@ geolocation: 39.7398303, -104.9858363
 * https://www.mintpressnews.com/attorney-elisabeth-epp-resigns-use-of-force-committee-shot-denver-police/268223/
 
 
-### Police tackle group of peaceful protesters | June 4th
+### Police tackle group of peaceful protesters | 2020-06-04
 
 Denver SWAT unit tackles group of peaceful protesters who were walking and chanting (around 12:20am).
 
@@ -2810,7 +2810,7 @@ geolocation: 39.7352686, -104.9850136
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
 
 
-### Protester struck in head at short range with explosive projectile | (Believed to be) June 5th
+### Protester struck in head at short range with explosive projectile | (Believed to be) 2020-06-05
 
 Footage shows protesters walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protester in head. Protester crumples to the ground. Title on Reddit states that the protester suffered permanent hearing loss, but this has not been verified.
 
@@ -2829,7 +2829,7 @@ geolocation: 39.740014, -104.9787015
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
 
 
-### Police pepper spray protesters without apparent cause | (Believed to be) June 5th
+### Police pepper spray protesters without apparent cause | (Believed to be) 2020-06-05
 
 Protesters yell at a police officer to put his pepper spray away. The officer shakes his head, then pepper sprays the protesters.
 
@@ -2845,7 +2845,7 @@ geolocation: 39.7407647, -104.987515
 * https://twitter.com/Tommies_S/status/1268798926649348097
 
 
-### Police pepper spray protester with hands up | (Believed to be) June 21st
+### Police pepper spray protester with hands up | (Believed to be) 2020-06-21
 
 Footage shows a protester following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protester continues to ask. Another officer approaches and discharges pepper spray without warning.
 
@@ -2860,7 +2860,7 @@ geolocation: 39.740008, -104.986338
 * https://twitter.com/wisenoons/status/1274743833410994176
 
 
-### Police use excessive force to clear protester tent encampment | July 1st
+### Police use excessive force to clear protester tent encampment | 2020-07-01
 
 The first clip is a livestream from the night of the dispersal at Civic Center Park. Police standoff begins around 1:28:00. Police begin by snatching and grabbing protesters to arrest. Then a scuffle breaks out, the camera pans to show an officer striking protesters with his baton. Another officer approaches and pepper-sprays protesters. A third officer fires a riot gun, containing either pepper balls or paintballs, at protesters. Police then tear gas the area while protesters flee. At 1:34:00, police arrest a medic. At 1:38:00, police advance towards the protesters again, pushing them off the sidewalk to the far side of the street. A shot can be heard, then a scream. The camera pans to show a scuffle between police and protesters. Police then use pepper-spray and riot rounds to force protesters back. A protester is arrested. The arrest takes several minutes and it appears that police kneel on the woman's neck while making the arrest. At 1:51:00, one officer is shown without a badge number or body cam. The filmer then looks at several other officers.
 
@@ -2882,7 +2882,7 @@ geolocation: 39.7393006, -104.9867843
 * https://www.youtube.com/watch?v=QLFGixYD4Dc&feature=youtu.be
 
 
-### Police pepper spray BLM counter-protesters at pro-police rally | July 19th
+### Police pepper spray BLM counter-protesters at pro-police rally | 2020-07-19
 
 Article discusses use of pepper spray at pro-police rally where Black Lives Matter groups counter-protested. “We had two pepper ball deployments and one hand-held fog device deployment, and we made one arrest for assault,” Denver police spokesman Tyrone Campbell said. The hand-held fog device is believed to refer to pepper spray. The spokesman goes on to say that "It seems as if [riot control devices] were used in an appropriate fashion." Some additional footage shows police pepper-spraying a retreating crowd. Riot guns can also be heard firing.
 
@@ -2899,7 +2899,7 @@ geolocation: 39.7378737, -104.9924535
 * https://twitter.com/mattsebastian/status/1285049239937024000
 
 
-### Denver Public School official struck in head | July 29th
+### Denver Public School official struck in head | 2020-07-29
 
 At a protest against the clearance of a homeless encampent, police pushed protesters out of a park and stopped them just outside the gate. Protesters argued with police, asking police to allow the homeless folks to return for their belongings. During this argument, Tay Anderson, a board member for Denver Public Schools, was struck in the back of the head and was hospitalized. Police claim Anderson "lost his footing."
 
@@ -2918,7 +2918,7 @@ geolocation: 39.7378737, -104.9924535
 * https://twitter.com/jquynhreports/status/1288527389253865472
 
 
-### Denver police tackle, arrest, and sexually assault protester | July 29th
+### Denver police tackle, arrest, and sexually assault protester | 2020-07-29
 
 At a protest on July 29th, a protester was tackled by police. Police claim the man resisted arrest and attempted to disarm an officer. The protester denies these allegations, saying he was rattling a chain link fence and no more.
 
@@ -2941,7 +2941,7 @@ geolocation: 39.7394974, -104.9900945
 * https://denverite.com/2020/09/21/everything-we-know-and-dont-about-the-claim-that-a-denver-police-officer-assaulted-a-protester-with-a-baton/
 
 
-### Denver police arrest protester outside homeless encampment, fire impact munitions at others | August 26th
+### Denver police arrest protester outside homeless encampment, fire impact munitions at others | 2020-08-26
 
 Denver police have been routinely sweeping homeless encampments and displacing individuals staying in the park. Members of the community have gathered to protest and give aid, and NLG members often attend to observe.
 
@@ -2959,7 +2959,7 @@ geolocation: 39.7524036, -104.9868013
 * https://twitter.com/wallofmomsden/status/1298655891131179020
 
 
-### Police charge and arrest protesters | November 4th
+### Police charge and arrest protesters | 2020-11-04
 
 Police charge protesters at Colfax and Williams. One officer tackles a fleeing protester to the ground. Police arrest at least one protester. An arrestee was seen beaten and dragged across the pavement by officers.
 
@@ -2975,7 +2975,7 @@ geolocation: 39.7399842, -104.9659509
 * https://twitter.com/colpeoplespress/status/1324227487539335168
 
 
-### Officer shoots protester in head | November 4th
+### Officer shoots protester in head | 2020-11-04
 
 Footage shows a protester walking away from police near Colfax and Gilpin. Police fire less-lethal rounds and the protester recoils, grabbing their head, as a cloud of dust consistent with pepper balls bursts on the protester's head.
 
@@ -2996,7 +2996,7 @@ geolocation: 39.7399582, -104.9670282
 
 ## Waterbury
 
-### Police tackle and detain 6 protesters | May 31st
+### Police tackle and detain 6 protesters | 2020-05-31
 
 Waterbury police detain at least 6 people at an assembly at the intersection of Wolcott St. and Long Hill Rd., apparently for blocking the road. Police had warned protesters several times that if they remained on Wolcott St., they would be arrested. Police tackle multiple protesters, including one (who one post claims is 15 years old) who is thrown to the ground and pinned down for an extended period, with one officer kneeling on him, in what appears to be excessive force. A dog is present, but apparently not used. Waterbury authorities say no property was damaged during the protest. Arrested protesters were not charged.
 
@@ -3022,7 +3022,7 @@ geolocation: 41.5639908, -73.0095728
 * [Protesters will not be charged](https://www.courant.com/breaking-news/hc-br-waterbury-protester-charges-dropped-20200618-33u442hdwfbu7pnb7zbdsdivaa-story.html)
 
 
-### Police detain protesters | May 31st
+### Police detain protesters | 2020-05-31
 
 A group of people are protesting outside Waterbury police headquarters around 5:30PM. Police are lined up blocking the roadway; they warn protesters to clear the roadway. Police declare the assembly unlawful, apparently in response to the protesters standing in the roadway. Police again warn protesters to clear the roadway, and say that anyone in the roadway will be arrested. A woman steps out into the street, walking slowly across holding a sign. Police tell her to get out of the roadway; she continues across to the other side. Police move forward and arrest numerous protesters, several of whom do not appear to have been in the roadway to begin with. Several protesters are forced to the ground, including one who is slammed against a police car (see second link). Later in the same incident (around 6:30 in the first link), police aggressively and without apparent reason arrest another protester. An LRAD is mentioned, but apparently not deployed. Waterbury authorities say no property was damaged during the protest. Arrested protesters were not charged. (Note: this is a different incident from ct-waterbury-2 -- see street view.)
 
@@ -3045,7 +3045,7 @@ geolocation: 41.5545548, -73.0359702
 * [Protesters will not be charged](https://www.courant.com/breaking-news/hc-br-waterbury-protester-charges-dropped-20200618-33u442hdwfbu7pnb7zbdsdivaa-story.html)
 
 
-### Officer forces woman into car and wrestles with another | June 3rd
+### Officer forces woman into car and wrestles with another | 2020-06-03
 
 Officer forces woman into cop car and wrestles with another woman on her phone.
 
@@ -3068,7 +3068,7 @@ geolocation: 41.564042, -73.0333759
 
 ## Dover
 
-### USA Today journalist arrested | June 9th
+### USA Today journalist arrested | 2020-06-09
 
 A journalist is filming and asking the police why protesters are being arrested. The police tackle him and he states loudly, "I'm with the press" multiple times. The video ends with an officer confiscating his press badge and bag. Another officer off camera is heard saying to the journalist, "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest.
 
@@ -3086,7 +3086,7 @@ geolocation: 39.1068156, -75.5402313
 * https://v.redd.it/u78faokca3451
 
 
-### Police make violent arrests; arrest woman filming | June 9th
+### Police make violent arrests; arrest woman filming | 2020-06-09
 
 The first two minutes of footage show police making a series of violent arrests: they throw protesters to the ground, strike them and kneel on them. At the end of the footage, an officer approaches the filmer, throws her to the ground, and arrests her.
 
@@ -3115,7 +3115,7 @@ geolocation: 39.1068156, -75.5402313
 
 ## Fort Lauderdale
 
-### Police shove a woman down to her knees | May 31st
+### Police shove a woman down to her knees | 2020-05-31
 
 It is seen in the video that while the people were protesting, a few cops tried dispersing them, and shoved a woman to her knees, and later hit her on the head.
 
@@ -3138,7 +3138,7 @@ geolocation: 26.120612, -80.1446222
 * https://www.nbcnews.com/news/us-news/fort-lauderdale-officer-who-pushed-over-kneeling-protester-video-charged-n1232606
 
 
-### Law enforcement shoot a woman in the head | May 31st
+### Law enforcement shoot a woman in the head | 2020-05-31
 
 A line of police officers are standing in front of a building with shields, and protesters can be seen filming them with phones. A shot is heard, and a woman collapses. A news report indicates that she was hit with a foam rubber bullet in her head just above the right eye, fracturing her eye socket.
 
@@ -3155,7 +3155,7 @@ geolocation: 26.120612, -80.1446222
 * [CNN Interview](https://twitter.com/greg_doucette/status/1270479109982912514)
 
 
-### Police laugh and joke when they think their body cams are off | May 31st
+### Police laugh and joke when they think their body cams are off | 2020-05-31
 
 Body cam video released by Fort Lauderdale PD on Youtube shows police laughing and joking after shooting protesters with rubber bullets and tear gas. They are speaking candidly to one another because they mistakenly believe their cams are in "standby" mode and not recording. Policing experts who reviewed the footage say that the behavior is unprofessional and that the officers felt "comfortable about talking about turning the camera off." At 2:55, a cop can be heard saying "if you need it, give me a target." The Miami Herald quotes a retired Lieutenant Colonel as commenting, "If you're not seeing a threat, why are you asking for a threat? That would almost lead you to believe that they were indiscriminately firing."
 
@@ -3173,7 +3173,7 @@ geolocation: 26.120612, -80.1446222
 
 ## Jacksonville
 
-### Peaceful protester tackled | May 30th
+### Peaceful protester tackled | 2020-05-30
 
 A protester in the street can be seen milling about before an officer charges them, tackling them to the ground to make an arrest. Filmer states that the officer pulled his gun on the individual as well.
 
@@ -3192,7 +3192,7 @@ geolocation: 30.3252674, -81.6556836
 
 ## Miami
 
-### Man tackled to ground after speaking to police | May 31st
+### Man tackled to ground after speaking to police | 2020-05-31
 
 Police are in a van. A man walking on the sidewalk with another man begins to speak to them. An officer exits the van and grabs the first man. Other officers standing nearby tackle the man to the ground and then chase after the second man. The video then cuts to the first man being led away in restraints by two officers.
 
@@ -3209,7 +3209,7 @@ geolocation: 25.7796975, -80.1887776
 * https://twitter.com/BillyCorben/status/1267644127178563588
 
 
-### Journalist arrested for curfew violation | May 31st
+### Journalist arrested for curfew violation | 2020-05-31
 
 A reporter for WSVN 7News in Miami was arrested by police after livestreaming a protest. He was cited with a curfew violation; those charges were later dropped.
 
@@ -3228,7 +3228,7 @@ geolocation: 25.728420, -80.234645
 * https://wsvn.com/news/local/charges-dropped-against-7news-social-media-producer-after-being-arrested-and-jailed-while-covering-protests/
 
 
-### Police deployed two rounds of tear gas against peaceful protesters | June 27th
+### Police deployed two rounds of tear gas against peaceful protesters | 2020-06-27
 
 A group of protesters blocked highway 395 in Miami. Police deployed tear gas at 9:00 pm and 9:09 PM to clear protesters.
 
@@ -3248,7 +3248,7 @@ geolocation: 25.7854266, -80.1923798
 * [9:09 round](https://twitter.com/inaminorkey/status/1277078077303132160)
 
 
-### Police officer grabs arrestee's breast; police violently arrest protester | July 1st
+### Police officer grabs arrestee's breast; police violently arrest protester | 2020-07-01
 
 Footage shows police arresting a woman. A man who walked nearby with his hands up is thrown to the ground by two officers and arrested.
 
@@ -3269,7 +3269,7 @@ geolocation: 25.7772583, -80.1879073
 * https://twitter.com/nikoboxxx/status/1278473483257708544
 
 
-### Police roughly arrest protest organizer | July 16th
+### Police roughly arrest protest organizer | 2020-07-16
 
 Footage shows a small group of protesters on the sidewalk. Police single out one woman, Noura, who has been a prominent organizer during the recent BLM protests. They arrest her and shove another protester who attempts to intervene.
 
@@ -3288,7 +3288,7 @@ geolocation: 25.774139, -80.1872472
 
 ## Orlando
 
-### Police use tear gas and flashbangs against peaceful protesters | May 31st
+### Police use tear gas and flashbangs against peaceful protesters | 2020-05-31
 
 A group of protesters is exiting the on ramp of I-4 on May 31st. A water bottle is thrown by a protester, landing far from police. Police throw a flashbang. A protester then throws a water bottle, landing near police. On both occasions, the crowd decries the actions of the bottle throwers. Police then deploy tear gas against the protesters.
 
@@ -3304,7 +3304,7 @@ geolocation: 25.774139, -80.1872472
 * https://www.reddit.com/r/protest/comments/gx86zm/53120_orlando_pd_deploys_tear_gas_on_peaceful_i4/
 
 
-### Police tackle & pepper spray peaceful protesters | June 1st
+### Police tackle & pepper spray peaceful protesters | 2020-06-01
 
 Footage shows police charging at protesters and tackling one to the ground. Several officers join to support. The crowd becomes agitated. Police release the tackled individual, then pepper-spray him and another peaceful protester. Police continue to discharge pepper spray and force away protesters trying to aid victims.
 
@@ -3319,7 +3319,7 @@ geolocation: 28.538350, -81.3849232
 * https://twitter.com/Concerned407/status/1268339148131307524
 
 
-### Police pepper spray protesters during arrest | June 1st
+### Police pepper spray protesters during arrest | 2020-06-01
 
 During a protest in Orlando, at the intersection of W South St. and S Division Ave, police tackle a protester and arrest them. The crowd becomes agitated and gathers around. Police pepper spray protesters, including one man in a wheelchair, who then has difficulty leaving the scene. Protesters then rush to aid the man in the wheelchair.
 
@@ -3334,7 +3334,7 @@ geolocation: 28.538350, -81.3849232
 * https://www.facebook.com/probably.not.you/videos/3518978511449150/
 
 
-### Police use excessive force during an arrest | June 2nd
+### Police use excessive force during an arrest | 2020-06-02
 
 A police officer grabs a protester from behind (light grey hoodie), pull him out of the crowd and several police tackle him to the ground. Other officers pepper spray and shove other people in the aftermath.
 
@@ -3349,7 +3349,7 @@ geolocation: 28.540209, -81.384950
 * https://twitter.com/ewcfilms/status/1268003421786906627
 
 
-### Police tackle injured man leaving protest | June 2nd
+### Police tackle injured man leaving protest | 2020-06-02
 
 A man limping away from the protest is tackled by police and kneeled on to make arrest. Filmer states the man was fleeing from tear gas. 6 officers join to help make the arrest. The protester begs police not to hurt him.
 
@@ -3367,7 +3367,7 @@ geolocation: 28.540190, -81.383462
 * https://twitter.com/kailakerouac/status/1268011180989337602
 
 
-### Police shove protesters with bikes | June 2nd
+### Police shove protesters with bikes | 2020-06-02
 
 A woman films a BLM protest in Orlando from a window. Protesters have gather around a police bike line blocking an intersection. Police begin shouting and shove protesters back with their bikes.
 
@@ -3384,7 +3384,7 @@ geolocation: 28.5384087, -81.3789384
 * https://twitter.com/Flygirl4477/status/1267968890975522816
 
 
-### Police fire on protesters outside city hall | June 2nd
+### Police fire on protesters outside city hall | 2020-06-02
 
 Police open fire on protesters outside of city hall with tear gas, flashbangs, and apparently rubber bullets.
 
@@ -3403,7 +3403,7 @@ geolocation: 28.5373325, -81.3816748
 * [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
 
 
-### Woman stopped by police while leaving protest; police break her car window | June 3rd
+### Woman stopped by police while leaving protest; police break her car window | 2020-06-03
 
 A woman is in her car leaving a protest near the intersection of Curry Ford Road and Chickasaw Trail. Police stop her, stating she was blocking a roadway. The officer says she can exit the car or be removed. The woman says she doesn't believe she did anything wrong. The officer then reaches inside her window for the lock. He cannot, so the window is broken.
 
@@ -3424,7 +3424,7 @@ geolocation: 28.5100741, -81.2712266
 
 ## St. Petersburg
 
-### Police throw explosives at protesters | June 1st
+### Police throw explosives at protesters | 2020-06-01
 
 Police declare unlawful assembly on a small, peaceful protest outside of police station a little bit before midnight. The police officer informs that they have 3 to 5 minutes to leave. In less than 3 minutes the police come out of their building and throw explosives at protesters. The explosives appear to be stun grenades.
 
@@ -3441,7 +3441,7 @@ geolocation: 27.7726986, -82.6548688
 
 ## Tampa
 
-### Police fire rubber bullets at protesters | May 31st
+### Police fire rubber bullets at protesters | 2020-05-31
 
 Supercut video from June 5th shows multiple incidents where police fire rubber bullets at protesters.
 
@@ -3464,7 +3464,7 @@ geolocation: 27.9815017, -82.4554037
 * https://www.tampabay.com/news/breaking-news/2020/05/31/black-lives-matter-protesters-gather-in-tampa-on-sunday/
 
 
-### Police pepper-spray peaceful protesters | May 31st
+### Police pepper-spray peaceful protesters | 2020-05-31
 
 Supercut video from June 5th shows multiple incidents where police sprayed peaceful protesters, including protesters attempting to flee the scene. In addition, footage from the cut shows police shoving and pushing protesters before spraying.
 
@@ -3483,7 +3483,7 @@ geolocation: 27.9815017, -82.4554037
 * https://twitter.com/breezybee97/status/1267226224662888448
 
 
-### Police deployed impact munitions and pepper spray against protesters before mass arrests | June 3rd
+### Police deployed impact munitions and pepper spray against protesters before mass arrests | 2020-06-03
 
 Police at a Tampa protest violently dispersed protesters using smoke, impact munitions and pepper spray. A reporter states dozens of protesters were arrested. During this incident, a journalist was arrested and zip tied with her hands behind her back before being released about 15 minutes later.
 
@@ -3499,7 +3499,7 @@ geolocation: 27.771021, -82.652386
 * https://twitter.com/jthalji/status/1268064444124401664
 
 
-### One woman is pinned to the ground and another is pepper-sprayed | June 4th
+### One woman is pinned to the ground and another is pepper-sprayed | 2020-06-04
 
 Police officers are walking down a street. A woman in a purple shirt is pulled to the ground by several officers, who remain on top of her. Another woman yells at the officers to get off the first woman, and to get off her neck. The second woman is pepper-sprayed by an officer. They end up using tear-gas on the crowd.
 
@@ -3521,7 +3521,7 @@ geolocation: 27.9563654, -82.4569108
 * https://twitter.com/drewthehouse/status/1268713991230062593
 
 
-### Police fire tear gas at peaceful protest | June 4th
+### Police fire tear gas at peaceful protest | 2020-06-04
 
 Police fire tear gas at peaceful protesters, while simultaneously ordering protesters to lie down, forcing them to remain in the immediate area.
 
@@ -3537,7 +3537,7 @@ geolocation: 27.9471043, -82.4595896
 * https://www.baynews9.com/fl/tampa/news/2020/06/05/tampa-taking-steps-to-quell-protests-outside-of-police-department
 
 
-### Police fire on medic | June 5th
+### Police fire on medic | 2020-06-05
 
 Video shows a medic treating another woman for a bleeding wound to her head. The filmer says the medic is her sister and a nurse; the filmer claims to be an Air Force medic. She states that the injured woman was struck by a less-than-lethal round. At the end of the video, the filmer says, "Here they come." She and her sister hurry to move the injured woman as shots are heard.
 
@@ -3553,7 +3553,7 @@ geolocation: 27.981400, -82.4547943
 * [Timestamp at 01:49](https://twitter.com/greg_doucette/status/1268765759783796736)
 
 
-### Police assault protesters without apparent cause | July 4th
+### Police assault protesters without apparent cause | 2020-07-04
 
 Footage is short, but it shows protesters chanting near police, asking why another protester is being arrested. A protester with a megaphone approaches an officer. He is shouting. Without warning police charge protesters. They slam one protester against a car, throw him on the ground and kneel on him to make an arrest.
 
@@ -3571,7 +3571,7 @@ geolocation: 27.9595064, -82.5076696
 * https://www.youtube.com/watch?v=_uFeu1zUYIo
 
 
-### BLM Organizer hospitalized after officer kneels on her neck | August 12th
+### BLM Organizer hospitalized after officer kneels on her neck | 2020-08-12
 
 Shortly after 8 PM on August 12th, an organizer leaving a protest was singled out and arrested for unknown cause. During the arrest an officer knelt on her neck. Other protesters allege she was left without medical care for 20 minutes before being transported to the hospital. As of August 13th, she had not been booked by the Hillsborough County Sheriff's Office.
 
@@ -3595,7 +3595,7 @@ geolocation: 27.9479831, -82.4592753
 
 ## Athens
 
-### Police fire tear gas at peaceful protest | June 1st
+### Police fire tear gas at peaceful protest | 2020-06-01
 
 During a peaceful protest on Broad Street near University of Georgia (UGA), police began firing tear gas indiscriminately and with excess.
 
@@ -3619,7 +3619,7 @@ geolocation: 33.9576658, -83.3751742
 
 ## Atlanta
 
-### Officer body slams woman onto ground | May 29th
+### Officer body slams woman onto ground | 2020-05-29
 
 On May 29th, an officer slams a woman on to the ground, breaking her clavicle. The incident took place near Lenox Square mall in the Buckhead area of Atlanta.
 
@@ -3634,7 +3634,7 @@ geolocation: 33.8486545, -84.3628256
 * https://www.cnn.com/2020/06/05/us/atlanta-police-body-slam-woman/index.html
 
 
-### Officer shoves a woman with his bike | May 29th
+### Officer shoves a woman with his bike | 2020-05-29
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
@@ -3653,7 +3653,7 @@ geolocation: 33.7579008, -84.3951319
 * https://www.youtube.com/watch?v=VzRK2__u47M
 
 
-### Cops pull people out of their car, tase them | May 30th
+### Cops pull people out of their car, tase them | 2020-05-30
 
 Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
 
@@ -3672,7 +3672,7 @@ geolocation: 33.7596997, -84.3912128
 * https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0
 
 
-### Police punch man on the ground, then tackle woman to ground who objects | May 30th
+### Police punch man on the ground, then tackle woman to ground who objects | 2020-05-30
 
 Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
 
@@ -3687,7 +3687,7 @@ geolocation: 33.7597026, -84.390599
 * https://twitter.com/ANGELCUCCl/status/1266939757252280321
 
 
-### Photographer tackled to the ground by four police officers | May 30th
+### Photographer tackled to the ground by four police officers | 2020-05-30
 
 A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.
 
@@ -3703,7 +3703,7 @@ geolocation: 33.7579387, -84.3934527
 * https://www.google.ca/maps/@33.7579387,-84.3934527,3a,75y,90.87h,90t/data=!3m7!1e1!3m5!1sHv2SqQHuYHJLG3QMKJ5srw!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DHv2SqQHuYHJLG3QMKJ5srw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D91.04821%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192
 
 
-### Police shove and shoot protesters | May 31st
+### Police shove and shoot protesters | 2020-05-31
 
 Police shove and shoot protesters with rubber bullets. One man is shot in the head; he is seen being carried away unconscious.
 
@@ -3719,7 +3719,7 @@ geolocation: 33.7498722, -84.3912296
 * https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
 
 
-### Independent journalist detained by police | May 31st
+### Independent journalist detained by police | 2020-05-31
 
 A freelance journalist on assignment with the Washington Post to cover protests in Atlanta was detained by police and zip tied on May 31st. His detention was captured live by CBS46. He did not have a physical press pass and police did not allow him to display his digital pass. After examining his business cards, which state he is a journalist, police released him, returning his phone and pen.
 
@@ -3738,7 +3738,7 @@ geolocation: 33.7578444, -84.3935502
 * https://spjgeorgia.com/2020/06/01/spj-ga-aaja-and-aabj-condemn-detainment-of-journalists-in-atlanta-fight-for-freelancer-protections/
 
 
-### Journalist detained by police near downtown connector | June 1st
+### Journalist detained by police near downtown connector | 2020-06-01
 
 A photojournalist with the Atlanta Journal Constitution was detained by police at a protest. Another journalist spotted her zip-tied with her hands behind her back and sitting under an overpass. He then began speaking with officers, who seemed confused as to why she had been arrested. It appears that one officer handcuffed her, then walked away. Another officer notes the journalist's press pass and asks who detained her. The journalist said the arresting officer left before giving a name. She was soon released, having been detained for about 10 minutes.
 
@@ -3758,7 +3758,7 @@ geolocation: 33.745302, -84.3921536
 * https://spjgeorgia.com/2020/06/01/spj-ga-aaja-and-aabj-condemn-detainment-of-journalists-in-atlanta-fight-for-freelancer-protections/
 
 
-### Police tear gas protesters | September 23rd
+### Police tear gas protesters | 2020-09-23
 
 Police deploy tear gas against a crowd of protesters gathered in protest of the grand jury charges in the Breonna Taylor case. It appears that Georgia State Police accidentally deployed tear gas in their own vicinity before throwing the canister to protesters and launching more.
 
@@ -3784,7 +3784,7 @@ geolocation: 33.7488311, -84.3902752
 
 ## Lawrenceville
 
-### Man tased in back for speaking up after man on ground is punched in face by cop | May 30th
+### Man tased in back for speaking up after man on ground is punched in face by cop | 2020-05-30
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
 
@@ -3802,7 +3802,7 @@ geolocation: 33.980685, -84.083170
 
 ## Stone Mountain
 
-### Officer shoves press | August 15th
+### Officer shoves press | 2020-08-15
 
 Footage shows a sergeant in the Dekalb County PD backing a member of the press up along the sidewalk. The member of the press is complying with orders. The officer is moving much more quickly than the rest of the line, shoving the journalist with his shield.
 
@@ -3819,7 +3819,7 @@ geolocation: 33.8052915, -84.147697
 
 ## Valdosta
 
-### Sheriff scuffles with protester over "F\*ck Trump" sign | June 3rd
+### Sheriff scuffles with protester over "F\*ck Trump" sign | 2020-06-03
 
 Lowndes County sheriff, Ashley Paulk, confiscated a "F\*ck Trump" sign from a protester, citing it as "evidence" for a crime not stated, in itself a violation of 1st Amendment rights. The woman attempted to grab the sign back and the sheriff choked her in response, before protesters separated the two.
 
@@ -3840,7 +3840,7 @@ geolocation: 30.8323921, -83.278646
 * https://www.wctv.tv/content/news/Video-captures-Lowndes-sheriff-trying-to-take-sign-from-protestors-571016801.html
 
 
-### Sheriff arrests woman for sign containing profanity | June 4th
+### Sheriff arrests woman for sign containing profanity | 2020-06-04
 
 In a continuation of events from June 3rd (ga-valdosta-1), sheriff Ashley Paulk arrested a woman carrying a sign suggestive of a "lewd act" between Paulk and Donald Trump, fulfilling his threat to arrest protesters carrying signs containing profanity. He cited a Georgia law allowing misdemeanor charges for profanity in the presence of an individual under 14 years of age, despite [U.S. Supreme Court cases](https://scholar.google.com/scholar_case?case=7398433541275578772&q=cohen+v.+california&hl=en&as_sdt=3,39) and [Georgia Supreme Court cases](https://law.justia.com/cases/georgia/supreme-court/2017/s17a1040.html) exonerating individuals charged with similar crimes.
 
@@ -3861,7 +3861,7 @@ geolocation: 30.8323921, -83.278646
 
 ## Chicago
 
-### Police pull down and assault a protester | May 30th
+### Police pull down and assault a protester | 2020-05-30
 
 A protester was taken down by multiple police officers and beaten. They seemingly knelt down on his neck.
 
@@ -3876,7 +3876,7 @@ geolocation: 41.8896989, -87.6244372
 * https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
 
 
-### Police pepper-spray reporter for recording | May 30th
+### Police pepper-spray reporter for recording | 2020-05-30
 
 Police pepper-spray reporter holding press pass and yelling press.
 
@@ -3891,7 +3891,7 @@ geolocation: 41.8916411, -87.6296891
 * https://twitter.com/JCB_Journo/status/1266897672545480706
 
 
-### Police remove badges | (Believed to be) May 30th
+### Police remove badges | (Believed to be) 2020-05-30
 
 The video shows fficers standing in line, all missing the badges from their uniforms. The video poster, in the comments of the post, states that the officers took off their badges and then pushed protesters down the stairs and swung batons at them.
 
@@ -3906,7 +3906,7 @@ geolocation: 41.8893016, -87.6266744
 * https://old.reddit.com/r/PublicFreakout/comments/gtmbmh/cops_remove_badges_minutes_before_assault/
 
 
-### Police harass and assault John Cusack | May 31st
+### Police harass and assault John Cusack | 2020-05-31
 
 Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
@@ -3922,7 +3922,7 @@ geolocation: 41.8918426, -87.6253793
 * https://www.youtube.com/watch?v=J4oRyvPJgnE&feature=youtu.be
 
 
-### Police pull black women out of the car and throw them to the ground | May 31st
+### Police pull black women out of the car and throw them to the ground | 2020-05-31
 
 Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive). Block Club Chicago states the victims were detained for disorderly conduct and that police drove off with one of the victims in the car, leaving the other two in the lot.
 
@@ -3948,7 +3948,7 @@ geolocation: 41.9296951, -87.7870102
 * [Location in Google Maps](https://goo.gl/maps/2m2kHLCaQP8h51az8)
 
 
-### Cops hit Chicago Police Board President | May 31st
+### Cops hit Chicago Police Board President | 2020-05-31
 
 Cops struck Ghian Foreman, the Chicago Police Board President, five times in the legs with batons. He has filed a complaint with the Citizens Office of Police Accountability. Foreman states the incident occurred on 47th street near his Hyde Park home.
 
@@ -3963,7 +3963,7 @@ geolocation: 41.8083477, -87.6039247
 * https://news.wttw.com/2020/06/05/police-board-president-officers-struck-me-5-times-their-batons-during-protest
 
 
-### Officers cover badges and remove body cams | May 31st
+### Officers cover badges and remove body cams | 2020-05-31
 
 Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st. The images are from several locations, but at least one can be confirmed to be outside Physical Therapy 360 Inc, located at 541 W Division st.
 
@@ -3983,7 +3983,7 @@ geolocation: 41.9035342, -87.6450887
 * https://twitter.com/greg_doucette/status/1269087986043564033
 
 
-### Video showing CPD officer punching protester in Uptown under investigation | June 1st
+### Video showing CPD officer punching protester in Uptown under investigation | 2020-06-01
 
 CPD officer chasing down and punching a protester who was walking away.
 
@@ -4000,7 +4000,7 @@ geolocation: 41.9649267, -87.6595648
 * https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
 
 
-### CPD chase down protester on TV | June 1st
+### CPD chase down protester on TV | 2020-06-01
 
 Police chase protester and attack him on the ground while on live TV.
 
@@ -4015,7 +4015,7 @@ geolocation: 41.7995803, -87.5895691
 * https://twitter.com/BLMChi/status/1267486699321544704
 
 
-### Police grab protester and throw into brick wall | June 1st
+### Police grab protester and throw into brick wall | 2020-06-01
 
 A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall. The incident appears to have occurred on either the North or West edge of Graceland cemetary.
 
@@ -4030,7 +4030,7 @@ geolocation: 41.9573248, -87.6601543
 * https://twitter.com/ChrisDitton/status/1267675836892708864
 
 
-### Police push protester on bike, slap phone out of his hand | June 2nd
+### Police push protester on bike, slap phone out of his hand | 2020-06-02
 
 Footage shows a protester on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
 
@@ -4045,7 +4045,7 @@ geolocation: 41.8940961, -87.6240857
 * https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
 
 
-### Police seen without badges | (Believed to be) June 4th
+### Police seen without badges | (Believed to be) 2020-06-04
 
 Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
 
@@ -4061,7 +4061,7 @@ geolocation: 41.9210355, -87.6972891
 * https://twitter.com/punishmegrant/status/1268966252707487745
 
 
-### Cop suddenly punches activist | July 17th
+### Cop suddenly punches activist | 2020-07-17
 
 Cop punches an 18 year old Black woman activist at a protest in Grant Park. She reportedly suffered multiple injuries to her face and had her teeth knocked out.
 
@@ -4079,7 +4079,7 @@ geolocation: 41.8679405, -87.6196311
 * https://blockclubchicago.org/2020/07/18/18-year-old-activist-had-teeth-knocked-out-by-police-at-columbus-statue-protest-alderman-state-senator-say/
 
 
-### Violent arrests made in Grant Park | July 17th
+### Violent arrests made in Grant Park | 2020-07-17
 
 Footage shows a series of violent arrests and altercations between police and protesters. Police tackle, shove, strike and pepper spray protesters indiscriminately. Protesters are also struck with batons. One use states that police allegedly hit press during this series of events.
 
@@ -4097,7 +4097,7 @@ geolocation: 41.8679405, -87.6196311
 * https://twitter.com/poonfarm/status/1284550521785913350
 
 
-### Police strike protester with baton while attempting to seize bike | July 17th
+### Police strike protester with baton while attempting to seize bike | 2020-07-17
 
 Footage from the protest in Grant Park shows an officer attempting to seize a bike from a protester for unknown reason. The police officer swats at the protester's hands with his baton in an apparent attempt to release the protester's hold on the bike.
 
@@ -4112,7 +4112,7 @@ geolocation: 41.8679405, -87.6196311
 * https://twitter.com/KeepinKidsSafe/status/1284289666615844871
 
 
-### Journalist harassed, threatened and shoved by police | July 17th
+### Journalist harassed, threatened and shoved by police | 2020-07-17
 
 First-person footage from a journalist shows a police officer shoving, threatening and harassing a journalist. Allegedly the officer began harassing the journalist, calling him a "smartass," after the journalist displayed his press badge.
 
@@ -4127,7 +4127,7 @@ geolocation: 41.8679405, -87.6196311
 * https://twitter.com/colinbphoto/status/1284301680524382208
 
 
-### Phone knocked out of reporter's hand | July 17th
+### Phone knocked out of reporter's hand | 2020-07-17
 
 Footage from a CBS Chicago reporter shows an officer knocking the phone out of her hand, then kicking it across the ground.
 
@@ -4142,7 +4142,7 @@ geolocation: 41.8679405, -87.6196311
 * https://twitter.com/MarParNews/status/1284306440971325440
 
 
-### Police indiscriminately pepper spray protesters | (Believed to be) July 17th
+### Police indiscriminately pepper spray protesters | (Believed to be) 2020-07-17
 
 Footage uploaded on July 19th shows an officer standing some distance from protesters. He discharges pepper spray in the general direction of the protesters.
 
@@ -4157,7 +4157,7 @@ geolocation: 41.8679405, -87.6196311
 * https://twitter.com/frantheman10/status/1284911153785778177
 
 
-### Police vehicle drives on sidewalk, collides with protesters | July 18th
+### Police vehicle drives on sidewalk, collides with protesters | 2020-07-18
 
 Footage shows an undercover police vehicle driving on the sidewalk at a protest on W Fullerton in Chicago. A biker appears to be hit by the car; the protester then gets away, but the police vehicle drives over the bike. The vehicle then drives away.
 
@@ -4172,7 +4172,7 @@ geolocation: 41.9247068, -87.7095458
 * https://twitter.com/jamaicaponders/status/1284680046473621505
 
 
-### Police shove protesters with bikes | August 15th
+### Police shove protesters with bikes | 2020-08-15
 
 Footage from West Marble Place and South LaSalle Street shows a line of police officers shouting, "Move," and shoving protesters backward with their bikes.
 
@@ -4187,7 +4187,7 @@ geolocation: 41.8800529, -87.6322486
 * https://twitter.com/BaburRealer/status/1294834101988597766
 
 
-### Police shove and pepper spray protesters | August 15th
+### Police shove and pepper spray protesters | 2020-08-15
 
 Police charge into a crowd of protesters at the intersection of North Dearborn and West Washington Streets. One protester falls and police surround them. Other protesters attempt to help the protester up and are pepper sprayed.
 
@@ -4203,7 +4203,7 @@ geolocation: 41.8832394, -87.629571
 * https://twitter.com/exfratbro/status/1295044305338474496
 
 
-### White-shirted officer shoves his way through a crowd of protesters | August 15th
+### White-shirted officer shoves his way through a crowd of protesters | 2020-08-15
 
 Footage shows police and protesters facing off at North Michigan Avenue and East Wacker Drive. An officer in a white shirt, indicating higher rank, shoves his way into the crowd of protesters. Additional footage shows other officers shoving protesters as well.
 
@@ -4219,7 +4219,7 @@ geolocation: 41.8881833, -87.6241811
 * https://twitter.com/dudgedudy/status/1294849796583362560
 
 
-### Police shove and strike protesters | August 15th
+### Police shove and strike protesters | 2020-08-15
 
 In an incident that appears to occur in the background of il-chicago-22, a protester is punched by an officer. Other protesters begin to back away. Officers throw one protester to the ground. Another officer uses his bike to shove protesters against the wall of a building. The protester thrown to the ground is then beaten by an officer with a baton.
 
@@ -4234,7 +4234,7 @@ geolocation: 41.8800529, -87.6322486
 * https://twitter.com/luz_mayancela/status/1294802015483318276
 
 
-### Police grab umbrellas from protesters, then escalate force | August 15th
+### Police grab umbrellas from protesters, then escalate force | 2020-08-15
 
 Police and protesters face off at North Michigan Avenue and East Wacker Drive. Police rip umbrellas away from protesters. Police then begin shoving protesters, before striking them with batons and allegedly discharging pepper spray. Police additionally pepper sprayed protesters.
 
@@ -4256,7 +4256,7 @@ geolocation: 41.8881843, -87.624059
 * https://twitter.com/StevenGravesTV/status/1294787019114270720
 
 
-### Police pepper spray fleeing protesters | August 15th
+### Police pepper spray fleeing protesters | 2020-08-15
 
 Footage shows protesters moving away from police at North Michigan Avenue and East Wacker Drive. Officer discharge pepper spray at them.
 
@@ -4272,7 +4272,7 @@ geolocation: 41.8881843, -87.624059
 * https://twitter.com/lukeharuki92/status/1295384526169026562
 
 
-### Police pepper spray protesters | August 15th
+### Police pepper spray protesters | 2020-08-15
 
 While clearing protesters from the intersection at North Dearborn Street and West Randolph Street, police push through a crowd of protesters. The clip shows police pepper spraying protesters attempting to move away from police per instruction. Protesters are several feet from police and do not appear to be acting aggressively.
 
@@ -4287,7 +4287,7 @@ geolocation: 41.8844556, -87.6293972
 * https://twitter.com/RealSaleemJuma/status/1294916491758854144
 
 
-### Police shove through protesters to make targeted arrest | August 15th
+### Police shove through protesters to make targeted arrest | 2020-08-15
 
 Footage shows police walking protesters down the street at North Dearborn and West Randolph Streets. Police begin shoving their way through protesters after a white-shirted officer points out a protester. Officers take the protester to the ground and arrest her, shoving the crowd back.
 
@@ -4302,7 +4302,7 @@ geolocation: 41.8844556, -87.6293972
 * https://twitter.com/jus10chi/status/1294789639899930625
 
 
-### Police surround protesters and search their bags | August 15th
+### Police surround protesters and search their bags | 2020-08-15
 
 At a protest on August 15th, police kettled protesters at West Marble Place and South LaSalle Street. Police refused to allow protesters to leave without a bag search. Officers took protesters' bags and dumped them onto the sidewalk.
 
@@ -4328,7 +4328,7 @@ geolocation: 41.8800529, -87.6322486
 
 ## Joliet
 
-### Officers grabs someone by the neck then more cops pile on | May 31st
+### Officers grabs someone by the neck then more cops pile on | 2020-05-31
 
 Protesters arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
@@ -4347,7 +4347,7 @@ geolocation: 41.5227515, -88.1208659
 
 ## Rockford
 
-### Police beat and arrest bystanders | May 30th
+### Police beat and arrest bystanders | 2020-05-30
 
 An individual in a stopped car gets out and yells at police, ostensibly about the road closure by police vehicles. Police approach and a scuffle starts. It is difficult to see how it begins. The bystander is then thrown to the ground and arrested. Another bystander is pulled from the car and beaten.
 
@@ -4362,7 +4362,7 @@ geolocation: 42.2777438, -89.1048211
 * https://www.youtube.com/watch?v=VfRZkKR9l3w
 
 
-### Police arrest, pepper spray, and tear gas protesters | July 31st
+### Police arrest, pepper spray, and tear gas protesters | 2020-07-31
 
 Sheriffs arrest, pepper spray, and tear gas BLM protesters who blocked the road in counter-protest to a Back the Blue event outside the Winnebago County Criminal Justice Center. No indication has been given that protesters were violent in any way.
 
@@ -4383,7 +4383,7 @@ geolocation: 42.2722168, -89.1020879
 
 ## Fort Wayne
 
-### Police pepper spray protesters attempting to record them | May 29th
+### Police pepper spray protesters attempting to record them | 2020-05-29
 
 A protester is seen backing away from a police confrontation and pulling out her phone to record. The police then pepper spray her and fellow protesters.
 
@@ -4399,7 +4399,7 @@ geolocation: 41.0798711, -85.1391142
 * https://twitter.com/_isabel_a/status/1266580681251000321
 
 
-### Police tear gas journalist | May 29th
+### Police tear gas journalist | 2020-05-29
 
 Karli VanCleave, a local journalist, was hit in the back with a tear gas canister, while she says she was standing in the middle of a crowd of journalists, carrying equipment and wearing clothing marked with her outlet's logo. She claims that police were firing tear gas indiscriminately, without warning, in all directions.
 
@@ -4416,7 +4416,7 @@ geolocation: 41.0798711, -85.1391142
 * https://twitter.com/KaylerJayne/status/1266567347277639683
 
 
-### Police tear gas peaceful protesters | May 30th
+### Police tear gas peaceful protesters | 2020-05-30
 
 Police officers dressed in swat gear threw a tear gas container at peaceful protesters.
 
@@ -4432,7 +4432,7 @@ geolocation: 41.0798711, -85.1391142
 * [Archive link as Tweet has been deleted](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/in-fortwayne-2.1.mp4)
 
 
-### Toddler tear-gassed by police | May 30th
+### Toddler tear-gassed by police | 2020-05-30
 
 A toddler and her mother were driving through downtown and had to leave their car due to tear gas. A medic began treating the child for tear gas exposure. After around 10 minutes, police threw a tear gas canister close to the medic, tear gassing the child a second time. Two people present say that police did so intentionally.
 
@@ -4448,7 +4448,7 @@ geolocation: 41.0798711, -85.1391142
 * [ACLU lawsuit, featuring the allegation (though not featuring anyone involved as a plaintiff)](https://www.aclu-in.org/sites/default/files/field_documents/ft_wayne_protest_complaint.pdf)
 
 
-### Protester hit in the face with a gas canister | May 31st
+### Protester hit in the face with a gas canister | 2020-05-31
 
 A protester was hit in the face with a tear gas canister. He is now permanently blind in that eye.
 
@@ -4467,7 +4467,7 @@ geolocation: 41.0798711, -85.1391142
 * https://wpta21.com/2020/06/17/i-want-you-to-look-me-in-my-eye-and-say-that-youre-sorry-man-who-lost-his-eye-protesting-says-he-demands-a-response-from-the-mayor/
 
 
-### Police break up a small protest and shoots at them as they leave | June 14th
+### Police break up a small protest and shoots at them as they leave | 2020-06-14
 
 There is a very small protest of what appears to be no more than 15 people. Police arrive declaring it an unlawful assembly. Some of the protesters, including the person filming, go into a nearby restaurant because their car was in the direction of the police and they did not feel comfortable walking towards them. Two militarized police come into the restaurant and make them exit. The police tell them to run, motioning with their hands in the direction away from the protester's car, despite the protester trying to explain that they need to go in the other direction to actually leave. They run as they are told, and say they have their hands up. It then appears the police fire rubber bullets at them, the camera was facing away from the police but it picks up the sounds. The video is in two parts and includes further context via subtitles.
 
@@ -4485,7 +4485,7 @@ geolocation: 41.0800411, -85.1381721
 
 ## Indianapolis
 
-### Police confiscate medical supplies from medical station | May 29th
+### Police confiscate medical supplies from medical station | 2020-05-29
 
 Police confiscate medical supplies from a medical station at Monument Circle.
 
@@ -4500,7 +4500,7 @@ geolocation: 39.7689795, -86.1606701
 * https://www.facebook.com/AlexandraIndy/videos/10219444419838711
 
 
-### Police tear gas peaceful protest, including worshipping congregation | May 31st
+### Police tear gas peaceful protest, including worshipping congregation | 2020-05-31
 
 On Sunday May 31st at Monument Circle in Indianapolis, police state they, prior to curfew, were attempting to apprehend a man who allegedly was trying to spray-paint a statue.
 
@@ -4520,7 +4520,7 @@ geolocation: 39.7689795, -86.1606701
 * https://twitter.com/greg_doucette/status/1268404518326276096
 
 
-### Police beat woman with batons and shoot pepper balls, shove another to the ground | May 31st
+### Police beat woman with batons and shoot pepper balls, shove another to the ground | 2020-05-31
 
 A woman is seen being restrained by a police officer who stands behind her with his arms around her torso. She struggles with the officer and breaks free, after which she is repeatedly beaten on the thighs with batons and shot with what appear to be pepper balls by officers shouting "Get on the ground!" while she is standing still. Another woman walks towards the officers with her hands out, seeming to plead for restraint but not directly interfering. An officer yells at her to "Back up!" and then violently shoves her to the ground.
 
@@ -4542,7 +4542,7 @@ geolocation: 39.7670787, -86.1562681
 
 ## Lafayette
 
-### Officer drops tear gas into peaceful protest without warning | Possibly May 31st
+### Officer drops tear gas into peaceful protest without warning | 2020-05-31
 
 In this video, protesters are chanting peacefully when an officer drops tear gas on them with no warning.
 
@@ -4564,7 +4564,7 @@ geolocation: 40.418707, -86.895723
 
 ## Des Moines
 
-### Police repeatedly shoot tear gas into crowd, even after crowd has dispersed | May 29th
+### Police repeatedly shoot tear gas into crowd, even after crowd has dispersed | 2020-05-29
 
 Police throw multiple rounds of tear gas into crowd of protesters. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protesters were peaceful before the canisters were thrown.
 
@@ -4579,7 +4579,7 @@ geolocation: 41.5865739, -93.6164429
 * https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301
 
 
-### Police truck shoots at cars, hitting mother and breaking her finger | May 30th
+### Police truck shoots at cars, hitting mother and breaking her finger | 2020-05-30
 
 Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure." A woman's phone is destroyed by a police round.
 
@@ -4596,7 +4596,7 @@ geolocation: 41.6293563, -93.6988361
 * [Location via Google Street View](https://www.google.ca/maps/@41.6293563,-93.6988361,3a,75y,358.27h,68.85t/data=!3m6!1e1!3m4!1s5NdIPPqrW0kAv0Ge9xX4EQ!2e0!7i16384!8i8192)
 
 
-### Police tear gas, pepper spray and beat peaceful protesters | May 30th
+### Police tear gas, pepper spray and beat peaceful protesters | 2020-05-30
 
 Footage shows peaceful protesters chanting in the street. Around 1 minute, a tight group of police begins launching tear gas and pepper-spraying indiscriminately. Police advance as protesters flee. Footage shows numerous officers using shields and batons to strike a protester lying on the street. In addition, an officer shoves the filmer, who is standing on the sidewalk.
 
@@ -4612,7 +4612,7 @@ geolocation: 41.5848318, -93.6228809
 * https://www.reddit.com/r/desmoines/comments/gxkoii/some_additional_footage_from_saturday_night/
 
 
-### Police detain Des Moines Register reporter while covering event | May 31st
+### Police detain Des Moines Register reporter while covering event | 2020-05-31
 
 A reporter from the Des Moines Register is shown sitting on the ground zip-tied with another protester in front of a police officer. In the news article, the reporter indicates she was pepper sprayed in the face, and that she identified herself as a member of the press.
 
@@ -4628,7 +4628,7 @@ geolocation: 41.6314304, -93.7020114
 * https://www.desmoinesregister.com/story/news/2020/05/31/register-reporter-arrested-while-covering-protest/5304560002/
 
 
-### Police fire gas at peaceful protesters across active street | May 31st
+### Police fire gas at peaceful protesters across active street | 2020-05-31
 
 Footage shows police and peaceful protesters on opposite sides of an active street. As some protesters step into the street, police fire gas. The filmer states it is tear gas, but a comment states that it is smoke. Regardless, police catch multiple bystander cars in the gas, forcing them to move.
 
@@ -4643,7 +4643,7 @@ geolocation: 41.6294934, -93.698504
 * https://www.reddit.com/r/desmoines/comments/guds5i/tear_gas_being_fired_at_protestors/
 
 
-### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | June 1st
+### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | 2020-06-01
 
 Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye.
 
@@ -4659,7 +4659,7 @@ geolocation: 41.5912062, -93.6058276
 * https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
 
 
-### Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | June 2nd
+### Police use or threaten to use pepper-spray in an elevator on apartment residents trying to go home | 2020-06-02
 
 Police use or threaten to use pepper-spray in what appears to be a private residence apartment elevator. The people keep saying things like "we are just trying to go home" and "we live here". Some get pulled out of the elevator while others leave on their own. It appears they are all being arrested as the video ends.
 
@@ -4675,7 +4675,7 @@ geolocation: 41.5900114, -93.6154852
 * https://www.desmoinesregister.com/story/news/2020/06/03/iowa-protests-tuesday-arrests-after-leaving-peaceful-protest-des-moines-police-east-village/3135069001/
 
 
-### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
+### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | 2020-06-04
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
 
@@ -4690,7 +4690,7 @@ geolocation: 41.5976077, -93.5995367
 * https://twitter.com/DesMoinesBLM/status/1268710416219242496
 
 
-### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th
+### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | 2020-06-05
 
 "Des Moines police approached The Blazing Saddle, a gay bar in Des Moines’ East Village neighborhood, and searched the premises — apparently without a warrant. Video from a security camera made public on Facebook shows officers in riot gear converging suddenly on the bar at approximately 11:45 p.m. and detaining those gathered outside." - The Iowa Inquirer
 
@@ -4709,7 +4709,7 @@ geolocation: 41.590306, -93.6114412
 * https://www.facebook.com/permalink.php?story_fbid=1182620968746799&id=100009967212544
 
 
-### Police make violent arrests & harass protesters filming | June 22nd
+### Police make violent arrests & harass protesters filming | 2020-06-22
 
 Footage shows two protesters being arrested. Four police are making the arrests, two kneeling on each protester. A woman filming is harassed by another officer.
 
@@ -4728,7 +4728,7 @@ geolocation: 41.5943362, -93.608093
 * https://twitter.com/sophiaxleza/status/1275296622524628993
 
 
-### Police push, shove and pepper-spray protesters | June 22nd
+### Police push, shove and pepper-spray protesters | 2020-06-22
 
 First person footage of a protest shows police forcing protesters down a sidewalk. It is unclear why police determined protesters could not continue to protest peacefully at the point of the sidewalk.
 
@@ -4757,7 +4757,7 @@ geolocation: 41.5943362, -93.608093
 * [Reporter confirms pepper spray. States one victim was a minor](https://twitter.com/andreamsahouri/status/1275278920556974080)
 
 
-### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol | July 1st
+### Police arrest 17 people during a peaceful protest for Black Lives Matter at the State Capitol | 2020-07-01
 
 Black Lives Matter advocates gathered at the Capitol to lobby for the governor to sign an executive order restoring felon voting rights by Saturday, July 4.
 
@@ -4779,7 +4779,7 @@ geolocation: 41.5903716, -93.6089672
 
 ## Iowa City
 
-### Iowa State Police use tear gas & flashbangs against crowd of civilians attempting to enter I-80 and later against Iowa City EMS. | June 3rd
+### Iowa State Police use tear gas & flashbangs against crowd of civilians attempting to enter I-80 and later against Iowa City EMS. | 2020-06-03
 
 State police shoot tear gas into, and deploy flashbangs against, a crowd of peaceful protesters attempting to enter I-80. Some protesters stumble and fall as they try to flee.
 
@@ -4810,7 +4810,7 @@ geolocation: 41.6850919, -91.5384413
 
 ## Overland Park
 
-### Officers refuse to give badge numbers | July 25th
+### Officers refuse to give badge numbers | 2020-07-25
 
 At the tail end of a protest in Overland Park, Kansas on July 25th, several protesters request names and badge numbers from officers standing outside a police precinct. The officers categorically refuse.
 
@@ -4831,7 +4831,7 @@ geolocation: 38.9034131, -94.6730163
 
 ## Louisville
 
-### Police shoot rubber bullets at reporter | May 30th
+### Police shoot rubber bullets at reporter | 2020-05-30
 
 A policeman advances on, and fires pepper rounds at, a reporter on live tv in the middle of a calm environment. The officer faced "administrative reassignment" but has not been named, fired, arrested or charged.
 
@@ -4848,7 +4848,7 @@ geolocation: 38.254123, -85.760135
 * [Victim's response](https://twitter.com/KaitlinRustWAVE/status/1268218653104693248)
 
 
-### Police shoot young woman in the head with a rubber bullet | May 30th
+### Police shoot young woman in the head with a rubber bullet | 2020-05-30
 
 A young woman was injured by a rubber bullet she took to the head.
 
@@ -4866,7 +4866,7 @@ geolocation: 38.2540079, -85.7590318
 * [Reddit Thread](https://www.reddit.com/r/Louisville/comments/gtk5a1/police_aiming_rubber_bullets_at_protestors_heads/)
 
 
-### Police shoot man in the head with rubber bullet while he is walking away | May 30th
+### Police shoot man in the head with rubber bullet while he is walking away | 2020-05-30
 
 Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights.
 
@@ -4882,7 +4882,7 @@ geolocation: 38.2528182, -85.7627649
 * [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
 
 
-### Police shoot at cars in traffic from overpass | May 30th
+### Police shoot at cars in traffic from overpass | 2020-05-30
 
 Several police officers shoot from an overpass at cars stuck in traffic. This happened Saturday night around 10 or 11 at 1st and College, right under the I-65 overpass. Bystander reports at least one car window broken. Recorded by twitch streamer TCHCreigo
 
@@ -4899,7 +4899,7 @@ geolocation: 38.2431293, -85.7560353
 * [Reddit Thread](https://www.reddit.com/r/Louisville/comments/guxosk/lmpd_shooting_pepperballs_at_moving_vehicles_in/)
 
 
-### Police smashing water bottles | May 31st
+### Police smashing water bottles | 2020-05-31
 
 Police arrived in a truck and both smashed and stole milk and water that protesters were freely distributing. When questioned about this, Mayor Fischer initially said that LMPD had found flammable liquids and chemicals among the materials. This was later walked back.
 
@@ -4916,7 +4916,7 @@ geolocation: 38.2538422, -85.7603751
 * https://wfpl.org/louisville-mayor-claims-without-details-protesters-seized-supplies-were-hazardous/
 
 
-### 5 police officers use batons to beat protester | May 31st
+### 5 police officers use batons to beat protester | 2020-05-31
 
 A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison.
 
@@ -4934,7 +4934,7 @@ geolocation: 38.2456778, -85.7525681
 * [Article and story](https://wfpl.org/protesters-say-they-were-assaulted-before-arrest-fear-covid-19-in-jail/)
 
 
-### Louisville police swarm and beat a man screaming on the ground | (Believed to be) June 1st
+### Louisville police swarm and beat a man screaming on the ground | (Believed to be) 2020-06-01
 
 A man was using a leafblower to clear tear-gas from the protest area. Police claimed, without evidence, that the leafblower was "filled with bleach" to injure police.
 
@@ -4949,7 +4949,7 @@ geolocation: 38.2534825, -85.7604495
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
 
 
-### Restaurant owner shot and killed | June 1st
+### Restaurant owner shot and killed | 2020-06-01
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
@@ -4969,7 +4969,7 @@ geolocation: 38.2494543, -85.7970747
 * [Facebook post by officer involved glorifying violence (prior to shooting)](https://i.imgur.com/wZUnHYi.jpg)
 
 
-### Pastor violently arrested during protest | June 1st
+### Pastor violently arrested during protest | 2020-06-01
 
 During a protest on June 1st, a pastor was arrested. He states officers yelled at him and told him to move. When he did not, he states that an officer ordered others to arrest him; those officers then threw him to the ground to handcuff him.
 
@@ -4993,7 +4993,7 @@ geolocation: 38.2491363, -85.6097483
 * [Complaint filed with LMPD, posted to facebook by the pastor](https://www.facebook.com/story.php?story_fbid=10160169890587516&id=601637515)
 
 
-### Protesters in St. Matthews shot with pepper rounds | June 3rd
+### Protesters in St. Matthews shot with pepper rounds | 2020-06-03
 
 Police fired pepper rounds unprovoked at a group of protesters marching prior to curfew in St. Matthews. The incident occurred in front of a Nissan dealership at 4136 Shelbyville road.
 
@@ -5009,7 +5009,7 @@ geolocation: 38.2518874, -85.6438328
 * https://www.wave3.com/2020/06/04/st-matthews-police-used-pepper-balls-move-protesters/
 
 
-### Police shove woman and then fire pepper balls at people who try to help her | Believed to be June 15th
+### Police shove woman and then fire pepper balls at people who try to help her | (Believed to be) 2020-06-15
 
 Police were moving down a street (9th and Muhammed Ali) in a line clearing protesters. A woman was standing on the sidewalk and two officers broke out of the line to target her. They appear to shove her with a baton (0:49) and she stumbles and falls to the ground. An officer then grabs her by the shirt collar and protesters move closer appearing to try to help and the police shoot them with pepper balls. The woman was arrested and charged with 2nd degree rioting and unlawful assembly.
 
@@ -5026,7 +5026,7 @@ geolocation: 38.252019, -85.7676495
 * [Victim's account](https://www.instagram.com/p/CBleLePnpR_/)
 
 
-### Police tackle protester, then target witness | June 16th
+### Police tackle protester, then target witness | 2020-06-16
 
 A guy records a half-dozen policemen dogpiling a protester and then one of them shoots the window to stop him from recording.
 
@@ -5043,7 +5043,7 @@ geolocation: 38.2543333, -85.7619845
 * [Police confirm it was an officer](https://www.buzzfeednews.com/article/amberjamieson/louisville-shot-fired-security-guard-video)
 
 
-### Protester medic beaten and arrested | June 19th
+### Protester medic beaten and arrested | 2020-06-19
 
 Louisville police clear protest medics, shoving them and striking them with batons. Medics clearly identify themselves. One medic is shoved to the ground; she states to officers numerous times that she has a disability.
 
@@ -5061,7 +5061,7 @@ geolocation: 38.253765, -85.7603896
 * https://mobile.twitter.com/martasmom98/status/1278231277649514496
 
 
-### Police destroy protester belongings after clearing park | June 27th
+### Police destroy protester belongings after clearing park | 2020-06-27
 
 After an incident in which local photographer and protester Tyler Gerth was shot by Steven Lopez, LMPD removed all protesters from Jefferson Square Park. While the park was empty, they removed all protester property including coolers, tents, cooking equipment, speakers, cameras and more. They told protesters they could retrieve the items from 600 Meriwether Ave without mentioning that the items were in a dumpster, having been carried away and compacted by garbage trucks. After public outrage, the mayor offered reimbursement, but only to those who could prove ownership and show receipts of purchase.
 
@@ -5077,7 +5077,7 @@ geolocation: 38.2539007, -85.7609873
 * https://www.facebook.com/MayorGregFischer/posts/3360993443931596
 
 
-### Livestreamer arrested while filming protest | June 30th
+### Livestreamer arrested while filming protest | 2020-06-30
 
 A livestreamer known by protesters in the Louisville area was arrested during a protest. Police gave a dispersal order and the journalist began backing up as the police line approached. An officer says, "You're under arrest," despite the fact that he obeys the order. Police then tackle him to the ground.
 
@@ -5095,7 +5095,7 @@ geolocation: 38.2541035, -85.7602982
 * https://www.reddit.com/r/Louisville/comments/hj3cqn/jason_downey_just_got_arrested_for_filming_the/
 
 
-### LMPD Bearcat strikes vehicle; police initially state vehicle hit them, then retract the statement; in addition, bystander filming is arrested | July 1st
+### LMPD Bearcat strikes vehicle; police initially state vehicle hit them, then retract the statement; in addition, bystander filming is arrested | 2020-07-01
 
 On July 1st, a collision was reported between a bystander vehicle and an LMPD armored car, also called a Bearcat. Police initially stated that the Bearcat was rammed by a protester vehicle. They later retracted this statement, saying that in fact the Bearcat hit the vehicle. It is not clear if the vehicle was related to the protest at all. However, police state that they intentionally hit the vehicle to prevent further harm, stating that they recognized the vehicle from an incident the previous night.
 
@@ -5119,7 +5119,7 @@ geolocation: 38.2535046, -85.7588433
 * [Additional footage from bystander](https://www.instagram.com/p/CCFueedBWrK/?igshid=16m4ancp3anxd)
 
 
-### Police target independent journalists and livestreamers for second consecutive night | July 1st
+### Police target independent journalists and livestreamers for second consecutive night | 2020-07-01
 
 Footage from two livestreamers on July 1st shows their arrests. LMPD arrested livestreamers the previous night as well. It should be noted that these independent journalists are not always credentialed, but they are known for releasing full, unedited footage of the protests.
 
@@ -5143,7 +5143,7 @@ geolocation: 38.254079, -85.7624661
 * https://www.reddit.com/r/Louisville/comments/hjqt9m/lmpd_again_targeted_live_streamers_tonight_steph/
 
 
-### Police respond to splashed water with excessive force | July 7th
+### Police respond to splashed water with excessive force | 2020-07-07
 
 Police are attempting to tow a car at 6th and Jefferson; protesters have gathered in opposition. A protester splashes water on an officer and attempts to run away. The officer chases her, holds her in a headlock, and forces her to the ground with the aid of several other officers. One officer kneels on the protester to arrest her while other officers hold the crowd back. One officer can be heard saying repeatedly saying, "Back the fuck off."
 
@@ -5161,7 +5161,7 @@ geolocation: 38.2541758, -85.7603442
 * https://twitter.com/bloosemore/status/1280692574949462025
 
 
-### Police fire at peaceful protesters | July 9th
+### Police fire at peaceful protesters | 2020-07-09
 
 Footage shows a handful of peaceful protesters on the sidewalk. Shots can be heard and one of the protesters begins running. The shots are alleged to have been fired from a rooftop. The footage shows officers on the roof of a nearby building. It is believed that they fired the shots, but cannot be verified.
 
@@ -5180,7 +5180,7 @@ geolocation: 38.252771, -85.7596619
 * https://twitter.com/HayesGardner/status/1281393822786781185
 
 
-### Protester pepper sprayed through open door | July 10th
+### Protester pepper sprayed through open door | 2020-07-10
 
 Kejohn Jennings was at the rear doors of the Hall of Justice, criticizing officers and asking for their names and badge numbers through an opening in the chained shut doors. An officer approaches (alleged in the lawsuit to be Deputy George Grissom) and pepper-sprayed Mr. Jennings through the opening. Jennings is now suing the Jefferson County Sheriff's Office.
 
@@ -5197,7 +5197,7 @@ geolocation: 38.253455, -85.7609173
 * [Wave3 Story and Video](https://www.wave3.com/2020/07/15/lawyer-alleged-pepper-sprayed-protester-calls-jefferson-co-deputy-danger-our-community/)
 
 
-### Protester hit by police car | August 25th
+### Protester hit by police car | 2020-08-25
 
 A police cruiser peels away from a protest with lights and sirens on. The car takes a rapid turn around a corner and hits a protester crossing the street. The officer emerges from the car and stands over the woman while protesters gather around. The officer states he did not hit the protester.
 
@@ -5214,7 +5214,7 @@ geolocation: 38.2527927, -85.7606082
 * [1:54:00](https://www.facebook.com/maxwellamitchell/videos/10219351963573439/)
 
 
-### Police fire impact munitions, make violent arrests | September 23rd
+### Police fire impact munitions, make violent arrests | 2020-09-23
 
 Police surround protesters, forming lines across the street that kettle the protesters in place. Police fire pepper balls at protesters and some protesters respond with water bottles, but the vast majority stand around. Arrests were also made at the time. One arrestee appeared to be a bystander attempting to turn their moped around; the individual was knocked to the ground, then pulled off the moped by police.
 
@@ -5244,7 +5244,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/KEYCNewsNow/status/1308886456644055044
 
 
-### Police shove, grab and arrest protesters on sidewalk | September 23rd
+### Police shove, grab and arrest protesters on sidewalk | 2020-09-23
 
 Police push protesters down the sidewalk after declaring unlawful assembly. Protesters are largely compliant, though walking slowly. One officer reaches for a protester for unclear reason. The protester then flees and the officer chases for a moment before stopping. Several protesters are shoved by police. One is grabbed by the shirt. The protester slips out of the shirt and is struck by an officer with a baton. The protester then flees down the street. Police proceeded to arrest numerous protesters in the aftermath.
 
@@ -5263,7 +5263,7 @@ geolocation: 38.2555508, -85.7596154
 * https://twitter.com/BGOnTheScene/status/1308889378291355649
 
 
-### Police trip arrestee after bringing them to their feet | September 23rd
+### Police trip arrestee after bringing them to their feet | 2020-09-23
 
 Police make a series of arrests after an incident. One arrestee is pulled to their feet. The arrestee appears to jerk away from the arresting officers. The officers then trip the protester and bring them to the ground.
 
@@ -5278,7 +5278,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/VenturaReport/status/1308888759589535751
 
 
-### Police trip arrestee; arrestee later seen bleeding from the head | September 23rd
+### Police trip arrestee; arrestee later seen bleeding from the head | 2020-09-23
 
 A protester arrested after an early incident is tripped by police, slamming him to the ground. He is later seen bleeding from the head. Protesters attempt to wash his wound with water and give the arrestee a drink.
 
@@ -5295,7 +5295,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/tr00p3rr/status/1308858613222572034
 
 
-### Police hold bound protester in the air while searching them | September 23rd
+### Police hold bound protester in the air while searching them | 2020-09-23
 
 Following an altercation between protesters and police, an arrestee is held in the air by their limbs while police search their pockets. They are then placed in a police van.
 
@@ -5311,7 +5311,7 @@ geolocation: 38.2340347, -85.7129543
 * https://twitter.com/sethdunlap/status/1308867981724745729
 
 
-### Police arrest protesters and press en masse | September 23rd
+### Police arrest protesters and press en masse | 2020-09-23
 
 Police kettle and arrest protesters en masse. One independent journalist was arrested and two journalists for The Daily Caller, a conservative news network, were arrested. An image from a Daily Caller reporter shows him handcuffed to a chain along with other protesters.
 
@@ -5330,7 +5330,7 @@ geolocation: 38.2532118, -85.7604924
 * https://twitter.com/SVNewsAlerts/status/1308969768121229312
 
 
-### Police arrest Kentucky State Representative | September 24th
+### Police arrest Kentucky State Representative | 2020-09-24
 
 At a protest on September 24th, police arrested Kentucky State Representative, Attica Scott, the author of Breonna's Law and the only black state representative for Kentucky. She has been charged with first-degree felony rioting, failure to disperse, and unlawful assembly.
 
@@ -5349,7 +5349,7 @@ geolocation: 38.2440129, -85.7606963
 * https://www.wdrb.com/news/police-arrest-24-including-kentucky-state-rep-attica-scott-during-louisville-protests-thursday/article_666e3cf2-fed4-11ea-8b77-032140df7cd0.html
 
 
-### Police throw stun grenades at peaceful protesters | September 25th
+### Police throw stun grenades at peaceful protesters | 2020-09-25
 
 Police declare an unlawful assembly in Louisville during a protest. Police then immediately throw stun grenades into the crowd without apparent provocation.
 
@@ -5373,7 +5373,7 @@ geolocation: 38.2550354, -85.7419159
 
 ## New Orleans
 
-### Police throw tear-gas at protesters on a bridge. | June 3rd
+### Police throw tear-gas at protesters on a bridge. | 2020-06-03
 
 Police throw tear-gas at protesters that are on the Crescent City Connection bridge and cannot easily disperse.
 
@@ -5401,7 +5401,7 @@ geolocation: 29.9388613, -90.0575441
 
 ## Boston
 
-### Man beaten with baton while being taken into custody | May 31st
+### Man beaten with baton while being taken into custody | 2020-05-31
 
 Footage from a news report shows a man throwing a water bottle at officers. Officers then grab him to arrest him, while another officer beats him repeatedly with his baton. The protester does not appear to be resisting arrest.
 
@@ -5416,7 +5416,7 @@ geolocation: 42.3554362, -71.0605178
 * https://www.wcvb.com/article/boston-police-confront-protesters-in-downtown-crossing/32724753
 
 
-### Police pepper spray protester near Paramount Center | June 1st
+### Police pepper spray protester near Paramount Center | 2020-06-01
 
 Footage from shortly after midnight on June 1st shows two Boston Police officer pepper spraying protesters standing near the Emerson Paramount Center.
 
@@ -5431,7 +5431,7 @@ geolocation: 42.3538167, -71.0621531
 * https://youtu.be/wiaLoeDH-FY?t=7
 
 
-### Officer pepper sprays protester passing by him | June 2nd
+### Officer pepper sprays protester passing by him | 2020-06-02
 
 Bodycam footage from Washington Street, taken around 1:11 AM, shows a protester walking while gesturing with their hands. A police officer off to the side then pepper sprays the protester.
 
@@ -5446,7 +5446,7 @@ geolocation: 42.3553433, -71.060696
 * https://youtu.be/wiaLoeDH-FY?t=29
 
 
-### Officers surround and pepper spray protester | June 2nd
+### Officers surround and pepper spray protester | 2020-06-02
 
 Bodycam footage from early on June 1st, taken near Washington and Hawley, shows several officers surrounding a protester. One officer taps the protester on the shoulder then pepper sprays the protester as they turn.
 
@@ -5461,7 +5461,7 @@ geolocation: 42.3557014, -71.0589667
 * https://youtu.be/wiaLoeDH-FY?t=32
 
 
-### Officers push protesters back and pepper spray them | June 2nd
+### Officers push protesters back and pepper spray them | 2020-06-02
 
 Bodycam footage from 1:20 AM on June 1st, on the East side of Boston Commons, shows officers shouting "Move Back" at protesters while blanketing them with pepper spray.
 
@@ -5476,7 +5476,7 @@ geolocation: 42.3551191, -71.0633205
 * https://youtu.be/wiaLoeDH-FY?t=36
 
 
-### Police approach and pepper spray protesters | June 2nd
+### Police approach and pepper spray protesters | 2020-06-02
 
 Footage taken around 2:10 AM June 1st near Tremont and Bromfield, shows an officer approaching a crowd of protesters and pepper spraying them.
 
@@ -5491,7 +5491,7 @@ geolocation: 42.3569304, -71.0615786
 * https://youtu.be/wiaLoeDH-FY?t=40
 
 
-### Officer shoves protester in Boston Commons | June 2nd
+### Officer shoves protester in Boston Commons | 2020-06-02
 
 Footage from the Boston Commons (Tremont and Park) around 2 AM shows an officer approaching a protester with their hands up. The officer then shoves the protester to the ground with their baton.
 
@@ -5509,7 +5509,7 @@ geolocation: 42.3564833, -71.0620985
 * https://theappeal.org/bodycam-video-shows-mob-mentality-of-boston-police-who-responded-to-george-floyd-protests-lawyer-says/
 
 
-### Officer knocks protester off bike | June 2nd
+### Officer knocks protester off bike | 2020-06-02
 
 Footage near Tremont and Bromfield on June 1st shows police facing off against a crowd of protesters. A hissing sound can be heard (likely pepper spray) and protesters begin to scatter away from police. On individual on a bike has trouble moving. An officer then knocks the individual off the bike with their baton.
 
@@ -5526,7 +5526,7 @@ geolocation: 42.3557595, -71.0628073
 * https://theappeal.org/bodycam-video-shows-mob-mentality-of-boston-police-who-responded-to-george-floyd-protests-lawyer-says/
 
 
-### Officers arrest protester who kicks gas canister | June 2nd
+### Officers arrest protester who kicks gas canister | 2020-06-02
 
 Footage from around 1 AM June 1st, that appears to be on the Tremont side of the Boston Commons, shows a protester kicking back a smoke or gas grenade launched by police. Police can then be heard saying, "Let's get this fucker," and "Lock him up," then charge, tackle, and arrest the protester.
 
@@ -5558,7 +5558,7 @@ geolocation: 42.3566478, -71.0591705
 * https://www.youtube.com/watch?v=egvPF75vWOA
 
 
-### Police arrest and pepper spray protesters in Copley Square | October 18th
+### Police arrest and pepper spray protesters in Copley Square | 2020-10-18
 
 Police are seen making arrests at a protest in Copley Square. As protesters attempt to move closer to film, officers pepper spray protesters and slash at them with their batons. The protest was held by Super Happy Fun America, known for its Straight Pride events. This even was called: "Peaceful Protest Against Democrat Violence." Counter-protesters held a "Kick Facists Out of Boston" rally; it was these counter-protesters who are arrested and assaulted by police.
 
@@ -5576,7 +5576,7 @@ geolocation: 42.350008, -71.0787445
 
 ## Worcester
 
-### Worcester police officers cover badge numbers during protest | June 1st
+### Worcester police officers cover badge numbers during protest | 2020-06-01
 
 A photo shows a Worcester police officer with tape over his badge number.
 
@@ -5591,7 +5591,7 @@ geolocation: 42.2543994, -71.8168882
 * [Officer with covered badge number](https://twitter.com/sebishop99/status/1267877928391659521/photo/1)
 
 
-### Riot police throw protester to the ground | June 1st
+### Riot police throw protester to the ground | 2020-06-01
 
 A reporter following the protest shows video of the riot police line moving to force protesters back. Then notes that during this, a teenage girl is grabbed, thrown to the ground and surrounded.
 
@@ -5613,7 +5613,7 @@ geolocation: 42.2540061, -71.8153817
 * [Additional angle provided by sister](https://twitter.com/sebishop99/status/1267911837808496646)
 
 
-### Riot police fire on protesters without provocation | June 1st
+### Riot police fire on protesters without provocation | 2020-06-01
 
 Officers fire tear gas, rubber bullets and pepper spray BBs at peaceful protesters without warning. Police continue firing as protesters flee.
 
@@ -5628,7 +5628,7 @@ geolocation: 42.253576, -71.816079
 * [Riot police firing on fleeing protestors](https://twitter.com/sebishop99/status/1267913459938844673)
 
 
-### Numerous eyewitness report being tackled by police officers | June 1st
+### Numerous eyewitness report being tackled by police officers | 2020-06-01
 
 Eyewitness reports seeing her boyfriend punched by police officers.
 
@@ -5657,7 +5657,7 @@ geolocation: 42.2634268, -71.8022551
 
 ## Detroit
 
-### Officer charges through other officers to attack a protester who is backing away | May 29th
+### Officer charges through other officers to attack a protester who is backing away | 2020-05-29
 
 At roughly 0:13 in the video, an officer can be seen charging and punching a protester who is backing away.
 
@@ -5672,7 +5672,7 @@ geolocation: 42.3312081, -83.043529
 * https://twitter.com/joeguillen/status/1266563974658744321
 
 
-### Riot police charge peaceful protesters | May 29th
+### Riot police charge peaceful protesters | 2020-05-29
 
 Riot police charge peaceful protesters without warning. The filming protester and numerous others are beaten with riot shields.
 
@@ -5687,7 +5687,7 @@ geolocation: 42.3309973, -83.042790
 * https://twitter.com/julietmariaa/status/1266568356976635904
 
 
-### Police shove and scream at men walking down the street | May 30th
+### Police shove and scream at men walking down the street | 2020-05-30
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
 
@@ -5703,7 +5703,7 @@ geolocation: 42.3348206, -83.0448825
 * [Youtube mirror](https://youtu.be/yRoAXw8cGT4)
 
 
-### Police pepper-spray reporter holding up media badge | May 30th
+### Police pepper-spray reporter holding up media badge | 2020-05-30
 
 Detroit Police pepper-spray a reporter in the face while he holds up a media badge.
 
@@ -5720,7 +5720,7 @@ geolocation: 42.330676, -83.042685
 * https://www.freep.com/story/news/local/michigan/detroit/2020/06/01/journalists-targeted-police-protests-detroit/5302659002/
 
 
-### Police shoot rubber bullets at reporters | May 30th
+### Police shoot rubber bullets at reporters | 2020-05-30
 
 Police tear-gassed and shot rubber bullets at reporters, despite clearly identifying themselves as media
 
@@ -5735,7 +5735,7 @@ geolocation: 42.332364, -83.0575983
 * https://twitter.com/reporterdavidj/status/1266966021077962752
 
 
-### Woman is charged by police and thrown to the ground | May 30th
+### Woman is charged by police and thrown to the ground | 2020-05-30
 
 Police charge protesters. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
 
@@ -5750,7 +5750,7 @@ geolocation: 42.3331454, -83.0440872
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 
-### Police shove reporters | May 31st
+### Police shove reporters | 2020-05-31
 
 Several reporters standing in a designated press zone were charged by Detroit police, shoved, and told to leave the area. The reporters all had visible press passes.
 
@@ -5767,7 +5767,7 @@ geolocation: 42.3302387, -83.0563789
 * https://twitter.com/MKurlyandchik/status/1267359959089586176
 
 
-### Reporter detained without apparent cause | May 31st
+### Reporter detained without apparent cause | 2020-05-31
 
 Footage shows a reporter walking across a park to film an arrest. She is approached by an officer (off camera) who asks who she is with. He then zip-ties her and walks her to another location. Around 4:20, she is released. An individual explaining (not seen, but has the same voice as the arresting officer) says, "You were hanging out with those two people. It looked like they were throwing bottles at us. Do us a favor and trip them when they're running or something to make it easier on us."
 
@@ -5787,7 +5787,7 @@ geolocation: 42.336723, -83.050693
 * https://twitter.com/JustCallmeBHunt/status/1267268955191853057
 
 
-### Police charge protesters and press | June 2nd
+### Police charge protesters and press | 2020-06-02
 
 Police line is seen using shields to push back a small group of protesters. The filmer, a reporter, moves around to the other side of the protesters. At this point, the footage captures another group of police officers charging the protesters from behind without warning.
 
@@ -5808,7 +5808,7 @@ geolocation: 42.405542, -82.997185
 * https://twitter.com/JustCallmeBHunt/status/1267981691529957376
 
 
-### Police use LRAD (sound cannon) to disperse protesters | June 2nd
+### Police use LRAD (sound cannon) to disperse protesters | 2020-06-02
 
 Video shows sound cannon deployed alongside APC. The LRAD can be heard with its characteristic alarm.
 
@@ -5827,7 +5827,7 @@ geolocation: 42.4057561, -82.9967976
 * https://twitter.com/MedvisJackson/status/1267984069905784832
 
 
-### Police run over protesters | June 28th
+### Police run over protesters | 2020-06-28
 
 A police cruiser begins to drive into a line of protesters. Protesters continue to move. The vehicle accelerates repeatedly, knocking several people over. At the end of the footage, the vehicle accelerates, knocking a protester onto the hood, and drives away.
 
@@ -5842,7 +5842,7 @@ geolocation: 42.3083773, -83.1346729
 * https://twitter.com/DJEazyTwist/status/1277430912653950976
 
 
-### Riot police officer chokes protester. Tear gas was also used. | July 11th
+### Riot police officer chokes protester. Tear gas was also used. | 2020-07-11
 
 A Police officer in full riot gear is seen arresting Detroit Will Breathe organizer, Nakia Renne Wallace by chokehold. It was reported another individual was arrested by force with a knee to the neck. Nonviolent protesters were dispersed using shields and batons. Protesters retaliated by throwing bottles and other debris towards the riot police. Police in turn retreated, firing tear gas and smoke canisters into the crowd.
 
@@ -5858,7 +5858,7 @@ geolocation: 42.4171287, -83.148366
 * https://www.instagram.com/p/CCfSTAnjv_k/
 
 
-### Police tear gas protesters | August 22nd
+### Police tear gas protesters | 2020-08-22
 
 Police and protesters faced off at a protest in Detroit, Michigan around midnight on August 22nd. Police deployed gas grenades, believed to be tear gas, and marched towards protesters. Police then struck protesters with batons and shields, arresting several.
 
@@ -5880,7 +5880,7 @@ geolocation: 42.334943, -83.0515963
 * https://twitter.com/ohnoitslydia/status/1297399986120949765
 
 
-### Police officer tackles protester | (Believed to be) August 22nd
+### Police officer tackles protester | (Believed to be) 2020-08-22
 
 While police push protesters down the street, several can be seen milling about further back on the sidewalk. An officer breaks from the line and charges at a protester, tackling them from behind.
 
@@ -5897,7 +5897,7 @@ geolocation: 42.334943, -83.0515963
 
 ## Grand Rapids
 
-### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | May 31st
+### Police spray unarmed man with pepper-spray and shoot him in the face with a teargas canister | 2020-05-31
 
 A single man walks down a street towards a line of police.  The man stops to talk with police, and an officer steps forward, pepper spraying him in the face. The man turns away, and then a tear-gas canister is shot by a different officer directly into the man's head.
 
@@ -5915,7 +5915,7 @@ geolocation: 42.9632153, -85.6700793
 * [Youtube mirror](https://www.youtube.com/watch?v=G_rWrQ6M6Q8&feature=youtu.be)
 
 
-### Law enforcement push and shove a crowd of protesters. | May 31st
+### Law enforcement push and shove a crowd of protesters. | 2020-05-31
 
 Law enforcement push and shove a crowd of peaceful protesters with riot shields.
 
@@ -5933,7 +5933,7 @@ geolocation: 42.9690723, -85.677825
 * https://twitter.com/sparrowsongs_/status/1266948928966139904
 
 
-### Police assault peaceful protesters, among them Breonna Taylor's family members | July 12th
+### Police assault peaceful protesters, among them Breonna Taylor's family members | 2020-07-12
 
 City of Grand Rapids Police Department officers seen pushing, pulling, and shoving peaceful protesters, as they circle around an officer arresting a man.
 
@@ -5956,7 +5956,7 @@ geolocation: 42.9632491, -85.6680429
 
 ## Kalamazoo
 
-### Police fire tear gas at prone protesters | June 1st
+### Police fire tear gas at prone protesters | 2020-06-01
 
 A group of protesters lie on the ground with arms outstretched in front of a ground of police.  Police approach, then fire three pepper balls and a gas canister at protesters from close range.
 
@@ -5973,7 +5973,7 @@ geolocation: 42.291586, -85.5850304
 * [Youtube mirror](https://youtu.be/2e3DR94wBx0)
 
 
-### Police fire tear gas at peaceful protesters | June 2nd
+### Police fire tear gas at peaceful protesters | 2020-06-02
 
 A crowd of peaceful protesters downtown refused to disperse upon curfew taking effect. A protester in a tie-die shirt kicked tear gas away from a fellow kneeling protester, and was then arrested by police against a National Guard humvee.
 
@@ -5991,7 +5991,7 @@ geolocation: 42.291570, -85.5871492
 * [IBB image backup of Asst. Chief and City Manager kneeling](https://ibb.co/Fgrwqkj)
 
 
-### Reporter covering Proud Boys arrested | August 15th
+### Reporter covering Proud Boys arrested | 2020-08-15
 
 A journalist with MLive was covering a Proud Boys rally on August 15th. Footage shows him arrested while standing in the street. He states he was charged with impeding traffic.
 
@@ -6008,7 +6008,7 @@ geolocation: 42.2923954, -85.5847184
 * https://twitter.com/PolarBarrett/status/1294742239499911170
 
 
-### Police charge, pepper spray, and tackle protesters | August 15th
+### Police charge, pepper spray, and tackle protesters | 2020-08-15
 
 Police charge at protesters, pepper spraying indiscriminately. One protester is also tackled to the ground.
 
@@ -6029,7 +6029,7 @@ geolocation: 42.2916306, -85.5845007
 
 ## Minneapolis
 
-### Police hit press in neck and head with wooden baton | May 26th
+### Police hit press in neck and head with wooden baton | 2020-05-26
 
 A group of cops start to approach a group of press taking photos and video. One press member repeats "we have our hands up and we have press passes". An officer walking by points in the direction of a photographer and says something indiscernable. The camera pans to show a cop hitting the photographer in the neck and head with a wooden baton.
 
@@ -6045,7 +6045,7 @@ geolocation: 44.9478663, -93.2348835
 * https://gfycat.com/distinctsecretgrasshopper-minneapolis-protest-police-acab
 
 
-### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | May 26th
+### Man has his gun confiscated in an open carry state, violating his 2nd amendment rights | 2020-05-26
 
 Man encounters police arresting people open carrying (~3 minutes in), man is then also put in handcuffs (~5 minutes in) and his gun taken.
 
@@ -6060,7 +6060,7 @@ geolocation: 44.9413248, -93.2626097
 * https://www.facebook.com/damicedsota.thespiritflow/videos/10216865788705633/UzpfSTEwMDAxMTAzODkyNjEwMzpWSzoyNjczNDU4ODUyOTMzODE2/
 
 
-### Police shoot flashbang grenades into crowd | believed to be May 26th or 27th
+### Police shoot flashbang grenades into crowd | (Believed to be) 2020-05-26
 
 Police on the rooftop of the 3rd precinct fire flashbang grenades into crowd of peaceful protesters.
 
@@ -6076,7 +6076,7 @@ geolocation: 44.948110, -93.2369906
 * https://www.facebook.com/1462345700/posts/10220863812572745
 
 
-### Police force press and local business owner into store | May 29th
+### Police force press and local business owner into store | 2020-05-29
 
 A Unicorn Riot crew was interviewing the owner of Trio Plant Based, a local restaurant, when police began marching down the street. Police ordered the reporters to go inside the restaurant. The reporters refused, stating that they, as members of the press, are legally allowed to be on the sidewalk. Officers then shoved the restaurant owner and the journalists into the restaurant.
 
@@ -6091,7 +6091,7 @@ geolocation: 44.948400, -93.287540
 * https://twitter.com/UR_Ninja/status/1266652249650016257
 
 
-### Police storm gas station, attacking reporters who show press badges | May 30th
+### Police storm gas station, attacking reporters who show press badges | 2020-05-30
 
 Michael Adams, correspondent for VICE News, films officers entering a parking lot. He cooperates, laying on the ground when asked, and repeatedly states he is press. While on the ground, he is sprayed in the face with pepper spray.
 
@@ -6109,7 +6109,7 @@ geolocation: 44.947897, -93.233858
 * https://www.vice.com/en_us/article/y3zd7g/i-told-riot-cops-im-a-journalist-they-forced-me-to-the-ground-and-pepper-sprayed-me-in-the-face
 
 
-### Continuation of gas station event; Awaijane family told to go inside gas station, they comply and seek shelter inside, police then shoot rubber bullets and tear gas inside the building | May 30th
+### Continuation of gas station event; Awaijane family told to go inside gas station, they comply and seek shelter inside, police then shoot rubber bullets and tear gas inside the building | 2020-05-30
 
 The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
 
@@ -6124,7 +6124,7 @@ geolocation: 44.947897, -93.233858
 * https://youtu.be/46qWpv-yFE8?t=268
 
 
-### Police drive by spraying | May 30th
+### Police drive by spraying | 2020-05-30
 
 Police officers drive through a crowd of protesters at 5th and Hennepin, pepper spraying protesters out their windows as they pass.
 
@@ -6140,7 +6140,7 @@ geolocation: 44.9797273, -93.2724735
 * https://twitter.com/stribrooks/status/1266186985041022976
 
 
-### CNN Reporter arrested | May 30th
+### CNN Reporter arrested | 2020-05-30
 
 Police arrest CNN reporter Omar Jimenez and his crew after refusing to give them information on where to relocate.
 
@@ -6155,7 +6155,7 @@ geolocation: 44.948388, -93.234033
 * https://www.youtube.com/watch?v=aNuzzVpDZTY
 
 
-### WCCO photojournalist arrested | May 30th
+### WCCO photojournalist arrested | 2020-05-30
 
 While trying to capture footage of the police tear-gassing a crowd of people, Tom Aviles of the WCCO is told to move back. He asks where; officers again tell him to move back. He moves away, then stops, apparently looking for his producer. He begins moving away again and is arrested shortly thereafter by an officer.
 
@@ -6173,7 +6173,7 @@ geolocation: 44.963300, -93.277390
 * https://twitter.com/greg_doucette/status/1266958068807544839
 
 
-### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
+### CNN crew shot at with rubber bullets and tear gas while live on air | 2020-05-30
 
 CNN reporter Ali Veshi continues reporting while being shot at with rubber bullets and tear gas.
 
@@ -6188,7 +6188,7 @@ geolocation: 44.961980, -93.277830
 * https://mobile.twitter.com/chadloder/status/1266962631887224837
 
 
-### Swiss journalists shot at with rubber bullets by police | May 30th
+### Swiss journalists shot at with rubber bullets by police | 2020-05-30
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
@@ -6207,7 +6207,7 @@ geolocation: 44.9467051, -93.2775134
 * https://pressfreedomtracker.us/all-incidents/despite-identifying-press-multiple-journalists-shot-projectiles-minneapolis-law-enforcement/
 
 
-### Camera man shot by police | May 30th
+### Camera man shot by police | 2020-05-30
 
 Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS.
 
@@ -6223,7 +6223,7 @@ geolocation: 44.947840, -93.277430
 * https://twitter.com/bubbaprog/status/1266912774833287169
 
 
-### CBS crew fired upon by police. | May 30th
+### CBS crew fired upon by police. | 2020-05-30
 
 A crew of CBS reporters was fired on by police while they were not standing anywhere close to protesters. Police did not give a warning and the reporters were wearing their press credentials. The sound engineer was hit on the arm.
 
@@ -6240,7 +6240,7 @@ geolocation: 44.948590, -93.279250
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
 
 
-### Medics talk about police destroying tent and slashing tires. | May 30th
+### Medics talk about police destroying tent and slashing tires. | 2020-05-30
 
 Medics set up a tent, police shot rubber bullets and gas at their facility in a Kmart parking lot at Nicollet and Lake St. Medics state they announced clearly their tent had only medics and wounded, but police and National Guard opened fire. After the medics left, officers destroyed their tent and prevented medics from returning. Medics also state police slashed tires.
 
@@ -6257,7 +6257,7 @@ geolocation: 44.9483554, -93.2801132
 * https://www.youtube.com/watch?v=gfb_zJiMTFU
 
 
-### Law enforcement officers slash car tires. | May 30th
+### Law enforcement officers slash car tires. | 2020-05-30
 
 Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St.
 
@@ -6276,7 +6276,7 @@ geolocation: 44.9483554, -93.2801132
 * https://twitter.com/andrewkimmel/status/1267012840197586946?s=20
 
 
-### Police pepper spray journalist as she is walking away | May 30th
+### Police pepper spray journalist as she is walking away | 2020-05-30
 
 A journalist with Mill City Citizen Media is filming a street fire at a protest. An LRAD dispersal weapon can be heard throughout the two minute footage.
 
@@ -6293,7 +6293,7 @@ geolocation: 44.948342, -93.288088
 * https://www.facebook.com/MillCityCitizenMedia/videos/1000023607067899/
 
 
-### Minnesota state patrol push French journalist multiple times | May 30th
+### Minnesota state patrol push French journalist multiple times | 2020-05-30
 
 A French journalist is filming a city bus carrying riot police. Police disembark from the bus and order the journalists in the area to move. As the filmer is walking in the direction specified by officers, police repeatedly shove them.
 
@@ -6308,7 +6308,7 @@ geolocation: 44.9449902, -93.2778787
 * https://twitter.com/phil_leblancSRC/status/1266907398003924992
 
 
-### Police shoot at a woman on her porch | May 31st
+### Police shoot at a woman on her porch | 2020-05-31
 
 In an attempt to move residents inside, the police fire shots at them.
 
@@ -6324,7 +6324,7 @@ geolocation: 44.9528354, -93.2766137
 * https://www.abc.net.au/news/2020-06-02/minneapolis-woman-shot-at-by-police-during-george-floyd-protests/12310592
 
 
-### LA Times employee recounts getting shot | May 31st
+### LA Times employee recounts getting shot | 2020-05-31
 
 The woman proceeds to tell the story of what she faced while trying to get footage.
 
@@ -6341,7 +6341,7 @@ geolocation: 44.9462400, -93.277920
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
 
-### Reporter's car window broken by police projectile | May 31st
+### Reporter's car window broken by police projectile | 2020-05-31
 
 Ryan Faircloth, reporter for Star Tribune, says police shot out his passenger window with a marker round, and that he was cut by shards of glass. Videos show his face and arm bloodied, the passenger window of his car shattered, and glass spread over the floorboard and carseats. He says that he was driving away from a roadblock at the time.
 
@@ -6362,7 +6362,7 @@ geolocation: 44.9483807, -93.2292709
 * [Local news article mentioning this and other incidents](https://www.twincities.com/2020/05/30/journalists-report-being-fired-on-gassed-in-minneapolis-george-floyd-protests/)
 
 
-### Police slashes tires | May 31st
+### Police slashes tires | 2020-05-31
 
 In the *Mother Jones* article linked below, video footage shows police slashing tires of vehicles on a highway overpass, believed to be the I-35 W bridge between University and Washington Avenues. Additional tweets indicate possible police slashing of cars in a Kmart parking lot, though these may be from May 30th (see mn-minneapolis-29).
 
@@ -6379,7 +6379,7 @@ geolocation: 44.9756288, -93.2524958
 * https://lawandcrime.com/george-floyd-death/strategically-deflated-authorities-admit-to-slashing-tires-on-cars-belonging-to-protesters-and-journalists-in-minneapolis/
 
 
-### CBS news crew shot with rubber bullets | May 31st
+### CBS news crew shot with rubber bullets | 2020-05-31
 
 While filming, Mike George's CBS news crew is shot with rubber bullets.
 
@@ -6395,7 +6395,7 @@ geolocation: 44.9478956, -93.2797332
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
 
 
-### Police throw flashbangs at reporter | May 31st
+### Police throw flashbangs at reporter | 2020-05-31
 
 MSNBC reporters are with a crowd of people walking away from an advancing line of police. Police throw some sort of explosive device at the crowd, almost hitting the reporters. It is unclear what their purpose is in using the explosive
 
@@ -6410,7 +6410,7 @@ geolocation: 44.947790, -93.279390
 * https://twitter.com/atrupar/status/1266910910137995264
 
 
-### Police blind a reporter with rubber bullet | May 31st
+### Police blind a reporter with rubber bullet | 2020-05-31
 
 The picture shows the reporter's eye has been damaged, and potentially blinded.
 
@@ -6429,7 +6429,7 @@ geolocation: 44.9484100, -93.234749
 * https://twitter.com/KillerMartinis/status/1266786161143537669
 
 
-### Police shoot Reuters reporters with rubber bullets | May 31st
+### Police shoot Reuters reporters with rubber bullets | 2020-05-31
 
 The article given below shows that the Reuters crew was hit with rubber bullets
 
@@ -6444,7 +6444,7 @@ geolocation: 44.947610, -93.276739
 * https://www.reuters.com/article/us-minneapolis-police-protest-update/reuters-cameraman-hit-by-rubber-bullets-as-police-disperse-protesters-idUSKBN237050
 
 
-### Police shoot at, threaten to arrest reporter | May 31st
+### Police shoot at, threaten to arrest reporter | 2020-05-31
 
 German reporter for DW News is shot at by Minneapolis police, who then threaten to arrest him.
 
@@ -6459,7 +6459,7 @@ geolocation: 44.945920, -93.276684
 * https://www.youtube.com/watch?v=NN8ISwuiX68
 
 
-### Police stop SUV to drive-by pepper-spray protesters through window | May 31st
+### Police stop SUV to drive-by pepper-spray protesters through window | 2020-05-31
 
 Police responding to a medical emergency – a tanker truck deliberately running over protesters – slow down to pepper-spray folks from their SUV. Location: I-35W Exit 17C off ramp. Some car numbers involved: first spraying (0:08) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
@@ -6474,7 +6474,7 @@ geolocation: 44.9751649, -93.2487013
 * https://twitter.com/keycodez/status/1267235529311113216/video/1
 
 
-### Patient care assistant reports being shot with rubber bullets while treating injured protesters | May 31st
+### Patient care assistant reports being shot with rubber bullets while treating injured protesters | 2020-05-31
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
@@ -6491,7 +6491,7 @@ geolocation: 44.948527, -93.2780103
 * https://mobile.twitter.com/chadloder/status/1266957030285127687
 
 
-### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
+### Journalists pepper sprayed and hit with flashbangs and batons | 2020-05-31
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches. One reporter states he and his colleagues suffered vomiting and burning skin as a result.
 
@@ -6509,7 +6509,7 @@ geolocation: 44.945700, -93.277929
 * https://twitter.com/Wiita_BEST/status/1267128694616752130
 
 
-### Police beat and pepper spray protesters | May 31st
+### Police beat and pepper spray protesters | 2020-05-31
 
 Protester who repeatedly says he cannot see is shoved by an officer with a baton. The filmer yells at the officer that the protester is having trouble seeing. The officer pepper sprays the filmer.
 
@@ -6525,7 +6525,7 @@ geolocation: 44.9784885, -93.2755338
 * https://www.tiktok.com/@laurenxorose/video/6833031215541521669
 
 
-### Police shoot impact munitions at French news team and arrest them | May 31st
+### Police shoot impact munitions at French news team and arrest them | 2020-05-31
 
 A news team for TF1, a major French network, was reporting at Minneapolis protests on May 31st. One member, the videographer, was driving a rental car when police shot the car with impact munitions, believed to be rubber bullets, foam bullets, or pepper balls. He and his colleague were then zip-tied and arrested despite showing officers their press badges. They were charged with misdemeanor curfew violation.
 
@@ -6546,7 +6546,7 @@ geolocation: 44.948348, -93.270319
 * https://www.ozap.com/actu/une-equipe-de-tf1-prise-pour-cible-et-arretee-a-minneapolis/593563
 
 
-### Minnesota state patrol fire tear gas and impact munitions at press | May 31st
+### Minnesota state patrol fire tear gas and impact munitions at press | 2020-05-31
 
 A CNN crew is filming protests in Minneapolis when police begin firing tear gas and impact munitions. The crew is standing off to the side, well away from the main protest. Police fire tear gas and other munitions in their direction, striking the producer. Omar Jimenez provides narration; he was arrested by Minneapolis police the same day.
 
@@ -6562,7 +6562,7 @@ geolocation: 44.946954, -93.277930
 * https://twitter.com/RockodileCroc/status/1266963861040553985
 
 
-### Journalist shows alleged rubber bulet injury | June 1st
+### Journalist shows alleged rubber bulet injury | 2020-06-01
 
 A journalist shows a wound on his leg consistent with injuries from a non-lethal round. Forensic Architecture has stated he was hit with a rubber bullet.
 
@@ -6577,7 +6577,7 @@ geolocation: 44.946633, -93.277938
 * https://twitter.com/LionelDonovan3/status/1267477984300208128
 
 
-### Officer pepper sprays protester | August 26th
+### Officer pepper sprays protester | 2020-08-26
 
 A protester and an officer exchange words at close distance. The officer then pepper sprays the protester.
 
@@ -6593,7 +6593,7 @@ geolocation: 44.9776884, -93.274012
 * [Full stream; 7:30](https://youtu.be/ava1HJ4qIlg?t=450)
 
 
-### Officer shoots at fleeing protester | August 26th
+### Officer shoots at fleeing protester | 2020-08-26
 
 A protester says something to an officer in Minneapolis. The officer says, "What was that? You're becoming a problem." The protester runs away and the officer fires his riot gun at the protester.
 
@@ -6609,7 +6609,7 @@ geolocation: 44.9737913, -93.2712205
 * [Full stream](https://youtu.be/ava1HJ4qIlg)
 
 
-### Police arrest and injure protester | December 4th
+### Police arrest and injure protester | 2020-12-04
 
 During a small protest on December 4th, police made several arrests, mostly for obstructing the legal system. During one of these arrests at Chicago and 38th, an officer singled out a black protester watching the arrest. The officer approaches the protester, who begins to step away. The officer then chases the protester and throws him to the ground, allegedly dislocating his shoulder.
 
@@ -6630,7 +6630,7 @@ geolocation: 44.9342249, -93.2624022
 
 ## Kansas City
 
-### Police pepper spray and arrest protester holding sign | May 30th
+### Police pepper spray and arrest protester holding sign | 2020-05-30
 
 A freelance photographer captured an incident near J.C. Nichols and Ward parkways, showing a Kansas City Police officer pepper spraying a protester. The protester is standing several feet away and holding a sign above their head.
 
@@ -6646,7 +6646,7 @@ geolocation: 39.0408207, -94.587949
 * https://www.facebook.com/KuhlPics/photos/a.467614509924515/3214027235283215/?type=3&theater
 
 
-### Police arrest man for speaking and tear-gas nearby protesters | May 30th
+### Police arrest man for speaking and tear-gas nearby protesters | 2020-05-30
 
 A line of police stand well apart from a crowd of protesters, one of whom is speaking about the police's use of excessive force. Several officers move in to arrest the speaking man, pepper spraying him and others at point-blank range. The arrested man is dragged/pushed/falls face down onto the road and is pinned there by police.
 
@@ -6663,7 +6663,7 @@ geolocation: 39.0425846, -94.5880446
 * https://twitter.com/Elise_Villa/status/1266923192612016129
 
 
-### Police pepper spray protesters walking away and later arrest one of them | May 31st
+### Police pepper spray protesters walking away and later arrest one of them | 2020-05-31
 
 A video linked shows the police pepper spraying some protesters who don't seem to be doing anything particularly wrong and we see a black woman in a black top with a bright yellow design on the back being sprayed in the eyes. In a separate video we see that same woman being arrested.
 
@@ -6679,7 +6679,7 @@ geolocation: 39.0452546, -94.588827
 * https://twitter.com/whoareyoujudy_/status/1266968858159702017
 
 
-### Police tear gas a park | May 31st
+### Police tear gas a park | 2020-05-31
 
 Video shows the police tear gassing an entire park, including one baby in Kansas City. The incident appears to take place around the J.C. Nichols Memorial fountain.
 
@@ -6694,7 +6694,7 @@ geolocation: 39.0426191, -94.5875483
 * https://twitter.com/imunoz03/status/1266908372881768448
 
 
-### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
+### Kansas City police attempt to arrest a man leading the protest then spray the crowd | 2020-05-31
 
 Footage shows a protester speaking to other protesters on a megaphone. Police grab him and drag him to arrest. Other protesters come to his aid and are pepper-sprayed.
 
@@ -6710,7 +6710,7 @@ geolocation: 39.043128, -94.5882934
 * https://old.reddit.com/r/PublicFreakout/comments/guswxo/he_wasnt_even_addressing_the_police/
 
 
-### Police arrest peaceful protester, pepper-spray others | May 31st
+### Police arrest peaceful protester, pepper-spray others | 2020-05-31
 
 With tactics remarkably similar to mo-kansascity-2, police grab a protester standing alone in the street. Other protesters come to aid him and are summarily pepper-sprayed. He is taken behind the police line and arrested.
 
@@ -6726,7 +6726,7 @@ geolocation: 39.0421858, -94.5890322
 * https://twitter.com/lovlitae/status/1268676585269473280
 
 
-### Police pull away protester and pepper sprays others | June 1st
+### Police pull away protester and pepper sprays others | 2020-06-01
 
 A police officer pulls away a protester standing still. When others come to the protester's aid they are pepper sprayed.
 
@@ -6742,7 +6742,7 @@ geolocation: 39.0425007, -94.5880276
 * [Location via Google Street View](https://www.google.ca/maps/place/Giralda/@39.0425007,-94.5880276,3a,75y,208.49h,97.09t/data=!3m6!1e1!3m4!1sJzy4NglPGxJe3YarImT1Og!2e0!7i16384!8i8192!4m5!3m4!1s0x87c0efb6174d21e9:0xa50781025e9c6d35!8m2!3d39.0417847!4d-94.5879815)
 
 
-### Couple pepper-sprayed; woman knocked unconscious; man blinded by rubber bullet | June 2nd
+### Couple pepper-sprayed; woman knocked unconscious; man blinded by rubber bullet | 2020-06-02
 
 A couple states that they attended a peaceful protest in the early afternoon with their dog. After seeing police allegedly beat a trumpeter, they took their dog home and returned.
 
@@ -6763,7 +6763,7 @@ geolocation: 39.0430404, -94.5882485
 
 ## Ferguson
 
-### Police violently push, shove, and arrest protesters | August 8th
+### Police violently push, shove, and arrest protesters | 2020-08-08
 
 At protests honoring the 6th anniversary of Mike Brown's death, police charged at protesters, pushing them from one side of the street to another. Police discharged pepper spray en masse and tackled numerous protesters to make arrests. One protester is seen helping another over a short fence; an officer grabs this protester by the backpack and hurls them to the ground. The officer continues to yank the backpack. The protester slips off the backpack and runs away.
 
@@ -6780,7 +6780,7 @@ geolocation: 38.7406715, -90.3034495
 * https://twitter.com/RachelDRice/status/1292663621852573696
 
 
-### Police pepper spray media personel | August 8th
+### Police pepper spray media personel | 2020-08-08
 
 Chris Philips, a well known member of the media in the Ferguson area, discusses being pepper sprayed by police without and order to of dispersal. He states that he was not recording at the time and was preparing to head home when police decided to rush at protesters. Pepper spray is visible on his face and torso as he walks away and tries to recover
 
@@ -6797,7 +6797,7 @@ geolocation: 38.7406715, -90.3034495
 
 ## Florissant
 
-### Florissant officer hits man with unmarked police vehicle | June 2nd
+### Florissant officer hits man with unmarked police vehicle | 2020-06-02
 
 A resident's door bell camera captures a officer running over a man, who is heard screaming "I don't have anything" and attempting to escape after getting hit. The officer kicks the man while he is down once and then hits him again with his forearm.
 
@@ -6820,7 +6820,7 @@ geolocation: 38.7470515, -90.2771242
 * https://www.ksdk.com/article/news/crime/florissant-officer-fired/63-022e88b0-2926-4716-9576-de0f212f52e7
 
 
-### Police push protesters off lawn | June 27th
+### Police push protesters off lawn | 2020-06-27
 
 Protesters gathered in the parking lot of a Florissant police station. Officers declared the assembly unlawful and began to push protesters from the lawn into the parking lot. Officers used shields & batons to strike and shove protesters. Numerous protesters were arrested. Footage shows one arrested protester hurled violently to the ground. Footage also shows police targeting individuals taking photos and video on the side of the protests; these individuals were pushed back among the protesters as well. Additionally, multiple witnesses state protesters with megaphones were targeted.
 
@@ -6844,7 +6844,7 @@ geolocation: 38.7984162, -90.3194466
 * https://twitter.com/NassimBnchabane/status/1277056390314541056
 
 
-### Police shove, pepper spray, and arrest protesters | July 5th
+### Police shove, pepper spray, and arrest protesters | 2020-07-05
 
 Footage shows police using shields and batons to shove protesters. Protesters attempting to flee are pepper sprayed. At least one protester is tackled to the ground and arrested. Police continue pushing protesters out of the precinct and into the street. More arrests are made and more pepper spray is deployed.
 
@@ -6861,7 +6861,7 @@ geolocation: 38.7984162, -90.3194466
 * https://twitter.com/Ohun_Ashe/status/1280150603839295490
 
 
-### Police shoot at protesters in designated protest area | July 6th
+### Police shoot at protesters in designated protest area | 2020-07-06
 
 Police created a designated protest zone for protesters. Protesters allegedly stepped outside the protest zone, so the protest was deemed an unlawful assembly. However, protesters state that police continued to fire at them after they returned to the protest zone.
 
@@ -6887,7 +6887,7 @@ geolocation: 38.7984162, -90.3194466
 
 ## Lincoln
 
-### Police arrest protesters leaving scene | May 31st
+### Police arrest protesters leaving scene | 2020-05-31
 
 A crowd gathers around a woman who is being arrested. After she is pulled away, police give a dispersal order. Protesters comply, but appear to exchange words with officers while walking away. Police then shout that they are under arrest, shoving protesters to the ground and kneeling on them to make arrests.
 
@@ -6903,7 +6903,7 @@ geolocation: 40.8080063, -96.7098667
 * https://twitter.com/greg_doucette/status/1268772480153460736
 
 
-### Reporter shows tear gas canister fired at him by police | May 31st
+### Reporter shows tear gas canister fired at him by police | 2020-05-31
 
 A reporter posted a picture of a tear gas canister, allegedly used in Lincoln protests. In the tweet, he states he and his photographer were tear gassed twice by police.
 
@@ -6919,7 +6919,7 @@ geolocation: 40.8080063, -96.7098667
 * https://twitter.com/ChrisDunkerLJS/status/1268981851164684290
 
 
-### Woman bleeding from face after being shot by police | May 31st
+### Woman bleeding from face after being shot by police | 2020-05-31
 
 After a protester threw a firework at police, police shot tear gas and impact munitions. A journalist livestreaming the incident shows a woman bleeding from the face after being shot by police. She states she was shot by a rubber bullet.
 
@@ -6937,7 +6937,7 @@ geolocation: 40.806950, -96.7062707
 
 ## Omaha
 
-### Police mace, shoot pepper bullets at protesters sitting on the ground | May 31st
+### Police mace, shoot pepper bullets at protesters sitting on the ground | 2020-05-31
 
 A bunch of protesters peacefully sitting on the ground were shot at and maced. A group of police officers pushed these civilians on to the ground and hit them.
 
@@ -6952,7 +6952,7 @@ geolocation: 41.2597757, -96.0279152
 * https://twitter.com/XruthxNthr/status/1266903223220097024
 
 
-### Peaceful protesters arrested for breaking curfew | June 1
+### Peaceful protesters arrested for breaking curfew | 2020-06-01
 
 Omaha law enforcement officer kicks protester already on the ground. Another officer carries a reporter away from the scene.
 
@@ -6970,7 +6970,7 @@ geolocation: 41.2554905, -95.933442
 * https://twitter.com/greg_doucette/status/1267649720215834626
 
 
-### Police officer shoves protester on bike; police then escalate | July 25th
+### Police officer shoves protester on bike; police then escalate | 2020-07-25
 
 Footage shows a police officer shoving a protester on a bike. Police then fire impact munitions at protesters and shove protesters back. Protesters are pushed back to the highway fence. An officer grabs a protester standing around and takes him to the ground to arrest him. Police arrest more individuals, including the filmer, a journalist. The journalist states she has a press badge. The officer says, "I don't know that that's real," and arrests her, cuffing her with zip-ties.
 
@@ -6987,7 +6987,7 @@ geolocation: 41.2576981, -95.953845
 * https://twitter.com/greg_doucette/status/1287443337440616450
 
 
-### Police initiate and escalate violence against protesters | November 21st
+### Police initiate and escalate violence against protesters | 2020-11-21
 
 At a protest outside the Omaha Police Headquarters, a police officer shoves a group of protesters on the sidewalk, kicking off a shoving match between police and protesters. Several other officers join, striking protesters with batons and spraying them with pepper spray.
 
@@ -7008,7 +7008,7 @@ geolocation: 41.2555701, -95.9357824
 
 ## Las Vegas
 
-### Police arrest a man for speaking at them from a distance | May 29th
+### Police arrest a man for speaking at them from a distance | 2020-05-29
 
 Officer line moves protesters back and as protesters comply they attempt to arrest a man that was not visibly violent.
 
@@ -7023,7 +7023,7 @@ geolocation: 36.1146208, -115.171627
 * https://twitter.com/itsraiialex/status/1266770032719040513
 
 
-### Police shove numerous protesters to the ground | May 29th
+### Police shove numerous protesters to the ground | 2020-05-29
 
 Officer line begins to advance towards protesters, shoving numerous protesters to the ground as they do.
 
@@ -7038,7 +7038,7 @@ geolocation: 36.1149508, -115.173056
 * https://twitter.com/bridgetkbennett/status/1266561128185819136
 
 
-### Police charge into peaceful crowd shouting "grab anybody" | May 30th
+### Police charge into peaceful crowd shouting "grab anybody" | 2020-05-30
 
 LVPD attacked and arrested peaceful protesters, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
@@ -7056,7 +7056,7 @@ geolocation: 36.1141356, -115.1639253
 * https://pressfreedomtracker.us/all-incidents/photojournalist-arrested-covering-las-vegas-protest/
 
 
-### Police shove and drag man through the street | May 31st
+### Police shove and drag man through the street | 2020-05-31
 
 Police were seen walking a detained man down the sidewalk before grabbing a man walking by unprompted, and dragging him by his shirt collar, despite the man not resisting.
 
@@ -7074,7 +7074,7 @@ geolocation: 36.1715062, -115.1463527
 * https://www.instagram.com/p/CA14rooHIC6/?utm_source=ig_web_copy_link
 
 
-### Police jump out of car to shove protesters | June 1st
+### Police jump out of car to shove protesters | 2020-06-01
 
 A police vehicle stops at an intersection; protesters are gathered on the sidewalk nearby. Several officers jump out of the car and rush onto the sidewalk, shoving and chasing protesters.
 
@@ -7090,7 +7090,7 @@ geolocation: 36.1200251, -115.1725831
 * https://www.tiktok.com/@lord.vizi/video/6833963763486461190
 
 
-### Police charge and shove protesters | June 20th
+### Police charge and shove protesters | 2020-06-20
 
 Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protesters. They can be seen throwing multiple individuals to the ground and kicking one.
 
@@ -7113,7 +7113,7 @@ geolocation: 36.1175823, -115.1730403
 
 ## Asbury Park
 
-### Police arrest woman and reporter | June 1st
+### Police arrest woman and reporter | 2020-06-01
 
 Footage shows a woman tackled by multiple officers and thrown into bushes before an officer kneels on her to make an arrest. Another protester is arrested in the background.
 
@@ -7140,7 +7140,7 @@ geolocation: 40.219163, -74.013538
 
 ## Albuquerque
 
-### Student journalist struck by ricocheting foam bullet | June 1st
+### Student journalist struck by ricocheting foam bullet | 2020-06-01
 
 Police deployed tear gas and foam bullets against protesters. One student journalist was struck by a ricocheting foam bullet.
 
@@ -7163,7 +7163,7 @@ geolocation: 35.0835569, -106.6518393
 
 ## Buffalo
 
-### Police tackle man giving interview | June 1st
+### Police tackle man giving interview | 2020-06-01
 
 Three police officers run over to and tackle man with hands raised giving an interview to local news. Location: Bailey Avenue & Decker Street, Buffalo.
 
@@ -7178,7 +7178,7 @@ geolocation: 42.9288045, -78.815845
 * https://twitter.com/secretlaith/status/1268251322467450880
 
 
-### Police shove elderly man, causing him to fall and hit the back of his head | June 4th
+### Police shove elderly man, causing him to fall and hit the back of his head | 2020-06-04
 
 Two police officers shove an unarmed, elderly man ([reportedly 75 years old](https://twitter.com/HannahBuehler/status/1268742666210226177)), who falls backwards and strikes his head on the concrete sidewalk. He appears to begin bleeding from his ear and passes out.
 
@@ -7206,7 +7206,7 @@ geolocation: 42.886546, -78.8794732
 * [Follow-up story](https://www.wkbw.com/news/local-news/suspended-buffalo-police-officers-back-on-payroll)
 
 
-### Reporter shot at after identifying himself | June 5th
+### Reporter shot at after identifying himself | 2020-06-05
 
 Reporter shot at over a dozen times at close range and arrested, despite identifying himself. Was told his 1st Amendment rights did not matter.
 
@@ -7223,7 +7223,7 @@ geolocation: 42.887420, -78.877836
 
 ## East Meadow
 
-### Police officer stops abrubtly so protester bumps into him; police arrest him after this | June 12th
+### Police officer stops abrubtly so protester bumps into him; police arrest him after this | 2020-06-12
 
 A protester is seen walk side-by-side with an officer. The officer steps in front of him and stops such that the protester lightly grazes the officer.
 
@@ -7245,7 +7245,7 @@ geolocation: 40.7251255, -73.5570234
 
 ## Ithaca
 
-### Police pepper spray protesters in dispersal attempt | October 22nd
+### Police pepper spray protesters in dispersal attempt | 2020-10-22
 
 Protesters gathered outside the Ithaca Police Headquarters on October 22nd. After protesters allegedly climbed on the building and broke windows, police then allegedly deployed tear gas; neither of these claims have visual confirmation yet.
 
@@ -7266,7 +7266,7 @@ geolocation: 42.4370354, -76.4996632
 
 ## Merrick
 
-### Police charge and arrest peaceful protesters | June 6th
+### Police charge and arrest peaceful protesters | 2020-06-06
 
 A police contingent far outnumbering protesters shows up to block roads. Protesters are peaceful and the majority follow order to back away. Nonetheless, footage shows arrests and police charging at protesters.
 
@@ -7285,7 +7285,7 @@ geolocation: 40.688831, -73.5624529
 
 ## New York City
 
-### Police make violent arrests, officer breaks baton striking protester | May 28th
+### Police make violent arrests, officer breaks baton striking protester | 2020-05-28
 
 Footage taken at Union Square and East 17th street shows multiple officers grabbing and shoving a protester to make an arrest. Another protester confronts an officer who strikes the protester in the legs with a baton. The baton snaps in two.
 
@@ -7300,7 +7300,7 @@ geolocation: 40.7365484, -73.991144
 * https://twitter.com/ShimonPro/status/1266136557871869952
 
 
-### Police make violent arrest at Union Square | May 28th
+### Police make violent arrest at Union Square | 2020-05-28
 
 Footage shows a woman arguing with a police officer at a protest near Union Square. The officer grabs her by the backpack and pulls her. Other protesters attempt to help and police intervene. Police then shove the crowd back and arrest the protester. Allegedly, 33 people were arrested at this scene.
 
@@ -7315,7 +7315,7 @@ geolocation: 40.7360037, -73.9936554
 * https://twitter.com/NY1/status/1266159669262893057
 
 
-### Police shove woman to the ground, inducing a seizure | May 29th
+### Police shove woman to the ground, inducing a seizure | 2020-05-29
 
 Footage shows police using bikes to shove protesters on the sidewalk. One protester appears to be forced over a concrete divider by the chassis of a bike.
 
@@ -7338,7 +7338,7 @@ geolocation: 40.6839626, -73.9772962
 * https://www.democracynow.org/2020/6/15/dounya_zayer_nypd_attack
 
 
-### Police drive by man and hit him with car door | May 29th
+### Police drive by man and hit him with car door | 2020-05-29
 
 A police officer opens their car door to knock an individual down to the ground. The incident on Classon Avenue between Gates and Quincy in Brooklyn.
 
@@ -7359,7 +7359,7 @@ geolocation: 40.6852172, -73.9592084
 * https://abc7ny.com/caught-on-camera-nypd-brutality-nyc-curfew-george-floyd-protests/6239075/
 
 
-### Member of the New York State Assembly pepper-sprayed | May 29th
+### Member of the New York State Assembly pepper-sprayed | 2020-05-29
 
 Assemblywoman Diana Richardson talks about being pepper-sprayed at the Barclays Center.
 
@@ -7375,7 +7375,7 @@ geolocation: 40.6839626, -73.9772962
 * https://twitter.com/GwynneFitz/status/1266522692326428672
 
 
-### Police shove protester to the ground | May 29th
+### Police shove protester to the ground | 2020-05-29
 
 Footage taken at a protest at Tompkins and Lexington Avenues in Brooklyn shows a police officer using batons to shove a protester backwards onto the ground.
 
@@ -7390,7 +7390,7 @@ geolocation: 40.6883824, -73.9471136
 * https://twitter.com/nycDSA/status/1266562453686665217
 
 
-### Police shove protesters to the ground | May 29th
+### Police shove protesters to the ground | 2020-05-29
 
 Footage taken at a protest at Classon and Putnam Avenues in Brooklyn shows an officer approaching a protester and shoving her to the ground without warning.
 
@@ -7405,7 +7405,7 @@ geolocation: 40.6830306, -73.9610349
 * https://twitter.com/mfstange/status/1266564340381036544
 
 
-### Police shove and grab protesters | May 29th
+### Police shove and grab protesters | 2020-05-29
 
 Footage taken at a protest at Classon and Lafayette Avenues in Brooklyn shows police shoving numerous protesters. Police shove several into the road. A woman then argues with police. She is shoved by one officer, then a second officer grabs her, pushing her down the street. Officers then charge down the street, one of whom makes a clear effort to shove a protester on a bicycle as he passes.
 
@@ -7420,7 +7420,7 @@ geolocation: 40.6888887, -73.962207
 * https://twitter.com/JohnPhilpNY/status/1266595992427790338
 
 
-### Police chase and tackle protester, shove a second protester into a car | May 29th
+### Police chase and tackle protester, shove a second protester into a car | 2020-05-29
 
 Footage taken at 67 5th Avenue in Brooklyn shows police chasing down a protester. They tackle the protester and hold them down to arrest. Another protester approaches and is thrown against the side of a car. This protester then falls to the ground and appears to be unconscious.
 
@@ -7438,7 +7438,7 @@ geolocation: 40.6805929, -73.9795787
 * https://www.instagram.com/p/CAzSOtGlKQY/
 
 
-### Police shove protester into the road | May 29th
+### Police shove protester into the road | 2020-05-29
 
 Footage taken by a reporter at Classon and Lafayette Avenues in Brooklyn shows police chasing a protester who allegedly threw eggs at the police. A protester stands on the sidewalk and is shoved into the road, falling to the ground.
 
@@ -7455,7 +7455,7 @@ geolocation: 40.6888887, -73.962207
 * https://twitter.com/NickAtNews/status/1266567790095486976
 
 
-### Police officer strikes protester | May 29th
+### Police officer strikes protester | 2020-05-29
 
 Footage taken at Flatbush and Pacific in Brooklyn shows a police officer punching a protester who approached him in the face.
 
@@ -7470,7 +7470,7 @@ geolocation: 40.6831133, -73.978948
 * https://twitter.com/nateschweber/status/1266539107632758784
 
 
-### Police officer shoves protesters | May 29th
+### Police officer shoves protesters | 2020-05-29
 
 At the corner of Classon and DeKalb in Brooklyn, footage shows two protesters standing off with police. An officer in their blind spot shoves them, knocking one to the ground.
 
@@ -7485,7 +7485,7 @@ geolocation: 40.6903649, -73.9624829
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
 
 
-### NYPD beat people with batons | May 30th
+### NYPD beat people with batons | 2020-05-30
 
 The NYPD Squad are seen beating protesters with batons and pushing them around.
 
@@ -7500,7 +7500,7 @@ geolocation: 40.6839626, -73.9772962
 * https://twitter.com/j0ncampbell/status/1266514356071735296
 
 
-### Cop shoves a guy into a metal fence | May 30th
+### Cop shoves a guy into a metal fence | 2020-05-30
 
 A police officer shoves a man repeatedly off the road and into a metal fence by the sidewalk.
 
@@ -7516,7 +7516,7 @@ geolocation: 40.6944043, -74.0091173
 * https://twitter.com/BTSsavedmylife9/status/1266754310161006594
 
 
-### Cop shoving a person to the ground towards metal trash bins | May 30th
+### Cop shoving a person to the ground towards metal trash bins | 2020-05-30
 
 At the intersection of Bergen and 5th, an NYPD officer pushes a civilian down towards trash cans.
 
@@ -7532,7 +7532,7 @@ geolocation: 40.6814898, -73.9770145
 * https://twitter.com/greg_doucette/status/1266850004720812032
 
 
-### Huffpost reporter is arrested by NYPD | May 30th
+### Huffpost reporter is arrested by NYPD | 2020-05-30
 
 Despite clearly identifying himself, the reporter was taken into custody during a protest.
 
@@ -7549,7 +7549,7 @@ geolocation: 40.650712, -73.951185
 * https://twitter.com/greg_doucette/status/1268205679292055552
 
 
-### NYPD rams protesters | May 30th
+### NYPD rams protesters | 2020-05-30
 
 An NYPD SUV's path is blocked by a crowd of protesters at Flatbush and St. Marks. Protesters begin throwing things at the SUV. Another NYPD SUV drives up alongside the first, then drives through the crowd, forcing protesters out of its way. The first car then drives forward, ramming the dense crowd of civilians in front of it. NYPD's internal affairs bureau conducted a review and found no wrongdoing. The police commissioner said that "preliminarily we have an accounting of that incident where we have officers in a situation where they're essentially being penned in by protesters," but it seems from the video as though, throughout the incident, both cars have a clear route of escape behind them.
 
@@ -7568,7 +7568,7 @@ geolocation: 40.6796161, -73.9741384
 * https://thehill.com/homenews/state-watch/503967-nypd-commissioner-officers-who-drove-into-protesters-did-not-violate-use?amp
 
 
-### High-ranking NYPD officer shoves protesters with plastic barricade | May 30th
+### High-ranking NYPD officer shoves protesters with plastic barricade | 2020-05-30
 
 An NYPD officer in a white shirt, denoting a rank of Lieutenant or higher, uses a plastic barricade to shove protesters back. He then topples the barricade and charges at protesters.
 
@@ -7583,7 +7583,7 @@ geolocation: 40.6819992, -73.9762472
 * https://twitter.com/letsgomathias/status/1266903135303450631
 
 
-### Street medic is arrested | May 30th
+### Street medic is arrested | 2020-05-30
 
 An NYPD officer kneels on the back of a street medic to arrest him. Footage additionally shows the officer destroying medical supplies used to aid tear gas victims. This occurred near 2807 Church Avenue in Brooklyn.
 
@@ -7598,7 +7598,7 @@ geolocation: 40.6507626, -73.9509756
 * https://twitter.com/PNickCurran/status/1266966295653777408
 
 
-### Reporter is arrested and detained for 6 hours | May 30th
+### Reporter is arrested and detained for 6 hours | 2020-05-30
 
 CNN commentator, Keith Boykin, was arrested by the NYPD and detained for 6 hours. He was released with a summons for "walking on the highway," and for "disorderly conduct - blocking vehicle traffic." He claims traffic was already blocked by both police and protesters.
 
@@ -7618,7 +7618,7 @@ geolocation: 40.795980, -73.974910
 * https://www.youtube.com/watch?v=tojt5i0dNV4
 
 
-### Police arrest woman on bike | May 30th
+### Police arrest woman on bike | 2020-05-30
 
 A woman on a bike attempts to maneuver around a police van near Cooper Union. An officer jumps out and yanks her from the bike. Another officer throws the bike to the side as several slam her against the van to arrest her.
 
@@ -7634,7 +7634,7 @@ geolocation: 40.7285093, -73.9906297
 * https://twitter.com/greg_doucette/status/1268189319002537989
 
 
-### Police officer shoves protester | May 30th
+### Police officer shoves protester | 2020-05-30
 
 Footage from a Union Square protest shows an officer using his baton to shove a protester.
 
@@ -7649,7 +7649,7 @@ geolocation: 40.7362553, -73.9924972
 * https://twitter.com/annikahouse/status/1266931806563176451
 
 
-### Police shove protesters | May 30th
+### Police shove protesters | 2020-05-30
 
 Footage from at protest along the Flatbush Avenue Extension in Brooklyn shows several instances of police shoving protesters.
 
@@ -7670,7 +7670,7 @@ geolocation: 40.6936936, -73.9833128
 * https://twitter.com/jeancosme/status/1266938900184006656
 
 
-### Officers shove and grab protesters | May 30th
+### Officers shove and grab protesters | 2020-05-30
 
 In an incident at Bedford and Tilden Avenues in Brooklyn, an officer pushes through a crowd and grabs a person by the neck to push them aside. Another officer knocks the person over, and the first officer throws the person down again when they try to get up.
 
@@ -7685,7 +7685,7 @@ geolocation: 40.6463818, -73.957429
 * https://twitter.com/BrooklynSpoke/status/1266845497446318081
 
 
-### Already-arrested protester is choked and thrown to the ground | May 30th
+### Already-arrested protester is choked and thrown to the ground | 2020-05-30
 
 Footage from Bedford and Tilden Avenues in Brooklyn shows a protester with his hands behind his back being walked away by police. Another officer approaches, grabs him by the neck and throws him to the ground.
 
@@ -7700,7 +7700,7 @@ geolocation: 40.6463818, -73.957429
 * https://twitter.com/justawren/status/1266945853828280330
 
 
-### Journalist and protesters beaten with batons | May 30th
+### Journalist and protesters beaten with batons | 2020-05-30
 
 Footage taken by an off-duty journalist (at the protest to film but not on a mandate from their employer) at 137 Fourth Avenue in Manhattan shows a fire on a sidewalk. Police clear the area around the fire, then begin indiscriminately striking the filmer and protesters with batons. Another individual struck by police can be seen holding a camera and is heard stating he is press.
 
@@ -7716,7 +7716,7 @@ geolocation: 40.7335782, -73.9918699
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394878/id149_annote-1254w.mp4
 
 
-### Indiscriminate use of pepper spray | May 30th
+### Indiscriminate use of pepper spray | 2020-05-30
 
 After 2 protesters allegedly threw objects at police at Church and Rogers Avenues in Brooklyn, an officer is seen discharging pepper spray on all protesters gathered near him.
 
@@ -7731,7 +7731,7 @@ geolocation: 40.6506757, -73.9546764
 * https://twitter.com/PNickCurran/status/1266959923641974784
 
 
-### Police violently clear protesters around squad car | May 30th
+### Police violently clear protesters around squad car | 2020-05-30
 
 After protesters had gathered around a squad car near Bedford and Tilden Avenues in Brooklyn, police are seen shoving protesters and striking them with batons - knocking one protester to the ground - in an effort to clear the area around the car.
 
@@ -7746,7 +7746,7 @@ geolocation: 40.6463818, -73.957429
 * https://twitter.com/spiccoli/status/1266861960982913030
 
 
-### Police beat hospital employee walking home | May 31st
+### Police beat hospital employee walking home | 2020-05-31
 
 Rayne Valentine, a hospital employee in Brooklyn, states he was walking home on the night of the 31st after an overtime shift assisting with COVID-19 care. Valentine states he saw police chasing a teen and began recording. After a short interaction, police began beating Valentine. He states that police then threw his phone to him and left. Valentine then walked back to the hospital, where he received 2 CT scans and 7 staples.
 
@@ -7761,7 +7761,7 @@ geolocation: 40.6508346, -73.949475
 * https://www.thedailybeast.com/even-medical-workers-fighting-covid-say-cops-are-attacking-them-at-george-floyd-protests?ref=home
 
 
-### Police pull off protesters mask to pepper spray him | May 31st
+### Police pull off protesters mask to pepper spray him | 2020-05-31
 
 A police officer forcefully pulls off a protesters face mask and pepper sprays him. The protester had his hands up in surrender when this happened.
 
@@ -7781,7 +7781,7 @@ geolocation: 40.6831896, -73.9767184
 * https://twitter.com/AliVelshi/status/1269079615080890368
 
 
-### Police assault protesters | May 31st
+### Police assault protesters | 2020-05-31
 
 Police officers are seen beating and assaulting men and women for standing around peacefully.
 
@@ -7796,7 +7796,7 @@ geolocation: 40.6867584, -73.9754921
 * https://twitter.com/theactivistTati/status/1266889419858075649
 
 
-### State senator pepper sprayed | May 31st
+### State senator pepper sprayed | 2020-05-31
 
 Image shows Senator Zellnor Myrie with pepper spray in his eyes.
 
@@ -7811,7 +7811,7 @@ geolocation: 40.6823663, -73.9764769
 * https://twitter.com/zellnor4ny/status/1266802303807500288
 
 
-### Protesters with hands up assaulted by police | May 31st
+### Protesters with hands up assaulted by police | 2020-05-31
 
 Protesters had their hands up, yet were pepper sprayed in the face.
 
@@ -7826,7 +7826,7 @@ geolocation: 40.6447837, -73.9547017
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gu2u28/more_documented_aggression_in_flatbush_brooklyn/
 
 
-### Police injure journalist | May 31st
+### Police injure journalist | 2020-05-31
 
 Police hit an African American journalist for the WSJ in the face multiple times. He lost his glasses and injured his ankle as he was following instructions to back away and had his hands up. He had his press badge displayed.
 
@@ -7845,7 +7845,7 @@ geolocation: 40.678098, -73.944270
 * https://www.cnn.com/2020/06/02/media/wall-street-journal-assault-nypd-protest-investigation/index.html
 
 
-### Officers beat man until his face and belongings are bloody | May 31st
+### Officers beat man until his face and belongings are bloody | 2020-05-31
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
@@ -7864,7 +7864,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/greg_doucette/status/1268649158761689089
 
 
-### NYPD denies 6th amendment rights to protesters | May 31st
+### NYPD denies 6th amendment rights to protesters | 2020-05-31
 
 Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
 
@@ -7879,7 +7879,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/GoodCallNYC/status/1267128759951523846
 
 
-### Police charge at peaceful crowd | May 31st
+### Police charge at peaceful crowd | 2020-05-31
 
 Police charge at a peaceful protest, knocking protesters off bikes, throwing others to the ground, and making numerous arrests
 
@@ -7894,7 +7894,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/drivenbyboredom/status/1267263490009546753
 
 
-### Multiple police officers assault woman | May 31st
+### Multiple police officers assault woman | 2020-05-31
 
 A woman is seeing moving another protester from the scene in an apparent attempt at de-escalation. She is shoved by multiple officers. She appears to jerk her hand back from an officer, at which point, several officers pull her away, striking her with their fists, feet and batons.
 
@@ -7910,7 +7910,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.tiktok.com/@skoodupcam1/video/6833172353724239109
 
 
-### Police chase and beat protesters | May 31st
+### Police chase and beat protesters | 2020-05-31
 
 Footage shows a man with his hands up backing away from a band of police officers (approximately 10-20). As the man backs across an intersection, an officer charges up to shove him. Officers then chase him and several bystanders, before tackling the man to the ground and beating him.
 
@@ -7925,7 +7925,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/brandon212_/status/1267184037547986944
 
 
-### Police pepper spray and assault protesters | May 31st
+### Police pepper spray and assault protesters | 2020-05-31
 
 Footage from Broadway and E 12th Street in Manhattan shows an officer shoving, elbowing and pepper spraying numerous protesters standing on the sidewalk with their hands up.
 
@@ -7940,7 +7940,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/DavidASiffert/status/1267297196157947904
 
 
-### Several violent arrests made by police | May 31st
+### Several violent arrests made by police | 2020-05-31
 
 Footage taken near Barclays Center and Atlantic Terminal in Brooklyn shows violent arrests made by police. Allegedly kicked off by a protester throwing a water bottle, police shove protesters and strike them with batons. In particular, footage shows multiple officers striking one protester on the ground with batons.
 
@@ -7960,7 +7960,7 @@ geolocation: 40.684260, -73.977522
 * https://int.nyt.com/data/videotape/finished/2020/07/1594412956/id109_annote-1254w.mp4
 
 
-### Protester shoved into trash | May 31st
+### Protester shoved into trash | 2020-05-31
 
 Footage taken at Fourth Ave and Pacific St in Brooklyn shows an officer using his baton to shove a protester holding his hands up into a pile of curbside trash set out for pickup.
 
@@ -7975,7 +7975,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394783/0_id35-1254w.mp4
 
 
-### Police officer pepper sprays protesters across barricade | May 31st
+### Police officer pepper sprays protesters across barricade | 2020-05-31
 
 Footage taken at FDR drive and Houston street shows police and protesters separated by a concrete barrier. Police are on the road side of the barrier. An officer approaches the barrier and discharges pepper spray at several protesters filming.
 
@@ -7990,7 +7990,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394781/0_id34-1254w.mp4
 
 
-### Police strike protesters with batons | May 31st
+### Police strike protesters with batons | 2020-05-31
 
 Footage from Canal and Green St in Manhattan shows protesters walking backwards away from police. Police shove protesters who are walking slowly. After shoving a protester, an officer gets into an alercation with that protester. Several officers beat the protester with their batons.
 
@@ -8005,7 +8005,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/GwynneFitz/status/1267267195870097413
 
 
-### Officer threatens protesters with what appears to be a handgun | June 1st
+### Officer threatens protesters with what appears to be a handgun | 2020-06-01
 
 Officer is seen at 12th and Broadway brandishing what appears to be a handgun and pointing it at protesters.
 
@@ -8020,7 +8020,7 @@ geolocation: 40.6851078, -73.9782489
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
 
 
-### Alleged looter pulled from car and beaten | June 1st
+### Alleged looter pulled from car and beaten | 2020-06-01
 
 Footage shows a cluster of NYPD officers striking a vehicle with batons and kicking it, before pulling the driver onto the street and arresting them. Footage shows police smashed several of the car's windows.
 
@@ -8042,7 +8042,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/greg_doucette/status/1270020411443613696
 
 
-### Officer pepper sprays passerby | June 1st
+### Officer pepper sprays passerby | 2020-06-01
 
 Footage taken at 41 E 57th St in Manhattan shows an officer running down the street. He pepper sprays several bystanders as he runs past them.
 
@@ -8057,7 +8057,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.youtube.com/watch?v=kkO0FLBKK6Y
 
 
-### Police officer body slams protester | June 2nd
+### Police officer body slams protester | 2020-06-02
 
 A police officer comes from behind a protester, lifts him over shoulder height and then slams him into the road, head first.
 
@@ -8076,7 +8076,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/altochulo/status/1268018561571840000
 
 
-### Police beat protesters leaving Stonewall Inn solidarity protest | June 2nd
+### Police beat protesters leaving Stonewall Inn solidarity protest | 2020-06-02
 
 Police beat protesters leaving Stonewall Inn after a demonstration honoring queer and people of color who died at hands of police, in solidarity with George Floyd. One man had his arm broken and required multiple staples to close wounds on his head.
 
@@ -8091,7 +8091,7 @@ geolocation: 40.7338366, -74.0043513
 * https://www.lgbtqnation.com/2020/06/cops-beat-lgbtq-protestors-leaving-demonstration-stonewall-inn/
 
 
-### Officers beat man with batons | (Believed to be) June 2nd
+### Officers beat man with batons | (Believed to be) 2020-06-02
 
 Police are seen on Greene Street in SoHo, beating a man trying to escape, hitting him multiple times with batons, instead of trying to detain him.
 
@@ -8107,7 +8107,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.reddit.com/r/PublicFreakout/comments/gv43ar/police_beat_man_without_even_attempting_to_arrest/
 
 
-### Man walking his bike beaten by officers with batons | June 3rd
+### Man walking his bike beaten by officers with batons | 2020-06-03
 
 At 50th Street and 3rd Avenue, a man crossing the street with his bike at a stoplight crosswalk is beaten by police with batons.
 
@@ -8124,7 +8124,7 @@ geolocation: 40.6851078, -73.9782489
 * https://www.dailymail.co.uk/news/article-8388515/NYPD-cop-beats-cyclist-nightstick-tries-away.html
 
 
-### Protester beaten with baton | June 2nd
+### Protester beaten with baton | 2020-06-02
 
 Footage taken at West and Rector Streets in Manhattan shows a protester in the road with a bike. An officer attempts to take it, but the protester holds on. The officer then uses his baton to press against the protester's neck before striking the protester in the legs. Other officers join to separate the protester from their bike.
 
@@ -8139,7 +8139,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394866/0_id140-1254w.mp4
 
 
-### Protester grabbed by hair | June 2nd
+### Protester grabbed by hair | 2020-06-02
 
 In an incident at 17 Battery Place in Manhattan, police are forcibly arresting several protesters on a paved pedestrian area. A protester argues with an officer. The officer shoves her and grabs her by the hair. Another officer joins in; the two grab her by the arms, force her to the ground, and one officer kneels on the protester to arrest her.
 
@@ -8154,7 +8154,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394858/id136_annote-1254w.mp4
 
 
-### Protester with bike tackled by police | June 2nd
+### Protester with bike tackled by police | 2020-06-02
 
 In an incident at West and Rector Streets in Manhattan, a protester is confronted by an officer, who grabs his bike and tells him to release it. A second officer charges into frame, tackling the protester and grabbing him by the backpack. More officers join to separate the protester from his bike. The initial officer brandishes his baton and strikes either the bike or the protester. A final officer kneels on the protester.
 
@@ -8169,7 +8169,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394855/0_id131-1254w.mp4
 
 
-### Violent arrests made at entrance to Hugh Carey Tunnel | June 2nd
+### Violent arrests made at entrance to Hugh Carey Tunnel | 2020-06-02
 
 In an incident outside the Hugh Carey Tunnel (West and Morris Streets in Manhattan), police are seen kneeling on a protester to arrest them. The filmer walks down the street, following the advancing police line. An NYPD official wearing a jacket bearing the word "LEGAL," throws a protester's skateboard off the road. The filmer then captures several officers pinning down a protester to arrest them. An officer stands and strikes the protester with his baton repeatedly.
 
@@ -8184,7 +8184,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/awinston/status/1267975128324898818
 
 
-### Police collide with woman; she pushes back; police escalate | June 2nd
+### Police collide with woman; she pushes back; police escalate | 2020-06-02
 
 In an incident at Fourth and Atlantic Avenues in Brooklyn, footage shows police chasing a protester down the sidewalk. Police appear to trip the protester, who falls to the ground. Police then strike and jab him with batons. A white-shirted officer arrives and steps on the protester's neck
 
@@ -8199,7 +8199,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394791/id46_annote-1254w.mp4
 
 
-### Police assault peaceful protesters | June 2nd
+### Police assault peaceful protesters | 2020-06-02
 
 In an incident at Fifth Avenue and 83rd st in Manhattan, an officer moves into a crowd of protesters, grabs a protester by the shirt from behind and drags them. When the protester resists and another attempts to help, police tackle the first protester. The second protester is lifted and thrown to the ground.
 
@@ -8214,7 +8214,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394788/id45_annote-1254w.mp4
 
 
-### NYPD officers beat woman | June 2nd
+### NYPD officers beat woman | 2020-06-02
 
 A woman is walking on the sidewalk with a peaceful protest near the China Institute. Officers walk beside her. She turns to see them and an officer strikes her in the face. Other officers then pull her from the protest and surround her to make an arrest.
 
@@ -8230,7 +8230,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/beustmode/status/1268190262355988481
 
 
-### Motorist honks in support of protest; Police stop her | June 3rd
+### Motorist honks in support of protest; Police stop her | 2020-06-03
 
 A motorist driving by the protest outside Barclays Center honks in support. An NYPD officer approaches her and demands her keys, threatening to arrest her. Protesters intervene and distract the officers so the motorist is able to leave.
 
@@ -8246,7 +8246,7 @@ geolocation: 40.6831896, -73.9767184
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-35.1.mp4)
 
 
-### Police confiscate protester's bike | June 3rd
+### Police confiscate protester's bike | 2020-06-03
 
 Footage from outside Borough Hall shows NYPD officer grabbing a protester's bike and walking away with it, citing curfew restrictions as the reason for seizure.
 
@@ -8265,7 +8265,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/ArminRosen/status/1268353371318214660
 
 
-### Police officer punches detained protester repeatedly | June 3rd
+### Police officer punches detained protester repeatedly | 2020-06-03
 
 Footage taken at Cadman Plaza in Brooklyn shows several officers detaining a protester. One officer approaches and punches the protester repeatedly.
 
@@ -8280,7 +8280,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394876/0_id147-1254w.mp4
 
 
-### Police shove protesters | June 3rd
+### Police shove protesters | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows officers pushing a protest. Several officers are seen shoving protesters.
 
@@ -8295,7 +8295,7 @@ geolocation: 40.6851078, -73.9782489
 * https://int.nyt.com/data/videotape/finished/2020/07/1594404564/id137_annote-1254w.mp4
 
 
-### Police choke and beat bicyclist | June 3rd
+### Police choke and beat bicyclist | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows an officer grabbing a protester with a bicycle and choking them before slamming them to the ground and arresting them.
 
@@ -8311,7 +8311,7 @@ geolocation: 40.6851078, -73.9782489
 * [Full Video](https://twitter.com/Axelohh/status/1268649155595055104)
 
 
-### Police strike and shove protesters | June 3rd
+### Police strike and shove protesters | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows officers and protesters meeting. Officers use their batons to shove protesters, including one astride a bike.
 
@@ -8326,7 +8326,7 @@ geolocation: 40.6851078, -73.9782489
 * https://twitter.com/mattieump/status/1269094834926649349
 
 
-### Police shove their way through a crowd of protesters | June 3rd
+### Police shove their way through a crowd of protesters | 2020-06-03
 
 Footage from Cadman Plaza in Brooklyn shows protesters lock arms on the sidewalk to protect injured protesters as police approach. Police begin shoving the protesters and striking them with batons, including the injured protester lying on the ground.
 
@@ -8342,7 +8342,7 @@ geolocation: 40.6851078, -73.9782489
 * [Full 15 minute video](https://www.instagram.com/tv/CA_odIIjXCM/?igshid=1x9dd6psx40tj)
 
 
-### NYPD Officers hit and knock down a protester and a journalist | June 4th
+### NYPD Officers hit and knock down a protester and a journalist | 2020-06-04
 
 Police strike a protester with batons, before tackling him and arresting him. They shove other protesters with batons. Shortly after, police pin a man to the ground and kneel on him to make an arrest. A journalist identifies herself at the scene (link 3) and is credited with a first-person video (link 2) of the incident where she is shoved by police as she displays her press badge and films.
 
@@ -8362,7 +8362,7 @@ geolocation: 40.6656956, -73.9509033
 * https://twitter.com/greg_doucette/status/1269103085584093184
 
 
-### Officers arrest cyclists; a man who questions police is clubbed in the neck | June 4th
+### Officers arrest cyclists; a man who questions police is clubbed in the neck | 2020-06-04
 
 Two women with bikes are being questioned by officers. One woman is cuffed and arrested. A man, later revealed in the tweet to be an ACLU employee, asks the officers what they are doing and what the woman did, while filming. Multiple officers move him back; a strike is heard as well as the man choking. The man states "What was that? You hit me in the fucking neck" multiple times. Location: Brooklyn.
 
@@ -8377,7 +8377,7 @@ geolocation: 40.693804, -73.9905544
 * https://twitter.com/sa0un/status/1268933117827571714
 
 
-### Protesters detained more than 24 hours by police; upheld by NY Judge | June 4th
+### Protesters detained more than 24 hours by police; upheld by NY Judge | 2020-06-04
 
 The Legal Aid Society, a law firm for low-income families and individuals, filed an emergency lawsuit after learning protesters had been detained for over 24 hours without arraignment, in violation of New York state law.
 
@@ -8398,7 +8398,7 @@ geolocation: 40.7120659, -74.004574
 * https://twitter.com/LegalAidNYC/status/1268680588753547265
 
 
-### Food delivery driver arrested | June 4th
+### Food delivery driver arrested | 2020-06-04
 
 NYPD arrested a DoorDash/Caviar delivery person for violating the curfew, although food delivery workers are exempt from curfew restrictions.
 
@@ -8418,7 +8418,7 @@ geolocation: 40.7993739, -73.961277
 * https://twitter.com/greg_doucette/status/1268767102623715329
 
 
-### Police break up neighborhood BBQ, beating and arresting partygoers | June 4th
+### Police break up neighborhood BBQ, beating and arresting partygoers | 2020-06-04
 
 Police shut down a birthday party on private property on Eastern Parkway in Crown Heights. The party was occurring after curfew, but witnesses say police first claimed they wree responding to a noise complaint. Then allegedly stated the partygoers needed to go inside due to the curfew, the curfew restrictions did not apply to private property, which includes the building's stoop and yard. A partygoer states that he and others begain to clean up, but police then began forcing people back into the building before they had time to comply.
 
@@ -8446,7 +8446,7 @@ geolocation: 40.6690594, -73.9472662
 * https://twitter.com/greg_doucette/status/1269788200630996993
 
 
-### NYPD target non-protesting legal observers | June 4th
+### NYPD target non-protesting legal observers | 2020-06-04
 
 A CUNY grad student working with the National Lawyers Guild (NLG), often identified by neon hats, states he was approached by eight officers emerging from an unmarked van. He states he told police he was working with the NLG and that the curfew had not yet begun.
 
@@ -8465,7 +8465,7 @@ geolocation: 40.806283, -73.9223574
 * https://www.youtube.com/watch?v=yuJWAEqfHO8
 
 
-### NYPD pushes crowd into tight space and makes violent mass arrests | June 4th
+### NYPD pushes crowd into tight space and makes violent mass arrests | 2020-06-04
 
 At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protesters into an increasingly tight space and use pepper spray and batons. Police then proceeded to make violent mass arrests. Footage shows use of batons and shields to strike protesters and police kneeling on protesters to make arrests.
 
@@ -8489,7 +8489,7 @@ geolocation: 40.806283, -73.9223574
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394851/id126_annote-1254w.mp4
 
 
-### Police arrest hospital employee acting as medic | June 4th
+### Police arrest hospital employee acting as medic | 2020-06-04
 
 A crowd gathers around as a man in scrubs is arrested.
 
@@ -8507,7 +8507,7 @@ geolocation: 40.8072338, -73.920519
 * https://twitter.com/left_voice/status/1268897203508084736
 
 
-### Police shove multiple reporters | June 4th
+### Police shove multiple reporters | 2020-06-04
 
 At protests on the night of June 4th, multiple reporters share footage of police shoving them with batons. One reporter states she was released from arrest after showing her press badge, but says she was shoved around first.
 
@@ -8523,7 +8523,7 @@ geolocation: 40.764361, -73.973066
 * https://twitter.com/RosalindZAdams/status/1268729386213298180
 
 
-### Couple arrested on their stoop for cheering protesters | June 4th
+### Couple arrested on their stoop for cheering protesters | 2020-06-04
 
 A woman states she was arrested on the stoop of her home (which is private property and exempt from curfew restrictions) after cheering on passing protesters. Her footage shows a man being arrested while police tell the others to go inside because of the curfew, despite the fact that their stoop is acceptable under curfew restrictions.
 
@@ -8539,7 +8539,7 @@ geolocation: 40.7993739, -73.961277
 * https://twitter.com/shainataub/status/1268920887467802625
 
 
-### Police officer hides badge number and name | June 4th
+### Police officer hides badge number and name | 2020-06-04
 
 Video shows a police officer with a strip of tape covering his badge number. In addition, he has removed his name tag. He states he has received direct orders from above to do so.
 
@@ -8554,7 +8554,7 @@ geolocation: 40.6976763, -73.992832
 * https://twitter.com/BreezeCrypto/status/1268595409733156868
 
 
-### Police grab protester by the hair, shove her into car | June 4th
+### Police grab protester by the hair, shove her into car | 2020-06-04
 
 After a scuffle between protesters and police at Washington Ave and Fulton St in Brooklyn, a protester walking away is grabbed by the hair and thrown into the side of a police car. The officer shoves a second protester into the car as well.
 
@@ -8569,7 +8569,7 @@ geolocation: 40.6830473, -73.9669762
 * https://twitter.com/Axelohh/status/1268750326150111232
 
 
-### Polie shove protester on bike | June 4th
+### Polie shove protester on bike | 2020-06-04
 
 A person at Flushing and Marcy Avenues in Brooklyn, is walking a bicycle and appears to be holding a pizza. A white-shirted officer shoves them into the side of a car, sending the pizza flying.
 
@@ -8584,7 +8584,7 @@ geolocation: 40.6997763, -73.9522988
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394873/id145_annote-1254w.mp4
 
 
-### Police single out, choke, and arrest protest organizer | June 4th
+### Police single out, choke, and arrest protest organizer | 2020-06-04
 
 Footage taken at E 136th St and Brook Ave in the Bronx shows police pointing out and attempting to apprehend protest organizer Shannon Jones. She retreats onto the sidewalk and the crowd of protesters protects her. Police then charge into the crowd. A white-shirted officer isolates Shannon, chokes, grabs, and shoves her. When another protester intervenes, the officer punches him and shoves him away. Jones is then arrested.
 
@@ -8599,7 +8599,7 @@ geolocation: 40.806283, -73.9223574
 * https://www.youtube.com/watch?v=eXceGpFwVEE
 
 
-### Officer shoves protester | June 4th
+### Officer shoves protester | 2020-06-04
 
 Footage taken at E 136th St and Brook Ave in the Bronx shows protesters confronting police on bikes. A protester steps forward near police and appears to say something. An officer shoves the protester and yells: "Back up."
 
@@ -8614,7 +8614,7 @@ geolocation: 40.806283, -73.9223574
 * https://twitter.com/jangelooff/status/1268698274371944451
 
 
-### Officer punches protester repeatedly | June 4th
+### Officer punches protester repeatedly | 2020-06-04
 
 Footage from Lee Avenue and Heyward Street in Brooklyn shows police piling on multiple protesters. Notably, one officer punches a protester repeatedly.
 
@@ -8629,7 +8629,7 @@ geolocation: 40.7019419, -73.9579104
 * https://twitter.com/OLIVERIVARD/status/1268763639772839936
 
 
-### White-shirted officers shove protesters | June 4th
+### White-shirted officers shove protesters | 2020-06-04
 
 Footage taken from a Periscope stream filmed at Washington Ave and Fulton St in Brooklyn shows a crowd of protesters marching. Two white-shirted officers push through the crowd, shoving protesters. An officer appears to grab a protester in a manner similar to a horse collar before releasing them and chasing after another protester.
 
@@ -8646,7 +8646,7 @@ geolocation: 40.6830473, -73.9669762
 * [Full Periscope Video](https://www.pscp.tv/w/1MYxNklkrlvKw)
 
 
-### Police shove protester to the ground | (Believed to be) June 4th
+### Police shove protester to the ground | (Believed to be) 2020-06-04
 
 After a protester is pepper sprayed, other protesters gather around the protester while a medic treats them. The filmer is struck repeatedly by an officer with a baton and shoved to the ground, apparently injuring his knee.
 
@@ -8661,7 +8661,7 @@ geolocation: 40.6941007, -73.9905591
 * https://www.tiktok.com/@kiakekate/video/6834753267575033093
 
 
-### Police shove protester off bike | June 5th
+### Police shove protester off bike | 2020-06-05
 
 Footage shoves a small crowd of protesters arguing with police at Nostrand Avenue and Crown Street. A cyclist is in the bike lane. An officer shoves him multiple times until he is thrown off the bike to the curb. The cyclist appears to have trouble getting up, but the footage then cuts off.
 
@@ -8676,7 +8676,7 @@ geolocation: 40.666299, -73.9530244
 * https://twitter.com/C_Sommerfeldt/status/1269110624132489217
 
 
-### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
+### Multiple police officers tackle cyclist protester one officer punches head of protester | 2020-06-06
 
 Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
 
@@ -8692,7 +8692,7 @@ geolocation: 40.6982906, -73.9848027
 * https://nyc.streetsblog.org/2020/06/08/see-it-police-beat-up-cyclist-during-black-lives-matter-protest/
 
 
-### Police escalate to violence at Queer Liberation March | June 28th
+### Police escalate to violence at Queer Liberation March | 2020-06-28
 
 The NYC queer liberation march occupied streets around Washington Square Park. Police arrived and forcefully moved protesters off the streets, beginning by shoving protesters and by striking them with batons. Police escalated to using pepper-spray. Police made several arrests.
 
@@ -8719,7 +8719,7 @@ geolocation: 40.7316366, -73.9991034
 * [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
 
 
-### Police shove bicyclist to the ground | June 28th
+### Police shove bicyclist to the ground | 2020-06-28
 
 Footage shows a protester with a bicycle standing behind a police van. An officer walks over and shoves him to the ground with his baton.
 
@@ -8734,7 +8734,7 @@ geolocation: 40.7322033, -73.9986267
 * https://twitter.com/greg_doucette/status/1277636698806116352
 
 
-### Police shove their way through crowd | June 28th
+### Police shove their way through crowd | 2020-06-28
 
 At part of the Pride March, protesters gathered inside the park, a pedestrian & bike only zone. Footage shows crowd chanting "Shame" as 3 police officers make their way through the crowd. One officer appears to shove his way through. As he exits the crowd, he continues to shove protesters who are standing idly by. The other two officers walk him away, appearing to try and calm him down.
 
@@ -8749,7 +8749,7 @@ geolocation: 40.7322138, -73.9986388
 * https://twitter.com/GaelicSteel/status/1277344251970494469
 
 
-### Police violently arrest protesters camped out for budget vote | June 30th
+### Police violently arrest protesters camped out for budget vote | 2020-06-30
 
 Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protesters. Footage shows violent arrests.
 
@@ -8773,7 +8773,7 @@ geolocation: 40.7124182, -74.0087051
 * https://twitter.com/NelStamp/status/1277985126228557825
 
 
-### Police tackle, shove, tase and arrest protester | July 12th
+### Police tackle, shove, tase and arrest protester | 2020-07-12
 
 Footage shows a protester arguing with an officer in the street at 5th and 67th Street in Bay Ridge, Brooklyn. The officer yells, "Get back," and shoves the protester. Another officer charges and grabs the protester before shoving the protester away. The officer then unholsters his taser and fires at the protester without warning. The protester falls to the ground, then in apparent pain and panic attempts to stand and free himself while numerous officers hold him against a car to arrest him.
 
@@ -8792,7 +8792,7 @@ geolocation: 40.6355789, -74.0223473
 * https://freedomnews.tv/2020/07/13/person-tased-at-pro-police-rally-counter-protested-by-black-lives-matter-in-bay-ridge/
 
 
-### Police use bikes to shove protesters | July 12th
+### Police use bikes to shove protesters | 2020-07-12
 
 Footage shows protesters and police in the road. A dispersal order can be heard. As soon as it ends, the police chant, "Move back," and use their bikes to shove protesters.
 
@@ -8807,7 +8807,7 @@ geolocation: 40.6355789, -74.0223473
 * https://twitter.com/protest_nyc/status/1282480090702655492
 
 
-### Police make violent arrests on Brooklyn Bridge | July 16th
+### Police make violent arrests on Brooklyn Bridge | 2020-07-16
 
 During a July 16th protest on the Brooklyn Bridge, police made a series of violent arrests, including shoving, tackling, striking and kneeling on protesters. In addition, the end of the first clip shows a protester with a shoe tied around her mouth. The second clip shows several officers holding a protester off the ground; one officer holds the protester by her hair.
 
@@ -8823,7 +8823,7 @@ geolocation: 40.7058134, -73.9981622
 * https://mobile.twitter.com/awilli33/status/1283440443909459968
 
 
-### BLM Protester beaten and arrested after scuffle with pro-police protesters | July 16th
+### BLM Protester beaten and arrested after scuffle with pro-police protesters | 2020-07-16
 
 After a scuffle between Pro-Police and BLM protesters, police single out black protester, punch him, tackle him to the ground, and arrest him. No pro-police protesters were arrested. It is unclear who instigated the interaction, but additional footage does show a pro-police protester shoving BLM supporters.
 
@@ -8843,7 +8843,7 @@ geolocation: 40.7718347, -73.7698317
 * https://www.instagram.com/p/CCjjt_YF6sT
 
 
-### Homeless man arrested and hospitalized during clearing of OccupyCityHall | July 22nd
+### Homeless man arrested and hospitalized during clearing of OccupyCityHall | 2020-07-22
 
 Around 7 AM during the sudden clearing of OccupyCityHall protesters, a homeless man who had been receiving food and aid at OccupyCityHall was violently arrested by police. Footage shows multiple officers holding him down while others prevent protesters from approaching and filming the arrest.
 
@@ -8862,7 +8862,7 @@ geolocation: 40.7124182, -74.0087051
 * https://twitter.com/protest_nyc/status/1285900885957255168
 
 
-### Police beat protesters with batons | July 24th
+### Police beat protesters with batons | 2020-07-24
 
 Footage shows a small group of protesters walking down the street. Police charge them without warning. One protester is slammed against the hood of a squad car. Several protesters are beaten with batons and shoved with police bicycles.
 
@@ -8877,7 +8877,7 @@ geolocation: 40.7136898, -74.0053181
 * https://www.instagram.com/p/CDDVu-Tlyiy/
 
 
-### Police arrest woman yelling at them | July 25th
+### Police arrest woman yelling at them | 2020-07-25
 
 Footage from Ludlow and Delancey shows a woman yelling at police. From her words, police have asked her to back up. Police say, "Back up" again. She steps forward, saying, "Or fucking what?" An officer in a white shirt pushes through the officers to grab her. Several officers then assist him in arresting the woman.
 
@@ -8892,7 +8892,7 @@ geolocation: 40.718918, -73.9891763
 * https://twitter.com/JoshuaPotash/status/1287203714562953216
 
 
-### Police shove protesters with shields | July 25th
+### Police shove protesters with shields | 2020-07-25
 
 Police shield line forces protesters back near Delancey and Ludlow. Protesters trapped between police and barricades are squeezed and shoved over the barricades.
 
@@ -8908,7 +8908,7 @@ geolocation: 40.7188905, -73.9891713
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-97.1.mp4)
 
 
-### Non-uniformed police arrest protester without identifying selves | July 28th
+### Non-uniformed police arrest protester without identifying selves | 2020-07-28
 
 A group of plain-clothes police officers who fail to identify themselves as police surround and grab a protester. After a brief struggle, protester is brought to the ground and then dragged into an unmarked van. Uniformed police show up on bicycles to prevent the other protesters from intervening and then the van drives away. The abductee's alleged crime was spraypainting over police cameras and graffiti.
 
@@ -8932,7 +8932,7 @@ geolocation: 40.7391905, -73.9821784
 * https://www.ny1.com/nyc/all-boroughs/news/2020/07/29/video-shows-protester-being-pulled-into-unmarked-van-by-nypd
 
 
-### Police shove protester | September 12th
+### Police shove protester | 2020-09-12
 
 At a protest outside the 34th precinct, police stood off with protesters. Protesters were giving speeches. Police then decided to make arrests for standing in the street. Pushing and shoving ensued. Footage shows a protester grab an arrestee. Another officer then grabs the protester by the back and throws them to the ground, allegedly breaking their arm.
 
@@ -8949,7 +8949,7 @@ geolocation: 40.8515213, -73.9375686
 * https://twitter.com/KimmyB_the1/status/1305043196423147520
 
 
-### Violent arrests made by police | September 17th
+### Violent arrests made by police | 2020-09-17
 
 Multiple violent arrests were made by police after anti-ICE protesters blocked a street for about 20 minutes. In one incident (around 1:45 in the first link), an officer is pushing a protester backward toward the sidewalk. The protester is complying. A plainclothes officer then grabs the protester from behind and drags him away for arrest. A woman then pushes another officer involved in the arrest. The officer then yells, "Don't fucking touch me," and drags her from the sidewalk into the street. She is pulled face down on the ground while the plainclothes officer straddles her to arrest her.
 
@@ -8965,7 +8965,7 @@ geolocation: 40.7141798, -74.0062972
 * [Additional composite footage of various arrests](https://www.instagram.com/tv/CFQdePNBfZn/?igshid=m5enp1idnzq6)
 
 
-### Protester tackled and arrested after stepping into sidewalk | September 17th
+### Protester tackled and arrested after stepping into sidewalk | 2020-09-17
 
 During the an anti-ICE protest in NYC, protesters waited on the sidewalk during a red light. After the light turned green and the crosswalk was lit up, a protester began to cross the street before the rest of the march. Police charged the protester, allegedly a minor, and tackled them to the ground, arresting them. Police then pushed other protesters away.
 
@@ -8980,7 +8980,7 @@ geolocation: 40.7097149, -74.0117508
 * https://twitter.com/davenewworld_2/status/1306977155935592448
 
 
-### Police violently arrest protesters at anti-ICE protest in Times Square | September 19th
+### Police violently arrest protesters at anti-ICE protest in Times Square | 2020-09-19
 
 Footage taken near Zuccotti Park shows NYPD officers grabbing protesters off the sidewalk and arresting them. One protester holds onto a stop light pole; police lift him by his limbs and carry him away.
 
@@ -8995,7 +8995,7 @@ geolocation: 40.7574221, -73.9890894
 * https://twitter.com/isabelle_leyva/status/1307377995691237378
 
 
-### Police charge protesters and bystanders | September 26th
+### Police charge protesters and bystanders | 2020-09-26
 
 Protesters were seen yelling at police from the sidewalk near an outside dining area on Hudson Street and West 10th. Without warning, police charged, pushing, shoving, and arresting numerous protesters. Police disrupted diners, forcing them to move from their tables as bike police formed a line cutting through the outdoor dining area.
 
@@ -9012,7 +9012,7 @@ geolocation: 40.7337626, -74.0084911
 * https://twitter.com/KiranDhillonTV/status/1310055432900284416
 
 
-### Police arrest protesters on sidewalk | October 5th
+### Police arrest protesters on sidewalk | 2020-10-05
 
 At a protest in NYC, protesters are seen standing on the sidewalk. Police charge without warning, grabbing several protesters. The protesters passively resist by falling to the ground. This devolves into a scuffle between protesters and police, much of which is obfuscated by additional officers forming a line around the incident. Police arrest and zip-tie two protesters, one of whom is a minor. In another video, the minor alleges they were punched by police.
 
@@ -9029,7 +9029,7 @@ geolocation: 40.7300523, -73.9926555
 * https://twitter.com/itsa_talia/status/1313347355094200321
 
 
-### NYPD officer slaps a protesters phone | October 7th
+### NYPD officer slaps a protesters phone | 2020-10-07
 
 A protester outside the 79th precinct is seen filming an officer at close range. The officer, wearing a white shirt which denotes high rank, slaps the phone out of the protester's hand. The officer tells the protester "If you put it in my face, you'll be under arrest" in response to the protester filming him.
 
@@ -9044,7 +9044,7 @@ geolocation: 40.6888187, -73.9448449
 * https://twitter.com/chrisgelardi/status/1314204080252751880
 
 
-### Police shove protesters with bikes, tackle and arrest them | October 21st
+### Police shove protesters with bikes, tackle and arrest them | 2020-10-21
 
 Footage from a protest that ended at Broadway and Dey St in Lower Manhattan shows police officers swarming a protester, tackling them to the ground, and arresting them. The arrest was performed by a combination of plainclothes, white-shirted (denoting high rank), and bike officers.
 
@@ -9063,7 +9063,7 @@ geolocation: 40.7047142, -74.0133129
 * [0:51-2:04](https://twitter.com/greg_doucette/status/1319751090317987841)
 
 
-### Officers arrest protester without apparent cause | October 21st
+### Officers arrest protester without apparent cause | 2020-10-21
 
 At a protest that ended on the steps of the Museum of the American Indian, a protester is seen stepping away from officers. The protester's bike falls and the protester goes to grab it. A plainclothes officer then seizes the protester and is aided by several officers in arresting the protester. The bike is left behind.
 
@@ -9078,7 +9078,7 @@ geolocation: 40.7045406, -74.0137151
 * https://twitter.com/itsa_talia/status/1319035324488687616
 
 
-### Officers attack vehicle | October 27th
+### Officers attack vehicle | 2020-10-27
 
 Police approach a vehicle near Atlantic Avenue and Smith Street in Brooklyn. The driver begins to drive away, but police surround the vehicle, striking it with batons. Officers then break several of the vehicle's windows. The driver then speeds away unimpeded. A local news report states the vehicle had Taxi and Limousine Commission plates.
 
@@ -9096,7 +9096,7 @@ geolocation: 40.6887408, -73.9894258
 * https://www.amny.com/news/30-arrested-as-downtown-brooklyn-protest-leads-to-chaos/
 
 
-### NYPD officers arrest journalist on sidewalk | November 1st
+### NYPD officers arrest journalist on sidewalk | 2020-11-01
 
 Police officers grab a journalist walking on the sidewalk alongside a march at 10th Avenue and 24th Street. Police arrest the journalist. According the the NYPD, the arrested journalist was not an NYPD-credentialed journalist, therefore they do not have the same exemptions.
 
@@ -9115,7 +9115,7 @@ geolocation: 40.7483593, -74.0058763
 * https://twitter.com/ScooterCasterNY/status/1322977073078640641
 
 
-### Police assault and arrest protesters | November 4th
+### Police assault and arrest protesters | 2020-11-04
 
 Police shout "Move back" as they push protesters down the street. One protester is shoved over a garbage can. Police then swarm the sidewalk, shoving protesters away. Police then drag the protester whom they knocked over behind their riot line.
 
@@ -9139,7 +9139,7 @@ geolocation: 40.7303242, -74.0047987
 * https://twitter.com/left_voice/status/1324159897471197187
 
 
-### Police kettle, assault, and arrest protesters | November 4th
+### Police kettle, assault, and arrest protesters | 2020-11-04
 
 Protesters were kettled by police at 5th Avenue and 8th Street in Manhattan. Police then charged protesters to make arrests, tackling, shoving and striking protesters with batons, without apparent justification.
 
@@ -9156,7 +9156,7 @@ geolocation: 40.7323365, -73.9965724
 
 ## Rochester
 
-### Police shoot at people filming | May 31st
+### Police shoot at people filming | 2020-05-31
 
 Police are seen shooting at individuals who were recording an incident.
 
@@ -9171,7 +9171,7 @@ geolocation: 43.1521207, -77.6113836
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
 
-### Journalist shot in head | September 3rd
+### Journalist shot in head | 2020-09-03
 
 A journalist filming protests in Rochester, New York was shot in the head by an impact munition, believed to be a pepper ball.
 
@@ -9187,7 +9187,7 @@ geolocation: 43.1521207, -77.6113836
 * https://twitter.com/tyee23/status/1301724881609003015
 
 
-### Police shoot impact munitions at protesters | September 3rd
+### Police shoot impact munitions at protesters | 2020-09-03
 
 Protesters can be seen milling about on the side of the road. Impact munition rounds can then be heard. One protester then runs up to a barricade, is shot repeatedly, and runs away. No justification for the burst of fire is clear.
 
@@ -9207,7 +9207,7 @@ geolocation: 43.1521207, -77.6113836
 * https://twitter.com/SarahMaslinNir/status/1301709280052211714
 
 
-### Police declare unlawful assembly, shoot pepper balls and tear gas | September 4th
+### Police declare unlawful assembly, shoot pepper balls and tear gas | 2020-09-04
 
 After declaring an unlawful assembly and firing pepper balls for some time, Rochester PD tear gassed protesters. Protesters responded with fireworks.
 
@@ -9227,7 +9227,7 @@ geolocation: 43.1541549, -77.6047805
 * https://twitter.com/the_other_aoc_/status/1302114962417082368
 
 
-### Police deploy tear gas and impact munitions | September 5th
+### Police deploy tear gas and impact munitions | 2020-09-05
 
 Police and protesters are on opposite sides of a metal barricade. Police pepper spray protesters and fire impact munitions without clear justification. Police appear to have deployed tear gas and stun grenades as well.
 
@@ -9250,7 +9250,7 @@ geolocation: 43.1545488, -77.6141816
 * [Article about protester injuries](https://www.democratandchronicle.com/story/news/2020/09/11/how-many-injuries-protesters-sept-5-2020-rochester-ny/3466996001/)
 
 
-### Police deploy impact munitions and use sound cannon | September 5th
+### Police deploy impact munitions and use sound cannon | 2020-09-05
 
 After an initial push, protesters begin to take the streets again. Police fire impact munitions and tear gas at them and deploy the LRAD dispersal function.
 
@@ -9266,7 +9266,7 @@ geolocation: 43.1537841, -77.611749
 * https://twitter.com/msantiagophotos/status/1302436634881916933
 
 
-### Officers cover badges | September 12th
+### Officers cover badges | 2020-09-12
 
 Multiple riot police officers in Rochester are seen with their badges covered.
 
@@ -9283,7 +9283,7 @@ geolocation: 43.1562969, -77.6410873
 * https://twitter.com/DjKellex/status/1304994886647795712
 
 
-### LRAD deployed against protesters | September 12th
+### LRAD deployed against protesters | 2020-09-12
 
 At protests on September 12th, police deployed the LRAD dispersal function in an attempt to clear protesters.
 
@@ -9299,7 +9299,7 @@ geolocation: 43.1562969, -77.6410873
 * https://www.democratandchronicle.com/story/news/2020/09/12/protests-rochester-ny-daniel-prude-11-straight-days-free-the-people-roc/5782445002/
 
 
-### Police charge protesters without warning | September 16th
+### Police charge protesters without warning | 2020-09-16
 
 Protesters camped out front of city hall demanding the resignation of Rochester mayor, Lovely Warren, and the arrests of the officers involved in the Daniel Prude case. Police assembled around 8:30 AM on Wednesday to disperse protesters. Police first pushed protesters off City Hall property, into the street. Police then gave a dispersal order, telling protesters to leave the street and sidewalk. Two officers suddenly charged at protesters, shoving one to the ground. Police chased several other protesters then returned to their line.
 
@@ -9318,7 +9318,7 @@ geolocation: 43.1569579, -77.6170956
 
 ## Saratoga Springs
 
-### Police shoot at and arrest Black Lives Matter protesters | July 30th
+### Police shoot at and arrest Black Lives Matter protesters | 2020-07-30
 
 At protests between Back the Blue and Black Lives Matter protests, mounted units were deployed to keep Back the Blue and BLM counter-protesters apart. BLM protesters were arrested and shot at with impact munitions, allegedly pepper balls. Some protesters allege tear gas was deployed but this cannot be confirmed.
 
@@ -9342,7 +9342,7 @@ geolocation: 43.0788043, -73.7861109
 
 ## Syracuse
 
-### Journalist shoved by police | June 1st
+### Journalist shoved by police | 2020-06-01
 
 A 60-year-old photographer working for Syracuse.com/The Post Standard was shoved by police while filming a protest in front of the Public Safety Building on South Street. He was wearing a company-issued identification card and had two cameras slung on his shoulders. He was knocked to the ground, and two camera lenses were broken in the process.
 
@@ -9365,7 +9365,7 @@ geolocation: 43.046735, -76.147506
 
 ## Asheville
 
-### Police fire tear gas and rubber bullets at protesters | May 31st
+### Police fire tear gas and rubber bullets at protesters | 2020-05-31
 
 According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protesters attempted to shield them from harm.
 
@@ -9381,7 +9381,7 @@ geolocation: 35.5909699, -82.5737781
 * https://www.citizen-times.com/story/news/local/2020/05/31/bowen-bridge-shut-down-protesters-block-highway/5304001002/
 
 
-### Police surround approved medical station and destroy supplies | June 2nd
+### Police surround approved medical station and destroy supplies | 2020-06-02
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
 
@@ -9419,7 +9419,7 @@ geolocation: 35.5903468, -82.574270
 * https://twitter.com/greg_doucette/status/1270378863219138561
 
 
-### Reporter for The Blade arrested at protest | August 9th
+### Reporter for The Blade arrested at protest | 2020-08-09
 
 A journalist working for The Asheville Blade was following protests in their car on August 9th. They state that police stopped them without warning, pulled them out of their car, zip-tied and arrested them. They state that because of the heat, their sweat made their hands slippery and their zip-ties fell off; an officer then replaced them with standard handcuffs, cuffing the journalist's arms tightly behind their back.
 
@@ -9446,7 +9446,7 @@ geolocation: 35.5950462, -82.5564847
 
 ## Charlotte
 
-### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | June 2nd
+### Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs | 2020-06-02
 
 Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
 
@@ -9472,7 +9472,7 @@ geolocation: 35.2254977, -80.8452494
 * https://www.youtube.com/watch?v=jo0cF-qMa50
 
 
-### Police arrest representative from The Bail Project | June 8th
+### Police arrest representative from The Bail Project | 2020-06-08
 
 Video shows numerous police officers charging an individual, before throwing them to the ground and kneeling on them to make an arrest. As they walk the individual from the scene, she states her restraints are too tight, but police do not acknowledge her. Protesters nearby ask why she is being arrested; police say, "Watch the news video."
 
@@ -9490,7 +9490,7 @@ geolocation: 35.2205048, -80.8373121
 * https://twitter.com/kaitlinwa24/status/1270113046606864389
 
 
-### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | June 18th
+### Charlotte Sheriff declares Jail Support station unlawful; officer assaults press during mass arrests | 2020-06-18
 
 The Mecklenburg Sheriff's department declared a jail support site unlawful. The site is a series of tents on the sidewalk designed to provide food, water, medical care and support to released protesters.
 
@@ -9507,7 +9507,7 @@ geolocation: 35.2199889, -80.8356949
 * [Arrests begin at 30:31; officer tells people on sidewalk they will be arrested at 39:00; reporter struck at 30:30](https://www.facebook.com/queencitynerve/videos/302573580898919/)
 
 
-### Police shove and pepper spray protesters | July 25th
+### Police shove and pepper spray protesters | 2020-07-25
 
 Police separated groups of Back the Blue and Defund the Police protesters. Police shoved Defund the Police protesters backwards with their bikes. Protesters then shove a police officer's bike back. The officer then discharges pepper spray at numerous protesters.
 
@@ -9522,7 +9522,7 @@ geolocation: 35.2193485, -80.8408325
 * https://www.wbtv.com/2020/07/25/protesters-supporting-back-blue-defund-police-confront-marshall-park/
 
 
-### Police shove and pepper spray RNC protesters | August 21st
+### Police shove and pepper spray RNC protesters | 2020-08-21
 
 At a protest outside the Republican National Convention in Charlotte, NC (Trade and Tryon Streets), police used bikes to shove protesters and pepper sprayed others. A journalist filming the scene was caught in the pepper spray.
 
@@ -9538,7 +9538,7 @@ geolocation: 35.2268539, -80.8443788
 * https://twitter.com/queencitynerve/status/1297007019346583552
 
 
-### Police arrest protester without warning or clear justification | August 23rd
+### Police arrest protester without warning or clear justification | 2020-08-23
 
 Police talk to a protester walking by their line at 3rd and McDowell. The protester steps forward and is held back by police. The protester then talks to another officer. That officer then grabs the protester without warning and arrests them.
 
@@ -9553,7 +9553,7 @@ geolocation: 35.2187516, -80.8372017
 * https://twitter.com/queencitynerve/status/1297389564693295105
 
 
-### Police pepper spray kettled protesters | August 24th
+### Police pepper spray kettled protesters | 2020-08-24
 
 At an RNC protest in Charlotte, NC, police kettled protesters at College and 4th Streets shortly after midnight. Police then begin shouting "Move" and pepper spray protesters.
 
@@ -9568,7 +9568,7 @@ geolocation: 35.2254977, -80.8452494
 * https://twitter.com/queencitynerve/status/1297757281359208450
 
 
-### Police charge protesters with bikes, discharge pepper spray | August 24th
+### Police charge protesters with bikes, discharge pepper spray | 2020-08-24
 
 After protesters allegedly attempted to light something on fire or lowered a flag to the ground, police on bikes charged protesters, knocking several down. Police then discharged pepper spray at protesters.
 
@@ -9592,7 +9592,7 @@ geolocation: 35.2196314, -80.8525358
 * https://www.charlotteobserver.com/news/politics-government/rnc-2020/article245198720.html
 
 
-### Jail support activists arrested | September 21st
+### Jail support activists arrested | 2020-09-21
 
 Activists gathered for Jail Support in Charlotte, NC, offering food, water and other necessities to protesters released from detention. Activists set up on the sidewalk. Mecklenburg county sheriffs ordered jail support activists to disperse. When they refused, officers arrested them. Several activists passively resisted by going limp and were carried away by officers. Sheriffs also arrested several protesters present to morally support jail support activists.
 
@@ -9619,7 +9619,7 @@ geolocation: 35.2200169, -80.8353978
 
 ## Gastonia
 
-### Police with live ammo arrest protesters sitting in cars | July 22nd
+### Police with live ammo arrest protesters sitting in cars | 2020-07-22
 
 Footage shows militarized police with long guns carrying live ammo running up on protesters. Black protesters are removed from their vehicles and arrested.
 
@@ -9640,7 +9640,7 @@ geolocation: 35.2669284, -81.181915
 
 ## Graham
 
-### Police and sherriffs pepper spray protesters on their way to polls | October 31st
+### Police and sherriffs pepper spray protesters on their way to polls | 2020-10-31
 
 Police pepper sprayed BLM protesters on their way to early voting during a "Souls to the Polls" rally. Several arrests were made including Reverend Drumwright of the Citadel Church and Rion Thompson who was the campaign manager for Dreama Caldwell, a Democratic candidate for county commissioner.
 
@@ -9678,7 +9678,7 @@ geolocation: 36.0692831, -79.4025114
 * [Scott Huffman](https://twitter.com/HuffmanForNC/status/1322592328503144449)
 
 
-### Officer harasses journalist and covers their camera | October 28th
+### Officer harasses journalist and covers their camera | 2020-10-28
 
 Footage from a Souls to the Polls rally after police and sheriffs pepper sprayed the audience shows a police officer repeatedly harassing a photojournalist and covering the journalist's camera.
 
@@ -9696,7 +9696,7 @@ geolocation: 36.0692831, -79.4025114
 
 ## Raleigh
 
-### Police fire tear gas at peaceful protests | May 30th
+### Police fire tear gas at peaceful protests | 2020-05-30
 
 Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protesters surprised at the escalation and turning to flee, as well as multiple protesters hit directly by projectiles. In addition, the article claims police targeted both protesters and journalists with rubber bullets. The escalation did then incite some protesters to return fire with rocks, fireworks, and police tear gas canisters.
 
@@ -9716,7 +9716,7 @@ geolocation: 35.776782, -78.639280
 * https://www.youtube.com/watch?v=GCmVhSZqmZc
 
 
-### Police use tear gas to clear road | May 31st
+### Police use tear gas to clear road | 2020-05-31
 
 Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful protesters gathered on the street before advancing across the intersection.
 
@@ -9735,7 +9735,7 @@ geolocation: 35.7796476, -78.6391259
 * https://www.wral.com/raleigh-police-fire-tear-gas-again-on-second-day-of-downtown-protests/19123254/
 
 
-### Police shoot fleeing man at short range | May 31st
+### Police shoot fleeing man at short range | 2020-05-31
 
 Police fire repeatedly at man who is attempting to leave the protest with his hands up. After shooting several times, an officer runs up and strikes the man in the back of the head and throw him to the ground to make an arrest. Tear gas begins to fill the road as officers arrest him.
 
@@ -9751,7 +9751,7 @@ geolocation: 35.7802865, -78.6401054
 * https://twitter.com/greg_doucette/status/1267836827328819200
 
 
-### Police fire tear gas at peacful protesters | May 31st
+### Police fire tear gas at peacful protesters | 2020-05-31
 
 Police fire tear gas at protesters throughout protests on May 31st. Footage show police firing into a crowd.
 
@@ -9767,7 +9767,7 @@ geolocation: 35.7802865, -78.6401054
 * https://youtu.be/hZsQY1XagKc
 
 
-### Police fire riot control rounds into protest | May 31st
+### Police fire riot control rounds into protest | 2020-05-31
 
 Footage shows a crowd protesting in place with hands up. Shots are heard and a protester runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
 
@@ -9783,7 +9783,7 @@ geolocation: 35.7811388, -78.6381613
 * https://www.youtube.com/watch?v=_ciMl0fLcgY
 
 
-### Reporter shows rubber bullet injury | May 31st
+### Reporter shows rubber bullet injury | 2020-05-31
 
 A reporter for Raleigh outlet, The News & Observer, shows off a wound consistent with injuries left by rubber bullets. The tweet states he "took a rubber bullet" during a protest.
 
@@ -9798,7 +9798,7 @@ geolocation: 35.7804275, -78.6392513
 * https://twitter.com/vizjourno/status/1266954106998009857
 
 
-### Police shoot to intimidate owner of LGBTQ bar | June 2nd
+### Police shoot to intimidate owner of LGBTQ bar | 2020-06-02
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protester himself, but had been handing out refreshments to protesters. They fire some kind of shots to intimidate him before shouting "the game is over!".
 
@@ -9815,7 +9815,7 @@ geolocation: 35.7751916, -78.6399548
 * [Location via Google Street View](https://www.google.ca/maps/place/Ruby+Deluxe/@35.7751916,-78.6399548,3a,75y,200h,110t/data=!3m8!1e1!3m6!1sAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf%3Dw203-h100-k-no-pi-20-ya200-ro0-fo100!7i13090!8i6545!4m14!1m6!3m5!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!2sRuby+Deluxe!8m2!3d35.7751916!4d-78.6399548!3m6!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!8m2!3d35.7751916!4d-78.6399548!14m1!1BCgIgARICCAI)
 
 
-### Police target, follow and arrest protester | June 4th
+### Police target, follow and arrest protester | 2020-06-04
 
 On June 4th, Conrad James, a prominent protester in Raleigh, threatened to file a class action lawsuit against the Raleigh police departments.
 
@@ -9836,7 +9836,7 @@ geolocation: 35.5951262, -78.7354873
 * https://abc11.com/activist-who-made-demands-to-raleigh-leaders-arrested-for-unrelated-incident/6234238/
 
 
-### Raleigh police roughly arrest protesters | June 18th
+### Raleigh police roughly arrest protesters | 2020-06-18
 
 Footage shows violent arrests of 2 protesters. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protesters out of the way.
 
@@ -9859,7 +9859,7 @@ geolocation: 35.7342263, -78.6413227
 
 ## Wilmington
 
-### Police kneel to lure protesters closer before firing | June 3rd
+### Police kneel to lure protesters closer before firing | 2020-06-03
 
 Police feign a show of support by kneeling and draw protesters closer. After protesters kneel, police begin firing tear gas rounds.
 
@@ -9883,7 +9883,7 @@ geolocation: 34.2371113, -77.9461782
 
 ## Fargo
 
-### Fargo deputy police chief instigates unrest during protest | June 1st
+### Fargo deputy police chief instigates unrest during protest | 2020-06-01
 
 In an email sent to the Fargo PD, the deputy chief of police, Todd Osmundson, apologized for instigating unrest during George Floyd protests. He admits to carrying alcoholic containers and to cursing at police officers.
 
@@ -9902,7 +9902,7 @@ geolocation: 46.8782517, -96.7850301
 * https://www.grandforksherald.com/opinion/6520779-Port-Fargo-Deputy-Chief-sends-apology-email-after-he-was-seen-at-George-Floyd-protest-with-a-beer-can-cursing-at-law-enforcement
 
 
-### Police using selective enforcement on black individuals | June 3rd
+### Police using selective enforcement on black individuals | 2020-06-03
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
 
@@ -9925,7 +9925,7 @@ geolocation: 46.8769193, -96.789768
 
 ## Beavercreek
 
-### Police use tear gas on protesters peacefully blocking road | June 1st
+### Police use tear gas on protesters peacefully blocking road | 2020-06-01
 
 Police tell protesters blocking road to disperse and then immediately use tear gas on them.
 
@@ -9943,7 +9943,7 @@ geolocation: 39.7701315, -84.0543829
 
 ## Bethel
 
-### Man struck by counter-protester while police look on | June 14th
+### Man struck by counter-protester while police look on | 2020-06-14
 
 During a BLM protest in Bethel, Ohio near the Christian Community Church on Plane Street, protesters were met by a substantial counter-protest, which allegedly harrassed and assaulted them. In one particular video, a counter-protester strikes a BLM protester on the back of the head and walk away. There are police officers directly in front of and behind the incident. The man tells the officer he just got punched. The officer's response is difficult to hear above the crowd, but he appears to offer little help, instead telling the protester he is not allowed to demonstrate there (on a public sidewalk).
 
@@ -9963,7 +9963,7 @@ geolocation: 38.9633126, -84.0775977
 
 ## Canton
 
-### Police spray mace, fire tear gas and flashbangs at protesters, even after they have dispersed | May 29th
+### Police spray mace, fire tear gas and flashbangs at protesters, even after they have dispersed | 2020-05-29
 
 Police warn protesters blocking road that chemical agents will be deployed. The crowd mostly disperses after the warning, but police start using mace anyway. Police continue to use tear gas, flashbangs, and mace, even after protesters are out of the roadway. In part 2 of the video at 7:58, one of the used flashbang canisters is shown. It is labeled 5440 Launchable Flameless Expulsion OC.
 
@@ -9982,7 +9982,7 @@ geolocation: 40.8093732, -81.3778773
 
 ## Cincinnati
 
-### Police disperse peaceful protest with tear gas, flashbangs and pepper bullets | May 30th
+### Police disperse peaceful protest with tear gas, flashbangs and pepper bullets | 2020-05-30
 
 A peaceful protest near the Cincinnati police headquarters was dispersed with tear gas and flashbangs, with police shooting a man giving them the middle finger with pepper bullets from a paintball gun.
 
@@ -9997,7 +9997,7 @@ geolocation: 39.1091309, -84.5209572
 * https://twitter.com/kodyfishertv/status/1266901735198638082
 
 
-### Peaceful protester on sidewalk pepper sprayed | May 30th
+### Peaceful protester on sidewalk pepper sprayed | 2020-05-30
 
 Footage from a news report outside the Cincinnati police headquarters shows a protester standing on the sidewalk with his hands on his head. An officer passing by unholsters his pepper spray and discharges it into the man's eyes, seemingly unprovoked.
 
@@ -10015,7 +10015,7 @@ geolocation: 39.1091904, -84.5203794
 * [Extended](https://mobile.twitter.com/JakeTalks2Much/status/1266931927161896961)
 
 
-### Police violently disperse crowds, before curfew and allegedly without provocation | May 31st
+### Police violently disperse crowds, before curfew and allegedly without provocation | 2020-05-31
 
 Police use tear gas to disperse a crowd near the Hamilton County Courthouse before curfew. No provocation is mentioned in the news article; a first-hand account posted to facebook claims there was none. The account posted to Facebook claims that no order to disperse was given; local news coverage does not mention any order to disperse being given. Mass arrests were conducted at some point the night of the 31st. The account posted to Facebook claims that police surrounded and trapped protesters before curfew, and beat some protesters.
 
@@ -10033,7 +10033,7 @@ geolocation: 39.1071253, -84.5124637
 * [Video 2](https://www.reddit.com/r/cincinnati/duplicates/gus9dn/531_police_use_tear_gas_and_rubber_bullets_on_a/)
 
 
-### Protesters kept in a courtyard, with no bathroom breaks, water, or food, for ten hours | May 31st
+### Protesters kept in a courtyard, with no bathroom breaks, water, or food, for ten hours | 2020-05-31
 
 Protesters describe being zip-tied and held for ten hours without food, water, or (in some cases) bathroom breaks. In total, 307 protesters were detained, around 60 of them in the Justice Center courtyard.
 
@@ -10050,7 +10050,7 @@ geolocation: 39.1071253, -84.5124637
 * [Local news coverage](https://www.cincinnatimagazine.com/article/protesters-speak-up-about-police-treatment-during-peaceful-demonstrations/)
 
 
-### Tattoo artist arrested while painting the outside of his shop; police fail to deescalate | May 31st
+### Tattoo artist arrested while painting the outside of his shop; police fail to deescalate | 2020-05-31
 
 Jamison Walker, a Cincinnati tattoo artist at Black Fern Tattoo, was painting the outside of the shop after curfew (with the owner's permission). He alleges that a police officer told him he could finish his work. The Instagram video begins at some later point as several cops approach. They tell Walker (and at least two other persons present) to "get inside." For around 12 seconds, two police officers, Walker, and one other tattoo shop employee are talking simultaneously; Walker told local news he tried to go inside but one officer blocked his path. One officer can be heard to say "I'm giving you a chance, go in," then another can be heard to say "That's exactly what's going to happen -- no -- no no -- inside, go inside, inside -- go inside, there's no debate -- no, you may not." Said officer then begins arresting Walker. Officers shove Walker against a wall and grab his arms; they yell for him to put his hands behind his back. One officer draws a taser and holds it near Walker's shoulder. Meanwhile, one of Walker's colleagues is filming; police scream at her to "get the fuck back -- get back." It's unclear whether she's standing in a doorway or backed up against a wall. Another officer is acting very aggressively and has his taser drawn until the cop next to him taps him on the arm, at which point he holsters his taser and steps back. In total, at least eight police officers are present, of whom at least two draw their tasers, despite facing little to no resistance.
 
@@ -10071,7 +10071,7 @@ geolocation: 39.1059716, -84.5171367
 * [Curfew exempts essential workers, not all workers](https://www.cincinnati.com/story/news/2020/05/30/cincinnati-curfew-protest-george-floyd-what-you-need-to-know/5295220002/)
 
 
-### Police arrest reporter and force him to ground, grab another reporter | June 1st
+### Police arrest reporter and force him to ground, grab another reporter | 2020-06-01
 
 Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
 
@@ -10088,7 +10088,7 @@ geolocation: 39.1214602, -84.5261651
 * https://twitter.com/nswartsell/status/1267612155840528385
 
 
-### Officer refuses to give diabetic arrestee her insulin back | June 2nd
+### Officer refuses to give diabetic arrestee her insulin back | 2020-06-02
 
 Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
 
@@ -10107,7 +10107,7 @@ geolocation: 39.1201795, -84.524284
 
 ## Cleveland
 
-### Officer swings baton at protesters, beats one who is trying to keep crowd back | (Believed to be) May 30th
+### Officer swings baton at protesters, beats one who is trying to keep crowd back | (Believed to be) 2020-05-30
 
 Police are seen arresting a protester while an officer wildly swings his baton at others. At roughly 1:00 the officer can be seen beating a protester who is trying to keep the crowd back. The incident occurred outside the Cleveland Justice Center.
 
@@ -10122,7 +10122,7 @@ geolocation: 41.5037487, -81.6978239
 * https://twitter.com/greg_doucette/status/1267114065819770880
 
 
-### Police fire tear gas at peaceful protest | May 30th
+### Police fire tear gas at peaceful protest | 2020-05-30
 
 Without warning, police fire tear gas at peaceful protesters outside The Justice Center in Cleveland.
 
@@ -10137,7 +10137,7 @@ geolocation: 41.502496, -81.6976416
 * https://twitter.com/rachelscotton/status/1266840734906318848
 
 
-### Police injure numerous protesters with rubber bullets | May 30th
+### Police injure numerous protesters with rubber bullets | 2020-05-30
 
 Twitter user who relays Cleveland police scanner says transmission went over radio stating a protester's "eye was dislodged" by a rubber bullet. Later reporting notes that an eyewitness say a man with his "eyeball dangling from his socket" and states that police waited several minutes to call EMS.
 
@@ -10159,7 +10159,7 @@ geolocation: 41.5017244, -81.6981333
 * https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
-### Protester shot in head with rubber bullet | May 30th
+### Protester shot in head with rubber bullet | 2020-05-30
 
 Images of a protester who was shot with a rubber bullet in the head.
 
@@ -10174,7 +10174,7 @@ geolocation: 41.5019212, -81.6979831
 * https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
-### Protester shot in the eye with pellet round | May 30th
+### Protester shot in the eye with pellet round | 2020-05-30
 
 Footage shows a protester shot in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protester's eye. Another image from the protester shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
 
@@ -10192,7 +10192,7 @@ geolocation: 41.5019212, -81.6979831
 * https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
-### Protester pepper sprayed without cause | May 30th
+### Protester pepper sprayed without cause | 2020-05-30
 
 Footage from a body cam captures an officer approaching a woman standing still with a sign at her feet. The officer then discharges pepper spray at her without warning. This led to an escalation, where less lethal shots can be heard fired. The officer was allegedly aiming for an individual carrying a handicap parking sign several feet from the protester who was pepper sprayed. A police official also suggested that the woman may have been providing cover for agitators behind her. No evidence of this can be seen.
 
@@ -10210,7 +10210,7 @@ geolocation: 41.5027596, -81.6971191
 
 ## Columbus
 
-### Cop hits a protester in the face, escalates to whole crowd being pepper sprayed | May 29th
+### Cop hits a protester in the face, escalates to whole crowd being pepper sprayed | 2020-05-29
 
 A cop hits a protester in the face near High and Broad Streets. Then a different cop pepper-sprays the person hit, as well as nerby protesters. It escalates to a lot of cops pepper-spraying the larger surrounding crowd. The person recording goes to film someone being arrested and a cop approaches and pepper-sprays the person recording multiple times. The LRAD dispersal function was also used.
 
@@ -10225,7 +10225,7 @@ geolocation: 39.9625022, -83.0007349
 * https://www.facebook.com/story.php?story_fbid=1137997739900780&id=100010716946743
 
 
-### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | May 30th
+### Congresswoman Joyce Beatty reportedly sprayed with "mace or pepper spray" | 2020-05-30
 
 Joyce Beatty, an African American congresswoman from Ohio, was sprayed with mace or pepper spray at a protest in Columbus (near High and Broad Streets).
 
@@ -10243,7 +10243,7 @@ geolocation: 39.9620498, -83.0006563
 * https://twitter.com/KRobPhoto/status/1266796191469252610
 
 
-### Peaceful protester sprayed in the face with mace | May 30th
+### Peaceful protester sprayed in the face with mace | 2020-05-30
 
 Seemingly without warning, a protester holding a sign was maced in the face near High and Broad streets.
 
@@ -10259,7 +10259,7 @@ geolocation: 39.9621421, -83.0006729
 * https://twitter.com/greg_doucette/status/1266878189537824772
 
 
-### Officer chases reporter and pepper sprays her | May 30th
+### Officer chases reporter and pepper sprays her | 2020-05-30
 
 A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times.
 
@@ -10275,7 +10275,7 @@ geolocation: 39.959741, -83.000085
 * https://twitter.com/julialwashere/status/1266730657436315649
 
 
-### Police pepper spray protesters; rip mask off protester | May 30th
+### Police pepper spray protesters; rip mask off protester | 2020-05-30
 
 Police pepper spray protesters walking away from them near High and State Streets. One protester shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
 
@@ -10290,7 +10290,7 @@ geolocation: 39.9603201, -83.0002362
 * https://twitter.com/bwk1992/status/1266833971570237442
 
 
-### Police intimidating campus protesters by driving car towards them | May 30th
+### Police intimidating campus protesters by driving car towards them | 2020-05-30
 
 Police drive their car towards protesters in the Columbus Commons in order to disperse them.
 
@@ -10305,7 +10305,7 @@ geolocation: 39.9592534, -82.9989859
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
 
 
-### Police pepper-spray a medic | May 31st
+### Police pepper-spray a medic | 2020-05-31
 
 Police point blank pepper spray a medic who was tending to a protester near the Rhodes Tower.
 
@@ -10321,7 +10321,7 @@ geolocation: 39.9623134, -82.999572
 * https://twitter.com/SAColumbus/status/1266867613872857094
 
 
-### Police mace a woman as she walks away | May 31st
+### Police mace a woman as she walks away | 2020-05-31
 
 Police pepper spray a woman who was walking away from the confrontation near the Rhodes Tower.
 
@@ -10337,7 +10337,7 @@ geolocation: 39.9623134, -82.999572
 * https://twitter.com/MarioLeUgly/status/1266933807929798656
 
 
-### Police pepper spray two kneeling protesters | May 31st
+### Police pepper spray two kneeling protesters | 2020-05-31
 
 Location:  Intersection of E Broad Street and S Grant Avenue
 
@@ -10355,7 +10355,7 @@ geolocation: 39.9633459, -82.9932531
 * https://twitter.com/taesvangogh/status/1266907922308558848
 
 
-### Police pepper spray African-American photographer | May 31st
+### Police pepper spray African-American photographer | 2020-05-31
 
 Photographer being sprayed while seemingly calmly standing 10 feet away from the police line at Broad and Front Streets.
 
@@ -10372,7 +10372,7 @@ geolocation: 39.9620141, -83.0023832
 * https://www.instagram.com/p/CA03DsTByLn/
 
 
-### Police pepper spray sitting protesters | May 31st
+### Police pepper spray sitting protesters | 2020-05-31
 
 Police pepper spraying peaceful unarmed protesters as they sit on the ground near Broad and High.
 
@@ -10387,7 +10387,7 @@ geolocation: 39.9622233, -83.0017371
 * https://twitter.com/greg_doucette/status/1267102580070592512
 
 
-### Woman holding a sign is shot with rubber bullets | May 31st
+### Woman holding a sign is shot with rubber bullets | 2020-05-31
 
 A woman standing alone holding a sign at Broad and Grant is shot with rubber bullets. She falls to the ground and is carried away by other protesters.
 
@@ -10403,7 +10403,7 @@ geolocation: 39.9632569, -82.9910614
 * https://twitter.com/greg_doucette/status/1267122343454953472
 
 
-### Man pepper-sprayed at close range | (Believed to be) May 31st
+### Man pepper-sprayed at close range | (Believed to be) 2020-05-31
 
 Image shows a police officer pepper-spraying a man with his hands up at a short distance. Exact date is unknown, but earliest appearance found on Twitter was May 31st. Location appears to be near Broad and High Streets.
 
@@ -10419,7 +10419,7 @@ geolocation: 39.9626564, -83.0007682
 * https://twitter.com/greg_doucette/status/1269118992540749831
 
 
-### Woman shot in hand by wooden bullet | May 31st
+### Woman shot in hand by wooden bullet | 2020-05-31
 
 Police fire at protesters on the sidewalk near Broad and High while giving dispersal order. The filmer is shot in the hand with a wooden bullet. Several images show the recovered round and the damage to her hand.
 
@@ -10435,7 +10435,7 @@ geolocation: 39.9623049, -83.0006986
 * https://www.facebook.com/1573913165/posts/10220477908769110
 
 
-### Police casually pepper spray passers by | (believed to be) June 1st
+### Police casually pepper spray passers by | (Believed to be) 2020-06-01
 
 Two squad cars full of police arrive at the intersection of Russell and High. Police get out and start pepper-spraying people. Notably, there are two people on a fire escape who look like they may be treating two others for pepper-spray or tear gas exposure. Police pepper-spray them. Police later pepper spray one a second time, as she's in the process of retreating and rinsing her eyes with milk due to the first pepper spray exposure.
 
@@ -10453,7 +10453,7 @@ geolocation: 39.9755471, -83.0031941
 * https://twitter.com/aaron_rigg/status/1267649768668495878
 
 
-### Police push and pepper spray reporters from The Lantern newspaper | June 1st
+### Police push and pepper spray reporters from The Lantern newspaper | 2020-06-01
 
 Location: Starbucks at the intersection of Lane Avenue and North High Street
 
@@ -10472,7 +10472,7 @@ geolocation: 40.005950, -83.009096
 * https://twitter.com/maevewalsh27/status/1267646128289447939
 
 
-### Bronze star veteran recounts injuries from police at protests | June 5th
+### Bronze star veteran recounts injuries from police at protests | 2020-06-05
 
 In an article from the Columbus Dispatch, a veteran, Ryan McMullen, recounts injuries he sustained at police hands from the beginning of protests up to Friday, June 5th.
 
@@ -10492,7 +10492,7 @@ geolocation: 39.9599466, -83.0006052
 * [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
 
 
-### Police drive up to protesters, jump out and tackle them | (Believed to be) June 6th
+### Police drive up to protesters, jump out and tackle them | (Believed to be) 2020-06-06
 
 Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protesters at High and Russell Streets and jump out of the car. Police from the vehicles and on the street charge protesters, tackle them, and arrest them. Police appear to kneel on protesters while making arrests.
 
@@ -10510,7 +10510,7 @@ geolocation: 39.9755934, -83.0032034
 * https://twitter.com/TrekkieByBirth/status/1276719505528492033
 
 
-### Man maced by police | June 21st
+### Man maced by police | 2020-06-21
 
 Footage shows the aftermath of police macing a man with prosthetic legs on the High Street side of the Ohio Statehouse. Protesters have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
 
@@ -10531,7 +10531,7 @@ geolocation: 39.9611957, -83.0004795
 * [Body cam footage](https://twitter.com/jessistarkey/status/1274869173206888448)
 
 
-### Protester dragged into street, thrown to ground and arrested | June 21st
+### Protester dragged into street, thrown to ground and arrested | 2020-06-21
 
 Footage depicts multiple police officers grabbing a protester at High and Broad Streets. They drag the protester into the street and one officer flips the protester over his knee onto the ground. He then kneels on the protester to arrest them while other officers form a barrier around him.
 
@@ -10548,7 +10548,7 @@ geolocation: 39.962211, -83.0006803
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hdj106/062120_columbus_ohio_police_dragging_medic_into/
 
 
-### Police shove protesters, ram them with bikes | June 21st
+### Police shove protesters, ram them with bikes | 2020-06-21
 
 In an apparent attempt to clear the intersection of High and Broad Streets, police have formed a bike line. They shove protesters with shields and ram their bikes into the crowd. Protesters can be seen throwing water at officers. Officers then discharge pepper spray.
 
@@ -10563,7 +10563,7 @@ geolocation: 39.962211, -83.0006803
 * https://www.reddit.com/r/PublicFreakout/comments/hdwgfb/columbus_ohio_cops_ram_protesters_with_bikes/
 
 
-### Police drag seated protester, body slam a second | June 29th
+### Police drag seated protester, body slam a second | 2020-06-29
 
 Footage shows a protester seated on the edge of the road at High and Broad Streets. An officer drags the protester into the street and forces her to lay down to arrest. As other protesters express frustration, another officer runs over, lifts a protester off the ground and slams her on her back. Police kneel on both protesters to make arrests.
 
@@ -10584,7 +10584,7 @@ geolocation: 39.9621811, -83.0005525
 
 ## Dayton
 
-### Police fire multiple cans of tear gas at protesters | May 30th
+### Police fire multiple cans of tear gas at protesters | 2020-05-30
 
 Police fire several cans of tear gas, engulfing the intersection of 3rd & Ludlow. Shortly after the tear gas started, someone shot a can of yellow gas at the police. The police continued to shoot tear gas and some protesters grabbed the cans and threw them back toward the police. The protesters mostly disperse, but once the gas clears they return. The police then fire more tear gas.
 
@@ -10601,7 +10601,7 @@ geolocation: 39.7592073, -84.1935745
 
 ## Toledo
 
-### Police use tear gas on protesters | May 30th
+### Police use tear gas on protesters | 2020-05-30
 
 Around 7:30pm near Cherry and Bancroft, the police used tear gas on protesters after a couple water bottles had been thrown at them. In the video, one officer is seen firing something from a gun, possibly rubber bullets, at protesters. Later, in the second video, the police use tear gas on the protesters shortly before 9pm. According to the news article, this was because of the 9pm curfew in place.
 
@@ -10627,7 +10627,7 @@ geolocation: 41.6642615, -83.5381045
 
 ## Oklahoma City
 
-### Police try to snatch sign, make violent arrests and cause scuffle | May 30th
+### Police try to snatch sign, make violent arrests and cause scuffle | 2020-05-30
 
 Footage shows police approaching a small march at 23rd and Classon. They arrest one woman holding a banner without incident. An officer then begins to walk away with one end of the banner. Protesters try to pull it back, and a scuffle follows where police attempt to arrest one protester and a second appears to approach to stop it. The second protester and the officer exchange pushes, then another officer charges the protester from behind and shoves him. Police then shove several more protesters and kneel on one to make an arrest.
 
@@ -10642,7 +10642,7 @@ geolocation: 35.493266, -97.5337749
 * https://twitter.com/greg_doucette/status/1269790337075228679
 
 
-### Person with hands up struck in chest by projectile | May 31st
+### Person with hands up struck in chest by projectile | 2020-05-31
 
 Person standing with hands up struck in chest by projectile near the Oklahoma City police headquarters around 1:25 AM; a second projectile is fired shortly after person is struck by the first.
 
@@ -10657,7 +10657,7 @@ geolocation: 35.4688914, -97.5257481
 * https://twitter.com/BruceBrownJr/status/1266979654499479552
 
 
-### Law enforcement uses tear-gas several times | May 31st
+### Law enforcement uses tear-gas several times | 2020-05-31
 
 Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protesters that are standing near the Police Headquarters just after midnight.
 
@@ -10677,7 +10677,7 @@ geolocation: 35.4688914, -97.5257481
 
 ## Tulsa
 
-### Reporters shot by pepper balls on air | June 1st
+### Reporters shot by pepper balls on air | 2020-06-01
 
 When Tulsa Police opened fire on peaceful protesters at 36th and Peoria, reporters for Tulsa's channel 8 were struck by pepper balls while reporting live. Reporter also stated that police threw a flashbang, and tear gas can be seen in the background.
 
@@ -10698,7 +10698,7 @@ geolocation: 36.1106601, -95.9778974
 
 ## Eugene
 
-### Peaceful protester tear gassed | May 30th
+### Peaceful protester tear gassed | 2020-05-30
 
 Footage shows a small cluster of protesters chanting "I can't breathe" near Lincoln and Broadway. At 1:15 in the footage, without warning, police fire tear gas, causing most protesters flee. Some canisters can be seen thrown back towards police.
 
@@ -10716,7 +10716,7 @@ geolocation: 44.0499131, -123.0973905
 * https://www.reddit.com/r/Eugene/comments/gtbsvq/eugene_police_teargasses_downtown/
 
 
-### Reporter shot with tear gas canister | May 31st
+### Reporter shot with tear gas canister | 2020-05-31
 
 Footage shows police giving curfew dispersal order to protesters. At one point, the filmer and his fellow journalist identify themselves as a reporter. One officer says, "It doesn't matter." Several subsequent officers do accept their press credentials without issue. They continue to monitor the protest and are later joined by a reporter for the Eugene Weekly.
 
@@ -10738,7 +10738,7 @@ geolocation: 44.044728, -123.079238
 * https://www.dailyemerald.com/news/police-fire-pellets-tear-gas-at-late-night-protesters-sunday-police-chief-responds/article_cd4a4450-a49a-11ea-a6fd-73b64efe150a.html
 
 
-### Officer shoots projectile from moving vehicle | June 1st
+### Officer shoots projectile from moving vehicle | 2020-06-01
 
 An officer shoots a projectile out of a moving vehicle, striking pedestrian near eyeball.
 
@@ -10756,7 +10756,7 @@ geolocation:
 * [Direct link to video](https://streamable.com/9h2tk3)
 
 
-### Underage protester tackled and arrested | July 26th
+### Underage protester tackled and arrested | 2020-07-26
 
 During a protest at which both pro-police and Black Lives Matter protesters were present near West 7th and Lincoln, members of the two protests appear to exchange words in an intersection. Police charge a protester, a 14 year old girl according to the poster, tackle her to the ground, kneel on her and arrest her.
 
@@ -10774,7 +10774,7 @@ geolocation: 44.0521386, -123.0972978
 
 ## Portland
 
-### Police violently break up peaceful protest | May 30th
+### Police violently break up peaceful protest | 2020-05-30
 
 The Police try to break up the peaceful protest by resorting to hitting individuals with batons.
 
@@ -10790,7 +10790,7 @@ geolocation: 45.515586, -122.676994
 * https://twitter.com/MrOlmos/status/1266916861267996673
 
 
-### Officer pepper-sprays protester | May 30th
+### Officer pepper-sprays protester | 2020-05-30
 
 An officer shoves and pepper-sprays a protester standing on the other side of a barrier.
 
@@ -10805,7 +10805,7 @@ geolocation: 45.515468, -122.676571
 * https://www.youtube.com/watch?v=01oWE24O9Zw&feature=emb_title
 
 
-### Police appear to tear-gas a homeless camp | June 2nd
+### Police appear to tear-gas a homeless camp | 2020-06-02
 
 Actual deployment of tear-gas not shown. Video shows what appears to be a cloud of tear-gas over several tents. The camera thens pans to show 5 cops walking away
 
@@ -10820,7 +10820,7 @@ geolocation: 45.512416, -122.675332
 * https://twitter.com/AstuteAF/status/1268125169890938882
 
 
-### Police shoot tear gas/flashbang grenade into a crowd | June 2nd
+### Police shoot tear gas/flashbang grenade into a crowd | 2020-06-02
 
 Police shoot about a dozen tear gas or flashbang grenades into a crowd from quite a distance.
 
@@ -10835,7 +10835,7 @@ geolocation: 45.516878, -122.676268
 * https://twitter.com/matcha_chai/status/1268043556913987584
 
 
-### Police launch tear gas into a crowd | June 2nd
+### Police launch tear gas into a crowd | 2020-06-02
 
 Police deploy flashbangs and tear gas into a crowd.
 
@@ -10851,7 +10851,7 @@ geolocation: 45.516721, -122.678358
 * https://twitter.com/greg_doucette/status/1268051560489193473
 
 
-### Tear gas fired across active street at protesters | (Believed to be) June 2nd
+### Tear gas fired across active street at protesters | (Believed to be) 2020-06-02
 
 In events occurring either late on June 2nd or in the early morning of June 3rd, police can be heard declaring unlawful assembly and seen firing tear gas across the street at gathered protesters. Some protesters appear to throw tear gas canisters back.
 
@@ -10869,7 +10869,7 @@ geolocation: 45.516146, -122.676663
 * [Video from street, relevant portion starts at 52m23s](https://www.pscp.tv/IwriteOK/1OyKAYjnPgrKb?t=52m23s)
 
 
-### Protesters fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | June 2nd
+### Protesters fleeing tear gas are pepper-sprayed and struck when they ask police where they are supposed to go | 2020-06-02
 
 Protesters flee from tear gas and attempt to follow police dispersal order. As they turn a corner, they are met by more officers. They ask these officers where to go, stating they just want to go home.
 
@@ -10888,7 +10888,7 @@ geolocation: 45.515775, -122.674833
 * [Tiktok Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-26.1.unknown_video)
 
 
-### Police SUV accelerates towards protesters | June 3rd
+### Police SUV accelerates towards protesters | 2020-06-03
 
 In helicopter footage from KGW, protesters are seen moving police barricades and traffic cones on the street. It is unclear if protesters are attempting to clear the street or form a barricade.
 
@@ -10905,7 +10905,7 @@ geolocation: 45.515564, -122.679517
 * https://twitter.com/greg_doucette/status/1268317409095622658
 
 
-### Police shove member of the press | June 4th
+### Police shove member of the press | 2020-06-04
 
 In a live broadcast, police are seen shoving a member of the press. She states "An officer Kammerer stuck his hand to my throat as I held up my press badge." The camera is turned to show that she is clearly labeled press on her ball cap and that she has a badge. The incident occurred at around the 9 minute mark of the 50 minute broadcast.
 
@@ -10921,7 +10921,7 @@ geolocation: 45.516155, -122.678943
 * https://twitter.com/Human42LM/status/1268839807582523392
 
 
-### Police shoot peaceful protesters on sidewalk | June 5th
+### Police shoot peaceful protesters on sidewalk | 2020-06-05
 
 Footage shows a police van drive up on a small group of protesters on the sidewalk, walking away from the officers. Police jump off the van and immediately begin firing at protesters.
 
@@ -10936,7 +10936,7 @@ geolocation: 45.514871, -122.680014
 * https://twitter.com/bigpieceoftoast/status/1269393272570437632
 
 
-### Tear gas fired at fleeing protesters & passing cars | June 5th
+### Tear gas fired at fleeing protesters & passing cars | 2020-06-05
 
 Footage from between 1 and 2 AM on June 5th shows police firing tear gas rounds at a group of protesters walking away from them. Several cars are stopped at traffic and/or passing through the intersection where canisters land.
 
@@ -10951,7 +10951,7 @@ geolocation: 45.516589, -122.677616
 * https://twitter.com/MrOlmos/status/1268826151952121856
 
 
-### Officer attacks photographer with baton and pepper sprays him | June 6th
+### Officer attacks photographer with baton and pepper sprays him | 2020-06-06
 
 A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.
 
@@ -10969,7 +10969,7 @@ geolocation: 45.515540, -122.677147
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
 
 
-### Police push protest back, beating stragglers | (Believed to be) June 6th
+### Police push protest back, beating stragglers | (Believed to be) 2020-06-06
 
 In what appears to be the early AM of June 6th, police walk protesters backwards across the park. Footage shows that straggling protesters are met with pushing, shoving and beatings with batons.
 
@@ -10984,7 +10984,7 @@ geolocation: 45.515507, -122.677484
 * https://twitter.com/greg_doucette/status/1269313407985033216
 
 
-### Police fire tear gas at fleeing protesters | June 6th
+### Police fire tear gas at fleeing protesters | 2020-06-06
 
 Just after midnight on the morning of June 6th, footage from a KPTV reporter shows a crowd of protesters fleeing down the street. Police continue to fire tear gas as protesters run away.
 
@@ -10999,7 +10999,7 @@ geolocation: 45.514266, -122.677721
 * https://twitter.com/BonnieSilkman/status/1269174980060696577
 
 
-### Police respond to thrown water bottle with excessive force | June 6th
+### Police respond to thrown water bottle with excessive force | 2020-06-06
 
 At the beginning of footage, it appears a water bottle is thrown. It bounces against a concrete barricade. Police respond with tear gas. When protesters run to the tear gas in an attempt to defuse it, police respond with rubber bullets.
 
@@ -11014,7 +11014,7 @@ geolocation: 45.515624, -122.677091
 * https://twitter.com/MrOlmos/status/1269177830505512961
 
 
-### Officer chases man filming, beats with baton and pepper sprays in the face twice | (Believed to be) June 6th
+### Officer chases man filming, beats with baton and pepper sprays in the face twice | (Believed to be) 2020-06-06
 
 Aerial footage shows a protester filming the arrest of another protester near 4th and Main. An officer approaches him and shoves him away. The man pulls his arm away and yells at the officer. The officer then strikes him with a baton and pepper sprays him.
 
@@ -11030,7 +11030,7 @@ geolocation: 45.51587, -122.677982
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-249.1.mp4)
 
 
-### Police pull departing protester from bike to arrest them | June 7th
+### Police pull departing protester from bike to arrest them | 2020-06-07
 
 Body cam footage from a police officer shows police approaching person on a bike, believed to be a protester leaving the protest. The two officers pull the protester from the bike to make an arrest, throwing the bike aside. An officer then tells passersby at a convenience store to go home.
 
@@ -11045,7 +11045,7 @@ geolocation: 45.520774, -122.676372
 * https://twitter.com/akamikeb/status/1269537214192476161
 
 
-### Police pepper-spray journalist | June 7th
+### Police pepper-spray journalist | 2020-06-07
 
 First-person footage from a livestream around 2:30 AM on June 7th shows police passing by. A scuffle seems to happen over an umbrella. Then an officer walks over and maces the filmer, a journalist. The journalist then shouts: "He maced me."
 
@@ -11060,7 +11060,7 @@ geolocation: 45.516130, -122.677278
 * https://twitter.com/TheRealCoryElia/status/1269518318949380098
 
 
-### Police arrest people taking pictures, threaten to arrest press | June 7th
+### Police arrest people taking pictures, threaten to arrest press | 2020-06-07
 
 Footage from Salmon between 4th and 5th shows a squad car pulling up next to two individuals and a police officer on foot. One officer can be heard saying, "You were standing there taking photos," as he arrests the individuals. Another officer then shouts: "Leave the area or you will be arrested." The filmer states that he is press and the officer reiterates that he will be arrested if he remains.
 
@@ -11075,7 +11075,7 @@ geolocation: 45.516639, -122.6781337
 * https://twitter.com/AlexMilanTracy/status/1269577129265524736
 
 
-### Police beat protesters | June 7th
+### Police beat protesters | 2020-06-07
 
 Footage shows riot police chasing protesters onto sidewalk near Chapman Square. Tear gas and shots can be heard in the background throughout, as well as an announcement declaring unlawful assembly.
 
@@ -11092,7 +11092,7 @@ geolocation: 45.515478, -122.677229
 * https://twitter.com/AlexMilanTracy/status/1269557908863283200
 
 
-### Police beat protesters in park | June 7th
+### Police beat protesters in park | 2020-06-07
 
 Footage shows protesters fleeing from tear gas or smoke in a park. Frames are captured that show protesters apparently struggling to breathe. Police can be seen ripping umbrellas from protesters and striking them.
 
@@ -11107,7 +11107,7 @@ geolocation: 45.515867, -122.677448
 * https://twitter.com/greg_doucette/status/1269655789595213824
 
 
-### Officer forces press away from protest | June 8th
+### Officer forces press away from protest | 2020-06-08
 
 A reporter with a press pass is told that his pass does not matter and press is not permitted at the scene. Later, a second officer states the same thing. After asking the second officer for his name, the officer lets the reporter film his badge number but does not give his name. After asking again, the officer threatens the journalist, saying: "Do you want to go to jail?" before grabbing the journalist and arresting them.
 
@@ -11125,7 +11125,7 @@ geolocation: 45.515557, -122.676821
 * [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
 
 
-### Police charge protesters, using tear gas and flashbangs to disperse | June 13th
+### Police charge protesters, using tear gas and flashbangs to disperse | 2020-06-13
 
 Just after midnight on the morning on June 13th (between 12:30 and 12:40 AM), police used tear gas and flashbangs to clear protesters from barricades. After protesters had been pushed from the park, police charged them on the streets.
 
@@ -11146,7 +11146,7 @@ geolocation: 45.515641, -122.677136
 * https://twitter.com/MrOlmos/status/1271715330188967938
 
 
-### Protester shoved to ground and beaten | June 13th
+### Protester shoved to ground and beaten | 2020-06-13
 
 Protesters are following police directions to disperse. A man is seen falling onto the screen. The filmer says, "Aw he pushed him down." Officers kick the man and strike him with batons. Protesters who try to help him stand are similarly beaten. An explosive canister containing either smoke or tear gas explodes at the feet of the filmer.
 
@@ -11162,7 +11162,7 @@ geolocation: 45.51587, -122.677982
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-25.1.unknown_video)
 
 
-### Officer strikes journalist with baton | June 14th
+### Officer strikes journalist with baton | 2020-06-14
 
 Footage depicts a journalist retreating from  police charging down SW Broadway between Adler and Washington. The journalist rounds the corner, chased by an officer. The officer strikes the journalist with his baton. The journalist shouts, "Media," and the officer replies, "I don't give a shit."
 
@@ -11177,7 +11177,7 @@ geolocation: 45.5203778, -122.6791044
 * https://twitter.com/PDXzane/status/1272058454799028226
 
 
-### Police apply no-assembly order to journalists | June 15th
+### Police apply no-assembly order to journalists | 2020-06-15
 
 Early in the morning on June 15th, a police car announces to a journalist walking home near Salmon and 4th that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
 
@@ -11192,7 +11192,7 @@ geolocation: 45.516566, -122.677593
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
 
 
-### Police disperse press, tell them to run | June 16th
+### Police disperse press, tell them to run | 2020-06-16
 
 First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
 
@@ -11207,7 +11207,7 @@ geolocation: 45.517616, -122.675936
 * https://twitter.com/MrOlmos/status/1272796206071087105
 
 
-### Police use stun grenades to disperse protesters | June 16th
+### Police use stun grenades to disperse protesters | 2020-06-16
 
 After protesters lit a fire on Southwest 3rd street near the Justice Center, police arrived and declared a civil disturbance. Officers then deployed stun grenades against the retreating crowd.
 
@@ -11222,7 +11222,7 @@ geolocation: 45.514879, -122.677353
 * https://twitter.com/AlexMilanTracy/status/1272829619763208192
 
 
-### Evidence of badges being hidden during the June 6th incident | June 17th
+### Evidence of badges being hidden during the June 6th incident | 2020-06-17
 
 On June 6th, PNW Resistance reported that Portland Police was making a swap to Personal Identification Numbers, in attempt to curve "doxing of officers". This action lead to an incidents that are reported [here](#or-portland-6).
 
@@ -11239,7 +11239,7 @@ geolocation:
 * [Tweet on June 17th enclosed FIA Request by Portland Attorney](https://twitter.com/alankesslr/status/1273299640310325250)
 
 
-### Protester bleeding from head after he was shot by police | June 19th
+### Protester bleeding from head after he was shot by police | 2020-06-19
 
 A screenshot of a Tweet from @1misanthrophile shows a protester bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protesters say the man was struck by a rubber bullet.
 
@@ -11254,7 +11254,7 @@ geolocation: 45.515243, -122.677090
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hchk22/portland_police_shot_a_protester_in_the_head/
 
 
-### Police clear Justice Center protesters using impact munitions and stun grenades | June 20th
+### Police clear Justice Center protesters using impact munitions and stun grenades | 2020-06-20
 
 At a protest outside the Justice Center on June 20th, protesters shined laser pointers towards the entrance and attempted to tear down the fence. Officers then emerged to fire impact munitions at protesters, before additional riot police arrived and began pushing protesters away from the Justice Center using stun grenades and impact munitions. Later, a protester threw a firework, causing a second round of stun grenades and impact munitions.
 
@@ -11276,7 +11276,7 @@ geolocation: 45.5152078, -122.676989
 * https://twitter.com/hungrybowtie/status/1274636212758704128
 
 
-### Police tear gas fleeing protesters, pull individuals from cars | June 26th
+### Police tear gas fleeing protesters, pull individuals from cars | 2020-06-26
 
 Tear gas can be seen fired at protesters fleeing after a standoff with police. Police alleged that protesters started a dumpster fire; protesters deny this. There are passing cars caught in the tear gas. Police flag down one vehicle and pull its occupants out, while continuing to fire tear gas in the immediate area.
 
@@ -11291,7 +11291,7 @@ geolocation: 45.563947, -122.661452
 * https://twitter.com/hungrybowtie/status/1276446115831803906
 
 
-### Police use flashbangs and tear gas to disperse protesters, catching lawyers and journalists in the fray | June 26th
+### Police use flashbangs and tear gas to disperse protesters, catching lawyers and journalists in the fray | 2020-06-26
 
 Footage shows police using tear gas and flashbangs to push already-fleeing protesters. The filmer, a journalist, states that he was struck by a ricocheting canister and that police targeted a group of lawyers. In addition, he states that police threw grenades under passing vehicles.
 
@@ -11314,7 +11314,7 @@ geolocation: 45.565273, -122.661381
 * https://twitter.com/ghostmobpdx/status/1276462936941187074
 
 
-### Man shot in eye with stinger pellet | June 26th
+### Man shot in eye with stinger pellet | 2020-06-26
 
 Images show aftermath of protester who was shot in the eye with a Stinger rubber pellet. Additional screencap shows instruction for proper use state that it is necessary to keep trajectory low to avoid striking above the breast line - this suggests a misuse of riot rounds by officers.
 
@@ -11331,7 +11331,7 @@ geolocation: 45.5652027, -122.6618933
 * https://twitter.com/chadloder/status/1277360969228771329
 
 
-### Police fire explosives from behind barricade | June 26th
+### Police fire explosives from behind barricade | 2020-06-26
 
 Footage shows protesters gathered outside a building with plywood walls erected. Filmer states that police have barricaded themselves behind the plywood walls. Around 30 seconds, a small window opens in the barricade. Police launch multiple explosives at the crowd from this window.
 
@@ -11346,7 +11346,7 @@ geolocation: 45.515507, -122.676783
 * https://twitter.com/greg_doucette/status/1277685523595788290
 
 
-### Police charge protesters, shoving them and beating them with batons | June 27th
+### Police charge protesters, shoving them and beating them with batons | 2020-06-27
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protesters. They strike numerous protesters with their batons and shove others. On protester is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protesters attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protesters and police then shout at each other.
 
@@ -11363,7 +11363,7 @@ geolocation: 45.515311, -122.675940
 * [Alternate angle](https://www.reddit.com/r/2020PoliceBrutality/comments/hhf7to/portlandpolice_attack_handful_of_protestors/)
 
 
-### Police tear gas protesters for no evident reason | June 28th
+### Police tear gas protesters for no evident reason | 2020-06-28
 
 Footage shows police slowly retreating from protesters near Chapman Square. Protesters remain in place. Police fire tear gas continually throughout their retreat.
 
@@ -11380,7 +11380,7 @@ geolocation: 45.5157769, -122.6774779
 * https://twitter.com/hungrybowtie/status/1277125859040563200
 
 
-### Police beat wrong person for vandalism | June 28th
+### Police beat wrong person for vandalism | 2020-06-28
 
 Footage shows a protester spray-painting the Justice Center. Another protester with a skateboard passes by. Police burst out of the door. The spray-painter flees. Police grab the protester with the skateboard, ripping the board out of his hands and striking him repeatedly. Other protesters intervene and push the officers back into the building.
 
@@ -11395,7 +11395,7 @@ geolocation: 45.5156185, -122.6770321
 * https://twitter.com/hungrybowtie/status/1277156963449593856
 
 
-### Riot police charge, tackle and arrest protesters | June 28th
+### Riot police charge, tackle and arrest protesters | 2020-06-28
 
 Footage shows riot police charging at a handful of protesters walking away down 2nd between Main and Madison. Several of these protesters are shoved, thrown to the ground or tackled. Police arrest a handful of these protesters.
 
@@ -11413,7 +11413,7 @@ geolocation: 45.5149013, -122.6762385
 * https://twitter.com/hungrybowtie/status/1277168538575204352
 
 
-### Police retaliate to thrown water bottle with excessive force | June 28th
+### Police retaliate to thrown water bottle with excessive force | 2020-06-28
 
 Footage shows three officers with riot guns outside the Justice Center. An empty water bottle is thrown. It falls well short of the officers. All three fire into the crowd in different directions, collectively punishing the protesters for a thrown water bottle.
 
@@ -11428,7 +11428,7 @@ geolocation: 45.5153208, -122.6770923
 * https://twitter.com/hungrybowtie/status/1277169298000105473
 
 
-### Police charge crowd; shove multiple protesters | June 28th
+### Police charge crowd; shove multiple protesters | 2020-06-28
 
 In footage from the night of June 28th, police charge protesters at 2nd and Main while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
 
@@ -11443,7 +11443,7 @@ geolocation: 45.5153351, -122.676005
 * https://twitter.com/1misanthrophile/status/1277340069867601920
 
 
-### Police shove and mace protester with hands up | June 28th
+### Police shove and mace protester with hands up | 2020-06-28
 
 Footage shows a police line advancing down Main towards protesters. A protester is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
 
@@ -11458,7 +11458,7 @@ geolocation: 45.5157288, -122.677482
 * https://twitter.com/1misanthrophile/status/1277340657648984064
 
 
-### Journalist shot with foam round | June 29th
+### Journalist shot with foam round | 2020-06-29
 
 After an empty water bottle was thrown, police fired foam rounds into a crowd outside the Justice Center, striking a journalist on the hip.
 
@@ -11475,7 +11475,7 @@ geolocation: 45.5155444, -122.6768958
 * https://twitter.com/kmahoneylaw/status/1277906443094511616
 
 
-### Police shove, tackle and kneel on protesters | June 29th
+### Police shove, tackle and kneel on protesters | 2020-06-29
 
 Footage shows a handful of protesters talking to police on the sidewalk at 3rd and Main. After a few seconds, officers take down a protester. Another officer charges across the street to tackle other protesters gathered on the sidewalk.
 
@@ -11495,7 +11495,7 @@ geolocation: 45.5155444, -122.6768958
 * https://twitter.com/i/web/status/1277909390159306752
 
 
-### Police pepper-spray, strike and shoot protesters at point-blank range | June 30th
+### Police pepper-spray, strike and shoot protesters at point-blank range | 2020-06-30
 
 Full footage shows police pushing protesters east down Lombard under dispersal order from LRAD speaker. Protesters move slowly and walk backwards. Two officers then shove protesters with their batons. Another protester steps in between them and is pepper-sprayed.
 
@@ -11513,7 +11513,7 @@ geolocation: 45.5770977, -122.6859028
 * https://twitter.com/defendpdx/status/1278192323575218176
 
 
-### Reporter arrested after identifying officer | June 30th
+### Reporter arrested after identifying officer | 2020-06-30
 
 Footage shows police pushing protesters east down Lombard (near Albina) under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
 
@@ -11537,7 +11537,7 @@ geolocation: 45.5771659, -122.6754077
 * https://twitter.com/PredatorFiles/status/1278270595235344385
 
 
-### Police fire tear gas at protesters | June 30th
+### Police fire tear gas at protesters | 2020-06-30
 
 In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protesters on North Lombard near Pacific Highway. A handful of canisters are thrown back, but the vast majority of protesters flee as police continue to fire.
 
@@ -11552,7 +11552,7 @@ geolocation: 45.5771143, -122.6829384
 * https://www.reddit.com/r/PublicFreakout/comments/hj42i3/portland_police_fire_cs_gas_at_protestors/
 
 
-### Police arrest journalist | June 30th
+### Police arrest journalist | 2020-06-30
 
 Footage shows police arresting a member of the press. Her hands are cuffed behind her back. She coughs and vomits, allegedly from tear gas exposure. Police remove her press badge and search her. She states that police are taking cash from her back right pocket. Protesters shout that police are laughing, but it is not audible in the footage.
 
@@ -11571,7 +11571,7 @@ geolocation: 45.5771659, -122.6754077
 * https://twitter.com/Human42LM/status/1278747482034335744
 
 
-### Police tackle fleeing protesters | June 30th
+### Police tackle fleeing protesters | 2020-06-30
 
 Footage shows protesters fleeing down North Lombard while police give chase. Several protesters are tackled, struck and kneeled on by multiple officers making arrests. A speaker can be heard saying, "Do not interfere with the officers' lawful actions."
 
@@ -11588,7 +11588,7 @@ geolocation: 45.5771009, -122.6843737
 * [Tiktok Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-49.1.unknown_video)
 
 
-### Police shoot protesters | July 2nd
+### Police shoot protesters | 2020-07-02
 
 Around 2:30 in the morning on July 2nd, footage shows police shooting at protesters (off-screen) outside the US District Courthouse. The filmer states that protesters are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
 
@@ -11604,7 +11604,7 @@ geolocation: 45.5157426, -122.6768636
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-46.1.mp4)
 
 
-### Journalist shot by police | July 2nd
+### Journalist shot by police | 2020-07-02
 
 Footage shows a streamer approaching the US District Courthouse. Without warning, shots can be heard and the streamer, with a handful of other protesters, flees to the opposite side of the street. Police continue to fire.
 
@@ -11621,7 +11621,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/PredatorFiles/status/1278635513746870276
 
 
-### Police fire on gathered protesters from within US District Courthouse | July 3rd
+### Police fire on gathered protesters from within US District Courthouse | 2020-07-03
 
 Prior to incident or-portland-48, where police charged protesters, police inside the US District Courthouse fired pepper balls at gathered protesters.
 
@@ -11636,7 +11636,7 @@ geolocation: 45.5158255, -122.6768183
 * https://mobile.twitter.com/Johnnthelefty/status/1278966824801931264
 
 
-### Local and Federal Police fire on protesters, shove journalist | July 3rd
+### Local and Federal Police fire on protesters, shove journalist | 2020-07-03
 
 Footage shows local and federal police emerge quickly from the US District Courthouse, firing riot rounds and spraying pepper spray. Footage shows police shoving a man clearly taking pictures.
 
@@ -11658,7 +11658,7 @@ geolocation: 45.5158255, -122.6768183
 * [Archive Link for First Video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-48.1.mp4)
 
 
-### Police declare riot, fire pepper balls and tear gas | July 3rd
+### Police declare riot, fire pepper balls and tear gas | 2020-07-03
 
 Portland changed regulations so that police must declare a riot before using tear gas. Police did so and fired pepper balls and used tear gas against protesters. One journalist was shoved by police. She states that she was released after she started shouting her Twitter handle. Police then retreated into the US District Courthouse.
 
@@ -11676,7 +11676,7 @@ geolocation: 45.5156185, -122.6770321
 * https://mobile.twitter.com/LindseyPSmith7/status/1278957508460072960
 
 
-### Police slash tires of snack van | July 4th
+### Police slash tires of snack van | 2020-07-04
 
 Footage taken around 11:30pm on July 4th near 3rd and Harvey Milk, shows the "Snack Van" - a protester van known to come to protests with food and water - driving slowly away from police. Officers rush up to the van and puncture its tires.
 
@@ -11692,7 +11692,7 @@ geolocation: 45.5202558, -122.6744446
 * [Alternate angle at 1:10:00](https://twitter.com/AbeReviate/status/1279666998809485312)
 
 
-### Police tear gas protesters from within US District Courthouse | July 5th
+### Police tear gas protesters from within US District Courthouse | 2020-07-05
 
 Early on July 5th, protesters are gathered outside the US District Courthouse. Several windows in the boards open and tear gas is released. There are no police outside the building. All of the breakable glass windows have been covered with plywood. Some protesters throw the tear gas canisters back toward the building.
 
@@ -11707,7 +11707,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/PredatorFiles/status/1279734884852891648
 
 
-### Unknown officers tear gas and shoot at protesters | July 5th
+### Unknown officers tear gas and shoot at protesters | 2020-07-05
 
 A small group of officers is gathered on the sidewalk at 3rd and Main. Protesters have been referring to them habitually as an "unnamed Federal Terrorist militia." Protesters begin shouting at the group and approaching them. They respond by throwing tear gas and shooting at protesters.
 
@@ -11722,7 +11722,7 @@ geolocation: 45.5155444, -122.6768958
 * https://twitter.com/PredatorFiles/status/1279728186197065730
 
 
-### Violent arrests made by police | July 5th
+### Violent arrests made by police | 2020-07-05
 
 Footage shows police declaring the protest a riot. They fire tear gas at protesters near 4th and Taylor. Protesters begin to retreat and police follow. Several officers then break from the line, brandishing pepper spray, and shove their way through the crowd. Protesters can be heard shouting, "That's press, that's press." Police throw several protesters to the ground (including the filmer). They then beat protesters with batons, punch them, and arrest them.
 
@@ -11737,7 +11737,7 @@ geolocation: 45.517233, -122.6773747
 * https://twitter.com/1misanthrophile/status/1279909934449061888
 
 
-### Police tear gas and shove protesters | July 5th
+### Police tear gas and shove protesters | 2020-07-05
 
 Footage shows heavy tear gas usage as protesters flee near 5th and Taylor. A protester has fallen and other protesters rush to help them up; police charge in swinging batons at these protesters. A protester can be heard saying, "There's homeless people here," assumed to mean in the vicinity of the tear gas.
 
@@ -11754,7 +11754,7 @@ geolocation: 45.5174864, -122.6783183
 * https://twitter.com/MrOlmos/status/1279682872484347905
 
 
-### Badgeless federal agents deployed to Portland; tear gas protesters | July 5th
+### Badgeless federal agents deployed to Portland; tear gas protesters | 2020-07-05
 
 Federal agents without any identification or badge numbers were deployed to Portland the night of July 5th. They appear to be carrying standard-issue weapons with live rounds.
 
@@ -11779,7 +11779,7 @@ geolocation: 45.51587, -122.677982
 * [Tear gas](https://twitter.com/45thabsurdist/status/1280051607225262081)
 
 
-### Confirmed report of U.S. Federal agents kneeling on protester | July 6th
+### Confirmed report of U.S. Federal agents kneeling on protester | 2020-07-06
 
 Footage shows 2 agents in fatigues, either DHS or U.S. Marshals, kneeling on a protester to make an arrest near 4th and Main. A journalist attempting to film is harassed and told to move faster by a third agent.
 
@@ -11794,7 +11794,7 @@ geolocation: 45.515932, -122.678325
 * https://twitter.com/greg_doucette/status/1280217831079018496
 
 
-### Federal officers raid vigil for slain protester | July 8th
+### Federal officers raid vigil for slain protester | 2020-07-08
 
 Protesters held a vigil in Chapman Square for Summer Taylor, a protester killed in a hit and run a few days prior. Without warning, federal agents and police stormed the vigil, dispersing it using flashbangs and riot control rounds. The first link shows this dispersal.
 
@@ -11815,7 +11815,7 @@ geolocation: 45.5153952, -122.6776722
 * https://twitter.com/hungrybowtie/status/1280775090582380545
 
 
-### Federal agents fire tear gas during shift change | July 11th
+### Federal agents fire tear gas during shift change | 2020-07-11
 
 Early in the morning on July 11th, federal agents retreated into the US District courthouse for a shift change (1st link). The second link shows tear gas released after protester pushed towards the door into which federal agents were retreating.
 
@@ -11832,7 +11832,7 @@ geolocation: 45.5159068, -122.6767751
 * [Shift change begins at 5:00](https://www.pscp.tv/w/1YqxoRnMPVvJv?t=5m)
 
 
-### LRAD used against protesters | July 11th
+### LRAD used against protesters | 2020-07-11
 
 In footage from a journalist, an LRAD's dispersal siren can be clearly heard. Antecdotally, the journalist filming writes, "it definitely hurts."
 
@@ -11850,7 +11850,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/GenResistance/status/1282200096482791430
 
 
-### Federal agent shoves protester | July 11th
+### Federal agent shoves protester | 2020-07-11
 
 Footage shows a federal agent running down the 4th Avenue sidewalk (between Salmon and Taylor), screaming "Get out of the way." He then shoves an individual to the ground. The individual does not appear to be in his way. Another federal agent walks behind, telling protesters to "Get off the sidewalk." Protesters ask where they are supposed to go and the agent does not answer.
 
@@ -11865,7 +11865,7 @@ geolocation: 45.5168236, -122.6774529
 * https://twitter.com/whittlingbabe/status/1282372585984978944
 
 
-### Journalist shot by federal officers | July 11th
+### Journalist shot by federal officers | 2020-07-11
 
 Footage shows federal officers on Main Street (between 3rd and 4th) rolling tear gas canisters into a crowd. Officers also fire less-lethal munitions, at least one of which strikes the filmer, a photographer.
 
@@ -11883,7 +11883,7 @@ geolocation: 45.5157288, -122.6774829
 * https://twitter.com/MathieuLRolland/status/1283554123808272384
 
 
-### Police fire tear gas and riot rounds at peaceful protesters | July 12th
+### Police fire tear gas and riot rounds at peaceful protesters | 2020-07-12
 
 Protesters are gathered around the US District Courthouse. Police and Federal agents are massed in a doorway. The fire and throw tear gas canisters. In addition, riot rounds can be heard fired repeatedly.
 
@@ -11903,7 +11903,7 @@ geolocation: 45.5159068, -122.6767751
 * [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-60.3.mp4)
 
 
-### Police and federal agents chase down protester writing in chalk | July 12th
+### Police and federal agents chase down protester writing in chalk | 2020-07-12
 
 Footage shows a protester on the approved side of the US District Courthouse line. Without warning, federal agents charge out of the Justice Center at the protester. The protester flees and the agents continue to give chase. They can be heard shouting, "Get her."
 
@@ -11918,7 +11918,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/R3volutionDaddy/status/1282341037554331649
 
 
-### Police strike journalist with tear gas canister | July 12th
+### Police strike journalist with tear gas canister | 2020-07-12
 
 In the aftermath of the events of or-portland-60, a journalist was filming protesters using water and traffic cones to defuse tear gas. While filming, he was shot directly with a tear gas canister, which then fell into his bag. He states that "PRESS" is written clearly on his helmet.
 
@@ -11933,7 +11933,7 @@ geolocation: 45.5153952, -122.6776722
 * https://twitter.com/hungrybowtie/status/1282218575093096448
 
 
-### Police and federal agents tear gas protesters again | July 12th
+### Police and federal agents tear gas protesters again | 2020-07-12
 
 After police and federal agents retreated into the US District Courthouse, protesters followed. Footage shows agents emerging from the US District Courthouse and firing tear gas and other riot rounds. Most protesters flee, but some remain to film. A single firework can be heard at the end of the footage.
 
@@ -11953,7 +11953,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/dave_blazer/status/1282227832706363393
 
 
-### Police and federal agents tackle, arrest, and tear gas protesters | July 12th
+### Police and federal agents tackle, arrest, and tear gas protesters | 2020-07-12
 
 In what is allegedly the fourth distinct tear gassing of the night, federal agents and police charged out from the US District Courthouse. They tackle and arrest at least one protester, then deploy tear gas to cover their retreat. In addition, officers are seen shoving both protesters and journalists, and threatening them with batons while pushing protests out of the park. They continually disperse tear gas while doing so. In particular, the last link shows an officer pushing an individual clearly marked press off a set of steps and into bushes.
 
@@ -11975,7 +11975,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/dave_blazer/status/1282245488759062528
 
 
-### Protester shot in the head | July 12th
+### Protester shot in the head | 2020-07-12
 
 Footage taken just after midnight on July 12th shows a protester holding a stereo above his head across the street from the US District Courthouse. A shot can be heard and the protester crumples to the ground, bleeding heavily.
 
@@ -11995,7 +11995,7 @@ geolocation: 45.5159068, -122.6767751
 * https://www.opb.org/news/article/federal-officers-portland-protester-shot-less-lethal-munitions/
 
 
-### Photojournalist shows wounds from less-lethal rounds | July 12th
+### Photojournalist shows wounds from less-lethal rounds | 2020-07-12
 
 Footage taken at 3rd and Main shows an individual wearing a t-shirt that clearly states "PRESS" on the back. He has rolled up his shirt to reveal 2 bleeding spots on his back, as well as a series of bruises. An individual can be heard stating that the journalist was "shot in the back."
 
@@ -12011,7 +12011,7 @@ geolocation: 45.51587, -122.677982
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-66.1.mp4)
 
 
-### Protest medics shoved and struck by batons after trying to give aid to protester | July 12th
+### Protest medics shoved and struck by batons after trying to give aid to protester | 2020-07-12
 
 Footage taken near 5th and Salmon shows 3 protest medics standing around a protester on the ground. Federal agents approach and motion for them to leave. The medics obey the orders, but federal agents shove them to the ground and strike them with batons regardless.
 
@@ -12026,7 +12026,7 @@ geolocation: 45.5167388, -122.6784982
 * https://www.reddit.com/r/PublicFreakout/comments/hpvxlp/federal_officers_in_portland_or_attacking_medics/
 
 
-### Federal officers fire directly at media | July 12th
+### Federal officers fire directly at media | 2020-07-12
 
 Footage shows Federal agents emerge around a corner clouded with tear gas. One officer kicks a tear gas canister. Officers then fire tear gas directly at journalists gathered on a corner.
 
@@ -12042,7 +12042,7 @@ geolocation: 45.5162424, -122.6766617
 * https://twitter.com/MikeAdamsUT/status/1282530270860636161
 
 
-### Police slap phone out of protester's hand | July 12th
+### Police slap phone out of protester's hand | 2020-07-12
 
 Footage shows a protester with their phone raised, attempting to film an officer. The officer shines at light at the phone and at the protester, then slaps the phone out of the protester's hand. The phone lands behind police, where the protester is unable to retrieve it.
 
@@ -12057,7 +12057,7 @@ geolocation: 45.5164231, -122.6773197
 * https://clips.twitch.tv/NimbleGrossTildeSeemsGood
 
 
-### Police tear gas protesters in residential area | July 13th
+### Police tear gas protesters in residential area | 2020-07-13
 
 Around 12:30 AM PST, police arrive at Lombard and Denver and declare a riot, giving a dispersal order. Police then fire a considerable amount of tear gas at protesters milling about. Protesters were allegedly gathered in a residential area, where bystanders could easily have been caught in the gas.
 
@@ -12073,7 +12073,7 @@ geolocation: 45.5770984, -122.6867857
 * https://twitter.com/greg_doucette/status/1283029721077424130
 
 
-### Police pepper-spray and kneel on protesters | July 13th
+### Police pepper-spray and kneel on protesters | 2020-07-13
 
 After declaring the protest a riot and firing tear gas, police made several violent arrests. Footage taken at Lombard and Fenwick shows officers tackling 2 protesters and kneeling on them to arrest them. They also fire pepper spray indiscriminately, at both the arrestees and other protesters. One officer is falling over tackling a protester while discharging pepper spray. Protesters can be heard shouting that police allegedly ripped off a protester's mask to pepper spray her.
 
@@ -12088,7 +12088,7 @@ geolocation: 45.577101, -122.6852215
 * https://twitter.com/PDocumentarians/status/1282946442089205761
 
 
-### Police officer rips off protester's mask and pepper sprays them | July 14th
+### Police officer rips off protester's mask and pepper sprays them | 2020-07-14
 
 Footage taken near Lombard and Fenwick shows a protester standing on the sidewalk with her hands up. An officer rips her mask off and pepper sprays her.
 
@@ -12103,7 +12103,7 @@ geolocation: 45.5771004, -122.6847064
 * https://twitter.com/safePDXprotest/status/1283286011942809601
 
 
-### Police pepper spray protesters with hands up | July 14th
+### Police pepper spray protesters with hands up | 2020-07-14
 
 Footage taken near Lombard and Elmore shows police approaching protesters in the street. A speaker can be heard declaring the protest a riot and giving a dispersal order. Protesters stand with their hands up or with arms interlocked. Police pepper spray them during the dispersal order.
 
@@ -12118,7 +12118,7 @@ geolocation: 45.5770986, -122.685807
 * https://twitter.com/45thabsurdist/status/1282981954279731200
 
 
-### Federal agents use explosive munitions to clear protesters | July 15th
+### Federal agents use explosive munitions to clear protesters | 2020-07-15
 
 Footage shows U.S. Marshals using a variety of munitions (tear gas, flashbangs, pepper balls) to clear protesters from the street and through Chapman and Lownsdale Squares. In the second link, protesters are behind makeshift barricades, but in the first and third, they are just in the street.
 
@@ -12135,7 +12135,7 @@ geolocation: 45.5157288, -122.6774829
 * https://twitter.com/PDocumentarians/status/1283367858865491968
 
 
-### Federal agents arrest protester without identifying themselves or stating charges | July 15th
+### Federal agents arrest protester without identifying themselves or stating charges | 2020-07-15
 
 Federal agents approach a small group of protesters on the sidewalk near 2nd and Main. They seize a protester, place them in an unmarked car, and drive off. They make no attempt to identify themselves, to read the protester their rights, or to state the charges against the protester.
 
@@ -12154,7 +12154,7 @@ geolocation: 45.5153351, -122.676005
 * https://www.opb.org/news/article/federal-law-enforcement-unmarked-vehicles-portland-protesters/
 
 
-### Officer leaving Justice Center shoves protester and threatens with gun | July 15th
+### Officer leaving Justice Center shoves protester and threatens with gun | 2020-07-15
 
 An officer in street clothes is leaving the Justice Center through the garage on 2nd Avenue, possibly at the end of his shift. A protester runs across the street and blocks the truck's path. The protester and officer argue for a moment, then the officer exits his vehicle, charges the protester and shoves him to the ground. The protester then approaches and shoves the truck door. The officer then brandishes a sidearm, shouting, "I'm a fucking cop. I will fucking shoot you. Back the fuck off."
 
@@ -12170,7 +12170,7 @@ geolocation: 45.5149836, -122.676194
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hsgfyz/plane_clothes_cop_pulls_gun_on_protesters_in/
 
 
-### Police tackle protester off bike and into lightpole | July 16th
+### Police tackle protester off bike and into lightpole | 2020-07-16
 
 Footage shows a protester riding down the street at 4th and Salmon. He appears to say something to an officer on the far side of the street. Then an officer in the intersection tackles him to the ground, kneels on him and arrests him.
 
@@ -12188,7 +12188,7 @@ geolocation: 45.5164817, -122.6776398
 * https://video.twimg.com/ext_tw_video/1283748858820882432/pu/vid/640x360/2Tkb9BcfYRsnp7yQ.mp4?tag=10
 
 
-### Police and Federal Agents deploy tear gas, pepper balls and flashbangs in half hour push along 3rd Avenue | July 16th
+### Police and Federal Agents deploy tear gas, pepper balls and flashbangs in half hour push along 3rd Avenue | 2020-07-16
 
 Shortly before midnight on July 16th, police and federal agents began a lengthy push to move protesters North along 3rd avenue from the Justice Center, up past Salmon St. Police and federal agents deployed tear gas and flashbangs and shot pepper balls for the majority of this push. In the second clip, an LRAD's dispersal function can be heard.
 
@@ -12218,7 +12218,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/MrOlmos/status/1284023309911224321
 
 
-### Protester shows wound left by less-lethal round | July 16th
+### Protester shows wound left by less-lethal round | 2020-07-16
 
 Initial footage taken near 3rd and Salmon shows protesters carrying a wounded man to safety. Medics come to treat him and give him an inhaler. A reporter later states he is a homeless man who was at the Riot Ribs mutual aid station.
 
@@ -12238,7 +12238,7 @@ geolocation: 45.5162424, -122.6766617
 * [Spanish](https://twitter.com/MrOlmos/status/1284027312254509057)
 
 
-### Bystander recounts experience being tear-gassed while walking home | July 16th
+### Bystander recounts experience being tear-gassed while walking home | 2020-07-16
 
 A man interviewed by a journalist at 3rd and Salmon says he was walking home and saw a small group of police. He says he was shot at and struck by police with tear gas. He says that now he is standing among the protesters to understand what's going on.
 
@@ -12254,7 +12254,7 @@ geolocation: 45.5162424, -122.6766617
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-81.1.mp4)
 
 
-### Protester and reporter struck by impact munitions | July 16th
+### Protester and reporter struck by impact munitions | 2020-07-16
 
 At the beginning of the series of events in or-portland-79, police and federal agents fire pepper balls and tear gas at protesters near 3rd and Salmon. Footage clearly shows a protester struck by a round, who then retreats. In a second video, the filmer, a journalist, is hit in the ankle.
 
@@ -12270,7 +12270,7 @@ geolocation: 45.5162424, -122.6766617
 * https://twitter.com/MrOlmos/status/1284017462162276353
 
 
-### Police charge, strike and arrest protesters | July 16th
+### Police charge, strike and arrest protesters | 2020-07-16
 
 Footage uploaded shortly before midnight on July 16th shows police and protesters standing off outside the Penumbra Kelly Building. Without warning, police charge at protesters, striking, shoving and arresting them.
 
@@ -12285,7 +12285,7 @@ geolocation: 45.523019, -122.6143974
 * https://twitter.com/Or_St14/status/1284015646880104449
 
 
-### Medic shows rubber bullet wound | July 16th
+### Medic shows rubber bullet wound | 2020-07-16
 
 Images from a medic show a bruise left a rubber bullet on July 16th. Other images of the medic consistently show them wearing marked clearly as a medic, like [here](https://twitter.com/peyhubbard/status/1285369254234083330?s=20)
 
@@ -12302,7 +12302,7 @@ geolocation: 45.5159923, -122.6767309
 * https://twitter.com/peyhubbard/status/1284784447225618435
 
 
-### Police fire second round of tear gas at protesters | July 17th
+### Police fire second round of tear gas at protesters | 2020-07-17
 
 Shortly after midnight on the morning of July 17th, about two hours after the last round of tear gas and munitions, police and federal agents fire a second round of tear gas and impact munitions at protesters gathered outside the US District Courthouse.
 
@@ -12320,7 +12320,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/MrOlmos/status/1284057651358228480
 
 
-### Police shove protesters down street | July 17th
+### Police shove protesters down street | 2020-07-17
 
 Footage taken shortly after midnight shows police giving dispersal orders to protesters outside the Penumbra Kelly Building, then using batons to shove them down the street. Several protesters are seen knocked to the ground.
 
@@ -12342,7 +12342,7 @@ geolocation: 45.523019, -122.6143974
 * https://twitter.com/GriffinMalone6/status/1284039535223955457
 
 
-### Police break windows of car, then ram car when it reverses | July 17th
+### Police break windows of car, then ram car when it reverses | 2020-07-17
 
 Footage shows police speaking to a driver in a stopped car behind the police line at SE 47th and E Burnside. The road was supposed to be closed, so it is unclear how the driver came to be there. One reporter suggests the car was trapped behind the police line after police pushed protesters down the street. The car edges forward slightly and police halt it, screaming. They then bash the windows of the car with batons. The car reverses and attempts to flee, but is rammed by a police vehicle.
 
@@ -12358,7 +12358,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/PDXRosieRiddle/status/1284020202145902593
 
 
-### Federal officers tear gas protesters outside Justice Center | July 17th
+### Federal officers tear gas protesters outside Justice Center | 2020-07-17
 
 Footage uploaded a few hours before midnight on July 17th shows widespread use of tear gas against protesters at 4th and Madison. A reporter on the scene alleges all tear gas was fired by federal officers.
 
@@ -12375,7 +12375,7 @@ geolocation: 45.5151289, -122.6782573
 * https://twitter.com/alex_zee/status/1284357333993152513
 
 
-### Police and federal officers arrest protester writing in chalk | (Believed to be) July 17th
+### Police and federal officers arrest protester writing in chalk | (Believed to be) 2020-07-17
 
 Footage shows approximately a dozen police and federal officers emerging from the IRS building at 3rd and Madison. Officers approach a protester writing in chalk. The protester stands to flee and is tackled to the ground by the officers. The individual is then arrested. The protester had a dog, whose leash is held by a federal officer.
 
@@ -12393,7 +12393,7 @@ geolocation: 45.5148378, -122.6773971
 * https://www.reddit.com/r/PublicFreakout/comments/htqo1j/13_cops_vs_1_graffiti_guy/
 
 
-### Police charge at and trample protesters | July 18th
+### Police charge at and trample protesters | 2020-07-18
 
 Early in the morning on July 18th, police give a dispersal order and walk protesters down the street from Chapman Square. Protesters appear to be complying. Police then charge without warning and treat protesters violently. Police are seen shoving, dragging, throwing and striking protesters.
 
@@ -12411,7 +12411,7 @@ geolocation: 45.5153952, -122.6776722
 * https://twitter.com/PDocumentarians/status/1284359848763645952
 
 
-### Police repeatedly shove protester | July 18th
+### Police repeatedly shove protester | 2020-07-18
 
 Footage from early on July 18th shows police repeatedly shoving a protester on the sidewalk near Park and Yamhill. Police appear to be walking the protesters backwards and while the protester was not walking quickly, he was obeying the police order.
 
@@ -12426,7 +12426,7 @@ geolocation: 45.5189515, -122.6810696
 * https://twitter.com/GriffinMalone6/status/1284430958142210147
 
 
-### Federal agents fire tear gas and impact munitions at crowd | July 18th
+### Federal agents fire tear gas and impact munitions at crowd | 2020-07-18
 
 Footage uploaded around 2 AM on July 18th shows federal agents firing tear gas and impact munitions at scattered protesters near 6th and Main.
 
@@ -12446,7 +12446,7 @@ geolocation: 45.5164032, -122.6800923
 * https://twitter.com/GriffinMalone6/status/1284409361800945665
 
 
-### Police chase, shove and punch protesters | July 18th
+### Police chase, shove and punch protesters | 2020-07-18
 
 Footage shows police chasing protesters near 4th and Taylor while a dispersal order is being given. At various points during the footage, police can be seen striking, punching and shoving protesters.
 
@@ -12461,7 +12461,7 @@ geolocation: 45.5172076, -122.6772031
 * https://twitter.com/GriffinMalone6/status/1284430729477099520
 
 
-### Police gas and shoot protesters early in the morning | July 18th
+### Police gas and shoot protesters early in the morning | 2020-07-18
 
 Footage uploaded around 4 AM PST shows a small cluster of protesters, approximately 50, fleeing down the street from gas launched by federal agents. It appears to be tear gas, by the continual coughing of protesters, but smoke grenades were also deployed at other times in the night. Towards the end of the footage, riot guns can be heard firing.
 
@@ -12478,7 +12478,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/GriffinMalone6/status/1284445097329717248
 
 
-### Police shove protesters obeying directions | July 18th
+### Police shove protesters obeying directions | 2020-07-18
 
 Footage shows a police line marching protesters down Yamhill between 5th and 6th. All protesters appear to be following police direction. However, some protesters move slower and are shoved by police. Police also brandish their batons while threatening protesters to move faster. Batons are used to shove protesters to the ground on multiple occasions. Towards the end of the footage, one protester is thrown to the ground and struck with a baton.
 
@@ -12493,7 +12493,7 @@ geolocation: 45.5182424, -122.6784001
 * https://twitter.com/PDocumentarians/status/1284420156760834050
 
 
-### Police and federal agents fire impact munitions at crowd | July 18th
+### Police and federal agents fire impact munitions at crowd | 2020-07-18
 
 Footage shows police and federal agents working together to push protesters down the street near 3rd and Salmon. Continual riot gun fire is heard throughout the footag at a peaceful crowd wherein most protesters have their hands raised. The reporter who took the footage does state that the majority of fire followed procedure (i.e. at the feet), but police were still firing on a peaceful, obeying crowd.
 
@@ -12508,7 +12508,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/Johnnthelefty/status/1284462376624877568
 
 
-### Police officer hurls protester to the ground | July 18th
+### Police officer hurls protester to the ground | 2020-07-18
 
 Footage taken near 2nd and MAdison shows a police officer grabbing a protester by the collar and hurling him to the ground.
 
@@ -12523,7 +12523,7 @@ geolocation: 45.5146554, -122.6763743
 * https://twitter.com/Johnnthelefty/status/1284414146373578752
 
 
-### Protest struck repeatedly and pepper-sprayed | July 18th
+### Protest struck repeatedly and pepper-sprayed | 2020-07-18
 
 A protester standing still outside the US District Courthouse is struck repeatedly by an officer with a baton. Another officer then pepper sprays him. The man then gives the officers the finger and walks away.
 
@@ -12543,7 +12543,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/peyhubbard/status/1285369254234083330
 
 
-### Two USNA graduates pepper sprayed | July 18th
+### Two USNA graduates pepper sprayed | 2020-07-18
 
 First person footage from one of two US Naval Academy graduates shows the graduates approaching federal officers outside the US District Courthouse. The graduates then stand still several feet away. Tear gas rolls into view. Officers then shove the protesters and pepper spray them without warning.
 
@@ -12558,7 +12558,7 @@ geolocation: 45.5158255, -122.6768183
 * https://www.youtube.com/watch?v=OmAdEp6pAp4
 
 
-### Federal officers fire on Moms Against Police Brutality | July 18th
+### Federal officers fire on Moms Against Police Brutality | 2020-07-18
 
 A group of women calling themselves Moms Against Police Brutality locked arms in the street (3rd and Main). Federal officers shove the women and throw a flashbang which explodes at their feet. One of the moms assaulted is pregnant.
 
@@ -12576,7 +12576,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/JoshuaPotash/status/1284759405783912452
 
 
-### Journalist shows wound from impact munition | July 18th
+### Journalist shows wound from impact munition | 2020-07-18
 
 A journalist shows a bloody wound on her leg from a undetermined impact munition at 3rd and Taylor. She states she is wearing a bress badge and yellow vest.
 
@@ -12592,7 +12592,7 @@ geolocation: 45.5169327, -122.6762642
 * https://twitter.com/defendpdx/status/1284410083661582337
 
 
-### Police charge and tear gas protesters | July 18th
+### Police charge and tear gas protesters | 2020-07-18
 
 Footage shows the end of a dispersal from the Portland Police Assocation down N Lombard. The footage was taken at Lombard and Concord. Police chase fleeing protesters. They hurl several tear gas canisters. One protester is helped to their feet by others; an officer runs up to the group and shoves them.
 
@@ -12607,7 +12607,7 @@ geolocation: 45.5771017, -122.6841839
 * https://twitter.com/tuckwoodstock/status/1284730852404899840
 
 
-### Police charge protesters | July 18th
+### Police charge protesters | 2020-07-18
 
 Footage shows police rushing at protesters near Lombard and Pacific Highway. Several protesters are tackled and shoved to the ground. The reporter filming states that at least one bike was confiscated.
 
@@ -12622,7 +12622,7 @@ geolocation: 45.5771371, -122.6822306
 * https://twitter.com/tuckwoodstock/status/1284734198926852097
 
 
-### Police drop gas out window | July 18th
+### Police drop gas out window | 2020-07-18
 
 Footage from outside the US District Courthouse shows police or federal agents dropping a gas canister out a window. It is unclear if the gas is smoke or CS. Protesters were some distance from the entrance and no officers were outside the Justice Center.
 
@@ -12637,7 +12637,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/defendpdx/status/1284382114067017728
 
 
-### Police shoot and gas protesters | July 18th
+### Police shoot and gas protesters | 2020-07-18
 
 Footage from 3rd and Main in Portland shows police dispersing tear gas. In addition, riot rounds can be heard fired. In the second clip, an officer indiscriminately pepper sprays the area, though no protesters are within range.
 
@@ -12653,7 +12653,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/defendpdx/status/1284357202866663425
 
 
-### Federal officers tear gas protesters outside US District Courthouse | July 18th
+### Federal officers tear gas protesters outside US District Courthouse | 2020-07-18
 
 Footage taken at 3rd and Main shows federal agents shoving protesters and firing off tear gas. In the second clip, a protester with a leaf blower helps get tear gas off protesters; flashbangs can be heard during this footage.
 
@@ -12670,7 +12670,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/LindseyPSmith7/status/1284727105121443840
 
 
-### Federal officers tear gas protesters outside US District Courthouse a second time | July 18th
+### Federal officers tear gas protesters outside US District Courthouse a second time | 2020-07-18
 
 Footage shows federal officers near 3rd and Main firing tear gas at protesters. Munitions recovered during the incident also show police fired smoke grenades.
 
@@ -12691,7 +12691,7 @@ geolocation: 45.5156595, -122.6769109
 * [Additional munitions](https://twitter.com/LindseyPSmith7/status/1284737866447253505)
 
 
-### Police shove legal observer | July 18th
+### Police shove legal observer | 2020-07-18
 
 Footage shows protesters retreating north on 4th past Salmon, following police directions. One legal observer is shoved to the ground on camera. A protester is seen lying in the street. A medic approaches to aid the protester, but it is unclear what caused the protester's injury.
 
@@ -12706,7 +12706,7 @@ geolocation: 45.5164817, -122.6776398
 * https://twitter.com/greg_doucette/status/1284888506486095872
 
 
-### Police arrest snack van driver; threaten car behind | July 19th
+### Police arrest snack van driver; threaten car behind | 2020-07-19
 
 Early in the morning on July 19th, police arrest the driver of the Snack Van, a protester vehicle that distributes food to other protesters. Police apparently arrested the driver without letting him put the van in park, as the vehicle rolls forward into a dumpster.
 
@@ -12726,7 +12726,7 @@ geolocation: 45.5181745, -122.6767151
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-108.1.mp4)
 
 
-### Federal agents shoot at protesters behind fence | July 19th
+### Federal agents shoot at protesters behind fence | 2020-07-19
 
 Footage shows protesters and federal agents separated by a chain-link fence outside the US District Courthouse. Protesters are shouting at officers. Riot guns can be heard firing at protesters.
 
@@ -12741,7 +12741,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/DonovanFarley/status/1285098045235838976
 
 
-### Journalist displays wound received | July 19th
+### Journalist displays wound received | 2020-07-19
 
 A journalist shows a wound he received from an impact munition while filming embedded in the crowd outside the US District Courthouse. He states he was holding his press badge up.
 
@@ -12761,7 +12761,7 @@ geolocation: 45.5157426, -122.6768636
 * https://twitter.com/DonovanFarley/status/1285116792583544833
 
 
-### Federal agents fire tear gas, impact munitions and flashbangs at protesters | July 19th
+### Federal agents fire tear gas, impact munitions and flashbangs at protesters | 2020-07-19
 
 Footage from the evening of July 19th shows the initial push by federal officers to move protesters away from the US District Courthouse. In a 20 minute engagement beginning just before midnight, officers fired considerable tear gas, impact munitions (including pepper balls and rubber bullets) and flashbangs at protesters, pushing them into the park and down the street. Victims include protesters, Moms Against Police Brutality and journalists. One Mom Against Police Brutality tear-gassed the previous day was pregnant; it is unknown if she was present at this incident.
 
@@ -12790,7 +12790,7 @@ geolocation: 45.5157769, -122.6774779
 * https://www.youtube.com/watch?v=9YFc2rc60DU
 
 
-### Federal agents continue to push protesters | July 20th
+### Federal agents continue to push protesters | 2020-07-20
 
 In the second part of a push by Federal agents down SW Main, after a lull ending or-portland-111, officers resumed pushing protesters down the street. They continued to deploy tear gas, pepper balls, rubber bullets and flashbangs in an effort to move the protest down the street.
 
@@ -12812,7 +12812,7 @@ geolocation: 45.5157769, -122.6774779
 * https://twitter.com/LindseyPSmith7/status/1285115720179671041
 
 
-### Federal officer fire tear gas during retreat, filmer shot in hand | July 20th
+### Federal officer fire tear gas during retreat, filmer shot in hand | 2020-07-20
 
 After the push in or-portland-112, federal officers began to retreat from the crowd at 4th and Main, firing tear gas and other impact munitions. Footage shows an explosive projectile striking the filmer in the hand before the footage ends.
 
@@ -12828,7 +12828,7 @@ geolocation: 45.51587, -122.677982
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-113.1.mp4)
 
 
-### Federal officers fire tear gas and pepper balls at protesters | July 20th
+### Federal officers fire tear gas and pepper balls at protesters | 2020-07-20
 
 Protesters with hands up are seen opposite the US District Courthouse around 1 AM PST. Clouds of tear gas are seen on the street. Additional munitions can be heard throughout the footage.
 
@@ -12843,7 +12843,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/SmileItsNathan/status/1285120572779663362
 
 
-### Federal officers fire tear gas and impact munitions at protesters; shoot journalist | July 20th
+### Federal officers fire tear gas and impact munitions at protesters; shoot journalist | 2020-07-20
 
 Footage from a journalist shows officers firing tear gas and impact munitions down the street at protesters. At 7:05, the journalist is shot in the stomach with an impact munition. He is standing well away from protesters and states he has written "press" clearly on his helmet.
 
@@ -12860,7 +12860,7 @@ geolocation: 45.515732, -122.6773736
 * [7:05](https://twitter.com/i/broadcasts/1MnxndjVOQXGO)
 
 
-### Indiscriminate tear gas after protesters light small fire | July 20th
+### Indiscriminate tear gas after protesters light small fire | 2020-07-20
 
 After protesters allegedly lit a small fire, federal officers fired tear gas indiscriminately into the Lownsdale and Chapman Squares, though according to the poster, most protesters were not in these areas. Footage shows substantial clouds of tear gas with no protesters nearby.
 
@@ -12875,7 +12875,7 @@ geolocation: 45.515732, -122.6773736
 * https://twitter.com/Clypian/status/1285134827990036480
 
 
-### Journalist shot in leg | July 20th
+### Journalist shot in leg | 2020-07-20
 
 First-person footage shows a journalist groaning in pain after he is shot near 3rd and Main. Later footage shows a medic treating his leg. And a final image from another journalists confirms he is okay.
 
@@ -12892,7 +12892,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/SmileItsNathan/status/1285107709537329159
 
 
-### Protester shot in head with munition | July 20th
+### Protester shot in head with munition | 2020-07-20
 
 A journalist interviewed a bandaged protester who was allegedly struck by officers with a munition in the head. The protester says he believes it was a a flashbang, because there was a ringing in his ears. He says that protest medics treated him at the scene. The journalist pans over the top of his head; the skin is red and there are traces of blood still on his scalp.
 
@@ -12909,7 +12909,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/tuckwoodstock/status/1285137479696146442
 
 
-### Federal officers retaliate to protesters with tear gas, flashbangs and impact munitions | July 21st
+### Federal officers retaliate to protesters with tear gas, flashbangs and impact munitions | 2020-07-21
 
 After a small group of protesters damaged the plywood barricade on the US District Courthouse doors around 12:30 AM PST, federal agents emerged from the US District Courthouse and deployed a variety of riot control munitions against all protesters for a period lasting about half an hour. These munitions include tear gas, flashbangs and unknown less-lethal projectiles.
 
@@ -12957,7 +12957,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/45thabsurdist/status/1285498471521239040
 
 
-### Indiscriminate shooting of less-lethal projectiles | July 21st
+### Indiscriminate shooting of less-lethal projectiles | 2020-07-21
 
 Footage shows a federal officer firing a riot gun with a paintball frame - likely a pepper ball round - at protesters gathered on Main Street, across 3rd Avenue from the officers. Some protesters are crouched behind signs and umbrellas, but there is no evident threat to the officer.
 
@@ -12972,7 +12972,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/ByMikeBaker/status/1285485252794699776
 
 
-### Federal officers shoot at reporter | July 21st
+### Federal officers shoot at reporter | 2020-07-21
 
 Footage from 3rd and Salmon shows federal officers shooting at a woman wearing a yellow press vest, a helmet labeled PRESS, and carrying a press badge. After she is shot at, other journalists and protesters shout that she is press.
 
@@ -12990,7 +12990,7 @@ geolocation: 45.5162412, -122.6765964
 * [Third person footage](https://twitter.com/PDocumentarians/status/1285510200514842627)
 
 
-### Federal officers retaliate to fire and thrown water bottles | July 21st
+### Federal officers retaliate to fire and thrown water bottles | 2020-07-21
 
 After protesters light small fire and throw water bottles at the US District Courthouse around 2:30 AM PST, federal police emerge and fire various munitions at protesters. These munitions include tear gas, impact munitions and flashbangs.
 
@@ -13023,7 +13023,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/MrOlmos/status/1285508110086311936
 
 
-### Federal officers shove protesters, pepper spray journalist | July 21st
+### Federal officers shove protesters, pepper spray journalist | 2020-07-21
 
 Footage shows federal officers shoving protesters with their hands up to clear space around the Justice Center. A journalist stands among the protesters. The journalist is pepper sprayed.
 
@@ -13041,7 +13041,7 @@ geolocation: 45.515573, -122.6769583
 * [2nd Archive Link](https://web.archive.org/web/20200830160001/https://twitter.com/itsmikebivins/status/1285486725406457856)
 
 
-### Federal officers use tear gas to push protesters | July 21st
+### Federal officers use tear gas to push protesters | 2020-07-21
 
 Shortly before midnight on July 21st, federal officers used a variety of munitions to push protesters away from the US District Courthouse. Munitions include flashbangs, tear gas and impact munitions.
 
@@ -13065,7 +13065,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/MrOlmos/status/1285827707738091520
 
 
-### Flashbang thrown at press and legal observers | July 21st
+### Flashbang thrown at press and legal observers | 2020-07-21
 
 Footage from 3rd and Salmon, shortly before midnight on July 21st shows press and legal observers hit by a flashbang, as well as a protester shot by a projectile.
 
@@ -13080,7 +13080,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/GriffinMalone6/status/1285854874500911104
 
 
-### Moms Against Police Brutality tear-gassed | July 21st
+### Moms Against Police Brutality tear-gassed | 2020-07-21
 
 Right before midnight on July 21st, federal officers fired tear gas at the group, Moms Against Police Brutality. The Moms had locked arms and were standing still near 3rd and Main.
 
@@ -13098,7 +13098,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/hungrybowtie/status/1285827044119441408
 
 
-### Officer destroys individual's flashlight | July 21st
+### Officer destroys individual's flashlight | 2020-07-21
 
 Footage from July 21st shows Portland police and a federal officers in a scuffle near 4th and Main. The protester is carrying a shield with a camera mounted in it. The individual is not labeled press, but carries a camera and is called press by the filmer. Officers attempt to push the individual out of the street onto the sidewalk. A federal officer steals the individual's flashlight and later stomps on it for unknown reason. The officer then kicks the remnants back towards the individual.
 
@@ -13113,7 +13113,7 @@ geolocation: 45.51587, -122.677982
 * https://twitter.com/EndSoundtrack/status/1286022905835339776
 
 
-### Protester bowing on sidewalk is pepper sprayed | July 21st
+### Protester bowing on sidewalk is pepper sprayed | 2020-07-21
 
 A protester kneels then stands on the sidewalk at 3rd and Main, bowing repeatedly toward officers. The officer line moves forward. If something is said to the protester, it is not audible in the footage. An officer then shoves the protester, who is standing still. The protester steps back. Another officer then pepper sprays the protester.
 
@@ -13129,7 +13129,7 @@ geolocation: 45.515573, -122.6769583
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-194.1.mp4)
 
 
-### History professor shot in head | July 21st
+### History professor shot in head | 2020-07-21
 
 The chair of the history department at Lewis & Clark College states she attended a protest on July 21st. After being tear gassed, she was struck in the head by an impact munition. Several protest medics, including some members of Rosehip Medic Collective, administered first aid before bringing her to the hospital. A later report states she suffered a black eye and a concussion.
 
@@ -13149,7 +13149,7 @@ geolocation: 45.5159068, -122.6767751
 * https://pamplinmedia.com/pt/9-news/474921-383910-lewis-and-clark-history-department-chair-shot-at-protest
 
 
-### Protester shoved onto tear gas canister, which then explodes | July 22nd
+### Protester shoved onto tear gas canister, which then explodes | 2020-07-22
 
 During a series of events around 1 AM outside the US District Courthouse, a federal officer grabs a protester and throws him to the ground. The protester lands on a tear gas canister, which then explodes on his back. As he tries to stand, an officer once again shoves him to the ground and kneels on him. The officer then appears to stand and release the protester.
 
@@ -13164,7 +13164,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/GriffinMalone6/status/1285848158044483586
 
 
-### Photographer shoved onto their back | July 22nd
+### Photographer shoved onto their back | 2020-07-22
 
 Footage from around 1:30 AM outside the US District Courthouse shows a federal officer shoving an individual to the ground. The individual was standing still and holding a large camera.
 
@@ -13179,7 +13179,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/PDocumentarians/status/1285868284684890113
 
 
-### Federal officers use flashbangs, tear gas and impact munitions to push protesters | July 22nd
+### Federal officers use flashbangs, tear gas and impact munitions to push protesters | 2020-07-22
 
 During a series of events around 1 AM outside the US District Courthouse, federal officers emerge from the building to douse a small fire lit apparently by protesters. Officers then push protesters down Main Street. Protesters eventually push officers back inside the building. Throughout the series of events, officers fire flashbangs, tear gas and less-lethal projectiles liberally.
 
@@ -13205,7 +13205,7 @@ geolocation: 45.515783, -122.6775997
 * https://twitter.com/PDocumentarians/status/1285829293071757312
 
 
-### Federal officers use flashbangs, tear gas and impact munitions to push protesters a third time | July 22nd
+### Federal officers use flashbangs, tear gas and impact munitions to push protesters a third time | 2020-07-22
 
 In the final push of the night, federal officers once again used flashbangs, tear gas and less-lethal projectiles to push protesters down Main Street, out of Chapman and Lownsdale Squares. Protesters eventually returned to the squares, to find officers had destroyed much of the Riot Ribs medical tent, flipping tables and pepper-spraying supplies.
 
@@ -13243,7 +13243,7 @@ geolocation: 45.5156527, -122.6771482
 * https://twitter.com/MrOlmos/status/1285880435772239873
 
 
-### Federal officers make violent arrest | July 22nd
+### Federal officers make violent arrest | 2020-07-22
 
 Footage of Chapman Square shows officers approaching a protester with their hands up. The camera pans away for a moment. When it returns, several officers have tackled the protester and appear to be striking and kicking them. Another officer approaches the filmer, a journalist, and backs her away.
 
@@ -13258,7 +13258,7 @@ geolocation: 45.5153952, -122.6776722
 * https://twitter.com/LindseyPSmith7/status/1285863778471436288
 
 
-### Federal officers remove individuals from their vehicles | July 22nd
+### Federal officers remove individuals from their vehicles | 2020-07-22
 
 Federal officers stop a car apparently caught between protesters and officers at 4th and Main. Officers force the occupants to exit the vehicle. When the protesters become agitated as a result, officers fire flashbangs and push press down the street.
 
@@ -13277,7 +13277,7 @@ geolocation: 45.5158499, -122.6781006
 * https://twitter.com/45thabsurdist/status/1285872314601463808
 
 
-### Federal officers shove protesters, chase journalists | July 22nd
+### Federal officers shove protesters, chase journalists | 2020-07-22
 
 Footage shows federal officers emerging from the US District Courthouse. A handful of protesters stand at the edge of the sidewalk with their hands up. An officer shoves them into the street. The officer then brandishes his baton and chases nearby journalists, who flee.
 
@@ -13293,7 +13293,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/45thabsurdist/status/1285861571546066944
 
 
-### Journalist shot with rubber bullets | July 22nd
+### Journalist shot with rubber bullets | 2020-07-22
 
 Footage shows federal officers firing into the crowd as they retreat into the US District Courthouse. During this, the filmer states he was shot by a rubber bullet. An image shows the wound left by the projectile.
 
@@ -13309,7 +13309,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/hungrybowtie/status/1285833430769360896
 
 
-### Federal officer tackles two protesters | July 22nd
+### Federal officer tackles two protesters | 2020-07-22
 
 Footage taken outside the US District Courthouse shows a federal officer running up to two protesters from behind, grabbing them by the neck, then tackling them to the ground. The protesters attempt to clear out. The officer shoves one of those protesters as he tries to stand, then shoves another protester standing nearby.
 
@@ -13324,7 +13324,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/MrOlmos/status/1285861227336351744
 
 
-### Livestreamer shot with tear gas canister | July 22nd
+### Livestreamer shot with tear gas canister | 2020-07-22
 
 First person footage from a livestreamer shows a tear gas canister shot at the livestreamer. It then strikes him. Images show the wound he received.
 
@@ -13343,7 +13343,7 @@ geolocation: 45.5156185, -122.6770321
 * https://twitter.com/chefboykhari/status/1286419252543541248
 
 
-### Federal officers use excessive force to push protesters | July 22nd
+### Federal officers use excessive force to push protesters | 2020-07-22
 
 After protesters fire flares and roman candles across the US District Courthouse fence, small fires begin in the courtyard. In addition, protesters tear a small breach in the fence.
 
@@ -13372,7 +13372,7 @@ geolocation: 45.5159923, -122.6767309
 * https://twitter.com/tuckwoodstock/status/1286191943270019072
 
 
-### Portland mayor caught in tear gas | July 22nd
+### Portland mayor caught in tear gas | 2020-07-22
 
 On July 22nd, Portland mayor Ted Wheeler attended protests outside the US District Courthouse. Federal officers fired tear gas into the area, gassing Ted Wheeler. The mayor and other protesters aound him appear to be standing still, causing no damage.
 
@@ -13392,7 +13392,7 @@ geolocation: 45.5160732, -122.6766882
 * [Interview with Ted Wheeler](https://twitter.com/ByMikeBaker/status/1286186731763412993)
 
 
-### Officer throws explosive at reporter | July 22nd
+### Officer throws explosive at reporter | 2020-07-22
 
 Footage shows an officer lobbing an explosive over the US District Courthouse fence, nearly striking the filmer, a reporter. However, the projectile explodes in midair before reaching the journalist.
 
@@ -13409,7 +13409,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/defendpdx/status/1286185049054879744
 
 
-### Two protesters hospitalized after being shot by less-lethal munitions | July 22nd
+### Two protesters hospitalized after being shot by less-lethal munitions | 2020-07-22
 
 Two individuals who attended protests in Portland on July 22nd have been hospitalized for injuries sustained from less lethal rounds used by federal officers near 3rd and Madison.
 
@@ -13428,7 +13428,7 @@ geolocation: 45.5149116, -122.6772692
 * https://www.oregonlive.com/portland/2020/07/two-portlanders-hospitalized-after-shot-with-munitions-if-that-round-had-hit-me-in-the-neck-i-definitely-would-have-died.html
 
 
-### Federal officers again use excessive force to push protesters | July 23rd
+### Federal officers again use excessive force to push protesters | 2020-07-23
 
 Approximately one hour after the events of or-portland-137 began, officers again emerged from the US District Courthouse to douse a small fire and push protesters back usinig tear gas, flashbangs and impact munitions.
 
@@ -13448,7 +13448,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/tuckwoodstock/status/1286199532166893574
 
 
-### Federal officers deploy tear gas a second time | July 23rd
+### Federal officers deploy tear gas a second time | 2020-07-23
 
 Around 3 AM on July 23rd, federal officers deploy tear gas against protesters in the park as protesters had gathered around a statue in Lownsdale Square, allegedly attempting to tear it down.
 
@@ -13463,7 +13463,7 @@ geolocation: 45.5160628, -122.6773818
 * https://twitter.com/LindseyPSmith7/status/1286239830725124099
 
 
-### Federal officers drag protester away, fire munitions at crowd to cover | July 23rd
+### Federal officers drag protester away, fire munitions at crowd to cover | 2020-07-23
 
 Around 1:30 AM on July 23rd, federal officers are seen scuffling with protesters at the entrance to the fence surrounding the US District Courthouse. Protesters had broken the lock on the fence, opening the gate.
 
@@ -13480,7 +13480,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/TheRealCoryElia/status/1286217242909134848
 
 
-### Federal officer kicks tear gas at protesters, fires at short range | July 23rd
+### Federal officer kicks tear gas at protesters, fires at short range | 2020-07-23
 
 Footage shows a federal officer kicking a tear gas canister towards protesters on the opposite sides of the District Courthouse fence. One protester yells at him. The officer then fires a tear gas canister at the protester at short range, presumably striking the fence.
 
@@ -13495,7 +13495,7 @@ geolocation: 45.5159923, -122.6767309
 * https://twitter.com/MrOlmos/status/1286218372103823360
 
 
-### Federal officers fire tear gas in response to fire | July 24th
+### Federal officers fire tear gas in response to fire | 2020-07-24
 
 In response to a small trash fire started by protesters in the District Courthouse fence, federal officers fire a considerable amount of tear gas at the fence, much of it landing on the officers' own side.
 
@@ -13511,7 +13511,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/defendpdx/status/1286571452523638787
 
 
-### Journalist shot in hand with explosive | July 24th
+### Journalist shot in hand with explosive | 2020-07-24
 
 Around 1:30 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a journalist films an explosive projectile shot in their direction at 3rd and Main. The projectile explodes, striking the journalist in the hand.
 
@@ -13526,7 +13526,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/Rjaellis/status/1286578718693978113
 
 
-### Protesters struck in face | July 24th
+### Protesters struck in face | 2020-07-24
 
 Footage shows a protester standing in the way of federal officers attempting to cross the District Courthouse fence at 3rd and Salmon. An officer strikes him in the face with their baton, even after the protester has begun moving backward.
 
@@ -13541,7 +13541,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/MrOlmos/status/1286583315324010496
 
 
-### Federal officer fire second round of tear gas | July 24th
+### Federal officer fire second round of tear gas | 2020-07-24
 
 Around 1:15 AM on July 24th, federal officers declared an unlawful assembly and began pushing protesters north from the US District Courhouse using tear gas and impact munitions, allegedly pepper balls. The justification for the unlawful assembly declaration appears to be fireworks and a second small trash fire.
 
@@ -13563,7 +13563,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/hungrybowtie/status/1286578115599142912
 
 
-### Journalist shot, allegedly in the face | July 24th
+### Journalist shot, allegedly in the face | 2020-07-24
 
 Around 4 AM, just hours after a U.S. District Judge blocked federal officers from harming press, a clearly marked member of the press stands at a gap between pieces of District Courthouse fencing. She appears to be filming officers. Several shots are fired and the impact can be seen as they ricochet off her arm. The filmer alleges that at least one projectile struck her in the face.
 
@@ -13578,7 +13578,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/MathieuLRolland/status/1286618588757991424
 
 
-### Officers fire tear gas at protesters without apparent cause | July 24th
+### Officers fire tear gas at protesters without apparent cause | 2020-07-24
 
 Around 1 AM on July 24th, protesters and federal officers stand off in the street at 4th and Salmon. One protester walks between the two lines, shouting on a megaphone. Without warning, federal officers fire tear gas at the group of protesters.
 
@@ -13596,7 +13596,7 @@ geolocation: 45.516566, -122.677593
 * https://twitter.com/Rjaellis/status/1286589941170892800
 
 
-### Officers fire tear gas as they leave the scene | July 24th
+### Officers fire tear gas as they leave the scene | 2020-07-24
 
 As federal officers retreat into the US District Courthouse, they fire tear gas at a group of protesters on the opposite side of the fence. There is no fire, there are no objects thrown by protesters, so justification for the tear gas is unclear.
 
@@ -13611,7 +13611,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/hungrybowtie/status/1286599900759695361
 
 
-### Federal officers respond to breach in fence with tear gas | July 24th
+### Federal officers respond to breach in fence with tear gas | 2020-07-24
 
 After protesters manage to create a small breach in the fence surrounding the U.S. District Courthouse around 1:45 AM, federal officers emerge to push protesters back using tear gas, pepper balls and flashbangs. Officers pushed protesters down the street before protesters were able to reform a shield wall and slowly push officers back toward the courthouse. Footage shows a considerable amount of munitions used and protesters suffering from negative effects of prolonged tear gas exposure, like [here](https://twitter.com/hungrybowtie/status/1286588583067807745)
 
@@ -13633,7 +13633,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/MrOlmos/status/1286592229214056450
 
 
-### Journalist struck in hand and knee by tear gas canister | July 24th
+### Journalist struck in hand and knee by tear gas canister | 2020-07-24
 
 Footage from a journalist shows blood on his hand and knee, which he says was sustained by a tear gas canister which struck him while he was sitting down near 4th and Main. This comes hours after a U.S. District Court Order against federal troops harming journalists.
 
@@ -13649,7 +13649,7 @@ geolocation: 45.51587, -122.677982
 * https://twitter.com/wyattreed13/status/1286595550523961348
 
 
-### Federal officers arrest woman dancing with flowers | July 24th
+### Federal officers arrest woman dancing with flowers | 2020-07-24
 
 Footage from 3rd and Salmon shows a woman dancing in front of officers with flowers in her hand. Officers grab her without warning. Another protester attempts to help the protester with flowers. Both are dragged away and arrested. Officers fire pepper balls at crowd to suppress protesters.
 
@@ -13664,7 +13664,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/wyattreed13/status/1286627567630344194
 
 
-### Federal officer tackle man to the ground | July 24th
+### Federal officer tackle man to the ground | 2020-07-24
 
 Footage shows a man walking down the street at 3rd and Salmon. Two federal officers charge up behind him and tackle him to the ground. From protester response, it appears that the man was not a protester.
 
@@ -13679,7 +13679,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/wyattreed13/status/1286613058903670784
 
 
-### Federal officers fire tear gas, flashbangs and pepper balls at crowd | July 24th
+### Federal officers fire tear gas, flashbangs and pepper balls at crowd | 2020-07-24
 
 Around 11:30 pm on the night of July 24th, federal officers emerged from the US District Courthouse in response to several protester actions: [protesters shaking the fence](https://twitter.com/ByMikeBaker/status/1286905515809705988), protesters launching fireworks and trash, and [protesters with a power saw attempting to breach the fence](https://twitter.com/ByMikeBaker/status/1286911312065253376).
 
@@ -13717,7 +13717,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/revnatscider/status/1286912138544418817
 
 
-### Federal officers fire impact munitions at point blank | July 24th
+### Federal officers fire impact munitions at point blank | 2020-07-24
 
 Footage shows federal officers firing on protesters at a distance of a few feet. Although protesters have shields and helmets, these weapons can be lethal at this distance. Federal officers are firing through the US District Courthouse fence at protesters standing up against it.
 
@@ -13733,7 +13733,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/GriffinMalone6/status/1286911691628765184
 
 
-### Disabled veteran hit directly by tear gas canister | July 24th
+### Disabled veteran hit directly by tear gas canister | 2020-07-24
 
 A woman in full military dress and carrying a sign that says "Disabled Veterans 4 BLM" is hit directly by a tear gas canister at a protest outside the Justice Center and the US District Courthouse.
 
@@ -13748,7 +13748,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/tyler_ensign/status/1286940248006512640
 
 
-### Journalist shot in hand and face | July 24th
+### Journalist shot in hand and face | 2020-07-24
 
 A photojournalist and filmmaker wearing his press badge around his neck was shot in the hand and face by an officer using pepper balls. The journalist was standing several feet from the US District Courthouse fence, filming the surrounding area around midnight on the 24th of July. An officer stuck their gun through a gap in the fencing and shot at the journalist repeatedly.
 
@@ -13764,7 +13764,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/AlexMilanTracy/status/1286929119767224322
 
 
-### Unlawful assembly declared; federal officers fire tear gas | July 25th
+### Unlawful assembly declared; federal officers fire tear gas | 2020-07-25
 
 Federal officers declare unlawful assembly around 1:20 AM at the US District Courthouse and fire a second round of tear gas. Protesters use leaf blowers to push tear gas back.
 
@@ -13784,7 +13784,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/MrOlmos/status/1286940822026334209
 
 
-### Federal officers use tear gas and impact munitions to cover retreat | July 25th
+### Federal officers use tear gas and impact munitions to cover retreat | 2020-07-25
 
 Around 3 AM, federal officers retreat back to the US District Courthouse, covering themselves with impact munitions and tear gas. Several protesters with leaf blowers attempt to redirect tear gas back to the courthouse.
 
@@ -13802,7 +13802,7 @@ geolocation: 45.5156527, -122.6771482
 * https://twitter.com/LindseyPSmith7/status/1286967609401831424
 
 
-### Federal officer shoots at protesters without apparent justification | July 25th
+### Federal officer shoots at protesters without apparent justification | 2020-07-25
 
 Around 2 AM, an officer leans through a gap in the US District Courthouse fence and shoots at protesters idling about. No justification for shooting at the protesters is apparent.
 
@@ -13817,7 +13817,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/gravemorgan/status/1286948398273196032
 
 
-### Officer pepper sprays crowd without apparent justification | July 25th
+### Officer pepper sprays crowd without apparent justification | 2020-07-25
 
 Just after midnight on July 25th, two officers speak to one another on one side of the US District Courthouse fence. One officer then discharges pepper spray at the crowd gathered on the opposite side of the fence. No justification is clear. He does not appear to hit any protesters directly, but the use of pepper spray appears unprovoked.
 
@@ -13832,7 +13832,7 @@ geolocation: 45.5158255, -122.6768183
 * https://twitter.com/MrOlmos/status/1286919425782775811
 
 
-### Police respond to pallet fire with tear gas; do not extinguish fire | July 25th
+### Police respond to pallet fire with tear gas; do not extinguish fire | 2020-07-25
 
 After protesters light a stack of wooden pallets on fire in the street (Main and 4th), federal officers rush the protesters, firing impact munitions and tear gas.
 
@@ -13853,7 +13853,7 @@ geolocation: 45.515870, -122.677982
 * https://twitter.com/DonovanFarley/status/1286959196655689730
 
 
-### Federal officers pepper spray protesters across fence | July 25th
+### Federal officers pepper spray protesters across fence | 2020-07-25
 
 Federal officers and protesters are separated by a chain link fence. Protesters are standing still. Officers discharge pepper spray in the air through the fence.
 
@@ -13869,7 +13869,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/MrOlmos/status/1287278027009736705
 
 
-### Mom shot in head | July 25th
+### Mom shot in head | 2020-07-25
 
 Images and the text from a facebook post describe an incident wherein a Mom part of Moms Against Police Brutality was shot in the head by a less lethal projectile.
 
@@ -13888,7 +13888,7 @@ geolocation: 45.5161982, -122.6766199
 * https://imgur.com/7QAFglV
 
 
-### Reporter shot after object thrown at police by someone else | July 25th
+### Reporter shot after object thrown at police by someone else | 2020-07-25
 
 Footage shows an officer standing in a line with other police near what appears to be 5th and Main. An object thrown by a protester offscren and well to the right of the filmer lands at the officer's feet. The officer shoots the filmer, a journalist.
 
@@ -13903,7 +13903,7 @@ geolocation: 45.516111, -122.67901
 * https://twitter.com/GriffinMalone6/status/1286968297980755968
 
 
-### Exchange of tear gas and fireworks between federal officers and protesters | July 25th
+### Exchange of tear gas and fireworks between federal officers and protesters | 2020-07-25
 
 Footage shows an extended exchange between protesters and federal officers at Salmon and 3rd. It is unclear what begins the exchange, but the earliest footage shows federal officers firing tear gas at protesters. In response, protesters return the tear gas or use leafblowers to disperse it. In addition, a few fireworks are launched at federal officers. Federal officers respond with additional tear gas, flashbangs and impact munitions.
 
@@ -13933,7 +13933,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/1misanthrophile/status/1287308011229200390
 
 
-### Image shows effect of stinger grenade | July 25th
+### Image shows effect of stinger grenade | 2020-07-25
 
 An image shows the effects of a stinger grenade which allegedly exploded near the head of a protester outside the courthouse. The uploader alleges that the victim, their daughter, is suffering major hearing loss in her ear.
 
@@ -13952,7 +13952,7 @@ geolocation: 45.5160732, -122.6766882
 * https://www.wweek.com/bars/beer/2020/07/27/portland-cidermaker-nat-west-accompanied-his-teenage-daughter-to-the-protest-downtown-saturday-night-they-left-bloody-burned-and-nearly-deaf/
 
 
-### Federal officers respond to thrown water bottle with excessive force | July 26th
+### Federal officers respond to thrown water bottle with excessive force | 2020-07-26
 
 After protesters allegedly threw a water bottle at federal officers outside the courthouse, officers respond with a significant volley of tear gas, catching what appears to be a bystander pick-up truck, which then drives off. In addition, the canisters appear to light a small fire in the street.
 
@@ -13967,7 +13967,7 @@ geolocation: 45.5162729, -122.6767797
 * https://twitter.com/PDocumentarians/status/1287355449222680578
 
 
-### Tear gas canister shot through window of car | July 26th
+### Tear gas canister shot through window of car | 2020-07-26
 
 An image shows the aftermath of a tear gas canister shot through the window of an empty parked car on SW 4th between Taylor and Salmon.
 
@@ -13982,7 +13982,7 @@ geolocation: 45.5168236, -122.6774529
 * https://twitter.com/MrOlmos/status/1287312287557066752
 
 
-### Police charge protesters | July 26th
+### Police charge protesters | 2020-07-26
 
 Footage shows police charging protesters down SW 4th (between Taylor and Yamhill) without warning, while officers declare a riot. Several protesters are shoved to the ground. One protester is shoved against a car and arrested.
 
@@ -13999,7 +13999,7 @@ geolocation: 45.5176293, -122.6770152
 * [Archive Link for 2nd Video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-170.2.mp4)
 
 
-### Second exchange of tear gas and impact munitions between federal officers and protesters | July 26th
+### Second exchange of tear gas and impact munitions between federal officers and protesters | 2020-07-26
 
 Protesters and police face off at torn-down fence outside the courthouse. Protesters throw fireworks and shine lasers. Federal police respond with tear gas and impact munitions.
 
@@ -14025,7 +14025,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/itsmikebivins/status/1287301156054528003
 
 
-### Vietnam veteran pepper sprayed in the face | July 26th
+### Vietnam veteran pepper sprayed in the face | 2020-07-26
 
 Footage shows a Vietname veteran talking to federal officers from a distance of several feet at 3rd and Main. An officer approaches him, shines a light in his face, pepper sprays him, then tells him to back up.
 
@@ -14040,7 +14040,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/andrewkimmel/status/1287319466120904704
 
 
-### Federal officer pepper sprays journalist | July 26th
+### Federal officer pepper sprays journalist | 2020-07-26
 
 Footage shows federal officers walking through clouds of tear gas at 6th and Salmon. An officer pepper sprays the filmer, a journalist.
 
@@ -14055,7 +14055,7 @@ geolocation: 45.5170553, -122.6797039
 * https://twitter.com/hungrybowtie/status/1287312203045978112
 
 
-### Officers hold arrestee down in tear gas | July 26th
+### Officers hold arrestee down in tear gas | 2020-07-26
 
 Footage shows several officers detaining a protester in a cloud of tear gas near 4th and Salmon. They bring the protester to his feet, then he stumbles back down to the ground. It is unclear if the protester is suffering ill effects from the tear gas or if he is passively resisting. One officer holds his head in the pavement while tear gas blows across the frame. Another officer appears to jab him with a baton. The protester can be heard screaming that he cannot breathe.
 
@@ -14074,7 +14074,7 @@ geolocation: 45.5164817, -122.6776398
 * https://twitter.com/andrewkimmel/status/1287308350258962432
 
 
-### Riot police shove woman to the ground | (Believed to be) July 26th
+### Riot police shove woman to the ground | (Believed to be) 2020-07-26
 
 Riot police charge across the street (6th and Salmon) at protesters walking away from them. A woman at the back begins to jog away from police. Police catch up to her and an officer shoves her to the ground with his baton.
 
@@ -14089,7 +14089,7 @@ geolocation: 45.5153351, -122.676005
 * https://www.reddit.com/r/Portland/comments/hy4fza/police_charge_after_dispersing_protesters_and/
 
 
-### Officers beat protesters who are unable to run | July 26th
+### Officers beat protesters who are unable to run | 2020-07-26
 
 Two protesters are obeying federal officers' directions by moving down the street. They are not moving quickly. The filmer states, "I can't run, I'm injured." The two are beaten by multiple officers with batons.
 
@@ -14105,7 +14105,7 @@ geolocation: 45.5172076, -122.6772031
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-193.1.mp4)
 
 
-### Protester shot in eye | July 26th
+### Protester shot in eye | 2020-07-26
 
 Image shows a protester with a bleeding wound on his right eye. The poster states that someone threw a water bottle, leading officers to fire on protesters. Althought the protester was allegedly wearing goggles at the time (seen around his neck), he suffered substantial damage to his eye. The uploader alleges that he may lose his eye.
 
@@ -14121,7 +14121,7 @@ geolocation: 45.5159923, -122.6767309
 * https://www.reddit.com/r/Portland/comments/hy56r2/one_person_threw_a_water_bottle_now_this_kid_is/
 
 
-### Officer kneels on protesters neck | July 26th
+### Officer kneels on protesters neck | 2020-07-26
 
 Portland police arrest a protester near Morrison and 4th. While handcuffing him, one officer kneels on the arrestee's neck.
 
@@ -14137,7 +14137,7 @@ geolocation: 45.518572, -122.6766718
 * https://twitter.com/jiLLy834n/status/1287318126820913152
 
 
-### Journalist arrested without cause | July 26th
+### Journalist arrested without cause | 2020-07-26
 
 An independent photojournalist was arrested near 3rd and Salmon after a protester threw a firework at an officer. The journalist was charged with "assault of an officer;" these charges were later dropped. The journalist may have accidentally kicked the firework, but it appears to be incidental as the firework landed in his path.
 
@@ -14152,7 +14152,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/gravemorgan/status/1287805624969904129
 
 
-### Medic shot in chest | July 26th
+### Medic shot in chest | 2020-07-26
 
 Around 7:30 in the video, shots can be heard fired by Portland police. Protesters can be heard calling for a medic. Then several protesters state that a medic was shot with a tear gas canister. They state the medic was clearly marked as such. The medic was taken to the hospital and reported in a Facebook post that he suffered a "severe chest wall contusion," but nothing more major or permanent. In the same post, he states he was shot after attempting to douse a tear gas canister with water.
 
@@ -14170,7 +14170,7 @@ geolocation: 45.5160628, -122.6773818
 * https://imgur.com/a/72v6naZ
 
 
-### Violent arrest made by federal officers | July 27th
+### Violent arrest made by federal officers | 2020-07-27
 
 Footage shows a protester and federal officer grappling in the street near 3rd and Salmon. A second federal officer helps tackle the protester to the ground. Other protesters approach, but are struck by an officer wielding a baton. One protester is knelt on and arrested while another officer fires impact munitions to scatter protesters.
 
@@ -14185,7 +14185,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/TheRealCoryElia/status/1287664107726938112
 
 
-### First round of tear gas fired by federal officers | July 27th
+### First round of tear gas fired by federal officers | 2020-07-27
 
 Just after midnight on July 27th, federal officers fire tear gas at protesters, using impact munitions to deter protesters who attempt to throw tear gas canisters back over the courthouse fence. Fireworks were shot off shortly beforehand, which may have been the impetus for exchange.
 
@@ -14207,7 +14207,7 @@ geolocation: 45.5159923, -122.6767309
 * https://twitter.com/TheRealCoryElia/status/1287640347489656833
 
 
-### Second round of tear gas fired by federal officers | July 27th
+### Second round of tear gas fired by federal officers | 2020-07-27
 
 After federal officers declare an unlawful assembly around 1 AM, protesters remain outside the courthouse, pulling on the fence. Federal officers fire tear gas and flashbangs. Officers then push protesters away from the courthouse before retreating.
 
@@ -14230,7 +14230,7 @@ geolocation: 45.5159923, -122.6767309
 * https://twitter.com/suzettesmith/status/1287666251540512769
 
 
-### Third round of tear gas fired by federal officers | July 27th
+### Third round of tear gas fired by federal officers | 2020-07-27
 
 Federal officers push protesters from the courthouse to the street around 2:30 AM. Officers use tear gas to push protesters, then fire impact munitions at protesters who try to throw tear gas back.
 
@@ -14259,7 +14259,7 @@ geolocation: 45.5159923, -122.6767309
 * https://twitter.com/suzettesmith/status/1287679598751186945
 
 
-### Livestreamer shot in hand while sitting on ground | July 27th
+### Livestreamer shot in hand while sitting on ground | 2020-07-27
 
 A livestreamer uploaded first person footage from July 27th, taken near 3rd and Salmon. He is sitting on the ground some distance from protesters when less lethal shots are fired. One strikes the filmer in the hand. He states that his hand is okay.
 
@@ -14275,7 +14275,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/TheRealCoryElia/status/1287659620094210048
 
 
-### Violent arrest made by federal officers | July 27th
+### Violent arrest made by federal officers | 2020-07-27
 
 Footage shows a violent arrest made by federal officers near 3rd and Salmon. One officer sits on a woman's back, pressing a baton into her neck. The woman repeatedly states she cannot breathe. The officer then kneels on her back while another officer kneels on her arm and handcuffs her. One officer standing nearby states the woman was resisting arrest. She does not appear to resist at any point during the available footage, though an officer tells her to stop resisting.
 
@@ -14292,7 +14292,7 @@ geolocation: 45.5162412, -122.6765964
 * https://twitter.com/girlsreallyrule/status/1287884078360850432
 
 
-### Officer pepper sprays protester | July 27th
+### Officer pepper sprays protester | 2020-07-27
 
 Footage shows a protester at 3rd and Salmon speaking to an officer in black, believed to be a Portland Police Officer. The officer then sprays the protester and steps away. The filmer states that the officer said the protester could not stand there.
 
@@ -14308,7 +14308,7 @@ geolocation: 45.5162412, -122.6765964
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hyofxj/portland_fed_maces_protestor_at_pointblank_range/
 
 
-### Press shot and tear gassed | July 27th
+### Press shot and tear gassed | 2020-07-27
 
 Footage shows a small group of people filming officers from 3rd, between Salmon and Taylor. Several tear gas canisters and flashbangs are fired at the group, which appears to be exclusively press. Some members of the press jog forward and are shot at with impact munitions.
 
@@ -14324,7 +14324,7 @@ geolocation: 45.5164574, -122.6764795
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hyozr3/portland_feds_gas_flashbang_several_times_and/
 
 
-### Journalist shot in the face | July 27th
+### Journalist shot in the face | 2020-07-27
 
 An image from a journalist shows his gas mask with a broken eye hole and his face, with several stitches below his eye. In the thread, he states that he believes he was shot with pepper balls, one of which shattered the eyehole on his gas mask, lacerating his eye. He states that protest medics took him to the hospital. At the hospital, he received stitches by a doctor who was forced to wear a respirator as a result of the pepper ball residue.
 
@@ -14345,7 +14345,7 @@ geolocation: 45.5167862, -122.6786821
 * https://twitter.com/areidross/status/1287841917447757824?s=20
 
 
-### First round of tear gas launched by federal officers | July 27th
+### First round of tear gas launched by federal officers | 2020-07-27
 
 At approximately 11:30 PM, federal officers use tear gas and impact munitions to push protesters away from the fence around the courthouse. The incident appears to have been instigated by a small fire near the fence and fireworks launched by protesters.
 
@@ -14361,7 +14361,7 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/TheRealCoryElia/status/1288000640887603200
 
 
-### Man shot while filming from balcony | July 27th
+### Man shot while filming from balcony | 2020-07-27
 
 First-person footage was taken by an individual on a balcony near 3rd and Main (believed to be the Justice Center steps). Shots can be heard and the filmer is hit. He was allegedly struck in the face.
 
@@ -14377,7 +14377,7 @@ geolocation: 45.515573, -122.6769583
 * https://www.reddit.com/r/pics/comments/hz596o/trip_jennings_shot_in_the_face_by_federal/fzh7f6i/
 
 
-### Trumpet player shot in face | July 27th
+### Trumpet player shot in face | 2020-07-27
 
 A trumpet player was seen bleeding from the face during a protest early in the morning on July 27th.
 
@@ -14397,7 +14397,7 @@ geolocation: 45.5167862, -122.6786821
 * https://twitter.com/MaranieRae/status/1290436340685975552
 
 
-### Second round of tear gas launched by federal officers | July 28th
+### Second round of tear gas launched by federal officers | 2020-07-28
 
 Just after midnight on July 28th, federal officers fired a volley of munitions at protesters gathered around the courthouse fence.
 
@@ -14425,7 +14425,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/TheRealCoryElia/status/1288013644094029824
 
 
-### Federal officers use tear gas to push protesters through the park | July 28th
+### Federal officers use tear gas to push protesters through the park | 2020-07-28
 
 Around 12:40 AM, federal officers declare the Justice Center protest an unlawful assembly, then fire explosive munitions at protesters, including tear gas and stun grenades. Lasers are again used to mark protesters. Impact munitions can also be heard fired throughout the footage.
 
@@ -14459,7 +14459,7 @@ geolocation: 45.5156595, -122.6769109
 * https://twitter.com/TheRealCoryElia/status/1288026521827860486
 
 
-### Violent arrest made by federal officers | July 28th
+### Violent arrest made by federal officers | 2020-07-28
 
 Near 3rd and Salmon, a protester is held face-down on the ground by an officer. The protester is punched and struck by another officer with a baton. The protester is then arrested.
 
@@ -14475,7 +14475,7 @@ geolocation: 45.5161982, -122.6766199
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-192.1.mp4)
 
 
-### Police shine strobe light at protesters, destroy umbrella | July 28th
+### Police shine strobe light at protesters, destroy umbrella | 2020-07-28
 
 Footage shows police neardirecting a bright strobe light at protesters and press attempting to film near 3rd and Main. One officer grabs a protester's umbrella, breaking it.
 
@@ -14491,7 +14491,7 @@ geolocation: 45.5156595, -122.6769109
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-195.1.mp4)
 
 
-### Protester struck with tear gas canister | (Believed to be) July 28th
+### Protester struck with tear gas canister | (Believed to be) 2020-07-28
 
 First-person footage shows federal officers firing tear gas canisters at protesters on 3rd between Salmon and Taylor. The filmer is shot at repeatedly; one canister explodes near their feet and another ricochets, striking their the camera,  and allegedly striking the filmer in the head. Protesters can be heard calling for a medic.
 
@@ -14506,7 +14506,7 @@ geolocation: 45.5165538, -122.6764329
 * https://twitter.com/chadloder/status/1288154159196172288
 
 
-### Protester in wheelchair struck repeatedly | July 28th
+### Protester in wheelchair struck repeatedly | 2020-07-28
 
 First person footage from a protester in a wheelchair shows them sitting still, filming some distance from the courthouse fence. Officers fire explosives and impact munitions, many of which strike the protester directly.
 
@@ -14522,7 +14522,7 @@ geolocation: 45.5159068, -122.6767751
 * https://www.reddit.com/r/Portland/comments/hzcyju/me_and_my_wheelchair_got_hit_with_a_decent_amount/
 
 
-### Federal officers push protesters from courthouse | July 29th
+### Federal officers push protesters from courthouse | 2020-07-29
 
 Protesters had been launching fireworks and lighting small fires during the night. Shotrly after 2 AM, federal officers declared an unlawful assembly and emerged from the courthouse. Officers used a hose to douse the fire. Federal officers fired tear gas and impact munitions from the courthouse before pushing protesters away from the fence. Officers retreat shortly after, using tear gas and impact munitions for cover. Additional footage shows protesters shooting fireworks and throwing tear gas canisters back at officers.
 
@@ -14551,7 +14551,7 @@ geolocation: 45.5162424, -122.6766617
 * https://twitter.com/MrOlmos/status/1288409389393571840
 
 
-### Independent journalist arrested | July 29th
+### Independent journalist arrested | 2020-07-29
 
 An independent journalist was filming federal officers from the sidewalk at 3rd and Salmon. Officers in the Justice Center were targeting him with a laser pointer. After a firework exploded near the journalists, officers singled one out and arrested him without explanation.
 
@@ -14569,7 +14569,7 @@ geolocation: 45.5162424, -122.6766617
 * https://twitter.com/EndSoundtrack/status/1288425411844571136
 
 
-### Individual pepper-sprayed by federal police | July 29th
+### Individual pepper-sprayed by federal police | 2020-07-29
 
 An individual wearing a press jacket yells at federal officers through a fence near 4th and Salmon, telling them, "We don't care if you hurt us. We live here. You don't. You will leave. It's that simple." As the individual is walking away, an officer discharges pepper spray in their direction.
 
@@ -14586,7 +14586,7 @@ geolocation: 45.5164817, -122.6776398
 * https://twitter.com/TheHannahRay/status/1288425603205488643
 
 
-### Officers fire tear gas at peaceful protesters | July 29th
+### Officers fire tear gas at peaceful protesters | 2020-07-29
 
 Federal officers fire tear gas and impact munitions at gathered protesters standing some distance from the courthouse fence around 11 PM on July 29th. Some protesters throw tear gas canisters back, but the protesters appear otherwise peaceful. Impact munitions can also be heard throughout.
 
@@ -14604,7 +14604,7 @@ geolocation: 45.5158255, -122.6768183
 * https://www.youtube.com/watch?v=MvOhXTxC1R4
 
 
-### Livestreamer shot with marking rounds | July 29th
+### Livestreamer shot with marking rounds | 2020-07-29
 
 Livestreamer struck with marking rounds, allegedly in the crotch and collarbone. The shots can be heard at 3:30 in the video, while the streamer is standing at 3rd and Salmon. An image shows the yellow paint from the marking round.
 
@@ -14621,7 +14621,7 @@ geolocation: 45.5161982, -122.6766199
 * https://twitter.com/TheRealCoryElia/status/1288931658301751297
 
 
-### Officers fire tear gas at protesters | July 29th
+### Officers fire tear gas at protesters | 2020-07-29
 
 After shooting pepper balls at protesters from within the courthouse, federal officers emerged from the Justice Center around 11:30 PM to fire tear gas and impact munitions at protesters. Justification for this incident is unclear.
 
@@ -14657,7 +14657,7 @@ geolocation: 45.5159923, -122.6767309
 * https://twitter.com/sarahjeong/status/1288731149351567360
 
 
-### Officers pepper spray kneeling protester | July 29th
+### Officers pepper spray kneeling protester | 2020-07-29
 
 A protester is seen kneeling in the street (2nd and Salmon) with their hands up. An officer approaches and pepper sprays the protester. The protester is then forced to the ground and arrested.
 
@@ -14674,7 +14674,7 @@ geolocation: 45.5160149, -122.6756916
 * https://twitter.com/teegeez123/status/1288738625547464707
 
 
-### Officers use tear gas to push protesters from Justice Center | July 29th
+### Officers use tear gas to push protesters from Justice Center | 2020-07-29
 
 Around 11:40 PM, just minutes after the last volley of tear gas, officers emerge from the courthouse a third time to push protesters back, using tear gas and impact munitions.
 
@@ -14703,7 +14703,7 @@ geolocation: 45.5160149, -122.6756916
 * https://twitter.com/LucyKafanov/status/1288730409170157568
 
 
-### Protester singled out and arrested | July 30th
+### Protester singled out and arrested | 2020-07-30
 
 Federal officers charge into crowd of protesters near 2nd and Salmon. One protester is singled out and arrested without apparent cause.
 
@@ -14722,7 +14722,7 @@ geolocation: 45.5160149, -122.6756916
 * https://twitter.com/hungrybowtie/status/1288737289862930432
 
 
-### Officers deploy tear gas and stun grenades against small group of protesters | July 30th
+### Officers deploy tear gas and stun grenades against small group of protesters | 2020-07-30
 
 Around 1:30 AM, federal officers deploy tear gas and stun grenades against the remaining protesters, about 100 according to journalists on site. Officers push protesters back then return to the courthouse around 2 AM. Protesters allegedly threw trash and a firecracker over the courthouse fence.
 
@@ -14748,7 +14748,7 @@ geolocation: 45.5157823, -122.6757574
 * https://twitter.com/1misanthrophile/status/1288759329286262786
 
 
-### Officer shoots at protesters without apparent cause | July 30th
+### Officer shoots at protesters without apparent cause | 2020-07-30
 
 An officer at 2nd and Salmon shoots at a crowd of protesters some distance away. No justification is apparent. Protesters stand down the street with shields. Some are milling about. The filmer alleges the officer was aiming at head height.
 
@@ -14763,7 +14763,7 @@ geolocation: 45.5159969, -122.6778299
 * https://twitter.com/hungrybowtie/status/1288734291334053888
 
 
-### Reporter shot in knee | July 30th
+### Reporter shot in knee | 2020-07-30
 
 Images show a journalist's wound after she was shot in the knee; her knee is considerably swollen and has a significant bruise arond where the bullet struck.
 
@@ -14783,7 +14783,7 @@ geolocation: 45.514466, -122.679468
 * https://twitter.com/MaranieRae/status/1288980520202678277
 
 
-### Journalist shoved and pepper-sprayed | August 1st
+### Journalist shoved and pepper-sprayed | 2020-08-01
 
 When police rush at protesters on Burnside near the Penumbra Kelly building, a journalist is shoved into the side of a car then pepper sprayed.
 
@@ -14799,7 +14799,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/hungrybowtie/status/1289807143961427970
 
 
-### Police charge, tackle, and pepper spray protesters | August 1st
+### Police charge, tackle, and pepper spray protesters | 2020-08-01
 
 Police gave directions to protesters to walk west down Burnside, away from the Penumbra Kelly building. Protesters followed directions. Police charged at protesters, shoving many to the ground.
 
@@ -14827,7 +14827,7 @@ geolocation: 45.5171945, -122.5538792
 * https://mobile.twitter.com/danielvmedia/status/1290037607879987200
 
 
-### Police slash journalist's tires | August 1st
+### Police slash journalist's tires | 2020-08-01
 
 A parked car attempts to pull out and drive from a protest near the Penumbra Kelly building. Officers slash the car's tires and shatter the rear windshield. The woman driving the car is wearing a helmet and PRESS shirt.
 
@@ -14844,7 +14844,7 @@ geolocation: 45.5171945, -122.5538792
 * https://www.oregonlive.com/news/2020/08/portland-police-smash-window-slash-tires-of-womans-prius-during-protest-dustup-video.html
 
 
-### Police charge at protesters | August 1st
+### Police charge at protesters | 2020-08-01
 
 After pushing protesters into residential streets west of the Penumbra Kelly building, police again charge at protesters, shoving many to the ground.
 
@@ -14859,7 +14859,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/hungrybowtie/status/1289801996799578114
 
 
-### Police charge and assault protesters | August 3rd
+### Police charge and assault protesters | 2020-08-03
 
 Police charge protesters at 53rd and Burnside, shoving and striking with batons. Several of the moms against police brutality are thrown to the ground. Police use pepper spray liberally. One person is trampled by officers. Police smash a protester's megaphone.
 
@@ -14882,7 +14882,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/TheHannahRay/status/1290543715858014209
 
 
-### Police pepper spray protester | August 3rd
+### Police pepper spray protester | 2020-08-03
 
 Footage taken during the events of or-portland-228 near 53rd and Burnside shows multiple officers repeatedly pepper spraying a protester. The protester then collapses on the ground before being arrested.
 
@@ -14897,7 +14897,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/R3volutionDaddy/status/1290559156756213761
 
 
-### Individuals pepper sprayed | August 3rd
+### Individuals pepper sprayed | 2020-08-03
 
 Two individuals with cameras are standing between parked cars on the edge of the road (N 53rd and N Burnside). An officer tells them to get on the sidewalk and pushes them; the individuals back towards the sidewalk. When the individuals bat the officer's hand away, he pepper sprays them. It is unclear if these individuals were protesters with cameras or journalists.
 
@@ -14912,7 +14912,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/TheHannahRay/status/1290550066814410753
 
 
-### Journalist hospitalized after arrest; protesters and journalists pepper sprayed | August 4th
+### Journalist hospitalized after arrest; protesters and journalists pepper sprayed | 2020-08-04
 
 Police shove and pepper spray protesters while making an arrest near N Denver and N Russet. The arrestee, a member of the press, was hospitalized after a back injury. Arrestee was also wearing a PRESS shirt and has been confirmed to be a livestreamer.
 
@@ -14935,7 +14935,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/PDocumentarians/status/1290985015992492032
 
 
-### Police throw explosives as they leave | August 4th
+### Police throw explosives as they leave | 2020-08-04
 
 After arresting a protester while investigating a shooting at N Lombard and N Denver, police board a van to leave the area. Police then throw a stun grenade and smoke gas at protesters. Police allege that protesters threw a projectile at police, but footage does not show anything.
 
@@ -14952,7 +14952,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/dougbrown8/status/1290921309816274944
 
 
-### Police respond to vandalism with excessive force | August 5th
+### Police respond to vandalism with excessive force | 2020-08-05
 
 After some protesters attempted to break into the Portland Police East precinct, officers declare the protest a riot. Police take action against all protesters, including those not involved in the vandalism. Officers deploy tear gas to disperse protesters. Police also charge at protesters, shoving and pepper-spraying them. Additionally, police allegedly slashed the tires of multiple cars.
 
@@ -14972,7 +14972,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/MrOlmos/status/1291260012715577345
 
 
-### Police charge protesters a second time | August 5th
+### Police charge protesters a second time | 2020-08-05
 
 After protesters allegedly throw eggs at police, police then rush the, crowd using excessive force to make arrests.
 
@@ -14998,7 +14998,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/hungrybowtie/status/1291243012178075649
 
 
-### Police shove members of the press during arrests | August 5th
+### Police shove members of the press during arrests | 2020-08-05
 
 While police make arrests after charging protesters (see: or-portland-237), legal observers and journalist gather around the officers to document the arrests. One legal observer is shoved in the head. Officers then unholster pepper spray and approach the press and legal observers. Officers then shove the filmer, a journalist.
 
@@ -15015,7 +15015,7 @@ geolocation: 45.5171945, -122.5538792
 * https://twitter.com/R3volutionDaddy/status/1291246837005815808
 
 
-### Police puncture tires of Snack Van | August 6th
+### Police puncture tires of Snack Van | 2020-08-06
 
 After giving dispersal directions during a protest outside the East Precinct, police chase protesters and the protest Snack Van, which dispenses food and water to protesters. The driver of the van was driving in the direction police stated, but police slashed his tires nonetheless.
 
@@ -15033,7 +15033,7 @@ geolocation: 45.5169372, -122.5539076
 * https://twitter.com/hungrybowtie/status/1291611883502362624
 
 
-### Police shove members of the press | August 6th
+### Police shove members of the press | 2020-08-06
 
 During a dispersal order, press are moving away from police according to the dispersal directions. Press continue to film police and are shoved repeatedly by officers.
 
@@ -15051,7 +15051,7 @@ geolocation: 45.5174533, -122.5528255
 * https://twitter.com/hungrybowtie/status/1291613303114883072
 
 
-### Woman arrested and pepper sprayed after yelling at police | August 6th
+### Woman arrested and pepper sprayed after yelling at police | 2020-08-06
 
 Footage shows a woman yelling at police in the street near the Penumbra Kelly building. After about a minute, police tell her to get off the street, then arrest her. While she is being held down, another officer pepper sprays her.
 
@@ -15067,7 +15067,7 @@ geolocation: 45.5230061, -122.6149833
 * https://www.reddit.com/r/PublicFreakout/comments/i6dg76/portland_police_arrest_women_for_standing_on/
 
 
-### Police shove man with disability | August 6th
+### Police shove man with disability | 2020-08-06
 
 As the police line pushes protesters down residential streets near the Penumbra Kelly building, an officer shoves a man because he isn't walking quickly. The man states he is disabled; an officer says, "You shouldn't have come here then." Other protesters argue with the officer and he shoves them as well.
 
@@ -15083,7 +15083,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/Muzzakh/status/1291741137896476672
 
 
-### Officer singles out and pepper sprays protester without apparent cause | August 7th
+### Officer singles out and pepper sprays protester without apparent cause | 2020-08-07
 
 An officer is seen walking into a crowd of protesters standing still on the sidewalk down the street from the Penumbra Kelly building. The officer discharges his pepper spray at a protester then walks away.
 
@@ -15098,7 +15098,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/GriffinMalone6/status/1291649145363554309
 
 
-### Officers grab and shove protesters | August 7th
+### Officers grab and shove protesters | 2020-08-07
 
 Police repeatedly shove woman on the sidewalk down the street from the Penumbra Kelly building. One protester attempts to intervene and is thrown into the nearby bushes. A second protester runs up and bumps into an officer, ostensibly trying to intervene. The officer then grabs the protester by the collar and slams him into the hood of a car.
 
@@ -15113,7 +15113,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/GriffinMalone6/status/1291647242022137856
 
 
-### Officers shove press during dispersal order | August 7th
+### Officers shove press during dispersal order | 2020-08-07
 
 Press and protesters pepper sprayed and shoved while trying to follow orders to move backward.
 
@@ -15132,7 +15132,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/GriffinMalone6/status/1291645839681576960
 
 
-### Reporter arrested | August 7th
+### Reporter arrested | 2020-08-07
 
 Footage shows police approaching an individual outside the Penumbra Kelly building and arresting them. No justification is apparent. The individual is believed to be a reporter for the Daily Mail.
 
@@ -15152,7 +15152,7 @@ geolocation: 45.522950, -122.6145843
 * https://twitter.com/TheBrandonPaape/status/1292875227454562304
 
 
-### Officer knocks helmet off protester's head; officers refuse to allow him to retrieve it | August 7th
+### Officer knocks helmet off protester's head; officers refuse to allow him to retrieve it | 2020-08-07
 
 Footage shows an individual walking away from officers while a dispersal order is being given. An officer approaches and knocks the protester's helmet off. The protester then attempts to retrieve the helmet, but several officers block his path.
 
@@ -15169,7 +15169,7 @@ geolocation: 45.522950, -122.6145843
 * https://twitter.com/danielvmedia/status/1292228817889554432
 
 
-### Officers strike individual with batons | August 7th
+### Officers strike individual with batons | 2020-08-07
 
 Footage shows several officers holding a protester down for arrest while several more strike the protester with batons.
 
@@ -15186,7 +15186,7 @@ geolocation: 45.522950, -122.6145843
 * https://twitter.com/danielvmedia/status/1292228819588452359
 
 
-### Individual held on the ground, pepper sprayed, punched, and arrested | August 8th
+### Individual held on the ground, pepper sprayed, punched, and arrested | 2020-08-08
 
 Footage shows an officer sitting on an individual, believed to be a medic, at a protest near the Penumbra Kelly building. The individual is immobile. An officer pepper sprays them, then the officer on their back punches them in the head.
 
@@ -15201,7 +15201,7 @@ geolocation: 45.522950, -122.6145843
 * https://twitter.com/_WhatRiot/status/1292012255714787330
 
 
-### Violent charge made by police | August 8th
+### Violent charge made by police | 2020-08-08
 
 Around 2 AM Pacfic time outside the Penumbra Kelly Building, police charged at the line of protester shields, using excessive force to detain protesters who had thrown only eggs up to that point. Police can be seen dragging protesters, throwing protesters to the ground, shoving others, and arresting several.
 
@@ -15217,7 +15217,7 @@ geolocation: 45.523019, -122.6143974
 * https://twitter.com/R3volutionDaddy/status/1292024802333675521
 
 
-### Police use tear gas and impact munitions against protesters | August 8th
+### Police use tear gas and impact munitions against protesters | 2020-08-08
 
 After protesters had thrown burning trash into the Portland Police Association, police declared a riot. Police then began pushing protesters away from the building using tear gas, stun grenades, and impact munitions. Additionally, footage shows police shoving protesters to the ground, then firing on them at short range.
 
@@ -15236,7 +15236,7 @@ geolocation: 45.5770994, -122.6861654
 * https://twitter.com/MrOlmos/status/1292367224653545472
 
 
-### Journalist shot in arm | August 8th
+### Journalist shot in arm | 2020-08-08
 
 A journalist with Frontline Access was struck in the arm around midnight on August 8th by "a flashbang or something" near North Lombard and North Denver. Another journalist states he was unresponsive for a short time. He was attended at the scene by protest medics. He states in a tweet the following day that he lost most of the feeling in his arm and went to the ER, where doctors said his arm was fractured.
 
@@ -15253,7 +15253,7 @@ geolocation: 45.5772306, -122.6868992
 * https://twitter.com/sethdunlap/status/1292662810283929601
 
 
-### Journalist shoved by police | August 8th
+### Journalist shoved by police | 2020-08-08
 
 A group of press and legal observers are gathered on the sidewalk in Kenton near Kilpatrick. Police direct them into the street to the other side. The group begins to obey. Officers shoves the filmer, a journalist, from behind.
 
@@ -15268,7 +15268,7 @@ geolocation: 45.5823765, -122.6868794
 * https://twitter.com/Shauna_Sowersby/status/1292354667901407232
 
 
-### Police throw explosives at crowd as they drive away | August 9th
+### Police throw explosives at crowd as they drive away | 2020-08-09
 
 After pushing protesters into Kenton Park, police mounted a van and retreated. As they did so, officers launched tear gas and stun grenades at protesters. No justification is clear.
 
@@ -15283,7 +15283,7 @@ geolocation: 45.5834306, -122.6928113
 * https://twitter.com/Shauna_Sowersby/status/1292365400403881984
 
 
-### Journalist shoved by police | August 9th
+### Journalist shoved by police | 2020-08-09
 
 During arrests made in Kenton Park, a journalist attempted to film arrests. An officer shoved her away repeatedly, telling her, "The park is closed, what about that do you not understand?" She is wearing a neon reflective vest labeled press.
 
@@ -15299,7 +15299,7 @@ geolocation: 45.5834306, -122.6928113
 * https://twitter.com/PDocumentarians/status/1292703127053819904
 
 
-### Bystander shot in the head | August 10th
+### Bystander shot in the head | 2020-08-10
 
 A man shows injuries to his head and arms, allegedly received from police. He states that he was walking home near the Portland Police Assocation when he was struck with batons and shot with rubber bullets. Protest medics administer first aid to the man.
 
@@ -15314,7 +15314,7 @@ geolocation: 45.5769153, -122.6882507
 * https://twitter.com/Mestizo43/status/1292758596128665600
 
 
-### Police charge at protesters | August 10th
+### Police charge at protesters | 2020-08-10
 
 Police declare unlawful assembly at a protest outside the north police precinct. Police allege that protesters had been throwing things at them. Police begin walking protesters backwards. Protesters appear to be obeying. Police then charge at protesters, shoving several to the ground and into bushes.
 
@@ -15330,7 +15330,7 @@ geolocation: 45.5622509, -122.6630238
 * https://twitter.com/MrOlmos/status/1293070710970056705
 
 
-### Police threaten journalist | August 10th
+### Police threaten journalist | 2020-08-10
 
 Officer threatens journalist with arrest near Killingsworth and Rodney. The journalist is standing on the sidewalk at some distance from police. Another journalist can be heard saying, "[The filmer] was nowhere near police."
 
@@ -15345,7 +15345,7 @@ geolocation: 45.5627124, -122.6648518
 * https://twitter.com/MrOlmos/status/1293073348444864513
 
 
-### Police shove members of the press | August 11th
+### Police shove members of the press | 2020-08-11
 
 Police give conflicting orders to press attempting to film an arrest near the north precinct. Police repeatedly shove members of the press, throwing one to the ground.
 
@@ -15361,7 +15361,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/Mestizo43/status/1293120463715983360
 
 
-### Police shove and arrest protester | August 12th
+### Police shove and arrest protester | 2020-08-12
 
 Police shove a protester into the crowd near 3rd and Taylor. The protester falls over. Police then strike the protester repeatedly and arrest them.
 
@@ -15376,7 +15376,7 @@ geolocation: 45.5169327, -122.6762642
 * https://twitter.com/hungrybowtie/status/1293804460309807104
 
 
-### Police assault protesters with batons | August 13th
+### Police assault protesters with batons | 2020-08-13
 
 Shortly after midnight on August 13th, officers continued to disperse protesters, pushing them away from the Justice Center. Officers charged at protesters, shoving them with batons, knocking several to the ground.
 
@@ -15395,7 +15395,7 @@ geolocation: 45.5176116, -122.6758578
 * https://twitter.com/MaranieRae/status/1294037876296962048
 
 
-### Police tear gas protesters | August 13th
+### Police tear gas protesters | 2020-08-13
 
 Police fire tear gas at protesters after several attempts at dispersal near 3rd and Yamhill, during which protesters threw paint balloons and fireworks back. The PPB is currently restricted to using tear gas only as a life-saving measure. Police fire tear gas ahead of protesters while pushing them back, forcing protesters to walk through the tear gas.
 
@@ -15419,7 +15419,7 @@ geolocation: 45.5176116, -122.6758578
 * https://twitter.com/hungrybowtie/status/1293814797557850112
 
 
-### Police shove protesters on staircase, punch arrestee in stomach | August 13th
+### Police shove protesters on staircase, punch arrestee in stomach | 2020-08-13
 
 Police make a violent arrest on an outdoor staircase near Park and Main. The arrestee is punched repeatedly in the abdomen. Police then push press back.
 
@@ -15435,7 +15435,7 @@ geolocation: 45.5169675, -122.6820327
 * https://mobile.twitter.com/Johnnthelefty/status/1293827373075279872
 
 
-### Police slash tires of van | August 13th
+### Police slash tires of van | 2020-08-13
 
 Police approach a van belonging to Timbers Army, which was slowly driving away from police alongside protesters. Police slash the tires of the vehicle.
 
@@ -15458,7 +15458,7 @@ geolocation: 45.5163008, -122.6797286
 * https://twitter.com/timbersarmy/status/1294019001752854529
 
 
-### Police throw protester to the ground | August 13th
+### Police throw protester to the ground | 2020-08-13
 
 A man following dispersal orders turns and speaks to police at 2nd and Madison. Police throw him to the ground and strike him repeatedly.
 
@@ -15473,7 +15473,7 @@ geolocation: 45.5146719, -122.6763902
 * https://twitter.com/Johnnthelefty/status/1293807313417957376
 
 
-### Police charge at and beat protesters with shields | August 14th
+### Police charge at and beat protesters with shields | 2020-08-14
 
 Protesters and police stand off in the streets near Peninsula Park. Protesters have formed a line of wooden shields. Police charge at the line, striking protesters with batons. A drummer is tackled to the ground and beaten with batons.
 
@@ -15489,7 +15489,7 @@ geolocation: 45.5664094, -122.6749006
 * https://twitter.com/1misanthrophile/status/1294507402188865537
 
 
-### Officer stomps on protester trapped under shield | August 14th
+### Officer stomps on protester trapped under shield | 2020-08-14
 
 After police charge the protester shield line near Peninsula Park, an officer stomps on a protester trapped under their shield.
 
@@ -15504,7 +15504,7 @@ geolocation: 45.5664094, -122.6749006
 * https://twitter.com/danielvmedia/status/1294671439581212677
 
 
-### Officer shoves stumbling protester | August 14th
+### Officer shoves stumbling protester | 2020-08-14
 
 A protester trips and attempts to stand. While trying to stand, an officer throws them to the sidewalk.
 
@@ -15521,7 +15521,7 @@ geolocation: 45.5664094, -122.6749006
 * https://twitter.com/MrOlmos/status/1294508631845552128
 
 
-### Officer shoves reporter | August 14th
+### Officer shoves reporter | 2020-08-14
 
 Around midnight on August 14th, an officer confronts a journalist standing on the sidewalk near Peninsula Park. The officer repeatedly shoves the journalist, striking their phone at one point.
 
@@ -15536,7 +15536,7 @@ geolocation: 45.5664094, -122.6749006
 * https://twitter.com/hungrybowtie/status/1294530884587069440
 
 
-### Officer shove compliant protesters | August 14th
+### Officer shove compliant protesters | 2020-08-14
 
 After police clear the protester shield line near Peninsula Park, protesters follow dispersal orders. Police continue to charge at protesters, shoving them with batons.
 
@@ -15551,7 +15551,7 @@ geolocation: 45.5664094, -122.6749006
 * https://twitter.com/hungrybowtie/status/1294515890990411776
 
 
-### Officer shoves protester on the sidewalk | August 14th
+### Officer shoves protester on the sidewalk | 2020-08-14
 
 A protester steps off the sidewalk and an officer approaches, shouting, "Move." The protester immediately steps back on the sidewalk. The officer then shoves the protester.
 
@@ -15566,7 +15566,7 @@ geolocation: 45.5671799, -122.6772338
 * https://twitter.com/1misanthrophile/status/1294507959553126400
 
 
-### Police repeatedly shove drummer | August 14th
+### Police repeatedly shove drummer | 2020-08-14
 
 A drummer walks toward police near Killingsworth and Albina. An officer shoves the drummer. The drummer then turns around, walking the direction police stated. The officer shoves them again.
 
@@ -15581,7 +15581,7 @@ geolocation: 45.5626699, -122.6749649
 * https://twitter.com/MrOlmos/status/1294507048663543808
 
 
-### Police slash tires of bystander vehicle | August 15th
+### Police slash tires of bystander vehicle | 2020-08-15
 
 A bystander in a vehicle with a Black Lives Matter sign pulled off to the side of the road to allow police vehicles to pass by. An officer then slashed the vehicles tires.
 
@@ -15598,7 +15598,7 @@ geolocation: 45.5771911, -122.6770689
 * https://twitter.com/PDocumentarians/status/1294589695649656834
 
 
-### Officer shoves protester to the ground | August 15th
+### Officer shoves protester to the ground | 2020-08-15
 
 Protesters gathered on the sidewalk and stood off with police in the street. One individual walks in the street filming. The officer strikes him to the ground with a baton.
 
@@ -15614,7 +15614,7 @@ geolocation: 45.5771911, -122.6770689
 * https://twitter.com/bogwitchenergy/status/1294558853640548353
 
 
-### Livestreamer shoved from behind | August 15th
+### Livestreamer shoved from behind | 2020-08-15
 
 A livestreamer dropped some of their equipment during a police push down N Lombard St. The streamer picked up their equipment and began walking backwards. An officer approaches the streamer from behind and shoves them to the ground.
 
@@ -15629,7 +15629,7 @@ geolocation: 45.5771911, -122.6770689
 * https://twitter.com/PDocumentarians/status/1294584539201695744
 
 
-### Police charge protesters with shields | August 15th
+### Police charge protesters with shields | 2020-08-15
 
 Around midnight on August 15th outside the Penumbra Kelly Building, police declared a protest a riot. Protesters assembled behind wooden shields. Police charged the protesters, striking them repeatedly. One officer is seen swinging his fists at scattering protesters.
 
@@ -15646,7 +15646,7 @@ geolocation: 45.523019, -122.6143974
 * https://www.reddit.com/r/PublicFreakout/comments/iaoq97/portland_police_charges_protestors_81620/
 
 
-### Officer tackles multiple protesters | August 15th
+### Officer tackles multiple protesters | 2020-08-15
 
 While dispersing protesters at Main and 3rd, an officer tackles two protesters and the filmer, a journalist, all of whom are standing on the sidewalk
 
@@ -15662,7 +15662,7 @@ geolocation: 45.5156185, -122.6770321
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-284.1.mp4)
 
 
-### Officer shoots then clubs protester | August 15th
+### Officer shoots then clubs protester | 2020-08-15
 
 Outside the Penumbra Kelly building, an officer fires at a protester at a distance of several feet (far closer than recommended). The protester then appears to say "Ah fuck you." The officer charges the protester and strikes them with his riot gun.
 
@@ -15677,7 +15677,7 @@ geolocation: 45.523019, -122.6143974
 * https://twitter.com/gravemorgan/status/1295116634583994369
 
 
-### Police officer rips mask off protester, shoves reporter | August 15th
+### Police officer rips mask off protester, shoves reporter | 2020-08-15
 
 A journalist films as officers push through a line of protesters with shields outside the Penumbra Kelly building. An officer grabs a protester, pins them against a wooden pole and rips their mask off. The officer then shoves the filmer, who is standing on the sidewalk.
 
@@ -15693,7 +15693,7 @@ geolocation: 45.523019, -122.6143974
 * https://twitter.com/MaranieRae/status/1295168112933736449
 
 
-### Police throw stun grenade at retreating protesters | August 16th
+### Police throw stun grenade at retreating protesters | 2020-08-16
 
 Footage shows protesters walking away from police near the Penumbra Kelly building. An officer throws a stun grenade, which explodes at the protesters' feet.
 
@@ -15708,7 +15708,7 @@ geolocation: 45.5229431, -122.6144319
 * https://twitter.com/MrOlmos/status/1294898551013572609
 
 
-### Police slash the tires of vehicles supporting protesters | August 16th
+### Police slash the tires of vehicles supporting protesters | 2020-08-16
 
 Police officers charge at protesters near the Penumbra Kelly. A white pickup truck rolls along slowly with protesters. Police puncture the truck's tires.
 
@@ -15724,7 +15724,7 @@ geolocation: 45.5229431, -122.6144319
 * https://twitter.com/alex_zee/status/1294899596297084930
 
 
-### Police shove press on the sidewalk | August 16th
+### Police shove press on the sidewalk | 2020-08-16
 
 Footage shows police charging at protesters in the street near the Penumbra Kelly building. The filmer, a journalist, is standing on the sidewalk with other journalists. Two officers run onto the sidewalk and shove members of the press with their batons.
 
@@ -15739,7 +15739,7 @@ geolocation: 45.5229431, -122.6144319
 * https://twitter.com/MrOlmos/status/1294900330488926208
 
 
-### Police shove protester from behind | August 16th
+### Police shove protester from behind | 2020-08-16
 
 Footage shows a protester holding a sign above their head and walking slowly away from police on residential streets near the Penumbra Kelly building. An officer runs up in the protester's blind spot and shoves the protester to the ground.
 
@@ -15754,7 +15754,7 @@ geolocation: 45.5229431, -122.6144319
 * https://twitter.com/PDocumentarians/status/1294936995014119424
 
 
-### Police shove protesters and confiscate guitar | August 16th
+### Police shove protesters and confiscate guitar | 2020-08-16
 
 Police shove protesters on the sidewalk near the Penumbra Kelly building. One officer grabs a protester's guitar and walks away with it. The protester chases the officer and is shoved and shot at.
 
@@ -15769,7 +15769,7 @@ geolocation: 45.5229431, -122.6144319
 * https://twitter.com/Spronsenite/status/1294954167874670596
 
 
-### Officer gropes and shoves woman, arrests protester trying to intervene | August 16th
+### Officer gropes and shoves woman, arrests protester trying to intervene | 2020-08-16
 
 Officers push protesters down the street. One protester turns to face officers. An officer squeezes one of her breasts, then the other, to push her away. Another individual, allegedly her boyfriend, tries to intervene and is shoved into the bushes then arrested. The woman is shoved down the street.
 
@@ -15784,7 +15784,7 @@ geolocation: 45.5180473, -122.5538771
 * https://www.reddit.com/r/PublicFreakout/comments/ighh02/portland_police_grabs_womans_chest_then_arrest/
 
 
-### Police beat protester crawling on the ground | August 18th
+### Police beat protester crawling on the ground | 2020-08-18
 
 Footage shows a protester shoved to the ground near SE 12th and SE Salmon. She is carrying a small speaker and attempts to crawl forward. Police continue to strike her with batons before releasing her without making an arrest.
 
@@ -15801,7 +15801,7 @@ geolocation: 45.5143468, -122.6535597
 * https://twitter.com/dave_blazer/status/1296017337741504513
 
 
-### Woman shoved to the ground | August 18th
+### Woman shoved to the ground | 2020-08-18
 
 An officer shoves a journalist from behind in the head with a baton near SE 12th and SE Salmon. She falls to the ground and sits up. The officer strikes her in the head again.
 
@@ -15822,7 +15822,7 @@ geolocation: 45.5143468, -122.6535597
 * https://twitter.com/BlairStenvick/status/1308891807573569538
 
 
-### Police tackle protester, confiscate shield, then pepper spray her | August 18th
+### Police tackle protester, confiscate shield, then pepper spray her | 2020-08-18
 
 Footage shows a protester running by police at Hawthorne and 7th. She is tackled to the ground and an officer strips away her shield. She stands and confronts the officer. Officer shove her away and pepper spray her.
 
@@ -15841,7 +15841,7 @@ geolocation: 45.5122079, -122.6586218
 * https://twitter.com/gravemorgan/status/1295957966349197313
 
 
-### Police puncture Snack Van's tires | August 18th
+### Police puncture Snack Van's tires | 2020-08-18
 
 The Snack Van, which offers free snacks, water and medical supplies to protesters, joined protests on August 18th and drove slowly along side protesters following dispersal order. Officers punctured the van's tires near 6th and Hawthorne.
 
@@ -15857,7 +15857,7 @@ geolocation: 45.5122408, -122.6597632
 * https://twitter.com/hungrybowtie/status/1295958944947384320
 
 
-### Police charge and tackle protesters | August 18th
+### Police charge and tackle protesters | 2020-08-18
 
 Police charge protesters near 7th and Madison, tackling several to the ground. Other officer shoves protesters and strike them with batons.
 
@@ -15873,7 +15873,7 @@ geolocation: 45.5129108, -122.658811
 * https://twitter.com/gravemorgan/status/1295962838628884481
 
 
-### Police shove videographer | August 18th
+### Police shove videographer | 2020-08-18
 
 A videographer on the sidewalk near SE 9th and Morrison is shoved repeatedly by police, knocking their helmet off. The videographer is then shoved to the ground and the phone is swatted out of their hand. The videographer states they were prevented by police from retrieving their phone, which had fallen into the street. They state another individual later retrieved their phone.
 
@@ -15889,7 +15889,7 @@ geolocation: 45.517304, -122.6566336
 * https://twitter.com/dave_blazer/status/1296024401318559745
 
 
-### Police respond to thrown water bottles with impact munitions | August 19th
+### Police respond to thrown water bottles with impact munitions | 2020-08-19
 
 After protesters throw water bottles at federal officers, at a protest outside an ICE facility, officers respond by firing a sustained barrage of impact munitions, allegedly including pepper balls.
 
@@ -15907,7 +15907,7 @@ geolocation: 45.4931857, -122.6722262
 * https://twitter.com/PDocumentarians/status/1296337148069556226
 
 
-### Police shove protesters following directions | August 19th
+### Police shove protesters following directions | 2020-08-19
 
 While moving protesters down the street near Moody and Gaines, police can be seen shoving protesters and medics complying with directions.  In addition, one protester dropped a phone when shoved, then was struck and pepper sprayed when he attempted to retrieve it.
 
@@ -15925,7 +15925,7 @@ geolocation: 45.496446, -122.671915
 * https://twitter.com/baaascom/status/1296356359445688320
 
 
-### Officer shoves protester on the sidewalk | August 19th
+### Officer shoves protester on the sidewalk | 2020-08-19
 
 A PPB officer shoves a protester down S Bond Ave, yelling, "Get on the sidewalk." After the protester is on the sidewalk, the officer shoves the protester to the ground and trains his gun on the protester.
 
@@ -15940,7 +15940,7 @@ geolocation: 45.4945142, -122.6709487
 * https://twitter.com/hungrybowtie/status/1296326519048957952
 
 
-### Police respond to vandalism with tear gas and stun grenades | August 19th
+### Police respond to vandalism with tear gas and stun grenades | 2020-08-19
 
 After police declared a riot, protesters lit a mattress and other objects in the street on fire. Federal agents and Portland Police officers then deployed tear gas and stun grenades against the crowd, pushing them away from the ICE facility.
 
@@ -15963,7 +15963,7 @@ geolocation: 45.4932015, -122.6719535
 * https://twitter.com/DonovanFarley/status/1296343564046102531
 
 
-### Police shove press and legal observers, then release tear gas | August 19th
+### Police shove press and legal observers, then release tear gas | 2020-08-19
 
 Legal observers and press are documenting the arrest of a journalist on the sidewalk outside the ICE facility, several feet away from the incident. An officer approaches and shoves members of the press back. He then releases a tear gas canister at their feet.
 
@@ -15981,7 +15981,7 @@ geolocation: 45.4932015, -122.6719535
 * https://twitter.com/_WhatRiot/status/1296347908900392960
 
 
-### Police puncture the tires of the Snack Van a second night in a row | August 19th
+### Police puncture the tires of the Snack Van a second night in a row | 2020-08-19
 
 The Snack Van, a protest vehicle offering free food, water and medical supplies to protesters, was driving slowly alongside protesters near the ICE facility. Police charged the vehicle and punctured its tires.
 
@@ -15996,7 +15996,7 @@ geolocation: 45.4932015, -122.6719535
 * https://twitter.com/R3volutionDaddy/status/1296277161670656002
 
 
-### Federal officers shoot at and tear gas protesters | August 20th
+### Federal officers shoot at and tear gas protesters | 2020-08-20
 
 Federal officers push protesters back from an ICE facility, firing impact munitions and deploying tear gas. A handful of protesters had been banging on the walls of the building, but no further vandalism had been committed up to that point.
 
@@ -16017,7 +16017,7 @@ geolocation: 45.4927953, -122.6747966
 * https://twitter.com/DrewCMarine/status/1296695868347699200
 
 
-### Journalist struck with explosive projectile | August 20th
+### Journalist struck with explosive projectile | 2020-08-20
 
 Officers fire tear gas and impact munitions at protesters outside an ICE facility in SW Portland. A photojournalist is filming from the sidewalk when an explosive projectile ricochets and strikes them in the head and hands, knocking the camera out of their hand.
 
@@ -16033,7 +16033,7 @@ geolocation: 45.4927953, -122.6747966
 * https://twitter.com/GriffinMalone6/status/1296695438880382976
 
 
-### Journalist struck with tear gas canister and impact munitions | August 20th
+### Journalist struck with tear gas canister and impact munitions | 2020-08-20
 
 An independent journalist wearing a press badge around her neck is seen filming protests in the street near the ICE facility. She then runs back after an explosive device strikes her in the ankle and is shot in the hip while running.
 
@@ -16051,7 +16051,7 @@ geolocation: 45.4932015, -122.6719535
 * https://twitter.com/R3volutionDaddy/status/1296728449931866114
 
 
-### Police shove protesters following directions | August 20th
+### Police shove protesters following directions | 2020-08-20
 
 After declaring an unlawful assembly and pushing protesters through the streets, Portland police moved onto the sidewalk near Gaines and Moody, shoving protesters who were obeying directions.
 
@@ -16066,7 +16066,7 @@ geolocation: 45.4964374, -122.6709359
 * https://twitter.com/MrOlmos/status/1296729797528150018
 
 
-### Police break protester's phone | August 21st
+### Police break protester's phone | 2020-08-21
 
 While being arrested near the North Precinct, a protester can be heard saying, "Let me get my phone. Don't let them take me." The phone is on the ground, by the protester's feet. An officer then stomps on the protester's phone.
 
@@ -16081,7 +16081,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/_WhatRiot/status/1297085738127769601
 
 
-### Officer shoves members of the press | August 21st
+### Officer shoves members of the press | 2020-08-21
 
 Police arrest a protester near the North Precinct; press gather around to document. An officer shoves members of the press away. The journalists had allegedly been told minutes prior by another officer that their distance to the arrest was allowed.
 
@@ -16096,7 +16096,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/MrOlmos/status/1297090542845583360
 
 
-### Police shove protesters | August 21st
+### Police shove protesters | 2020-08-21
 
 During dispersal at a protest, police walk protesters backwards near MLK and Emerson. Protesters obey. Police shove protesters moving slowly, and shove them and protesters helping them as they try to stand.
 
@@ -16111,7 +16111,7 @@ geolocation: 45.5616007, -122.6616028
 * https://twitter.com/MrOlmos/status/1297092502944485378
 
 
-### Police violently respond to vandalism | August 21st
+### Police violently respond to vandalism | 2020-08-21
 
 After protesters broke a few police vehicle windows near the North Precinct, police gave a dispersal order and fired smoke and stun grenades. Police then dispersed protesters violently, striking several with batons and punching others.
 
@@ -16130,7 +16130,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/MrOlmos/status/1297089248743452673
 
 
-### Police snatch, kneel on, and arrest individual | August 21st
+### Police snatch, kneel on, and arrest individual | 2020-08-21
 
 Footage shows police standing off against a small group of press on the sidewalk. Officers grab one individual, alleged to be press though not clearly marked, and force them to the ground for arrest. The individual passively resists by going limp. One officer kneels on the individual while making the arrest.
 
@@ -16147,7 +16147,7 @@ geolocation: 45.4992208, -122.6718084
 * https://twitter.com/coltshmolt/status/1296724524382093313
 
 
-### Police shove protesters on the sidewalk | August 22nd
+### Police shove protesters on the sidewalk | 2020-08-22
 
 Police disperse protesters on the sidewalk. Protesters walk in the direction stated by police. Police threaten to arrest protesters who linger. Protesters at the back of the group are pushed and shoved. One is shoved to the ground and harassed again as they attempt to stand.
 
@@ -16164,7 +16164,7 @@ geolocation: 45.5618378, -122.6613771
 * https://twitter.com/MrOlmos/status/1297113434299830272
 
 
-### Police officer strikes journalist who insults him | August 22nd
+### Police officer strikes journalist who insults him | 2020-08-22
 
 A member of the press is filming police from several feet away. He tells an officer to go fuck himself. The officer then swats the camera out of his hand.
 
@@ -16184,7 +16184,7 @@ geolocation: 45.5329487, -122.6079188
 * https://clips.twitch.tv/FragileSullenConsoleRiPepperonis
 
 
-### Officer shoots protester at point blank range | August 22nd
+### Officer shoots protester at point blank range | 2020-08-22
 
 After protests at Terry Schrunk plaza are declared an unlawful assembly, police and DHS officers clear the park. A protester is kneeling in a brick area alone, with his hands on his head. An officer standing next to him shoots him with an impact munition. Another officer shoves the protester over.
 
@@ -16199,7 +16199,7 @@ geolocation: 45.5146547, -122.680197
 * https://twitter.com/IwriteOK/status/1297292316256870400
 
 
-### Officers shove protesters and legal observer | August 22nd
+### Officers shove protesters and legal observer | 2020-08-22
 
 Around midnight on August 22nd, police gave conflicting orders to protesters regarding the direction to go. Protesters stopped, confused. Police then shoved protesters around, striking one with a baton. A representative from the National Lawyer's Guild was also knocked to the ground.
 
@@ -16217,7 +16217,7 @@ geolocation: 45.5329487, -122.6079188
 * https://twitter.com/1misanthrophile/status/1297434755017789440
 
 
-### Police drag protester, begin to arrest him, then release him | August 22nd
+### Police drag protester, begin to arrest him, then release him | 2020-08-22
 
 Police drag a man off the sidewalk into the street and lay him face down on the ground. Officers kneel on him as they arrest him. Officers then release him without explanation.
 
@@ -16235,7 +16235,7 @@ geolocation: 45.5329487, -122.6079188
 * https://twitter.com/gravemorgan/status/1297426266887303170
 
 
-### Police shove legal observer | August 22nd
+### Police shove legal observer | 2020-08-22
 
 A legal observer is seen talking to police about events happening behind the police line. The officer shoves the legal observer. The observer then steps forward again and is thrown to the ground.
 
@@ -16252,7 +16252,7 @@ geolocation: 45.5329487, -122.6079188
 * https://clips.twitch.tv/SilkyLovelySandpiperSwiftRage
 
 
-### Police repeatedly shove protester | August 22nd
+### Police repeatedly shove protester | 2020-08-22
 
 A protester, who had allegedly been blinded by pepper spray and was having trouble getting their bearings, is shoved to the ground by police. Police then lift the protester off the ground and shove them forward again.
 
@@ -16269,7 +16269,7 @@ geolocation: 45.5329487, -122.6079188
 * https://twitter.com/poorfp/status/1297460850157002752
 
 
-### Police pepper spray a protester attempting to help another up | August 22nd
+### Police pepper spray a protester attempting to help another up | 2020-08-22
 
 A protester falls to the ground during a police advance near the North Precinct. Another protester runs to help them up. Police pepper spray both of them.
 
@@ -16284,7 +16284,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/_WhatRiot/status/1297113750193885184
 
 
-### Officers shove and pepper spray protesters on sidewalk | August 23rd
+### Officers shove and pepper spray protesters on sidewalk | 2020-08-23
 
 About one hour after midnight on August 23rd, police attempted to disperse protesters on the sidewalk. Protesters walked backwards away from police, but were still shoved and pepper sprayed by officers.
 
@@ -16301,7 +16301,7 @@ geolocation: 45.5329487, -122.6079188
 * https://twitter.com/MrOlmos/status/1297443641993003008
 
 
-### Police shove protesters on sidewalk | August 23rd
+### Police shove protesters on sidewalk | 2020-08-23
 
 Shortly after midnight on August 23rd, police disperse protesters on the sidewalk. Police can be seen shoving two individuals obeying police direction. Officers then confront members of the Wall of Moms (noted by yellow shirts) sitting on the grass and shove them.
 
@@ -16318,7 +16318,7 @@ geolocation: 45.5329487, -122.6079188
 * https://twitter.com/1misanthrophile/status/1297438973166415873
 
 
-### Police respond to vandalism and fireworks with tear gas | August 23rd
+### Police respond to vandalism and fireworks with tear gas | 2020-08-23
 
 At a protest outside the North Precinct in Portland, protesters built a barricade in the street and threw fireworks and other small objects at police. Police responded with tear gas and stun grenades. Officers then advanced into the street and made arrests.
 
@@ -16339,7 +16339,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/SacActivists/status/1297945967509954566
 
 
-### Police confiscate speaker, then pepper spray owner | August 23rd
+### Police confiscate speaker, then pepper spray owner | 2020-08-23
 
 At a protest late on August 23rd or early on the 24th, police confiscate a speaker from a protester, [@ProtestSound](https://twitter.com/ProtestSound). The protester does not release the speaker so police pepper spray them.
 
@@ -16355,7 +16355,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/MasonLakePhoto/status/1297977922301521920
 
 
-### Police throw stun grenades and tear gas canisters from rooftop | August 23rd
+### Police throw stun grenades and tear gas canisters from rooftop | 2020-08-23
 
 After protesters set an awning on fire near the North Precinct, police emerged to extinguish it. Police threw stun grenades and tear gas at a handful of protesters standing around below.
 
@@ -16371,7 +16371,7 @@ geolocation: 45.562427, -122.6608987
 * https://twitter.com/R3volutionDaddy/status/1297979906626789376
 
 
-### Police throw stun grenade at independent journalist | August 23rd
+### Police throw stun grenade at independent journalist | 2020-08-23
 
 An independent journalist films police from the sidewalk as they emerge from the North Precinct. A projectile is seen flying towards her and explodes before it lands. She does not appear to be standing near any other members of the press or protesters.
 
@@ -16386,7 +16386,7 @@ geolocation: 45.5618067, -122.6613015
 * https://twitter.com/R3volutionDaddy/status/1297981782084612096
 
 
-### Police beat and arrest multiple protesters | August 24th
+### Police beat and arrest multiple protesters | 2020-08-24
 
 Footage shows police following dispersing protesters at N Fenwick and N Lombard. One protester is shoved repeatedly and knocked to the ground. Another protester is dragged into a corner and arrested. A third talks to police and is singled out. An officer grabs them by the neck, while others grab the protester's body. The protester is knocked unconscious and falls to the ground. Officers then arrest the protester.
 
@@ -16403,7 +16403,7 @@ geolocation: 45.5770333, -122.6852822
 * https://twitter.com/ByMikeBaker/status/1298127258268266499
 
 
-### Police tear gas protesters and make violent arrest | August 24th
+### Police tear gas protesters and make violent arrest | 2020-08-24
 
 Police continuously fire tear gas at dispersing protesters near N Elmore and N Lombard. One protester in a parking lot is tackled to the ground by several officers and arrested.
 
@@ -16420,7 +16420,7 @@ geolocation: 45.577358, -122.6858069
 * https://twitter.com/tehandy121/status/1298125192451907584
 
 
-### Officer bludgeons protester with pepper spray can, then sprays crowd | August 24th
+### Officer bludgeons protester with pepper spray can, then sprays crowd | 2020-08-24
 
 A police officer following retreating protesters near N Lombard and N Denver can be seen repeatedly striking a woman with his pepper spray can. He then discharges pepper spray on the crowd.
 
@@ -16438,7 +16438,7 @@ geolocation: 45.5772191, -122.6867849
 * https://twitter.com/marisaforBLM/status/1298314312008626179
 
 
-### Police shove independent journalist | August 24th
+### Police shove independent journalist | 2020-08-24
 
 Footage shows an officer walking a journalist filming from the sidewalk back. The officer then shoves the journalist to the ground near N Lombard and N Fenwick.
 
@@ -16455,7 +16455,7 @@ geolocation: 45.5770333, -122.6852822
 * https://clips.twitch.tv/CoweringColdDonkeyRaccAttack
 
 
-### Police charge across the street, tackle, beat and arrest protester | August 24th
+### Police charge across the street, tackle, beat and arrest protester | 2020-08-24
 
 Footage shows police charging across the street (N Lombard and N Denver) at a protester who begins jogging away. Police tackle the protester to arrest them and can be seen repeatedly punching the protester to subdue them.
 
@@ -16470,7 +16470,7 @@ geolocation: 45.5772191, -122.6867849
 * https://twitter.com/PDocumentarians/status/1298162855808839681
 
 
-### Police throw gas canister at press, hit journalist in shin | August 24th
+### Police throw gas canister at press, hit journalist in shin | 2020-08-24
 
 As police prepare to ride away, some protesters throw objects at them. Police hurl a canister at journalists standing well away from these protesters, striking a journalist in the shin.
 
@@ -16488,7 +16488,7 @@ geolocation: 45.577097, -122.686162
 * https://twitter.com/R3volutionDaddy/status/1298344703486697472
 
 
-### Police charge protesters with shields | August 25th
+### Police charge protesters with shields | 2020-08-25
 
 Police charge at a line of protesters with shields near SW Jefferson and SW 4th. Police use batons to strike protesters repeatedly, then make several arrests.
 
@@ -16506,7 +16506,7 @@ geolocation: 45.5144977, -122.678743
 * https://twitter.com/PDocumentarians/status/1298492395386834948
 
 
-### Police arrest woman yelling at them | August 25th
+### Police arrest woman yelling at them | 2020-08-25
 
 A woman is seen yelling at police while police push protesters along the sidewalk near SW Jefferson and SW 4th. Although yelling, she is obeying police instruction. She says, after a while, "I don't listen to pigs." One officers then charges forward and grabs her to arrest her. Additional officers help make the arrest.
 
@@ -16522,7 +16522,7 @@ geolocation: 45.5146818, -122.6785842
 * https://twitter.com/MrOlmos/status/1298532939072851968
 
 
-### Officer throws stun grenade at protesters on sidewalk | August 25th
+### Officer throws stun grenade at protesters on sidewalk | 2020-08-25
 
 A small group of protesters is on the sidewalk at S 5th and SW Jefferson, chanting and yelling. An officers runs up and lobs a stun grenade at them.
 
@@ -16538,7 +16538,7 @@ geolocation: 45.5147756, -122.6797709
 * https://twitter.com/BrayanMorgan6/status/1298530372012187649
 
 
-### Police puncture tires of multiple cars | August 25th
+### Police puncture tires of multiple cars | 2020-08-25
 
 Footage shows an officer puncturing the tires of multiple cars in front of City Hall on S 5th. One is stopped on the side of the street with the headlights on. The other is parked, with no one inside.
 
@@ -16554,7 +16554,7 @@ geolocation: 45.5151061, -122.6795829
 * https://twitter.com/PDocumentarians/status/1298515002198908931
 
 
-### Police shoot at protesters in street | August 25th
+### Police shoot at protesters in street | 2020-08-25
 
 Several protesters stand in the street (SW Jefferson and S 3rd) some distance from police. Police shoot at them with impact munitions. The camera pans away due to a technical issue. The filmer recovers what appears to be a foam bullet. The filmer then shows a protester attempting to pick up a spent tear gas canister; police shoot this protester repeatedly.
 
@@ -16569,7 +16569,7 @@ geolocation: 45.5142272, -122.677725
 * https://twitter.com/MegaphonePdx/status/1298661361551945729
 
 
-### Federal officers shoot tear gas and impact munitions at protesters | August 26th
+### Federal officers shoot tear gas and impact munitions at protesters | 2020-08-26
 
 After a march ended at an ICE facility in Portland, protesters threw eggs and other small projectiles. Agents from FPS and DHS emerged to clear protesters with impact munitions and tear gas.
 
@@ -16594,7 +16594,7 @@ geolocation: 45.4927953, -122.6747966
 * https://twitter.com/gravemorgan/status/1298862979690053633
 
 
-### Police rip mask off detained protester and pepper spray them | August 28th
+### Police rip mask off detained protester and pepper spray them | 2020-08-28
 
 After a mattress was set on fire outside the Portland Police Association, police rushed protesters, making numerous arrests. In this footage, police can be seen ripping the mask off an immobile protester and macing them.
 
@@ -16610,7 +16610,7 @@ geolocation: 45.5769153, -122.6882507
 * https://twitter.com/_WhatRiot/status/1299616269688209414
 
 
-### Police shove member of the press | August 28th
+### Police shove member of the press | 2020-08-28
 
 A reporter attempts to film arrests being made in the lot of the Chevron gas station at N Denver and N Lombard. As they approach, an officer confronts them, shoving the reporter back.
 
@@ -16626,7 +16626,7 @@ geolocation: 45.577083, -122.6869451
 * https://twitter.com/IwriteOK/status/1299622638222860289
 
 
-### Police arrest protester on sidewalk | August 28th
+### Police arrest protester on sidewalk | 2020-08-28
 
 A journalist captures an exchange between an officer and a protester outside Heavenly Donuts on N Lombard. The protester is filming the officer. The officer tells the protester that he cannot be here without a press pass. The protester asks why. The officer says that it's been declared a riot. The protester asks the officer to define a riot. Officers then arrest the protester.
 
@@ -16641,7 +16641,7 @@ geolocation: 45.577083, -122.686945
 * https://twitter.com/R3volutionDaddy/status/1299661351845945344
 
 
-### Police punch arrestee | August 30th
+### Police punch arrestee | 2020-08-30
 
 After declaring an unlawful assembly at E 47th and E Burnside, police make several arrests. In this footage, police can be seen repeatedly punching a detained protester to subdue them.
 
@@ -16659,7 +16659,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/PDocumentarians/status/1300313454843060225
 
 
-### Police tackle and arrest protesters; shove and shoot press and legal observers | August 30th
+### Police tackle and arrest protesters; shove and shoot press and legal observers | 2020-08-30
 
 Police snatch protesters standing among press on the sidewalk at E 47th and E Burnside, throw them to the ground and arrest them. Other officers then shove press and legal observers away. Impact munitions can be heard fired; the filmer, a journalist, posted that police shot them in the feet.
 
@@ -16679,7 +16679,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/GriffinMalone6/status/1300315878014160896
 
 
-### Police tackle and arrest protester carrying flag | August 30th
+### Police tackle and arrest protester carrying flag | 2020-08-30
 
 Police charge and tackle a protester carrying a flag near the Penumbra Kelly Building. They arrest the protester, pulling their hair during the arrest. Other officers then shove press away.
 
@@ -16694,7 +16694,7 @@ geolocation: 45.5230061, -122.6149833
 * https://twitter.com/_WhatRiot/status/1300325203227017222
 
 
-### Police shoot impact munitions into crowd | August 30th
+### Police shoot impact munitions into crowd | 2020-08-30
 
 Around midnight on August 30th, Portland police retreat from E 47th down E Burnside toward the Penumbra Kelly Building. An officer fires impact munitions into the crowd without a discernible reason. A water bottle is thrown in response and the officer fires again.
 
@@ -16709,7 +16709,7 @@ geolocation: 45.5229315, -122.6140182
 * https://twitter.com/BrayanMorgan6/status/1300331465146851329
 
 
-### Police rush protesters | August 31st
+### Police rush protesters | 2020-08-31
 
 Police charge protesters without warning, shoving several to the ground. One officer grabs a protester's belongings, throwing and kicking them away.
 
@@ -16726,7 +16726,7 @@ geolocation: 45.5265304, -122.6812125
 * https://twitter.com/MrOlmos/status/1300677826945847296
 
 
-### Officer tackles and punches protester | August 31st
+### Officer tackles and punches protester | 2020-08-31
 
 An officer runs ahead of the police line and violently tackles a protester. He then proceeds to punch the protester multiple times in the head and neck area.
 
@@ -16744,7 +16744,7 @@ geolocation: 45.526523, -122.6832899
 * https://twitter.com/catalinagaitan_/status/1300680129866346496
 
 
-### Police arrest member of the press | August 31st
+### Police arrest member of the press | 2020-08-31
 
 An officer points out and targets a woman who appears to be a member of the press. The officer says “You’re not press. You’re under arrest.” The woman responds, “You ripped off my press pass!” they respond. “No you’re not,” the officer says. The woman is the pulled away in what seems to be an arrest.
 
@@ -16761,7 +16761,7 @@ geolocation: 45.526596, -122.6822874
 * https://twitter.com/catalinagaitan_/status/1300700100981792768
 
 
-### Police make violent arrests | September 4th
+### Police make violent arrests | 2020-09-04
 
 Police make a series of violent arrests after declaring an unlawful assembly near N Lombard and N Denver. One protester was seen bleeding from the face while being arrested.
 
@@ -16782,7 +16782,7 @@ geolocation: 45.5770984, -122.6867857
 * https://twitter.com/MrOlmos/status/1302164398639783936
 
 
-### Police fire on protesters | September 4th
+### Police fire on protesters | 2020-09-04
 
 While police advance down N Lombard against protesters and make arrests, an officers aims a riot gun at protesters and shoots repeatedly. The protesters did not appear to be acting aggressively.
 
@@ -16797,7 +16797,7 @@ geolocation: 45.577097, -122.6861626
 * https://twitter.com/MrOlmos/status/1302144388718501888
 
 
-### Journalist shoved by police | September 4th
+### Journalist shoved by police | 2020-09-04
 
 A photojournalist documenting an arrest is shoved to the ground by police. The incident appears to occur in the parking lot of Heavenly Donuts on North Lombard Street.
 
@@ -16812,7 +16812,7 @@ geolocation: 45.5771748, -122.6864379
 * https://twitter.com/MathieuLRolland/status/1302141026329456640
 
 
-### Police charge protesters, knocking member of press to the ground | September 5th
+### Police charge protesters, knocking member of press to the ground | 2020-09-05
 
 After declaring an unlawful assembly near Ventura Park, police charge protesters to disperse them. One journalist was caught in the charge and thrown to the ground.
 
@@ -16828,7 +16828,7 @@ geolocation: 45.5189392, -122.5437546
 * https://twitter.com/MrOlmos/status/1302492995585884161
 
 
-### Officer tackles protester | September 5th
+### Officer tackles protester | 2020-09-05
 
 During another charge near Ventura Park after declaring unlawful assembly, an officer tackles a protester to the ground. The protester is slammed face first into the pavement.
 
@@ -16843,7 +16843,7 @@ geolocation: 45.5189209, -122.5469154
 * https://twitter.com/MrOlmos/status/1302489836972945408
 
 
-### Police escalate vandalism with tear gas | September 5th
+### Police escalate vandalism with tear gas | 2020-09-05
 
 After protesters build barricades in the street at SE Stark and SE 117th and light small trash fires, police escalate by deploying tear gas and charging protesters. Some petrol bombs had been thrown into the barricades (not at police)
 by protesters earlier in the night, but this event comes about half an hour later. Police munitions set off a Prius' alarm system and appeared to light a fire on the hood.
@@ -16866,7 +16866,7 @@ geolocation: 45.5190077, -122.5429058
 * https://twitter.com/BitterTier/status/1302864639185674240
 
 
-### Police punch a detained protester repeatedly | September 5th
+### Police punch a detained protester repeatedly | 2020-09-05
 
 A journalist captured mass arrests made by police during a protest on September 5th near Ventura Park. During these arrests, two officers pinned down a protester, and one punched the protester repeatedly in order to subdue them.
 
@@ -16881,7 +16881,7 @@ geolocation: 45.5187387, -122.544683
 * https://twitter.com/IwriteOK/status/1302487729339416581
 
 
-### Police pepper spray protester after they are restrained | September 8th
+### Police pepper spray protester after they are restrained | 2020-09-08
 
 Two officers restrain a protester near the Justice Center. A third officer lifts the protesters head by his hair pepper sprays the him in the face.
 
@@ -16896,7 +16896,7 @@ geolocation: 45.5148415, -122.6774467
 * https://twitter.com/_WhatRiot/status/1303567759532371968
 
 
-### Police tackle and arrest houseless individual | September 8th
+### Police tackle and arrest houseless individual | 2020-09-08
 
 Police tackle and arrest a houseless individual by a protest near the Justice Center. The charges are unclear. However, the man has a seizure during the arrest and is taken away on a stretcher. Police shove press away from the scene.
 
@@ -16915,7 +16915,7 @@ geolocation: 45.5148415, -122.6774467
 * https://twitter.com/hungrybowtie/status/1303614468883013632
 
 
-### Police violently shove protester | September 8th
+### Police violently shove protester | 2020-09-08
 
 Police shove an individual standing on the sidewalk near SW Madison and SW Broadway. No justification is evident.
 
@@ -16931,7 +16931,7 @@ geolocation: 45.516015, -122.6814311
 * https://twitter.com/greg_doucette/status/1303708876295024643
 
 
-### Police violently arrest protesters | September 18th
+### Police violently arrest protesters | 2020-09-18
 
 Two DHS officers emerge from an ICE building outside of which protesters are gathered. They grab two protesters and throw them to the ground. The officers then arrest the protesters.
 
@@ -16948,7 +16948,7 @@ geolocation: 45.4931804, -122.6723571
 * https://twitter.com/gravemorgan/status/1307180014073384961
 
 
-### ICE and other DHS agents tear gas protest | September 18th
+### ICE and other DHS agents tear gas protest | 2020-09-18
 
 At a protest outside an ICE facility in Portland, ICE and other DHS agents pushed protesters away from the facility and arrest several. Officers used tear gas, stun grenades and impact munitions against protesters without apparent provocation.
 
@@ -16983,7 +16983,7 @@ geolocation: 45.4931804, -122.6723571
 * https://twitter.com/cdsupriyadi/status/1307189414880137216
 
 
-### DHS and Portland police work in conjunction to tear gas and arrest protesters | September 18th
+### DHS and Portland police work in conjunction to tear gas and arrest protesters | 2020-09-18
 
 After DHS agents pushed the protesters several blocks, protesters formed a line of homemade shields and umbrellas. ICE agents continued to fire tear gas and stun grenades, while Portland police charged the protesters, making several arrests.
 
@@ -17019,7 +17019,7 @@ geolocation: 45.494128, -122.671993
 * https://twitter.com/TheOldMadDog/status/1307489348019826688
 
 
-### Police and DHS charge protesters a third time, launch tear gas before returning to ICE facility | September 18th
+### Police and DHS charge protesters a third time, launch tear gas before returning to ICE facility | 2020-09-18
 
 After a second charge wherein Portland police made numerous arrests, protesters scattered but remained in the area and slowly reformed. DHS officers fired at retreating protesters, then launched a final volley of tear gas before returning to the ICE facility. Several tear gas canisters were shot under parked cars, igniting fires.
 
@@ -17054,7 +17054,7 @@ geolocation: 45.494876, -122.671967
 * https://twitter.com/tyler_ensign/status/1307194376460759040
 
 
-### Federal agents punch arrestee | September 18th
+### Federal agents punch arrestee | 2020-09-18
 
 Three federal police officers arrest a protester, punching them repeatedly to subdue them. Other officers can be heard firing impact munitions in the background.
 
@@ -17072,7 +17072,7 @@ geolocation: 45.4939633, -122.6718028
 * https://twitter.com/1misanthrophile/status/1307214168789889024
 
 
-### Federal agents shoot pepper balls at protesters and bystand vehicle | September 18th
+### Federal agents shoot pepper balls at protesters and bystand vehicle | 2020-09-18
 
 Shortly after midnight on the morning of September 19th, two protesters stand in the street, one with an umbrella. Officers fire at them repeatedly with impact munitions (believed to be pepper balls). A car drives down the street, apparently unrelated to the protest. Officers fire on the car, which then honks and reverses out of the area.
 
@@ -17088,7 +17088,7 @@ geolocation: 45.495187, -122.671979
 * https://twitter.com/1misanthrophile/status/1307216891300118530
 
 
-### Police slash tires of truck | September 23rd
+### Police slash tires of truck | 2020-09-23
 
 Police puncture the tires of a vehicle in the road during a protest near SW Main and SW Broadway. The driver is believed to be a bystander who stopped to let protesters pass.
 
@@ -17105,7 +17105,7 @@ geolocation: 45.5166262, -122.6809954
 * https://twitter.com/TheOldMadDog/status/1309349070490595328
 
 
-### Police deploy tear gas and stun grenades against protesters | September 23rd
+### Police deploy tear gas and stun grenades against protesters | 2020-09-23
 
 Police throw tear gas and stun grenades at protesters near the Justice Center, then chase them down. This occurred directly prior to the molotov cocktail thrown by a protester and appears to have precipitated the action. The only escalation on the part of protesters prior to this were fireworks and small fires lit on plywood boards.
 
@@ -17120,7 +17120,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/AFriendlyDad/status/1308996531878584320
 
 
-### Police deploy tear gas, stun grenades and impact munitions to quell protesters | September 23rd
+### Police deploy tear gas, stun grenades and impact munitions to quell protesters | 2020-09-23
 
 Portland police and federal officers deployed tear gas, stun grenades and impact munitions against protesters. After declaring an unlawful assembly, police fired munitions and pushed protesters west from the Justice Center down SW Main Street, near SW Broadway. During this incident, a protester threw an incendiary explosive at police. Police then retaliated with significant munitions.
 
@@ -17155,7 +17155,7 @@ geolocation: 45.5166262, -122.6809954
 * https://twitter.com/_WhatRiot/status/1309283283159580672
 
 
-### Police pepper spray and arrest protester on sidewalk | September 23rd
+### Police pepper spray and arrest protester on sidewalk | 2020-09-23
 
 A protester on the sidewalk near SW Main and SW 6th is seen yelling at officers. The officers walk away. One turns and pepper sprays the protester. Police arrested that protester and another shortly after.
 
@@ -17171,7 +17171,7 @@ geolocation: 45.5171098, -122.6797405
 * https://twitter.com/R3volutionDaddy/status/1309023358319812609
 
 
-### Police shove protester to the ground | September 23rd
+### Police shove protester to the ground | 2020-09-23
 
 A protester wearing a reflective vest walks away from police with their hands up. An officer charges them from behind and shoves them to the ground.
 
@@ -17189,7 +17189,7 @@ geolocation: 45.5163685, -122.679971
 * https://twitter.com/R3volutionDaddy/status/1309025290660782081
 
 
-### Police shove medic to the ground | September 23rd
+### Police shove medic to the ground | 2020-09-23
 
 A police officer charges at a protest medic walking in the street near SW Main and SW 6th and shoves the medic to the ground.
 
@@ -17204,7 +17204,7 @@ geolocation: 45.5165339, -122.6800561
 * https://twitter.com/hungrybowtie/status/1309008727098511361
 
 
-### Police shove journalist to the ground | September 23rd
+### Police shove journalist to the ground | 2020-09-23
 
 Police push a journalist across the street as she attempts to film near SW Broadway and SW Salmon. Officers then shove her to the ground, injuring her ankle. Officers then brandished mace, threatening protesters who yelled, "Don't touch her."
 
@@ -17221,7 +17221,7 @@ geolocation: 45.5173169, -122.6806599
 * https://twitter.com/PhrenologyPhun/status/1309346780933283841
 
 
-### Police shove and strike protesters | September 23rd
+### Police shove and strike protesters | 2020-09-23
 
 Footage shows police charging at several individuals in the street near 4th and Main and knocking them to the ground; one of these individuals appears to be a journalist. Protesters on the sidewalk yell at police. An officer runs over and strikes a protester carrying a shield with his baton.
 
@@ -17237,7 +17237,7 @@ geolocation: 45.5158499, -122.6781006
 * https://twitter.com/canadarcho/status/1309010273949319168
 
 
-### Police tear down homeless encampment | September 23rd
+### Police tear down homeless encampment | 2020-09-23
 
 During a protest on September 23rd, police tore down a small cluster of tents in Chapman Square, which were occupied by houseless people unrelated to the protest. The tents did not appear to be blocking the police, and the houseless individuals were not protesting.
 
@@ -17252,7 +17252,7 @@ geolocation: 45.5158499, -122.6781006
 * https://twitter.com/1misanthrophile/status/1309234922830180352
 
 
-### Police throw tear gas canister at journalist on sidewalk | September 23rd
+### Police throw tear gas canister at journalist on sidewalk | 2020-09-23
 
 A journalist is filming police from the sidewalk near SW Main and S 3rd. He says, "Look how many of them there are." An officer then throws a tear gas canister at him, which lands at his feet and begins to release gas.
 
@@ -17267,7 +17267,7 @@ geolocation: 45.515573, -122.6769583
 * https://twitter.com/ChrisKhatami/status/1309270620668977153
 
 
-### Journalist struck in hand by impact munition | September 23rd
+### Journalist struck in hand by impact munition | 2020-09-23
 
 A journalist films a protest from within a crowd near Chapman Square. He is standing behind a tree. He steps out after hearing an explosion, and a projectile (what appears to be a rubber bullet) strikes him in the hand. He appears to be holding the camera around chest or neck height, suggesting officers are firing above the breastbone, which is against the proper use of impact munitions.
 
@@ -17282,7 +17282,7 @@ geolocation: 45.5158077, -122.6777188
 * https://twitter.com/ChrisKhatami/status/1309565049715847170
 
 
-### Officer maces protester | September 26th
+### Officer maces protester | 2020-09-26
 
 A protester holds a sign up at an officer, then retracts it and shows the officer his middle finger. The officer then pepper sprays the protester.
 
@@ -17300,7 +17300,7 @@ geolocation: 45.5149116, -122.6772692
 * https://www.reddit.com/r/PublicFreakout/comments/j0leme/portland_police_just_maced_this_protestor_for/
 
 
-### Police knock over and arrest delivery driver | September 26th
+### Police knock over and arrest delivery driver | 2020-09-26
 
 Police knock a delivery driver wearing a specialized food delivery backpack off his bike. He is then arrested and cuffed using zip ties despite no affiliation with the protests.
 
@@ -17320,7 +17320,7 @@ geolocation: 45.5149116, -122.6772692
 * https://twitter.com/MasonLakePhoto/status/1310228595374080000
 
 
-### Police pepper spray protesters, then slam protester to the ground | September 26th
+### Police pepper spray protesters, then slam protester to the ground | 2020-09-26
 
 While charging protesters near the Justic Center, police deploy pepper spray, then grab a protester around the waist and slam him to the ground in order to make an arrest.
 
@@ -17335,7 +17335,7 @@ geolocation: 45.5149116, -122.6772692
 * https://twitter.com/MrOlmos/status/1310114627024334848
 
 
-### Police shove press and legal observers | September 26th
+### Police shove press and legal observers | 2020-09-26
 
 Police shove a group of press and legal observers as they walk down the sidewalk near SW Morrison and SW 6th. At one point, a journalist filming is shoved into a tree, causing him to drop his camera.
 
@@ -17355,7 +17355,7 @@ geolocation: 45.5190881, -122.6786056
 * https://twitter.com/RedheadNomad/status/1310365046724321283
 
 
-### Police charge, shove, and harass protesters | September 26th
+### Police charge, shove, and harass protesters | 2020-09-26
 
 Police shove a protester to the ground near SW 6th and S Yamhill. A second protester helps her up. A protester off screen calls the officer who pushed her "a piece of shit." The officer then shoves that protester. Protesters and police then stand off, yelling. An officer then attempts to grab something out of a protester's hands, causing a scuffle. Police then push protesters down the sidewalk, before charging without warning. Police drag a protester to his knees, ripping out the contents of his backpack and throwing them on the ground. Another protester approaches them and is immediately shoved to the ground. Police then release both protesters.
 
@@ -17374,7 +17374,7 @@ geolocation: 45.5184262, -122.6790246
 * [Police charge](https://twitter.com/gravemorgan/status/1310116647789760513)
 
 
-### Police shove protester leaving park | September 26th
+### Police shove protester leaving park | 2020-09-26
 
 A protester in Portland is shoved to the ground by police as the officer tells her to leave the park across from the Justic Center. The officer then allegedly pulls her to her feet by the hood of her sweatshirt, although the first-person footage prevents this from being seen.
 
@@ -17390,7 +17390,7 @@ geolocation: 45.515075, -122.6772178
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-378.1.mp4)
 
 
-### Police pepper spray protester while confiscating sign | September 28th
+### Police pepper spray protester while confiscating sign | 2020-09-28
 
 Police are seen attempting to take a sign from a protester in Kenton Park. The protester refuses to give it to them. Other protesters argue with officers; one officer pepper sprays a protester. Police continue to grapple with the protester over the sign. One officer then pepper sprays the protester, causing him to release the sign. He is then arrested.
 
@@ -17405,7 +17405,7 @@ geolocation: 45.5834036, -122.6923462
 * https://twitter.com/MrOlmos/status/1310806057308971009
 
 
-### Police shove protester in street | September 28th
+### Police shove protester in street | 2020-09-28
 
 A protester is seen standing in the street near the Portland Police Association while police give a dispersal order. One officer shoves the protester to the ground. The protester is then pushed off towards the sidewalk as she refuses to move.
 
@@ -17421,7 +17421,7 @@ geolocation: 45.577154, -122.6868429
 * https://twitter.com/MrOlmos/status/1310844887734972418
 
 
-### Police tackle and pepper spray protester during arrest | September 28th
+### Police tackle and pepper spray protester during arrest | 2020-09-28
 
 During an extended altercation outside a 7-11 at North Denver and North Lombard, during which police make several targeted arrests, police tackle a protester to the ground for arrest. One officer maces the protester as they are being brought down.
 
@@ -17437,7 +17437,7 @@ geolocation: 45.577154, -122.6868429
 * https://twitter.com/MrOlmos/status/1310843613220282369
 
 
-### Police assault and arrest motorcylce driver | September 28th
+### Police assault and arrest motorcylce driver | 2020-09-28
 
 A motorist is seen driving through the intersection of North Denver and North Lombard. Police knock the motorist off their motorcycle and arrest them. The driver did not appear to be affiliated with protests.
 
@@ -17452,7 +17452,7 @@ geolocation: 45.577154, -122.6868429
 * https://twitter.com/MaranieRae/status/1310861974943617024
 
 
-### Police shove protesters and press, kick journalist's camera | September 28th
+### Police shove protesters and press, kick journalist's camera | 2020-09-28
 
 After declaring unlawful assembly, police shove press and protesters down the street near 3rd and Madison. The filmer, a journalist, is caught in the crowd and struck by a police officer with a baton. The filmer drops his camera, which is then stepped on and kicked by police.
 
@@ -17467,7 +17467,7 @@ geolocation: 45.5149116, -122.677269
 * https://twitter.com/andrewkimmel/status/1310786746615963648
 
 
-### Officer on motorcylce rides over protesters | October 2nd
+### Officer on motorcylce rides over protesters | 2020-10-02
 
 An officer on a motorcycle pulls onto the street where a protester is standing. The officer drives into the protester. The protester does not move out of the way. The officer then accelerates down the street, dragging the protester with them.
 
@@ -17487,7 +17487,7 @@ geolocation: 45.5231512, -122.6139196
 * https://twitter.com/AlexStojanovPDX/status/1312290472296022016
 
 
-### Protester shot by sheriff deputy | October 4th
+### Protester shot by sheriff deputy | 2020-10-04
 
 A protester is seen bleeding from the face. Protest medics treat them at the scene of the protest. The protester states they were shot with an impact munition by a sheriff deputy.
 
@@ -17502,7 +17502,7 @@ geolocation: 45.5151465, -122.6771864
 * https://twitter.com/PDocumentarians/status/1312997624631357445
 
 
-### Police rip protesters off sidewalk for arrest | October 4th
+### Police rip protesters off sidewalk for arrest | 2020-10-04
 
 Protesters are seen locking arms and bunching up on the sidewalk. Police target several individuals for arrest, without having declared an unlawful assembly. Protesters are ripped out of the clump and thrown to the ground before being arrested.
 
@@ -17521,7 +17521,7 @@ geolocation: 45.5150764, -122.6783649
 * https://twitter.com/PdxCoparazzi/status/1313002875245584384
 
 
-### Police violently arrest several protesters for laying on the sidewalk | October 6th
+### Police violently arrest several protesters for laying on the sidewalk | 2020-10-06
 
 Several young protesters are seen lying on the sidewalk, blocking the exit gate of the Portland ICE facility. Police warn that they will arrest protesters who continue to block the gate. Protesters do not move. Police charge out to arrest the protesters, dragging them across the pavement by their limbs.
 
@@ -17539,7 +17539,7 @@ geolocation: 45.4928304, -122.6729251
 * https://twitter.com/ryanjreilly/status/1313999250255212544
 
 
-### Federal agents deploy tear gas and impact munitions | October 6th
+### Federal agents deploy tear gas and impact munitions | 2020-10-06
 
 After declaring an unlawful assembly at a protest outside an ICE facility in Portland, federal agents emerge from the building, firing tear gas, impact munitions (believed to be pepper balls) and stun grenades. A smoke bomb was thrown by a protester onto the ICE building roof prior to officers declaring unlawful assembly, but no officers were outside at the time.
 
@@ -17574,7 +17574,7 @@ geolocation: 45.4928304, -122.6729251
 * https://twitter.com/MrOlmos/status/1313748616171847680
 
 
-### Police make violent mass arrests | October 10th
+### Police make violent mass arrests | 2020-10-10
 
 15 minutes into a protest near the Blazers Boys and Girls Club, police violently arrest protesters en masse, tackling some protesters and deploying mace against others. Police also ripped umbrellas away from protesters, destroying them. Police had not declared an unlawful assembly, although police had allegedly issued a single warning to protesters to stay off the streets. Several journalists were shoved by police and forced to disperse, in clear violation of the recently renewed TRO exempting members of the press from dispersal orders.
 
@@ -17604,7 +17604,7 @@ geolocation: 45.5618069, -122.661302
 * https://twitter.com/MrOlmos/status/1315324510573219841
 
 
-### Federal agents pepper spray protesters carrying balloons | October 17th
+### Federal agents pepper spray protesters carrying balloons | 2020-10-17
 
 Protesters marched to an ICE facility in Portland for a protest. Protesters attempted to tie balloons to the building gate. ICE agents emerged and pepper sprayed protesters to disperse them. Federal officers then fire pepper balls at protesters to push them back. Officers made several arrests.
 
@@ -17624,7 +17624,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/danielvmedia/status/1318323502701637632
 
 
-### Federal agents deploy tear gas and impact munitions against protesters | October 17th
+### Federal agents deploy tear gas and impact munitions against protesters | 2020-10-17
 
 After pushing protesters away from the ICE facility gate around 10 PM PDT, federal agents then deployed tear gas and other crowd control munitions to push protesters down the street. A tear gas canister launched by federal agents caught a plant on fire.
 
@@ -17646,7 +17646,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/MaranieRae/status/1317690340036415490
 
 
-### Federal agents shoot journalist with impact munitions | October 17th
+### Federal agents shoot journalist with impact munitions | 2020-10-17
 
 While dispersing protesters using tear gas and impact munitions (believed to be pepper balls), ICE agents shot an on-duty journalist for FOX 12 Oregon.
 
@@ -17664,7 +17664,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/MaranieRae/status/1318002478776942592
 
 
-### Federal agents deploy second round of tear gas and impact munitions against protesters | October 17th
+### Federal agents deploy second round of tear gas and impact munitions against protesters | 2020-10-17
 
 After being dispersing around 10 PM PDT, protesters returned to the ICE facility and were met by a second round of tear gas and impact munitions around 11 PM - Midnight PDT. During this exchange, federal officers tear gassed themselves, lit small fires that were extinguished by protesters, and used a modified smoke blowing machine to deploy tear gas against protesters.
 
@@ -17702,7 +17702,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/danielvmedia/status/1318323611728449536
 
 
-### Journalist shoved over by Federal agents | October 17th
+### Journalist shoved over by Federal agents | 2020-10-17
 
 A journalist filming near the DHS riot line began walking backwards as DHS agents advanced, shooting at protesters. The journalist moved to the sidewalk and was shoved over a journalist already on the ground. His phone was knocked out of his hand; he alleges that agents shot pepper balls at the phone.
 
@@ -17717,7 +17717,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/BaghdadBrian/status/1317717834059837440
 
 
-### Protester repeatedly shoved and shot at short range | October 17th
+### Protester repeatedly shoved and shot at short range | 2020-10-17
 
 A protesters carrying a flag is seen yelling at federal officers. One officer repeatedly shoves him into a fence, while others shoot pepper balls at him.
 
@@ -17732,7 +17732,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/poorfp/status/1318247511673335808
 
 
-### DHS officers make violent arrests | October 20th
+### DHS officers make violent arrests | 2020-10-20
 
 DHS officers charge protesters on the sidewalk outside the Portland ICE facility to make arrests, shoving several protesters to the ground.
 
@@ -17747,7 +17747,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/AFriendlyDad/status/1318740334541590529
 
 
-### DHS officers make targeted arrests, shoot protesters with pepper balls | October 20th
+### DHS officers make targeted arrests, shoot protesters with pepper balls | 2020-10-20
 
 After several rounds of arrests outside the Portland ICE facility, DHS agents emerge once again to make targeted arrests, firing pepper balls at protesters while they do so.
 
@@ -17764,7 +17764,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/PDocumentarians/status/1318805643852083212
 
 
-### DHS officers use tear gas, stun grenades, and impact munitions against protesters | October 28th
+### DHS officers use tear gas, stun grenades, and impact munitions against protesters | 2020-10-28
 
 At a protest outside the ICE facility in Portland, DHS agents began firing tear gas, stun grenades, and impact munitions at protesters and press without apparent justification. Federal agents push protesters to Lowell Street before returning to the ICE facility.
 
@@ -17799,7 +17799,7 @@ geolocation: 45.4939191, -122.6721446
 * https://twitter.com/R3volutionDaddy/status/1322662093577887744
 
 
-### DHS officers deploy tear gas and impact munitions for a second time the same night | October 28th
+### DHS officers deploy tear gas and impact munitions for a second time the same night | 2020-10-28
 
 After retreating back into the ICE facility once, DHS agents emerge and push protesters into the street, where agents fire a second round of tear gas and impact munitions.
 
@@ -17818,7 +17818,7 @@ geolocation: 45.493797, -122.6728732
 * https://twitter.com/MrOlmos/status/1321726307428757504
 
 
-### Protester tackled, arrested, and hospitalized by DHS agents | October 28th
+### Protester tackled, arrested, and hospitalized by DHS agents | 2020-10-28
 
 DHS agents charge out of the ICE facility and tackle a protester. She was taken away in an ambulance and later posted that her ribs had been injured but she left the hospital, feeling well enough to go home.
 
@@ -17836,7 +17836,7 @@ geolocation: 45.493797, -122.6728732
 * https://twitter.com/KohzKah/status/1321758357317824512
 
 
-### Officers charged protesters & press | November 4th
+### Officers charged protesters & press | 2020-11-04
 
 Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) charged protesters at Harvey Milk and 10th Streets, knocking several protesters to the ground, as well as a 75 year old photojournalist.
 
@@ -17853,7 +17853,7 @@ geolocation: 45.522035, -122.6810836
 * https://twitter.com/hungrybowtie/status/1324190515252797440
 
 
-### Officers shove, strike, and arrest protesters | November 4th
+### Officers shove, strike, and arrest protesters | 2020-11-04
 
 Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) pushed protesters back (on the 600 block of SW Alder St). One officer strikes a protester repeatedly with their baton. That protester was later arrested.
 
@@ -17870,7 +17870,7 @@ geolocation: 45.5198559, -122.6787256
 * https://mobile.twitter.com/hungrybowtie/status/1324206454446854145
 
 
-### Officers make violent arrests | November 4th
+### Officers make violent arrests | 2020-11-04
 
 Members of the Unified Command (Multnomah County Sheriff's Office, Portland Police Bureau and Oregon State Police) made several violent arrests at SW Park and Washington, with one officer knocking a protester to the ground as they attempted to stand.
 
@@ -17889,7 +17889,7 @@ geolocation: 45.521009, -122.6800833
 * https://twitter.com/danielvmedia/status/1324857891161923585
 
 
-### Protester tackled and arrested | November 4th
+### Protester tackled and arrested | 2020-11-04
 
 Members of the Oregon State Police charged an individual wearing a green helmet, tackling and pinning them to the ground. It was believed that this individual is a member of the NLG, but the NLG has said the individual is not affiliated with them.
 
@@ -17905,7 +17905,7 @@ geolocation: 45.5216957, -122.6801068
 * https://mobile.twitter.com/GriffinMalone6/status/1324205516784951296
 
 
-### Member of Vice film crew harassed and assaulted | November 4th
+### Member of Vice film crew harassed and assaulted | 2020-11-04
 
 A VICE film crew was harassed by members of the Unified Command and National Guard in downtown Portland (near Park and Taylor) on November 4th. A member of the Unified Command repeatedly jabbed the cameraman with a baton, then dragged him to the ground.
 
@@ -17921,7 +17921,7 @@ geolocation: 45.5183617, -122.6815986
 * https://twitter.com/misstessowen/status/1324249958980046853
 
 
-### DHS agents arrest & tear gas protesters over thrown water bottle | November 8th
+### DHS agents arrest & tear gas protesters over thrown water bottle | 2020-11-08
 
 Shortly after midnight on November 8th, DHS agents charged a group of 20 protesters and 5 press outside the ICE facility in Portland. DHS agents made a targeted arrest while shooting pepper balls at the crowd. One officer then tossed a tear gas canister at a journalist. The arrest was allegedly due to a protester flipping a water bottle onto the ICE driveway.
 
@@ -17938,7 +17938,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/PDocumentarians/status/1325378950000832512
 
 
-### Federal Protective Services agents make violent arrest | November 24th
+### Federal Protective Services agents make violent arrest | 2020-11-24
 
 FPS agents make a violent arrest at a small protest outside the Portland ICE facility, slamming a protester into a light pole.
 
@@ -17955,7 +17955,7 @@ geolocation: 45.4931857, -122.6722262
 * https://twitter.com/gravemorgan/status/1331469631396057089
 
 
-### Federal Protective Services agents pepper spray protester | November 24th
+### Federal Protective Services agents pepper spray protester | 2020-11-24
 
 Federal Protective Services agents pepper spray a protester walking stereo equipment away from them at Moody and Bancroft.
 
@@ -17972,7 +17972,7 @@ geolocation: 45.4931755, -122.6718966
 
 ## Salem
 
-### Before firing tear gas, Salem PD warns armed white men | June 4th
+### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
 
 A police officer is seen warning white armed men that police are planning to fire tear gas, and that they should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
 
@@ -17991,7 +17991,7 @@ geolocation: 44.9393713, -123.0418957
 
 ## Springfield
 
-### Police charge protesters, make violent arrest | July 29th
+### Police charge protesters, make violent arrest | 2020-07-29
 
 Springfield police charge protesters in the street near 68th and Glacier, striking protesters with batons and shoving them with both their hands and metal barricades. One protester is dragged by the foot out of the crowd for arrest. One officer attempts to handcuff the protester while another officer continues dragging the protester. The officers then roll the protester on his stomach; one officer strikes him in the neck as he does so.
 
@@ -18019,7 +18019,7 @@ geolocation: 44.040519, -122.9088528
 
 ## Erie
 
-### Police officer maces woman and kicks her in the head | May 31st
+### Police officer maces woman and kicks her in the head | 2020-05-31
 
 A woman was seen sitting on the ground at North Park Row and State Street. Officers approached and pepper-sprayed her, then kicked her in the head.
 
@@ -18039,7 +18039,7 @@ geolocation: 42.1299041, -80.0854743
 
 ## Lancaster
 
-### Police tear gas protesters | September 13th
+### Police tear gas protesters | 2020-09-13
 
 Following a police shooting in Lancaster, protesters gathered at West Chestnut and North Prince Streets, forming makeshift barricades in the road. Police responded with chemical agents - believed by protesters to be tear gas, though police claim it was "OC spray," the same compound as pepper spray. However, a spent canister recovered by a journalist shows police used "CS smoke," or tear gas.
 
@@ -18063,7 +18063,7 @@ geolocation: 40.0409191, -76.3105339
 
 ## Harrisburg
 
-### Police pepperspray protesters helping someone stand up | May 30th
+### Police pepperspray protesters helping someone stand up | 2020-05-30
 
 Protesters try to help someone stand up at the intersection of Front and Forster. Several police officers move in; one officer canvases the crowd with pepper spray.
 
@@ -18081,7 +18081,7 @@ geolocation: 40.2647834, -76.8903048
 
 ## Philadelphia
 
-### Police beat down man | May 30th
+### Police beat down man | 2020-05-30
 
 The journalist was trying to get a closer look at the police, while they were beating an individual.
 
@@ -18096,7 +18096,7 @@ geolocation: 39.951190, -75.165580
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Protester fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protester, then arrest him, the driver and a passerby filming | (Believed to be) May 30th
+### Protester fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protester, then arrest him, the driver and a passerby filming | (Believed to be) 2020-05-30
 
 Two protesters run from police across the intersection of Pike and Broad Streets. One jumps into a car's open passenger window. The driver pulls away before the other protester can enter. The driver then pulls over to the side of the road shortly after.
 
@@ -18116,7 +18116,7 @@ geolocation: 40.0123079, -75.150498
 * [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)](https://twitter.com/greg_doucette/status/1269303637060325377)
 
 
-### Police repeatedly shove protester | May 30th
+### Police repeatedly shove protester | 2020-05-30
 
 A protester is seen in a scuffle with police. It is unknown what caused this interaction. Police repeatedly push and shove the protester with no attempt to detain the individual.
 
@@ -18133,7 +18133,7 @@ geolocation: 39.9495468, -75.1654699
 * https://twitter.com/MeKatharine/status/1266870362433822720
 
 
-### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
+### Philadelphia cops beat man and forcefully put his fingers on their baton. | 2020-05-31
 
 A man is being held on the ground by a police officer, who forces the man's hand onto a baton. Another officer joins in to force the man flat on the ground, kneeling on either the man's head or neck. The second officer then begins to strike the man on the head. A third officer joins in and grabs the man's arms. The police yell at witnesses to "back off", while someone yells "he can't breathe".
 
@@ -18151,7 +18151,7 @@ geolocation: 39.9829056, -75.1788406
 * https://twitter.com/mkultranews/status/1267305587206807553
 
 
-### Police fire tear gas down empty streets | May 31st
+### Police fire tear gas down empty streets | 2020-05-31
 
 An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification. The incident is believed to have occurred at South 51st and Locust Streets.
 
@@ -18167,7 +18167,7 @@ geolocation: 39.9555724, -75.2259593
 * https://twitter.com/greg_doucette/status/1267859272639164416
 
 
-### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
+### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | 2020-06-01
 
 An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
 
@@ -18190,7 +18190,7 @@ geolocation: 39.9595383, -75.1746173
 * https://youtu.be/srC5l--cn14
 
 
-### Police officer pepper-sprays three people on their knees | (Believed to be) June 1st
+### Police officer pepper-sprays three people on their knees | (Believed to be) 2020-06-01
 
 Three protesters kneeling on the ground with their hands on their heads/covering their faces are pepper-sprayed directly in the face by a cop.
 
@@ -18205,7 +18205,7 @@ geolocation: 39.9593861, -75.1734591
 * https://twitter.com/d0wnrrrrr/status/1267691766188310528
 
 
-### Police shove protesters and strike man across the face with a baton | June 1st
+### Police shove protesters and strike man across the face with a baton | 2020-06-01
 
 Police shove a group of protesters near the Benjamin Franklin Parkway. A particularly aggressive police officer in a white shirt runs and shoves someone, then grabs another man. He is then approached by a young man with long hair whom he strikes with his baton, at full strength, in the head before jumping on him and cuffing him. He has assistance from another officer who presses the man's face to the pavement using his knee on his neck. Twitter accounts misreport the individual as female; later accounts in media report the individual is a male Temple University engineering student.
 
@@ -18227,7 +18227,7 @@ geolocation: 39.9616615, -75.1761279
 * https://www.cnn.com/2020/06/06/us/philly-student-protester/index.html
 
 
-### Officer attacks woman for no apparent reason | June 1st
+### Officer attacks woman for no apparent reason | 2020-06-01
 
 An officer in a white shirt is seen grabbing a woman at Market and 10th, then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer.
 
@@ -18242,7 +18242,7 @@ geolocation: 39.9515585, -75.1567218
 * https://twitter.com/tippedminimum/status/1268001268406136832
 
 
-### Police selectively enforce curfew and dispersal orders | June 1st
+### Police selectively enforce curfew and dispersal orders | 2020-06-01
 
 During protests, groups of men armed with guns, bats, and other blunt instruments roved around the Fishtown neighborhood of Philadelphia. They continued patrolling after curfew. Footage shows Philadelphia police warning militia to leave so they could enforce arrests of BLM protesters. In addition, images show police chatting and taking photos with the groups. One video taken by a gunman states that the police want to take pictures with them.
 
@@ -18266,7 +18266,7 @@ geolocation: 39.9721817, -75.1374295
 * https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
-### Police pepper spray protesters on their knees | June 1st
+### Police pepper spray protesters on their knees | 2020-06-01
 
 Protesters are seen in the middle of the road on their knees with their hands up. Officers are seen walking on the median and indiscriminately pepper spraying the protesters below them.
 
@@ -18281,7 +18281,7 @@ geolocation: 39.9593861, -75.1734591
 * https://twitter.com/d0wnrrrrr/status/1267848782689054723
 
 
-### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
+### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) 2020-06-03
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
@@ -18298,7 +18298,7 @@ geolocation: 40.0434604, -75.1889323
 * https://twitter.com/greg_doucette/status/1268200800649707526
 
 
-### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | June 13th
+### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | 2020-06-13
 
 A reporter from Unicorn Riot showed up at a pro-Columbus rally at a statue of Christopher Columbus in Philadelphia. He is harassed, threatened and assaulted by members of the rally. In addition, an article published by Unicorn Riot states that members of the rally slashed the journalist's tires.  After several minutes, police intervene to push protesters back, but make no arrests. They appear to say nothing more to members of the rally than, "Leave him alone."
 
@@ -18321,7 +18321,7 @@ geolocation: 40.7699243, -73.9749736
 * https://unicornriot.ninja/2020/philadelphia-police-threaten-unicorn-riot-reporter-after-vigilante-assault/
 
 
-### Counter-Terrorism Unit detains reporter | June 23rd
+### Counter-Terrorism Unit detains reporter | 2020-06-23
 
 A reporter recounts on Twitter that she was arrested despite telling an officer she was a reporter. She states she was zip-tied, mocked and then dragged backwards down two flights of stairs to a detention area. She states that later an officer came and asked, "Are you Samantha?" When she confirmed her name, she was released.
 
@@ -18340,7 +18340,7 @@ geolocation: 39.953937, -75.1666453
 * https://twitter.com/samanthamelamed/status/1275524750316535810
 
 
-### Police officer shoves protester to the ground | October 27th
+### Police officer shoves protester to the ground | 2020-10-27
 
 Footage from a protest in West Philadelphia (intersection of Market and 52nd Streets) shows a police officer running up to a protester on the sidewalk and using his baton to shove the protester to the ground.
 
@@ -18355,7 +18355,7 @@ geolocation: 39.9599534, -75.2249261
 * https://twitter.com/Clyatt/status/1321281954579279873
 
 
-### Officer slams protester to the ground during arrest | October 27th
+### Officer slams protester to the ground during arrest | 2020-10-27
 
 At a protest in West Philadelphia, several police officers arrest a protester for unknown cause. One officer grabs the protester around the waist, lifts them up, and slams them to the ground.
 
@@ -18372,7 +18372,7 @@ geolocation: 39.953632, -75.2284997
 * https://twitter.com/RobertKlemko/status/1321279977300647937
 
 
-### Police push, shove, and strike protesters with batons | October 27th
+### Police push, shove, and strike protesters with batons | 2020-10-27
 
 Police are seen shoving a protester and striking him with batons before knocking him to the ground. During the exchange, an object is thrown by protesters, striking one officer; however, this appears to occur in an attempt to free the protester from police violence. It appears that the protester is then arrested as additional officers form a barrier.
 
@@ -18390,7 +18390,7 @@ geolocation: 39.953632, -75.2284997
 * https://twitter.com/JPeters2100/status/1321263829951590406
 
 
-### Police break car windows, pull passengers from vehicle, and beat them | October 27th
+### Police break car windows, pull passengers from vehicle, and beat them | 2020-10-27
 
 Philadelphia police approach a car in the street on the 5200 block of Chestnut Street, beating it with their batons. Officers then smash out the driver side window before opening the door, beating the driver and front passenger with batons. Police also pulled a child out of the backseat of the car. Later reporting has stated that the driver and her 16 year old out of the car. They were hospitalized and handcuffed to their hospital beds while being treated. The following morning they were released without charges, though the mother's hospital bracelet read: "assault on police." The driver was able to contact her mother, the grandmother of the child pulled from the backseat. The grandmother went to the scene of the incident, then was directed four miles away, where she found the boy in a squad car. She said the boy had a lump on his head and his carseat still contained glass from the broken windows. An attorney representing the family has stated they have been told neither the current location of the family's SUV nor any process to retrieve the vehicle. The lawyer also states that the family is showing signs of trauma, including the young boy, who is hearing impaired and still learning to speak.
 
@@ -18413,7 +18413,7 @@ geolocation: 39.9585788, -75.2261555
 * https://www.inquirer.com/news/philadelphia/philadelphia-police-suv-video-protests-child-walter-wallace-jr-20201030.html
 
 
-### Officer pins woman to the ground and punches her | October 27th
+### Officer pins woman to the ground and punches her | 2020-10-27
 
 At a protest near 52nd and Spruce in West Philadelphia, an officer is seen pinning a woman to the ground. The officer then punches the woman repeatedly to subdue her. She does not appear to be resisting in any way.
 
@@ -18431,7 +18431,7 @@ geolocation: 39.954587, -75.2281502
 * https://www.instagram.com/p/CG1U-azH4zV/
 
 
-### Police officers strike protesters with batons | October 27th
+### Police officers strike protesters with batons | 2020-10-27
 
 At a protest near 52nd and Spruce in West Philadelphia, police are seen slashing at protesters with their batons. It should be noted that most departmental rules of force specify that batons should only be used to shove, except in life-threatening situations.
 
@@ -18451,7 +18451,7 @@ geolocation: 39.954587, -75.2281502
 
 ## Pittsburgh
 
-### Police tear-gas, shoot and arrest protester confused by contradicting police instructions | May 30th
+### Police tear-gas, shoot and arrest protester confused by contradicting police instructions | 2020-05-30
 
 John Connors, a protester in Pittsburgh on Saturday, May 30th, was recording the protest on his phone near Liberty Avenue and 7th Street. Police told him to leave the area or risk arrest. He is heard asking which direction to go. The direction given was already blocked off, so he asked for more clarity. He was given additional instructions and made his way towards a 7/11.
 
@@ -18469,7 +18469,7 @@ geolocation: 40.4424746, -79.9999118
 * https://twitter.com/greg_doucette/status/1270149233673469957
 
 
-### Officer pepper-sprays a woman who is on her knees with her hands up | June 1st
+### Officer pepper-sprays a woman who is on her knees with her hands up | 2020-06-01
 
 A woman in East Liberty (5700 Centre Avenue) gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board.
 
@@ -18492,7 +18492,7 @@ geolocation: 40.457474, -79.9333042
 * [Post Gazette article about alleged police intimidation](https://www.post-gazette.com/news/crime-courts/2020/06/03/East-Liberty-protest-Abigail-Rubio-says-Pittsburgh-police-intimidated-video/stories/202006030158)
 
 
-### Police fire tear gas and rubber bullets on peaceful assembly | June 1st
+### Police fire tear gas and rubber bullets on peaceful assembly | 2020-06-01
 
 Police declare an unlawful assembly at Centre and Negley Avenues without clear justification. They then escalate the situation by firing tear gas and rubber bullets on the crowd.
 
@@ -18510,7 +18510,7 @@ geolocation: 40.4572499, -79.934080
 * [Extended Facebook Live video; police begin firing at 9:00; phone is dropped at 10:53 and not recovered until the end](https://www.facebook.com/shawn.green.311/videos/2935858916468885/)
 
 
-### Police arrest protester then tear gas crowd | June 1st
+### Police arrest protester then tear gas crowd | 2020-06-01
 
 Footage shows police officers around several protest-related arrestees at North Beatty and Broad Streets. A woman argues with them at a distance. Police then approach her and arrest her. They force her to a seated position on the ground. They then lift her and place her face down on the ground.
 
@@ -18530,7 +18530,7 @@ geolocation: 40.4631367, -79.9261927
 * https://www.facebook.com/chilcottj/videos/10223908609851965/
 
 
-### Protester shoved into median | July 25th
+### Protester shoved into median | 2020-07-25
 
 Footage shows a protester filming police on the south side of the Birmingham Bridge. One officer shoves the protester, then another shoves the protester with his baton. The protester falls into the concrete median then to the ground.
 
@@ -18545,7 +18545,7 @@ geolocation: 40.4292654, -79.9735501
 * https://twitter.com/jackohrman/status/1287258983149993984
 
 
-### Protest marshal abducted by officers in unmarked van | August 15th
+### Protest marshal abducted by officers in unmarked van | 2020-08-15
 
 A protest marshal was singled out and arrested near Forbes and Oakland. Plainclothes officers emerged from an unmarked van, grabbed him off the sidewalk, and drove away. He was charged with "Obstructing Highways and Other Public Passages."
 
@@ -18562,7 +18562,7 @@ geolocation: 40.4415967, -79.9570021
 * https://twitter.com/samm_bones/status/1294769302348890113
 
 
-### Police pepper spray protesters as they push protest into park | August 19th
+### Police pepper spray protesters as they push protest into park | 2020-08-19
 
 A protest in Pittsburgh faced off with police when protesters stood at the edge of a sidewalk, while police stood in the road, believed to be on Penn Avenue near Bakery Square. Police then pushed protesters from the sidewalk into the park. Protesters passively resisted the shoving and were pepper sprayed.
 
@@ -18585,7 +18585,7 @@ geolocation: 40.4559469, -79.9152413
 
 ## Providence
 
-### Police pepper spray protesters attempting to block highway | September 23rd
+### Police pepper spray protesters attempting to block highway | 2020-09-23
 
 Protesters and police argue as protesters attempt to block a highway. Police tell them it is unsafe. Protesters then move to the edge of the highway. One officer grabs a protester by the arm, pushing him away, as other protesters begin climbing a fence to leave the area. After a scuffle, police pepper spray protesters. Protesters then continue to climb the fence and leave the area.
 
@@ -18601,7 +18601,7 @@ geolocation: 41.8290546, -71.4177476
 * https://twitter.com/UpriseRI/status/1308982906258423810
 
 
-### Police tackle protester standing in street | October 20th
+### Police tackle protester standing in street | 2020-10-20
 
 Police and protesters face off in the street. Police charge without warning, tackling a protester facing the other direction. The protester is then arrested.
 
@@ -18616,7 +18616,7 @@ geolocation: 41.8182264, -71.4201952
 * https://twitter.com/AFriendlyDad/status/1318723628049989632
 
 
-### Police shove protester to the ground | October 20th
+### Police shove protester to the ground | 2020-10-20
 
 A woman is seen standing in the street as police advance. One officer is walking several feet in front of the riot line. This officer shoves the woman to the ground.
 
@@ -18631,7 +18631,7 @@ geolocation: 41.8182264, -71.4201952
 * https://twitter.com/AFriendlyDad/status/1318740334541590529
 
 
-### Police beat protester with batons | October 20th
+### Police beat protester with batons | 2020-10-20
 
 Brief footage taken from inside a car shows police chasing protesters. One protester is surrounded by officers and beaten with batons.
 
@@ -18652,7 +18652,7 @@ geolocation: 41.8182264, -71.4201952
 
 ## Charleston
 
-### Police Individually Target Peaceful Protester and Arrest Him | May 31st
+### Police Individually Target Peaceful Protester and Arrest Him | 2020-05-31
 
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
@@ -18670,7 +18670,7 @@ geolocation: 32.7869083, -79.9357083
 * https://twitter.com/greg_doucette/status/1267423284179742721
 
 
-### APC collides with bystander car | May 31st
+### APC collides with bystander car | 2020-05-31
 
 News footage shows a civilian car after a collision with a police APC at Vanderhorst and Coming Streets. The driver states that she was hit while driving through a green light by an APC without sirens.
 
@@ -18685,7 +18685,7 @@ geolocation: 32.7864776, -79.9403569
 * https://twitter.com/greg_doucette/status/1267228530368229376
 
 
-### Police violently arrest protester | June 22nd
+### Police violently arrest protester | 2020-06-22
 
 A protest and counter-protest occurred on June 22nd between BLM supporters and statue supporters at the John C. Calhoun Monument in Marion Square. Groups shouted at one another but stayed separate. After the protest, BLM supporters marched down the street followed by police.
 
@@ -18711,7 +18711,7 @@ geolocation: 32.7867424, -79.9378098
 
 ## Keystone
 
-### Native protesters shot at and arrested on native land | July 3rd
+### Native protesters shot at and arrested on native land | 2020-07-03
 
 Native protesters in Keystone, South Dakota blocked a highway in anticipation of a Trump rally. Though blocking a highway is indeed illegal, the highway is also on unceded Indigenous land.
 
@@ -18739,7 +18739,7 @@ geolocation: 43.8873015, -103.4348387
 
 ## Chattanooga
 
-### Sheriffs tear gas crowd after accidental vandalism | May 31st
+### Sheriffs tear gas crowd after accidental vandalism | 2020-05-31
 
 Footage from the first link shows two protesters attempting to remove a sign strung between two lampposts on the County Courthouse mezzanine. The lampposts fall over during this process. Then at 00:40, officers rush out of the building, seizing protesters.
 
@@ -18768,7 +18768,7 @@ geolocation: 35.0494539, -85.3064104
 
 ## Memphis
 
-### Police swarm a woman without provocation | May 31st
+### Police swarm a woman without provocation | 2020-05-31
 
 A group of police officers targeted and swarmed a woman at Beale and Main Streets and pushed her to the ground, using excessive force.
 
@@ -18785,7 +18785,7 @@ geolocation: 35.1403161, -90.0547568
 
 ## Murfreesboro
 
-### Police tear gas peaceful protesters | May 31st
+### Police tear gas peaceful protesters | 2020-05-31
 
 Police fire tear gas at a small group of peaceful protesters by the entrance to MTSU in Murfree. Police claim protesters were blocking traffic, which additional footage supports. However, the video in question shows continual deployment of tear gas after protesters moved off the road.
 
@@ -18804,7 +18804,7 @@ geolocation: 35.8482336, -86.3535392
 
 ## Nashville
 
-### Police confiscate protester supplies | June 23rd
+### Police confiscate protester supplies | 2020-06-23
 
 Police shut down a protester station on Capitol Hill in Nashville, confiscating food, water, medical supplies, personal belongings and signs. Caption states that police shoved protesters trying to keep hold of their belongings.
 
@@ -18820,7 +18820,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1275539159030140929
 
 
-### Police confiscate protester supplies | June 25th
+### Police confiscate protester supplies | 2020-06-25
 
 In an early morning raid, Nashville police confiscated water, food and other supplies shared among protesters. In addition, officers harassed resting protesters, threatening to take their belongings and arrest them.
 
@@ -18836,7 +18836,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1276139027612291073
 
 
-### Police target activist leader | June 26th
+### Police target activist leader | 2020-06-26
 
 Justin Jones, a prominent activist in Nashville, was arrested on June 26th for taking a step too far on public property. Officers states at that point he was considered trespassing.
 
@@ -18858,7 +18858,7 @@ geolocation: 36.1650698, -86.7836512
 * https://imgur.com/a/ULAxpXi
 
 
-### Police arrest protesters on questionable charges, harm protesters with zip ties | June 29th
+### Police arrest protesters on questionable charges, harm protesters with zip ties | 2020-06-29
 
 Justin Jones, a prominent activist in Nashville, states that protesters were arrested around 6:30 AM on June 29th and charged with "camping on state property." Protesters had no intention of camping.
 
@@ -18876,7 +18876,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1277694340534546433
 
 
-### Police drag protesters down Capitol steps | July 4th
+### Police drag protesters down Capitol steps | 2020-07-04
 
 In footage provided by a prominent Nashville activist, state troopers drag protesters down the steps of the Capitol building. Many troopers can be seen kneeling on protesters, both on the flat pavement and on the steps.
 
@@ -18891,7 +18891,7 @@ geolocation: 36.1650698, -86.7836512
 * https://twitter.com/brotherjones_/status/1280211300082122758
 
 
-### Protesters shoved down stairs and arrested | July 31st
+### Protesters shoved down stairs and arrested | 2020-07-31
 
 After being ordered to leave Capitol Hill Plaza, protesters leaving the plaza were shoved down stairs and subsequently arrested.
 
@@ -18914,7 +18914,7 @@ geolocation: 36.1650698, -86.7836512
 
 ## Austin
 
-### Police assault protesters | May 30th
+### Police assault protesters | 2020-05-30
 
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters. Another protester shouts at an officer from several feet away; the officer immediately discharges pepper spray.
 
@@ -18930,7 +18930,7 @@ geolocation: 30.267860, -97.733482
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hhhbeh/5302020_austin/
 
 
-### Police shoot non-violent protester in the head | May 30th
+### Police shoot non-violent protester in the head | 2020-05-30
 
 Here, a non-violent protester can be seen standing perfectly still when he is hit directly in the head by a bean bag round and knocked to the floor.
 
@@ -18951,7 +18951,7 @@ geolocation: 30.268286, -97.732961
 * https://cbsaustin.com/news/local/austin-teen-hospitalized-with-head-injury-after-police-shoot-him-with-bean-bags-at-protest
 
 
-### Police use tear gas & rubber bullets on protesters | May 30th
+### Police use tear gas & rubber bullets on protesters | 2020-05-30
 
 Protesters and Austin police squared off at the protest on I-35. Officers were seen pointing shotguns at the crowd and shooting a protester point-blank multiple times with what appeared to be either rubber bullets or bean bag rounds. Tear gas was later deployed on the crowd. A journalist with Fox 7 Austin was caught in the tear gas.
 
@@ -18970,7 +18970,7 @@ geolocation: 30.267861, -97.733568
 * https://www.facebook.com/FOX7austin/videos/fox-7-austin-reporter-caught-by-tear-gas-during-live-report/249854543103774/
 
 
-### Police open fire on crowd with rubber bullets | May 30th
+### Police open fire on crowd with rubber bullets | 2020-05-30
 
 Police were seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters downtown. Current source videos are from a distance of about 100-200 feet and it is unclear what exactly caused the officers to begin firing.
 
@@ -18985,7 +18985,7 @@ geolocation: 30.267639, -97.734549
 * https://twitter.com/ironfront7/status/1267133400156196870
 
 
-### Pregnant woman shot with bean bags by police | May 30th
+### Pregnant woman shot with bean bags by police | 2020-05-30
 
 A pregnant woman in Austin states she was sitting during a May 30th protest. As police began to pepper-spray the crowd, she stood to run. Police then shot her multiple times in the abdomen, back and head. The Austin Police Chief has stated the incident is under review.
 
@@ -19003,7 +19003,7 @@ geolocation: 30.267614, -97.734401
 * https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
 
 
-### Police use horses as weapons | May 30th
+### Police use horses as weapons | 2020-05-30
 
 In an attempt to clear protesters blocking a road, mounted police began walking their horses into protesters. A handful of protesters refused to move. Rather than arresting the protesters and walking them away, police continued to push them with their horses. At one point, an officer pepper-sprays a protester. After this protesters begin throwing things at police. The pepper-sprayed protester swings his sign at the officer. The officer then grabs the protester by the backpack and drags him down the road until other protesters intervene to free him. Another officer tramples one of these protesters. Protesters continue to shout at police for the duration of the footage.
 
@@ -19021,7 +19021,7 @@ geolocation: 30.264420, -97.735186
 * https://www.fox7austin.com/news/man-arrested-for-striking-austin-police-horse-with-sign
 
 
-### Police critically injure 20 year old black protester during protests against police violence | May 31st
+### Police critically injure 20 year old black protester during protests against police violence | 2020-05-31
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with bean bag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
 
@@ -19043,7 +19043,7 @@ geolocation: 30.267560, -97.734260
 * https://www.cnn.com/2020/06/07/us/austin-texas-police-bean-bag-20-year-old-injured/index.html
 
 
-### Police open fire on crowd after a protester throws water on them | May 31st
+### Police open fire on crowd after a protester throws water on them | 2020-05-31
 
 Police are seen firing multiple shots of what were allegedly rubber bullets into a crowd of protesters after one of the protesters tossed water on them
 
@@ -19060,7 +19060,7 @@ geolocation: 30.267677, -97.734539
 * [Mirror 2](https://peertube.live/videos/watch/320ea302-9806-44c0-843e-49d8486c423f)
 
 
-### Police spray a man in the face while he stands still ~3 feet away from them. | May 31st
+### Police spray a man in the face while he stands still ~3 feet away from them. | 2020-05-31
 
 A man wearing glasses and with his hands in his pockets stands still approximately 3-4 feet away from police officers with bicycles. An officer is spraying him directly in the face.
 
@@ -19076,7 +19076,7 @@ geolocation: 30.267612, -97.734508
 * https://twitter.com/Grits4Breakfast/status/1267128210455588865
 
 
-### Woman shot in face with bean bag | May 31st
+### Woman shot in face with bean bag | 2020-05-31
 
 A protester was shot in the face with a bean bag round on May 31st. She was hospitalized and underwent surgery. She states that she has suffered nerve damage in her face as a result.
 
@@ -19095,7 +19095,7 @@ geolocation: 30.267938, -97.734176
 * https://twitter.com/greg_doucette/status/1272386250058727425
 
 
-### Police fire upon protesters seeking medical help | May 31st
+### Police fire upon protesters seeking medical help | 2020-05-31
 
 Volunteer medics were advised to bring a critically wounded protester to the police line for medical attention and were subsequently fired upon.
 
@@ -19112,7 +19112,7 @@ geolocation: 30.267553, -97.734424
 * http://www.thebatt.com/opinion/opinion-his-name-is-justin-howell/article_93a79c44-a5b6-11ea-aa54-ebc0da33cc35.html?fbclid=IwAR11FqXr9dRCKo-ohfeBoO9FdYFRG2uon0nqAkxKO5gZuL_-4EzgukAGcBs
 
 
-### Police violently arrest drummer | June 7th
+### Police violently arrest drummer | 2020-06-07
 
 Footage shows police kicking aside musician's gear. He falls off his stool and is held to the ground. One officer kneels on him. He does not appear to resist at any point. Several protesters can be heard shouting, "Get your knee off his head," but the footage is obscured by the officers.
 
@@ -19127,7 +19127,7 @@ geolocation: 30.267653, -97.734414
 * https://twitter.com/NacioMartinez/status/1269787142269607936
 
 
-### Police kneel on man's neck to make arrest | June 12th
+### Police kneel on man's neck to make arrest | 2020-06-12
 
 Footage from a news report depicts multiple officers arresting a protester outside Police Headquarters. The protester made lewd gestures at police. Police then chased him and arrested him for obstructing a highway. In the arrest, footage clearly shows an officer kneeling on the protester's neck.
 
@@ -19147,7 +19147,7 @@ geolocation: 30.267675, -97.734090
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hc58jg/austin_police_are_investigating_a_use_of_force/
 
 
-### Police punch arrestee on ground | June 27th
+### Police punch arrestee on ground | 2020-06-27
 
 Police detained a protester for allegedly striking a barricade with a skateboard. He is shown behind a police bike line with four officers holding him on the ground. One officer punches him repeatedly.
 
@@ -19162,7 +19162,7 @@ geolocation: 30.267765, -97.734061
 * https://twitter.com/AltUniverseWash/status/1277104706222002177
 
 
-### Livestreamer arrested and punched | July 17th
+### Livestreamer arrested and punched | 2020-07-17
 
 Footage shows police approaching a crowd of protesters, singling out livestreamer Hiram Gilberto and arresting him. When the crowd objects, other officers shove the protesters.
 
@@ -19180,7 +19180,7 @@ geolocation: 30.268062, -97.735116
 * https://twitter.com/greg_doucette/status/1284497853843415047
 
 
-### Police shove and pepper spray protesters | August 1st
+### Police shove and pepper spray protesters | 2020-08-01
 
 Footage shows police surrounding protesters on the sidewalk. Police use bikes to hem protesters in and shove them. Police also discharge pepper spray at protesters without apparent justification. Police also arrest several protesters on the sidewalk. Some protesters attempt to grab onto the arrestees and are thrown aside by officers.
 
@@ -19198,7 +19198,7 @@ geolocation: 30.266147, -97.743669
 * https://twitter.com/CandiceBernd/status/1289718586789986304
 
 
-### Police push protesters with horses | August 1st
+### Police push protesters with horses | 2020-08-01
 
 Footage shows a small group of mounted officers riding into a group of protesters gathered in the street. The officers use their horses to shove protesters aside. No protesters were trampled underhoof, but the justification for escalation is unclear.
 
@@ -19213,7 +19213,7 @@ geolocation: 30.266287, -97.743463
 * https://twitter.com/CandiceBernd/status/1289734363933028352
 
 
-### Officer knocks phone out of filmer's hand | August 29th
+### Officer knocks phone out of filmer's hand | 2020-08-29
 
 A woman films an officer arresting a protester. A second officer walks by, knocking the phone out of the filmer's hand.
 
@@ -19229,7 +19229,7 @@ geolocation: 30.264007, -97.747444
 * https://www.kvue.com/article/news/local/austin-jacob-blake-protests-arrests/269-9be9ef7d-8b21-48f2-9721-d8389d823d67
 
 
-### Police chase and violently arrest protesters | September 23rd
+### Police chase and violently arrest protesters | 2020-09-23
 
 Footage shows police chasing several protesters and throwing them to the ground for arrest. One protester stands up and is dragged from the sidewalk to the street by an officer. A news outlet has stated that all arrests at this protest were for class B and C misdemeanors, like obstructing a highway.
 
@@ -19247,7 +19247,7 @@ geolocation: 30.265678, -97.741671
 
 ## Baytown
 
-### Police officer tackles and knees man on the ground | June 2nd
+### Police officer tackles and knees man on the ground | 2020-06-02
 
 Cop in Baytown, Texas pulls over a black man. A white man is on the phone talking about it. Cop says white man is cussing in public and proceeds to tackle him and knee him in the head.
 
@@ -19265,7 +19265,7 @@ geolocation: 29.7280005, -95.0027144
 
 ## Dallas
 
-### Police shoot unarmed woman in the face with a rubber bullet | May 30th
+### Police shoot unarmed woman in the face with a rubber bullet | 2020-05-30
 
 A woman who says she was simply walking home with groceries was shot in the face with a rubber bullet by Dallas police. She was seen bleeding profusely and some officers attempted to help her immediately afterwards.
 
@@ -19284,7 +19284,7 @@ geolocation: 32.7806765, -96.7954728
 * https://twitter.com/greg_doucette/status/1267109272342736896
 
 
-### Man shot in the eye | May 30th
+### Man shot in the eye | 2020-05-30
 
 Dallas police shot a protester in the eye with near Pegasus Plaza. The projectile was later identified as a sponge round. Doctors say the eye has been damaged beyond repair, the left side of his face has been shattered, his jaw has been twisted, and his teeth have been knocked out.
 
@@ -19301,7 +19301,7 @@ geolocation: 32.7805348, -96.8007618
 * https://twitter.com/chadloder/status/1267261398481920000
 
 
-### Police use flashbangs and tear gas on protesters | May 30th
+### Police use flashbangs and tear gas on protesters | 2020-05-30
 
 The first-person video shows an individual running away from what seem to be loud explosions near Dallas City Hall.
 
@@ -19320,7 +19320,7 @@ geolocation: 32.7767514, -96.801171
 * https://www.tiktok.com/@sabby817/video/6833141380798221573
 
 
-### Police fire rubber bullet on peaceful protester | June 1st
+### Police fire rubber bullet on peaceful protester | 2020-06-01
 
 Without warning, police shoot a protester with a rubber bullet at South Akard and Canton Streets. The protester falls limp to the ground. A subsequent image shows the protester helped to their feet and able to walk away.
 
@@ -19336,7 +19336,7 @@ geolocation: 32.7745023, -96.7967547
 * https://twitter.com/elias_valverde/status/1267550636876447747
 
 
-### Police maneuver protesters onto bridge and fire tear gas and rubber bullets | June 2nd
+### Police maneuver protesters onto bridge and fire tear gas and rubber bullets | 2020-06-02
 
 On June 2nd, protesters are routed onto Margaret Hunt Hill Bridge. They are met by a line of police officers and are then fired upon by rubber bullets, tear gas, and more.
 
@@ -19354,7 +19354,7 @@ geolocation: 32.781075, -96.8186896
 
 ## El Paso
 
-### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protesters | (Believed to be) May 31st
+### Police fire teargas canisters and projectiles into peaceful crowd of unarmed protesters | (Believed to be) 2020-05-31
 
 Police fire teargas cannisters into peaceful crowd of unarmed protesters outside the El Paso Public Library. Amongst the chaos you can hear the popping sounds of police firing projectiles.
 
@@ -19371,7 +19371,7 @@ geolocation: 31.7903715, -106.4556773
 
 ## Houston
 
-### Police trample protester with horse | May 29th
+### Police trample protester with horse | 2020-05-29
 
 On Travis Street near the Houston Police Headquarters, a mounted police officer trampled a woman with his horse. It appeared to be somewhat accidental, but the officer was riding the horse at a decent speed within feet of the protesters. The crowd had been making peaceful chants prior to the incident but became agitated afterwards.
 
@@ -19387,7 +19387,7 @@ geolocation: 29.7557168, -95.3672083
 * [abc13 article](https://abc13.com/hpd-uns-over-girl-police-on-horse-tramples-protester-george-floyd/6223240/)
 
 
-### Officers shove a woman to the pavement | May 29th
+### Officers shove a woman to the pavement | 2020-05-29
 
 A large group of police officers follow protesters on Capitol Street between LaBranch and Austin. A woman standing near them is then shoved to the ground by an officer with a baton.
 
@@ -19420,7 +19420,7 @@ geolocation: 29.7694732, -95.3649221
 * https://twitter.com/DomSkyeRN/status/1270193973462695936
 
 
-### Police beat protester with batons, then pepper spray another man for recording | (Believed to be) June 2nd
+### Police beat protester with batons, then pepper spray another man for recording | (Believed to be) 2020-06-02
 
 Police isolate protester and then 4 to 5 officers beat him with a baton. When one of them realizes he is being recorded, he pepper sprays the person recording to make him stop.
 
@@ -19437,7 +19437,7 @@ geolocation: 29.7609263, -95.3693927
 * https://twitter.com/greg_doucette/status/1268392253665546245
 
 
-### Officers violently arrest protesters on the sidewalk | June 2nd
+### Officers violently arrest protesters on the sidewalk | 2020-06-02
 
 Footage from an extended stream shows police and protesters facing off on the sidewalk near Walker and McKinney. Protesters are standing still several feet away from police. On multiple occasions, several officers push from the police line, seize protesters without warning and drag them behind police lines for arrest. Only after several minutes does an officer emerge to explain that protesters will be arrested. After this, protesters comply without resistance.
 
@@ -19455,7 +19455,7 @@ geolocation: 29.7539214, -95.3576028
 
 ## Lewisville
 
-### Officers deploy tear gas against peaceful protesters | June 2nd
+### Officers deploy tear gas against peaceful protesters | 2020-06-02
 
 Police deploy tear gas against protesters after drunk driver ran into oncoming traffic near Lewisville High School, knocking over a woman and child. Police arrested the driver. Police said some protesters thought police were arresting a protester and attempted to intervene; the Lewisville mayor stated that police deployed tear gas because protesters were blocking a road. Police then deployed tear gas against the crowd and arrested 9 protesters. After tear gas was deployed, police allege that protesters threw bottles at officers.
 
@@ -19473,7 +19473,7 @@ geolocation: 33.0398797, -97.0214116
 
 ## San Antonio
 
-### Police shoot man filming them with what were allegedly rubber bullets | (believed to be) May 31st
+### Police shoot man filming them with what were allegedly rubber bullets | (Believed to be) 2020-05-31
 
 A man was filming police walking down Presa Street (at the intersection of College Street) and making comments like "that [rifle] better be on safety" towards them. Most officers continued walking down the street, while another ran towards him yelling "hands up" and shooting him with what were allegedly rubber bullets. The officer shot him once, causing the man's arm to bleed, then after a few moments shot him again in the leg. Blood can be seen dripping through the man's pants, which were clearly torn by the projectile.
 
@@ -19490,7 +19490,7 @@ geolocation: 29.426000, -98.4887064
 * https://twitter.com/chadloder/status/1267124991809609728
 
 
-### Police fire on protesters without warning | June 2nd
+### Police fire on protesters without warning | 2020-06-02
 
 Police are protesters are gathered several feet apart. Between the two lines, a protester is seen telling other protesters to put their hands up. Police then fire as protesters scatter. A journalist was also shot in the leg.
 
@@ -19513,7 +19513,7 @@ geolocation: 29.425163, -98.486998
 
 # Unknown Location
 
-### Compilation of incidents | May 31st
+### Compilation of incidents | 2020-05-31
 
 Police officers are seen pushing around and even driving into crowds of people. People are being pepper sprayed for walking around near protests. A mounted police officer tramples a person with a horse.
 
@@ -19534,7 +19534,7 @@ geolocation:
 
 ## Cottonwood Heights
 
-### Police beat and pepper spray protesters during violent arrests | August 2nd
+### Police beat and pepper spray protesters during violent arrests | 2020-08-02
 
 During a protest on August 2nd over Zane James who was killed by police a few years ago, police blocked off a residential road, down which protesters were travelling. Police then ordered protesters to the sidewalk. It is difficult to ascertain how the scuffle began; both protesters and police place the blame on the other. It appears that one officer and one protester got into a verbal altercation, after which the two go to the ground, grappling. The officer ends up holding the protester down, but it is difficult to determine how the incident began. This protester was apparently the father of Zane James. After this, protesters and police both became agitated and the scuffle escalated.
 
@@ -19559,7 +19559,7 @@ geolocation: 40.6292192, -111.8216915
 
 ## Salt Lake City
 
-### Police shove an old man with a cane to the ground | May 30th
+### Police shove an old man with a cane to the ground | 2020-05-30
 
 A man was waiting for a bus at Library Station on the South side of University Boulevard. He was approached by two officers, one of whom shoved him repeatedly, knocking him into a nearby railing.
 
@@ -19578,7 +19578,7 @@ geolocation: 40.7605681, -111.8848045
 * https://www.abc4.com/news/salt-lake-city-protests/salt-lake-city-officer-who-pushed-down-elderly-man-removed-from-patrol-duties-during-investigation/
 
 
-### Police shoot man on the ground in the spine with a beanbag point-blank | May 30th
+### Police shoot man on the ground in the spine with a beanbag point-blank | 2020-05-30
 
 A man laying on the ground was shot at close range by an officer with a bean bag round. This occurred as officers were pushing protesters down South 200 East outside the Public Library.
 
@@ -19593,7 +19593,7 @@ geolocation: 40.7600121, -111.8853097
 * https://www.reddit.com/r/nextfuckinglevel/comments/gtv4co/downtown_salt_lake_city_may_30th_2020_unarmed/
 
 
-### Police shoot tear gas canister at man from close range, striking him in the chest | May 30th
+### Police shoot tear gas canister at man from close range, striking him in the chest | 2020-05-30
 
 Man standing in a crowd of protesters was struck with a tear gas canister. This occurred near the Public Library, at the intersection of South 200 East Street and University Boulevard.
 
@@ -19609,7 +19609,7 @@ geolocation: 40.7605534, -111.8853025
 * https://www.instagram.com/p/CA148-0B14t6mQZqJZYzwq25KdoPzZ5CJmV3oQ0/
 
 
-### Police push and tackle man that is being vocal | June 1st
+### Police push and tackle man that is being vocal | 2020-06-01
 
 Police seemingly single out a person that is being the most vocal, push and tackle him to the ground despite him not resisting.
 
@@ -19626,7 +19626,7 @@ geolocation: 40.7757703, -111.888239
 * https://v.redd.it/fl4y919v1q251
 
 
-### Police beat protesters with shields and batons | July 9th
+### Police beat protesters with shields and batons | 2020-07-09
 
 In the wake of the Salt Lake City DA ruling the killing of [Bernardo Palacios-Carbajal](https://kutv.com/news/local/shooting-of-bernardo-palacios-ruled-justified-by-salt-lake-county-da-07-09-2020) to be justified, protesters took to the streets.
 
@@ -19646,7 +19646,7 @@ geolocation: 40.7585004, -111.8894887
 * https://twitter.com/JoshuaPotash/status/1281434273459900418
 
 
-### Police chase journalist | July 9th
+### Police chase journalist | 2020-07-09
 
 Footage from a protest for Bernardo Palacios-Carbajal shows police chasing down a journalist with a camera mounted on his head. The journalist flees and police give up the chase. The journalist is allegedly affiliated with Just Media Utah
 
@@ -19667,7 +19667,7 @@ geolocation: 40.7585004, -111.8894887
 
 ## St. Johnsbury
 
-### Police shove a protesting woman down a set of concrete steps. | June 3rd
+### Police shove a protesting woman down a set of concrete steps. | 2020-06-03
 
 Police shove a protesting woman down a set of concrete steps.
 
@@ -19689,7 +19689,7 @@ geolocation: 44.4226883, -72.0071364
 
 ## Fairfax
 
-### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | June 5th
+### Officer repeatedly uses stun gun on suspect who said he couldn't breathe | 2020-06-05
 
 Bodycam footage shows an unarmed man walking around in the street in Mount Vernon, Virginia. The man allegedly called for oxygen and appears to be in distress, with difficulty communicating his mental state or his medical needs. Another officer arrives on scene and fires his taser at the man. The officer kneels on his neck and continues to tase him. The body cam footage is covered briefly, before showing the other officer pressing his stun gun into the man's neck, then strikes him on the head with the taser. The man screams and attempts to stand. The EMTs assist the police in subduing him, while an officer places his hands in cuffs. Near the end of the footage he can be heard saying, "I can't breathe".
 
@@ -19713,7 +19713,7 @@ geolocation: 38.7162297, -77.1419689
 
 ## Fredericksburg
 
-### Police fire tear gas at peaceful protest | May 31st
+### Police fire tear gas at peaceful protest | 2020-05-31
 
 Footage shows deployment of tear gas by police on peaceful protest on Cowan Boulevard in front of Hugh Mercer School. In one image, protesters are lying on the ground as tear gas canisters fall around them.
 
@@ -19733,7 +19733,7 @@ geolocation: 38.3041361, -77.4862634
 
 ## Manassas
 
-### Officers pepper-spray Virginia state delegate peacefully protesting | May 30
+### Officers pepper-spray Virginia state delegate peacefully protesting | 2020-05-30
 
 In this video, delegate Lee Carter asks officers questions about their methods during protests. He stands in the way of an advancing line of law enforcement officers; he is pushed to the ground at 1:30 and pepper-sprayed at 2:27. He also claims to have been hit by a flashbang grenade earlier in the protest (see also third link). At some point (see Facebook video), someone who seems to be the delegate shouts "I'm a member of the general assembly. I write the state police budget. They're gonna fucking regret that."
 
@@ -19758,7 +19758,7 @@ geolocation: 38.7849774, -77.5156431
 
 ## Richmond
 
-### Police SUV jumps median toward protesters | May 30th
+### Police SUV jumps median toward protesters | 2020-05-30
 
 Footage taken on May 30th near Monument Ave near the Jefferson Davis Statue shows a police cruiser jump the median where a crowd of protesters are gathered. Protesters are forced to run to avoid being hit.
 
@@ -19773,7 +19773,7 @@ geolocation: 37.5584926, -77.4677205
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/heif6m/an_older_video_from_the_beginning_of_protests_in/
 
 
-### Officer sprays a man watching from his balcony | May 31st
+### Officer sprays a man watching from his balcony | 2020-05-31
 
 A police officer pepper sprayed a man watching from his second floor apartment at Broad and Goshen after spraying three people just walking down the sidewalk.
 
@@ -19790,7 +19790,7 @@ geolocation: 37.5503078, -77.4495356
 * [Full video](https://m.facebook.com/story.php?story_fbid=1123349158037544&id=100010874104187)
 
 
-### Tear gas fired at peaceful protest | June 1st
+### Tear gas fired at peaceful protest | 2020-06-01
 
 Tear gas canisters were launched by police at peaceful protesters around Robert E. Lee Monument at approximately 7:35 PM. The police chief has said that the officers' actions were "unwarranted" and "outside dept protocols." At least one protester has sued the officers involved.
 
@@ -19812,7 +19812,7 @@ geolocation: 37.5538363, -77.4645138
 * [Court filing](https://ewscripps.brightspotcdn.com/ff/05/d77e0dd14f0187f803ec26baadc8/6-4-2020-civil-rights-lawsuit-vs-richmond-police.pdf)
 
 
-### Officer spits on detained protester | June 1st
+### Officer spits on detained protester | 2020-06-01
 
 A police officer spits on a detained protester who is restrained and sitting on the ground. The officer appears to repeat the action after other protesters mention that he's on camera. Extended footage shows the officer continuing to spit on the protester.
 
@@ -19834,7 +19834,7 @@ geolocation: 37.5533455, -77.460387
 * https://vpm.org/news/articles/13954/video-richmond-police-spit-at-or-near-detained-protester
 
 
-### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 1st
+### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | 2020-06-01
 
 In this video, an officer fires a tear gas canister at a slow moving vehicle in the Robert E. Lee Memorial roundabout. It appears that he was unaware the vehicle belonged to the police.
 
@@ -19851,7 +19851,7 @@ geolocation: 37.5538363, -77.4645138
 * https://twitter.com/BeQueerDoCrime/status/1268648919623442432
 
 
-### Police SUV pushes through protesters, knocks over protester on bike | (believed to be) June 13th
+### Police SUV pushes through protesters, knocks over protester on bike | (Believed to be) 2020-06-13
 
 In this video, protesters on bikes are shown blocking a police vehicle from progressing down a road near the Robert E. Lee Monument. The vehicle moves around the protesters, but instead of continuing on the sidewalk until getting past the crowd, the cop pushes the car through the protesters and knocks a protester off of their bike.
 
@@ -19869,7 +19869,7 @@ geolocation: 37.5538363, -77.4645138
 * https://richmond.com/news/local/crime/richmond-prosecutor-clears-richmond-police-in-several-complaints-related-to-civil-unrest/article_7bb5a33f-0b35-5d19-9416-a3049a9670b0.html
 
 
-### Police pepper spray protesters on sidewalk | June 14th
+### Police pepper spray protesters on sidewalk | 2020-06-14
 
 Shortly before 10 PM on June 14th, police pepper sprayed protesters on the sidewalk outside the Richmond Police Headquarters. Police sprayed broadly at protesters several feet away, some locking arms with one another. No aggression on the part of protesters can be seen.
 
@@ -19884,7 +19884,7 @@ geolocation: 37.5462104, -77.4451222
 * https://twitter.com/aeringle/status/1272347287902130177
 
 
-### Police respond to thrown water bottle with excessive force | June 14th
+### Police respond to thrown water bottle with excessive force | 2020-06-14
 
 A single water bottle can be seen thrown at and striking an officer. The bottle appears to be empty. Water is then sloshed in the officer's direction. The officer unholsters his pepper spray.
 
@@ -19902,7 +19902,7 @@ geolocation: 37.5462104, -77.4451222
 * https://twitter.com/aeringle/status/1272358269122723846
 
 
-### Police fire tear gas and rubber bullets at peaceful protest | June 15th
+### Police fire tear gas and rubber bullets at peaceful protest | 2020-06-15
 
 Around 10 pm on June 15th, peaceful protesters gathered outside the Richmond Police Headquarters at some distance from the officers. Officers fired tear gas and rubber bullets at protesters.
 
@@ -19928,7 +19928,7 @@ geolocation: 37.545802, -77.444889
 * https://twitter.com/aeringle/status/1272885980563939329
 
 
-### Police pepper-spray journalist | June 21st
+### Police pepper-spray journalist | 2020-06-21
 
 First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately.
 
@@ -19950,7 +19950,7 @@ geolocation: 37.5529536, -77.4576011
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
 
-### Police escalate against protesters outside city hall | June 23rd
+### Police escalate against protesters outside city hall | 2020-06-23
 
 Officers quickly escalate against a peaceful nighttime protest outside city hall. Police shoot what looks like a gas canister into the head of one man and tackle a woman backing away behind an umbrella.
 
@@ -19970,7 +19970,7 @@ geolocation: 37.5413144, -77.4354564
 * [Additional shot of individual struck in head](https://twitter.com/nilsrva/status/1275500062903320582)
 
 
-### Man struck in face by explosive round | June 26th
+### Man struck in face by explosive round | 2020-06-26
 
 Footage shows a group of scattered protesters some distance from officers. An explosive projectile explodes in a man's face. The filmer kneels next to the man, who can be heard saying, "That hit my face."
 
@@ -19987,7 +19987,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/woznyphoto/status/1276734657237864448
 
 
-### Police drag protester off bike | June 26th
+### Police drag protester off bike | 2020-06-26
 
 Police can be heard saying, "Grab somebody. Get ahold of somebody." An officer then charges into a small group of protesters. He grabs a protester on a bike, then proceeds to drag the protester into the street and off the bike. Several officers aid the officer in arresting the protester, while the original officer kneels on the protester's back.
 
@@ -20004,7 +20004,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/woznyphoto/status/1276727667979694081
 
 
-### Police shove and pepper-spray protester | June 26th
+### Police shove and pepper-spray protester | 2020-06-26
 
 Footage shows a police officer shoving a protester to the ground. The protester scrambles away as a second officer then sprays pepper-spray at the ground in the area, catching several protesters.
 
@@ -20023,7 +20023,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/nilsrva/status/1276752643528982530
 
 
-### Attorney arrested for photographing police staging area | June 26th
+### Attorney arrested for photographing police staging area | 2020-06-26
 
 Around midnight on June 26th, an attorney recounts his experience with Richmond police at a staging area in the parking lot of the Broad Street Whole Foods. The attorney states the parking lot was open, there were no signs, and there was no trespassing order given.
 
@@ -20046,7 +20046,7 @@ geolocation: 37.558200, -77.4634053
 * https://augustafreepress.com/city-of-richmond-richmond-pd-virginia-state-police-sued-over-actions-in-protests/
 
 
-### Police fire tear gas at protesters | June 26th
+### Police fire tear gas at protesters | 2020-06-26
 
 Footage shows police shooting tear gas straight up in the air. Tear gas lands near filmer, who is among several small groups of idle protesters.
 
@@ -20063,7 +20063,7 @@ geolocation: 37.5551189, -77.4650724
 * https://twitter.com/greg_doucette/status/1287252197487648768
 
 
-### Police tear gas protesters | July 25th
+### Police tear gas protesters | 2020-07-25
 
 After a truck has been lit on fire outside the Richmond Police Headquarters, allegedly by protesters, police respond by firing tear gas at the crowd. A fire crew later arrived to douse the fire.
 
@@ -20081,7 +20081,7 @@ geolocation: 37.5462104, -77.4451222
 * https://twitter.com/hannaheason_/status/1287228239388258307
 
 
-### Police attempt to arrest press | July 25th
+### Police attempt to arrest press | 2020-07-25
 
 Footage shows police grabbing two members of the press and detaining them in a parking lot at North Madison and West Grace Streets. They are held up against a wall as an officer begins handcuffing them while the journalists repeat that they are press. Officers push protesters away. The journalists are eventually released.
 
@@ -20099,7 +20099,7 @@ geolocation: 37.5460473, -77.4456778
 * https://twitter.com/edace2936/status/1287226623348137984
 
 
-### Reporter handcuffed and detained | July 26th
+### Reporter handcuffed and detained | 2020-07-26
 
 Richmond police officers were clearing Monroe Park. A journalist was attempting to leave when he was detained and handcuffed by police, even though he had a press pass and repeatedly stated he was with the press. He states he was later released on the condition he did not return to the park that night.
 
@@ -20116,7 +20116,7 @@ geolocation: 37.5467591, -77.4514553
 * https://twitter.com/edace2936/status/1287574364490289152
 
 
-### Protester arrested without probable cause, later released without charges | July 26th
+### Protester arrested without probable cause, later released without charges | 2020-07-26
 
 The filmer, a protester, is standing on or near the sidewalk in the vicinity of Monroe Park. Several officers approach him. The protester says, "Hey what's up," before being grabbed and arrested by police. An image shows a minor injury to his knee. He states that a magistrate said there was no probable cause for his arrest and released the protester without charges.
 
@@ -20132,7 +20132,7 @@ geolocation: 37.5467591, -77.4514553
 * https://twitter.com/GoadGatsby/status/1287600241068449792
 
 
-### Encapment serving food and water dismantled; protester arrested and tased | July 30th
+### Encapment serving food and water dismantled; protester arrested and tased | 2020-07-30
 
 Police arrived at a group of protesters who gave out food and water to remove the protesters' tents. During the removal, a protester was arrested, held on the ground, and tased repeatedly. Charges are unclear.
 
@@ -20150,7 +20150,7 @@ geolocation: 37.5542929, -77.4604981
 * https://imgur.com/Ye9Sy5Y
 
 
-### Police arrest protester on private property and shove others | August 20th
+### Police arrest protester on private property and shove others | 2020-08-20
 
 Police grab and arrest a protester filming from the sidewalk. Officers then push other protesters away, shoving several to the ground. Justification for the arrest is unclear. Protesters were standing on private property (the parking lot of GWARbar), allegedly with permission from the property owner.
 
@@ -20169,7 +20169,7 @@ geolocation: 37.5488003, -77.4452045
 * https://twitter.com/JLJLovesRVA/status/1296700265102483457
 
 
-### Police tackle and arrest cyclist | September 1st
+### Police tackle and arrest cyclist | 2020-09-01
 
 A cyclist is seen riding away from a demonstration near the Richmond City Jail. Footage shows that he appears to be moving off Ollie Highway onto the grass. An officer in an unmarked vehicle then gets out of the car, chases the cyclist down then violently tackles and arrests him.
 
@@ -20187,7 +20187,7 @@ geolocation: 37.5473373, -77.424255
 * https://twitter.com/tormaid/status/1300959166937395201
 
 
-### Police shove protesters with shields | September 23rd
+### Police shove protesters with shields | 2020-09-23
 
 After snatching a protester outside the Richmond Police Headquarters, police formed a riot shield line and told protesters to move back. Protesters yelled at police. Police shoved protesters with their shields.
 
@@ -20208,7 +20208,7 @@ geolocation: 37.5460391, -77.4448378
 
 ## Everett
 
-### Protester arrested after dangling doughnut in front of officers | July 17th
+### Protester arrested after dangling doughnut in front of officers | 2020-07-17
 
 Footage shows a protester dangling a doughnut on a stick in front of a man's face. He asks the man, "Any of you bootlickers want this?" The man replies, "Get that fucking shit out of my face," and an officer shoves the protester. The protester tries to pick his doughnut off the ground, but an officer steps on it. An officer grabs the protester, stating, "It's time for you to go," evidently arresting the protester. Another officer states that the protester "assaulted a lieutenant." This same officer threatens other protesters to back off or they will go to jail. His badge number is covered by a piece of tape. Protesters then follow police to the entrance of a building where the original protester is being cuffed. Protesters and counter-protesters then argue with one another.
 
@@ -20228,7 +20228,7 @@ geolocation: 47.9779407, -122.2059514
 
 ## Olympia
 
-### Police respond to broken windows with excessive force | May 31st
+### Police respond to broken windows with excessive force | 2020-05-31
 
 Footage shows a few individuals break off from a protest to smash City Hall windows. Protesters shout at vandals to stop.
 
@@ -20251,7 +20251,7 @@ geolocation: 47.0450936, -122.8973967
 * https://www.youtube.com/watch?v=s7MM1VauRHo
 
 
-### Police tear gas left wing protesters following shooting | December 12th
+### Police tear gas left wing protesters following shooting | 2020-12-12
 
 After a right wing protester shot a counter protester, Olympia police proceeded to throw tear gas and stun grenades at counter protesters still gathered near Capitol and Union.
 
@@ -20268,7 +20268,7 @@ geolocation: 47.0387384, -122.9008782
 
 ## Seattle
 
-### Police beat unarmed man on the ground | May 29th
+### Police beat unarmed man on the ground | 2020-05-29
 
 A couple of police officers are seen beating and manhandling an unarmed man. The officers are throwing punches while he was on the ground and pinned. Additional video shows the protester swung a water bottle at officers.
 
@@ -20290,7 +20290,7 @@ geolocation: 47.5991922, -122.3218263
 * https://www.king5.com/article/news/local/seattle/seattle-police-use-of-force-george-floyd-protests/281-bd7fc669-6e8a-4717-9156-fe45c7407ef2
 
 
-### Officer pins protester by pushing his knee into his neck | May 30th
+### Officer pins protester by pushing his knee into his neck | 2020-05-30
 
 Officer pins protester with his knee on his neck near 6th and Pine. His partner intervenes and moves his knee onto the individual's back.
 
@@ -20309,7 +20309,7 @@ geolocation: 47.6121745, -122.3354217
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
 
 
-### Police indiscriminately pepper spray peaceful protesters | May 31st
+### Police indiscriminately pepper spray peaceful protesters | 2020-05-31
 
 A police officer randomly and indiscriminately pepper sprays civilians walking around near 5th and Pine, which then went on to spark a riot.
 
@@ -20324,7 +20324,7 @@ geolocation: 47.6117187, -122.3366142
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gtt3w8/i_caught_the_moment_seattle_police_pepper_sprayed/
 
 
-### Police pepper spray young child | May 31st
+### Police pepper spray young child | 2020-05-31
 
 Police pepper spray a young child who is seen crying, while protesters pour milk on the distressed child.
 
@@ -20346,7 +20346,7 @@ geolocation: 47.6112539, -122.3392275
 * https://www.seattletimes.com/seattle-news/crime/officers-pepper-spraying-of-boy-at-seattle-protest-was-inadvertent-didnt-violate-policy-review-finds/
 
 
-### Police throw tear gas at peaceful protesters | May 31st
+### Police throw tear gas at peaceful protesters | 2020-05-31
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protesters.
 
@@ -20362,7 +20362,7 @@ geolocation: 47.6117535, -122.3363867
 * [Location via Google Street View](https://www.google.ca/maps/@47.6117535,-122.3363867,3a,75y,340.76h,98.03t/data=!3m7!1e1!3m5!1s3_dezBzQDIEjlJ1L0qu2QA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3D3_dezBzQDIEjlJ1L0qu2QA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D141.4241%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
 
 
-### Police officer pulls protester to the ground unprovoked | May 31st
+### Police officer pulls protester to the ground unprovoked | 2020-05-31
 
 An officer on a bike pulls down a protester walking by for seemingly no reason. Takes place on Boren Avenue, by the Avanti Apartments.
 
@@ -20379,7 +20379,7 @@ geolocation: 47.6124917, -122.3279498
 * https://peertube.live/videos/watch/9e9323af-3ea1-4d3c-856d-a7f0a66688e7
 
 
-### Law enforcement officer punches pinned protester | May 31st
+### Law enforcement officer punches pinned protester | 2020-05-31
 
 In this video, officers wrestle with two protesters on the sidewalk near 4th and Spring. One officer punches the protester he has pinned at 0:15.
 
@@ -20396,7 +20396,7 @@ geolocation: 47.606835, -122.333563
 * https://twitter.com/samjwc/status/1267355060666654720
 
 
-### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) May 31st
+### Law enforcement officers throw flashbangs into peaceful crowd | (Believed to be) 2020-05-31
 
 Police are standing in a row holding bikes and pepper spray canisters near 4th and Spring. Protesters are standing in front of them with their hands in the air. Police begin moving forward, using their bikes as shields, in sync with flashbangs. Several officers in grey move closer to the protesters and shoot flashbangs directly into the crowd. Flashbangs continue as protesters walk away, and tear gas is visible.
 
@@ -20411,7 +20411,7 @@ geolocation: 47.6071398, -122.3339336
 * https://twitter.com/The_Stepover/status/1267237940184231936
 
 
-### Police pepper spray crowd | June 1st
+### Police pepper spray crowd | 2020-06-01
 
 Police pepper spray peacefully protesting crowd near 11th and Pine.
 
@@ -20429,7 +20429,7 @@ geolocation: 47.6152896, -122.3181832
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
 
 
-### Police strike active news crew with tear gas | June 1st
+### Police strike active news crew with tear gas | 2020-06-01
 
 Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
 
@@ -20447,7 +20447,7 @@ geolocation: 47.615506, -122.318894
 * https://twitter.com/greg_doucette/status/1267694239028334592
 
 
-### Police injure sleeping homeless man with flashbang | June 1st
+### Police injure sleeping homeless man with flashbang | 2020-06-01
 
 Police flashbang hits a homeless man sleeping by the fields in Cal Anderson Park.
 
@@ -20464,7 +20464,7 @@ geolocation: 47.615716, -122.318701
 * https://www.facebook.com/kg.farmer/videos/278656296661372
 
 
-### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
+### Officers deploy flashbangs and pepper spray peaceful protesters | 2020-06-02
 
 Video shows officers deploying flashbangs into a crowd of peaceful protesters near 11th and Pine, and spraying pepper spray into the crowd. Recorder has to close their window as the spray is reaching their apartment.
 
@@ -20481,7 +20481,7 @@ geolocation: 47.6152896, -122.3181832
 * https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
 
 
-### Protester targeted days after protest | June 5th
+### Protester targeted days after protest | 2020-06-05
 
 Footage and reports show approximately 30 police officers in 6-7 squad cars arrive to arrest a woman in a car with her 9 year old child.
 
@@ -20507,7 +20507,7 @@ geolocation: 47.6278921, -122.3333217
 * https://twitter.com/greg_doucette/status/1269393375146446850
 
 
-### Officer chokes and places knee on neck of woman | June 6th
+### Officer chokes and places knee on neck of woman | 2020-06-06
 
 Video shows officer on back of woman laying face down. Officer has the woman in a choke hold. Officer then moves to place both
 knees on back during arrest, one knee on middle of the back and the other behind the neck of the woman. Officer is reported to work for Bellevue Police Department. Arrest made over what twitter user @_SJPeace_ described as a title transfer.
@@ -20523,7 +20523,7 @@ geolocation: 47.6149796, -122.3193951
 * https://twitter.com/i/status/1269352173663592449
 
 
-### Police kettle protesters to force them to disperse through tear-gas | June 6th
+### Police kettle protesters to force them to disperse through tear-gas | 2020-06-06
 
 Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs.
 
@@ -20540,7 +20540,7 @@ geolocation: 47.6151981, -122.3182049
 * https://twitter.com/ColeMillerTV/status/1269459358288494592
 
 
-### Police pepper spray protesters who can't move back | June 6th
+### Police pepper spray protesters who can't move back | 2020-06-06
 
 In a series of videos, we see police asking protesters to move back, but the crowd is too dense for them to do so. Police then start pepper-spraying protesters at the front of the crowd and launch flashbangs into and near the crowd. At 1:30 in the first video, it appears a protester is hit with a projectile. In the subsequent clips, teargas is seen being spread into a group of protesters by police.
 
@@ -20558,7 +20558,7 @@ geolocation: 47.6151981, -122.3182049
 * https://twitter.com/greg_doucette/status/1269481868245819393
 
 
-### Woman hit with police projectile resumes breathing after CPR, delivered to hospital | June 7th
+### Woman hit with police projectile resumes breathing after CPR, delivered to hospital | 2020-06-07
 
 Video shows an individual getting hit by a police projectile, falling down, and becoming unresponsive. Medics drag the person away from the police. A medic's first-hand narrative account describes the victim as "a young woman in her 20s." Medics attempt to treat the young woman while police throw flash bang grenades directly into the first aid center where they are gathered. Several times the victim stops responding or breathing but becomes responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transports her by car to an Emergency Dept where she was delivered with a pulse. The person who filmed the incident from his workplace office is an editor at the local alt weekly, The Stranger; he reported in his twitter thread that the people in the office were having trouble breathing from teargas or some other chemical agent.
 
@@ -20578,7 +20578,7 @@ geolocation: 47.6151981, -122.3182049
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
 
 
-### During arrests, man yells at police; police retaliate against crowd | June 7th
+### During arrests, man yells at police; police retaliate against crowd | 2020-06-07
 
 Police surrounded a barricade in the street near 11th and Pine and began arresting protesters. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing.
 
@@ -20595,7 +20595,7 @@ geolocation: 47.6152866, -122.3168341
 * https://twitter.com/menilivne/status/1269831790799159302
 
 
-### Police shoot peaceful protester | June 7th
+### Police shoot peaceful protester | 2020-06-07
 
 A protester is seen off to the side of the protest near 11th and Pine, speaking with another protester and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
 
@@ -20610,7 +20610,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/RisingAnons/status/1269904786108887045
 
 
-### Police arrest homeless man | June 7th
+### Police arrest homeless man | 2020-06-07
 
 While deploying flashbangs and tear gas against protesters near 11th and Pine, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
 
@@ -20626,7 +20626,7 @@ geolocation: 47.6152914, -122.3179077
 * https://twitter.com/slydesilva/status/1270120960440459264
 
 
-### Police pepper spray protesters standing in their way | June 11th
+### Police pepper spray protesters standing in their way | 2020-06-11
 
 Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
 
@@ -20642,7 +20642,7 @@ geolocation: 47.6152942, -122.3173764
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-20.1.mp4)
 
 
-### Police strike and pepper spray protesters while marching on 13th Precinct | July 1st
+### Police strike and pepper spray protesters while marching on 13th Precinct | 2020-07-01
 
 Footage shows police line approaching scattered protesters near 12th and Pike. Police snatch and grab to make rough arrests. When protesters attempt to intervene they are shoved, struck with batons, and pepper sprayed.
 
@@ -20658,7 +20658,7 @@ geolocation: 47.6141379, -122.3168800
 * https://twitter.com/greg_doucette/status/1278565827747471361
 
 
-### Police arrest protester during CHAZ/CHOP clearing | July 1st
+### Police arrest protester during CHAZ/CHOP clearing | 2020-07-01
 
 As police prepare to clear CHOP (near Pine and Broadway), a protester asks a question. Police then attempt to arrest him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
 
@@ -20674,7 +20674,7 @@ geolocation: 47.615225, -122.320777
 * https://clips.twitch.tv/LittleProtectiveDillAsianGlow
 
 
-### Officers tackle protesters, put a knee on least one of their necks | July 2nd
+### Officers tackle protesters, put a knee on least one of their necks | 2020-07-02
 
 Video shows bicycle cops quickly approaching a group of protesters just outside an area cordoned off with police tape, presumably because they considered one or more of them to have crossed the boundary. Without warning, the cops tackle two protesters to the ground. Someone can be heard shouting "get your knee off their neck!" One of the videos clearly shows an officer placing his knee on the neck of one of the individuals.
 
@@ -20692,7 +20692,7 @@ geolocation: 47.615225, -122.320777
 * https://twitter.com/1stRoundFinish/status/1278854169743388672
 
 
-### Violent arrests made at protests near CHOP | July 2nd
+### Violent arrests made at protests near CHOP | 2020-07-02
 
 Footage beginning at 14:00 shows police begin to advance on protesters at Broadway and Pine without warning. They use their shields and batons to strike and shove protesters. When protesters become agitated, police tackle protesters and discharge pepper spray. Footage shows police kneeling on one protester, applying pressure to his neck (allegedly with their forearm) to force him to release his bike.
 
@@ -20711,7 +20711,7 @@ geolocation: 47.615225, -122.3207773
 * https://streamable.com/grkofc
 
 
-### Police make violent arrest | July 2nd
+### Police make violent arrest | 2020-07-02
 
 Footage taken around midnight the morning of July 2nd shows multiple officers arresting a protester, striking him with batons, punching him, and kneeling on his neck.
 
@@ -20731,7 +20731,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/own_the_libs_/status/1278765575494266881
 
 
-### Police harass man attempting to go to his apartment | July 3rd
+### Police harass man attempting to go to his apartment | 2020-07-03
 
 A man returning to his apartment on 11th near Pike and Pine is followed by a police officer. The officer asks the man where he lives. The man responds with his address. The officer is joined by a second and they ask the filmer for ID. The filmer states he does not have ID and that the Mayor said police should stop asking for ID. The police say that the order just came in to start asking for ID again. They give the filmer three options: leave the area, be arrested, or allow the police to escort him to his home. The filmer decides to leave the area.
 
@@ -20746,7 +20746,7 @@ geolocation: 47.614682, -122.3181893
 * https://twitter.com/slydesilva/status/1279107834739736576
 
 
-### Police arrest peaceful protester | July 9th
+### Police arrest peaceful protester | 2020-07-09
 
 Footage shows a handful of protesters marching in the street at Republican Street and Pontius Avenue. Protesters clear to the sidewalks as police arrive. Officers approach the crowd and single out one black woman. At 1:58 in the Reddit link, an officer can be heard saying, "You were blocking earlier." Officers then grab her and arrest her. Additional officers brandishing tasers and pepper spray surround the arrest. Police then place the protester in an unmarked van.
 
@@ -20765,7 +20765,7 @@ geolocation: 47.623129, -122.3317629
 * [Alternate angle](https://twitter.com/greg_doucette/status/1281430922064211968)
 
 
-### Police arrest journalist | July 10th
+### Police arrest journalist | 2020-07-10
 
 First person footage from a photojournalist shows the journalist filming a police car while stating that allegedly the officer in the car said that the officer has the photojournalist's address. The journalist repeats these words back, including the exact phrase, "I have your address." The officer then approaches him and arrests him for threatening an officer, alleging that the journalist claimed to have the officer's address.
 
@@ -20787,7 +20787,7 @@ geolocation: 47.6030859, -122.3283201
 * [Full livestream; begins around 40:00](https://youtu.be/K8cBDtCYI4o?t=2360)
 
 
-### Protester violently arrested | July 20th
+### Protester violently arrested | 2020-07-20
 
 During protests in Downtown Seattle, some protesters walk past officers arresting a protester. Another officer pepper sprays these protesters. When a protester stops in the street after being pepper sprayed, they are grabbed and thrown to the ground. Another officer appears to kick the protester in the groin. Officers then pin the protester down to arrest them. When officers go to move the protester, the protester appears to be limp, apparently unconscious. Officers lift the protester off the ground and carry them away.
 
@@ -20802,7 +20802,7 @@ geolocation: 47.6054117, -122.3530468
 * https://twitter.com/spekulation/status/1285468287334141952
 
 
-### Officer holds down protester to arrest, pepper sprays nurse | July 25th
+### Officer holds down protester to arrest, pepper sprays nurse | 2020-07-25
 
 Footage shows Seattle police pinning a protester down against a concrete barrier to arrest them. A nurse in scrubs grabs the protester. She says "something hit me in the ass," believed to be an impact munition She is then pepper sprayed.
 
@@ -20821,7 +20821,7 @@ geolocation: 47.6152219, -122.3217589
 * https://twitter.com/greg_doucette/status/1287252831620206598
 
 
-### Officer shoots protester who bangs stick on ground | July 25th
+### Officer shoots protester who bangs stick on ground | 2020-07-25
 
 A protester standing about 20ft from police bangs a stick on the ground. Police then shoot him in the arm.
 
@@ -20838,7 +20838,7 @@ geolocation: 47.6152218, -122.3216313
 * https://mobile.twitter.com/pmalonedc/status/1287192637296934913
 
 
-### Violent arrest made by police, tear gas deployed | July 25th
+### Violent arrest made by police, tear gas deployed | 2020-07-25
 
 Footage from Broadway and Pine shows several officers grabbing a small woman to arrest her. She passively resists. Three officers then tackle her to the ground while another officer deploys tear gas against the crowd of protesters.
 
@@ -20856,7 +20856,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/AGarlandPhoto/status/1287177533113262081
 
 
-### Police use bikes and pepper spray to push protesters | July 25th
+### Police use bikes and pepper spray to push protesters | 2020-07-25
 
 Footage shows police using their bikes to push protesters back near Pine and Nagle. One officer discharges pepper spray against protesters obeying the order to move back. Another officer grabs an umbrella held out by a protester, breaking it.
 
@@ -20872,7 +20872,7 @@ geolocation: 47.6152759, -122.3199594
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-33.1.mp4)
 
 
-### Police make violent arrests and pepper spray crowd | July 25th
+### Police make violent arrests and pepper spray crowd | 2020-07-25
 
 Footage shows police dragging a woman in handcuffs at Pine and Broadway. Another woman grabs the protester, but (off camera) lets go and falls to the ground. Police pepper spray nearby protesters.
 
@@ -20889,7 +20889,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/KittyLists/status/1287191491924779009
 
 
-### Police make violent arrests and discharge pepper spray | July 25th
+### Police make violent arrests and discharge pepper spray | 2020-07-25
 
 Overhead footage from a news report shows police charging across their bike line into the crowd to tackle protesters and make arrests. After one protester is subdued, police pepper spray the others to push them back.
 
@@ -20904,7 +20904,7 @@ geolocation: 47.6152218, -122.3216313
 * https://twitter.com/VideosSeattle/status/1287195618247548928
 
 
-### Police shove and pepper spray press and protesters | July 25th
+### Police shove and pepper spray press and protesters | 2020-07-25
 
 Screen-capped footage from a journalist shows police pushing press and protesters back near Pine and 10th. The filmer, a journalist, says he cannot move quickly because there is a crowd of people behind him. Police shove him and other protesters and press, then discharge pepper spray.
 
@@ -20920,7 +20920,7 @@ geolocation: 47.6152444, -122.3191508
 * https://twitter.com/ZeldaWarriorCat/status/1287203846071099394
 
 
-### Police pepper spray protesters on sidewalk | July 25th
+### Police pepper spray protesters on sidewalk | 2020-07-25
 
 Police approach protesters hiding behind umbrellas on the sidewalk near 10th and Pine. Officers flank and pepper spray them. A protester crossing the street is then pepper sprayed. An officer holding a bike swings the bike's rear tire in the air at protesters. Police continue to discharge pepper spray.
 
@@ -20935,7 +20935,7 @@ geolocation: 47.6152444, -122.3191508
 * https://twitter.com/richsssmith/status/1287172691540115456
 
 
-### Police deploy tear gas and flashbangs against protesters | July 25th
+### Police deploy tear gas and flashbangs against protesters | 2020-07-25
 
 Police deploy tear gas and flashbangs against protesters at Broadway and Pine. The filmer several blocks away states that the tear gas has drifted into his home and "is choking us."
 
@@ -20950,7 +20950,7 @@ geolocation: 47.615225, -122.3207773
 * https://twitter.com/menilivne/status/1287181347845365760
 
 
-### Protester shot at point blank | July 25th
+### Protester shot at point blank | 2020-07-25
 
 Footage from 11th and Pine shows a protester standing about 3 feet away from police, holding a skateboard above his head. He appears to be speaking to police. Without warning, he is shot about about 6 times, in the groin, abdomen and shoulder. Firing at that range and at firing genital regions or above the breastbone are against recommended use of impact munitions.
 
@@ -20965,7 +20965,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/franceschogan/status/1287202059691814912
 
 
-### Police pepper spray man holding bike | July 25th
+### Police pepper spray man holding bike | 2020-07-25
 
 A protester holding a bike and standing several feet away from police is pepper sprayed. Protesters shout, "He did nothing wrong. Whatthe fuck?" Another protester helps the pepper-sprayed protester back away from police. At the end of the video, another protester picks up the bike to walk it back.
 
@@ -20982,7 +20982,7 @@ geolocation: 47.6152813, -122.3200405
 * https://twitter.com/pmalonedc/status/1287213310505410562
 
 
-### Police make violent arrest | July 25th
+### Police make violent arrest | 2020-07-25
 
 Footage from Cal Anderson shows police dragging a woman across the gravel. She screams. Police then chase off other protesters. The camera pans back to the woman as she is shoved against a knee high concrete barrier. Officers then grab her again and throw her to the ground to arrest her. Other officers then crowd around to inhibit filming. The protester does not appear to resist arrest at any point.
 
@@ -20997,7 +20997,7 @@ geolocation: 47.617716, -122.3193748
 * https://twitter.com/LizTurnbull5/status/1287226515642449920
 
 
-### Violent arrest made near 11th and Pine | July 25th
+### Violent arrest made near 11th and Pine | 2020-07-25
 
 Footage shows police arrested a woman while others pepper spray the area to clear protesters. The woman attempts to stand, then is forced back to the ground. The officer appears to hold her head facedown in the gravel. She passively resists by locking her arms. More officers join and kneel on her to arrest her.
 
@@ -21012,7 +21012,7 @@ geolocation: 47.6151981, -122.3182049
 * https://twitter.com/richsssmith/status/1287176053073408000
 
 
-### Police fire tear gas at protesters following directions | July 25th
+### Police fire tear gas at protesters following directions | 2020-07-25
 
 Footage shows protesters walking peacefully in the direction specified by SPD near Broadway and East Denny Way. Police launch tear gas into the crowd. Justification is not clear.
 
@@ -21030,7 +21030,7 @@ geolocation: 47.6187642, -122.3211018
 * https://twitter.com/sean_roulette/status/1287216968320212993
 
 
-### Police shove and pepper spray protesters, grab signs | July 25th
+### Police shove and pepper spray protesters, grab signs | 2020-07-25
 
 Footage shows police forcing protesters back up Harvard Avenue near Pine Stree. Protesters are obeying. Throughout the footage, police shove and pepper spray protesters. In addition, police snatch signs and umbrellas. Police also deploy tear gas.
 
@@ -21046,7 +21046,7 @@ geolocation: 47.6155228, -122.3221322
 * https://twitter.com/tetraphis_/status/1287221855779090433
 
 
-### Police pepper spray man who is yelling at them | July 25th
+### Police pepper spray man who is yelling at them | 2020-07-25
 
 The filmer yells at police while he walks past them, calling them "a coward" or "a bitch." A police officer then pepper sprays him.
 
@@ -21063,7 +21063,7 @@ geolocation: 47.6152017, -122.3200929
 * https://twitter.com/decolonizemars/status/1287236773345599488
 
 
-### Police snatch and pepper spray protesters | July 25th
+### Police snatch and pepper spray protesters | 2020-07-25
 
 Police at Pine and 11th surge forward, pepper spraying several protesters, then snatching others for arrest.
 
@@ -21079,7 +21079,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/GoldsteinStreet/status/1287236138604703746
 
 
-### Police ride bikes into crowd and arrest protesters | July 25th
+### Police ride bikes into crowd and arrest protesters | 2020-07-25
 
 Police on Pine Street (between 10th and 11th) again surged forward. This time, police on bikes ride into the crowd, jump off and tackle protesters for arrest.
 
@@ -21094,7 +21094,7 @@ geolocation: 47.6152481, -122.3184919
 * https://twitter.com/slydesilva/status/1287240894219841536
 
 
-### Police use pepper spray to push protesters back | July 25th
+### Police use pepper spray to push protesters back | 2020-07-25
 
 Police with batons push the crowd back at 1tth and Pine, discharging pepper spray to speed protesters up.
 
@@ -21109,7 +21109,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/daeshikjr/status/1287263163159781376
 
 
-### Police charge and pepper-spray protesters | July 25th
+### Police charge and pepper-spray protesters | 2020-07-25
 
 Footage from 11th and Pine shows police charging at protesters without warning and pepper-spraying them, including one protester lying on the ground. Police also strike protesters with batons and shove them.
 
@@ -21125,7 +21125,7 @@ geolocation: 47.6152333, -122.3182451
 * https://twitter.com/greg_doucette/status/1287405595801325569
 
 
-### Cop tackles cyclist | July 25th
+### Cop tackles cyclist | 2020-07-25
 
 Video shows a cyclist who appears to be unassociated with the protest slowly approaching an area where cops and police vans are in the process of blocking off the street. A cop walking away from the camera clearly glances at the cyclist but doesn't appear to issue any warning and looks away. Presumably unaware of what's happening, the cyclist tries to ride through. The cop then suddenly rushes the cyclist and tackles them off the bicycle. Other cops converge to arrest the cyclist.
 
@@ -21142,7 +21142,7 @@ geolocation: 47.6152866, -122.3168341
 * https://twitter.com/StellarArris/status/1287446170403508226
 
 
-### Effects of flashbang | July 25th
+### Effects of flashbang | 2020-07-25
 
 An image shows the effects of a flashbang grenade which allegedly struck and detonated on a protester. The victim appears to have suffered lacerations and bruising as a result of the impact.
 
@@ -21159,7 +21159,7 @@ geolocation: 47.6152252, -122.3207071
 * https://twitter.com/DickandSharon/status/1287653775042371585
 
 
-### Protester struck in head by flashbang, gets 4 staples | July 25th
+### Protester struck in head by flashbang, gets 4 staples | 2020-07-25
 
 Video taken by a protester at 11th and Pine shows police tossing stun grenades and shooting projectiles. The filmer is struck by something, "most likely shrapnel from a flashbang," and people around him can be heard calling for medics. In a separate post, a photograph shows his head with 4 staples in it.
 
@@ -21175,7 +21175,7 @@ geolocation: 47.6151981, -122.3182049
 * https://www.facebook.com/photo.php?fbid=10217824199217111&set=a.10201512323190405&type=3
 
 
-### Police violently push protesters down the street | July 25th
+### Police violently push protesters down the street | 2020-07-25
 
 Police push protesters down Pine between 10th and 11th. Protester are obeying directions, albeit walking slowly and talking to police. Police discharge pepper spray and fire explosives at protesters. One protester appears to be directly hit. Police grab or shove protesters who are straggling and arrest them.
 
@@ -21191,7 +21191,7 @@ geolocation: 47.6152444, -122.3191508
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hzdd88/police_brutality_seattlepd_push_protestorsfire/
 
 
-### Police pepper spray legal observer | July 25th
+### Police pepper spray legal observer | 2020-07-25
 
 A legal observer is seen filming a short distance from police near 11th and Pine. An officer then pepper sprays her in the face.
 
@@ -21207,7 +21207,7 @@ geolocation: 47.6152896, -122.3181832
 * [NLG Press release regarding the protest](https://www.nlg.org/seattle/2020/07/26/legal-observers-from-seattles-national-lawyers-guild-aggressively-targeted-by-law-enforcement/)
 
 
-### Police tackle protesters in street | August 13th
+### Police tackle protesters in street | 2020-08-13
 
 Police approach protesters standing in the street near 11th and Pine. A scuffle begins and protesters are shoved. One is thrown to the ground and arrested. One officer appears to injure himself shoving protesters. Officers appeared to be a combination of SPD and private security.
 
@@ -21225,7 +21225,7 @@ geolocation: 47.6153176, -122.3181502
 * [Full video; incident at 7:45](https://www.instagram.com/p/CD174Q_gMvH/)
 
 
-### Police damage vehicles supporting protesters | August 14th
+### Police damage vehicles supporting protesters | 2020-08-14
 
 Police walk behind a line of cars driving slowly to protect protesters ahead of them near Broadway and Thomas. Police overtake the cars and an officer smashes the window of one.
 
@@ -21241,7 +21241,7 @@ geolocation: 47.6210987, -122.3208649
 * https://twitter.com/TirisTogia/status/1294520513306300416
 
 
-### Legal observer shoved to the ground | August 16th
+### Legal observer shoved to the ground | 2020-08-16
 
 During a standoff between police and protesters near the Seattle Police Officers Guild building, several legal observers stand around near police. A firework, ostensibly thrown by protesters, explodes behind the police line. An officer then shoves a legal observer over.
 
@@ -21256,7 +21256,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/FirecrowTV/status/1295242437456048130
 
 
-### Police charge protesters without warning | August 16th
+### Police charge protesters without warning | 2020-08-16
 
 Footage shows police and protesters separated from one another after police declared a riot near the Seattle Police Officers Guild building. Without warning, police begin chanting, "Move," and charge at protesters on foot and on bike. One officer on a bike runs over a protester. Officers then use their bikes to advance against protesters.
 
@@ -21271,7 +21271,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/zmboop/status/1295242820786110469
 
 
-### Police on bicycles chase down and beat alleged protester | August 16th
+### Police on bicycles chase down and beat alleged protester | 2020-08-16
 
 Footage shows several officers on bikes chasing after an individual in the International District. The individual is believed to be dispersing from a protest. One officer on foot slams the individual into a wall. Another officer dismounts and punches the individual repeatedly.
 
@@ -21286,7 +21286,7 @@ geolocation: 47.5988346, -122.3246141
 * https://twitter.com/spekulation/status/1295946737069068288
 
 
-### Police shove member of the press | August 26th
+### Police shove member of the press | 2020-08-26
 
 Police are seen walking protesters, legal observers and journalists backwards. A journalist talks to police as they walk her. An officer then shoves her, knocking the phone out of her hand. The phone was allegedly confiscated and destroyed.
 
@@ -21305,7 +21305,7 @@ geolocation: 47.642982, -122.3236502
 * https://twitter.com/ACABSea/status/1299044335183228930
 
 
-### Police shove protesters, mace journalist, arrest drivers and damage cars | August 26th
+### Police shove protesters, mace journalist, arrest drivers and damage cars | 2020-08-26
 
 A journalist, Omari Salisbury, was livestreaming a protest in Seattle near the Washington State Patrol Building on East Roanoke. About 5:30 into his livestream, he explains that police intend to push protesters back so they can remove vehicles in the street. Police begin shouting, "Move back," and shove protesters back. Police then mace protesters, as well as the journalist.
 
@@ -21328,7 +21328,7 @@ geolocation: 47.642982, -122.3236502
 * [Additional footage of charge](https://twitter.com/TheBageler7/status/1299003806928105480)
 
 
-### Police drag protester from car | September 4th
+### Police drag protester from car | 2020-09-04
 
 Protesters on foot and in vehicles blocked I-5 near exit 168 for a short time. Police arrested 9 marchers, including one individual dragged from his car. A passenger in the car asked an officer why the driver was arrested. The officer refused to answer at that time, telling the filmer to come back later.
 
@@ -21346,7 +21346,7 @@ geolocation: 47.6467988, -122.3228219
 * https://www.thestranger.com/slog/2020/09/04/44418202/nine-marchers-arrested-after-shutting-down-i-5
 
 
-### Police use bikes to ride into and shove protesters | September 7th
+### Police use bikes to ride into and shove protesters | 2020-09-07
 
 Protesters gathered outside the Seattle Police Officers Guild. Police rode their bikes into protesters, then used their bikes to shove protesters back. No provocation on the part of protesters can be seen.
 
@@ -21365,7 +21365,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/KatieDaviscourt/status/1303143732519165952
 
 
-### Police officer shoves protester | September 7th
+### Police officer shoves protester | 2020-09-07
 
 Protesters are seen arguing with police in the street. One protester approaches police then runs away as police converge. Another protester stands in the way and is shoved to the ground.
 
@@ -21380,7 +21380,7 @@ geolocation: 47.5761869, -122.3468958
 * https://twitter.com/RegretaGarbo/status/1303194153132519424
 
 
-### Police target protester, pepper spray crowd | September 15th
+### Police target protester, pepper spray crowd | 2020-09-15
 
 At a protest on September 15th, police targeted a community member for arrest. They pointed out the individual and told them they were arresting the protester. They then grabbed the protester and pepper sprayed the crowd. Several protesters are then thrown to the ground and arrested.
 
@@ -21397,7 +21397,7 @@ geolocation: 47.6244606, -122.3474776
 * https://twitter.com/Sadenochill/status/1306755438839382016
 
 
-### Police ride bike over protester's head | September 23rd
+### Police ride bike over protester's head | 2020-09-23
 
 A protester wearing a helmet is seen lying on the ground while SPD officers on bikes approach protesters. One officer rides their bike over the protester's head. The rear wheel of the bike appears to catch on the protester's head and yanks the protester.
 
@@ -21417,7 +21417,7 @@ geolocation: 47.6152896, -122.3181832
 * https://www.q13fox.com/news/seattle-officer-who-ran-over-mans-head-with-bicycle-facing-criminal-probe
 
 
-### Police shove and pepper spray protesters | September 23rd
+### Police shove and pepper spray protesters | 2020-09-23
 
 Police on bikes push protesters down the street near 11th and Pine. One officer pepper sprays protesters with umbrellas.
 
@@ -21432,7 +21432,7 @@ geolocation: 47.6152896, -122.3181832
 * https://twitter.com/richsssmith/status/1309011578705137664
 
 
-### Police knock protester over, then shoot them with impact munitions | September 23rd
+### Police knock protester over, then shoot them with impact munitions | 2020-09-23
 
 Police use bikes to shove protesters on the sidewalk near Broadway and Howell. One officer snatches an umbrella from a protester, knocking the protester down. Another officer then fires impact munitions (allegedly rubber bullets) at the protester.
 
@@ -21447,7 +21447,7 @@ geolocation: 47.6175651, -122.3230289
 * https://twitter.com/richsssmith/status/1309041882929008642
 
 
-### Police fire impact munitions in response to trash fires | September 24th
+### Police fire impact munitions in response to trash fires | 2020-09-24
 
 Police charge protesters in the street at 12th and Pine, pushing them away from small fires lit by protesters. Police fire a continual barrage of munitions as protesters retreat.
 
@@ -21463,7 +21463,7 @@ geolocation: 47.6152538, -122.3168999
 * https://twitter.com/mikescaturo/status/1309392513719963649
 
 
-### Individual thrown against concrete wall during arrest | September 28th
+### Individual thrown against concrete wall during arrest | 2020-09-28
 
 Footage shows an individual, believed by the filmer to be an observer watching protests, walking down a street near 12th and Pine in front of several officers on bicycles. The officers dismount and arrest the individual for unclear reason. Two officers pin the individual against a concrete wall. At 0:21 in the video, the officers pull the individual back and slam their head into the wall.
 
@@ -21479,7 +21479,7 @@ geolocation: 47.6152538, -122.3168999
 * [Earlier footage showing individual walking down street, not near protesters](https://twitter.com/MarcusKulik/status/1310850132892508160)
 
 
-### Police shove, shoot at, and arrest protesters | October 3rd
+### Police shove, shoot at, and arrest protesters | 2020-10-03
 
 At a protest in Seattle, police on bicycles shoved protesters walking away from them. Protesters were complying with direction to "move back." Police charged and shoved protesters. Making multiple arrests. Police additionally fired impact munitions, believed to be pepper balls, into the crowd. Police also used mace to subdue the crowd. An independent journalist, Alissa Azar, was shot in the back of the neck.
 
@@ -21503,7 +21503,7 @@ geolocation: 47.619373, -122.324992
 * https://twitter.com/spekulation/status/1313351287035944962
 
 
-### Police arrest bystander in minivan during protest | October 3rd
+### Police arrest bystander in minivan during protest | 2020-10-03
 
 Police push protesters back near the intersection of East Olive Way and Summit Avenue in Seattle. Several motorists are trapped in the push. They drive forward slowly in an attempt to leave. An officer bangs on the window of the minivan, telling the driver to move faster. The driver appears to attempt to continue leaving, but is unable to do so quickly. Officers then arrest the driver.
 
@@ -21518,7 +21518,7 @@ geolocation: 47.6188863, -122.3253452
 * https://twitter.com/iNFoPiG2/status/1312860281240907777
 
 
-### Police tackle protesters without apparent justification | October 17th
+### Police tackle protesters without apparent justification | 2020-10-17
 
 Seattle police officers on bikes charge protesters from behind, tackling and arresting them. There appeared to be no justification for the arrests. The incident occurred during a march in Seattle's Capitol Hill neighborhood, which passed the Big Mario's Pizza on East Pike Street shortly beforehand.
 
@@ -21534,7 +21534,7 @@ geolocation: 47.6141198, -122.3189719
 * https://twitter.com/R3volutionDaddy/status/1317874394711011329
 
 
-### Police arrest bystander in vehicle | November 4th
+### Police arrest bystander in vehicle | 2020-11-04
 
 A bike officer singles out a car driving with protesters (near Mercer and 4th Ave N) for no clear reason; the car was one of several. The officer begins banging on the car window with his bicycle. A second officer joins him. They smash the window, arrest the driver, and leave the vehicle in the street.
 
@@ -21550,7 +21550,7 @@ geolocation: 47.6246164, -122.3488599
 * https://www.youtube.com/watch?v=FRwNmCd8X8o
 
 
-### Police assault and hospitalize protester | November 4th
+### Police assault and hospitalize protester | 2020-11-04
 
 Police push protesters back at 12th and Pine, tackling one to the ground and punching them. Several officers hold this individual to the ground after they become non-responsive. The protester was taken away in a Fire Department aid vehicle after several minutes.
 
@@ -21577,7 +21577,7 @@ geolocation: 47.6152719, -122.319049
 * https://twitter.com/MarcusKulik/status/1324885077478633472
 
 
-### Officer escalates scuffle by pepper spraying and arresting protester | November 27th
+### Officer escalates scuffle by pepper spraying and arresting protester | 2020-11-27
 
 While police are dispersing protesters at E Olive Way and E Denny Way, an officer and an elderly man holding a cane are seen in the street. The officer is pushing the man back across the street and the man is attempting to walk the opposite direction. After the officer pushes the protester to the sidewalk, the officer turns to walk away. The protester then lightly strikes the body-armored officer on the back with his cane; the cane then collapses, suggesting it is a collapsible cane, not capable of striking forcefully. The officer then pepper sprays the protester and tackles him to the ground for arrest.
 
@@ -21596,7 +21596,7 @@ geolocation: 45.5171945, -122.5538792
 
 ## Vancouver
 
-### Police arrest journalists | October 31st
+### Police arrest journalists | 2020-10-31
 
 Police arrest 2 members of the press near the Juvenile Detention Center for "not walking fast enough."
 
@@ -21617,7 +21617,7 @@ geolocation: 45.6295982, -122.676611
 
 ## DC
 
-### Riot police fire tear gas round at protester | May 30th
+### Riot police fire tear gas round at protester | 2020-05-30
 
 At short range, officer fires a tear gas round directly at a protester outside 1615 H Street. The round narrowly misses striking the protester in the face.
 
@@ -21633,7 +21633,7 @@ geolocation: 38.9001869, -77.0375393
 * https://mobile.twitter.com/chadloder/status/1267377374066167808
 
 
-### Riot Police rams shield into BBC cameraman | May 31st
+### Riot Police rams shield into BBC cameraman | 2020-05-31
 
 A BBC cameraman was charged at by police and hit with a shield.
 
@@ -21649,7 +21649,7 @@ geolocation: 38.900186, -77.0360547
 * https://www.bbc.co.uk/news/av/world-us-canada-52884888/george-floyd-protests-police-charge-at-bbc-cameraman-near-white-house
 
 
-### Police tear gas protesters outside of Lafayette Square | May 31st
+### Police tear gas protesters outside of Lafayette Square | 2020-05-31
 
 Tear gas is shot on ground near protesters. One protester is depicted needing water for eye wash. Calls for water and medics are heard.
 
@@ -21665,7 +21665,7 @@ geolocation: 38.9001869, -77.0375393
 * https://twitter.com/i/status/1267283580474085378
 
 
-### NBC News reporter shot on air | May 31st
+### NBC News reporter shot on air | 2020-05-31
 
 A reporter for NBC News, Garrett Haake, is filming protests when he is shot on air with an impact munition, believed to be a rubber bullet.
 
@@ -21680,7 +21680,7 @@ geolocation: 38.902671, -77.036576
 * https://twitter.com/MSNBC/status/1267294124123750402
 
 
-### Australian news crew and protesters attacked by police | June 1st
+### Australian news crew and protesters attacked by police | 2020-06-01
 
 Protesters and an Australian reporter and cameraman were attacked by police while reporting on protests in DC. An officer charged directly at the journalist and appeared to punch her. The journalist identified herself at media, and identified that tear gas and rubber bullets were used.
 
@@ -21701,7 +21701,7 @@ geolocation: 38.900127, -77.036227
 * [Mirror of alternate footage](https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484)
 
 
-### Protesters are quickly and violently pushed out of Lafayette Square | June 1st
+### Protesters are quickly and violently pushed out of Lafayette Square | 2020-06-01
 
 The protesters were given no warning to leave, resulting in forceful removal and injuries to protesters via tear gas and flashbangs.
 
@@ -21721,7 +21721,7 @@ geolocation: 38.9001869, -77.0375393
 * https://twitter.com/nytimes/status/1267638330654625794
 
 
-### Police violence outside the White House | June 1st
+### Police violence outside the White House | 2020-06-01
 
 MSNBC captures mounted and regular police using flashbangs on peaceful protesters outside the White House. Someone injured by police is carried away live on camera.
 
@@ -21736,7 +21736,7 @@ geolocation: 38.9001858, -77.037084
 * https://www.reddit.com/r/PublicFreakout/comments/guvwgo/trump_gives_a_speech_about_protecting_peaceful/
 
 
-### Man who sheltered protesters discusses law enforcement officers shooting tear gas into his house | June 1st
+### Man who sheltered protesters discusses law enforcement officers shooting tear gas into his house | 2020-06-01
 
 A DC resident discusses being accosted by officers when trying to enter his home on Swann Street between 14th and 15th. Once inside, a crowd of protesters were allegedly confined to the street by officers, at which point the resident offered to shelter them in his home. He claims that officers then fired tear gas into his home.
 
@@ -21752,7 +21752,7 @@ geolocation: 38.9148329, -77.0334411
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
 
-### Police charge peaceful crowd, beat them with shields | June 1st
+### Police charge peaceful crowd, beat them with shields | 2020-06-01
 
 Here, police are captured charging into a crowd of peaceful protesters and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
@@ -21768,7 +21768,7 @@ geolocation: 38.9001851, -77.0378836
 * [CW: Blood](https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/)
 
 
-### Police fire into crowd hitting one protester | June 1st
+### Police fire into crowd hitting one protester | 2020-06-01
 
 Police fire into crowd outside of White House. Protester is hit and falls to the ground. The same protester is then hit again after standing. Projectile used is unknown.
 
@@ -21784,7 +21784,7 @@ geolocation: 38.9001864, -77.0366859
 * [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-8.1.mp4)
 
 
-### Reporter struck with shield and baton | June 1st
+### Reporter struck with shield and baton | 2020-06-01
 
 As a reporter tries to let the police pass by him, they pin him to the wall with a shield and an officer hits his knee with a baton.
 
@@ -21799,7 +21799,7 @@ geolocation: 38.900198, -77.036160
 * https://twitter.com/Joshrepp/status/1267422952691294208
 
 
-### Unmarked federal agents aid police | June 2nd
+### Unmarked federal agents aid police | 2020-06-02
 
 Armed men are seen supporting police efforts. When asked to identify themselves, they stated only that they work for the Department of Justice or "the federal government." They had no identifying names or numbers.
 
@@ -21817,7 +21817,7 @@ geolocation: 38.8931622, -77.0272225
 * https://twitter.com/dfriedman33/status/1267936685536481280
 
 
-### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protester and CNN crew | June 3rd
+### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protester and CNN crew | 2020-06-03
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protester and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
@@ -21835,7 +21835,7 @@ geolocation: 38.900280, -77.038115
 * https://twitter.com/Joshrepp/status/1268204713939435521
 
 
-### Law enforcement officers throw stinger grenades at peaceful protesters | June 3rd
+### Law enforcement officers throw stinger grenades at peaceful protesters | 2020-06-03
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protester.
 
@@ -21851,7 +21851,7 @@ geolocation: 38.9001858, -77.037084
 * https://twitter.com/greg_doucette/status/1268297598856765441
 
 
-### Unknown federal agents aid police | June 4th
+### Unknown federal agents aid police | 2020-06-04
 
 Footage shows a line of agents wearing riot gear. They do not have names, badges or body cams. They allegedly refused to tell protesters what agency sent them.
 
@@ -21870,7 +21870,7 @@ geolocation: 38.8931622, -77.0272225
 * https://www.businessinsider.com/officers-special-trained-prison-riots-face-off-with-dc-protesters-2020-6
 
 
-### Police violently arrest protester | June 22nd
+### Police violently arrest protester | 2020-06-22
 
 During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protester. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
 
@@ -21885,7 +21885,7 @@ geolocation: 38.8995177, -77.0387365
 * https://twitter.com/JoshuaPotash/status/1275249479554400256
 
 
-### Protesters attempt to vandalize Andrew Jackson statue; police escalate violence | June 22nd
+### Protesters attempt to vandalize Andrew Jackson statue; police escalate violence | 2020-06-22
 
 Prior to a much publicized attempt to tear down a statue of Andrew Jackson, police erected a chain-link fence around the statue.
 
@@ -21909,7 +21909,7 @@ geolocation: 38.8995177, -77.0387365
 * https://twitter.com/itsSweetThing/status/1275419611568226305
 
 
-### Unidentified man working alongside police hits protesters with baton | June 22nd
+### Unidentified man working alongside police hits protesters with baton | 2020-06-22
 
 Video shows police slowly advancing towards protesters, pushing them back. Alongside the police is a man conspicuously wearing "jeans and fatigue-colored ammo belt" wielding a baton. He has no police badge or other identification. He hits and shoves the individual filming. Neither he nor the officers answer when protesters demand to know who the man is and whether he is a cop or a vigilante. A second video in the same twitter thread shows the unidentified man striking a protester and talking with an officer. A third video in the thread shows the man assisting with an arrest. It is unclear whether the police were allowing a civilian without any authority to assault protesters, or whether they were protecting the identity of an officer from some special unit.
 
@@ -21929,7 +21929,7 @@ geolocation: 38.8995177, -77.0387365
 * [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.3.mp4)
 
 
-### Police pepper spray protesters with hands up | June 22nd
+### Police pepper spray protesters with hands up | 2020-06-22
 
 Police line begins shouting, "Move back" and using their bikes to push protesters back across a street. Protesters with hands up who refuse to move are shoved and told to keep moving. Protesters near the filmer shout at police, saying, "What's wrong with you?" An officer behind the line of bikes steps forward and sprays pepper spray at protesters, including the filmer.
 
@@ -21944,7 +21944,7 @@ geolocation: 38.8995177, -77.0387365
 * https://twitter.com/LiteraryMouse/status/1275228261140791299
 
 
-### Footage shows officer with tape over badge number | June 23rd
+### Footage shows officer with tape over badge number | 2020-06-23
 
 Footage shows an argument between a protester an officer. The protester films close to the officer's face; the officer shines his flashlight in the protester's eye.
 
@@ -21961,7 +21961,7 @@ geolocation: 38.9012203, -77.0365494
 * https://twitter.com/wyattreed13/status/1275623256406581251
 
 
-### Police pepper-spray peaceful protesters | June 23rd
+### Police pepper-spray peaceful protesters | 2020-06-23
 
 Police can be heard chanting, "Move back," while pushing protesters back through a park. Protesters obeying direction are still pepper sprayed.
 
@@ -21976,7 +21976,7 @@ geolocation: 38.8995177, -77.0387365
 * https://twitter.com/DotElection/status/1275289922740662275
 
 
-### Eyewitness reports police destroyed supplied and attacked medics | June 23rd
+### Eyewitness reports police destroyed supplied and attacked medics | 2020-06-23
 
 An eyewitness to protests reports that police pushed protesters away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
 
@@ -21998,7 +21998,7 @@ geolocation: 38.9002291, -77.0365354
 * [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-22.2.mp4)
 
 
-### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
+### Police use pepper spray, flashbangs and tear gas to disperse protest | 2020-06-23
 
 Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests.
 
@@ -22023,7 +22023,7 @@ geolocation: 38.9008853, -77.0365427
 * https://www.youtube.com/watch?v=aC1udgaUzDI
 
 
-### Police target protester handing out water | June 27th
+### Police target protester handing out water | 2020-06-27
 
 Footage from late on June 27th, police charge a protester walking away from them. She is grabbed by multiple officers, both on bike and on foot. The police then arrest her. She drops several water bottles out of her hands. Protesters state she was passing out water bottles to thirsty protesors.
 
@@ -22038,7 +22038,7 @@ geolocation: 38.9004848, -77.0365451
 * https://twitter.com/FordFischer/status/1277457274395676672
 
 
-### Numerous officers make physical arrest | July 4th
+### Numerous officers make physical arrest | 2020-07-04
 
 Footage from 3 tiktok videos shows numerous officers (approximately 8) arresting one protester. Protester appears to passively resist by locking his arms. He says, "Sir, I will go with you if you stop grabbing my arms." Other protesters can be heard asking why the man is under arrest.
 
@@ -22059,7 +22059,7 @@ geolocation: 38.9018705, -77.0365674
 * https://www.tiktok.com/@organicgoodz/video/6845323150729678085
 
 
-### Multiple officers arrest peaceful protester | July 7th
+### Multiple officers arrest peaceful protester | 2020-07-07
 
 The first two videos are in chronological order, the first showing the protester speaking to one officer (he is not the person speaking with the megaphone, however his words are clearly audible). This turns violent as an officer shoves the protester into the concrete and is quickly aided by at least one other officer.
 In the second video, four officers are shown to be directly involved in the arrest with many more barricading them with bikes to keep the crowd back. The arrest is then made with the man on the ground.
@@ -22079,7 +22079,7 @@ geolocation: 38.9001858, -77.036514
 * https://twitter.com/DCMediaGroup/status/1281334939179462663
 
 
-### Protester surrounded and arrested | July 7th
+### Protester surrounded and arrested | 2020-07-07
 
 Footage shows a protester speaking to an officer in a white shirt. Two more officers quietly walk up behind the protester. Without warning, the white-shirted officer grabs the protester. The protester panics and more police join to move him off to the side and force him to the ground.
 
@@ -22100,7 +22100,7 @@ geolocation: 38.9001858, -77.036514
 * https://twitter.com/DCMediaGroup/status/1281334939179462663
 
 
-### Pro-life protesters arrested for chalking sidewalk | August 1st
+### Pro-life protesters arrested for chalking sidewalk | 2020-08-01
 
 Pro-Life protesters held a permitted protest outside the Planned Parenthood National Headquarters. Several were arrested for vandalism after attempting to paint and chalk messages on the public sidewalk. The Metropolitan Police Department states that although the rally was permitted, they state a Department of Transportation permit would also have been needed to chalk on the sidewalk. A spokesperson for the protesters states that protesters were told they would not be phyiscally stopped from painting and were even advised on what paint to buy.
 
@@ -22116,7 +22116,7 @@ geolocation: 38.9041438, -77.0336351
 * https://www.washingtontimes.com/news/2020/aug/1/police-stop-pro-lifers-painting-street-black-prebo/
 
 
-### Individual pepper sprayed while filming | August 14th
+### Individual pepper sprayed while filming | 2020-08-14
 
 Shortly after midnight on August 14th, an individual - allegedly a bystander - is filming police. An officer shoves him away and pepper sprays him. The officer appears to catch another officer in the pepper spray.
 
@@ -22134,7 +22134,7 @@ geolocation: 38.9163131, -77.0416043
 * https://www.washingtonpost.com/local/public-safety/dc-police-surround-protesters-in-adams-morgan-area/2020/08/14/f3970ff2-dddf-11ea-8051-d5f887d73381_story.html
 
 
-### Protester grabbed and punched | August 14th
+### Protester grabbed and punched | 2020-08-14
 
 A protester approaches cops making an arrest and is restrained by an officer while a 2nd officer punches her.
 
@@ -22152,7 +22152,7 @@ geolocation: 38.9163131, -77.0416043
 * https://www.washingtonpost.com/local/public-safety/dc-police-surround-protesters-in-adams-morgan-area/2020/08/14/f3970ff2-dddf-11ea-8051-d5f887d73381_story.html
 
 
-### Police arrest, tear gas, pepper spray, and shoot protesters | August 29th
+### Police arrest, tear gas, pepper spray, and shoot protesters | 2020-08-29
 
 After police make an arrest at a protest, the protesters become agitated and shout at police. Police then throw tear gas canisters at protesters. Officers chase protesters down the street using tear gas, stun grenades and rubber bullets. One officer discharges pepper spray at protesters and the filmer, a journalist.
 
@@ -22174,7 +22174,7 @@ geolocation: 38.9002465, -77.0365341
 * https://twitter.com/BareWithAyan/status/1299918588640464896
 
 
-### Police shove and pepper spray protesters | August 29th
+### Police shove and pepper spray protesters | 2020-08-29
 
 Police walk protesters down the street. One officer pepper sprays a protester. He stops walking as he tries to clear his eyes, and an officer shoves him. Another protester then yells at police; she is pepper sprayed as well.
 
@@ -22191,7 +22191,7 @@ geolocation: 38.9025186, -77.0371451
 * https://twitter.com/ChuckModi1/status/1299966217546067968
 
 
-### Police smash window and arrest Snack Van driver | August 29th
+### Police smash window and arrest Snack Van driver | 2020-08-29
 
 The Snack Van from Portland joined protests in D.C. to hand out food, water and medical supplies to protesters. The driver rolled slowly alongside protesters as police began dispersal. Police told the driver to pull the van over and put in park. The driver began to comply. An officer then smashed the driver side window and arrested the occupants.
 
@@ -22206,7 +22206,7 @@ geolocation: 38.9024285, -77.0364604
 * https://twitter.com/PotempkinBrain/status/1300267743057522689
 
 
-### Police tear gas protesters | August 31st
+### Police tear gas protesters | 2020-08-31
 
 Protesters and police faced off shortly after midnight on the morning of August 31st. Protesters threw water bottles at police. Police escalated and used tear gas to disperse protesters.
 
@@ -22223,7 +22223,7 @@ geolocation: 38.9001083, -77.0365829
 * https://twitter.com/LizzieLouFerris/status/1300324311002210306
 
 
-### Police shoot at protesters | August 31st
+### Police shoot at protesters | 2020-08-31
 
 Police behind a barricade in the street fire rubber bullets at protesters. Protesters appear to be doing no more than shouting at police to stop shooting.
 
@@ -22238,7 +22238,7 @@ geolocation: 38.900764, -77.0365423
 * https://twitter.com/ChuckModi1/status/1300308986428895240
 
 
-### Police charge, push, and shove protesters | September 26th
+### Police charge, push, and shove protesters | 2020-09-26
 
 Police charged into a crowd of protesters, pushing and shoving. Police then grabbed one protester for arrest without apparent reason. Police then dragged the protester to the ground and arrested him.
 
@@ -22253,7 +22253,7 @@ geolocation: 38.9169607, -77.0329333
 * https://twitter.com/rawsmedia/status/1310039420716888066
 
 
-### Police make violent arrest | September 26th
+### Police make violent arrest | 2020-09-26
 
 Police make a violent arrest, allegedly for property damage. Police grab him by the limbs and throw him face first into the ground.
 
@@ -22268,7 +22268,7 @@ geolocation: 38.9002536, -77.0365248
 * https://twitter.com/blackhousenew/status/1310090868494348288
 
 
-### Police wrestle with protesters | October 3rd
+### Police wrestle with protesters | 2020-10-03
 
 Metro police grapple with counter-protesters at a WalkAway rally. Several Black Lives Matter protesters are pushed, tackled and arrested. It is unclear how the altercation began.
 
@@ -22283,7 +22283,7 @@ geolocation: 38.889484, -77.035278
 * https://twitter.com/rawsmedia/status/1312447763854974976
 
 
-### Police pepper spray protesters after one protester splashes water | October 27th
+### Police pepper spray protesters after one protester splashes water | 2020-10-27
 
 At a protest near the 4th precinct, a protester throws water at an officer. The officer then responds by discharging pepper spray at the entire crowd, including the mother of Karon Hylton, the young man killed in a chase with police over his lack of helmet. One user alleges Karon Hylton's father was pepper sprayed as well.
 
@@ -22300,7 +22300,7 @@ geolocation: 38.961307, -77.0280925
 * https://twitter.com/SS_Capo/status/1321248119015804928
 
 
-### Stun grenade explodes near reporter's head | October 27th
+### Stun grenade explodes near reporter's head | 2020-10-27
 
 In an incident that appears to have occurred near a Walmart by the 4th Police Precinct, a journalist is seen standing close to a police riot line. A stun grenade then whizzes by the journalists head, exploding near him.
 
@@ -22315,7 +22315,7 @@ geolocation: 38.961307, -77.0280925
 * https://twitter.com/wyattreed13/status/1321252001737572356
 
 
-### Police pepper spray crowd after protesters yell at officers | October 27th
+### Police pepper spray crowd after protesters yell at officers | 2020-10-27
 
 In an incident that appears to occur outside the 4th District Police Station in Washington D.C., several protesters approach police while yelling. Police then discharge pepper spray without warning.
 
@@ -22330,7 +22330,7 @@ geolocation: 38.9626774, -77.0274563
 * https://twitter.com/ChuckModi1/status/1321297567976751108
 
 
-### Police pepper spray crowd after protester yells at officers | October 27th
+### Police pepper spray crowd after protester yells at officers | 2020-10-27
 
 At a protest near the 4th precinct, a protester is seen yelling at police. Police then discharge pepper spray at him and other protesters.
 
@@ -22345,7 +22345,7 @@ geolocation: 38.961307, -77.0280925
 * https://twitter.com/ltrain87x/status/1321247689904922624
 
 
-### Police deploy tear gas and stun grenades | October 27th
+### Police deploy tear gas and stun grenades | 2020-10-27
 
 Footage shows tear gas and stun grenades were deployed outside the 4th precinct in Washington, D.C. Several bystander vehicles appear to have been caught in the gas.
 
@@ -22362,7 +22362,7 @@ geolocation: 38.9609143, -77.0279237
 * https://twitter.com/rawsmedia/status/1321246974914580480
 
 
-### Officer pepper sprays journalist | October 28th
+### Officer pepper sprays journalist | 2020-10-28
 
 A journalist films police as they advance against protesters. A protester detonates a firework about 10 feet away. An officer then turns to the journalist and pepper sprays him.
 
@@ -22377,7 +22377,7 @@ geolocation: 38.9613382, -77.0279777
 * https://twitter.com/wyattreed13/status/1321648372642697217
 
 
-### Officers pepper spray protesters and journalists | October 28th
+### Officers pepper spray protesters and journalists | 2020-10-28
 
 Footage taken near the intersection of Georgia and Missouri Avenues in DC shows police deploying pepper spray against protesters as well as the filmer, a journalist.
 
@@ -22396,7 +22396,7 @@ geolocation: 38.9610023, -77.030211
 * https://twitter.com/ChuckModi1/status/1321965169652703233
 
 
-### Police use tear gas and stun grenades against protesters | October 28th
+### Police use tear gas and stun grenades against protesters | 2020-10-28
 
 Footage taken at the intersection of Georgia and Missouri Avenues in DC shows a riot police line, having deployed tear gas and stun grenades in an effort to keep protesters away from an area Walmart.
 
@@ -22414,7 +22414,7 @@ geolocation: 38.9610023, -77.030211
 * https://twitter.com/FordFischer/status/1321905940086534144
 
 
-### Police pepper spray crowd of protesters | October 28th
+### Police pepper spray crowd of protesters | 2020-10-28
 
 Footage taken at the entrance to the 4th precinct in D.C. shows a scuffle between protesters and police. Police then blanket the crowd with pepper spray.
 
@@ -22429,7 +22429,7 @@ geolocation: 38.9624407, -77.0286733
 * https://twitter.com/FordFischer/status/1321905855281958913
 
 
-### Police make violent arrests | November 3rd
+### Police make violent arrests | 2020-11-03
 
 Violent arrests made by MPD during an Election day protest at Black Lives Matter plaza.
 
@@ -22448,7 +22448,7 @@ geolocation: 38.9013441, -77.0387466
 * https://twitter.com/brutamerica/status/1323825313575567361
 
 
-### Police pepper spray journalist | December 12th
+### Police pepper spray journalist | 2020-12-12
 
 After shoving between Black Lives Matter protesters and Metropolitan Police officers starts on I street (between 16th and 17th), a police officer blankets the crowd with pepper spray, spraying a credentialed journalist who is carrying a camera.
 
@@ -22463,7 +22463,7 @@ geolocation: 38.9013276, -77.0380352
 * https://twitter.com/itakeshots1/status/1337845568417173506
 
 
-### Police throw medic to the ground | December 12th
+### Police throw medic to the ground | 2020-12-12
 
 On K street between 16th and 17th, a white-shirted officer lifts an individual in the counter protester crowd (believed to be a medic) off the ground, carries them several feet, and hurls them to the ground. There is no clear justification and the officer made no attempt at arrest.
 
@@ -22480,7 +22480,7 @@ geolocation: 38.9025183, -77.0377747
 * https://twitter.com/TSand83/status/1338328098106957829
 
 
-### Police pepper spray jail support | December 13th
+### Police pepper spray jail support | 2020-12-13
 
 At a Jail Support event near the Henry J Daly building, police blanketed the crowd with pepper spray after an altercation between police and protesters where police shoved protesters and a protester allegedly sprayed water on an officer. At least one protester was arrested during the event.
 
@@ -22502,7 +22502,7 @@ geolocation: 38.8940291, -77.0151978
 * https://twitter.com/ChuckModi1/status/1338640096862609409
 
 
-### Police arrest mother of Karon Hylton | December 19th
+### Police arrest mother of Karon Hylton | 2020-12-19
 
 At a protest outside the MPD headquarters, the mother of Karon Hylton, a young black man killed during a police chase, is seen speaking on a megaphone outside the building. Several officers exit the building and arrest her. Officers do not state charges to her, nor do they answer protester inquiries. She is released several hours late.
 
@@ -22524,7 +22524,7 @@ geolocation: 38.894212, -77.0165467
 
 ## Kenosha
 
-### Police fire tear gas and impact munitions at protesters outside a precinct | August 23rd
+### Police fire tear gas and impact munitions at protesters outside a precinct | 2020-08-23
 
 At protests following the death of Jacob Blake, protesters gathered outside a Kenosha police precinct. Protesters threw water bottles and shot of fireworks. Police responded with tear gas and impact munitions.
 
@@ -22543,7 +22543,7 @@ geolocation: 42.5855286, -87.8243236
 * https://twitter.com/lauren_linder/status/1297775472055640065
 
 
-### Police tear gas protesters a second night | August 24th
+### Police tear gas protesters a second night | 2020-08-24
 
 Protesters were ordered to disperse from the court house. The crowd remained in front of the court house; protesters threw fireworks and water bottles at police. Police and National Guard deployed more tear gas and used the LRAD dispersal function; in addition, they shot protesters with impact munitions.
 
@@ -22578,7 +22578,7 @@ geolocation: 42.5845595, -87.8229363
 * https://twitter.com/RichieMcGinniss/status/1298101016995549185
 
 
-### Police and National Guard use tear gas and LRAD to disperse protesters | August 25th
+### Police and National Guard use tear gas and LRAD to disperse protesters | 2020-08-25
 
 Protesters gathered outside the courthouse in Kenosha, rattling a fence erected that day. Police gave a dispersal order. Protesters did not disperse. Police then deployed tear gas and the LRAD alarm to disperse protesters.
 
@@ -22602,7 +22602,7 @@ geolocation: 42.5845595, -87.8229363
 * https://twitter.com/blackzebrapro/status/1298652286261039106
 
 
-### Police arrest journalist for 'disorderly conduct' | August 31st
+### Police arrest journalist for 'disorderly conduct' | 2020-08-31
 
 A journalist is being walked away from a scene by a police officer. She tells the officer not to touch her and says, "I'm walking, you don't need to touch me. At this point, you're just showing all of us how little your dick is." The officer then arrests her for disorderly conduct.
 
@@ -22617,7 +22617,7 @@ geolocation: 42.5845595, -87.8229363
 * https://twitter.com/r2020PB/status/1300777629268795393
 
 
-### Documentarian pepper sprayed by police | September 1st
+### Documentarian pepper sprayed by police | 2020-09-01
 
 A woman is seen filming protests. She gets into an altercation with an officer. The officer grabs her, then she shoves him away. The officer then pepper sprays her. She stated in an interview afterward that an officer grabbed her breast, so she pushed away; the officer then sprayed her.
 
@@ -22633,7 +22633,7 @@ geolocation: 42.5807922, -87.8218181
 * https://twitter.com/NickAtNews/status/1300913839345672194
 
 
-### Federal officers grab Riot Kitchen crew out of van and arrest them | August 26th
+### Federal officers grab Riot Kitchen crew out of van and arrest them | 2020-08-26
 
 Footage shows federal agents in unmarked cars surrounding a minivan. Officers smash a window and arrest the occupants at gunpoint.
 
@@ -22656,7 +22656,7 @@ geolocation: 42.6027603, -87.8457037
 
 ## Madison
 
-### Officer pepper-sprays or maces protester walking backwards with arms raised | May 30th
+### Officer pepper-sprays or maces protester walking backwards with arms raised | 2020-05-30
 
 Ten seconds into the video, in the bottom-left corner, an officer sprays a protester who is walking backwards with his arms raised (presumably with mace or pepper spray).
 
@@ -22671,7 +22671,7 @@ geolocation: 43.0748535, -89.3898311
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
 
 
-### Police pepper spray protesters with hands up | May 30th
+### Police pepper spray protesters with hands up | 2020-05-30
 
 A group of protesters are standing on a road paved over for pedestrian-only traffic. The protesters have their hands up. Police approach and pepper spray the protesters.
 
@@ -22689,7 +22689,7 @@ geolocation: 43.0747876, -89.3886324
 * https://twitter.com/shadow_roses1/status/1268246561798205442
 
 
-### Police deploy smoke canister at reporter and protester | June 1st
+### Police deploy smoke canister at reporter and protester | 2020-06-01
 
 A reporter is seen walking down the street towards police while interviewing a protester. Police fire a canister which explodes at their feet. Initially, the reporter believed it to be tear gas, but it was in fact smoke. However, he states the protest was peaceful and officers gave no warning before firing. The journalist says he spoke with another officer who found the incident "odd" and additionally stated that smoke is sometimes used because protesters will disperse, thinking it's tear gas.
 
@@ -22706,7 +22706,7 @@ geolocation: 43.074902, -89.396445
 * https://twitter.com/GeorgeBalekji/status/1267527157225533440
 
 
-### Police pepper spray protester with megaphone | August 24th
+### Police pepper spray protester with megaphone | 2020-08-24
 
 Police hold a line in Madison, Wisconsin. Several protesters mill about nearby. One stands near police, speaking into a megaphone. An officer pepper sprays this protester.
 
@@ -22721,7 +22721,7 @@ geolocation: 43.0759943, -89.3844939
 * https://twitter.com/isthmus/status/1298324422336688130
 
 
-### Police pepper spray and tear gas protester | August 24th
+### Police pepper spray and tear gas protester | 2020-08-24
 
 Around 1 AM on August 25th, police arrest a protester on the Capitol building lawn. Other protesters approach the police line, appearing to stop several feet away. Police then pepper spray these protesters. Police then deployed tear gas shortly after.
 
@@ -22737,7 +22737,7 @@ geolocation: 43.0759943, -89.3844939
 * https://twitter.com/bethabeyer/status/1298146285929758720
 
 
-### Homeless bystander caught in tear gas | August 24th
+### Homeless bystander caught in tear gas | 2020-08-24
 
 A homeless bystander sleeping on the street is caught in tear gas. Protesters wake him up and get him out of the area.
 
@@ -22752,7 +22752,7 @@ geolocation: 43.0722786, -89.3842245
 * https://twitter.com/isthmus/status/1298145645665099776
 
 
-### Police fire tear gas, pepper spray and impact munitions at protesters on the sidewalk | August 24th
+### Police fire tear gas, pepper spray and impact munitions at protesters on the sidewalk | 2020-08-24
 
 A small group of protesters is clustered on a sidewalk. From across the street, police fire tear gas and impact munitions, believed to be sponge rounds. Police also discharge pepper spray.
 
@@ -22769,7 +22769,7 @@ geolocation: 43.0785888, -89.380999
 
 ## Milwaukee
 
-### Police on bikes restrain man using knee on neck | June 2nd
+### Police on bikes restrain man using knee on neck | 2020-06-02
 
 Protesters were congregating at the intersection of North 6th Street and McKinley Avenue. A group of officers on bikes rode up to them. Two officers on bikes collided with one another; one officer fell to the ground. Officers then tackled a protester (for reasons unknown) and attempted to take him into custody, with one officer placing a knee on his neck or head for one or two minutes. No officers intervened to get the knee off the man's neck; police formed a barrier to screen the arrest from other protesters and people filming. At the same time, police arrested one other man and hit a woman in the collarbone -- again, for reasons unknown. The man who had an officer's knee on his neck has sued.
 
@@ -22788,7 +22788,7 @@ geolocation: 43.0470717, -87.9188693
 * [Location via Google Street View](https://www.google.com/maps/@43.0470717,-87.9188693,3a,75y,140.42h,99.57t/data=!3m6!1e1!3m4!1sQruIkc5jDDB5HaPqpjulkA!2e0!7i16384!8i8192)
 
 
-### Police use excessive force to disperse protesters | June 2nd
+### Police use excessive force to disperse protesters | 2020-06-02
 
 Protesters had congregated near the intersection of North 6th Street and McKinley Avenue. Over the course of about an hour, police moved forward, dispersing the protesters using tear gas and rubber bullets, first pushing the protesters a block and a half then pushing them off of North 6th Street entirely. Video shows police shooting rubber bullets at protesters on a sidewalk and firing gas canisters, in large number, at a small group of peaceful protesters. (At least some tear gas was used, but it is unclear how much. Police say they also used smoke canisters.)
 
@@ -22817,7 +22817,7 @@ geolocation: 43.0470717, -87.9188693
 * [Location of Reddit video, via Google Street View](https://www.google.com/maps/@43.0456964,-87.9185992,3a,75y,312.46h,104.94t/data=!3m6!1e1!3m4!1sK4uLnbJnDybp9dYDKowiww!2e0!7i16384!8i8192)
 
 
-### Police cut off protesters on Hoan Bridge | June 2nd
+### Police cut off protesters on Hoan Bridge | 2020-06-02
 
 Footage shows protesters peacefully marching across Hoan Bridge. Protesters are met by a line of police who force them back across the bridge. During this encounter, a scuffle breaks out - it is unclear what caused it. Police respond by shoving protesters and throwing smoke bombs. 2 protesters are arrested for unknown reasons. Police also fire less lethal munitions, hitting at least one person in the leg - seen in the second link.
 
@@ -22835,7 +22835,7 @@ geolocation: 43.0251122, -87.902409
 
 ## Wauwatosa
 
-### Police fire tear gas and pepper balls at protesters | October 7th
+### Police fire tear gas and pepper balls at protesters | 2020-10-07
 
 Protesters rallied in Wauwatosa, Wisconsin after it was announced an officer would not be charged in the death of a black teen, which occurred in February. Protesters threw small projectiles at police and police in riot gear responded with tear gas and impact munitions (believed to be pepper balls). Prior to this, protesters had allegedly thrown objects at residential homes. However, it cannot be confirmed if those rioters were at all related to the group of protesters gassed here.
 
@@ -22865,7 +22865,7 @@ geolocation: 43.0603597, -88.0341646
 * https://twitter.com/JohnD91394640/status/1314072964208431105
 
 
-### National Guard officers violently arrest journalists | October 8th
+### National Guard officers violently arrest journalists | 2020-10-08
 
 Several journalists, one independent reporter and several representing The Daily Caller, were sitting in a car in the parking lot of St. Matthew's Evangelical Lutheran Church in Milwaukee, Wisconsin. A local news crew captured National Guard officers pulling them from the car, slamming the independent reporter to the pavement. The independent reporter and one Daily Caller reporter were arrested. The independent reporter was held longer than The Daily Caller reporter, but appears to have been released early on October 9th. One Daily Caller reporter also reports being struck with a baton.
 
@@ -22890,7 +22890,7 @@ geolocation: 43.0526323, -88.0080749
 * https://twitter.com/BGOnTheScene/status/1315100569967697920
 
 
-### Police tear gas protesters | October 9th
+### Police tear gas protesters | 2020-10-09
 
 Police deployed tear gas against protesters gathered at Wauwatosa Avenue and West North Avenue. Protesters were in violation of curfew, and police allege that water bottles had been thrown at them, and that protesters had moved dumpsters into the street.
 
@@ -22912,7 +22912,7 @@ geolocation: 43.0608482, -88.007371
 * https://www.wisn.com/article/police-use-tear-gas-to-disperse-protesters-in-wauwatosa/34333420#
 
 
-### Police violently arrest man in bathrobe for curfew violation | October 9th
+### Police violently arrest man in bathrobe for curfew violation | 2020-10-09
 
 Footage was taken at the intersection of N 70th Street and W North Avenue in Wauwatosa, Wisconsin. Officers in a passing car yell at an individual on the sidewalk to go inside. The officer clarifies that the filmer is exempt, as "ACLU is fine." The officer then proceeds to arrest the individual on the sidewalk, flipping the individual over his knee, and kneeling on his back. Several officers come to aid in making the arrest. Officers continue to tell the individual to stop resisting, though the individual is pinned to the ground.
 
@@ -22931,7 +22931,7 @@ geolocation: 43.0607428, -88.0019335
 * https://twitter.com/Fascist_Fighter/status/1319696152606904321
 
 
-### Police tackle a protester on a bike | October 13th
+### Police tackle a protester on a bike | 2020-10-13
 
 A small group of protesters were marching through a Wauwatosa neighborhood when they were confronted by police. Police tackled tackled a protester off a bike and arrested them.
 
@@ -22958,7 +22958,7 @@ geolocation: 43.0625506, -87.9957363
 
 ## Laramie
 
-### Officer strikes protester with vehicle | September 23rd
+### Officer strikes protester with vehicle | 2020-09-23
 
 After arresting a protester, officers in a patrol vehicle drove up to protesters standing in the road at Grand and 6th. Some protesters stood in front of the car. Although there was ample room for the driver to reverse, the driver chose to accelerate rapidly into the protesters, striking one.
 
