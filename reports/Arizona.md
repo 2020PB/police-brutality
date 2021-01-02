@@ -103,7 +103,7 @@ A protester was shot by police with a bean bag round at a protest on May 31st ou
 
 tags: protester, shoot, less-lethal, bean-bag, rubber-bullet
 
-id: az-phoenix-5
+id: az-phoenix-6
 
 geolocation: 33.4487123,-112.0818697
 
