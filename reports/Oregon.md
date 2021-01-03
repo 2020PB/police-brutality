@@ -7272,6 +7272,42 @@ geolocation: 45.4931755, -122.6718966
 * https://twitter.com/gravemorgan/status/1331488049516195841
 
 
+### Police escalate conflict with tear gas | 2020-12-31
+
+After a protracted exchange between protesters and police, police, along with DHS agents and Multinomah County Sheriff's Deputies, deployed tear gas against protesters. The tear gas is in direct violation of a PPB ban on tear gas, though likely other departments were brought in to deploy the tear gas itself.
+
+Leading up to this exchange, protesters had thrown paint, fireworks and other small projectiles at police. Additionally, protesters had smashed the windows of several storefronts. In response, police fired smoke grenades, pepper spray, and impact munitions (believed to be pepper balls) at protesters.
+
+An independent photographer was at one point struck in the foot with a tear gas canister, and another journalist was shoved to the ground.
+
+tags: arrest, journalist, less-lethal, pepper-ball, pepper-spray, projectile, protester, push, shoot, shove, spray, tear-gas, tear-gas-canister
+
+id: or-portland-412
+
+geolocation: 45.5152115, -122.6791777
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1344916089436655618
+* https://twitter.com/hungrybowtie/status/1344923954184482817
+* https://twitter.com/hungrybowtie/status/1344924759230844930
+* https://twitter.com/hungrybowtie/status/1344925461382483970
+* https://twitter.com/gravemorgan/status/1344910447208632324
+* https://twitter.com/gravemorgan/status/1344914400973443079
+* https://twitter.com/it_aint_pretty_/status/1344914135822209024
+* https://twitter.com/it_aint_pretty_/status/1344916879521943552
+* https://twitter.com/it_aint_pretty_/status/1344917317021405186
+* https://twitter.com/it_aint_pretty_/status/1345048058116018176
+* https://twitter.com/it_aint_pretty_/status/1345048897777909761
+* https://twitter.com/PDocumentarians/status/1344920741695787008
+* https://twitter.com/PDocumentarians/status/1344927581917777921
+* https://twitter.com/shanermurph/status/1344912426412736515
+* https://twitter.com/MaranieRae/status/1344921759686955008
+* https://twitter.com/MaranieRae/status/1344929033792831488
+* https://twitter.com/FordFischer/status/1345058247271657472
+* https://twitter.com/45thabsurdist/status/1345155431321096192
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
