@@ -1019,6 +1019,7 @@ geolocation: 34.051824, -118.2461446
 **Links**
 
 * https://www.instagram.com/tv/CEV-cnggrvj/
+* https://twitter.com/VPS_Reports/status/1345837990703075329
 * https://www.latimes.com/california/story/2020-08-25/protesters-marching-in-downtown-l-a-monday-night-decry-police-shootings
 * https://losangeles.cbslocal.com/2020/08/25/jacob-blake-protesters-clash-with-officers-outside-lapd-headquarters/
 
