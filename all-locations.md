@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-01-03T00:02:09.751060+00:00
+UPDATED AT: 2021-01-05T18:27:10.045768+00:00
 
 
 # Alabama
@@ -1429,6 +1429,7 @@ geolocation: 34.051824, -118.2461446
 **Links**
 
 * https://www.instagram.com/tv/CEV-cnggrvj/
+* https://twitter.com/VPS_Reports/status/1345837990703075329
 * https://www.latimes.com/california/story/2020-08-25/protesters-marching-in-downtown-l-a-monday-night-decry-police-shootings
 * https://losangeles.cbslocal.com/2020/08/25/jacob-blake-protesters-clash-with-officers-outside-lapd-headquarters/
 
