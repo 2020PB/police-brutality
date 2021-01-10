@@ -7308,6 +7308,21 @@ geolocation: 45.5152115, -122.6791777
 * https://twitter.com/45thabsurdist/status/1345155431321096192
 
 
+### Police shove individual on sidewalk, throwing camera to the ground | 2021-01-05
+
+On June 5th, protesters gathered outside the North Precinct on Killingsworth Street. As police cleared debris from the road, an individual was seen filming them from the sidewalk. An officer approached the individual while shouting and knocked the camera out of their hands, causing minor damage.
+
+tags: protester, push, shove, property-destruction
+
+id: or-portland-413
+
+geolocation: 45.5627252,-122.6606805
+
+**Links**
+
+* https://twitter.com/hiicourts/status/1346729912422465541
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
