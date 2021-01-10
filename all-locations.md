@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-01-10T19:21:51.404453+00:00
+UPDATED AT: 2021-01-10T19:23:13.893566+00:00
 
 
 # Alabama
@@ -2027,6 +2027,21 @@ geolocation: 32.7153421, -117.1532613
 
 * https://www.youtube.com/watch?v=r74JUAjXsuk
 * https://twitter.com/TheActivatedPod/status/1323407925935706112
+
+
+### Police assault and shoot at BLM counter-protesters | 2021-01-09
+
+At dueling rallies in Pacific Beach between Pro-Trump supporters and Black Lives Matter counter-protesters, riot police lined up facing the BLM group. Footage taken after the beginning of a scuffle shows police with batons beating a BLM protester on the ground. Police can be heard firing pepper balls at protesters throughout the footage. The protester is then released without arrest.
+
+tags: baton, beat, less-lethal, pepper-ball, projectile, protester, shoot, strike
+
+id: ca-sandiego-9
+
+geolocation: 32.7960603, -117.2553022
+
+**Links**
+
+* https://twitter.com/waterspider__/status/1348050947507970051
 
 
 ## San Francisco
