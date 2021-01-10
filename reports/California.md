@@ -1623,13 +1623,13 @@ geolocation: 32.7153421, -117.1532613
 
 At dueling rallies in Pacific Beach between Pro-Trump supporters and Black Lives Matter counter-protesters, riot police lined up facing the BLM group. Footage taken after the beginning of a scuffle shows police with batons beating a BLM protester on the ground. Police can be heard firing pepper balls at protesters throughout the footage. The protester is then released without arrest.
 
-tags: protester, beat, strike, baton, shoot, less-lethal, projectile, pepper-ball
+tags: baton, beat, less-lethal, pepper-ball, projectile, protester, shoot, strike
 
 id: ca-sandiego-9
 
-geolocation: 32.7960603,-117.2553022
+geolocation: 32.7960603, -117.2553022
 
-**Links** 
+**Links**
 
 * https://twitter.com/waterspider__/status/1348050947507970051
 
