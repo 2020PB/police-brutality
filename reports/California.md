@@ -1619,6 +1619,21 @@ geolocation: 32.7153421, -117.1532613
 * https://twitter.com/TheActivatedPod/status/1323407925935706112
 
 
+### Police assault and shoot at BLM counter-protesters | 2021-01-09
+
+At dueling rallies in Pacific Beach between Pro-Trump supporters and Black Lives Matter counter-protesters, riot police lined up facing the BLM group. Footage taken after the beginning of a scuffle shows police with batons beating a BLM protester on the ground. Police can be heard firing pepper balls at protesters throughout the footage. The protester is then released without arrest.
+
+tags: protester, beat, strike, baton, shoot, less-lethal, projectile, pepper-ball
+
+id: ca-sandiego-9
+
+geolocation: 32.7960603,-117.2553022
+
+**Links** 
+
+* https://twitter.com/waterspider__/status/1348050947507970051
+
+
 ## San Francisco
 
 ### San Francisco law enforcement shove man off the sidewalk onto the ground | 2020-05-31
