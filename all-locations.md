@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-01-05T18:27:10.045768+00:00
+UPDATED AT: 2021-01-10T19:21:51.404453+00:00
 
 
 # Alabama
@@ -18020,6 +18020,21 @@ geolocation: 45.5152115, -122.6791777
 * https://twitter.com/MaranieRae/status/1344929033792831488
 * https://twitter.com/FordFischer/status/1345058247271657472
 * https://twitter.com/45thabsurdist/status/1345155431321096192
+
+
+### Police shove individual on sidewalk, throwing camera to the ground | 2021-01-05
+
+On June 5th, protesters gathered outside the North Precinct on Killingsworth Street. As police cleared debris from the road, an individual was seen filming them from the sidewalk. An officer approached the individual while shouting and knocked the camera out of their hands, causing minor damage.
+
+tags: property-destruction, protester, push, shove
+
+id: or-portland-413
+
+geolocation: 45.5627252, -122.6606805
+
+**Links**
+
+* https://twitter.com/hiicourts/status/1346729912422465541
 
 
 ## Salem
