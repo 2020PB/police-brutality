@@ -1995,11 +1995,11 @@ geolocation: 40.7323365, -73.9965724
 
 At a protest calling for the firing of an officer who pulled a gun on peaceful protesters, NYPD responded by tackling and arresting protesters for unknown reasons. One officer is seen jumping on a pileup of people and punching them. Other officers are tackling protesters and arresting some.
 
-tags: protester, tackle, push, shove, strike, punch
+tags: protester, punch, push, shove, strike, tackle
 
 id: ny-newyorkcity-115
 
-geolocation: 40.6961322,-73.9837343
+geolocation: 40.6961322, -73.9837343
 
 **Links**
 
@@ -2007,22 +2007,19 @@ geolocation: 40.6961322,-73.9837343
 * https://twitter.com/MomtifaN/status/1350634728530071554
 
 
-### Police arrest photographer | 2021-01-16
+## Rochester
+
+### Police shoot at people filming | 2020-05-31
 
 A photographer is arrested for unknown reasons. Protesters around him say that he was not doing anything except taking photos of the protest. His camera is clearly visible around his neck and officers proceed to remove it from him as he is arrested.
 
 This occurred at a march beginning near Barclay's Center and terminating in Downtown Brooklyn. The exact location of the arrest is uncertain, however it seems to have occurred after the group reached the Downtown Brooklyn area.
 
-tags: journalist, arrest
-
-id: ny-newyorkcity-116
-
-geolocation: 40.6962072,-73.9939099
 
 
-## Rochester
 
-### Police shoot at people filming | 2020-05-31
+
+
 
 Police are seen shooting at individuals who were recording an incident.
 
