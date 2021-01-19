@@ -2011,16 +2011,6 @@ geolocation: 40.6961322, -73.9837343
 
 ### Police shoot at people filming | 2020-05-31
 
-A photographer is arrested for unknown reasons. Protesters around him say that he was not doing anything except taking photos of the protest. His camera is clearly visible around his neck and officers proceed to remove it from him as he is arrested.
-
-This occurred at a march beginning near Barclay's Center and terminating in Downtown Brooklyn. The exact location of the arrest is uncertain, however it seems to have occurred after the group reached the Downtown Brooklyn area.
-
-
-
-
-
-
-
 Police are seen shooting at individuals who were recording an incident.
 
 tags: less-lethal, protester, rubber-bullet, shoot
