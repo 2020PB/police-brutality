@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-01-10T19:23:13.893566+00:00
+UPDATED AT: 2021-01-19T14:34:33.683358+00:00
 
 
 # Alabama
@@ -9183,6 +9183,39 @@ geolocation: 40.7323365, -73.9965724
 **Links**
 
 * https://twitter.com/jangelooff/status/1324167123925651459
+
+
+### Officers assault protesters without apparent cause | 2021-01-16
+
+At a protest calling for the firing of an officer who pulled a gun on peaceful protesters, NYPD responded by tackling and arresting protesters for unknown reasons. One officer is seen jumping on a pileup of people and punching them. Other officers are tackling protesters and arresting some.
+
+tags: protester, punch, push, shove, strike, tackle
+
+id: ny-newyorkcity-115
+
+geolocation: 40.6961322, -73.9837343
+
+**Links**
+
+* https://twitter.com/nickybLA/status/1350660492054900737
+* https://twitter.com/MomtifaN/status/1350634728530071554
+
+
+### Police arrest photographer | 2021-01-16
+
+A photographer is arrested for unknown reasons. Protesters around him say that he was not doing anything except taking photos of the protest. His camera is clearly visible around his neck and officers proceed to remove it from him as he is arrested.
+
+This occurred at a march beginning near Barclay's Center and terminating in Downtown Brooklyn. The exact location of the arrest is uncertain, however it seems to have occurred after the group reached the Downtown Brooklyn area.
+
+tags: arrest, journalist
+
+id: ny-newyorkcity-116
+
+geolocation: 40.696191, -73.9939099
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1350672444886016000
 
 
 ## Rochester
