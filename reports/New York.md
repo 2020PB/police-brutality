@@ -2013,11 +2013,11 @@ A photographer is arrested for unknown reasons. Protesters around him say that h
 
 This occurred at a march beginning near Barclay's Center and terminating in Downtown Brooklyn. The exact location of the arrest is uncertain, however it seems to have occurred after the group reached the Downtown Brooklyn area.
 
-tags: journalist, arrest
+tags: arrest, journalist
 
 id: ny-newyorkcity-116
 
-geolocation: 40.696191,-73.9939099
+geolocation: 40.696191, -73.9939099
 
 **Links**
 
