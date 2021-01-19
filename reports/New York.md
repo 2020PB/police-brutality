@@ -2007,6 +2007,23 @@ geolocation: 40.6961322, -73.9837343
 * https://twitter.com/MomtifaN/status/1350634728530071554
 
 
+### Police arrest photographer | 2021-01-16
+
+A photographer is arrested for unknown reasons. Protesters around him say that he was not doing anything except taking photos of the protest. His camera is clearly visible around his neck and officers proceed to remove it from him as he is arrested.
+
+This occurred at a march beginning near Barclay's Center and terminating in Downtown Brooklyn. The exact location of the arrest is uncertain, however it seems to have occurred after the group reached the Downtown Brooklyn area.
+
+tags: journalist, arrest
+
+id: ny-newyorkcity-116
+
+geolocation: 40.696191,-73.9939099
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1350672444886016000
+
+
 ## Rochester
 
 ### Police shoot at people filming | 2020-05-31
