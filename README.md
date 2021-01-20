@@ -12,8 +12,6 @@ Our goal in doing this is to assist journalists, politicians, prosecutors, activ
 
 # THESE FILES ARE GENERATED - DO NOT EDIT (including this readme)
 
-# THESE FILES ARE GENERATED - DO NOT EDIT (including this readme)
-
 * Please edit the `.md` files on the `main` branch at https://github.com/2020PB/police-brutality
 * Also notice each data row has a `edit_at` link so you can find the source data for every entry.
 
