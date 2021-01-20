@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-01-19T14:34:33.683358+00:00
+UPDATED AT: 2021-01-20T21:20:43.748951+00:00
 
 
 # Alabama
@@ -9216,6 +9216,24 @@ geolocation: 40.696191, -73.9939099
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1350672444886016000
+
+
+### Police assault protesters on sidewalk | 2021-01-18
+
+Protesters gathered for MLK day at City Hall Park in Manhattan, where they were met by a sizeable NYPD force. NYPD officers assaulted and arrested protesters without clear justification; protesters did not behave aggressively, though some may have stepped off the sidewalk into the street occupied by police.
+
+tags: arrest, protester, push, shove, strike
+
+id: ny-newyorkcity-117
+
+geolocation: 40.7129418, -74.0043611
+
+**Links**
+
+* https://twitter.com/jangelooff/status/1351350679869288448
+* https://twitter.com/isabelle_leyva/status/1351340004841283590
+* https://twitter.com/isabelle_leyva/status/1351342376959225857
+* https://twitter.com/peoplesmedianyc/status/1351384527986434050
 
 
 ## Rochester
