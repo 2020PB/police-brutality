@@ -1,5 +1,5 @@
 
-# Police Brutality During the 2020 George Floyd Protests
+# Police Brutality During US Protests
 
 Visit us at: https://2020pb.com/
 
