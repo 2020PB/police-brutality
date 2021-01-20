@@ -1,7 +1,4 @@
 
-[![DOI](https://zenodo.org/badge/268666171.svg)](https://zenodo.org/badge/latestdoi/268666171)
-
-
 # Police Brutality During US Protests
 
 Visit us at: https://2020pb.com/
