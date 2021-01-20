@@ -2028,7 +2028,7 @@ geolocation: 40.696191, -73.9939099
 
 Protesters gathered for MLK day at City Hall Park in Manhattan, where they were met by a sizeable NYPD force. NYPD officers assaulted and arrested protesters without clear justification; protesters did not behave aggressively, though some may have stepped off the sidewalk into the street occupied by police.
 
-tags: protester, push, shove, arrest, strike
+tags: arrest, protester, push, shove, strike
 
 id: ny-newyorkcity-117
 
