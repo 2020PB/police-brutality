@@ -50,7 +50,7 @@ tags: less-lethal, projectile, protester, shoot, vehicle
 
 id: or-eugene-1
 
-geolocation:
+geolocation: 
 
 **Links**
 
@@ -534,7 +534,7 @@ tags: hide-badge
 
 id: or-portland-19
 
-geolocation:
+geolocation: 
 
 **Links**
 
@@ -7327,11 +7327,11 @@ geolocation: 45.5627252, -122.6606805
 
 Protesters gathered near Revolution Hall in Portland to prepare for a J20 march to the Portland DNC headquarters. At this staging site, a police officer flipped a protester over his bike. The officer then dragged the protester before other protesters intervened to pull the protester away. Police then formed a line with bicycles, brandishing pepper spray and a knife. One officer lifted their bike and shoved protesters with it.
 
-tags: protester, push, shove, threaten, bike, throw, grab
+tags: bike, grab, protester, push, shove, threaten, throw
 
 id: or-portland-414
 
-geolocation: 45.5193574,-122.6529387
+geolocation: 45.5193574, -122.6529387
 
 **Links**
 
@@ -7347,7 +7347,7 @@ tags: protester, push, shove
 
 id: or-portland-415
 
-geolocation: 45.5268143,-122.6505663
+geolocation: 45.5268143, -122.6505663
 
 **Links**
 
@@ -7360,11 +7360,11 @@ Federal officers arrrived at a protest outside the Portland ICE facility. After 
 
 At least three journalists were hit by impact munitions. One of these journalists was allegedly struck in the head with a stun grenade, causing her to lose consciousness. According to another journalist, she was taken to the ER.
 
-tags: protester, journalist, stun-grenade, less-lethal, shoot, projectile, pepper-ball, tear-gas
+tags: journalist, less-lethal, pepper-ball, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-416
 
-geolocation: 45.4927916,-122.6726079
+geolocation: 45.4927916, -122.6726079
 
 **Links**
 
@@ -7420,11 +7420,11 @@ During a push away from the ICE building, federal officers deployed a strobe lig
 
 Additional footage shows officers using the strobe light at another point that night.
 
-tags: protester, medic, strobe, shoot, projectile, less-lethal, pepper-ball
+tags: less-lethal, medic, pepper-ball, projectile, protester, shoot, strobe
 
 id: or-portland-417
 
-geolocation: 45.4939195,-122.6719922
+geolocation: 45.4939195, -122.6719922
 
 **Links**
 
@@ -7442,11 +7442,11 @@ geolocation: 45.4939195,-122.6719922
 
 Following an incident where a protester suffered a seizure, federal officers promptly resumed barraging protesters with tear gas and impact munitions to cover targeted arrests.
 
-tags: shoot, protester, projectile, less-lethal, tear-gas, pepper-ball, arrest
+tags: arrest, less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-418
 
-geolocation: 45.4939195,-122.6719922
+geolocation: 45.4939195, -122.6719922
 
 **Links**
 
@@ -7465,11 +7465,11 @@ geolocation: 45.4939195,-122.6719922
 
 After pushing protesters from the ICE facility with the aid of federal agents, a Portland police officer can be seen pepper spraying a protester who has been detained and is being held face down on the ground.
 
-tags: protester, pepper-spray, abuse-of-power, arrest, spray
+tags: abuse-of-power, arrest, less-lethal, pepper-spray, protester, spray
 
 id: or-portland-419
 
-geolocation: 45.4934937,-122.6719817
+geolocation: 45.4934937, -122.6719817
 
 **Links**
 
@@ -7480,11 +7480,11 @@ geolocation: 45.4934937,-122.6719817
 
 During a bullrush down Moody from the ICE facility, police and federal agents are seen pepper spraying and shooting at protesters walking away from them.
 
-tags: protester, pepper-spray, spray, shoot, projectile, less-lethal, pepper-ball
+tags: less-lethal, pepper-ball, pepper-spray, projectile, protester, shoot, spray
 
 id: or-portland-420
 
-geolocation: 45.4939804,-122.6718666
+geolocation: 45.4939804, -122.6718666
 
 **Links**
 
