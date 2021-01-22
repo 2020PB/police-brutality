@@ -59,6 +59,7 @@ shove
 sponge-round
 spray
 strike
+strobe
 stun-grenade
 tackle
 tase
@@ -122,6 +123,7 @@ punch
 rubber-bullet
 shield
 sponge-round
+strobe
 stun-grenade
 taser
 tear-gas

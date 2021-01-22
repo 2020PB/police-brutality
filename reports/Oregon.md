@@ -3781,7 +3781,7 @@ geolocation: 45.5161982, -122.6766199
 
 Footage shows police neardirecting a bright strobe light at protesters and press attempting to film near 3rd and Main. One officer grabs a protester's umbrella, breaking it.
 
-tags: abuse-of-power, property-destruction, protester
+tags: abuse-of-power, property-destruction, protester, strobe
 
 id: or-portland-195
 
@@ -7321,6 +7321,174 @@ geolocation: 45.5627252, -122.6606805
 **Links**
 
 * https://twitter.com/hiicourts/status/1346729912422465541
+
+
+### Police initiate scuffle, brandish weapons | 2021-01-20
+
+Protesters gathered near Revolution Hall in Portland to prepare for a J20 march to the Portland DNC headquarters. At this staging site, a police officer flipped a protester over his bike. The officer then dragged the protester before other protesters intervened to pull the protester away. Police then formed a line with bicycles, brandishing pepper spray and a knife. One officer lifted their bike and shoved protesters with it.
+
+tags: bike, grab, protester, push, shove, threaten, throw
+
+id: or-portland-414
+
+geolocation: 45.5193574, -122.6529387
+
+**Links**
+
+* https://twitter.com/MaranieRae/status/1352031859253809152
+* https://twitter.com/R3volutionDaddy/status/1352029010755162118
+
+
+### Officer shoves protester to the ground | 2021-01-20
+
+After attempting to arrest a protester near 15th and Glisan, an officer is seen walking through protesters. One protester steps in the officer's path; the officer shoves the protester to the ground.
+
+tags: protester, push, shove
+
+id: or-portland-415
+
+geolocation: 45.5268143, -122.6505663
+
+**Links**
+
+* https://twitter.com/LauraJedeed/status/1352048419628490752
+
+
+### Federal officers fire lengthy barrage of munitions at protesters and journalists | 2021-01-20
+
+Federal officers arrrived at a protest outside the Portland ICE facility. After allowing a vehicle into the ICE lot, officers began firing tear gas, stun grenades and impact munitions at protesters without apparent cause. Officers fired a continual barrage, pushing protesters down the street.
+
+At least three journalists were hit by impact munitions. One of these journalists was allegedly struck in the head with a stun grenade, causing her to lose consciousness. According to another journalist, she was taken to the ER.
+
+tags: journalist, less-lethal, pepper-ball, projectile, protester, shoot, stun-grenade, tear-gas
+
+id: or-portland-416
+
+geolocation: 45.4927916, -122.6726079
+
+**Links**
+
+* https://twitter.com/LauraJedeed/status/1352192044547014657
+* https://twitter.com/LauraJedeed/status/1352192771730247681
+* https://twitter.com/LauraJedeed/status/1352194235299086338
+* https://twitter.com/CamilaOrtiTV/status/1352140360219205632
+* https://twitter.com/CamilaOrtiTV/status/1352140828282503168
+* https://twitter.com/Claudio_Report/status/1352136542928596992
+* https://twitter.com/Claudio_Report/status/1352137304781963267
+* https://twitter.com/Claudio_Report/status/1352145524783136768
+* https://twitter.com/Claudio_Report/status/1352152572895797248
+* https://twitter.com/Claudio_Report/status/1352160417506754560
+* https://twitter.com/R3volutionDaddy/status/1352136678438158337
+* https://twitter.com/R3volutionDaddy/status/1352148803181137921
+* https://twitter.com/Claudio_Report/status/1352181535592439809
+* https://twitter.com/devonhaskins/status/1352130611880751113
+* https://twitter.com/devonhaskins/status/1352131816161902592
+* https://twitter.com/ByMikeBaker/status/1352131114656120840
+* https://twitter.com/ByMikeBaker/status/1352137033196531715
+* https://twitter.com/ByMikeBaker/status/1352142885920022529
+* https://twitter.com/ByMikeBaker/status/1352161310029479937
+* https://twitter.com/ByMikeBaker/status/1352165569877839872
+* https://twitter.com/GriffinMalone6/status/1352130647620419584
+* https://twitter.com/GriffinMalone6/status/1352131248488022022
+* https://twitter.com/GriffinMalone6/status/1352132085545279489
+* https://twitter.com/GriffinMalone6/status/1352153848475865088
+* https://twitter.com/LiLCheese92/status/1352130734979313665
+* https://twitter.com/gravemorgan/status/1352130932858253312
+* https://twitter.com/gravemorgan/status/1352131697916067846
+* https://twitter.com/gravemorgan/status/1352133660070223874
+* https://twitter.com/gravemorgan/status/1352141427128496128
+* https://twitter.com/gravemorgan/status/1352150976510140416
+* https://twitter.com/it_aint_pretty_/status/1352131151406616576
+* https://twitter.com/it_aint_pretty_/status/1352132250314260482
+* https://twitter.com/it_aint_pretty_/status/1352141578232496131
+* https://twitter.com/tuesdaylongway/status/1352131826094014466
+* https://twitter.com/djacobo6/status/1352132187517190145
+* https://twitter.com/djacobo6/status/1352132975966621703
+* https://twitter.com/catalinagaitan_/status/1352132932610113536
+* https://twitter.com/BonnieSilkman/status/1352137341150793728
+* https://twitter.com/heyramsey/status/1352140637206843392
+* https://twitter.com/heyramsey/status/1352142546856628227
+* https://twitter.com/Julio_Rosas11/status/1352140520374497282
+* https://twitter.com/MasonLakePhoto/status/1352256306791399429
+* https://clips.twitch.tv/RelentlessShinyBatWutFace
+* https://twitter.com/R3volutionDaddy/status/1352447809333522433
+
+
+### Federal officers induce seizure, shoot medics | 2021-01-20
+
+During a push away from the ICE building, federal officers deployed a strobe light, which induced a seizure in a protester. Officers then fired impact munitions at protesters and medics attempting to aid the injured individual.
+
+Additional footage shows officers using the strobe light at another point that night.
+
+tags: less-lethal, medic, pepper-ball, projectile, protester, shoot, strobe
+
+id: or-portland-417
+
+geolocation: 45.4939195, -122.6719922
+
+**Links**
+
+* https://twitter.com/Claudio_Report/status/1352165024039485446
+* https://twitter.com/Claudio_Report/status/1352168741946105858
+* https://twitter.com/Claudio_Report/status/1352170296975912960
+* https://twitter.com/LauraJedeed/status/1352196910925242368
+* https://twitter.com/ByMikeBaker/status/1352151514555445254
+* https://twitter.com/danielvmedia/status/1352359064802480129
+* https://twitter.com/Claudio_Report/status/1352311516544987136
+* https://twitter.com/R3volutionDaddy/status/1352447910667902977
+
+
+### Federal officers fire second barrage of weapons | 2021-01-20
+
+Following an incident where a protester suffered a seizure, federal officers promptly resumed barraging protesters with tear gas and impact munitions to cover targeted arrests.
+
+tags: arrest, less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
+
+id: or-portland-418
+
+geolocation: 45.4939195, -122.6719922
+
+**Links**
+
+* https://twitter.com/LauraJedeed/status/1352200291995639808
+* https://twitter.com/LauraJedeed/status/1352202211682512896
+* https://twitter.com/LauraJedeed/status/1352202464976539652
+* https://twitter.com/LauraJedeed/status/1352203464101675009
+* https://twitter.com/LauraJedeed/status/1352204000561557505
+* https://twitter.com/TopQualityFire/status/1352156238058983424
+* https://twitter.com/TopQualityFire/status/1352143549526016000
+* https://twitter.com/realJamesKlug/status/1352140676343898113
+* https://twitter.com/R3volutionDaddy/status/1352448417423716352
+
+
+### Police pepper spray detained protester | 2021-01-20
+
+After pushing protesters from the ICE facility with the aid of federal agents, a Portland police officer can be seen pepper spraying a protester who has been detained and is being held face down on the ground.
+
+tags: abuse-of-power, arrest, less-lethal, pepper-spray, protester, spray
+
+id: or-portland-419
+
+geolocation: 45.4934937, -122.6719817
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1352153797137555456
+
+
+### Police pepper spray protesters walking away | 2021-01-20
+
+During a bullrush down Moody from the ICE facility, police and federal agents are seen pepper spraying and shooting at protesters walking away from them.
+
+tags: less-lethal, pepper-ball, pepper-spray, projectile, protester, shoot, spray
+
+id: or-portland-420
+
+geolocation: 45.4939804, -122.6718666
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1352144498327912448
 
 
 ## Salem
