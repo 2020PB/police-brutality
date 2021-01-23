@@ -7378,6 +7378,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/Claudio_Report/status/1352145524783136768
 * https://twitter.com/Claudio_Report/status/1352152572895797248
 * https://twitter.com/Claudio_Report/status/1352160417506754560
+* https://twitter.com/Claudio_Report/status/1352672621192568832
 * https://twitter.com/R3volutionDaddy/status/1352136678438158337
 * https://twitter.com/R3volutionDaddy/status/1352148803181137921
 * https://twitter.com/Claudio_Report/status/1352181535592439809
@@ -7412,6 +7413,7 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/MasonLakePhoto/status/1352256306791399429
 * https://clips.twitch.tv/RelentlessShinyBatWutFace
 * https://twitter.com/R3volutionDaddy/status/1352447809333522433
+* https://twitter.com/uspresstracker/status/1352669419462422530
 
 
 ### Federal officers induce seizure, shoot medics | 2021-01-20
