@@ -7378,7 +7378,6 @@ geolocation: 45.4927916, -122.6726079
 * https://twitter.com/Claudio_Report/status/1352145524783136768
 * https://twitter.com/Claudio_Report/status/1352152572895797248
 * https://twitter.com/Claudio_Report/status/1352160417506754560
-* https://twitter.com/Claudio_Report/status/1352672621192568832
 * https://twitter.com/R3volutionDaddy/status/1352136678438158337
 * https://twitter.com/R3volutionDaddy/status/1352148803181137921
 * https://twitter.com/Claudio_Report/status/1352181535592439809
@@ -7491,6 +7490,22 @@ geolocation: 45.4939804, -122.6718666
 **Links**
 
 * https://twitter.com/gravemorgan/status/1352144498327912448
+
+
+### Federal officers shoot journalist with tear gas canister | 2021-01-20
+
+At a protest near the ICE facility in Portland, a journalist yells at a group of officers with strobe lights, saying that the officers are being sued for their use of strobes. The officers fire a tear gas canister directly at her, striking her in the hip.
+
+tags: journalist, shoot, projectile, tear-gas, tear-gas-canister, less-lethal
+
+id: or-portland-420
+
+geolocation: 45.4931874,-122.6720918
+
+**Links**
+
+* https://twitter.com/Claudio_Report/status/1352675663258345472
+* https://twitter.com/Claudio_Report/status/1352672621192568832
 
 
 ## Salem
