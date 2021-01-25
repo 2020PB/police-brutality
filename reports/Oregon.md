@@ -7496,11 +7496,11 @@ geolocation: 45.4939804, -122.6718666
 
 At a protest near the ICE facility in Portland, a journalist yells at a group of officers with strobe lights, saying that the officers are being sued for their use of strobes. The officers fire a tear gas canister directly at her, striking her in the hip.
 
-tags: journalist, shoot, projectile, tear-gas, tear-gas-canister, less-lethal
+tags: journalist, less-lethal, projectile, shoot, tear-gas, tear-gas-canister
 
 id: or-portland-421
 
-geolocation: 45.4931874,-122.6720918
+geolocation: 45.4931874, -122.6720918
 
 **Links**
 
@@ -7514,11 +7514,11 @@ In an attempt to make targeted arrests and push protesters away from the ICE fac
 
 This occurred after an ambulance was brought for an earlier arrestee, though their condition and the nature of their injuries is unknown.
 
-tags: protester, shoot, projectile, less-lethal, journalist, pepper-ball, tear-gas, stun-grenade, arrest
+tags: arrest, journalist, less-lethal, pepper-ball, projectile, protester, shoot, stun-grenade, tear-gas
 
 id: or-portland-422
 
-geolocation: 45.4931563,-122.6725405
+geolocation: 45.4931563, -122.6725405
 
 **Links**
 
@@ -7549,11 +7549,11 @@ geolocation: 45.4931563,-122.6725405
 
 After being struck by a stun grenade that allegedly broke his ankle and ribs, an activist attempted to flee in his wheelchair while federal agents fired on him.
 
-tags: protester, person-with-disability, shoot, stun-grenade, projectile, pepper-ball
+tags: less-lethal, pepper-ball, person-with-disability, projectile, protester, shoot, stun-grenade
 
 id: or-portland-423
 
-geolocation: 45.4931563,-122.6725405
+geolocation: 45.4931563, -122.6725405
 
 **Links**
 
