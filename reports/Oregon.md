@@ -7498,7 +7498,7 @@ At a protest near the ICE facility in Portland, a journalist yells at a group of
 
 tags: journalist, shoot, projectile, tear-gas, tear-gas-canister, less-lethal
 
-id: or-portland-420
+id: or-portland-421
 
 geolocation: 45.4931874,-122.6720918
 
@@ -7506,6 +7506,59 @@ geolocation: 45.4931874,-122.6720918
 
 * https://twitter.com/Claudio_Report/status/1352675663258345472
 * https://twitter.com/Claudio_Report/status/1352672621192568832
+
+
+### Federal officers push protesters from ICE facility using less-lethal munitions | 2021-01-23
+
+In an attempt to make targeted arrests and push protesters away from the ICE facility, federal agents fired tear gas, pepper balls, and stun grenades at the crowd, striking protesters and journalists alike.
+
+This occurred after an ambulance was brought for an earlier arrestee, though their condition and the nature of their injuries is unknown.
+
+tags: protester, shoot, projectile, less-lethal, journalist, pepper-ball, tear-gas, stun-grenade, arrest
+
+id: or-portland-422
+
+geolocation: 45.4931563,-122.6725405
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1353237627625906176
+* https://twitter.com/gravemorgan/status/1353239155690541056
+* https://twitter.com/gravemorgan/status/1353259671134429184
+* https://twitter.com/gravemorgan/status/1353239798224310273
+* https://twitter.com/BGOnTheScene/status/1353240066982727680
+* https://twitter.com/BGOnTheScene/status/1353240546223898625
+* https://twitter.com/BGOnTheScene/status/1353242537029296128
+* https://twitter.com/BGOnTheScene/status/1353243878359396352
+* https://twitter.com/BGOnTheScene/status/1353249131502792704
+* https://twitter.com/R3volutionDaddy/status/1353256087089278977
+* https://twitter.com/cozca503/status/1353276308696911872
+* https://twitter.com/MathieuLRolland/status/1353266106526359552
+* https://twitter.com/MathieuLRolland/status/1353268440883056641
+* https://twitter.com/MathieuLRolland/status/1353270552568373249
+* https://twitter.com/titoblanco/status/1353240663127519233
+* https://twitter.com/th1an1/status/1353336569835479047
+* https://twitter.com/TopQualityFire/status/1353241150660825089
+* https://twitter.com/R3volutionDaddy/status/1353454167369646080
+* https://twitter.com/R3volutionDaddy/status/1353456516381069314
+* https://twitter.com/Lastkombo/status/1353424476369637379
+* https://twitter.com/Ruptly/status/1353417284191096833
+
+
+### Federal agents injure then shoot activist | 2021-01-23
+
+After being struck by a stun grenade that allegedly broke his ankle and ribs, an activist attempted to flee in his wheelchair while federal agents fired on him.
+
+tags: protester, person-with-disability, shoot, stun-grenade, projectile, pepper-ball
+
+id: or-portland-423
+
+geolocation: 45.4931563,-122.6725405
+
+**Links**
+
+* https://twitter.com/_WhatRiot/status/1353434581051924480
+* https://twitter.com/_WhatRiot/status/1353434886644744194
 
 
 ## Salem
