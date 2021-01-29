@@ -2046,11 +2046,11 @@ geolocation: 40.7129418, -74.0043611
 
 At a protest outside the 71st precinct in Brooklyn, officers armed with batons charged the crowd of protesters, striking them with their batons and tackling several protesters. Officers then made at least 4 arrests for unclear reasons.
 
-tags: arrest, protester, push, shove, strike, baton
+tags: arrest, baton, protester, push, shove, strike
 
 id: ny-newyorkcity-118
 
-geolocation: 40.664655,-73.9482225
+geolocation: 40.664655, -73.9482225
 
 **Links**
 
