@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-01-25T15:37:53.913430+00:00
+UPDATED AT: 2021-01-29T14:16:01.900070+00:00
 
 
 # Alabama
@@ -9234,6 +9234,22 @@ geolocation: 40.7129418, -74.0043611
 * https://twitter.com/isabelle_leyva/status/1351340004841283590
 * https://twitter.com/isabelle_leyva/status/1351342376959225857
 * https://twitter.com/peoplesmedianyc/status/1351384527986434050
+
+
+### Police charge, assault, and arrest protesters | 2021-01-26
+
+At a protest outside the 71st precinct in Brooklyn, officers armed with batons charged the crowd of protesters, striking them with their batons and tackling several protesters. Officers then made at least 4 arrests for unclear reasons.
+
+tags: arrest, baton, protester, push, shove, strike
+
+id: ny-newyorkcity-118
+
+geolocation: 40.664655, -73.9482225
+
+**Links**
+
+* https://twitter.com/_SNAKEDICK_/status/1354628391023075333?s=19
+* https://twitter.com/protest_nyc/status/1354240510903394304
 
 
 ## Rochester
