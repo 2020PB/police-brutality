@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-01-29T14:16:01.900070+00:00
+UPDATED AT: 2021-02-01T14:58:48.711578+00:00
 
 
 # Alabama
@@ -18302,6 +18302,7 @@ geolocation: 45.4931874, -122.6720918
 
 * https://twitter.com/Claudio_Report/status/1352675663258345472
 * https://twitter.com/Claudio_Report/status/1352672621192568832
+* https://twitter.com/Claudio_Report/status/1355226199232892928
 
 
 ### Federal officers push protesters from ICE facility using less-lethal munitions | 2021-01-23
