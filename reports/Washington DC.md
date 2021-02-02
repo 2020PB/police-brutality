@@ -907,12 +907,13 @@ Footage shows officers repeatedly striking protesters with bicycles.
 
 The exact location is uncertain, though around 7:30 PM, the protest was at Belmont Rd and Columbia Rd, before ending around 10:30 PM at 14th St and U St.
 
-tags: push, shove, strike, bike, protester
+tags: bike, protester, push, shove, strike
 
 id: dc-dc-55
 
-geolocation: 38.9170927,-77.0318335
+geolocation: 38.9170927, -77.0318335
 
 **Links**
 
 * https://twitter.com/ChuckModi1/status/1355703466493161476
+
