@@ -135,6 +135,7 @@ geolocation: 39.7689795, -86.1606701
 
 * https://www.theindychannel.com/news/local-news/police-apologize-after-non-violent-protesters-tear-gassed-on-monument-circle
 * https://twitter.com/greg_doucette/status/1268404518326276096
+* https://www.youtube.com/watch?v=7ddG0zLi1vI
 
 
 ### Police beat woman with batons and shoot pepper balls, shove another to the ground | 2020-05-31
