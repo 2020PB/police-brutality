@@ -900,3 +900,20 @@ geolocation: 38.894212, -77.0165467
 * https://twitter.com/ChuckModi1/status/1340468013804507137
 * https://twitter.com/ChuckModi1/status/1340477683340357633
 
+
+### Police shove protesters with bikes | 2021-01-29
+
+Footage shows officers repeatedly striking protesters with bicycles.
+
+The exact location is uncertain, though around 7:30 PM, the protest was at Belmont Rd and Columbia Rd, before ending around 10:30 PM at 14th St and U St.
+
+tags: bike, protester, push, shove, strike
+
+id: dc-dc-55
+
+geolocation: 38.9170927, -77.0318335
+
+**Links**
+
+* https://twitter.com/ChuckModi1/status/1355703466493161476
+
