@@ -1,5 +1,19 @@
 ## Boston
 
+### Officer shoves protester to the ground | 2020-05-29
+
+At a protest outside the disctrict D-4 precinct (650 Harrison Ave), bodycam footage from one officer, shows another officer shoving several protesters, knocking one to the ground.
+
+tags: protester, push, shove
+
+geolocation: 42.3393822,-71.0703177
+
+**Links**
+
+* https://www.youtube.com/watch?v=SxXruWN19sY
+* https://theappeal.org/videos-show-massachusetts-cops-brutalizing-george-floyd-protesters/
+
+
 ### Man beaten with baton while being taken into custody | 2020-05-31
 
 Footage from a news report shows a man throwing a water bottle at officers. Officers then grab him to arrest him, while another officer beats him repeatedly with his baton. The protester does not appear to be resisting arrest.
