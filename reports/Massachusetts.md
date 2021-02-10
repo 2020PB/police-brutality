@@ -20,7 +20,7 @@ geolocation: 42.3393822, -71.0703177
 
 At a protest outside the disctrict D-4 precinct (650 Harrison Ave), an officer's bodycam footage shows the officer charging out of a building, approaching the scene of an arrest, and immediately discharging pepper spray in a wide swath at gathered protesters.
 
-tags: protester, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: ma-boston-13
 
