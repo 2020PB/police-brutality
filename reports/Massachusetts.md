@@ -6,7 +6,9 @@ At a protest outside the disctrict D-4 precinct (650 Harrison Ave), bodycam foot
 
 tags: protester, push, shove
 
-geolocation: 42.3393822,-71.0703177
+id: ma-boston-ripa
+
+geolocation: 42.3393822, -71.0703177
 
 **Links**
 
