@@ -2058,6 +2058,23 @@ geolocation: 40.664655, -73.9482225
 * https://twitter.com/protest_nyc/status/1354240510903394304
 
 
+### Officer flashes gun at peaceful protesters | 2021-01-13
+
+At a protest honoring Andre Hill, a man killed in Columbus, Ohio on Dec. 22, 2020, officer Artem Prusayev of the 84th precinct, pulled out his gun in response to peaceful protesters asking why he did not have a mask on. According to the Civilian Complaint Review Board, officer Prusayev has two previous complaints against him for physical force.
+
+tags: threaten
+
+id: ny-newyorkcity-119
+
+geolocation: 40.6953957, -73.9837148
+
+**Links**
+
+* https://twitter.com/Vote4Beckford/status/1349926313264635906
+* https://www.pix11.com/news/local-news/video-shows-nypd-officer-draw-his-firearm-when-confronted-by-protesters-about-mask-wearing
+* https://bronx.news12.com/protesters-claim-nypd-officer-unnecessarily-flashed-gun-at-them
+
+
 ## Rochester
 
 ### Police shoot at people filming | 2020-05-31
