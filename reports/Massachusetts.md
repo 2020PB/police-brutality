@@ -6,13 +6,29 @@ At a protest outside the disctrict D-4 precinct (650 Harrison Ave), bodycam foot
 
 tags: protester, push, shove
 
-id: ma-boston-ripa
+id: ma-boston-12
 
 geolocation: 42.3393822, -71.0703177
 
 **Links**
 
 * https://www.youtube.com/watch?v=SxXruWN19sY
+* https://theappeal.org/videos-show-massachusetts-cops-brutalizing-george-floyd-protesters/
+
+
+### Officer pepper sprays protesters without provocation | 2020-05-29
+
+At a protest outside the disctrict D-4 precinct (650 Harrison Ave), an officer's bodycam footage shows the officer charging out of a building, approaching the scene of an arrest, and immediately discharging pepper spray in a wide swath at gathered protesters.
+
+tags: protester, pepper-spray, spray
+
+id: ma-boston-13
+
+geolocation: 42.3393822, -71.0703177
+
+**Links**
+
+* https://www.youtube.com/watch?v=d05Yf9igmP8
 * https://theappeal.org/videos-show-massachusetts-cops-brutalizing-george-floyd-protesters/
 
 
