@@ -2062,7 +2062,7 @@ geolocation: 40.664655, -73.9482225
 
 At a protest honoring Andre Hill, a man killed in Columbus, Ohio on Dec. 22, 2020, officer Artem Prusayev of the 84th precinct, pulled out his gun in response to peaceful protesters asking why he did not have a mask on. According to the Civilian Complaint Review Board, officer Prusayev has two previous complaints against him for physical force.
 
-tags: threaten
+tags: threaten, protester, gun
 
 id: ny-newyorkcity-119
 
