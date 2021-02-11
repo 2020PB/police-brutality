@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-02-10T16:52:10.546818+00:00
+UPDATED AT: 2021-02-11T18:46:14.837784+00:00
 
 
 # Alabama
@@ -9283,6 +9283,23 @@ geolocation: 40.664655, -73.9482225
 
 * https://twitter.com/_SNAKEDICK_/status/1354628391023075333?s=19
 * https://twitter.com/protest_nyc/status/1354240510903394304
+
+
+### Officer flashes gun at peaceful protesters | 2021-01-13
+
+At a protest honoring Andre Hill, a man killed in Columbus, Ohio on Dec. 22, 2020, officer Artem Prusayev of the 84th precinct, pulled out his gun in response to peaceful protesters asking why he did not have a mask on. According to the Civilian Complaint Review Board, officer Prusayev has two previous complaints against him for physical force.
+
+tags: gun, protester, threaten
+
+id: ny-newyorkcity-119
+
+geolocation: 40.6953957, -73.9837148
+
+**Links**
+
+* https://twitter.com/Vote4Beckford/status/1349926313264635906
+* https://www.pix11.com/news/local-news/video-shows-nypd-officer-draw-his-firearm-when-confronted-by-protesters-about-mask-wearing
+* https://bronx.news12.com/protesters-claim-nypd-officer-unnecessarily-flashed-gun-at-them
 
 
 ## Rochester
