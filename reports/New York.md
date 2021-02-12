@@ -21,7 +21,9 @@ Two police officers shove an unarmed, elderly man ([reportedly 75 years old](htt
 
 Buffalo P.D. released an official statement saying that he "tripped and fell." After video of the incident surfaced, however, both officers were suspended, an internal affairs investigation was opened, and both officers were charged with assault. In response to the suspension, the Buffalo Emergency Response Team [resigned from their posts](https://nypost.com/2020/06/05/buffalo-emergency-response-team-quits-in-solidarity-of-cops/). At first, the two officers were suspended without pay, but because the Buffalo police contract only allows suspension without pay for 30 days, they are now (as of July 10) suspended with pay.
 
-The man suffered brain damage and has begun physical therapy.
+The man suffered brain damage and has begun physical therapy. The man has since recovered.
+
+On February 11, 2021, a grand jury dismissed all charges against the officers.
 
 Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
 
@@ -41,6 +43,7 @@ geolocation: 42.886546, -78.8794732
 * https://www.nbcnewyork.com/news/local/75-year-old-buffalo-protester-hospitalized-after-cop-shove-suffered-brain-injury-lawyer/2457512/
 * [Washington Post coverage](https://www.washingtonpost.com/nation/2020/06/05/buffalo-officers-suspended-shoving-man/)
 * [Follow-up story](https://www.wkbw.com/news/local-news/suspended-buffalo-police-officers-back-on-payroll)
+* [Charges dismissed](https://www.bbc.com/news/world-us-canada-56040320)
 
 
 ### Reporter shot at after identifying himself | 2020-06-05
