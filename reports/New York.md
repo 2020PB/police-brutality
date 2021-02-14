@@ -2084,7 +2084,7 @@ Following a "F\*ck 12" march in Midtown, police encircled the crowd of protester
 
 One reporter states police took her press badge and bruised her wrists with flexcuffs.
 
-tags: protester, journalist, push, show, baton, arrest, tackle
+tags: protester, journalist, push, shove, baton, arrest, tackle
 
 id: ny-newyorkcity-120
 
