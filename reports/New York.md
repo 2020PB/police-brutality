@@ -2078,6 +2078,28 @@ geolocation: 40.6953957, -73.9837148
 * https://bronx.news12.com/protesters-claim-nypd-officer-unnecessarily-flashed-gun-at-them
 
 
+### NYPD officers surround, charge, assault, and arrest protesters and journalists | 2021-02-12
+
+Following a "F\*ck 12" march in Midtown, police encircled the crowd of protesters at 54th St and 6th Ave and declared an unlawful assembly. The crowd of protesters appeared entirely contained on the sidewalk. Police charged the crowd, shoving them with batons, tackling and arresting them. 11 protesters and 2 journalists were arrested, with most released around 5 AM the morning of February 13th.
+
+One reporter states police took her press badge and bruised her wrists with flexcuffs.
+
+tags: protester, journalist, push, show, baton, arrest, tackle
+
+id: ny-newyorkcity-120
+
+geolocation: 40.7624000,-73.9785863
+
+**Links**
+
+* https://twitter.com/ScooterCasterNY/status/1360422269739298818
+* https://www.youtube.com/watch?v=vIj5ekZGaTs
+* https://twitter.com/itsa_talia/status/1360513020061974529
+* https://twitter.com/itsa_talia/status/1360563949465436164
+* https://twitter.com/itsa_talia/status/1360573983960281097
+* https://twitter.com/thizzl_/status/1360460991503486981
+
+
 ## Rochester
 
 ### Police shoot at people filming | 2020-05-31
