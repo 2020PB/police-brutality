@@ -2098,6 +2098,7 @@ geolocation: 40.7624000, -73.9785863
 * https://twitter.com/itsa_talia/status/1360563949465436164
 * https://twitter.com/itsa_talia/status/1360573983960281097
 * https://twitter.com/thizzl_/status/1360460991503486981
+* https://twitter.com/mrCnobi/status/1360662957416452101
 
 
 ## Rochester
