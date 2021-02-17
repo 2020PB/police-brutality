@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-02-12T23:27:49.790958+00:00
+UPDATED AT: 2021-02-17T00:31:24.608868+00:00
 
 
 # Alabama
@@ -9303,6 +9303,29 @@ geolocation: 40.6953957, -73.9837148
 * https://twitter.com/Vote4Beckford/status/1349926313264635906
 * https://www.pix11.com/news/local-news/video-shows-nypd-officer-draw-his-firearm-when-confronted-by-protesters-about-mask-wearing
 * https://bronx.news12.com/protesters-claim-nypd-officer-unnecessarily-flashed-gun-at-them
+
+
+### NYPD officers surround, charge, assault, and arrest protesters and journalists | 2021-02-12
+
+Following a "F\*ck 12" march in Midtown, police encircled the crowd of protesters at 54th St and 6th Ave and declared an unlawful assembly. The crowd of protesters appeared entirely contained on the sidewalk. Police charged the crowd, shoving them with batons, tackling and arresting them. 11 protesters and 2 journalists were arrested, with most released around 5 AM the morning of February 13th.
+
+One reporter states police took her press badge and bruised her wrists with flexcuffs.
+
+tags: arrest, baton, journalist, protester, push, shove, tackle
+
+id: ny-newyorkcity-120
+
+geolocation: 40.7624000, -73.9785863
+
+**Links**
+
+* https://twitter.com/ScooterCasterNY/status/1360422269739298818
+* https://www.youtube.com/watch?v=vIj5ekZGaTs
+* https://twitter.com/itsa_talia/status/1360513020061974529
+* https://twitter.com/itsa_talia/status/1360563949465436164
+* https://twitter.com/itsa_talia/status/1360573983960281097
+* https://twitter.com/thizzl_/status/1360460991503486981
+* https://twitter.com/mrCnobi/status/1360662957416452101
 
 
 ## Rochester
