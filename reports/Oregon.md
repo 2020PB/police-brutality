@@ -50,7 +50,7 @@ tags: less-lethal, projectile, protester, shoot, vehicle
 
 id: or-eugene-1
 
-geolocation:
+geolocation: 
 
 **Links**
 
@@ -534,7 +534,7 @@ tags: hide-badge
 
 id: or-portland-19
 
-geolocation:
+geolocation: 
 
 **Links**
 

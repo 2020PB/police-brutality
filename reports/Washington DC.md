@@ -563,7 +563,7 @@ Police walk protesters down the street. One officer pepper sprays a protester. H
 
 tags; protester, push, shove, pepper-spray, spray
 
-tags:
+tags: 
 
 id: dc-dc-32
 
