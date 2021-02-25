@@ -843,7 +843,7 @@ geolocation: 34.0689615, -118.3440646
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ca-losangeles-31.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/ca-losangeles-31.1.mp4)
 
 
 ### Police shoot man in groin with rubber bullet | 2020-06-02

@@ -164,7 +164,7 @@ geolocation: 38.9001864, -77.0366859
 **Links**
 
 * https://twitter.com/i/status/1269859559859871744
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-8.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/dc-dc-8.1.mp4)
 
 
 ### Reporter struck with shield and baton | 2020-06-01
@@ -307,9 +307,9 @@ geolocation: 38.8995177, -77.0387365
 * https://twitter.com/JasonPatinkin/status/1275252759634329602
 * https://twitter.com/JasonPatinkin/status/1275294052372615169
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
-* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.1.mp4)
-* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.2.mp4)
-* [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.3.mp4)
+* [Archive Link 1](https://2020pb-archive.s3.amazonaws.com/dc-dc-19.1.mp4)
+* [Archive Link 2](https://2020pb-archive.s3.amazonaws.com/dc-dc-19.2.mp4)
+* [Archive Link 3](https://2020pb-archive.s3.amazonaws.com/dc-dc-19.3.mp4)
 
 
 ### Police pepper spray protesters with hands up | 2020-06-22
@@ -377,8 +377,8 @@ geolocation: 38.9002291, -77.0365354
 
 * https://twitter.com/maryamnayebyazd/status/1275493238619635714
 * https://twitter.com/maryamnayebyazd/status/1275493885188485120
-* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-22.1.mp4)
-* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-22.2.mp4)
+* [Archive Link 1](https://2020pb-archive.s3.amazonaws.com/dc-dc-22.1.mp4)
+* [Archive Link 2](https://2020pb-archive.s3.amazonaws.com/dc-dc-22.2.mp4)
 
 
 ### Police use pepper spray, flashbangs and tear gas to disperse protest | 2020-06-23
@@ -563,7 +563,7 @@ Police walk protesters down the street. One officer pepper sprays a protester. H
 
 tags; protester, push, shove, pepper-spray, spray
 
-tags: 
+tags:
 
 id: dc-dc-32
 

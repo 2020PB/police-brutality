@@ -431,7 +431,7 @@ geolocation: 47.6152942, -122.3173764
 **Links**
 
 * [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-20.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/wa-seattle-20.1.mp4)
 
 
 ### Police strike and pepper spray protesters while marching on 13th Precinct | 2020-07-01
@@ -661,7 +661,7 @@ geolocation: 47.6152759, -122.3199594
 **Links**
 
 * https://twitter.com/dailydigger19/status/1287194441858588672
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-33.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/wa-seattle-33.1.mp4)
 
 
 ### Police make violent arrests and pepper spray crowd | 2020-07-25
