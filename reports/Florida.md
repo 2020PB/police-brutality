@@ -38,6 +38,7 @@ geolocation: 26.120612, -80.1446222
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
 * https://twitter.com/MrEvanRoss/status/1270440535518560256
 * [CNN Interview](https://twitter.com/greg_doucette/status/1270479109982912514)
+* https://www.wtsp.com/article/news/local/protests/florida-officer-exonerated-woman-shot-in-face-rubber-bullet/67-2eb60cfa-42f5-42e6-948a-3b73b614338d
 
 
 ### Police laugh and joke when they think their body cams are off | 2020-05-31
