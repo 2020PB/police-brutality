@@ -46,7 +46,7 @@ geolocation: 41.0798711, -85.1391142
 **Links**
 
 * https://twitter.com/blazedyukhei/status/1266533569029177346
-* [Archive link as Tweet has been deleted](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/in-fortwayne-2.1.mp4)
+* [Archive link as Tweet has been deleted](https://2020pb-archive.s3.amazonaws.com/in-fortwayne-2.1.mp4)
 
 
 ### Toddler tear-gassed by police | 2020-05-30

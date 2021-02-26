@@ -508,6 +508,6 @@ geolocation: 34.2371113, -77.9461782
 
 * https://twitter.com/greg_doucette/status/1268047376008216576
 * https://twitter.com/greg_doucette/status/1268047092079112198
-* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.1.mp4)
-* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.2.mp4)
+* [Archive Link for 1st video](https://2020pb-archive.s3.amazonaws.com/nc-wilmington-1.1.mp4)
+* [Archive Link for 1st video](https://2020pb-archive.s3.amazonaws.com/nc-wilmington-1.2.mp4)
 

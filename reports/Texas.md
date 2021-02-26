@@ -536,7 +536,7 @@ geolocation: 29.7539214, -95.3576028
 **Links**
 
 * [33:00, 35:30](https://www.youtube.com/watch?v=1ppU0XVuQI4&t=2130s)
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/tx-houston-5.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/tx-houston-5.1.mp4)
 
 
 ## Lewisville

@@ -1083,7 +1083,7 @@ geolocation: 40.6831896, -73.9767184
 **Links**
 
 * https://twitter.com/NoahHurowitz/status/1268363104502657024
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-35.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/ny-newyorkcity-35.1.mp4)
 
 
 ### Police confiscate protester's bike | 2020-06-03
@@ -1745,7 +1745,7 @@ geolocation: 40.7188905, -73.9891713
 **Links**
 
 * https://www.instagram.com/tv/CDFndP4jem2/
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-97.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/ny-newyorkcity-97.1.mp4)
 
 
 ### Non-uniformed police arrest protester without identifying selves | 2020-07-28
