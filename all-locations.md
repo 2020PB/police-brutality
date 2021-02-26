@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-02-17T00:31:24.608868+00:00
+UPDATED AT: 2021-02-26T01:51:35.702590+00:00
 
 
 # Alabama
@@ -1253,7 +1253,7 @@ geolocation: 34.0689615, -118.3440646
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ca-losangeles-31.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/ca-losangeles-31.1.mp4)
 
 
 ### Police shoot man in groin with rubber bullet | 2020-06-02
@@ -4460,7 +4460,7 @@ geolocation: 41.0798711, -85.1391142
 **Links**
 
 * https://twitter.com/blazedyukhei/status/1266533569029177346
-* [Archive link as Tweet has been deleted](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/in-fortwayne-2.1.mp4)
+* [Archive link as Tweet has been deleted](https://2020pb-archive.s3.amazonaws.com/in-fortwayne-2.1.mp4)
 
 
 ### Toddler tear-gassed by police | 2020-05-30
@@ -8310,7 +8310,7 @@ geolocation: 40.6831896, -73.9767184
 **Links**
 
 * https://twitter.com/NoahHurowitz/status/1268363104502657024
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-35.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/ny-newyorkcity-35.1.mp4)
 
 
 ### Police confiscate protester's bike | 2020-06-03
@@ -8972,7 +8972,7 @@ geolocation: 40.7188905, -73.9891713
 **Links**
 
 * https://www.instagram.com/tv/CDFndP4jem2/
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/ny-newyorkcity-97.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/ny-newyorkcity-97.1.mp4)
 
 
 ### Non-uniformed police arrest protester without identifying selves | 2020-07-28
@@ -10047,8 +10047,8 @@ geolocation: 34.2371113, -77.9461782
 
 * https://twitter.com/greg_doucette/status/1268047376008216576
 * https://twitter.com/greg_doucette/status/1268047092079112198
-* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.1.mp4)
-* [Archive Link for 1st video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/nc-wilmington-1.2.mp4)
+* [Archive Link for 1st video](https://2020pb-archive.s3.amazonaws.com/nc-wilmington-1.1.mp4)
+* [Archive Link for 1st video](https://2020pb-archive.s3.amazonaws.com/nc-wilmington-1.2.mp4)
 
 
 
@@ -10943,7 +10943,7 @@ geolocation: 44.0521386, -123.0972978
 **Links**
 
 * https://www.facebook.com/levimadison/videos/10220891720496082/
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-eugene-4.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-eugene-4.1.mp4)
 
 
 ## Portland
@@ -11059,7 +11059,7 @@ geolocation: 45.515775, -122.674833
 
 * https://www.tiktok.com/@officersiggity/video/6834194381126323462
 * https://twitter.com/greg_doucette/status/1269082018542956545
-* [Tiktok Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-26.1.unknown_video)
+* [Tiktok Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-26.1.unknown_video)
 
 
 ### Police SUV accelerates towards protesters | 2020-06-03
@@ -11201,7 +11201,7 @@ geolocation: 45.51587, -122.677982
 **Links**
 
 * https://clips.twitch.tv/BoringMotionlessConsoleTebowing
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-249.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-249.1.mp4)
 
 
 ### Police pull departing protester from bike to arrest them | 2020-06-07
@@ -11333,7 +11333,7 @@ geolocation: 45.51587, -122.677982
 **Links**
 
 * https://www.tiktok.com/@officersiggity/video/6838314162192485638
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-25.1.unknown_video)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-25.1.unknown_video)
 
 
 ### Officer strikes journalist with baton | 2020-06-14
@@ -11759,7 +11759,7 @@ geolocation: 45.5771009, -122.6843737
 
 * https://www.tiktok.com/@dollface999/video/6845321520802467077
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hkv6fb/what_kind_of_dystopian_police_state_shit_is_this/
-* [Tiktok Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-49.1.unknown_video)
+* [Tiktok Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-49.1.unknown_video)
 
 
 ### Police shoot protesters | 2020-07-02
@@ -11775,7 +11775,7 @@ geolocation: 45.5157426, -122.6768636
 **Links**
 
 * https://twitter.com/KohzKah/status/1278578914613288961
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-46.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-46.1.mp4)
 
 
 ### Journalist shot by police | 2020-07-02
@@ -11829,7 +11829,7 @@ geolocation: 45.5158255, -122.6768183
 * https://mobile.twitter.com/KohzKah/status/1278944647151104000
 * https://mobile.twitter.com/Johnnthelefty/status/1278969777831079937
 * https://mobile.twitter.com/Johnnthelefty/status/1278989366816239619
-* [Archive Link for First Video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-48.1.mp4)
+* [Archive Link for First Video](https://2020pb-archive.s3.amazonaws.com/or-portland-48.1.mp4)
 
 
 ### Police declare riot, fire pepper balls and tear gas | 2020-07-03
@@ -12072,9 +12072,9 @@ geolocation: 45.5159068, -122.6767751
 * https://twitter.com/hungrybowtie/status/1282217421739225088
 * https://twitter.com/KohzKah/status/1282218847018168321
 * https://twitter.com/KohzKah/status/1282223079519739904
-* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-60.1.mp4)
-* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-60.2.mp4)
-* [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-60.3.mp4)
+* [Archive Link 1](https://2020pb-archive.s3.amazonaws.com/or-portland-60.1.mp4)
+* [Archive Link 2](https://2020pb-archive.s3.amazonaws.com/or-portland-60.2.mp4)
+* [Archive Link 3](https://2020pb-archive.s3.amazonaws.com/or-portland-60.3.mp4)
 
 
 ### Police and federal agents chase down protester writing in chalk | 2020-07-12
@@ -12182,7 +12182,7 @@ geolocation: 45.51587, -122.677982
 **Links**
 
 * https://twitter.com/greg_doucette/status/1282338521802563584
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-66.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-66.1.mp4)
 
 
 ### Protest medics shoved and struck by batons after trying to give aid to protester | 2020-07-12
@@ -12425,7 +12425,7 @@ geolocation: 45.5162424, -122.6766617
 **Links**
 
 * https://twitter.com/MrOlmos/status/1284025326612254720
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-81.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-81.1.mp4)
 
 
 ### Protester and reporter struck by impact munitions | 2020-07-16
@@ -12897,7 +12897,7 @@ geolocation: 45.5181745, -122.6767151
 **Links**
 
 * https://twitter.com/ekkabeen/status/1284454435473637377
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-108.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-108.1.mp4)
 
 
 ### Federal agents shoot at protesters behind fence | 2020-07-19
@@ -12999,7 +12999,7 @@ geolocation: 45.51587, -122.677982
 **Links**
 
 * https://twitter.com/PDXAndy_/status/1285111515897421825
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-113.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-113.1.mp4)
 
 
 ### Federal officers fire tear gas and pepper balls at protesters | 2020-07-20
@@ -13211,7 +13211,7 @@ geolocation: 45.515573, -122.6769583
 
 * https://twitter.com/itsmikebivins/status/1285480935098667008
 * https://twitter.com/itsmikebivins/status/1285486725406457856
-* [1st Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-123.1.mp4)
+* [1st Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-123.1.mp4)
 * [2nd Archive Link](https://web.archive.org/web/20200830160001/https://twitter.com/itsmikebivins/status/1285486725406457856)
 
 
@@ -13300,7 +13300,7 @@ geolocation: 45.515573, -122.6769583
 **Links**
 
 * https://twitter.com/begoniacloak/status/1285516032459673600
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-194.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-194.1.mp4)
 
 
 ### History professor shot in head | 2020-07-21
@@ -14170,7 +14170,7 @@ geolocation: 45.5176293, -122.6770152
 
 * https://twitter.com/MrOlmos/status/1287317374664810496
 * https://twitter.com/itsmikebivins/status/1287317505262813184
-* [Archive Link for 2nd Video](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-170.2.mp4)
+* [Archive Link for 2nd Video](https://2020pb-archive.s3.amazonaws.com/or-portland-170.2.mp4)
 
 
 ### Second exchange of tear gas and impact munitions between federal officers and protesters | 2020-07-26
@@ -14276,7 +14276,7 @@ geolocation: 45.5172076, -122.6772031
 **Links**
 
 * https://twitter.com/KohzKah/status/1287449509929213952
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-193.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-193.1.mp4)
 
 
 ### Protester shot in eye | 2020-07-26
@@ -14646,7 +14646,7 @@ geolocation: 45.5161982, -122.6766199
 **Links**
 
 * https://twitter.com/begoniacloak/status/1287785075459756040
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-192.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-192.1.mp4)
 
 
 ### Police shine strobe light at protesters, destroy umbrella | 2020-07-28
@@ -14662,7 +14662,7 @@ geolocation: 45.5156595, -122.6769109
 **Links**
 
 * https://twitter.com/begoniacloak/status/1287795370358013952
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-195.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-195.1.mp4)
 
 
 ### Protester struck with tear gas canister | (Believed to be) 2020-07-28
@@ -15833,7 +15833,7 @@ geolocation: 45.5156185, -122.6770321
 **Links**
 
 * https://twitter.com/KohzKah/status/1295016916625395713
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-284.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-284.1.mp4)
 
 
 ### Officer shoots then clubs protester | 2020-08-15
@@ -17561,7 +17561,7 @@ geolocation: 45.515075, -122.6772178
 **Links**
 
 * https://twitter.com/KohzKah/status/1310144506457518081
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/or-portland-378.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/or-portland-378.1.mp4)
 
 
 ### Police pepper spray protester while confiscating sign | 2020-09-28
@@ -19914,7 +19914,7 @@ geolocation: 29.7539214, -95.3576028
 **Links**
 
 * [33:00, 35:30](https://www.youtube.com/watch?v=1ppU0XVuQI4&t=2130s)
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/tx-houston-5.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/tx-houston-5.1.mp4)
 
 
 ## Lewisville
@@ -21103,7 +21103,7 @@ geolocation: 47.6152942, -122.3173764
 **Links**
 
 * [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-20.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/wa-seattle-20.1.mp4)
 
 
 ### Police strike and pepper spray protesters while marching on 13th Precinct | 2020-07-01
@@ -21333,7 +21333,7 @@ geolocation: 47.6152759, -122.3199594
 **Links**
 
 * https://twitter.com/dailydigger19/status/1287194441858588672
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/wa-seattle-33.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/wa-seattle-33.1.mp4)
 
 
 ### Police make violent arrests and pepper spray crowd | 2020-07-25
@@ -22245,7 +22245,7 @@ geolocation: 38.9001864, -77.0366859
 **Links**
 
 * https://twitter.com/i/status/1269859559859871744
-* [Archive Link](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-8.1.mp4)
+* [Archive Link](https://2020pb-archive.s3.amazonaws.com/dc-dc-8.1.mp4)
 
 
 ### Reporter struck with shield and baton | 2020-06-01
@@ -22388,9 +22388,9 @@ geolocation: 38.8995177, -77.0387365
 * https://twitter.com/JasonPatinkin/status/1275252759634329602
 * https://twitter.com/JasonPatinkin/status/1275294052372615169
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
-* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.1.mp4)
-* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.2.mp4)
-* [Archive Link 3](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-19.3.mp4)
+* [Archive Link 1](https://2020pb-archive.s3.amazonaws.com/dc-dc-19.1.mp4)
+* [Archive Link 2](https://2020pb-archive.s3.amazonaws.com/dc-dc-19.2.mp4)
+* [Archive Link 3](https://2020pb-archive.s3.amazonaws.com/dc-dc-19.3.mp4)
 
 
 ### Police pepper spray protesters with hands up | 2020-06-22
@@ -22458,8 +22458,8 @@ geolocation: 38.9002291, -77.0365354
 
 * https://twitter.com/maryamnayebyazd/status/1275493238619635714
 * https://twitter.com/maryamnayebyazd/status/1275493885188485120
-* [Archive Link 1](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-22.1.mp4)
-* [Archive Link 2](https://gateway.temporal.cloud/ipns/2020pb-archive.temporal.cloud/pb2020/dc-dc-22.2.mp4)
+* [Archive Link 1](https://2020pb-archive.s3.amazonaws.com/dc-dc-22.1.mp4)
+* [Archive Link 2](https://2020pb-archive.s3.amazonaws.com/dc-dc-22.2.mp4)
 
 
 ### Police use pepper spray, flashbangs and tear gas to disperse protest | 2020-06-23
