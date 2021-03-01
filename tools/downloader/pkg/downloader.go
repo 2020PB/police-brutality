@@ -82,7 +82,10 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		}
 		// skip the first row as it contains column names OR
 		// skip if the row has less than 7 elements as the 7th element is the start of the video links
-		if i == 0 || len(record) < 7 {
+		if i == 0 || len(record) < 8 {
+			continue
+		}
+		if record[3] != "Police assault photographer" {
 			continue
 		}
 		wg.Add(1)
@@ -90,19 +93,19 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 			defer wg.Done()
 			// gets the last column so we dont get an out of range panic
 			max := len(record) - 1
-			for ii := 6; ii < max; ii++ {
+			for ii := 7; ii < max; ii++ {
 				// this column is empty, and has no data
 				if record[ii] == "" {
 					continue
 				}
 				count := d.count.Inc()
-				d.logger.Info("downloading video", zap.String("name", record[3]), zap.String("url", record[ii]))
+				d.logger.Info("downloading video", zap.String("name", record[6]), zap.String("url", record[ii]))
 				download := func() error {
 					cmd := exec.Command("youtube-dl", "-o", d.getName(count), record[ii])
 					return d.runCommand(cmd, timeout)
 				}
 				if err := download(); err != nil {
-					d.logger.Error("failed to run command", zap.Error(err), zap.String("name", record[3]), zap.String("url", record[ii]))
+					d.logger.Error("failed to run command", zap.Error(err), zap.String("name", record[6]), zap.String("url", record[ii]))
 				} else {
 					// if the command run succeeded, then update the results for processing after all downloads are done
 					mux.Lock()
@@ -111,7 +114,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 						link  string
 						count int64
 					}{
-						name:  record[3],
+						name:  record[6],
 						link:  record[ii],
 						count: count,
 					})
