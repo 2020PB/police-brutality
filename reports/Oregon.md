@@ -7562,11 +7562,13 @@ geolocation: 45.4931563, -122.6725405
 * https://twitter.com/_WhatRiot/status/1353434886644744194
 
 
-### Police assault photographer
+### Police assault photographer | 2021-02-28
 
 At an anti-ICE protest in the Portland Pearl District, several police officers on bicycles rode up to a clearly labeled photographer standing in the street at 12th Ave and Pettygrove st. The officers pushed the photographer before one officer punches him.
 
 tags: journalist, push, shove, punch, strike
+
+geolocation: 45.5329299,-122.683506
 
 id: or-portland-424
 
