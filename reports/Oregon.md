@@ -7562,6 +7562,22 @@ geolocation: 45.4931563, -122.6725405
 * https://twitter.com/_WhatRiot/status/1353434886644744194
 
 
+### Police assault photographer
+
+At an anti-ICE protest in the Portland Pearl District, several police officers on bicycles rode up to a clearly labeled photographer standing in the street at 12th Ave and Pettygrove st. The officers pushed the photographer before one officer punches him.
+
+tags: journalist, push, shove, punch, strike
+
+id: or-portland-424
+
+**Links**
+
+* https://twitter.com/BGOnTheScene/status/1365956754710749187
+* https://twitter.com/jwcroxton/status/1365912366567759872
+* https://twitter.com/PDocumentarians/status/1365967922544340993
+* https://twitter.com/MasonLakePhoto/status/1365935882973290496
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
