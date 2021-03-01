@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-02-28T22:27:37.722511+00:00
+UPDATED AT: 2021-03-01T18:47:53.750496+00:00
 
 
 # Alabama
@@ -18433,6 +18433,24 @@ geolocation: 45.4931563, -122.6725405
 
 * https://twitter.com/_WhatRiot/status/1353434581051924480
 * https://twitter.com/_WhatRiot/status/1353434886644744194
+
+
+### Police assault photographer | 2021-02-28
+
+At an anti-ICE protest in the Portland Pearl District, several police officers on bicycles rode up to a clearly labeled photographer standing in the street at 12th Ave and Pettygrove st. The officers pushed the photographer before one officer punches him.
+
+tags: journalist, punch, push, shove, strike
+
+id: or-portland-424
+
+geolocation: 45.5329299, -122.683506
+
+**Links**
+
+* https://twitter.com/BGOnTheScene/status/1365956754710749187
+* https://twitter.com/jwcroxton/status/1365912366567759872
+* https://twitter.com/PDocumentarians/status/1365967922544340993
+* https://twitter.com/MasonLakePhoto/status/1365935882973290496
 
 
 ## Salem
