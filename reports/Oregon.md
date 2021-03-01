@@ -7566,11 +7566,11 @@ geolocation: 45.4931563, -122.6725405
 
 At an anti-ICE protest in the Portland Pearl District, several police officers on bicycles rode up to a clearly labeled photographer standing in the street at 12th Ave and Pettygrove st. The officers pushed the photographer before one officer punches him.
 
-tags: journalist, push, shove, punch, strike
-
-geolocation: 45.5329299,-122.683506
+tags: journalist, punch, push, shove, strike
 
 id: or-portland-424
+
+geolocation: 45.5329299, -122.683506
 
 **Links**
 
