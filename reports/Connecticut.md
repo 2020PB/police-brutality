@@ -4,15 +4,16 @@
 
 Following a four month investigation of an incident on May 31st, 2020, in which an officer pepper sprayed a protester outside the New Haven Police Headquarters, the New Haven Police Department announced that none of the officers involved would be disciplined.
 
+tags: less-lethal, pepper-spray, protester, spray
+
 id: ct-newhaven-1
 
-geolocation: 41.2997131,-72.9251301
-
-tags: protester, spray, pepper-spray
+geolocation: 41.2997131, -72.9251301
 
 **Links**
 
 * https://www.wtnh.com/news/connecticut/new-haven/new-haven-pd-officers-who-used-pepper-spray-on-blm-protesters-over-the-summer-wont-be-disciplined/
+
 
 ## Waterbury
 
