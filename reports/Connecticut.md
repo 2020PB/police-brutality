@@ -1,3 +1,19 @@
+## New Haven
+
+### Officer pepper sprayed protester | 2020-05-31
+
+Following a four month investigation of an incident on May 31st, 2020, in which an officer pepper sprayed a protester outside the New Haven Police Headquarters, the New Haven Police Department announced that none of the officers involved would be disciplined.
+
+id: ct-newhaven-1
+
+geolocation: 41.2997131,-72.9251301
+
+tags: protester, spray, pepper-spray
+
+**Links**
+
+* https://www.wtnh.com/news/connecticut/new-haven/new-haven-pd-officers-who-used-pepper-spray-on-blm-protesters-over-the-summer-wont-be-disciplined/
+
 ## Waterbury
 
 ### Police tackle and detain 6 protesters | 2020-05-31
