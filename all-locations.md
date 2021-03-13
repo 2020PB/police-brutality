@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-03-01T18:47:53.750496+00:00
+UPDATED AT: 2021-03-13T22:44:24.024618+00:00
 
 
 # Alabama
@@ -3024,6 +3024,23 @@ geolocation: 39.7399582, -104.9670282
 
 
 # Connecticut
+
+## New Haven
+
+### Officer pepper sprayed protester | 2020-05-31
+
+Following a four month investigation of an incident on May 31st, 2020, in which an officer pepper sprayed a protester outside the New Haven Police Headquarters, the New Haven Police Department announced that none of the officers involved would be disciplined.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: ct-newhaven-1
+
+geolocation: 41.2997131, -72.9251301
+
+**Links**
+
+* https://www.wtnh.com/news/connecticut/new-haven/new-haven-pd-officers-who-used-pepper-spray-on-blm-protesters-over-the-summer-wont-be-disciplined/
+
 
 ## Waterbury
 
