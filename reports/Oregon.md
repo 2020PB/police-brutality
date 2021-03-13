@@ -50,7 +50,7 @@ tags: less-lethal, projectile, protester, shoot, vehicle
 
 id: or-eugene-1
 
-geolocation:
+geolocation: 
 
 **Links**
 
@@ -534,7 +534,7 @@ tags: hide-badge
 
 id: or-portland-19
 
-geolocation:
+geolocation: 
 
 **Links**
 
@@ -7586,11 +7586,11 @@ At a protest outside the federal courthouse in Portland, federal officers used t
 
 Note: officers appeared to be using HC gas, a highly toxic variant of traditional tear gas.
 
-tags: protester, shoot, projectile, pepper-ball, tear-gas, less-lethal
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-425
 
-geolocation: 45.5159917,-122.6767317
+geolocation: 45.5159917, -122.6767317
 
 **Links**
 
@@ -7613,11 +7613,11 @@ A public transit train is caught in the tear gas at one point, forcing it to slo
 
 Note: officers appeared to be using HC gas, a highly toxic variant of traditional tear gas.
 
-tags: protester, shoot, projectile, pepper-ball, tear-gas, less-lethal
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-426
 
-geolocation: 45.5159917,-122.6767317
+geolocation: 45.5159917, -122.6767317
 
 **Links**
 
@@ -7648,11 +7648,11 @@ At a protest outside the federal courthouse in Portland, federal officers pushed
 
 Note: officers appeared to be using HC gas, a highly toxic variant of traditional tear gas.
 
-tags: protester, shoot, projectile, pepper-ball, tear-gas, less-lethal
+tags: less-lethal, pepper-ball, projectile, protester, shoot, tear-gas
 
 id: or-portland-427
 
-geolocation: 45.5159917,-122.6767317
+geolocation: 45.5159917, -122.6767317
 
 **Links**
 
@@ -7668,11 +7668,11 @@ geolocation: 45.5159917,-122.6767317
 
 While pushing protesters away from the federal courthouse, DHS officers pepper sprayed and repeatedly shoved a slow-moving protester.
 
-tags: protester, push, shove, spray, pepper-spray
+tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: or-portland-428
 
-geolocation: 45.516567,-122.6775894
+geolocation: 45.516567, -122.6775894
 
 **Links**
 
