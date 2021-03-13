@@ -30,6 +30,7 @@ Note: non-protest and non-us incidents are being stored for review. They may be 
     * [Comment](https://twitter.com/ProChoiceOH/status/1268253228384292866) from a Pro-Choice Organization stating that tear gas may cause miscarriages
     * [Thread](https://twitter.com/FemFlagCorps/status/1271516751679938560) of antecdotal evidence from Twitter users that tear gas has disrupted their menstrual cycles
     * [ACLU Fact Sheet](https://www.aclu.org/fact-sheet/chemical-irritants-fact-sheet) on considerations for chemical irritant use.
+    * [Chemical Weapons Research Consortium](https://www.chemicalweaponsresearch.com/munitions_library.html)
 1. The use of a LRAD (or sound cannon) at any point.
     * LRADs are devices designed to emit a sound sufficiently irritating to protestors that they will disperse.
     * Improper use of LRADs is extremely simple. If the settings are modified, the device can easily cause permanent auditory damage to protestors.
@@ -45,6 +46,7 @@ Note: non-protest and non-us incidents are being stored for review. They may be 
     * This includes use of pepper spray, smoke grenades, flashbangs and kinetic projectiles.
     * See additional [ACLU Fact Sheet](https://www.aclu.org/fact-sheet/disorientation-devices-fact-sheet) on use of disorientation devices (e.g. flashbangs)
     * See additional [ACLU Fact Sheet](https://www.aclu.org/fact-sheet/chemical-irritants-fact-sheet) on considerations for chemical irritant use (e.g. pepper spray).
+    * [Chemical Weapons Research Consortium](https://www.chemicalweaponsresearch.com/munitions_library.html)
 1. Use of shields, bikes, batons or other objects against peaceful protestors.
 1. Kneeling on protestors to make arrests.
     * In particular, this includes kneeling on protestors' necks, as this is the behavior that caused George Floyd's death.
