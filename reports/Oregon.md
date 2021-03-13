@@ -50,7 +50,7 @@ tags: less-lethal, projectile, protester, shoot, vehicle
 
 id: or-eugene-1
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -534,7 +534,7 @@ tags: hide-badge
 
 id: or-portland-19
 
-geolocation: 
+geolocation:
 
 **Links**
 
@@ -7578,6 +7578,105 @@ geolocation: 45.5329299, -122.683506
 * https://twitter.com/jwcroxton/status/1365912366567759872
 * https://twitter.com/PDocumentarians/status/1365967922544340993
 * https://twitter.com/MasonLakePhoto/status/1365935882973290496
+
+
+### Federal officers push protesters away from courthouse | 2021-03-11
+
+At a protest outside the federal courthouse in Portland, federal officers used tear gas, stun grenades and impact munitions to push protesters away from the building following graffiti and damaged windows.
+
+Note: officers appeared to be using HC gas, a highly toxic variant of traditional tear gas.
+
+tags: protester, shoot, projectile, pepper-ball, tear-gas, less-lethal
+
+id: or-portland-425
+
+geolocation: 45.5159917,-122.6767317
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1370248672752005124
+* https://twitter.com/GriffinMalone6/status/1370249821018198018
+* https://twitter.com/JenDowlingKoin6/status/1370251156371369985
+* https://twitter.com/hungrybowtie/status/1370251624963317761
+* https://twitter.com/hungrybowtie/status/1370252468068577282
+* https://twitter.com/hungrybowtie/status/1370254121651953689
+* https://twitter.com/hungrybowtie/status/1370255526102102018
+* https://twitter.com/MasonLakePhoto/status/1370318699056394242
+* https://www.chemicalweaponsresearch.com/hc
+
+
+### Officers push protesters from courthouse a second time | 2021-03-11
+
+At a protest outside the federal courthouse in Portland, federal officers pushed protesters away from the building for a second time, after protesters lit a small fire on the courthouse steps.
+
+A public transit train is caught in the tear gas at one point, forcing it to slow down.
+
+Note: officers appeared to be using HC gas, a highly toxic variant of traditional tear gas.
+
+tags: protester, shoot, projectile, pepper-ball, tear-gas, less-lethal
+
+id: or-portland-426
+
+geolocation: 45.5159917,-122.6767317
+
+**Links**
+
+* https://twitter.com/GriffinMalone6/status/1370262475107491846
+* https://twitter.com/jwcroxton/status/1370270315817832448
+* https://twitter.com/jwcroxton/status/1370271395410636800
+* https://twitter.com/thatpowellgirl/status/1370250999474970624
+* https://twitter.com/thatpowellgirl/status/1370251221311782915
+* https://twitter.com/thatpowellgirl/status/1370251791594450944
+* https://twitter.com/suzettesmith/status/1370267405218279425
+* https://twitter.com/JenDowlingKoin6/status/1370264250766127113
+* https://twitter.com/hungrybowtie/status/1370266018468098050
+* https://twitter.com/hungrybowtie/status/1370268433984626688
+* https://twitter.com/hungrybowtie/status/1370269120931930113
+* https://twitter.com/hungrybowtie/status/1370266623026733056
+* https://twitter.com/gravemorgan/status/1370261461730164737
+* https://twitter.com/gravemorgan/status/1370264872764678147
+* https://twitter.com/gravemorgan/status/1370275251372789761
+* https://twitter.com/gravemorgan/status/1370289316618928132
+* https://twitter.com/NDpendentPDX/status/1370270054009303040
+* https://twitter.com/MasonLakePhoto/status/1370318699056394242
+* https://www.chemicalweaponsresearch.com/hc
+
+
+### Officers push protesters from courthouse a third time | 2021-03-11
+
+At a protest outside the federal courthouse in Portland, federal officers pushed protesters away from the building a third time, for unclear justification this time. Officers also fired on press indiscriminately. Officers used tear gas, impact munitions and stun grenades.
+
+Note: officers appeared to be using HC gas, a highly toxic variant of traditional tear gas.
+
+tags: protester, shoot, projectile, pepper-ball, tear-gas, less-lethal
+
+id: or-portland-427
+
+geolocation: 45.5159917,-122.6767317
+
+**Links**
+
+* https://twitter.com/suzettesmith/status/1370277185760600069
+* https://twitter.com/suzettesmith/status/1370278703742078977
+* https://twitter.com/hungrybowtie/status/1370272922397384704
+* https://twitter.com/hungrybowtie/status/1370274446880088065
+* https://twitter.com/MasonLakePhoto/status/1370318699056394242
+* https://www.chemicalweaponsresearch.com/hc
+
+
+### Officers shove and pepper spray protester | 2021-03-11
+
+While pushing protesters away from the federal courthouse, DHS officers pepper sprayed and repeatedly shoved a slow-moving protester.
+
+tags: protester, push, shove, spray, pepper-spray
+
+id: or-portland-428
+
+geolocation: 45.516567,-122.6775894
+
+**Links**
+
+* https://twitter.com/it_aint_pretty_/status/1370249984117940228
 
 
 ## Salem
