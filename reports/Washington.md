@@ -1394,7 +1394,7 @@ tags: arrest, protester, push, shove
 
 id: wa-seattle-78
 
-geolocation: 47.6088141,-122.3430711
+geolocation: 47.6088141, -122.3430711
 
 **Links**
 
@@ -1405,11 +1405,11 @@ geolocation: 47.6088141,-122.3430711
 
 At a protest near Pike Place Market, Seattle police pushed protesters down the street, shouting "Move back." As protesters spread out, police snatched several for arrest. When protesters attempted to intervene, police shoved and pepper-sprayed them.
 
-tags: protester, push, shove, arrest, pepper-spray, spray, less-lethal
+tags: arrest, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: wa-seattle-79
 
-geolocation: 47.6088141,-122.3430711
+geolocation: 47.6088141, -122.3430711
 
 **Links**
 
