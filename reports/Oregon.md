@@ -7679,6 +7679,21 @@ geolocation: 45.516567, -122.6775894
 * https://twitter.com/it_aint_pretty_/status/1370249984117940228
 
 
+### Officers take stereo and pepper spray press | 2021-03-12
+
+During a kettle and mass arrest near 13th and Marshall, police approached a protester playing music from a stereo. Officers seized the stereo without explanation and pepper sprayed the protester and a member of the press who reached out a hand.
+
+tags: protester, spray, pepper-spray, journalist, less-lethal
+
+id: or-portland-429
+
+geolocation: 45.5307552,-122.6844702
+
+**Links**
+
+* https://twitter.com/it_aint_pretty_/status/1370638274935496705
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
