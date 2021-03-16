@@ -1306,11 +1306,11 @@ geolocation: 34.063557, -118.3186402
 
 Police shot a journalist with a less lethal round near La Mirada and Vine in Downtown Hollywood, when he stopped to film a trash fire on the sidewalk.
 
-tags: journalist, shoot, projectile, less-lethal
+tags: journalist, less-lethal, projectile, shoot
 
 id: ca-losangeles-66
 
-geolocation: 34.0932681,-118.3265906
+geolocation: 34.0932681, -118.3265906
 
 **Links**
 
