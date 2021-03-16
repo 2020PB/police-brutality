@@ -1386,6 +1386,36 @@ geolocation: 45.5171945, -122.5538792
 * https://www.reddit.com/r/2020PoliceBrutality/comments/k30e8h/capitol_hill_seattle_11272020_police_dispersing
 
 
+### Police shove and arrest individual | 2021-03-13
+
+At a protest near Pike Place Market, Seattle police began pushing protesters down the street, shouting "Move back." One individual, believed by the poster to be a bystander (though this cannot be verified), complained that he couldn't move. Officers shoved him, then pulled him away and arrested him.
+
+tags: arrest, protester, push, shove
+
+id: wa-seattle-78
+
+geolocation: 47.6088141, -122.3430711
+
+**Links**
+
+* https://twitter.com/mikescaturo/status/1370971289003859968
+
+
+### Police push, pepper spray, and arrest protesters | 2021-03-13
+
+At a protest near Pike Place Market, Seattle police pushed protesters down the street, shouting "Move back." As protesters spread out, police snatched several for arrest. When protesters attempted to intervene, police shoved and pepper-sprayed them.
+
+tags: arrest, less-lethal, pepper-spray, protester, push, shove, spray
+
+id: wa-seattle-79
+
+geolocation: 47.6088141, -122.3430711
+
+**Links**
+
+* https://twitter.com/BGOnTheScene/status/1370990108711612416
+
+
 ## Vancouver
 
 ### Police arrest journalists | 2020-10-31
