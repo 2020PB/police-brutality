@@ -2,7 +2,7 @@
 
 `downloader` is a CLI tool that allows parsing over the all-locations csv file, and downloading all the videos referenced in the CSV file, and can  concurrently download multiples videos. Because some of the videos have file names that are longer than the maximum permitted characters in a file path, the videos are not saved under their name, but instead using the videoID as determined by youtube-dl, along with a unique number. This information is then stored in a final CSV file which contains the video name, the link used to download video, as well as the unique number so you can easily determine what video belongs to what incident. Additionally it allows uploading the video data to an IPFS HTTP API endpoint
 
-The template for names of videos saved on disk is `[YOUTUBE-DL-VIDEO-ID].[UNIQUE-VIDEO-NUMBER].[EXTENSION]`, and the CSV file has the rows `name,link,unique_video_number`. So for example we have the following entry in the CSV file `Law enforcement gas a crowd chanting “we want peace” right after exiting the building.,https://twitter.com/courtenay_roche/status/1267653137969623040,1`, and two files we have downloaded: 
+The template for names of videos saved on disk is `[YOUTUBE-DL-VIDEO-ID].[UNIQUE-VIDEO-NUMBER].[EXTENSION]`, and the CSV file has the rows `name,link,unique_video_number`. So for example we have the following entry in the CSV file `Law enforcement gas a crowd chanting “we want peace” right after exiting the building.,https://twitter.com/courtenay_roche/status/1267653137969623040,1`, and two files we have downloaded:
 
 * `1267647898365427714.2.mp4`
 * `1267653137969623040.1.mp4`
@@ -72,9 +72,14 @@ OPTIONS:
    --timeout value, -t value                   timeout to quit a download, you may need to adjust depending on your connection (default: 3m0s)
    --upload.to_ipfs, --uti                     enables uploading the video data to any ipfs endpoint (default: false)
    --help, -h                                  show help (default: false)
-   
+
 ```
 
 ## package
 
 Alternatively you can use this library as a package, to do so use `import github.com/2020PB/police-brutality/pkg`. See the `main.go` file for examples on how to use this as a library
+
+
+### Evan's helper
+
+`make build && ./police-brutality start -c 10 -md 10`

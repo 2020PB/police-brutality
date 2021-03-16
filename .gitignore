@@ -5,3 +5,5 @@ all-locations.json
 .pytest_cache
 .coverage
 cov_html/*
+tools/downloader/police-brutality
+tools/downloader/videos/*
