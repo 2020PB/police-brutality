@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-03-16T16:48:50.777385+00:00
+UPDATED AT: 2021-03-16T22:39:50.708854+00:00
 
 
 # Alabama
@@ -1710,6 +1710,21 @@ geolocation: 34.063557, -118.3186402
 * https://twitter.com/PplsCityCouncil/status/1335814255212314624
 * https://www.reddit.com/r/PublicFreakout/comments/k8a6iy/chaos_erupts_as_lapd_officers_swings_wildly_at/
 * https://www.reddit.com/r/PublicFreakout/comments/k8jlae/la_cops_doing_what_they_do_best/
+
+
+### Police shoot journalist with less lethal | 2021-03-13
+
+Police shot a journalist with a less lethal round near La Mirada and Vine in Downtown Hollywood, when he stopped to film a trash fire on the sidewalk.
+
+tags: journalist, less-lethal, projectile, shoot
+
+id: ca-losangeles-66
+
+geolocation: 34.0932681, -118.3265906
+
+**Links**
+
+* https://twitter.com/buffalobaff/status/1371052290853851137
 
 
 ## Norco
