@@ -1302,6 +1302,21 @@ geolocation: 34.063557, -118.3186402
 * https://www.reddit.com/r/PublicFreakout/comments/k8jlae/la_cops_doing_what_they_do_best/
 
 
+### Police shoot journalist with less lethal | 2021-03-13
+
+Police shot a journalist with a less lethal round near La Mirada and Vine in Downtown Hollywood, when he stopped to film a trash fire on the sidewalk.
+
+tags: journalist, less-lethal, projectile, shoot
+
+id: ca-losangeles-66
+
+geolocation: 34.0932681, -118.3265906
+
+**Links**
+
+* https://twitter.com/buffalobaff/status/1371052290853851137
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | 2020-06-29
