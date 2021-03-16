@@ -85,9 +85,17 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		if i == 0 || len(record) < 8 {
 			continue
 		}
-		if record[3] != "Police assault photographer" {
+
+
+		if record[6] != "wa-seattle-78" && record[6] != "wa-seattle-79" && record[6] != "or-portland-429" {
 			continue
 		}
+		fmt.Printf("record: %v\n", record)
+		fmt.Printf("record[5]: %v\n", record[5])
+		fmt.Printf("record[6]: %v\n", record[6])
+
+
+
 		wg.Add(1)
 		d.wp.Submit(func() {
 			defer wg.Done()
@@ -101,7 +109,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 				count := d.count.Inc()
 				d.logger.Info("downloading video", zap.String("name", record[6]), zap.String("url", record[ii]))
 				download := func() error {
-					cmd := exec.Command("youtube-dl", "-o", d.getName(count), record[ii])
+					cmd := exec.Command("youtube-dl", "-o", d.getName(record[6], count), record[ii])
 					return d.runCommand(cmd, timeout)
 				}
 				if err := download(); err != nil {
@@ -170,6 +178,6 @@ func (d *Downloader) runCommand(cmd *exec.Cmd, timeout time.Duration) error {
 }
 
 // uses an atomically increasing counter to prevent any possible chance of filename conflics when running many concurrent downloaders
-func (d *Downloader) getName(count int64) string {
-	return d.path + "/%(id)s." + fmt.Sprint(count) + ".%(ext)s"
+func (d *Downloader) getName(id string, count int64) string {
+	return d.path + "/" + id + "." + fmt.Sprint(count) + ".%(ext)s"
 }
