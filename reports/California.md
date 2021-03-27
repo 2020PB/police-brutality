@@ -1323,11 +1323,11 @@ At a protest against the forced removal of a homeless encampment in Echo Park, p
 
 A reporter who attend the protest as a protester shared a picture of himself with his arm in a sling, as well as an x-ray. He states that the LAPD broke his arm with a baton.
 
-tags: protester, push, shove, strike, baton
+tags: baton, protester, push, shove, strike
 
 id: ca-losangeles-67
 
-geolocation: 34.0757143,-118.2615167
+geolocation: 34.0757143, -118.2615167
 
 **Links**
 
@@ -1339,11 +1339,11 @@ geolocation: 34.0757143,-118.2615167
 
 During a second night of protests at Echo Park, police kettled the crowd and began mass arrests of protesters, legal observers, and journalists alike. Some of these arrests turned violent, with police tackling and dragging protesters away.
 
-tags: protester, legal-observer, journalist, arrest, tackle, zip-tie
+tags: arrest, journalist, legal-observer, protester, tackle, zip-tie
 
 id: ca-losangeles-68
 
-geolocation: 34.0766135,-118.2584333
+geolocation: 34.0766135, -118.2584333
 
 **Links**
 
@@ -1362,11 +1362,11 @@ During the second day of protests at Echo park, police brandished riot control f
 
 In addition, a photographer for AP uploaded images of alleged wounds sustained at the protest.
 
-tags: protester, journalist, shoot, less-lethal, rubber-bullet, projectile
+tags: journalist, less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-losangeles-69
 
-geolocation: 34.0766135,-118.2584333
+geolocation: 34.0766135, -118.2584333
 
 **Links**
 
