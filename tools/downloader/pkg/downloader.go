@@ -87,7 +87,7 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		}
 
 
-		if record[6] != "wa-seattle-78" && record[6] != "wa-seattle-79" && record[6] != "or-portland-429" {
+		if record[6] != "ca-losangeles-66" {
 			continue
 		}
 		fmt.Printf("record: %v\n", record)

@@ -198,3 +198,5 @@
 {"level":"info","ts":1615913469.706622,"caller":"pkg/downloader.go:112","msg":"downloading video","name":"wa-seattle-79","url":"https://twitter.com/BGOnTheScene/status/1370990108711612416"}
 {"level":"info","ts":1615913469.732436,"caller":"pkg/downloader.go:112","msg":"downloading video","name":"or-portland-429","url":"https://twitter.com/it_aint_pretty_/status/1370638274935496705"}
 {"level":"info","ts":1615913469.734546,"caller":"pkg/downloader.go:82","msg":"finished downloading videos"}
+{"level":"info","ts":1615983643.858492,"caller":"pkg/downloader.go:110","msg":"downloading video","name":"ca-losangeles-66","url":"https://twitter.com/buffalobaff/status/1371052290853851137"}
+{"level":"info","ts":1615983643.877179,"caller":"pkg/downloader.go:80","msg":"finished downloading videos"}
