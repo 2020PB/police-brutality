@@ -4,6 +4,7 @@ import (
 	"log"
 	"os"
 	"time"
+	"strings"
 
 	. "github.com/2020PB/police-brutality/pkg"
 	"github.com/urfave/cli/v2"
@@ -19,7 +20,14 @@ func main() {
 			Usage: "starts the downloader",
 			Action: func(c *cli.Context) error {
 				dl := New(c.String("log.file"), c.String("directory"), c.Int("concurrency"))
-				if err := dl.Run(c.Duration("timeout"), c.Int("max.downloads")); err != nil {
+
+
+				incidentIds := strings.Split(c.String("incident.ids"), " ")
+				idMap := make(map[string]bool, len(incidentIds))
+				for _, incidentId := range incidentIds {
+					idMap[incidentId] = true
+				}
+				if err := dl.Run(c.Duration("timeout"), c.Int("max.downloads"), idMap); err != nil {
 					return err
 				}
 				if c.Bool("upload.to_ipfs") {
@@ -83,6 +91,12 @@ func main() {
 					Aliases: []string{"uti"},
 					Usage:   "enables uploading the video data to any ipfs endpoint",
 					Value:   false,
+				},
+				&cli.StringFlag{
+					Name: "incident.ids",
+					Aliases: []string{"iids"},
+					Usage: "ids of incidents to pull down",
+					Value: "",
 				},
 			},
 		},

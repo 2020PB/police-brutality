@@ -7,3 +7,4 @@ all-locations.json
 cov_html/*
 tools/downloader/police-brutality
 tools/downloader/videos/*
+tools/downloader/downloader.log

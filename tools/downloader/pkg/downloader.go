@@ -55,7 +55,14 @@ func New(logFile, path string, concurrency int) *Downloader {
 
 // Run starts the download process, note that maxDownloads doesn't necessarily equate to number of videos
 // it really means the maximum number of entries in the csv to download, and some entries in the csv may have more than 1 associated video
-func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
+func (d *Downloader) Run(timeout time.Duration, maxDownloads int, recordIds map[string]bool) error {
+	hasIds := false
+	if len(recordIds) > 0 {
+		hasIds = true
+	}
+	fmt.Printf("hasIds: %v\n", hasIds)
+	fmt.Printf("recordIds: %v\n", recordIds)
+	fmt.Printf("maxDownloads: %v\n", maxDownloads)
 	resp, err := http.Get(url)
 	if err != nil {
 		return err
@@ -71,7 +78,8 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		wg     = &sync.WaitGroup{}
 		reader = csv.NewReader(resp.Body)
 	)
-	for i := 0; maxDownloads != 0 && i < maxDownloads; i++ {
+	i := 0
+	for maxDownloads != 0 && i < maxDownloads {
 		// read the next record
 		record, err := reader.Read()
 		if err != nil && err != io.EOF {
@@ -83,30 +91,26 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 		// skip the first row as it contains column names OR
 		// skip if the row has less than 7 elements as the 7th element is the start of the video links
 		if i == 0 || len(record) < 8 {
+			i++
 			continue
 		}
 
-
-		if record[6] != "ca-losangeles-66" {
+		_, ok := recordIds[record[6]]
+		if !ok && hasIds {
 			continue
 		}
-		fmt.Printf("record: %v\n", record)
-		fmt.Printf("record[5]: %v\n", record[5])
-		fmt.Printf("record[6]: %v\n", record[6])
-
-
 
 		wg.Add(1)
 		d.wp.Submit(func() {
 			defer wg.Done()
 			// gets the last column so we dont get an out of range panic
 			max := len(record) - 1
+			count := int64(1)
 			for ii := 7; ii < max; ii++ {
 				// this column is empty, and has no data
 				if record[ii] == "" {
 					continue
 				}
-				count := d.count.Inc()
 				d.logger.Info("downloading video", zap.String("name", record[6]), zap.String("url", record[ii]))
 				download := func() error {
 					cmd := exec.Command("youtube-dl", "-o", d.getName(record[6], count), record[ii])
@@ -128,8 +132,10 @@ func (d *Downloader) Run(timeout time.Duration, maxDownloads int) error {
 					})
 					mux.Unlock()
 				}
+				count++
 			}
 		})
+		i ++
 	}
 	// wait for pending download operations to finish
 	wg.Wait()
