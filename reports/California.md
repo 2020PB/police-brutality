@@ -1317,6 +1317,64 @@ geolocation: 34.0932681, -118.3265906
 * https://twitter.com/buffalobaff/status/1371052290853851137
 
 
+### Police strike protesters with batons | 2021-03-24
+
+At a protest against the forced removal of a homeless encampment in Echo Park, police attempt to move protesters away from the park. In this video, an officer is seen repeatedly shoving a protester with a baton.
+
+A reporter who attend the protest as a protester shared a picture of himself with his arm in a sling, as well as an x-ray. He states that the LAPD broke his arm with a baton.
+
+tags: baton, protester, push, shove, strike
+
+id: ca-losangeles-67
+
+geolocation: 34.0757143, -118.2615167
+
+**Links**
+
+* https://twitter.com/desertborder/status/1374952209536884737
+* https://twitter.com/isaacscher/status/1375132620724391939
+
+
+### Police make mass arrests | 2021-03-25
+
+During a second night of protests at Echo Park, police kettled the crowd and began mass arrests of protesters, legal observers, and journalists alike. Some of these arrests turned violent, with police tackling and dragging protesters away.
+
+tags: arrest, journalist, legal-observer, protester, tackle, zip-tie
+
+id: ca-losangeles-68
+
+geolocation: 34.0766135, -118.2584333
+
+**Links**
+
+* https://twitter.com/chadloder/status/1375352551650947073
+* https://twitter.com/ShotOn35mm/status/1375293050679828487
+* https://twitter.com/chadloder/status/1375306480396595203
+* https://twitter.com/ShotOn35mm/status/1375292448499499008
+* https://twitter.com/KateCagle/status/1375312294578515974
+* https://twitter.com/steffdaz/status/1375317388200005632
+* https://twitter.com/xashgiggles/status/1375475186955214850
+
+
+### Police fire rubber bullets at protesters and journalists | 2021-03-25
+
+During the second day of protests at Echo park, police brandished riot control firearms at protesters at close range. One officer fired rubber bullets at protesters.
+
+In addition, a photographer for AP uploaded images of alleged wounds sustained at the protest.
+
+tags: journalist, less-lethal, projectile, protester, rubber-bullet, shoot
+
+id: ca-losangeles-69
+
+geolocation: 34.0766135, -118.2584333
+
+**Links**
+
+* https://twitter.com/chrismatography/status/1375309722845290498
+* https://twitter.com/chadloder/status/1375315934085144579
+* https://twitter.com/chadloder/status/1375540498471944195
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | 2020-06-29
