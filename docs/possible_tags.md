@@ -7,6 +7,7 @@ baton
 beanbag
 beat
 bike
+boat
 body-cam
 bystander
 celebrity
@@ -101,6 +102,7 @@ sexual-assault
 baton
 bean-bag
 bike
+boat
 dog
 explosive
 foam-bullet
