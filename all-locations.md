@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-03-29T15:47:21.824176+00:00
+UPDATED AT: 2021-03-31T18:23:47.293134+00:00
 
 
 # Alabama
@@ -18674,6 +18674,23 @@ geolocation: 44.9393713, -123.0418957
 * https://twitter.com/greg_doucette/status/1268940700944605187
 * https://www.buzzfeednews.com/article/davidmack/salem-oregon-cop-warn-white-armed-men-playing-favorites
 * https://twitter.com/Satellit3Heart/status/1268863536299675648
+
+
+### Police assault counter-protesters | 2021-03-28
+
+At a protest outside the Salem capitol building, police charged anti-fascist counter-protesters, firing impact munitions, shoving protesters, and making numerous arrests.
+
+tags: arrest, less-lethal, projectile, protester, push, shoot, shove
+
+id: or-salem-2
+
+geolocation: 44.9383549, -123.0310102
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1376323736006103044
+* https://twitter.com/it_aint_pretty_/status/1376320397449207812
+* https://twitter.com/PDocumentarians/status/1376332126883221504
 
 
 ## Springfield
