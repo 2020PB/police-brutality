@@ -7713,15 +7713,15 @@ geolocation: 44.9393713, -123.0418957
 * https://twitter.com/Satellit3Heart/status/1268863536299675648
 
 
-### Police assault counter-protestors | 2021-03-28
+### Police assault counter-protesters | 2021-03-28
 
-At a protest outside the Salem capitol building, police charged anti-fascist counter-protestors, firing impact munitions, shoving protestors, and making numerous arrests.
+At a protest outside the Salem capitol building, police charged anti-fascist counter-protesters, firing impact munitions, shoving protesters, and making numerous arrests.
 
-tags: protester, push, shove, shoot, projectile, less-lethal, arrest
+tags: arrest, less-lethal, projectile, protester, push, shoot, shove
 
 id: or-salem-2
 
-geolocation: 44.9383549,-123.0310102
+geolocation: 44.9383549, -123.0310102
 
 **Links**
 
