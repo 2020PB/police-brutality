@@ -7713,6 +7713,23 @@ geolocation: 44.9393713, -123.0418957
 * https://twitter.com/Satellit3Heart/status/1268863536299675648
 
 
+### Police assault counter-protestors | 2021-03-28
+
+At a protest outside the Salem capitol building, police charged anti-fascist counter-protestors, firing impact munitions, shoving protestors, and making numerous arrests.
+
+tags: protester, push, shove, shoot, projectile, less-lethal, arrest
+
+id: or-salem-2
+
+geolocation: 44.9383549,-123.0310102
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1376323736006103044
+* https://twitter.com/it_aint_pretty_/status/1376320397449207812
+* https://twitter.com/PDocumentarians/status/1376332126883221504
+
+
 ## Springfield
 
 ### Police charge protesters, make violent arrest | 2020-07-29
