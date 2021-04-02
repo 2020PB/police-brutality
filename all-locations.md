@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-03-31T18:23:47.293134+00:00
+UPDATED AT: 2021-04-02T16:41:59.642244+00:00
 
 
 # Alabama
@@ -7643,6 +7643,23 @@ geolocation: 40.6903649, -73.9624829
 * https://int.nyt.com/data/videotape/finished/2020/07/1594394863/0_id139-1254w.mp4
 
 
+### Cop shoving a person to the ground towards metal trash bins | 2020-05-29
+
+At the intersection of Bergen and 5th, an NYPD officer pushes a civilian down towards trash cans.
+
+tags: protester, push, shove
+
+id: ny-newyorkcity-7
+
+geolocation: 40.6814898, -73.9770145
+
+**Links**
+
+* https://twitter.com/crankberries/status/1266584559245803522
+* https://twitter.com/greg_doucette/status/1266850004720812032
+* [2:10 - officer arrives on scene; 2:57 - officer pushes civilian](https://www.dropbox.com/s/mhts7avufl466zw/IMG_7212.MOV?dl=0)
+
+
 ### NYPD beat people with batons | 2020-05-30
 
 The NYPD Squad are seen beating protesters with batons and pushing them around.
@@ -7672,22 +7689,6 @@ geolocation: 40.6944043, -74.0091173
 
 * https://twitter.com/ZachReports/status/1266557305107202049
 * https://twitter.com/BTSsavedmylife9/status/1266754310161006594
-
-
-### Cop shoving a person to the ground towards metal trash bins | 2020-05-30
-
-At the intersection of Bergen and 5th, an NYPD officer pushes a civilian down towards trash cans.
-
-tags: protester, push, shove
-
-id: ny-newyorkcity-7
-
-geolocation: 40.6814898, -73.9770145
-
-**Links**
-
-* https://twitter.com/crankberries/status/1266584559245803522
-* https://twitter.com/greg_doucette/status/1266850004720812032
 
 
 ### Huffpost reporter is arrested by NYPD | 2020-05-30
