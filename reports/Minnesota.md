@@ -4,11 +4,11 @@
 
 Following the death of an unarmed driver at the hands of police, protesters gathered outside the Brooklyn Center police precinct. Throughout the evening, protesters allegedly threw objects at officers and police vehicles. Later, police gave a 10 minute warning for the crowd of 500 to disperse. Following this, police deployed tear gas, stun grenades, and impact munitions (allegedly rubber bullets) against the crowd.
 
-tags: protester, tear-gas, stun-grenade, shoot, projectile, rubber-bullet, less-lethal
+tags: less-lethal, projectile, protester, rubber-bullet, shoot, stun-grenade, tear-gas
 
 id: mn-brooklyncenter-1
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
@@ -43,11 +43,11 @@ During a protest following the death of Daunte Wright, protesters took to the st
 
 A photojournalist for the Star Tribune was also hit with pepper spray.
 
-tags: push, shove, baton, pepper-spray, spray, less-lethal, protester, journalist
+tags: baton, journalist, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: mn-brooklyncenter-2
 
-geolocation: 45.07596,-93.2998245
+geolocation: 45.07596, -93.2998245
 
 **Links**
 
@@ -63,11 +63,11 @@ As protesters passed a nearby apartment building, police fired canisters into a 
 
 In addition, a correspondent for Fox News was caught in the tear gas and a journalist for the Star Tribune was struck by a rubber bullet, breaking their finger.
 
-tags: protester, tear-gas, stun-grenade, shoot, projectile, rubber-bullet, less-lethal, journalist
+tags: journalist, less-lethal, projectile, protester, rubber-bullet, shoot, stun-grenade, tear-gas
 
 id: mn-brooklyncenter-3
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
