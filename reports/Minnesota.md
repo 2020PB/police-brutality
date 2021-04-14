@@ -1,3 +1,98 @@
+## Brooklyn Center
+
+### Police tear gas crowd after curfew | 2021-04-11
+
+Following the death of an unarmed driver at the hands of police, protesters gathered outside the Brooklyn Center police precinct. Throughout the evening, protesters allegedly threw objects at officers and police vehicles. Later, police gave a 10 minute warning for the crowd of 500 to disperse. Following this, police deployed tear gas, stun grenades, and impact munitions (allegedly rubber bullets) against the crowd.
+
+tags: protester, tear-gas, stun-grenade, shoot, projectile, rubber-bullet, less-lethal
+
+id: mn-brooklyncenter-1
+
+geolocation: 45.0766155,-93.3004313
+
+**Links**
+
+* https://twitter.com/Rawsalerts/status/1381443643744129029
+* https://twitter.com/timnelson_mpr/status/1381441633288343552
+* https://twitter.com/ByLizSawyer/status/1381441391985893376
+* https://twitter.com/VitalistInt/status/1381444012842827776
+* https://twitter.com/NickAtNews/status/1381454983279837188
+* https://twitter.com/david_schuman/status/1381441319327895554
+* https://twitter.com/MnUrising/status/1381441573867638787
+* https://twitter.com/AFirstNews/status/1381442104136761347
+* https://twitter.com/AndrewBuncombe/status/1381442903973752832
+* https://twitter.com/david_schuman/status/1381443116230705157
+* https://twitter.com/FarukFirat1987/status/1381448492607016964
+* https://twitter.com/AlexBelser/status/1381448610114600960
+* https://twitter.com/CNeroTV/status/1381448746899214342
+* https://twitter.com/TCReporter/status/1381449104912490499
+* https://twitter.com/BlackTimesUSA/status/1381452150254006272
+* https://twitter.com/BlackTimesUSA/status/1381452957078683651
+* https://twitter.com/TheBlackTimesOK/status/1381456927557816323
+* https://twitter.com/MibrahimMN/status/1381457506061447176
+* https://twitter.com/AlexBelser/status/1381455231641341953
+* https://twitter.com/Ambrosia165/status/1381460623792345089
+* https://twitter.com/BlackTimesUSA/status/1381590048827707398
+* https://twitter.com/BlackTimesUSA/status/1381590260048613378
+* https://twitter.com/NPR/status/1381616124828209152
+
+
+### Police shove and pepper spray protesters and journalists | 2021-04-12
+
+During a protest following the death of Daunte Wright, protesters took to the streets in Brooklyn Center, Minnesota. Near the Kenyan Community Seventh-Day Adventist church, police with batons pushed protesters away from the building. One protester pushed back and police responded by pepper spraying the crowd.
+
+A photojournalist for the Star Tribune was also hit with pepper spray.
+
+tags: push, shove, baton, pepper-spray, spray, less-lethal, protester, journalist
+
+id: mn-brooklyncenter-2
+
+geolocation: 45.07596,-93.2998245
+
+**Links**
+
+* https://twitter.com/BGOnTheScene/status/1381774737211281408
+* https://twitter.com/CarlosGphoto/status/1381794769182023682
+
+
+### Police tear gas crowd for second consecutive night | 2021-04-12
+
+At a protest outside the Brooklyn Center Police Headquarters the day after Daunte Wright's death, police fired tear gas, stun grenades and impact munitions (either pepper balls or rubber bullets) following the protesters' failure to disperse at curfew.
+
+As protesters passed a nearby apartment building, police fired canisters into a "garden level porch" of one of the apartments.
+
+In addition, a correspondent for Fox News was caught in the tear gas and a journalist for the Star Tribune was struck by a rubber bullet, breaking their finger.
+
+tags: protester, tear-gas, stun-grenade, shoot, projectile, rubber-bullet, less-lethal, journalist
+
+id: mn-brooklyncenter-3
+
+geolocation: 45.0766155,-93.3004313
+
+**Links**
+
+* https://twitter.com/AndrewMannix/status/1381784361708748807
+* https://twitter.com/AndrewMannix/status/1381787013838438401
+* https://twitter.com/BGOnTheScene/status/1381786354883919873
+* https://twitter.com/BGOnTheScene/status/1381805587579670531
+* https://twitter.com/ByLizSawyer/status/1381784469573632000
+* https://twitter.com/ByLizSawyer/status/1381788399456169984
+* https://twitter.com/david_schuman/status/1381783534256406534
+* https://twitter.com/efrostee/status/1381788070698188805
+* https://twitter.com/efrostee/status/1381828776003178497
+* https://twitter.com/freddie1999/status/1381784897128386564
+* https://twitter.com/JDugganMN/status/1381785121234243584
+* https://twitter.com/lydia_morrell/status/1381783102717112321
+* https://twitter.com/lydia_morrell/status/1381784599290863618
+* https://twitter.com/lydia_morrell/status/1381786549935878146
+* https://twitter.com/maxnesterak/status/1381785005689540610
+* https://twitter.com/motarola123/status/1382134267526873090
+* https://twitter.com/politic_talks/status/1381805103854804997
+* https://twitter.com/Rawsalerts/status/1381784918552932355
+* https://twitter.com/samanthajhendr/status/1381782797329829892
+* https://twitter.com/XNewsAlerts/status/1381783967947444229
+
+
 ## Minneapolis
 
 ### Police hit press in neck and head with wooden baton | 2020-05-26
