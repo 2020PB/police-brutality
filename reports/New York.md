@@ -2106,11 +2106,11 @@ geolocation: 40.7624000, -73.9785863
 
 At a protest near the 40th precinct in the Bronx, an officer is seen charging and shoving protesters.
 
-tags: push, shove, protester
+tags: protester, push, shove
 
 id: ny-newyorkcity-121
 
-geolocation: 40.8103744,-73.9252934
+geolocation: 40.8103744, -73.9252934
 
 **Links**
 
