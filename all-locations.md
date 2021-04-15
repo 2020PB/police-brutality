@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-02T16:41:59.642244+00:00
+UPDATED AT: 2021-04-15T19:21:22.302885+00:00
 
 
 # Alabama
@@ -9418,6 +9418,21 @@ geolocation: 40.7624000, -73.9785863
 * https://twitter.com/itsa_talia/status/1360573983960281097
 * https://twitter.com/thizzl_/status/1360460991503486981
 * https://twitter.com/mrCnobi/status/1360662957416452101
+
+
+### Police shove protesters | 2021-04-11
+
+At a protest near the 40th precinct in the Bronx, an officer is seen charging and shoving protesters.
+
+tags: protester, push, shove
+
+id: ny-newyorkcity-121
+
+geolocation: 40.8103744, -73.9252934
+
+**Links**
+
+* https://twitter.com/protest_nyc/status/1381601875364093967
 
 
 ## Rochester
