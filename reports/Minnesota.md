@@ -93,6 +93,42 @@ geolocation: 45.0766155, -93.3004313
 * https://twitter.com/XNewsAlerts/status/1381783967947444229
 
 
+### Police deploy tear gas for third consecutive day | 2021-04-13
+
+During the third day of protests following the death of Daunte Wright, police and National Guard deployed tear gas and other crowd control measures (stun grenades, rubber bullets) against protesters and journalists.
+
+tags: protester, journalist, tear-gas, less-lethal, stun-grenade, shoot, projectile, rubber-bullet
+
+id: mn-brooklyncenter-4
+
+geolocation: 45.0766155,-93.3004313
+
+**Links**
+
+* https://twitter.com/MnUrising/status/1382154138830667781
+* https://twitter.com/daviss/status/1382162743235579904
+* https://twitter.com/LisaBennatan/status/1382177627755196419
+* https://twitter.com/BGOnTheScene/status/1382155438033141760
+* https://twitter.com/NickAtNews/status/1382152255714045952
+* https://twitter.com/sam_granville/status/1382176976622997507
+* https://twitter.com/UR_Ninja/status/1382216568332029953
+
+
+### Police arrest and threaten protesters | 2021-04-13
+
+Following a protest at the Brooklyn Center police department, police pulled protesters from their cars to arrest them. One officer threatened to slash vehicles' tires so protestors could not get away. In addition, police prevented protesters from returning to their vehicles after blocking off a large swath of road.
+
+tags: protester, arrest, threaten
+
+id: mn-brooklyncenter-5
+
+geolocation: 45.0798348,-93.3002561
+
+**Links**
+
+* https://twitter.com/StatusCoup/status/1382356917675294725
+
+
 ## Minneapolis
 
 ### Police hit press in neck and head with wooden baton | 2020-05-26
