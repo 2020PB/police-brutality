@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-15T20:25:04.201845+00:00
+UPDATED AT: 2021-04-15T20:25:27.821338+00:00
 
 
 # Alabama
@@ -18802,6 +18802,21 @@ geolocation: 45.5307552, -122.6844702
 **Links**
 
 * https://twitter.com/it_aint_pretty_/status/1370638274935496705
+
+
+### Journalist shoved by police | 2021-04-13
+
+A journalist following the protests originating at the Penumbra Kelly Building was caught near the police line. As police pushed forward, they repeatedly shoved the journalist
+
+tags: journalist, push, shove
+
+id: or-portland-430
+
+geolocation: 45.5229316, -122.6140177
+
+**Links**
+
+* https://twitter.com/it_aint_pretty_/status/1381869124809154562
 
 
 ## Salem
