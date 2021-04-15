@@ -7694,6 +7694,21 @@ geolocation: 45.5307552, -122.6844702
 * https://twitter.com/it_aint_pretty_/status/1370638274935496705
 
 
+### Journalist shoved by police | 2021-04-13
+
+A journalist following the protests originating at the Penumbra Kelly Building was caught near the police line. As police pushed forward, they repeatedly shoved the journalist
+
+tags: journalist, push, shove
+
+id: or-portland-430
+
+geolocation: 45.5229316,-122.6140177
+
+**Links**
+
+* https://twitter.com/it_aint_pretty_/status/1381869124809154562
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
