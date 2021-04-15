@@ -7702,7 +7702,7 @@ tags: journalist, push, shove
 
 id: or-portland-430
 
-geolocation: 45.5229316,-122.6140177
+geolocation: 45.5229316, -122.6140177
 
 **Links**
 
