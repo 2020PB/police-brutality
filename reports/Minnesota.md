@@ -97,11 +97,11 @@ geolocation: 45.0766155, -93.3004313
 
 During the third day of protests following the death of Daunte Wright, police and National Guard deployed tear gas and other crowd control measures (stun grenades, rubber bullets) against protesters and journalists.
 
-tags: protester, journalist, tear-gas, less-lethal, stun-grenade, shoot, projectile, rubber-bullet
+tags: journalist, less-lethal, projectile, protester, rubber-bullet, shoot, stun-grenade, tear-gas
 
 id: mn-brooklyncenter-4
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
@@ -116,13 +116,13 @@ geolocation: 45.0766155,-93.3004313
 
 ### Police arrest and threaten protesters | 2021-04-13
 
-Following a protest at the Brooklyn Center police department, police pulled protesters from their cars to arrest them. One officer threatened to slash vehicles' tires so protestors could not get away. In addition, police prevented protesters from returning to their vehicles after blocking off a large swath of road.
+Following a protest at the Brooklyn Center police department, police pulled protesters from their cars to arrest them. One officer threatened to slash vehicles' tires so protesters could not get away. In addition, police prevented protesters from returning to their vehicles after blocking off a large swath of road.
 
-tags: protester, arrest, threaten
+tags: arrest, protester, threaten
 
 id: mn-brooklyncenter-5
 
-geolocation: 45.0798348,-93.3002561
+geolocation: 45.0798348, -93.3002561
 
 **Links**
 
