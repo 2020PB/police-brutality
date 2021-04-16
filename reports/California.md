@@ -1379,11 +1379,11 @@ geolocation: 34.0766135, -118.2584333
 
 At a protest near the LAPD Headquarters in Los Angeles, police attempt to grab a protester, who escapes. Police then fire on the crowd with rubber bullets.
 
-tags: protester, grab, shoot, projectile, less-lethal, rubber-bullet
+tags: grab, less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-losangeles-70
 
-geolocation: 34.051824,-118.2461446
+geolocation: 34.051824, -118.2461446
 
 **Links**
 
