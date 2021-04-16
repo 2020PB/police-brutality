@@ -133,11 +133,11 @@ geolocation: 45.0798348, -93.3002561
 
 At a protest outside the Brooklyn Center police headquarters, police pepper sprayed a line of protesters with umbrellas from behind a chain link fence. There was no apparent provocation.
 
-tags: protester, spray, pepper-spray
+tags: less-lethal, pepper-spray, protester, spray
 
 id: mn-brooklyncenter-6
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
@@ -148,11 +148,11 @@ geolocation: 45.0766155,-93.3004313
 
 After pushing protesters away from the police department, police and protesters faced off outside a nearby apartment complex. Footage shows a man being tackled by police. His sister, who lives in the apartment complex, yells at officers and is then tackled and arrested as well.
 
-tags: protester, tackle, arrest, push, shove
+tags: arrest, protester, push, shove, tackle
 
 id: mn-brooklyncenter-7
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
@@ -163,11 +163,11 @@ geolocation: 45.0766155,-93.3004313
 
 As the curfew approached outside the Brooklyn Center precinct, a protester can be seeing waving a sign several feet away from officers who are huddled behind a chain link fence. One officer fires a less-lethal projectile at the protester, striking them in the foot. There is no evident provocation.
 
-tags: protester, shoot, less-lethal, projectile
+tags: less-lethal, projectile, protester, shoot
 
 id: mn-brooklyncenter-8
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
