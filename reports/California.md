@@ -1375,6 +1375,21 @@ geolocation: 34.0766135, -118.2584333
 * https://twitter.com/chadloder/status/1375540498471944195
 
 
+### Police attempt to grab protester, then shoot into crowd | 2021-04-14
+
+At a protest near the LAPD Headquarters in Los Angeles, police attempt to grab a protester, who escapes. Police then fire on the crowd with rubber bullets.
+
+tags: grab, less-lethal, projectile, protester, rubber-bullet, shoot
+
+id: ca-losangeles-70
+
+geolocation: 34.051824, -118.2461446
+
+**Links**
+
+* https://twitter.com/VPS_Reports/status/1382573843869405188
+
+
 ## Norco
 
 ### Woman struck by white supremacist while police look on | 2020-06-29
