@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-17T03:11:11.433478+00:00
+UPDATED AT: 2021-04-17T03:12:20.244882+00:00
 
 
 # Alabama
@@ -1783,6 +1783,21 @@ geolocation: 34.0766135, -118.2584333
 * https://twitter.com/chrismatography/status/1375309722845290498
 * https://twitter.com/chadloder/status/1375315934085144579
 * https://twitter.com/chadloder/status/1375540498471944195
+
+
+### Police attempt to grab protester, then shoot into crowd | 2021-04-14
+
+At a protest near the LAPD Headquarters in Los Angeles, police attempt to grab a protester, who escapes. Police then fire on the crowd with rubber bullets.
+
+tags: grab, less-lethal, projectile, protester, rubber-bullet, shoot
+
+id: ca-losangeles-70
+
+geolocation: 34.051824, -118.2461446
+
+**Links**
+
+* https://twitter.com/VPS_Reports/status/1382573843869405188
 
 
 ## Norco
