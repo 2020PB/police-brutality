@@ -61,7 +61,7 @@ At a protest outside the Brooklyn Center Police Headquarters the day after Daunt
 
 As protesters passed a nearby apartment building, police fired canisters into a "garden level porch" of one of the apartments.
 
-In addition, a correspondent for Fox News was caught in the tear gas and a journalist for the Star Tribune was struck by a rubber bullet, breaking their finger.
+In addition, a correspondent for Fox News was caught in the tear gas and a journalist for the Star Tribune was struck by a rubber bullet, breaking their finger and requiring surgery.
 
 tags: journalist, less-lethal, projectile, protester, rubber-bullet, shoot, stun-grenade, tear-gas
 
@@ -91,6 +91,7 @@ geolocation: 45.0766155, -93.3004313
 * https://twitter.com/Rawsalerts/status/1381784918552932355
 * https://twitter.com/samanthajhendr/status/1381782797329829892
 * https://twitter.com/XNewsAlerts/status/1381783967947444229
+* https://twitter.com/MDVancleave/status/1383514640001363974
 
 
 ### Police deploy tear gas for third consecutive day | 2021-04-13
