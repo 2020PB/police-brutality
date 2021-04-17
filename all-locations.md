@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-15T20:25:27.821338+00:00
+UPDATED AT: 2021-04-17T03:11:11.433478+00:00
 
 
 # Alabama
@@ -6311,6 +6311,51 @@ geolocation: 45.0798348, -93.3002561
 **Links**
 
 * https://twitter.com/StatusCoup/status/1382356917675294725
+
+
+### Police pepper spray protesters | 2021-04-14
+
+At a protest outside the Brooklyn Center police headquarters, police pepper sprayed a line of protesters with umbrellas from behind a chain link fence. There was no apparent provocation.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: mn-brooklyncenter-6
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* https://twitter.com/BGOnTheScene/status/1382517639562543109
+
+
+### Police tackle and arrest residents of apartment complex | 2021-04-14
+
+After pushing protesters away from the police department, police and protesters faced off outside a nearby apartment complex. Footage shows a man being tackled by police. His sister, who lives in the apartment complex, yells at officers and is then tackled and arrested as well.
+
+tags: arrest, protester, push, shove, tackle
+
+id: mn-brooklyncenter-7
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* https://twitter.com/maxnesterak/status/1382582270377222145
+
+
+### Police shoot sign-carrying protester | 2021-04-14
+
+As the curfew approached outside the Brooklyn Center precinct, a protester can be seeing waving a sign several feet away from officers who are huddled behind a chain link fence. One officer fires a less-lethal projectile at the protester, striking them in the foot. There is no evident provocation.
+
+tags: less-lethal, projectile, protester, shoot
+
+id: mn-brooklyncenter-8
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* https://twitter.com/BGOnTheScene/status/1382521300065849344
 
 
 ## Minneapolis
