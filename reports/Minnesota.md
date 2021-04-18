@@ -179,11 +179,11 @@ geolocation: 45.0766155, -93.3004313
 
 Police behind a chain link fence throw stun grenades over the fence into a crowd of gathered protesters who appear to be standing around chanting. During one instance, a protester's umbrella catches fire.
 
-tags: protester, stun-grenade, less-lethal, property-destruction
+tags: less-lethal, property-destruction, protester, stun-grenade
 
 id: mn-brooklyncenter-9
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
@@ -196,11 +196,11 @@ geolocation: 45.0766155,-93.3004313
 
 Police and protesters face off on opposite sides of a barricade. Police discharge pepper spray in a wide berth, targeting protesters who step towards them in particular. It is unclear what instigated this incident, although one protester does appear to be trying to recover a red umbrella on the ground.
 
-tags: protester, spray, pepper-spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: mn-brooklyncenter-10
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
@@ -211,11 +211,11 @@ geolocation: 45.0766155,-93.3004313
 
 Police and protesters face off on opposite sides of a barricade. A man stands on the grass several feet from police. Police ordered him to step further from the barricade. He did not comply. Police then shot him in the leg with an impact munition.
 
-tags: protester, shoot, projectile, less-lethal
+tags: less-lethal, projectile, protester, shoot
 
 id: mn-brooklyncenter-11
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
@@ -226,11 +226,11 @@ geolocation: 45.0766155,-93.3004313
 
 A still image from Brooklyn Center, Minnesota shows police pepper spraying clearly marked journalists, one of whom is holding a camera.
 
-tags: journalist, spray, pepper-spray, less-lethal
+tags: journalist, less-lethal, pepper-spray, spray
 
 id: mn-brooklyncenter-12
 
-geolocation: 45.0766155,-93.3004313
+geolocation: 45.0766155, -93.3004313
 
 **Links**
 
