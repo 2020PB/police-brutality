@@ -175,6 +175,68 @@ geolocation: 45.0766155, -93.3004313
 * https://twitter.com/BGOnTheScene/status/1382521300065849344
 
 
+### Police throw stun grenades at protesters | 2021-04-16
+
+Police behind a chain link fence throw stun grenades over the fence into a crowd of gathered protesters who appear to be standing around chanting. During one instance, a protester's umbrella catches fire.
+
+tags: less-lethal, property-destruction, protester, stun-grenade
+
+id: mn-brooklyncenter-9
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* https://twitter.com/NickAtNews/status/1383248483918893064
+* https://twitter.com/JaylaWhitfield/status/1383252826680225793
+* https://twitter.com/NickAtNews/status/1383252959346130945
+
+
+### Police pepper spray crowd of protesters | 2021-04-16
+
+Police and protesters face off on opposite sides of a barricade. Police discharge pepper spray in a wide berth, targeting protesters who step towards them in particular. It is unclear what instigated this incident, although one protester does appear to be trying to recover a red umbrella on the ground.
+
+tags: less-lethal, pepper-spray, protester, spray
+
+id: mn-brooklyncenter-10
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* https://twitter.com/NickAtNews/status/1383249958371921925
+
+
+### Police shoot man with impact munition | 2021-04-16
+
+Police and protesters face off on opposite sides of a barricade. A man stands on the grass several feet from police. Police ordered him to step further from the barricade. He did not comply. Police then shot him in the leg with an impact munition.
+
+tags: less-lethal, projectile, protester, shoot
+
+id: mn-brooklyncenter-11
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* https://twitter.com/NickAtNews/status/1383250985905115138
+
+
+### Police pepper spray journalists | 2021-04-16
+
+A still image from Brooklyn Center, Minnesota shows police pepper spraying clearly marked journalists, one of whom is holding a camera.
+
+tags: journalist, less-lethal, pepper-spray, spray
+
+id: mn-brooklyncenter-12
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* https://twitter.com/AlexKentTN/status/1383290508181590018
+
+
 ## Minneapolis
 
 ### Police hit press in neck and head with wooden baton | 2020-05-26
