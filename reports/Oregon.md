@@ -7713,11 +7713,11 @@ geolocation: 45.5229316, -122.6140177
 
 At a protest in Lents Park following the death of a civilian at the hands of police, officers are seen shoving protesters with batons. When protesters push back, an officer pepper sprays the crowd.
 
-tags: protester, push, shove, baton, pepper-spray, spray, less-lethal
+tags: baton, less-lethal, pepper-spray, protester, push, shove, spray
 
 id: or-portland-431
 
-geolocation: 45.4868766,-122.5744984
+geolocation: 45.4868766, -122.5744984
 
 **Links**
 
