@@ -7709,6 +7709,21 @@ geolocation: 45.5229316, -122.6140177
 * https://twitter.com/it_aint_pretty_/status/1381869124809154562
 
 
+### Police shove and pepper spray protesters | 2021-04-16
+
+At a protest in Lents Park following the death of a civilian at the hands of police, officers are seen shoving protesters with batons. When protesters push back, an officer pepper sprays the crowd.
+
+tags: baton, less-lethal, pepper-spray, protester, push, shove, spray
+
+id: or-portland-431
+
+geolocation: 45.4868766, -122.5744984
+
+**Links**
+
+* https://twitter.com/it_aint_pretty_/status/1383144007761502210
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
