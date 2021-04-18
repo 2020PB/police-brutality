@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-18T01:41:43.141799+00:00
+UPDATED AT: 2021-04-18T19:25:57.350604+00:00
 
 
 # Alabama
@@ -18878,6 +18878,21 @@ geolocation: 45.5229316, -122.6140177
 **Links**
 
 * https://twitter.com/it_aint_pretty_/status/1381869124809154562
+
+
+### Police shove and pepper spray protesters | 2021-04-16
+
+At a protest in Lents Park following the death of a civilian at the hands of police, officers are seen shoving protesters with batons. When protesters push back, an officer pepper sprays the crowd.
+
+tags: baton, less-lethal, pepper-spray, protester, push, shove, spray
+
+id: or-portland-431
+
+geolocation: 45.4868766, -122.5744984
+
+**Links**
+
+* https://twitter.com/it_aint_pretty_/status/1383144007761502210
 
 
 ## Salem
