@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-18T19:29:04.221077+00:00
+UPDATED AT: 2021-04-19T22:53:19.027632+00:00
 
 
 # Alabama
@@ -23589,6 +23589,22 @@ geolocation: 38.9170927, -77.0318335
 **Links**
 
 * https://twitter.com/ChuckModi1/status/1355703466493161476
+
+
+### Police charge and tackle protesters and journalists | 2021-04-17
+
+Police charged a group of protesters at H and 7th streets, tackling protesters and journalists, and attempting to arrest individuals wearing black. The crowd was allegedly beginning to disperse when police charged.
+
+tags: arrest, journalist, protester, push, shove, tackle
+
+id: dc-dc-56
+
+geolocation: 38.8998662, -77.0218744
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1383646455974428679
+* https://twitter.com/ChuckModi1/status/1383647378759032832
 
 
 
