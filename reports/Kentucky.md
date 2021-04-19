@@ -535,3 +535,22 @@ geolocation: 38.2550354, -85.7419159
 * https://twitter.com/JBernardBoyle/status/1309628031305121797
 * https://twitter.com/ShaqWLKY/status/1309628290488037376
 
+
+### Police tackle, punch, and arrest protester | 2021-04-18
+
+Police arrested a protester near Jefferson Square Park. During the arrest, police tackled the protester to the ground and punched him repeatedly to subdue him. The protester was allegedly flexing his arms, making it difficult for officers to handcuff him.
+
+tags: arrest, punch, strike, protester
+
+id: ky-louisville-30
+
+geolocation: 38.2538168,-85.7602169
+
+**Links**
+
+* https://twitter.com/osuala_cheyenne/status/1383915493040422914
+* https://twitter.com/osuala_cheyenne/status/1384017009139077125
+* https://twitter.com/osuala_cheyenne/status/1384017218309001220
+* https://wtop.com/national/2021/04/video-louisville-officer-punches-protester-during-arrest/
+* https://www.courier-journal.com/story/news/local/2021/04/18/breonna-taylor-video-shows-lmpd-cop-punching-protester-during-arrest/7279751002/
+
