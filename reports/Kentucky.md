@@ -540,11 +540,11 @@ geolocation: 38.2550354, -85.7419159
 
 Police arrested a protester near Jefferson Square Park. During the arrest, police tackled the protester to the ground and punched him repeatedly to subdue him. The protester was allegedly flexing his arms, making it difficult for officers to handcuff him.
 
-tags: arrest, punch, strike, protester
+tags: arrest, protester, punch, strike
 
 id: ky-louisville-30
 
-geolocation: 38.2538168,-85.7602169
+geolocation: 38.2538168, -85.7602169
 
 **Links**
 
