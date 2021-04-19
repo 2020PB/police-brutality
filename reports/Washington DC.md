@@ -917,3 +917,19 @@ geolocation: 38.9170927, -77.0318335
 
 * https://twitter.com/ChuckModi1/status/1355703466493161476
 
+
+### Police charge and tackle protesters and journalists | 2021-04-17
+
+Police charged a group of protesters at H and 7th streets, tackling protesters and journalists, and attempting to arrest individuals wearing black. The crowd was allegedly beginning to disperse when police charged.
+
+tags: tackle, push, shove, protester, journalist, arrest
+
+id: dc-dc-56
+
+geolocation: 38.8998662,-77.0218744
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1383646455974428679
+* https://twitter.com/ChuckModi1/status/1383647378759032832
+
