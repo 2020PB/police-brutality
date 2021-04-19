@@ -922,11 +922,11 @@ geolocation: 38.9170927, -77.0318335
 
 Police charged a group of protesters at H and 7th streets, tackling protesters and journalists, and attempting to arrest individuals wearing black. The crowd was allegedly beginning to disperse when police charged.
 
-tags: tackle, push, shove, protester, journalist, arrest
+tags: arrest, journalist, protester, push, shove, tackle
 
 id: dc-dc-56
 
-geolocation: 38.8998662,-77.0218744
+geolocation: 38.8998662, -77.0218744
 
 **Links**
 
