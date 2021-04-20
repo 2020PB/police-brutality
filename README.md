@@ -3,6 +3,18 @@
 
 Visit us at: https://2020pb.com/
 
+### Important Note Regarding the George Floyd Trial
+
+This repository will be **closed** to issues and updates for the immediate future. The maintainers of the repository are prioritizing activist safety and wellbeing until the maintainers feel confident that footage under review will not aid police departments in their attempts to incriminate protesters.
+
+We are obviously firmly planted in the belief that we need to film the police, and that will never change. However, some things have been brought to our attention that we have to address in the interim.
+
+We are aware that police have been using social media footage to prosecute protesters. They have been taking journalists to court for access to all unpublished footage in order to arrest more and more protesters for alleged crimes, and many on scene photographers have begun to take precautions due to the inherent issues with police oversight.
+
+Besides the obvious violation of privacy concerns this brings to the forefront, there have been activists whom have done nothing but film the actions of the police, and have been harassed/arrested for it. Journalists who have been accused of crimes, and were only there to film. There have even been individuals that have simply been misidentified by police. We’ve seen circumstances where FBI has used an item of clothing bought off Etsy to identify one protester. This worsens the issue we have witnessed with city prosecutors across the country trying to “make an example” out of activists, and adding charges that are so egregiously incongruent with what actually occurred that the overuse of force is now extending to the courtroom.
+
+We have spent a considerable amount of time looking into this, and speaking to experts on the subject. It has led us to the decision to take some of the same safety measures other journalists and publications have implemented to protect the public as best we can.
+
 ### Important Note on Branches
 
 As of September 15th at 3 PM EDT, the default branch is `main`.
