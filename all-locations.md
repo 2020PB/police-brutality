@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-27T12:13:56.332722+00:00
+UPDATED AT: 2021-04-28T00:42:32.847336+00:00
 
 
 # Alabama
@@ -5091,6 +5091,8 @@ geolocation: 38.2534825, -85.7604495
 
 LMPD and KY National Guard were sent to 26th and Broadway to disperse a gathering (unrelated to protests) in violation of curfew. Police officer Katie Crews crosses the street and begins firing pepper balls at a group standing outside. A pepper ball hit the doorway of YaYa's BBQ (the victim's business), nearly striking his niece. He went outside and appears to fire a single shot into the air. He steps inside and then steps back out and is shot and killed by police and guardsman. Officers were required to wear bodycams and have them activated as a reform after the police killing of Breonna Taylor, but of the 20 officers on scene, LMPD claims 0 were using their bodycams.
 
+The FBI and the DOJ (under Merrick Garland) are both conducting independent investigations of the incident.
+
 tags: body-cam, bystander, death, less-lethal, live-round, pepper-ball
 
 id: ky-louisville-6
@@ -5105,6 +5107,9 @@ geolocation: 38.2494543, -85.7970747
 * [Video taken nearby during the shooting](https://mobile.twitter.com/chadloder/status/1267555717751296000)
 * [New York Times video showing four videos synchronized to show the full sequence of events](https://www.nytimes.com/video/us/100000007175316/the-david-mcatee-shooting-did-aggressive-policing-lead-to-a-fatal-outcome.html)
 * [Facebook post by officer involved glorifying violence (prior to shooting)](https://i.imgur.com/wZUnHYi.jpg)
+* [Vice investigation](https://www.vice.com/en/article/5dbp3q/louisville-police-killed-david-mcatee-breonna-taylor-protests)
+* [Vice video](https://www.youtube.com/watch?v=GpSH6qhEFGM)
+* [DOJ announcement](https://www.justice.gov/opa/pr/department-justice-announces-investigation-louisvillejefferson-county-metro-government-and)
 
 
 ### Pastor violently arrested during protest | 2020-06-01
