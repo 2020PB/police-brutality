@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-28T00:42:32.847336+00:00
+UPDATED AT: 2021-04-29T15:16:50.681012+00:00
 
 
 # Alabama
@@ -6396,6 +6396,21 @@ geolocation: 45.0766155, -93.3004313
 **Links**
 
 * https://twitter.com/BGOnTheScene/status/1382521300065849344
+
+
+### Police detain journalists, break microphone | 2021-04-14
+
+At a protest following the death of Daunte Wright, reporters from Unicorn Riot were detained by police. During the detainment, police destroyed one of the team's microphones. The team was photographed and later released.
+
+tags: arrest, journalist, property-destruction
+
+id: mn-brooklyncenter-13
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* 45.0766155, -93.3004313
 
 
 ### Police throw stun grenades at protesters | 2021-04-16
