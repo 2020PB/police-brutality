@@ -175,6 +175,21 @@ geolocation: 45.0766155, -93.3004313
 * https://twitter.com/BGOnTheScene/status/1382521300065849344
 
 
+### Police detain journalists, break microphone | 2021-04-14
+
+At a protest following the death of Daunte Wright, reporters from Unicorn Riot were detained by police. During the detainment, police destroyed one of the team's microphones. The team was photographed and later released.
+
+tags: arrest, journalist, property-destruction
+
+id: mn-brooklyncenter-13
+
+geolocation: 45.0766155, -93.3004313
+
+**Links**
+
+* 45.0766155, -93.3004313
+
+
 ### Police throw stun grenades at protesters | 2021-04-16
 
 Police behind a chain link fence throw stun grenades over the fence into a crowd of gathered protesters who appear to be standing around chanting. During one instance, a protester's umbrella catches fire.
