@@ -8,11 +8,11 @@ Numerous officers can also be seen with tape hiding their badge numbers.
 
 Alice Green, the executive director of the Center for Law and Justice, states that protesters were given only 15 minutes to disperse, which was not sufficient time to do so.
 
-tags: protester, push, shove, tackle, hide-badge, baton, shield, arrest, grab
+tags: arrest, baton, grab, hide-badge, protester, push, shield, shove, tackle
 
 id: ny-albany-1
 
-geolocation: 42.6424917,-73.7575989
+geolocation: 42.6424917, -73.7575989
 
 **Links**
 
