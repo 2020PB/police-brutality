@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-04-29T15:16:50.681012+00:00
+UPDATED AT: 2021-04-30T13:44:00.997906+00:00
 
 
 # Alabama
@@ -7608,6 +7608,28 @@ geolocation: 35.0835569, -106.6518393
 
 
 # New York
+
+## Albany
+
+### Police violently disperse encampment | 2021-04-22
+
+On April 22, 2021, Albany police moved to disperse a small encampment of protesters outside the South Station. Police pushed protesters from the site, shoving with their shields and slashing with their batons when protesters stood their ground or failed to move quickly. Police destroyed tents and chairs owned by the protesters and dragged numerous individuals across the pavement to make arrests. 8 protesters were arrested, with 1 hospitalized.
+
+Numerous officers can also be seen with tape hiding their badge numbers.
+
+Alice Green, the executive director of the Center for Law and Justice, states that protesters were given only 15 minutes to disperse, which was not sufficient time to do so.
+
+tags: arrest, baton, grab, hide-badge, protester, push, shield, shove, tackle
+
+id: ny-albany-1
+
+geolocation: 42.6424917, -73.7575989
+
+**Links**
+
+* https://vimeo.com/540571411
+* https://twitter.com/warpspdskeleton/status/1387075760805060609
+
 
 ## Buffalo
 
