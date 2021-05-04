@@ -7724,6 +7724,21 @@ geolocation: 45.4868766, -122.5744984
 * https://twitter.com/it_aint_pretty_/status/1383144007761502210
 
 
+### Officer pepper sprays protester | 2021-05-01
+
+Down the street from the Portland ICE facility, a police officer pushes protesters back. The officer passes one protester who then appears to turn on their phone's flashlight. The officer doubles back and pepper sprays the individual.
+
+tags: protester, spray, pepper-spray, less-lethal
+
+id: or-portland-432
+
+geolocation: 45.4941202,-122.6719289
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1388795214375002114
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns armed white men | 2020-06-04
