@@ -7728,11 +7728,11 @@ geolocation: 45.4868766, -122.5744984
 
 Down the street from the Portland ICE facility, a police officer pushes protesters back. The officer passes one protester who then appears to turn on their phone's flashlight. The officer doubles back and pepper sprays the individual.
 
-tags: protester, spray, pepper-spray, less-lethal
+tags: less-lethal, pepper-spray, protester, spray
 
 id: or-portland-432
 
-geolocation: 45.4941202,-122.6719289
+geolocation: 45.4941202, -122.6719289
 
 **Links**
 
