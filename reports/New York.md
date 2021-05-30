@@ -2143,11 +2143,11 @@ geolocation: 40.8103744, -73.9252934
 
 At a protest on the Brooklyn side of the Brooklyn Bridge, an unknown assailant drove their car through the crowd of protesters. Afterward, a police officer chased the driver, hitting a protester with a bicycle in the protest.
 
-tags: protester, bike, vehicle
+tags: bike, protester, vehicle
 
 id: ny-newyorkcity-122
 
-geolocation: 40.6975324,-73.9886752
+geolocation: 40.6975324, -73.9886752
 
 **Links**
 
