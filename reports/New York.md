@@ -2139,6 +2139,22 @@ geolocation: 40.8103744, -73.9252934
 * https://twitter.com/protest_nyc/status/1381601875364093967
 
 
+### Police vehicle strikes bicyclist | 2021-05-25
+
+At a protest on the Brooklyn side of the Brooklyn Bridge, an unknown assailant drove their car through the crowd of protesters. Afterward, a police officer chased the driver, hitting a protester with a bicycle in the protest.
+
+tags: protester, bike, vehicle
+
+id: ny-newyorkcity-122
+
+geolocation: 40.6975324,-73.9886752
+
+**Links**
+
+* https://twitter.com/MyHilarious/status/1397387756037410816
+* https://nypost.com/2021/05/26/driver-hits-two-protesters-near-brooklyn-bridge/
+
+
 ## Rochester
 
 ### Police shoot at people filming | 2020-05-31
