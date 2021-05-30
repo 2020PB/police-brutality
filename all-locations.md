@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-05-06T20:29:01.379172+00:00
+UPDATED AT: 2021-05-30T19:34:00.276166+00:00
 
 
 # Alabama
@@ -9748,6 +9748,22 @@ geolocation: 40.8103744, -73.9252934
 **Links**
 
 * https://twitter.com/protest_nyc/status/1381601875364093967
+
+
+### Police vehicle strikes bicyclist | 2021-05-25
+
+At a protest on the Brooklyn side of the Brooklyn Bridge, an unknown assailant drove their car through the crowd of protesters. Afterward, a police officer chased the driver, hitting a protester with a bicycle in the protest.
+
+tags: bike, protester, vehicle
+
+id: ny-newyorkcity-122
+
+geolocation: 40.6975324, -73.9886752
+
+**Links**
+
+* https://twitter.com/MyHilarious/status/1397387756037410816
+* https://nypost.com/2021/05/26/driver-hits-two-protesters-near-brooklyn-bridge/
 
 
 ## Rochester
