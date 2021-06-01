@@ -1422,11 +1422,11 @@ At a protest in Seattle, Washington, police on bicycles surrounded a protesting 
 
 There is no clear justification for police targeting the cyclist.
 
-tags: arrest, bike, tackle, choke, knee
+tags: arrest, bike, choke, knee, tackle
 
 id: wa-seattle-80
 
-geolocation: 47.602952,-122.3300734
+geolocation: 47.602952, -122.3300734
 
 **Links**
 
