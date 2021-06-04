@@ -253,7 +253,7 @@ geolocation: 41.5019212, -81.6979831
 
 Footage shows a protester shot in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protester's eye. Another image from the protester shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets." His left eye was removed during surgery and additional surgeries were needed to repair bones in his face.
 
-The officer was placed on leave in June pending an internal investigation. 
+The officer was placed on leave in June pending an internal investigation.
 
 In june 2021, the protester was reported to be suing the officer who shot him.
 
