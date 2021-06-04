@@ -1416,6 +1416,24 @@ geolocation: 47.6088141, -122.3430711
 * https://twitter.com/BGOnTheScene/status/1370990108711612416
 
 
+### Police tackle, choke and arrest cyclist | 2021-05-29
+
+At a protest in Seattle, Washington, police on bicycles surrounded a protesting bicyclist outside the King County Administration building. Officers seized the cyclist, choked him, then forced him to the ground, kneeling on him to make an arrest.
+
+There is no clear justification for police targeting the cyclist.
+
+tags: arrest, bike, choke, knee, tackle
+
+id: wa-seattle-80
+
+geolocation: 47.602952, -122.3300734
+
+**Links**
+
+* https://twitter.com/ZeldaWarriorCat/status/1398785319172939780
+* https://twitter.com/fancy_mustard88/status/1398781657247670273
+
+
 ## Vancouver
 
 ### Police arrest journalists | 2020-10-31
