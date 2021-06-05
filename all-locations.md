@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-06-04T01:29:05.531694+00:00
+UPDATED AT: 2021-06-05T02:33:19.934580+00:00
 
 
 # Alabama
@@ -10788,7 +10788,11 @@ geolocation: 41.5019212, -81.6979831
 
 ### Protester shot in the eye with pellet round | 2020-05-30
 
-Footage shows a protester shot in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protester's eye. Another image from the protester shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets."
+Footage shows a protester shot in the eye with a less-lethal round. Additional images show the aftermath with small pellets embedded in the protester's eye. Another image from the protester shows what appears to be a bean bag round. A news report states the man has lost his eye and that he was shot with a "cloth bag full of pellets." His left eye was removed during surgery and additional surgeries were needed to repair bones in his face.
+
+The officer was placed on leave in June pending an internal investigation.
+
+In june 2021, the protester was reported to be suing the officer who shot him.
 
 tags: bean-bag, less-lethal, protester, shoot
 
@@ -10802,6 +10806,8 @@ geolocation: 41.5019212, -81.6979831
 * https://twitter.com/OGJohnTee/status/1283816646864523264
 * https://twitter.com/OGJohnTee/status/1283816652199669765
 * https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
+* https://apnews.com/article/f6b95a41dd8620c2e2e137df69e33292
+* https://www.wfmj.com/story/44024111/man-blinded-by-bean-bag-during-cleveland-racial-protest-sues
 
 
 ### Protester pepper sprayed without cause | 2020-05-30
