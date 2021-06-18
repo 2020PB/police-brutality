@@ -853,7 +853,7 @@ geolocation: 44.9342249, -93.2624022
 
 In a protest in response to the killing of Winston Smith, police violently shove a woman carrying pizza. One of the people who recorded the incident said "they [police] cracked her head open" and others at the scene allege that the womans head was bleeding.
 
-tags: push, shove, protester
+tags: protester, push, shove
 
 id: mn-minneapolis-40
 
@@ -870,12 +870,13 @@ geolocation: 44.948353, -93.298301
 
 Following a protest near the site of Deona Marie's death, a protester is seen grabbing a plastic water vessel and walking away, when a police officer charges her and tackles her.
 
-tags: push, shove, tackle, protester
+tags: protester, push, shove, tackle
 
 id: mn-minneapolis-41
 
-geolocation: 44.9480255,-93.2957499
+geolocation: 44.9480255, -93.2957499
 
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/o0xkdq/minneapolis_cop_pushes_woman_to_the_ground/
+
