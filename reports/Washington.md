@@ -1438,11 +1438,11 @@ geolocation: 47.602952, -122.3300734
 
 On June 17th, protesters in solidarity with Palestine gathered near the entrance to the Port of Seattle SSA Terminal to protest the docking of an Israeli ship. Police pushed protesters from the entrance with bikes, brandishing pepper spray, and arrested 10 protesters.
 
-tags: push, shove, protester, threaten, bike, arrest
+tags: arrest, bike, protester, push, shove, threaten
 
 id: wa-seattle-81
 
-geolocation: 47.571626,-122.3487898
+geolocation: 47.571626, -122.3487898
 
 **Links**
 
