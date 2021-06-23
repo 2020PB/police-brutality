@@ -68,9 +68,9 @@ One of the students required 13 stitches to repair a laceration on his arm.
 
 The students additionally claim that one officer brandished their firearm and threatened them.
 
-The students have filed a lawsuit naming the city of Atlanta, 9 officers and the Atlanta Mayor, Keisha Lance Bottoms, as defendants, with 6 officesr facing criminal charges. 
+The students have filed a lawsuit naming the city of Atlanta, 9 officers and the Atlanta Mayor, Keisha Lance Bottoms, as defendants, with 6 officesr facing criminal charges.
 
-tags: bystander, grab, less-lethal, tase, taser, vehicle, punch, grab, throw, gun, threaten
+tags: bystander, grab, gun, less-lethal, punch, tase, taser, threaten, throw, vehicle
 
 id: ga-atlanta-3
 
