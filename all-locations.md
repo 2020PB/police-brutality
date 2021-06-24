@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-06-05T02:33:19.934580+00:00
+UPDATED AT: 2021-06-24T18:23:19.740202+00:00
 
 
 # Alabama
@@ -3792,9 +3792,17 @@ geolocation: 33.7579008, -84.3951319
 
 ### Cops pull people out of their car, tase them | 2020-05-30
 
-Despite the woman showing no resistance, the policeman grabs her and pulls her out of the car, and proceeds to tase her.
+Two students stuck in traffic caused by the George Floyd protests were pulled from their car, punched and tased by police. Police stopped the car because of a curfew violation. The students attempted to comply with officer directions to leave the area, but traffic prevented them from moving more than a few feet.
 
-tags: bystander, grab, less-lethal, tase, taser, vehicle
+An officer said he tased one of the individuals out of fear the individual had a gun. No gun was found at the scene, in the car, or on the individual.
+
+One of the students required 13 stitches to repair a laceration on his arm.
+
+The students additionally claim that one officer brandished their firearm and threatened them.
+
+The students have filed a lawsuit naming the city of Atlanta, 9 officers and the Atlanta Mayor, Keisha Lance Bottoms, as defendants, with 6 officesr facing criminal charges.
+
+tags: bystander, grab, gun, less-lethal, punch, tase, taser, threaten, throw, vehicle
 
 id: ga-atlanta-3
 
@@ -3807,6 +3815,7 @@ geolocation: 33.7596997, -84.3912128
 * https://twitter.com/SarahBaska/status/1267308455225774080?s=20
 * https://twitter.com/Brittm_tv/status/1267147449577148423
 * https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0
+* https://abcnews.go.com/US/wireStory/students-pulled-car-stunned-atlanta-police-sue-78337556
 
 
 ### Police punch man on the ground, then tackle woman to ground who objects | 2020-05-30
