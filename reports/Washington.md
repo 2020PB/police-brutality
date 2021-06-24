@@ -1434,6 +1434,24 @@ geolocation: 47.602952, -122.3300734
 * https://twitter.com/fancy_mustard88/status/1398781657247670273
 
 
+### Police shove and arrest protesters at Port of Seattle | 2021-06-17
+
+On June 17th, protesters in solidarity with Palestine gathered near the entrance to the Port of Seattle SSA Terminal to protest the docking of an Israeli ship. Police pushed protesters from the entrance with bikes, brandishing pepper spray, and arrested 10 protesters.
+
+tags: arrest, bike, protester, push, shove, threaten
+
+id: wa-seattle-81
+
+geolocation: 47.571626, -122.3487898
+
+**Links**
+
+* https://www.instagram.com/p/CQPq9SOhd-2/
+* https://twitter.com/gravemorgan/status/1405725961669148672
+* https://www.kiro7.com/news/local/video-10-arrested-port-seattle-protest/ccf72e62-9f4a-4eb2-a8f0-498b44780174/
+* https://www.kiro7.com/news/local/10-arrested-port-seattle-protest/FINNQ74EDZHEPJWTVHAJ76N4CM/
+
+
 ## Vancouver
 
 ### Police arrest journalists | 2020-10-31
