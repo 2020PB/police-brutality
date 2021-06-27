@@ -7738,15 +7738,16 @@ geolocation: 45.4941202, -122.6719289
 
 * https://twitter.com/gravemorgan/status/1388795214375002114
 
+
 ### Police instigate altercation then mace protesters | 2021-06-25
 
 At a protest following the shooting death of a civilian, protesters gathered at Halladay and Grand. One protester can be seen arguing with an officer. The officer then grabs the protester, shoving them back. Other protesters attempt to help the first protester. Police then charge with mace.
 
-tags: protester, push, shove, pepper-spray, spray
+tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: or-portland-433
 
-geolocation: 45.5300619,-122.6607359
+geolocation: 45.5300619, -122.6607359
 
 **Links**
 
