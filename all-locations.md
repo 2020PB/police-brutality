@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-06-24T18:28:23.768334+00:00
+UPDATED AT: 2021-06-28T20:03:26.069507+00:00
 
 
 # Alabama
@@ -19094,6 +19094,22 @@ geolocation: 45.4941202, -122.6719289
 **Links**
 
 * https://twitter.com/gravemorgan/status/1388795214375002114
+
+
+### Police instigate altercation then mace protesters | 2021-06-25
+
+At a protest following the shooting death of a civilian, protesters gathered at Halladay and Grand. One protester can be seen arguing with an officer. The officer then grabs the protester, shoving them back. Other protesters attempt to help the first protester. Police then charge with mace.
+
+tags: less-lethal, pepper-spray, protester, push, shove, spray
+
+id: or-portland-433
+
+geolocation: 45.5300619, -122.6607359
+
+**Links**
+
+* https://twitter.com/gravemorgan/status/1408313568299130880
+* https://twitter.com/gravemorgan/status/1408300457668210693
 
 
 ## Salem
