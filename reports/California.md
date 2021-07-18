@@ -1394,11 +1394,11 @@ geolocation: 34.051824, -118.2461446
 
 At a counter-protest to a Proud Boys rally in Los Angeles at Coronado and Wilshire, a police officer shoots a protester standing on the sidewalk with a bean bag round. The apparent justification given for firing was the use of Silly String by counterprotesters.
 
-tags: protester, shoot, less-lethal, rubber-bullet, projectile
+tags: less-lethal, projectile, protester, rubber-bullet, shoot
 
 id: ca-losangeles-71
 
-geolocation: 34.0604942,-118.2825653
+geolocation: 34.0604942, -118.2825653
 
 **Links**
 
@@ -1413,11 +1413,11 @@ geolocation: 34.0604942,-118.2825653
 
 Police told counter-protesters at a Proud Boys Rally to get on the sidewalk and despite people following orders, police decided to beat people with batons. Among those hit with a baton was journalist Vishal P. Singh. In the second link Vishal gives his account of the events that transpired.
 
-tags: protester, journalist, strike, baton
+tags: baton, journalist, protester, strike
 
 id: ca-losangeles-72
 
-geolocation: 34.0604942,-118.2825653
+geolocation: 34.0604942, -118.2825653
 
 **Links**
 
