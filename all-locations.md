@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2021-06-28T20:03:26.069507+00:00
+UPDATED AT: 2021-07-20T16:34:33.496207+00:00
 
 
 # Alabama
@@ -1798,6 +1798,41 @@ geolocation: 34.051824, -118.2461446
 **Links**
 
 * https://twitter.com/VPS_Reports/status/1382573843869405188
+
+
+### Police shoot rubber bullet at protester | 2021-07-17
+
+At a counter-protest to a Proud Boys rally in Los Angeles at Coronado and Wilshire, a police officer shoots a protester standing on the sidewalk with a bean bag round. The apparent justification given for firing was the use of Silly String by counterprotesters.
+
+tags: less-lethal, projectile, protester, rubber-bullet, shoot
+
+id: ca-losangeles-71
+
+geolocation: 34.0604942, -118.2825653
+
+**Links**
+
+* https://twitter.com/joeyneverjoe/status/1416461219884457984
+* https://twitter.com/waterspider__/status/1416461162707755010
+* https://twitter.com/BGOnTheScene/status/1416510564025704448
+* https://twitter.com/abolitionandy/status/1416601314927149056
+* https://twitter.com/waterspider__/status/1416473053618266114
+
+
+### Police strike protesters and journalists with batons | 2021-07-17
+
+Police told counter-protesters at a Proud Boys Rally to get on the sidewalk and despite people following orders, police decided to beat people with batons. Among those hit with a baton was journalist Vishal P. Singh. In the second link Vishal gives his account of the events that transpired.
+
+tags: baton, journalist, protester, strike
+
+id: ca-losangeles-72
+
+geolocation: 34.0604942, -118.2825653
+
+**Links**
+
+* https://twitter.com/LCRWnews/status/1416462374865838080
+* https://twitter.com/waterspider__/status/1416469446063915008
 
 
 ## Norco
