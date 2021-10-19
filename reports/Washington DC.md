@@ -561,9 +561,7 @@ geolocation: 38.9002465, -77.0365341
 
 Police walk protesters down the street. One officer pepper sprays a protester. He stops walking as he tries to clear his eyes, and an officer shoves him. Another protester then yells at police; she is pepper sprayed as well.
 
-tags; protester, push, shove, pepper-spray, spray
-
-tags: 
+tags: protester, push, shove, pepper-spray, spray
 
 id: dc-dc-32
 
