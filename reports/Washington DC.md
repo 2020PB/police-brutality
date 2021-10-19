@@ -563,7 +563,7 @@ Police walk protesters down the street. One officer pepper sprays a protester. H
 
 tags; protester, push, shove, pepper-spray, spray
 
-tags: 
+tags:
 
 id: dc-dc-32
 
@@ -942,7 +942,7 @@ Shortly after, officers, believed to be Secret Service, began arresting protesto
 
 tags: lrad, protester, arrest
 
-id: dc-dc-51
+id: dc-dc-57
 
 geolocation: 38.8989445,-77.0364711
 
