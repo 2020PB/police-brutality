@@ -561,9 +561,7 @@ geolocation: 38.9002465, -77.0365341
 
 Police walk protesters down the street. One officer pepper sprays a protester. He stops walking as he tries to clear his eyes, and an officer shoves him. Another protester then yells at police; she is pepper sprayed as well.
 
-tags; protester, push, shove, pepper-spray, spray
-
-tags: 
+tags: less-lethal, pepper-spray, protester, push, shove, spray
 
 id: dc-dc-32
 
@@ -932,4 +930,22 @@ geolocation: 38.8998662, -77.0218744
 
 * https://twitter.com/wyattreed13/status/1383646455974428679
 * https://twitter.com/ChuckModi1/status/1383647378759032832
+
+
+### Police use LRAD against indigenous protesters, then make arrests | 2021-10-11
+
+At a protest by Indigenous people, Water Protectors and allies on the morning on Indigenous People's Day, U.S. Park police deployed an LRAD acoustic weapon against protesters peacefully gathered outside the White House.
+
+Shortly after, officers, believed to be Secret Service, began arresting protesters without clear justification.
+
+tags: arrest, less-lethal, lrad, protester
+
+id: dc-dc-57
+
+geolocation: 38.8989445, -77.0364711
+
+**Links**
+
+* https://twitter.com/IENearth/status/1447571600027566082
+* https://twitter.com/esilverman11/status/1447579885103419397
 
